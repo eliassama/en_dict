@@ -1,0 +1,176 @@
+{
+  "word": "shred",
+  "ipa": {
+    "us": "ʃred",
+    "uk": "ʃred"
+  },
+  "sentences": [
+    {
+      "en": "Cut the cabbage into fine long shreds.",
+      "cn": "把这棵卷心菜切成细长条。"
+    },
+    {
+      "en": "Don't you want me to have a shred of credibility in the briefing room?",
+      "cn": "难道你不想让我在简报室里有一点点可信度 吗 ?"
+    },
+    {
+      "en": "Finely shred the carrots, cabbage and cored apples.",
+      "cn": "将胡萝卜、卷心菜切成细丝并给苹果去核。"
+    },
+    {
+      "en": "He instructed staff to shred sensitive documents.",
+      "cn": "他吩咐员工将机密文件用碎纸机销毁。"
+    },
+    {
+      "en": "He made the accusations without a shred of evidence to back them up.",
+      "cn": "他提出的指控毫无证据."
+    },
+    {
+      "en": "He was left without a shred of self-esteem.",
+      "cn": "他的自尊荡然无存。"
+    },
+    {
+      "en": "Mice will shred things such as newspapers.",
+      "cn": "老鼠会扯碎报纸一类的东西."
+    },
+    {
+      "en": "See all that tells me there's still a shred of decency left inside you.",
+      "cn": "这一切告诉我,你还有一点良心."
+    },
+    {
+      "en": "Sort loose papers into piles: file, shred, and recycle.",
+      "cn": "将散页分类整理成堆: “文件” 、 “废物”以及“回收利用”."
+    },
+    {
+      "en": "The food processor can shred all kinds of vegetables.",
+      "cn": "这架食品加工机可将各种蔬菜切丝切条."
+    },
+    {
+      "en": "There is not a shred of evidence for his guilt.",
+      "cn": "毫无他犯罪的证据."
+    },
+    {
+      "en": "There is not a shred of truth in what he says.",
+      "cn": "他说的全是骗人的鬼话."
+    },
+    {
+      "en": "There isn't a shred of truth in that statement.",
+      "cn": "那种说法一点也不符合事实."
+    },
+    {
+      "en": "There was not a shred of truth in what he said.",
+      "cn": "他说的全是骗人话."
+    },
+    {
+      "en": "They reckoned he was a hatchet man, out to shred the workforce and crush the union.",
+      "cn": "他们估计他是上司派来的刽子手，专门对工人大开杀戒，大肆镇压工会。"
+    },
+    {
+      "en": "We had never seen one shred of evidence.",
+      "cn": "我们还看不到有丝毫迹象."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "shredder",
+          "tran_cn": " 碎纸机；撕碎者；切菜器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "crumb",
+            "fragment",
+            "particle",
+            "piece",
+            "scrap"
+          ],
+          "tran_cn": "碎片;微粒"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "atom",
+            "crumb",
+            "fragment",
+            "morsel",
+            "particle",
+            "piece",
+            "scrap",
+            "shave",
+            "snatch"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "rip up",
+            "tear to pieces"
+          ],
+          "tran_cn": "撕碎"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "tear to shreds",
+      "tran_cn": "◎撕碎，扯碎"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "碎片，破布，少量",
+      "tran_en": "a small thin piece that is torn or cut roughly from something"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "撕碎",
+      "tran_en": "to cut or tear something into small thin pieces"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 切碎， 撕碎",
+      "tran_en": "to cut or tear something into small thin pieces"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "撕碎，切碎，用撕毁机撕毁（文件）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "shreds"
+    ],
+    "third": [
+      "shreds"
+    ],
+    "past": [
+      "shredded"
+    ],
+    "done": [
+      "shredded"
+    ],
+    "ing": [
+      "shredding"
+    ]
+  }
+}

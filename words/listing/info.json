@@ -1,0 +1,188 @@
+{
+  "word": "listing",
+  "ipa": {
+    "us": "ˈlɪstɪŋ",
+    "uk": "ˈlɪstɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a comprehensive listing of all airlines",
+      "cn": "所有航线的综合目录"
+    },
+    {
+      "en": "A full listing of the companies will be published quarterly.",
+      "cn": "公司名录大全每季度出版一次。"
+    },
+    {
+      "en": "At present, domestic enterprises in Germany by high - level cross - market listing of 3.",
+      "cn": "目前国内企业在德交所高级市场上市的有3家."
+    },
+    {
+      "en": "Indeed, if many investors abjure the listing , those who hold their noses and take the plunge might make even more money.",
+      "cn": "当然, 如果许多投资人放弃购买该公司的股份, 那些铤而走险的人也许真的会赚更多的钱."
+    },
+    {
+      "en": "It has a map and listing of all the retailers on that floor.",
+      "cn": "图上有该层的地图和所有店铺的一览表."
+    },
+    {
+      "en": "Listing 4. Create a database range and an auto filter.",
+      "cn": "列表4. 创建数据库区域和自动筛选."
+    },
+    {
+      "en": "No accurate listing of those present could be obtained.",
+      "cn": "无法获悉出席人员的确切名单."
+    },
+    {
+      "en": "The following listing summarizes the more common retrieval programs.",
+      "cn": "下表概述了较常用的检索程序."
+    },
+    {
+      "en": "The listing would go ahead as scheduled on December 16.",
+      "cn": "会在十二月十六日如期上市."
+    },
+    {
+      "en": "The safest manner for listing names is in straight alphabetical order by surname.",
+      "cn": "列名单最妥贴的方式是直接按姓氏的字母顺序排列."
+    },
+    {
+      "en": "The SH index opens with a green listing today.",
+      "cn": "今天早盘上证指数以绿盘开出."
+    },
+    {
+      "en": "The ship was listing badly but still kept afloat.",
+      "cn": "船倾侧得很厉害,但却仍然漂浮不沉."
+    },
+    {
+      "en": "Then the sound of rumbling thunder reached the watchers on the shore, as cargo, ballast, ammunition and 400 people went sliding and crashing down to the port side of the steeply listing ship.",
+      "cn": "后来当船上的货物 、 压舱物 、 弹药以及400个人轰的一声滑到急剧倾斜的船体左舷一侧的时候, 岸上观看的人们听到了雷鸣般的轰隆声."
+    },
+    {
+      "en": "There will be more and more mainland firms listing in Hong Kong.",
+      "cn": "将会有越来越多的内地公司在香港上市."
+    },
+    {
+      "en": "This is the latest in the case of tobacco enterprises backdoor listing.",
+      "cn": "这是最近一起烟企借壳上市的案例."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "listed",
+          "tran_cn": " 列出的；表列的；已登录的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "list",
+          "tran_cn": " [计] 列表；清单；目录"
+        },
+        {
+          "word": "lister",
+          "tran_cn": " 制表人；双耕犁"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "listed",
+          "tran_cn": " 列出；登记（list的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "list",
+          "tran_cn": " 列于表上"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "list",
+          "tran_cn": " 列出；记入名单内"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "statement",
+            "bill"
+          ],
+          "tran_cn": "[计]列表，清单"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agenda",
+            "enumeration",
+            "memorial"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "tabbing"
+          ],
+          "tran_cn": "[计]列表（list的现在分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "directory listing",
+      "tran_cn": "[计]目录列表"
+    },
+    {
+      "phrase": "listing price",
+      "tran_cn": "牌价；上市价格"
+    },
+    {
+      "phrase": "secondary listing",
+      "tran_cn": "第二上市；次上市，次级上市"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "列表，名单，（刊印在报纸上的如电影、戏剧等，（名单中的）一个位置",
+      "tran_en": "an official or public list"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "列表(list的现在分词）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "listings"
+    ]
+  }
+}

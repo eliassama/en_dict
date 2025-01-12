@@ -1,0 +1,185 @@
+{
+  "word": "tomorrow",
+  "ipa": {
+    "us": "təˈmɒrəʊ",
+    "uk": "təˈmɑːroʊ"
+  },
+  "sentences": [
+    {
+      "en": "\"Is she supposed to work today?\" — \"Nope, tomorrow.\"",
+      "cn": "“今天她上班吗？”——“不，明天上。”"
+    },
+    {
+      "en": "British Airways is putting on an extra flight to London tomorrow.",
+      "cn": "英国航空公司明天将增加一班到伦敦的航班。"
+    },
+    {
+      "en": "Go to sleep. I've got a long day tomorrow.",
+      "cn": "睡觉吧。我明天还得忙呢。"
+    },
+    {
+      "en": "He is leaving tomorrow to play his first match.",
+      "cn": "他明天将出发去参加他的首场比赛。"
+    },
+    {
+      "en": "I ate as if there was no tomorrow.",
+      "cn": "我不顾后果地狂吃。"
+    },
+    {
+      "en": "I was going to give you a bell tomorrow.",
+      "cn": "我明天给你打电话。"
+    },
+    {
+      "en": "I will be discussing the situation with colleagues tomorrow.",
+      "cn": "明天我会和同事们讨论一下情况。"
+    },
+    {
+      "en": "I'd like to check him out of here the day after tomorrow.",
+      "cn": "我想后天帮他办理手续，结账离开这里。"
+    },
+    {
+      "en": "I'll ring the hotel. I'll tell them we'll check in tomorrow.",
+      "cn": "我来给旅馆打电话，通知他们我们明天入住。"
+    },
+    {
+      "en": "I’ll see you at tomorrow’s meeting.",
+      "cn": "明天会上见。"
+    },
+    {
+      "en": "Meet me down at the beach tomorrow, at 6am sharp.",
+      "cn": "明天早上6点整在海滩上跟我见面。"
+    },
+    {
+      "en": "Our class is going to London tomorrow.",
+      "cn": "我们班明天要去伦敦。"
+    },
+    {
+      "en": "She says the kid's been squirrelling money away like there's no tomorrow.",
+      "cn": "她说这孩子一直在拼命存钱。"
+    },
+    {
+      "en": "The players are in defiant mood as they prepare for tomorrow'sgame.",
+      "cn": "球员在备战明天的比赛时带着蔑视对手的情绪。"
+    },
+    {
+      "en": "The Turkish situation makes the lead in tomorrow's Guardian.",
+      "cn": "土耳其局势将成为明天《卫报》的头条。"
+    },
+    {
+      "en": "Tomorrow he would tell his pilot to get the aircraft ready.",
+      "cn": "明天他会告诉他的飞行员准备好飞机。"
+    },
+    {
+      "en": "Tomorrow without fail he would be at the old riverside warehouse.",
+      "cn": "明天他一定会在河边的旧仓库里。"
+    },
+    {
+      "en": "Well, we shall look forward to seeing him tomorrow.",
+      "cn": "嗯，我们期待着明天与他会面。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tomorrower",
+          "tran_cn": " 做事拖拉的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "future",
+            "demain"
+          ],
+          "tran_cn": "明天；未来"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "future"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "as if there was (或 as though there were) no tomorrow",
+      "tran_cn": "不顾后果地"
+    },
+    {
+      "phrase": "day after tomorrow",
+      "tran_cn": "n. 后天"
+    },
+    {
+      "phrase": "see you tomorrow",
+      "tran_cn": "明天见"
+    },
+    {
+      "phrase": "tomorrow afternoon",
+      "tran_cn": "明天下午"
+    },
+    {
+      "phrase": "tomorrow evening",
+      "tran_cn": "明天晚上"
+    },
+    {
+      "phrase": "tomorrow is another day",
+      "tran_cn": "明天又是新的开始（不愉快经历之后所说的乐观话）"
+    },
+    {
+      "phrase": "tomorrow morning",
+      "tran_cn": "明天早上"
+    },
+    {
+      "phrase": "tomorrow morning (或 afternoon 等)",
+      "tran_cn": "明天早晨（或下午等）"
+    },
+    {
+      "phrase": "tomorrow never comes",
+      "tran_cn": "切莫依赖明天"
+    },
+    {
+      "phrase": "tomorrow night",
+      "tran_cn": "明天晚上"
+    },
+    {
+      "phrase": "tomorrow week",
+      "tran_cn": "(英)从明天算起的一星期以后"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "在明天，在明日",
+      "tran_en": "on or during the day after today"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "明天，最近，不远的将来",
+      "tran_en": "the day after today"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "明天",
+      "tran_en": "on or during the day after today"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tomorrows"
+    ]
+  }
+}

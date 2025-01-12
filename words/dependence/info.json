@@ -1,0 +1,233 @@
+{
+  "word": "dependence",
+  "ipa": {
+    "us": "dɪˈpendəns",
+    "uk": "dɪˈpendəns"
+  },
+  "sentences": [
+    {
+      "en": "...the city's traditional dependence on tourism.",
+      "cn": "…这个城市对旅游业的传统依赖。"
+    },
+    {
+      "en": "Do you look forward to old age, or do you dread frailty, loss of memory and dependence on others?",
+      "cn": "你是期望变老，还是害怕自己年迈体衰、记忆减退，而且还要依赖他人？"
+    },
+    {
+      "en": "Doctors keep trying to break her dependence of the drug.",
+      "cn": "医生们尽力使她戒除毒瘾."
+    },
+    {
+      "en": "French doctors tend to regard drug dependence as a form of deep-rooted psychological disorder.",
+      "cn": "法国医生倾向于把毒瘾看作是一种根深蒂固的心理障碍。"
+    },
+    {
+      "en": "He lived in a state of dependence on his friend's help.",
+      "cn": "他依靠朋友的帮助而生活."
+    },
+    {
+      "en": "He was freed from financial dependence on his parents.",
+      "cn": "他在经济上摆脱了对父母的依赖."
+    },
+    {
+      "en": "his dependence on his parents",
+      "cn": "他对父母的依赖"
+    },
+    {
+      "en": "Many sufferers have been reclaimed from a dependence on alcohol.",
+      "cn": "许多嗜酒成癖的受害者已经被挽救过来."
+    },
+    {
+      "en": "Marianne's eagerness to be gone declared her dependence on finding him there.",
+      "cn": "玛丽安渴望要去,说明她有把握能在那儿找到他."
+    },
+    {
+      "en": "Melanie turned childlike eyes of gratitude and dependence upon him.",
+      "cn": "\"媚兰那双天真的眼睛又感激又信赖地看着他."
+    },
+    {
+      "en": "Nutrition that involves dependence upon performed organic molecules is called heterotrophic nutrition.",
+      "cn": "这种依靠现成有机分子的营养称为异养营养."
+    },
+    {
+      "en": "Repeatedly using alkohol, or certain other drugs, produces physical dependence.",
+      "cn": "不断地饮酒或某种别的麻醉剂, 会使身体对其产生依赖性."
+    },
+    {
+      "en": "The interval OC is known as the domain of dependence.",
+      "cn": "区间OC叫做相关域."
+    },
+    {
+      "en": "The president called foreign aid a handout that fosters dependence on wealthy nations.",
+      "cn": "总统认为外援是不劳而获之财，会助长本国对富国的依赖性。"
+    },
+    {
+      "en": "We cannot forget our dependence on our fellow men.",
+      "cn": "我们不能忘记我们对其他的人的依赖."
+    },
+    {
+      "en": "We shall take a closer look at the concept of functional dependence.",
+      "cn": "我们将周密地考虑一下函数相关的概念."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dependable",
+          "tran_cn": " 可靠的，可信赖的；可信任的"
+        },
+        {
+          "word": "dependent",
+          "tran_cn": " 依靠的；从属的；取决于…的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "dependably",
+          "tran_cn": " 值得信任地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dependability",
+          "tran_cn": " 可靠性；可信任"
+        },
+        {
+          "word": "dependance",
+          "tran_cn": " 依赖性（等于dependence）"
+        },
+        {
+          "word": "dependency",
+          "tran_cn": " 属国；从属；从属物"
+        },
+        {
+          "word": "dependent",
+          "tran_cn": " 依赖他人者；受赡养者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "depend",
+          "tran_cn": " 依赖，依靠；取决于；相信，信赖"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "servitude",
+            "subjection",
+            "subjugation",
+            "submission",
+            "subordination",
+            "vassalage",
+            "yoke"
+          ],
+          "tran_cn": "从属,隶属"
+        },
+        {
+          "words": [
+            "anchor",
+            "buttress",
+            "crutch",
+            "mainstay",
+            "pillar",
+            "prop",
+            "shore",
+            "staff",
+            "stay",
+            "support",
+            "truss"
+          ],
+          "tran_cn": "依赖,支撑"
+        },
+        {
+          "words": [
+            "belief",
+            "confidence",
+            "expectation",
+            "faith",
+            "hope",
+            "reliance",
+            "stock",
+            "trust"
+          ],
+          "tran_cn": "信任"
+        },
+        {
+          "words": [
+            "attachment",
+            "bearing",
+            "connection",
+            "contingency",
+            "interconnection",
+            "interdependence",
+            "reference",
+            "relationship",
+            "relevancy"
+          ],
+          "tran_cn": "相关,相依"
+        },
+        {
+          "words": [
+            "addiction",
+            "dependency",
+            "helplessness",
+            "vulnerability",
+            "weakness"
+          ],
+          "tran_cn": "软弱无助"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dependence on",
+      "tran_cn": "依赖；依靠；信赖"
+    },
+    {
+      "phrase": "dependence relationship",
+      "tran_cn": "依存关系"
+    },
+    {
+      "phrase": "field dependence",
+      "tran_cn": "场依赖性"
+    },
+    {
+      "phrase": "in dependence on",
+      "tran_cn": "依靠；依赖"
+    },
+    {
+      "phrase": "linear dependence",
+      "tran_cn": "线性相关；线性关系"
+    },
+    {
+      "phrase": "time dependence",
+      "tran_cn": "时间相依；时间依赖性"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "依靠，依赖(酒精或药物)，依存(关系)",
+      "tran_en": "when you depend on the help and support of someone or something else in order to exist or be successful"
+    }
+  ],
+  "exchange": {}
+}

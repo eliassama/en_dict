@@ -1,0 +1,132 @@
+{
+  "word": "semantics",
+  "ipa": {
+    "us": "sɪˈmæntɪks",
+    "uk": "sɪˈmæntɪks"
+  },
+  "sentences": [
+    {
+      "en": "A component prototype modeling method based on semantics was suggested.",
+      "cn": "提出了一种基于语义的组件化样机建模方法."
+    },
+    {
+      "en": "C ++ has been a copy - semantics language since its inception.",
+      "cn": "自C++诞生以来,它一直是拷贝语义的语言."
+    },
+    {
+      "en": "Collocation is an important part of the study of semantics.",
+      "cn": "搭配是语义研究中一项不可缺少的内容."
+    },
+    {
+      "en": "Complicating the discussion of this phenomenon are the semantics inoled.",
+      "cn": "对该现象的讨论涉及到语义学上的问题."
+    },
+    {
+      "en": "Describe the purpose and semantics of the deployment descriptor.",
+      "cn": "描述部署描述符的用途和语义."
+    },
+    {
+      "en": "General, Sheng contribution to the study of semantics and inadequate.",
+      "cn": "总论, 黄生语义学研究的贡献和不足."
+    },
+    {
+      "en": "My ideas on semantics needed more careful exploration.",
+      "cn": "我关于语义学的一些想法需要更仔细的研究."
+    },
+    {
+      "en": "Semantics can be simply defined as the study of meaning in language.",
+      "cn": "语义学可定义为对语言意义的研究."
+    },
+    {
+      "en": "Semantics is a subject studying the meaning of language.",
+      "cn": "语义学是研究语言意义的一门学科."
+    },
+    {
+      "en": "Semantics: examines how meaning is encoded in a language.",
+      "cn": "语义学: 考察的是意义如何在语言中编码."
+    },
+    {
+      "en": "Semasiology is a variant name for semantics.",
+      "cn": "Semasiology是 Semantics的异名."
+    },
+    {
+      "en": "The two systems are both sound and complete in this semantics.",
+      "cn": "这两个系统相对于这种语义学有可靠性和完全性."
+    },
+    {
+      "en": "There are two aspects to any language - syntax and semantics.",
+      "cn": "语言有两个共通点:语法和语义."
+    },
+    {
+      "en": "These relationships impose some semantics on the system that further assist in validating or understanding the system.",
+      "cn": "这些关系利用系统上的一些语义可以进一步帮助确认或者理解这个系统。"
+    },
+    {
+      "en": "They communicate as required to get the job done, encapsulating what to do, how to do it, and when to do it on their own schedule, and with clear \"run to completion\" semantics.",
+      "cn": "它们根据需要进行通信以完成工作，按自己的计划封装了要做什么、如何做以及何时做，并带有清楚的“从运行到完成的工作方式”语义。"
+    },
+    {
+      "en": "This method reflects abundant semantics of source codes and has better expansibility.",
+      "cn": "该方法体现了源程序丰富的语义,具有较好的可扩展性."
+    },
+    {
+      "en": "XSL Formatting Objects is an XML vocabulary for specifying formatting semantics.",
+      "cn": "XSL格式化对象是用于指定格式化语义的XML词汇."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "semantic",
+          "tran_cn": " 语义的；语义学的（等于semantical）"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "semantically",
+          "tran_cn": " 语义地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "semanticist",
+          "tran_cn": " 语义学者；精通语意学的人"
+        },
+        {
+          "word": "semasiology",
+          "tran_cn": " 语义学；符号学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "onomasiology"
+          ],
+          "tran_cn": "[语][计]语义学；语义论"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "语义学，词义学",
+      "tran_en": "the study of the meaning of words and phrases"
+    }
+  ],
+  "exchange": {}
+}

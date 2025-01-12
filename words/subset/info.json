@@ -1,0 +1,106 @@
+{
+  "word": "subset",
+  "ipa": {
+    "us": "ˈsʌbset",
+    "uk": "ˈsʌbˌsɛt"
+  },
+  "sentences": [
+    {
+      "en": "...subsets of the population such as men, women, ethnic groups, etc.",
+      "cn": "...人口子集包括男人、女人、不同民族等。"
+    },
+    {
+      "en": "A cut of a tree is a subset of its nodes with the following two properties.",
+      "cn": "一颗树的切割是此树具有以下两个性质的节点子集."
+    },
+    {
+      "en": "A subset of contributors have made their contributions available as public domain.",
+      "cn": "阿贡献者子集已使他们的贡献为可用的公共领域."
+    },
+    {
+      "en": "A subset of possible encodings are presented in the Encoding submenu.",
+      "cn": "出现在编码菜单中的可选编码子集."
+    },
+    {
+      "en": "A subset S of a ring A is a subring of A.",
+      "cn": "环A的子集S叫作A的子环."
+    },
+    {
+      "en": "And we're a subset of fields.",
+      "cn": "是他们领域中的子集."
+    },
+    {
+      "en": "Argument: So Love is a subset of the set of Like?",
+      "cn": "辩君: 所以你认为爱是喜欢的子集?"
+    },
+    {
+      "en": "Autoimmune urticaria is a special subset of chronic idiopathic urticaria ( CIU ).",
+      "cn": "自身免疫性荨麻疹是慢性特 发性 荨麻疹的特殊类型."
+    },
+    {
+      "en": "In a subset of patients, this results in amiodarone - induced hypothyroidism or thyrotoxicosis.",
+      "cn": "在一些病人中, 此药可引起胺碘酮诱发的甲状腺功能减退或甲状腺毒症."
+    },
+    {
+      "en": "In multiple subset analyses, the two classes of medication were comparable.",
+      "cn": "经过多种分类的分析, 这两种药物疗效是相近的."
+    },
+    {
+      "en": "It can backup any subset of files and directories.",
+      "cn": "它可以备份所有的子文件和目录."
+    },
+    {
+      "en": "The cut - off bits mask should be subset of the info bit mask.",
+      "cn": "截止位掩码应是信息位掩码的子集."
+    },
+    {
+      "en": "The null set is any set subset.",
+      "cn": "空集是指不含任何元素的集合,空集是任何集合的子集."
+    },
+    {
+      "en": "The null subset corresponds to the term 1.",
+      "cn": "空集则对应于常数项1."
+    },
+    {
+      "en": "The printed documentation is a subset of what is available online.",
+      "cn": "印刷文档是可用的在线文献的子集."
+    },
+    {
+      "en": "This would enable the production of subset catalogues by subject.",
+      "cn": "这将使按主题编制子集合目录成为可能."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sub-class",
+            "small group"
+          ],
+          "tran_cn": "[数]子集；子设备；小团体"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data subset",
+      "tran_cn": "资料子集，数据子集"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "子集",
+      "tran_en": "a group of people or things that is part of a larger group of people or things"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "subsets"
+    ]
+  }
+}

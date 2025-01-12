@@ -1,0 +1,57 @@
+{
+  "word": "impuissance",
+  "ipa": {
+    "us": "ɪm'pju:ɪsns",
+    "uk": "ɪmˈpjuɪsəns, ɪmˈpwɪsəns"
+  },
+  "sentences": [
+    {
+      "en": "She felt impuissance in the legs.",
+      "cn": "她感到双腿无力。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "impuissant",
+          "tran_cn": " 无力的；无能的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "disability",
+            "asthenia"
+          ],
+          "tran_cn": "无力；无能；虚弱"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "weakness"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "无力，无能"
+    }
+  ],
+  "exchange": {}
+}

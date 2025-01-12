@@ -1,0 +1,66 @@
+{
+  "word": "salacious",
+  "ipa": {
+    "us": "səˈleɪʃəs",
+    "uk": "səˈleʃəs"
+  },
+  "sentences": [
+    {
+      "en": "the media’s love of salacious gossip",
+      "cn": "媒体对传播桃色八卦的热衷"
+    },
+    {
+      "en": "The newspapers once again filled their columns with salacious details.",
+      "cn": "赤裸裸的猥亵细节再度充斥了报纸的版面。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "salacity",
+          "tran_cn": " 猥亵，好色"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "salt",
+            "lascivious"
+          ],
+          "tran_cn": "好色的；猥亵的；淫荡的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "erotic"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "色情的，淫荡的，猥，猥亵，淫秽",
+      "tran_en": "showing too much interest in sex"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "salaciousness"
+    ]
+  }
+}

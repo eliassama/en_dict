@@ -1,0 +1,105 @@
+{
+  "word": "extrapolate",
+  "ipa": {
+    "us": "ɪkˈstræpəleɪt",
+    "uk": "ɪkˈstræpəˌlet"
+  },
+  "sentences": [
+    {
+      "en": "Extrapolating from his latest findings, he reckons about 80% of these deaths might be attributed to smoking.",
+      "cn": "从他最近的发现推断，他估计大约80%的这类死亡可能归因于吸烟。"
+    },
+    {
+      "en": "It's Model Biological Systems 101 : study an animal that's easy to study, and then extrapolate.",
+      "cn": "这就像生物系统模型 101: 先研究一种容易研究的动物, 然后再以此作出推断."
+    },
+    {
+      "en": "One can extrapolate the size of the building from the measurements of an average room.",
+      "cn": "从一间屋子的量度可以推断出整座建筑物的大小."
+    },
+    {
+      "en": "There's more work to do and much to extrapolate.",
+      "cn": "有更多外推的工作要做的和."
+    },
+    {
+      "en": "They extrapolate from the electronic image its evanescence itsits virtual, metamorphic and above its neurotic nature.",
+      "cn": "他们在作品中抓住了电子图像消亡、变化、虚拟 、 变形和最多的神经机能的本质."
+    },
+    {
+      "en": "They extrapolate that to say I'm choosing to kill people. It's not like that.",
+      "cn": "他们说我是自己选择终结别人的生命, 不是这样的."
+    },
+    {
+      "en": "You can extrapolate these findings to any tumors in the body.",
+      "cn": "你能够将这些发现推定到身体上的任何一种肿瘤上."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "extrapolated",
+          "tran_cn": " 推测的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "extrapolation",
+          "tran_cn": " [数] 外推法；推断"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "extrapolated",
+          "tran_cn": " 推测（extrapolate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "understand",
+            "conclude"
+          ],
+          "tran_cn": "[数]外推；推断"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（由已知资料对未知事实或价值）推算，推断",
+      "tran_en": "to use facts about the present or about one thing or group to make a guess about the future or about other things or groups"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "extrapolates"
+    ],
+    "past": [
+      "extrapolated"
+    ],
+    "done": [
+      "extrapolated"
+    ],
+    "ing": [
+      "extrapolating"
+    ],
+    "noun": [
+      "extrapolation"
+    ]
+  }
+}

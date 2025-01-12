@@ -1,0 +1,234 @@
+{
+  "word": "shortage",
+  "ipa": {
+    "us": "ˈʃɔːtɪdʒ",
+    "uk": "ˈʃɔːrtɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "A shortage of building land will push property values up.",
+      "cn": "建筑用地缺乏将造成房地产价格逐渐上升."
+    },
+    {
+      "en": "a shortage of munitions",
+      "cn": "军需品缺乏"
+    },
+    {
+      "en": "Any shortage could push up grain prices.",
+      "cn": "任何一种短缺都会抬高粮食价格。"
+    },
+    {
+      "en": "Manufacturing industry was worst affected by the fuel shortage.",
+      "cn": "燃料短缺制造业最受到影响."
+    },
+    {
+      "en": "Patients were dying because of an acute shortage of nurses.",
+      "cn": "因为护理人员严重不足，患者生命垂危。"
+    },
+    {
+      "en": "Shortage of funds is still very much a live issue.",
+      "cn": "资金短缺仍然是当前的重大问题."
+    },
+    {
+      "en": "The city is suffering a desperate shortage of water.",
+      "cn": "这个城市严重缺水."
+    },
+    {
+      "en": "The heart of the problem is a shortage of funds.",
+      "cn": "问题的关键是缺乏经费."
+    },
+    {
+      "en": "the perennial problem of water shortage",
+      "cn": "缺水这个老问题"
+    },
+    {
+      "en": "The problem is accentuated by a shortage of water and electricity.",
+      "cn": "缺乏水电使问题愈加严重."
+    },
+    {
+      "en": "The shortage of bread will probably drive prices up.",
+      "cn": "面包短缺很有可能迫使价格上涨."
+    },
+    {
+      "en": "There is a shortage of council housing.",
+      "cn": "廉租公房房源不足。"
+    },
+    {
+      "en": "There is a shortage of principal.",
+      "cn": "资金有些短缺."
+    },
+    {
+      "en": "There is an acute shortage of water.",
+      "cn": "水严重短缺。"
+    },
+    {
+      "en": "There is no heating available due to fuel shortages.",
+      "cn": "因为燃料短缺，所以没有供暖。"
+    },
+    {
+      "en": "There is no shortage of funds.",
+      "cn": "不缺资金。"
+    },
+    {
+      "en": "Wartime austerities included food rationing and shortage of fuel.",
+      "cn": "战时的艰苦包括食物配给和燃料短缺."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "short",
+          "tran_cn": " 短的；不足的；急速的；唐突的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "short",
+          "tran_cn": " 不足；突然；唐突地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "short",
+          "tran_cn": " 短；缺乏；短路；短裤"
+        },
+        {
+          "word": "shortness",
+          "tran_cn": " 不足；简略"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "shorten",
+          "tran_cn": " 缩短；变短"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "shorten",
+          "tran_cn": " 缩短；减少；变短"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "absence",
+            "deficiency",
+            "deficit",
+            "lack",
+            "need",
+            "want"
+          ],
+          "tran_cn": "缺乏"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "absence",
+            "contraction",
+            "dearth",
+            "deficiency",
+            "deficit",
+            "drought",
+            "famine",
+            "lack",
+            "need",
+            "poverty",
+            "scarcity",
+            "want"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "food shortage",
+      "tran_cn": "粮食短缺"
+    },
+    {
+      "phrase": "fund shortage",
+      "tran_cn": "资金不足， 资金短缺"
+    },
+    {
+      "phrase": "housing shortage",
+      "tran_cn": "房荒；住房紧张；住宅不足"
+    },
+    {
+      "phrase": "labor shortage",
+      "tran_cn": "劳力短缺，劳动力短缺"
+    },
+    {
+      "phrase": "manpower shortage",
+      "tran_cn": "劳动力短缺"
+    },
+    {
+      "phrase": "material shortage",
+      "tran_cn": "材料紧缺"
+    },
+    {
+      "phrase": "power shortage",
+      "tran_cn": "电力短缺"
+    },
+    {
+      "phrase": "shortage of",
+      "tran_cn": "缺少……"
+    },
+    {
+      "phrase": "shortage of capital",
+      "tran_cn": "资金短缺"
+    },
+    {
+      "phrase": "shortage of fresh water",
+      "tran_cn": "淡水短缺；淡水资源短缺"
+    },
+    {
+      "phrase": "shortage of manpower",
+      "tran_cn": "劳动力短缺；缺乏劳力"
+    },
+    {
+      "phrase": "shortage of water resources",
+      "tran_cn": "水资源短缺"
+    },
+    {
+      "phrase": "water shortage",
+      "tran_cn": "缺水；水量不足；枯水"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "不足，缺少，短缺",
+      "tran_en": "a situation in which there is not enough of something that people need"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "shortages"
+    ]
+  }
+}

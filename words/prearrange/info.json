@@ -1,0 +1,85 @@
+{
+  "word": "prearrange",
+  "ipa": {
+    "us": "ˌpri:ə'reɪndʒ",
+    "uk": "ˌpriəˈrendʒ"
+  },
+  "sentences": [
+    {
+      "en": "When you prearrange your funeral, you can pick your own flowers and music.",
+      "cn": "如果预先准备自己的葬礼，就能选择自己喜欢的鲜花和音乐。"
+    },
+    {
+      "en": "You can prearrange appointments, possibly.",
+      "cn": "也许你们可以事先安排下跟他们见见面."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prearranged",
+          "tran_cn": " 预定的，预先安排的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "prearrangement",
+          "tran_cn": " 预定；预先安排"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "prearranged",
+          "tran_cn": " 预定（prearrange的过去分词）；预先安排"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "preconcert"
+          ],
+          "tran_cn": "预先安排"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预先安排",
+      "tran_en": "If you prearrange something, you plan or arrange it before the time when it actually happens"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "预先安排，预先商定"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "prearranges"
+    ],
+    "past": [
+      "prearranged"
+    ],
+    "done": [
+      "prearranged"
+    ],
+    "ing": [
+      "prearranging"
+    ]
+  }
+}

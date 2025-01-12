@@ -1,0 +1,183 @@
+{
+  "word": "incidence",
+  "ipa": {
+    "us": "ˈɪnsɪdəns",
+    "uk": "ˈɪnsɪdəns"
+  },
+  "sentences": [
+    {
+      "en": "an area with a high incidence of crime",
+      "cn": "犯罪率高的地区"
+    },
+    {
+      "en": "Commonly a sporadic disease, actinobacillocis occasionally occurs in high incidence.",
+      "cn": "该病通常是一种散发性疾病, 但偶尔也有高的发病率."
+    },
+    {
+      "en": "His estimate of half a million HIV positive cases was based on an extrapolation of the known incidence of the virus.",
+      "cn": "他估计有50万个HIV阳性病例，这是根据已知的病毒感染率作出的推论。"
+    },
+    {
+      "en": "Hypertension has been reported with widely varying incidence in embryonal nephroma.",
+      "cn": "据报导,高血压伴有胚胎性肾瘤的发病率变动极大."
+    },
+    {
+      "en": "It was noted that within a year the incidence of illness had increased quite significantly.",
+      "cn": "据观察一年之内发病率显著上升。"
+    },
+    {
+      "en": "Naturally, the expression for oblique incidence is more complicated.",
+      "cn": "倾斜入射的公式当然要更复杂些."
+    },
+    {
+      "en": "Orchards should not be established in areas with high rust - incidence.",
+      "cn": "果园不应设立在锈病率发生高的地区."
+    },
+    {
+      "en": "the angle of incidence",
+      "cn": "入射角"
+    },
+    {
+      "en": "The angle of incidence equals the angle of reflection.",
+      "cn": "入射角等于反射角."
+    },
+    {
+      "en": "The change in smoking is paralleled by a change in the incidence of lung cancer.",
+      "cn": "吸烟情况的变化与肺癌发病率的变化如影随形。"
+    },
+    {
+      "en": "The incidence of breast cancer increases with age.",
+      "cn": "乳腺癌的发病率随着年龄的增长而上升。"
+    },
+    {
+      "en": "The incidence of various contagious diseases has markedly dropped.",
+      "cn": "各种传染病的发病率大幅度下降."
+    },
+    {
+      "en": "The report analyses the incidence of cancer among people aged 0 - 24.",
+      "cn": "这份报告分析了从0 岁 到24岁的人的癌症发病率."
+    },
+    {
+      "en": "There the incidence of the cancer of the esophagus was suspected to be pretty high.",
+      "cn": "估计那里的食道癌发病率相当高。"
+    },
+    {
+      "en": "There the incidence of the cancer of the oesophagus was suspected to be pretty high.",
+      "cn": "估计那里的食道癌发病率相当高."
+    },
+    {
+      "en": "There's still a high incidence of malaria in the area.",
+      "cn": "这一地区疟疾的患病率仍然很高."
+    },
+    {
+      "en": "This area has a high incidence of crime, disease, unemployment, etc.",
+      "cn": "这个地区的犯罪率 、 发病率 、 失业率等很高."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "incident",
+          "tran_cn": " [光] 入射的；附带的；易发生的，伴随而来的"
+        },
+        {
+          "word": "incidental",
+          "tran_cn": " 附带的；偶然的；容易发生的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "incident",
+          "tran_cn": " 事件，事变；插曲"
+        },
+        {
+          "word": "incidental",
+          "tran_cn": " 附带事件；偶然事件；杂项"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "infection",
+            "impression",
+            "effect",
+            "influence",
+            "affection"
+          ],
+          "tran_cn": "发生率；影响；[光]入射；影响范围"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "occurrence"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "angle of incidence",
+      "tran_cn": "[计]入射角"
+    },
+    {
+      "phrase": "glancing incidence",
+      "tran_cn": "掠入射；切线入射"
+    },
+    {
+      "phrase": "grazing incidence",
+      "tran_cn": "掠入射；切线入射；临界入射"
+    },
+    {
+      "phrase": "incidence angle",
+      "tran_cn": "入射角，迎角；安装角"
+    },
+    {
+      "phrase": "incidence matrix",
+      "tran_cn": "关联矩阵"
+    },
+    {
+      "phrase": "incidence of a disease",
+      "tran_cn": "发病率"
+    },
+    {
+      "phrase": "incidence rate",
+      "tran_cn": "发生率，发病率"
+    },
+    {
+      "phrase": "normal incidence",
+      "tran_cn": "正入射；垂直入射；法线入射"
+    },
+    {
+      "phrase": "oblique incidence",
+      "tran_cn": "倾斜入射"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "发生率，影响范围，[数]关联，接合，[物]入射，入射角",
+      "tran_en": "the number of times something happens, especially crime, disease etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "incidences"
+    ]
+  }
+}

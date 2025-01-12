@@ -1,0 +1,65 @@
+{
+  "word": "runic",
+  "ipa": {
+    "us": "ˈru:nik",
+    "uk": "ˈrunɪk"
+  },
+  "sentences": [
+    {
+      "en": "Butchery: Will now always grant 20 runic power, regardless of the creature type killed.",
+      "cn": "杀戮: 总是给予20点符文能量, 不管杀死的是什么生物类型."
+    },
+    {
+      "en": "Cost increased to 60 runic power, up from 50.",
+      "cn": "(原为每5点符文能量1秒)."
+    },
+    {
+      "en": "Frost Strike ( Tier 9 ) now costs 40 runic power, down from 50.",
+      "cn": "冰霜打击 ( 第9层 ) 技能消耗从50点符文能量减少到40点."
+    },
+    {
+      "en": "Glyph of Icebound Fortitude - Your Icebound Fortitude costs no runic power.",
+      "cn": "冰封之韧(IceboundFortitude)不再消耗符文能量."
+    },
+    {
+      "en": "Glyph of Icy Touch - Your Icy Touch does 10 % less damage but generate 10 additional runic power.",
+      "cn": "冰触(IcyTouch)伤害降低10%,但是会额外获得10符文能量."
+    },
+    {
+      "en": "Glyph of Icy Touch - Your Icy Touch does 10 % less damage but generates 10 additional runic power.",
+      "cn": "冰霜触摸铭文 - 你的冰霜触摸伤害减少10%,但是增加10点符文能量获取."
+    },
+    {
+      "en": "Golden Spellthread and Runic Spellthread have been slightly improved.",
+      "cn": "黄金魔法线和符文魔法线被略微加强了."
+    },
+    {
+      "en": "The meaning of some runic forms is not always well understood today.",
+      "cn": "有些北欧古代文字形式的意义在今天并非都能理解清楚。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rune",
+          "tran_cn": " 诗歌；古代北欧文字；神秘的记号"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "古代北欧文字的"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "rune"
+    ]
+  }
+}

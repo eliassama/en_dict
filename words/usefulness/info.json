@@ -1,0 +1,214 @@
+{
+  "word": "usefulness",
+  "ipa": {
+    "us": "ˈju:sfəlnəs",
+    "uk": "ˈjusfəlnɪs"
+  },
+  "sentences": [
+    {
+      "en": "As a commuter service, the ferry has outlived its usefulness(= is no longer useful ).",
+      "cn": "作为一种通勤服务，渡船已经没有用武之地了。"
+    },
+    {
+      "en": "Badly written questions limit the usefulness of questionnaires.",
+      "cn": "问题设计得不好,调查问卷的用途就会打折扣."
+    },
+    {
+      "en": "He has outlived his usefulness.",
+      "cn": "他已老而无用了."
+    },
+    {
+      "en": "His interest lay in the usefulness of his work, rather than in any personal credit.",
+      "cn": "他的兴趣在于所从事的工作是有用的，而不在于什么个人荣誉。"
+    },
+    {
+      "en": "I was persuaded of the usefulness of his new device.",
+      "cn": "我相信了他的新装置的实用性."
+    },
+    {
+      "en": "In fact, men are outliving their usefulness.",
+      "cn": "事实上, 人已经过时了,无用了."
+    },
+    {
+      "en": "In terms of practical rock slope engineering, these methods have limited usefulness.",
+      "cn": "对于实际岩石边坡工程来说, 这些方法的实用性很有限."
+    },
+    {
+      "en": "It is of the greatest usefulness.",
+      "cn": "它是极有用的."
+    },
+    {
+      "en": "Man early learned the usefulness of weapons.",
+      "cn": "人类很早以前就知道了武器的用处."
+    },
+    {
+      "en": "The advisory group has outlived its usefulness.",
+      "cn": "顾问组已失去了它的作用."
+    },
+    {
+      "en": "The attitude of the parents toward the usefulness of what is learned must colour the way children approach school.",
+      "cn": "父母对学知识是否有用的态度必定会影响孩子对待学业的态度。"
+    },
+    {
+      "en": "The index adds appreciably to the usefulness of the book.",
+      "cn": "索引明显地增加了这本书的实用价值."
+    },
+    {
+      "en": "The theory is of limited usefulness.",
+      "cn": "这个理论用途有限."
+    },
+    {
+      "en": "There are doubts about the usefulness of these tests.",
+      "cn": "这些试验是否有用，人们有所保留。"
+    },
+    {
+      "en": "There is usefulness to the parachute.",
+      "cn": "降落伞是有用的."
+    },
+    {
+      "en": "Usefulness includes the fact the negatives have been calibrated.",
+      "cn": "所谓有用,是指在底片上要有标度."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "usable",
+          "tran_cn": " 可用的；合用的（等于useable）"
+        },
+        {
+          "word": "useable",
+          "tran_cn": " 可用的；便于使用的（等于usable）"
+        },
+        {
+          "word": "used",
+          "tran_cn": " 习惯的；二手的，使用过的"
+        },
+        {
+          "word": "useful",
+          "tran_cn": " 有用的，有益的；有帮助的"
+        },
+        {
+          "word": "useless",
+          "tran_cn": " 无用的；无效的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "usefully",
+          "tran_cn": " 有效地，有用地"
+        },
+        {
+          "word": "uselessly",
+          "tran_cn": " 无用地；无益地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "usability",
+          "tran_cn": " 合用，可用；可用性"
+        },
+        {
+          "word": "usableness",
+          "tran_cn": " 可用；使用方便"
+        },
+        {
+          "word": "usage",
+          "tran_cn": " 使用；用法；惯例"
+        },
+        {
+          "word": "use",
+          "tran_cn": " 使用；用途；发挥"
+        },
+        {
+          "word": "uselessness",
+          "tran_cn": " 无用，无效"
+        },
+        {
+          "word": "user",
+          "tran_cn": " 用户；使用者"
+        },
+        {
+          "word": "using",
+          "tran_cn": " 使用；利用"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "used",
+          "tran_cn": " 用；习惯（use的过去式）"
+        },
+        {
+          "word": "using",
+          "tran_cn": " 使用（use的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "use",
+          "tran_cn": " 使用，运用"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "use",
+          "tran_cn": " 利用；耗费"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "validity",
+            "availability"
+          ],
+          "tran_cn": "有用；有效性；有益"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "convenience",
+            "utility",
+            "value",
+            "worth"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "有用，有益，有效，效能",
+      "tran_en": "the state of being useful or the degree to which something is useful"
+    }
+  ],
+  "exchange": {}
+}

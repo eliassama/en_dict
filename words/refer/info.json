@@ -1,0 +1,213 @@
+{
+  "word": "refer",
+  "ipa": {
+    "us": "rɪˈfɜː(r)",
+    "uk": "rɪˈfɜːr"
+  },
+  "sentences": [
+    {
+      "en": "All employees will refer to each other by the honorific suffix \"san\".",
+      "cn": "所有雇员相互称呼时都须在名字后添加敬语san（日语表示“先生”，“女士”）。"
+    },
+    {
+      "en": "But he then went on to refer very directly to the argument.",
+      "cn": "不过接下来他就直切主题提到了那场争论。"
+    },
+    {
+      "en": "By way of illustration I'll refer to the behavior of rabbits.",
+      "cn": "我将举例说明兔子的行为."
+    },
+    {
+      "en": "Does your remark refer to all of us?",
+      "cn": "你的评论是针对我们所有人的 吗 ?"
+    },
+    {
+      "en": "Don't refer to the matter again.",
+      "cn": "不要再提这件事了."
+    },
+    {
+      "en": "For further particulars I refer you to my secretary.",
+      "cn": "详情请问我的秘书."
+    },
+    {
+      "en": "He could refer the matter to the high court.",
+      "cn": "他可以将此事交由高等法院裁决。"
+    },
+    {
+      "en": "He referred briefly to his notebook.",
+      "cn": "他迅速查看了一下他的笔记。"
+    },
+    {
+      "en": "In his speech, he referred to a recent trip to Canada.",
+      "cn": "在他的讲话中，他提到了最近的加拿大之行。"
+    },
+    {
+      "en": "May I refer you back to my earlier remarks on this subject?",
+      "cn": "是否让我向你重提一下我在这个主题上先前讲述的话?"
+    },
+    {
+      "en": "Only your family doctor can refer you to a surgeon.",
+      "cn": "只有你的家庭医生才能把你介绍给外科医生。"
+    },
+    {
+      "en": "Refer to the original, please.",
+      "cn": "请参看原文."
+    },
+    {
+      "en": "That remark does not refer to [ direct at ] her.",
+      "cn": "那句话不是指她说的."
+    },
+    {
+      "en": "The cross - references refer you to information in other parts of the dictionary.",
+      "cn": "互见引导你在词典的其他部分寻找信息."
+    },
+    {
+      "en": "The new law does not refer to land used for farming.",
+      "cn": "那条新法律并不涉及耕种用地."
+    },
+    {
+      "en": "The regulations refer only to children.",
+      "cn": "这些规定只适用于小孩子."
+    },
+    {
+      "en": "Writers often refer to a dictionary.",
+      "cn": "作家时常参考字典."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "referable",
+          "tran_cn": " 可归因于…；可参考的；可交付的；可涉及的"
+        },
+        {
+          "word": "referenced",
+          "tran_cn": " 引用的，参考的"
+        },
+        {
+          "word": "referential",
+          "tran_cn": " 指示的；用作参考的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reference",
+          "tran_cn": " 参考，参照；涉及，提及；参考书目；介绍信；证明书"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "referenced",
+          "tran_cn": " 引用（reference的过去分词）；附…以供参考"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "reference",
+          "tran_cn": " 引用"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "reference",
+          "tran_cn": " 引用"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "allude",
+            "cite",
+            "direct",
+            "impute",
+            "pertain",
+            "point",
+            "recommend",
+            "send"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "deal with",
+            "to consult"
+          ],
+          "tran_cn": "参考；涉及；提到；查阅"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "allude",
+            "direct",
+            "point",
+            "recommend"
+          ],
+          "tran_cn": "指点;针对"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "refer a friend",
+      "tran_cn": "介绍朋友；引见朋友"
+    },
+    {
+      "phrase": "refer to as",
+      "tran_cn": "把…称作…"
+    },
+    {
+      "phrase": "refer to drawer",
+      "tran_cn": "(英)（银行拒付用语）请询问出票人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "提及，涉及，称作，参考，转医院，送交，推荐，指引，描述",
+      "tran_en": "If you refer to a particular subject or person, you talk about them or mention them"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "refers"
+    ],
+    "past": [
+      "referred"
+    ],
+    "done": [
+      "referred"
+    ],
+    "ing": [
+      "referring"
+    ]
+  }
+}

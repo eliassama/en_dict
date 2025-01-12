@@ -1,0 +1,245 @@
+{
+  "word": "city",
+  "ipa": {
+    "us": "ˈsɪti",
+    "uk": "ˈsɪti"
+  },
+  "sentences": [
+    {
+      "en": "He had been a cub reporter for the Kansas City Star.",
+      "cn": "他曾是《堪萨斯城市星报》的一名年轻记者。"
+    },
+    {
+      "en": "It is a neighborhood beset by all the usual inner-city problems.",
+      "cn": "这是个为各种内城常见问题所困扰的社区。"
+    },
+    {
+      "en": "Leningrad was the third alien city to offer him a surrogate home.",
+      "cn": "列宁格勒是他在异地安家的第三个外国城市。"
+    },
+    {
+      "en": "Now we live further away from the city centre.",
+      "cn": "现在我们住得离市中心更远了。"
+    },
+    {
+      "en": "Officers were going to retake sectors of the city.",
+      "cn": "军官们打算重新夺回该市的防御区。"
+    },
+    {
+      "en": "Shops in Ho Chi Minh City are stacked with goods.",
+      "cn": "胡志明市的商店里堆满了商品。"
+    },
+    {
+      "en": "The city has been flattened by heavy artillery bombardments.",
+      "cn": "城市已被猛烈的炮火夷为平地。"
+    },
+    {
+      "en": "The city has trebled the number of its prisoners to 21,000.",
+      "cn": "该市的囚犯人数增长了两倍，达到21,000人。"
+    },
+    {
+      "en": "The city police set up roadblocks to check passing vehicles.",
+      "cn": "该市警察设置了路障以检查过往车辆。"
+    },
+    {
+      "en": "The city proved to be something of a disappointment.",
+      "cn": "结果这座城市有点儿令人失望。"
+    },
+    {
+      "en": "The city was walled and built upon a rock.",
+      "cn": "这座城市建在岩石上，四周筑有城墙。"
+    },
+    {
+      "en": "The City's reputation has been sullied by scandals like those at Lloyd's.",
+      "cn": "类似劳埃德保险公司的那些丑闻令伦敦名声扫地。"
+    },
+    {
+      "en": "The journey ends in the ancient city of Marrakesh.",
+      "cn": "旅行的终点是马拉喀什古城。"
+    },
+    {
+      "en": "The London City Ballet has engaged two male dancers from the Bolshoi.",
+      "cn": "伦敦市芭蕾舞团从波修瓦芭蕾舞团聘来了两名男舞蹈演员。"
+    },
+    {
+      "en": "The nearest big city was St. Louis.",
+      "cn": "最近的大城市是圣路易斯。"
+    },
+    {
+      "en": "Truckloads of food, blankets, and other necessities reached the city.",
+      "cn": "成车的食物、毯子与其他必需品抵达了该市。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "citified",
+          "tran_cn": " 都市风尚的；有都市气概的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cit",
+          "tran_cn": " 市民；老百姓服装，便服"
+        },
+        {
+          "word": "cityscape",
+          "tran_cn": " 都市风景；城市风光"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "citify",
+          "tran_cn": " 使都市化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "urban"
+          ],
+          "tran_cn": "城市的；都会的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "metropolis",
+            "municipality"
+          ],
+          "tran_cn": "城市,都市"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "capital",
+            "metropolis",
+            "metropolitan",
+            "municipality",
+            "social",
+            "town"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ancient city",
+      "tran_cn": "古都"
+    },
+    {
+      "phrase": "big city",
+      "tran_cn": "大城市"
+    },
+    {
+      "phrase": "capital city",
+      "tran_cn": "首都"
+    },
+    {
+      "phrase": "central city",
+      "tran_cn": "大城市的中心区；闹市区"
+    },
+    {
+      "phrase": "city center",
+      "tran_cn": "n. 市中心"
+    },
+    {
+      "phrase": "city council",
+      "tran_cn": "市议会"
+    },
+    {
+      "phrase": "city hall",
+      "tran_cn": "市政厅"
+    },
+    {
+      "phrase": "city life",
+      "tran_cn": "n. 城市生活"
+    },
+    {
+      "phrase": "city planning",
+      "tran_cn": "城市规划"
+    },
+    {
+      "phrase": "city water",
+      "tran_cn": "自来水"
+    },
+    {
+      "phrase": "coastal city",
+      "tran_cn": "沿海城市"
+    },
+    {
+      "phrase": "forbidden city",
+      "tran_cn": "紫禁城"
+    },
+    {
+      "phrase": "garden city",
+      "tran_cn": "花园城市"
+    },
+    {
+      "phrase": "host city",
+      "tran_cn": "n. 主办城市；举办城市"
+    },
+    {
+      "phrase": "mexico city",
+      "tran_cn": "墨西哥城"
+    },
+    {
+      "phrase": "modern city",
+      "tran_cn": "现代城市"
+    },
+    {
+      "phrase": "new york city",
+      "tran_cn": "纽约市（美国一座城市）"
+    },
+    {
+      "phrase": "old city",
+      "tran_cn": "旧城；古城"
+    },
+    {
+      "phrase": "port city",
+      "tran_cn": "n. 港口城市"
+    },
+    {
+      "phrase": "university city",
+      "tran_cn": "大学城"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "城市的；都会的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "城市，全市居民",
+      "tran_en": "a large important town"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cities"
+    ]
+  }
+}

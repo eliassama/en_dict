@@ -1,0 +1,195 @@
+{
+  "word": "retiring",
+  "ipa": {
+    "us": "rɪˈtaɪərɪŋ",
+    "uk": "rɪˈtaɪrɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a quiet, retiring man",
+      "cn": "话少而又腼腆的男子"
+    },
+    {
+      "en": "As a child, Elizabeth was very shy and retiring.",
+      "cn": "伊丽莎白小时候非常腼腆害羞。"
+    },
+    {
+      "en": "Dorothy was joking when she said she was retiring.",
+      "cn": "多罗西说她也要退休,那时闹着玩."
+    },
+    {
+      "en": "He is a naturally shy and retiring man.",
+      "cn": "他天生腼腆，不爱交际。"
+    },
+    {
+      "en": "He is a naturally shy, retiring man.",
+      "cn": "他天生腼腆, 不爱交际."
+    },
+    {
+      "en": "He is watching for an opportunity of retiring quietly.",
+      "cn": "他在瞅空悄悄离开."
+    },
+    {
+      "en": "He must be getting near retiring age.",
+      "cn": "他一定快到退休年龄了."
+    },
+    {
+      "en": "He's certainly got the right idea, retiring at 55.",
+      "cn": "他真的想通了, 打算55岁就退休."
+    },
+    {
+      "en": "Her majesty awarded a distinction upon 〔 to 〕 the retiring Prime Minister.",
+      "cn": "女王陛下授勋给行将离任的首相."
+    },
+    {
+      "en": "I'm retiring next month. They're putting me out to pasture.",
+      "cn": "我下个月退休。他们要我养老去了。"
+    },
+    {
+      "en": "Lillee said he had no regrets about retiring.",
+      "cn": "利里说他没后悔退休。"
+    },
+    {
+      "en": "Or perhaps your spouse has no intention of retiring, which can cause tension if you assumed you'd spend all your time together.",
+      "cn": "或者，可能你的配偶还没有任何退休的打算，这时，如果你希望与对方共度时光的话，可能会造成关系紧张。"
+    },
+    {
+      "en": "Professor Brown's beginning to slow up; he'll be retiring next year.",
+      "cn": "布朗教授因年老而行动迟缓, 他将明年退休."
+    },
+    {
+      "en": "Retiring early from his job freed him to join several local clubs.",
+      "cn": "他早早退休,摆脱了工作的羁绊而加入了当地的几个俱乐部."
+    },
+    {
+      "en": "She was a shy and retiring person off-stage.",
+      "cn": "她在现实生活中是个腼腆而且不善社交的人。"
+    },
+    {
+      "en": "The greatest manager there has ever been, or ever will be in my book, is retiring.",
+      "cn": "这位迄今为止最杰出的，在我看来，也是后人无法超越的经理，就要退休了。"
+    },
+    {
+      "en": "The retiring warden delivered over the keys of the prison to his successor.",
+      "cn": "即将退休的监狱长把监狱的钥匙移交给继任者."
+    },
+    {
+      "en": "With children independent in economy from home, the core of home economy assure will transfer from protection to the life saving after retiring.",
+      "cn": "随着孩子们在经济上从家庭中独立出来，家庭经济保障的重心将从保护转移到为退休后的生活储蓄。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "retired",
+          "tran_cn": " 退休的；退役的；幽闭的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "retire",
+          "tran_cn": " 退休；退隐；退兵信号"
+        },
+        {
+          "word": "retiree",
+          "tran_cn": " （美）退休人员；歇业者"
+        },
+        {
+          "word": "retirement",
+          "tran_cn": " 退休，退役"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "retired",
+          "tran_cn": " 退休（retire的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "retire",
+          "tran_cn": " 退休；撤退；退却"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "retire",
+          "tran_cn": " 退休；离开；收回"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "bashful",
+            "distant",
+            "modest",
+            "reserved",
+            "restrained",
+            "shy",
+            "timid"
+          ],
+          "tran_cn": "谦虚的;羞怯的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bashful",
+            "diffident",
+            "distant",
+            "friendless",
+            "modest",
+            "reserved",
+            "restrained",
+            "shy",
+            "timid"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "retire from",
+      "tran_cn": "从……退休"
+    },
+    {
+      "phrase": "retire into oneself",
+      "tran_cn": "退隐，沉默；(沉湎于自己的思想而)离群索居"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "即将退休的，即将离职的，过隐居生活的，害羞的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "退职，退役， （使）退休( retire的现在分词 )，退下，撤退，就寝"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,173 @@
+{
+  "word": "neural",
+  "ipa": {
+    "us": "ˈnjʊərəl",
+    "uk": "ˈnʊrəl"
+  },
+  "sentences": [
+    {
+      "en": "A highly flexible network structure is built as a new neural network.",
+      "cn": "作为一种新型的神经网络,创建了具有高度柔性特性的网络结构."
+    },
+    {
+      "en": "Aim To study some applications of a neural networks in combinatorial optimization.",
+      "cn": "目的研究神经网络在组合最优化问题中的应用."
+    },
+    {
+      "en": "An application of cellular neural network ( CNN ) in mathematical morphology is presented.",
+      "cn": "给出了细胞神经网络 ( CNN ) 在数学形态学中的应用."
+    },
+    {
+      "en": "An efficient intrusion detection technology on probabilistic neural networks is presented.",
+      "cn": "提出一种基于概率神经网络的高效入侵检测技术."
+    },
+    {
+      "en": "Folic acid helps prevent neural tube birth defects such as spina bifida.",
+      "cn": "叶酸能帮助防止诸如脊柱裂等神经管畸形出生缺陷的发生."
+    },
+    {
+      "en": "Here the author emphasizes non - linear neural networks used to data mining.",
+      "cn": "作者在文中重点论述了用于数据开采的非线性神经网络."
+    },
+    {
+      "en": "In 100,000 births, a screening program would avent 187 neural tube defects.",
+      "cn": "在100,000婴儿中, 一项筛检可避免187个神经管缺陷."
+    },
+    {
+      "en": "Its principal constituents are fuzzy logic, neural network and evolutional computing.",
+      "cn": "它主要由模糊逻辑 、 神经网络、进化计算等组成."
+    },
+    {
+      "en": "Neural networks are computer systems which mimic the workings of the brain.",
+      "cn": "神经网络是模拟大脑工作方式的计算机系统。"
+    },
+    {
+      "en": "Not to mention the physical effects of neural or endocrine overload.",
+      "cn": "更不用说神经和内分沁超负荷对身体的影响了."
+    },
+    {
+      "en": "Optimum Method About Weights and Thresholds of Neural Network.",
+      "cn": "神经网络权值和阈值的优化方法."
+    },
+    {
+      "en": "signs of neural activity ",
+      "cn": "神经活动的迹象"
+    },
+    {
+      "en": "The information transmission in neural system depends on neurotransmitters.",
+      "cn": "信息传递的神经途径有赖于神经递质."
+    },
+    {
+      "en": "The neural network can preferably solve the non - linear problem.",
+      "cn": "利用神经网络建模可以较好地解决非线性问题."
+    },
+    {
+      "en": "The neural tube then might induce the formation of still other embryonic structures.",
+      "cn": "神经管可能诱导其他胚胎结构的形成."
+    },
+    {
+      "en": "We download your personality into my neural net until we get this sorted out.",
+      "cn": "我们下载你的性格特征到我的大脑中枢去直到查出为止."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "neuralgic",
+          "tran_cn": " 神经痛的"
+        },
+        {
+          "word": "neurasthenic",
+          "tran_cn": " 神经衰弱的"
+        },
+        {
+          "word": "neuroanatomical",
+          "tran_cn": " 神经解剖学的"
+        },
+        {
+          "word": "neurobiological",
+          "tran_cn": " 神经生物学的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "neuralgia",
+          "tran_cn": " [内科] 神经痛"
+        },
+        {
+          "word": "neurasthenia",
+          "tran_cn": " [内科] 神经衰弱症"
+        },
+        {
+          "word": "neurasthenic",
+          "tran_cn": " 神经衰弱；神经衰弱者"
+        },
+        {
+          "word": "neurilemma",
+          "tran_cn": " [解剖] 神经鞘；[解剖] 神经膜"
+        },
+        {
+          "word": "neuritis",
+          "tran_cn": " 神经炎"
+        },
+        {
+          "word": "neuroanatomy",
+          "tran_cn": " 神经解剖学"
+        },
+        {
+          "word": "neurobiology",
+          "tran_cn": " 神经生物学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "nervous",
+            "dorsal"
+          ],
+          "tran_cn": "[解剖]神经的；神经系统的；背的；神经中枢的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fuzzy neural network",
+      "tran_cn": "模糊神经网络"
+    },
+    {
+      "phrase": "neural crest",
+      "tran_cn": "神经嵴"
+    },
+    {
+      "phrase": "neural network",
+      "tran_cn": "神经网络"
+    },
+    {
+      "phrase": "neural tube",
+      "tran_cn": "神经管"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "神经的，背的，背侧的",
+      "tran_en": "relating to a nerve or the nervous system"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "(Neural)人名；(捷)诺伊拉尔"
+    }
+  ],
+  "exchange": {}
+}

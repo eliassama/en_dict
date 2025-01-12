@@ -1,0 +1,146 @@
+{
+  "word": "romanticize",
+  "ipa": {
+    "us": "rəʊˈmæntɪsaɪz",
+    "uk": "roʊˈmæntɪsaɪz"
+  },
+  "sentences": [
+    {
+      "en": "a romanticized image of life during the war",
+      "cn": "对战时生活的浪漫化描写"
+    },
+    {
+      "en": "Don't romanticize stick to the facts.",
+      "cn": "别夸夸其谈了--说实际的吧."
+    },
+    {
+      "en": "Sure a mistake to romanticize all this any more than is strictly necessary.",
+      "cn": "当然,把这些过于传奇化是不对的."
+    },
+    {
+      "en": "You have a tendency to romanticize your life.",
+      "cn": "你有把生活浪漫化的倾向."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "romantic",
+          "tran_cn": " 浪漫的；多情的；空想的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "romantically",
+          "tran_cn": " 浪漫地；不切实际地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "romance",
+          "tran_cn": " 传奇；浪漫史；风流韵事；冒险故事"
+        },
+        {
+          "word": "romantic",
+          "tran_cn": " 浪漫的人"
+        },
+        {
+          "word": "romanticism",
+          "tran_cn": " 浪漫主义；浪漫精神"
+        },
+        {
+          "word": "romanticist",
+          "tran_cn": " 浪漫主义者；浪漫主义艺术家"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "romance",
+          "tran_cn": " 虚构；渲染；写传奇"
+        },
+        {
+          "word": "romanticise",
+          "tran_cn": " （英）有浪漫主义思想；（英）以浪漫方式进行（等于romanticize）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "romantic",
+          "tran_cn": " 使…浪漫化"
+        },
+        {
+          "word": "romanticise",
+          "tran_cn": " （英）使浪漫化（等于romanticize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aggrandize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "legendize"
+          ],
+          "tran_cn": "使浪漫化；使传奇化"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "浪漫化, 传奇化",
+      "tran_en": "to talk or think about things in a way that makes them seem more romantic or attractive than they really are"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "沉醉于浪漫的幻想"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使浪漫化，使传奇化，夸张，以浪漫手法处理"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "romanticizes"
+    ],
+    "past": [
+      "romanticized"
+    ],
+    "done": [
+      "romanticized"
+    ],
+    "ing": [
+      "romanticizing"
+    ]
+  }
+}

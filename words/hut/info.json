@@ -1,0 +1,168 @@
+{
+  "word": "hut",
+  "ipa": {
+    "us": "hʌt",
+    "uk": "hʌt"
+  },
+  "sentences": [
+    {
+      "en": "a wooden hut",
+      "cn": "小木屋"
+    },
+    {
+      "en": "I had to knock the branches back to reach the hut.",
+      "cn": "我得把树枝推开后才能到达棚屋."
+    },
+    {
+      "en": "In the lightning I saw that the roof of the hut had been blown off.",
+      "cn": "闪电的时候,我看见棚屋的屋顶被掀掉了."
+    },
+    {
+      "en": "It's not a house but a glorified hut.",
+      "cn": "那不是一所房子,而是美化了的小木屋."
+    },
+    {
+      "en": "Kunta ran blindly toward his grandmother's hut.",
+      "cn": "昆塔马上撒开腿不顾一切地向他奶奶的茅屋奔去."
+    },
+    {
+      "en": "The fire quickly consumed the wooden hut.",
+      "cn": "火焰很快地吞噬了那所小木屋."
+    },
+    {
+      "en": "The horses died in the fire because they were barred in the hut.",
+      "cn": "马在火灾中被烧死,因为它们被关在马棚里."
+    },
+    {
+      "en": "The hut isn't safe; it was just flung together.",
+      "cn": "这个棚子不安全, 它不过是匆忙搭起来的."
+    },
+    {
+      "en": "The hut was constructed from trees that grew in the nearby forest.",
+      "cn": "这棚屋是用附近森林里长的树木建造的."
+    },
+    {
+      "en": "The little prefabricated hut was lifted away by a huge crane.",
+      "cn": "那间用预制板搭建的小棚屋被一辆大型起重机吊走了。"
+    },
+    {
+      "en": "The old man knocked up a hut for mountain - climbers.",
+      "cn": "那位老人给爬山者草草地搭成一小茅屋."
+    },
+    {
+      "en": "The poor old man lived in a little wooden hut.",
+      "cn": "那个贫穷的老人住在一间小木屋内."
+    },
+    {
+      "en": "The small hut is crazy.",
+      "cn": "这小栅子摇摇晃晃很不稳."
+    },
+    {
+      "en": "The wooden hut was consumed by fire.",
+      "cn": "木屋给火烧掉了."
+    },
+    {
+      "en": "We all set to and soon built a rough hut.",
+      "cn": "我们大干起来,很快搭起一间简单的棚屋."
+    },
+    {
+      "en": "We rammed the soil flat before we built the hut.",
+      "cn": "我们建房之前把土面夯实."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hutment",
+          "tran_cn": " 临时营房；在临时营房住宿"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "shed",
+            "cottage",
+            "cabin"
+          ],
+          "tran_cn": "小屋；临时营房"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cabin",
+            "shack",
+            "shanty",
+            "shed"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "cabin",
+            "cottage",
+            "domicile",
+            "residence",
+            "shack",
+            "shanty",
+            "shed"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "quarter"
+          ],
+          "tran_cn": "住在小屋中；驻扎"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "station"
+          ],
+          "tran_cn": "使住在小屋中；驻扎"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "小屋，棚屋，临时营房，牢房",
+      "tran_en": "a small simple building with only one or two rooms"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "住在小屋中；驻扎"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使住在小屋中；驻扎"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "huts"
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "word": "happening",
+  "ipa": {
+    "us": "ˈhæpənɪŋ",
+    "uk": "ˈhæpənɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "He started bossing people around and I didn't like what was happening.",
+      "cn": "他开始把别人差来遣去,而我不喜欢他这样."
+    },
+    {
+      "en": "Her obliviousness of what was happening in Germany seems extraordinary.",
+      "cn": "真没想到她对德国正在发生的事情居然一无所知。"
+    },
+    {
+      "en": "I had a mistaken view of what was happening.",
+      "cn": "我对当时发生的事情曾有一种错误的认识。"
+    },
+    {
+      "en": "I thought: \"This cannot be happening, somebody must be playing a joke\".",
+      "cn": "我想：“这不可能发生，肯定是谁在开玩笑。”"
+    },
+    {
+      "en": "It kind of gives us an idea of what's happening.",
+      "cn": "这让我们大概了解了正在发生的事情。"
+    },
+    {
+      "en": "Nothing much interesting seemed to be happening.",
+      "cn": "看来不会发生什么有趣的事。"
+    },
+    {
+      "en": "So what is really happening as the information bandwagon starts to roll?",
+      "cn": "当信息大潮滚滚而来的时候究竟发生了些什么呢？"
+    },
+    {
+      "en": "The Budapest office plans to hire freelance reporters to cover the latest happenings.",
+      "cn": "布达佩斯办事处计划聘用自由职业记者来报道最近发生的事件。"
+    },
+    {
+      "en": "Their leaders have lost touch with what is happening in the country.",
+      "cn": "他们的领导人不再了解该国正发生的一切。"
+    },
+    {
+      "en": "There are many factors weighing against the meeting happening.",
+      "cn": "有好多因素影响了会议的召开。"
+    },
+    {
+      "en": "Things were happening too quickly and Brian was confused.",
+      "cn": "事情发生得太快，把布赖恩给弄糊涂了。"
+    },
+    {
+      "en": "This is happening in every school throughout the country.",
+      "cn": "全国各地每所学校都在发生这样的事情。"
+    },
+    {
+      "en": "We had an inkling that something might be happening.",
+      "cn": "我们隐约感觉可能正有什么事情发生。"
+    },
+    {
+      "en": "We recognized the possibility and took steps to prevent it happening.",
+      "cn": "我们认识到了这种可能性，并且采取了一些预防措施。"
+    },
+    {
+      "en": "We've been through Germany and seen first-hand what's happening there.",
+      "cn": "我们遍游德国，亲眼目睹了那里发生的一切。"
+    },
+    {
+      "en": "What can you do to keep it from happening again?",
+      "cn": "你怎样防止它再次发生？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "haphazard",
+          "tran_cn": " 偶然的；随便的；无计划的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "haphazard",
+          "tran_cn": " 偶然地；随意地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hap",
+          "tran_cn": " 机会，运气；偶然"
+        },
+        {
+          "word": "haphazard",
+          "tran_cn": " 偶然；偶然事件"
+        },
+        {
+          "word": "happenstance",
+          "tran_cn": " 意外事件，偶然事件"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "hap",
+          "tran_cn": " 偶然发生"
+        },
+        {
+          "word": "happen",
+          "tran_cn": " 发生；碰巧；偶然遇到"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "event",
+            "incident",
+            "occurrence",
+            "circumstance",
+            "scene"
+          ],
+          "tran_cn": "事件；意外发生的事"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adventure",
+            "affair",
+            "current",
+            "development",
+            "episode",
+            "event",
+            "experience",
+            "incident",
+            "occasion",
+            "occurrence",
+            "on",
+            "performance",
+            "phenomenon",
+            "thing"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "as it happens",
+      "tran_cn": "碰巧；偶然发生"
+    },
+    {
+      "phrase": "happen on",
+      "tran_cn": "偶然遇到或发现"
+    },
+    {
+      "phrase": "happen to be",
+      "tran_cn": "碰巧是；恰巧是"
+    },
+    {
+      "phrase": "happen to coincide",
+      "tran_cn": "不约而同；不谋而合"
+    },
+    {
+      "phrase": "happen to meet",
+      "tran_cn": "偶然遇见"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "时髦的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "事件，意外事件，即兴表演",
+      "tran_en": "something that happens, especially a strange event"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "发生；碰巧（happen的ing形式）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "happenings"
+    ]
+  }
+}

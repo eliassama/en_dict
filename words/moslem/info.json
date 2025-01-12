@@ -1,0 +1,62 @@
+{
+  "word": "Moslem",
+  "ipa": {
+    "us": "ˈmɒzləm",
+    "uk": "ˈmɑːzləm"
+  },
+  "sentences": [
+    {
+      "en": "She tells me that if the religious scholars say so, she will engage in Moslem operations: suicide attacks.",
+      "cn": "她告诉我如果宗教学者希望他们那么做，她也将义无反顾的采取穆斯林的反抗活动—自杀攻击。"
+    },
+    {
+      "en": "The Buddhist, the Christian, the Moslem, and the Jew may all get answers to their prayers, in spite of the enormous differences among their stated beliefs.",
+      "cn": "佛教徒、基督教徒、伊斯兰教徒和犹太教徒，尽管他们所宣称的信仰有极大的不同，但是，他们的祈祷大概都能得到回应。"
+    },
+    {
+      "en": "The calendar in his hands is not a common one , but a Moslem calendar.",
+      "cn": "他手中的日历不是普通的日历, 而是回历."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "Islamic",
+            "Muslim"
+          ],
+          "tran_cn": "穆斯林的；伊斯兰教的；回教的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "Muslim",
+            "Moorman"
+          ],
+          "tran_cn": "穆斯林；伊斯兰；穆罕默德信徒"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "穆斯林的；伊斯兰教的；回教的（等同于 Muslim）",
+      "tran_en": "relating to Islam or Muslims"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "穆斯林；伊斯兰教信徒；伊斯兰（等同于 Muslim）",
+      "tran_en": "someone whose religion is Islam"
+    }
+  ],
+  "exchange": {}
+}

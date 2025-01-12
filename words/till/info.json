@@ -1,0 +1,241 @@
+{
+  "word": "till",
+  "ipa": {
+    "us": "tɪl",
+    "uk": "tɪl"
+  },
+  "sentences": [
+    {
+      "en": "\"Keep him outside till I give you the nod.\"",
+      "cn": "“没我同意，别让他进来。”"
+    },
+    {
+      "en": "A breakfast will be served to those who last out till dawn!",
+      "cn": "坚持到天亮的能吃上早餐！"
+    },
+    {
+      "en": "Alex didn't read fluently till he was nearly seven.",
+      "cn": "亚历克斯快到7岁时才能流利地阅读。"
+    },
+    {
+      "en": "He checked the register. There was money in the till.",
+      "cn": "他查看了一下收银机的抽屉，里面有钱。"
+    },
+    {
+      "en": "he was caught with his hand in the till and sacked.",
+      "cn": "他在单位行窃时被当场抓住并被解雇。"
+    },
+    {
+      "en": "I didn’t have a boyfriend till I was 17.",
+      "cn": "我直到17岁才有男朋友。"
+    },
+    {
+      "en": "I picked first all the people who usually were left till last.",
+      "cn": "我先挑出了所有通常留到最后的人。"
+    },
+    {
+      "en": "I went on competing till I was in my middle forties.",
+      "cn": "我继续参赛，直到45岁左右。"
+    },
+    {
+      "en": "I'd sooner he didn't know till I've talked to Pete.",
+      "cn": "在我跟皮特说之前，我宁愿他不知道这件事。"
+    },
+    {
+      "en": "It'sa bit tricky at first till you get the hang of it.",
+      "cn": "刚开始有点儿难，掌握窍门后就好了。"
+    },
+    {
+      "en": "Lou prattled on about various trivialities till I wanted to scream.",
+      "cn": "卢就各种芝麻小事唠叨个没完，后来我烦得都想尖叫了。"
+    },
+    {
+      "en": "Nobody else turned up till a quarter past ten.",
+      "cn": "直到10点一刻，其他人才露面。"
+    },
+    {
+      "en": "She'd been working in her room till a noise had disturbed her.",
+      "cn": "她一直在房间里工作，直到有声响打扰了她。"
+    },
+    {
+      "en": "The shop’s open till nine o’clock on Fridays.",
+      "cn": "这家商店周五营业到9点。"
+    },
+    {
+      "en": "They reviewed for the term examination till late at night.",
+      "cn": "他们为期未考试复习功课直到深夜。"
+    },
+    {
+      "en": "They slept till the alarm bleeper woke them at four.",
+      "cn": "他们一直睡到4点钟被寻呼机闹钟叫醒."
+    },
+    {
+      "en": "We could still make it, but we won't get there till three.",
+      "cn": "我们仍然可以赶去，只不过要到3点钟才能到。"
+    },
+    {
+      "en": "We waited till twelve and we finally got on the plane.",
+      "cn": "我们一直等到12点才终于上了飞机。"
+    },
+    {
+      "en": "You keep as much money as you need in the till to run your operations.",
+      "cn": "你做业务要储备足够的钱。"
+    },
+    {
+      "en": "You really can't comment till you know the facts.",
+      "cn": "知道真相之前，不要发表任何意见。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tillable",
+          "tran_cn": " 可耕种的；适于耕种的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tillage",
+          "tran_cn": " 耕作，耕种"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "glacial drift"
+          ],
+          "tran_cn": "[地理][水文]冰碛；放钱的抽屉；[会计]备用现金"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cash",
+            "cultivate",
+            "depository",
+            "drawer",
+            "money",
+            "plow",
+            "register",
+            "safe",
+            "vault",
+            "work"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "prep",
+      "words": [
+        {
+          "words": [
+            "unto",
+            "hasta"
+          ],
+          "tran_cn": "直到"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "plant crops"
+          ],
+          "tran_cn": "耕种；耕耘"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "farm",
+            "plant crops"
+          ],
+          "tran_cn": "耕种；犁"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "have (或 with) one's fingers (或 hand) in the till",
+      "tran_cn": "（职工）在本单位行窃，作内贼"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "conj",
+      "tran_cn": "直到为止"
+    },
+    {
+      "pos": "conj & prep",
+      "tran_cn": "到；直到",
+      "tran_en": "until"
+    },
+    {
+      "pos": "conj&prep",
+      "tran_cn": " 直到， 直到…为止",
+      "tran_en": "until"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "收银机，钱柜",
+      "tran_en": "money in the till is money that a company or organization has"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "直到",
+      "tran_en": "until"
+    },
+    {
+      "pos": "prep",
+      "tran_cn": "到…时，直到…为止",
+      "tran_en": "until"
+    },
+    {
+      "pos": "prep&conj",
+      "tran_cn": " 直到",
+      "tran_en": "until"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "耕作，犁地",
+      "tran_en": "to prepare land for growing crops"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tills"
+    ],
+    "third": [
+      "tills"
+    ],
+    "past": [
+      "tilled"
+    ],
+    "done": [
+      "tilled"
+    ],
+    "ing": [
+      "tilling"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "word": "conjoin",
+  "ipa": {
+    "us": "kənˈdʒɔɪn",
+    "uk": "kənˈdʒɔɪn"
+  },
+  "sentences": [
+    {
+      "en": "Brainstorm to unlock creative ideas for your career on March 15 when Mercury and Uranus conjoin.",
+      "cn": "3月15日,创意思维,头脑风暴."
+    },
+    {
+      "en": "On November 30 - December 1, Venus will conjoin Jupiter in a once - a - year event.",
+      "cn": "11月30-12月1, 金星会和木星一年一度的联合."
+    },
+    {
+      "en": "The wisdom of the retired generals and anti-war protesters conjoins.",
+      "cn": "退役将军们和反战示威者们的智慧相结合。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "conjoined",
+          "tran_cn": " 结合的；联合的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "conjointly",
+          "tran_cn": " 结合地；相连地"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "conjoined",
+          "tran_cn": " 结合；联合（conjoin的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "border",
+            "cohere"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "bind",
+            "coalesce",
+            "combine",
+            "concatenate",
+            "connect",
+            "couple",
+            "hitch",
+            "join",
+            "link",
+            "mix",
+            "splice",
+            "tie",
+            "together",
+            "unite",
+            "yoke"
+          ],
+          "tran_cn": "使联合,结合"
+        },
+        {
+          "words": [
+            "affiliate",
+            "ally",
+            "amalgamate",
+            "associate",
+            "confederate",
+            "consolidate",
+            "federalize",
+            "federate",
+            "incorporate",
+            "league",
+            "merge",
+            "team",
+            "up"
+          ],
+          "tran_cn": "联手,联盟"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "bond",
+            "couple",
+            "become one",
+            "combine",
+            "connect"
+          ],
+          "tran_cn": "结合；连结"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "combine",
+            "bond"
+          ],
+          "tran_cn": "使结合；使联合"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使结合",
+      "tran_en": "to join together, or to make things or people do this"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "结合，联合"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "conjoins"
+    ],
+    "past": [
+      "conjoined"
+    ],
+    "done": [
+      "conjoined"
+    ],
+    "ing": [
+      "conjoining"
+    ]
+  }
+}

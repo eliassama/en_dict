@@ -1,0 +1,102 @@
+{
+  "word": "avidity",
+  "ipa": {
+    "us": "ə'vɪdətɪ",
+    "uk": "ə'vɪdətɪ"
+  },
+  "sentences": [
+    {
+      "en": "Everyone attend to not up so many, with avidity eat right away.",
+      "cn": "大家都顾不上这么多, 马上狼吞虎咽地吃起来."
+    },
+    {
+      "en": "Philosophers have an avidity to know how we perceive objects.",
+      "cn": "哲学家渴望明了人类如何领悟事物之问题."
+    },
+    {
+      "en": "She reads with avidity.",
+      "cn": "她如饥似渴地读书."
+    },
+    {
+      "en": "The man began to eat with avidity.",
+      "cn": "那人贪婪地吃起来."
+    },
+    {
+      "en": "The wiser, more cautious adults sense Jen 's avidity for rare and dangerous toys like the Green Destiny.",
+      "cn": "这对较为聪明而谨慎小心的成年人觉察出玉娇龙对稀罕和危险玩物如“青冥剑”的贪婪之心。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "avid",
+          "tran_cn": " 渴望的，贪婪的；热心的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "avidly",
+          "tran_cn": " 贪心地；热心地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "avidness",
+          "tran_cn": " 渴望；热心"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "activities",
+            "longing"
+          ],
+          "tran_cn": "热望，贪欲；活动性"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "anxiety",
+            "avarice",
+            "haste",
+            "thirst"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "渴望，贪婪，（抗体与抗原的）亲合力",
+      "tran_en": "the quality or state of being avid "
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "avidly"
+    ],
+    "adj": [
+      "avid"
+    ]
+  }
+}

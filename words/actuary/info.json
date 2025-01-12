@@ -1,0 +1,81 @@
+{
+  "word": "actuary",
+  "ipa": {
+    "us": "ˈæktʃuəri",
+    "uk": "ˈæktʃeri"
+  },
+  "sentences": [
+    {
+      "en": "An actuary is a business professional who analyzes the financial consequences of risk.",
+      "cn": "精算师是现代职业的一种,工作是分析风险的财务结果."
+    },
+    {
+      "en": "An actuary provides a forecast in the quantity of sufficient reserves an insurance company should possess.",
+      "cn": "精算师为保险公司拥有足够的储备金提供了量的预测."
+    },
+    {
+      "en": "French actuary and close associate of artist Pablo Picasso.",
+      "cn": "法国精算师,帕博罗毕加索的密友."
+    },
+    {
+      "en": "I have been an actuary with Nanchang people's Insurance Agency for nearly four years.",
+      "cn": "我在南昌人民保险公司当保险统计员已近4年."
+    },
+    {
+      "en": "It is hard to get an Actuary Certificate.",
+      "cn": "获取精算师执照是很难的."
+    },
+    {
+      "en": "Morgan was the appointed Actuary of the Society for Equitable Assurances in 1775.",
+      "cn": "摩根在1775年被指认为公正保险精算学会的成员."
+    },
+    {
+      "en": "Nowadays, I'm working hard to become an actuary.",
+      "cn": "现在我正努力成为一名精算师."
+    },
+    {
+      "en": "Using insurance actuary pricing , we gain the European option pricing model.",
+      "cn": "使用保险精算法,给出了欧式期权的定价公式."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "actuarial",
+          "tran_cn": " [保险] 保险精算的；[保险] 保险统计的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accountant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "保险精算师，保险（业务）计算员",
+      "tran_en": "someone whose job is to advise insurance companies on how much to charge for insurance, after calculating the risks"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "actuaries"
+    ],
+    "adj": [
+      "actuarial"
+    ]
+  }
+}

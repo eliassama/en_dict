@@ -1,0 +1,127 @@
+{
+  "word": "generalise",
+  "ipa": {
+    "us": "'dʒenərəlaɪz",
+    "uk": "'dʒenərəlˌaɪz"
+  },
+  "sentences": [
+    {
+      "en": "It is customary for the teacher to provide grammar notes to help the student generalise what he has learned.",
+      "cn": "教师经常给学生提供语法注释,帮助他归纳所学到的东西."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "general",
+          "tran_cn": " 一般的，普通的；综合的；大体的"
+        },
+        {
+          "word": "generalized",
+          "tran_cn": " 广义的，普遍的；无显著特点的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "generally",
+          "tran_cn": " 通常；普遍地，一般地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "general",
+          "tran_cn": " 一般；将军，上将；常规"
+        },
+        {
+          "word": "generalisation",
+          "tran_cn": " （英）一般化；归纳；普遍原理（等于generalization）"
+        },
+        {
+          "word": "generality",
+          "tran_cn": " 概论；普遍性；大部分"
+        },
+        {
+          "word": "generalization",
+          "tran_cn": " 概括；普遍化；一般化"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "generalized",
+          "tran_cn": " 推广（generalize的过去分词）；对…进行概括；使…一般化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "generalize",
+          "tran_cn": " 形成概念"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "generalize",
+          "tran_cn": " 概括；推广；使...一般化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "sum",
+            "popularise"
+          ],
+          "tran_cn": "推广；笼统地讲；概括（等于generalize）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "summarise",
+            "epitomize"
+          ],
+          "tran_cn": "概括；归纳；普及"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 概括； 推广"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "推广，普及"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "概括，归纳，推论"
+    }
+  ],
+  "exchange": {}
+}

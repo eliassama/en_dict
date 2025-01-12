@@ -1,0 +1,308 @@
+{
+  "word": "speech",
+  "ipa": {
+    "us": "spiːtʃ",
+    "uk": "spiːtʃ"
+  },
+  "sentences": [
+    {
+      "en": "...the development of speech in children.",
+      "cn": "…孩子言语能力的发展。"
+    },
+    {
+      "en": "As speech develops, the child starts to string more words together.",
+      "cn": "随着语言能力不断发展，孩子开始把更多的词连起来说。"
+    },
+    {
+      "en": "Collins gave the keynote speech (= most important speech ) .",
+      "cn": "科林斯作了主题发言。"
+    },
+    {
+      "en": "Harry dismissed his old friend's speech as \"a nine-day wonder\"",
+      "cn": "哈里对老朋友的讲话不屑一顾，称之“火不了多久”。"
+    },
+    {
+      "en": "He could imitate in speech or writing most of those he admired.",
+      "cn": "他能模仿大多数自己崇拜的偶像的讲话和写作风格。"
+    },
+    {
+      "en": "He has to make a lot of after-dinner speeches .",
+      "cn": "他经常要发表席后演说。"
+    },
+    {
+      "en": "He is not attempting necessarily to reproduce the cadence of speech.",
+      "cn": "他不想刻意重复那种讲话的语调。"
+    },
+    {
+      "en": "He was so drunk that he had lost the power of speech.",
+      "cn": "他醉得太厉害，连话都说不出来了。"
+    },
+    {
+      "en": "He went even further in his speech to the conference.",
+      "cn": "他在大会发言中作了更进一步的阐述。"
+    },
+    {
+      "en": "His speech was difficult to understand, his signature shaky and unrecognizable.",
+      "cn": "他的演说很难听懂，他的签名颤颤巍巍地无法识别。"
+    },
+    {
+      "en": "Horrigan launched into a speech about the importance of new projects.",
+      "cn": "霍里根就新项目的重要性慷慨陈词。"
+    },
+    {
+      "en": "I have already spoken about the import of his speech.",
+      "cn": "有关他的讲话的含意我刚刚已经谈过了。"
+    },
+    {
+      "en": "I heard him make a very eloquent speech at that dinner.",
+      "cn": "在那次晚宴上，我听到他作了一番非常有说服力的陈词。"
+    },
+    {
+      "en": "I'd make fun of her dress and imitate her speech.",
+      "cn": "我会拿她的衣着开玩笑，并模仿她说话。"
+    },
+    {
+      "en": "Intoxication interferes with memory and thinking, speech and coordination.",
+      "cn": "醉酒影响记忆、思考、语言与协调性。"
+    },
+    {
+      "en": "Intoxication interferes with speech and coordination.",
+      "cn": "醉酒影响言语能力和协调性。"
+    },
+    {
+      "en": "Of course I'm not. It was just a figure of speech.",
+      "cn": "我当然不是，这不过是打个比方。"
+    },
+    {
+      "en": "The whole world holds its breath for this speech.",
+      "cn": "整个世界都屏住呼吸等待这一讲话。"
+    },
+    {
+      "en": "There is an enormous sense of mission in his speech and gesture.",
+      "cn": "他的一言一行都带着强烈的使命感。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "speechless",
+          "tran_cn": " 说不出话的；哑的；非言语所能表达的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "speechlessly",
+          "tran_cn": " 一时不知怎么说地；哑口无言地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "speechlessness",
+          "tran_cn": " 一时讲不出话来的样子；哑口无言"
+        },
+        {
+          "word": "speechmaker",
+          "tran_cn": " 演讲人；演说家"
+        },
+        {
+          "word": "speechwriter",
+          "tran_cn": " 演讲稿撰写人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "speechify",
+          "tran_cn": " 演说；喋喋不休地说；高谈阔论"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "assertion",
+            "asseveration",
+            "averment",
+            "comment",
+            "declaration",
+            "mention",
+            "observation",
+            "remark",
+            "statement"
+          ],
+          "tran_cn": "发言,评论,陈述,声言"
+        },
+        {
+          "words": [
+            "accent",
+            "diction",
+            "inflection",
+            "intonation"
+          ],
+          "tran_cn": "措辞,语法,语调"
+        },
+        {
+          "words": [
+            "argot",
+            "cant",
+            "dialect",
+            "idiom",
+            "language",
+            "lingo",
+            "parlance",
+            "patois",
+            "tongue",
+            "vernacular"
+          ],
+          "tran_cn": "方言,土话,隐语,黑话"
+        },
+        {
+          "words": [
+            "address",
+            "allocution",
+            "declamation",
+            "discourse",
+            "filibuster",
+            "homily",
+            "lecture",
+            "oration",
+            "recitation",
+            "sermon",
+            "soliloquy",
+            "talk"
+          ],
+          "tran_cn": "讲演,演说,说教,长篇大论"
+        },
+        {
+          "words": [
+            "communication",
+            "conversation",
+            "dialogue",
+            "discussion",
+            "speaking"
+          ],
+          "tran_cn": "说话,谈话,对话,讨论"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "style"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "figure of speech",
+      "tran_cn": "修辞；比喻说法"
+    },
+    {
+      "phrase": "figures of speech",
+      "tran_cn": "修辞格；修辞手法；形象化比喻"
+    },
+    {
+      "phrase": "free speech",
+      "tran_cn": "n. 言论自由"
+    },
+    {
+      "phrase": "freedom of speech",
+      "tran_cn": "言论自由"
+    },
+    {
+      "phrase": "give a speech",
+      "tran_cn": "做演讲"
+    },
+    {
+      "phrase": "indirect speech",
+      "tran_cn": "n. 间接引语"
+    },
+    {
+      "phrase": "keynote speech",
+      "tran_cn": "会上发表的主要讲话；政党代表大会上关于施政方针的演说"
+    },
+    {
+      "phrase": "make a speech",
+      "tran_cn": "发表演讲"
+    },
+    {
+      "phrase": "opening speech",
+      "tran_cn": "开幕致辞"
+    },
+    {
+      "phrase": "part of speech",
+      "tran_cn": "[语]词性，词类"
+    },
+    {
+      "phrase": "parts of speech",
+      "tran_cn": "词类；词性"
+    },
+    {
+      "phrase": "speech act",
+      "tran_cn": "言语行为"
+    },
+    {
+      "phrase": "speech communication",
+      "tran_cn": "言语交际"
+    },
+    {
+      "phrase": "speech contest",
+      "tran_cn": "演讲比赛"
+    },
+    {
+      "phrase": "speech production",
+      "tran_cn": "言语生成；语言产生"
+    },
+    {
+      "phrase": "speech quality",
+      "tran_cn": "声音品质；话音质量"
+    },
+    {
+      "phrase": "speech recognition",
+      "tran_cn": "语音辨识"
+    },
+    {
+      "phrase": "speech signal",
+      "tran_cn": "语言信号，语音信号"
+    },
+    {
+      "phrase": "speech sound",
+      "tran_cn": "语音"
+    },
+    {
+      "phrase": "speech synthesis",
+      "tran_cn": "语音合成；言语合成"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "演说，说话方式，台词",
+      "tran_en": "a talk, especially a formal one about a particular subject, given to a group of people"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "speeches"
+    ]
+  }
+}

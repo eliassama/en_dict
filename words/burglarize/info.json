@@ -1,0 +1,102 @@
+{
+  "word": "burglarize",
+  "ipa": {
+    "us": "'bɜ:ɡləraɪz",
+    "uk": "ˈbəɡləˌraɪz"
+  },
+  "sentences": [
+    {
+      "en": "They might steal purses, burglarize apartments and homes.",
+      "cn": "他们可能扒窃钱包, 溜门撬锁."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "burglarious",
+          "tran_cn": " 夜盗的，窃盗的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "burglar",
+          "tran_cn": " 夜贼，窃贼"
+        },
+        {
+          "word": "burglary",
+          "tran_cn": " 盗窃，夜盗；盗窃行为"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "burglary",
+          "tran_cn": " 入室行窃"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "loot",
+            "pillage",
+            "rob"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "thieve"
+          ],
+          "tran_cn": "撬窃；行窃"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "夜盗；行窃",
+      "tran_en": "to go into a building and steal things"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "破门盗窃"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<美>闯入…盗窃"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "burglarizes"
+    ],
+    "past": [
+      "burglarized"
+    ],
+    "done": [
+      "burglarized"
+    ],
+    "ing": [
+      "burglarizing"
+    ]
+  }
+}

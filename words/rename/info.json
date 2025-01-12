@@ -1,0 +1,113 @@
+{
+  "word": "rename",
+  "ipa": {
+    "us": "ˌri:ˈneɪm",
+    "uk": "ˌriːˈneɪm"
+  },
+  "sentences": [
+    {
+      "en": "A problem occurred when the wizard attempted to rename a registry key.",
+      "cn": "向导试图重命名注册表项时发生错误."
+    },
+    {
+      "en": "Can't rename the Inbox , Outbox, Sent Items , or Deleted Items folder.",
+      "cn": "不能重命名以下文件夹:收件箱, 发件箱, 已发送的邮件,已删除的邮件."
+    },
+    {
+      "en": "Cannot rename a sheet with the same name as another sheet.",
+      "cn": "已有同名工作表存在,不能以此名称设置此工作表."
+    },
+    {
+      "en": "Could not rename links in |; the file is currently in use.",
+      "cn": "无法重命名|中的链接; 此文件正在使用."
+    },
+    {
+      "en": "For more information, see How to: Rename an Identifier.",
+      "cn": "有关更多信息, 请参见如何: 重命名标识符."
+    },
+    {
+      "en": "In order to have resounding name, she plans to rename herself.",
+      "cn": "为了使名字更响亮, 她打算改名."
+    },
+    {
+      "en": "Redeploy a new instance of the list and rename'% 1'to'% 2 '.",
+      "cn": "重新部署列表的新实例,并将“%1 ” 重命名为 “ %2 ”."
+    },
+    {
+      "en": "Right - click a playlist of tracks you can add, remove or rename tracks.",
+      "cn": "右键单击播放列表中的曲目可添加, 清除或重命名曲目."
+    },
+    {
+      "en": "Sitemap Pane: Add, remove, rename, and organize the pages in your design.",
+      "cn": "站点地图面板: 在设计中增加 、 删除 、 重命名以及组织页面."
+    },
+    {
+      "en": "Tel Aviv's Kings Square was renamed Yitzhak Rabin Square.",
+      "cn": "特拉维夫的国王广场更名为伊扎克·拉宾广场。"
+    },
+    {
+      "en": "The Registry Editor cannot rename % 1. Error while renaming value.",
+      "cn": "注册表编辑器无法重命名%1. 重命名值时出现错误."
+    },
+    {
+      "en": "To avoid confusion between the two methods, you can rename your method.",
+      "cn": "为了避免这两个方法之间发生混淆, 可以重命名您的方法."
+    },
+    {
+      "en": "to rename a street",
+      "cn": "给一条街道改名"
+    },
+    {
+      "en": "Unable to rename macro A macro with that name already exists.",
+      "cn": "要为巨集重新命名的名称,已有其他巨集使用."
+    },
+    {
+      "en": "Unable to rename temporary table on server to'| '.",
+      "cn": "无法将服务器上的临时表重命名为 “ |”."
+    },
+    {
+      "en": "You may rename all the items as you wish.",
+      "cn": "你可以把所有项目的名字修改成你想要的名字."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "rechristen"
+          ],
+          "tran_cn": "[计]重新命名，改名"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "重新命名, 改名",
+      "tran_en": "to give something a new name"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "给…重新取名，改名"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "renames"
+    ],
+    "past": [
+      "renamed"
+    ],
+    "done": [
+      "renamed"
+    ],
+    "ing": [
+      "renaming"
+    ]
+  }
+}

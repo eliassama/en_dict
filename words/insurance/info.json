@@ -1,0 +1,267 @@
+{
+  "word": "insurance",
+  "ipa": {
+    "us": "ɪnˈʃʊərəns",
+    "uk": "ɪnˈʃʊrəns"
+  },
+  "sentences": [
+    {
+      "en": "A business needs insurance against risks such as fire and flood.",
+      "cn": "公司需要上保险以防备火灾、洪灾等风险。"
+    },
+    {
+      "en": "Buy a policy only from an insurance company that is financially sound.",
+      "cn": "一定要从财务状况良好的保险公司购买保险。"
+    },
+    {
+      "en": "Check that your insurance policy covers breakages and damage during removals.",
+      "cn": "查看一下你的保险单，看其是否对搬运过程中的破损和毁坏赔偿。"
+    },
+    {
+      "en": "Insurance companies are trying to recoup their losses by increasing premiums.",
+      "cn": "保险公司正试图通过提高保费来弥补损失。"
+    },
+    {
+      "en": "It might be worthwhile to consider your attitude to an insurance policy.",
+      "cn": "考虑一下你对投保的看法也许有所助益。"
+    },
+    {
+      "en": "Police investigating a £10 million car insurance fiddle arrested 16 people yesterday.",
+      "cn": "调查涉及1,000万英镑的汽车保险诈骗案的警察昨天逮捕了16人。"
+    },
+    {
+      "en": "She is amazed that people still risk travelling without insurance.",
+      "cn": "对于人们仍然不上保险就冒险去旅行，她很惊愕。"
+    },
+    {
+      "en": "She learned her insurance had been canceled by Pacific Mutual Insurance Company.",
+      "cn": "她得知自己的保险已经被太平洋互助保险公司中止了。"
+    },
+    {
+      "en": "Skiers should be particularly choosy about the insurance policy they buy.",
+      "cn": "滑雪者在选择购买保险的问题上应该尤其慎重。"
+    },
+    {
+      "en": "The insurance company paid out for the stolen jewellery and silver.",
+      "cn": "保险公司赔付了遭窃的珠宝和银器。"
+    },
+    {
+      "en": "The insurance company will take warehouse stocks or treasury bonds as surety.",
+      "cn": "该保险公司将接受仓库库存货物或长期国库券作为担保。"
+    },
+    {
+      "en": "The insurance industry has produced its own proposals for universal health care.",
+      "cn": "保险业提出了自己的全民医疗保健方案。"
+    },
+    {
+      "en": "They believed they were participating in an insurance scam, not a murder.",
+      "cn": "他们认为自己是在参与一起保险诈骗，而不是谋杀。"
+    },
+    {
+      "en": "to pay insurance on your house",
+      "cn": "交住房保险金"
+    },
+    {
+      "en": "You can hedge against redundancy or illness with insurance.",
+      "cn": "可以购买保险以防失业或患病。"
+    },
+    {
+      "en": "You'll probably be able to buy supplemental insurance at an extra cost.",
+      "cn": "再额外多付一些钱的话，你或许就能买到附加险。"
+    },
+    {
+      "en": "Your father took out insurance to cover the mortgage.",
+      "cn": "你父亲购买了抵押借款保险。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "insurable",
+          "tran_cn": " 可保险的，适合保险的"
+        },
+        {
+          "word": "insured",
+          "tran_cn": " 已投保的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "insurability",
+          "tran_cn": " [保险] 可保险性"
+        },
+        {
+          "word": "insured",
+          "tran_cn": " 被保险人"
+        },
+        {
+          "word": "insurer",
+          "tran_cn": " 保险公司；承保人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "insured",
+          "tran_cn": " 确保；给…保险（insure的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "insure",
+          "tran_cn": " 确保；投保"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "insure",
+          "tran_cn": " 确保，保证；给…保险"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "assurance",
+            "backing",
+            "bond",
+            "guarantee",
+            "guaranty",
+            "indemnity",
+            "pledge",
+            "security",
+            "surety",
+            "warrant",
+            "warranty"
+          ],
+          "tran_cn": "安全保障,保险,保险业"
+        },
+        {
+          "words": [
+            "foresight",
+            "forethought",
+            "measure",
+            "precaution",
+            "preventive",
+            "protection",
+            "providence",
+            "provision",
+            "safeguard"
+          ],
+          "tran_cn": "警告,警惕"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deposit insurance",
+      "tran_cn": "存款保险"
+    },
+    {
+      "phrase": "endowment insurance",
+      "tran_cn": "养老保险"
+    },
+    {
+      "phrase": "health insurance",
+      "tran_cn": "健康保险"
+    },
+    {
+      "phrase": "insurance business",
+      "tran_cn": "保险业务"
+    },
+    {
+      "phrase": "insurance company",
+      "tran_cn": "保险公司"
+    },
+    {
+      "phrase": "insurance contract",
+      "tran_cn": "保险契约，保险合同"
+    },
+    {
+      "phrase": "insurance coverage",
+      "tran_cn": "[经]保险责任范围"
+    },
+    {
+      "phrase": "insurance fund",
+      "tran_cn": "保险基金"
+    },
+    {
+      "phrase": "insurance industry",
+      "tran_cn": "保险业"
+    },
+    {
+      "phrase": "insurance law",
+      "tran_cn": "保险法"
+    },
+    {
+      "phrase": "insurance policy",
+      "tran_cn": "保险单，保单"
+    },
+    {
+      "phrase": "insurance premium",
+      "tran_cn": "保险费"
+    },
+    {
+      "phrase": "labor insurance",
+      "tran_cn": "n. 劳保"
+    },
+    {
+      "phrase": "liability insurance",
+      "tran_cn": "责任保险（指保险公司负责被保险人依法对他人承担赔偿责任的保险）"
+    },
+    {
+      "phrase": "life insurance",
+      "tran_cn": "人寿保险；保险公司偿付的人寿金"
+    },
+    {
+      "phrase": "medical insurance",
+      "tran_cn": "医疗保险"
+    },
+    {
+      "phrase": "pension insurance",
+      "tran_cn": "养老保险"
+    },
+    {
+      "phrase": "property insurance",
+      "tran_cn": "财产保险"
+    },
+    {
+      "phrase": "social insurance",
+      "tran_cn": "社会保险"
+    },
+    {
+      "phrase": "unemployment insurance",
+      "tran_cn": "失业保险"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "保险（业），保费，预防措施",
+      "tran_en": "an arrangement with a company in which you pay them money, especially regularly, and they pay the costs if something bad happens, for example if you become ill or your car is damaged"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "insurances"
+    ]
+  }
+}

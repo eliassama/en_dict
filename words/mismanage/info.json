@@ -1,0 +1,54 @@
+{
+  "word": "mismanage",
+  "ipa": {
+    "us": "ˌmɪsˈmænɪdʒ",
+    "uk": "mɪsˈmænɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "The exigencies of forming may make it necessary to mismanage a pasture.",
+      "cn": "生产过程中的突发性事件可能会迫使采取不适当的草场管理措施."
+    },
+    {
+      "en": "The nation’s finances had been badly mismanaged.",
+      "cn": "国家的金融管理非常混乱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mismanagement",
+          "tran_cn": " 管理不善；处置失当"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "vt",
+      "tran_cn": "对…管理不善，对…经营不当",
+      "tran_en": "if someone mismanages something they are in charge of, they deal with or manage it badly"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "mismanages"
+    ],
+    "past": [
+      "mismanaged"
+    ],
+    "done": [
+      "mismanaged"
+    ],
+    "ing": [
+      "mismanaging"
+    ],
+    "noun": [
+      "mismanagement"
+    ]
+  }
+}

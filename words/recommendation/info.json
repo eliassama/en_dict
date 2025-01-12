@@ -1,0 +1,202 @@
+{
+  "word": "recommendation",
+  "ipa": {
+    "us": "ˌrekəmenˈdeɪʃn",
+    "uk": "ˌrekəmenˈdeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "A good face is a letter of recommendation.",
+      "cn": "漂亮的面孔就是最好的介绍信."
+    },
+    {
+      "en": "Academic staff are appointed on the recommendation of a committee.",
+      "cn": "教员是委员会推荐任命的。"
+    },
+    {
+      "en": "Acting on your recommendation, I have decided to read the article once more.",
+      "cn": "按照你的劝告, 我决定把这篇文章再读一遍."
+    },
+    {
+      "en": "He read Lu xun's on her recommendation.",
+      "cn": "根据她的推荐他阅读了鲁讯的作品."
+    },
+    {
+      "en": "His chief recommendation is his honesty.",
+      "cn": "他的主要长处是诚实."
+    },
+    {
+      "en": "I wrote him a good recommendation.",
+      "cn": "我为他写了一封很好的推荐信."
+    },
+    {
+      "en": "I'll overrule Tynan's recommendation and see she's admitted.",
+      "cn": "我将驳回泰纳恩的建议,保证埃米入境."
+    },
+    {
+      "en": "It's best to find a builder through personal recommendation.",
+      "cn": "最好通过私人介绍寻找施工人员。"
+    },
+    {
+      "en": "Major inter - agency disagreements are to be referred to CEQ for its recommendation.",
+      "cn": "机构之间的主要异议可以提交环境质量委员会做出建议."
+    },
+    {
+      "en": "Nearly 60% of our bookings come from repeat business and personal recommendation.",
+      "cn": "我们近60%的订单来自于回头客和熟人介绍。"
+    },
+    {
+      "en": "On O'Leary's recommendation, they started with tortellini.",
+      "cn": "在奥利里的推荐下，他们首先点了意大利饺子。"
+    },
+    {
+      "en": "Please find enclosed my CV and a letter of recommendation from my school principal.",
+      "cn": "请查收我附件里的CV,和我学校推荐人的介绍信."
+    },
+    {
+      "en": "Swiss chocolates need no recommendation.",
+      "cn": "瑞士巧克力无需推销."
+    },
+    {
+      "en": "The decision was made on the recommendation of the Interior Minister.",
+      "cn": "决议是根据内政部部长的提议作出的。"
+    },
+    {
+      "en": "The House of Representatives approved the Commission's recommendation on January 9,1902.",
+      "cn": "众议院于1902年1月9日批准该委员会的建议书."
+    },
+    {
+      "en": "The WHO recommendation has no legal status.",
+      "cn": "世界卫生组织的建议不具备法律效应。"
+    },
+    {
+      "en": "This method deserves recommendation.",
+      "cn": "这种做法值得提倡."
+    },
+    {
+      "en": "Try to get letters of recommendation from bosses and colleagues.",
+      "cn": "设法得到老板和同事的推荐信。"
+    },
+    {
+      "en": "We chose the hotel on their recommendation (= because they recommended it).",
+      "cn": "我们根据他们的推荐选了这家酒店。"
+    },
+    {
+      "en": "We will review the case and make a recommendation to the client.",
+      "cn": "我们将审查此案，然后向当事人提出建议。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "recommend",
+          "tran_cn": " 推荐；建议"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "recommend",
+          "tran_cn": " 推荐，介绍；劝告；使受欢迎；托付"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "advice",
+            "counsel",
+            "hint",
+            "opinion",
+            "pointer",
+            "suggestion",
+            "the",
+            "tip",
+            "to",
+            "wise",
+            "word"
+          ],
+          "tran_cn": "劝导,暗示"
+        },
+        {
+          "words": [
+            "caution",
+            "direction",
+            "guidance",
+            "injunction",
+            "instruction",
+            "monition",
+            "order",
+            "prescription",
+            "prompting",
+            "urging"
+          ],
+          "tran_cn": "指导"
+        },
+        {
+          "words": [
+            "approval",
+            "credential",
+            "endorsement",
+            "favorable",
+            "good",
+            "honorable",
+            "mention",
+            "plug",
+            "reference",
+            "testimonial",
+            "word"
+          ],
+          "tran_cn": "推荐信"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "glory",
+            "leadership",
+            "proposition"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "letter of recommendation",
+      "tran_cn": "保荐信，介绍信"
+    },
+    {
+      "phrase": "on the recommendation of",
+      "tran_cn": "通过…的推荐"
+    },
+    {
+      "phrase": "recommendation letter",
+      "tran_cn": "推荐信"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "推荐，推荐信，建议，可取之处",
+      "tran_en": "official advice given to someone, especially about what to do"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "recommendations"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "word": "diplomatic",
+  "ipa": {
+    "us": "ˌdɪpləˈmætɪk",
+    "uk": "ˌdɪpləˈmætɪk"
+  },
+  "sentences": [
+    {
+      "en": "After his election defeat he was reassigned to the diplomatic service.",
+      "cn": "落选之后，他又被派到外交部门工作。"
+    },
+    {
+      "en": "Attempts are being made to settle the dispute by diplomatic means.",
+      "cn": "正在努力通过外交途径解决争端。"
+    },
+    {
+      "en": "Britain and Argentina reopened diplomatic relations.",
+      "cn": "英国和阿根廷重新建立了外交关系。"
+    },
+    {
+      "en": "Diplomatic efforts to end the fighting began on October 25.",
+      "cn": "停战的外交努力于10月25日开始。"
+    },
+    {
+      "en": "Diplomatic relations were frozen until August this year.",
+      "cn": "外交关系直到今年8月才解冻。"
+    },
+    {
+      "en": "Greece has established full diplomatic relations with Israel.",
+      "cn": "希腊已经和以色列建立了全面的外交关系。"
+    },
+    {
+      "en": "His books on diplomatic history were eminently readable.",
+      "cn": "他写的有关外交史的书可读性非常强。"
+    },
+    {
+      "en": "His visit is expected to lead to the restoration of diplomatic relations.",
+      "cn": "人们期待他的出访会恢复外交关系。"
+    },
+    {
+      "en": "My limited diplomatic skills were tested to the utmost.",
+      "cn": "我有限的外交手腕儿受到了极其严峻的考验。"
+    },
+    {
+      "en": "Sloane used inside diplomatic information to make himself rich.",
+      "cn": "斯隆利用外交内幕消息发了财。"
+    },
+    {
+      "en": "The President's envoy set off on another diplomatic trip.",
+      "cn": "总统的使节开始了又一次外交之旅。"
+    },
+    {
+      "en": "The proposal offered both sides a way out of the diplomatic impasse.",
+      "cn": "这一提议使双方都能摆脫外交僵局."
+    },
+    {
+      "en": "the severance of diplomatic relations",
+      "cn": "外交关系的断绝"
+    },
+    {
+      "en": "The tone of his language was diplomatic and polite.",
+      "cn": "他说话圆通得体、彬彬有礼。"
+    },
+    {
+      "en": "The two sides would like to see the normalisation of diplomatic relations.",
+      "cn": "双方都愿意看到外交关系的正常化。"
+    },
+    {
+      "en": "We were both strangers to diplomatic life.",
+      "cn": "我们俩在外交方面都是生手。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "diplomatically",
+          "tran_cn": " 在外交上；靠外交途径；圆滑地；婉转地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "diplomacy",
+          "tran_cn": " 外交；外交手腕；交际手段"
+        },
+        {
+          "word": "diplomat",
+          "tran_cn": " 外交家，外交官；有外交手腕的人；处事圆滑机敏的人"
+        },
+        {
+          "word": "diplomatist",
+          "tran_cn": " 外交家；外交官"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "ambassadorial",
+            "consular",
+            "ministerial"
+          ],
+          "tran_cn": "外交上的"
+        },
+        {
+          "words": [
+            "artful",
+            "conciliatory",
+            "discreet",
+            "gracious",
+            "judicious",
+            "politic",
+            "prudent",
+            "sensitive",
+            "smooth",
+            "suave",
+            "subtle",
+            "tactful"
+          ],
+          "tran_cn": "老练的,有策略的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "diplomatic channels",
+      "tran_cn": "外交途径"
+    },
+    {
+      "phrase": "diplomatic courier",
+      "tran_cn": "外交信使"
+    },
+    {
+      "phrase": "diplomatic immunity",
+      "tran_cn": "n. 外交豁免权"
+    },
+    {
+      "phrase": "diplomatic mission",
+      "tran_cn": "使馆；外交使团"
+    },
+    {
+      "phrase": "diplomatic practice",
+      "tran_cn": "外交惯例"
+    },
+    {
+      "phrase": "diplomatic recognition",
+      "tran_cn": "外交承认"
+    },
+    {
+      "phrase": "diplomatic relations",
+      "tran_cn": "外交关系"
+    },
+    {
+      "phrase": "diplomatic service",
+      "tran_cn": "n. 外交部门；驻外部门"
+    },
+    {
+      "phrase": "diplomatic ties",
+      "tran_cn": "外交关系；邦交"
+    },
+    {
+      "phrase": "establishment of diplomatic relations",
+      "tran_cn": "建交；建立外交关系"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "外交（官）的，有手腕的，策略的",
+      "tran_en": "relating to or involving the work of diplomats"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "diplomatically"
+    ]
+  }
+}

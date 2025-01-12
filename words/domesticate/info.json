@@ -1,0 +1,156 @@
+{
+  "word": "domesticate",
+  "ipa": {
+    "us": "dəˈmestɪkeɪt",
+    "uk": "dəˈmestɪkeɪt"
+  },
+  "sentences": [
+    {
+      "en": "If you domesticate this raccoon, it will have trouble living in the wild.",
+      "cn": "如果你驯养这只浣熊, 它生活在野外将会有困难."
+    },
+    {
+      "en": "Many thousand years ago people learned how to domesticate animals.",
+      "cn": "数千年以前人们就学会了饲养动物."
+    },
+    {
+      "en": "Objective: to do domesticate cultivation of Asarum heteropodies Fr.",
+      "cn": "目的: 驯化栽培北细辛、华细辛."
+    },
+    {
+      "en": "She wanted to domesticate it , I wanted make a present of the homestead and move out.",
+      "cn": "她想留它下来驯养.可我却认为,把我们的住所送给雷龙,我们搬走为上策."
+    },
+    {
+      "en": "Some men are very hard to domesticate.",
+      "cn": "有些男人很难做好家务活。"
+    },
+    {
+      "en": "We domesticated the dog to help us with hunting.",
+      "cn": "我们驯养狗来帮助我们打猎。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "domestic",
+          "tran_cn": " 国内的；家庭的；驯养的；一心只管家务的"
+        },
+        {
+          "word": "domesticated",
+          "tran_cn": " 家养的；驯服的；喜欢家庭生活的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "domestically",
+          "tran_cn": " 国内地；家庭式地；适合国内地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "domestic",
+          "tran_cn": " 国货；佣人"
+        },
+        {
+          "word": "domestication",
+          "tran_cn": " 驯养；教化"
+        },
+        {
+          "word": "domesticity",
+          "tran_cn": " 家庭生活；专心于家务；对家庭的挚爱"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "domesticated",
+          "tran_cn": " 驯养（domesticate的过去分词）；使习惯于家庭生活"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "acclimate",
+            "accustom",
+            "assimilate",
+            "familiarize",
+            "habituate",
+            "naturalize",
+            "orient"
+          ],
+          "tran_cn": "使归化"
+        },
+        {
+          "words": [
+            "break",
+            "housebreak",
+            "tame",
+            "train"
+          ],
+          "tran_cn": "驯养"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "introduce",
+            "to teach"
+          ],
+          "tran_cn": "驯养；教化；引进"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "驯养；教化；引进",
+      "tran_en": "to make an animal able to work for people or live with them as a pet"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "驯养，使爱家，适应家庭生活，引进",
+      "tran_en": "to make an animal able to work for people or live with them as a pet"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "domesticates"
+    ],
+    "past": [
+      "domesticated"
+    ],
+    "done": [
+      "domesticated"
+    ],
+    "ing": [
+      "domesticating"
+    ],
+    "noun": [
+      "domestication"
+    ],
+    "adj": [
+      "domesticated"
+    ]
+  }
+}

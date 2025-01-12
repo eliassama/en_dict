@@ -1,0 +1,190 @@
+{
+  "word": "interrogate",
+  "ipa": {
+    "us": "ɪnˈterəɡeɪt",
+    "uk": "ɪnˈterəɡeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Before he could interrogate Harravan, though, the pirate was mysteriously murdered in prison.",
+      "cn": "但在他审问哈拉万之前, 这个海盗就莫名其妙地在监狱里被人杀了."
+    },
+    {
+      "en": "But, leaving buy interrogate and arrest to be passed on property is different.",
+      "cn": "但是, 留置盘问与拘传在性质上是不同的."
+    },
+    {
+      "en": "DeSalvo gets a call from his superiors giving Jack permission to interrogate the prisoner.",
+      "cn": "迪沙佛接到上级的电话,批准了杰克审讯维克托."
+    },
+    {
+      "en": "Home minister would definitely interrogate me on why I had left it there.",
+      "cn": "所以,我就将整篮的衣服夹都放在它旁边,大家有个“照应”,内政部长也毕竟会问起此事."
+    },
+    {
+      "en": "Mason decides to interrogate Penticoff himself.",
+      "cn": "梅森决定亲自审问彭蒂科夫."
+    },
+    {
+      "en": "One , aggrandizement spot supervises and direct consciousness, thorough a gleam of catchs contradictory interrogate to inscribe.",
+      "cn": "强化现场督办意识, 深入一线抓矛盾查问题."
+    },
+    {
+      "en": "Police interrogate his name and address.",
+      "cn": "警察询问他的名字和地址."
+    },
+    {
+      "en": "Some programs need to directly interrogate the dynamic type of an object at run time.",
+      "cn": "一些程序需要在运行时直接询问对象的动态类型."
+    },
+    {
+      "en": "Starts to interrogate to me, scolds.",
+      "cn": "开始对我质问, 责骂."
+    },
+    {
+      "en": "The judges may interrogate the defendant.",
+      "cn": "审判人员可以讯问被告人."
+    },
+    {
+      "en": "The police interrogated the suspect for several hours.",
+      "cn": "警察盘问了这名嫌疑犯好几个小时。"
+    },
+    {
+      "en": "The teacher encouraged us to think and interrogate, and tried to resolve all our questions.",
+      "cn": "老师常鼓励学生思考及发问, 并解答同学之疑问."
+    },
+    {
+      "en": "Where is his son? I need interrogate him at once.",
+      "cn": "“他儿子在哪里? 我要马上审问他. ”"
+    },
+    {
+      "en": "Why? So you can interrogate him?",
+      "cn": "为什么? 这样你就可以审讯他了?"
+    },
+    {
+      "en": "You wish to Interrogate the prisoner?",
+      "cn": "你想要质问那个囚犯?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interrogative",
+          "tran_cn": " 疑问的；质问的"
+        },
+        {
+          "word": "interrogatory",
+          "tran_cn": " 质问的；疑问的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interrogation",
+          "tran_cn": " 讯问；审问；[语] 疑问句"
+        },
+        {
+          "word": "interrogative",
+          "tran_cn": " 疑问词"
+        },
+        {
+          "word": "interrogator",
+          "tran_cn": " 质问者；询问机"
+        },
+        {
+          "word": "interrogatory",
+          "tran_cn": " 质问；疑问"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ask",
+            "cross-examine",
+            "examine",
+            "grill",
+            "interview",
+            "query",
+            "question",
+            "quiz",
+            "test"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "question",
+            "bring to account"
+          ],
+          "tran_cn": "审问；质问"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cross-examine",
+            "examine",
+            "grill",
+            "inquire",
+            "question",
+            "quiz",
+            "test"
+          ],
+          "tran_cn": "询问;盘问"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "审问, 询问",
+      "tran_en": "to ask someone a lot of questions for a long time in order to get information, sometimes using threats"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "审问，质问"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "询问，审问，提出问题，[计]询问",
+      "tran_en": "to ask someone a lot of questions for a long time in order to get information, sometimes using threats"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "interrogates"
+    ],
+    "past": [
+      "interrogated"
+    ],
+    "done": [
+      "interrogated"
+    ],
+    "ing": [
+      "interrogating"
+    ],
+    "noun": [
+      " interrogator",
+      "interrogation"
+    ]
+  }
+}

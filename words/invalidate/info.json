@@ -1,0 +1,171 @@
+{
+  "word": "invalidate",
+  "ipa": {
+    "us": "ɪnˈvælɪdeɪt",
+    "uk": "ɪnˈvælɪdeɪt"
+  },
+  "sentences": [
+    {
+      "en": "A faulty signature may invalidate a cheque.",
+      "cn": "签名的笔迹不对会使支票无效."
+    },
+    {
+      "en": "Because the company has been taken over, the contract has been invalidate.",
+      "cn": "因为公司被合并, 合同已变得无效."
+    },
+    {
+      "en": "Failure to disclose all material information could invalidate the insurance.",
+      "cn": "如隐瞒任何重要事实,均可导致本保单失效."
+    },
+    {
+      "en": "Failure to disclose all relevant changes may invalidate your policy.",
+      "cn": "未能披露所有的相关变化会令保单无效。"
+    },
+    {
+      "en": "In the contrary situation, they do not entirely invalidate or counterbalance the particular accidental determination.",
+      "cn": "反之, 这一特殊非主要决定因素并不完全无效或被抵消."
+    },
+    {
+      "en": "No such Variation shall vitiate or invalidate this Contract.",
+      "cn": "任何该等变更都不会影响本合同或造成本合同失效."
+    },
+    {
+      "en": "Printing and other quality control errors will not invalidate an otherwise valid prize claim.",
+      "cn": "印刷或其他质量问题不会使有效得奖券失效."
+    },
+    {
+      "en": "Remark: Rapid evaporation or application of sufficient heat will invalidate the result.",
+      "cn": "注: 快速的蒸发或用热过当都将使测试结果无效."
+    },
+    {
+      "en": "The invalidity of one clause does not invalidate the agreement.",
+      "cn": "本协议任何一款无效不影响整个协议的效力."
+    },
+    {
+      "en": "The Ministry of Foreign Affairs may authorize other agencies to revoke or invalidate a visa.",
+      "cn": "前项撤销或废止签证,外交部得委讬其他机关办理."
+    },
+    {
+      "en": "The Security setting to invalidate version one signatures is set.",
+      "cn": "已设置使版本签名无效的安全设置."
+    },
+    {
+      "en": "These can evolve to invalidate piezoelectric devices with the constant or cyclic loads.",
+      "cn": "在单调或交变力电外载作用下,损伤可能逐步演化,并造成器件失效."
+    },
+    {
+      "en": "When her wave would crash, they fought because he would invalidate her need to be upset.",
+      "cn": "当她的波浪跌落时, 他们便开始吵架,因为他一心要消除她难过的感觉."
+    },
+    {
+      "en": "You must disclose all material facts. Failure to do so may invalidate the Policy.",
+      "cn": "所有重要事实必须如实告知,否则将影响此保险合同的有效性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "invalid",
+          "tran_cn": " 无效的；有病的；残废的"
+        },
+        {
+          "word": "invaluable",
+          "tran_cn": " 无价的；非常贵重的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "invalid",
+          "tran_cn": " 病人；残废者"
+        },
+        {
+          "word": "invalidation",
+          "tran_cn": " 失效；无效"
+        },
+        {
+          "word": "invalidity",
+          "tran_cn": " 无效，无价值"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "invalid",
+          "tran_cn": " 变得病弱；因病而奉命退役"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "invalid",
+          "tran_cn": " 使伤残；使退役"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "annul",
+            "repeal",
+            "revoke"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "nullify",
+            "deactivate"
+          ],
+          "tran_cn": "使无效；使无价值"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使无效",
+      "tran_en": "to make a document, ticket, claim etc no longer legally or officially acceptable"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使无效，使作废，证明…错误，使站不住脚"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "invalidates"
+    ],
+    "past": [
+      "invalidated"
+    ],
+    "done": [
+      "invalidated"
+    ],
+    "ing": [
+      "invalidating"
+    ],
+    "noun": [
+      "invalidation"
+    ]
+  }
+}

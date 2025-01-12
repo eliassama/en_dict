@@ -1,0 +1,134 @@
+{
+  "word": "immutable",
+  "ipa": {
+    "us": "ɪˈmju:təbl",
+    "uk": "ɪˈmjutəbəl"
+  },
+  "sentences": [
+    {
+      "en": "Alter what is changeable, and accept what is immutable.",
+      "cn": "改变能改变的, 接受不能改变的."
+    },
+    {
+      "en": "But the image isn't fixed and immutable. You can alter it.",
+      "cn": "但那个形象否则固定改变的, 你没出国疑问改变它的."
+    },
+    {
+      "en": "Collection types for working with immutable data, including list and sequence types.",
+      "cn": "用于不可变数据的集合类型, 包括列表和序列类型."
+    },
+    {
+      "en": "God is not subjected to paramount immutable laws of the cosmos.",
+      "cn": "上帝并不受制于至上的,永恒的宇宙法则."
+    },
+    {
+      "en": "In summary, data that is distributed must be both immutable and stable.",
+      "cn": "总之, 分布式的数据就必须是不可变的,稳定的."
+    },
+    {
+      "en": "In the Standard Model , the fine structure constant is immutable throughout eternity.",
+      "cn": "在粒子物理的标准模型中, 精细结构常数是永远不变的."
+    },
+    {
+      "en": "It also acceptable to cache versioned data since each version is immutable.",
+      "cn": "既然每个版本的数据是不可变的,那么混存版本化数据也是可以接受的."
+    },
+    {
+      "en": "It is imperative that all valid data also be immutable and stable.",
+      "cn": "所有有效的数据也必须是不可改变的和稳定的."
+    },
+    {
+      "en": "Once a message is outside the service boundary , it must be immutable.",
+      "cn": "消息一旦在服务之外, 它不惜是不可变的."
+    },
+    {
+      "en": "Philip Glass is ignorant of establishing an immutable, sacrosanct urtext.",
+      "cn": "菲利普·格拉斯不屑于创立不变的 、 神圣的原始文本."
+    },
+    {
+      "en": "Python strings are immutable sequences of bytes or characters.",
+      "cn": "Python中的字符串是不可变的字符或字节的序列."
+    },
+    {
+      "en": "The brain is by no means immutable, even in adulthood.",
+      "cn": "大脑绝对不是一成不变的, 即便是成年之后."
+    },
+    {
+      "en": "The face of the young woman darkened, but she sat on immutable.",
+      "cn": "霎时,玛贝尔脸色阴沉, 但她仍无动于衷."
+    },
+    {
+      "en": "They free our minds from considering our world as fixed and immutable.",
+      "cn": "它们改变着人们将世界看作是永恒不变的观点."
+    },
+    {
+      "en": "This decision should not be seen as immutable.",
+      "cn": "不该把这个决定看成是不可改变的。"
+    },
+    {
+      "en": "You cannot set an immutable property on a non tip revision.",
+      "cn": "不能对非提示性修订设置不可变的属性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "immutably",
+          "tran_cn": " 不变地；永恒地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "immutability",
+          "tran_cn": " 不变；永恒性；不变性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "constant",
+            "permanent",
+            "steady"
+          ],
+          "tran_cn": "不变的；不可变的；不能变的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abiding",
+            "changeless",
+            "constant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不可改变的",
+      "tran_en": "never changing or impossible to change"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "immutability"
+    ]
+  }
+}

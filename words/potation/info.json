@@ -1,0 +1,60 @@
+{
+  "word": "potation",
+  "ipa": {
+    "us": "pəʊ'teɪʃən",
+    "uk": "poˈteʃən"
+  },
+  "sentences": [
+    {
+      "en": "Actually, reasonable potation is not able to hurt nerve cell.",
+      "cn": "其实，适量饮酒不会对神经细胞造成伤害。"
+    },
+    {
+      "en": "Defabing It defends the baby against on they potation microbial all the potential affect in him.",
+      "cn": "母乳帮助婴儿抵抗所有潜在的对他们不利的微生物."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "potable",
+          "tran_cn": " 适于饮用的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "potable",
+          "tran_cn": " 饮料（常复数）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "beverage",
+            "drink"
+          ],
+          "tran_cn": "喝；饮料"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "酒，喝，饮，酒类饮料",
+      "tran_en": "the act of drinking "
+    }
+  ],
+  "exchange": {}
+}

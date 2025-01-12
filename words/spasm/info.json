@@ -1,0 +1,167 @@
+{
+  "word": "spasm",
+  "ipa": {
+    "us": "ˈspæzəm",
+    "uk": " ˈspæzəm"
+  },
+  "sentences": [
+    {
+      "en": "A lack of magnesium causes muscles to go into spasm.",
+      "cn": "缺镁会导致肌肉痉挛。"
+    },
+    {
+      "en": "A muscular spasm in the coronary artery can cause a heart attack.",
+      "cn": "冠状动脉的肌肉痉挛可能导致心脏病。"
+    },
+    {
+      "en": "A spasm of pain brought his thoughts back to the present.",
+      "cn": "一阵剧痛把他的思绪拉回到了现在。"
+    },
+    {
+      "en": "Again a spasm of longing and remorse throbbed through Ashurst.",
+      "cn": "艾舍斯特心头又激动起一阵渴望和悔恨."
+    },
+    {
+      "en": "He felt a spasm of panic sweeping over him.",
+      "cn": "他感到一阵恐慌传遍全身."
+    },
+    {
+      "en": "He kicked the chair in a spasm of impatience.",
+      "cn": "他突然变得不耐烦,一脚踢向椅子."
+    },
+    {
+      "en": "If breathing is not restored, the patient may go into spasm.",
+      "cn": "如果不能恢复呼吸, 这个病人就会发生抽搐."
+    },
+    {
+      "en": "Kemp felt a spasm of fear.",
+      "cn": "肯普突然感到一阵恐惧。"
+    },
+    {
+      "en": "Maggie felt a muscle spasm in her back.",
+      "cn": "玛吉觉得背部肌肉一阵抽搐。"
+    },
+    {
+      "en": "She could not speak; her throat was in spasm.",
+      "cn": "她喉咙抽搐着,说不出话来."
+    },
+    {
+      "en": "The child in a spasm kept twitching his arms and legs.",
+      "cn": "那个害痉挛的孩子四肢不断地抽搐."
+    },
+    {
+      "en": "The injection sent his leg into spasm .",
+      "cn": "一针打下去，他的腿就痉挛了。"
+    },
+    {
+      "en": "Then the end of the Korean War produced another spasm of reappraisal.",
+      "cn": "后来,朝鲜战争的结束引起了又一次重新评价的热潮."
+    },
+    {
+      "en": "Then the spasm passed, leaving a dull ache behind.",
+      "cn": "接着肚痛过去了, 只留下一阵麻木的感觉."
+    },
+    {
+      "en": "There was another spasm in his entrails, the heavy boots were approaching.",
+      "cn": "他的五脏六腑又是一阵痉挛; 皮靴咔嚓声又走近了."
+    },
+    {
+      "en": "Tom’s jaw muscles had gone into spasm .",
+      "cn": "汤姆的颌部肌肉开始抽搐。"
+    },
+    {
+      "en": "When the spasm passed, it left him weak and sweating.",
+      "cn": "一阵痉挛之后, 他虚弱无力,一直冒汗."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "spasmodic",
+          "tran_cn": " 痉挛的，痉挛性的；间歇性的"
+        },
+        {
+          "word": "spastic",
+          "tran_cn": " 痉挛的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "spasmodically",
+          "tran_cn": " 断续性地；发作性地；痉挛性地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "spastic",
+          "tran_cn": " 麻痹患者"
+        },
+        {
+          "word": "spasticity",
+          "tran_cn": " 强直状态，[临床] 痉挛状态"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "convulsion",
+            "fit",
+            "seizure",
+            "twitch"
+          ],
+          "tran_cn": "抽筋;发作"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "convulsion",
+            "fit",
+            "seizure",
+            "shrug",
+            "twitch"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "facial spasm",
+      "tran_cn": "[医]面痉挛"
+    },
+    {
+      "phrase": "muscle spasm",
+      "tran_cn": "肌肉痉挛"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "痉挛，抽搐，（能量、行为等的）突发，发作",
+      "tran_en": "an occasion when your muscles suddenly become tight, causing you pain"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "spasms"
+    ]
+  }
+}

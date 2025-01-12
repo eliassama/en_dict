@@ -1,0 +1,163 @@
+{
+  "word": "occupancy",
+  "ipa": {
+    "us": "ˈɒkjəpənsi",
+    "uk": "ˈɑːkjəpənsi"
+  },
+  "sentences": [
+    {
+      "en": "Across the industry, occupancy rates have dropped about 10 percent Carew said.",
+      "cn": "整个行业, 住房率已下降10%左右,卡鲁说."
+    },
+    {
+      "en": "Attention should be given to their concerns for occupancy?",
+      "cn": "置业关注办理入住应注意 什么 ?"
+    },
+    {
+      "en": "During the winter months, the occupancy rate is down to 50.",
+      "cn": "冬季的几个月里, 客房率降到50%."
+    },
+    {
+      "en": "He took uninterrupted occupancy of this position for ten years.",
+      "cn": "他持续担任这一职位10年."
+    },
+    {
+      "en": "Hotel Manager : The advertised rate is based on double occupancy.",
+      "cn": "广告上所说的价格是按两个人一间房算的."
+    },
+    {
+      "en": "Hotel occupancy has been as low as 40%.",
+      "cn": "酒店入住率最低达到40％。"
+    },
+    {
+      "en": "Hotel occupancy rose once again in first nine months of 2003.",
+      "cn": "酒店入住率于二零零三年首九个月再度攀升."
+    },
+    {
+      "en": "Hotels in Tokyo enjoy over 90% occupancy.",
+      "cn": "东京的宾馆入住率高达90%以上。"
+    },
+    {
+      "en": "Many hotels are reporting far lower occupancy - rates than they had expected.",
+      "cn": "许多旅馆称 入住 率比预期的要低得多."
+    },
+    {
+      "en": "Prices are based on full occupancy of a studio or apartment.",
+      "cn": "价格是建立在公寓的完全入住率之上的."
+    },
+    {
+      "en": "Prices are based on full occupancy of an apartment.",
+      "cn": "公寓租金按全部住满为基础计算。"
+    },
+    {
+      "en": "The carpet had grown only more ragged during the two years of their joint occupancy.",
+      "cn": "地毯比两年前他们开始同居的时候,更加破了."
+    },
+    {
+      "en": "The occupancy for each show fell 4 percent.",
+      "cn": "每场电影的上座率降低了4%."
+    },
+    {
+      "en": "The occupancy rate of beds has been averaging out about 80 percent.",
+      "cn": "病床占用率平均保持在80%左右."
+    },
+    {
+      "en": "This process also creates a coordinated route to post - occupancy evaluation.",
+      "cn": "这个过程与使用后评价是并列的."
+    },
+    {
+      "en": "Tour operators report low occupancy rates.",
+      "cn": "旅游业经营者反映客房入住率低。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "occupied",
+          "tran_cn": " 已占用的；使用中的；无空闲的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "occupant",
+          "tran_cn": " 居住者；占有者"
+        },
+        {
+          "word": "occupation",
+          "tran_cn": " 职业；占有；消遣；占有期"
+        },
+        {
+          "word": "occupier",
+          "tran_cn": " 居住人；占有者；占用者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "occupied",
+          "tran_cn": " 占有（occupy的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "occupy",
+          "tran_cn": " 占据，占领；居住；使忙碌"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "residence",
+            "having"
+          ],
+          "tran_cn": "居住；[数]占有；占用"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "habitation",
+            "possession"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "occupancy rate",
+      "tran_cn": "居住率；租用率"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "占有，占领，居住，[物]占有率，占据期间",
+      "tran_en": "the number of people who stay, work, or live in a room or building at the same time"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "occupancies"
+    ]
+  }
+}

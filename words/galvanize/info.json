@@ -1,0 +1,121 @@
+{
+  "word": "galvanize",
+  "ipa": {
+    "us": "ˈgælvənaɪz",
+    "uk": "ˈɡælvəˌnaɪz"
+  },
+  "sentences": [
+    {
+      "en": "How can we galvanize the students into taking the responsibility for their work?",
+      "cn": "我们怎样才能激励学生对他们的作业负起责任来 呢 ?"
+    },
+    {
+      "en": "It is more usual to complete the weldment first and then to galvanize it.",
+      "cn": "所以常用的方法是先把钢板焊起来再镀锌."
+    },
+    {
+      "en": "The aid appeal has galvanized the country's business community.",
+      "cn": "这份援助呼吁已使该国的商界采取行动。"
+    },
+    {
+      "en": "The report galvanized world opinion.",
+      "cn": "这篇报道一出，世界舆论一片哗然。"
+    },
+    {
+      "en": "To galvanize or plate ( metal ) by immersion.",
+      "cn": "'电镀'.''通过浸泡镀涂金属."
+    },
+    {
+      "en": "Will it galvanize this team in some way? Who knows?",
+      "cn": "这将会刺激这个球队 吗?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "galvanization",
+          "tran_cn": " 镀锌，电镀；通流电"
+        },
+        {
+          "word": "galvanizer",
+          "tran_cn": " 电镀工；激励者"
+        },
+        {
+          "word": "galvanizing",
+          "tran_cn": " 镀锌"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "galvanizing",
+          "tran_cn": " 给…通电；给…镀锌；刺激（galvanize的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "galvanise",
+          "tran_cn": " 激励；镀锌；通电流于（等于galvanize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "inspire"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "stimulate",
+            "fan"
+          ],
+          "tran_cn": "镀锌；通电；刺激"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "通电流于, 电镀",
+      "tran_en": "to shock or surprise someone so that they do something to solve a problem, improve a situation etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（用电）刺激，通电，电镀，镀锌，激励"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "galvanizes"
+    ],
+    "past": [
+      "galvanized"
+    ],
+    "done": [
+      "galvanized"
+    ],
+    "ing": [
+      "galvanizing"
+    ]
+  }
+}

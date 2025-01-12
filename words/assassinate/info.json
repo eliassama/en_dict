@@ -1,0 +1,118 @@
+{
+  "word": "assassinate",
+  "ipa": {
+    "us": "əˈsæsɪneɪt",
+    "uk": "əˈsæsɪneɪt"
+  },
+  "sentences": [
+    {
+      "en": "a plot to assassinate the President",
+      "cn": "刺杀总统的阴谋"
+    },
+    {
+      "en": "At the entry for \" kill \" , my thesaurus lists \" murder \" , \" assassinate \" and \" waste \" .",
+      "cn": "我的同义词词典在kill条目中列出murder, assassinate, waste 词条."
+    },
+    {
+      "en": "Kill , Assassinate , Execute , Dispatch , Murder , Slay, Slaughter.",
+      "cn": "Kill(v. )---“杀”, “杀死”."
+    },
+    {
+      "en": "Perhaps they intend to assassinate me.",
+      "cn": "也许他们是想行刺我."
+    },
+    {
+      "en": "The foreigner learned martial arts here from we, later knife sword to assassinate us!",
+      "cn": "外国人从我们这里学会了武术, 以后就刀剑来刺杀我们!"
+    },
+    {
+      "en": "The plot assassinate the governor was discovered by the FBI.",
+      "cn": "谋杀州长的阴谋被联邦调查局所查获."
+    },
+    {
+      "en": "The Secret Service smelled out a plot to assassinate the President.",
+      "cn": "情报部门发现了行刺总统的阴谋."
+    },
+    {
+      "en": "There was a deep plot to assassinate the leader.",
+      "cn": "有个刺杀领导人的老谋深算的密谋."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assassin",
+          "tran_cn": " 刺客，暗杀者"
+        },
+        {
+          "word": "assassination",
+          "tran_cn": " 暗杀，行刺"
+        },
+        {
+          "word": "assassinator",
+          "tran_cn": " 刺客；暗杀者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "butcher",
+            "kill",
+            "murder",
+            "purge"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "kill",
+            "murder"
+          ],
+          "tran_cn": "暗杀;行刺"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "暗杀，行刺",
+      "tran_en": "to murder an important person"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "暗杀",
+      "tran_en": "to murder an important person"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "assassinates"
+    ],
+    "past": [
+      "assassinated"
+    ],
+    "done": [
+      "assassinated"
+    ],
+    "ing": [
+      "assassinating"
+    ],
+    "noun": [
+      "assassination"
+    ]
+  }
+}

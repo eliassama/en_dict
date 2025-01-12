@@ -1,0 +1,143 @@
+{
+  "word": "stepwise",
+  "ipa": {
+    "us": "ˈstepwaɪz",
+    "uk": "ˈstɛpˌwaɪz"
+  },
+  "sentences": [
+    {
+      "en": "A stepwise nucleophilic displacement involving 36 was highly unlikely.",
+      "cn": "涉及(36)的这种逐步亲核取代是不大可能的."
+    },
+    {
+      "en": "As compared with stepwise regression, information criteria enjoy solid theoretical foundation and good statistical properties.",
+      "cn": "同逐步回归法相比, 信息标准模型选择法有着坚实的统计理论基础及清晰而优良的统计性质."
+    },
+    {
+      "en": "Covariance analysis with forward stepwise variable selection was carried out.",
+      "cn": "统计方法采用逐步向前变量选择协方差分析."
+    },
+    {
+      "en": "Methods order comparison and stepwise are employed.",
+      "cn": "研究方法逐步回归和序列化比较."
+    },
+    {
+      "en": "Most computer programs introduce or delete the dependent variables in a stepwise manner.",
+      "cn": "大部分计算机程序均以逐级计算方式来输入或删除某些应变量."
+    },
+    {
+      "en": "Principal component - stepwise regression algorithm was proposed for the determination of pulp kappa number by near - infrared spectroscopy.",
+      "cn": "主成分 - 逐步回归法用于纸浆卡伯值的近红外光谱法测量建模."
+    },
+    {
+      "en": "Stepwise wound infiltration of xylocaine for local anesthesia.",
+      "cn": "沿著五至七公分的伤口注射局部麻醉剂."
+    },
+    {
+      "en": "The author set up two models respectively with stepwise regression and partial leastnonlinear multiple peak values.",
+      "cn": "作者基于经验数据分别运用逐步回归和偏最小二乘回归方法建立了两个模型."
+    },
+    {
+      "en": "The correlation among data was tested with multiple linear stepwise regression.",
+      "cn": "数据间相关性采用多元线性逐步回归检验."
+    },
+    {
+      "en": "The data was analyzed by chi - square, stepwise regression analysis and covariance statistics.",
+      "cn": "资料用卡方检验 、 逐步回归和协方差分析等."
+    },
+    {
+      "en": "The model used multiple stepwise regression method and back propagation method independently.",
+      "cn": "模型分别采用多元逐步回归方法和反向传播方法."
+    },
+    {
+      "en": "The parasite population opposing vertical resistance may undergo stepwise development controlled by many genes.",
+      "cn": "抵抗垂直抗性的寄生物种群可能要经历许多基因控制的步增发育."
+    },
+    {
+      "en": "The regression equation was established stepwise simultaneously.",
+      "cn": "并通过逐步回归建立了回归方程."
+    },
+    {
+      "en": "The slower benefit for cancer is also consistent with the slower, stepwise progression of carcinogenesis.",
+      "cn": "研究者说:对癌症的好处缓慢也与癌基因缓慢的逐步的进展有关."
+    },
+    {
+      "en": "The voltage was increased stepwise.",
+      "cn": "电压逐步增加."
+    },
+    {
+      "en": "Through stepwise refinement, I can drive the model to finer details, to a point where I can start generating concrete implementation artifacts from it.",
+      "cn": "通过逐步的细化，我可以从模型派生出更为详细的细节，然后可以从其中生成具体的实现。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "step",
+          "tran_cn": " 步，脚步；步骤；步伐；梯级"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "step",
+          "tran_cn": " 踏，踩；走"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "step",
+          "tran_cn": " 走，迈步"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "gradually",
+            "stage by stage",
+            "step by step"
+          ],
+          "tran_cn": "逐步地；阶梯式地"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stepwise method",
+      "tran_cn": "分段依次计算法；分段法"
+    },
+    {
+      "phrase": "stepwise refinement",
+      "tran_cn": "[计]逐步求精，逐步求精法"
+    },
+    {
+      "phrase": "stepwise regression",
+      "tran_cn": "逐步回归"
+    },
+    {
+      "phrase": "stepwise regression analysis",
+      "tran_cn": "逐步回归分析"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "楼梯式的，逐步的",
+      "tran_en": "arranged in the manner of or resembling steps "
+    }
+  ],
+  "exchange": {}
+}

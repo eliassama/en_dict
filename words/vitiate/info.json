@@ -1,0 +1,91 @@
+{
+  "word": "vitiate",
+  "ipa": {
+    "us": "ˈvɪʃieɪt",
+    "uk": "ˈvɪʃiˌet"
+  },
+  "sentences": [
+    {
+      "en": "But this does not vitiate his scholarship.",
+      "cn": "但这不会威胁到他的奖学金。"
+    },
+    {
+      "en": "No such Variation shall vitiate or invalidate this Contract.",
+      "cn": "任何该等变更都不会影响本合同或造成本合同失效."
+    },
+    {
+      "en": "Strategic policy during the War was vitiated because of a sharp division between easterners and westerners.",
+      "cn": "由于“东方人”和“西方人”间的巨大分歧，战争期间的战略方针没有得到切实的执行。"
+    },
+    {
+      "en": "This may vitiate a literal translation.",
+      "cn": "这就会损害直译的价值。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vitiation",
+          "tran_cn": " 损害，败坏；无效"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "demoralize",
+            "deteriorate",
+            "impute",
+            "shame"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "hurt",
+            "break",
+            "blast"
+          ],
+          "tran_cn": "损害，弄坏；使无效；污染"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "损害",
+      "tran_en": "to make something less effective or spoil it"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）削弱，（使）破坏，（使）损害，（使）无效"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "vitiates"
+    ],
+    "past": [
+      "vitiated"
+    ],
+    "done": [
+      "vitiated"
+    ],
+    "ing": [
+      "vitiating"
+    ]
+  }
+}

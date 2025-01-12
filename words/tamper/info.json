@@ -1,0 +1,189 @@
+{
+  "word": "tamper",
+  "ipa": {
+    "us": "ˈtæmpə(r)",
+    "uk": "ˈtæmpər"
+  },
+  "sentences": [
+    {
+      "en": "A tamper resistant calibration plug seal provides protection from unauthorized personnel use.",
+      "cn": "防篡改刻度塞密封防止未经授权的个人用水."
+    },
+    {
+      "en": "a tamper-proof identity card",
+      "cn": "防涂改身份卡"
+    },
+    {
+      "en": "Cabinet tamper and Siren tamper monitoring via System Inputs.",
+      "cn": "系统输入能监视电源、保险管及电池的状态."
+    },
+    {
+      "en": "Do not plug, remove, or tamper with any pressure relief device.",
+      "cn": "禁止拉拽 、 移动或堵塞任何减压装置."
+    },
+    {
+      "en": "Do not tamper with other's business.",
+      "cn": "不要干预别人的事."
+    },
+    {
+      "en": "Don't tamper with my business.",
+      "cn": "别干预我的事。"
+    },
+    {
+      "en": "Don't tamper with that car.",
+      "cn": "不要乱碰那部车子."
+    },
+    {
+      "en": "I don't want to be accused of tampering with the evidence.",
+      "cn": "我不想被指控篡改证据。"
+    },
+    {
+      "en": "If anyone tamper with this door it trip the alarm.",
+      "cn": "要是有人撬这扇门,就会触响警报器."
+    },
+    {
+      "en": "Is tamper - proof tape used to secure boxes or containers?",
+      "cn": "是否使用 防伪 胶带密封箱子和集装箱?"
+    },
+    {
+      "en": "It should not overwhelm you with raw HTTP traffic dumps, and it goes far beyond simply providing a framework to tamper with the application by hand.",
+      "cn": "用户不会再被大量原始的HTTP流量数据淹没，而且这个工具远不仅仅是一个人工干预应用程序的框架。"
+    },
+    {
+      "en": "NEVER tamper with pressure - relief devices in valves or cylinders.",
+      "cn": "禁止堵塞阀门或钢瓶的 减压装置."
+    },
+    {
+      "en": "Never tamper with safety devices in valves or cylinders.",
+      "cn": "禁止堵塞阀门或钢瓶的安全装置."
+    },
+    {
+      "en": "Please don't tamper with the clock radio.",
+      "cn": "请不要瞎弄那只收音机闹钟."
+    },
+    {
+      "en": "Students are absolutely forbidden to tamper with or equipmentfacility.",
+      "cn": "禁止学生在休息室以外的地方吃点心和喝饮料."
+    },
+    {
+      "en": "The machine will self - destruct if you tamper with it.",
+      "cn": "如果你折腾这台机器,它将会自毁."
+    },
+    {
+      "en": "Uses the streamline form outer edge , the tamper force with mercy.",
+      "cn": "采用流线型外框,刚柔并济."
+    },
+    {
+      "en": "Who are they to tamper with the rules of the game?",
+      "cn": "他们凭什么擅自修改比赛规则?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tamp",
+          "tran_cn": " 捣棒；打夯的工具"
+        },
+        {
+          "word": "tamponade",
+          "tran_cn": " 填塞"
+        },
+        {
+          "word": "tamponage",
+          "tran_cn": " 压塞；填塞（等于tamponade）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "tamp",
+          "tran_cn": " 夯实，砸实；填塞"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "busybody",
+            "interfere",
+            "intervene",
+            "intrude",
+            "meddle",
+            "pry"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "busybody",
+            "interfere",
+            "intrude",
+            "meddle",
+            "pry"
+          ],
+          "tran_cn": "干涉;乱改"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "manipulate",
+            "interpolate"
+          ],
+          "tran_cn": "篡改"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "tamper proof",
+      "tran_cn": "干预防护"
+    },
+    {
+      "phrase": "tamper with",
+      "tran_cn": "篡改；贿赂；胡乱摆弄"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "填塞者；捣棒"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "干预，篡改",
+      "tran_en": "If someone tampers with something, they interfere with it or try to change it when they have no right to do so"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "tampers"
+    ],
+    "past": [
+      "tampered"
+    ],
+    "done": [
+      "tampered"
+    ],
+    "ing": [
+      "tampering"
+    ]
+  }
+}

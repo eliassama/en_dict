@@ -1,0 +1,79 @@
+{
+  "word": "vituperative",
+  "ipa": {
+    "us": "vɪ'tju:pərətɪv",
+    "uk": "vaɪˈtupərətɪv, -ˈtju-, -pəˌre-, vɪ-"
+  },
+  "sentences": [
+    {
+      "en": "He is often the victim of vituperative remarks concerning his wealth.",
+      "cn": "他经常因为富有而受到辱骂。"
+    },
+    {
+      "en": "It is doubtful that most web surfers would recognise Google in Mr Rubin's vituperative description.",
+      "cn": "多数网民是否认可鲁宾对谷歌的责骂,是有疑问的."
+    },
+    {
+      "en": "vituperative comments",
+      "cn": "谩骂性的评论"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vituperation",
+          "tran_cn": " 谩骂；辱骂；坏话"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vituperate",
+          "tran_cn": " 谩骂；责骂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "scolding"
+          ],
+          "tran_cn": "责骂的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abusive",
+            "censorious"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "充满辱骂的，责骂的",
+      "tran_en": "full of angry and cruel criticism"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "vituperation"
+    ]
+  }
+}

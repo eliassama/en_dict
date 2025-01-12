@@ -1,0 +1,106 @@
+{
+  "word": "mainframe",
+  "ipa": {
+    "us": "ˈmeɪnfreɪm",
+    "uk": "ˈmeɪnfreɪm"
+  },
+  "sentences": [
+    {
+      "en": "A minicomputer is also known as a midsized or low - end mainframe computer.",
+      "cn": "一台小型计算机,也常被称为中型计算机、或低级主机."
+    },
+    {
+      "en": "Exchangeable disk storage: Refers to disc pack storage used with mainframe computers.",
+      "cn": "可替换磁碟贮存: 指大型电脑用的磁碟组贮存方法."
+    },
+    {
+      "en": "I write the telephone remote control system mainframe - full source code.",
+      "cn": "俺写的电话遥控系统的主机端完整源代码."
+    },
+    {
+      "en": "If a problem does occur, a signal is automatically sent to the mainframe.",
+      "cn": "如果真有问题出现，就会有信号自动传送到主机。"
+    },
+    {
+      "en": "It includes basically software design, mainframe and network design, system security design.",
+      "cn": "方案重点包括软件设计 、 主机及网络系统设计和系统安全设计三个方面."
+    },
+    {
+      "en": "Mainframe, auxiliary machine and dicing machine all apply frequency converted motor.",
+      "cn": "主机 、 辅机、切粒机采用变频电机."
+    },
+    {
+      "en": "More auto function, and long lifetime of mainframe with better stability.",
+      "cn": "自动化功能更多, 整机寿命以及稳定性能更佳."
+    },
+    {
+      "en": "Most have slavishly copied the design of IBM'sbig mainframe machines.",
+      "cn": "大多数公司都一味模仿IBM公司大型主机的设计。"
+    },
+    {
+      "en": "Our office micro inter face with the mainframe computer in London.",
+      "cn": "我们办公室的微机与伦敦总计相联接."
+    },
+    {
+      "en": "People had always thought of IBM as a high end mainframe player.",
+      "cn": "在此之前,人们想到IBM总是想到它的大型的高端大型计算机."
+    },
+    {
+      "en": "Section 3 provides a detailed description of switch card and mainframe specifications.",
+      "cn": "第3章详细介绍开关卡和主机的技术指标."
+    },
+    {
+      "en": "That pulse forces the circuit breaker to shut down her mainframe for 30 seconds.",
+      "cn": "这个脉冲能迫使断路器切断它的主机30秒."
+    },
+    {
+      "en": "The tool is so different between the mainframe remote testing possible.",
+      "cn": "该工具使不同主机间的远距离测试成为可能."
+    },
+    {
+      "en": "The type of fixed function computer terminals used with IBM mainframe computers.",
+      "cn": "具有固定功能的计算机终端类型,用于IBM大型计算机."
+    },
+    {
+      "en": "These were the so - called mainframe machines.",
+      "cn": "它们被称为主机."
+    },
+    {
+      "en": "This algorithm is developed using ALGOL language on Burrough 7800 mainframe computer.",
+      "cn": "此算法已在Burrough7800机上用ALGOL语言实现."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "host",
+            "main engine"
+          ],
+          "tran_cn": "[计]主机；大型机"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "mainframe computer",
+      "tran_cn": "大型计算机；主机电脑"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（大型电脑的）主机，中央处理机，[计] 主机，大型机，总配线架",
+      "tran_en": "a large powerful computer that can work very fast and that a lot of people can use at the same time"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "mainframes"
+    ]
+  }
+}

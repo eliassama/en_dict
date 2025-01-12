@@ -1,0 +1,64 @@
+{
+  "word": "senescent",
+  "ipa": {
+    "us": "sɪ'nesənt",
+    "uk": "sɪ'nesənt"
+  },
+  "sentences": [
+    {
+      "en": "a senescent industry",
+      "cn": "衰落的行业"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "senescence",
+          "tran_cn": " 衰老"
+        },
+        {
+          "word": "senility",
+          "tran_cn": " [基医] 衰老；高龄；老态龙钟"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "senesce",
+          "tran_cn": " 开始衰老"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "decrepit",
+            "anile"
+          ],
+          "tran_cn": "衰老的；变老的；老化的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "变老的，显老的",
+      "tran_en": "becoming old and showing the effects of getting older"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "senescence"
+    ]
+  }
+}

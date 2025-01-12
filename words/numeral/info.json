@@ -1,0 +1,175 @@
+{
+  "word": "numeral",
+  "ipa": {
+    "us": "ˈnjuːmərəl",
+    "uk": "ˈnuːmərəl"
+  },
+  "sentences": [
+    {
+      "en": "...a flat, square wristwatch with classic Roman numerals.",
+      "cn": "...一块扁平、有标准罗马数字的正方形手表。"
+    },
+    {
+      "en": "A table comparing numerals in two different numeral systems.",
+      "cn": "一种可以比较两种不同数制中的数字的表格."
+    },
+    {
+      "en": "At last we had discussed revised identification about lack - strokes numeral image.",
+      "cn": "最后讨论了对缺笔画的数字校正识别."
+    },
+    {
+      "en": "Handwritten numeral recognition is applied broadly in given environment.",
+      "cn": "手写体数字识别在特定的环境下应用特别广泛."
+    },
+    {
+      "en": "In a floating - point representation , the numeral that represents the expon ent.",
+      "cn": "在 浮点 表示法中, 表示阶的数字."
+    },
+    {
+      "en": "Numeral classifier compound is one of important characteristics in the Sino - Tibetan.",
+      "cn": "数量结构(词组)是汉藏语系的重要特征之一."
+    },
+    {
+      "en": "Our own numeral system is an example of a positional numeral system with base 10.",
+      "cn": "我们现在所用的数系就是以10为基的定位数系."
+    },
+    {
+      "en": "The number of structure is usually the numeral arbitrary.",
+      "cn": "这一数量结构中的数词通常是任意的."
+    },
+    {
+      "en": "The symbol for the Roman numeral one hundred.",
+      "cn": "罗马数字中表示一百的符号."
+    },
+    {
+      "en": "The temperature indicated by the numeral 0 on a thermometer.",
+      "cn": "零度:温度计上数字0所示的温度."
+    },
+    {
+      "en": "This article researches the substation numeral physics mix simulation training system.",
+      "cn": "本文研究对象是变电站数字物理混合仿真培训系统."
+    },
+    {
+      "en": "This numeral means a onefold increase in production.",
+      "cn": "这个数字意味着产量提高了一倍."
+    },
+    {
+      "en": "This paper introduces a numeral down converter control system.",
+      "cn": "本文介绍了一种数字式下变频器的控制系统."
+    },
+    {
+      "en": "Through numeral simulation and physical experiment analysis, some design theories were verified.",
+      "cn": "通过数值仿真和物理实验分析, 验证了一些设计理论."
+    },
+    {
+      "en": "VISUAL C ++ - handwritten numeral recognition, a very good, strong recommendation!",
+      "cn": "手写数字识别, 非常好, 强烈推荐!"
+    },
+    {
+      "en": "Why do they put that Roman numeral in the date?",
+      "cn": "为什么他们在日期前放罗马数字?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "numeric",
+          "tran_cn": " 数值的（等于mumerical）；数字的"
+        },
+        {
+          "word": "numerical",
+          "tran_cn": " 数值的；数字的；用数字表示的（等于numeric）"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "numerically",
+          "tran_cn": " 数字上；用数字表示"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "number",
+          "tran_cn": " 数；（杂志等的）期；号码；数字；算术"
+        },
+        {
+          "word": "numeration",
+          "tran_cn": " 计算；数字的读法；[数] 命数法；编号"
+        },
+        {
+          "word": "numeric",
+          "tran_cn": " 数；数字"
+        },
+        {
+          "word": "numerology",
+          "tran_cn": " 命理学；数字命理学"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "number",
+          "tran_cn": " 计入；总数达到"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "number",
+          "tran_cn": " 编号；计入；数…的数目；使为数有限"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "digital"
+          ],
+          "tran_cn": "[计][数]数字的；表示数字的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "figure",
+            "digital",
+            "number"
+          ],
+          "tran_cn": "[计][数]数字"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "数字的；表示数字的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "数词，数字",
+      "tran_en": "a written sign such as 1, 2, or 3 that represents a number"
+    }
+  ],
+  "exchange": {}
+}

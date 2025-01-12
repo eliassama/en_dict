@@ -1,0 +1,110 @@
+{
+  "word": "predestine",
+  "ipa": {
+    "us": "pri:'destɪn",
+    "uk": "priˈdɛstɪn"
+  },
+  "sentences": [
+    {
+      "en": "That is me Ma sum the predestination of the Niang in the clout to predestine.",
+      "cn": "那是我阿玛额娘的缘分命中注定。"
+    },
+    {
+      "en": "Today predestine a change not drive the fate of strong J?",
+      "cn": "今天注定改变不了被强J的命运吗？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "predestinarian",
+          "tran_cn": " 命运注定的"
+        },
+        {
+          "word": "predestinate",
+          "tran_cn": " 命中注定的"
+        },
+        {
+          "word": "predestined",
+          "tran_cn": " 注定的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "predestinarian",
+          "tran_cn": " 宿命论者，命运注定论的信徒"
+        },
+        {
+          "word": "predestination",
+          "tran_cn": " 命运；预先注定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "predestinate",
+          "tran_cn": " 注定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "destine"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "fate",
+            "foreordain"
+          ],
+          "tran_cn": "注定"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预定, 注定",
+      "tran_en": "to foreordain; determine beforehand "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "预先确定，预先指定，命定，注定",
+      "tran_en": "to foreordain; determine beforehand "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "predestines"
+    ],
+    "past": [
+      "predestined"
+    ],
+    "done": [
+      "predestined"
+    ],
+    "ing": [
+      "predestining"
+    ]
+  }
+}

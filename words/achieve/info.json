@@ -1,0 +1,201 @@
+{
+  "word": "achieve",
+  "ipa": {
+    "us": "əˈtʃiːv",
+    "uk": "əˈtʃiːv"
+  },
+  "sentences": [
+    {
+      "en": "Car firms are desperate to achieve economies of scale.",
+      "cn": "汽车厂商拼命想要实现规模经济。"
+    },
+    {
+      "en": "Frances achieved very good exam results.",
+      "cn": "弗朗西丝考试取得了优异成绩。"
+    },
+    {
+      "en": "Hang in there and you never know what you might achieve.",
+      "cn": "坚持下去，你永远都无法预料会有什么样的收获。"
+    },
+    {
+      "en": "He believed in political activism to achieve justice.",
+      "cn": "他相信通过政治激进主义可以赢得正义。"
+    },
+    {
+      "en": "He may not always achieve greatness but at least he's a trier.",
+      "cn": "他也许并非总能成就大事，但至少他竭尽所能。"
+    },
+    {
+      "en": "He was extremely devious in his efforts to achieve his heart's desire.",
+      "cn": "他在设法得到自己的中意之物时会不择手段。"
+    },
+    {
+      "en": "I asked McKeown if the reunion was meant to achieve closure.",
+      "cn": "我问麦基翁重聚是不是为了寻求解脱。"
+    },
+    {
+      "en": "I'm highly unsympathetic to what you are trying to achieve.",
+      "cn": "我极不赞成你试图达成的目标。"
+    },
+    {
+      "en": "If competition is the best way to achieve it, then, fine.",
+      "cn": "如果竞争是达到目标的最佳方式，那就这么着吧。"
+    },
+    {
+      "en": "It had been an uphill struggle to achieve what she had wanted.",
+      "cn": "她历尽坎坷才达到目的。"
+    },
+    {
+      "en": "She eventually achieved her goal of becoming a professor.",
+      "cn": "她终于实现目标，当上了教授。"
+    },
+    {
+      "en": "Some people unluckily achieve suicide when they only meant to attempt it.",
+      "cn": "一些人只是想尝试一下自杀，但却不幸真的身亡了。"
+    },
+    {
+      "en": "Sometimes, that standard is quite difficult, if not impossible, to achieve.",
+      "cn": "有时即便有可能达到那个标准，那也是非常困难。"
+    },
+    {
+      "en": "The ads helped Nike to achieve iconic status.",
+      "cn": "这些广告帮助耐克公司成就了其偶像地位。"
+    },
+    {
+      "en": "There are many who will work hard to achieve these goals.",
+      "cn": "有志之士将会共同为实现这些目标而努力。"
+    },
+    {
+      "en": "There is only one thing that makes a dream impossible to achieve: the fear of failure.--Paulo Coelho",
+      "cn": "世界上只有一样东西可以阻止梦想实现，那就是害怕失败。"
+    },
+    {
+      "en": "Wilson has achieved considerable success as an artist.",
+      "cn": "威尔逊作为一名艺术家成就斐然。"
+    },
+    {
+      "en": "Women have yet to achieve wage or occupational parity in many fields.",
+      "cn": "女性在很多领域还没能争取到薪金、职位方面的平等。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "achievable",
+          "tran_cn": " 可完成的；可有成就的；做得成的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "achievement",
+          "tran_cn": " 成就；完成；达到"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accomplish",
+            "actualize",
+            "attain",
+            "carry",
+            "compass",
+            "complete",
+            "do",
+            "effect",
+            "effectuate",
+            "finish",
+            "fulfil",
+            "fulfill",
+            "obtain",
+            "out",
+            "perform",
+            "realize",
+            "succeed",
+            "work"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "gain one's ends",
+            "Make it."
+          ],
+          "tran_cn": "达到目的；如愿以偿"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "accomplish",
+            "carry",
+            "complete",
+            "do",
+            "finish",
+            "fulfill",
+            "out",
+            "perform",
+            "realize"
+          ],
+          "tran_cn": "完成,实现"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "achieve one's goals",
+      "tran_cn": "实现目标"
+    },
+    {
+      "phrase": "achieve success",
+      "tran_cn": "取得成功；获得成功"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "实现，达到，完成，成功",
+      "tran_en": "to successfully complete something or get a good result, especially by working hard"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 达到， 取得",
+      "tran_en": "to successfully complete something or get a good result, especially by working hard"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "achieves"
+    ],
+    "past": [
+      "achieved"
+    ],
+    "done": [
+      "achieved"
+    ],
+    "ing": [
+      "achieving"
+    ],
+    "adj": [
+      "achievable"
+    ]
+  }
+}

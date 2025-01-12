@@ -1,0 +1,178 @@
+{
+  "word": "surf",
+  "ipa": {
+    "us": "sɜːf",
+    "uk": "sɜːrf"
+  },
+  "sentences": [
+    {
+      "en": "...surf rolling onto white sand beaches.",
+      "cn": "…翻滚到白色沙滩上的浪花。"
+    },
+    {
+      "en": "A roaring sound like the breaking of surf rose from the crowd.",
+      "cn": "人群中一片震天的喧嚷像怒涛般滚滚而来."
+    },
+    {
+      "en": "Below, noisy swells were breaking on the hull like surf.",
+      "cn": "下面, 哗哗的激浪拍打着舰体,象拍岸的浪花."
+    },
+    {
+      "en": "Come and surf in the ocean in front of the hotel.",
+      "cn": "在旅馆前的大海里尽情的冲浪吧."
+    },
+    {
+      "en": "Holidaymakers continued to pour down to the coast in search of surf and sun.",
+      "cn": "度假者不断涌至海边冲浪和享受阳光。"
+    },
+    {
+      "en": "I surf every day from about 8 P . M. to midnight.",
+      "cn": "我每天都冲浪,从早上八点到午夜."
+    },
+    {
+      "en": "I surf the Internet two hours a day.",
+      "cn": "我每天上网冲浪两个小时."
+    },
+    {
+      "en": "I'm going to buy a surfboard and learn to surf.",
+      "cn": "我要去买个冲浪板来学冲浪。"
+    },
+    {
+      "en": "If we have to run a surf you'll need all your strength.",
+      "cn": "如果必须对付拍岸浪的话,你们得把全部力气都用上."
+    },
+    {
+      "en": "No one knows how many people currently surf the Net.",
+      "cn": "没人知道现在有多少人在网上冲浪。"
+    },
+    {
+      "en": "Surf action on coastal areas has produced other quantities.",
+      "cn": "拍岸浪对海岸地区的作用产生了另一些数量的物质."
+    },
+    {
+      "en": "the sound of surf breaking on the beach",
+      "cn": "激浪拍岸的声音"
+    },
+    {
+      "en": "They surf, ski and ride.",
+      "cn": "他们冲浪，滑雪，还骑马。"
+    },
+    {
+      "en": "They threw off their clothes and ran into the surf.",
+      "cn": "他们脱掉衣服奔向海浪."
+    },
+    {
+      "en": "Walking in the surf, she had to roll her pants up to her knees.",
+      "cn": "她走在海浪里，不得不把裤腿卷到膝盖处。"
+    },
+    {
+      "en": "You can't surf at night. I always go surfing in the morning.",
+      "cn": "你不能在晚上冲浪. 我总是在早上去冲浪."
+    },
+    {
+      "en": "Young writers , surf - riders upon nowness, sometimes glitter with talent.",
+      "cn": "在现在瞬间中随潮起伏的青年作家, 有时确实闪耀着才华."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "surfer",
+          "tran_cn": " 冲浪运动员，乘冲浪板冲浪的人"
+        },
+        {
+          "word": "surfing",
+          "tran_cn": " 冲浪游戏"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "surfing",
+          "tran_cn": " 冲浪（surf的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "ocean wave",
+            "sea wave"
+          ],
+          "tran_cn": "海浪，拍岸浪"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "sea"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "surf board",
+      "tran_cn": "水橇板"
+    },
+    {
+      "phrase": "surf on the internet",
+      "tran_cn": "（在互联）网上冲浪"
+    },
+    {
+      "phrase": "surf the internet",
+      "tran_cn": "上网；上网冲浪；网上冲浪；浏览因特网"
+    },
+    {
+      "phrase": "surf the net",
+      "tran_cn": "上网；网上冲浪"
+    },
+    {
+      "phrase": "surf zone",
+      "tran_cn": "碎波区；冲浪带"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "海浪，拍岸碎浪",
+      "tran_en": "the white substance that forms on top of waves as they move towards the shore"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "冲浪",
+      "tran_en": "to ride on waves while standing on a special board"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "冲浪，（互联网上）冲浪"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "surfs"
+    ],
+    "past": [
+      "surfed"
+    ],
+    "done": [
+      "surfed"
+    ],
+    "ing": [
+      "surfing"
+    ]
+  }
+}

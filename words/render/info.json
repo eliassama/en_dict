@@ -1,0 +1,212 @@
+{
+  "word": "render",
+  "ipa": {
+    "us": "ˈrendə(r)",
+    "uk": "ˈrendər"
+  },
+  "sentences": [
+    {
+      "en": "a bill of $3,200 for services rendered",
+      "cn": "一张3,200美元服务费的账单"
+    },
+    {
+      "en": "A small difference between them will render the composite translucent.",
+      "cn": "微小的差别,也会使复合材料变成半透明."
+    },
+    {
+      "en": "an obligation to render assistance to those in need",
+      "cn": "为有困难的人提供援助的义务"
+    },
+    {
+      "en": "Any assistance you can render him will be appreciated.",
+      "cn": "无论给予他何种帮助，他都会非常感激。"
+    },
+    {
+      "en": "At last, the citizens were forced to render up their town.",
+      "cn": "最后, 市民们不得不把城市放弃."
+    },
+    {
+      "en": "He was rendered almost speechless by the news.",
+      "cn": "听到这个消息他几乎说不出话来。"
+    },
+    {
+      "en": "I must render down this fat; we are short of lard.",
+      "cn": "我得把这块肥肉熬成油, 我们正缺猪油."
+    },
+    {
+      "en": "It contained so many errors as to render it worthless.",
+      "cn": "它错误太多，所以毫无用处。"
+    },
+    {
+      "en": "She needed him to hear her out and render advice.",
+      "cn": "她需要他把话听完并提出建议."
+    },
+    {
+      "en": "The Board had been slow to render its verdict.",
+      "cn": "董事会迟迟未能作出决定。"
+    },
+    {
+      "en": "The complex administrative arrangements render the decision - making process somewhat opaque.",
+      "cn": "复杂的行政协商使决策过程透明度不高."
+    },
+    {
+      "en": "The villagers were expected to render part of their crops for the lord's protection.",
+      "cn": "村民们被要求用他们的部分谷物来报偿领主的保护."
+    },
+    {
+      "en": "They will render blow for blow.",
+      "cn": "他们将以牙还牙."
+    },
+    {
+      "en": "To their deliverer the poets paid the greatest tribute they could render.",
+      "cn": "诗人们竭尽全力地赞颂自己的拯救者."
+    },
+    {
+      "en": "We are going to render them economic assistance.",
+      "cn": "我们打算向他们提供经济援助."
+    },
+    {
+      "en": "We can render down this fat.",
+      "cn": "我们可以把这块肥肉熬成油."
+    },
+    {
+      "en": "You can render the chicken down to make stock for soup.",
+      "cn": "你可以把这只鸡做成汤料."
+    },
+    {
+      "en": "You will have to render an account of your expenditure.",
+      "cn": "你的开支必须报账."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rendering",
+          "tran_cn": " 翻译；表现；表演；描写；打底；（建筑物等）透视图"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "rendering",
+          "tran_cn": " 给予补偿（rendr的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rendering",
+          "tran_cn": " 致使；表演；打底（render的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cosmetic brush"
+          ],
+          "tran_cn": "打底；交纳；粉刷"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "allot",
+            "allow",
+            "cause",
+            "do",
+            "effect",
+            "give",
+            "grant",
+            "make",
+            "present",
+            "repay",
+            "specify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cause",
+            "do",
+            "effect",
+            "make"
+          ],
+          "tran_cn": "使得;造成"
+        },
+        {
+          "words": [
+            "allot",
+            "allow",
+            "give",
+            "grant",
+            "present"
+          ],
+          "tran_cn": "给予"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "account rendered",
+      "tran_cn": "[经]结欠清单"
+    },
+    {
+      "phrase": "render an account",
+      "tran_cn": "报帐；开送账单"
+    },
+    {
+      "phrase": "render services",
+      "tran_cn": "提供服务"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "打底；交纳；粉刷"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "致使，造成，给予，递交，翻译，表达，粉刷",
+      "tran_en": "to give something to someone or do something, because it is your duty or because someone expects you to"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 发出， 开出； 使得， 致使； 给予， 提供； 翻译",
+      "tran_en": "to give something to someone or do something, because it is your duty or because someone expects you to"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "renders"
+    ],
+    "past": [
+      "rendered"
+    ],
+    "done": [
+      "rendered"
+    ],
+    "ing": [
+      "rendering"
+    ]
+  }
+}

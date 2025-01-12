@@ -1,0 +1,80 @@
+{
+  "word": "ciliate",
+  "ipa": {
+    "us": "'sɪlɪɪt",
+    "uk": "ˈsɪliɪt, -ˌet"
+  },
+  "sentences": [
+    {
+      "en": "a ciliate epithelium",
+      "cn": ""
+    },
+    {
+      "en": "Balantinium coli is a giant ciliate that causes diarrhea in humans.",
+      "cn": "结肠小袋绦虫是一种造成腹泻的巨大纤毛虫。"
+    },
+    {
+      "en": "Ciliate 1. Ddscribing a structure, such the margin of a leaf , fringed with fine hairs.",
+      "cn": "1具纤毛的; 具缘毛的:类似于叶片的边缘具有精细的毛的结构."
+    },
+    {
+      "en": "Most marine gastropod mollusks develop a ciliate swimming organ  in certain larval stages.",
+      "cn": "大多数海洋腹足纲软体动物在某些幼体阶段形成一种有纤毛的游泳器官。"
+    },
+    {
+      "en": "The smaller of two nuclei in ciliate protozoans that contains genetic material and functions in reproduction.",
+      "cn": "小核，微核原生动物纤毛虫类体内两个细胞核中较小的一个，其中含有。"
+    },
+    {
+      "en": "This topology suggests that Maristentor is a holotrichous ciliate(the class Heterotrichea)and should not be placed in the family Stentoridae, but be given a new taxonomic position.",
+      "cn": "其拓扑结构显示海洋喇叭虫属于异毛纲纤毛虫，但并不隶属喇叭虫科，应予以新的分类地位。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ciliary",
+          "tran_cn": " 纤毛的；睫毛的；毛状的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cilium",
+          "tran_cn": " [生物] 纤毛；睫毛"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "infusorian"
+          ],
+          "tran_cn": "[无脊椎]纤毛虫"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有睫毛的，有纤毛的",
+      "tran_en": "possessing or relating to cilia "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "纤毛虫",
+      "tran_en": "a protozoan of the phylum Ciliophora "
+    }
+  ],
+  "exchange": {}
+}

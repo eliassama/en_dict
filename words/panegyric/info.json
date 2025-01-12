@@ -1,0 +1,73 @@
+{
+  "word": "panegyric",
+  "ipa": {
+    "us": "ˌpænəˈdʒɪrɪk",
+    "uk": "ˌpænəˈdʒɪrɪk, -ˈdʒaɪrɪk"
+  },
+  "sentences": [
+    {
+      "en": "The book is a panegyric on the intoxicating effects of marijuana.",
+      "cn": "该书是一篇对大麻兴奋陶醉效应的颂词。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "panegyrical",
+          "tran_cn": " 颂词的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "panegyrist",
+          "tran_cn": " 致颂词者；撰述赞辞的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "glory",
+            "tribute"
+          ],
+          "tran_cn": "颂词，赞颂"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "applause",
+            "eulogy",
+            "glory"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "赞美， 称颂， 颂词，颂扬的演讲或文章",
+      "tran_en": "a speech or piece of writing that praises someone or something a lot"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "panegyrics"
+    ]
+  }
+}

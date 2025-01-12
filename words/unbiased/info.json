@@ -1,0 +1,130 @@
+{
+  "word": "unbiased",
+  "ipa": {
+    "us": "ʌnˈbaɪəst",
+    "uk": "ʌnˈbaɪəst"
+  },
+  "sentences": [
+    {
+      "en": "A fair game depends on an unbiased referee.",
+      "cn": "一场公平的赛事取决于一位大公无私的球证."
+    },
+    {
+      "en": "an unbiased observer",
+      "cn": "一名公正的观察员"
+    },
+    {
+      "en": "Calculating the machines'equivalent annual costs allows an unbiased comparison.",
+      "cn": "计算机器的等价年成本就允许无偏的比较."
+    },
+    {
+      "en": "Elinor wished to hear her sister's unbiased opinion.",
+      "cn": "埃莉诺想听取妹妹的中肯意见."
+    },
+    {
+      "en": "Is information unbiased? Given in an understandable language?",
+      "cn": "提供的信息是否带有偏见? 是否用易于理解的语言?"
+    },
+    {
+      "en": "Isn't the nature of science supposed to be completely unbiased and factual?",
+      "cn": "科学不都是根据客观事实不能有个人偏见 吗 ?"
+    },
+    {
+      "en": "It is important here that the herd recording is unbiased and non - selective.",
+      "cn": "这里重要的是群体记录要无偏和不加选择."
+    },
+    {
+      "en": "Returns the covariance of two series evaluated over a set, using the unbiased population formula.",
+      "cn": "返回在某一集合上对两个数据系列求得的协方差(使用非偏置填充公式)."
+    },
+    {
+      "en": "Returns the standard deviation of a numeric expression evaluated over a set, using an unbiased population.",
+      "cn": "通过使用非偏置填充,返回在某一集合上对数值表达式求得的标准偏差."
+    },
+    {
+      "en": "Returns the variance of a numeric expression evaluated over a set ( unbiased ).",
+      "cn": "返回在某一集合上对数值表达式求得的方差 ( 非偏置填充 )."
+    },
+    {
+      "en": "Returns the variance of a numeric expression evaluated over a set, using an unbiased population.",
+      "cn": "返回在某一集合上对数值表达式求得的方差(使用非偏置填充)."
+    },
+    {
+      "en": "The researchers were expected to be unbiased.",
+      "cn": "调查人员应该是不带偏见的。"
+    },
+    {
+      "en": "To the theory of Nietzsche's individualism, researchists seldom give an unbiased estimate. \"",
+      "cn": "对于尼采的个人主义思想也很少给予全面而公正的评价."
+    },
+    {
+      "en": "Unbiased survey is important because it will increase the population of known sources.",
+      "cn": "全面的调查是很重要的,因为这可以增加已知源的总数."
+    },
+    {
+      "en": "We aim to provide a service that is balanced and unbiased.",
+      "cn": "我们的目标是提供一种公平公正的服务。"
+    },
+    {
+      "en": "When Gauss - Markov assumptions hold, we need not look for alternative unbiased estimators.",
+      "cn": "当高斯 - 马尔科夫假定成立时, 我们不需要再去找其它无偏估计量了."
+    },
+    {
+      "en": "When the estimator is unbiased, the numerical estimate is frequently also called unbiased.",
+      "cn": "当估计量无偏时, 数字估计值也常叫做无偏的."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "fair",
+            "impartial",
+            "just",
+            "unprejudiced"
+          ],
+          "tran_cn": "公平的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "catholic",
+            "disinterested",
+            "equable",
+            "factual",
+            "impersonal",
+            "literal",
+            "objective",
+            "straightforward"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "unbiased estimate",
+      "tran_cn": "不偏估计，公正（无偏）评价"
+    },
+    {
+      "phrase": "unbiased estimator",
+      "tran_cn": "无偏估计值"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "无偏见的，不偏不倚的，公正的，持平",
+      "tran_en": "unbiased information, opinions, advice etc is fair because the person giving it is not influenced by their own or other people’s opinions"
+    }
+  ],
+  "exchange": {}
+}

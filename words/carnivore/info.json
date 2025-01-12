@@ -1,0 +1,90 @@
+{
+  "word": "carnivore",
+  "ipa": {
+    "us": "ˈkɑːnɪvɔː(r)",
+    "uk": "ˈkɑːrnɪvɔːr"
+  },
+  "sentences": [
+    {
+      "en": "And on your left, you have Tyrannosaurus Rex, a carnivore from the Jurassic period.",
+      "cn": "在您的左边, 您看到的是暴龙, 一种来自侏罗纪的肉食动物."
+    },
+    {
+      "en": "Bob, could you help the carnivore cut his meat.",
+      "cn": "鲍伯, 你帮这个小食肉动物切一下好吗?"
+    },
+    {
+      "en": "Either of two species in the carnivore family Mustelidae.",
+      "cn": "鼬科鼬属2种兽类的统称."
+    },
+    {
+      "en": "There's definitely a conflict in being a vegan that lives with a tiny carnivore.",
+      "cn": "毫无疑问,素食主义者和小食肉动物之间是有冲突的,不过我们还是克服了."
+    },
+    {
+      "en": "This is a delicious vegetarian dish that even carnivores love.",
+      "cn": "这是一道肉食者们都喜欢的美味素食。"
+    },
+    {
+      "en": "Tyrannosaurus Rex was a large carnivore; insectivorous plants are considered carnivores.",
+      "cn": "暴龙是一种大型的食肉动物; 食虫植物被看作食肉动物."
+    },
+    {
+      "en": "Tyrannosaurus rex was a large carnivore.",
+      "cn": "霸王龙是一种大型肉食动物."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "carnassial",
+          "tran_cn": " 食肉的"
+        },
+        {
+          "word": "carnivorous",
+          "tran_cn": " 食肉的；肉食性的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "carnassial",
+          "tran_cn": " 裂齿"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "predator"
+          ],
+          "tran_cn": "[动]食肉动物；食虫植物"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "食肉动物，食虫植物",
+      "tran_en": "an animal that eats flesh"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "carnivores"
+    ],
+    "adj": [
+      "carnivorous"
+    ]
+  }
+}

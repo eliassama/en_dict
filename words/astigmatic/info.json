@@ -1,0 +1,50 @@
+{
+  "word": "astigmatic",
+  "ipa": {
+    "us": "ˌæstɪg'mætɪk",
+    "uk": "ˌæstɪɡˈmætɪk"
+  },
+  "sentences": [
+    {
+      "en": "In view of the above, the transformation properties of astigmatic elliptic Gaussian beams are analysed overall, the exact formulas of correcting astigmatism and rotary symmetrize transformation.",
+      "cn": "分析像散椭圆高斯光束的传输变换特性，推导出半导体激光束的像散校正与旋转对称化变换公式。"
+    },
+    {
+      "en": "The resonator ( astigmatic ) can be compensated by inserting a suitable thickness Brewster plate in the cavity.",
+      "cn": "在腔内插入一定厚度的布儒斯特片可以部分消除腔的像散."
+    },
+    {
+      "en": "Using astigmatic method to extract information of light source in z axis.",
+      "cn": "用散光的方法来提取光源在Z轴上的位置。"
+    },
+    {
+      "en": "When the astigmatic degree< 1.50D, mydriatic optometry is of help to found the axis of cylindrical lens.",
+      "cn": "对于合并1.50D以下的散光患儿，散瞳验光可能更有助于确定柱镜的轴向。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "astigmatism",
+          "tran_cn": " [眼科] 散光；[光][电子] 像散性；[光][电子] 像散现象"
+        },
+        {
+          "word": "astigmia",
+          "tran_cn": " 散光"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "散光的，矫正散光的，歪曲（或无视）事实的",
+      "tran_en": "relating to or affected with astigmatism "
+    }
+  ],
+  "exchange": {}
+}

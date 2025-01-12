@@ -1,0 +1,157 @@
+{
+  "word": "infected",
+  "ipa": {
+    "us": "ɪnˈfektɪd",
+    "uk": "ɪnˈfektɪd"
+  },
+  "sentences": [
+    {
+      "en": "An infected cut looks angry.",
+      "cn": "感染的伤口看起来发炎了."
+    },
+    {
+      "en": "an infected finger",
+      "cn": "受感染的手指"
+    },
+    {
+      "en": "Clean the wound so it doesn’t get infected.",
+      "cn": "清洗伤口以免感染。"
+    },
+    {
+      "en": "Dig out and burn infected canes.",
+      "cn": "把受感染的甘蔗挖出来烧掉。"
+    },
+    {
+      "en": "Dirt infected an open cut.",
+      "cn": "尘土会使敞露的伤口受到感染."
+    },
+    {
+      "en": "He had become infected with Aids from an improperly sterilised needle.",
+      "cn": "他因使用消毒不当的注射针头而感染了艾滋病。"
+    },
+    {
+      "en": "In heavily infected areas, half the population become blind.",
+      "cn": "在受污染严重的地区，有一半人口失明。"
+    },
+    {
+      "en": "It infected them with some of the magic of a lost age.",
+      "cn": "逝去的岁月让他们平添了几分魅力。"
+    },
+    {
+      "en": "Mary's high spirits infected all the girls in the class.",
+      "cn": "玛丽的兴致感染了全班的女孩."
+    },
+    {
+      "en": "Political life has been infected by growing nationalist sentiment.",
+      "cn": "政治生活已受到了不断高涨的民族主义情绪的影响。"
+    },
+    {
+      "en": "She infected the whole class with her enthusiasm.",
+      "cn": "她的热情感染了整个班级."
+    },
+    {
+      "en": "The monkeys had been immunized with a vaccine made from infected cells.",
+      "cn": "这些猴子已经注射了由受感染的细胞培养而成的疫苗。"
+    },
+    {
+      "en": "The wound from the dog bite had become infected.",
+      "cn": "狗咬的伤口感染了。"
+    },
+    {
+      "en": "They are all infected with his high spirits.",
+      "cn": "他们都被他的高昂的情绪所鼓舞."
+    },
+    {
+      "en": "This virus infected thousands of computers within days.",
+      "cn": "这种病毒在短短几天内感染了数千台计算机。"
+    },
+    {
+      "en": "to be infected with HIV",
+      "cn": "染上艾滋病病毒"
+    },
+    {
+      "en": "Waste gases infected the air.",
+      "cn": "废气污染了空气."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "infectious",
+          "tran_cn": " 传染的；传染性的；易传染的"
+        },
+        {
+          "word": "infective",
+          "tran_cn": " 有传染性的，感染别人的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "infection",
+          "tran_cn": " 感染；传染；影响；传染病"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "infect",
+          "tran_cn": " 感染，传染"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "impure",
+            "unclean"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "diseased"
+          ],
+          "tran_cn": "传染（infect的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be infected with",
+      "tran_cn": "感染上……，传染上……"
+    },
+    {
+      "phrase": "infected area",
+      "tran_cn": "传染病流行区"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（伤口）被感染的",
+      "tran_en": "a part of your body or a wound that is infected has harmful bacteria in it which prevent it from healing"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（受）传染( infect的过去式和过去分词 )，污染，影响"
+    }
+  ],
+  "exchange": {}
+}

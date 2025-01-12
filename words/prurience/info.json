@@ -1,0 +1,73 @@
+{
+  "word": "prurience",
+  "ipa": {
+    "us": "'prʊərɪəns",
+    "uk": "ˈprʊrɪəns"
+  },
+  "sentences": [
+    {
+      "en": "Nobody ever lost money by overestimating the public's prurience.",
+      "cn": "从未有人因为高估公众的好色之心而赔钱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prurient",
+          "tran_cn": " 好色的；淫乱的；渴望的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "pruriently",
+          "tran_cn": " 挑逗性地；好色地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pruriency",
+          "tran_cn": " 好色；淫乱"
+        },
+        {
+          "word": "prurient",
+          "tran_cn": " 好色之徒"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "lasciviousness",
+            "sensuality"
+          ],
+          "tran_cn": "淫乱；好色"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<正><贬>好色，迷恋，淫欲，（焦躁等的）渴望",
+      "tran_en": "Prurience is a strong interest in sexual matters"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "prurient"
+    ]
+  }
+}

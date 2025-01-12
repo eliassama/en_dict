@@ -1,0 +1,142 @@
+{
+  "word": "encryption",
+  "ipa": {
+    "us": "ɪn'krɪpʃn",
+    "uk": "ɪn'krɪpʃn"
+  },
+  "sentences": [
+    {
+      "en": "Call signs , code words , today's encryption keys!",
+      "cn": "呼叫代号、暗语 、 还有今天的密钥!"
+    },
+    {
+      "en": "Computer security technology includes mainly: Authentication, Encryption, Access Control, Auditing and so on.",
+      "cn": "计算机网络安全技术主要有: 认证授权(Authentication) 、 数据加密(Encryption) 、 访问控制(AccessControl) 、 安全审计(Auditing)等."
+    },
+    {
+      "en": "Drop rate of Encryption Method skills has been increased.",
+      "cn": "加密技术的技能书掉率增加."
+    },
+    {
+      "en": "Encryption systems and their ilk are technologies of disconnection.",
+      "cn": "加密系统还有它们的同类都是隔离的技术."
+    },
+    {
+      "en": "Encryption technique is the key technology of the ear of information.",
+      "cn": "加密技术是信息时代的关键技术."
+    },
+    {
+      "en": "I really like this feature, but after adding it to the installation the request to enter the encryption key is far from obvious.",
+      "cn": "我非常喜欢这个特性，但是在安装是勾选了这个设置后，输入加密密钥的请求却无从找寻。"
+    },
+    {
+      "en": "It explores the essential technique of key management in security encryption.",
+      "cn": "探讨了安全加密系统中必须的密钥管理技术."
+    },
+    {
+      "en": "It mainly includes symmetric encryption algorithms and asymmetric cryptographic algorithms and protocols.",
+      "cn": "密码技术主要包括对称密码算法和非对称密码算法及协议."
+    },
+    {
+      "en": "Key management is critical technic of realizing database encryption.",
+      "cn": "密钥管理是实现数据库加密的关键技术."
+    },
+    {
+      "en": "MPEG 2 encoding and decoding the encryption of C source files.",
+      "cn": "本代码是MPEG2的编码的加密和解码的C源程序!"
+    },
+    {
+      "en": "Secondly, it introduces XML Encryption , XML Signature, WS - Security and WS - License specifications.",
+      "cn": "然后介绍XML Encryption 和XMLSignature技术, 以及WS -Security 和WS-License规范."
+    },
+    {
+      "en": "Shows whether the user - defined function was created with an optional encryption parameter.",
+      "cn": "显示用户定义函数是否是用可选加密参数创建的."
+    },
+    {
+      "en": "SMIME is an encryption and digital - signature standard for e - mail .",
+      "cn": "SMIME是 电子邮件 的加密和数字签名标准."
+    },
+    {
+      "en": "Software encryption has been realized by using EEPROM in the paper.",
+      "cn": "本文采用EEPROM串行存储器 件设计软件狗来实现软件加密."
+    },
+    {
+      "en": "The former symmetric encryption algorithms use substitution and transposition techniques.",
+      "cn": "原有对称加密算法采用置换与替换技术."
+    },
+    {
+      "en": "This paper discusses a algorithm of file encryption based on random factor.",
+      "cn": "本文提出一种基于随机码数列的文件加密算法."
+    },
+    {
+      "en": "You have not chosen an encryption key.",
+      "cn": "您还没有选择一个加密密钥。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "encrypt",
+          "tran_cn": " 将……译成密码"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "encipherment"
+          ],
+          "tran_cn": "[计]加密；加密术"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data encryption",
+      "tran_cn": "数据加密"
+    },
+    {
+      "phrase": "data encryption standard",
+      "tran_cn": "数据加密标准"
+    },
+    {
+      "phrase": "encryption algorithm",
+      "tran_cn": "加密算法；编码算法"
+    },
+    {
+      "phrase": "encryption key",
+      "tran_cn": "密码索引；密码键；加密钥匙"
+    },
+    {
+      "phrase": "encryption technology",
+      "tran_cn": "加密技术"
+    },
+    {
+      "phrase": "file encryption",
+      "tran_cn": "文件加密"
+    },
+    {
+      "phrase": "link encryption",
+      "tran_cn": "[信]通信线路保密；链路加密"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "编密码，加密"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "encrypt"
+    ]
+  }
+}

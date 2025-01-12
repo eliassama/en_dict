@@ -1,0 +1,166 @@
+{
+  "word": "decipher",
+  "ipa": {
+    "us": "dɪˈsaɪfə(r)",
+    "uk": "dɪˈsaɪfər"
+  },
+  "sentences": [
+    {
+      "en": "Anthropologists are still trying to decipher the runes found in the grave.",
+      "cn": "人类学家们仍然在尽力破译在这个坟墓里发现的神秘记号."
+    },
+    {
+      "en": "Can you decipher her scrawl?",
+      "cn": "你能辩认出她乱写的是什么 吗 ?"
+    },
+    {
+      "en": "Can you decipher this letter?",
+      "cn": "你能解读一下这封信 吗 ?"
+    },
+    {
+      "en": "He was the only one who could decipher the code.",
+      "cn": "他是唯一可以破解密码的人."
+    },
+    {
+      "en": "I can't decipher his sloppy handwriting.",
+      "cn": "我无法辨认他那潦草的字迹."
+    },
+    {
+      "en": "I can't decipher what is inscribed on the pillar.",
+      "cn": "我认不出刻在柱子上的是什么."
+    },
+    {
+      "en": "I stooped to pick up a bottle and tried to decipher the small type.",
+      "cn": "我弯下腰拿起一小瓶药,费力地想认清瓶上的小字."
+    },
+    {
+      "en": "I'm still no closer to deciphering the code.",
+      "cn": "破译这个密码我还是没有进展。"
+    },
+    {
+      "en": "It is a headache to decipher his penmanship.",
+      "cn": "辨认他的潦草的字迹叫人“头痛”."
+    },
+    {
+      "en": "It is a headache to decipher his sloppy penmanship.",
+      "cn": "辨认他的潦草的字迹叫人头痛."
+    },
+    {
+      "en": "Scientists are studying wild and captive dolphins to decipher their secret language.",
+      "cn": "科学家正着手研究野生的和驯养的海豚,以求破解出海豚的秘密语言."
+    },
+    {
+      "en": "She studied the envelope, trying to decipher the handwriting.",
+      "cn": "她仔细地看信封，试图辨认上面的字迹。"
+    },
+    {
+      "en": "Specialized equipment is required to decipher the digits of the incoming call.",
+      "cn": "需要有专门设备来破译呼入电话的数字."
+    },
+    {
+      "en": "The astronomer must decipher it before being able to assess its significance.",
+      "cn": "天文学家必须在对它的意义作出评价之前,先把它翻译出来."
+    },
+    {
+      "en": "The Coastguard needs to decipher garbled messages in a few minutes.",
+      "cn": "海岸警卫队需要在几分钟内解读这些含混不清的信息。"
+    },
+    {
+      "en": "The Warring States script is very difficult to decipher.",
+      "cn": "战国文字就像古老的密码,很难破译."
+    },
+    {
+      "en": "to decipher a code",
+      "cn": "破译密码"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "decipherable",
+          "tran_cn": " 可判读的；可解释的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "decipherer",
+          "tran_cn": " 译码器；译码员"
+        },
+        {
+          "word": "decipherment",
+          "tran_cn": " 解读；翻译；[通信] 解密"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "explain",
+            "figure",
+            "out",
+            "simplify",
+            "solve",
+            "unravel",
+            "unscramble"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "explain",
+            "figure",
+            "out",
+            "resolve",
+            "solve"
+          ],
+          "tran_cn": "解译;解"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "密电译文"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "解释（过去式deciphered，过去分词deciphered，现在分词deciphering，第三人称单数deciphers，名词decipherer，形容词decipherable）；译解",
+      "tran_en": "to find the meaning of something that is difficult to read or understand"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "破译（密码），辨认（潦草字迹），解读，解释（古代文学）",
+      "tran_en": "to find the meaning of something that is difficult to read or understand"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "deciphers"
+    ],
+    "past": [
+      "deciphered"
+    ],
+    "done": [
+      "deciphered"
+    ],
+    "ing": [
+      "deciphering"
+    ]
+  }
+}

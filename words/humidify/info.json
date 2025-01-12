@@ -1,0 +1,96 @@
+{
+  "word": "humidify",
+  "ipa": {
+    "us": "hju:'mɪdɪfaɪ",
+    "uk": "hju'mɪdəfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "Parafin was emulsion is used to humidify when the fiberglass is produced.",
+      "cn": "拉制玻璃纤维原纱时采用石蜡乳剂作浸润剂,其含量不大于2.2%."
+    },
+    {
+      "en": "They put some wet towels on the radiators to humidify the room.",
+      "cn": "他们在暖气片上放了些湿毛巾以使房间湿润."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "humectant",
+          "tran_cn": " 湿润的；湿润剂的"
+        },
+        {
+          "word": "humid",
+          "tran_cn": " 潮湿的；湿润的；多湿气的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "humectant",
+          "tran_cn": " [助剂] 湿润剂"
+        },
+        {
+          "word": "humidity",
+          "tran_cn": " [气象] 湿度；湿气"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "damp",
+            "dampen"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "damp"
+          ],
+          "tran_cn": "使潮湿；使湿润"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使潮湿；使湿润",
+      "tran_en": "to add very small drops of water to the air in a room etc because the air is too dry"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使潮湿"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "humidifies"
+    ],
+    "past": [
+      "humidified"
+    ],
+    "done": [
+      "humidified"
+    ],
+    "ing": [
+      "humidifying"
+    ]
+  }
+}

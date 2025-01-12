@@ -1,0 +1,96 @@
+{
+  "word": "semicolon",
+  "ipa": {
+    "us": "ˌsemiˈkəʊlən",
+    "uk": "ˈsemikoʊlən"
+  },
+  "sentences": [
+    {
+      "en": "A semicolon was found after a control statement that contains no instructions.",
+      "cn": "在不包含任何指令的控制语句后找到了分号."
+    },
+    {
+      "en": "An empty statement. Indicated by a single semicolon.",
+      "cn": "空白的语句. 其语法形式为单个分号."
+    },
+    {
+      "en": "Edit the file, and add the semicolon, if necessary.",
+      "cn": "编辑该文件并添加分号（如果有必要）。"
+    },
+    {
+      "en": "Ending Statements With a Semicolon?",
+      "cn": "用分号来终止语句?"
+    },
+    {
+      "en": "Generally, you can use any delimiter, such as TAB, semicolon etc.",
+      "cn": "一般来说, 您可以使用任何分隔符号, 如标签, 分号等."
+    },
+    {
+      "en": "If you put a comma where that semicolon is, you will have committed a \"comma splice,\" which is a very nasty grammar error indeed.",
+      "cn": "如果你在这个应该放分号的地方用了逗号，你便犯了“逗号粘连”的错误，这实在是一个非常讨厌的语法错误。"
+    },
+    {
+      "en": "Multiple permissions should have a semicolon (; ) to separate them.",
+      "cn": "多个许可之间应该用分号 ( semicolon ) 分隔开."
+    },
+    {
+      "en": "Multiple roles should have a semicolon ( ; ) to separate them.",
+      "cn": "多个角色之间应该用分号分隔开."
+    },
+    {
+      "en": "Semicolon at the last line terminates the rule.",
+      "cn": "最后一行用分号结束该规则."
+    },
+    {
+      "en": "Separate multiple warning numbers with a comma or semicolon.",
+      "cn": "用逗号或分号分隔多个警告号."
+    },
+    {
+      "en": "Specifies a semicolon - delimited list of directories to clean.",
+      "cn": "指定要清理的以分号分隔的目录列表."
+    },
+    {
+      "en": "Specify comma, tab, semicolon, or another character.",
+      "cn": "指定逗号 、 制表符 、 分号或其它字符."
+    },
+    {
+      "en": "The entire statement is terminated with a semicolon after the closing parenthesis.",
+      "cn": "语句以末尾括号后的分号结束."
+    },
+    {
+      "en": "The recipients'mail address should not include any comma, semicolon or sign.",
+      "cn": "收咭人电邮不可包含逗号 、 分号或符号."
+    },
+    {
+      "en": "The semicolon indicates the end of the list of enabled drives.",
+      "cn": "分号表示被启用的磁带机列表的结束."
+    },
+    {
+      "en": "The semicolon is an or operator between each function definition.",
+      "cn": "分号是每个函数定义之间的 “或” 操作符。"
+    },
+    {
+      "en": "The string must be valid PHP code and must end with semicolon.",
+      "cn": "这个字符串必须是有效的PHP代码,并且必须以分号结束."
+    },
+    {
+      "en": "We don't use the semicolon in our tutorials.",
+      "cn": "在我们的教程中将不使用到分号."
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "分号",
+      "tran_en": "a  punctuation mark  (;) used to separate different parts of a sentence or list"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "semicolons"
+    ]
+  }
+}

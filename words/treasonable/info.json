@@ -1,0 +1,72 @@
+{
+  "word": "treasonable",
+  "ipa": {
+    "us": "'tri:zənəbl",
+    "uk": "ˈtrizənəbəl"
+  },
+  "sentences": [
+    {
+      "en": "He be accused of make treasonable remarks.",
+      "cn": "他被指控发表叛国性的讲话或讲演."
+    },
+    {
+      "en": "He is a very strong person Treasonable.",
+      "cn": "他是个叛逆性很强的人."
+    },
+    {
+      "en": "Teleki at once denounced Werth's action as treasonable.",
+      "cn": "泰来基立即指责韦特的行为是叛国."
+    },
+    {
+      "en": "They were brought to trial for treasonable conspiracy.",
+      "cn": "他们因密谋叛国被送上法庭。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "treasonous",
+          "tran_cn": " 叛逆的；谋反的；犯叛国罪的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "treason",
+          "tran_cn": " [法] 叛国罪；不忠"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "disloyal",
+            "traitorous"
+          ],
+          "tran_cn": "不忠的；叛逆的，谋反的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "背叛的，叛国的，不忠的",
+      "tran_en": "Treasonable activities are criminal activities which someone carries out with the intention of helping their country's enemies or removing its government using violence"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "treason"
+    ]
+  }
+}

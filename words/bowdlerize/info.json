@@ -1,0 +1,68 @@
+{
+  "word": "bowdlerize",
+  "ipa": {
+    "us": "ˈbaʊdləraɪz",
+    "uk": "'baʊdləraɪz"
+  },
+  "sentences": [
+    {
+      "en": "a bowdlerized version of ‘Antony and Cleopatra’",
+      "cn": "《安东尼和克里奥帕特拉》的删节本"
+    },
+    {
+      "en": "If you bowdlerize Story of the Wing , it wouldn't be as interesting a book.",
+      "cn": "如果删除《西厢记》里的不雅文字, 读起来就没那麽有趣了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bowdlerism",
+          "tran_cn": " 任意删除"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "censor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "删除(书等的)不妥的文句, 删改, 修订",
+      "tran_en": "to remove all the parts of a book, play etc that you think might offend someone – used to show disapproval"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "删除（书刊、剧本等中）有伤风化的词语或场面",
+      "tran_en": "to remove all the parts of a book, play etc that you think might offend someone – used to show disapproval"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "bowdlerizes"
+    ],
+    "past": [
+      "bowdlerized"
+    ],
+    "done": [
+      "bowdlerized"
+    ],
+    "ing": [
+      "bowdlerizing"
+    ]
+  }
+}

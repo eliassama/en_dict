@@ -1,0 +1,186 @@
+{
+  "word": "prescribe",
+  "ipa": {
+    "us": "prɪˈskraɪb",
+    "uk": "prɪˈskraɪb"
+  },
+  "sentences": [
+    {
+      "en": "Army regulations prescribe how rifles must be carried.",
+      "cn": "军规中对持枪方式有明文规定."
+    },
+    {
+      "en": "Article 44 The FSC shall separately prescribe the formats under these Regulations.",
+      "cn": "第44条本准则规定格式,由本会另定之."
+    },
+    {
+      "en": "Can't you just prescribe some of those diet pills, doctor?",
+      "cn": "你不能开一些减肥药吗, 医生?"
+    },
+    {
+      "en": "Did the doctor prescribe any medicine for your headache?",
+      "cn": "医生有开治头痛的药给你 吗 ?"
+    },
+    {
+      "en": "Do not prescribe to me what I'm going to do.",
+      "cn": "不要规定我做什么事."
+    },
+    {
+      "en": "Don't prescribe to me what I'm going to do.",
+      "cn": "不要规定我做什么."
+    },
+    {
+      "en": "For example he can prescribe antibiotics for an infection.",
+      "cn": "例如,对于感染的病症,他可以开出抗生素."
+    },
+    {
+      "en": "He likes to prescribe to others how they should act.",
+      "cn": "他喜欢指示别人应该怎么做."
+    },
+    {
+      "en": "If these don’t work I may have to prescribe you something stronger.",
+      "cn": "如果这些药无效，我也许得给你开一些药效更强的。"
+    },
+    {
+      "en": "Ill prescribe a bottle of cough syrup for you.",
+      "cn": "我给你开一瓶咳嗽糖浆."
+    },
+    {
+      "en": "Mark , I wonder what kind of medicine does this doctor prescribe?",
+      "cn": "我很好奇,这个医生开的是什麽处方药 呢 ?"
+    },
+    {
+      "en": "Planning, as they employ the term, means: plans made by others will prescribe to me what I am to do and how to do it.",
+      "cn": "按照他们使用这个词的方式，“计划”的意思是指：由他人所制定的计划将规定我应该做什么以及如何做。"
+    },
+    {
+      "en": "Take the medicine I prescribe and come back in a week.",
+      "cn": "服用我开的药,过一星期再来."
+    },
+    {
+      "en": "The doctor prepared to prescribe a receipt.",
+      "cn": "医生准备开个药方."
+    },
+    {
+      "en": "The law allows doctors to prescribe contraception to the under 16s.",
+      "cn": "法律允许医生给16岁以下未成年人开避孕药。"
+    },
+    {
+      "en": "The physician examines the patient then diagnoses the disease and prescribes medication.",
+      "cn": "内科医生检查了病人，然后对疾病作出诊断，并开出药方。"
+    },
+    {
+      "en": "They encourage doctors to prescribe cheaper generic drugs instead of more expensive brand names.",
+      "cn": "他们鼓励医生给患者开较便宜的非专利药，而不是价格更高的品牌药。"
+    },
+    {
+      "en": "What punishment does the law prescribe for this crime?",
+      "cn": "法律规定这种罪行应受何处罚？"
+    },
+    {
+      "en": "You prescribe brandy for them, and I'll end up with a wardroom of closet drunks.",
+      "cn": "你替他们开白兰地的方子,结果我的军官室里岂不都挤满了醉鬼了吗?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prescribed",
+          "tran_cn": " 规定的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "advise",
+            "advocate",
+            "assign",
+            "direct",
+            "order",
+            "recommend",
+            "specify",
+            "suggest"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to stipulate",
+            "to formulate"
+          ],
+          "tran_cn": "规定；开药方"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "advise",
+            "advocate",
+            "assign",
+            "direct",
+            "order",
+            "recommend",
+            "suggest"
+          ],
+          "tran_cn": "指定;提倡"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "prescribe for",
+      "tran_cn": "开处方，开药方"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "命令；处(方)",
+      "tran_en": "to say what medicine or treatment a sick person should have"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "建立规定，法律或指示"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "指定，规定，开处方，给医嘱",
+      "tran_en": "to state officially what should be done in a particular situation"
+    },
+    {
+      "pos": "vt& vi",
+      "tran_cn": "开药方，处方",
+      "tran_en": "to say what medicine or treatment a sick person should have"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "prescribes"
+    ],
+    "past": [
+      "prescribed"
+    ],
+    "done": [
+      "prescribed"
+    ],
+    "ing": [
+      "prescribing"
+    ]
+  }
+}

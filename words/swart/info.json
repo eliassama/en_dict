@@ -1,0 +1,62 @@
+{
+  "word": "swart",
+  "ipa": {
+    "us": "swɔːt",
+    "uk": "swɔt"
+  },
+  "sentences": [
+    {
+      "en": "Price policy is widely used by the TPL companies which lead to the swart competition.",
+      "cn": "价格策略仍为广大的第三方物流企业所运用,价格战还在一定程度上存在."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "swarthiness",
+          "tran_cn": " 黑黝黝"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "harmful",
+            "evil",
+            "malignant",
+            "destructive",
+            "pernicious"
+          ],
+          "tran_cn": "有害的；恶性的；黑黝黝的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "black",
+            "inky"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "黑黝黝的，有毒的，有害的，恶性的",
+      "tran_en": "swarthy "
+    }
+  ],
+  "exchange": {}
+}

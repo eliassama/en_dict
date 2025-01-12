@@ -1,0 +1,42 @@
+{
+  "word": "astrolabe",
+  "ipa": {
+    "us": "ˈæstrəleɪb",
+    "uk": "ˈæstrəˌleb"
+  },
+  "sentences": [
+    {
+      "en": "Mariners were also able to fix their latitude , by using an instrument called an astrolabe.",
+      "cn": "海员们还可使用星盘这种仪器确定纬度."
+    },
+    {
+      "en": "Mariners were also able to fix their latitude by using an instrument called astrolabe.",
+      "cn": "海员们还可使用星盘这种仪器确定纬度。"
+    },
+    {
+      "en": "Other early instruments included the sextant and the astrolabe.",
+      "cn": "另外的早期仪器还有六分仪和星盘."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "astrolatry",
+          "tran_cn": " 天体崇拜"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "星盘，栻",
+      "tran_en": "an instrument used by early astronomers to measure the altitude of stars and planets and also as a navigational aid"
+    }
+  ],
+  "exchange": {}
+}

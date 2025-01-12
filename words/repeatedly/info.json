@@ -1,0 +1,210 @@
+{
+  "word": "repeatedly",
+  "ipa": {
+    "us": "rɪˈpiːtɪdli",
+    "uk": "rɪˈpiːtɪdli"
+  },
+  "sentences": [
+    {
+      "en": "Although he had been treated with antibiotics, he went to the bathroom repeatedly.",
+      "cn": "虽然他已经服用了抗生素，但他还是不停地上厕所。"
+    },
+    {
+      "en": "Both men have repeatedly denied the allegations.",
+      "cn": "两个人都再三地否认这些指控。"
+    },
+    {
+      "en": "Graham was repeatedly warned not to work so hard.",
+      "cn": "格雷厄姆一再被提醒工作不要这么拼命。"
+    },
+    {
+      "en": "Gunmen have repeatedly sniped at US Army positions.",
+      "cn": "持枪匪徒一再朝美军阵地放冷枪。"
+    },
+    {
+      "en": "He developed nervous problems after people began repeatedly correcting him.",
+      "cn": "人们开始不停地纠正他的错误，之后他的神经就出现了问题。"
+    },
+    {
+      "en": "He repeatedly distinguished himself in the troops.",
+      "cn": "他在部队里多次立功."
+    },
+    {
+      "en": "He repeatedly mispronounced words and slurred his speech.",
+      "cn": "他一再读错单词，而且说话含含糊糊的。"
+    },
+    {
+      "en": "He was repeatedly attacked by other inmates, who accused him of grassing.",
+      "cn": "他屡遭指责他告密的其他囚犯的殴打。"
+    },
+    {
+      "en": "I object to being repeatedly dropped on in this manner.",
+      "cn": "我反对用这种方式屡次被挑中."
+    },
+    {
+      "en": "Mr Adams was repeatedly bullied and picked on by manageress Elizabeth Archer.",
+      "cn": "女经理伊丽莎白·阿彻多次胁迫和刁难亚当斯先生。"
+    },
+    {
+      "en": "Raft repeatedly hurled verbal abuse at his co-star.",
+      "cn": "拉夫特不断地破口大骂和他联合主演的演员。"
+    },
+    {
+      "en": "She claimed she was repeatedly passed over for promotion.",
+      "cn": "她声称在晋升时自己被一次又一次地排除在外。"
+    },
+    {
+      "en": "She repeatedly urged her son not to tell anyone about it.",
+      "cn": "她一再丁宁儿子不要和任何人讲这事."
+    },
+    {
+      "en": "The drug's effect does not tail off after it has been used repeatedly.",
+      "cn": "反复使用本药，药效也不会减弱。"
+    },
+    {
+      "en": "The rebel soldiers tried repeatedly to storm the building.",
+      "cn": "叛军屡次尝试强攻这座建筑。"
+    },
+    {
+      "en": "The voyage home began, but not before an intruding aeroplane had repeatedly circled the ship.",
+      "cn": "开始返航了，但是在这之前一架入侵的飞机曾反复在轮船上空盘旋。"
+    },
+    {
+      "en": "They repeatedly questioned his leadership abilities.",
+      "cn": "他们一再质疑他的领导才能。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "repeatable",
+          "tran_cn": " 可重复的；可复验的"
+        },
+        {
+          "word": "repeated",
+          "tran_cn": " 再三的，反复的"
+        },
+        {
+          "word": "repetitive",
+          "tran_cn": " 重复的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "repetitively",
+          "tran_cn": " 重复地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "repeat",
+          "tran_cn": " 重复；副本"
+        },
+        {
+          "word": "repeater",
+          "tran_cn": " [通信] 中继器；[通信] 转发器；重复者"
+        },
+        {
+          "word": "repetition",
+          "tran_cn": " 重复；背诵；副本"
+        },
+        {
+          "word": "repetitiveness",
+          "tran_cn": " 重复"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "repeated",
+          "tran_cn": " 重复；复述（repeat的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "repeat",
+          "tran_cn": " 重做；重复发生"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "repeat",
+          "tran_cn": " 重复；复制；背诵"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "after",
+            "again",
+            "all",
+            "and",
+            "constantly",
+            "continually",
+            "continuously",
+            "day",
+            "frequently",
+            "many",
+            "night",
+            "often",
+            "oftentimes",
+            "over",
+            "recurrently",
+            "the",
+            "time",
+            "times"
+          ],
+          "tran_cn": "再三地,连续地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "again",
+            "around",
+            "ever",
+            "usually"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "反复地，重复地，再三地，屡次地，不停地",
+      "tran_en": "many times"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "repeated"
+    ]
+  }
+}

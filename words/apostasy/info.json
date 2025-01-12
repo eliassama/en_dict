@@ -1,0 +1,92 @@
+{
+  "word": "apostasy",
+  "ipa": {
+    "us": "ə'pɒstəsɪ",
+    "uk": "əˈpɑstəsi"
+  },
+  "sentences": [
+    {
+      "en": "...a charge of apostasy.",
+      "cn": "...被控变节。"
+    },
+    {
+      "en": "And yet, ultimately, such apostasy leaves me unsatisfied as well.",
+      "cn": "可是, 最终, 这种失去信仰的行为也并不能使我满意."
+    },
+    {
+      "en": "Apostasy often has its roots in moral failure.",
+      "cn": "背道的人通常是先在道德方面一败涂地."
+    },
+    {
+      "en": "He was looked down upon for apostasy.",
+      "cn": "他因背教而受轻视."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "apostate",
+          "tran_cn": " 变节的；脱党的；背教的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "apostate",
+          "tran_cn": " 脱党者；变节者；叛教者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "apostatize",
+          "tran_cn": " 变节，脱党；放弃信仰"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "treachery",
+            "tergiversation"
+          ],
+          "tran_cn": "变节；脱党；背教"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "defection"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "背信，变节，叛教",
+      "tran_en": "when someone suddenly stops believing in a religion or supporting a political party"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "apostasies"
+    ]
+  }
+}

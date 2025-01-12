@@ -1,0 +1,151 @@
+{
+  "word": "besides",
+  "ipa": {
+    "us": "bɪˈsaɪdz",
+    "uk": "bɪˈsaɪdz"
+  },
+  "sentences": [
+    {
+      "en": "Besides cancer, smoking can lead on to other diseases.",
+      "cn": "除了癌症外, 吸烟还可引起其他疾病."
+    },
+    {
+      "en": "Besides English, he has to study German and French.",
+      "cn": "除英语外, 他还要学德语和法语."
+    },
+    {
+      "en": "Besides English, he has to study German.",
+      "cn": "除了英语, 他还要学德语."
+    },
+    {
+      "en": "Besides the acting being true to life, the singing was splendid.",
+      "cn": "不但动作十分逼真, 演唱也极为出色."
+    },
+    {
+      "en": "Besides the two novels, I have bought two atlases.",
+      "cn": "我买了两本小说, 另外还买了两本地图册."
+    },
+    {
+      "en": "He gave me a book, a pen and some money besides.",
+      "cn": "他给了我一本书, 一支钢笔,此外还给了我一些钱."
+    },
+    {
+      "en": "He had other people to take care of besides me.",
+      "cn": "除了我以外,他还需要照料其他人."
+    },
+    {
+      "en": "I don't like that new dictionary, besides, it's too expensive.",
+      "cn": "我不喜欢那本新字典, 另外, 它也太贵."
+    },
+    {
+      "en": "I don't want to go; besides, I'm too tired.",
+      "cn": "我不想去, 再说我也太累了."
+    },
+    {
+      "en": "I have five other books besides this.",
+      "cn": "除这本以外,我还有五本别的书."
+    },
+    {
+      "en": "I need the money. And besides, when I agree to do something, I do it.",
+      "cn": "我需要这笔钱，而且，我一旦答应做什么事情就会做到。"
+    },
+    {
+      "en": "I think she has many good qualities besides being very beautiful.",
+      "cn": "我觉得她不但长得非常漂亮，而且还有很多优秀品质。"
+    },
+    {
+      "en": "I want nothing besides this.",
+      "cn": "除此我什么都不要."
+    },
+    {
+      "en": "The area has stunning scenery, beautiful beaches, and much more besides.",
+      "cn": "那个地方有迷人的景色、美丽的沙滩，除此之外还有很多很多。"
+    },
+    {
+      "en": "There are other visitors besides me.",
+      "cn": "参观人除我之外,还有另外的人."
+    },
+    {
+      "en": "There were nine pounds left, besides some pennies.",
+      "cn": "除几枚便士硬币外,还剩下九英镑."
+    },
+    {
+      "en": "We have lots of things in common besides music.",
+      "cn": "除了音乐，我们还有很多共通点。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "addition",
+            "also",
+            "as",
+            "in",
+            "moreover",
+            "too",
+            "well"
+          ],
+          "tran_cn": "此外,而且"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addition",
+            "also",
+            "beside",
+            "except",
+            "furthermore",
+            "in",
+            "moreover",
+            "otherwise",
+            "then",
+            "too",
+            "upwards",
+            "yet"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "prep",
+      "words": [
+        {
+          "words": [
+            "unless",
+            "except as",
+            "in addition to"
+          ],
+          "tran_cn": "除…之外"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "况且，再说",
+      "tran_en": "used when adding another reason"
+    },
+    {
+      "pos": "adv,prep",
+      "tran_cn": "而且；除…之外",
+      "tran_en": "used when adding another reason"
+    },
+    {
+      "pos": "prep",
+      "tran_cn": "此外，除了",
+      "tran_en": "in addition to someone or something else that you are mentioning"
+    }
+  ],
+  "exchange": {}
+}

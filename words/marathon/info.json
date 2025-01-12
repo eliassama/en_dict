@@ -1,0 +1,158 @@
+{
+  "word": "marathon",
+  "ipa": {
+    "us": "ˈmærəθən",
+    "uk": "ˈmærəθɑːn"
+  },
+  "sentences": [
+    {
+      "en": "a marathon round of negotiations",
+      "cn": "一轮马拉松式的持久谈判"
+    },
+    {
+      "en": "A marathon runner counterbalances lack of speed with endurance.",
+      "cn": "马拉松跑者用耐力来弥补速度的不足."
+    },
+    {
+      "en": "A new world marathon record of 2 hrs, 8 min, 5 sec, was set by Stephen Jones of Great Britain.",
+      "cn": "英国的斯蒂芬·琼斯创造了新的马拉松世界纪录——2小时8分零5秒。"
+    },
+    {
+      "en": "A thirty-nine-year-old competitor collapsed half-way through the marathon and died shortly afterwards.",
+      "cn": "一名39岁的马拉松参赛者跑到一半时瘫倒在地，没过多久就死了。"
+    },
+    {
+      "en": "After running in the marathon, she was flat out for a week.",
+      "cn": "她参加马拉松比赛后一星期都疲惫不堪."
+    },
+    {
+      "en": "Garcia ran the marathon in just under three hours.",
+      "cn": "加西亚用了不到三小时就跑完了马拉松。"
+    },
+    {
+      "en": "He can hardly run a mile, much less the marathon.",
+      "cn": "他连一哩都跑不了, 更不用说马拉松了."
+    },
+    {
+      "en": "It takes a lot of stamina to run a marathon.",
+      "cn": "跑马拉松需要很大的耐力。"
+    },
+    {
+      "en": "More than 2000 years ago at Marathon, the Greeks won a victory.",
+      "cn": "在约在2000年以前,居住在马拉松的希腊人获得了胜利."
+    },
+    {
+      "en": "People lined the streets to watch marathon.",
+      "cn": "人们夹道观看马拉松赛跑."
+    },
+    {
+      "en": "People make marathon journeys to buy glass here.",
+      "cn": "人们千里迢迢赶到这里购买玻璃。"
+    },
+    {
+      "en": "Rodgers can also claim four victories in the New York Marathon.",
+      "cn": "罗杰斯也能在纽约马拉松比赛中4次夺冠。"
+    },
+    {
+      "en": "the Boston Marathon",
+      "cn": "波士顿马拉松赛"
+    },
+    {
+      "en": "The meeting was a bit of a marathon.",
+      "cn": "这次会议有点马拉松赛的味道."
+    },
+    {
+      "en": "This expedition made a landing near Marathon in Attica.",
+      "cn": "这个远征队在阿提卡的马拉松附近登陆."
+    },
+    {
+      "en": "to run a marathon",
+      "cn": "参加马拉松赛跑"
+    },
+    {
+      "en": "Two of the runners in the Marathon race collapsed and were carried off in a state of prostration.",
+      "cn": "两位马拉松赛跑选手累倒了,他们在虚脱状态中被抬走."
+    },
+    {
+      "en": "Why did you drop out in the middle of the marathon?",
+      "cn": "为什么你在马拉松赛跑途中退出?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "marathoner",
+          "tran_cn": " 马拉松运动员"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "staminal"
+          ],
+          "tran_cn": "马拉松式的；有耐力的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contest",
+            "race",
+            "relay"
+          ],
+          "tran_cn": "赛跑;竞赛"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contest",
+            "race",
+            "relay"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "boston marathon",
+      "tran_cn": "波士顿马拉松赛"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "马拉松式的",
+      "tran_en": "a marathon event continues for a long time and needs a lot of energy, patience, or determination"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "马拉松赛跑",
+      "tran_en": "a long race of about 26 miles or 42 kilometres"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "参加马拉松赛跑"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "marathons"
+    ]
+  }
+}

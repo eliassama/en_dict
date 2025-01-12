@@ -1,0 +1,105 @@
+{
+  "word": "vintner",
+  "ipa": {
+    "us": "ˈvɪntnə(r)",
+    "uk": "ˈvɪntnɚ"
+  },
+  "sentences": [
+    {
+      "en": "The vintner worked the wine in big oak vats.",
+      "cn": "酒商在大橡木桶中酿酒."
+    },
+    {
+      "en": "You don't have to buy a vineyard to be a vintner or winemaker.",
+      "cn": "你不必非要拥有葡萄园才能成为葡萄酒商或酿酒师。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vinous",
+          "tran_cn": " 葡萄酒的；嗜酒的；有葡萄酒性质的"
+        },
+        {
+          "word": "vintage",
+          "tran_cn": " 古老的；最佳的；过时的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vinery",
+          "tran_cn": " 葡萄园，葡萄温室"
+        },
+        {
+          "word": "vineyard",
+          "tran_cn": " 葡萄园"
+        },
+        {
+          "word": "viniculture",
+          "tran_cn": " 葡萄酒酿造学；[园艺] 葡萄栽培法"
+        },
+        {
+          "word": "vinifera",
+          "tran_cn": " 酿酒用葡萄"
+        },
+        {
+          "word": "vinification",
+          "tran_cn": " [食品] 葡萄酒酿造法"
+        },
+        {
+          "word": "vino",
+          "tran_cn": " 酒；廉价葡萄酒"
+        },
+        {
+          "word": "vintage",
+          "tran_cn": " 葡萄收获期；葡萄酒酿造期"
+        },
+        {
+          "word": "vintager",
+          "tran_cn": " 采葡萄的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "vintage",
+          "tran_cn": " 采葡萄"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vinify",
+          "tran_cn": " 用……酿酒；酿，酿造"
+        },
+        {
+          "word": "vintage",
+          "tran_cn": " 采葡萄；用葡萄酿酒"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "酒商，酿酒人",
+      "tran_en": "someone who buys and sells wines"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "vintners"
+    ]
+  }
+}

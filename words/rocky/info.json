@@ -1,0 +1,186 @@
+{
+  "word": "rocky",
+  "ipa": {
+    "us": "ˈrɒki",
+    "uk": "ˈrɑki"
+  },
+  "sentences": [
+    {
+      "en": "a rocky cliff",
+      "cn": "岩石嶙峋的峭壁"
+    },
+    {
+      "en": "A walker fell 80ft from a rocky pinnacle.",
+      "cn": "一位徒步者从一块80英尺高的尖锥形岩石上摔了下来。"
+    },
+    {
+      "en": "Madeleine placed it carefully in the rocky niche.",
+      "cn": "玛德琳小心翼翼地把它放在岩石壁龛里."
+    },
+    {
+      "en": "No man has ever set foot on that rocky island; it's impossible to land there.",
+      "cn": "没人涉足那个岩岛, 不可能在那儿上岸."
+    },
+    {
+      "en": "seabirds nesting on rocky ledges",
+      "cn": "海鸟在岩架上筑巢"
+    },
+    {
+      "en": "The brook warbled over its rocky bed.",
+      "cn": "小溪潺潺流过多石的河床."
+    },
+    {
+      "en": "The foaming waves chafe against the rocky shore.",
+      "cn": "汹涌的波涛猛烈地冲击着礁岸."
+    },
+    {
+      "en": "The paths are often very rocky so strong boots are advisable.",
+      "cn": "路上通常石头很多，所以最好穿结实耐磨的靴子。"
+    },
+    {
+      "en": "The peasant labourers really [actually] hewed a tunnel through that rocky mountain.",
+      "cn": "民工们硬是打通了这座大山，修成了隧道。"
+    },
+    {
+      "en": "The rhino broke away and ran not at us, but along the rocky bank beside us.",
+      "cn": "这头犀牛突然跑开了,但它没冲着我们跑来, 而是沿着我们旁边的石堤跑了."
+    },
+    {
+      "en": "The Rocky Mountains have rugged mountains and roads.",
+      "cn": "落基山脉有崇山峻岭和崎岖不平的道路."
+    },
+    {
+      "en": "the rocky road to success.",
+      "cn": "障碍重重的成功之路。"
+    },
+    {
+      "en": "The surrounding countryside is windswept and rocky.",
+      "cn": "这周围的乡村风多石头多。"
+    },
+    {
+      "en": "Their relationship had gotten off to a rocky start.",
+      "cn": "他们的关系在磕磕绊绊中开始了。"
+    },
+    {
+      "en": "They had gone through some rocky times together when Ann was first married.",
+      "cn": "当安刚结婚时，他们已经一起度过了一些艰难时光。"
+    },
+    {
+      "en": "They hurried over the rough rocky ground .",
+      "cn": "他们匆匆穿过那崎岖不平的石头地。"
+    },
+    {
+      "en": "This chair is a trifle rocky.",
+      "cn": "这把椅子有点摇晃."
+    },
+    {
+      "en": "We looked up at the rocky peaks towering above us.",
+      "cn": "我们抬头观望高高耸立的遍布岩石的山峰."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rocklike",
+          "tran_cn": " 石头般的；坚硬如岩石的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rock",
+          "tran_cn": " 岩石；摇滚乐；暗礁"
+        },
+        {
+          "word": "rocker",
+          "tran_cn": " 摇杆；摇的人；镰刀弯；套钩；摇轴"
+        },
+        {
+          "word": "rockiness",
+          "tran_cn": " 坚硬性；稳固；冷酷；困难"
+        },
+        {
+          "word": "rockslide",
+          "tran_cn": " 岩滑；崩落的岩石"
+        },
+        {
+          "word": "rockweed",
+          "tran_cn": " 生在海岸岩石上的海草"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "rock",
+          "tran_cn": " 摇动；摇晃"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rock",
+          "tran_cn": " 摇动；使摇晃"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "petrous",
+            "lithological"
+          ],
+          "tran_cn": "岩石的，多岩石的；坚如岩石的；摇晃的；头晕目眩的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "rocky coast",
+      "tran_cn": "岩石海岸"
+    },
+    {
+      "phrase": "rocky desert",
+      "tran_cn": "岩质沙漠"
+    },
+    {
+      "phrase": "rocky mountain",
+      "tran_cn": "落基山（脉）；洛矶山（脉）"
+    },
+    {
+      "phrase": "rocky road",
+      "tran_cn": "坎坷崎岖的路"
+    },
+    {
+      "phrase": "the rocky road to",
+      "tran_cn": "通往…的困难重重之路"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "多岩石的，坚如磐石的，坚硬的，麻木的，头晕目眩的，艰难的，难以维持的；不稳定的",
+      "tran_en": "covered with rocks or made of rock"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "rockier"
+    ],
+    "est": [
+      "rockiest"
+    ]
+  }
+}

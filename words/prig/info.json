@@ -1,0 +1,62 @@
+{
+  "word": "prig",
+  "ipa": {
+    "us": "prɪg",
+    "uk": "prɪɡ"
+  },
+  "sentences": [
+    {
+      "en": "Charles thinks he's better than the rest of us, the self - righteous prig!",
+      "cn": "查尔斯认为他比我们大家都强, 真是个自以为是的家伙!"
+    },
+    {
+      "en": "Don’t be such a prig! It’s only a bit of harmless fun!",
+      "cn": "别这么一本正经！只是无伤大雅的玩笑而已！"
+    },
+    {
+      "en": "You are neither a prig nor a bounder.",
+      "cn": "你既不是道学先生又不鲁莽."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "priggish",
+          "tran_cn": " 一本正经的；自负的；死板的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "thief",
+            "pilferer"
+          ],
+          "tran_cn": "一本正经的人；小偷"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "一本正经的人",
+      "tran_en": "someone who behaves in a morally good way and shows that they disapprove of the way other people behave - used to show disapproval"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "prigs"
+    ],
+    "adj": [
+      "priggish"
+    ]
+  }
+}

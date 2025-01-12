@@ -1,0 +1,167 @@
+{
+  "word": "pollutant",
+  "ipa": {
+    "us": "pəˈluːtənt",
+    "uk": "pəˈluːtənt"
+  },
+  "sentences": [
+    {
+      "en": "a dumping ground for toxic pollutants",
+      "cn": "有毒污染物堆放场"
+    },
+    {
+      "en": "A pre - dicing method for calculating the distribution of pollutant concentration is proposed.",
+      "cn": "污染物浓度分布的预测方法."
+    },
+    {
+      "en": "Arsenic is widely distributed in nature and also an important environmental pollutant.",
+      "cn": "砷广泛分布于自然界,而且是一种重要的环境污染物."
+    },
+    {
+      "en": "At any time the macrophage system might be injured by viral infection or air pollutant exposure.",
+      "cn": "巨噬细胞随时都可能受病毒感染或空气污染物所损伤."
+    },
+    {
+      "en": "Carbon dioxide may not be a typical air pollutant.",
+      "cn": "二氧化碳可能不是一种典型的污染物."
+    },
+    {
+      "en": "Coal itself is a heavy pollutant.",
+      "cn": "煤本身就是一种严重的污染物."
+    },
+    {
+      "en": "Discharge pipe take pollutant away from the coastal area into the sea.",
+      "cn": "排泄管道将污染性物质由沿海岸区排入大海."
+    },
+    {
+      "en": "Each pollutant on the list is subject to effluent limitations based on the BAT standard.",
+      "cn": "清单上的每种污染物必须按照“最佳现有技术”标准服从污水排放限制."
+    },
+    {
+      "en": "Exposure to this atmospheric pollutant usually occurs in industrial situations and in the chemical industries.",
+      "cn": "对这种大气污染物的暴露,通常发生在工业区和化学工业中."
+    },
+    {
+      "en": "Knowledge of any given exposure to air pollutant mixtures is largely inadequate.",
+      "cn": "关于任何特定的暴露于空气污染混合物中的知识,都是极为欠缺的."
+    },
+    {
+      "en": "Pollutant dispersion close to an urban surface – the BUBBLE tracer experiment.",
+      "cn": "接近于城市表面BUBBLE污染物传播的示踪物试验."
+    },
+    {
+      "en": "Since 1979 China has collected 24.7 billion yuan in pollutant discharge fees.",
+      "cn": "1979年以来,全国共征收排污费247亿元."
+    },
+    {
+      "en": "Sulfur dioxide has a more venerable history as an air pollutant than any other chemical.",
+      "cn": "作为一种空气污染物来说,二氧化硫比任何其它化合物历史更悠久."
+    },
+    {
+      "en": "The coal - fired power plants are the primary entities that emit pollutant.",
+      "cn": "火力发电 企业是我国污染物排放大户."
+    },
+    {
+      "en": "This chapter describes methods of estimating airborne pollutant concentration distrubutions associated with various emission sources.",
+      "cn": "本章论述几种有关各种排放源的大气污染物浓度分布的估算方法."
+    },
+    {
+      "en": "We will display all descriptive and identifying date for each pollutant source.",
+      "cn": "我们列出每个污染源的所有说明性和标准性的数据."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "polluted",
+          "tran_cn": " 受污染的；被玷污的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "polluter",
+          "tran_cn": " 污染者；污染源；污染物质"
+        },
+        {
+          "word": "pollution",
+          "tran_cn": " 污染"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "polluted",
+          "tran_cn": " 污染（pollute的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "pollute",
+          "tran_cn": " 污染；玷污；败坏"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contamination",
+            "fomite"
+          ],
+          "tran_cn": "[环境]污染物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "atmospheric pollutant",
+      "tran_cn": "大气污染物"
+    },
+    {
+      "phrase": "chemical pollutant",
+      "tran_cn": "化学污染物"
+    },
+    {
+      "phrase": "persistent pollutant",
+      "tran_cn": "持久性污染物"
+    },
+    {
+      "phrase": "pollutant discharge",
+      "tran_cn": "污染物排放"
+    },
+    {
+      "phrase": "pollutant emission",
+      "tran_cn": "污染物排放；污染发散物"
+    },
+    {
+      "phrase": "pollutant source",
+      "tran_cn": "污染源"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "污染物",
+      "tran_en": "a substance that makes air, water, soil etc dangerously dirty, and is caused by cars, factories etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "pollutants"
+    ]
+  }
+}

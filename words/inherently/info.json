@@ -1,0 +1,128 @@
+{
+  "word": "inherently",
+  "ipa": {
+    "us": "ɪnˈhɪərəntli",
+    "uk": "ɪnˈhɪrəntli"
+  },
+  "sentences": [
+    {
+      "en": "Aeroplanes are not inherently dangerous.",
+      "cn": "飞机本身并不危险。"
+    },
+    {
+      "en": "Cellular phones are inherently insecure, as anyone can listen to and record conversations.",
+      "cn": "手机天生就不安全，因为任何人都可以听到并录下谈话。"
+    },
+    {
+      "en": "Certain colors, due to pigment ingredients, may inherently have very poor sulfuric acid resistance.",
+      "cn": "某些颜料, 由于色素组成成份的性质而导致耐酸性很差."
+    },
+    {
+      "en": "Mechanical switching is inherently slow and frequently unreliable.",
+      "cn": "机械开关速度有一种固有的缓慢性,而且经常不可靠."
+    },
+    {
+      "en": "Most of an individual's genes, however, are inherently good.",
+      "cn": "然而人类个体的基因生来就是正常的,很少发生突变(变异)."
+    },
+    {
+      "en": "Most people don't like change, so roll - outs are inherently a tricky business.",
+      "cn": "很多人并不喜欢改变, 因此,改版必定是件冒点风险的事情."
+    },
+    {
+      "en": "Oil exploration is inherently probabilistic.",
+      "cn": "石油勘探本来就是带有概率性的."
+    },
+    {
+      "en": "TDMA - based MAC protocol is inherently collision free but it has poor scalability.",
+      "cn": "基于TDMA的MAC协议具有固有的节能特性,但是其可扩展性较差."
+    },
+    {
+      "en": "The profit motive is inherently at odds with principles of fairness and equity.",
+      "cn": "盈利动机天生就与公平和公正的原则相抵触。"
+    },
+    {
+      "en": "There is nothing inherently improbable in the idea.",
+      "cn": "这个想法本身没什么不可能的."
+    },
+    {
+      "en": "They also resort to theories, predictions, and intuitions that are inherently incapable of exact proof.",
+      "cn": "法官还借助理论 、 预测和直觉,这些在实际举证中是不可能得到的."
+    },
+    {
+      "en": "Trade is inherently evil but is justified by the good of the public.",
+      "cn": "商业本来是一件坏事,但因为对公众是好事而得到肯定."
+    },
+    {
+      "en": "War is inherently a dirty business.",
+      "cn": "战争与生俱来就是肮脏的。"
+    },
+    {
+      "en": "Weighing is inherently a more positive and accurate method.",
+      "cn": "称重法从根本上说是一种更可靠和更精确的方法."
+    },
+    {
+      "en": "Yet the concept that light is somehow inherently oscillatory has persisted throughout this transition period.",
+      "cn": "但是光本来是某种振动这一概念在过渡时期里始终保持着."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inherent",
+          "tran_cn": " 固有的；内在的；与生俱来的，遗传的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inherence",
+          "tran_cn": " 内在；固有；天赋"
+        },
+        {
+          "word": "inherency",
+          "tran_cn": " 固有；内在性"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "inhere",
+          "tran_cn": " 固有；生来即存在；本质上即属"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "internally",
+            "intrinsically"
+          ],
+          "tran_cn": "内在地；固有地；天性地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "天性地，固有地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "inherent"
+    ]
+  }
+}

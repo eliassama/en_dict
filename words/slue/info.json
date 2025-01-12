@@ -1,0 +1,88 @@
+{
+  "word": "slue",
+  "ipa": {
+    "us": "slu:",
+    "uk": "slu"
+  },
+  "sentences": [
+    {
+      "en": "Umbrella room type cyme, axil is born or the top is born, scattered, slue is spent.",
+      "cn": "伞房式聚伞花序, 腋生或顶生, 疏散, 有极多花."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "revolution",
+            "rotation",
+            "rolling",
+            "turning",
+            "wetland"
+          ],
+          "tran_cn": "旋转，转向；沼泽地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deflect"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "wheel",
+            "circle",
+            "spin"
+          ],
+          "tran_cn": "旋转；转向"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "转向，扭转，沼泽地"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "=slew"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（突然）转向，旋转"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（突然）转向，使旋转"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "slues"
+    ],
+    "past": [
+      "slued"
+    ],
+    "done": [
+      "slued"
+    ],
+    "ing": [
+      "sluing"
+    ]
+  }
+}

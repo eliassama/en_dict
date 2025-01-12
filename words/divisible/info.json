@@ -1,0 +1,178 @@
+{
+  "word": "divisible",
+  "ipa": {
+    "us": "dɪˈvɪzəbl",
+    "uk": "dɪˈvɪzəbəl"
+  },
+  "sentences": [
+    {
+      "en": "8 is divisible by 2 and 4, but not by 3.",
+      "cn": "8可被2和4除尽，但不能被3除尽。"
+    },
+    {
+      "en": "A project's objectives are usually very clear cut and often divisible into discrete component parts.",
+      "cn": "项目的目标通常十分明确,并且可以分解成若干个子项目."
+    },
+    {
+      "en": "Aim the construction method of exponentially perfect numbers not divisible by 3 is searched.",
+      "cn": "目的寻找构造不能被3整除的指数完全数的方法."
+    },
+    {
+      "en": "An election year is one in which all four members are evenly divisible by four.",
+      "cn": "选举年是年份的四位数字能被4整除的年."
+    },
+    {
+      "en": "Even numbers are divisible by two.",
+      "cn": "偶数能被二整除."
+    },
+    {
+      "en": "He argued that all matter was infinitely divisible.",
+      "cn": "他坚持所有物质都可无限地分."
+    },
+    {
+      "en": "How many three - digit positive integers have their sum of digits divisible by 3?",
+      "cn": "有多少个三位正整数的数字之和可被3整除?"
+    },
+    {
+      "en": "Since our example deals with whole, discrete units rather than with petrfectly divisible units.",
+      "cn": "因为本例中我们涉及的是整体而分立的单位,并不是完全分割的单位."
+    },
+    {
+      "en": "The ideal money is something universally acceptable, easily stored and transported, and highly divisible.",
+      "cn": "理想的货币是被普遍接受的一般等价物,便于储藏和携带, 而且易于分割."
+    },
+    {
+      "en": "The integer 1 is divisible only by itself; it is not a prime.",
+      "cn": "整数1只能被它本身整除, 所以不是素数."
+    },
+    {
+      "en": "Thirteen is not divisible by any even number.",
+      "cn": "13不能被任何偶数除尽."
+    },
+    {
+      "en": "This Guarantee is divisible, transferable and assignable without presentation of it to us.",
+      "cn": "这项担保可以分割 、 让与和过户,而无须向我们陈述."
+    },
+    {
+      "en": "To study special Markov processes with infinitely divisible limit distributions, the characteristic function was used.",
+      "cn": "研究极限分布具有无穷可分性的马氏过程."
+    },
+    {
+      "en": "Twelve is divisible by four.",
+      "cn": "12可被4除尽."
+    },
+    {
+      "en": "Twenty-eight is divisible by seven.",
+      "cn": "28可以被7除尽。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dividable",
+          "tran_cn": " 可分的"
+        },
+        {
+          "word": "divided",
+          "tran_cn": " 分裂的；分开的；有分歧的"
+        },
+        {
+          "word": "dividing",
+          "tran_cn": " 区分的；起划分作用的"
+        },
+        {
+          "word": "divisional",
+          "tran_cn": " 分区的；分割的"
+        },
+        {
+          "word": "divisive",
+          "tran_cn": " 分裂的；区分的；造成不和的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "divide",
+          "tran_cn": " [地理] 分水岭，分水线"
+        },
+        {
+          "word": "divider",
+          "tran_cn": " [计] 除法器；分隔物；圆规"
+        },
+        {
+          "word": "divisibility",
+          "tran_cn": " 可分性；[数] 可除性"
+        },
+        {
+          "word": "division",
+          "tran_cn": " [数] 除法；部门；分割；师（军队）；赛区"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "divided",
+          "tran_cn": " 分开（divide的过去分词）；分离"
+        },
+        {
+          "word": "dividing",
+          "tran_cn": " 分开（divide的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "divide",
+          "tran_cn": " 分开；意见分歧"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "divide",
+          "tran_cn": " 划分；除；分开；使产生分歧"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "cleavable",
+            "dividable",
+            "fragmentary",
+            "separable"
+          ],
+          "tran_cn": "可分"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "divisible letter of credit",
+      "tran_cn": "可分割信用状"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可分开的，可除尽的",
+      "tran_en": "able to be divided, for example by a number"
+    }
+  ],
+  "exchange": {}
+}

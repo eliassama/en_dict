@@ -1,0 +1,201 @@
+{
+  "word": "correspond",
+  "ipa": {
+    "us": "ˌkɒrəˈspɒnd",
+    "uk": "ˌkɔːrəˈspɑːnd"
+  },
+  "sentences": [
+    {
+      "en": "For the next three years they corresponded regularly.",
+      "cn": "在接下来的三年里他们经常通信。"
+    },
+    {
+      "en": "Her expression is concerned but her body-language does not correspond.",
+      "cn": "她满脸关切之情，但她的肢体语言并非如此。"
+    },
+    {
+      "en": "His expenses do not correspond to his income.",
+      "cn": "他入不敷出。"
+    },
+    {
+      "en": "I assure you my actions will correspond with my words.",
+      "cn": "我向你保证,我将言行一致."
+    },
+    {
+      "en": "I should never correspond to your pattern of a lady.",
+      "cn": "你为小姐们制定的规格我永远达不到."
+    },
+    {
+      "en": "If we find they correspond, every fear of mine will be removed.",
+      "cn": "如果我们发现他们通信的话, 我的种种忧虑就会烟消云散了."
+    },
+    {
+      "en": "The arms of a man correspond to the wings of a bird.",
+      "cn": "人的手臂相当于鸟的翅膀."
+    },
+    {
+      "en": "The French ‘baccalaureate’ exam roughly corresponds to English A levels.",
+      "cn": "法国的毕业会考大致相当于英国的高级程度考试。"
+    },
+    {
+      "en": "The last two integrals correspond to the natural boundary conditions.",
+      "cn": "最后两个积分对应于自然边界条件."
+    },
+    {
+      "en": "The question arises here; does initiation correspond to pre - neoplasia?",
+      "cn": "问题从这里提出: “始发阶段”是否相当于瘤前病变?"
+    },
+    {
+      "en": "The translation does not quite correspond to the original.",
+      "cn": "译文不切原意."
+    },
+    {
+      "en": "The two halves of the document did not correspond.",
+      "cn": "这份文件的前后两部分不相符。"
+    },
+    {
+      "en": "The two maps of London correspond closely.",
+      "cn": "这两张伦敦地图很相似。"
+    },
+    {
+      "en": "The two sisters correspond every week.",
+      "cn": "这两姐妹每周通信."
+    },
+    {
+      "en": "There were two bedrooms to correspond with the rooms downstairs.",
+      "cn": "楼上有两间与楼下相仿的房间."
+    },
+    {
+      "en": "These goods do not correspond with the list.",
+      "cn": "这货物与货单不符."
+    },
+    {
+      "en": "These wave functions correspond to states of constant energy E.",
+      "cn": "这些波函数对应于具有恒定能量E的态."
+    },
+    {
+      "en": "Your account of events does not correspond with hers.",
+      "cn": "你对事情的陈述与她说的不相符。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "corresponding",
+          "tran_cn": " 相当的，相应的；一致的；通信的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "correspondingly",
+          "tran_cn": " 相应地，相对地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "correspondence",
+          "tran_cn": " 通信；一致；相当"
+        },
+        {
+          "word": "correspondent",
+          "tran_cn": " 通讯记者；客户；通信者；代理商行"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "corresponding",
+          "tran_cn": " 类似（correspond的ing形式）；相配"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agree",
+            "coincide",
+            "communicate",
+            "coordinate",
+            "correlate",
+            "harmonize",
+            "inhere",
+            "parallel",
+            "resemble",
+            "sympathize",
+            "tally",
+            "with",
+            "write"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "agree",
+            "harmonize",
+            "resemble"
+          ],
+          "tran_cn": "符合,一致"
+        },
+        {
+          "words": [
+            "communicate",
+            "with",
+            "write"
+          ],
+          "tran_cn": "通信"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "correspond with",
+      "tran_cn": "符合，一致；与……通信"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "符合，相当于，通信",
+      "tran_en": "if two things or ideas correspond, the parts or information in one relate to the parts or information in the other"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 相符合， 相一致； 相当， 相类似； 通信",
+      "tran_en": "if two things or ideas correspond, the parts or information in one relate to the parts or information in the other"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "corresponds"
+    ],
+    "past": [
+      "corresponded"
+    ],
+    "done": [
+      "corresponded"
+    ],
+    "ing": [
+      "corresponding"
+    ]
+  }
+}

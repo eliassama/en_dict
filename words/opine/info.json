@@ -1,0 +1,79 @@
+{
+  "word": "opine",
+  "ipa": {
+    "us": "əʊˈpaɪn",
+    "uk": "oʊˈpaɪn"
+  },
+  "sentences": [
+    {
+      "en": "\"A house is a machine for living,\" opined Le Corbusier.",
+      "cn": "“房屋是居住的机器，”勒·柯布西耶说道。"
+    },
+    {
+      "en": "I opine that it will rain before night.",
+      "cn": "我想天黑以前要下雨的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "opinion",
+          "tran_cn": " 意见；主张"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "calculate",
+            "think"
+          ],
+          "tran_cn": "以为；想；表示意见"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "think",
+            "like"
+          ],
+          "tran_cn": "以为；想"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 想， 以为"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "认为，以为"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "opines"
+    ],
+    "past": [
+      "opined"
+    ],
+    "done": [
+      "opined"
+    ],
+    "ing": [
+      "opining"
+    ]
+  }
+}

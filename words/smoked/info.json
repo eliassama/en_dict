@@ -1,0 +1,184 @@
+{
+  "word": "smoked",
+  "ipa": {
+    "us": "sməʊkt",
+    "uk": "smokt"
+  },
+  "sentences": [
+    {
+      "en": "...a white van with smoked glass windows.",
+      "cn": "...一辆装有烟熏玻璃窗的白色货车。"
+    },
+    {
+      "en": "Another man constantly chain-smoked and seemed to have the shakes.",
+      "cn": "另一名男子一直一支接一支地抽烟，似乎身体有些发抖。"
+    },
+    {
+      "en": "David began to dislike all his television heroes who smoked.",
+      "cn": "戴维开始讨厌所有他曾喜欢的吸烟的电视偶像了。"
+    },
+    {
+      "en": "Do you think it would be all right if I smoked?",
+      "cn": "我可以抽烟吗？"
+    },
+    {
+      "en": "Eat cured or smoked meats infrequently.",
+      "cn": "不要常吃腌制或熏烤的肉."
+    },
+    {
+      "en": "He had smoked half a packet of cigarettes.",
+      "cn": "他已经吸了半包香烟。"
+    },
+    {
+      "en": "He smoked his throat raw.",
+      "cn": "他抽烟抽得嗓子都疼了."
+    },
+    {
+      "en": "He smoked one cigarette after another.",
+      "cn": "他一根接着一根地吸着香烟."
+    },
+    {
+      "en": "He smoked the snakes out from the hole.",
+      "cn": "他把蛇从洞中熏出."
+    },
+    {
+      "en": "Herrings can be salted, smoked and pickled.",
+      "cn": "鲱鱼可以盐腌、熏制和泡制。"
+    },
+    {
+      "en": "Legs of pork were cured and smoked over the fire.",
+      "cn": "在火上熏制猪腿。"
+    },
+    {
+      "en": "Smoked herring is a local delicacy.",
+      "cn": "烟熏鲱鱼是当地一种美味食品."
+    },
+    {
+      "en": "Smoked salmon — what a treat!",
+      "cn": "熏大马哈鱼——馐馔之福啊!"
+    },
+    {
+      "en": "Smoked salmon was considered an expensive delicacy.",
+      "cn": "熏鲑鱼被认为是一道昂贵的珍馐。"
+    },
+    {
+      "en": "The escaped convicts were smoked out of the house.",
+      "cn": "逃犯被熏出了屋子."
+    },
+    {
+      "en": "Use Scottish smoked haddock if you can.",
+      "cn": "如果可以的话就用苏格兰熏黑线鳕。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "smokeless",
+          "tran_cn": " 无烟的；不冒烟的"
+        },
+        {
+          "word": "smoking",
+          "tran_cn": " 准许吸烟的"
+        },
+        {
+          "word": "smoky",
+          "tran_cn": " 冒烟的；烟熏味的；熏着的；呛人的；烟状的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "smoking",
+          "tran_cn": " 冒着烟"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "smoke",
+          "tran_cn": " 烟；抽烟；无常的事物"
+        },
+        {
+          "word": "smokehouse",
+          "tran_cn": " 熏制室，熏制房"
+        },
+        {
+          "word": "smoker",
+          "tran_cn": " 吸烟者；薰制工"
+        },
+        {
+          "word": "smoking",
+          "tran_cn": " 抽烟；冒气"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "smoking",
+          "tran_cn": " 吸烟；冒烟（smoke的现在分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "smoke",
+          "tran_cn": " 冒烟，吸烟；抽烟；弥漫"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "smoke",
+          "tran_cn": " 吸烟；抽"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "cured"
+          ],
+          "tran_cn": "熏制的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "smoked fish",
+      "tran_cn": "熏鱼，五香熏鱼；熏制鱼产品"
+    },
+    {
+      "phrase": "smoked salmon",
+      "tran_cn": "熏制鲑鱼"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "熏制的，用烟处理的",
+      "tran_en": "Smoked glass has been made darker by being treated with smoke"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "冒烟( smoke的过去式和过去分词 )，抽烟，用烟熏制，吸（烟），抽"
+    }
+  ],
+  "exchange": {}
+}

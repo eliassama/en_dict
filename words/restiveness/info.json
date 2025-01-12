@@ -1,0 +1,63 @@
+{
+  "word": "restiveness",
+  "ipa": {
+    "us": "'restɪvnəs",
+    "uk": "'restɪvnəs"
+  },
+  "sentences": [
+    {
+      "en": "Seeing a faint restiveness in Lincoln's eye, he changed the subject.",
+      "cn": "他觉察到林肯眼神略带烦躁, 便改了话题."
+    },
+    {
+      "en": "There were signs of restiveness among the younger members.",
+      "cn": "年轻成员流露出了不满的情绪。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "restive",
+          "tran_cn": " 倔强的；难驾御的；不安宁的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "restively",
+          "tran_cn": " 难以驾御地；倔强地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "stubbornness",
+            "perverseness"
+          ],
+          "tran_cn": "难以驾御；倔强"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "倔强，难以驾御"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "restive"
+    ]
+  }
+}

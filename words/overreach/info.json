@@ -1,0 +1,92 @@
+{
+  "word": "overreach",
+  "ipa": {
+    "us": "ˌəʊvəˈri:tʃ",
+    "uk": "ˌoʊvərˈritʃ"
+  },
+  "sentences": [
+    {
+      "en": "Beijing property market cooling small Huxing next year overreach?",
+      "cn": "北京楼市小户型今年过火明年降温?"
+    },
+    {
+      "en": "He had to overreach in order to catch my hand.",
+      "cn": "为了抓住我的手,他不得不把手伸得过长."
+    },
+    {
+      "en": "It isn't wise to be too clever. Sometimes you overreach yourself.",
+      "cn": "太精明未必好, 有时会弄巧成拙."
+    },
+    {
+      "en": "The company overreached itself financially.",
+      "cn": "该公司的做法超出其经济实力。"
+    },
+    {
+      "en": "The people who sustain the worst losses are usually those who overreach.",
+      "cn": "不自量力者往往摔得最惨。"
+    },
+    {
+      "en": "To overreach is to rage.",
+      "cn": "行为过激就会失去理智."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "overproduction",
+          "tran_cn": " 生产过剩；过度产生"
+        },
+        {
+          "word": "overprotection",
+          "tran_cn": " 过度保护"
+        },
+        {
+          "word": "overreaction",
+          "tran_cn": " 过度反应"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "outstep",
+            "nobble"
+          ],
+          "tran_cn": "走过头；过度伸张；诈骗"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "走过头",
+      "tran_en": "to try to do more than you have the power, ability, or money to do"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "因过于雄心勃勃而失败"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "overreaches"
+    ],
+    "past": [
+      "overreached"
+    ],
+    "done": [
+      "overreached"
+    ],
+    "ing": [
+      "overreaching"
+    ]
+  }
+}

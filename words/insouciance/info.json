@@ -1,0 +1,78 @@
+{
+  "word": "insouciance",
+  "ipa": {
+    "us": "ɪnˈsu:siəns",
+    "uk": "ɪnˈsusiəns, ˌæŋsuˈsjɑŋs"
+  },
+  "sentences": [
+    {
+      "en": "an air of insouciance",
+      "cn": "无忧无虑的神态"
+    },
+    {
+      "en": "He replied with characteristic insouciance: 'So what?'",
+      "cn": "他以一贯的漫不经心回答道：“那又怎样？”"
+    },
+    {
+      "en": "He replied with characteristic insouciance: \"So what?\"",
+      "cn": "他以一贯的漫不经心回答道：“那又怎样？”"
+    },
+    {
+      "en": "She hid her worries behind an air of insouciance.",
+      "cn": "她掩饰着自己的烦恼，表现得无忧无虑。"
+    },
+    {
+      "en": "What explains this apparent insouciance? It'seems that investors reckon they cannot lose.",
+      "cn": "用什么能够解释这种听而不闻,视而不见 呢 ?看起来投资人认为他们不会输钱."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "insouciant",
+          "tran_cn": " 漫不经心的，漠不关心的；无忧无虑的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "No Worries",
+            "rhathymia"
+          ],
+          "tran_cn": "无忧无虑；漫不经心；满不在乎"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "airiness"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "不注意，不在乎",
+      "tran_en": "a cheerful feeling of not caring or worrying about anything"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "insouciant"
+    ]
+  }
+}

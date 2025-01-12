@@ -1,0 +1,139 @@
+{
+  "word": "basically",
+  "ipa": {
+    "us": "ˈbeɪsɪkli",
+    "uk": "ˈbeɪsɪkli"
+  },
+  "sentences": [
+    {
+      "en": "A car's starter is basically an electric motor.",
+      "cn": "汽车的启动装置基本上是个电动机。"
+    },
+    {
+      "en": "Although the car is basically sound, I was worried about certain areas.",
+      "cn": "尽管这辆汽车基本状况良好，我还是担心一些地方不够安全。"
+    },
+    {
+      "en": "As far as I can tell, Jason is basically a nice guy.",
+      "cn": "据我所知，贾森算得上是个好人。"
+    },
+    {
+      "en": "Basically the system ought to have worked.",
+      "cn": "其实这套系统本应发挥作用的。"
+    },
+    {
+      "en": "Basically you've got two choices.",
+      "cn": "大致说来，你有两个选择。"
+    },
+    {
+      "en": "Basically, I’m just lazy.",
+      "cn": "说穿了，我就是懒。"
+    },
+    {
+      "en": "He's basically bullshitting.",
+      "cn": "他基本上是在胡扯。"
+    },
+    {
+      "en": "His heart is basically sound.",
+      "cn": "他的心脏基本上健康."
+    },
+    {
+      "en": "I used to see him every night, basically.",
+      "cn": "基本上，我以前每天晚上都见他。"
+    },
+    {
+      "en": "I was basically a dreadful coward.",
+      "cn": "从根本上说,我非常胆小怕事."
+    },
+    {
+      "en": "If the examination shows your company enjoys basically good health, read on.",
+      "cn": "要是审查表明你们公司的运营状况基本良好，请继续往下读。"
+    },
+    {
+      "en": "It's basically a vegan diet.",
+      "cn": "从根本上来讲，这是严格的素食主义饮食。"
+    },
+    {
+      "en": "She was basically fenced in by what the military wanted to do.",
+      "cn": "军旅事务使她基本上无法脱身。"
+    },
+    {
+      "en": "The official report basically exonerated everyone.",
+      "cn": "官方报道基本上宣布所有人无罪。"
+    },
+    {
+      "en": "Their medical problems are basically physical in origin.",
+      "cn": "他们的病症主要是由于身体原因引起的。"
+    },
+    {
+      "en": "Turn right and just basically walk straight, right over the river.",
+      "cn": "向右转,然后大致直着往前走,越过小河."
+    },
+    {
+      "en": "Well, basically, it’s a matter of filling in a few forms.",
+      "cn": "嗯，其实也就是填几张表的事。"
+    },
+    {
+      "en": "Yes, that's basically correct.",
+      "cn": "对，基本正确。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "basic",
+          "tran_cn": " 基本的；基础的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "basic",
+          "tran_cn": " 基础；要素"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "mainly",
+            "mostly",
+            "largely",
+            "primarily",
+            "ultimately"
+          ],
+          "tran_cn": "主要地，基本上"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "practically",
+            "virtually"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "基本上，从本质上来说",
+      "tran_en": "used to emphasize the most important reason or fact about something, or a simple explanation of something"
+    }
+  ],
+  "exchange": {}
+}

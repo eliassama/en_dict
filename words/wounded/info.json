@@ -1,0 +1,178 @@
+{
+  "word": "wounded",
+  "ipa": {
+    "us": "ˈwuːndɪd",
+    "uk": "ˈwuːndɪd"
+  },
+  "sentences": [
+    {
+      "en": "13 soldiers were killed and 10 wounded in action.",
+      "cn": "战斗中有13名士兵阵亡，10名士兵受伤。"
+    },
+    {
+      "en": "A Navy medic was wounded by sniper fire.",
+      "cn": "一名海军卫生员被狙击手射伤了。"
+    },
+    {
+      "en": "a wounded soldier",
+      "cn": "受伤的士兵"
+    },
+    {
+      "en": "He howled like a wounded animal as blood spurted from the gash.",
+      "cn": "当血从伤口中喷出时，他像一只受伤的动物一样嚎叫起来。"
+    },
+    {
+      "en": "He was deeply wounded by the treachery of close aides.",
+      "cn": "他被亲密助手的背叛深深地伤害了。"
+    },
+    {
+      "en": "He was wounded in both legs and severely peppered with shrapnel.",
+      "cn": "他两条腿都挂彩了，人也被如雨的弹片炸成重伤。"
+    },
+    {
+      "en": "He was wounded in the shoulder by a ricochet.",
+      "cn": "他被一颗跳弹打伤了肩膀。"
+    },
+    {
+      "en": "Hospitals said they could not cope with the wounded.",
+      "cn": "医院表示无力收治这么多伤者。"
+    },
+    {
+      "en": "I think she feels desperately wounded and unloved at the moment.",
+      "cn": "我想她此刻定会觉得受到了极大的伤害，无人关爱。"
+    },
+    {
+      "en": "Seven people were wounded when soldiers fired rubber bullets to disperse crowds.",
+      "cn": "士兵发射橡皮子弹驱散人群时有7个人受了伤。"
+    },
+    {
+      "en": "The driver of an evacuation bus was wounded by shrapnel.",
+      "cn": "一辆疏散大巴的司机被弹片炸伤。"
+    },
+    {
+      "en": "The gun was fired and Beaton was wounded a second time.",
+      "cn": "枪响了，比顿再次受伤。"
+    },
+    {
+      "en": "The two wounded men were taken to a nearby hospital.",
+      "cn": "两名受伤男子被送到附近医院。"
+    },
+    {
+      "en": "There was an exchange of fire during which the gunman was wounded.",
+      "cn": "有过交火，其间那名持枪歹徒受伤了。"
+    },
+    {
+      "en": "They were told to carry their wounded and leave their dead.",
+      "cn": "他们被命令抬走伤员，丢下死者。"
+    },
+    {
+      "en": "Thousands of people battled with police and several were reportedly wounded.",
+      "cn": "数千人与警方发生冲突，据报道有数人在冲突中受伤。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "wound",
+          "tran_cn": " 创伤，伤口"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "wound",
+          "tran_cn": " 受伤，伤害"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "wound",
+          "tran_cn": " 使受伤"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "injured",
+            "hurt"
+          ],
+          "tran_cn": "受伤的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "flesh wound",
+      "tran_cn": "轻伤，皮肉之伤；皮肉伤"
+    },
+    {
+      "phrase": "open wound",
+      "tran_cn": "开放性创伤；裸露的伤口"
+    },
+    {
+      "phrase": "puncture wound",
+      "tran_cn": "刺伤，穿刺伤"
+    },
+    {
+      "phrase": "spiral wound",
+      "tran_cn": "[医]螺旋状伤"
+    },
+    {
+      "phrase": "spiral wound gasket",
+      "tran_cn": "金属缠绕垫；缠绕式垫片"
+    },
+    {
+      "phrase": "wire wound",
+      "tran_cn": "绕线型，线绕式"
+    },
+    {
+      "phrase": "wound dressing",
+      "tran_cn": "绷带，伤口敷料；创伤敷料"
+    },
+    {
+      "phrase": "wound gasket",
+      "tran_cn": "缠绕垫"
+    },
+    {
+      "phrase": "wound healing",
+      "tran_cn": "创伤修复，愈合；伤口愈合"
+    },
+    {
+      "phrase": "wound rotor",
+      "tran_cn": "绕线转子，绕线端子"
+    },
+    {
+      "phrase": "wound up",
+      "tran_cn": "紧张的；兴奋的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "负伤的，受了伤（害）的",
+      "tran_en": "injured by a weapon such as a gun or knife"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "受伤者，伤员"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使受伤，伤害( wound的过去式和过去分词 )，使（心灵）受伤，伤感情，缠绕( wind的过去式和过去分词 )，卷绕"
+    }
+  ],
+  "exchange": {}
+}

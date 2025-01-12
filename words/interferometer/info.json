@@ -1,0 +1,147 @@
+{
+  "word": "interferometer",
+  "ipa": {
+    "us": "ˌɪntəfɪəˈrɒmɪtə",
+    "uk": "ˌɪntərfəˈrɑmətər"
+  },
+  "sentences": [
+    {
+      "en": "An interferometer invented by Michelson was used by Michelson and Morely.",
+      "cn": "迈克耳孙和莫雷使用一台迈克耳孙发明的干涉仪."
+    },
+    {
+      "en": "Appling Michelson interferometer knowledge in physics, its application of precise size measure is introduced.",
+      "cn": "应用物理学中的迈克耳孙干涉仪知识, 介绍其在精密尺寸测量中的运用."
+    },
+    {
+      "en": "Based on Michelson interferometer, the laser Doppler effect experiment instrument is designed.",
+      "cn": "通过对迈克耳孙干涉仪动镜的改装和机械加工, 设计了激光多普勒效应实验装置."
+    },
+    {
+      "en": "Comparatively rudimentary interferometer observations suggested that this source is about 1.5 across.",
+      "cn": "不很精确的射电干涉仪观测表明,这个源的角径约为1.5弧秒."
+    },
+    {
+      "en": "Currently under construction in Fermilab, the Holometer (meaning holographic interferometer) will delve deep into this quantum realm at smaller scales than the GEO600 experiment.",
+      "cn": "目前在费米实验室制造的“全息干涉仪”，将比GEO600探测到更小的尺度，进入到量子尺度。"
+    },
+    {
+      "en": "Digital image holographic interferometer is used to measure the mass diffusion coefficient of fluid.",
+      "cn": "确定了使用数字全息激光干涉法测量流体质扩散系数."
+    },
+    {
+      "en": "Interferometer: Optic compensation RockSolidTM, proprietary vibration interferometer , permanently aligned.",
+      "cn": "干涉仪: 专利产品,光学补偿,永远准直, 抗振动."
+    },
+    {
+      "en": "Michelson interferometer has a simple structure, and is applied earliest.",
+      "cn": "Michelson干涉仪结构简单, 最早被用来检测压电薄膜厚度的变化."
+    },
+    {
+      "en": "One possibility, according to Hogan, would be to use a device called an atom interferometer.",
+      "cn": "霍根说，一种可行方式是使用所谓的“原子干涉仪”设备。"
+    },
+    {
+      "en": "Operational trace gas retrieval algorithm for the Infrared Atmospheric Sounding Interferometer.",
+      "cn": "红外线大气探测干涉仪的业务示踪气体的反演算法."
+    },
+    {
+      "en": "Resonant mass detectors are less expensive to build than laser interferometer detectors.",
+      "cn": "建造共振质量探测仪不像建造激光干涉计探测仪那么昂贵."
+    },
+    {
+      "en": "The circular fringe of wavefront - splitting interference can be produced by an improved Mach - Zehnder interferometer.",
+      "cn": "对马赫 — 曾德干涉仪作适当改进后,可以产生出分波前干涉的全圆形干涉条纹."
+    },
+    {
+      "en": "The interferometer is relatively difficult to align.",
+      "cn": "这种干涉仪比较难调整."
+    },
+    {
+      "en": "The light is resolved by prisms, gratings, or by an interferometer.",
+      "cn": "光线用棱镜 、 光栅或干涉仪分解."
+    },
+    {
+      "en": "The principle of the system of interferometer in large aperture image spectrometer has been expatiated.",
+      "cn": "提出了大孔径干涉型成像光谱仪的原理,并展示了攻关样机和实验数据."
+    },
+    {
+      "en": "This is achieved by firing a laser down a 600 meter long tube where it is split, reflected and directed into an interferometer.",
+      "cn": "实现这一功能，需要发射一束激光，穿过600米的隧道后，将激光分裂成两束，经过反射的一束和未反射的一束均进入干涉仪。"
+    },
+    {
+      "en": "We cannot, of course, stop the world but we can rotate the interferometer.",
+      "cn": "我们当然不能使地球停止运动,但是我们可旋转干涉仪."
+    },
+    {
+      "en": "We present a method to measure the evanescent field by Michelson interferometer.",
+      "cn": "提出了一种用迈克尔逊干涉仪探测隐失场的方法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interfering",
+          "tran_cn": " 干涉的；多管闲事的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interference",
+          "tran_cn": " 干扰，冲突；干涉"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "interfering",
+          "tran_cn": " 妨碍（interfer的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "interfere",
+          "tran_cn": " 干涉；妨碍；打扰"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "interfere",
+          "tran_cn": " 冲突；介入"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "laser interferometer",
+      "tran_cn": "激光干涉仪"
+    },
+    {
+      "phrase": "michelson interferometer",
+      "tran_cn": "迈克耳孙干涉仪"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "干涉仪",
+      "tran_en": "any acoustic, optical, or microwave instrument that uses interference patterns or fringes to make accurate measurements of wavelength, wave velocity, distance, etc "
+    }
+  ],
+  "exchange": {}
+}

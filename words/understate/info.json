@@ -1,0 +1,85 @@
+{
+  "word": "understate",
+  "ipa": {
+    "us": "ˌʌndəˈsteɪt",
+    "uk": "ˌʌndərˈsteɪt"
+  },
+  "sentences": [
+    {
+      "en": "Factory managers understate their potential output.",
+      "cn": "工厂的管理人员少报他们的潜在产量."
+    },
+    {
+      "en": "It would be a mistake to understate the seriousness of the problem.",
+      "cn": "对该问题的严重性轻描淡写是错误的。"
+    },
+    {
+      "en": "She refuses on principle to understate her income for taxation purposes.",
+      "cn": "他出于道德上的动机,不愿为了少纳税而少报收入."
+    },
+    {
+      "en": "The inflation numbers probably understate the degree of overheating.",
+      "cn": "通胀数据可能还不足说明经济过热的程度."
+    },
+    {
+      "en": "The press have tended to understate the extent of the problem.",
+      "cn": "媒体想淡化问题的严重程度。"
+    },
+    {
+      "en": "This approach seems to have worked well, if I may be allowed to understate the obvious.",
+      "cn": "这项方针似乎一直行之有效.对于这众所周知的事实, 我想我只须轻描淡写就够了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "understated",
+          "tran_cn": " 低调的；朴素的；轻描淡写的；不夸张的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "understatement",
+          "tran_cn": " 保守的陈述；不充分的陈述；有保留的陈述"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 保守地说， 轻描淡写地说",
+      "tran_en": "to describe something in a way that makes it seem less important or serious than it really is"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "保守地说，有意轻描淡写"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "少说，少报，有意识地轻描淡写",
+      "tran_en": "to describe something in a way that makes it seem less important or serious than it really is"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "understates"
+    ],
+    "past": [
+      "understated"
+    ],
+    "done": [
+      "understated"
+    ],
+    "ing": [
+      "understating"
+    ]
+  }
+}

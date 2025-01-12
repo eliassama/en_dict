@@ -1,0 +1,218 @@
+{
+  "word": "troop",
+  "ipa": {
+    "us": "truːp",
+    "uk": "truːp"
+  },
+  "sentences": [
+    {
+      "en": "A fire could have been deliberately started to cloak small coordinated troop movements.",
+      "cn": "可能是有人故意放火掩护小规模的部队协同行动。"
+    },
+    {
+      "en": "a Scout troop",
+      "cn": "一队童子军"
+    },
+    {
+      "en": "a troop of monkeys",
+      "cn": "一群猴子"
+    },
+    {
+      "en": "A troop of visitors arrived.",
+      "cn": "一群来访者抵达."
+    },
+    {
+      "en": "Both countries agreed to withdraw their troops .",
+      "cn": "两国都同意撤军。"
+    },
+    {
+      "en": "He came out with a troop of followers.",
+      "cn": "他带着一大群随从走出来."
+    },
+    {
+      "en": "I was assigned to Troop A of the 10th Cavalry.",
+      "cn": "我被派往第10骑兵队的A连。"
+    },
+    {
+      "en": "It's going to be some time before the troop recovers its strength.",
+      "cn": "这支部队要过一段时期才能恢复实力."
+    },
+    {
+      "en": "The enemy troop couldn't make any advance , and neither could they retreat.",
+      "cn": "敌军进退两难."
+    },
+    {
+      "en": "The general has removed the troop to the front.",
+      "cn": "将军已把这支部队调往前线."
+    },
+    {
+      "en": "The officer ordered the troop to retire from the action.",
+      "cn": "军官下令将部队撤出战斗."
+    },
+    {
+      "en": "There are reports of fresh troop movements across the border.",
+      "cn": "有报告说，新近有军队越过边境。"
+    },
+    {
+      "en": "There have been numerous troop movements.",
+      "cn": "部队调动频繁."
+    },
+    {
+      "en": "There were reports of troop movements.",
+      "cn": "有报道称将要调动军队。"
+    },
+    {
+      "en": "They all trooped back to the house for a rest.",
+      "cn": "他们都成群结队地回房子里休息。"
+    },
+    {
+      "en": "They go to wave their boys off on the troop trains.",
+      "cn": "他们去向部队运输列车上的孩子们挥手送行."
+    },
+    {
+      "en": "Troop movements can be observed from space by a satellite.",
+      "cn": "借助卫星可以观察到部队的调动."
+    },
+    {
+      "en": "troops stationed in Hawaii",
+      "cn": "夏威夷的驻军"
+    },
+    {
+      "en": "We reinforce a troop again.",
+      "cn": "我们又增援一支军队."
+    },
+    {
+      "en": "We were taken in flank by a troop of cavalry.",
+      "cn": "我们翼侧受到一队骑兵的袭击."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "trooper",
+          "tran_cn": " 骑兵；骑警；伞兵；部队运输船"
+        },
+        {
+          "word": "troopship",
+          "tran_cn": " 运兵舰；军队运输船"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "army",
+            "band",
+            "body",
+            "bunch",
+            "company",
+            "crew",
+            "crowd",
+            "gang",
+            "group",
+            "host",
+            "legion",
+            "mob",
+            "party",
+            "unit"
+          ],
+          "tran_cn": "部队;一群;团体"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "band",
+            "body",
+            "brigade",
+            "bunch",
+            "company",
+            "corps",
+            "crew",
+            "crowd",
+            "fellowship",
+            "gang",
+            "garrison",
+            "group",
+            "mob",
+            "multitude",
+            "party",
+            "squad",
+            "union",
+            "unit"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "host",
+            "pack"
+          ],
+          "tran_cn": "群集；成群而行；结队"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "troop the colour",
+      "tran_cn": "(英)行军旗敬礼分列式"
+    },
+    {
+      "phrase": "troop withdrawal",
+      "tran_cn": "撤军"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "军队，一群，[军]骑兵连",
+      "tran_en": "soldiers in an organized group"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "群集；成群而行；结队",
+      "tran_en": "if a group of people troop somewhere, they walk there together in a way that shows they are tired or bored"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "成群结队地走，群集，结队",
+      "tran_en": "if a group of people troop somewhere, they walk there together in a way that shows they are tired or bored"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把（骑兵）编成骑兵连"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "troops"
+    ],
+    "third": [
+      "troops"
+    ],
+    "past": [
+      "trooped"
+    ],
+    "done": [
+      "trooped"
+    ],
+    "ing": [
+      "trooping"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "word": "tendentious",
+  "ipa": {
+    "us": "tenˈdenʃəs",
+    "uk": "tɛnˈdɛnʃəs"
+  },
+  "sentences": [
+    {
+      "en": "Countries engaged in war send tendentious reports.",
+      "cn": "参战国送出宣传性的报告."
+    },
+    {
+      "en": "His analysis was rooted in a somewhat tendentious reading of French history.",
+      "cn": "他的分析源于对法国历史带有一定偏见的解读。"
+    },
+    {
+      "en": "She made a tendentious speech.",
+      "cn": "她发表了有倾向性的讲话."
+    },
+    {
+      "en": "Such tendentious statements are likely to provoke strong opposition.",
+      "cn": "这种有倾向性的说法可能招致强烈的反对."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tendencious",
+          "tran_cn": " 宣传性的；有支持某种立场的倾向"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tendency",
+          "tran_cn": " 倾向，趋势；癖好"
+        },
+        {
+          "word": "tendentiousness",
+          "tran_cn": " 有偏见；易引起争议"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "tend",
+          "tran_cn": " 趋向，倾向；照料，照顾"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "tend",
+          "tran_cn": " 照料，照管"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "biased",
+            "jaundiced"
+          ],
+          "tran_cn": "有偏见的，有倾向的；宣传性的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "capable"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（指演说、文章等）宣传性的，有偏见的，淘气的，倔强的",
+      "tran_en": "a tendentious speech, remark, book etc expresses a strong opinion that is intended to influence people"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "tendentiously"
+    ],
+    "noun": [
+      "tendentiousness"
+    ]
+  }
+}

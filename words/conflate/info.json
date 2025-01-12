@@ -1,0 +1,58 @@
+{
+  "word": "conflate",
+  "ipa": {
+    "us": "kənˈfleɪt",
+    "uk": "kənˈflet"
+  },
+  "sentences": [
+    {
+      "en": "He conflates two images from Kipling’s short stories in the film.",
+      "cn": "影片中，他把吉卜林短篇小说中的两个人物形象合并在一起。"
+    },
+    {
+      "en": "Her letters conflate past and present.",
+      "cn": "在她的信中过去和现在融为一体。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "merge",
+            "incorporate with"
+          ],
+          "tran_cn": "合并；异文合并"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "合并",
+      "tran_en": "to combine two or more things to form a single new thing"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "合并，混合"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "conflates"
+    ],
+    "past": [
+      "conflated"
+    ],
+    "ing": [
+      "conflating"
+    ],
+    "noun": [
+      "conflation"
+    ]
+  }
+}

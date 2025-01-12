@@ -1,0 +1,197 @@
+{
+  "word": "turnover",
+  "ipa": {
+    "us": "ˈtɜːnəʊvə(r)",
+    "uk": "ˈtɜːrnoʊvər"
+  },
+  "sentences": [
+    {
+      "en": "an annual turnover of $75 million",
+      "cn": "7&thinsp;500万元的年营业额"
+    },
+    {
+      "en": "an enterprise with a turnover of $26 billion",
+      "cn": "营业额260亿元的公司"
+    },
+    {
+      "en": "Catering may now account for close on a quarter of pub turnover.",
+      "cn": "承办酒席现在可能占酒吧营业额的近1/4。"
+    },
+    {
+      "en": "Her annual turnover is around £45,000.",
+      "cn": "她的年营业额大约是4.5万英镑。"
+    },
+    {
+      "en": "How do you account for the company's alarmingly high staff turnover?",
+      "cn": "你怎么解释这家公司高得令人忧虑的人员流动率？"
+    },
+    {
+      "en": "I believe they've doubled their turnover since those advertisements appeared in the press.",
+      "cn": "我相信，那些广告在报上刊登出来后，他们的营业额已经翻番。"
+    },
+    {
+      "en": "My turnover increased spectacularly.",
+      "cn": "我的营业额大幅上升。"
+    },
+    {
+      "en": "Our turnover actually increased last year.",
+      "cn": "去年我们的营业额竟然增加了."
+    },
+    {
+      "en": "Profit margins have been slashed to the bone in an attempt to keep turnover moving.",
+      "cn": "为了维持资金周转，利润率已被降为最低。"
+    },
+    {
+      "en": "Short-term contracts increase staff turnover.",
+      "cn": "短期合同使得员工流动率增高。"
+    },
+    {
+      "en": "Staff turnover is particularly high among junior grades.",
+      "cn": "基层职员的流动率特别高。"
+    },
+    {
+      "en": "The company had a turnover of $3.8 million.",
+      "cn": "那个公司拥有380万美元的营业额。"
+    },
+    {
+      "en": "The industry has a high turnover of young people.",
+      "cn": "该行业的年轻从业者流动率较高。"
+    },
+    {
+      "en": "The store greatly reduced the prices to make a quick turnover.",
+      "cn": "这家商店实行大减价以迅速周转资金."
+    },
+    {
+      "en": "This store has a daily turnover of several thousand yuan.",
+      "cn": "这个商店每天有好几千元的进出."
+    },
+    {
+      "en": "We have a fast turnover of stock.",
+      "cn": "我们的货物周转快。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "turndown",
+          "tran_cn": " 翻领的；可翻下的；衰退的；下降的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "turndown",
+          "tran_cn": " 翻领；拒绝；低落"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "upturned",
+            "eversible"
+          ],
+          "tran_cn": "翻过来的；可翻转的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "volume of business",
+            "rollover"
+          ],
+          "tran_cn": "[贸易]营业额；流通量；翻覆；半圆卷饼"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "annual turnover",
+      "tran_cn": "年营业额，年成交量；年总生物量"
+    },
+    {
+      "phrase": "asset turnover",
+      "tran_cn": "资产周转率"
+    },
+    {
+      "phrase": "capital turnover",
+      "tran_cn": "资金周转"
+    },
+    {
+      "phrase": "employee turnover",
+      "tran_cn": "员工流动；职工离职"
+    },
+    {
+      "phrase": "inventory turnover",
+      "tran_cn": "存货周转"
+    },
+    {
+      "phrase": "rate of turnover",
+      "tran_cn": "[经]周转率"
+    },
+    {
+      "phrase": "receivable turnover",
+      "tran_cn": "应收账款周转率"
+    },
+    {
+      "phrase": "sales turnover",
+      "tran_cn": "营业额；销售周转"
+    },
+    {
+      "phrase": "staff turnover",
+      "tran_cn": "员工交替；员工流动率"
+    },
+    {
+      "phrase": "stock turnover",
+      "tran_cn": "存货周转率；库存周转率"
+    },
+    {
+      "phrase": "total turnover",
+      "tran_cn": "总转换"
+    },
+    {
+      "phrase": "turnover rate",
+      "tran_cn": "[经]周转率，换手率"
+    },
+    {
+      "phrase": "turnover ratio",
+      "tran_cn": "[经]周转比率"
+    },
+    {
+      "phrase": "turnover tax",
+      "tran_cn": "营业税；（美）批发税"
+    },
+    {
+      "phrase": "turnover time",
+      "tran_cn": "周转时间；翻转时间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "翻过来的；可翻转的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "营业额，成交量，人事变更率，周转率，半圆馅饼",
+      "tran_en": "the amount of business done during a particular period"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "turnovers"
+    ]
+  }
+}

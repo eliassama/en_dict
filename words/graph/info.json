@@ -1,0 +1,232 @@
+{
+  "word": "graph",
+  "ipa": {
+    "us": "ɡræf",
+    "uk": "ɡræf"
+  },
+  "sentences": [
+    {
+      "en": "A complete bipartite graph is a simple bipartite graph with bipartition.",
+      "cn": "完全偶图是具有二分类的简单偶图."
+    },
+    {
+      "en": "An orientation of a complete graph is called a tournament.",
+      "cn": "完全图的定向图称为竞赛图."
+    },
+    {
+      "en": "For simplicity we assume that the graph of the network is connected.",
+      "cn": "为了简便起见,假设网络的图是连通的."
+    },
+    {
+      "en": "If ( a, b ) ( ba ) then the graph is a directed graph.",
+      "cn": "如果 ( a, b ) ≠ ( b,a ),则这个图是有向图."
+    },
+    {
+      "en": "Line the pages for the graph both horizontally and vertically.",
+      "cn": "在这几页上同时画上横线和竖线,以便制作图表."
+    },
+    {
+      "en": "Martin showed me a graph of their recent sales.",
+      "cn": "马丁给我看了他们最近销售情况的图表。"
+    },
+    {
+      "en": "Our soundings are displayed in the form of a graph.",
+      "cn": "我们的调查结果已用图表列出."
+    },
+    {
+      "en": "Plot a graph of height against age.",
+      "cn": "绘制一张身高与年龄对照的曲线图。"
+    },
+    {
+      "en": "Since these eigenfunctions are equations we can graph them.",
+      "cn": "由于这些本征函数是方程,所以我们能以图来描绘."
+    },
+    {
+      "en": "The assertion is known as the closed graph theorem for Hilbert spaces.",
+      "cn": "这个断语被称为希耳伯特空间的闭图象定理."
+    },
+    {
+      "en": "The graph flattens out gradually after a steep fall.",
+      "cn": "图表上的曲线突降之后逐渐趋于平稳."
+    },
+    {
+      "en": "The graph shows a bulge in the birth rate.",
+      "cn": "图表显示出生率的暴增."
+    },
+    {
+      "en": "The graph shows a bulge in the price of meat.",
+      "cn": "图表显示肉类价格上涨."
+    },
+    {
+      "en": "The most striking feature of this graph is the lack of agreement.",
+      "cn": "本图象最明显的特征是缺乏一致性."
+    },
+    {
+      "en": "the vertical axis of the graph",
+      "cn": "图的纵轴"
+    },
+    {
+      "en": "We plot about eight points on the graph.",
+      "cn": "我们在图表上绘制出大约8个点的曲线。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "graphic",
+          "tran_cn": " 形象的；图表的；绘画似的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "graphically",
+          "tran_cn": " 生动地；活灵活现地；用图表表示；轮廓分明地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "graphics",
+          "tran_cn": " [测] 制图学；制图法；图表算法"
+        },
+        {
+          "word": "graphology",
+          "tran_cn": " 笔迹学；笔迹相法；图表法"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chart",
+            "diagram",
+            "outline",
+            "plot"
+          ],
+          "tran_cn": "图表"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "chart",
+            "diagram",
+            "draw",
+            "outline",
+            "plot",
+            "up"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acyclic graph",
+      "tran_cn": "非循环图；无圈图"
+    },
+    {
+      "phrase": "bar graph",
+      "tran_cn": "柱状图；条形图（等于bar chart）"
+    },
+    {
+      "phrase": "bipartite graph",
+      "tran_cn": "两偶图"
+    },
+    {
+      "phrase": "bond graph",
+      "tran_cn": "键合图"
+    },
+    {
+      "phrase": "complete graph",
+      "tran_cn": "完全图"
+    },
+    {
+      "phrase": "connected graph",
+      "tran_cn": "连接图，连通图"
+    },
+    {
+      "phrase": "directed graph",
+      "tran_cn": "有向图；定向图"
+    },
+    {
+      "phrase": "flow graph",
+      "tran_cn": "[数学]流向图；流程图"
+    },
+    {
+      "phrase": "graph manipulation",
+      "tran_cn": "图形处理"
+    },
+    {
+      "phrase": "graph paper",
+      "tran_cn": "方格纸；坐标纸"
+    },
+    {
+      "phrase": "graph theory",
+      "tran_cn": "图论"
+    },
+    {
+      "phrase": "line graph",
+      "tran_cn": "线状图表"
+    },
+    {
+      "phrase": "oriented graph",
+      "tran_cn": "有向图（等于directed graph）"
+    },
+    {
+      "phrase": "planar graph",
+      "tran_cn": "平面图；正规图"
+    },
+    {
+      "phrase": "plane graph",
+      "tran_cn": "平面图"
+    },
+    {
+      "phrase": "relational graph",
+      "tran_cn": "相关图形；关系图"
+    },
+    {
+      "phrase": "scene graph",
+      "tran_cn": "场景图（应用广泛的虚拟世界构建技术）"
+    },
+    {
+      "phrase": "undirected graph",
+      "tran_cn": "无向图"
+    },
+    {
+      "phrase": "weighted graph",
+      "tran_cn": "加权图；带权图"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "图表",
+      "tran_en": "a drawing that uses a line or lines to show how two or more sets of measurements are related to each other"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "用曲线图表示"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "graphs"
+    ]
+  }
+}

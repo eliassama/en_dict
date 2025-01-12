@@ -1,0 +1,163 @@
+{
+  "word": "victim",
+  "ipa": {
+    "us": "ˈvɪktɪm",
+    "uk": "ˈvɪktɪm"
+  },
+  "sentences": [
+    {
+      "en": "a credit card fraud ring that stole millions of dollars from unsuspecting victims",
+      "cn": "从毫无戒心的受害者手中盗取数百万美元的信用卡诈骗团伙"
+    },
+    {
+      "en": "Almost without exception these women fall victim to exploitation.",
+      "cn": "这些女性几乎无一例外都受到了盘剥。"
+    },
+    {
+      "en": "At Brussels airport he fell victim to pickpockets who pinched his wallet.",
+      "cn": "在布鲁塞尔机场，他被扒手盯上，钱包被偷走了。"
+    },
+    {
+      "en": "He claimed he was the victim of a dirty tricks campaign..",
+      "cn": "他声称他是一场卑鄙的竞选运动的牺牲品。"
+    },
+    {
+      "en": "He was a victim of racial prejudice.",
+      "cn": "他是种族歧视的受害者。"
+    },
+    {
+      "en": "He was innocent and the victim of a frame-up.",
+      "cn": "他是清白的，是受人诬陷的。"
+    },
+    {
+      "en": "I'm not a fashion victim; I stick to what suits me.",
+      "cn": "我不是一味赶时髦的人，我只穿适合自己的服装。"
+    },
+    {
+      "en": "In the early 1960s, Blyton fell victim to Alzheimer's disease.",
+      "cn": "在19世纪60年代早期，布莱顿患上了老年痴呆症。"
+    },
+    {
+      "en": "many streams have fallen victim to the recent drought.",
+      "cn": "许多河流都受到了近期干旱的影响。"
+    },
+    {
+      "en": "Pythons kill by tightening their coils so that their victim cannot breathe.",
+      "cn": "大蟒蛇紧紧盘绕猎物使之无法呼吸，从而杀死猎物。"
+    },
+    {
+      "en": "She is the victim of a big con trick.",
+      "cn": "她是一场大骗局的受害者。"
+    },
+    {
+      "en": "The offender made proper restitution to the victim's kindred.",
+      "cn": "违法者对受害人亲属给予了适当的补偿。"
+    },
+    {
+      "en": "The victim received head injuries from which she died a week later.",
+      "cn": "受害人头部受伤，一周后死亡。"
+    },
+    {
+      "en": "The victim suffered a dreadful injury and lost a lot of blood.",
+      "cn": "受害者受了重伤，大量失血。"
+    },
+    {
+      "en": "The victim was hit by a hail of bullets.",
+      "cn": "受害者被一阵弹雨击中。"
+    },
+    {
+      "en": "The victim was outside a shop when he was attacked.",
+      "cn": "被害人遇袭时正在一家商店的外面。"
+    },
+    {
+      "en": "They hurled abuse at their victim as they doused him with petrol.",
+      "cn": "他们一边大声辱骂这名受害者一边将汽油淋在他身上。"
+    },
+    {
+      "en": "We usually think of a victim of mugging as being someone elderly.",
+      "cn": "我们通常以为被拦路抢劫的受害者是老年人。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "victimisation",
+          "tran_cn": " 牺牲；受害；欺骗（等于victimization）"
+        },
+        {
+          "word": "victimization",
+          "tran_cn": " 牺牲；欺骗"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "victimize",
+          "tran_cn": " 使受害；使牺牲；欺骗"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dupe",
+            "loser",
+            "prey",
+            "scapegoat",
+            "sufferer",
+            "underdog"
+          ],
+          "tran_cn": "牺牲者,受害者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dupe",
+            "goat",
+            "loser",
+            "martyr",
+            "patient",
+            "prey",
+            "sufferer",
+            "underdog"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fall victim to",
+      "tran_cn": "成为…的牺牲品"
+    },
+    {
+      "phrase": "fashion victim",
+      "tran_cn": "时髦罹难者"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "受害者，遇难者，祭品，牺牲品",
+      "tran_en": "someone who has been attacked, robbed, or murdered"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "victims"
+    ]
+  }
+}

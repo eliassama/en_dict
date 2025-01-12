@@ -1,0 +1,212 @@
+{
+  "word": "queue",
+  "ipa": {
+    "us": "kjuː",
+    "uk": "kjuː"
+  },
+  "sentences": [
+    {
+      "en": "A queue forms outside Peter's study.",
+      "cn": "彼得书房外面排起了队。"
+    },
+    {
+      "en": "All objects will be drawn once without lighting, then lighting of all objects will be rendered together at the end of the render queue.",
+      "cn": "所有对象将无照明绘制一次，然后所有对象的照明将一起在渲染队列的末尾被渲染。"
+    },
+    {
+      "en": "Another 29,100 people have joined the dole queue.",
+      "cn": "又有29,100人加入了失业大军。"
+    },
+    {
+      "en": "Behind him was a long queue of angry motorists.",
+      "cn": "在他的身后，愤怒的司机排成了长龙。"
+    },
+    {
+      "en": "By 10 o'clock a long queue had formed outside the bank.",
+      "cn": "到十点钟时,银行门外已经排成了长队."
+    },
+    {
+      "en": "File not in print queue.",
+      "cn": "文件不在打印队列中。"
+    },
+    {
+      "en": "I had to join a queue for the toilets.",
+      "cn": "我只得排队等着上厕所。"
+    },
+    {
+      "en": "I watched as he got a tray and joined the queue.",
+      "cn": "我看着他拿了个托盘排起了队。"
+    },
+    {
+      "en": "Make sure you join the queue inside the bank.",
+      "cn": "在银行里一定要排队。"
+    },
+    {
+      "en": "Please queue up to register.",
+      "cn": "请排队挂号。"
+    },
+    {
+      "en": "She waited in the bus queue.",
+      "cn": "她排队等公共汽车。"
+    },
+    {
+      "en": "Single parents got priority in the housing queue.",
+      "cn": "单亲父母在申请住房时享有优先权。"
+    },
+    {
+      "en": "Some of the people queuing for tickets had been there since dawn.",
+      "cn": "购票队伍中有些人天刚亮就来了。"
+    },
+    {
+      "en": "The queue for places at the school has never been longer.",
+      "cn": "排队申请上这所学校的人数达到历史最高峰。"
+    },
+    {
+      "en": "the tail end of the queue",
+      "cn": "队尾"
+    },
+    {
+      "en": "There was a permanent 20-yard queue for the portable toilets.",
+      "cn": "流动厕所前总排着20码长的队伍。"
+    },
+    {
+      "en": "There was still a queue for tickets on the night.",
+      "cn": "晚上仍然有人在排队买票。"
+    },
+    {
+      "en": "To what window are you standing in a queue?",
+      "cn": "你在排哪个窗口的队?"
+    },
+    {
+      "en": "We all had to queue up for our ration books.",
+      "cn": "我们都得排队领取定量配给票证薄。"
+    },
+    {
+      "en": "We tailed a long queue.",
+      "cn": "我们排在一个长队的末尾。"
+    },
+    {
+      "en": "What if we want to write to a file outside the database or send the auditing record on a message queue?",
+      "cn": "如果我们想写入数据库外部的一个文件，或者发送一个消息队列上的审计记录，又该如何做呢？"
+    },
+    {
+      "en": "You’ll have to join the queue.",
+      "cn": "你得排队。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "braid",
+            "cue"
+          ],
+          "tran_cn": "辫子"
+        },
+        {
+          "words": [
+            "chain",
+            "cordon",
+            "file",
+            "line",
+            "series",
+            "string"
+          ],
+          "tran_cn": "链,绳索"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "thread"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "arrange",
+            "fall",
+            "get",
+            "in",
+            "line",
+            "order",
+            "rank",
+            "up"
+          ],
+          "tran_cn": "排队"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "line up for",
+            "stand in a line"
+          ],
+          "tran_cn": "[数]排队；排队等候"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "print queue",
+      "tran_cn": "打印队列"
+    },
+    {
+      "phrase": "priority queue",
+      "tran_cn": "优先排队"
+    },
+    {
+      "phrase": "queue up",
+      "tran_cn": "v. 排队等候"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "队伍，等待的人群，队列（计算机用语）",
+      "tran_en": "a line of people waiting to enter a building, buy something etc, or a line of vehicles waiting to move"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "排队，抢着做",
+      "tran_en": "to form or join a line of people or vehicles waiting to do something or go somewhere"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "排队",
+      "tran_en": "to form or join a line of people or vehicles waiting to do something or go somewhere"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "queues"
+    ],
+    "third": [
+      "queues"
+    ],
+    "past": [
+      "queued"
+    ],
+    "done": [
+      "queued"
+    ],
+    "ing": [
+      "queuing"
+    ]
+  }
+}

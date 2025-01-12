@@ -1,0 +1,178 @@
+{
+  "word": "chemist",
+  "ipa": {
+    "us": "ˈkemɪst",
+    "uk": "ˈkemɪst"
+  },
+  "sentences": [
+    {
+      "en": "A chemist can analyze water into two colorless gases, hydrogen and oxygen.",
+      "cn": "化学家能将水分解成无色气体氢和氧."
+    },
+    {
+      "en": "A chemist can separate a medicine into its components.",
+      "cn": "化学家能把一种药物的各种成分分解出来."
+    },
+    {
+      "en": "Chemist stores upped sales by 63 percent.",
+      "cn": "药店销量增加了63％。"
+    },
+    {
+      "en": "He recruited another nucleic acid chemist, a young Pakistani, Dr. Rao Sastri.",
+      "cn": "他又找来一名核酸化学家, 叫作拉奥·萨斯特利的年轻的巴基斯坦人."
+    },
+    {
+      "en": "I got this medicine at the chemist's shop.",
+      "cn": "我在药房买的药."
+    },
+    {
+      "en": "If you ever get any ailments there's no problem as he is like a walking chemist's shop.",
+      "cn": "如果你有了什么病痛，不用着急，他就是个药铺子。"
+    },
+    {
+      "en": "She went into a chemist's and bought some aspirin.",
+      "cn": "她进了一家药店，买了些阿司匹林。"
+    },
+    {
+      "en": "She worked as a research chemist.",
+      "cn": "她曾经是化学研究员。"
+    },
+    {
+      "en": "The chemist analyzed the new tonic and found it contained poison.",
+      "cn": "药剂师对这种新补药作了化验分析,发现有毒."
+    },
+    {
+      "en": "The chemist made a mistake when making up the prescription.",
+      "cn": "药剂师配错了药."
+    },
+    {
+      "en": "The chemist reduced water by electrolysis.",
+      "cn": "化学家用电解法把水还原为氢."
+    },
+    {
+      "en": "The chemist reported on his experiments with coal tar.",
+      "cn": "化学家提出他实验沥青的报告."
+    },
+    {
+      "en": "There are many creams available from the chemist which should clear the infection.",
+      "cn": "很多能够消除这种感染的药膏在药店就能买到。"
+    },
+    {
+      "en": "There's a chemist's shop not a hundred miles from Dumfries.",
+      "cn": "这儿有一家离邓费利斯不远的药店."
+    },
+    {
+      "en": "You will have to take your prescription to a chemist.",
+      "cn": "你得拿着处方去找药剂师。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "chemic",
+          "tran_cn": " 化学的；炼金术的"
+        },
+        {
+          "word": "chemical",
+          "tran_cn": " 化学的"
+        },
+        {
+          "word": "chemotherapeutic",
+          "tran_cn": " 化学疗法的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "chemically",
+          "tran_cn": " 用化学；以化学方法"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "chemic",
+          "tran_cn": " 炼金术士；化学家"
+        },
+        {
+          "word": "chemical",
+          "tran_cn": " 化学制品，化学药品"
+        },
+        {
+          "word": "chemiluminescence",
+          "tran_cn": " [化学] 化学发光，化合光"
+        },
+        {
+          "word": "chemisorption",
+          "tran_cn": " [化学] 化学吸收作用"
+        },
+        {
+          "word": "chemistry",
+          "tran_cn": " 化学；化学过程"
+        },
+        {
+          "word": "chemoreceptor",
+          "tran_cn": " 化学受体；[生理] 化学感受器（等于chemoceptor）"
+        },
+        {
+          "word": "chemosynthesis",
+          "tran_cn": " [化学] 化学合成"
+        },
+        {
+          "word": "chemotherapy",
+          "tran_cn": " [临床] 化学疗法"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "pharmacist",
+            "dispenser"
+          ],
+          "tran_cn": "化学家；药剂师"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "pharmacist",
+            "pharmacy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "organic chemist",
+      "tran_cn": "有机化学家"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "药店，药剂师，化学家",
+      "tran_en": "a scientist who has special knowledge and training in chemistry"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "chemists"
+    ]
+  }
+}

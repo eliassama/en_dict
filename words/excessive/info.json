@@ -1,0 +1,209 @@
+{
+  "word": "excessive",
+  "ipa": {
+    "us": "ɪkˈsesɪv",
+    "uk": "ɪkˈsesɪv"
+  },
+  "sentences": [
+    {
+      "en": "$15 for two beers seems a little excessive.",
+      "cn": "两杯啤酒要15美元，似乎有点过分。"
+    },
+    {
+      "en": "As expected, excessive drinking caught up with him.",
+      "cn": "正如所预料的那样, 过度地饮酒最终毁了他."
+    },
+    {
+      "en": "Doctors work excessive unpaid overtime.",
+      "cn": "医生过度加班却无报酬."
+    },
+    {
+      "en": "Excessive conformity is usually caused by fear of disapproval.",
+      "cn": "过于墨守成规通常都是由于担心得不到认可。"
+    },
+    {
+      "en": "Excessive dosage of this drug can result in injury to the liver.",
+      "cn": "这种药使用过量会损害肝脏."
+    },
+    {
+      "en": "Excessive drinking induces alcoholism.",
+      "cn": "饮酒过度会引起酒精中毒."
+    },
+    {
+      "en": "Excessive drinking is harmful to the health.",
+      "cn": "饮酒过多会伤害身体."
+    },
+    {
+      "en": "He actually knocked himself out with excessive work.",
+      "cn": "实际上他是由于工作过度而把自己累得筋疲力尽的."
+    },
+    {
+      "en": "Her voice shock with excessive emotion.",
+      "cn": "她的声音因过分激动而颤抖."
+    },
+    {
+      "en": "his excessive drinking",
+      "cn": "他的酗酒"
+    },
+    {
+      "en": "Non-fat dairy products supply the needed nutrients without excessive calories.",
+      "cn": "脱脂乳制品能提供身体所需的营养，而不含过多的热量。"
+    },
+    {
+      "en": "She takes an excessive interest in clothes.",
+      "cn": "她过分注重衣着."
+    },
+    {
+      "en": "The chops should be cooked over moderate heat to prevent excessive charring.",
+      "cn": "肉块应该用文火烹煮，以免烧过了头。"
+    },
+    {
+      "en": "The police vigorously denied that excessive force had been used.",
+      "cn": "警方坚决否认曾经滥用武力。"
+    },
+    {
+      "en": "The prices at this hotel are excessive.",
+      "cn": "这家旅馆的价钱贵得过分."
+    },
+    {
+      "en": "There are times when the book suffers from excessive authorial control.",
+      "cn": "该书曾几次受到作者过多的制约。"
+    },
+    {
+      "en": "They complained about the excessive noise coming from the upstairs flat.",
+      "cn": "他们抱怨楼上发出的噪音太大。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "excess",
+          "tran_cn": " 额外的，过量的；附加的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "excessively",
+          "tran_cn": " 过分地；极度"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "excess",
+          "tran_cn": " 超过，超额；过度，过量；无节制"
+        },
+        {
+          "word": "excessiveness",
+          "tran_cn": " 过度（非常，格外）；冗余"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "disproportionate",
+            "exorbitant",
+            "extravagant",
+            "extreme",
+            "garish",
+            "immoderate",
+            "inordinate",
+            "lavish",
+            "much",
+            "needless",
+            "overdone",
+            "overmuch",
+            "plethoric",
+            "redundant",
+            "superabundant",
+            "superfluous",
+            "too",
+            "uncalled-for",
+            "undue",
+            "unreasonable"
+          ],
+          "tran_cn": "过多的,过度的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "costly",
+            "deadly",
+            "desperation",
+            "fussy",
+            "intemperate",
+            "outrageous",
+            "tall"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "excessive competition",
+      "tran_cn": "过度竞争"
+    },
+    {
+      "phrase": "excessive consumption",
+      "tran_cn": "过度消耗；超前消费"
+    },
+    {
+      "phrase": "excessive demand",
+      "tran_cn": "过剩需求；过量需求；需求过旺"
+    },
+    {
+      "phrase": "excessive drinking",
+      "tran_cn": "酗酒；过度饮酒"
+    },
+    {
+      "phrase": "excessive noise",
+      "tran_cn": "过度噪音；过分的吵闹声"
+    },
+    {
+      "phrase": "excessive pressure",
+      "tran_cn": "剩余压力；过度压力"
+    },
+    {
+      "phrase": "excessive production capacity",
+      "tran_cn": "过剩生产能力"
+    },
+    {
+      "phrase": "excessive speed",
+      "tran_cn": "超速"
+    },
+    {
+      "phrase": "excessive wear",
+      "tran_cn": "过度磨损"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "过分的，过多的",
+      "tran_en": "much more than is reasonable or necessary"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "excessively"
+    ]
+  }
+}

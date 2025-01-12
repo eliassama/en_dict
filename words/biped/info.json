@@ -1,0 +1,91 @@
+{
+  "word": "biped",
+  "ipa": {
+    "us": "ˈbaɪped",
+    "uk": "ˈbaɪˌpɛd"
+  },
+  "sentences": [
+    {
+      "en": "\"It is still difficult for a biped robot to walk on a bumpy surface, even on Earth,\" the official said.",
+      "cn": "这位官员说，“即使是在地球上，两足机器人在颠簸的路面行走仍然有困难。”"
+    },
+    {
+      "en": "A biped is a creature with two legs.",
+      "cn": "两足动物指的是有两只脚的动物。"
+    },
+    {
+      "en": "Biped robot with heterogeneous legs ( BRHL ) is a new pattern humanoid robot.",
+      "cn": "异构双腿行走机器人 ( BRHL ) 是一种全新的类人机器人模式."
+    },
+    {
+      "en": "Leg: In a Biped, the limb, jointedthe knee, supporting the Body and for walking and running.",
+      "cn": "腿: 两足动物的下肢, 与膝部连接, 用于支撑身体并用来行走和奔跑."
+    },
+    {
+      "en": "So, the researching on biped walking robot has become an active task in robotics.",
+      "cn": "两足步行机器人具有类似于人类步行的特点,对环境有较好的适应性."
+    },
+    {
+      "en": "Some biologists, along with Plato, define hominid as “featherless biped.”",
+      "cn": "有些生物学家，作为柏拉图的跟随者，定义原始人类为“没有羽毛的两足动物” 。"
+    },
+    {
+      "en": "The gait of a biped robot climbing stairs consists of foot trajectory and hip trajectory.",
+      "cn": "将双足机器人上楼梯的步态规划问题分解为脚踝运动轨迹和臀部运动轨迹的规划问题."
+    },
+    {
+      "en": "The gait of a human being or other biped in which the feet are lifted alternately with one part of a foot always on the ground.",
+      "cn": "步法，脚步人或其他两足动物的步法，双脚轮流提空，一只脚的某一部分始终接触地面。"
+    },
+    {
+      "en": "Whether it's through the forest or across the savanna, it doesn't matter — you're a biped when you're moving, \" Jungers says.",
+      "cn": "无论是穿过森林或是走过热带稀树草原都没关系，当你运动时，你就是一只两足动物，”容格斯说。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bipedal",
+          "tran_cn": " 两足动物的；二足的"
+        },
+        {
+          "word": "bipolar",
+          "tran_cn": " 有两极的，双极的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bipedal",
+          "tran_cn": " 两足动物"
+        },
+        {
+          "word": "bipedalism",
+          "tran_cn": " 用两足运动，二足性"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有两足的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "两足动物",
+      "tran_en": "an animal with two legs, such as a human"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bipeds"
+    ]
+  }
+}

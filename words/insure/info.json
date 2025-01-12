@@ -1,0 +1,234 @@
+{
+  "word": "insure",
+  "ipa": {
+    "us": "ɪnˈʃʊə(r)",
+    "uk": "ɪnˈʃʊr"
+  },
+  "sentences": [
+    {
+      "en": "A high communal intelligence quotient does not always, It'seems, insure communal efficiency.",
+      "cn": "社区中的高智商似乎并不总能确保社区的效能."
+    },
+    {
+      "en": "An insurance company will insure your life.",
+      "cn": "保险公司可以给你保寿险."
+    },
+    {
+      "en": "Check your work to insure its accuracy.",
+      "cn": "检查一下你的工作,以保证它的准确性."
+    },
+    {
+      "en": "facilities to insure the safety of cyclists",
+      "cn": "确保骑车人安全的设施"
+    },
+    {
+      "en": "For protection against unforeseen emergencies, you insure your house, your furnishings and your car.",
+      "cn": "为了防范不可预见的紧急情况，人们给房子、家具和汽车上保险。"
+    },
+    {
+      "en": "Have you insured the contents of your home?",
+      "cn": "你给家庭财产投保了吗？"
+    },
+    {
+      "en": "I want to insure my house.",
+      "cn": "我要为自己的住宅保险."
+    },
+    {
+      "en": "Insure your baggage before you leave home.",
+      "cn": "离家前先给行李保险."
+    },
+    {
+      "en": "It is advisable to insure your life against accident.",
+      "cn": "最好参加人寿保险,以防意外."
+    },
+    {
+      "en": "Measures must be taken to insure traffic safety.",
+      "cn": "必须采取措施保证交通安全."
+    },
+    {
+      "en": "More care would insure you against making so many mistakes.",
+      "cn": "多加注意就能保证你不犯这么多的错误了."
+    },
+    {
+      "en": "Please insure the goods for 110 % of the invoice value.",
+      "cn": "请按发票金额110%给这批货物投保."
+    },
+    {
+      "en": "They concentrated a superior force to insure against defeat.",
+      "cn": "他们为保证不致失败,集中了优势兵力."
+    },
+    {
+      "en": "Think carefully before you insure against accident, sickness and redundancy.",
+      "cn": "在为意外事故、疾病与失业投保之前一定要考虑清楚。"
+    },
+    {
+      "en": "We automatically insure your belongings against fire and theft.",
+      "cn": "我们自动为您的财产上失窃险和火灾险。"
+    },
+    {
+      "en": "Will it insure success to [ for ] you?",
+      "cn": "这将保证你成功 吗 ?"
+    },
+    {
+      "en": "You should insure your packages against loss and damage.",
+      "cn": "你的邮包应保险以免遗失或损坏."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "insurable",
+          "tran_cn": " 可保险的，适合保险的"
+        },
+        {
+          "word": "insured",
+          "tran_cn": " 已投保的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "insurability",
+          "tran_cn": " [保险] 可保险性"
+        },
+        {
+          "word": "insurance",
+          "tran_cn": " 保险；保险费；保险契约；赔偿金"
+        },
+        {
+          "word": "insured",
+          "tran_cn": " 被保险人"
+        },
+        {
+          "word": "insurer",
+          "tran_cn": " 保险公司；承保人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "insured",
+          "tran_cn": " 确保；给…保险（insure的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "affirm",
+            "assure",
+            "back",
+            "certify",
+            "clinch",
+            "cover",
+            "defend",
+            "determine",
+            "endorse",
+            "guarantee",
+            "make",
+            "protect",
+            "safeguard",
+            "shelter",
+            "sponsor",
+            "steel",
+            "sure",
+            "vouch",
+            "warrant"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to ensure",
+            "snake stare"
+          ],
+          "tran_cn": "确保；投保"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cover",
+            "defend",
+            "protect",
+            "safeguard",
+            "shelter"
+          ],
+          "tran_cn": "保护;防卫"
+        },
+        {
+          "words": [
+            "affirm",
+            "determine",
+            "make",
+            "sure",
+            "vouch"
+          ],
+          "tran_cn": "保证;决定"
+        },
+        {
+          "words": [
+            "assure",
+            "back",
+            "certify",
+            "endorse",
+            "guarantee",
+            "sponsor",
+            "warrant"
+          ],
+          "tran_cn": "保证;赞成"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "insure against",
+      "tran_cn": "v. 给……保险以防"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "投保，承保，使采取预防措施",
+      "tran_en": "to buy insurance so that you will receive money if something bad happens to you, your family, your possessions etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 上保险， 给…保险； 保证， 确保",
+      "tran_en": "to buy insurance so that you will receive money if something bad happens to you, your family, your possessions etc"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "insures"
+    ],
+    "past": [
+      "insured"
+    ],
+    "done": [
+      "insured"
+    ],
+    "ing": [
+      "insuring"
+    ]
+  }
+}

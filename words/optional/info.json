@@ -1,0 +1,177 @@
+{
+  "word": "optional",
+  "ipa": {
+    "us": "ˈɒpʃənl",
+    "uk": "ˈɑːpʃənl"
+  },
+  "sentences": [
+    {
+      "en": "A 4 - speed automatic transmission is optional.",
+      "cn": "四 段自动 变速器是可自由选择的."
+    },
+    {
+      "en": "A holiday isn't an optional extra. In this stressful, frantic world it's a must.",
+      "cn": "休假并非可有可无。在这个紧张而忙碌的世界，它是必不可少的。"
+    },
+    {
+      "en": "Apart from the compulsory exercises , there are also voluntary or optional exercises.",
+      "cn": "除了规定动作外, 还有自选动作."
+    },
+    {
+      "en": "Appends the specified element of List ( optional operation ).",
+      "cn": "在列表尾部添加指定元素 ( 可选操作 )."
+    },
+    {
+      "en": "Attendance at the lecture is optional.",
+      "cn": "这一讲座可随意参加."
+    },
+    {
+      "en": "Certain courses are compulsory, others are optional.",
+      "cn": "某些课程是必修的，其他是选修的。"
+    },
+    {
+      "en": "It is optional with you.",
+      "cn": "那是你的自由."
+    },
+    {
+      "en": "Optional flags which describe how the format string is to be interpreted.",
+      "cn": "可选的标签,用于指示格式化字符被如何解释."
+    },
+    {
+      "en": "San Francisco Bay Cruise, Hearst Castle Car admission is optional.",
+      "cn": "湾区游轮 、 赫氏古堡及电缆车门票."
+    },
+    {
+      "en": "Sex education is a sensitive area for some parents, and thus it should remain optional.",
+      "cn": "性教育对某些家长而言是个敏感领域，因此应该保持其非强制性。"
+    },
+    {
+      "en": "So far, the optional course has a history of 200 years.",
+      "cn": "选修课从产生到现在已经经历了近200年的历史."
+    },
+    {
+      "en": "The course consists of ten core modules and five optional modules.",
+      "cn": "这门课程包括十个必修单元和五个选修单元。"
+    },
+    {
+      "en": "The course consists of ten core modules and five optional modules.",
+      "cn": "这门课程包括十个必修单元和五个选修单元。"
+    },
+    {
+      "en": "The other excursions are optional.",
+      "cn": "其他的短途旅行是自选项目。"
+    },
+    {
+      "en": "three optional courses",
+      "cn": "三门选修课"
+    },
+    {
+      "en": "Under some constraint conditions, a procedure to get the optional position of connected objects.",
+      "cn": "在某些约束条件下, 获得相连物体最佳位置的过程."
+    },
+    {
+      "en": "We also recommend a full day optional excursion to the Upper Douro.",
+      "cn": "我们还推荐去杜罗河上游的短途自选一日游。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "optionally",
+          "tran_cn": " 随意地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "option",
+          "tran_cn": " [计] 选项；选择权；买卖的特权"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "opt",
+          "tran_cn": " 选择"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "elective",
+            "voluntary"
+          ],
+          "tran_cn": "自愿的,志愿的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "elective subjects"
+          ],
+          "tran_cn": "选修科目"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "elective",
+            "voluntary"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "optional course",
+      "tran_cn": "选修课，选修课程"
+    },
+    {
+      "phrase": "optional equipment",
+      "tran_cn": "【计】附加设备；任选设备"
+    },
+    {
+      "phrase": "optional exercise",
+      "tran_cn": "自选动作"
+    },
+    {
+      "phrase": "optional item",
+      "tran_cn": "可选择项目"
+    },
+    {
+      "phrase": "optional parameter",
+      "tran_cn": "任选参数，可选参数"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可选择的，非强制的",
+      "tran_en": "if something is optional, you do not have to do it or use it, but you can choose to if you want to"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "选修科目"
+    }
+  ],
+  "exchange": {}
+}

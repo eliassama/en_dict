@@ -1,0 +1,72 @@
+{
+  "word": "anemometer",
+  "ipa": {
+    "us": "ˌænɪˈmɒmɪtə(r)",
+    "uk": "ˌænɪˈmɑmɪtə(r)"
+  },
+  "sentences": [
+    {
+      "en": "And provide the theory instruction for designing other types anemometer .",
+      "cn": "为今后设计其它类型的风速计提供理论指导。"
+    },
+    {
+      "en": "The invention discloses a heat measuring type and anemometer integrated flow velocity transducer.",
+      "cn": "本发明公开了一种测热型和风速计一体化流速传感器."
+    },
+    {
+      "en": "Through analysis of hot-film probe temperature characteristic, platinum resistance is used as hot-film anemometer temperature compensation sensor.",
+      "cn": "通过对热膜探头的温度特性分析，提出采用铂电阻作为热膜风速计的温度补偿元件。"
+    },
+    {
+      "en": "We've got a wind anemometer up there.",
+      "cn": "我们在那装了一个风速计。"
+    },
+    {
+      "en": "Wind speed measurements shall be made with a cup classified anemometer.",
+      "cn": "用已分好类别的杯状风速计进行风速测量。"
+    },
+    {
+      "en": "YFT type smart pressure anemometer is a multi-functional instrument basically for micro differential pressure measurement, with the additional function of temperature and static pressure measurement.",
+      "cn": "YFT型智能压力风速计是以测量微差压为基本功能，同时具有测量温度和静压功能的多功能仪表。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "anemometric",
+          "tran_cn": " 测定风速风向的；测定风力的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "anemometry",
+          "tran_cn": " 风速和风力测定法"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "hot wire anemometer",
+      "tran_cn": "热线式风速计；热丝式风速计"
+    },
+    {
+      "phrase": "laser doppler anemometer",
+      "tran_cn": "雷射都卜勒风速计"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "风速计",
+      "tran_en": "an instrument for recording the speed and often the direction of winds "
+    }
+  ],
+  "exchange": {}
+}

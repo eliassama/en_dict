@@ -1,0 +1,115 @@
+{
+  "word": "scandalize",
+  "ipa": {
+    "us": "ˈskændəlaɪz",
+    "uk": "ˈskændlˌaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Baerenjaeger is a German, amber - colored honey liqueur.",
+      "cn": "这是一种德国产的琥珀色的蜂蜜甜酒."
+    },
+    {
+      "en": "His outspoken views scandalized the nation.",
+      "cn": "他直言不讳的言论让全国震惊。"
+    },
+    {
+      "en": "We've got to scandalize ourselves for Bill Humble's sake.",
+      "cn": "为了 比尔·亨伯尔 的缘故,我们不得不出此下策."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "scandalous",
+          "tran_cn": " 可耻的；诽谤性的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "scandalously",
+          "tran_cn": " 过分地；诽谤性地；令人愤慨地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "scandal",
+          "tran_cn": " 丑闻；流言蜚语；诽谤；公愤"
+        },
+        {
+          "word": "scandalmonger",
+          "tran_cn": " 专事诽谤的人；散布丑闻者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "scandalise",
+          "tran_cn": " （英）使感震惊；使愤慨；诽谤；使丢脸（等于scandalize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "impute",
+            "shame"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "shock",
+            "wrong"
+          ],
+          "tran_cn": "使震惊；诽谤；使愤慨"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使震惊；诽谤；使愤慨",
+      "tran_en": "to make people feel very shocked"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使震惊，使…愤慨，诽谤，使…受耻辱"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "scandalizes"
+    ],
+    "past": [
+      "scandalized"
+    ],
+    "done": [
+      "scandalized"
+    ],
+    "ing": [
+      "scandalizing"
+    ]
+  }
+}

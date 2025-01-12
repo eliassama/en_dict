@@ -1,0 +1,309 @@
+{
+  "word": "increase",
+  "ipa": {
+    "us": "ɪnˈkriːs , ˈɪŋkriːs",
+    "uk": "ɪnˈkriːs , ˈɪŋkriːs"
+  },
+  "sentences": [
+    {
+      "en": "Air can be pumped into the diving suit to increase buoyancy.",
+      "cn": "可以给潜水衣充气以增大浮力。"
+    },
+    {
+      "en": "an increase in spending",
+      "cn": "开支的增长"
+    },
+    {
+      "en": "Between 1960 and 1985 we had a tenfold increase of criminality.",
+      "cn": "从1960年到1985年，犯罪数量增长了10倍。"
+    },
+    {
+      "en": "Cases of tuberculosis are on the increase.",
+      "cn": "结核病病例越来越多。"
+    },
+    {
+      "en": "Crime is on the increase.",
+      "cn": "犯罪率在不断上升"
+    },
+    {
+      "en": "He appealed to firms not to increase their prices unduly.",
+      "cn": "他呼吁企业不要过度提高价格。"
+    },
+    {
+      "en": "He called for an increase of 1p on income tax.",
+      "cn": "他呼吁所得税提高1便士。"
+    },
+    {
+      "en": "He introduced radio to the school to increase the children's awareness.",
+      "cn": "他在学校开通广播，以提高孩子们的警觉性。"
+    },
+    {
+      "en": "He seemed to be preparing to sanction an increase in public borrowing.",
+      "cn": "他似乎正准备批准增加公共贷款。"
+    },
+    {
+      "en": "Is a tax increase still out of the question?",
+      "cn": "增加税收仍然是不可能的事吗？"
+    },
+    {
+      "en": "Motor traders are looking forward to a further increase in vehicle sales.",
+      "cn": "汽车经销商预期汽车销量会进一步攀升。"
+    },
+    {
+      "en": "Northerly winds will increase to force six by midday.",
+      "cn": "到中午时分北风会加强到6级。"
+    },
+    {
+      "en": "political tensions that might increase the likelihood of war",
+      "cn": "或许会增加战争爆发可能性的紧张政治局面"
+    },
+    {
+      "en": "Recent tax increases have affected the poor more than the rich.",
+      "cn": "新近的增税对穷人的影响比对富人的大。"
+    },
+    {
+      "en": "Sewage nutrients do increase algal growth in the harbour.",
+      "cn": "污水中的营养物确实会加快港口的海藻生长。"
+    },
+    {
+      "en": "That would increase Olympia & York's holding to 35%.",
+      "cn": "那样就会使奥林匹亚约克公司的股份上升到35%。"
+    },
+    {
+      "en": "The differentiation between the two product ranges will increase.",
+      "cn": "这两个产品系列之间的差别将会加大。"
+    },
+    {
+      "en": "the dramatic increase in the population aged over 65",
+      "cn": "65岁以上人口的急剧增加"
+    },
+    {
+      "en": "The population increased dramatically in the first half of the century.",
+      "cn": "该世纪上半叶，人口大幅度增加。"
+    },
+    {
+      "en": "The pound is expected to continue to increase against most other currencies.",
+      "cn": "英镑对大多数其他货币的汇率有望继续升高。"
+    },
+    {
+      "en": "The tax increase sounded the death knell for the business.",
+      "cn": "税赋的增加为这个企业敲响了丧钟。"
+    },
+    {
+      "en": "There has been a marked increase in the use of firearms.",
+      "cn": "使用枪支的人数显著增加了。"
+    },
+    {
+      "en": "There has been a slight increase in the consumption of meat.",
+      "cn": "肉类消费量略有增长。"
+    },
+    {
+      "en": "Visits to the site have increased threefold since May.",
+      "cn": "来这里的参观者自5月起已增至原来的三倍。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "increasing",
+          "tran_cn": " 越来越多的，渐增的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "increasing",
+          "tran_cn": " 增加，加大（increase的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "enhancement",
+            "growth",
+            "gain",
+            "raising",
+            "advance"
+          ],
+          "tran_cn": "增加，增长；提高"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "add",
+            "advance",
+            "enlarge",
+            "expand",
+            "extend",
+            "raise",
+            "to"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "improve",
+            "gain",
+            "accelerate",
+            "breed",
+            "make"
+          ],
+          "tran_cn": "增加，增大；繁殖"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "enhance",
+            "boost",
+            "jack",
+            "mount",
+            "hot"
+          ],
+          "tran_cn": "增加，加大"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "capital increase",
+      "tran_cn": "增资"
+    },
+    {
+      "phrase": "entropy increase",
+      "tran_cn": "熵增加"
+    },
+    {
+      "phrase": "fold increase",
+      "tran_cn": "成倍增加"
+    },
+    {
+      "phrase": "increase by",
+      "tran_cn": "增加了；按…增长"
+    },
+    {
+      "phrase": "increase efficiency",
+      "tran_cn": "提高效率"
+    },
+    {
+      "phrase": "increase employment opportunities",
+      "tran_cn": "广开就业门路"
+    },
+    {
+      "phrase": "increase in",
+      "tran_cn": "（使）在…增加；（使）在…增大"
+    },
+    {
+      "phrase": "increase in price",
+      "tran_cn": "涨价"
+    },
+    {
+      "phrase": "increase in value",
+      "tran_cn": "价值的增长；涨价"
+    },
+    {
+      "phrase": "increase production",
+      "tran_cn": "增产"
+    },
+    {
+      "phrase": "increase speed",
+      "tran_cn": "加速"
+    },
+    {
+      "phrase": "on the increase",
+      "tran_cn": "不断增长,特指出现的频率"
+    },
+    {
+      "phrase": "percentage increase",
+      "tran_cn": "增长百分率；增长的百分数"
+    },
+    {
+      "phrase": "population increase",
+      "tran_cn": "人口增长"
+    },
+    {
+      "phrase": "price increase",
+      "tran_cn": "价格上涨；提价"
+    },
+    {
+      "phrase": "salary increase",
+      "tran_cn": "加薪"
+    },
+    {
+      "phrase": "sharp increase",
+      "tran_cn": "急剧上升；飞涨"
+    },
+    {
+      "phrase": "steady increase",
+      "tran_cn": "稳定的增长"
+    },
+    {
+      "phrase": "volume increase",
+      "tran_cn": "增产；体积膨胀"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "增加，增长",
+      "tran_en": "a rise in amount, number, or degree"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "增加，增长",
+      "tran_en": "if you increase something, or if it increases, it becomes bigger in amount, number, or degree"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": "增加,增长,增进",
+      "tran_en": "if you increase something, or if it increases, it becomes bigger in amount, number, or degree"
+    },
+    {
+      "pos": "vt&vi&n",
+      "tran_cn": "增加",
+      "tran_en": "if you increase something, or if it increases, it becomes bigger in amount, number, or degree"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "increases"
+    ],
+    "third": [
+      "increases"
+    ],
+    "past": [
+      "increased"
+    ],
+    "done": [
+      "increased"
+    ],
+    "ing": [
+      "increasing"
+    ],
+    "adj": [
+      "increased"
+    ]
+  }
+}

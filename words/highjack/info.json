@@ -1,0 +1,65 @@
+{
+  "word": "highjack",
+  "ipa": {
+    "us": "'haɪdʒæk",
+    "uk": "'haɪˌdʒæk"
+  },
+  "sentences": [
+    {
+      "en": "B : I think so. We certainly don't want a highjack to happen on the plane today.",
+      "cn": "我想是的。 我们当然不希望在今天的飞机上发生劫机事件。"
+    },
+    {
+      "en": "I think so. We certainly don't want a highjack to happen on the plane today.",
+      "cn": "我想是的。我们当然不希望在今天的飞机上发生劫机事件。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "highjacker",
+          "tran_cn": " 劫盗，强盗"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "rob of"
+          ],
+          "tran_cn": "劫持，抢劫"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "jayhawk",
+            "mulct"
+          ],
+          "tran_cn": "抢夺（运输中的货物）；劫（行驶中的车、船、飞机）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "抢劫（走私卡车等），劫持"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "劫持"
+    }
+  ],
+  "exchange": {}
+}

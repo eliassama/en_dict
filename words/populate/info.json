@@ -1,0 +1,151 @@
+{
+  "word": "populate",
+  "ipa": {
+    "us": "ˈpɒpjuleɪt",
+    "uk": "ˈpɑːpjuleɪt"
+  },
+  "sentences": [
+    {
+      "en": "A problem occurred when the wizard attempted to populate the cluster hive.",
+      "cn": "向导试图填充群集配置单元时发生错误."
+    },
+    {
+      "en": "Algae microorganisms in the water over populate because of the surplus nitrogen.",
+      "cn": "水中的藻类微生物由于氮的富余而过度繁殖."
+    },
+    {
+      "en": "Algae microorganisms in the water populate because of the surplus nitrogen.",
+      "cn": "水中的藻类微生物会过量生长,由于过量的氮肥."
+    },
+    {
+      "en": "Algae microorganisms in the water, over populate because the surplus nitrogen.",
+      "cn": "水中微生物水藻因为过剩的氮而大量繁殖."
+    },
+    {
+      "en": "Now you need to populate the tables with some dummy data.",
+      "cn": "现在你需要键入一些需要实验的假设数据."
+    },
+    {
+      "en": "Over six billion humans populate the Earth.",
+      "cn": "退一步说,有超过六十亿人类生活在大地上."
+    },
+    {
+      "en": "Populate a text box when a button is clicked.",
+      "cn": "单击按钮时填充文本框."
+    },
+    {
+      "en": "Proof # 16 : Who will populate the Millennium?",
+      "cn": "证据 # 16:谁在千禧年期间居住地上?"
+    },
+    {
+      "en": "Several benches, each with several calibration setups, populate the room.",
+      "cn": "房间里有几张每个都含几个校准步骤的工作台."
+    },
+    {
+      "en": "The datasource that is used to populate the items in the list.",
+      "cn": "用来填充列表中各个项的数据源."
+    },
+    {
+      "en": "The highlands are populated mainly by peasant farmers.",
+      "cn": "高原人口主要是农民。"
+    },
+    {
+      "en": "The microorganisms Algae in the water over populate because the surplus nitrogen.",
+      "cn": "水中微生物藻类的密集分布也是因为过剩的氮."
+    },
+    {
+      "en": "Thousands of books and scrolls populate its shelves.",
+      "cn": "数以万计书和纸卷居住于它的架子."
+    },
+    {
+      "en": "To oblige idling artists we populate public squares with famous men.",
+      "cn": "为满足虚度光阴的艺术家我们把名人雕像聚集公共广场."
+    },
+    {
+      "en": "Use tools to populate data.",
+      "cn": "使用工具来生成测试数据."
+    },
+    {
+      "en": "Write your rear end off tomorrow to populate the new site.",
+      "cn": "过完后面写你明天群岛新址."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "populated",
+          "tran_cn": " 粒子数增加的"
+        },
+        {
+          "word": "populous",
+          "tran_cn": " 人口稠密的；人口多的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "populace",
+          "tran_cn": " 大众；平民；人口"
+        },
+        {
+          "word": "population",
+          "tran_cn": " 人口；[生物] 种群，[生物] 群体；全体居民"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "populated",
+          "tran_cn": " 居住于…中；构成…的人口（populate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "people",
+            "inhabit"
+          ],
+          "tran_cn": "居住于；构成人口；移民于；殖民于"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "构成人口, 居住于",
+      "tran_en": "if an area is populated by a particular group of people, they live there"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "居住于，生活于，移民于，占据",
+      "tran_en": "if an area is populated by a particular group of people, they live there"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "populates"
+    ],
+    "past": [
+      "populated"
+    ],
+    "done": [
+      "populated"
+    ],
+    "ing": [
+      "populating"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "word": "plenum",
+  "ipa": {
+    "us": "ˈpli:nəm",
+    "uk": "ˈplinəm, ˈplɛnəm"
+  },
+  "sentences": [
+    {
+      "en": "A permeate collection plenum is in direct fluid communication with each stage.",
+      "cn": "一渗透液收集室与各级直接连通."
+    },
+    {
+      "en": "A temperature stratification from the top to the bottom of the plenum is obtained.",
+      "cn": "从压力通迅室的顶部到底部可获得分层气流温度."
+    },
+    {
+      "en": "A unique identifying name identifying the Zone Plenum system component.",
+      "cn": "区域回风静压箱或区域混合器组件的唯一标识名."
+    },
+    {
+      "en": "A unique identifying name identifying the Zone Return Plenum system component.",
+      "cn": "用于定义区域回风静压箱系统组件的唯一标识名."
+    },
+    {
+      "en": "A unique identifying name identifying the Zone Supply Plenum system component.",
+      "cn": "区域送风静压箱系统组件的唯一标识名."
+    },
+    {
+      "en": "A unique identifying name Zone Supply Plenum system component.",
+      "cn": "系统组件的唯一标识名."
+    },
+    {
+      "en": "Clean the fan plenum filters for all of the BSC cabinets.",
+      "cn": "清除BSC机柜所有风扇组的过滤网."
+    },
+    {
+      "en": "It is suggested plenum ventilation should be first adopted in ventilation planning of uranium mines.",
+      "cn": "建议铀矿井通风工程设计中应优先采用压入式通风方式."
+    },
+    {
+      "en": "Izard, C . ( 1977 ) . Human emotions. New York : Plenum Press.",
+      "cn": "张燕云(译) ( 1986 ):情绪心理学. 沈阳市: 辽宁人民出版社."
+    },
+    {
+      "en": "The plenum noted that economic growth and restructuring must rely on scientific and technological innovation.",
+      "cn": "会议认为,推动经济发展和结构调整必须依靠体制创新和科技创新."
+    },
+    {
+      "en": "The plenum will vote on all tax increases.",
+      "cn": "全会将就所有的增税提议投票表决."
+    },
+    {
+      "en": "The Zone Air Path lists the Zone Splitter and Zone Supply Plenum components comprising the path.",
+      "cn": "区域回风路径列出了区域混风器和区域回风静压箱组件,这些组件构成了该路径."
+    },
+    {
+      "en": "The Zone Return Air Path Zone Mixer and Zone Return Plenum components comprising the path.",
+      "cn": "而对于典型的双管系统,则由两条区域送风路径(一条用于热空气、一条用于冷空气)和一条区域回风路径组成."
+    },
+    {
+      "en": "This field should contain either Zone Supply Plenum or Zone Splitter.",
+      "cn": "该字段应包含区域送风静压箱或区域分离器."
+    },
+    {
+      "en": "Unique name of the Zone Supply Plenum or Zone Splitter component.",
+      "cn": "区域送风静压箱或区域分离器组件的唯一标识名."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "plenary",
+          "tran_cn": " 充分的；全体出席的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "plenary",
+          "tran_cn": " 全体会议"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "filled with",
+            "fullness"
+          ],
+          "tran_cn": "全体会议；充满；充满物质的空间"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "充实，充满，全体会议，充满物质的空间",
+      "tran_en": "A plenum is a meeting that is attended by all the members of a committee or conference"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "plenums"
+    ]
+  }
+}

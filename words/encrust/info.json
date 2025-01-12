@@ -1,0 +1,73 @@
+{
+  "word": "encrust",
+  "ipa": {
+    "us": "ɪn'krʌst",
+    "uk": "ɪn'krʌst"
+  },
+  "sentences": [
+    {
+      "en": "Nautical To encrust ( a ship's hull ) with foreign matter, such as barnacles.",
+      "cn": "使 ( 船的外壳 ) 包上外来的东西, 如藤壶."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "encrusted",
+          "tran_cn": " 带有外壳的；无伸缩性的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "encrustation",
+          "tran_cn": " 硬壳；结壳；用覆盖物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "encrusted",
+          "tran_cn": " 包以外壳；使形成硬壳（encrust的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 在表面形成硬壳， 结壳； 用…装饰外层",
+      "tran_en": "to cover or overlay with or as with a crust or hard coating "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "结壳，形成硬壳"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用一层硬壳覆盖，包裹，（用贵重物品在）表面装饰"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "encrusts"
+    ],
+    "past": [
+      "encrusted"
+    ],
+    "done": [
+      "encrusted"
+    ],
+    "ing": [
+      "encrusting"
+    ]
+  }
+}

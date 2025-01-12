@@ -1,0 +1,50 @@
+{
+  "word": "pleonastic",
+  "ipa": {
+    "us": "ˌpli:ə'næstɪk",
+    "uk": "ˌplioˈnæstɪk"
+  },
+  "sentences": [
+    {
+      "en": "Your report is too pleonastic.",
+      "cn": "你的报告太罗嗦了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pleonasm",
+          "tran_cn": " 冗笔；赘语；冗言法"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "repeating",
+            "reduplicative"
+          ],
+          "tran_cn": "重复的，冗言的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<修>赘述的，使用赘句的，冗词赘句"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "pleonasm"
+    ]
+  }
+}

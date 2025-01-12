@@ -1,0 +1,88 @@
+{
+  "word": "acclimatise",
+  "ipa": {
+    "us": "ə'klaɪmətaɪz",
+    "uk": "ə'klaɪmətaɪz"
+  },
+  "sentences": [
+    {
+      "en": "I believe they will quickly acclimatise.",
+      "cn": "我相信他们很快就会适应的."
+    },
+    {
+      "en": "If I went by train I could acclimatise to the altitude on the way there.",
+      "cn": "如果坐火车,我就能在路上逐渐适应那里的海拔了."
+    },
+    {
+      "en": "This year he has left for St Louis early to acclimatise himself.",
+      "cn": "今年他早早地前往圣路易斯以便适应新环境。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "acclimation",
+          "tran_cn": " 适应环境（气候、水土等）"
+        },
+        {
+          "word": "acclimatisation",
+          "tran_cn": " 适应性；服水土"
+        },
+        {
+          "word": "acclimatization",
+          "tran_cn": " 适应环境；[动][进化] 驯化；服水土；[气候] 气候适应"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "acclimate",
+          "tran_cn": " 服水土；适应新环境"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "acclimate",
+          "tran_cn": " 使适应；使服水土"
+        },
+        {
+          "word": "acclimatize",
+          "tran_cn": " 使适应新环境，使服水土"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "adjust",
+            "adapt to something"
+          ],
+          "tran_cn": "（英）适应；习惯（等于acclimatize）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 服水土； 适应新环境"
+    },
+    {
+      "pos": "vi& vt.",
+      "tran_cn": "（使）服水土，（使）适应新气候或环境"
+    }
+  ],
+  "exchange": {}
+}

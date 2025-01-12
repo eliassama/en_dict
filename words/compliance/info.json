@@ -1,0 +1,189 @@
+{
+  "word": "compliance",
+  "ipa": {
+    "us": "kəmˈplaɪəns",
+    "uk": "kəmˈplaɪəns"
+  },
+  "sentences": [
+    {
+      "en": "A compliance coefficient is a particular kind of flexibility - influence coefficient.",
+      "cn": "柔度系数是挠曲影响系数的一种特殊类型."
+    },
+    {
+      "en": "He has reasoned me into compliance.",
+      "cn": "他向我说出种种道理,使我非答应不可."
+    },
+    {
+      "en": "He was terrified into compliance.",
+      "cn": "他被吓唬得屈服了."
+    },
+    {
+      "en": "Her stoic compliance embarrassed me.",
+      "cn": "她泰然处之地替我安排."
+    },
+    {
+      "en": "I thought I prevented another explosion by my compliance.",
+      "cn": "我觉得我依从了,可以免去另一场乱子."
+    },
+    {
+      "en": "I was surprised by his compliance with these terms.",
+      "cn": "我对他竟然依从了这些条件而感到吃惊."
+    },
+    {
+      "en": "In most computerized systems, there are only two states: nonexistence or full - compliance.",
+      "cn": "多数计算机系统只有两种状态,即不存在或者全部一致."
+    },
+    {
+      "en": "Inspectors were sent to visit nuclear sites and verify compliance with the treaty.",
+      "cn": "监察员被派去参观核址并核实条约的遵守情况。"
+    },
+    {
+      "en": "procedures that must be followed to ensure full compliance with the law",
+      "cn": "为确保严格遵守法律所必须遵行的程序"
+    },
+    {
+      "en": "She gave up the idea in compliance with his desire.",
+      "cn": "她顺从他的愿望而放弃自己的主意."
+    },
+    {
+      "en": "The deadline for compliance is 2000.",
+      "cn": "达标的最后限期是2000年."
+    },
+    {
+      "en": "The fourth - rank tensors contain the compliance and stiffness constants.",
+      "cn": "四秩张量包含柔量常数和刚度常数."
+    },
+    {
+      "en": "The Security Council aim to ensure compliance by all sides, once an agreement is signed.",
+      "cn": "一旦签署协议，安理会的目标就是保证各方都要遵守。"
+    },
+    {
+      "en": "There are penalties for non-compliance with the fire regulations.",
+      "cn": "不遵守消防规章的行为要受到处罚。"
+    },
+    {
+      "en": "They reasoned him into compliance.",
+      "cn": "他们劝说他使他答应."
+    },
+    {
+      "en": "Torques resulting from this change are called compliance torques.",
+      "cn": "这种变化产生的力矩称为弹性变形力矩."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "compliant",
+          "tran_cn": " 顺从的；服从的；应允的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "compliancy",
+          "tran_cn": " 顺从；依从（等于compliance）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "commitment",
+            "obedience"
+          ],
+          "tran_cn": "顺从，服从；承诺"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adaptability",
+            "adaptation",
+            "cession",
+            "concession",
+            "conformity",
+            "consensus",
+            "favor",
+            "fulfilment",
+            "obedience",
+            "resignation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "certificate of compliance",
+      "tran_cn": "符合证明；一致的证明；合约完成证明书"
+    },
+    {
+      "phrase": "compliance audit",
+      "tran_cn": "合规性审计；符合规章审计；法规符合审计"
+    },
+    {
+      "phrase": "compliance method",
+      "tran_cn": "柔度法"
+    },
+    {
+      "phrase": "compliance officer",
+      "tran_cn": "合规官员；监察主任"
+    },
+    {
+      "phrase": "compliance test",
+      "tran_cn": "验证检验；符合性程序"
+    },
+    {
+      "phrase": "compliance with",
+      "tran_cn": "符合；遵守"
+    },
+    {
+      "phrase": "creep compliance",
+      "tran_cn": "蠕变柔量"
+    },
+    {
+      "phrase": "in compliance with",
+      "tran_cn": "按照…"
+    },
+    {
+      "phrase": "legal compliance",
+      "tran_cn": "遵纪守法"
+    },
+    {
+      "phrase": "patient compliance",
+      "tran_cn": "病人的依从性；病人的配合度"
+    },
+    {
+      "phrase": "regulatory compliance",
+      "tran_cn": "法规遵从"
+    },
+    {
+      "phrase": "social compliance",
+      "tran_cn": "社会责任"
+    },
+    {
+      "phrase": "tax compliance",
+      "tran_cn": "税收遵从；守法纳税"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "遵守，服从",
+      "tran_en": "when someone obeys a rule, agreement, or demand"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,202 @@
+{
+  "word": "commitment",
+  "ipa": {
+    "us": "kəˈmɪtmənt",
+    "uk": "kəˈmɪtmənt"
+  },
+  "sentences": [
+    {
+      "en": "Are you ready to make a long-term commitment ?",
+      "cn": "你是否准备好作出长久的承诺？"
+    },
+    {
+      "en": "Are you ready to make a long-term commitment?",
+      "cn": "你是否准备好作出长久的承诺？"
+    },
+    {
+      "en": "Both sides affirmed their commitment to the ceasefire.",
+      "cn": "双方均申明答应停火。"
+    },
+    {
+      "en": "He chastised the team for their lack of commitment.",
+      "cn": "他指责队伍未竭尽全力。"
+    },
+    {
+      "en": "He made a commitment to pay the rent on time.",
+      "cn": "他保证按时付房租."
+    },
+    {
+      "en": "He waxed lyrical about the skills and commitment of his employees.",
+      "cn": "他津津乐道于员工的技能和敬业精神。"
+    },
+    {
+      "en": "He wrote about Gillespie's effervescence, magnetism and commitment.",
+      "cn": "他写到了吉莱斯皮的活泼、魅力和献身精神。"
+    },
+    {
+      "en": "His commitment has been unquestioned.",
+      "cn": "他的忠诚是不容置疑的。"
+    },
+    {
+      "en": "It is an open question how long that commitment can last.",
+      "cn": "这一承诺能维持多久还不确定。"
+    },
+    {
+      "en": "Our commitment will be of the highest order.",
+      "cn": "我们一诺千金。"
+    },
+    {
+      "en": "She doesn't want to make a big emotional commitment to Steve at the moment.",
+      "cn": "她不想在此刻对史蒂夫在感情上作出重大的承诺。"
+    },
+    {
+      "en": "The builder had a commitment to finish the work on time.",
+      "cn": "那个承建商答应过准时完工."
+    },
+    {
+      "en": "The hospital has a commitment to provide the best possible medical care.",
+      "cn": "这家医院承诺要提供最好的医疗服务。"
+    },
+    {
+      "en": "The targets would not be achieved unless other departments showed equal commitment.",
+      "cn": "除非其他部门同样努力，否则这些目标无法达成。"
+    },
+    {
+      "en": "They had shown a commitment and seriousness of purpose.",
+      "cn": "他们已经立下承诺，并表达了想要实现目标的诚意。"
+    },
+    {
+      "en": "They made a commitment to peace.",
+      "cn": "他们承诺要维护和平。"
+    },
+    {
+      "en": "You'vebeen drifting from job to job without any real commitment.",
+      "cn": "你一直在无目的地更换工作，从未真正投入进去。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "commissioned",
+          "tran_cn": " 受委任的，受任命的；服役的，现役的"
+        },
+        {
+          "word": "committed",
+          "tran_cn": " 坚定的；效忠的；承担义务的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "commission",
+          "tran_cn": " 委员会；佣金；犯；委任；委任状"
+        },
+        {
+          "word": "commissioner",
+          "tran_cn": " 理事；委员；行政长官；总裁"
+        },
+        {
+          "word": "committal",
+          "tran_cn": " 委托；承担义务；赞助；收监；献身（等于commitment）"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "commissioned",
+          "tran_cn": " 委任（commission的过去分词）"
+        },
+        {
+          "word": "committed",
+          "tran_cn": " 承诺；委托；干坏事；付诸（commit的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "commission",
+          "tran_cn": " 委任；使服役；委托制作"
+        },
+        {
+          "word": "commit",
+          "tran_cn": " 犯罪，做错事；把...交托给；指派…作战；使…承担义务"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "assurance",
+            "certification",
+            "guarantee",
+            "security",
+            "compliance"
+          ],
+          "tran_cn": "承诺，保证；委托；承担义务；献身"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "affective commitment",
+      "tran_cn": "感情承诺；情感认同"
+    },
+    {
+      "phrase": "continuance commitment",
+      "tran_cn": "继续承诺"
+    },
+    {
+      "phrase": "financial commitment",
+      "tran_cn": "财务承诺；财政承担"
+    },
+    {
+      "phrase": "firm commitment",
+      "tran_cn": "包销承诺；坚定的承诺"
+    },
+    {
+      "phrase": "make a commitment",
+      "tran_cn": "承诺"
+    },
+    {
+      "phrase": "management commitment",
+      "tran_cn": "管理层承诺；管理委员会"
+    },
+    {
+      "phrase": "organizational commitment",
+      "tran_cn": "组织承诺；组织认同感"
+    },
+    {
+      "phrase": "professional commitment",
+      "tran_cn": "专业承诺"
+    },
+    {
+      "phrase": "public commitment",
+      "tran_cn": "公开投入"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "信奉，忠诚，承诺，已许诺的事，献身，投入，花费",
+      "tran_en": "a promise to do something or to behave in a particular way"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "commitments"
+    ]
+  }
+}

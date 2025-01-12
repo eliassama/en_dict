@@ -1,0 +1,105 @@
+{
+  "word": "haulage",
+  "ipa": {
+    "us": "ˈhɔːlɪdʒ",
+    "uk": "ˈhɔːlɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "Haulage distances are not excessively long.",
+      "cn": "拖运距离并不十分远."
+    },
+    {
+      "en": "Ore passes are the vital haulage passage in the mines using adit ore pass transportation system.",
+      "cn": "对于应用平硐溜井开拓运输系统的露天开采矿山来说,溜井是其咽喉,溜井正常与否对矿山生产影响极大."
+    },
+    {
+      "en": "SEA - PROMISE Freight runs its own warehouse and haulage team in Tianjin, China.",
+      "cn": "天津海诺国际货运代理有限公司在天津拥有自己的协议仓库,可承接铁路 、 陆地的到货交付."
+    },
+    {
+      "en": "The Axor is for medium - duty long haulage and distribution.",
+      "cn": "axor系列载重车面向公路运输和中、重负荷物流配送."
+    },
+    {
+      "en": "The enterprise KLUWE OTTO KARL FERNTRANSPORTE offers Long - distance haulage among other things.",
+      "cn": "KLUWEOTTOKARLFERNTRANSPORTE 作为一家具有丰富经验的经济型企业,为您提供远程运输范围内效果显著的、高价值的产品."
+    },
+    {
+      "en": "The haulage company was a carrier of machine parts to Turkey.",
+      "cn": "该公路货运公司负责将机械零件运往土耳其。"
+    },
+    {
+      "en": "The paper introduces the design and test of turning unit for endless rope haulage shuttle cars.",
+      "cn": "介绍无极绳牵引梭车转弯装置的设计和试验情况."
+    },
+    {
+      "en": "the road haulage industry",
+      "cn": "公路货运业"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "haul",
+          "tran_cn": " 拖，拉；用力拖拉；努力得到的结果；捕获物；一网捕获的鱼量；拖运距离"
+        },
+        {
+          "word": "hauler",
+          "tran_cn": " 搬运工"
+        },
+        {
+          "word": "haulier",
+          "tran_cn": " 货运马车夫；拖曳者，承运人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "haul",
+          "tran_cn": " 拖，拉；改变主意；改变方向"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "haul",
+          "tran_cn": " 拖运；拖拉"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "charges",
+            "carriage"
+          ],
+          "tran_cn": "[交]拖运；拖曳；运费"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "haulage roadway",
+      "tran_cn": "运输巷道"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "公路[铁路]货运业，公路[铁路]运费"
+    }
+  ],
+  "exchange": {}
+}

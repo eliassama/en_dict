@@ -1,0 +1,196 @@
+{
+  "word": "phenomenon",
+  "ipa": {
+    "us": "fəˈnɒmɪnən",
+    "uk": "fəˈnɑːmɪnən"
+  },
+  "sentences": [
+    {
+      "en": "Beethoven was a phenomenon among many musicians.",
+      "cn": "贝多芬是众多的音乐家中的天才."
+    },
+    {
+      "en": "Homelessness is not a new phenomenon .",
+      "cn": "无家可归已不是什么新现象。"
+    },
+    {
+      "en": "How do you explain this phenomenon?",
+      "cn": "这种现象怎样解释?"
+    },
+    {
+      "en": "It's an interesting scientific phenomenon, but of no practical use whatever.",
+      "cn": "这是一种有趣的科学现象，但没什么实用价值。"
+    },
+    {
+      "en": "No historical phenomenon is a mere repetition of the past.",
+      "cn": "任何历史现象都不会是简单的重复."
+    },
+    {
+      "en": "Scientists may work out a new interpretation of that phenomenon.",
+      "cn": "科学家们可能会对那个现象作出新的解释."
+    },
+    {
+      "en": "The imperative mood is a kind of grammatical phenomenon.",
+      "cn": "祈使语气是一种语法现象."
+    },
+    {
+      "en": "The phenomenon was so striking and disturbing that his philosophical tranquillity vanished.",
+      "cn": "这个令人惶惑不安的现象,扰乱了他的旷达宁静的心境."
+    },
+    {
+      "en": "The rogue male is not a twentieth-century phenomenon.",
+      "cn": "男性不安分守己并非20世纪特有的现象。"
+    },
+    {
+      "en": "This form of civil disobedience isn't a particularly new phenomenon.",
+      "cn": "这种形式的非暴力反抗并不是特别新的现象。"
+    },
+    {
+      "en": "This phenomenon , peculiar to the two - dimensional wave motion, is sometimes called diffusion.",
+      "cn": "二维波所特有的这种现象, 有时叫做弥散现象."
+    },
+    {
+      "en": "This phenomenon is not as outrageous as it seems.",
+      "cn": "这种现象并不像它看上去那样骇人。"
+    },
+    {
+      "en": "This phenomenon is unique in ( the whole of ) nature.",
+      "cn": "这种现象在 ( 整个 ) 自然界是罕见的."
+    },
+    {
+      "en": "This phenomenon piqued Dr Morris' interest.",
+      "cn": "这一现象激起了莫里斯医生的兴趣。"
+    },
+    {
+      "en": "This theory makes sense of an otherwise inexplicable phenomenon.",
+      "cn": "这种理论能说明这一其他理论无法解释的现象."
+    },
+    {
+      "en": "We must dispose of too many essential features of the investigated phenomenon.",
+      "cn": "我们不得不排除所研究现象的许多基本特征."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "phenomenal",
+          "tran_cn": " 现象的；显著的；异常的；能知觉的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "phenomenally",
+          "tran_cn": " 现象上地；明白地；从感官认识到"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "phenomenology",
+          "tran_cn": " 现象学；现象论"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "circumstance",
+            "episode",
+            "event",
+            "fact",
+            "incident",
+            "occurrence",
+            "particular"
+          ],
+          "tran_cn": "事件,事实,现象"
+        },
+        {
+          "words": [
+            "a",
+            "happening",
+            "in",
+            "marvel",
+            "million",
+            "miracle",
+            "nonesuch",
+            "one",
+            "prodigy",
+            "rarity",
+            "sensation",
+            "sight",
+            "spectacle",
+            "wonder",
+            "wonderment"
+          ],
+          "tran_cn": "奇迹,稀有现象"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "curiosity",
+            "monster",
+            "thing"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "el nino phenomenon",
+      "tran_cn": "厄尔尼诺现象"
+    },
+    {
+      "phrase": "natural phenomenon",
+      "tran_cn": "自然现象"
+    },
+    {
+      "phrase": "normal phenomenon",
+      "tran_cn": "正常现象"
+    },
+    {
+      "phrase": "plateau phenomenon",
+      "tran_cn": "高原现象"
+    },
+    {
+      "phrase": "psychological phenomenon",
+      "tran_cn": "心理现象"
+    },
+    {
+      "phrase": "rebound phenomenon",
+      "tran_cn": "回缩现象；回跳现象"
+    },
+    {
+      "phrase": "social phenomenon",
+      "tran_cn": "社会现象；群集现象"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "现象，杰出的人",
+      "tran_en": "something that happens or exists in society, science, or nature, especially something that is studied because it is difficult to understand"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "phenomena"
+    ]
+  }
+}

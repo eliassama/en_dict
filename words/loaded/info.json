@@ -1,0 +1,188 @@
+{
+  "word": "loaded",
+  "ipa": {
+    "us": "ˈləʊdɪd",
+    "uk": "ˈloʊdɪd"
+  },
+  "sentences": [
+    {
+      "en": "a loaded pistol",
+      "cn": "子弹上膛的手枪"
+    },
+    {
+      "en": "He carried a loaded gun.",
+      "cn": "他带了一把子弹上膛的枪。"
+    },
+    {
+      "en": "He loaded his vessel with another cargo and set sail.",
+      "cn": "他给自己的船装上另一批货后便启航了。"
+    },
+    {
+      "en": "Mr. Dambar had loaded his plate with stuffed flounder.",
+      "cn": "但拔先生的餐盘里盛满了填馅的比目鱼。"
+    },
+    {
+      "en": "She deposited the loaded tray.",
+      "cn": "她把满满的托盘放下。"
+    },
+    {
+      "en": "She loaded me down with around a dozen cassettes.",
+      "cn": "她塞给我十几盒磁带。"
+    },
+    {
+      "en": "She loaded up his collection of vintage wines into crates.",
+      "cn": "她把他收藏的陈年佳酿装进板条箱里。"
+    },
+    {
+      "en": "Soldiers were loaded with blankets and supplies.",
+      "cn": "士兵们背着毯子和给养。"
+    },
+    {
+      "en": "That's a loaded question.",
+      "cn": "这是个诱导性的问题。"
+    },
+    {
+      "en": "The article was heavily loaded against Morrissey.",
+      "cn": "文章对莫里西非常不利。"
+    },
+    {
+      "en": "The giggling couple loaded up their red sports car and drove off.",
+      "cn": "笑咧咧的夫妻把东西装上他们的红色跑车后疾驰而去。"
+    },
+    {
+      "en": "The phrase is loaded with irony.",
+      "cn": "此语满含讽刺意味。"
+    },
+    {
+      "en": "The President's visit is loaded with symbolic significance.",
+      "cn": "总统之行充满象征性意义。"
+    },
+    {
+      "en": "They had come up from London loaded down with six suitcases.",
+      "cn": "他们拖着6只箱子从伦敦过来。"
+    },
+    {
+      "en": "They were loaded on the railway trucks to go to Liverpool.",
+      "cn": "它们被装上开往利物浦的货运火车。"
+    },
+    {
+      "en": "They were quite safe because they weren't loaded.",
+      "cn": "它们挺安全的，因为都没上子弹。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "load",
+          "tran_cn": " 负载，负荷；工作量；装载量"
+        },
+        {
+          "word": "loader",
+          "tran_cn": " 装货的人；载入程序；装货设备；装填器"
+        },
+        {
+          "word": "loading",
+          "tran_cn": " 装载；装货；装载的货"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "loading",
+          "tran_cn": " 装载，装填，担负（load的ing形式）； 装入"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "load",
+          "tran_cn": " [力] 加载；装载；装货"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "load",
+          "tran_cn": " 使担负；装填"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "fried",
+            "burdened"
+          ],
+          "tran_cn": "负荷的；装填子弹的；装好胶卷的；喝醉了的（美国俚语）；阔绰的（美国俚语）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "crooked",
+            "fraught",
+            "full",
+            "wealthy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "charge up"
+          ],
+          "tran_cn": "装载（load的变形）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fully loaded",
+      "tran_cn": "满载"
+    },
+    {
+      "phrase": "loaded for bear",
+      "tran_cn": "见 bear"
+    },
+    {
+      "phrase": "loaded question",
+      "tran_cn": "含沙射影韵问题"
+    },
+    {
+      "phrase": "spring loaded",
+      "tran_cn": "受载弹簧；弹簧加压的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "载重的，有负荷的，充满…的，〈美俚〉喝醉了的，〈美俚〉富有的",
+      "tran_en": "containing bullets, film etc"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "把…装上车[船]( load的过去式)，装…"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,189 @@
+{
+  "word": "railroad",
+  "ipa": {
+    "us": "ˈreɪlrəʊd",
+    "uk": "ˈreɪlroʊd"
+  },
+  "sentences": [
+    {
+      "en": "\" Are you a railroad man? \"",
+      "cn": "“ 你是个电车工人 吗 ?"
+    },
+    {
+      "en": "\" The Yankees were moving on Jonesboro, to cut the railroad.",
+      "cn": "\" 北方佬向琼斯博罗扑过来了, 来截断铁路."
+    },
+    {
+      "en": "a railroad station",
+      "cn": "火车站"
+    },
+    {
+      "en": "Born of a railroad, Atlanta grew as its railroads grew.",
+      "cn": "亚特兰大由一条铁路诞生, 也和它的铁路同时成长."
+    },
+    {
+      "en": "Bridges over railroad tracks root danger out in crossing.",
+      "cn": "铁轨上空的天桥排除了穿行中的危险."
+    },
+    {
+      "en": "He seems to have conceived an abject, unreasoned terror of the Railroad.",
+      "cn": "他好象对铁路公司抱着一种意气消沉, 不可理喻的恐惧心理."
+    },
+    {
+      "en": "His enemies tried to railroad him to prison without a fair trial.",
+      "cn": "他的敌人企图以轻率的审判使他坐牢."
+    },
+    {
+      "en": "My brother is working on the railroad.",
+      "cn": "我兄弟在铁路系统工作."
+    },
+    {
+      "en": "Railroad companies often charged unequal or unfair rates.",
+      "cn": "铁路公司定价常常不合理."
+    },
+    {
+      "en": "The excitement of railroad building also brought abuses.",
+      "cn": "修建铁路热也引起了一些弊端."
+    },
+    {
+      "en": "The gifts to him would have filled a railroad freight car.",
+      "cn": "他的生日礼物足以装满一节火车车厢."
+    },
+    {
+      "en": "The railroad connects two cities, namely, New York and Chicago.",
+      "cn": "这条铁路连接两个城市, 即纽约与芝加哥."
+    },
+    {
+      "en": "The railroad finally reached Santa Barbara in 1877.",
+      "cn": "铁路终于在1877年修到了圣巴巴拉。"
+    },
+    {
+      "en": "The railroad slopes up slightly at this point.",
+      "cn": "铁路从这儿开始微微向上倾斜."
+    },
+    {
+      "en": "The supplies were sent on the railroad.",
+      "cn": "补给经由铁路运送。"
+    },
+    {
+      "en": "Then the railroad building era really began.",
+      "cn": "铁轨也在慢慢向北延伸."
+    },
+    {
+      "en": "Troops have seized the airport and railroad terminals.",
+      "cn": "军队已控制了机场和火车站。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "railroader",
+          "tran_cn": " [铁路] 铁路员工"
+        },
+        {
+          "word": "railroading",
+          "tran_cn": " 铁路建设；仓促行事"
+        },
+        {
+          "word": "railway",
+          "tran_cn": " （英）铁路；轨道；铁道部门"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "railroading",
+          "tran_cn": " 由铁路运输；乘火车旅行（railroad的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "railway",
+          "tran_cn": " 乘火车旅行"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "Eisenbahn"
+          ],
+          "tran_cn": "铁路；铁路公司"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "railway"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "railroad car",
+      "tran_cn": "有轨电车"
+    },
+    {
+      "phrase": "railroad crossing",
+      "tran_cn": "铁路穿越；铁路公路交叉道口；铁路平交道"
+    },
+    {
+      "phrase": "railroad industry",
+      "tran_cn": "铁路工业"
+    },
+    {
+      "phrase": "railroad station",
+      "tran_cn": "火车站；铁路车站"
+    },
+    {
+      "phrase": "railroad track",
+      "tran_cn": "铁轨；铁路轨道"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "铁路，铁道，铁路公司，铁路部门",
+      "tran_en": "a railway or the railway"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "迫使…仓促行事，强迫…做，轻率判处， 在铁路工作；乘火车旅行"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 由铁路运输"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "railroads"
+    ],
+    "past": [
+      "railroaded"
+    ],
+    "done": [
+      "railroaded"
+    ],
+    "ing": [
+      "railroading"
+    ]
+  }
+}

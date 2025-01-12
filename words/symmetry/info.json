@@ -1,0 +1,183 @@
+{
+  "word": "symmetry",
+  "ipa": {
+    "us": "ˈsɪmətri",
+    "uk": "ˈsɪmətri"
+  },
+  "sentences": [
+    {
+      "en": "...the incredible beauty and symmetry of a snowflake.",
+      "cn": "…雪花令人难以置信的美丽和对称。"
+    },
+    {
+      "en": "A center of symmetry must coincide with the center of mass.",
+      "cn": "对称中心必须与质量中心重合."
+    },
+    {
+      "en": "He was not insensible to her rosy symmetry.",
+      "cn": "他不可能对她那艳丽的面孔视若无睹."
+    },
+    {
+      "en": "I feel the delicate symmetry of a leaf.",
+      "cn": "我感触到一片树叶的完美的对称性."
+    },
+    {
+      "en": "I loved the house because it had perfect symmetry.",
+      "cn": "我喜欢这所房子，因为它非常对称。"
+    },
+    {
+      "en": "If a magnetic field is switched on, the symmetry is broken.",
+      "cn": "如果加上磁场, 就破坏了这种对称性."
+    },
+    {
+      "en": "Order and symmetry were important elements of beauty.",
+      "cn": "秩序和对称是美的重要因素."
+    },
+    {
+      "en": "Planetary nebulae are a type of isolated gaseous nebulae possessing a fair degree of bilateral symmetry.",
+      "cn": "行星状星云是一类孤立的气体星云,具有相当程度的双侧对称性."
+    },
+    {
+      "en": "The \" hat \" distinguishes symmetry operations from symmetry elements.",
+      "cn": "“ 帽号 ” 用来将对称操作与对称元素区别开."
+    },
+    {
+      "en": "The human body has a symmetry that is basic to our sense of beauty.",
+      "cn": "人体的对称性构成我们审美观的基础."
+    },
+    {
+      "en": "the perfect symmetry of the garden design",
+      "cn": "花园图案的完全对称"
+    },
+    {
+      "en": "The rule of combination of symmetry operations is successive performance of them.",
+      "cn": "对称操作的组合规则,是逐次地去运用它们."
+    },
+    {
+      "en": "The same holds true for any molecule with a center of symmetry.",
+      "cn": "对任何有对称中心的分子同样是对的."
+    },
+    {
+      "en": "The superpowers pledged to maintain symmetry in their arms shipments.",
+      "cn": "超级大国承诺在武器运输方面要保持数量均衡。"
+    },
+    {
+      "en": "The symmetry groups to which real molecules may belong are very numerous.",
+      "cn": "真实分子可能属于的对称群是非常多的."
+    },
+    {
+      "en": "the symmetry of the design",
+      "cn": "图案的对称性"
+    },
+    {
+      "en": "There was a certain symmetry to coming back to New York, where I started my artistic life all those years ago.",
+      "cn": "人生的经历似乎是对称的，我又回到了纽约，那里是我早年开始艺术生涯的地方。"
+    },
+    {
+      "en": "What they did ask for was that we demand in negotiations the perfect symmetry.",
+      "cn": "他们要求的则是,在谈判中要取得完全的对等."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "symmetrical",
+          "tran_cn": "匀称的，对称的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "symmetrically",
+          "tran_cn": "对称地；平衡地；匀称地"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "symmetrize",
+          "tran_cn": "使对称；使匀称；使相称"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "balance",
+            "regularity"
+          ],
+          "tran_cn": "对称（性）；整齐，匀称"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "compatibility",
+            "harmony",
+            "parallel"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "axial symmetry",
+      "tran_cn": "轴对称性"
+    },
+    {
+      "phrase": "axis of symmetry",
+      "tran_cn": "对称轴；对称轴线"
+    },
+    {
+      "phrase": "bilateral symmetry",
+      "tran_cn": "左右对称；两侧对称"
+    },
+    {
+      "phrase": "radial symmetry",
+      "tran_cn": "辐射对称；径向对称；放射对称"
+    },
+    {
+      "phrase": "rotational symmetry",
+      "tran_cn": "旋转对称；轴对称"
+    },
+    {
+      "phrase": "symmetry axis",
+      "tran_cn": "对称轴"
+    },
+    {
+      "phrase": "symmetry principle",
+      "tran_cn": "对称原理"
+    },
+    {
+      "phrase": "translational symmetry",
+      "tran_cn": "[化]平移对称"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "对称，对称美，整齐，匀称",
+      "tran_en": "the quality of being symmetrical"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "symmetries"
+    ]
+  }
+}

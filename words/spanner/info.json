@@ -1,0 +1,125 @@
+{
+  "word": "spanner",
+  "ipa": {
+    "us": "ˈspænə(r)",
+    "uk": "ˈspænɚ"
+  },
+  "sentences": [
+    {
+      "en": "'Have you got a spanner?'",
+      "cn": "“ 有扳手 么 ?”"
+    },
+    {
+      "en": "A bad result is sure to throw a spanner in the works.",
+      "cn": "糟糕的成绩肯定会坏事的。"
+    },
+    {
+      "en": "Did you notice anyone take the bent spanner away?",
+      "cn": "你看见谁把弯扳手拿走了?"
+    },
+    {
+      "en": "He had sometimes seen her with oily hands and carrying a spanner.",
+      "cn": "他有时看到她双手沾油,拿着板钳."
+    },
+    {
+      "en": "I needed a special spanner and I couldn't beg , steal or borrow one anywhere.",
+      "cn": "我需要一把特殊的扳手, 但我无论如何也找不到."
+    },
+    {
+      "en": "I'll need a spanner to change the back wheel.",
+      "cn": "我需要一把扳手来换后轮."
+    },
+    {
+      "en": "Please fetch me a spanner , and in short order.",
+      "cn": "请递给我个扳手, 快!"
+    },
+    {
+      "en": "Please hand me the spanner; I've got to tighten up the what's - its - name.",
+      "cn": "请递给我板手, 我得拧紧这个玩意儿."
+    },
+    {
+      "en": "Please wait for a moment, I'll bent spanner away?",
+      "cn": "请等一等, 我去把工具拿给你."
+    },
+    {
+      "en": "Take your spanner, and tighten the nut.",
+      "cn": "把你的扳手拿来, 把螺帽拧紧."
+    },
+    {
+      "en": "The plumber screwed up the tap by means of a spanner.",
+      "cn": "管子工用板手把龙头旋紧."
+    },
+    {
+      "en": "This screw can't move because of rust. Wehavea spanner pull it out.",
+      "cn": "这个螺丝已经锈死了,必须得用管钳子才能弄开."
+    },
+    {
+      "en": "Where did you put the spanner?",
+      "cn": "你把扳钳放哪儿啦?"
+    },
+    {
+      "en": "Will this spanner do you?",
+      "cn": "这个扳手你用着行 吗 ?"
+    },
+    {
+      "en": "You can use a spanner to loosen the nut.",
+      "cn": "你可以用扳手来松这个螺母."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "span",
+          "tran_cn": " 跨度，跨距；范围"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "span",
+          "tran_cn": " 跨越；持续；以手指测量"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "wrench",
+            "measurer"
+          ],
+          "tran_cn": "[机]扳手；螺丝扳手；测量器；用手掌量的人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "spanner in the works",
+      "tran_cn": "见 work"
+    },
+    {
+      "phrase": "torque spanner",
+      "tran_cn": "扭力扳手，力矩扳手"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "扳手，扳子，用指距测量的人",
+      "tran_en": "a metal tool that fits over a  nut  , used for turning the nut to make it tight or to undo it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "spanners"
+    ]
+  }
+}

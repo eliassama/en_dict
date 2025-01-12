@@ -1,0 +1,175 @@
+{
+  "word": "incoming",
+  "ipa": {
+    "us": "ˈɪnkʌmɪŋ",
+    "uk": "ˈɪnkʌmɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "After development, incoming light produces blackened silver granules in the layer.",
+      "cn": "显影后, 入射光就在表层产生了发黑的银粒子."
+    },
+    {
+      "en": "Despite this, twenty incoming flights were stacked up overhead.",
+      "cn": "虽然如此, 仍然有二十架已经飞进来的班机积压在上空."
+    },
+    {
+      "en": "Incoming calls were monitored.",
+      "cn": "来电受到监听。"
+    },
+    {
+      "en": "incoming flights",
+      "cn": "进港航班"
+    },
+    {
+      "en": "Incoming flights land on this side of the airport.",
+      "cn": "入境的飞机停在机场这一边."
+    },
+    {
+      "en": "Instead, most of the incoming energy reappears as the reflected wave.",
+      "cn": "相反, 大部分入射能量都重现为反射波."
+    },
+    {
+      "en": "Our fax machine differentiates between an incoming fax signal and a voice call.",
+      "cn": "我们的传真机能区分接收传真信号和语音信号."
+    },
+    {
+      "en": "Reject no incoming request, regardless of the impact they may have on service level agreements.",
+      "cn": "不拒绝任何传入的请求，不管它们会对服务水平协议产生什么影响。"
+    },
+    {
+      "en": "The airport was closed for incoming flights.",
+      "cn": "机场对进港航班关闭了。"
+    },
+    {
+      "en": "The ear has a set of filaments to vibrate in resonance with incoming sound-waves.",
+      "cn": "耳朵里有一组细丝能和进入的声波产生共振。"
+    },
+    {
+      "en": "the incoming tide",
+      "cn": "涨潮"
+    },
+    {
+      "en": "The officials there closed the airport and waved off all incoming flights to the nearby island.",
+      "cn": "那里的官员们关闭了机场,把所有进场的班机都打发到附近的岛上去."
+    },
+    {
+      "en": "The porter distributes incoming letters to the offices.",
+      "cn": "看门人向各个办公室分发来信."
+    },
+    {
+      "en": "The process of combining incoming messages into a single message.",
+      "cn": "将输入的多个报文合并成一条报文的过程."
+    },
+    {
+      "en": "These two pieces of incoming and outgoing mail alternately adorned his desk.",
+      "cn": "这一封来函,一封去信,轮流地在他桌上妆点着."
+    },
+    {
+      "en": "They claimed to have shot down one incoming missile.",
+      "cn": "他们声称击落了一枚来犯的导弹。"
+    },
+    {
+      "en": "This phone only takes incoming calls.",
+      "cn": "这部电话只接打进来的电话."
+    },
+    {
+      "en": "We bobbed gently up and down on the swell of the incoming tide.",
+      "cn": "我们随着涨潮的浪涌轻轻地起伏。"
+    },
+    {
+      "en": "When others check in their code, you will see it as incoming to your workspace.",
+      "cn": "当其他人核查他们的代码时，您将看到它像引入您的工作空间一样。"
+    },
+    {
+      "en": "With all these incoming calls, it was some time before Judith could ring out.",
+      "cn": "打进来的电话如此之多, 以致朱迪斯过了好一会儿才能往外打电话."
+    },
+    {
+      "en": "You can see how using this mechanism enables you to influence the behavior of the ESB, and how it handles incoming requests based on policy definitions you store in the registry.",
+      "cn": "您可以看到使用此机制如何使您能够影响 ESB 的行为，以及它如何基于您存储在注册中心的策略定义对传入请求进行处理。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "incident",
+            "proliferative"
+          ],
+          "tran_cn": "[计]引入的，入射的；增殖的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "coming",
+            "proceeds",
+            "receipt",
+            "earning"
+          ],
+          "tran_cn": "进来；来到；收入"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "in"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "incoming call",
+      "tran_cn": "来电；呼入"
+    },
+    {
+      "phrase": "incoming data",
+      "tran_cn": "输入数据，引入数据"
+    },
+    {
+      "phrase": "incoming flow",
+      "tran_cn": "来流"
+    },
+    {
+      "phrase": "incoming inspection",
+      "tran_cn": "质量检验；进货检查；受入检查"
+    },
+    {
+      "phrase": "Incoming mail server",
+      "tran_cn": "接收邮件服务器"
+    },
+    {
+      "phrase": "incoming message",
+      "tran_cn": "收文；进入讯息；输入报文"
+    },
+    {
+      "phrase": "incoming quality control",
+      "tran_cn": "进料品质管制人员（略作IQC）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "进来的，回来的，即将就任的，增殖的，（居民等）移来的",
+      "tran_en": "arriving at or coming to a place"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "进入；到来；常作 incomings 收入，收益"
+    }
+  ],
+  "exchange": {}
+}

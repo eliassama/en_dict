@@ -1,0 +1,195 @@
+{
+  "word": "trivial",
+  "ipa": {
+    "us": "ˈtrɪviəl",
+    "uk": "ˈtrɪviəl"
+  },
+  "sentences": [
+    {
+      "en": "a trivial detail",
+      "cn": "细枝末节"
+    },
+    {
+      "en": "A trivial misunderstanding caused a breach between them.",
+      "cn": "小小的误会引起了他们之间的不和."
+    },
+    {
+      "en": "a trivial sum",
+      "cn": "一笔极小的金额"
+    },
+    {
+      "en": "At first, the incident seemed to be trivial.",
+      "cn": "起初, 这一事件似乎并不重要.平常的,普通的"
+    },
+    {
+      "en": "Be patient. Don't lose your temper over trivial matters.",
+      "cn": "忍着点, 别为了一点小事发火."
+    },
+    {
+      "en": "Don't get impatient about trivial thing like that.",
+      "cn": "不要为那种琐事烦躁."
+    },
+    {
+      "en": "He often dissipated his energies in trivial matters.",
+      "cn": "他常在无关紧要的小事上浪费精力."
+    },
+    {
+      "en": "Her feelings for Simon seemed trivial by comparison .",
+      "cn": "相比之下，她对西蒙的感情就显得微不足道了。"
+    },
+    {
+      "en": "His mood can be gauged by his reaction to the most trivial of incidents.",
+      "cn": "从他对鸡毛蒜皮的小事的反应就可以判断出他的情绪。"
+    },
+    {
+      "en": "I had been lulled into thinking the publicity would be a trivial matter.",
+      "cn": "我错误地相信了媒体的报道只是小事一桩。"
+    },
+    {
+      "en": "I know it sounds trivial , but I'm worried about it.",
+      "cn": "我知道这事听起来微不足道，但我还是放心不下。"
+    },
+    {
+      "en": "It's useless to fire away with such trivial details.",
+      "cn": "喋喋不休地谈这些琐碎细节是无用的."
+    },
+    {
+      "en": "She works herself up about the most trivial things.",
+      "cn": "她为了最琐碎的事也会使自己激动起来."
+    },
+    {
+      "en": "The director tried to wave aside these issues as trivial details that could be settled later.",
+      "cn": "主管试图对这些问题置之不理，认为都是些细枝末节的小事，可以稍后解决。"
+    },
+    {
+      "en": "There are a few trivial slips in this lesson.",
+      "cn": "在这篇课文中有几个小错误."
+    },
+    {
+      "en": "This may sound trivial, but I assure you it is quite important!",
+      "cn": "这听上去也许微不足道，但是，相信我，它十分重要！"
+    },
+    {
+      "en": "Trivial formalities have been done away with.",
+      "cn": "繁琐礼节都取消了."
+    },
+    {
+      "en": "We haven't had time. We've been too busy with trivial matters!",
+      "cn": "我们尽忙着鸡毛蒜皮的事,还没顾上呢!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "trivially",
+          "tran_cn": " 琐细地；平凡地；无能地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "triviality",
+          "tran_cn": " 浅薄，轻浮；琐事；平凡"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "trivialize",
+          "tran_cn": " 使平凡；使琐碎"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "foolish",
+            "frivolous",
+            "inane",
+            "light",
+            "little",
+            "mean",
+            "paltry",
+            "petty",
+            "puny",
+            "shallow",
+            "silly",
+            "slight",
+            "small",
+            "superficial",
+            "trifling",
+            "unimportant",
+            "worthless"
+          ],
+          "tran_cn": "琐细的;不重要的;浅薄的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "commonplace",
+            "foolish",
+            "frivolous",
+            "fussy",
+            "inane",
+            "insignificant",
+            "light",
+            "null",
+            "paltry",
+            "petty",
+            "puny",
+            "shallow",
+            "silly",
+            "slight",
+            "superficial",
+            "trifling",
+            "unimportant",
+            "worthless"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "trivial matters",
+      "tran_cn": "无关重要的事情（trivial matter的复数形式）"
+    },
+    {
+      "phrase": "Trivial Pursuit",
+      "tran_cn": "打破砂锅问到底(一种问答游戏) "
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "琐碎的，无价值的，平常的，平凡的，不重要的，[生]种的",
+      "tran_en": "not serious, important, or valuable"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "more trivial"
+    ],
+    "est": [
+      "most trivial"
+    ],
+    "adv": [
+      "trivially"
+    ]
+  }
+}

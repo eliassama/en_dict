@@ -1,0 +1,164 @@
+{
+  "word": "contingency",
+  "ipa": {
+    "us": "kənˈtɪndʒənsi",
+    "uk": "kənˈtɪndʒənsi"
+  },
+  "sentences": [
+    {
+      "en": "A business may use several headhunters if compensation is on contingency basis.",
+      "cn": "如果以酬金形式付酬,则该企业可能会同时与好几家猎头公司联系."
+    },
+    {
+      "en": "a contingency plan",
+      "cn": "应变计划"
+    },
+    {
+      "en": "A contingency table is made up of rows and columns.",
+      "cn": "列联表是由横行和纵栏构成的."
+    },
+    {
+      "en": "A fire in our warehouse was a contingency that we had not expected.",
+      "cn": "库房的一场大火是我们始料未及的."
+    },
+    {
+      "en": "Add up your outgoings, putting on a bit more for contingencies.",
+      "cn": "把你的经常性开支加起来，再增加些钱用于意外开支。"
+    },
+    {
+      "en": "Be prepared for any contingency.",
+      "cn": "为应付可能发生的不测事件作好准备."
+    },
+    {
+      "en": "Could you conceive such a contingency?",
+      "cn": "你能想象这样一种偶然的事情 吗 ?"
+    },
+    {
+      "en": "Do we have a contingency plan if we run out of tylium?",
+      "cn": "如果钛灵耗尽,我们是否有紧急情况预案?"
+    },
+    {
+      "en": "For his part, Kennedy was sure that we had enough for nearly any conceivable contingency.",
+      "cn": "在肯尼迪看来, 他深信我们已经拥有足够的力量去应付几乎任何可以设想得到的意外事故."
+    },
+    {
+      "en": "I need to examine all possible contingencies.",
+      "cn": "我得查看所有可能发生的事。"
+    },
+    {
+      "en": "Perhaps the contingency approach emphasizes some elements that are worth special note.",
+      "cn": "或许权变学派强调的某些观点值得特别注意."
+    },
+    {
+      "en": "The despatch of the task force is purely a contingency measure.",
+      "cn": "派出特遣部队纯粹是应急之举。"
+    },
+    {
+      "en": "The immediate contingency overtook him, pulled him back from the edge of the theoretical abyss.",
+      "cn": "当务之急追上了他, 把他从理论深渊的边缘拉了回来."
+    },
+    {
+      "en": "They become obsessed with trying to equip their vehicles with gadgets to deal with every possible contingency.",
+      "cn": "他们变得痴迷于给自己的车辆装备小配件，以应付可能出现的各种紧急情况。"
+    },
+    {
+      "en": "This one looked as if he could handle any contingency himself.",
+      "cn": "这个人看上去象是个能自卫的人."
+    },
+    {
+      "en": "We have contingency plans.",
+      "cn": "我们有应急方案。"
+    },
+    {
+      "en": "We must always be prepared for every contingency.",
+      "cn": "我们必须始终做应急准备."
+    },
+    {
+      "en": "We should be prepared for any contingency.",
+      "cn": "我们应该对任何应急情况有所准备."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "contingent",
+          "tran_cn": " 因情况而异的；不一定的；偶然发生的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "contingence",
+          "tran_cn": " 接触；相切；偶然性（等于contingency）；意外事件；可能发生的附带事件"
+        },
+        {
+          "word": "contingent",
+          "tran_cn": " 分遣队；偶然事件；分得部分"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "possibility",
+            "probability",
+            "feasibility",
+            "potential",
+            "chance"
+          ],
+          "tran_cn": "偶然性；[安全]意外事故；可能性；[审计]意外开支"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contingent",
+            "dependence"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "contingency plan",
+      "tran_cn": "应急计划，意外事件计划"
+    },
+    {
+      "phrase": "contingency planning",
+      "tran_cn": "应急计划"
+    },
+    {
+      "phrase": "contingency table",
+      "tran_cn": "列联表；相依表"
+    },
+    {
+      "phrase": "contingency theory",
+      "tran_cn": "权变理论"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "意外事故，偶发事件，可能性，偶然性，[审计]意外开支",
+      "tran_en": "A contingency is something that might happen in the future"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "contingencies"
+    ]
+  }
+}

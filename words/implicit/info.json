@@ -1,0 +1,174 @@
+{
+  "word": "implicit",
+  "ipa": {
+    "us": "ɪmˈplɪsɪt",
+    "uk": "ɪmˈplɪsɪt"
+  },
+  "sentences": [
+    {
+      "en": "...an implicit warning to the Moroccans not to continue or repeat the military actions they began a week ago.",
+      "cn": "…叫摩洛哥人不要继续或重复一周前开始的军事行动的含蓄警告。"
+    },
+    {
+      "en": "A complete analysis must build on the implicit function theorem.",
+      "cn": "完整的分析必须建立在隐函数定理的基础上."
+    },
+    {
+      "en": "A soldier must give implicit obedience to his officers.",
+      "cn": "士兵必须绝对服从他的长官."
+    },
+    {
+      "en": "An implicIt'scheme is much more efficient.",
+      "cn": "隐式格式是一种很有效的格式."
+    },
+    {
+      "en": "Behind this explicit resolution there lay an implicit one.",
+      "cn": "这个明的决定背后还有个暗的决定."
+    },
+    {
+      "en": "Branagh says that it was his intention to make explicit in the film what was only implicit in the play.",
+      "cn": "布莱纳说他的用意是将剧本中的隐晦含意在电影中清晰明白地表现出来。"
+    },
+    {
+      "en": "Cawperwood had implicit faith in the future of the street railway.",
+      "cn": "柯帕乌对于市内铁路的前途抱有绝对的信心."
+    },
+    {
+      "en": "He had implicit faith in the noble intentions of the Emperor.",
+      "cn": "他对皇帝陛下高尚的动机深信不疑。"
+    },
+    {
+      "en": "Her silence gave implicit consent.",
+      "cn": "她的沉默表示默许."
+    },
+    {
+      "en": "Implicit in his speech was the assumption that they were guilty.",
+      "cn": "他话语中的言外之意是设定他们有罪。"
+    },
+    {
+      "en": "It is implicit in our agreement that she will be a partner.",
+      "cn": "我们的协议中含有她将成为合伙人这一意思."
+    },
+    {
+      "en": "Shear force is implicit in the development of bending moments.",
+      "cn": "杆中的剪力在弯矩的推导中是不明显的."
+    },
+    {
+      "en": "The crew had implicit faith in the captain's judgment.",
+      "cn": "全体船员都绝对相信船长的判断."
+    },
+    {
+      "en": "The oak is implicit in the acorn.",
+      "cn": "橡树孕育于橡子之中."
+    },
+    {
+      "en": "The strongly implicit method may be described heuristically in the following manner.",
+      "cn": "强隐含法可按下列方式启发性地描述."
+    },
+    {
+      "en": "Try and learn from the lessons implicit in the failure of your marriage.",
+      "cn": "要努力从失败婚姻中吸取教训。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "implicative",
+          "tran_cn": " 含蓄的；连带的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "implicitly",
+          "tran_cn": " 含蓄地；暗中地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "implicate",
+          "tran_cn": " 包含的东西"
+        },
+        {
+          "word": "implication",
+          "tran_cn": " 含义；暗示；牵连，卷入"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "implicate",
+          "tran_cn": " 暗示；使牵连其中；含有…的意思"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "suggested",
+            "undemonstrative"
+          ],
+          "tran_cn": "[计]含蓄的；暗示的；盲从的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "connotation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "implicit contract",
+      "tran_cn": "默认契约；隐性合约"
+    },
+    {
+      "phrase": "implicit function",
+      "tran_cn": "隐函数；隐含函数"
+    },
+    {
+      "phrase": "implicit knowledge",
+      "tran_cn": "隐性知识；内隐知识"
+    },
+    {
+      "phrase": "implicit memory",
+      "tran_cn": "内隐记忆"
+    },
+    {
+      "phrase": "implicit scheme",
+      "tran_cn": "隐格式"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不言明[含蓄]的，无疑问的，绝对的，成为一部份的，内含的",
+      "tran_en": "suggested or understood without being stated directly"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "implicitly"
+    ]
+  }
+}

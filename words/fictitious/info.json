@@ -1,0 +1,195 @@
+{
+  "word": "fictitious",
+  "ipa": {
+    "us": "fɪkˈtɪʃəs",
+    "uk": "fɪkˈtɪʃəs"
+  },
+  "sentences": [
+    {
+      "en": "a fictitious address",
+      "cn": "杜撰的地址"
+    },
+    {
+      "en": "All the places and characters in my novel are entirely fictitious.",
+      "cn": "我这篇小说中所有的地点和人物都是虚构的."
+    },
+    {
+      "en": "fictitious characters",
+      "cn": "虚构的人物"
+    },
+    {
+      "en": "His account of the bank robbery was completely fictitious.",
+      "cn": "他叙述的抢劫银行事件完全是虚假的."
+    },
+    {
+      "en": "His account of the incident was totally fictitious.",
+      "cn": "他对这一事故的描述完全是虚构的."
+    },
+    {
+      "en": "His story is wholly fictitious.",
+      "cn": "他的故事全是编造的."
+    },
+    {
+      "en": "Legends grew up around a great many figures, both real and fictitious.",
+      "cn": "围绕着许多人物都有传说流传开，有真实的也有虚构的。"
+    },
+    {
+      "en": "On stage, the actor adopts a fictitious persona.",
+      "cn": "舞台上, 演员扮演虛构的人物."
+    },
+    {
+      "en": "She was sure his equanimity was fictitious.",
+      "cn": "她确信他的镇定是佯装的."
+    },
+    {
+      "en": "The account he gives of his childhood is quite fictitious.",
+      "cn": "他把童年往事说得很假."
+    },
+    {
+      "en": "The characters in this story are all fictitious.",
+      "cn": "这个故事里的人物都是假想的."
+    },
+    {
+      "en": "The persons and events portrayed in this production are fictitious.",
+      "cn": "这部作品中描述的人物和事件均属虚构。"
+    },
+    {
+      "en": "The story my mother told me when I was young is fictitious.",
+      "cn": "小时候妈妈对我讲的那个故事是虚构的."
+    },
+    {
+      "en": "They bought the materials under fictitious names.",
+      "cn": "他们用假名买下了那些材料."
+    },
+    {
+      "en": "This is a fictitious story.",
+      "cn": "这个故事是虚拟的."
+    },
+    {
+      "en": "Unlikely and fantastic legends grew up around a great many figures, both real and fictitious.",
+      "cn": "围绕着许许多多或真实或虚构的人物，产生了一些不可思议、荒诞离奇的传说。"
+    },
+    {
+      "en": "We're interested in the source of these fictitious rumours.",
+      "cn": "我们对这些子虚乌有的谣言从何而来很感兴趣。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fictional",
+          "tran_cn": " 虚构的；小说的"
+        },
+        {
+          "word": "fictive",
+          "tran_cn": " 虚构的；想象上的；虚伪的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "fictitiously",
+          "tran_cn": " 虚构地；假地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fiction",
+          "tran_cn": " 小说；虚构，编造；谎言"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "concocted",
+            "fabricated",
+            "fanciful",
+            "fantastic",
+            "feigned",
+            "fictional",
+            "fictive",
+            "figmentary",
+            "imaginary",
+            "invented",
+            "made-up",
+            "make-believe",
+            "manufactured",
+            "mythical",
+            "trumped-up",
+            "unreal",
+            "untrue"
+          ],
+          "tran_cn": "伪装的"
+        },
+        {
+          "words": [
+            "affected",
+            "artificial",
+            "assumed",
+            "bogus",
+            "counterfeit",
+            "fake",
+            "faked",
+            "false",
+            "feigned",
+            "insincere",
+            "phony",
+            "pretended",
+            "pseudo",
+            "put-on",
+            "sham",
+            "simulated",
+            "spurious",
+            "supposititious",
+            "synthetic",
+            "unauthentic"
+          ],
+          "tran_cn": "假的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "fabled",
+            "fallacious",
+            "romantic"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fictitious capital",
+      "tran_cn": "虚拟资本；虚构资本"
+    },
+    {
+      "phrase": "fictitious force",
+      "tran_cn": "假力；虚拟力；表观力"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "虚构的，编造的，假定的，虚设的，小说式的，假装的",
+      "tran_en": "not true, or not real"
+    }
+  ],
+  "exchange": {}
+}

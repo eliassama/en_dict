@@ -1,0 +1,120 @@
+{
+  "word": "mismatch",
+  "ipa": {
+    "us": "ˈmɪsmætʃ",
+    "uk": "mɪsˈmætʃ"
+  },
+  "sentences": [
+    {
+      "en": "A long stub causes a significant impedance mismatch and thus reflections.",
+      "cn": "长引出线会引起不可忽视的阻抗失配和反射."
+    },
+    {
+      "en": "a mismatch between people's real needs and the available facilities",
+      "cn": "人民的切实需要和现有设施之间的不协调"
+    },
+    {
+      "en": "Are you discarding recent changes that led to the mismatch?",
+      "cn": "还是放弃导致不匹配产生的最新改变?"
+    },
+    {
+      "en": "Attack flows are identified if they mismatch the normal flow models.",
+      "cn": "如果不能匹配正常流模型,就会被确定为攻击流."
+    },
+    {
+      "en": "China is such a country been exposed to currency mismatch risks.",
+      "cn": "中国目前也存在着较大程度的货币错配问题."
+    },
+    {
+      "en": "ERROR: Could not retreive information due to version mismatch.",
+      "cn": "错误: 由于版本不匹配,无法检索信息."
+    },
+    {
+      "en": "Mismatch between maintained byte array and pinned byte array.",
+      "cn": "维护的字节数组与固定的字节数组之间不匹配."
+    },
+    {
+      "en": "MISMATCH: A discontinuity caused by incorrect mating of tool components.",
+      "cn": "错配: 由错误搭配零件引起的中断."
+    },
+    {
+      "en": "On dynamic flight simulator, mismatch impacts mostly effect of simulation.",
+      "cn": "动态飞行仿真中错配主要影响仿真效果."
+    },
+    {
+      "en": "One big reason is the mismatch between human and animal diets.",
+      "cn": "最主要的原因就是人食用的粮食与动物饲料并不相同."
+    },
+    {
+      "en": "Relation { 0 } cannot be merged, because keys have mismatch columns.",
+      "cn": "键具有不匹配的列,因此不能合并关系{0}."
+    },
+    {
+      "en": "Stack pointer corruption can be caused by a calling convention mismatch.",
+      "cn": "堆叠指标损毁可能由于呼叫惯例不符合造成."
+    },
+    {
+      "en": "The different definitions of lattice mismatch are compared with each other.",
+      "cn": "摘要比较了晶格失配度的各种定义,建议统一使用同一定义."
+    },
+    {
+      "en": "There is a mismatch between the skills offered by people and the skills needed by industry.",
+      "cn": "行业需要的技术与人们可以提供的技能并不匹配。"
+    },
+    {
+      "en": "This mismatch in coefficient is certain to result in instability of the center of gravity.",
+      "cn": "膨胀系数不相配必须会引起重心不稳定."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mismate",
+          "tran_cn": " 使配合不当，使配合拙劣"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mispairing",
+            "incongruity"
+          ],
+          "tran_cn": "错配；不协调"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "impedance mismatch",
+      "tran_cn": "阻抗失配"
+    },
+    {
+      "phrase": "mismatch repair",
+      "tran_cn": "错配修复；失配校正"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "错配，失谐"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "配错, 不相匹配",
+      "tran_en": "a combination of things or people that do not work well together or are not suitable for each other"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "mismatches"
+    ]
+  }
+}

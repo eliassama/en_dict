@@ -1,0 +1,213 @@
+{
+  "word": "successive",
+  "ipa": {
+    "us": "səkˈsesɪv",
+    "uk": "səkˈsesɪv"
+  },
+  "sentences": [
+    {
+      "en": "Calamity occurs in successive years.",
+      "cn": "灾祸连年."
+    },
+    {
+      "en": "Georgos was assigned to successive sets of foster - parents.",
+      "cn": "乔戈斯先后被托付给几对养父母抚养."
+    },
+    {
+      "en": "He won three successive matches.",
+      "cn": "他连胜三场比赛."
+    },
+    {
+      "en": "In successive steps, a high - energy electron creates a shower.",
+      "cn": "在级联的情况下, 高能 电子可以引起簇射."
+    },
+    {
+      "en": "In Tokyo share prices have plummeted for the sixth successive day.",
+      "cn": "东京股价已连续第6天猛跌。"
+    },
+    {
+      "en": "It rained ( for ) three successive days.",
+      "cn": "连续下了三天的雨."
+    },
+    {
+      "en": "Next read only the first sentence of each successive paragraph.",
+      "cn": "继而读下面的每一段落的首句."
+    },
+    {
+      "en": "Subsistence has been increased and perfected by a series of successive arts.",
+      "cn": "生活资料是由一系列顺序相承的技术使之增加并臻于完美的."
+    },
+    {
+      "en": "Successive governments have tried to deal with this issue.",
+      "cn": "历届政府都试图解决这个问题。"
+    },
+    {
+      "en": "Successive improvements and modification led to modern models of high capacity.",
+      "cn": "经过不断地改进和完善导致高生产能力的新型装置."
+    },
+    {
+      "en": "Successive transmissions of the same message are decreasingly accurate.",
+      "cn": "连续地传递同样的讯息,其精确性会逐渐降低."
+    },
+    {
+      "en": "Successive wave fronts in this case form a series of concentric spheres.",
+      "cn": "相继波前形成了一系列的同心球面."
+    },
+    {
+      "en": "The marksman squeezed off successive rounds and every one told.",
+      "cn": "射击运动员连扣板机,弹无虚发."
+    },
+    {
+      "en": "The rule of combination of symmetry operations is successive performance of them.",
+      "cn": "对称操作的组合规则,是逐次地去运用它们."
+    },
+    {
+      "en": "The successive approximation converter is of medium speed, and average resolution.",
+      "cn": "逐次逼近式转换器具有中等的速度和分辨率."
+    },
+    {
+      "en": "The successive coils are wound in alternate directions.",
+      "cn": "相邻的线圈是按交替的方向绕制的."
+    },
+    {
+      "en": "The team has had five successive victories.",
+      "cn": "这支球队已经连胜五场了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "successively",
+          "tran_cn": " 相继地；接连着地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "succession",
+          "tran_cn": " 连续；继位；继承权；轮栽"
+        },
+        {
+          "word": "successiveness",
+          "tran_cn": " 相继"
+        },
+        {
+          "word": "successor",
+          "tran_cn": " 继承者；后续的事物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "succeed",
+          "tran_cn": " 成功；继承；继任；兴旺"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "succeed",
+          "tran_cn": " 继承；接替；继…之后"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "adjacent",
+            "attached",
+            "bordering",
+            "closest",
+            "ensuing",
+            "following",
+            "immediate",
+            "neighbouring",
+            "next",
+            "next-door",
+            "sequent",
+            "sequential",
+            "subsequent",
+            "succeeding"
+          ],
+          "tran_cn": "后面的,相邻的,最近的"
+        },
+        {
+          "words": [
+            "a",
+            "after",
+            "break",
+            "consecutive",
+            "consequent",
+            "continuous",
+            "direct",
+            "in",
+            "line",
+            "non-stop",
+            "one",
+            "order",
+            "orderly",
+            "ordinal",
+            "other",
+            "regular",
+            "row",
+            "sequence",
+            "serial",
+            "seriary",
+            "seriate",
+            "series",
+            "the",
+            "unbroken",
+            "uninterrupted",
+            "without"
+          ],
+          "tran_cn": "连续的,系列的,持续的,顺序的,直线的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "later"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "successive approximation",
+      "tran_cn": "连续的近似值；连续的学习步骤；逐次近似计算法"
+    },
+    {
+      "phrase": "successive elimination",
+      "tran_cn": "逐次消元"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "连续的，相继的，继承的，接替的，逐次",
+      "tran_en": "coming or following one after the other"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "successively"
+    ]
+  }
+}

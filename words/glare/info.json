@@ -1,0 +1,189 @@
+{
+  "word": "glare",
+  "ipa": {
+    "us": "ɡleə(r)",
+    "uk": "ɡler"
+  },
+  "sentences": [
+    {
+      "en": "a special screen to reduce glare",
+      "cn": "一种可以减弱刺眼强光的特殊屏幕"
+    },
+    {
+      "en": "A sudden glare of headlights lit the driveway.",
+      "cn": "突然一辆汽车的头灯照亮了车道."
+    },
+    {
+      "en": "Ah Q would rise to the bait as usual, and glare furiously.",
+      "cn": "阿Q照例地发了怒, 他怒目而视了."
+    },
+    {
+      "en": "Dark glasses are an effective shield against the glare.",
+      "cn": "墨镜能有效地遮挡强光."
+    },
+    {
+      "en": "Don't glare at me like that, you deserved the scolding.",
+      "cn": "不要那么瞪着我, 你本该受到训斥的."
+    },
+    {
+      "en": "He turned his baleful glare on the cowering suspect.",
+      "cn": "他恶毒地盯着那个蜷缩成一团的嫌疑犯."
+    },
+    {
+      "en": "Norma is said to dislike the glare of publicity.",
+      "cn": "据说诺尔玛不喜欢被人过多关注。"
+    },
+    {
+      "en": "She attacked police in the full glare of TV cameras.",
+      "cn": "她在电视摄像机的镜头聚焦下公然袭击了警察。"
+    },
+    {
+      "en": "She fixed her questioner with an icy glare.",
+      "cn": "她冷冷地盯着审问者."
+    },
+    {
+      "en": "She gave him a hostile glare.",
+      "cn": "她狠狠地瞪了他一眼。"
+    },
+    {
+      "en": "She glared at him accusingly.",
+      "cn": "她用责备的目光瞪着他。"
+    },
+    {
+      "en": "She looked at him with an angry glare.",
+      "cn": "她生气地瞪着他."
+    },
+    {
+      "en": "The glare from the fire lit up the sky.",
+      "cn": "火光照亮了天空."
+    },
+    {
+      "en": "The glare of lights pained one's eyes with their brightness.",
+      "cn": "火光夺目."
+    },
+    {
+      "en": "The glare of the headlights almost blinded us.",
+      "cn": "汽车前灯耀眼的光使我们睁不开眼."
+    },
+    {
+      "en": "The mistakes in this report really glare at you.",
+      "cn": "这份报告中的错误真是太明显了."
+    },
+    {
+      "en": "The old woman glared at him.",
+      "cn": "那个老妇人怒视着他。"
+    },
+    {
+      "en": "The sun glared down on us.",
+      "cn": "刺眼的阳光照在我们身上。"
+    },
+    {
+      "en": "They were in the full glare of publicity.",
+      "cn": "他们大肆炫耀."
+    },
+    {
+      "en": "Under the glare of the street lamps, visibility was good.",
+      "cn": "在街灯的照射下, 可以看得很清楚."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "glaring",
+          "tran_cn": " 耀眼的；瞪视的；炯炯的"
+        },
+        {
+          "word": "glary",
+          "tran_cn": " 闪耀的；光辉的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "glaringly",
+          "tran_cn": " 耀目地；显目地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dazzle"
+          ],
+          "tran_cn": "刺眼；[光]耀眼的光；受公众注目"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blind",
+            "burn",
+            "dazzle",
+            "flare",
+            "flash",
+            "glaze",
+            "glow",
+            "glower",
+            "scowl",
+            "shine",
+            "stare"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "glare at",
+      "tran_cn": "怒视"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "怒视，强光，密切关注",
+      "tran_en": "a bright unpleasant light which hurts your eyes"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "眩目地照射，闪耀，瞪视",
+      "tran_en": "to look angrily at someone for a long time"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "瞪眼，怒视，发出强光",
+      "tran_en": "to shine with a very strong bright light which hurts your eyes"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "怒视，瞪",
+      "tran_en": "to look angrily at someone for a long time"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "glares"
+    ],
+    "past": [
+      "glared"
+    ],
+    "done": [
+      "glared"
+    ],
+    "ing": [
+      "glaring"
+    ]
+  }
+}

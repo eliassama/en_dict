@@ -1,0 +1,208 @@
+{
+  "word": "trying",
+  "ipa": {
+    "us": "ˈtraɪɪŋ",
+    "uk": "ˈtraɪɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Dr. Johnson and I have been trying to build him up physically.",
+      "cn": "约翰逊医生和我一直试图增强他的体质。"
+    },
+    {
+      "en": "He was found desperately trying to untangle several reels of film.",
+      "cn": "他被撞见拼命想要解开几盘缠在一起的胶卷。"
+    },
+    {
+      "en": "I got a message you were trying to reach me.",
+      "cn": "我收到一条留言，说你想跟我联系。"
+    },
+    {
+      "en": "I'm a practicing physician trying to help people here and now.",
+      "cn": "我是一名此时此刻只想治病救人的执业医师。"
+    },
+    {
+      "en": "I'm trying to move on and stretch myself with something different.",
+      "cn": "我正想换工作，想尝试点不一样的事情来挑战一下自己。"
+    },
+    {
+      "en": "Sheila had an ulterior motive for trying to help Stan.",
+      "cn": "希拉想帮助斯坦是另有所图的。"
+    },
+    {
+      "en": "Stewart was trying to clear a path for the stretcher.",
+      "cn": "斯图尔特在努力给担架开路。"
+    },
+    {
+      "en": "That child is very trying.",
+      "cn": "那个孩子非常难缠。"
+    },
+    {
+      "en": "The barriers are lethal to fish trying to swim upstream.",
+      "cn": "这些障碍物对于想要往上游游动的鱼儿来说是致命的。"
+    },
+    {
+      "en": "The beginning of the show is often a trying time because of latecomers.",
+      "cn": "演出刚开始常常是最难熬的时期，因为总会有人迟到。"
+    },
+    {
+      "en": "The big factories are trying to stay alive by cutting costs.",
+      "cn": "大型工厂正试图通过削减成本以维持生存。"
+    },
+    {
+      "en": "The shark was writhing around wildly, trying to get free.",
+      "cn": "鲨鱼拼命挣扎，试图逃脱。"
+    },
+    {
+      "en": "They are now trying to compete on an equal footing.",
+      "cn": "他们现在想要公平竞争。"
+    },
+    {
+      "en": "They do the best they can in trying circumstances .",
+      "cn": "他们在艰难的环境下尽自己最大的努力。"
+    },
+    {
+      "en": "They're trying their best to bring together those separated families.",
+      "cn": "他们正尽最大的努力让离散的家人重聚。"
+    },
+    {
+      "en": "We're trying to establish linkages between these groups and financial institutions.",
+      "cn": "我们正努力在这些团体和金融机构之间建立联系。"
+    },
+    {
+      "en": "Well, parenthetically, I was trying to quit smoking at the time.",
+      "cn": "嗯，插一句，我那时正在努力戒烟。"
+    },
+    {
+      "en": "Yasin had seriously hurt himself while trying to escape from the police.",
+      "cn": "亚辛试图从警察手中逃脱时受了重伤。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "trial",
+          "tran_cn": " 试验的；审讯的"
+        },
+        {
+          "word": "tried",
+          "tran_cn": " 可靠的；试验过的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "trial",
+          "tran_cn": " 试验；审讯；努力；磨炼"
+        },
+        {
+          "word": "try",
+          "tran_cn": " 尝试；努力；试验"
+        },
+        {
+          "word": "tryout",
+          "tran_cn": " 试验；选拔赛；预赛"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "tried",
+          "tran_cn": " 尝试（try的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "try",
+          "tran_cn": " 尝试；努力；试验"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "try",
+          "tran_cn": " 试图，努力；试验；审判；考验"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "annoying",
+            "bothersome",
+            "burdensome",
+            "difficult",
+            "distressing",
+            "troublesome"
+          ],
+          "tran_cn": "费力的;恼人的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "annoying",
+            "bothersome",
+            "burdensome",
+            "difficult",
+            "distressing",
+            "exacting",
+            "irksome",
+            "painful",
+            "tiresome",
+            "troublesome",
+            "wretched"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "experimenting"
+          ],
+          "tran_cn": "尝试（try的ing形式）；试验"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "keep trying",
+      "tran_cn": "继续努力；不断尝试"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "令人难于忍受的，难堪的，令人厌烦的",
+      "tran_en": "annoying or difficult in a way that makes you feel worried, tired etc"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "试图( try的现在分词)，试验，尝试，审讯"
+    }
+  ],
+  "exchange": {}
+}

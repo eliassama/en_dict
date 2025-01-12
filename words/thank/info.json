@@ -1,0 +1,302 @@
+{
+  "word": "thank",
+  "ipa": {
+    "us": "θæŋk",
+    "uk": "θæŋk"
+  },
+  "sentences": [
+    {
+      "en": "\"His eyes were glassy?\"— 'And dilated. They were watery.' — 'Thank you.'",
+      "cn": "“他的眼神呆滞？”——“还双眼圆睁，泪汪汪的。”——“谢谢！”"
+    },
+    {
+      "en": "\"I'll see you onto the train.\" — \"Thank you.\"",
+      "cn": "“我送你上火车。”——“谢谢。”"
+    },
+    {
+      "en": "\"Thank you doctor,\" said the nurse with a simper.",
+      "cn": "“谢谢你，医生，”护士傻笑着说。"
+    },
+    {
+      "en": "\"Thank you for the wonderful dinner.\" — \"It's nothing,\" Sarah said.",
+      "cn": "“谢谢你招待了这么美味的晚餐。”——“这没什么，”萨拉说。"
+    },
+    {
+      "en": "\"Thank you very much for speaking with us.\" — \"Not at all.\"",
+      "cn": "“非常感谢您能和我们交谈。”——“不客气。”"
+    },
+    {
+      "en": "Dear Madam, Thank you for your interest in our Memorial Scheme.",
+      "cn": "尊敬的女士，感谢您对我们的纪念方案的关注。"
+    },
+    {
+      "en": "For all this I have only you to thank.",
+      "cn": "这一切我都得感谢你才是。"
+    },
+    {
+      "en": "I consider it my duty to write to you and thank you.",
+      "cn": "我认为写信向你表达谢意是我的责任。"
+    },
+    {
+      "en": "I haven’t had a chance to thank him yet.",
+      "cn": "我还没有机会向他表示谢意。"
+    },
+    {
+      "en": "I'll thank you not to interrupt me again.",
+      "cn": "请你别再打断我。"
+    },
+    {
+      "en": "Thank God they're not on my manor any more.",
+      "cn": "谢天谢地，他们再也不在我的辖区里了。"
+    },
+    {
+      "en": "thank goodness no one was badly injured.",
+      "cn": "谢天谢地，没人受重伤。"
+    },
+    {
+      "en": "Thank you very much indeed, Doctor, I am extremely obliged to you.",
+      "cn": "大夫，太感谢您了，您真是我的大恩人。"
+    },
+    {
+      "en": "The policeman smiled at her. \"Pretty dog.\"— \"Oh well, thank you.\"",
+      "cn": "警察冲她笑了笑，“这狗真漂亮。”——“哦，谢谢。”"
+    },
+    {
+      "en": "They accepted their certificates with words of thanks.",
+      "cn": "他们接过证书，同时表示了谢意。"
+    },
+    {
+      "en": "They accepted their certificates with words of thanks.",
+      "cn": "他们接过证书，同时表示了谢意。"
+    },
+    {
+      "en": "We have lost everything, but thank God, our lives have been spared.",
+      "cn": "我们已经失去了一切，不过谢天谢地，总算是保住了性命。"
+    },
+    {
+      "en": "We know where we can get it, thank you very much.",
+      "cn": "我们知道在哪儿能买到，谢谢。"
+    },
+    {
+      "en": "We would like to thank them for their patience and understanding.",
+      "cn": "我们要感谢他们的耐心和理解。"
+    },
+    {
+      "en": "Well, at any rate, let me thank you for all you did.",
+      "cn": "好吧，不管怎样，还是要感谢你所做的一切。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "thankful",
+          "tran_cn": " 感谢的；欣慰的"
+        },
+        {
+          "word": "thankless",
+          "tran_cn": " 不感谢的；忘恩的；不领情的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "thankfully",
+          "tran_cn": " 感谢地；感激地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "thankfulness",
+          "tran_cn": " 感激"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "int",
+      "words": [
+        {
+          "words": [
+            "merci",
+            "danke",
+            "arigato"
+          ],
+          "tran_cn": "谢谢"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "a",
+            "as",
+            "because",
+            "by",
+            "due",
+            "of",
+            "owing",
+            "reason",
+            "result",
+            "since",
+            "thanks",
+            "through",
+            "to"
+          ],
+          "tran_cn": "因为,由于"
+        },
+        {
+          "words": [
+            "benediction",
+            "cognizance",
+            "credit",
+            "grace",
+            "paean",
+            "recognition",
+            "recompense",
+            "requital",
+            "reward",
+            "thanksgiving",
+            "tip"
+          ],
+          "tran_cn": "感谢,感恩,赞美,报答"
+        },
+        {
+          "words": [
+            "appreciated",
+            "many",
+            "much",
+            "obliged",
+            "thanks"
+          ],
+          "tran_cn": "非常感谢"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "acknowledge",
+            "appreciate",
+            "appreciation",
+            "be",
+            "bless",
+            "credit",
+            "grateful",
+            "gratitude",
+            "one's",
+            "recognize",
+            "recompense",
+            "repay",
+            "requite",
+            "return",
+            "reward",
+            "show",
+            "tip"
+          ],
+          "tran_cn": "感谢,感激,报答,偿还"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "be grateful to",
+            "be obliged to"
+          ],
+          "tran_cn": "感谢"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "give thanks",
+      "tran_cn": "感恩；致谢；感谢"
+    },
+    {
+      "phrase": "I will thank you to do something",
+      "tran_cn": "（表责备、生气时的请求）拜托，请"
+    },
+    {
+      "phrase": "thank for",
+      "tran_cn": "感谢"
+    },
+    {
+      "phrase": "thank god",
+      "tran_cn": "谢天谢地，幸亏"
+    },
+    {
+      "phrase": "thank goodness",
+      "tran_cn": "谢天谢地；幸亏"
+    },
+    {
+      "phrase": "thank goodness (或 God 或 heavens)",
+      "tran_cn": "谢天谢地"
+    },
+    {
+      "phrase": "thank heaven",
+      "tran_cn": "谢天谢地"
+    },
+    {
+      "phrase": "thank one's lucky stars",
+      "tran_cn": "感谢自己的好运气，自庆幸运"
+    },
+    {
+      "phrase": "thank you for",
+      "tran_cn": "为某事感谢"
+    },
+    {
+      "phrase": "thank you so much",
+      "tran_cn": "非常感谢你"
+    },
+    {
+      "phrase": "thank you very much",
+      "tran_cn": "非常感谢"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "int",
+      "tran_cn": "谢谢",
+      "tran_en": "When you express your thanks to someone, you express your gratitude to them for something"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "感谢，感激",
+      "tran_en": "When you express your thanks to someone, you express your gratitude to them for something"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "谢谢，感谢，道谢",
+      "tran_en": "to tell someone that you are pleased and grateful for something they have done, or to be polite about it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "thanks"
+    ],
+    "past": [
+      "thanked"
+    ],
+    "done": [
+      "thanked"
+    ],
+    "ing": [
+      "thanking"
+    ]
+  }
+}

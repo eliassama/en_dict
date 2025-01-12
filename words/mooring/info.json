@@ -1,0 +1,153 @@
+{
+  "word": "mooring",
+  "ipa": {
+    "us": "ˈmɔ:rɪŋ",
+    "uk": "ˈmʊrɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A cable or rope used in mooring or towing a ship.",
+      "cn": "一种用于停泊的绳索;从浮标伸向停泊点的抛锚处."
+    },
+    {
+      "en": "A heavy rope or chain for mooring or anchoring a ship.",
+      "cn": "通过缆柱头使得船渐渐停在停泊处的针."
+    },
+    {
+      "en": "a temporary mooring",
+      "cn": "临时泊位"
+    },
+    {
+      "en": "Adjusting safety device for hydraulic system of steering gear ( windlass 、 mooring winch ).",
+      "cn": "舵机 ( 锚机、绞缆机 ) 液压系统安全装置调整."
+    },
+    {
+      "en": "As shown, the valve seals completely around the 3 - inch mooring cable.",
+      "cn": "正如所示, 阀门环绕3英寸的锚缆索并实现完全的密封."
+    },
+    {
+      "en": "As the mooring progressed, the weather deteriorated more and more.",
+      "cn": "天亮越来越迟, 天气越来越坏."
+    },
+    {
+      "en": "Bulwark plates in way of mooring fittings to be increased and reinforced.",
+      "cn": "舷墙外板在系泊设备处需要加强和加固."
+    },
+    {
+      "en": "He cut the engine and grabbed the mooring lines.",
+      "cn": "他关掉发动机，抓住系船的绳子。"
+    },
+    {
+      "en": "Her mind was shaken loose from the little mooring of logic that it had.",
+      "cn": "就像小船失去了锚,她的思绪毫无逻辑地四处漂浮,一会为这个想法难受,一会为那个念头生气."
+    },
+    {
+      "en": "However , all the best mooring were occupied by local fishing boats.",
+      "cn": "凡是可以泊船的地方早已被当地渔船占去了."
+    },
+    {
+      "en": "Inland navigation vessels - Anchoring, coupling, towing, hauling and mooring systems.",
+      "cn": "内河航运船舶.抛锚, 耦合, 拖曳, 牵引和停泊系统."
+    },
+    {
+      "en": "Mooring test ( sea trial ) of M. E . and inspection attached pumps and piping system.",
+      "cn": "主机系泊 ( 航行 ) 试验并检查其附属泵与管路."
+    },
+    {
+      "en": "Nicholas untied the boat from her mooring.",
+      "cn": "尼古拉斯把泊船的绳缆解开。"
+    },
+    {
+      "en": "Put the rat guards on all the mooring ropes.",
+      "cn": "水手长,在所有的系缆绳上放置夹鼠板."
+    },
+    {
+      "en": "The main engine must undergo both mooring and sea trials.",
+      "cn": "主机必须经过系泊试验和航行试验."
+    },
+    {
+      "en": "The sinker form also influences the mooring line force.",
+      "cn": "配重形式对锚绳力的大小亦产生一定的影响."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "moor",
+          "tran_cn": " 沼泽；荒野"
+        },
+        {
+          "word": "moorage",
+          "tran_cn": " 停泊；定泊费"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "moor",
+          "tran_cn": " 系住；使停泊"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "anchorage",
+            "harbourage"
+          ],
+          "tran_cn": "下锚；停泊处；系船具"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "harbor",
+            "landing"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "mooring buoy",
+      "tran_cn": "系泊浮筒；系船浮筒"
+    },
+    {
+      "phrase": "mooring line",
+      "tran_cn": "系船索；锚绳；系缆"
+    },
+    {
+      "phrase": "single point mooring",
+      "tran_cn": "单点系泊"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "停泊处，系泊用具，系船具，下锚",
+      "tran_en": "the ropes, chains,  anchor s  etc used to fasten a ship or boat to the land or the bottom of the sea"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "停泊，系泊（船只）(moor的现在分词)"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "moorings"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "word": "bombast",
+  "ipa": {
+    "us": "ˈbɒmbæst",
+    "uk": "ˈbɑmbæst"
+  },
+  "sentences": [
+    {
+      "en": "But Yasha realized that Wolsky's bombast was unnecessary.",
+      "cn": "但是雅夏看出沃尔斯基是在无中生有地吹嘘."
+    },
+    {
+      "en": "He also knows that Iranian President Mahmoud Ahmadinejad's threat wipe Israel off the map is bombast.",
+      "cn": "他还知道伊朗总统内贾德威胁把以色列从地图上抹掉的说法只是吹牛."
+    },
+    {
+      "en": "His speech was full of bombast.",
+      "cn": "他的讲演通篇是夸夸其谈."
+    },
+    {
+      "en": "There was no bombast or conceit in his speech.",
+      "cn": "他的发言里没有浮夸或自负。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bombastic",
+          "tran_cn": " 夸大的；言过其实的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "bombastically",
+          "tran_cn": " 夸大地；浮华地；言过其实地；矫揉造作地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "tall",
+            "exaggeratory"
+          ],
+          "tran_cn": "夸大的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "exaggeration",
+            "mouth",
+            "vanity"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "夸大的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "浮夸的言语，大话，棉松软织物",
+      "tran_en": "Bombast is trying to impress people by saying things that sound impressive but have little meaning"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "bombastic"
+    ]
+  }
+}

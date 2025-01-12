@@ -1,0 +1,62 @@
+{
+  "word": "egoistical",
+  "ipa": {
+    "us": "e'ɡəʊɪstɪkəl",
+    "uk": "e'ɡoʊɪstɪkəl"
+  },
+  "sentences": [
+    {
+      "en": "Under some conditions, altruistic individuals are more apt to evolve than those egoistical individuals.",
+      "cn": "在某些情况下, 利他的个体比利己的个体更有利于自身的进化."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "egoistic",
+          "tran_cn": " 自私自利的，自我中心的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ego",
+          "tran_cn": " 自我；自负；自我意识"
+        },
+        {
+          "word": "egoism",
+          "tran_cn": " 利己主义，自我主义"
+        },
+        {
+          "word": "egoist",
+          "tran_cn": " 自我主义者；利己主义者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "self-centred"
+          ],
+          "tran_cn": "自私自利的；自我中心的；利已主义的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "自我中心的，自私自利的，利己主义的"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,228 @@
+{
+  "word": "bum",
+  "ipa": {
+    "us": "bʌm",
+    "uk": "bʌm"
+  },
+  "sentences": [
+    {
+      "en": "...the bums on the corner fighting over beers.",
+      "cn": "…在街角争抢啤酒的流浪者们。"
+    },
+    {
+      "en": "A man pinched her bum on the train so she hit him.",
+      "cn": "在火车上有人捏她屁股,她打了那人."
+    },
+    {
+      "en": "Can I bum a cigarette off you ?",
+      "cn": "可以向您要支烟 吗 ?"
+    },
+    {
+      "en": "He dropped out of college and became a beach bum.",
+      "cn": "他从大学退学,整天在海滩闲逛."
+    },
+    {
+      "en": "He got some very bum reports from his commanders.",
+      "cn": "他从司令官那里获得了一些不符合事实的报告."
+    },
+    {
+      "en": "He knows you're getting a bum deal.",
+      "cn": "他知道你在做一笔烂生意。"
+    },
+    {
+      "en": "He spent several years on the bum.",
+      "cn": "他过了几年流浪生活."
+    },
+    {
+      "en": "He tried to bum a ride.",
+      "cn": "他试图求别人让他搭顺风车."
+    },
+    {
+      "en": "I called the umpire a bum.",
+      "cn": "我认为裁判是个不中用的家伙."
+    },
+    {
+      "en": "I think it is a bum novel.",
+      "cn": "我认为那是一本蹩脚的小说."
+    },
+    {
+      "en": "If you don't get a move on, I'll bum this boat!",
+      "cn": "快来, 不出来我烧掉你们这只船!"
+    },
+    {
+      "en": "It didn't dawn on me that I was getting the bum's rush.",
+      "cn": "我不明白,我竟要被赶走."
+    },
+    {
+      "en": "John lost his job and went on the bum.",
+      "cn": "约翰失业后过着流浪生活."
+    },
+    {
+      "en": "Mind if I bum a cigarette?",
+      "cn": "能给我一支烟吗？"
+    },
+    {
+      "en": "The penniless man had to bum a ride home.",
+      "cn": "那个身无分文的人只好乞求搭车回家."
+    },
+    {
+      "en": "What's new in the bum's comforter?",
+      "cn": "报纸上有什么新闻 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bumbling",
+          "tran_cn": " 装模作样的；笨手笨脚的；爱管闲事的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bummer",
+          "tran_cn": " 懒汉；游手好闲的人；吸食迷幻药的反效果"
+        },
+        {
+          "word": "bumming",
+          "tran_cn": " 蜂鸣声；压入"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bumbling",
+          "tran_cn": " 发嗡嗡声（bumble的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "bumming",
+          "tran_cn": " 游荡（bum的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "bad",
+            "worthless"
+          ],
+          "tran_cn": "无价值的；劣质的；很不愉快的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "behind",
+            "ass"
+          ],
+          "tran_cn": "流浪汉；屁股；狂欢作乐；能力差的人；嗡嗡声；执达员（等于bumbailiff）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "vagabondize",
+            "stray"
+          ],
+          "tran_cn": "流浪；靠乞讨过活；发嗡嗡声"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "beg",
+            "muck about"
+          ],
+          "tran_cn": "乞讨；闲荡"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bum rap",
+      "tran_cn": "不公正的惩罚；不公正的判决；责骂"
+    },
+    {
+      "phrase": "bum's rush",
+      "tran_cn": "[美国俚语]"
+    },
+    {
+      "phrase": "bums on seats",
+      "tran_cn": "观众"
+    },
+    {
+      "phrase": "give someone (或 get) the bum's rush",
+      "tran_cn": "(主 北美)（被）驱逐"
+    },
+    {
+      "phrase": "on the bum",
+      "tran_cn": "出毛病；坏掉"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "质量低劣的，无价值的，无价值的，残废的，很不愉快的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "流浪者，屁股，狂欢作乐，笨蛋，废物",
+      "tran_en": "the part of your body that you sit on"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "流浪；靠乞讨过活；发嗡嗡声",
+      "tran_en": "to ask someone for something such as money, food, or cigarettes"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "流浪，闲荡"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "乞讨"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bums"
+    ],
+    "third": [
+      "bums"
+    ],
+    "past": [
+      "bummed"
+    ],
+    "done": [
+      "bummed"
+    ],
+    "ing": [
+      "bumming"
+    ]
+  }
+}

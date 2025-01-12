@@ -1,0 +1,198 @@
+{
+  "word": "presume",
+  "ipa": {
+    "us": "prɪˈzjuːm",
+    "uk": "prɪˈzuːm"
+  },
+  "sentences": [
+    {
+      "en": "\"Count Dracula, I presume,\" I said wittily.",
+      "cn": "“我想是德拉库拉伯爵吧。”我打趣地说。"
+    },
+    {
+      "en": "\"Had he been home all week?\"— 'I presume so.'",
+      "cn": "“他整个星期都在家吗？”——“我想是这样的。”"
+    },
+    {
+      "en": "\"Had he been home all week?\"—\"I presume so.\"",
+      "cn": "“他整个星期都在家吗？”—“我想是。”"
+    },
+    {
+      "en": "Dido's told you the whole sad story, I presume?",
+      "cn": "我想狄多已经把这件伤心事全部告诉你了吧？"
+    },
+    {
+      "en": "Don't presume too far!",
+      "cn": "不要太放肆!"
+    },
+    {
+      "en": "I presume I am up to this job.",
+      "cn": "这个责任我还背得起."
+    },
+    {
+      "en": "I presume you're here on business.",
+      "cn": "我想你是来这里出差的。"
+    },
+    {
+      "en": "I would not presume to censure Osborne for hating his mother.",
+      "cn": "我不会擅自批评奥斯本恨他妈妈这件事。"
+    },
+    {
+      "en": "I wouldn't presume to question your judgment.",
+      "cn": "我不会冒昧地质疑你的判断。"
+    },
+    {
+      "en": "Take care that you don't presume on my feelings.",
+      "cn": "注意不要滥用我的感情."
+    },
+    {
+      "en": "The legal definition of \"know\" often presumes mental control.",
+      "cn": "“知情”的法律界定通常以思维控制力为前提。"
+    },
+    {
+      "en": "They are very expensive, I presume?",
+      "cn": "我想这些东西很贵吧？"
+    },
+    {
+      "en": "They're resentful that outsiders presume to meddle in their affairs.",
+      "cn": "他们对外人擅自干预他们的事务非常愤慨。"
+    },
+    {
+      "en": "We don't presume to reason Tom out of his foolish venture.",
+      "cn": "我们不说服汤姆避免愚蠢的冒险."
+    },
+    {
+      "en": "We mustn't presume too much upon the reliability of such sources.",
+      "cn": "我们不应过分指望这类消息来源的可靠性."
+    },
+    {
+      "en": "We should not presume too much on the reliability of such sources.",
+      "cn": "我们不该过分指望这种消息来源的可靠性."
+    },
+    {
+      "en": "You had better presume no such thing.",
+      "cn": "你最好不要这样设想."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "presumable",
+          "tran_cn": "可能有的；可推测的"
+        },
+        {
+          "word": "presumptive",
+          "tran_cn": "假定的；根据推定的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "presumably",
+          "tran_cn": "大概；推测起来；可假定"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "presumption",
+          "tran_cn": "放肆，傲慢；推测"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "assume",
+            "conceive",
+            "conclude",
+            "deduce",
+            "fancy",
+            "guess",
+            "hold",
+            "imagine",
+            "imply",
+            "infer",
+            "suppose",
+            "surmise",
+            "think"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "depend",
+            "be satisfied of"
+          ],
+          "tran_cn": "相信；擅自行为"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "assume",
+            "fancy",
+            "guess",
+            "imagine",
+            "imply",
+            "infer",
+            "suppose",
+            "surmise",
+            "think"
+          ],
+          "tran_cn": "假定;推测;认为"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "假定，假设，揣测",
+      "tran_en": "to accept something as being true and base something else on it"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "擅自行动，相信，敢于，放肆",
+      "tran_en": "If you say that someone presumes to do something, you mean that they do it even though they have no right to do it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "以为，认为，假定，假设，推测，意味着",
+      "tran_en": "If you presume that something is the case, you think that it is the case, although you are not certain"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "presumes"
+    ],
+    "past": [
+      "presumed"
+    ],
+    "done": [
+      "presumed"
+    ],
+    "ing": [
+      "presuming"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "word": "demagogue",
+  "ipa": {
+    "us": "ˈdeməgɒg",
+    "uk": "ˈdeməgɑg"
+  },
+  "sentences": [
+    {
+      "en": "I don't want to demagogue my talk.",
+      "cn": "我不想把话夸大."
+    },
+    {
+      "en": "They labeled him a demagogue.",
+      "cn": "他们称他为政治煽动家."
+    },
+    {
+      "en": "They labelled him as a demagogue.",
+      "cn": "他们说他是煽动家."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "demagogic",
+          "tran_cn": " 蛊惑人心的；煽动性的"
+        },
+        {
+          "word": "demagogical",
+          "tran_cn": " 煽动的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "demagoguery",
+          "tran_cn": " 散布谣言；煽动行为；群众煽动"
+        },
+        {
+          "word": "demagogy",
+          "tran_cn": " 煽动家的方法与行为"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "rabble-rouser",
+            "instigator"
+          ],
+          "tran_cn": "煽动者；煽动家；煽动政治家"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "煽动者，蛊惑民心的政客",
+      "tran_en": "a political leader who tries to make people feel strong emotions in order to influence their opinions – used to show disapproval"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "demagogues"
+    ],
+    "adj": [
+      "demagogic"
+    ]
+  }
+}

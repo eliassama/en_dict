@@ -1,0 +1,203 @@
+{
+  "word": "torture",
+  "ipa": {
+    "us": "ˈtɔːtʃə(r)",
+    "uk": "ˈtɔːrtʃər"
+  },
+  "sentences": [
+    {
+      "en": "2,000 prisoners died as a result of torture and maltreatment.",
+      "cn": "2,000名犯人死于拷打和虐待。"
+    },
+    {
+      "en": "By giving me this burning torture to bear upon my breast!",
+      "cn": "他让我忍受这胸前灼烧的痛楚!"
+    },
+    {
+      "en": "He died after five days of excruciating torture.",
+      "cn": "遭受了五天的严刑拷打之后，他死了。"
+    },
+    {
+      "en": "It is my understanding that this torture has been going on for many years.",
+      "cn": "据我了解，这种折磨已经持续很多年了。"
+    },
+    {
+      "en": "Many of the refugees have suffered torture.",
+      "cn": "许多难民都遭受过拷打。"
+    },
+    {
+      "en": "No torture would make him speak.",
+      "cn": "任何严刑拷打都不能使他开口."
+    },
+    {
+      "en": "Political opponents of the regime may be tortured.",
+      "cn": "这个政权的政治异己可能会遭受酷刑。"
+    },
+    {
+      "en": "The confession was a formality, though the torture was real.",
+      "cn": "招供不过是个形式, 但拷打却是货真价实的."
+    },
+    {
+      "en": "The confessions were obtained by what amounts to torture.",
+      "cn": "这些供状是用近乎逼供的方式得来的。"
+    },
+    {
+      "en": "The criminal is undergoing torture.",
+      "cn": "犯人在受严刑拷打."
+    },
+    {
+      "en": "The idea of being separated from him, even for a few hours, was torture.",
+      "cn": "一想到要和他分开，即便是短短几小时，都感到备受煎熬。"
+    },
+    {
+      "en": "The interrogators put the prisoner to torture.",
+      "cn": "审问者使囚犯们受到折磨."
+    },
+    {
+      "en": "The police used torture to extort a confession from him.",
+      "cn": "警察对他用刑逼供."
+    },
+    {
+      "en": "The report says there is widespread and routine torture of political prisoners in the country.",
+      "cn": "这份报告称该国一直普遍存在折磨政治犯的现象。"
+    },
+    {
+      "en": "The torture made him confess.",
+      "cn": "严刑拷打使他招供了."
+    },
+    {
+      "en": "The waiting must be torture for you.",
+      "cn": "这样的等待对你来说肯定是一种煎熬。"
+    },
+    {
+      "en": "There are consistent reports of electrical torture being practised on inmates.",
+      "cn": "一直有报道称犯人被施以电刑。"
+    },
+    {
+      "en": "Waiting for the result was torture.",
+      "cn": "等待结果的过程是一种折磨。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "torturous",
+          "tran_cn": " 折磨人的，痛苦的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "torturer",
+          "tran_cn": " 虐待者，拷问者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "violence",
+            "ordeal"
+          ],
+          "tran_cn": "折磨；拷问；歪曲"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agonize",
+            "agony",
+            "anguish",
+            "anxiety",
+            "contort",
+            "crucify",
+            "distress",
+            "grief",
+            "harrow",
+            "hell",
+            "inflame",
+            "oppression",
+            "pain",
+            "persecute",
+            "persecution",
+            "plague",
+            "punishment",
+            "tantalize",
+            "torment"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "afflict",
+            "agonize",
+            "distress",
+            "harrow",
+            "inflame",
+            "pain",
+            "persecute",
+            "plague",
+            "torment"
+          ],
+          "tran_cn": "使痛苦;使苦恼"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "拷问，折磨，痛苦，（精神上或肉体上的）折磨",
+      "tran_en": "an act of deliberately hurting someone in order to force them to tell you something, to punish them, or to be cruel"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "拷打",
+      "tran_en": "to deliberately hurt someone in order to force them to give you information, to punish them, or to be cruel"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使痛苦，使苦恼，使焦急，曲解",
+      "tran_en": "to deliberately hurt someone in order to force them to give you information, to punish them, or to be cruel"
+    },
+    {
+      "pos": "vt&n",
+      "tran_cn": "拷打，折磨，使受剧烈痛苦",
+      "tran_en": "an act of deliberately hurting someone in order to force them to tell you something, to punish them, or to be cruel"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tortures"
+    ],
+    "third": [
+      "tortures"
+    ],
+    "past": [
+      "tortured"
+    ],
+    "done": [
+      "tortured"
+    ],
+    "ing": [
+      "torturing"
+    ]
+  }
+}

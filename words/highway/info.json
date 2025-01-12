@@ -1,0 +1,191 @@
+{
+  "word": "highway",
+  "ipa": {
+    "us": "ˈhaɪweɪ",
+    "uk": "ˈhaɪweɪ"
+  },
+  "sentences": [
+    {
+      "en": "Anita drove north up Pacific Highway.",
+      "cn": "安妮塔驱车沿太平洋公路向北行驶。"
+    },
+    {
+      "en": "Chris crawled on his hands and knees out onto the highway.",
+      "cn": "克里斯手脚并用爬上了公路。"
+    },
+    {
+      "en": "Do you know the highway to Tulsa? The airport road joins it.",
+      "cn": "你知道通向塔尔萨的公路吗？去机场的路和它交会。"
+    },
+    {
+      "en": "Grit from the highway made him cough.",
+      "cn": "公路上扬起的沙子呛得他咳嗽起来。"
+    },
+    {
+      "en": "He made a forced landing on a highway.",
+      "cn": "他迫降在了公路上。"
+    },
+    {
+      "en": "Highway patrol officers closed the road.",
+      "cn": "公路巡警关闭了这条路。"
+    },
+    {
+      "en": "I drove back down the highway at normal speed.",
+      "cn": "我以正常车速沿公路返回。"
+    },
+    {
+      "en": "In the morning I rejoined Highway 127 south.",
+      "cn": "早上我重新回到了127号公路的南端。"
+    },
+    {
+      "en": "Interstate Highway 75",
+      "cn": "75号州际公路"
+    },
+    {
+      "en": "Megamalls and fast food restaurants line the highway system.",
+      "cn": "公路系统沿线有大型商场和快餐店。"
+    },
+    {
+      "en": "Pictures of road signs are matched with their Highway Code meanings.",
+      "cn": "道路标志图是同公用通道法规一致的。"
+    },
+    {
+      "en": "She prattled on as she drove out to the Highway.",
+      "cn": "她开车上公路时一直说个没完。"
+    },
+    {
+      "en": "The highway stretched out flat and straight ahead.",
+      "cn": "公路平坦而笔直地向前延伸。"
+    },
+    {
+      "en": "The regions are interconnected by an excellent highway system.",
+      "cn": "那些地区通过完善的公路系统相互连接。"
+    },
+    {
+      "en": "There's nothing but woods on the other side of the highway.",
+      "cn": "公路对面只有树林。"
+    },
+    {
+      "en": "Traffic was sparse on the highway.",
+      "cn": "公路上车流稀少。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "highroad",
+          "tran_cn": " 公路；最容易的途径"
+        },
+        {
+          "word": "highwayman",
+          "tran_cn": " 拦路强盗；公路响马"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "expressway",
+            "freeway",
+            "road",
+            "thoroughfare",
+            "thruway",
+            "turnpike"
+          ],
+          "tran_cn": "道路,公路"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "avenue",
+            "expressway",
+            "freeway",
+            "highroad",
+            "pavement",
+            "road",
+            "thoroughfare",
+            "thruway",
+            "turnpike"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "arterial highway",
+      "tran_cn": "公路干线；干线道路"
+    },
+    {
+      "phrase": "elevated highway",
+      "tran_cn": "高架公路"
+    },
+    {
+      "phrase": "express highway",
+      "tran_cn": "高速公路，快速公路"
+    },
+    {
+      "phrase": "highway bridge",
+      "tran_cn": "公路桥"
+    },
+    {
+      "phrase": "highway code",
+      "tran_cn": "公路法规，交通法规"
+    },
+    {
+      "phrase": "highway engineering",
+      "tran_cn": "公路工程；道路工程学"
+    },
+    {
+      "phrase": "highway network",
+      "tran_cn": "公路网；道路网"
+    },
+    {
+      "phrase": "highway patrol",
+      "tran_cn": "（美）高速公路巡警"
+    },
+    {
+      "phrase": "highway robbery",
+      "tran_cn": "挡路抢劫"
+    },
+    {
+      "phrase": "highway transport",
+      "tran_cn": "公路运输"
+    },
+    {
+      "phrase": "information highway",
+      "tran_cn": "信息高速公路"
+    },
+    {
+      "phrase": "national highway",
+      "tran_cn": "n. 国道"
+    },
+    {
+      "phrase": "state highway",
+      "tran_cn": "国道；州道"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "公路，公用通道",
+      "tran_en": "a wide main road that joins one town to another"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "highways"
+    ]
+  }
+}

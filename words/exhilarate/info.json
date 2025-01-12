@@ -1,0 +1,120 @@
+{
+  "word": "exhilarate",
+  "ipa": {
+    "us": "ɪɡˈzɪləreɪt",
+    "uk": "ɪɡˈzɪləreɪt"
+  },
+  "sentences": [
+    {
+      "en": "This dangerous task exhilarate his spirits.",
+      "cn": "这项危险的任务使他精神振奋。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "exhilarated",
+          "tran_cn": " 振奋的；高兴的"
+        },
+        {
+          "word": "exhilarating",
+          "tran_cn": " 使人愉快的；令人喜欢的；爽快的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "exhilaration",
+          "tran_cn": " 愉快；令人高兴"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "exhilarated",
+          "tran_cn": " 使振奋；使高兴（exhilarate的过去式和过去分词）"
+        },
+        {
+          "word": "exhilarating",
+          "tran_cn": " 使高兴，使兴奋（exhilarate的现在分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cheer",
+            "encourage",
+            "enliven",
+            "excite",
+            "gladden",
+            "inspire",
+            "refresh",
+            "stimulate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cheer",
+            "encourage",
+            "enliven",
+            "excite",
+            "gladden",
+            "inspire",
+            "refresh",
+            "stimulate"
+          ],
+          "tran_cn": "使兴奋;鼓励"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使高兴, 使愉快",
+      "tran_en": "to make someone feel very excited and happy"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使高兴，使兴奋"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "exhilarates"
+    ],
+    "past": [
+      "exhilarated"
+    ],
+    "done": [
+      "exhilarated"
+    ],
+    "ing": [
+      "exhilarating"
+    ],
+    "noun": [
+      "exhilaration"
+    ],
+    "adj": [
+      "exhilarated"
+    ]
+  }
+}

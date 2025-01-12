@@ -1,0 +1,114 @@
+{
+  "word": "exaction",
+  "ipa": {
+    "us": "ɪɡ'zækʃn",
+    "uk": "ɪɡ'zækʃn"
+  },
+  "sentences": [
+    {
+      "en": "All was, alas, worse than vanity - injustice, punishment, exaction, death.",
+      "cn": "唉，一切比虚空还糟糕——冤屈，惩罚，苛求，死亡。"
+    },
+    {
+      "en": "Diligence and high self-esteem are meant to be virtues, but it will become exaction to demand every thing be perfect. it will neither help to cultivate one’s mind, nor will it make one happy.",
+      "cn": "勤劳、自我要求高原本是美德，但一旦要求到了枯槁极苦、十全十美的程度，就成了苛求，既不能得到修身养性的益处，心情也不会愉快。"
+    },
+    {
+      "en": "If he should break his day , what should I gain by the exaction of the forfeiture?",
+      "cn": "如果他到期不还我从这罚金中又能得到什么好处?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "exact",
+          "tran_cn": " 准确的，精密的；精确的"
+        },
+        {
+          "word": "exacting",
+          "tran_cn": " 严格的；苛求的；吃力的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "exacting",
+          "tran_cn": " 逼取；急需（exact的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "exact",
+          "tran_cn": " 勒索钱财"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "exact",
+          "tran_cn": " 要求；强求；急需"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "blackmail",
+            "extortion"
+          ],
+          "tran_cn": "勒索"
+        },
+        {
+          "words": [
+            "claim",
+            "demand",
+            "extraction",
+            "requirement"
+          ],
+          "tran_cn": "强求"
+        },
+        {
+          "words": [
+            "custom",
+            "duty",
+            "excise",
+            "impost",
+            "levy",
+            "tariff",
+            "tax",
+            "toll"
+          ],
+          "tran_cn": "苛捐杂税"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "苛求，勒索，强行索要，强索的钱款"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "exactness"
+    ],
+    "adj": [
+      "exact"
+    ]
+  }
+}

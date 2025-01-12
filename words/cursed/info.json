@@ -1,0 +1,205 @@
+{
+  "word": "cursed",
+  "ipa": {
+    "us": "kɜ:st",
+    "uk": "kɜrst"
+  },
+  "sentences": [
+    {
+      "en": "Bulman was cursed with a poor memory for names.",
+      "cn": "布尔曼总是记不住人名。"
+    },
+    {
+      "en": "He cursed himself for having been so careless.",
+      "cn": "他骂自己怎么那么不小心。"
+    },
+    {
+      "en": "He cursed the waiter who had spilled soup on him.",
+      "cn": "他咒骂那个把汤溅在他身上的男侍者."
+    },
+    {
+      "en": "He is cursed with deformed arches.",
+      "cn": "他受畸形足弓之苦."
+    },
+    {
+      "en": "He wept and cursed her.",
+      "cn": "他又哭又骂."
+    },
+    {
+      "en": "I cursed her roundly for being late.",
+      "cn": "因为迟到,我狠狠地骂了她."
+    },
+    {
+      "en": "I'd cursed him and railed at him.",
+      "cn": "我曾诅咒并且大声责骂过他。"
+    },
+    {
+      "en": "It's a cursed thing to be in debt.",
+      "cn": "欠债是一件痛苦的事."
+    },
+    {
+      "en": "Poor Mother is cursed with bad health.",
+      "cn": "可怜的母亲苦于身体不佳."
+    },
+    {
+      "en": "She silently cursed her own stupidity.",
+      "cn": "她在心里默默地骂自己愚蠢。"
+    },
+    {
+      "en": "The ground was cursed because of him.",
+      "cn": "大地因为他而遭受诅咒。"
+    },
+    {
+      "en": "The necklace was cursed.",
+      "cn": "这条项链上附有会给人带来灾难的符咒。"
+    },
+    {
+      "en": "The old man cursed his enemies.",
+      "cn": "那位老人咒骂他的敌人."
+    },
+    {
+      "en": "The whole family seemed cursed.",
+      "cn": "全家人仿佛都受到了诅咒。"
+    },
+    {
+      "en": "Whitlock silently cursed Graham for heaping more suspicion on him.",
+      "cn": "惠特洛克心里默默地诅咒格雷厄姆，因为他让自己备受猜疑。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "curst",
+          "tran_cn": " 被诅咒的；爱吵架的（等于cursed）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "curse",
+          "tran_cn": " 诅咒；咒骂"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "curst",
+          "tran_cn": " 诅咒；使受灾祸（curse的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "curse",
+          "tran_cn": " 诅咒；咒骂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "curse",
+          "tran_cn": " 诅咒；咒骂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "accursed",
+            "anathematized",
+            "bedeviled",
+            "blighted",
+            "damned",
+            "doomed",
+            "hexed",
+            "ill-fated",
+            "jinxed",
+            "maledict",
+            "plagued",
+            "star-crossed",
+            "stricken",
+            "unfortunate"
+          ],
+          "tran_cn": "被诅咒的"
+        },
+        {
+          "words": [
+            "abhorrent",
+            "abominable",
+            "base",
+            "damnable",
+            "detestable",
+            "devilish",
+            "evil",
+            "execrable",
+            "fiendish",
+            "flagitious",
+            "foul",
+            "hateful",
+            "heinous",
+            "hellish",
+            "hideous",
+            "horrible",
+            "horrid",
+            "infamous",
+            "infernal",
+            "iniquitous",
+            "loathsome",
+            "obnoxious",
+            "odious",
+            "reprobate",
+            "sinful",
+            "sinister",
+            "vile",
+            "villainous",
+            "wicked"
+          ],
+          "tran_cn": "该咒的,可恶的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "goddamed"
+          ],
+          "tran_cn": "诅咒（curse的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be cursed with",
+      "tran_cn": "深受…之害；因…而遭殃"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "被诅咒的，邪恶的，可恨的，应受诅咒的",
+      "tran_en": "suffering as a result of a punishment by God or a god"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "诅咒（curse的过去分词）"
+    }
+  ],
+  "exchange": {}
+}

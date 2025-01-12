@@ -1,0 +1,107 @@
+{
+  "word": "nonzero",
+  "ipa": {
+    "us": "nɒn'zɪərəʊ",
+    "uk": "nɒn'zɪroʊ"
+  },
+  "sentences": [
+    {
+      "en": "A circ is an undirected graph having only vertices of even nonzero degree.",
+      "cn": "一广义圈是一无向图,其顶点次数都是非零偶数."
+    },
+    {
+      "en": "A nonzero column count was specified with no column specification pointer.",
+      "cn": "不用列规范指针指定非零列计数."
+    },
+    {
+      "en": "A nonzero timeout is useful in real-time or other situations where an alternate action may be required if an object is not readily available.",
+      "cn": "在实时情况或其他情况（如果无法很快获得对象则或许需要替代操作）下，非零超时会很有用。"
+    },
+    {
+      "en": "If nonzero, don't send this host's IP address and domain name to servers.",
+      "cn": "如果非零, 将不会向服务器发送该主机的IP地址和域名."
+    },
+    {
+      "en": "If the expression evaluates to a nonzero, execution continues.",
+      "cn": "如果表达式计算为非零, 则继续执行."
+    },
+    {
+      "en": "If the function succeeds, the return value is nonzero.",
+      "cn": "如果函数执行成功, 返回值为非零."
+    },
+    {
+      "en": "In nonzero - sum games you can both do well , or both do poorly.",
+      "cn": "在非零和游戏中,你们可能共荣, 也可能同衰."
+    },
+    {
+      "en": "Initialization of local variables to a nonzero value.",
+      "cn": "将局部变量初始化为非零值."
+    },
+    {
+      "en": "It does so and prints out the loop count with nonzero value.",
+      "cn": "程序按这种方式执行并打印具有非零值循环计数。"
+    },
+    {
+      "en": "Nonzero if the bitmap is drawn; otherwise 0.",
+      "cn": "如果位图已经绘制,则返回非零值, 否则为0."
+    },
+    {
+      "en": "Nonzero if the function completed successfully; otherwise 0.",
+      "cn": "如果成功,则返回非零值, 否则为0."
+    },
+    {
+      "en": "Nonzero if the function is successful; otherwise 0.",
+      "cn": "函数成功,返回非零值, 否则为0."
+    },
+    {
+      "en": "Nonzero if the window was previously visible ; 0 if the CWnd was previously hidden.",
+      "cn": "返回为0, 说是前面隐藏了的原因,不知道怎么解决."
+    },
+    {
+      "en": "Once these regions start moving , energy losses occur - that is, the material has a nonzero resistance.",
+      "cn": "为了抵消这个效应,我们可以在超导体内加入适当型态的缺陷, 以便固定涡流."
+    },
+    {
+      "en": "One of the few notions from game theory to penetrate the popular culture was the distinction of zero-sum and nonzero-sum games.",
+      "cn": "零和与非零和游戏的区别是少数几个渗透到大众文化中的博弈论理念之一。"
+    },
+    {
+      "en": "Specifies a nonzero timer identifier.",
+      "cn": "指定了不为零的定时器标识符."
+    },
+    {
+      "en": "The finite set of nonzero values.",
+      "cn": "有限的非零值集."
+    },
+    {
+      "en": "This algorithm encrypts nonzero coefficients by using real - value chaotic sequence and then confuses DCT nonzero coefficients.",
+      "cn": "该算法采用实值混沌序列加密和置乱DCT非零系数来加密视频信息."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "nonvanishing"
+          ],
+          "tran_cn": "[数]非零的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "非零的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "非零"
+    }
+  ],
+  "exchange": {}
+}

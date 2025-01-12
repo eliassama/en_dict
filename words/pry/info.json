@@ -1,0 +1,195 @@
+{
+  "word": "pry",
+  "ipa": {
+    "us": "praɪ",
+    "uk": "praɪ"
+  },
+  "sentences": [
+    {
+      "en": "As chemists began to pry out my secret they discovered my virtuosity.",
+      "cn": "化学家开始探讨我的秘密,他们发现了我的精湛技巧."
+    },
+    {
+      "en": "Crows use sticks to pry peanuts out of cracks.",
+      "cn": "乌鸦使用棍子去撬开有裂痕的花生."
+    },
+    {
+      "en": "Do not abet your friend to pry into other people's privacy.",
+      "cn": "不要唆使朋友去窥探别人隐私."
+    },
+    {
+      "en": "Don't pry into private life of others.",
+      "cn": "不要窥探别人的私生活."
+    },
+    {
+      "en": "Don't pry into the affairs of others.",
+      "cn": "莫管闲事."
+    },
+    {
+      "en": "He's always ready to pry into other people's business.",
+      "cn": "他总爱探听别人的事."
+    },
+    {
+      "en": "I couldn't pry the cover off this wooden box without breaking it.",
+      "cn": "不打破这个木箱盖我就无法撬开它."
+    },
+    {
+      "en": "I do not desire to pry into those things.",
+      "cn": "我实在不想故意去探听这类事情."
+    },
+    {
+      "en": "I don’t want to pry , but I need to ask you one or two questions.",
+      "cn": "我不想唐突，不过我需要问你一两个问题。"
+    },
+    {
+      "en": "If you want to pry into other people'sbusiness you shall not do it here, young man.",
+      "cn": "如果你想刺探别人的隐私，那你来错地方了，年轻人。"
+    },
+    {
+      "en": "Jack managed to pry away a large stone blocking the entrance.",
+      "cn": "杰克设法移开了堵住门口的大石头."
+    },
+    {
+      "en": "Pry back three clips retaining air cleaner cover to air cleaner housing.",
+      "cn": "撬起三个紧固空气清洁器盖至清洁器壳体的夹环."
+    },
+    {
+      "en": "Pry the crankshaft forward , position the dial indicator to zero.",
+      "cn": "向前撬曲轴, 定位针盘指示表到0."
+    },
+    {
+      "en": "She likes to pry into private affairs of others.",
+      "cn": "她喜欢打听别人的私事."
+    },
+    {
+      "en": "She likes to pry into the private life of her friends.",
+      "cn": "她喜欢打听友人的私生活."
+    },
+    {
+      "en": "We use an iron bar to pry open the box.",
+      "cn": "我们用铁棍撬开箱子."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prying",
+          "tran_cn": " 窥探的；爱打听的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "prying",
+          "tran_cn": " 窥探（pry的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "lever",
+            "heaver"
+          ],
+          "tran_cn": "窥探；[机]杠杆"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "busybody",
+            "grope",
+            "jimmy",
+            "loosen",
+            "meddle",
+            "mix",
+            "peek",
+            "peep",
+            "search",
+            "snoop",
+            "wrench"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "burrow into"
+          ],
+          "tran_cn": "刺探，探查"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "prize up",
+            "jimmy"
+          ],
+          "tran_cn": "撬动，撬开"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pry bar",
+      "tran_cn": "撬杆；杠杆"
+    },
+    {
+      "phrase": "pry into",
+      "tran_cn": "窥探；打听"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": " 撬杠， 杠杆"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "探查",
+      "tran_en": "to try to find out details about someone else’s private life in an impolite way"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "窥探，打探",
+      "tran_en": "to try to find out details about someone else’s private life in an impolite way"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "撬开，撬动，费力地得到"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "pries"
+    ],
+    "past": [
+      "pried"
+    ],
+    "done": [
+      "pried"
+    ],
+    "ing": [
+      "prying"
+    ]
+  }
+}

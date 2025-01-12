@@ -1,0 +1,187 @@
+{
+  "word": "normally",
+  "ipa": {
+    "us": "ˈnɔːməli",
+    "uk": "ˈnɔːrməli"
+  },
+  "sentences": [
+    {
+      "en": "Both groups share two attributes normally associated with vertebrates.",
+      "cn": "两组都具有通常脊椎动物才具备的两个特征。"
+    },
+    {
+      "en": "Child custody is normally granted to the mother.",
+      "cn": "孩子的监护权通常判给母亲。"
+    },
+    {
+      "en": "Clients normally pay fees in advance, monthly, quarterly, or yearly.",
+      "cn": "客户通常按月、季度或年度预付费用。"
+    },
+    {
+      "en": "Her normally shy son had come out of his shell.",
+      "cn": "她那平时很害羞的儿子已经开始与人交往了。"
+    },
+    {
+      "en": "Normally she ate sparingly.",
+      "cn": "她通常吃得很省。"
+    },
+    {
+      "en": "Normally, I park behind the theatre.",
+      "cn": "通常我把车停在剧院后面。"
+    },
+    {
+      "en": "Normally, such an outward display of affection is reserved for his mother.",
+      "cn": "通常，只有在母亲面前他的情感才会如此外露。"
+    },
+    {
+      "en": "Normally, the transportation system in Paris carries 950,000 passengers a day.",
+      "cn": "正常情况下，巴黎的交通系统每天运送95万乘客。"
+    },
+    {
+      "en": "She would apparently eat normally and then make herself sick.",
+      "cn": "她显然还会照吃不误，然后把自己吃到恶心。"
+    },
+    {
+      "en": "The authorities say the prison is now functioning normally.",
+      "cn": "当局称监狱现在运转正常。"
+    },
+    {
+      "en": "The journey normally takes about two hours.",
+      "cn": "这段旅程通常需要大约两小时。"
+    },
+    {
+      "en": "The mattress and base are normally bought as a set.",
+      "cn": "通常床垫和床架是成套购买的。"
+    },
+    {
+      "en": "The rainy season in the Andes normally starts in December.",
+      "cn": "安第斯山区的雨季通常在12月份来临。"
+    },
+    {
+      "en": "The system seems to be working normally now.",
+      "cn": "目前该系统似乎运行正常。"
+    },
+    {
+      "en": "They're making efforts to streamline their normally cumbersome bureaucracy.",
+      "cn": "他们正努力精简本来繁冗复杂的官僚体制。"
+    },
+    {
+      "en": "This vaccine is not normally provided free under the NHS.",
+      "cn": "这种疫苗在国民医疗保健系统中通常不是免费提供的。"
+    },
+    {
+      "en": "We gained a rich supply of data which would normally be inaccessible.",
+      "cn": "我们得到了通常难以获取的大量数据。"
+    },
+    {
+      "en": "You normally receive 4 treatments each day, Sundays excepted.",
+      "cn": "通常每天接受4次治疗，星期日除外。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "normal",
+          "tran_cn": " 正常的；正规的，标准的"
+        },
+        {
+          "word": "normotensive",
+          "tran_cn": " 血压正常的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "normal",
+          "tran_cn": " 正常；标准；常态"
+        },
+        {
+          "word": "normality",
+          "tran_cn": " 常态；[化学] 当量浓度；[化学] 规定浓度"
+        },
+        {
+          "word": "normalization",
+          "tran_cn": " 正常化；标准化；正规化；常态化"
+        },
+        {
+          "word": "normalizer",
+          "tran_cn": " 标准化者；正规化者"
+        },
+        {
+          "word": "normotensive",
+          "tran_cn": " 血压正常的人"
+        },
+        {
+          "word": "normothermia",
+          "tran_cn": " [生理] 正常体温"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "normalise",
+          "tran_cn": " （使）正常化；（使）恢复友好状态"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "normalize",
+          "tran_cn": " 使正常化；使规格化，使标准化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "commonly",
+            "currently",
+            "generally"
+          ],
+          "tran_cn": "正常地；通常地，一般地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "usually"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "normally closed",
+      "tran_cn": "常闭的；正常闭合的"
+    },
+    {
+      "phrase": "normally open",
+      "tran_cn": "常开的；正常断开的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "通常，正常地",
+      "tran_en": "usually"
+    }
+  ],
+  "exchange": {}
+}

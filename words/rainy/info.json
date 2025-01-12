@@ -1,0 +1,198 @@
+{
+  "word": "rainy",
+  "ipa": {
+    "us": "ˈreɪni",
+    "uk": "ˈreɪni"
+  },
+  "sentences": [
+    {
+      "en": "a cold rainy day in October",
+      "cn": "十月里一个寒冷的雨天"
+    },
+    {
+      "en": "He laid up some money for a rainy day.",
+      "cn": "他积蓄一些钱以备不时之需."
+    },
+    {
+      "en": "How do you amuse yourself in rainy weather?",
+      "cn": "你在雨天怎样消遣?"
+    },
+    {
+      "en": "I hate rainy weather .",
+      "cn": "我讨厌雨天。"
+    },
+    {
+      "en": "I'll put the rest in the bank for a rainy day.",
+      "cn": "我要把余款存入银行以备不时之需。"
+    },
+    {
+      "en": "putting money by for a rainy day.",
+      "cn": "存钱以备不时之需。"
+    },
+    {
+      "en": "Rainy weather and fog prohibited flying.",
+      "cn": "多雨的天气和雾妨碍了飞行."
+    },
+    {
+      "en": "Rainy weather brings blessed relief to hay fever victims.",
+      "cn": "雨天会给枯草热患者带来欣喜，减轻他们的痛苦。"
+    },
+    {
+      "en": "She usually goes to work by bike except on rainy days.",
+      "cn": "除了雨天之外,她总是骑自行车上班."
+    },
+    {
+      "en": "Soon the rainy season sets in.",
+      "cn": "很快雨季到了."
+    },
+    {
+      "en": "The camp supplies dampened during the long rainy season.",
+      "cn": "营地的补给品在漫长的雨季里受潮了."
+    },
+    {
+      "en": "The overcast and rainy weather found out his arthritis.",
+      "cn": "阴雨天使他的关节炎发作了."
+    },
+    {
+      "en": "the rainy season",
+      "cn": "雨季"
+    },
+    {
+      "en": "The rainy season in the Andes normally starts in December.",
+      "cn": "安第斯山区的雨季通常在12月份来临。"
+    },
+    {
+      "en": "The weather won't clear up until the rainy season is over.",
+      "cn": "雨季不结束天不会放晴."
+    },
+    {
+      "en": "Umbrella and raincoats are what people need in rainy days.",
+      "cn": "伞和雨衣都是下雨天人们要用的."
+    },
+    {
+      "en": "We happened to arrive there in the rainy season.",
+      "cn": "我们到时适值雨季."
+    },
+    {
+      "en": "We may expect muggy weather when the rainy season begins.",
+      "cn": "雨季开始时,我们预料有闷热的天气."
+    },
+    {
+      "en": "We should save money against a rainy day.",
+      "cn": "人们要存一些钱,以备不时之用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rainless",
+          "tran_cn": " 缺少雨的；无雨的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rain",
+          "tran_cn": " 雨；下雨；雨天；雨季"
+        },
+        {
+          "word": "raininess",
+          "tran_cn": " 多雨；雨量强度"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "rain",
+          "tran_cn": " 下雨；降雨"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rain",
+          "tran_cn": " 大量地给；使大量落下"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "dripping",
+            "drippy",
+            "raining",
+            "showering",
+            "stormy"
+          ],
+          "tran_cn": "多雨的"
+        },
+        {
+          "words": [
+            "damp",
+            "moist",
+            "wet"
+          ],
+          "tran_cn": "湿的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a rainy day",
+      "tran_cn": "可能有困难（尤指缺钱）的未来日子"
+    },
+    {
+      "phrase": "rainy day",
+      "tran_cn": "雨天；穷困时期"
+    },
+    {
+      "phrase": "rainy night",
+      "tran_cn": "雨夜"
+    },
+    {
+      "phrase": "rainy season",
+      "tran_cn": "雨季"
+    },
+    {
+      "phrase": "rainy weather",
+      "tran_cn": "雨天气候；雨季"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "下雨的，多雨的",
+      "tran_en": "a rainy period of time is one when it rains a lot"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "(Rainy)人名；(英)雷尼"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "阴雨的",
+      "tran_en": "a rainy period of time is one when it rains a lot"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "rainier"
+    ],
+    "est": [
+      "rainiest"
+    ]
+  }
+}

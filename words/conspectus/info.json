@@ -1,0 +1,64 @@
+{
+  "word": "conspectus",
+  "ipa": {
+    "us": "kən'spektəs",
+    "uk": "kənˈspɛktəs"
+  },
+  "sentences": [
+    {
+      "en": "The course conspectus here is for reference only.",
+      "cn": "这里的课程大纲仅供参考。"
+    },
+    {
+      "en": "The design theory consists of architecture conspectus, basic elements, basic knowledge, and steps of the design and conformation structure.",
+      "cn": "设计原理部分包括：建筑概论，建筑的基本要素，建筑的基本知识，建筑（方案）设计的步骤，形态构成。"
+    },
+    {
+      "en": "The first part is conspectus, which including the definition of steel structure architecture and a general background knowledge.",
+      "cn": "第一部分为概论，包括钢结构建筑的概念及相关背景知识的阐述。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "overview",
+            "generality"
+          ],
+          "tran_cn": "概论；概观"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abbreviation",
+            "compression",
+            "condensation",
+            "sketch",
+            "summary"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<正>概要，大纲，一览表",
+      "tran_en": "an overall view; survey "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "conspectuses"
+    ]
+  }
+}

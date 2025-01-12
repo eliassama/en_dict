@@ -1,0 +1,172 @@
+{
+  "word": "shipment",
+  "ipa": {
+    "us": "ˈʃɪpmənt",
+    "uk": "ˈʃɪpmənt"
+  },
+  "sentences": [
+    {
+      "en": "10 percent down and the balance at the time of shipment?",
+      "cn": "百分之十付现款,余额在装运时付清 吗 ?"
+    },
+    {
+      "en": "Bananas are packed before being transported to the docks for shipment overseas.",
+      "cn": "香蕉在运到码头发往海外之前已经装箱。"
+    },
+    {
+      "en": "He rode a shipment of machines in the truck on his return trip.",
+      "cn": "他开卡车回来的时候搭运了一批机器."
+    },
+    {
+      "en": "I'm afraid that this shipment was not up to your own standard.",
+      "cn": "我恐怕这批货达不到你们自己的标准."
+    },
+    {
+      "en": "In that case we can submit the entry several days after shipment.",
+      "cn": "在这种情况下,可以在装运后的几天内提出申报."
+    },
+    {
+      "en": "In this shipment, there is a difference of 50 tins.",
+      "cn": "这批货少了50箱."
+    },
+    {
+      "en": "Please advise the date of shipment as soon as possible.",
+      "cn": "请尽快通知装货日期."
+    },
+    {
+      "en": "The goods are done up in bundles for shipment.",
+      "cn": "货物已打包以备装船."
+    },
+    {
+      "en": "The goods are ready for shipment.",
+      "cn": "货物备妥待运。"
+    },
+    {
+      "en": "The shipment does not check with the sample.",
+      "cn": "装船的货物与货样不符."
+    },
+    {
+      "en": "The vase was fragmented in shipment.",
+      "cn": "花瓶在运送途中被打碎了."
+    },
+    {
+      "en": "The whole shipment of cattle made the grade as prime beef.",
+      "cn": "这批牛全部达到了上等牛肉的标准."
+    },
+    {
+      "en": "There was a great deal of breakage in that shipment of glassware.",
+      "cn": "那批玻璃器皿损坏了很多."
+    },
+    {
+      "en": "These are articles ready for shipment.",
+      "cn": "这些是准备装运的货物."
+    },
+    {
+      "en": "We will do our best to advance shipment but cannot commit ourselves.",
+      "cn": "我们一定尽力提前装船,但不能保证."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "loading"
+          ],
+          "tran_cn": "装货；装载的货物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cargo",
+            "delivery",
+            "freight",
+            "load",
+            "transmission"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "actual shipment",
+      "tran_cn": "实际装运；实际载货量"
+    },
+    {
+      "phrase": "advance shipment",
+      "tran_cn": "提前装船"
+    },
+    {
+      "phrase": "advice of shipment",
+      "tran_cn": "装船通知；装运通知；船运通知"
+    },
+    {
+      "phrase": "date of shipment",
+      "tran_cn": "装船日期；发料日期"
+    },
+    {
+      "phrase": "effect shipment",
+      "tran_cn": "交货"
+    },
+    {
+      "phrase": "immediate shipment",
+      "tran_cn": "立即装船"
+    },
+    {
+      "phrase": "late shipment",
+      "tran_cn": "延迟装运；前批装船货物"
+    },
+    {
+      "phrase": "partial shipment",
+      "tran_cn": "分批装运，部分装运"
+    },
+    {
+      "phrase": "port of shipment",
+      "tran_cn": "装货港；出发港；起运港"
+    },
+    {
+      "phrase": "prompt shipment",
+      "tran_cn": "即期装船"
+    },
+    {
+      "phrase": "received for shipment",
+      "tran_cn": "储运；收货候装；待装船"
+    },
+    {
+      "phrase": "shipment date",
+      "tran_cn": "装船日期；装运期"
+    },
+    {
+      "phrase": "shipment quantity",
+      "tran_cn": "够装运的数量"
+    },
+    {
+      "phrase": "shipment value",
+      "tran_cn": "进出口货物金额"
+    },
+    {
+      "phrase": "time of shipment",
+      "tran_cn": "交货时间；装运时间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "装运，载货量，装货，装载的货物",
+      "tran_en": "a load of goods sent by sea, road, or air, or the act of sending them"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "shipments"
+    ]
+  }
+}

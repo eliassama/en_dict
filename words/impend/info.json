@@ -1,0 +1,93 @@
+{
+  "word": "impend",
+  "ipa": {
+    "us": "ɪm'pend",
+    "uk": "ɪmˈpɛnd"
+  },
+  "sentences": [
+    {
+      "en": "Crucial events impend in Europe.",
+      "cn": "欧洲即将发生具有决定意义的事变."
+    },
+    {
+      "en": "This very recklessness makes me feel that these costly operations may be only the prelude to far larger events which impend on land.",
+      "cn": "这种孤注一掷的作法，使我感到这些代价重大的战役，也许正是陆上即将发生。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "impendent",
+          "tran_cn": " 即将发生的；迫近的"
+        },
+        {
+          "word": "impending",
+          "tran_cn": " 即将发生的；迫切的；悬挂的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "impendence",
+          "tran_cn": " 迫切；危急"
+        },
+        {
+          "word": "impendency",
+          "tran_cn": " 迫切；危急"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "impending",
+          "tran_cn": " 迫近；悬空（impend的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "close in"
+          ],
+          "tran_cn": "迫近；即将发生"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 威胁； 即将发生",
+      "tran_en": "(esp of something threatening) to be about to happen; be imminent "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "进行威胁，即将发生"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "impends"
+    ],
+    "past": [
+      "impended"
+    ],
+    "done": [
+      "impended"
+    ],
+    "ing": [
+      "impending"
+    ]
+  }
+}

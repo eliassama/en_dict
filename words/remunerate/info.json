@@ -1,0 +1,111 @@
+{
+  "word": "remunerate",
+  "ipa": {
+    "us": "rɪˈmju:nəreɪt",
+    "uk": "rɪˈmjunəˌret"
+  },
+  "sentences": [
+    {
+      "en": "The company will remunerate you for your travelling expenses.",
+      "cn": "公司将给你报销旅费。"
+    },
+    {
+      "en": "The company will remunerate you travelling expenses.",
+      "cn": "公司将给你报销旅费."
+    },
+    {
+      "en": "You will be remunerated and so will your staff.",
+      "cn": "你将会得到报酬，你的员工也会。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "remunerated",
+          "tran_cn": " 获得酬金的"
+        },
+        {
+          "word": "remunerative",
+          "tran_cn": " 有利可图的；有报酬的；合算的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "remuneration",
+          "tran_cn": " 报酬；酬劳，赔偿"
+        },
+        {
+          "word": "remunerator",
+          "tran_cn": " 酬劳者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "remunerated",
+          "tran_cn": " 付给…报酬（remunerate的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "pay",
+            "reward"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "make good",
+            "indemnify"
+          ],
+          "tran_cn": "酬劳；给与报酬；赔偿"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "酬劳；给与报酬；赔偿",
+      "tran_en": "If you are remunerated for work that you do, you are paid for it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "酬劳",
+      "tran_en": "If you are remunerated for work that you do, you are paid for it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "remunerates"
+    ],
+    "past": [
+      "remunerated"
+    ],
+    "done": [
+      "remunerated"
+    ],
+    "ing": [
+      "remunerating"
+    ]
+  }
+}

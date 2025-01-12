@@ -1,0 +1,136 @@
+{
+  "word": "regularize",
+  "ipa": {
+    "us": "ˈregjələraɪz",
+    "uk": "ˈrɛɡjələˌraɪz"
+  },
+  "sentences": [
+    {
+      "en": "Clear particles, constantly regularize skin, balance PH value, assist acne skin to prevent blemish.",
+      "cn": "清透微粒持续调理肌肤, 平衡PH值, 帮助暗疮肌肤减低?生瑕疵的机会."
+    },
+    {
+      "en": "Cohabiting couples would regularize their unions, they said.",
+      "cn": "他们说，同居情侣会让他们的结合合法化。"
+    },
+    {
+      "en": "The accounting standard is the basis to regularize accounting activities.",
+      "cn": "摘要《企业会计准则-固定资产》是企业固定资产会计的基本规范."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "regular",
+          "tran_cn": " 定期的；有规律的；合格的；整齐的"
+        },
+        {
+          "word": "regularized",
+          "tran_cn": " 正规化的"
+        },
+        {
+          "word": "regulative",
+          "tran_cn": " 调整的，调节的；管制的"
+        },
+        {
+          "word": "regulatory",
+          "tran_cn": " 管理的；控制的；调整的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "regular",
+          "tran_cn": " 定期地；经常地"
+        },
+        {
+          "word": "regularly",
+          "tran_cn": " 定期地；有规律地；整齐地；匀称地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "regular",
+          "tran_cn": " 常客；正式队员；中坚分子"
+        },
+        {
+          "word": "regularity",
+          "tran_cn": " 规则性；整齐；正规；匀称"
+        },
+        {
+          "word": "regularization",
+          "tran_cn": " 规则化；调整；合法化"
+        },
+        {
+          "word": "regulator",
+          "tran_cn": " 调整者；校准器"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "regularized",
+          "tran_cn": " 正规化（regularize的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "regularise",
+          "tran_cn": " 使合法化；使有秩序（等于regularize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "adjust",
+            "coordinate",
+            "restructure"
+          ],
+          "tran_cn": "调整；使有秩序；使合法化"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使有规则, 使有秩序"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使有规则，使有秩序，调整，使系统化"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "regularizes"
+    ],
+    "past": [
+      "regularized"
+    ],
+    "done": [
+      "regularized"
+    ],
+    "ing": [
+      "regularizing"
+    ]
+  }
+}

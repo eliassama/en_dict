@@ -1,0 +1,93 @@
+{
+  "word": "alienable",
+  "ipa": {
+    "us": "ˈeɪliənəbl",
+    "uk": "ˈæljənəbəl, ˈeliə-"
+  },
+  "sentences": [
+    {
+      "en": "At common law, the right of re - entry is not alienable, assignable, or devisable.",
+      "cn": "普通法上， 收回权是不可流转、 转让或遗赠的。"
+    },
+    {
+      "en": "In the world of Chinese human relationship , there ares o alienable phenomena of human association.",
+      "cn": "在中国人的人情世界中, 人情交往的异化现象是大量存在的."
+    },
+    {
+      "en": "One solution to this agency problem is to have no alienable residual claims and to contract with donors to apply all net cash flows to output.",
+      "cn": "解决这种代理问题的方案是让剩余索取权不具有可转让性，并且和捐赠者签定契约，把现金流用在适当的地方。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "alien",
+          "tran_cn": " 外国的；相异的，性质不同的；不相容的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "alien",
+          "tran_cn": " 外国人，外侨；外星人"
+        },
+        {
+          "word": "alienation",
+          "tran_cn": " 异化；疏远；转让；[内科] 精神错乱；间离效果（alienation effect）"
+        },
+        {
+          "word": "alienator",
+          "tran_cn": " 疏远者；赠予者；转让者"
+        },
+        {
+          "word": "alienee",
+          "tran_cn": " 受让人"
+        },
+        {
+          "word": "alienor",
+          "tran_cn": " 让渡人"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "alien",
+          "tran_cn": " 让渡，转让"
+        },
+        {
+          "word": "alienate",
+          "tran_cn": " 使疏远，离间；让与"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "transferable",
+            "shiftable"
+          ],
+          "tran_cn": "可让与的，可转让的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可让与的",
+      "tran_en": "(of property) transferable to another owner "
+    }
+  ],
+  "exchange": {}
+}

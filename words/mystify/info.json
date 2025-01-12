@@ -1,0 +1,163 @@
+{
+  "word": "mystify",
+  "ipa": {
+    "us": "ˈmɪstɪfaɪ",
+    "uk": "ˈmɪstɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "He has done more to confuse and mystify the subject than to clear it up.",
+      "cn": "他所做的恰恰是把这个学科搞得既混乱又神秘,而不是把它搞清楚."
+    },
+    {
+      "en": "Her disappearance has mystified her friends and neighbors.",
+      "cn": "她的失踪使她的朋友和邻居迷惑不解。"
+    },
+    {
+      "en": "I signal to Cui advance towards me and show him this mystify creature.",
+      "cn": "我向崔巍示意让他马上游过来,并指出这条神秘化的鱼类!"
+    },
+    {
+      "en": "The result, if not the intent, is to mystify the public.",
+      "cn": "结果, 如果不是有意的, 是迈向香港市民."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mysterious",
+          "tran_cn": " 神秘的；不可思议的；难解的"
+        },
+        {
+          "word": "mystic",
+          "tran_cn": " 神秘的；神秘主义的"
+        },
+        {
+          "word": "mystical",
+          "tran_cn": " 神秘的；神秘主义的"
+        },
+        {
+          "word": "mystified",
+          "tran_cn": " 困惑的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "mysteriously",
+          "tran_cn": " 神秘地；故弄玄虚地；难以理解地"
+        },
+        {
+          "word": "mystically",
+          "tran_cn": " 神秘地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mystery",
+          "tran_cn": " 神秘，秘密；奥秘；神秘的事物"
+        },
+        {
+          "word": "mystic",
+          "tran_cn": " 神秘主义者"
+        },
+        {
+          "word": "mysticism",
+          "tran_cn": " 神秘；神秘主义；谬论"
+        },
+        {
+          "word": "mystification",
+          "tran_cn": " 神秘化；困惑不解；骗人的把戏"
+        },
+        {
+          "word": "mystique",
+          "tran_cn": " 奥秘，秘诀；神秘性"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "mystified",
+          "tran_cn": " 使迷惑（mystify的过去分词）；使难解"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addle",
+            "baffle",
+            "bewilder",
+            "cloud",
+            "confound",
+            "muddy",
+            "perplex",
+            "puzzle",
+            "stump"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "baffle",
+            "bewilder",
+            "confound",
+            "perplex",
+            "puzzle"
+          ],
+          "tran_cn": "使迷惑"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使神秘化；使迷惑，使困惑",
+      "tran_en": "if something mystifies you, it is so strange or confusing that you cannot understand or explain it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使神秘化，使迷惑，使困惑"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "mystifies"
+    ],
+    "past": [
+      "mystified"
+    ],
+    "done": [
+      "mystified"
+    ],
+    "ing": [
+      "mystifying"
+    ],
+    "noun": [
+      "mystification"
+    ],
+    "adj": [
+      "mystifying"
+    ]
+  }
+}

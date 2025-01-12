@@ -1,0 +1,197 @@
+{
+  "word": "install",
+  "ipa": {
+    "us": "ɪnˈstɔːl",
+    "uk": "ɪnˈstɔːl"
+  },
+  "sentences": [
+    {
+      "en": "\" If you install more memory, you can use it fairly well. \"",
+      "cn": "如果增加内存的话, 你的电脑就还可以用."
+    },
+    {
+      "en": "Easy to clean, maintain, install, cost effective yet attractive design.",
+      "cn": "易清洁 、 易保养 、 易安装, 既经济又美观."
+    },
+    {
+      "en": "He always say to install gas by man.",
+      "cn": "他总说叫人把煤气装上."
+    },
+    {
+      "en": "He's going to install an air - conditioner in the house.",
+      "cn": "他要在这屋子里装 空调机."
+    },
+    {
+      "en": "How to install FTP Server for File Transfer service?",
+      "cn": "如何安装FTP服务来提供文件传输服务?"
+    },
+    {
+      "en": "I decided to install temporary SF, which made Victor nervous.",
+      "cn": "我决定安装临时的特种设备, 这使维克托感到紧张不安."
+    },
+    {
+      "en": "It was said that he went to great expense to install a lift in the building.",
+      "cn": "据说他花费巨资在大楼里安装了一台电梯。"
+    },
+    {
+      "en": "It would cost about £3,000 to install a new heating system in a flat such as theirs.",
+      "cn": "在他们那样的一套公寓房里安装一套新的供暖系统可能要花费3,000英镑左右。"
+    },
+    {
+      "en": "Security cameras have been installed in the city centre.",
+      "cn": "在市中心已安装了一些监控摄像机。"
+    },
+    {
+      "en": "The shower is easy to install — it needs only to be connected up to the hot and cold water supply.",
+      "cn": "淋浴器很容易安装——只要接上冷热水就行。"
+    },
+    {
+      "en": "The unit is comparatively easy to install and cheap to operate.",
+      "cn": "这种设备比较容易安装而且用起来便宜。"
+    },
+    {
+      "en": "They will install a heating and lighting system in our house.",
+      "cn": "他们将在我们家装上供热供电系统."
+    },
+    {
+      "en": "They’ve installed the new computer network at last.",
+      "cn": "他们终于安装了新电脑网络。"
+    },
+    {
+      "en": "To minimize the risk of burglary, install a good alarm system.",
+      "cn": "安装可靠的报警设备以减低被盗的风险."
+    },
+    {
+      "en": "Utility companies could install and maintain them.",
+      "cn": "公用事业公司可以安装并保养它们."
+    },
+    {
+      "en": "We remove these rear controls and install them as canard controls.",
+      "cn": "我们把尾部控制改为鸭式控制."
+    },
+    {
+      "en": "You think the average Storm Trooper knows how to install a toilet main?",
+      "cn": "你以为风暴骑兵大都知道怎样造厕所 啊 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "installing",
+          "tran_cn": " 安装的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "installation",
+          "tran_cn": " 安装，装置；就职"
+        },
+        {
+          "word": "installing",
+          "tran_cn": " 安装；插入；任命"
+        },
+        {
+          "word": "installment",
+          "tran_cn": " 安装；分期付款；部分；就职"
+        },
+        {
+          "word": "instalment",
+          "tran_cn": " 分期付款；装设；就职"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "installing",
+          "tran_cn": " 安装；安置（install的ing形式）；正式任命"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "instal",
+          "tran_cn": " 安装；使就任；设置"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "enthrone",
+            "induct",
+            "nominate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "admit",
+            "establish",
+            "in",
+            "inaugurate",
+            "instate",
+            "let",
+            "receive"
+          ],
+          "tran_cn": "安置;容许;接受"
+        },
+        {
+          "words": [
+            "fix",
+            "in",
+            "place",
+            "plant",
+            "put",
+            "set"
+          ],
+          "tran_cn": "安装;固定"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "安装",
+      "tran_en": "to put a piece of equipment somewhere and connect it so that it is ready to be used"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "安装，安顿，安置，任命，使…正式就职",
+      "tran_en": "to put a piece of equipment somewhere and connect it so that it is ready to be used"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "installs"
+    ],
+    "past": [
+      "installed"
+    ],
+    "done": [
+      "installed"
+    ],
+    "ing": [
+      "installing"
+    ]
+  }
+}

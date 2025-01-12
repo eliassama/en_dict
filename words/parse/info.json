@@ -1,0 +1,158 @@
+{
+  "word": "parse",
+  "ipa": {
+    "us": "pɑ:z",
+    "uk": "pɑrs"
+  },
+  "sentences": [
+    {
+      "en": "Be mindful if you use the free parse functions.",
+      "cn": "紧记,如果你使用自由的parse函数."
+    },
+    {
+      "en": "Can you explain briefly the difference between soft and hard parse?",
+      "cn": "你能不能给我详细介绍一下软解析与硬解析的区别 啊 ?"
+    },
+    {
+      "en": "Closure enabled non - terminals, by default, default - construct variables upon entering the parse member function.",
+      "cn": "默认的, 闭包允许 非 终结符在进入parse成员函数前初始化有默认构造函数的变量."
+    },
+    {
+      "en": "Closures provide named ( lazy ) variables associated with each parse rule invocation.",
+      "cn": "闭包提供了与每次规则调用相关联的命名 ( 惰性 ) 变量."
+    },
+    {
+      "en": "GDB could not parse a type specification output by the compiler.",
+      "cn": "GDB不能分析编译器产生的某种类型的说明."
+    },
+    {
+      "en": "How do I parse, create, and manipulate internet formats?",
+      "cn": "怎样才能分析 、 创建和操作网络格式的文本?"
+    },
+    {
+      "en": "How to parse polls, play the odds, and embrace uncertainty.",
+      "cn": "怎样剖析投票, 怎样碰碰运气, 以及怎样接受不确定性."
+    },
+    {
+      "en": "How would you parse it, then?",
+      "cn": "那么，如何解析它呢？"
+    },
+    {
+      "en": "I simply could not parse what you just said.",
+      "cn": "我完全无法对你刚说的话作语法分析."
+    },
+    {
+      "en": "I simply couldn't parse what you just said.",
+      "cn": "我完全无法对你刚说的话作语法分析。"
+    },
+    {
+      "en": "Let him construe the letter into English, and parse it over perfectly.",
+      "cn": "让他把信件逐字翻译成英文, 并且完美地对它作语法分析."
+    },
+    {
+      "en": "Now we are ready to parse the request into its constituent items.",
+      "cn": "现在我们可以准备开始编译请求了."
+    },
+    {
+      "en": "The Directory Service cannot parse the script because of a syntax error.",
+      "cn": "由于语法错误,目录服务无法分解此脚本."
+    },
+    {
+      "en": "The rule Parse - Vp will now trigger.",
+      "cn": "规则PARSE-VP现在将触发."
+    },
+    {
+      "en": "The rule Parse - Vp will now trigger.",
+      "cn": "规则PARSE-vp现在将触发."
+    },
+    {
+      "en": "Then you could have your test automation read, parse, and use the data in this file.",
+      "cn": "然后您可以让您的测试自动化读取、解析和使用该文件中的数据。"
+    },
+    {
+      "en": "Then you go and parse hundreds of thousands of games.",
+      "cn": "接着你就可以用其来分析数以千计的对局了."
+    },
+    {
+      "en": "This method is intended for debugging only, as it lets me compare the result of a parse with expected results.",
+      "cn": "我只是打算在调试时使用这个方法，它可以让我用所期望的结果与解析的结果作比较。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "parser",
+          "tran_cn": " [计] 分析程序；语法剖析程式"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fanout"
+          ],
+          "tran_cn": "从语法上分析；分列"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "cotton on",
+            "get at"
+          ],
+          "tran_cn": "理解；从语法上分析"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "anatomise"
+          ],
+          "tran_cn": "解析；从语法上分析"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "从语法上分析；分列"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "解析",
+      "tran_en": "to describe the grammar of a word when it is in a particular sentence, or the grammar of the whole sentence"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "从语法上描述或分析（词句等）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "parses"
+    ],
+    "past": [
+      "parsed"
+    ],
+    "done": [
+      "parsed"
+    ],
+    "ing": [
+      "parsing"
+    ]
+  }
+}

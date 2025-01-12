@@ -1,0 +1,201 @@
+{
+  "word": "assure",
+  "ipa": {
+    "us": "əˈʃʊə(r)",
+    "uk": "əˈʃʊr"
+  },
+  "sentences": [
+    {
+      "en": "'Is, I assure you,'said the spy;'though it's not important.'",
+      "cn": "“ 的确是, 我向你保证, ” 密探说, “ 虽然这并不重要. ”"
+    },
+    {
+      "en": "And let me assure you I will use whatever force is necessary to restore order.",
+      "cn": "我向你保证，我将动用一切必要力量来恢复秩序。"
+    },
+    {
+      "en": "He hastened to assure us that the press would not be informed.",
+      "cn": "他急忙向我们保证新闻界是不会知道的."
+    },
+    {
+      "en": "I assure you I am quite sane.",
+      "cn": "我向大家保证,我的脑筋很健全."
+    },
+    {
+      "en": "I assure you that she can be trusted to do the job.",
+      "cn": "我担保她能做好这项工作."
+    },
+    {
+      "en": "I can assure you that the animals are well cared for.",
+      "cn": "我可以向你保证动物们得到了精心照顾。"
+    },
+    {
+      "en": "I can certainly assure you I'm looking after number one all right.",
+      "cn": "我可以肯定地向你保证,我会照顾好自己的."
+    },
+    {
+      "en": "Let me assure you that it was not intentional.",
+      "cn": "我向你保证那不是故意的."
+    },
+    {
+      "en": "Moreover, he wanted to assure himself that Huck had remained discreet.",
+      "cn": "而且, 他想搞清楚,哈克是否始终没把这个秘密泄露出去."
+    },
+    {
+      "en": "Mr Brownson, I assure you King's an old enemy of mine.",
+      "cn": "布朗森先生，我向你保证金是我的老冤家。"
+    },
+    {
+      "en": "The document is genuine, I can assure you .",
+      "cn": "我能向你保证，这文件是真的。"
+    },
+    {
+      "en": "The only ladder to assure success is to work hard.",
+      "cn": "确保成功的惟一途径是刻苦努力."
+    },
+    {
+      "en": "This may sound trivial, but I assure you it is quite important!",
+      "cn": "这听上去也许微不足道，但是，相信我，它十分重要！"
+    },
+    {
+      "en": "You think you are clever; on the contrary, I assure that you are very foolish.",
+      "cn": "你自以为很聪明, 相反地, 我确信你很傻."
+    },
+    {
+      "en": "You will have a bad quarter of an hour of it, I assure you.",
+      "cn": "我敢保证, 你准得受一刻钟的罪."
+    },
+    {
+      "en": "You'll like it; I assure you.",
+      "cn": "包你满意."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "assured",
+          "tran_cn": " 确定的；自信的"
+        },
+        {
+          "word": "assuring",
+          "tran_cn": " 保证的；确信的；使人有信心的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "assuredly",
+          "tran_cn": " 确实地；确信地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assurance",
+          "tran_cn": " 保证；保险；确信；断言"
+        },
+        {
+          "word": "assured",
+          "tran_cn": " 被保险人"
+        },
+        {
+          "word": "assuredness",
+          "tran_cn": " 确实；自信；确信；厚颜"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "assured",
+          "tran_cn": " 保证；确实（assure的过去分词）"
+        },
+        {
+          "word": "assuring",
+          "tran_cn": " 确信（assure的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comfort",
+            "convince",
+            "ensure",
+            "guarantee",
+            "insure",
+            "pledge",
+            "satisfy",
+            "testify",
+            "vouch",
+            "vow"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "certain",
+            "convince",
+            "guarantee",
+            "make",
+            "pledge",
+            "promise"
+          ],
+          "tran_cn": "担保;使确信;确保"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "assure of",
+      "tran_cn": "vt. 向...保证）；查明（使相信"
+    },
+    {
+      "phrase": "assure oneself",
+      "tran_cn": "弄清楚，查明"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使确信，查明，人寿保险",
+      "tran_en": "to tell someone that something will definitely happen or is definitely true so that they are less worried"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 使确信； 确保， 向…保证",
+      "tran_en": "to tell someone that something will definitely happen or is definitely true so that they are less worried"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "assures"
+    ],
+    "past": [
+      "assured"
+    ],
+    "done": [
+      "assured"
+    ],
+    "ing": [
+      "assuring"
+    ]
+  }
+}

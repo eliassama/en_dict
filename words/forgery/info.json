@@ -1,0 +1,188 @@
+{
+  "word": "forgery",
+  "ipa": {
+    "us": "ˈfɔ:dʒəri",
+    "uk": "ˈfɔrdʒəri"
+  },
+  "sentences": [
+    {
+      "en": "Experts are dismissing claims that the painting is a forgery.",
+      "cn": "专家排除了这幅画是赝品的说法。"
+    },
+    {
+      "en": "He was found guilty of forgery.",
+      "cn": "他被判伪造罪名成立。"
+    },
+    {
+      "en": "He was sent to prison for forgery.",
+      "cn": "他因伪造罪而被关进监狱."
+    },
+    {
+      "en": "He was sentenced to 3 years for forgery.",
+      "cn": "他因假造文件被判了三年徒刑."
+    },
+    {
+      "en": "I own the document to be a forgery.",
+      "cn": "我承认这文件是伪造的."
+    },
+    {
+      "en": "It is forgery even if the document is incomplete or ineffective in law.",
+      "cn": "即使此伪造的文件在法律上是不完整的或失效的,其行为也构成了伪造罪."
+    },
+    {
+      "en": "It was not even forgery.",
+      "cn": "这连伪造都谈不上."
+    },
+    {
+      "en": "The expert pronounced the picture to be a forgery.",
+      "cn": "专家断言这张图是赝品."
+    },
+    {
+      "en": "The letter was a forgery.",
+      "cn": "这封信是伪造的。"
+    },
+    {
+      "en": "The painting was a forgery.",
+      "cn": "这张画是赝品."
+    },
+    {
+      "en": "The painting was a very clever forgery.",
+      "cn": "这幅画是件很巧妙的赝品。"
+    },
+    {
+      "en": "The secretary was falsely convicted of forgery.",
+      "cn": "秘书被判伪造罪很冤枉."
+    },
+    {
+      "en": "They knew the painting was a forgery. Moreover, they knew who had painted it.",
+      "cn": "他们知道那幅画是赝品. 而且还知道是谁仿画的."
+    },
+    {
+      "en": "This letter is a forgery!",
+      "cn": "这封信是伪造品."
+    },
+    {
+      "en": "This picture is not really by Picasso. It is a forgery.",
+      "cn": "这张画并非毕加索画的, 是伪造品."
+    },
+    {
+      "en": "You may take it in your hand; it's no forgery. \"",
+      "cn": "你可以拿过去看, 这可不是伪造的. ”"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "forged",
+          "tran_cn": " 锻的；锻造的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "forge",
+          "tran_cn": " 熔炉，锻铁炉；铁工厂"
+        },
+        {
+          "word": "forger",
+          "tran_cn": " 铁匠；伪造者"
+        },
+        {
+          "word": "forging",
+          "tran_cn": " 锻造；锻件；伪造"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "forged",
+          "tran_cn": " 伪造（forge的过去式）；锻造（金属）"
+        },
+        {
+          "word": "forging",
+          "tran_cn": " 锻造；打制（forge的现在分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "forge",
+          "tran_cn": " 伪造；做锻工"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "forge",
+          "tran_cn": " 伪造；锻造"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "alteration",
+            "copying",
+            "duplication",
+            "fulsification",
+            "imitation",
+            "replication",
+            "reproduction",
+            "sham",
+            "simulation"
+          ],
+          "tran_cn": "伪造"
+        },
+        {
+          "words": [
+            "copy",
+            "counterfeit",
+            "fake",
+            "fraud",
+            "imitation",
+            "reproduction"
+          ],
+          "tran_cn": "伪造物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "expropriation"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "伪造，伪造罪，伪造物，伪造签字",
+      "tran_en": "a document, painting, or piece of paper money that has been copied illegally"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "forgeries"
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "word": "nauseate",
+  "ipa": {
+    "us": "ˈnɔ:zieɪt",
+    "uk": "ˈnɔziˌet, -ʒi-, -si-, -ʃi-"
+  },
+  "sentences": [
+    {
+      "en": "Food did not nauseate her.",
+      "cn": "吮东西并不使她作呕."
+    },
+    {
+      "en": "He was afraid that it might nauseate him and he would vomit and lose his strength.",
+      "cn": "他怕这肉会使他恶心,弄得他呕吐,丧失力气."
+    },
+    {
+      "en": "I began to nauseate the place I was in.",
+      "cn": "我开始厌恶我所住的地方."
+    },
+    {
+      "en": "She could not eat anything without feeling nauseated.",
+      "cn": "她吃什么都想吐。"
+    },
+    {
+      "en": "The smell of frying nauseated her.",
+      "cn": "油炸味道让她恶心。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "nauseated",
+          "tran_cn": " 厌恶的；作呕的"
+        },
+        {
+          "word": "nauseating",
+          "tran_cn": " 令人恶心的；厌恶的"
+        },
+        {
+          "word": "nauseous",
+          "tran_cn": " 令人作呕的；厌恶的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "nausea",
+          "tran_cn": " 恶心，晕船；极端的憎恶"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "nauseated",
+          "tran_cn": " 作呕；厌恶（nauseate的过去分词）"
+        },
+        {
+          "word": "nauseating",
+          "tran_cn": " 使恶心（nauseate的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "disgust",
+            "revolt"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "turn away from",
+            "keck"
+          ],
+          "tran_cn": "作呕；厌恶；产生恶感"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "indispose",
+            "repel"
+          ],
+          "tran_cn": "使厌恶；使恶心；使作呕"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "作呕, 产生恶感, 厌恶",
+      "tran_en": "If something nauseates you, it makes you feel as if you are going to vomit"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使恶心，作呕"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "nauseates"
+    ],
+    "past": [
+      "nauseated"
+    ],
+    "done": [
+      "nauseated"
+    ],
+    "ing": [
+      "nauseating"
+    ],
+    "adv": [
+      "nauseatingly"
+    ],
+    "adj": [
+      "nauseating"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "word": "password",
+  "ipa": {
+    "us": "ˈpɑːswɜːd",
+    "uk": "ˈpæswɜːrd"
+  },
+  "sentences": [
+    {
+      "en": "Advance and give the password.",
+      "cn": "上前说出口令。"
+    },
+    {
+      "en": "Check that the user name is correct, then type the password again.",
+      "cn": "请检查用户名是否正确, 然后再输入一次密码."
+    },
+    {
+      "en": "Enter a username and password to get into the system.",
+      "cn": "进入系统请键入用户名称和密码。"
+    },
+    {
+      "en": "Enter your password, then click on the ‘proceed’ icon.",
+      "cn": "键入密码，然后点击“继续”图标。"
+    },
+    {
+      "en": "Give your user name and password.",
+      "cn": "输入用户名和密码。"
+    },
+    {
+      "en": "In order to log in you have to type in a special password.",
+      "cn": "为了进入,必须键入特殊的通行密码."
+    },
+    {
+      "en": "Is only the verified link account household and the password.",
+      "cn": "只是验证连接者的帐户和密码."
+    },
+    {
+      "en": "It is important to keep your account name and password safe!",
+      "cn": "保证您的帐户名和密码安全很重要!"
+    },
+    {
+      "en": "It was impossible for anyone to get in because no one knew the password.",
+      "cn": "因为没人知道密码，所以任何人都不可能进得去。"
+    },
+    {
+      "en": "Leave the password fields blank if you don't want a password.",
+      "cn": "如果不想使用口令,请把口令字段留空."
+    },
+    {
+      "en": "Micro - motor drive, open the door by inputting the password.",
+      "cn": "微电机驱动, 输入密码,箱门开启."
+    },
+    {
+      "en": "No-one could use the computer unless they had a password.",
+      "cn": "除非知道密码，否则谁也用不了那台计算机。"
+    },
+    {
+      "en": "Password - protected online file storage. Always available where you need it.",
+      "cn": "有密码保护的网络文件存储 工具 ,可随时提供您所需要的."
+    },
+    {
+      "en": "Please reenter your new password for confirmation of its accuracy.",
+      "cn": "请重新输入您的新密码以确保其正确性."
+    },
+    {
+      "en": "Step 7 Enter a new password of the type that you chose.",
+      "cn": "第7步输入的类型,您选择新的密码."
+    },
+    {
+      "en": "The password allows the user to log into the system.",
+      "cn": "用戶用密码可进入系统."
+    },
+    {
+      "en": "You must give the password before they'll let you in.",
+      "cn": "你必须给出口令,他们才会让你进去."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cryptogram",
+            "secret code"
+          ],
+          "tran_cn": "密码；[计][军]口令"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "countersign",
+            "signal"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "change password",
+      "tran_cn": "修改口令"
+    },
+    {
+      "phrase": "new password",
+      "tran_cn": "新口令，新密码"
+    },
+    {
+      "phrase": "old password",
+      "tran_cn": "原口令"
+    },
+    {
+      "phrase": "password cracking",
+      "tran_cn": "密码破解"
+    },
+    {
+      "phrase": "password file",
+      "tran_cn": "口令文件"
+    },
+    {
+      "phrase": "password protection",
+      "tran_cn": "密码保护"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（进入房间、建筑或某个地区的）口令，<计>（使用计算机操作系统的）密码",
+      "tran_en": "a secret group of letters or numbers that you must type into a computer before you can use a system or program"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "passwords"
+    ]
+  }
+}

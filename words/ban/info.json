@@ -1,0 +1,204 @@
+{
+  "word": "ban",
+  "ipa": {
+    "us": "bæn",
+    "uk": "bæn"
+  },
+  "sentences": [
+    {
+      "en": "a ban on the dumping of radioactive waste at sea",
+      "cn": "禁止向海里倾倒放射性废物"
+    },
+    {
+      "en": "a ban on the ivory trade",
+      "cn": "象牙贸易禁令"
+    },
+    {
+      "en": "a call to lift the ban on homosexuals in the military",
+      "cn": "要求取消军中严禁同性恋的呼声"
+    },
+    {
+      "en": "A MORI poll showed that 68% of people opposed the ban.",
+      "cn": "摩利公司的民意测验显示，有68%的人反对这一禁令。"
+    },
+    {
+      "en": "A multilateral nuclear test ban treaty was to be signed.",
+      "cn": "将签署一项禁止核试验的多边条约."
+    },
+    {
+      "en": "a test ban treaty",
+      "cn": "禁止核试验条约"
+    },
+    {
+      "en": "a total ban on cigarette advertising",
+      "cn": "香烟广告的全面禁止"
+    },
+    {
+      "en": "Britain's health experts are pushing for a ban on all cigarette advertising.",
+      "cn": "英国的健康专家正努力争取取缔任何形式的香烟广告。"
+    },
+    {
+      "en": "Good manners ban abusive language anyplace.",
+      "cn": "讲礼貌就是在任何地方都不能讲粗话."
+    },
+    {
+      "en": "I certainly think there should be a ban on tobacco advertising.",
+      "cn": "我确实认为应该禁止香烟广告."
+    },
+    {
+      "en": "Smoking is banned in the building.",
+      "cn": "大楼内禁止吸烟。"
+    },
+    {
+      "en": "Suzhou has a ban on parking cars in this busy street.",
+      "cn": "苏州有条禁令,不准在这条热闹的街上停车."
+    },
+    {
+      "en": "The commission is calling for a global ban on whaling.",
+      "cn": "委员会要求全球禁止捕鲸。"
+    },
+    {
+      "en": "The new law extends this ban beyond 2002.",
+      "cn": "新法令将此项禁令延期到2002年以后."
+    },
+    {
+      "en": "The union has imposed a ban on overtime.",
+      "cn": "工会制定了超时加班的禁令."
+    },
+    {
+      "en": "There is a ban on smoking in petrol stations.",
+      "cn": "加油站禁止吸烟."
+    },
+    {
+      "en": "There is a complete ban on low-flying aircraft.",
+      "cn": "飞机一律禁止低空飞行。"
+    },
+    {
+      "en": "Top supermarkets are to ban many genetically modified foods.",
+      "cn": "大品牌超市即将下架许多转基因食品。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "banning",
+          "tran_cn": " 禁止的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "banning",
+          "tran_cn": " 禁止；禁令"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "banning",
+          "tran_cn": " 禁止；取缔；限制（ban的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "restraining order",
+            "injunction"
+          ],
+          "tran_cn": "禁令，禁忌"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bar",
+            "block",
+            "exclude",
+            "forbid",
+            "obstruct",
+            "out",
+            "outlaw",
+            "prohibit",
+            "shut"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bar",
+            "inhibit",
+            "forbid"
+          ],
+          "tran_cn": "禁止，[法]取缔"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ban from",
+      "tran_cn": "禁止"
+    },
+    {
+      "phrase": "ban ki-moon",
+      "tran_cn": "潘基文（男子名，韩国前外长，联合国秘书长）"
+    },
+    {
+      "phrase": "lift the ban",
+      "tran_cn": "解禁；取消禁令"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "禁止，禁令",
+      "tran_en": "an official order that prevents something from being used or done"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "禁止，取缔",
+      "tran_en": "to say that something must not be done, seen, used etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "取缔，查禁；禁止",
+      "tran_en": "to say that something must not be done, seen, used etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bans"
+    ],
+    "third": [
+      "bans"
+    ],
+    "past": [
+      "banned"
+    ],
+    "done": [
+      "banned"
+    ],
+    "ing": [
+      "banning"
+    ]
+  }
+}

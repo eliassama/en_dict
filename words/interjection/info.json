@@ -1,0 +1,78 @@
+{
+  "word": "interjection",
+  "ipa": {
+    "us": "ˌɪntəˈdʒekʃn",
+    "uk": "ˌɪntərˈdʒekʃn"
+  },
+  "sentences": [
+    {
+      "en": "...the moronic and insensitive interjections of the disc jockey.",
+      "cn": "...该音乐主持人愚蠢而迟钝的插话。"
+    },
+    {
+      "en": "A word which can express an exclamation, a call or a response is called an interjection.",
+      "cn": "叹词是表示感叹、呼唤、应答的词.可以表示惊讶、赞美 、 埋怨、叹息等感情."
+    },
+    {
+      "en": "In grammar , an interjection is a word or a phrase used to express a strong feeling.",
+      "cn": "文法中,感叹语是用来表达一种强烈感情的单词或短语."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interleaf",
+          "tran_cn": " 插入的空白纸；插页"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "interject",
+          "tran_cn": " 突然插入；插嘴"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "parenthesis"
+          ],
+          "tran_cn": "[语]感叹词；插入语；突然的发声"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addition"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "叹词，感叹词",
+      "tran_en": "a word or phrase used to express a strong feeling such as shock, pain, or pleasure"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interjections"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "word": "enticement",
+  "ipa": {
+    "us": "ɪn'taɪsmənt",
+    "uk": "ɪn'taɪsmənt"
+  },
+  "sentences": [
+    {
+      "en": "...a second disk that offers, among other enticements, an interactive tour of Hogwarts.",
+      "cn": "...第二张盘提供了种种诱惑，其中包括一个霍格华兹的互动游览程序。"
+    },
+    {
+      "en": "He fell victim to her enticement.",
+      "cn": "他被她的魅力征服了."
+    },
+    {
+      "en": "There are so many enticement offers that I can not refuse the job.",
+      "cn": "这项工作有那么多优惠待遇,使我难以拒绝."
+    },
+    {
+      "en": "There is so many enticement offer that I can not refuse the job.",
+      "cn": "这项工作有那麽多优惠待遇,使我难以拒绝."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "enticing",
+          "tran_cn": " 迷人的；引诱的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "enticing",
+          "tran_cn": " 引诱；诱骗（entice的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "entice",
+          "tran_cn": " 诱使；怂恿"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "appeal",
+            "charm"
+          ],
+          "tran_cn": "诱惑；怂恿；引诱物；吸引力"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "charm",
+            "invitation",
+            "persuasion",
+            "stimulant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "诱惑，怂恿",
+      "tran_en": "An enticement is something that makes people want to do a particular thing"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "enticements"
+    ],
+    "verb": [
+      "entice"
+    ]
+  }
+}

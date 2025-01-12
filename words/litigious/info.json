@@ -1,0 +1,113 @@
+{
+  "word": "litigious",
+  "ipa": {
+    "us": "lɪˈtɪdʒəs",
+    "uk": "lɪˈtɪdʒəs"
+  },
+  "sentences": [
+    {
+      "en": "a litigious society",
+      "cn": "一个动辄打官司的社会"
+    },
+    {
+      "en": "In these litigious, politically correct times, the perils of making gags can be considerable.",
+      "cn": "在这种动辄法庭上见 、 政治上正确的时代, 讲低级笑话可能会相当危险."
+    },
+    {
+      "en": "The thing was not known to be litigious when purchased.",
+      "cn": "那东西买来时大家都不知道它在法律上是有问题的."
+    },
+    {
+      "en": "We live in a litigious age.",
+      "cn": "我们正处在争强好胜的年龄."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "litigant",
+          "tran_cn": " 诉讼的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "litigant",
+          "tran_cn": " 诉讼当事人"
+        },
+        {
+          "word": "litigation",
+          "tran_cn": " 诉讼；起诉"
+        },
+        {
+          "word": "litigator",
+          "tran_cn": " 诉讼律师；诉讼人"
+        },
+        {
+          "word": "litigiousness",
+          "tran_cn": " 好讼"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "litigate",
+          "tran_cn": " 对簿法庭"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "litigate",
+          "tran_cn": " 在法庭相争；提出诉讼"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "disputative",
+            "quarrelsome"
+          ],
+          "tran_cn": "好诉讼的；好争论的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contentious"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "好打官司的，好争论的",
+      "tran_en": "very willing to take disagreements to a court of law – often used to show disapproval"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "litigiousness"
+    ]
+  }
+}

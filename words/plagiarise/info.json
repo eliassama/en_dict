@@ -1,0 +1,85 @@
+{
+  "word": "plagiarise",
+  "ipa": {
+    "us": "'pleɪdʒəraɪz",
+    "uk": "'pleɪdʒəraɪz"
+  },
+  "sentences": [
+    {
+      "en": "Professional writers who plagiarise can be taken to court and ordered to pay damages.",
+      "cn": "专业抄袭的作者可以被带上法庭,并且要求赔偿伤害."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "plagiaristic",
+          "tran_cn": " 抄袭的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "plagiarism",
+          "tran_cn": " 剽窃；剽窃物"
+        },
+        {
+          "word": "plagiarist",
+          "tran_cn": " 剽窃者，抄袭者；文抄公"
+        },
+        {
+          "word": "plagiarizer",
+          "tran_cn": " 剽窃者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "plagiarize",
+          "tran_cn": " 剽窃；抄袭"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "plagiarize",
+          "tran_cn": " 剽窃；抄袭"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "lift",
+            "copy"
+          ],
+          "tran_cn": "剽窃；抄袭"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 剽窃， 抄袭"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "剽窃，抄袭"
+    }
+  ],
+  "exchange": {}
+}

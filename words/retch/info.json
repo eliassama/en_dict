@@ -1,0 +1,101 @@
+{
+  "word": "retch",
+  "ipa": {
+    "us": "retʃ",
+    "uk": "rɛtʃ"
+  },
+  "sentences": [
+    {
+      "en": "As always, the gin made him shudder and even retch slightly.",
+      "cn": "像往常一样, 他感到一阵哆嗦,甚至有些恶心."
+    },
+    {
+      "en": "The foul smell of his body made me retch.",
+      "cn": "他身上的难闻气味使我恶心."
+    },
+    {
+      "en": "The smell made her retch.",
+      "cn": "这气味让她恶心。"
+    },
+    {
+      "en": "The smell made me retch.",
+      "cn": "这种味道让我恶心。"
+    },
+    {
+      "en": "The strange smell made me retch.",
+      "cn": "这种怪味闻的我直干哕."
+    },
+    {
+      "en": "The sunlight was too bright and the cabin too smelly - anything could make me retch.",
+      "cn": "阳光太刺眼,舱内气味太难闻 —— 任何一样东西都让我恶心."
+    },
+    {
+      "en": "To cause to choke, retch, or undergo a regurgitative spasm.",
+      "cn": "窒息, 作呕, 因为痉挛使人反胃、想吐."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sickness",
+            "emesis"
+          ],
+          "tran_cn": "反胃，呕吐"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "vomit"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "keck",
+            "nauseate"
+          ],
+          "tran_cn": "作呕，反胃；恶心"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 作呕， 恶心",
+      "tran_en": "to try to  vomit "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "干呕"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "retches"
+    ],
+    "past": [
+      "retched"
+    ],
+    "done": [
+      "retched"
+    ],
+    "ing": [
+      "retching"
+    ]
+  }
+}

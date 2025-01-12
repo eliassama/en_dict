@@ -1,0 +1,102 @@
+{
+  "word": "rejoinder",
+  "ipa": {
+    "us": "rɪˈdʒɔɪndə(r)",
+    "uk": "rɪˈdʒɔɪndɚ"
+  },
+  "sentences": [
+    {
+      "en": "'I neither want any thanks, nor merit any,'was the careless rejoinder.",
+      "cn": "“ 我不需要感谢, 也不值得感谢, ” 回答是满不在乎的一句."
+    },
+    {
+      "en": "Among other things, Tanenbaum’s rejoinder contained the following: I still maintain the point that designing a monolithic kernel in 1991 is a fundamental error.",
+      "cn": "而另一边，谭邦宁是如此反驳道：我仍然认为在1991年设计一个宏内核简直就是错得体无完肤！"
+    },
+    {
+      "en": "Bhagwati, the target of the 1998 rejoinder in Foreign Affairs, doesn't dispute that the change in IMF thinking unfolded gradually.",
+      "cn": "1998年《外交事务》上被反驳的对象，对国际货币基金组织的思想变化是逐步展开的没有异议。"
+    },
+    {
+      "en": "But pause for a moment: if government will do a worse job running the banks, the rejoinder is \"worse than whom\"?",
+      "cn": "但让我们停下来想一下：如果政府在经营银行时做的更差，反驳的话就变成“比谁更差？”"
+    },
+    {
+      "en": "He tried to think of a snappy rejoinder.",
+      "cn": "他试图想出一句简短的话来反驳。"
+    },
+    {
+      "en": "In rejoinder, the abolitionists question the superior deterrent value of the death penalty.",
+      "cn": "废除死刑者在答辩中对死刑具有最大的威慑价值表示怀疑."
+    },
+    {
+      "en": "It brought a sharp rejoinder from the teacher.",
+      "cn": "这引起了老师的猛烈反驳."
+    },
+    {
+      "en": "She always has a witty rejoinder to any question.",
+      "cn": "她对待任何问题总能机智地回答。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "rejoin",
+          "tran_cn": " 答辩；回答；重新聚合"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rejoin",
+          "tran_cn": " 再加入；使…再结合；再回答"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contradiction",
+            "response",
+            "reply",
+            "answer"
+          ],
+          "tran_cn": "反驳；回答；（被告的）[法]第二次答辩"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contradiction",
+            "response"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "回答，反驳，答辩",
+      "tran_en": "A rejoinder is a reply, especially a quick, witty, or critical one, to a question or remark"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rejoinders"
+    ]
+  }
+}

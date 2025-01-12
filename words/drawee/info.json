@@ -1,0 +1,120 @@
+{
+  "word": "drawee",
+  "ipa": {
+    "us": "drɔ:'i:",
+    "uk": "drɒ'i"
+  },
+  "sentences": [
+    {
+      "en": "\" The \" presenting Bank \" which is the collecting Bank making presentation to the drawee. \"",
+      "cn": "付款人,即根据托收指示向其提示单据的人."
+    },
+    {
+      "en": "B;Of course ,we must give these checks to drawee bank to collect the funds they owe us .",
+      "cn": "当然，我们必须把这些支票交给票据付款行，并且收回他们欠我们的资金。"
+    },
+    {
+      "en": "B: Yes, they separate all the checks according to drawee bank.",
+      "cn": "职员: 是的, 他们按照票据付款行区分开所有的支票."
+    },
+    {
+      "en": "Drafts must be presented to the negotiating ( or drawee ) bank not later than Oct .10, 2004.",
+      "cn": "汇票不得迟于2004年10月10日议付."
+    },
+    {
+      "en": "Drawee The bank that is going to pay the amount of money specified on the check.",
+      "cn": "付款人将支付支票上确定的金额的银行."
+    },
+    {
+      "en": "In a teller's cheque one bank is the drawer and a second bank is the drawee.",
+      "cn": "在银行柜员支票中,一家银行是出票人,另一家银行是受票人."
+    },
+    {
+      "en": "In case of bill purchase / discount , exposure per drawee generally should not exceed 35 % of the sanctioned fbp limit.",
+      "cn": "如果是押汇贴现票据，每个受票人的敞口通常不应超过批准的出口押汇限额的35 % 。"
+    },
+    {
+      "en": "In the case of a cashier's cheque, the bank is both the drawer and drawee.",
+      "cn": "在银行本票中, 银行既是出票人又是受票人."
+    },
+    {
+      "en": "IV bank which collecting bank making presentation to the drawee.",
+      "cn": "付款人即根据托收指示向其提示单据的人."
+    },
+    {
+      "en": "Presentation, presentment: The collecting bank or the holder of a draft shows and hands over it to the drawee for acceptance or payment.",
+      "cn": "提示代收行或持票人将汇票出示并提交给受票人，要求承兑或付款的行为叫做提示。"
+    },
+    {
+      "en": "Sight: The drawee sees te draft when it is presented.",
+      "cn": "见票汇票被提示时受票人看到汇票叫见票."
+    },
+    {
+      "en": "The bill must be unconditional between the drawer and drawee.",
+      "cn": "在出票人和受票人之间汇票必须是无条件的."
+    },
+    {
+      "en": "Then they deliver the actual checks to each drawee bank.",
+      "cn": "然后,票据交换所把这些实际的支票交给每个标据付款行."
+    },
+    {
+      "en": "There are three parties to a money order : the remitter ( payer ), the payee and drawee.",
+      "cn": "汇款单涉及三方: 汇款人 ( 付款人 ) 、 收款人、受票人."
+    },
+    {
+      "en": "This person ( the buyer ) is known as the drawee.",
+      "cn": "被指定者 ( 买方 ) 称为受票人."
+    },
+    {
+      "en": "When a Bill of Exchange has been accepted by the drawee it becomes negotiable.",
+      "cn": "受票人承兑汇票后,这张汇票就可以在市面上流通."
+    },
+    {
+      "en": "Yes, they separate all the checks according to drawee bank.",
+      "cn": "是的, 他们按照票据付款行区分开所有的支票."
+    },
+    {
+      "en": "Yes, we do. But we have to send a personal check to drawee bank for collection.",
+      "cn": "不, 我不是说我们不受理个人支票, 只是我们必须先把个人支票送到付款行去托收."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "drawer",
+          "tran_cn": " 抽屉；[会计] 开票人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "payer",
+            "payor"
+          ],
+          "tran_cn": "（支票、汇票等的）[金融]付款人，[贸易]受票人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "drawee bank",
+      "tran_cn": "[经]受票银行"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（支票、汇票等的）付款人",
+      "tran_en": "the person or organization on which a cheque or other order for payment is drawn "
+    }
+  ],
+  "exchange": {}
+}

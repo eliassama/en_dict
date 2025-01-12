@@ -1,0 +1,165 @@
+{
+  "word": "civilize",
+  "ipa": {
+    "us": "ˈsɪvəlaɪz",
+    "uk": "ˈsɪvəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "\"I think it would civilize people a bit more if they had decent conditions.\" — \"I think you've hit the nail on the head.\"",
+      "cn": "“我认为，如果人们有良好的环境，就会更有教养一点。”——“我想你说到点子上了。”"
+    },
+    {
+      "en": "Ellis was credited with civilizing the Texas prison system.",
+      "cn": "据信是埃利斯改良了得克萨斯州的监狱制度。"
+    },
+    {
+      "en": "Knowledge can civilize people.",
+      "cn": "知识能够使人有教养."
+    },
+    {
+      "en": "The missionaries went out to civilize other places.",
+      "cn": "传教士们去异国他乡教化当地人民。"
+    },
+    {
+      "en": "They tried to civilize the natives.",
+      "cn": "他们企图教化土人."
+    },
+    {
+      "en": "Those facilities are intended to civilize people.",
+      "cn": "那些设施的目的在于教化民众."
+    },
+    {
+      "en": "To civilize the barbarous people is not easy.",
+      "cn": "要使野蛮人开化不是简单的."
+    },
+    {
+      "en": "Widow Douglas is trying to civilize me? and I won't stand for that.",
+      "cn": "道格拉斯寡妇想要教化我,那我可受不了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "civil",
+          "tran_cn": " 公民的；民间的；文职的；有礼貌的；根据民法的"
+        },
+        {
+          "word": "civilised",
+          "tran_cn": " 文明的"
+        },
+        {
+          "word": "civilized",
+          "tran_cn": " 文明的；有礼貌的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "civilisation",
+          "tran_cn": " （英）文明（等于civilization）"
+        },
+        {
+          "word": "civilization",
+          "tran_cn": " 文明；文化"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "civilized",
+          "tran_cn": " 教化；使…文明；启发（civilize的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "civilise",
+          "tran_cn": " 变成文明社会（等于civilize）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "civilise",
+          "tran_cn": " 教化；文明化；使开化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "educate",
+            "humanize",
+            "indoctrinate",
+            "socialize"
+          ],
+          "tran_cn": "使文明,教化"
+        },
+        {
+          "words": [
+            "citify",
+            "cultivate",
+            "edify",
+            "elevate",
+            "enlighten",
+            "sophisticate"
+          ],
+          "tran_cn": "教育,除去野蛮习俗"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to teach"
+          ],
+          "tran_cn": "使文明；教化；使开化"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "教化，使有教养",
+      "tran_en": "to improve a society so that it is more organized and developed, and often more fair or comfortable"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 使文明， 使开化， 教育",
+      "tran_en": "to influence someone’s behaviour, making or teaching them to act in a more sensible or gentle way"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "civilizes"
+    ],
+    "past": [
+      "civilized"
+    ],
+    "done": [
+      "civilized"
+    ],
+    "ing": [
+      "civilizing"
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "word": "evaluate",
+  "ipa": {
+    "us": "ɪˈvæljueɪt",
+    "uk": "ɪˈvæljueɪt"
+  },
+  "sentences": [
+    {
+      "en": "A single specimen testing record is sufficient to evaluate.",
+      "cn": "单试件试验结果对计算是足够用的."
+    },
+    {
+      "en": "Don't evaluate a person on the basis of appearance.",
+      "cn": "不要以相貌取人."
+    },
+    {
+      "en": "Don't evaluate people by their clothes.",
+      "cn": "不要根据衣着来评价人."
+    },
+    {
+      "en": "It can be difficult to evaluate the effectiveness of different treatments.",
+      "cn": "要对各种治疗方法的效果作出评估会很难。"
+    },
+    {
+      "en": "Let's evaluate the evidence.",
+      "cn": "让我们评定一下此证据的价值."
+    },
+    {
+      "en": "Managers are required to evaluate all proposals by the same competent techniques.",
+      "cn": "要求管理人员用同一的法定方法去评价所有的建议."
+    },
+    {
+      "en": "That enables communications engineers to evaluate precisely telephone, radio and TV circuits.",
+      "cn": "那使通信工程师有可能对电话 、 收音机和电视机电路作出精确的估计."
+    },
+    {
+      "en": "The law now requires that parents serve on the committees that plan and evaluate school programs.",
+      "cn": "现在，法律要求家长在规划和评估学校项目的委员会中任职。"
+    },
+    {
+      "en": "The market situation is difficult to evaluate.",
+      "cn": "市场状况难以评价。"
+    },
+    {
+      "en": "The school has only been open for six months, so it's hard to evaluate its success.",
+      "cn": "该学校仅开办了六个月, 现在还很难估计它的成就."
+    },
+    {
+      "en": "They had no idea how to evaluate from a financial perspective what management was doing.",
+      "cn": "这些人根本不知道如何从财务角度来评价当前的管理工作."
+    },
+    {
+      "en": "They will first send in trained nurses to evaluate the needs of the individual situation.",
+      "cn": "他们首先会派一些训练有素的护士来评估每个病人的需求。"
+    },
+    {
+      "en": "They're doing tests to evaluate the effectiveness of this herb as an antiseptic.",
+      "cn": "他们正在检测这种草药作为杀菌剂的有效性."
+    },
+    {
+      "en": "To be clear , usability testing is , at its core, a means to evaluate, not to create.",
+      "cn": "请记住, 可用性测试的核心是评估, 并非创造."
+    },
+    {
+      "en": "We need to evaluate the success of the campaign.",
+      "cn": "我们要评估一下这次运动是否成功。"
+    },
+    {
+      "en": "We often sat down to evaluate the changing situation.",
+      "cn": "我们常坐下来判断状况之变化."
+    },
+    {
+      "en": "You can use the same technique when you evaluate your child's work at home.",
+      "cn": "当你评价孩子在家中的工作时,也可使用同样的技巧."
+    },
+    {
+      "en": "You should be able to evaluate your own work.",
+      "cn": "你应该能够评估自己的工作。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "evaluative",
+          "tran_cn": " 可估价的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "evaluation",
+          "tran_cn": " 评价；[审计] 评估；估价；求值"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appraise",
+            "canvass",
+            "criticize",
+            "estimate",
+            "reckon",
+            "study"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to assess",
+            "to appraise"
+          ],
+          "tran_cn": "评价；估价"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "value",
+            "score",
+            "rate",
+            "prize"
+          ],
+          "tran_cn": "评价；估价；求…的值"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "估计",
+      "tran_en": "to judge how good, useful, or successful something is"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 评估， 评价； 估值， 估价； 定价",
+      "tran_en": "to judge how good, useful, or successful something is"
+    },
+    {
+      "pos": "vt&vi",
+      "tran_cn": "评价，估计",
+      "tran_en": "to judge how good, useful, or successful something is"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "evaluates"
+    ],
+    "past": [
+      "evaluated"
+    ],
+    "done": [
+      "evaluated"
+    ],
+    "ing": [
+      "evaluating"
+    ],
+    "noun": [
+      "evaluation"
+    ],
+    "adj": [
+      "evaluative"
+    ]
+  }
+}

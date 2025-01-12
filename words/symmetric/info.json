@@ -1,0 +1,110 @@
+{
+  "word": "symmetric",
+  "ipa": {
+    "us": "sɪ'metrɪk",
+    "uk": "sɪ'metrɪk"
+  },
+  "sentences": [
+    {
+      "en": "A central force is one derived from a potential - energy function that is spherically symmetric.",
+      "cn": "中心力是由球对称的势能函数而来的力."
+    },
+    {
+      "en": "A spherically symmetric structure of the earth has been assumed.",
+      "cn": "人们把地球的构造假设为球状对称."
+    },
+    {
+      "en": "After each reduction, the remaining equations remain symmetric and banded.",
+      "cn": "在每次约化后, 余下的方程是保持对称和带状的."
+    },
+    {
+      "en": "And generate Rs reflexive closure, symmetric closure and transitive closure.",
+      "cn": "并且生成R的自反闭包 、 对称闭包和传递闭包."
+    },
+    {
+      "en": "He also obtained similarity solutions for longitudinal and spherically symmetric motions.",
+      "cn": "他也得出了关于纵向对称运动和球面对称运动的类似解."
+    },
+    {
+      "en": "Here he inaugurated the spectral theory of bilinear symmetric forms.",
+      "cn": "在这里他开创了双线性对称形式的光谱理论."
+    },
+    {
+      "en": "I challenge the reader to confirm that the client side framing and the server side framing are symmetric and implement the same data framing!",
+      "cn": "我质疑到读者能否确认客户端的数据帧和服务器端的数据帧是对称的，并且由相同的数据帧实现。"
+    },
+    {
+      "en": "In reality, helical springs symmetric pitch near both ends.",
+      "cn": "实际上弹簧两端螺旋角逐渐变小."
+    },
+    {
+      "en": "It mainly includes symmetric encryption algorithms and asymmetric cryptographic algorithms and protocols.",
+      "cn": "密码技术主要包括对称密码算法和非对称密码算法及协议."
+    },
+    {
+      "en": "Many acoustic drivers are substantially symmetric about the axis of motion 22.",
+      "cn": "很多声学驱动器围绕运动轴线22基本对称."
+    },
+    {
+      "en": "Not surprisingly, the system is symmetric and comprehensive.",
+      "cn": "系统是对称和全面的，这不足为奇。"
+    },
+    {
+      "en": "Particles, such as pi - mesons, requiring symmetric wave functions are called bosons.",
+      "cn": "要求对称波函数的粒子, 如兀介了, 叫做玻色子."
+    },
+    {
+      "en": "Tensors of this kind are called antimetric or skew - symmetric.",
+      "cn": "这类张量叫做反对称张量或斜对称张量."
+    },
+    {
+      "en": "The rather messy expression in the brackets can be written in a symmetric form.",
+      "cn": "中括号中这个相当凌乱的表达式可以写成对称形式."
+    },
+    {
+      "en": "The systems of equations obtained in most practical problems are not only symmetric but also banded.",
+      "cn": "我们在大部分实际问题中得到的方程组不仅是对称的而且还是带状的."
+    },
+    {
+      "en": "The transforms of disks and rings and the like will obviously be circularly symmetric.",
+      "cn": "圆盘和圆环等的变换式显然将是圆形对称的."
+    },
+    {
+      "en": "This matrix is symmetric and banded , the band being equal to four.",
+      "cn": "这个矩阵是对称的且是带状的, 带宽等于四."
+    },
+    {
+      "en": "Writing, of course, is symmetric with reading, with all its corresponding fragilities.",
+      "cn": "当然，写是和读对称的，它具有所有相应的脆弱性。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "meristic",
+            "well-proportioned"
+          ],
+          "tran_cn": "对称的；匀称的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "symmetric matrix",
+      "tran_cn": "对称矩阵"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "相称性的，均衡的",
+      "tran_en": "(of a relation) holding between a pair of arguments x and y when and only when it holds between y and x, as "
+    }
+  ],
+  "exchange": {}
+}

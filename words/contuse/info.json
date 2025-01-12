@@ -1,0 +1,67 @@
+{
+  "word": "contuse",
+  "ipa": {
+    "us": "kən'tju:z",
+    "uk": "kən'tjuz"
+  },
+  "sentences": [
+    {
+      "en": "Contuse . To injure without breaking the skin; bruise.",
+      "cn": "未划破皮肤地伤害; 挫伤."
+    },
+    {
+      "en": "The sports trauma not only damage their health, which contuse the enthusiasm of physical activity, but also effect normal study living, indeed the suffering of mentally and physical.",
+      "cn": "学生在运动中受了伤，不仅损害健康，挫伤体育活动的积极性，而且影响正常的生活、学习，甚至给学生造成生理和心理上的痛苦。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "contusion",
+          "tran_cn": " 挫伤；撞伤；青肿"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "quash"
+          ],
+          "tran_cn": "挫伤；撞伤；捣碎"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "打伤, 挫伤, 撞伤",
+      "tran_en": "to injure (the body) without breaking the skin; bruise "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（皮肉）挫伤"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "contuses"
+    ],
+    "past": [
+      "contused"
+    ],
+    "done": [
+      "contused"
+    ],
+    "ing": [
+      "contusing"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "word": "wrongheaded",
+  "ipa": {
+    "us": "'rɒŋhedɪd",
+    "uk": "'rɒŋhedɪd"
+  },
+  "sentences": [
+    {
+      "en": "Half of Hamburgers want changes to the plans ; a fifth think them completely wrongheaded.",
+      "cn": "这个数字是发起公投所需签名的三倍."
+    },
+    {
+      "en": "He told them exactly how wrongheaded they were.",
+      "cn": "他实实在在地跟他们说他们有多执迷不悟。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "wrong",
+          "tran_cn": " 错误的；失常的；不适当的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "wrong",
+          "tran_cn": " 错误地；邪恶的，不正当地"
+        },
+        {
+          "word": "wrongly",
+          "tran_cn": " 错误地；不恰当地；不公正地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "wrong",
+          "tran_cn": " 坏事；不公正"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "wrong",
+          "tran_cn": " 委屈；无理地对待；诽谤"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "fixed",
+            "persistent",
+            "set"
+          ],
+          "tran_cn": "固执的；坚持错误的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "判断错误的，固执的，坚持错误的",
+      "tran_en": "used to describe an idea, plan, or belief that someone has, that is based on wrong ideas that they are not willing to change"
+    }
+  ],
+  "exchange": {}
+}

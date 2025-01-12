@@ -1,0 +1,184 @@
+{
+  "word": "exclusion",
+  "ipa": {
+    "us": "ɪkˈskluːʒn",
+    "uk": "ɪkˈskluːʒn"
+  },
+  "sentences": [
+    {
+      "en": "...women's exclusion from political power.",
+      "cn": "…政治权力对妇女的排斥。"
+    },
+    {
+      "en": "A data structure for mutual exclusion, also known as a binary semaphore.",
+      "cn": "表现互斥现象的数值结构, 也被当作二元信号灯."
+    },
+    {
+      "en": "A sense of the girls and boys behind me filled me to the exclusion of everything.",
+      "cn": "我脑海里给背后的男女孩子们占满了,而这种感觉把一切都给挤跑了."
+    },
+    {
+      "en": "A spokeswoman for Mr Prescott yesterday made it clear that he had been unhappy at his exclusion.",
+      "cn": "普雷斯科特先生的发言人昨天表明他对于自己被拒绝十分不满。"
+    },
+    {
+      "en": "An insurance document may contain reference to any exclusion clause.",
+      "cn": "保险单据可以援引任何除外责任条款."
+    },
+    {
+      "en": "Color analysis is then performed for the exclusion of tree areas.",
+      "cn": "利用空照影像之色彩分析,将地上物区域之树木部分去除."
+    },
+    {
+      "en": "Diane had dedicated her life to caring for him to the exclusion of all else.",
+      "cn": "黛安娜一生都在照顾他，对其他一切都无暇顾及。"
+    },
+    {
+      "en": "don't revise a few topics to the exclusion of all others.",
+      "cn": "不要为了改几个话题而将所有其他话题排除在外了。"
+    },
+    {
+      "en": "Don't revise a few topics to the exclusion of all others.",
+      "cn": "不要修改少数论题以致排除所有其他的."
+    },
+    {
+      "en": "First of all, there is the \" mode of exclusion \"",
+      "cn": "其一是 “ 排除模式 ”"
+    },
+    {
+      "en": "He plays golf to the exclusion of all other sports.",
+      "cn": "他专打高尔夫球,其他运动一概不参加."
+    },
+    {
+      "en": "Mutual exclusion is the rule in both discrete and contiguous selection.",
+      "cn": "互斥对离散选择和连续选择都适用."
+    },
+    {
+      "en": "She studies world history at the university, to the exclusion of all other subjects.",
+      "cn": "她在大学里专攻世界历史, 其他课未修."
+    },
+    {
+      "en": "The exclusion principle is a statement of this empirical finding.",
+      "cn": "不相容原理是这个实验发现的表述."
+    },
+    {
+      "en": "The judge placed an exclusion order on him, banning him from city centre shops.",
+      "cn": "法官给他下了禁令，禁止他进入市中心的店铺。"
+    },
+    {
+      "en": "The lower curve marks the exclusion threshold for data pairs.",
+      "cn": "下部曲线标志出对数据对的排除域."
+    },
+    {
+      "en": "Which the elation of liberty and the pain of exclusion were indistinguishably mingled.",
+      "cn": "她既为自由而洋洋得意,又因未能参加而不胜伤心,两种感情难分难解地纠集在一起."
+    },
+    {
+      "en": "Your essays tend to concentrate on one theme to the exclusion of everything else.",
+      "cn": "你的文章往往会集中于一个主题而不顾及其他各个方面。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "exclusive",
+          "tran_cn": " 独有的；排外的；专一的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "exclusively",
+          "tran_cn": " 唯一地；专有地；排外地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "exclusive",
+          "tran_cn": " 独家新闻；独家经营的项目；排外者"
+        },
+        {
+          "word": "exclusiveness",
+          "tran_cn": " 排他性；排外性；独占"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "exclude",
+          "tran_cn": " 排除；排斥；拒绝接纳；逐出"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "removal",
+            "ruling out"
+          ],
+          "tran_cn": "排除；排斥；驱逐；被排除在外的事物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "exception",
+            "prohibition",
+            "rejection"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "exclusion chromatography",
+      "tran_cn": "排阻色谱法；筛析色谱法"
+    },
+    {
+      "phrase": "exclusion principle",
+      "tran_cn": "不相容原理；排他原理"
+    },
+    {
+      "phrase": "mutual exclusion",
+      "tran_cn": "互斥；互斥现象"
+    },
+    {
+      "phrase": "pauli exclusion principle",
+      "tran_cn": "不相容原理；泡利不相容原理"
+    },
+    {
+      "phrase": "to the exclusion of",
+      "tran_cn": "排除掉；排斥着"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "排除，排斥",
+      "tran_en": "when someone is not allowed to take part in something or enter a place"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "exclusions"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "word": "jounce",
+  "ipa": {
+    "us": "dʒaʊns",
+    "uk": "dʒaʊns"
+  },
+  "sentences": [
+    {
+      "en": "His tooth gave another red - hot jounce.",
+      "cn": "他的牙齿又火辣辣地疼了一下."
+    },
+    {
+      "en": "Install the jounce bumper on the upper spring mount.",
+      "cn": "在上部弹簧固定处安装避震器."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "shock",
+            "shaking"
+          ],
+          "tran_cn": "震动，颠簸"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bounce",
+            "bump",
+            "jolt"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "quake",
+            "shake up"
+          ],
+          "tran_cn": "颠簸，震动"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bounce",
+            "bump",
+            "jolt"
+          ],
+          "tran_cn": "震动;碰撞;猛击"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 颠簸地移动"
+    },
+    {
+      "pos": "v& n.",
+      "tran_cn": "颠簸"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "jounces"
+    ],
+    "past": [
+      "jounced"
+    ],
+    "done": [
+      "jounced"
+    ],
+    "ing": [
+      "jouncing"
+    ]
+  }
+}

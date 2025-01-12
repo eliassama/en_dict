@@ -1,0 +1,79 @@
+{
+  "word": "unceremonious",
+  "ipa": {
+    "us": "ˌʌnˌserəˈməʊniəs",
+    "uk": "ˌʌnˌserəˈmoʊniəs"
+  },
+  "sentences": [
+    {
+      "en": "He was bundled out of the room with unceremonious haste.",
+      "cn": "他被粗暴地轰出屋外。"
+    },
+    {
+      "en": "She finished the meal with unceremonious haste.",
+      "cn": "她狼吞虎咽地把饭吃完."
+    },
+    {
+      "en": "The dinner was a relaxed, unceremonious occasion.",
+      "cn": "那次宴会很轻松, 随随便便."
+    },
+    {
+      "en": "There was an unceremonious directness, a searching, decided steadfastness in his gaze now.",
+      "cn": "现在他的凝视中有一种不礼貌的直率, 一种锐利 、 断然的坚定."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "unceremoniously",
+          "tran_cn": " 随便地；唐突地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "unceremoniousness",
+          "tran_cn": " 无礼"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "casual",
+            "informal"
+          ],
+          "tran_cn": "随便的，不拘礼节的；无礼貌的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "caustic"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不拘礼仪的，随意的，无礼的，唐突的",
+      "tran_en": "without ceremony; informal, abrupt, rude, or undignified "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,170 @@
+{
+  "word": "immunize",
+  "ipa": {
+    "us": "ˈɪmjunaɪz",
+    "uk": "ˈɪmjəˌnaɪz"
+  },
+  "sentences": [
+    {
+      "en": "After testing, this vaccine could be used to immunize individuals at high risk for SARS exposure.",
+      "cn": "经过测试, 这种疫苗可用来免疫与SARS病毒接触的高危人群."
+    },
+    {
+      "en": "But his thirties, had widely to immunize children against vaccinia vaccine to reduce transmission of smallpox.",
+      "cn": "但他在三十年代, 己广为儿童接种牛痘疫苗,减少了天花的传染."
+    },
+    {
+      "en": "Drinking regularly can improve physical quality and enhance ability to immunize.",
+      "cn": "经常饮用牛奶能提高人的身体素质,增强人体的免疫能力."
+    },
+    {
+      "en": "Keeping records will do the same for you - it will immunize you against impulsive gambling.",
+      "cn": "做交易记录也是这样 —— 它能防止你做冲动交易."
+    },
+    {
+      "en": "This gas mask can immunize you against poison gas.",
+      "cn": "防毒面具能使你免遭毒气袭击."
+    },
+    {
+      "en": "Using highly pure C - reactive protein ( CRP ) to immunize rabbits, a high titer anti - CRP anti - serum was obtained.",
+      "cn": "采用高纯度的C反应蛋白 ( crp ) 免疫兔, 获取高效价的 crp 抗体."
+    },
+    {
+      "en": "We should require that every student is immunized against hepatitis B.",
+      "cn": "我们应该要求每一位学生都注射乙肝疫苗。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "immune",
+          "tran_cn": " 免疫的；免于……的，免除的"
+        },
+        {
+          "word": "immunized",
+          "tran_cn": " 免疫的"
+        },
+        {
+          "word": "immunochemical",
+          "tran_cn": " 免疫化学的"
+        },
+        {
+          "word": "immunocompetent",
+          "tran_cn": " 免疫活性的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "immune",
+          "tran_cn": " 免疫者；免除者"
+        },
+        {
+          "word": "immunisation",
+          "tran_cn": " 免疫；免疫法"
+        },
+        {
+          "word": "immunity",
+          "tran_cn": " 免疫力；豁免权；免除"
+        },
+        {
+          "word": "immunization",
+          "tran_cn": " 免疫"
+        },
+        {
+          "word": "immunoassay",
+          "tran_cn": " 免疫分析，免疫测定"
+        },
+        {
+          "word": "immunochemistry",
+          "tran_cn": " 免疫化学"
+        },
+        {
+          "word": "immunocompetence",
+          "tran_cn": " 免疫能力；免疫活性"
+        },
+        {
+          "word": "immunodeficiency",
+          "tran_cn": " [免疫] 免疫缺陷"
+        },
+        {
+          "word": "immunoelectrophoresis",
+          "tran_cn": " [临床] 免疫电泳"
+        },
+        {
+          "word": "immunofluorescence",
+          "tran_cn": " [免疫] 免疫荧光；萤光免疫检验法"
+        },
+        {
+          "word": "immunogen",
+          "tran_cn": " [免疫] 免疫原"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "immunized",
+          "tran_cn": " 使免疫（immunize的过去式、过去分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "immunise",
+          "tran_cn": " 使免疫（等于immunize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "inoculate",
+            "vaccinate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使免疫, 赋予免疫性, 使成为无害",
+      "tran_en": "to protect someone from a particular illness by giving them a vaccine"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使免疫，使免除"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "immunizes"
+    ],
+    "past": [
+      "immunized"
+    ],
+    "done": [
+      "immunized"
+    ],
+    "ing": [
+      "immunizing"
+    ],
+    "noun": [
+      "immunization"
+    ]
+  }
+}

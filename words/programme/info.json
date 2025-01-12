@@ -1,0 +1,189 @@
+{
+  "word": "programme",
+  "ipa": {
+    "us": "ˈprəʊɡræm",
+    "uk": "ˈproʊɡræm"
+  },
+  "sentences": [
+    {
+      "en": "a research program",
+      "cn": "研究课程"
+    },
+    {
+      "en": "I had to admire David's vow that he would leave the programme.",
+      "cn": "戴维发誓要离开这个项目，我不得不对他表示钦佩。"
+    },
+    {
+      "en": "It's the last but one day in the athletics programme.",
+      "cn": "那是田径比赛结束的前一天。"
+    },
+    {
+      "en": "news and current affairs programmes",
+      "cn": "新闻时事节目"
+    },
+    {
+      "en": "Our whole programme is spiritually oriented but not religious.",
+      "cn": "我们的整个节目都是关注心灵的，但却不是宗教性的。"
+    },
+    {
+      "en": "She took part in a BBC radio phone-in programme.",
+      "cn": "她参加了英国广播公司听众来电参与节目。"
+    },
+    {
+      "en": "Stanford University’s MBA program",
+      "cn": "斯坦福大学的工商管理硕士课程"
+    },
+    {
+      "en": "That programme will include live commentary on the England-Ireland game.",
+      "cn": "那个节目将包括英格兰与爱尔兰比赛的实况报道。"
+    },
+    {
+      "en": "The £85m programme will involve an extensive rebranding of the airline.",
+      "cn": "这个8,500万英镑的项目将包括全面重塑该航空公司的形象。"
+    },
+    {
+      "en": "The news programme goes out four times a week at peak time.",
+      "cn": "这档新闻节目每周在黄金时段播出4次。"
+    },
+    {
+      "en": "The programme of sell-offs has been implemented by the new chief executive.",
+      "cn": "新任总裁已经执行了抛售方案。"
+    },
+    {
+      "en": "The programme was a gold mine for small production companies.",
+      "cn": "这一方案能为产量较小的公司带来滚滚财源。"
+    },
+    {
+      "en": "The programme's awfulness has ensured it is talked about.",
+      "cn": "节目如此糟糕，肯定会被人议论。"
+    },
+    {
+      "en": "The road safety programme is having a demonstrable effect on road users.",
+      "cn": "道路安全方案在道路使用者身上逐渐显现出明显的效果。"
+    },
+    {
+      "en": "The speakers criticised his new programme for lack of definition.",
+      "cn": "几位发言者批评他的新方案不够清楚明确。"
+    },
+    {
+      "en": "the US space program",
+      "cn": "美国太空计划"
+    },
+    {
+      "en": "There are wide variations caused by different academic programme structures.",
+      "cn": "不同的教学项目结构造成了巨大的差异。"
+    },
+    {
+      "en": "They wanted to modernise the programme, sex it up.",
+      "cn": "他们想让节目现代化，更富吸引力。"
+    },
+    {
+      "en": "This degree programme is fully accredited by the Institution of Electrical Engineers.",
+      "cn": "这门学位课程经电气工程师学院鉴定完全合格。"
+    },
+    {
+      "en": "What’s your favourite television programme ?",
+      "cn": "你最喜欢的电视节目是什么？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "programmer",
+          "tran_cn": " 程序员，[计][自] 程序设计员"
+        },
+        {
+          "word": "programming",
+          "tran_cn": " 设计，规划；编制程序，[计] 程序编制"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "plan",
+            "scheme",
+            "procedure",
+            "routine",
+            "formulation"
+          ],
+          "tran_cn": "计划，规划；节目；[计]程序"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agenda",
+            "book",
+            "calendar",
+            "proposition"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "formulate",
+            "mark out"
+          ],
+          "tran_cn": "规划；拟…计划"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get with the program",
+      "tran_cn": "(北美，非正式)按计划行事；顺应潮流"
+    },
+    {
+      "phrase": "programme control",
+      "tran_cn": "程序控制"
+    },
+    {
+      "phrase": "world food programme",
+      "tran_cn": "世界粮食计划署"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "计划，方案，节目（单），程序，课程",
+      "tran_en": "a series of actions which are designed to achieve something important"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "计划，训练，为（机器或系统）设定程序"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "programmes"
+    ],
+    "third": [
+      "programmes"
+    ],
+    "past": [
+      "programmed"
+    ],
+    "done": [
+      "programmed"
+    ],
+    "ing": [
+      "programming"
+    ]
+  }
+}

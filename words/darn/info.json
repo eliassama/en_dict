@@ -1,0 +1,201 @@
+{
+  "word": "darn",
+  "ipa": {
+    "us": "dɑ:n",
+    "uk": "dɑrn"
+  },
+  "sentences": [
+    {
+      "en": "\"Move!\" she cried. \"Don't be so darn poky!\"",
+      "cn": "“动起来！”她叫道：“别这么慢吞吞的！”"
+    },
+    {
+      "en": "Darn it! She beat me again!",
+      "cn": "倒霉! 她又比我强了!"
+    },
+    {
+      "en": "Grandmother used to darn her own stockings.",
+      "cn": "祖母过去总是自己织补袜子."
+    },
+    {
+      "en": "Her cardigan had been darned at the elbows.",
+      "cn": "她的羊毛衫肘部缝补过。"
+    },
+    {
+      "en": "I know how to darn, and how to sew a button on.",
+      "cn": "我会打补丁，缝纽扣。"
+    },
+    {
+      "en": "I must darn the hole in my pocket.",
+      "cn": "我得把口袋补一补."
+    },
+    {
+      "en": "Mary: Oh, darn it I thought I was still in Palm Springs.",
+      "cn": "玛丽: 噢, 该死,我以为我还在棕榈泉呢."
+    },
+    {
+      "en": "OK, I admit it, it was me. But darn it, I was right!",
+      "cn": "好吧，我承认，是我干的。但我是对的，可恶！"
+    },
+    {
+      "en": "Please darn the hole in my sock.",
+      "cn": "请缝补一下我袜子上的小洞."
+    },
+    {
+      "en": "Please darn with red thread.",
+      "cn": "请用红色的线织补."
+    },
+    {
+      "en": "That darn ( ed ) cat has eaten my supper!",
+      "cn": "这个死猫把我的晚饭吃掉了!"
+    },
+    {
+      "en": "There's not a darn thing he can do about it.",
+      "cn": "他对此根本无能为力。"
+    },
+    {
+      "en": "We start working pretty darn early.",
+      "cn": "我们一大早就开始工作。"
+    },
+    {
+      "en": "What a darn ( ed ) stupid thing to say!",
+      "cn": "这话说得多 麽 愚蠢!"
+    },
+    {
+      "en": "Why don't you switch the darn thing off and listen to me!",
+      "cn": "把那讨厌的东西关掉，专心听我讲话好不好！"
+    },
+    {
+      "en": "You are darn tootin.",
+      "cn": "你的话的确很对."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "darned",
+          "tran_cn": " 岂有此理的；可恨的；该死的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "darned",
+          "tran_cn": " 可恨地；岂有此理地（damned的委婉表达）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "darner",
+          "tran_cn": " 缝补台；缝补针；缝补的人"
+        },
+        {
+          "word": "darning",
+          "tran_cn": " 织补物；织补"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "darned",
+          "tran_cn": " 织补（darn的过去式和过去分词）"
+        },
+        {
+          "word": "darning",
+          "tran_cn": " 织补（darn的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dern"
+          ],
+          "tran_cn": "织补"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "fix",
+            "mend",
+            "patch",
+            "repair",
+            "up"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "stitch up",
+            "knit up"
+          ],
+          "tran_cn": "织补，缝补"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（加强语气）该死的，讨厌的"
+    },
+    {
+      "pos": "adv",
+      "tran_cn": "极其，非常（婉辞，与damn同义）"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "织补之处，补丁",
+      "tran_en": "a patch of darned work on a garment "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "织补，缝补",
+      "tran_en": "to repair a hole in a piece of clothing by stitching wool over it"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "织补，缝补，补缀"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "darns"
+    ],
+    "third": [
+      "darns"
+    ],
+    "past": [
+      "darned"
+    ],
+    "done": [
+      "darned"
+    ],
+    "ing": [
+      "darning"
+    ]
+  }
+}

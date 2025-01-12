@@ -1,0 +1,86 @@
+{
+  "word": "lionize",
+  "ipa": {
+    "us": "ˈlaɪənaɪz",
+    "uk": "ˈlaɪəˌnaɪz"
+  },
+  "sentences": [
+    {
+      "en": "The press began to lionize him enthusiastically.",
+      "cn": "媒体开始狂热地吹捧他。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "lion",
+          "tran_cn": " 狮子；名人；勇猛的人；社交场合的名流"
+        },
+        {
+          "word": "lionise",
+          "tran_cn": " 巴结名流；游览名胜（等于lionize）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "lionise",
+          "tran_cn": " 把…作为名流看待；崇拜"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "see the lions"
+          ],
+          "tran_cn": "游览名胜"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "see the lions"
+          ],
+          "tran_cn": "把……奉为名人；游览名胜"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 崇拜， 看重"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把…视做要人，捧人"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "lionizes"
+    ],
+    "past": [
+      "lionized"
+    ],
+    "done": [
+      "lionized"
+    ],
+    "ing": [
+      "lionizing"
+    ]
+  }
+}

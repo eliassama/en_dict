@@ -1,0 +1,145 @@
+{
+  "word": "extrapolation",
+  "ipa": {
+    "us": "ɪkˌstræpə'leɪʃn",
+    "uk": "ɪkˌstræpəˈleʃən"
+  },
+  "sentences": [
+    {
+      "en": "Aitken Extrapolation algorithm use Aitken transform to reduce iterations.",
+      "cn": "AitkenExtrapolation 算法使用Aitken变换以减少迭代次数,但Aitken变换 在多数情况下无法确保算法收敛."
+    },
+    {
+      "en": "At the macroscopic level, an ideal gas is defined by a process of extrapolation.",
+      "cn": "从宏观角度看, 理想气体的定义是由推论而得来的."
+    },
+    {
+      "en": "C _ p and M _ n were obtained by kinetie extrapolation and GPC, respectively.",
+      "cn": "C_p用动力学外推法求取, 分子量用凝胶渗透色谱法测定."
+    },
+    {
+      "en": "He estimate his income tax bill by extrapolation from figures submit in previous year.",
+      "cn": "他从前几年的报税数字推算出自己应缴的所得税数额."
+    },
+    {
+      "en": "Her detective method is extrapolation.",
+      "cn": "她侦探的方法是推理."
+    },
+    {
+      "en": "His estimate of half a million HIV positive cases was based on an extrapolation of the known incidence of the virus.",
+      "cn": "他估计有50万个HIV阳性病例，这是根据已知的病毒感染率作出的推论。"
+    },
+    {
+      "en": "In brief: one cannot reliably predict the rate of technological progress by extrapolation.",
+      "cn": "简单地说,人们不可能以外推法可靠地预言技术进展速度."
+    },
+    {
+      "en": "In itself, such extrapolation is hardly fatal.",
+      "cn": "就其本身而言, 这样的外推法并非是致命的."
+    },
+    {
+      "en": "Loss distribution was introduced to decompose extrapolation model to determine subsidy proportion.",
+      "cn": "将损失分布引入分解推算法中测算补偿比例."
+    },
+    {
+      "en": "Measuring static austenitic recrystallization by Back extrapolation method.",
+      "cn": "采用后插法来测定静态再结晶分数."
+    },
+    {
+      "en": "Most of was a bold extrapolation.",
+      "cn": "大部分是一个大胆的推断。"
+    },
+    {
+      "en": "Rather, speculation, conflicts, and theoretical extrapolation typify their every action.",
+      "cn": "相反, 怀疑 、 冲突和理论上的推断是他们每步行为的特征."
+    },
+    {
+      "en": "The answer seems never appear through the judgement and extrapolation.",
+      "cn": "似乎永远不能在推理和判断里面出现."
+    },
+    {
+      "en": "The key factors influencing calculation precision are extrapolation methods and mesh size.",
+      "cn": "热点应力的外推方法、限元网格尺寸大小是影响计算精度的主要因素."
+    },
+    {
+      "en": "The underperformance of growth stocks is linked to an overenthusiasm for extrapolation.",
+      "cn": "成长型股票低于市场的回报被认为是与计算过度有关."
+    },
+    {
+      "en": "This kind extrapolation is worth deliberate.",
+      "cn": "这种外推法值得商榷."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "extrapolated",
+          "tran_cn": " 推测的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "extrapolated",
+          "tran_cn": " 推测（extrapolate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "extrapolate",
+          "tran_cn": " 外推；进行推断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "extrapolate",
+          "tran_cn": " 外推；推断"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "inference",
+            "sequitur"
+          ],
+          "tran_cn": "[数]外推法；推断"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "extrapolation method",
+      "tran_cn": "外推法；[计]外插法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "推断，<统>外推（法）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "extrapolations"
+    ],
+    "verb": [
+      "extrapolate"
+    ]
+  }
+}

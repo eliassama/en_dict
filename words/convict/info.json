@@ -1,0 +1,150 @@
+{
+  "word": "convict",
+  "ipa": {
+    "us": "kənˈvɪkt , ˈkɒnvɪkt",
+    "uk": "kənˈvɪkt , ˈkɑːnvɪkt"
+  },
+  "sentences": [
+    {
+      "en": "a convicted murderer",
+      "cn": "已定罪的谋杀犯"
+    },
+    {
+      "en": "an escaped convict",
+      "cn": "越狱犯"
+    },
+    {
+      "en": "He is accused of harboring an escaped convict.",
+      "cn": "他被指控窝藏逃犯."
+    },
+    {
+      "en": "He was stigmatised as an ex - convict.",
+      "cn": "他遭人污辱,说他给判过刑."
+    },
+    {
+      "en": "He was stigmatized as an ex-convict.",
+      "cn": "他遭人污辱，说他给判过刑。"
+    },
+    {
+      "en": "I have all the evidence necessary to convict this young criminal now.",
+      "cn": "我掌握一切必要的证据来给这个年轻犯人定罪."
+    },
+    {
+      "en": "It was difficult to convict him of the falsity of his beliefs.",
+      "cn": "难以使他认识到他信仰的虚假性."
+    },
+    {
+      "en": "So, while Melbourne was not a convict settlement, it wasn't squeaky - clean either.",
+      "cn": "由此可见, 早先的墨尔本虽不是流放犯的聚居地, 但也不是十分清白的."
+    },
+    {
+      "en": "The convict has to serve his sentence.",
+      "cn": "罪犯不得不认罚服刑."
+    },
+    {
+      "en": "The convict was pardoned after serving five years of his sentence.",
+      "cn": "罪犯服刑5年才获赦免."
+    },
+    {
+      "en": "The escaped convict was seized outside the city.",
+      "cn": "逃犯在城外被抓获."
+    },
+    {
+      "en": "The ex - convict found a base employment for himself.",
+      "cn": "那个过去被判过刑的人找到了一份卑微的工作."
+    },
+    {
+      "en": "The fingerprints found on the gun were used to convict her.",
+      "cn": "枪上发现的指纹被用来判明她有罪."
+    },
+    {
+      "en": "The police have tracked down the escaped convict.",
+      "cn": "警方已追捕到逃犯?"
+    },
+    {
+      "en": "They have brought the escaped convict to bay.",
+      "cn": "他们已经使那逃亡的囚犯无处可逃."
+    },
+    {
+      "en": "Yes, sir, they turned loose every convict who was willing to fight.",
+      "cn": "的的确确的, 先生, 他们把所有愿意打仗的犯人都放掉."
+    },
+    {
+      "en": "You'll be facing a Federal rap for aiding and abetting an escaped convict.",
+      "cn": "因涉嫌协助和教唆越狱囚犯，你将面临联邦指控。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "conviction",
+          "tran_cn": " 定罪；确信；证明有罪"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "criminal offender",
+            "culprit"
+          ],
+          "tran_cn": "罪犯"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "condemn",
+            "doom",
+            "sentence"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "已决犯，囚犯",
+      "tran_en": "someone who has been proved to be guilty of a crime and sent to prison"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "定罪，宣判…有罪",
+      "tran_en": "to prove or officially announce that someone is guilty of a crime after a  trial  in a law court"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 证明…有罪， 宣判…有罪",
+      "tran_en": "to prove or officially announce that someone is guilty of a crime after a  trial  in a law court"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "convicts"
+    ],
+    "third": [
+      "convicts"
+    ],
+    "past": [
+      "convicted"
+    ],
+    "done": [
+      "convicted"
+    ],
+    "ing": [
+      "convicting"
+    ]
+  }
+}

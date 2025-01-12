@@ -1,0 +1,167 @@
+{
+  "word": "infinity",
+  "ipa": {
+    "us": "ɪnˈfɪnəti",
+    "uk": "ɪnˈfɪnəti"
+  },
+  "sentences": [
+    {
+      "en": "Boundaries of the polygon may extend to infinity.",
+      "cn": "多角形的边界可以延伸到无穷远处."
+    },
+    {
+      "en": "Curves running from the origin to infinity may serve as branch cuts.",
+      "cn": "从原点至无穷远处的曲线起分支割痕的作用."
+    },
+    {
+      "en": "In the equation below, as E goes to zero, n approaches infinity.",
+      "cn": "在下面的方程式中，E趋向于零时，n接近无穷大。"
+    },
+    {
+      "en": "In this weather the cliff face was a foggy drop into infinity.",
+      "cn": "在这种天气条件下,雾蒙蒙的悬崖隐入广漠无限之中."
+    },
+    {
+      "en": "It is impossible to count up to infinity.",
+      "cn": "不可能数到无穷大."
+    },
+    {
+      "en": "Numbers go on forever to infinity.",
+      "cn": "数字可以永远地数下去,直到无穷."
+    },
+    {
+      "en": "Parallel lines converge at infinity.",
+      "cn": "平行线永不相交."
+    },
+    {
+      "en": "The bald, bare landscape widened about him to infinity.",
+      "cn": "赤裸裸 、 光秃秃的景色在他眼下一直伸展到无边无际的远方."
+    },
+    {
+      "en": "The camera is focused at infinity.",
+      "cn": "照相机的聚焦被调节在无限远这一档上."
+    },
+    {
+      "en": "The far point of a normal eye is at infinity.",
+      "cn": "正常眼的远点在无穷远处."
+    },
+    {
+      "en": "The fields covered with snow became a vast expanse of whiteness stretching to infinity.",
+      "cn": "田野被大雪覆盖,白茫茫的一眼望不到边."
+    },
+    {
+      "en": "the infinity of space",
+      "cn": "太空的无边无际"
+    },
+    {
+      "en": "Theoretically, a line can extend into infinity.",
+      "cn": "从理论上来说直线可以无限地延伸."
+    },
+    {
+      "en": "There is always an infinity of numbers between any two numbers.",
+      "cn": "任何两个数字之间都存在无穷多的数字。"
+    },
+    {
+      "en": "These permutations multiply towards infinity.",
+      "cn": "这些排列可以增加到无穷大。"
+    },
+    {
+      "en": "They had an infinity of adventures.",
+      "cn": "他们经历了无数奇景."
+    },
+    {
+      "en": "This eliminates reflections from infinity, as one expects physically.",
+      "cn": "正如物理上所预期的,这就消除了来自无穷远处的反射."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "infinite",
+          "tran_cn": "无限的，无穷的；无数的；极大的"
+        },
+        {
+          "word": "infinitesimal",
+          "tran_cn": "无穷小的；无限小的；极小的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "infinitely",
+          "tran_cn": "无限地；极其"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "infinite",
+          "tran_cn": "无限；[数] 无穷大；无限的东西（如空间，时间）"
+        },
+        {
+          "word": "infiniteness",
+          "tran_cn": "无限；无限性"
+        },
+        {
+          "word": "infinitesimal",
+          "tran_cn": "无限小；极微量；极小量"
+        },
+        {
+          "word": "infinitude",
+          "tran_cn": "无限；无穷"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "boundlessness",
+            "without end"
+          ],
+          "tran_cn": "[数]无穷；无限大；无限距"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "expanse",
+            "glory",
+            "magnitude"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at infinity",
+      "tran_cn": "在无穷远处"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<数>无穷大，无限的时间或空间",
+      "tran_en": "a number that is too large to be calculated"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "infinities"
+    ]
+  }
+}

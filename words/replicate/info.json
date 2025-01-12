@@ -1,0 +1,188 @@
+{
+  "word": "replicate",
+  "ipa": {
+    "us": "ˈreplɪkeɪt",
+    "uk": "ˈreplɪkeɪt"
+  },
+  "sentences": [
+    {
+      "en": "A virus is a program that can self replicate or reproduce itself.",
+      "cn": "病毒是一种程序,可以自我复制或者复制自己."
+    },
+    {
+      "en": "Afew attempts to replicate Silicon Valley , most notably in Israel, havesucceeded.",
+      "cn": "有些对硅谷的复制企图, 以色列最为著名, 成功了."
+    },
+    {
+      "en": "But others have been unable to replicate the findings.",
+      "cn": "但是其它研究还不能发现同样的情况."
+    },
+    {
+      "en": "Cells can reproduce but only molecules can replicate.",
+      "cn": "细胞可以再生，但是只有分子可以复制。"
+    },
+    {
+      "en": "Divergent results from replicate data entries may signify a program bug.",
+      "cn": "如果重复的数据输入产生不同的结果,就表明有程序错误."
+    },
+    {
+      "en": "He invited her to his laboratory to see if she could replicate the experiment.",
+      "cn": "他邀请她到他的实验室看她能否复制该实验。"
+    },
+    {
+      "en": "If the virus cannot replicate itself, it cannot cause illness.",
+      "cn": "如果病毒不能变异, 也就不能够诱发疾病了."
+    },
+    {
+      "en": "Lava Spawns now require 15 attacks to replicate, up from 14.",
+      "cn": "火人现在需要攻击15下才会分裂, 而不是14下."
+    },
+    {
+      "en": "Meanwhile other studies have able to replicate the result.",
+      "cn": "然而,此结果未能在另一些群体中得到重复."
+    },
+    {
+      "en": "OGSA - RTMR is a branched data replicate system with real - time monitor function.",
+      "cn": "数据复制在网格应用中具有非常重要的作用."
+    },
+    {
+      "en": "The DNA of chromatin must replicate before cell division.",
+      "cn": "染色质DNA在细胞分裂之前必须复制."
+    },
+    {
+      "en": "The team decided to try and replicate the missing curtains as authentically as possible.",
+      "cn": "小组决定尽可能照原样重新制作丢失的幕帘。"
+    },
+    {
+      "en": "The viruses replicate in skin cells, causing a variety of external growths.",
+      "cn": "病毒在皮肤细胞中复制, 产生多个外部增生物."
+    },
+    {
+      "en": "There is a need for further research to replicate these findings.",
+      "cn": "需要进一步的研究来验证这些结果。"
+    },
+    {
+      "en": "To replicate a database programmatically, the database must be closed.",
+      "cn": "编程复制数据库时, 数据库必须关闭."
+    },
+    {
+      "en": "We should learn from these rather than replicate them.",
+      "cn": "我们应该从这些错误中吸取教训,而非重复它们."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "replica",
+          "tran_cn": " 复制品，复制物"
+        },
+        {
+          "word": "replication",
+          "tran_cn": " 复制；回答；反响"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "scored",
+            "reproductive"
+          ],
+          "tran_cn": "复制的；折叠的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "reproduction",
+            "ectype"
+          ],
+          "tran_cn": "复制品；八音阶间隔的反覆音"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "reproduce",
+            "xerox"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "read back",
+            "hammer"
+          ],
+          "tran_cn": "重复；折转"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "repeat",
+            "fold"
+          ],
+          "tran_cn": "复制；折叠"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "复制的；折叠的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "复制品；八音阶间隔的反覆音"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "复制；折叠",
+      "tran_en": "if you replicate someone’s work, a scientific study etc, you do it again, or try to get the same result again"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "复制，复写，重复，反复，折转，[生] 复制",
+      "tran_en": "if you replicate someone’s work, a scientific study etc, you do it again, or try to get the same result again"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "replicates"
+    ],
+    "past": [
+      "replicated"
+    ],
+    "done": [
+      "replicated"
+    ],
+    "ing": [
+      "replicating"
+    ],
+    "noun": [
+      "replication"
+    ]
+  }
+}

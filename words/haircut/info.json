@@ -1,0 +1,124 @@
+{
+  "word": "haircut",
+  "ipa": {
+    "us": "ˈheəkʌt",
+    "uk": "ˈherkʌt"
+  },
+  "sentences": [
+    {
+      "en": "\" I was just about to go get a haircut.",
+      "cn": "我正要去理发."
+    },
+    {
+      "en": "Chuck would lecture me, telling me to get a haircut.",
+      "cn": "查克就会数落我，让我去理一下发。"
+    },
+    {
+      "en": "Do you like my new haircut?",
+      "cn": "你喜欢我的新发型吗？"
+    },
+    {
+      "en": "Everyone dissolved into fits of laughter when they saw my haircut.",
+      "cn": "看到我的发型,大家都哈哈大笑."
+    },
+    {
+      "en": "Get yourself a haircut!",
+      "cn": "快去理个发吧!"
+    },
+    {
+      "en": "He was unshaven, and badly needed a haircut.",
+      "cn": "他没刮脸,头发也实需要剪一剪了."
+    },
+    {
+      "en": "How long have you had that haircut?",
+      "cn": "你梳这个发型多久了?"
+    },
+    {
+      "en": "I hate haircuts. I seldom get a haircut.",
+      "cn": "“我讨厌理发. 我很少理发."
+    },
+    {
+      "en": "I haven’t had a haircut for months!",
+      "cn": "我好几个月没理发了！"
+    },
+    {
+      "en": "My hair get really long before my next haircut.",
+      "cn": "下一次理发之前,我的头发长的很长. ”"
+    },
+    {
+      "en": "Now politics is all about the right haircut and a sharp suit.",
+      "cn": "现在政界讲究的无非是合适的发型和时髦的衣着。"
+    },
+    {
+      "en": "The barber gave him a shave and a haircut.",
+      "cn": "理发师给他修面理发."
+    },
+    {
+      "en": "The haircut emphasised her fragile beauty.",
+      "cn": "发型突出了她的精致之美。"
+    },
+    {
+      "en": "Who's that guy with the funny haircut?",
+      "cn": "那个发型怪怪的家伙是谁？"
+    },
+    {
+      "en": "You need a haircut.",
+      "cn": "你该理发了。"
+    },
+    {
+      "en": "Your hair is all right,it's just that you need a haircut.",
+      "cn": "你的头发还好，不过你该理发了。"
+    },
+    {
+      "en": "Your hair is all right; it's just that you need a haircut.",
+      "cn": "你的头发还好；不过你该理发了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hairdressing",
+          "tran_cn": " 美容；美发；理发"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "frisure",
+            "hair style"
+          ],
+          "tran_cn": "理发；发型"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get a haircut",
+      "tran_cn": "剪头发"
+    },
+    {
+      "phrase": "have a haircut",
+      "tran_cn": "理发"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "理发，发型，发式",
+      "tran_en": "when you have a haircut, someone cuts your hair for you"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "haircuts"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "word": "indoctrinate",
+  "ipa": {
+    "us": "ɪnˈdɒktrɪneɪt",
+    "uk": "ɪnˈdɑktrɪneɪt"
+  },
+  "sentences": [
+    {
+      "en": "French intellectuals debate whether the stories indoctrinate kids into free - market capitalism.",
+      "cn": "法国知识分子讨论哈里是否灌输自由资本主义思想给孩子们."
+    },
+    {
+      "en": "I wouldn't say that she was trying to indoctrinate us.",
+      "cn": "我不认为她在竭力向我们灌输一种信仰。"
+    },
+    {
+      "en": "People were indoctrinated not to question their leaders.",
+      "cn": "人们被灌输对领导人不得置疑的观念。"
+    },
+    {
+      "en": "The writer wants to indoctrinate the readers with the idea.",
+      "cn": "作者想把这种想法灌输给读者."
+    },
+    {
+      "en": "You cannot even being yourself, needless to indoctrinate others.",
+      "cn": "自己都无法把人做好的人, 要如何来领导别人?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "indoctrination",
+          "tran_cn": " 教化；教导"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "civilize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "wise",
+            "imbue"
+          ],
+          "tran_cn": "灌输；教导"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "灌输",
+      "tran_en": "to train someone to accept a particular set of beliefs, especially political or religious ones, and not consider any others"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "向…灌输（信仰），教导"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "indoctrinates"
+    ],
+    "past": [
+      "indoctrinated"
+    ],
+    "done": [
+      "indoctrinated"
+    ],
+    "ing": [
+      "indoctrinating"
+    ],
+    "noun": [
+      "indoctrination"
+    ]
+  }
+}

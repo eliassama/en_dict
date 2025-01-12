@@ -1,0 +1,238 @@
+{
+  "word": "simulation",
+  "ipa": {
+    "us": "ˌsɪmjuˈleɪʃn",
+    "uk": "ˌsɪmjuˈleɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "a computer simulation used to train airline pilots",
+      "cn": "用于训练航空公司飞行员的电脑模拟程序"
+    },
+    {
+      "en": "And would you say that computer simulation is a reliable tool?",
+      "cn": "你能说电脑模型是个可靠工具 吗 ?"
+    },
+    {
+      "en": "Effect of blank holding force on forming quality was analyzed through simulation.",
+      "cn": "在此基础上,利用数值模拟技术手段,分析不同压边力条件下零件成形质量."
+    },
+    {
+      "en": "I blended a multitude of human physiognomies to create this plausible simulation.",
+      "cn": "我混合了很多人种的面相来创造了这个形象."
+    },
+    {
+      "en": "It may be an environment - simulation device such as a centrifuge or electro - mechanical vibrator.",
+      "cn": "可能是一种环境模拟装置,如离心机或机电式振动台."
+    },
+    {
+      "en": "On dynamic flight simulator, mismatch impacts mostly effect of simulation.",
+      "cn": "动态飞行仿真中错配主要影响仿真效果."
+    },
+    {
+      "en": "Pneumatic fight lever, simulation machine movement, observe the gear dynamic walking.",
+      "cn": "气动方式打击杠杆, 模拟机器动作, 观察齿轮动态走料的情况."
+    },
+    {
+      "en": "Simulation results show that the algorithm has a good equalization performance.",
+      "cn": "仿真结果表明,该算法具有很好的均衡效果."
+    },
+    {
+      "en": "The method is a direct simulation of the actual process of radiation propagation.",
+      "cn": "这种方法是辐射传输实际过程的直接模拟."
+    },
+    {
+      "en": "The pilot's skills are tested through simulation.",
+      "cn": "飞行员的技术是通过模拟飞行来检测的."
+    },
+    {
+      "en": "The results in Figs. 4 and 5 show the excellent agreement between simulation and experiment.",
+      "cn": "图4和图5的结果都表明模拟和实验是相当吻合的."
+    },
+    {
+      "en": "This model may be classified as either an optimizing model or simulation model.",
+      "cn": "这个模型可分为最佳化模型或模拟模型."
+    },
+    {
+      "en": "Tito had at that moment a nauseating weariness of simulation.",
+      "cn": "在这个时候,蒂托对于弄虚作假感到厌烦了."
+    },
+    {
+      "en": "To make the training realistic the simulation operates in real time .",
+      "cn": "为使训练真实，模拟是实时运行的。"
+    },
+    {
+      "en": "Training includes realistic simulation of casualty procedures.",
+      "cn": "培训包括对急救过程的真实模拟。"
+    },
+    {
+      "en": "WASP - 5 - Water quality analysis simulation pro - grams - 5, was recommended by EPA used as software of water quality model.",
+      "cn": "WASP5 (Thewater qualityanalysis simulation pro-gram-5,水质分析模拟程序5), 是EPA推荐使用的水质模型软件."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "simulate",
+          "tran_cn": " 模仿的；假装的"
+        },
+        {
+          "word": "simulated",
+          "tran_cn": " 模拟的；模仿的；仿造的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "simulator",
+          "tran_cn": " 模拟器；假装者，模拟者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "simulated",
+          "tran_cn": " 模仿（simulate的变形）；假装"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "simulate",
+          "tran_cn": " 模仿；假装；冒充"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "acting",
+            "emulation",
+            "analog"
+          ],
+          "tran_cn": "[计]仿真；模拟；模仿；假装"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "forgery",
+            "lip",
+            "pretense",
+            "service"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "computer simulation",
+      "tran_cn": "计算机模拟"
+    },
+    {
+      "phrase": "digital simulation",
+      "tran_cn": "[化]数字仿真；[计]数字模拟"
+    },
+    {
+      "phrase": "dynamic simulation",
+      "tran_cn": "动态仿真"
+    },
+    {
+      "phrase": "monte carlo simulation",
+      "tran_cn": "蒙特卡罗模拟"
+    },
+    {
+      "phrase": "numerical simulation",
+      "tran_cn": "[化]数值模拟"
+    },
+    {
+      "phrase": "process simulation",
+      "tran_cn": "[计]进程模拟，过程模拟"
+    },
+    {
+      "phrase": "simulation analysis",
+      "tran_cn": "模拟分析"
+    },
+    {
+      "phrase": "simulation data",
+      "tran_cn": "模拟数据，仿真数据"
+    },
+    {
+      "phrase": "simulation environment",
+      "tran_cn": "模拟环境"
+    },
+    {
+      "phrase": "simulation experiment",
+      "tran_cn": "仿真实验；模拟实验"
+    },
+    {
+      "phrase": "simulation method",
+      "tran_cn": "模拟法；仿真法"
+    },
+    {
+      "phrase": "simulation model",
+      "tran_cn": "仿真模型；模拟模型"
+    },
+    {
+      "phrase": "simulation process",
+      "tran_cn": "模拟过程"
+    },
+    {
+      "phrase": "simulation program",
+      "tran_cn": "模拟程序"
+    },
+    {
+      "phrase": "simulation software",
+      "tran_cn": "仿真软件；模拟软件"
+    },
+    {
+      "phrase": "simulation system",
+      "tran_cn": "仿真系统，模拟系统"
+    },
+    {
+      "phrase": "simulation technique",
+      "tran_cn": "模拟技术"
+    },
+    {
+      "phrase": "simulation test",
+      "tran_cn": "模拟测试"
+    },
+    {
+      "phrase": "simulation training",
+      "tran_cn": "模拟训练；模拟练习"
+    },
+    {
+      "phrase": "system simulation",
+      "tran_cn": "系统仿真；系统模拟"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "模仿，模拟，[生]拟态，拟色，假装，装病",
+      "tran_en": "the activity of producing conditions which are similar to real ones, especially in order to test something, or the conditions that are produced"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "simulations"
+    ]
+  }
+}

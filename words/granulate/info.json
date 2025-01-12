@@ -1,0 +1,98 @@
+{
+  "word": "granulate",
+  "ipa": {
+    "us": "'grænjʊleɪt",
+    "uk": "'grænjəˌleɪt"
+  },
+  "sentences": [
+    {
+      "en": "Wounds and ulcers can granulate.",
+      "cn": "伤口和溃疡的地方会长出肉芽."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "granular",
+          "tran_cn": " 颗粒的；粒状的"
+        },
+        {
+          "word": "granulated",
+          "tran_cn": " 成颗粒的"
+        },
+        {
+          "word": "granulose",
+          "tran_cn": " 粒状的；淀粉粒质的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "granulation",
+          "tran_cn": " 粗糙；使成粒状"
+        },
+        {
+          "word": "granule",
+          "tran_cn": " 颗粒"
+        },
+        {
+          "word": "granulose",
+          "tran_cn": " 淀粉粒质"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "granulated",
+          "tran_cn": " 形成颗粒；表面变得粗糙（granulate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "mash",
+            "pulverize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "成为粒状",
+      "tran_en": "to make into grains "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使成颗粒，使成粒状，使表面粗糙"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "granulates"
+    ],
+    "past": [
+      "granulated"
+    ],
+    "done": [
+      "granulated"
+    ],
+    "ing": [
+      "granulating"
+    ]
+  }
+}

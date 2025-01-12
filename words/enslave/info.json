@@ -1,0 +1,95 @@
+{
+  "word": "enslave",
+  "ipa": {
+    "us": "ɪnˈsleɪv",
+    "uk": "ɪnˈsleɪv"
+  },
+  "sentences": [
+    {
+      "en": "Enslave Demon: The tooltip has been changed to 40 % due to the haste effect change.",
+      "cn": "腿瘸(地狱守卫): 技能说明更改为45%."
+    },
+    {
+      "en": "She seemed enslaved by hatred.",
+      "cn": "她似乎被仇恨所左右。"
+    },
+    {
+      "en": "There are laws that enslave men, and laws that set them free.",
+      "cn": "有令人为奴的法律.也有令人自由的法律."
+    },
+    {
+      "en": "They'd been enslaved and had to do what they were told.",
+      "cn": "他们已经沦为奴隶，不得不唯命是从。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "enslavement",
+          "tran_cn": " 奴役"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "capture",
+            "down",
+            "hold",
+            "slave",
+            "subject"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "capture",
+            "subject"
+          ],
+          "tran_cn": "使隶属"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "束缚；征服；使某人成为奴隶",
+      "tran_en": "to make someone a slave"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使成为奴隶，奴役，<正>使受控制，征服",
+      "tran_en": "if something enslaves you, it completely controls your life and your actions"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "enslaves"
+    ],
+    "past": [
+      "enslaved"
+    ],
+    "done": [
+      "enslaved"
+    ],
+    "ing": [
+      "enslaving"
+    ],
+    "noun": [
+      "enslavement"
+    ]
+  }
+}

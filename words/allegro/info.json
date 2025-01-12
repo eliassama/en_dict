@@ -1,0 +1,83 @@
+{
+  "word": "allegro",
+  "ipa": {
+    "us": "əˈlegrəʊ",
+    "uk": "əˈlegroʊ"
+  },
+  "sentences": [
+    {
+      "en": "Allegro according to the metronome can be 116–168.",
+      "cn": "-快板对应的节拍是116-168."
+    },
+    {
+      "en": "Allegro combined: Kotake children board. a sound. I ask you all to think about it.",
+      "cn": "快板合: 小竹板儿. 一声响. 我请大家想一想."
+    },
+    {
+      "en": "Cello Concerto in B minor , Op. 104, B. 191 : III. Finale : Allegro moderato Andante - Allegro vivo.",
+      "cn": "b小调大提琴协奏曲, 作品104, B. 191: 第三乐章、终曲: 适中的快板——柔板——活跃的快板."
+    },
+    {
+      "en": "Piano Concerto No.3 in C major, Op. 26 : Andante - Allegro.",
+      "cn": "大调第三钢琴协奏曲, 作品26:行板 —— 快板."
+    },
+    {
+      "en": "Symphony No.6 in B minor , Op . 74 , Pathetique : Allegro molto vivace.",
+      "cn": "小调第六“悲怆”交响曲, 作品74——极活泼的快板."
+    },
+    {
+      "en": "Symphony No.6 in F major, Op. 68 , Pastoral : Allegro ma non troppo.",
+      "cn": "大调第六“田园”交响曲, 作品68——不太快的 快板 乐章."
+    },
+    {
+      "en": "The adagio transitioned into an allegro.",
+      "cn": "慢板转为快板."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "fast",
+            "sudden",
+            "lightning",
+            "fleet"
+          ],
+          "tran_cn": "快速的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "hastily",
+            "vite"
+          ],
+          "tran_cn": "急速地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "急速地",
+      "tran_en": "Allegro written above a piece of music means that it should be played quickly and in a lively way"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "快板"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "allegros"
+    ]
+  }
+}

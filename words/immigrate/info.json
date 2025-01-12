@@ -1,0 +1,113 @@
+{
+  "word": "immigrate",
+  "ipa": {
+    "us": "ˈɪmɪɡreɪt",
+    "uk": "ˈɪmɪɡreɪt"
+  },
+  "sentences": [
+    {
+      "en": "European families emigrating from their homelands were encouraged to immigrate into Australia after World War II.",
+      "cn": "二战以后欧洲移出原籍的家庭被鼓励移居澳大利亚."
+    },
+    {
+      "en": "He decided to immigrate to Australia to find work.",
+      "cn": "他决定移居到澳大利亚找个工作."
+    },
+    {
+      "en": "His father and mother immigrated when he was two.",
+      "cn": "他的父母在他两岁时移民到这里。"
+    },
+    {
+      "en": "Only few plants can immigrate to the island.",
+      "cn": "只有很少的植物能够移植到这座岛上."
+    },
+    {
+      "en": "When did the Greeks immigrate to australia?",
+      "cn": "希腊人是什么时候移居到澳大利亚的?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "immigrant",
+          "tran_cn": "移民的；迁入的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "immigrant",
+          "tran_cn": "移民，侨民"
+        },
+        {
+          "word": "immigration",
+          "tran_cn": "外来移民；移居"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "come",
+            "enter",
+            "into",
+            "migrate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "come",
+            "enter",
+            "into"
+          ],
+          "tran_cn": "移入;进入"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（使）移居入境",
+      "tran_en": "to come into a country in order to live there permanently"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "移入",
+      "tran_en": "to come into a country in order to live there permanently"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "移民，移居外国，迁移"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "immigrates"
+    ],
+    "past": [
+      "immigrated"
+    ],
+    "done": [
+      "immigrated"
+    ],
+    "ing": [
+      "immigrating"
+    ]
+  }
+}

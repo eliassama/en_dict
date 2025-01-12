@@ -1,0 +1,192 @@
+{
+  "word": "notify",
+  "ipa": {
+    "us": "ˈnəʊtɪfaɪ",
+    "uk": "ˈnoʊtɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "Actually I meant to notify you beforehand.",
+      "cn": "实际上我是想事先通知你的."
+    },
+    {
+      "en": "He will notify us where we are to meet.",
+      "cn": "他将通知我们在什么地方集合."
+    },
+    {
+      "en": "I am glad to notify you that your mother has arrived.",
+      "cn": "我很高兴告诉你,你母亲到了."
+    },
+    {
+      "en": "I don't suppose it occurred to you to notify the police.",
+      "cn": "我看你没想过要去通知警察。"
+    },
+    {
+      "en": "I shall notify you of the arrival of the goods.",
+      "cn": "我将把货物抵达的消息通知你."
+    },
+    {
+      "en": "In August we were notified that our article had been rejected.",
+      "cn": "8月份我们接到通知，说我们的文章不予采用。"
+    },
+    {
+      "en": "Please notify them of the change of the office's address.",
+      "cn": "请把办公地址的更改通知他们."
+    },
+    {
+      "en": "Please notify us of when you may come here.",
+      "cn": "请通知我们你何时能来这里."
+    },
+    {
+      "en": "Please notify us when you arrive, so that we'll be ready.",
+      "cn": "请通知我们你们什么时候到达, 以便我们做准备."
+    },
+    {
+      "en": "She confirmed that she would notify the police and the hospital.",
+      "cn": "她确认说她会通知警方和医院。"
+    },
+    {
+      "en": "Statements with errors could still be going out, but customers who notify us will not be left out of pocket.",
+      "cn": "存在错误的结算单仍有可能发送出去，但告知我们的客户将不会遭受损失。"
+    },
+    {
+      "en": "The skipper notified the coastguard of the tragedy.",
+      "cn": "船长通知了海岸警卫队这一灾难。"
+    },
+    {
+      "en": "We may vary the limit at our discretion and will notify you of any change.",
+      "cn": "我们可能会斟酌改变限额，有任何变动将通知您。"
+    },
+    {
+      "en": "We must notify the parish.",
+      "cn": "咱们得通知教区."
+    },
+    {
+      "en": "We'll notify her to draw up a contract.",
+      "cn": "我们将通知她草拟一份合同."
+    },
+    {
+      "en": "We'll notify you where to get it.",
+      "cn": "我们会通知你在什么地方取."
+    },
+    {
+      "en": "When my guest arrives, please notify me.",
+      "cn": "我的客人到的时候, 请通知我."
+    },
+    {
+      "en": "You will be notified of any changes in the system.",
+      "cn": "系统中有任何变化都会通知你。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "notice",
+          "tran_cn": " 通知，布告；注意；公告"
+        },
+        {
+          "word": "notification",
+          "tran_cn": " 通知；通告；[法] 告示"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "notice",
+          "tran_cn": " 引起注意"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "notice",
+          "tran_cn": " 通知；注意到；留心"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acquaint",
+            "advertise",
+            "advise",
+            "announce",
+            "inform",
+            "instruct",
+            "prime",
+            "remind",
+            "report",
+            "tell",
+            "warn"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "advise",
+            "announce",
+            "inform",
+            "instruct",
+            "remind",
+            "report",
+            "tell",
+            "to",
+            "warn"
+          ],
+          "tran_cn": "通知,报告"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "also notify",
+      "tran_cn": "另请通知"
+    },
+    {
+      "phrase": "notify party",
+      "tran_cn": "到货受通知人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "通告，通知；公布",
+      "tran_en": "to formally or officially tell someone about something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "通知，布告",
+      "tran_en": "to formally or officially tell someone about something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "notifies"
+    ],
+    "past": [
+      "notified"
+    ],
+    "done": [
+      "notified"
+    ],
+    "ing": [
+      "notifying"
+    ]
+  }
+}

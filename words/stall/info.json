@@ -1,0 +1,226 @@
+{
+  "word": "stall",
+  "ipa": {
+    "us": "stɔːl",
+    "uk": "stɔːl"
+  },
+  "sentences": [
+    {
+      "en": "a fruit and veg stall",
+      "cn": "水果蔬菜摊位"
+    },
+    {
+      "en": "A heifer bellowed in her stall.",
+      "cn": "小母牛在牛栏里吼叫。"
+    },
+    {
+      "en": "a market stall",
+      "cn": "市场摊位"
+    },
+    {
+      "en": "An inexperienced pilot may easily stall a plane.",
+      "cn": "没有经验的飞行员会很容易使飞机失速下降。"
+    },
+    {
+      "en": "Either stall or surge may result in combustor blowout.",
+      "cn": "不管是喘振或者爆音,都将引起燃烧室的熄火."
+    },
+    {
+      "en": "He ekes out a living with a market stall.",
+      "cn": "他靠摆摊勉强糊口。"
+    },
+    {
+      "en": "He is over in his stall, looking very peaceful.",
+      "cn": "他在马棚里, 看来十分安详."
+    },
+    {
+      "en": "He knows how to stall off the applicants for the houses.",
+      "cn": "他很晓得怎样敷衍打发申请住房的人."
+    },
+    {
+      "en": "He sold boots on a market stall.",
+      "cn": "他在集市上摆摊卖靴子。"
+    },
+    {
+      "en": "He was just stalling for time .",
+      "cn": "他只是在拖延时间。"
+    },
+    {
+      "en": "If you try to start off in top gear you'll stall.",
+      "cn": "要是刚一发动就用最高挡,那就会熄火."
+    },
+    {
+      "en": "Quit stalling and answer my question!",
+      "cn": "别拖延时间，快回答我的问题！"
+    },
+    {
+      "en": "She sells fruits at a market stall.",
+      "cn": "她在市场的货摊上卖水果."
+    },
+    {
+      "en": "The car engine may stall as we go up the hill.",
+      "cn": "爬山时,汽车发动机可能发生故障."
+    },
+    {
+      "en": "The car kept stalling.",
+      "cn": "这辆汽车老熄火。"
+    },
+    {
+      "en": "The engines would stall when you stepped on the gas.",
+      "cn": "你一踩大油门,那引擎就要发生障碍."
+    },
+    {
+      "en": "The opening of a market stall is governed by municipal fiat.",
+      "cn": "开设市场摊位受市政法令管制."
+    },
+    {
+      "en": "The owner of the stall, a large, thuggish man, grabbed Dai by the collar.",
+      "cn": "摊主是个野蛮凶狠的大块头，他一把抓住了戴的衣领。"
+    },
+    {
+      "en": "Use the brake gently or you'll stall the engine.",
+      "cn": "轻踩刹车,不然的话发动机会停机的."
+    },
+    {
+      "en": "Your foot falls off the pedal and you stall the car.",
+      "cn": "你的脚离开踏板，汽车便会熄火。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stalemate",
+          "tran_cn": "僵局；陷于困境"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "stalemate",
+          "tran_cn": "僵持；陷入僵局"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "stalemate",
+          "tran_cn": "使僵持；使陷入困境"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "booth",
+            "concession stand"
+          ],
+          "tran_cn": "[贸易]货摊；畜栏；托辞"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "block",
+            "booth",
+            "cell",
+            "compartment",
+            "dawdle",
+            "delay",
+            "dillydally",
+            "hinder",
+            "procrastinate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "desist from",
+            "come to a stop"
+          ],
+          "tran_cn": "停止，停转；拖延"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "prolong",
+            "drag on"
+          ],
+          "tran_cn": "拖延；使停转；使陷于泥中"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "market stall",
+      "tran_cn": "街市档位"
+    },
+    {
+      "phrase": "set out one's stall",
+      "tran_cn": "(英)明确（某人）对某个问题的立场"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "货摊，托辞，畜栏，（房间内的）小隔间",
+      "tran_en": "a table or a small shop with an open front, especially outdoors, where goods are sold"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 熄火； 拖延， 推迟",
+      "tran_en": "to deliberately delay because you are not ready to do something, answer questions etc"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "拖延"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "搪塞，暂缓，搁置，停顿"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）熄火，（使）停止转动"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "stalls"
+    ],
+    "third": [
+      "stalls"
+    ],
+    "past": [
+      "stalled"
+    ],
+    "done": [
+      "stalled"
+    ],
+    "ing": [
+      "stalling"
+    ]
+  }
+}

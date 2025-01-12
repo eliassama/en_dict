@@ -1,0 +1,120 @@
+{
+  "word": "toneless",
+  "ipa": {
+    "us": "ˈtəʊnləs",
+    "uk": "ˈtoʊnləs"
+  },
+  "sentences": [
+    {
+      "en": "‘I’m sorry,’ he said, in a flat toneless voice.",
+      "cn": "“对不起。”他以淡淡的声调说道。"
+    },
+    {
+      "en": "\"What shall we do?\" Milton said again in a toneless voice.",
+      "cn": "“我们该怎么办？”米尔顿又用平板而单调的声音问道。"
+    },
+    {
+      "en": "Though her voice was toneless, it plead more loudly than words.",
+      "cn": "她的声音尽管听起来很平谈, 但比大声的要求更加诚恳."
+    },
+    {
+      "en": "What shall we do?  Milton said again in a toneless voice.",
+      "cn": "“我们该怎么办？”米尔顿又用平板而单调的声音问道。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tonal",
+          "tran_cn": " 色调的；音调的"
+        },
+        {
+          "word": "toned",
+          "tran_cn": " 年久变色的；有声调的，具有……音质的"
+        },
+        {
+          "word": "tonic",
+          "tran_cn": " 滋补的；声调的；使精神振作的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "tonelessly",
+          "tran_cn": " 单调地，沉闷地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tonality",
+          "tran_cn": " 音调；色调"
+        },
+        {
+          "word": "tone",
+          "tran_cn": " 语气；色调；音调；音色"
+        },
+        {
+          "word": "toner",
+          "tran_cn": " 调色剂，增色剂；色粉"
+        },
+        {
+          "word": "tonic",
+          "tran_cn": " 补药；主调音或基音"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "tone",
+          "tran_cn": " 颜色调和；呈现悦目色调"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "tone",
+          "tran_cn": " 增强；用某种调子说"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "flat",
+            "blank",
+            "tedious"
+          ],
+          "tran_cn": "沉闷的；单调的；缺乏声调的；无声的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "单调的，沉闷的，声调平板的，无音调的",
+      "tran_en": "a toneless voice does not express any feelings"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "tonelessly"
+    ]
+  }
+}

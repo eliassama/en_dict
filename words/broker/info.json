@@ -1,0 +1,156 @@
+{
+  "word": "broker",
+  "ipa": {
+    "us": "ˈbrəʊkə(r)",
+    "uk": "ˈbroʊkər"
+  },
+  "sentences": [
+    {
+      "en": "A crafty knave needs no broker.",
+      "cn": "狡猾的无赖无需中间人."
+    },
+    {
+      "en": "A factor differs from a broker in that he may sell in his own name.",
+      "cn": "代理商与经纪人的区别是他可以以自己的名义出售货物."
+    },
+    {
+      "en": "A good rule of thumb is that a broker must generate sales of ten times his salary if his employer is to make a profit.",
+      "cn": "根据经验来看，如果雇主要获得利润，那么其代理商必须卖出相当于其工资10倍的销售额。"
+    },
+    {
+      "en": "a real estate broker",
+      "cn": "房地产经纪人"
+    },
+    {
+      "en": "All I know is that he is a broker with several accounts in his pocket.",
+      "cn": "我只知道他是个掮客,口袋里有好几本帐."
+    },
+    {
+      "en": "He baited the broker by promises of higher commissions.",
+      "cn": "他答应给更高的佣金来引诱那位经纪人."
+    },
+    {
+      "en": "He smiled grimly and hurried into the \" private den \" next door to ring up the broker.",
+      "cn": "他狞笑了一声,就匆匆地跑到办公室隔壁的 “ 机要房 ” 打电话去了."
+    },
+    {
+      "en": "He was a high-earning broker with money to burn.",
+      "cn": "他是高收入的经纪人，有花不完的钱。"
+    },
+    {
+      "en": "It was improper of the broker to withhold the information from the stock exchange.",
+      "cn": "股票经纪人对交易所隐瞒信息的行为是不正当的."
+    },
+    {
+      "en": "It's part of the service on the broker's side, isn't it?",
+      "cn": "这是经纪人应该承担的责任, 不是 吗 ?"
+    },
+    {
+      "en": "Jackson had been a major power-broker in the 1988 Presidential elections.",
+      "cn": "杰克逊是1988年总统选举中举足轻重的权力经纪人。"
+    },
+    {
+      "en": "She's a hotshot broker on Wall Street.",
+      "cn": "她是华尔街一名业绩斐然的经纪人。"
+    },
+    {
+      "en": "Shipping any stuff into Isreael blows any image we may have of an honest broker.",
+      "cn": "把任何东西运进以色列都会毁掉我们作为诚实无诈的中间人的形象."
+    },
+    {
+      "en": "The selling broker is then required to assign a portion of the commission to the buyer broker.",
+      "cn": "卖方经纪人须随后将部分佣金分给买方经纪人。"
+    },
+    {
+      "en": "The stock - broker was hard hit by the fall in stocks.",
+      "cn": "由于股票下跌,这个股票经纪人受到了严重打击."
+    },
+    {
+      "en": "Vincent French is a real estate broker at the sharp end of a tough and exacting business.",
+      "cn": "文森特·弗伦奇在房地产这个艰难行业做了最吃苦受累的不动产经纪人。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "brokerage",
+          "tran_cn": " 佣金；回扣；中间人业务"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "booking agent",
+            "middleman"
+          ],
+          "tran_cn": "[经]经纪人，[劳经]掮客"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "representative",
+            "seller"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "customs broker",
+      "tran_cn": "n. 报关行；海关经纪人"
+    },
+    {
+      "phrase": "insurance broker",
+      "tran_cn": "保险经纪人"
+    },
+    {
+      "phrase": "real estate broker",
+      "tran_cn": "房地产经纪人，不动产经纪人"
+    },
+    {
+      "phrase": "stock broker",
+      "tran_cn": "证券经纪人，股票经纪人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "经纪人，代理商 ",
+      "tran_en": "someone who buys and sells things such as  share s  in companies or foreign money for other people"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "协调，安排"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "brokers"
+    ],
+    "third": [
+      "brokers"
+    ],
+    "past": [
+      "brokered"
+    ],
+    "done": [
+      "brokered"
+    ],
+    "ing": [
+      "brokering"
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "word": "submission",
+  "ipa": {
+    "us": "səbˈmɪʃn",
+    "uk": "səbˈmɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "a gesture of submission",
+      "cn": "投降的手势"
+    },
+    {
+      "en": "A written submission has to be prepared.",
+      "cn": "必须准备一份书面报告。"
+    },
+    {
+      "en": "Diploma and certificate courses do not normally require the submission of a dissertation.",
+      "cn": "为获得文凭和证书所修的课程通常不需要提交论文。"
+    },
+    {
+      "en": "He is not the kind of child who is likely to be cowed into submission.",
+      "cn": "他并不是那种吓一吓就可能就范的孩子."
+    },
+    {
+      "en": "Her present submission is animated solely by her fear of punishment.",
+      "cn": "她目前的屈从完全是因为她害怕受罚."
+    },
+    {
+      "en": "I demand the submission of the signature to an expert.",
+      "cn": "我要求把这签名提交专家鉴定."
+    },
+    {
+      "en": "No enemy can frighten us into submission.",
+      "cn": "任何敌人的恐吓都不能使我们屈服."
+    },
+    {
+      "en": "Plans were drawn up for submission to the housing council.",
+      "cn": "计划已起草，要提交给住房委员会。"
+    },
+    {
+      "en": "Submissions will not be accepted after May.",
+      "cn": "过了5月再提交将不予接受。"
+    },
+    {
+      "en": "The army intends to take the city or simply starve it into submission.",
+      "cn": "军队打算占领该城市或干脆截断其粮食补给迫使其投降。"
+    },
+    {
+      "en": "The conquerors believed in crushing the defeated people into submission , knowing that they could not win their loyalty by the victory.",
+      "cn": "征服者们知道他们的胜利并不能赢得失败者的忠心,于是就认为只有通过武力才能将他们压服."
+    },
+    {
+      "en": "The deadline for the submission of proposals is May 1st.",
+      "cn": "呈交提案的最后期限是 5 月 1 日。"
+    },
+    {
+      "en": "The defeated general showed his submission by giving up his sword.",
+      "cn": "战败将军缴剑表示投降."
+    },
+    {
+      "en": "Their approach simply bludgeons you into submission.",
+      "cn": "他们的方法就是迫使你屈服。"
+    },
+    {
+      "en": "They believe that submission in no way implies inferiority.",
+      "cn": "他们认为服从决不意味着低人一等."
+    },
+    {
+      "en": "They hunger him into submission.",
+      "cn": "他们用饥饿使他屈服."
+    },
+    {
+      "en": "Was she going to try to bulldoze him into submission?",
+      "cn": "该死的东西!她想把他压服 吗 ?"
+    },
+    {
+      "en": "We think an attempt to bully them into submission would be counterproductive.",
+      "cn": "我们认为试图迫使他们屈服会适得其反。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "submissive",
+          "tran_cn": " 顺从的；服从的；柔顺的"
+        },
+        {
+          "word": "subordinate",
+          "tran_cn": " 从属的；次要的"
+        },
+        {
+          "word": "subordinating",
+          "tran_cn": " 连接主句和从句的；从属的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "submissiveness",
+          "tran_cn": " 柔顺；服从"
+        },
+        {
+          "word": "subordinate",
+          "tran_cn": " 下属，下级；部属，属下"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "subordinating",
+          "tran_cn": " 使服从（subordinate的ing形式）；使成为下级"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "submit",
+          "tran_cn": " 提交；服从"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "submit",
+          "tran_cn": " 使服从；主张；呈递"
+        },
+        {
+          "word": "subordinate",
+          "tran_cn": " 使……居下位；使……服从"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "opinion",
+            "compliance",
+            "view",
+            "comment",
+            "mind"
+          ],
+          "tran_cn": "投降；[计]提交（物）；服从；（向法官提出的）意见；谦恭"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cession",
+            "conformity",
+            "dependence",
+            "obedience",
+            "proposition",
+            "resignation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "submission date",
+      "tran_cn": "提交日期"
+    },
+    {
+      "phrase": "submission of tender",
+      "tran_cn": "投标"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "投降，屈服，服从，谦恭，柔顺，提交，呈递",
+      "tran_en": "the state of being completely controlled by a person or group, and accepting that you have to obey them"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "submissions"
+    ]
+  }
+}

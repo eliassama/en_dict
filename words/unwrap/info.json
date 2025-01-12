@@ -1,0 +1,89 @@
+{
+  "word": "unwrap",
+  "ipa": {
+    "us": "ʌnˈræp",
+    "uk": "ʌnˈræp"
+  },
+  "sentences": [
+    {
+      "en": "Brigitte was unwrapping her birthday presents.",
+      "cn": "布丽吉特正在拆她的生日礼物。"
+    },
+    {
+      "en": "It is similar to His telling people unwrap Lazarus.",
+      "cn": "这就与他叫人解开拉撒路的纱布是一样的情况."
+    },
+    {
+      "en": "Unwrap a candy bar . Eat the wrapper and throw the chocolate away.",
+      "cn": "剥开糖果外包裹的糖纸,吃掉剥下的糖纸,丢掉糖果."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "unwrapped",
+          "tran_cn": " 解缠的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "unwrapped",
+          "tran_cn": " 打开（unwrap的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "skin"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "crack",
+            "open up",
+            "turn on"
+          ],
+          "tran_cn": "打开"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "vt",
+      "tran_cn": "打开，散开",
+      "tran_en": "to remove the paper, plastic etc that is around something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "unwraps"
+    ],
+    "past": [
+      "unwrapped"
+    ],
+    "done": [
+      "unwrapped"
+    ],
+    "ing": [
+      "unwrapping"
+    ]
+  }
+}

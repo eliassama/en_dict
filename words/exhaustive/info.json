@@ -1,0 +1,205 @@
+{
+  "word": "exhaustive",
+  "ipa": {
+    "us": "ɪɡˈzɔːstɪv",
+    "uk": "ɪɡˈzɔːstɪv"
+  },
+  "sentences": [
+    {
+      "en": "After an exhaustive search the missing document was found.",
+      "cn": "经过彻底搜寻丢失的文件被找到了."
+    },
+    {
+      "en": "After exhaustive review of the whole situation, Mr. Murphy gave his opinion.",
+      "cn": "在详细检讨全盘情况后, 墨斐先生提出了自己的见解."
+    },
+    {
+      "en": "an exhaustive investigation",
+      "cn": "彻底的调查"
+    },
+    {
+      "en": "An exhaustive investigation of the facts proves the contrary.",
+      "cn": "彻底地调查事实后发现情况正好相反."
+    },
+    {
+      "en": "Can you produce an exhaustive list of the library books?",
+      "cn": "你能否提供一份图书馆的全部藏书名单?"
+    },
+    {
+      "en": "Diligent and exhaustive testing is no substitute for careful design.",
+      "cn": "用心和彻底的测试并不是仔细设计的替代品."
+    },
+    {
+      "en": "For the full, exhaustive run - down of what's included, hit the link below.",
+      "cn": "想了解更全面的信息 以及 详细的运行方式, 请点击一下链接."
+    },
+    {
+      "en": "He has got a protracted, exhaustive siege of illness.",
+      "cn": "他得了一种长期而耗费体力的疾病."
+    },
+    {
+      "en": "It is the end product of exhaustive research and development.",
+      "cn": "这是全面研发后的最终成品。"
+    },
+    {
+      "en": "Let's make an exhaustive study.",
+      "cn": "让我们做一次深入的研究."
+    },
+    {
+      "en": "Melville incorporated in \" Moby Dick \" an exhaustive encyclopaedia of whaling lore.",
+      "cn": "梅尔维尔在《白鲸 》 中汇集了各种捕鲸知识."
+    },
+    {
+      "en": "The author's treatment of the subject is exhaustive.",
+      "cn": "该作者对这个问题的分析很透彻。"
+    },
+    {
+      "en": "The list is by no means exhaustive.",
+      "cn": "清单一点也不详尽。"
+    },
+    {
+      "en": "The research is not an exhaustive but an exemplary one.",
+      "cn": "这些缺陷是例证性的,而不是穷尽性的."
+    },
+    {
+      "en": "There are a variety of complicated procedural devices set out in exhaustive detail in the section.",
+      "cn": "还有一些各种各样的混杂的诉讼程序和烦琐的细节."
+    },
+    {
+      "en": "These four goals are not an exhaustive list of alternatives.",
+      "cn": "以上四个目标不是所有的选择."
+    },
+    {
+      "en": "This kind of classification is not exhaustive.",
+      "cn": "这种分类法并不是包罗无遗的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "exhausted",
+          "tran_cn": " 疲惫的；耗尽的"
+        },
+        {
+          "word": "exhaustible",
+          "tran_cn": " 可被用尽的；会枯竭的"
+        },
+        {
+          "word": "exhausting",
+          "tran_cn": " 使筋疲力尽的；使耗尽的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "exhaustively",
+          "tran_cn": " 耗尽一切地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "exhaust",
+          "tran_cn": " 排气；废气；排气装置"
+        },
+        {
+          "word": "exhaustion",
+          "tran_cn": " 枯竭；耗尽；精疲力竭"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "exhausted",
+          "tran_cn": " 耗尽；用尽；使…精疲力尽（exhaust的过去式）"
+        },
+        {
+          "word": "exhausting",
+          "tran_cn": " 耗尽；使…精疲力竭；排出（exhaust的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "exhaust",
+          "tran_cn": " 排气"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "exhaust",
+          "tran_cn": " 排出；耗尽；使精疲力尽；彻底探讨"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "thorough",
+            "complete",
+            "detailed",
+            "full",
+            "radical"
+          ],
+          "tran_cn": "详尽的；彻底的；消耗的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "circumstantial",
+            "complete",
+            "comprehensive",
+            "detailed",
+            "downright",
+            "encyclopedic",
+            "global"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "exhaustive method",
+      "tran_cn": "穷举方法"
+    },
+    {
+      "phrase": "exhaustive search",
+      "tran_cn": "穷举搜索"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "详尽的，彻底的",
+      "tran_en": "extremely thorough and complete"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "exhaustively"
+    ]
+  }
+}

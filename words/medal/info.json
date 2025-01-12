@@ -1,0 +1,188 @@
+{
+  "word": "medal",
+  "ipa": {
+    "us": "ˈmedl",
+    "uk": "ˈmedl"
+  },
+  "sentences": [
+    {
+      "en": "a contender for a gold medal in the Olympics",
+      "cn": "奥运金牌的争夺者"
+    },
+    {
+      "en": "a medal for gallantry",
+      "cn": "英勇勋章"
+    },
+    {
+      "en": "an Olympic bronze medal winner",
+      "cn": "奥林匹克铜牌得主"
+    },
+    {
+      "en": "An Olympic gold medal can lead to untold riches for an athlete.",
+      "cn": "一枚奥运金牌能给运动员带来无尽的财富。"
+    },
+    {
+      "en": "An Olympic gold medal is the most sought-after prize in world sport.",
+      "cn": "在世界体坛上，一枚奥运会金牌是最令人向往的奖项。"
+    },
+    {
+      "en": "an Olympic gold medal winner",
+      "cn": "奥运会金牌得主"
+    },
+    {
+      "en": "Another medal was specially struck for him.",
+      "cn": "专门为他铸造了另一枚奖章。"
+    },
+    {
+      "en": "Christie took the gold medal in the 100 metres.",
+      "cn": "克里斯蒂在100米赛中夺得金牌。"
+    },
+    {
+      "en": "For his dedication the Mayor awarded him a medal of merit.",
+      "cn": "为表彰他的奉献精神，市长授予他荣誉奖章。"
+    },
+    {
+      "en": "He sometimes fantasized about winning the gold medal.",
+      "cn": "他有时幻想赢得金牌的情景。"
+    },
+    {
+      "en": "He topped off his career with an Olympic gold medal.",
+      "cn": "他以一块奥运金牌为自己的职业生涯画上了圆满的句号。"
+    },
+    {
+      "en": "It was an unbelievable moment when Chris won the gold medal.",
+      "cn": "克里斯赢得金牌的那一刻令人不可思议。"
+    },
+    {
+      "en": "She won a gold medal at the last Olympics.",
+      "cn": "她在上届奥运会上赢得一枚金牌。"
+    },
+    {
+      "en": "She won the individual gold medal at the Winter Olympics.",
+      "cn": "她在冬奥会上获得了个人金牌。"
+    },
+    {
+      "en": "The medal bears the inscription \"For distinguished service\".",
+      "cn": "奖章上刻有“功勋卓越”的字样。"
+    },
+    {
+      "en": "The two boys were awarded medals for their bravery.",
+      "cn": "这两个男孩因勇敢而获得勋章。"
+    },
+    {
+      "en": "Theresa Zabell ran away with the women's gold medal.",
+      "cn": "特雷莎·扎贝尔轻松获得了女子金牌。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "medalist",
+          "tran_cn": " 奖牌获得者"
+        },
+        {
+          "word": "medallion",
+          "tran_cn": " 大奖章；圆形浮雕"
+        },
+        {
+          "word": "medallist",
+          "tran_cn": " 奖章获得者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "award",
+            "honor",
+            "medallion",
+            "prize",
+            "reward"
+          ],
+          "tran_cn": "奖章;奖品"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "award",
+            "citation",
+            "decoration",
+            "honor",
+            "medallion",
+            "prize",
+            "reward"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bronze medal",
+      "tran_cn": "铜牌；铜质奖章"
+    },
+    {
+      "phrase": "congressional medal of honor",
+      "tran_cn": "国会荣誉勋章"
+    },
+    {
+      "phrase": "gold medal",
+      "tran_cn": "金牌；金质奖章"
+    },
+    {
+      "phrase": "medal of freedom",
+      "tran_cn": "自由勋章（美国授予有杰出成就公民的最高奖赏）"
+    },
+    {
+      "phrase": "medal of honor",
+      "tran_cn": "荣誉勋章"
+    },
+    {
+      "phrase": "medal tally",
+      "tran_cn": "奖牌总数"
+    },
+    {
+      "phrase": "presidential medal of freedom",
+      "tran_cn": "总统自由勋章"
+    },
+    {
+      "phrase": "silver medal",
+      "tran_cn": "银质奖章；银牌奖"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "奖章，勋章",
+      "tran_en": "a flat piece of metal, usually shaped like a coin, that is given to someone who has won a competition or who has done something brave"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "medals"
+    ],
+    "third": [
+      "medals"
+    ],
+    "past": [
+      "medaled"
+    ],
+    "done": [
+      "medaled"
+    ],
+    "ing": [
+      "medaling"
+    ]
+  }
+}

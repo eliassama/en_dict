@@ -1,0 +1,166 @@
+{
+  "word": "norm",
+  "ipa": {
+    "us": "nɔːm",
+    "uk": "nɔːrm"
+  },
+  "sentences": [
+    {
+      "en": "a departure from the norm",
+      "cn": "一反常态"
+    },
+    {
+      "en": "Criminal behaviour seems to be the norm in this neighbourhood.",
+      "cn": "犯罪行为似乎是这一带的正常现象."
+    },
+    {
+      "en": "Deviation from the norm is not tolerated.",
+      "cn": "不能容忍离经叛道行为。"
+    },
+    {
+      "en": "Families of six or seven are the norm in Borough Park.",
+      "cn": "在区公园住宅区六口或七口之家十分普遍。"
+    },
+    {
+      "en": "It has been authorized by another legal norm of a higher rank.",
+      "cn": "它已经得到另一条最高层次的法律规范的认可."
+    },
+    {
+      "en": "It was a norm for any major company.",
+      "cn": "这在各大公司都是司空见惯的."
+    },
+    {
+      "en": "Joyce’s style of writing was a striking departure from the literary norm.",
+      "cn": "乔伊斯的写作风格与传统的文学风格大相径庭。"
+    },
+    {
+      "en": "Mass advertising steadily destroyed competitive dailies; monopoly became the norm.",
+      "cn": "大宗广告不断地摧毁竞争日报; 垄断成为普遍现象."
+    },
+    {
+      "en": "Norm approach for role assignation in grid workflow.",
+      "cn": "网格工作流中角色分配的Norm方法."
+    },
+    {
+      "en": "Of his age, the child is above the norm in arithmetic.",
+      "cn": "在他那个年龄, 这个孩子的算术能力是超过标准的."
+    },
+    {
+      "en": "Ordinariness is his norm; what is extraordinary tends to be suspect.",
+      "cn": "他崇尚普通, 对非常之举心怀疑忌."
+    },
+    {
+      "en": "The changes will lead to more flexible leases, and leases nearer to 15 years than the present norm of 25 years.",
+      "cn": "这些变化将带来更灵活的、接近15年的租期，而不是现行的常规为25年的租期。"
+    },
+    {
+      "en": "The euclidean norm of an n - vector x with real or complex components is defined as following.",
+      "cn": "凡具实数分量或复数分量的n - 维向量x的欧氏范数被定义如下."
+    },
+    {
+      "en": "The norm system to measure hot and damp comfort property is established.",
+      "cn": "建立了衡量热湿舒适性的指标体系."
+    },
+    {
+      "en": "There's a production norm below which each worker must not fall.",
+      "cn": "每个工人的产量都不得低于生产指标."
+    },
+    {
+      "en": "These events were aberrations from the norm.",
+      "cn": "这些事件不合常规。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "normal",
+          "tran_cn": " 正常的；正规的，标准的"
+        },
+        {
+          "word": "normative",
+          "tran_cn": " 规范的，标准的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "normal",
+          "tran_cn": " 正常；标准；常态"
+        },
+        {
+          "word": "normality",
+          "tran_cn": " 常态；[化学] 当量浓度；[化学] 规定浓度"
+        },
+        {
+          "word": "normalization",
+          "tran_cn": " 正常化；标准化；正规化；常态化"
+        },
+        {
+          "word": "normalizer",
+          "tran_cn": " 标准化者；正规化者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "normalize",
+          "tran_cn": " 使正常化；使规格化，使标准化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "criterion",
+            "quota"
+          ],
+          "tran_cn": "规范，基准；[经管]定额，分配之工作量"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "criterion",
+            "regulation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "matrix norm",
+      "tran_cn": "矩阵范数"
+    },
+    {
+      "phrase": "social norm",
+      "tran_cn": "社会规范"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "标准，规范，准则，（劳动）定额",
+      "tran_en": "the usual or normal situation, way of doing something etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "norms"
+    ]
+  }
+}

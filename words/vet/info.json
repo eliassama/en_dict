@@ -1,0 +1,170 @@
+{
+  "word": "vet",
+  "ipa": {
+    "us": "vet",
+    "uk": "vet"
+  },
+  "sentences": [
+    {
+      "en": "Actually, to be a good vet is very difficult.",
+      "cn": "实际上, 做个好兽医很难."
+    },
+    {
+      "en": "All candidates are carefully vetted by Central Office.",
+      "cn": "所有候选人都由总部仔细审查。"
+    },
+    {
+      "en": "All new pets should be checked over by a vet.",
+      "cn": "所有新生的宠物都应该让兽医仔细检查."
+    },
+    {
+      "en": "He was usually preposterous vet somehow achieved a certain dignity by his remoteness and agelessness.",
+      "cn": "他自己虽常常很荒谬,然而他以他表现出来的冷漠和无情赢得了一定的尊重."
+    },
+    {
+      "en": "I do not want your job, I want to be a vet and help animals.",
+      "cn": "将来我并不想像您一样做首相，我想当个兽医，帮助动物。"
+    },
+    {
+      "en": "I took my dog to the vet.",
+      "cn": "我把狗带到兽医诊所看病."
+    },
+    {
+      "en": "I'm going take the dog down to the vet'sand have her put to sleep.",
+      "cn": "我要把小狗带到兽医那里，让她安乐死。"
+    },
+    {
+      "en": "I've got to take the dog to the vet's tomorrow.",
+      "cn": "明天我得把狗带到兽医诊所去诊治。"
+    },
+    {
+      "en": "I've tried every treatment the vet suggested.",
+      "cn": "兽医建议的每一种治疗方法我都试过了."
+    },
+    {
+      "en": "If a pet shows signs of respiratory illness, please contact your vet.",
+      "cn": "假如宠物出现呼吸疾病的症状，请与你的兽医联系。"
+    },
+    {
+      "en": "In the old days we got a visit from the vet maybe once a year.",
+      "cn": "以前，兽医大概每年来我们这里出诊一次。"
+    },
+    {
+      "en": "Injecting animals is all in a day's work for a vet.",
+      "cn": "给动物注射是兽医的日常工作."
+    },
+    {
+      "en": "Is it great fun to be a vet?",
+      "cn": "做兽医有意思 吗 ?"
+    },
+    {
+      "en": "It's kinda creepyhaving a vet around the house anyway.",
+      "cn": "不管怎么样,附近有个兽医感觉真恐怖."
+    },
+    {
+      "en": "The vet had improvised a harness.",
+      "cn": "兽医临时凑成了一副马具。"
+    },
+    {
+      "en": "They laughed and said Hsin - mei was no saint vet but would still do as a friend.",
+      "cn": "大家笑说 辛楣 还不是圣人,还可以做朋友."
+    },
+    {
+      "en": "What's more, to be a vet is very challenging.",
+      "cn": "再者, 兽医这个工作非常具有挑战性."
+    },
+    {
+      "en": "Why did you decide to be a vet?",
+      "cn": "为什么你决定做兽医 呢 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "veterinary",
+          "tran_cn": " 兽医的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "veterinarian",
+          "tran_cn": " [兽医] 兽医"
+        },
+        {
+          "word": "veterinary",
+          "tran_cn": " 兽医（等于veterinarian）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "veterinarian",
+            "farrier"
+          ],
+          "tran_cn": "兽医"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "oversee",
+            "censor"
+          ],
+          "tran_cn": "审查；诊疗"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "老兵，〈美口〉同“veteran“",
+      "tran_en": "someone who is trained to give medical care and treatment to sick animals"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "审查；诊疗",
+      "tran_en": "to check someone’s past activities, relationships etc in order to make sure that person is suitable for a particular job, especially an important one"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "当兽医"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "审查（某人过去的记录、资格等），诊疗，检查",
+      "tran_en": "to check someone’s past activities, relationships etc in order to make sure that person is suitable for a particular job, especially an important one"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "vets"
+    ],
+    "third": [
+      "vets"
+    ],
+    "past": [
+      "vetted"
+    ],
+    "done": [
+      "vetted"
+    ],
+    "ing": [
+      "vetting"
+    ]
+  }
+}

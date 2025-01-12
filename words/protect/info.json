@@ -1,0 +1,230 @@
+{
+  "word": "protect",
+  "ipa": {
+    "us": "prəˈtekt",
+    "uk": "prəˈtekt"
+  },
+  "sentences": [
+    {
+      "en": "A blade guard is fitted to protect the operator.",
+      "cn": "为保证操作人员的人身安全安装了桨叶保护罩。"
+    },
+    {
+      "en": "Account details are encrypted to protect privacy.",
+      "cn": "账户资料被加密，以保护隐私。"
+    },
+    {
+      "en": "Amethyst was believed by the Greeks to protect a person from drunkenness.",
+      "cn": "希腊人认为紫水晶可以防止人喝醉。"
+    },
+    {
+      "en": "Are we doing enough to protect the environment?",
+      "cn": "我们在保护环境方面做得够吗？"
+    },
+    {
+      "en": "Fear not, Darlene will protect me.",
+      "cn": "别担心，达琳会保护我的。"
+    },
+    {
+      "en": "It has been claimed that wine helps protect against heart disease.",
+      "cn": "有人声称葡萄酒有助于预防心脏病。"
+    },
+    {
+      "en": "Many manufacturers have policies to protect themselves against blackmailers.",
+      "cn": "许多厂家都购买了保险，以防遭到敲诈。"
+    },
+    {
+      "en": "So, what can women do to protect themselves from heart disease?",
+      "cn": "那么，女性怎样做才能使自己不得心脏病呢？"
+    },
+    {
+      "en": "Such laws could protect the consumer from harmful or dangerous remedies.",
+      "cn": "这样的法规可以保护消费者免受有害或者危险药品的威胁。"
+    },
+    {
+      "en": "The company provides a styrofoam cushion to protect the tablets during shipping.",
+      "cn": "该公司用泡沫塑料包住牌匾，以防止其在运输过程中受损。"
+    },
+    {
+      "en": "The French have acted swiftly and decisively to protect their industries.",
+      "cn": "法国人采取了迅速而果断的行动来保护他们的产业。"
+    },
+    {
+      "en": "The law, your contracts, your public protect you, do they? How?",
+      "cn": "法律、合约和公众会保护你。真的会吗？怎么保护？"
+    },
+    {
+      "en": "There is an internal circuit breaker to protect the instrument from overload.",
+      "cn": "内置有断路器，防止设备过载。"
+    },
+    {
+      "en": "They sent naval forces to protect merchant shipping.",
+      "cn": "他们派出了海军保护商船。"
+    },
+    {
+      "en": "We are here to protect and assist the weak and infirm.",
+      "cn": "我们来这里保护、帮助年迈体弱者。"
+    },
+    {
+      "en": "Women banded together to protect each other.",
+      "cn": "妇女团结一致互相保护。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "protecting",
+          "tran_cn": " 保护的；防护的"
+        },
+        {
+          "word": "protectionist",
+          "tran_cn": " 贸易保护主义的；保护贸易论的"
+        },
+        {
+          "word": "protective",
+          "tran_cn": " 防护的；关切保护的；保护贸易的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "protectively",
+          "tran_cn": " 保护地；防护地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "protection",
+          "tran_cn": " 保护；防卫；护照"
+        },
+        {
+          "word": "protectionism",
+          "tran_cn": " 保护主义，贸易保护主义"
+        },
+        {
+          "word": "protectionist",
+          "tran_cn": " 贸易保护主义者"
+        },
+        {
+          "word": "protectiveness",
+          "tran_cn": " 保护；防护"
+        },
+        {
+          "word": "protector",
+          "tran_cn": " 保护器；保护者；保护装置；防御者"
+        },
+        {
+          "word": "protectorate",
+          "tran_cn": " 保护国；摄政政体；摄政职位；摄政任期"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "protecting",
+          "tran_cn": " 保护；防护（protect的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accompany",
+            "cherish",
+            "cloak",
+            "cover",
+            "defend",
+            "ensure",
+            "favor",
+            "guard",
+            "harbor",
+            "insure",
+            "maintain",
+            "patrol",
+            "preserve",
+            "safeguard",
+            "screen",
+            "shelter",
+            "shepherd",
+            "shield",
+            "watch"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cover",
+            "defend",
+            "ensure",
+            "guard",
+            "harbor",
+            "keep",
+            "safeguard",
+            "screen",
+            "shelter",
+            "shield"
+          ],
+          "tran_cn": "保护,防护;防卫"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "protect against",
+      "tran_cn": "使免受"
+    },
+    {
+      "phrase": "protect from",
+      "tran_cn": "使免受，保护"
+    },
+    {
+      "phrase": "protect the environment",
+      "tran_cn": "环境保护"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "保护，贸易保护，投保",
+      "tran_en": "to keep someone or something safe from harm, damage, or illness"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 保护",
+      "tran_en": "to keep someone or something safe from harm, damage, or illness"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "protects"
+    ],
+    "past": [
+      "protected"
+    ],
+    "done": [
+      "protected"
+    ],
+    "ing": [
+      "protecting"
+    ]
+  }
+}

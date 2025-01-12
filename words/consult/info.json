@@ -1,0 +1,196 @@
+{
+  "word": "consult",
+  "ipa": {
+    "us": "kənˈsʌlt",
+    "uk": "kənˈsʌlt"
+  },
+  "sentences": [
+    {
+      "en": "After consulting with her daughter and manager, she decided to take on the part, on her terms.",
+      "cn": "同她的女儿兼经纪人商量之后，她决定按她的要求接受那个角色。"
+    },
+    {
+      "en": "Consult the table on page 104.",
+      "cn": "参阅104页的表格。"
+    },
+    {
+      "en": "Have you consulted a dictionary?",
+      "cn": "你查过词典了吗？"
+    },
+    {
+      "en": "He had to consult a pocket dictionary.",
+      "cn": "他只好去查袖珍字典。"
+    },
+    {
+      "en": "I can’t believe you sold the car without consulting me!",
+      "cn": "我真不敢相信你不和我商量一下就把车给卖了！"
+    },
+    {
+      "en": "I must consult my principals.",
+      "cn": "我得同委托人商量一下."
+    },
+    {
+      "en": "I wish to consult you on a few questions.",
+      "cn": "我有几个问题向您领教."
+    },
+    {
+      "en": "If symptoms persist, consult a doctor without delay.",
+      "cn": "如果症状持续的话，马上咨询医生。"
+    },
+    {
+      "en": "If the pain continues, consult your doctor.",
+      "cn": "如果疼痛持续不消退，要请医生诊治。"
+    },
+    {
+      "en": "If you are in any doubt, consult a financial adviser.",
+      "cn": "如有任何疑问，请向财务顾问咨询。"
+    },
+    {
+      "en": "If you have no idea about it, consult a dictionary, please.",
+      "cn": "要是你对这个问题不清楚, 请你查字典得了."
+    },
+    {
+      "en": "If you require further information, you should consult the registrar.",
+      "cn": "如果需要进一步了解信息，请咨询教务主任。"
+    },
+    {
+      "en": "If your skin becomes red, sore or very scaly, consult your doctor.",
+      "cn": "如果皮肤发红、瘙痒或脱皮，要向医生咨询。"
+    },
+    {
+      "en": "It is recommended that you should consult your doctor.",
+      "cn": "建议你去咨询医生。"
+    },
+    {
+      "en": "Parents can consult the teachers on children.",
+      "cn": "家长可以向老师询问孩子们的情况."
+    },
+    {
+      "en": "She began to consult doctors, and each had a different diagnosis.",
+      "cn": "她开始四处寻医，但每个医生的诊断都不相同。"
+    },
+    {
+      "en": "The two countries will have to consult their allies.",
+      "cn": "两国不得不与盟国商议。"
+    },
+    {
+      "en": "We consult a banker about our money.",
+      "cn": "我们向银行家询问我们的资金情况."
+    },
+    {
+      "en": "We have to consult his convenience in a matter of this kind.",
+      "cn": "对这样的事情,我们就听其自便吧."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "consultive",
+          "tran_cn": " 咨询的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "consultancy",
+          "tran_cn": " 咨询公司；顾问工作"
+        },
+        {
+          "word": "consultant",
+          "tran_cn": " 顾问；咨询者；会诊医生"
+        },
+        {
+          "word": "consultation",
+          "tran_cn": " 咨询；磋商；[临床] 会诊；讨论会"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "confer",
+            "discuss",
+            "over",
+            "talk"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "take advice",
+            "seek advice"
+          ],
+          "tran_cn": "请教；商议；当顾问"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "confer",
+            "discuss",
+            "over",
+            "talk"
+          ],
+          "tran_cn": "与...商量;查阅"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "consult with",
+      "tran_cn": "商量，协商"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": " 咨询"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "咨询，商量，查阅",
+      "tran_en": "to ask for information or advice from someone because it is their job to know something"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 交换意见， 商议； 当顾问",
+      "tran_en": "If a person or group of people consults with other people or consults them, or if two people or groups consult, they talk and exchange ideas and opinions about what they might decide to do"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "请教，找…商量；咨询；查阅，查看",
+      "tran_en": "to ask for information or advice from someone because it is their job to know something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "consults"
+    ],
+    "past": [
+      "consulted"
+    ],
+    "done": [
+      "consulted"
+    ],
+    "ing": [
+      "consulting"
+    ]
+  }
+}

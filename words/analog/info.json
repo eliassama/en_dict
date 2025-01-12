@@ -1,0 +1,234 @@
+{
+  "word": "analog",
+  "ipa": {
+    "us": "'ænəlɔ:g",
+    "uk": "'ænəlɔg"
+  },
+  "sentences": [
+    {
+      "en": "A device that senses and stores the instantaneous value of an analog signal.",
+      "cn": "一种检测和存储模拟信号瞬时值的设备."
+    },
+    {
+      "en": "A solid - state analog controller eliminates radio frequency interference to sensitive equipment nearby.",
+      "cn": "半导体(固态)模拟控制器避免了对附近敏感设备的无线电频率干扰."
+    },
+    {
+      "en": "An alternate approach is to set up an analog model of the engine system.",
+      "cn": "另一种方法是建立发动机系统的模拟模型."
+    },
+    {
+      "en": "As to electronic compensation, digital or analog equalizers can be used.",
+      "cn": "在电路补偿方面, 可以使用数位或类比的等化器."
+    },
+    {
+      "en": "Digital networks are considerably less subjected to noise than analog networks.",
+      "cn": "数字网络不象模拟网络那样易受噪音干扰."
+    },
+    {
+      "en": "In analog computer, an arithmetic unit constructed by a servo system.",
+      "cn": "在模拟计算机中, 一种由伺服系统构成的运算部件."
+    },
+    {
+      "en": "Indicating a conversion from analog information to digital form.",
+      "cn": "表示模拟信息到数字信息的转换."
+    },
+    {
+      "en": "Its proposed signal is a hybrid, part analog and part digital.",
+      "cn": "其拟议中的信号是一种部分模拟与部分数字的混合波导联结."
+    },
+    {
+      "en": "Knee pain during exercises was assessed with visual analog scale ( VAS ).",
+      "cn": "运动过程中的疼痛用目测类比评分法评价."
+    },
+    {
+      "en": "One of them, the analog computer, is used essentially for problems involving measurements.",
+      "cn": "一种是模拟计算机, 它基本上是用来解决包含有测量值的问题."
+    },
+    {
+      "en": "The analog input signal is latched on the rising edge of CLK.",
+      "cn": "模拟输入信号在CLK的上升沿被锁存."
+    },
+    {
+      "en": "The analog signal contains high - frequency video information, which helps make up the picture.",
+      "cn": "模拟信号包括有助于构成图像的高频视频信息."
+    },
+    {
+      "en": "The voltage may provides an analog representation of the temperature difference.",
+      "cn": "电压可以成为温差的模拟表示."
+    },
+    {
+      "en": "This monolithic integrated circuit is an analog latch device with digital reset.",
+      "cn": "进口工业网的这种单片集成电路是带数字复位功能的模拟锁存设备."
+    },
+    {
+      "en": "Typically caused by mid frequency distortions in an analog system.",
+      "cn": "在模拟系统中通常是由中频信号的失真所引起."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "analogous",
+          "tran_cn": " 类似的；[昆] 同功的；可比拟的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "analogously",
+          "tran_cn": " 类似地；近似地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "analogist",
+          "tran_cn": " 类比推理者"
+        },
+        {
+          "word": "analogy",
+          "tran_cn": " 类比；类推；类似"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "analogise",
+          "tran_cn": " 作类推；相类似"
+        },
+        {
+          "word": "analogize",
+          "tran_cn": " 类推；作类比推理"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "analogise",
+          "tran_cn": " 对…作类比；以类推来说明（等于analogize）"
+        },
+        {
+          "word": "analogize",
+          "tran_cn": " 类推；以类推来说明"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "simulated"
+          ],
+          "tran_cn": "[自]模拟的；有长短针的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "simulation",
+            "similar"
+          ],
+          "tran_cn": "[自]模拟；类似物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "analog channel",
+      "tran_cn": "模拟通道"
+    },
+    {
+      "phrase": "analog circuit",
+      "tran_cn": "模拟电路；类比电路"
+    },
+    {
+      "phrase": "analog clock",
+      "tran_cn": "模拟时钟；指针式类比时钟"
+    },
+    {
+      "phrase": "analog computation",
+      "tran_cn": "模拟计算"
+    },
+    {
+      "phrase": "analog computer",
+      "tran_cn": "[计]模拟计算机"
+    },
+    {
+      "phrase": "analog control",
+      "tran_cn": "模拟控制"
+    },
+    {
+      "phrase": "analog data",
+      "tran_cn": "[计]模拟数据"
+    },
+    {
+      "phrase": "analog device",
+      "tran_cn": "模拟装置"
+    },
+    {
+      "phrase": "analog input",
+      "tran_cn": "模拟输入；相似输入"
+    },
+    {
+      "phrase": "analog output",
+      "tran_cn": "模拟输出；类比输出；相似输出"
+    },
+    {
+      "phrase": "analog quantity",
+      "tran_cn": "模拟量；相似量；类比量"
+    },
+    {
+      "phrase": "analog signal",
+      "tran_cn": "[计]模拟信号"
+    },
+    {
+      "phrase": "analog simulation",
+      "tran_cn": "模拟仿真；类比模拟"
+    },
+    {
+      "phrase": "analog switch",
+      "tran_cn": "[计]模拟开关"
+    },
+    {
+      "phrase": "analog television",
+      "tran_cn": "模拟电视"
+    },
+    {
+      "phrase": "analog to digital",
+      "tran_cn": "模拟到数字转换"
+    },
+    {
+      "phrase": "analog voltage",
+      "tran_cn": "模拟电压"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（钟表）有长短针的，<电脑>模拟的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "类似物，同源语，<电脑>模拟"
+    }
+  ],
+  "exchange": {}
+}

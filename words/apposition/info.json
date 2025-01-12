@@ -1,0 +1,95 @@
+{
+  "word": "apposition",
+  "ipa": {
+    "us": "ˌæpəˈzɪʃn",
+    "uk": "ˌæpəˈzɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "Being apposition of human being and the way of human being, history and practice are present in the state of the mutual objective existence of each other and create each other in their interaction.",
+      "cn": "历史与实践是人类存在和存在方式的同位语，两者互为对象性而存在着并在其相互作用中互相创造。"
+    },
+    {
+      "en": "English apposition has various forms with various semantic relations and various pragmatic functions.",
+      "cn": "英语同位语有多种表现形式,体现出多种语义关系和语用功能."
+    },
+    {
+      "en": "The conclusion, conversely, help us with our overall comprehension of Chinese apposition.",
+      "cn": "这个结论反过来, 又帮助我们全面地认识现代汉语的同位结构."
+    },
+    {
+      "en": "The new wall is then ehickened by APPOSITION.",
+      "cn": "新形成的细胞壁可被加厚."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "apposable",
+          "tran_cn": " （拇指）能曲伸而触及其他四指指尖的；可并置的"
+        },
+        {
+          "word": "appositional",
+          "tran_cn": " 同位的，同位格的"
+        },
+        {
+          "word": "appositive",
+          "tran_cn": " 同位格的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "appositive",
+          "tran_cn": " 同位语"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "appose",
+          "tran_cn": " 添；使并列；把…用于；放…在近处"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "juxtaposition"
+          ],
+          "tran_cn": "并置，同格；同位语"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "harmony"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "同位，同格，对向，外加，同位关系",
+      "tran_en": "in grammar, an occasion when a simple sentence contains two or more noun phrases that describe the same thing or person, appearing one after the other without a word such as ‘and’ or ‘or’ between them. For example, in the sentence ‘The defendant, a woman of thirty, denies kicking the policeman’ the two phrases ‘the defendant’ and ‘a woman of thirty’ are in apposition."
+    }
+  ],
+  "exchange": {}
+}

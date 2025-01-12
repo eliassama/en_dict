@@ -1,0 +1,83 @@
+{
+  "word": "hieroglyph",
+  "ipa": {
+    "us": "ˈhaɪərəɡlɪf",
+    "uk": "ˈhaɪərəɡlɪf"
+  },
+  "sentences": [
+    {
+      "en": "A picture representing a word or idea; a hieroglyph.",
+      "cn": "象形文字代表一个字或意义的图画；"
+    },
+    {
+      "en": "In the Late Period, the hieroglyph of the bird was used to represent this deity directly.",
+      "cn": "在后来的时期内，鸟的象形文字直接用来表现神。"
+    },
+    {
+      "en": "Initially the patterns I used were hieroglyph like symbols.",
+      "cn": "我所采用的图案是类似符号的象形文字。"
+    },
+    {
+      "en": "Initially the patterns I used were hieroglyph like symbols. After a holiday in the Maldives the \"face\" patterns developed. The local fishes gave me endless inspiration.",
+      "cn": "我所采用的图案是类似符号的象形文字。在马尔代夫度假后，这些“脸”的图形开始发展。那里的鱼类给了我无穷无尽的灵感。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hieroglyphic",
+          "tran_cn": " 象形文字的；难解的"
+        },
+        {
+          "word": "hieroglyphical",
+          "tran_cn": " 象形文字的；难解的（等于hieroglyphic）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hieroglyphic",
+          "tran_cn": " 象形文字；象形文字写的文章"
+        },
+        {
+          "word": "hieroglyphical",
+          "tran_cn": " 象形文字"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "ideograph",
+            "pictograph"
+          ],
+          "tran_cn": "象形文字；图画文字；秘密符号"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "象形字（如古埃及等所用的），秘密的或另有含意的书写符号",
+      "tran_en": "a picture or symbol used to represent a word or part of a word, especially in the ancient Egyptian writing system"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hieroglyphs"
+    ],
+    "adj": [
+      "hieroglyphic"
+    ]
+  }
+}

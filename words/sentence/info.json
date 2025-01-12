@@ -1,0 +1,239 @@
+{
+  "word": "sentence",
+  "ipa": {
+    "us": "ˈsentəns",
+    "uk": "ˈsentəns"
+  },
+  "sentences": [
+    {
+      "en": "Alliott told Singleton he was passing the sentence prescribed by law.",
+      "cn": "阿利奥特告诉辛格尔顿他是依法判决。"
+    },
+    {
+      "en": "Before sentence was passed, Mr Mills escaped from jail.",
+      "cn": "在宣判前，米尔斯先生越狱了。"
+    },
+    {
+      "en": "He has just begun a life sentence for murder.",
+      "cn": "他犯了谋杀罪，刚开始服无期徒刑。"
+    },
+    {
+      "en": "He stood emotionless as he heard the judge pass sentence.",
+      "cn": "他面无表情地站在那里，听法官宣布判决。"
+    },
+    {
+      "en": "he was under sentence of death.",
+      "cn": "他被判处死刑。"
+    },
+    {
+      "en": "His nine-month sentence was overturned by Appeal Court judge Lord Justice Watkins.",
+      "cn": "上诉法院法官沃特金斯撤销了对他作出的9个月徒刑的判决。"
+    },
+    {
+      "en": "His original death sentence was commuted to life in prison.",
+      "cn": "他最初的死刑被减为终身监禁。"
+    },
+    {
+      "en": "His voice dropped at the end of the sentence.",
+      "cn": "到句子结尾处，他压低了嗓音。"
+    },
+    {
+      "en": "I was resigned to serving out the sentence.",
+      "cn": "我只能服满刑期。"
+    },
+    {
+      "en": "If he is caught again he will be given a custodial sentence.",
+      "cn": "如果他再次被捕，将会被处以监禁。"
+    },
+    {
+      "en": "In a case of premeditated murder a life sentence is mandatory.",
+      "cn": "蓄意杀人依法要判无期徒刑。"
+    },
+    {
+      "en": "Nothing other than an immediate custodial sentence could be justified.",
+      "cn": "只有判决即时监禁才算合理。"
+    },
+    {
+      "en": "Sanchez was sentenced to three years in prison.",
+      "cn": "桑切斯被判了三年监禁。"
+    },
+    {
+      "en": "She received an eight-year prison sentence.",
+      "cn": "她被判八年徒刑。"
+    },
+    {
+      "en": "Take, for example, the simple sentence: \"The man climbed up the hill\"",
+      "cn": "以Themanclimbedupthehill这个简单句为例。"
+    },
+    {
+      "en": "The Bishop said he was sickened by the severity of the sentence.",
+      "cn": "主教说他对如此重的量刑大为震惊。"
+    },
+    {
+      "en": "The court is expected to pass sentence later today.",
+      "cn": "预计法院今天晚些时候会宣布判决。"
+    },
+    {
+      "en": "The judge has passed a sentence on the prisoner.",
+      "cn": "法官已对犯人做出判决。"
+    },
+    {
+      "en": "The offences carry a maximum sentence of 10 years.",
+      "cn": "这些罪行最高可判10年徒刑。"
+    },
+    {
+      "en": "This sentence is totally disproportionate to the alleged offence.",
+      "cn": "从所犯罪行来看，这一量刑完全不合理。"
+    },
+    {
+      "en": "You must serve out your sentence.",
+      "cn": "你现在必须服从你的判决。"
+    },
+    {
+      "en": "Your task is to interchange words so that the sentence makes sense.",
+      "cn": "你们要做的就是调换单词的位置以使句子意义通顺。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sentential",
+          "tran_cn": " 句子的；判决的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "condemnation",
+            "decision",
+            "decree",
+            "judgment",
+            "penalty",
+            "prison",
+            "punishment",
+            "ruling",
+            "term",
+            "time"
+          ],
+          "tran_cn": "审判,刑罚"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "clause",
+            "conviction",
+            "finding",
+            "justice",
+            "resolution"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "a",
+            "at",
+            "book",
+            "condemn",
+            "doom",
+            "give",
+            "imprison",
+            "judge",
+            "judgment",
+            "justice",
+            "mete",
+            "on",
+            "out",
+            "pass",
+            "penalize",
+            "prison",
+            "pronounce",
+            "punish",
+            "river",
+            "rule",
+            "send",
+            "sentence",
+            "term",
+            "the",
+            "throw",
+            "to",
+            "up"
+          ],
+          "tran_cn": "宣判,判决,判罪,宣告有罪"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "determine",
+            "adjudge"
+          ],
+          "tran_cn": "判决，[法]宣判"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "under sentence of",
+      "tran_cn": "被判刑"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "句子，判断，宣判",
+      "tran_en": "a group of words that usually contains a subject and a verb, and expresses a complete idea. Sentences written in English begin with a capital letter and usually end with a  full stop  or a  question mark "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "判决，宣判，判刑",
+      "tran_en": "if a judge sentences someone who is guilty of a crime, they give them a punishment"
+    },
+    {
+      "pos": "v & n",
+      "tran_cn": "判决",
+      "tran_en": "a punishment that a judge gives to someone who is guilty of a crime"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 宣判， 判决",
+      "tran_en": "if a judge sentences someone who is guilty of a crime, they give them a punishment"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sentences"
+    ],
+    "third": [
+      "sentences"
+    ],
+    "past": [
+      "sentenced"
+    ],
+    "done": [
+      "sentenced"
+    ],
+    "ing": [
+      "sentencing"
+    ]
+  }
+}

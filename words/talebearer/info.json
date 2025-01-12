@@ -1,0 +1,50 @@
+{
+  "word": "talebearer",
+  "ipa": {
+    "us": "'teɪlˌbeərə",
+    "uk": "'teɪlˌberə"
+  },
+  "sentences": [
+    {
+      "en": "Quite the little talebearer, aren't you?",
+      "cn": "你这样喜欢多嘴!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "talebearing",
+          "tran_cn": " 散布谣言；说小话"
+        },
+        {
+          "word": "taleteller",
+          "tran_cn": " 讲故事的人；搬弄是非者；揭人隐私者（等于talebearer）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "informer",
+            "confidential informant"
+          ],
+          "tran_cn": "散播谣言者；告密者；搬弄是非者"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "打小报告的人，告密者，搬弄是非的人，有意传播流言蜚语的人"
+    }
+  ],
+  "exchange": {}
+}

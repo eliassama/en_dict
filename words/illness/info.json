@@ -1,0 +1,189 @@
+{
+  "word": "illness",
+  "ipa": {
+    "us": "ˈɪlnəs",
+    "uk": "ˈɪlnəs"
+  },
+  "sentences": [
+    {
+      "en": "Although her illness is serious, her condition is beginning to stabilize.",
+      "cn": "虽然她病得很重，但病情正开始趋于稳定。"
+    },
+    {
+      "en": "Attitudes to mental illness have shifted in recent years.",
+      "cn": "最近几年对精神病的态度已有所改变。"
+    },
+    {
+      "en": "Career-wise, this illness couldn't have come at a worse time.",
+      "cn": "考虑到事业，这场病来得最不是时候。"
+    },
+    {
+      "en": "Childhood illness can be upsetting for children and parents alike.",
+      "cn": "儿科病会让孩子和父母同样苦恼。"
+    },
+    {
+      "en": "For years he tended her in her painful illness.",
+      "cn": "多年来她一直受到病痛的折磨，都是他在照料。"
+    },
+    {
+      "en": "He boasts of dodging military service by feigning illness.",
+      "cn": "他炫耀自己通过装病来逃避服兵役。"
+    },
+    {
+      "en": "Her mother was recovering from a serious illness.",
+      "cn": "她母亲重病后正在逐渐康复。"
+    },
+    {
+      "en": "Hugo bore his illness with great courage and good humour.",
+      "cn": "雨果以巨大的勇气和良好的精神状态面对疾病。"
+    },
+    {
+      "en": "I’ve never missed a day’s work through illness.",
+      "cn": "我从未因病耽误过一天工作。"
+    },
+    {
+      "en": "In spite of his illness, he clung tenaciously to his job.",
+      "cn": "尽管有病在身，他仍顽强地坚持工作。"
+    },
+    {
+      "en": "It is indisputable that birds in the UK are harbouring this illness.",
+      "cn": "无可争辩的是，英国的鸟类携带着这种疾病的病菌。"
+    },
+    {
+      "en": "She had all the normal childhood illnesses.",
+      "cn": "儿童的常见病她小时候都得过。"
+    },
+    {
+      "en": "She returned to her family home to recover from an illness.",
+      "cn": "她回家养病来了。"
+    },
+    {
+      "en": "She was determined not to let the illness take hold again.",
+      "cn": "她决心不让疾病再次击垮自己。"
+    },
+    {
+      "en": "The gene is only part of the causation of illness.",
+      "cn": "基因只是致病的部分原因。"
+    },
+    {
+      "en": "The illness had a profound effect on his outlook.",
+      "cn": "这场病对他的人生观产生了深刻的影响。"
+    },
+    {
+      "en": "Their main job is to preserve health rather than treat illness.",
+      "cn": "它们的主要功效是保健而非治病。"
+    },
+    {
+      "en": "ways to improve your health and reduce the risk of illness",
+      "cn": "增进健康减少疾病的方法"
+    },
+    {
+      "en": "You can hedge against redundancy or illness with insurance.",
+      "cn": "可以购买保险以防失业或患病。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ill",
+          "tran_cn": " 生病的；坏的；邪恶的；不吉利的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "ill",
+          "tran_cn": " 不利地；恶劣地；几乎不"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ill",
+          "tran_cn": " 疾病；不幸"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "disease",
+            "ill",
+            "sickness",
+            "complaint",
+            "maladie"
+          ],
+          "tran_cn": "病；[医]疾病"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ailment",
+            "cancer",
+            "complaint",
+            "disease",
+            "disorder",
+            "malady"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fatal illness",
+      "tran_cn": "绝症"
+    },
+    {
+      "phrase": "mental illness",
+      "tran_cn": "精神病"
+    },
+    {
+      "phrase": "serious illness",
+      "tran_cn": "重大疾病"
+    },
+    {
+      "phrase": "slight illness",
+      "tran_cn": "小病；不适；头疼脑热"
+    },
+    {
+      "phrase": "state of an illness",
+      "tran_cn": "病情"
+    },
+    {
+      "phrase": "state of illness",
+      "tran_cn": "病况"
+    },
+    {
+      "phrase": "terminal illness",
+      "tran_cn": "终期病患"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "疾病，某种具体疾病，不健康",
+      "tran_en": "a disease of the body or mind, or the condition of being ill"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "illnesses"
+    ]
+  }
+}

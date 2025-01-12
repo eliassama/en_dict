@@ -1,0 +1,85 @@
+{
+  "word": "pulverise",
+  "ipa": {
+    "us": "'pʌlvəraɪz",
+    "uk": "'pʌlvəraɪz"
+  },
+  "sentences": [
+    {
+      "en": "Device used to crush or pulverise plastic or solid coating to powder form.",
+      "cn": "压碎、研磨塑料或固体涂料成粉末形式的设备。"
+    },
+    {
+      "en": "He is set to pulverise his two opponents in the race for the presidency.",
+      "cn": "他决心在总统竞选中彻底击垮他的两个对手。"
+    },
+    {
+      "en": "Using a pestle and mortar, pulverise the bran to a coarse powder.",
+      "cn": "用杵和臼，将麸皮磨成粗粉。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pulverized",
+          "tran_cn": " 粉状的；成粉末的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pulverisation",
+          "tran_cn": " 磨碎"
+        },
+        {
+          "word": "pulverization",
+          "tran_cn": " 粉碎；研碎；彻底摧毁"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "pulverized",
+          "tran_cn": " 压成细粉（pulverize的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "pulverize",
+          "tran_cn": " 粉碎；使成粉末；研磨"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "comminute",
+            "size reduction"
+          ],
+          "tran_cn": "粉碎，磨碎；彻底打败"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "vt",
+      "tran_cn": "将…弄碎，将…弄成粉末或尘埃，摧毁，粉碎"
+    }
+  ],
+  "exchange": {}
+}

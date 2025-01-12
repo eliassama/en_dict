@@ -1,0 +1,82 @@
+{
+  "word": "thresher",
+  "ipa": {
+    "us": "'θreʃə",
+    "uk": " 'θrɛʃɚ"
+  },
+  "sentences": [
+    {
+      "en": "According to the rub threshing method, the new thresher was made.",
+      "cn": "提出了擦离脱核的方法并设计制造了一种新型脱核机."
+    },
+    {
+      "en": "He and his cousins bought a steam thresher on shares.",
+      "cn": "他和他的堂兄弟们合伙买了一台蒸气脱粒机."
+    },
+    {
+      "en": "Now electricity runs the thresher.",
+      "cn": "脱粒机现在由电驱动."
+    },
+    {
+      "en": "Their sound riles thresher up something fierce.",
+      "cn": "它们的声音会激怒这些长尾蜥."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "thresh",
+          "tran_cn": " 打谷"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "thresh",
+          "tran_cn": " 打；打谷；颠簸"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "thresh",
+          "tran_cn": " 推敲；打谷；反复做"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "thrasher",
+            "threshing machine"
+          ],
+          "tran_cn": "[农机]打谷机；打谷者；[鱼]长尾鲨"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "corn thresher",
+      "tran_cn": "玉米脱粒机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "打谷者，打谷机，长尾鲨",
+      "tran_en": "a person who threshes "
+    }
+  ],
+  "exchange": {}
+}

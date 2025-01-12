@@ -1,0 +1,141 @@
+{
+  "word": "wreathe",
+  "ipa": {
+    "us": "ri:ð",
+    "uk": "rið"
+  },
+  "sentences": [
+    {
+      "en": "Fog wreathes the temples.",
+      "cn": "云雾缭绕着寺院。"
+    },
+    {
+      "en": "She likes to wreathe flowers into ornaments when she is free.",
+      "cn": "她有时喜欢把花扎成装饰物."
+    },
+    {
+      "en": "The girls choose their flower, wreathe themselves, and dance in the twilight.",
+      "cn": "女孩子们挑选了花朵, 用花环打扮自己, 然后在黄昏时跳舞."
+    },
+    {
+      "en": "The local people used to wreathe the guest's head in leaves.",
+      "cn": "当地人过去常把树叶缠在宾客的头上."
+    },
+    {
+      "en": "The mountains were wreathed in mist.",
+      "cn": "群山笼罩在迷雾中。"
+    },
+    {
+      "en": "The ship was wreathed in smoke.",
+      "cn": "那艘船笼罩在浓烟中。"
+    },
+    {
+      "en": "We have decided to wreathe flowers into ornaments for people's doors at Christmas time.",
+      "cn": "我们决定把花扎成装饰物供人们在圣诞期间挂在门上用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "wreath",
+          "tran_cn": " 花冠；圈状物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "wreath",
+          "tran_cn": " 盘旋（等于wreathe）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "wreath",
+          "tran_cn": " 环绕（等于wreathe）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coil",
+            "intertwine"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "coil"
+          ],
+          "tran_cn": "缭绕；成圈状；扭曲；环绕盘旋"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "invest",
+            "case",
+            "roof",
+            "house",
+            "sheet"
+          ],
+          "tran_cn": "用花环装饰；将…做成花环；包围；覆盖"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "环绕盘旋",
+      "tran_en": "to be covered in something"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（指烟、雾、汽等）缭绕"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（完全地）笼罩，包围，覆盖，将…扎成圈（或环）"
+    },
+    {
+      "pos": "vt&vi",
+      "tran_cn": "覆盖，包围",
+      "tran_en": "If something is wreathed in smoke or mist, it is surrounded by it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "wreathes"
+    ],
+    "past": [
+      "wreathed"
+    ],
+    "done": [
+      "wreathed"
+    ],
+    "ing": [
+      "wreathing"
+    ]
+  }
+}

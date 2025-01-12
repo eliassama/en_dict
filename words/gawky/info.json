@@ -1,0 +1,95 @@
+{
+  "word": "gawky",
+  "ipa": {
+    "us": "ˈgɔ:ki",
+    "uk": "ˈɡɔki"
+  },
+  "sentences": [
+    {
+      "en": "a gawky long-legged teenager",
+      "cn": "一个举止笨拙的长腿少年"
+    },
+    {
+      "en": "Does she look posh to you, or gawky?",
+      "cn": "她是不是看上去很优雅, 或者很笨拙?"
+    },
+    {
+      "en": "Mark Cuban's best player is still a tall gawky German guy.",
+      "cn": "马克库班的最好的球员依然是那个迟钝的德国大个儿."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gawk",
+          "tran_cn": " 呆子；腼腆的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "gawk",
+          "tran_cn": " 呆呆地看着"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "clumsy",
+            "awkward"
+          ],
+          "tran_cn": "笨拙的，鲁钝的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chancer",
+            "lout"
+          ],
+          "tran_cn": "笨拙的人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "clumsy",
+            "ungainly"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "迟钝的，笨拙的",
+      "tran_en": "someone who is gawky moves or behaves in an awkward way"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "gawkily"
+    ],
+    "noun": [
+      "gawkiness"
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "word": "attendance",
+  "ipa": {
+    "us": "əˈtendəns",
+    "uk": "əˈtendəns"
+  },
+  "sentences": [
+    {
+      "en": "Alice's record of perfect attendance is very creditable to her.",
+      "cn": "艾丽斯从不缺席的记录真是值得称赞的."
+    },
+    {
+      "en": "Attendance at Professor Smith's lecture fell off sharply that evening.",
+      "cn": "那晚去听史密斯教授讲演的人显著减少了."
+    },
+    {
+      "en": "Attendance at the meeting is compulsory.",
+      "cn": "会议是必须参加的."
+    },
+    {
+      "en": "Attendance at these lectures is not compulsory.",
+      "cn": "这些课不是硬性规定要听的。"
+    },
+    {
+      "en": "Attendance on the course is purely voluntary.",
+      "cn": "听这门课纯粹是自愿的。"
+    },
+    {
+      "en": "Average weekly cinema attendance in February was 2.41 million.",
+      "cn": "2月份，平均每周的观影人数为241万。"
+    },
+    {
+      "en": "He danced attendance on Bob.",
+      "cn": "他奉承鲍勃."
+    },
+    {
+      "en": "He would have a nurse in constant attendance day and night.",
+      "cn": "会有一位护士日夜不间断地陪护着他。"
+    },
+    {
+      "en": "His attendance record was spotty.",
+      "cn": "他的出勤记录时好时差。"
+    },
+    {
+      "en": "irregular attendance at school",
+      "cn": "断断续续的上学"
+    },
+    {
+      "en": "It was a record attendance for a midweek game.",
+      "cn": "对于一场周中期举行的比赛,有这么多人到场还是首次."
+    },
+    {
+      "en": "Last year’s fair saw attendance figures of 32,000.",
+      "cn": "去年的交易会有3.2万人参加。"
+    },
+    {
+      "en": "Police with riot gear and several fire engines are in attendance.",
+      "cn": "防暴警察和数辆消防车都到了。"
+    },
+    {
+      "en": "Some estimates put the attendance at 60,000.",
+      "cn": "一些预测认为将有6万人参加。"
+    },
+    {
+      "en": "The attendance of this class never dropped off.",
+      "cn": "这个班的出席人数从未下降."
+    },
+    {
+      "en": "The doctor will have a record of her attendances.",
+      "cn": "医生会记录她的出诊次数。"
+    },
+    {
+      "en": "The young man danced attendance on his rich aunt.",
+      "cn": "这个年轻人小心侍候他有钱的姑妈."
+    },
+    {
+      "en": "We have an average attendance of 4,000 fans per game.",
+      "cn": "每场比赛平均有4,000名球迷来观战。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "attendant",
+          "tran_cn": " 伴随的；侍候的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "attendant",
+          "tran_cn": " 服务员，侍者；随员，陪从"
+        },
+        {
+          "word": "attendee",
+          "tran_cn": " 出席者；在场者"
+        },
+        {
+          "word": "attender",
+          "tran_cn": " 出席者；按规定常到的人；常客"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "attend",
+          "tran_cn": " 出席；致力于；照料；照顾"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "attend",
+          "tran_cn": " 出席；上（大学等）；照料；招待；陪伴"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "presence"
+          ],
+          "tran_cn": "出席；到场；出席人数"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "entourage",
+            "presence"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "attendance at",
+      "tran_cn": "出席"
+    },
+    {
+      "phrase": "attendance rate",
+      "tran_cn": "出勤率"
+    },
+    {
+      "phrase": "attendance record",
+      "tran_cn": "考勤记录"
+    },
+    {
+      "phrase": "check on work attendance",
+      "tran_cn": "考勤"
+    },
+    {
+      "phrase": "in attendance",
+      "tran_cn": "（作为助手或仆人）随同（皇室成员或要人）"
+    },
+    {
+      "phrase": "school attendance",
+      "tran_cn": "就学；就读；上课出勤"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "出席(人数)，出勤，陪同",
+      "tran_en": "the number of people who attend a game, concert, meeting etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "attendances"
+    ]
+  }
+}

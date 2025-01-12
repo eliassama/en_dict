@@ -1,0 +1,165 @@
+{
+  "word": "emit",
+  "ipa": {
+    "us": "iˈmɪt",
+    "uk": "iˈmɪt"
+  },
+  "sentences": [
+    {
+      "en": "A utility can emIt'sO 2 only to the extent permitted by its allowances.",
+      "cn": "其效用是保证二氧化硫排放在许可排放量所允许的范围之内."
+    },
+    {
+      "en": "An influence on a post - synaptic neuron which reduces the probability that the neuron emit a spike.",
+      "cn": "施加在突触后神经元上的、使其减少发出冲动的一种影响."
+    },
+    {
+      "en": "Emit four vertical line and three horizontal line, plumb below point.",
+      "cn": "可产生四条垂直线和三条水平线, 带下对点."
+    },
+    {
+      "en": "Emit two vertical line and three horizontal line, plumb below point.",
+      "cn": "可产生二条垂直线和三条水平线, 带下对点."
+    },
+    {
+      "en": "Execution of the code following the emIt'statement will occur once all slots have returned.",
+      "cn": "一旦所有的槽返回之后,emit语句之后的代码才会被执行."
+    },
+    {
+      "en": "Fireflies emit light but not heat.",
+      "cn": "萤火虫发光但不放出热."
+    },
+    {
+      "en": "He did not emit a sound.",
+      "cn": "他没发出任何声音."
+    },
+    {
+      "en": "It is now unlawful for factories to emit black smoke into the air.",
+      "cn": "工厂向大气中排放黑烟现在是违法的."
+    },
+    {
+      "en": "It is unlawful for factories to emit black smoke into the air.",
+      "cn": "现在,工厂往空气中排黑烟是违法的."
+    },
+    {
+      "en": "Most metallic and some nonmetallic elements will emit characteristic radiations.",
+      "cn": "大多数金属和某些非金属元素都会发出特征的射线."
+    },
+    {
+      "en": "She was heard to emit a cry of horror.",
+      "cn": "人们听到她发出恐怖的叫声."
+    },
+    {
+      "en": "Stars emit light which contains only certain characteristic wavelengths.",
+      "cn": "恒星发出的光只含有特定的波长."
+    },
+    {
+      "en": "Suppose the speakers both emit a pure sinusoidal sound wave of constant frequency.",
+      "cn": "假定两个扬声器都发射恒定频率的纯正弦声波."
+    },
+    {
+      "en": "The emit will return when all slots have returned.",
+      "cn": "当所有插槽返回了,emit才会返回."
+    },
+    {
+      "en": "The kettle emitted a shrill whistle.",
+      "cn": "水壶发出了刺耳的鸣笛声。"
+    },
+    {
+      "en": "The metal container began to emit a clicking sound.",
+      "cn": "金属容器开始发出咔嗒咔嗒的声音。"
+    },
+    {
+      "en": "They emit high frequency pulses of sound through their mouth or nose which bounce off surfaces and objects around them.",
+      "cn": "它们通过嘴或鼻子发出高频脉冲声，这些脉冲声碰到周围的表面或物体就会反射回来。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "emitter",
+          "tran_cn": " 发射器，发射体"
+        },
+        {
+          "word": "emitting",
+          "tran_cn": " 发出，散发；发射"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "emitting",
+          "tran_cn": " 散发；喷出（emit的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "discharge",
+            "give",
+            "off",
+            "ooze",
+            "out",
+            "seep",
+            "send",
+            "smoke",
+            "vapor"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "discharge",
+            "give",
+            "off",
+            "ooze",
+            "out",
+            "send"
+          ],
+          "tran_cn": "发出;放出"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "发出，散发（光、热等）",
+      "tran_en": "to send out gas, heat, light, sound etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 散发； 发射； 发表",
+      "tran_en": "to send out gas, heat, light, sound etc"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "emits"
+    ],
+    "past": [
+      "emitted"
+    ],
+    "done": [
+      "emitted"
+    ],
+    "ing": [
+      "emitting"
+    ]
+  }
+}

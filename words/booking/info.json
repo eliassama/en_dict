@@ -1,0 +1,192 @@
+{
+  "word": "booking",
+  "ipa": {
+    "us": "ˈbʊkɪŋ",
+    "uk": "ˈbʊkɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A late booking may involve you in extra cost.",
+      "cn": "预订晚了的话你可能要额外多花钱。"
+    },
+    {
+      "en": "All booking must be made by post.",
+      "cn": "所有的预订工作均可来信办理."
+    },
+    {
+      "en": "Always insist upon seeing your room before booking in.",
+      "cn": "在住进旅馆之前一定要坚持先看一下你的房间."
+    },
+    {
+      "en": "bookings on cruise ships",
+      "cn": "预订游船船位"
+    },
+    {
+      "en": "Did you succeed in booking the tickets?",
+      "cn": "你订到票了 吗 ?"
+    },
+    {
+      "en": "Early booking is advisable.",
+      "cn": "早订票是明智的。"
+    },
+    {
+      "en": "For details of cheap excursion tickets, apply at the booking office.",
+      "cn": "关于廉价旅游票的详情, 可向售票处询问."
+    },
+    {
+      "en": "I made a booking for two double rooms.",
+      "cn": "我预订了两个双人房间。"
+    },
+    {
+      "en": "I suggest you tell him there was a mistake over his late booking.",
+      "cn": "我建议你告诉他，他应该及早预订。"
+    },
+    {
+      "en": "I’m calling to confirm my booking (=  say definitely that I want to travel etc  ) .",
+      "cn": "我打电话是想确认一下我的预订。"
+    },
+    {
+      "en": "If you cancel your booking , there will be a small charge.",
+      "cn": "如果你取消预订，就要付一小额费用。"
+    },
+    {
+      "en": "Once you have chosen a kennel, don't forget to make a booking for your pet.",
+      "cn": "一旦你选好了养狗场，别忘了为你的宠物预订。"
+    },
+    {
+      "en": "Places on the course are limited and advance booking is essential.",
+      "cn": "课程名额有限，必须预订。"
+    },
+    {
+      "en": "She came to the station and went to the booking office.",
+      "cn": "她来到车站,去了订票处."
+    },
+    {
+      "en": "The booking is only provisional.",
+      "cn": "这只是暂定的预订。"
+    },
+    {
+      "en": "The booking office sells tickets 3 days in advance.",
+      "cn": "售票处预售3天的票."
+    },
+    {
+      "en": "The move is designed to boost sales during the peak booking months of January and February.",
+      "cn": "这一举措旨在增加1月和2月预订高峰期的销售量。"
+    },
+    {
+      "en": "The three men stayed at two hotels in Nottingham, booking in at one the day before the crime.",
+      "cn": "这3个人住在诺丁汉的两家旅馆里，而且都是在案发的前一天登记入住。"
+    },
+    {
+      "en": "Those booking a block of seats get them at reduced rates.",
+      "cn": "团体订座可享受折扣价。"
+    },
+    {
+      "en": "Tickets are on sale from the booking office.",
+      "cn": "售票处正在售票."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bookable",
+          "tran_cn": " （英）可预订的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "book",
+          "tran_cn": " 书籍；卷；帐簿；名册；工作簿"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "book",
+          "tran_cn": " 预订；登记"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "reservation"
+          ],
+          "tran_cn": "[贸易]预订；预约；演出契约"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "reservation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "advance booking",
+      "tran_cn": "预订（机票等）"
+    },
+    {
+      "phrase": "booking agent",
+      "tran_cn": "（演员等的）经纪人；（机票，戏票等的）人"
+    },
+    {
+      "phrase": "booking clerk",
+      "tran_cn": "售票员；订座员"
+    },
+    {
+      "phrase": "booking confirmation",
+      "tran_cn": "订舱确认"
+    },
+    {
+      "phrase": "booking form",
+      "tran_cn": "订票表格；旅行委托书"
+    },
+    {
+      "phrase": "booking office",
+      "tran_cn": "售票处"
+    },
+    {
+      "phrase": "booking space",
+      "tran_cn": "预订舱位"
+    },
+    {
+      "phrase": "booking tickets",
+      "tran_cn": "订票，定票"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "预约，预订，挂号，演出契约，订货",
+      "tran_en": "an arrangement to travel by train, use a hotel room etc at a particular time in the future"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "预订(book的现在分词)，预约，预定"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bookings"
+    ]
+  }
+}

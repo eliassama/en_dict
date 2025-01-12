@@ -1,0 +1,79 @@
+{
+  "word": "sapience",
+  "ipa": {
+    "us": "'seɪpɪəns",
+    "uk": "'seɪpɪrns"
+  },
+  "sentences": [
+    {
+      "en": "Once there is a failed test then it requires sapience on the part of the tester to understand what really happened.",
+      "cn": "一旦测试失败了，就需要测试人员的智慧来弄明白到底发生了什么。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sapient",
+          "tran_cn": " 聪明的；伶俐的；装聪明样的；有见识的"
+        },
+        {
+          "word": "sapiential",
+          "tran_cn": " 智慧的；明智的；赋予智慧的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sapient",
+          "tran_cn": " （史前的）智人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "wisdom",
+            "wit"
+          ],
+          "tran_cn": "智慧；装聪明"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "brain",
+            "learning",
+            "understanding"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<反>矫智，贤明，睿智"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "sapiently"
+    ],
+    "adj": [
+      "sapient"
+    ]
+  }
+}

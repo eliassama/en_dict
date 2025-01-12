@@ -1,0 +1,208 @@
+{
+  "word": "torch",
+  "ipa": {
+    "us": "tɔːtʃ",
+    "uk": "tɔːrtʃ"
+  },
+  "sentences": [
+    {
+      "en": "He flashed a torch to guide me.",
+      "cn": "他用手电筒为我引路."
+    },
+    {
+      "en": "He flashed the torch on for a second.",
+      "cn": "他把手电筒亮了一下."
+    },
+    {
+      "en": "He has always carried a torch for Barbara.",
+      "cn": "他一直单恋芭芭拉。"
+    },
+    {
+      "en": "Meg has been carrying a torch for Paul for almost two years.",
+      "cn": "梅格对保罗单恋已经将近两年了."
+    },
+    {
+      "en": "One of the men shone a torch in his face.",
+      "cn": "其中一名男子用火把照着他的脸。"
+    },
+    {
+      "en": "Pete's torch picked out the dim figures of Bob and Chang.",
+      "cn": "皮特的火把映出了鲍勃和张的模糊身影。"
+    },
+    {
+      "en": "Shine the torch down here, please.",
+      "cn": "请把手电筒从这儿往下照."
+    },
+    {
+      "en": "Shine the torch in, please.",
+      "cn": "请把手电筒往里照."
+    },
+    {
+      "en": "Shine the torch on so that we can read the labels.",
+      "cn": "用手电筒照这个标签,我们好看得见."
+    },
+    {
+      "en": "Shine the torch on the lock while I try to get the key in.",
+      "cn": "我插钥匙时，请用手电筒照着锁头。"
+    },
+    {
+      "en": "Shine the torch out, please.",
+      "cn": "请把手电筒向外照."
+    },
+    {
+      "en": "Shine the torch up into the rafters, please.",
+      "cn": "请用手电筒照房椽."
+    },
+    {
+      "en": "Suddenly the beam of an electric torch was flashed into his face.",
+      "cn": "忽然一道手电光射到他脸上."
+    },
+    {
+      "en": "The burglar shone his torch into the dark room.",
+      "cn": "盗贼将手电筒照进黑暗的房间."
+    },
+    {
+      "en": "the Olympic torch",
+      "cn": "奥运火炬"
+    },
+    {
+      "en": "The watchman shone his torch at us.",
+      "cn": "守门人用手电照着我们."
+    },
+    {
+      "en": "We shone our torches around the cavern.",
+      "cn": "我们用手电筒照着山洞。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "torchbearer",
+          "tran_cn": " 启蒙者；持火炬者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "lamp",
+            "lantern",
+            "light"
+          ],
+          "tran_cn": "火炬,火把"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "candle",
+            "lamp",
+            "lantern",
+            "light"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "burning torch",
+      "tran_cn": "气割炬；点火火炬；点火枪"
+    },
+    {
+      "phrase": "carry a torch",
+      "tran_cn": "开战；单恋"
+    },
+    {
+      "phrase": "carry a torch for",
+      "tran_cn": "单相思"
+    },
+    {
+      "phrase": "carry the torch",
+      "tran_cn": "开战；奋斗；单恋"
+    },
+    {
+      "phrase": "cutting torch",
+      "tran_cn": "割炬；切割吹管"
+    },
+    {
+      "phrase": "electric torch",
+      "tran_cn": "手电筒"
+    },
+    {
+      "phrase": "olympic torch",
+      "tran_cn": "奥运火炬；奥运圣火"
+    },
+    {
+      "phrase": "plasma torch",
+      "tran_cn": "电浆炬；等离子体焰炬；等离子体喷枪"
+    },
+    {
+      "phrase": "put to the torch (或 put a torch to)",
+      "tran_cn": "焚毁"
+    },
+    {
+      "phrase": "torch bearer",
+      "tran_cn": "火炬手"
+    },
+    {
+      "phrase": "torch light",
+      "tran_cn": "手电筒；火炬点燃"
+    },
+    {
+      "phrase": "torch plan",
+      "tran_cn": "火炬计划"
+    },
+    {
+      "phrase": "torch program（a plan to develop new and high technology）",
+      "tran_cn": "火炬计划（开发高新科技的一项计划）"
+    },
+    {
+      "phrase": "torch relay",
+      "tran_cn": "火炬传递；火炬接力；圣火传递"
+    },
+    {
+      "phrase": "welding torch",
+      "tran_cn": "焊接炬；熔接气炬；焊接喷灯"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "火把，火炬，手电筒",
+      "tran_en": "a small electric lamp that you carry in your hand"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "像火炬一样燃烧"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "放火烧，纵火烧（建筑物或汽车）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "torches"
+    ],
+    "third": [
+      "torches"
+    ],
+    "past": [
+      "torched"
+    ],
+    "ing": [
+      "torching"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "word": "snivel",
+  "ipa": {
+    "us": "ˈsnɪvl",
+    "uk": "ˈsnɪvəl"
+  },
+  "sentences": [
+    {
+      "en": "A small boy was sniveling on a chair.",
+      "cn": "一个小男孩在椅子上抽泣。"
+    },
+    {
+      "en": "Billy started to snivel. His mother smacked his hand.",
+      "cn": "比利抽抽搭搭地哭了起来。妈妈在他的手上打了一下。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sniveller",
+          "tran_cn": " 假哭的人；啜泣的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "runny nose",
+            "running nose"
+          ],
+          "tran_cn": "流鼻涕；啜泣"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "sob",
+            "weep"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "run at the nose",
+            "weep"
+          ],
+          "tran_cn": "流鼻涕；哭泣"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "流鼻涕；啜泣"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "流鼻涕；哭泣"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "啜泣，呜咽，哭诉，啜泣"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "snivels"
+    ],
+    "past": [
+      "snivelled"
+    ],
+    "done": [
+      "snivelled"
+    ],
+    "ing": [
+      "snivelling"
+    ]
+  }
+}

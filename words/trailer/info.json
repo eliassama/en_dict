@@ -1,0 +1,183 @@
+{
+  "word": "trailer",
+  "ipa": {
+    "us": "ˈtreɪlə(r)",
+    "uk": "ˈtrelɚ"
+  },
+  "sentences": [
+    {
+      "en": "...a misleadingly violent trailer for the film.",
+      "cn": "…一个让人误以为充斥暴力的电影预告片。"
+    },
+    {
+      "en": "a car towing a trailer with a boat on it",
+      "cn": "拖着一辆载有小船的拖车的小汽车"
+    },
+    {
+      "en": "Before driving away, re-check the trailer coupling.",
+      "cn": "开走之前，再检查一下拖车的挂钩。"
+    },
+    {
+      "en": "Crown variegated green, white and pink , plain , ovate. Semiminiature trailer.",
+      "cn": "绿色, 白色,粉红色组合成的皇冠状斑叶, 叶面平坦. 半迷你悬垂型."
+    },
+    {
+      "en": "Have oil tank semi - trailer model and chemical liquid tank truck model.",
+      "cn": "有运油半挂车、化工液体运输等车型."
+    },
+    {
+      "en": "He transports his boat by putting it on a trailer behind his car.",
+      "cn": "他将小艇放在汽车后面的拖车上运输."
+    },
+    {
+      "en": "I watched a trailer for the screenplay of his memoirs.",
+      "cn": "我看过以他的回忆录改编成电影的预告片."
+    },
+    {
+      "en": "In order that the recorded block of data be identified, a header and trailer are added.",
+      "cn": "为了辨别所记录的数据块, 还要加上头标和尾标."
+    },
+    {
+      "en": "Serving meatloaf to truckers and living in a Kansas trailer park?",
+      "cn": "给货车司机端夹肉面包,睡堪萨斯车场的拖车?"
+    },
+    {
+      "en": "The car was pulling a trailer, which carried a boat.",
+      "cn": "那部车拉着一辆拖车, 拖车上又载着一只船."
+    },
+    {
+      "en": "The tractor took up the slack and pulled the trailer out of the mud.",
+      "cn": "拖拉机拉紧拖缆把拖车从泥中拉了出来."
+    },
+    {
+      "en": "They detached their trailer and set up camp.",
+      "cn": "他们卸下拖车,架起帐篷."
+    },
+    {
+      "en": "They packed the food and camping equipment in the trailer.",
+      "cn": "他们把食物和野营用具都装上拖车上了."
+    },
+    {
+      "en": "to unhitch a trailer",
+      "cn": "卸掉拖车"
+    },
+    {
+      "en": "Tubes are generally mounted on truck - trailer chassis, referred to as tube trailers.",
+      "cn": "管道一般是安装在拖车底座上, 称作管道拖车."
+    },
+    {
+      "en": "Why did you bring a rainbow trout into the trailer?",
+      "cn": "那你为什么把一条彩虹鲑鱼带到拖车里来?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "trailing",
+          "tran_cn": " 后面的；拖尾的；牵引的；被拖动的；蔓延的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "trail",
+          "tran_cn": " 小径；痕迹；尾部；踪迹"
+        },
+        {
+          "word": "trailing",
+          "tran_cn": " 拖尾；泥浆彩饰"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "trailing",
+          "tran_cn": " 尾随（trail的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "trail",
+          "tran_cn": " 飘出；蔓生；垂下；拖曳"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "trail",
+          "tran_cn": " 追踪；拖；蔓延；落后于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "articulated lorry",
+            "tow truck"
+          ],
+          "tran_cn": "[车辆]拖车；[电视]预告片；追踪者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "residence"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "semi trailer",
+      "tran_cn": "半挂车"
+    },
+    {
+      "phrase": "trailer brake",
+      "tran_cn": "挂车制动器；超速制动器"
+    },
+    {
+      "phrase": "trailer park",
+      "tran_cn": "[美]活动住屋或（家庭拖车的）停车场"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "拖车，追踪者，<美>拖车式活动房屋，（电影或电视节目的）预告片",
+      "tran_en": "a vehicle that can be pulled behind another vehicle, used for carrying something heavy"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "乘拖车式活动房屋旅行"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用拖车载运"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "trailers"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "word": "inheritance",
+  "ipa": {
+    "us": "ɪnˈherɪtəns",
+    "uk": "ɪnˈherɪtəns"
+  },
+  "sentences": [
+    {
+      "en": "After getting a large inheritance, Bob and Alice lived it up for years.",
+      "cn": "鲍勃和艾丽斯得到一大笔遗产后, 过了好几年奢侈生活."
+    },
+    {
+      "en": "Criminals have the right of inheritance under the law.",
+      "cn": "罪犯依法享有继承权."
+    },
+    {
+      "en": "Eye colour shows your genetic inheritance.",
+      "cn": "眼睛的颜色显示你的基因遗传特征。"
+    },
+    {
+      "en": "Good health is a fine inheritance.",
+      "cn": "健康是一种良好的遗传物."
+    },
+    {
+      "en": "He quickly wantoned away his inheritance.",
+      "cn": "他很快就挥霍尽他所继承的财产."
+    },
+    {
+      "en": "He spent all his inheritance in a year.",
+      "cn": "他一年就花光了所获得的全部遗产."
+    },
+    {
+      "en": "Her uncle cozened her out of her inheritance.",
+      "cn": "她叔叔诱使她放弃了继承权."
+    },
+    {
+      "en": "Lucinda has to fight for her life and her inheritance in this gripping novel.",
+      "cn": "在这部扣人心弦的小说里，露辛达不得不为自己的生命与所继承的遗产进行抗争。"
+    },
+    {
+      "en": "She feared losing her inheritance to her stepmother.",
+      "cn": "她担心她继承的遗产会被继母夺走。"
+    },
+    {
+      "en": "She spent all her inheritance in a year.",
+      "cn": "她在一年之内用完了所有继承的遗产。"
+    },
+    {
+      "en": "The Duke signed away his inheritance.",
+      "cn": "公爵签字放弃继承遗产。"
+    },
+    {
+      "en": "The Earl of Arundel's heir was restored to his inheritance and granted the lordship of Chirk.",
+      "cn": "阿伦德尔伯爵的继承人重新取得了继承权,并获封为切克勳爵."
+    },
+    {
+      "en": "The inheritance kept them afloat for years.",
+      "cn": "遗产使他们好多年免于经济困难."
+    },
+    {
+      "en": "The law of inheritance also proves the observance of this rule.",
+      "cn": "继承权也证实了这一准则."
+    },
+    {
+      "en": "The same shall apply to the inheritance of jointly owned building property.",
+      "cn": "共有房产的继承亦同."
+    },
+    {
+      "en": "You could also set up a trust so the children can't spend any inheritance until they are a certain age.",
+      "cn": "你也可以设立财产信托，这样孩子们只有达到一定年龄才能动用遗产。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inherent",
+          "tran_cn": " 固有的；内在的；与生俱来的，遗传的"
+        },
+        {
+          "word": "inheritable",
+          "tran_cn": " 可继承的；会遗传的"
+        },
+        {
+          "word": "inherited",
+          "tran_cn": " 遗传的；继承权的；通过继承得到的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inheritor",
+          "tran_cn": " 继承人；后继者"
+        },
+        {
+          "word": "inheritress",
+          "tran_cn": " 女继承人"
+        },
+        {
+          "word": "inheritrix",
+          "tran_cn": " 女继承人（等于inheritress）"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "inherited",
+          "tran_cn": " 继承；经遗传而得（inherit的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "inherit",
+          "tran_cn": " 成为继承人"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "inherit",
+          "tran_cn": " 继承；遗传而得"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "heritage",
+            "legacy"
+          ],
+          "tran_cn": "[法]继承；[遗]遗传；遗产"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accession",
+            "acquisition"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "autosomal dominant inheritance",
+      "tran_cn": "常染色体显性遗传"
+    },
+    {
+      "phrase": "inheritance hierarchy",
+      "tran_cn": "继承层次；继承体系；继承阶层架构"
+    },
+    {
+      "phrase": "inheritance law",
+      "tran_cn": "继承法"
+    },
+    {
+      "phrase": "inheritance tax",
+      "tran_cn": "[美]遗产税，继承税"
+    },
+    {
+      "phrase": "maternal inheritance",
+      "tran_cn": "母体遗传"
+    },
+    {
+      "phrase": "mendelian inheritance",
+      "tran_cn": "[生]孟德尔氏遗传"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "继承，遗传，遗产",
+      "tran_en": "money, property etc that you receive from someone who has died"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "inheritances"
+    ]
+  }
+}

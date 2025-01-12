@@ -1,0 +1,61 @@
+{
+  "word": "underplay",
+  "ipa": {
+    "us": "ˌʌndəˈpleɪ",
+    "uk": "ˌʌndərˈpleɪ"
+  },
+  "sentences": [
+    {
+      "en": "She underplays her achievements.",
+      "cn": "她对自己的成就表现得很低调。"
+    },
+    {
+      "en": "We often underplay the skills we have.",
+      "cn": "我们常常贬低自身的技能。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "stealth"
+          ],
+          "tran_cn": "不充分的表演；秘密行动"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 弱化…的重要性； 表演不充分",
+      "tran_en": "to make something seem less important or less serious than it really is"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "表演角色不充分（或有节制）"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "淡化…的重要性，使显得不如其实际重要，表演（角色）不充分，为了不充分显示力量而小心行事"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "underplays"
+    ],
+    "past": [
+      "underplayed"
+    ],
+    "done": [
+      "underplayed"
+    ],
+    "ing": [
+      "underplaying"
+    ]
+  }
+}

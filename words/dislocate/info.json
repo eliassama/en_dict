@@ -1,0 +1,142 @@
+{
+  "word": "dislocate",
+  "ipa": {
+    "us": "ˈdɪsləkeɪt",
+    "uk": "ˈdɪsloʊkeɪt"
+  },
+  "sentences": [
+    {
+      "en": "I dislocated my shoulder playing football.",
+      "cn": "踢足球时我的肩膀脱了臼。"
+    },
+    {
+      "en": "It would help to end illiteracy and disease, but it would also dislocate a traditional way of life.",
+      "cn": "这将有助于消除文盲和疾病，但也会扰乱传统的生活方式。"
+    },
+    {
+      "en": "Only an exceptionally heavy snow fall might temporarily dislocate railway services.",
+      "cn": "只有非同寻常的大雪才能临时打乱铁路业务."
+    },
+    {
+      "en": "Only an exceptionally heavy snowfall might temporarily dislocate railway service.",
+      "cn": "只有罕见的暴雪才会暂时打乱铁路的运行."
+    },
+    {
+      "en": "Only an exceptionally heavy snowfall might temporarily dislocate railway services.",
+      "cn": "只有非同寻常的大雪才可能暂时打乱铁路运行."
+    },
+    {
+      "en": "To confuse intelligence and dislocate sentiment by gratuitous fictions is a short - sighted way of pursuing happiness.",
+      "cn": "以无理的幻想混淆智力,弄乱正常的情感是一种短视的追求幸福的方法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dislocated",
+          "tran_cn": " 脱位的；离位的，移位的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dislocation",
+          "tran_cn": " 转位；混乱；[医] 脱臼"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "dislocated",
+          "tran_cn": " 脱臼；弄乱（dislocate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "disrupt"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "derange",
+            "discompose",
+            "disorder",
+            "disorganize",
+            "disturb",
+            "jumble",
+            "litter",
+            "muddle"
+          ],
+          "tran_cn": "打乱...秩序"
+        },
+        {
+          "words": [
+            "disarticulate",
+            "disconnect",
+            "luxate"
+          ],
+          "tran_cn": "脱位"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cloud",
+            "confuse"
+          ],
+          "tran_cn": "使脱臼；使混乱"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使脱臼； 把…弄乱",
+      "tran_en": "to move a bone out of its normal position in a joint, usually in an accident"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使关节脱位，使（交通，事务等）混乱"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "dislocates"
+    ],
+    "past": [
+      "dislocated"
+    ],
+    "done": [
+      "dislocated"
+    ],
+    "ing": [
+      "dislocating"
+    ],
+    "noun": [
+      "dislocation"
+    ]
+  }
+}

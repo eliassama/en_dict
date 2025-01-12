@@ -1,0 +1,87 @@
+{
+  "word": "emendation",
+  "ipa": {
+    "us": "ˌi:menˈdeɪʃn",
+    "uk": "ɪˌmɛnˈdeʃən, ˌimɛn-"
+  },
+  "sentences": [
+    {
+      "en": "Comments on the Philosophers is a literary special academic works on gloss and emendation.",
+      "cn": "《诸子平议》是一部训诂和校勘的笔记体学术专著,作者俞樾,晚清小学大家."
+    },
+    {
+      "en": "Frames design, capability selection of servo motors and precision emendation were the mechanical problems.",
+      "cn": "机械设计方面包括框架设计 、 电机容量选择和精度校验等."
+    },
+    {
+      "en": "Other emendation records , e . g . addition , deletion and correction, are shown in the same way.",
+      "cn": "其他校改记录如增补 、 删节及误字改正也以同样的方式显示."
+    },
+    {
+      "en": "The difficulty in the Plate Recognition is skew emendation.",
+      "cn": "车牌识别的难点在于倾斜校正和模糊识别."
+    },
+    {
+      "en": "The emendation has been accepted by teachers, but it has defects all the same.",
+      "cn": "人教版教科书的修订已经获得广大一线教师的认可, 但仍有不适和令人遗憾之处."
+    },
+    {
+      "en": "The paper introduces system structure, gamma ray testing, core location, sample depth emendation and so on.",
+      "cn": "文章介绍了系统结构及伽马测试 、 岩心归位 、 样品深度校正等."
+    },
+    {
+      "en": "This paper discussed the emendation of the luminescent spectra of semiconductor films.",
+      "cn": "讨论了半导体发光薄膜的光致发光谱修正要点."
+    },
+    {
+      "en": "We adopted open looped emendation regulate , PID regulate and self - tuning regulate in control strategy.",
+      "cn": "采用的控制策略有开关量的开环校正控制 、 单回路 PID控制等控制策略."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "emend",
+          "tran_cn": " 修订；改进"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "modification",
+            "correction",
+            "revision"
+          ],
+          "tran_cn": "校正；修订；修正"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "correction",
+            "revision"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "校订，修改，增删"
+    }
+  ],
+  "exchange": {}
+}

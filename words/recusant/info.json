@@ -1,0 +1,55 @@
+{
+  "word": "recusant",
+  "ipa": {
+    "us": "ˈrekjʊzənt",
+    "uk": "rəˈkjuzənt"
+  },
+  "sentences": [
+    {
+      "en": "I come from a recusant family and was educated at Catholic schools.",
+      "cn": "我出生在一个不服英国国教的家庭，在天主教学校里接受的教育。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "recusancy",
+          "tran_cn": " 不服从；不服国教"
+        },
+        {
+          "word": "recusation",
+          "tran_cn": " 反对"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "defiant",
+            "negative",
+            "resistant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不服权威的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "<史>不屈从权威的人，尤指拒不参加英国国教礼拜仪式的人"
+    }
+  ],
+  "exchange": {}
+}

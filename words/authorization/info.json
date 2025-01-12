@@ -1,0 +1,190 @@
+{
+  "word": "authorization",
+  "ipa": {
+    "us": "ˌɔ:θəraɪˈzeɪʃn",
+    "uk": "ˌɔθərəˈzeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Anglers are required to obtain prior authorization from the park keeper.",
+      "cn": "垂钓者必须事先得到公园管理者的许可."
+    },
+    {
+      "en": "Children may not leave the building without the authorization of the principal.",
+      "cn": "没有校长的许可，孩子们不能离开这幢楼。"
+    },
+    {
+      "en": "Formal authorization for the trip was given last week.",
+      "cn": "这次行程上周得到正式批准."
+    },
+    {
+      "en": "I am working with Chief Murphy's authorization on this, right?",
+      "cn": "莫菲局长已经充份授权给我了, 对 吧 ?"
+    },
+    {
+      "en": "I know all about the budget authorization, and I can count heads : you're one vote short.",
+      "cn": "我知道所有的预算授权书我可以心算出: 你只有弱弱的一票."
+    },
+    {
+      "en": "It's annoying to have to get authorization for spending such piddling amounts of money.",
+      "cn": "花这麽一点钱也要去请示,真烦人."
+    },
+    {
+      "en": "Nobody else has that privilege without the owner's explicit written authorization.",
+      "cn": "不经专利人的明确书面授权,任何人都不得实施这项专利."
+    },
+    {
+      "en": "Note: This procedure does not provide an authorization to ship.",
+      "cn": "注: 这一程序并不提供装运授权."
+    },
+    {
+      "en": "Q 5 : How should a typical Authorization Letter be written like?",
+      "cn": "问题五:典型的授权书如何书写?"
+    },
+    {
+      "en": "Some technology an product patent authorization have been obtained.",
+      "cn": "获得了相关技术和产品的专利授权."
+    },
+    {
+      "en": "The formal demonstration of system acceptability to obtain authorization for its operational use.",
+      "cn": "为使系统获准投入运行性使用,对系统的可接受性所做的正式演示."
+    },
+    {
+      "en": "The original operator deliberately stumbled over the authorization number.",
+      "cn": "那位工作人员有意在审核号码上结巴了一阵."
+    },
+    {
+      "en": "This authorization applies only to the address on the letter.",
+      "cn": "这项授权,只适用于的地址的信."
+    },
+    {
+      "en": "Where is your Royal Academy of Science authorization?",
+      "cn": "皇家科学院给你的认证书在什么地方?"
+    },
+    {
+      "en": "You cannot take a day off without authorization.",
+      "cn": "未经批准你不得休假."
+    },
+    {
+      "en": "You may not enter the security area without authorization.",
+      "cn": "未经批准不得进入警戒地区。"
+    },
+    {
+      "en": "You need special authorization to park here.",
+      "cn": "在此停车要有特别的许可。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "authorized",
+          "tran_cn": " 经授权的；经认可的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "authorizer",
+          "tran_cn": " 核准人；授权人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "authorized",
+          "tran_cn": " 授权；批准；辩护（authorize的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "authorize",
+          "tran_cn": " 批准，认可；授权给；委托代替"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "commission",
+            "confirmation",
+            "warranty"
+          ],
+          "tran_cn": "[计][法]授权，认可；批准，委任"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "authority",
+            "concession",
+            "credential",
+            "delegation",
+            "freedom",
+            "institution",
+            "license",
+            "passport",
+            "signature",
+            "subscription",
+            "warrant",
+            "yes"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "access authorization",
+      "tran_cn": "存取授权；访问权限"
+    },
+    {
+      "phrase": "authentication and authorization",
+      "tran_cn": "鉴别与授权；验证和授权"
+    },
+    {
+      "phrase": "authorization code",
+      "tran_cn": "[计]授权代码"
+    },
+    {
+      "phrase": "authorization letter",
+      "tran_cn": "授权书；授权信"
+    },
+    {
+      "phrase": "letter of authorization",
+      "tran_cn": "授权证书；委任证书"
+    },
+    {
+      "phrase": "written authorization",
+      "tran_cn": "授权书；核准书"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "批准，授权（书）",
+      "tran_en": "official permission to do something, or the document giving this permission"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "authorizations"
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "word": "remedy",
+  "ipa": {
+    "us": "ˈremədi",
+    "uk": "ˈremədi"
+  },
+  "sentences": [
+    {
+      "en": "a home remedy (= one that you make at home ) for sore throats",
+      "cn": "治疗喉咙疼痛的家庭疗法"
+    },
+    {
+      "en": "Caution: large doses of this remedy are emetic.",
+      "cn": "注意：大量服用这种药物会引致呕吐。"
+    },
+    {
+      "en": "Have you ever used a homeopathic remedy for any of the following reasons?",
+      "cn": "你是否因为以下任何一种理由采用过顺势疗法？"
+    },
+    {
+      "en": "He related what he had learnt of the new legal remedy.",
+      "cn": "他叙述了他了解到的新修订的法律条例."
+    },
+    {
+      "en": "I'll try a herbal remedy to calm him down.",
+      "cn": "我来用草药试试，看能不能让他镇静下来。"
+    },
+    {
+      "en": "Is there any remedy for fever?",
+      "cn": "有什么退热药 吗 ?"
+    },
+    {
+      "en": "Local - colour writing had done much to remedy the situation.",
+      "cn": "地方色彩的小说曾力挽狂澜."
+    },
+    {
+      "en": "Neither his complaint nor his remedy is entirely satisfying.",
+      "cn": "不论他的牢骚,和他的补救方法,都不能完全使人满意."
+    },
+    {
+      "en": "The herb is used as a folk remedy (= a traditional medicine, rather than one a doctor gives you ) for a baby’s teething pains.",
+      "cn": "这种草药是治疗幼儿出牙疼痛的民间药方。"
+    },
+    {
+      "en": "The plaintiff is seeking remedy through the court.",
+      "cn": "原告通过法院请示获得救济。"
+    },
+    {
+      "en": "The problems in our schools do not have a simple remedy.",
+      "cn": "我们学校的问题没有简单的解决办法。"
+    },
+    {
+      "en": "The remedy, like all colonel Korn's remedies, was successful.",
+      "cn": "这个补救办法象科恩中校的一切补救办法一样, 果然行之有效."
+    },
+    {
+      "en": "Their remedy lay within the range of existent technology.",
+      "cn": "他们的治疗方法利用现有技术可以实现。"
+    },
+    {
+      "en": "There is as yet no known remedy for cancer.",
+      "cn": "尚无治愈癌症的办法."
+    },
+    {
+      "en": "This medicine [ remedy ] has taken effect.",
+      "cn": "这药已见效了."
+    },
+    {
+      "en": "This remedy contains infusions of five flowers.",
+      "cn": "这个药方中包含了5种花的浸剂。"
+    },
+    {
+      "en": "To remedy the situation, the water must be chemically treated.",
+      "cn": "为了改善这种情况，水必须进行化学处理。"
+    },
+    {
+      "en": "Your only remedy is to appeal to law.",
+      "cn": "你的惟一补救办法是诉诸法律."
+    },
+    {
+      "en": "Your only remedy is to go to law.",
+      "cn": "你唯一的补救办法是诉诸法律."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "remediable",
+          "tran_cn": " 可治疗的；可矫正的；可补救的"
+        },
+        {
+          "word": "remedial",
+          "tran_cn": " 治疗的；补救的；矫正的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "remediation",
+          "tran_cn": " 补救；矫正；补习"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "therapy",
+            "satisfaction",
+            "cure"
+          ],
+          "tran_cn": "补救；治疗；赔偿"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aid",
+            "amends",
+            "application",
+            "correct",
+            "correction",
+            "curative",
+            "cure",
+            "doctor",
+            "fix",
+            "heal",
+            "medicate",
+            "medicine",
+            "mend",
+            "prescription",
+            "rectify",
+            "regulate",
+            "relieve",
+            "treat",
+            "treatment"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "correct",
+            "cure",
+            "doctor",
+            "fix",
+            "heal",
+            "rectify",
+            "treat"
+          ],
+          "tran_cn": "治疗"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "folk remedy",
+      "tran_cn": "偏方"
+    },
+    {
+      "phrase": "legal remedy",
+      "tran_cn": "法律补偿"
+    },
+    {
+      "phrase": "remedy for",
+      "tran_cn": "补救，解决；对…治疗法"
+    },
+    {
+      "phrase": "sovereign remedy",
+      "tran_cn": "◎灵药；特效药"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "治疗法，补救办法，纠正办法，（硬币的）公差",
+      "tran_en": "a way of dealing with a problem or making a bad situation better"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": "治疗；补救",
+      "tran_en": "a way of dealing with a problem or making a bad situation better"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "补救；治疗；纠正",
+      "tran_en": "to deal with a problem or improve a bad situation"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "改正，纠正，改进，补救，治疗",
+      "tran_en": "to deal with a problem or improve a bad situation"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "remedies"
+    ],
+    "third": [
+      "remedies"
+    ],
+    "past": [
+      "remedied"
+    ],
+    "done": [
+      "remedied"
+    ],
+    "ing": [
+      "remedying"
+    ]
+  }
+}

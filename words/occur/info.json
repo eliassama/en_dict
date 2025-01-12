@@ -1,0 +1,178 @@
+{
+  "word": "occur",
+  "ipa": {
+    "us": "əˈkɜː(r)",
+    "uk": "əˈkɜːr"
+  },
+  "sentences": [
+    {
+      "en": "A third of accidental deaths occur in the home.",
+      "cn": "有三分之一的意外死亡发生在家里。"
+    },
+    {
+      "en": "About two in every five epileptic fits occur during sleep.",
+      "cn": "每5例癫痫病中约有两例是在睡眠过程中发作的。"
+    },
+    {
+      "en": "Changes in temperature occur slowly and are constrained within relatively tight bounds.",
+      "cn": "温度变化缓慢，而且局限在相对较小的范围内。"
+    },
+    {
+      "en": "Chemical transformations occur.",
+      "cn": "发生了化学转换。"
+    },
+    {
+      "en": "Emergency cooling systems could fail and a reactor meltdown could occur.",
+      "cn": "紧急冷却系统有可能失灵，核反应堆有可能发生堆芯熔毁。"
+    },
+    {
+      "en": "If these drugs are stopped abruptly then some withdrawal symptoms may occur.",
+      "cn": "如果突然停服这些药，则可能出现一些戒断症状。"
+    },
+    {
+      "en": "Keep a pad handy to jot down queries as they occur.",
+      "cn": "手边放一本便笺簿，以便有问题时随时记下。"
+    },
+    {
+      "en": "Mental and physical deterioration both occur naturally with age.",
+      "cn": "随着年龄的增长,心智和体力自然衰退."
+    },
+    {
+      "en": "Nitrates are chemicals that occur naturally in water and the soil.",
+      "cn": "硝酸盐是水和土壤中自然存在的化学物质。"
+    },
+    {
+      "en": "No one has suggested how this might occur.",
+      "cn": "没人说得清这事是怎么发生的。"
+    },
+    {
+      "en": "Some movement in the building will occur as It'settles into the subsoil.",
+      "cn": "楼房沉到下层土时,楼里就会有动静."
+    },
+    {
+      "en": "The explosion occurred at 5.30 a.m.",
+      "cn": "爆炸发生在清晨5点30分。"
+    },
+    {
+      "en": "The word \" gratitude \" did not occur in his words.",
+      "cn": "“ 感激 ” 两字在他的话中是见不到的."
+    },
+    {
+      "en": "There will come a time when the crisis will occur.",
+      "cn": "危机总有一天会爆发。"
+    },
+    {
+      "en": "These snails do not occur on low-lying coral islands.",
+      "cn": "这些蜗牛不会出现在低洼的珊瑚岛上。"
+    },
+    {
+      "en": "Unless you respect other people's religions, horrible mistakes and conflict will occur.",
+      "cn": "如果不尊重别人的宗教信仰，就会祷下大错，酿成冲突。"
+    },
+    {
+      "en": "When exactly did the incident occur?",
+      "cn": "这一事件究竟是什么时候发生的？"
+    },
+    {
+      "en": "When vacancies occur, the office puts out feelers to the universities.",
+      "cn": "有空缺职位的时候，办事处就到各个大学去打探。"
+    },
+    {
+      "en": "Whooping cough occurs mainly in young children.",
+      "cn": "百日咳多发于幼儿。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "occurrent",
+          "tran_cn": " 正在发生的；偶然发生的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "occurrence",
+          "tran_cn": " 发生；出现；事件；发现"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "about",
+            "be",
+            "become",
+            "come",
+            "exist",
+            "happen",
+            "place",
+            "take",
+            "transpire"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "about",
+            "come",
+            "happen",
+            "place",
+            "take",
+            "transpire"
+          ],
+          "tran_cn": "发生"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "occur as",
+      "tran_cn": "以...的形式出现"
+    },
+    {
+      "phrase": "occur for",
+      "tran_cn": "发生在…时候"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "发生，存在于",
+      "tran_en": "to happen"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "发生",
+      "tran_en": "to happen"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "occurs"
+    ],
+    "past": [
+      "occurred"
+    ],
+    "done": [
+      "occurred"
+    ],
+    "ing": [
+      "occurring"
+    ]
+  }
+}

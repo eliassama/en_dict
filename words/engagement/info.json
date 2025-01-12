@@ -1,0 +1,217 @@
+{
+  "word": "engagement",
+  "ipa": {
+    "us": "ɪnˈɡeɪdʒmənt",
+    "uk": "ɪnˈɡeɪdʒmənt"
+  },
+  "sentences": [
+    {
+      "en": "Announcing our engagement was a relief.",
+      "cn": "宣布婚约让我们松了一口气。"
+    },
+    {
+      "en": "He cannot go for he has a previous engagement.",
+      "cn": "他不能去,因他已先有约会."
+    },
+    {
+      "en": "I can't see you on Monday because I have a previous engagement.",
+      "cn": "星期一我不能见你,因为我有约在先."
+    },
+    {
+      "en": "I felt our engagement was quite an unhappy time.",
+      "cn": "我觉得我们订婚期间非常不愉快。"
+    },
+    {
+      "en": "It was my mother's very own engagement ring.",
+      "cn": "这正是我母亲自己的订婚戒指."
+    },
+    {
+      "en": "Janis and Kurt have announced their engagement.",
+      "cn": "贾尼斯和库尔特已宣布订婚。"
+    },
+    {
+      "en": "Naomi was showing off her engagement ring.",
+      "cn": "娜奥米正在炫耀她的订婚戒指。"
+    },
+    {
+      "en": "Owing to a previous engagement, I shan't be able to come.",
+      "cn": "因事先另有约会, 我无法前来."
+    },
+    {
+      "en": "She backed out of her engagement.",
+      "cn": "她没遵守婚约."
+    },
+    {
+      "en": "She chose Maggie to make her up for her engagement photographs.",
+      "cn": "她选择玛吉为她拍订婚照的时候化妆。"
+    },
+    {
+      "en": "Since you have a previous engagement, why didn't you say so?",
+      "cn": "既然有事, 何不早说?"
+    },
+    {
+      "en": "The couple eventually wed after three year engagement.",
+      "cn": "这对夫妇在订婚三年后终于结婚了."
+    },
+    {
+      "en": "The engagement has been called off.",
+      "cn": "婚约取消了."
+    },
+    {
+      "en": "Their engagement was announced in the paper.",
+      "cn": "他们订婚的消息在报上公布了。"
+    },
+    {
+      "en": "Their secret engagement was finally revealed. I always say murder will out.",
+      "cn": "他们的密约终于被揭露了,我常说纸是包不住火的."
+    },
+    {
+      "en": "They cried off the engagement.",
+      "cn": "他们取消了婚约."
+    },
+    {
+      "en": "This is his only public speaking engagement on the tour.",
+      "cn": "这是他此行唯一一场公开演讲。"
+    },
+    {
+      "en": "Tony was stunned when Lisa suddenly broke off their engagement (= finished it ).",
+      "cn": "托尼对莉萨突然解除他俩的婚约感到震惊。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "engaged",
+          "tran_cn": " 使用中的，忙碌的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "engaged",
+          "tran_cn": " 保证；约定；同…订婚（engage的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "engage",
+          "tran_cn": " 从事；答应，保证；交战；啮合"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "engage",
+          "tran_cn": " 吸引，占用；使参加；雇佣；使订婚；预定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agreement",
+            "arrangement",
+            "bargain",
+            "compact",
+            "contract",
+            "covenant",
+            "guarantee",
+            "pact",
+            "pledge",
+            "promise",
+            "stipulation",
+            "vow",
+            "warranty",
+            "word"
+          ],
+          "tran_cn": "契约;约定"
+        },
+        {
+          "words": [
+            "action",
+            "battle",
+            "clash",
+            "combat",
+            "conflict",
+            "confrontaion",
+            "encounter",
+            "fight",
+            "skirmish",
+            "struggle",
+            "war",
+            "warfare"
+          ],
+          "tran_cn": "战斗"
+        },
+        {
+          "words": [
+            "appointment",
+            "assignation",
+            "date",
+            "interview",
+            "meeting",
+            "rendezvous",
+            "tryst"
+          ],
+          "tran_cn": "约会"
+        },
+        {
+          "words": [
+            "betrothal",
+            "betrothment",
+            "espousal",
+            "plighting"
+          ],
+          "tran_cn": "订婚"
+        },
+        {
+          "words": [
+            "business",
+            "employment",
+            "post"
+          ],
+          "tran_cn": "雇用;职业"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "competition",
+            "conscription",
+            "reservation"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "订婚（期），约会，交战",
+      "tran_en": "an agreement between two people to marry, or the period of time they are engaged"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "engagements"
+    ]
+  }
+}

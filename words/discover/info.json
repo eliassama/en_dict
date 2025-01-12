@@ -1,0 +1,199 @@
+{
+  "word": "discover",
+  "ipa": {
+    "us": "dɪˈskʌvə(r)",
+    "uk": "dɪˈskʌvər"
+  },
+  "sentences": [
+    {
+      "en": "Discover the delights and luxury of a private yacht.",
+      "cn": "体验私人游艇的乐趣和奢华。"
+    },
+    {
+      "en": "Forest Service crews often discover campfires that have not been put out completely.",
+      "cn": "林务局工作人员常常发现未完全熄灭的营火。"
+    },
+    {
+      "en": "Haskell did not live to discover the deception.",
+      "cn": "哈斯克尔至死都没识破那个骗局。"
+    },
+    {
+      "en": "He was pleasantly surprised to discover that he was no longer afraid.",
+      "cn": "让他惊喜的是他发现自己不再害怕了."
+    },
+    {
+      "en": "He was stunned to discover cost overruns of at least $1 billion.",
+      "cn": "他震惊地发现花费至少超了10亿美元。"
+    },
+    {
+      "en": "It is upsetting to discover that you have backed a loser.",
+      "cn": "发现自己的投注对象输了是一件让人心烦的事。"
+    },
+    {
+      "en": "It was a shock to discover the truth about his sordid past.",
+      "cn": "他以往的丑行被发现时，人们感到震惊。"
+    },
+    {
+      "en": "It was difficult for the inspectors to discover which documents were important.",
+      "cn": "检查员们很难发现哪些文件是重要的。"
+    },
+    {
+      "en": "Scientists are now trying to discover if this is possible.",
+      "cn": "科学家现在正在努力去探索这是否有可能."
+    },
+    {
+      "en": "She discovered that she was pregnant.",
+      "cn": "她发觉自己怀孕了。"
+    },
+    {
+      "en": "The body was discovered in a field.",
+      "cn": "尸体是在一块田地里找到的。"
+    },
+    {
+      "en": "The newly discover-ed notes are nothing more than Lang's personal journal.",
+      "cn": "新发现的笔记只不过是朗的个人日志。"
+    },
+    {
+      "en": "The rumor is false, so far as I can discover.",
+      "cn": "就我所看到的实情来说,那谣言是不真实的."
+    },
+    {
+      "en": "The turning point in the process of growing up is when you discover the core of strength within you that survives all hurt.",
+      "cn": "当你从内心深处找到一种可以忍受一切痛苦的坚强力量时，你的成长历程就会出现飞跃。"
+    },
+    {
+      "en": "They discover that the new teacher is a martinet.",
+      "cn": "他们发现新来的老师非常严格."
+    },
+    {
+      "en": "They were thrilled to discover a perfectly preserved specimen of Roman pottery.",
+      "cn": "他们因发现了一件保存完好的罗马时代陶器而欣喜若狂."
+    },
+    {
+      "en": "We may begin to discover overlaps.",
+      "cn": "我们可能开始发现交叉的部分了。"
+    },
+    {
+      "en": "We tried vainly to discover what had happened.",
+      "cn": "我们设法想要弄清楚发生了什么事,但却徒劳."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "discoverable",
+          "tran_cn": " 发现的；显露的；泄露的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "discoverer",
+          "tran_cn": " 发现者"
+        },
+        {
+          "word": "discovery",
+          "tran_cn": " 发现，发觉；被发现的事物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ascertain",
+            "catch",
+            "detect",
+            "disclose",
+            "expose",
+            "find",
+            "hit",
+            "learn",
+            "locate",
+            "notice",
+            "observe",
+            "originate",
+            "overhear",
+            "perceive",
+            "reveal",
+            "see",
+            "unearth"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "sniff out",
+            "to find"
+          ],
+          "tran_cn": "发现"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "disclose",
+            "expose",
+            "find",
+            "learn",
+            "notice",
+            "observe",
+            "perceive",
+            "reveal",
+            "see"
+          ],
+          "tran_cn": "发现;发觉"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "看出，发现；暴露，显示"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "发现，找到，了解到，发掘(人才)",
+      "tran_en": "to find someone or something, either by accident or because you were looking for them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 发现， 找到， 发觉",
+      "tran_en": "to find someone or something, either by accident or because you were looking for them"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "discovers"
+    ],
+    "past": [
+      "discovered"
+    ],
+    "done": [
+      "discovered"
+    ],
+    "ing": [
+      "discovering"
+    ],
+    "noun": [
+      "discoverer"
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "word": "yawn",
+  "ipa": {
+    "us": "jɔːn",
+    "uk": "jɔːn"
+  },
+  "sentences": [
+    {
+      "en": "Alan stretched and yawned.",
+      "cn": "艾伦伸伸懒腰，打了个呵欠。"
+    },
+    {
+      "en": "Can you hear my yawn?",
+      "cn": "听得见我打呵欠的声音 么 ?"
+    },
+    {
+      "en": "He gave an ostentatious yawn.",
+      "cn": "他张扬地打了个哈欠。"
+    },
+    {
+      "en": "He smothered a yawn behind his hand.",
+      "cn": "他用手挡住嘴遮掩自己打哈欠."
+    },
+    {
+      "en": "Her yawn suggests that she is sleepy.",
+      "cn": "她打哈欠表示她很困了."
+    },
+    {
+      "en": "Her yawn was a Pavlovian response to my yawn.",
+      "cn": "她打哈欠是对我打哈欠的条件反射。"
+    },
+    {
+      "en": "Kay shook her head and stifled a yawn (= tried to stop yawning ).",
+      "cn": "凯摇摇头，忍住呵欠。"
+    },
+    {
+      "en": "Rosanna stifled a huge yawn.",
+      "cn": "罗莎娜想打个大哈欠，但强忍住了。"
+    },
+    {
+      "en": "She let out a big yawn a full inch square in area.",
+      "cn": "柔嘉打个面积一寸见方的大呵欠."
+    },
+    {
+      "en": "She makes no attempt to stifle a yawn.",
+      "cn": "她忍不住打了个哈欠。"
+    },
+    {
+      "en": "She managed to stifle a yawn.",
+      "cn": "她忍住了呵欠。"
+    },
+    {
+      "en": "She stretched her arms out and gave a great yawn.",
+      "cn": "她伸了个懒腰，打了个大哈欠。"
+    },
+    {
+      "en": "The alarm did go off but all I did was yawn, turn over and go back to sleep.",
+      "cn": "闹钟确实响了，但我只是打了个哈欠，翻个身又接着睡着了。"
+    },
+    {
+      "en": "The concert was a predictable yawn.",
+      "cn": "果不其然，那场音乐会很乏味。"
+    },
+    {
+      "en": "The debate was a mockery. A big yawn.",
+      "cn": "这场辩论实在可笑。简直是无聊透顶。"
+    },
+    {
+      "en": "The meeting was one big yawn from start to finish.",
+      "cn": "那会议自始至终十分无聊."
+    },
+    {
+      "en": "The play was a big yawn from start to finish.",
+      "cn": "那出戏从头至尾极其乏味."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "yawning",
+          "tran_cn": " 打哈欠的，张着大嘴的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "yawning",
+          "tran_cn": " 打呵欠"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "yawning",
+          "tran_cn": " 打哈欠（yawn的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "breakage",
+            "chasm"
+          ],
+          "tran_cn": "哈欠；裂口"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "gape"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "gap",
+            "seam"
+          ],
+          "tran_cn": "[生理]打呵欠；裂开"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "splay"
+          ],
+          "tran_cn": "张开；打著呵欠说"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "哈欠，乏味的事情",
+      "tran_en": "an act of yawning"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "打哈欠，裂开",
+      "tran_en": "to open your mouth wide and breathe in deeply because you are tired or bored"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "打哈欠",
+      "tran_en": "to open your mouth wide and breathe in deeply because you are tired or bored"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "yawns"
+    ],
+    "third": [
+      "yawns"
+    ],
+    "past": [
+      "yawned"
+    ],
+    "done": [
+      "yawned"
+    ],
+    "ing": [
+      "yawning"
+    ]
+  }
+}

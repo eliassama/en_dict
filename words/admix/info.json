@@ -1,0 +1,86 @@
+{
+  "word": "admix",
+  "ipa": {
+    "us": "'ædmɪks",
+    "uk": " æd'mɪks"
+  },
+  "sentences": [
+    {
+      "en": "Super - retarding mortar is composed of cement, water, retarding admix and sand blended in appropriate rate.",
+      "cn": "超缓凝砂浆是由水泥 、 复合缓凝剂 、 水和砂经适当配比而形成的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "admixture",
+          "tran_cn": " 混合；添加物；掺和剂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "amalgamate",
+            "unite"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "mix together",
+            "intermingle with"
+          ],
+          "tran_cn": "混合；掺和"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "composite",
+            "babelize"
+          ],
+          "tran_cn": "使混合"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使混合，混合",
+      "tran_en": "to mix or blend "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "admixes"
+    ],
+    "past": [
+      " admixt",
+      "admixed"
+    ],
+    "done": [
+      " admixt",
+      "admixed"
+    ],
+    "ing": [
+      "admixing"
+    ]
+  }
+}

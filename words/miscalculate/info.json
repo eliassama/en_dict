@@ -1,0 +1,101 @@
+{
+  "word": "miscalculate",
+  "ipa": {
+    "us": "ˌmɪsˈkælkjuleɪt",
+    "uk": "mɪsˈkælkjəˌlet"
+  },
+  "sentences": [
+    {
+      "en": "This keeps them guessing, forces them to miscalculate military capabilities and commit forces the wrong area.",
+      "cn": "这使得他们猜想, 导致他们会计算错误军队数量并将自己的军队派到错误的地方."
+    },
+    {
+      "en": "We miscalculated how long it would take to get there.",
+      "cn": "我们算错了要多久才能到那里。"
+    },
+    {
+      "en": "Yes, I am afraid I did miscalculate.",
+      "cn": "是的恐怕我的确估量错了."
+    },
+    {
+      "en": "Yes, I'm afraid I did miscalculate.",
+      "cn": "是的, 恐怕我的确估量错了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "miscalculation",
+          "tran_cn": " 算错；误算"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "misjudge",
+            "misunderstand"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "get it wrong"
+          ],
+          "tran_cn": "算错；判断错误"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "get it wrong"
+          ],
+          "tran_cn": "算错；估计错误"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "算错；估计错误",
+      "tran_en": "to make a mistake when deciding how long something will take to do, how much money you will need etc"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "误算，对…判断错误"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "miscalculates"
+    ],
+    "past": [
+      "miscalculated"
+    ],
+    "done": [
+      "miscalculated"
+    ],
+    "ing": [
+      "miscalculating"
+    ],
+    "noun": [
+      "miscalculation"
+    ]
+  }
+}

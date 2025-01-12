@@ -1,0 +1,191 @@
+{
+  "word": "discrete",
+  "ipa": {
+    "us": "dɪˈskriːt",
+    "uk": "dɪˈskriːt"
+  },
+  "sentences": [
+    {
+      "en": "A multiple - position controller which has three discrete values of output.",
+      "cn": "一种含有三个离散输出值的多位置控制器."
+    },
+    {
+      "en": "A nebula is really a discrete mass of innumerous stars.",
+      "cn": "一团星云实际上是无数星体不连续的集合体."
+    },
+    {
+      "en": "Democritus argued that matter is formed from discrete particles.",
+      "cn": "德谟克利特认为物质是由分立的粒子构成的."
+    },
+    {
+      "en": "Discrete data is not necessarily homogeneous, and discrete selection is not necessarily contiguous.",
+      "cn": "离散数据不一定是同一类的, 离散选择也不一定是连续的."
+    },
+    {
+      "en": "He obtained discrete bands of colour materials.",
+      "cn": "他得到了各有色物质的判别谱带."
+    },
+    {
+      "en": "However, the hypertrophic obstructive type is sufficiently discrete.",
+      "cn": "但无论如何, 肥厚性梗阻型仍具有足够的独立性."
+    },
+    {
+      "en": "In many cases, only a complicated discrete component schematic is provided by the manufacturer.",
+      "cn": "在许多情况下, 厂家提供的只是复杂的分立元件原理图."
+    },
+    {
+      "en": "Initially, clock - drivers were made from discrete components or special - driving integrated circuits.",
+      "cn": "最初, 时钟驱动器是由分立元件或专用的集成驱动电路构成的."
+    },
+    {
+      "en": "Most staple fibers are discrete, individual entities.",
+      "cn": "大多数短纤维是不联系的单独实体."
+    },
+    {
+      "en": "Mutual exclusion is the rule in both discrete and contiguous selection.",
+      "cn": "互斥对离散选择和连续选择都适用."
+    },
+    {
+      "en": "Probability distributions are classified as either discrete or continuous.",
+      "cn": "概率分布为离散型和连续型两种."
+    },
+    {
+      "en": "The change happens in a series of discrete steps.",
+      "cn": "这个变化在一系列分离的步骤中发生。"
+    },
+    {
+      "en": "The organisms can be divided into discrete categories.",
+      "cn": "有机体可分为许多互不相联的种类。"
+    },
+    {
+      "en": "The picture consists of a lot of discrete spots of colour.",
+      "cn": "这幅画由许多不相连的色点组成."
+    },
+    {
+      "en": "The proteins initially appear as discrete bodies.",
+      "cn": "蛋白质体最初作为分离体而出现."
+    },
+    {
+      "en": "They give off discrete amounts of radiant energy.",
+      "cn": "它们放出不连续的辐射能量."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "discreteness",
+          "tran_cn": " 组件；不连续性（目标对于背景的显明度）"
+        },
+        {
+          "word": "discretion",
+          "tran_cn": " 自由裁量权；谨慎；判断力；判定；考虑周到"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "uncontinuous",
+            "incontinuous"
+          ],
+          "tran_cn": "离散的，[数]不连续的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "discrete component",
+      "tran_cn": "分立元器件"
+    },
+    {
+      "phrase": "discrete cosine transform",
+      "tran_cn": "离散余弦变换"
+    },
+    {
+      "phrase": "discrete data",
+      "tran_cn": "离散数据；间断数据"
+    },
+    {
+      "phrase": "discrete distribution",
+      "tran_cn": "离散分布"
+    },
+    {
+      "phrase": "discrete element",
+      "tran_cn": "分立元件，离散元素"
+    },
+    {
+      "phrase": "discrete element method",
+      "tran_cn": "离散单元法"
+    },
+    {
+      "phrase": "discrete fourier transform",
+      "tran_cn": "离散傅里叶变换"
+    },
+    {
+      "phrase": "discrete frequency",
+      "tran_cn": "离散频率"
+    },
+    {
+      "phrase": "discrete mathematics",
+      "tran_cn": "离散数学"
+    },
+    {
+      "phrase": "discrete random variable",
+      "tran_cn": "离散随机变量"
+    },
+    {
+      "phrase": "discrete sampling",
+      "tran_cn": "发出信号"
+    },
+    {
+      "phrase": "discrete signal",
+      "tran_cn": "离散信号"
+    },
+    {
+      "phrase": "discrete spectrum",
+      "tran_cn": "离散谱；不连续光谱"
+    },
+    {
+      "phrase": "discrete system",
+      "tran_cn": "离散系统，集块参数系统"
+    },
+    {
+      "phrase": "discrete time",
+      "tran_cn": "[计]离散时间"
+    },
+    {
+      "phrase": "discrete value",
+      "tran_cn": "不连续值，离散值"
+    },
+    {
+      "phrase": "discrete variable",
+      "tran_cn": "[数]离散变量"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "分离的，不相关联的，分立式，非连续",
+      "tran_en": "clearly separate"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "分立元件；独立部件"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "discretely"
+    ],
+    "noun": [
+      "discreteness"
+    ]
+  }
+}

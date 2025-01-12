@@ -1,0 +1,146 @@
+{
+  "word": "temp",
+  "ipa": {
+    "us": "temp",
+    "uk": "tɛmp"
+  },
+  "sentences": [
+    {
+      "en": "Auto - temp control and no - rate speed adjustment make even heating and adjustable speed.",
+      "cn": "自控温度与无级调速系列,使加热均匀,速度可调."
+    },
+    {
+      "en": "Cannot delete the log file % 1 [ This message is temp ]",
+      "cn": "不能删除日志文件%1 [ 此信息是临时的 ]"
+    },
+    {
+      "en": "En hiver, la temp é rature peut descendre ( baisser ) à moins 30.",
+      "cn": "冬天, 气温可下降到零下30度."
+    },
+    {
+      "en": "IS THE TRANS TEMP VOLTAGE CORRECT FOR THE CURRENT ACTUAL FLUID TEMP?",
+      "cn": "体现当前流体温度的变速温度电压正确?"
+    },
+    {
+      "en": "PF - TEMP are used to reduce API fluid loss less than 5 ml.",
+      "cn": "TEMP用于将API失水降到低于5毫升."
+    },
+    {
+      "en": "Quelle est la temp é rature minimale ( la plus basse ) de la journ é e?",
+      "cn": "最低气温是多少?"
+    },
+    {
+      "en": "Replace all references to that temp with the expression.",
+      "cn": "将所有对该变量的引用动作,替换为对它赋值的那个表达式自身."
+    },
+    {
+      "en": "Set - off memory; Warning for: set - off, fan, sensor, over box inner temp.",
+      "cn": "断电 记忆功能: 五功能报警:温度上下偏差 、 传感器、断电 、 风机 、 箱温超温."
+    },
+    {
+      "en": "She began working for the company as a temp.",
+      "cn": "她开始在这家公司做临时雇员。"
+    },
+    {
+      "en": "Specify a different drive in the TEMP environment variable.",
+      "cn": "在TEMP环境变量中指定其他驱动器."
+    },
+    {
+      "en": "Temp . setting: Set mini temp. what the storage room need.",
+      "cn": "温度设定: 储存室所欲运转之最低温度."
+    },
+    {
+      "en": "Temp Controller Communication Manual ( Korean ) complete source code, has been tested.",
+      "cn": "温度控制器通信手册 ( 韩文 ) 完整的源代码, 已经过测试."
+    },
+    {
+      "en": "The alarm system has the over - speed , over - temp, imbalance and belt - broken alarm function.",
+      "cn": "具有过速 、 过温 、 失衡等报警及保护功能."
+    },
+    {
+      "en": "W white noise is applied for 24 hours, at room temp.",
+      "cn": "在室温下,输入功率0.1W,白杂音连续操作24小时."
+    },
+    {
+      "en": "We may now restore that temp 1 e to the ancient truths.",
+      "cn": "我们要以千古不变的真理来重建这座庙宇."
+    },
+    {
+      "en": "Wide temp . Range , temp . at any point, high accuracy.",
+      "cn": "采用专用电路, 调温范围大,任意点自动保持恒温, 精确度高."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "temperature",
+          "tran_cn": " 温度"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "super"
+          ],
+          "tran_cn": "临时雇员"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "worker"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "abbr",
+      "tran_cn": "temperature温度"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "临时雇员，（尤指）临时秘书",
+      "tran_en": "an office worker who is only employed temporarily"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "做临时工作",
+      "tran_en": "to work as a temp"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "打临时工，做临时工作，打零工"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "temps"
+    ],
+    "third": [
+      "temps"
+    ],
+    "past": [
+      "temped"
+    ],
+    "done": [
+      "temped"
+    ],
+    "ing": [
+      "temping"
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "word": "contaminant",
+  "ipa": {
+    "us": "kənˈtæmɪnənt",
+    "uk": "kənˈtæmɪnənt"
+  },
+  "sentences": [
+    {
+      "en": "Contaminant, Particulate ( see light point defect )",
+      "cn": "污染微粒 ( 参见光点缺陷 )"
+    },
+    {
+      "en": "environmental contaminants",
+      "cn": "环境污染物"
+    },
+    {
+      "en": "Good demulsibility promotes quick water separation. If water is an unavoidable contaminant, thereby ensuring effective lubrication.",
+      "cn": "抗乳化性强,能迅速把水份分离, 减少因水份而对润滑性做影响."
+    },
+    {
+      "en": "Modification of rinsing techniques by installing cascading or counter - current rinse systems increases the contaminant concentration.",
+      "cn": "安装了阶梯式装置或对流漂洗装置,可改进漂洗技术,把污染物的浓度提高."
+    },
+    {
+      "en": "Petroleum is the main contaminant in seawater, which has severely damaged sea and beach environments.",
+      "cn": "石油是海洋环境的主要污染物, 已经对海洋及近岸环境造成了严重的危害."
+    },
+    {
+      "en": "Phytoinvestigation : The examination of plants at a site for information about contaminant presence, distribution, and concentration.",
+      "cn": "植物监测,通过对某地植物鉴定以得出污染物存在 、 分布 、 浓度的信息."
+    },
+    {
+      "en": "She says contaminant flood waters contaminated floodwaters can cause fatal illnesses, such as diarrhea and cholera.",
+      "cn": "她说,污染的洪水可以引起致命的疾病, 如痢疾和霍乱."
+    },
+    {
+      "en": "Study on Contaminant Transportation and Transformation in Soil.",
+      "cn": "关于土体中污染物迁移转化问题的研究."
+    },
+    {
+      "en": "Study on the Joint Deformation and the Interface Contaminant Ejection Rate in DC Upset Butt Welding.",
+      "cn": "直流电阻对焊接头变形和界面污物清除率研究."
+    },
+    {
+      "en": "The contaminant transport equation is solved by the ADI method.",
+      "cn": "污染传输控制方程较为单纯,可利用ADI法求解."
+    },
+    {
+      "en": "The gas contains blow - by, sludge, acids, oil, and other contaminant.",
+      "cn": "这些气体包括窜缸气体, 沉积物, 酸, 机油和其它杂质的气体."
+    },
+    {
+      "en": "The likely source of that contaminant in the local drinking water supply.",
+      "cn": "当地饮用水系统供应中污染物的可能性来源."
+    },
+    {
+      "en": "The property of metal - polysilicate complex coagulants ( MPS ) for removing the contaminant from water is evaluated.",
+      "cn": "用烧杯搅拌实验考察了金属聚硅酸复合混凝剂 ( MPS ) 去除水中污染物质的性能."
+    },
+    {
+      "en": "The waste water is greatest contaminant, and it is major harness content.",
+      "cn": "PCB废水是PCB企业 产生最大污染源和主要治理的内容."
+    },
+    {
+      "en": "These threads are lubricated and these lubricants can be an unwanted contaminant in high purity applications.",
+      "cn": "这些螺纹被润滑了,而且这些润滑剂在高纯度应用中可能是有害的污染物."
+    },
+    {
+      "en": "What contaminant should you be most about and why?",
+      "cn": "你应该对什么污染物最关心的,为什么?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "contaminated",
+          "tran_cn": " 受污染的；弄脏的"
+        },
+        {
+          "word": "contaminative",
+          "tran_cn": " 污损的；弄脏了的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "contaminate",
+          "tran_cn": " 受到污染的"
+        },
+        {
+          "word": "contamination",
+          "tran_cn": " 污染，玷污；污染物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "contaminated",
+          "tran_cn": " 污染（contaminate的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "contaminate",
+          "tran_cn": " 污染，弄脏"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "pollutant",
+            "fomite"
+          ],
+          "tran_cn": "[环境]污染物；致污物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "air contaminant",
+      "tran_cn": "空气污染物"
+    },
+    {
+      "phrase": "organic contaminant",
+      "tran_cn": "有机污染物"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "污染物，致污物",
+      "tran_en": "a substance that makes something dirty"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "contaminants"
+    ]
+  }
+}

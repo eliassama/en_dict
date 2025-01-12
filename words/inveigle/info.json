@@ -1,0 +1,70 @@
+{
+  "word": "inveigle",
+  "ipa": {
+    "us": "ɪnˈveɪgl",
+    "uk": "ɪnˈveɡəl, -ˈvi-"
+  },
+  "sentences": [
+    {
+      "en": "She inveigles Paco into a plot to swindle Tania out of her savings.",
+      "cn": "她把帕科诱骗进了一个骗取塔尼娅积蓄的阴谋里。"
+    },
+    {
+      "en": "With patience and diplomacy, she can eventually inveigle him into marrying her.",
+      "cn": "她靠耐心和交际手腕, 到头来是能引诱他与她结婚的."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coax",
+            "entrap"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "entice",
+            "prevail upon"
+          ],
+          "tran_cn": "[法]诱骗；诱使"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "诱骗",
+      "tran_en": "If you inveigle someone into doing something, you cleverly persuade them to do it when they do not really want to"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "诱骗，引诱"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inveigles"
+    ],
+    "past": [
+      "inveigled"
+    ],
+    "done": [
+      "inveigled"
+    ],
+    "ing": [
+      "inveigling"
+    ]
+  }
+}

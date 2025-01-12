@@ -1,0 +1,107 @@
+{
+  "word": "testator",
+  "ipa": {
+    "us": "tes'teɪtə",
+    "uk": "tes'teɪtə"
+  },
+  "sentences": [
+    {
+      "en": "A notarial will is one made by a testator through a notary agency.",
+      "cn": "公证遗嘱由遗嘱人经公证机关办理."
+    },
+    {
+      "en": "A testator may revoke or alter a will he previously made.",
+      "cn": "遗嘱人可以撤销、变更自己所立的遗嘱."
+    },
+    {
+      "en": "A testator may, in an emergency situation, make a nuncupative will, which shall be witnessed by two or more witnesses.",
+      "cn": "遗嘱人在危急情况下，可以立口头遗嘱。 口头遗嘱应当有两个以上见证人在场见证。"
+    },
+    {
+      "en": "A will is revoked by the subsequent marriage of the testator.",
+      "cn": "遗嘱人的再次结婚将导致(结婚前所立)遗嘱的无效."
+    },
+    {
+      "en": "A will needs the signature of the testator and two witness.",
+      "cn": "一份遗嘱需要立遗嘱人和两个证人的签字."
+    },
+    {
+      "en": "A will needs the signature of the testator and two witnesses.",
+      "cn": "一份遗嘱需要立遗嘱人和两个证人签字."
+    },
+    {
+      "en": "Article 17 A notarial will is one made by a testator through a notary agency.",
+      "cn": "　　第十七条公证遗嘱由遗嘱人经公证机关办理."
+    },
+    {
+      "en": "I see. But what if a testator has made several wills?",
+      "cn": "我懂了,如果遗嘱人立了数份遗瞩怎么办?"
+    },
+    {
+      "en": "The executor tried to comply with the intent of the testator.",
+      "cn": "执行人尽量遵照立遗嘱之人的意图."
+    },
+    {
+      "en": "The reversion rule designates a remainder in the heirs of the grantor or testator.",
+      "cn": "复归权规则则赋予出让人或遗嘱人的继承人一项复归权."
+    },
+    {
+      "en": "These pleas presuppose execution of the will by the testator.",
+      "cn": "这些呼吁假定执行的意愿,由立遗嘱人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "testamentary",
+          "tran_cn": " 遗嘱的，据遗嘱的；遗嘱中写明的"
+        },
+        {
+          "word": "testate",
+          "tran_cn": " 留有遗嘱的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "testament",
+          "tran_cn": " [法] 遗嘱；圣约；确实的证明"
+        },
+        {
+          "word": "testate",
+          "tran_cn": " 留有遗嘱的死者"
+        },
+        {
+          "word": "testatrix",
+          "tran_cn": " 女遗嘱人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "legator"
+          ],
+          "tran_cn": "立遗嘱者"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（尤指死者）留有遗嘱的人",
+      "tran_en": "a person who makes a will, esp one who dies testate "
+    }
+  ],
+  "exchange": {}
+}

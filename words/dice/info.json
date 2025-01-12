@@ -1,0 +1,168 @@
+{
+  "word": "dice",
+  "ipa": {
+    "us": "daɪs",
+    "uk": "daɪs"
+  },
+  "sentences": [
+    {
+      "en": "A dice has six faces.",
+      "cn": "骰子有六个面."
+    },
+    {
+      "en": "A dice is a cube.",
+      "cn": "骰子是立方体."
+    },
+    {
+      "en": "a pair of dice",
+      "cn": "一对骰子"
+    },
+    {
+      "en": "A throw of the dice allows a player to move himself forward.",
+      "cn": "掷一次骰子,玩家可相应向前移动."
+    },
+    {
+      "en": "All her attempts to find a better job were unsuccessful; It'seemed that the dice were loaded against her.",
+      "cn": "她想找个好点的工作,可一切的努力都没成功. 她总是不顺利."
+    },
+    {
+      "en": "Bill wanted to let Bob join the team, but I said that was no dice because Bob was too young.",
+      "cn": "比尔想让鲍勃参加球队, 但我没同意,因为鲍勃年龄太小."
+    },
+    {
+      "en": "Dice the beetroot neatly.",
+      "cn": "将甜菜根切成整齐的小方块."
+    },
+    {
+      "en": "Dice the onion.",
+      "cn": "把洋葱切成丁。"
+    },
+    {
+      "en": "diced carrots",
+      "cn": "切成丁的胡萝卜"
+    },
+    {
+      "en": "He asked for more money but she said no dice to him.",
+      "cn": "他要求多给点钱,她对他说不行."
+    },
+    {
+      "en": "He enticed his former employer into another dice game.",
+      "cn": "他挑逗他原来的老板再赌一次掷骰子."
+    },
+    {
+      "en": "I sat down and saw the box and dice go round apace.",
+      "cn": "我坐下看骰子在盘子里迅速地转动着."
+    },
+    {
+      "en": "It's your throw, eg your turn to throw the dice.",
+      "cn": "该你掷了(如该你掷色子)."
+    },
+    {
+      "en": "Kicked on that occasion for cheating at dice?",
+      "cn": "是因为掷骰子做假么?"
+    },
+    {
+      "en": "Peel, stone and dice the mango.",
+      "cn": "将芒果削皮、去核、切丁。"
+    },
+    {
+      "en": "They were playing dice.",
+      "cn": "他们在玩掷骰子游戏."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dicer",
+          "tran_cn": " 帽子，小礼帽；玩掷骰子游戏的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cubes"
+          ],
+          "tran_cn": "骰子"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cube",
+            "cut"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "cube",
+            "cut"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "shake the elbows",
+            "crap"
+          ],
+          "tran_cn": "掷骰子"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dice with death",
+      "tran_cn": "玩命，冒大风险"
+    },
+    {
+      "phrase": "no dice",
+      "tran_cn": "(非正式，主北美)不行；没门（用于拒绝请求或表示不可能做到）"
+    },
+    {
+      "phrase": "play with loaded dice",
+      "tran_cn": "使用欺诈手段,暗中搞鬼[亦作play with marked cards]"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "骰子，掷骰游戏",
+      "tran_en": "a small block of wood, plastic etc that has six sides with a different number of spots on each side, used in games"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "将…切成丁",
+      "tran_en": "to cut food into small square pieces"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "dices"
+    ],
+    "past": [
+      "diced"
+    ],
+    "done": [
+      "diced"
+    ],
+    "ing": [
+      "dicing"
+    ]
+  }
+}

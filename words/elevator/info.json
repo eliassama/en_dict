@@ -1,0 +1,186 @@
+{
+  "word": "elevator",
+  "ipa": {
+    "us": "ˈelɪveɪtə(r)",
+    "uk": "ˈelɪveɪtər"
+  },
+  "sentences": [
+    {
+      "en": "\" All right,'said Drouet, creaking off in his good shoes toward the elevator.",
+      "cn": "“ 好的, ” 杜洛埃说, 穿着双高级皮鞋.嘎吱嘎吱地朝电梯走去."
+    },
+    {
+      "en": "An elevator mechanic can work the machinery directly by turning this lever.",
+      "cn": "电梯修理工可以转动这根杠杆直接操作机器。"
+    },
+    {
+      "en": "Burke pushed the button and the elevator began its slow ascent.",
+      "cn": "伯克按动电钮;电梯开始缓慢上升."
+    },
+    {
+      "en": "He still could not throw any further light on why the elevator could have become jammed.",
+      "cn": "对于电梯为什么会卡住他仍旧给不出更多的解释。"
+    },
+    {
+      "en": "It boasted the largest grain elevator in the world.",
+      "cn": "它自称有世界上最大的谷仓."
+    },
+    {
+      "en": "It's on the fifth floor, so we'd better take the elevator.",
+      "cn": "那是在六楼上，我们最好乘电梯。"
+    },
+    {
+      "en": "Kelly eased off his pace as they reached the elevator.",
+      "cn": "当他们走到电梯前时，凯利放慢了步子。"
+    },
+    {
+      "en": "The elevator broke down and we had to walk up the tenth floor.",
+      "cn": "电梯坏了,我们只好走到十层."
+    },
+    {
+      "en": "The elevator creaked to a halt at the ground floor.",
+      "cn": "电梯嘎吱一声停在了一层。"
+    },
+    {
+      "en": "The elevator descended slowly to the ground floor.",
+      "cn": "电梯缓缓地降到底楼."
+    },
+    {
+      "en": "The elevator doesn't stop at floors 1, 2 and 3.",
+      "cn": "电梯在一 、 二、三楼不停."
+    },
+    {
+      "en": "The elevator is not operating properly.",
+      "cn": "这部电梯运转不正常."
+    },
+    {
+      "en": "The elevator shot upward.",
+      "cn": "电梯飞快地上升."
+    },
+    {
+      "en": "The rope broke, and the elevator plunged down to the ground.",
+      "cn": "缆绳断了, 电梯猛然掉到地面上."
+    },
+    {
+      "en": "We’ll have to take the elevator.",
+      "cn": "我们只好坐电梯了。"
+    },
+    {
+      "en": "With an elevator in the skyscraper , we can easily go up and down.",
+      "cn": "摩天楼里有电梯, 上下很方便."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "elevated",
+          "tran_cn": " 提高的；高尚的；严肃的；欢欣的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "elevated",
+          "tran_cn": " 高架铁路"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "elevated",
+          "tran_cn": " 提高；抬起；振奋；提拔（elevate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "elevate",
+          "tran_cn": " 提升；举起；振奋情绪等；提升…的职位"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "escalator",
+            "hoist",
+            "lift",
+            "moving",
+            "stairs"
+          ],
+          "tran_cn": "电梯,升降机"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "baggage elevator",
+      "tran_cn": "（运）行李电梯；（运）行李升降机"
+    },
+    {
+      "phrase": "bucket elevator",
+      "tran_cn": "斗式提升机；斗式运输机"
+    },
+    {
+      "phrase": "elevator car",
+      "tran_cn": "升降吊笼"
+    },
+    {
+      "phrase": "elevator lobby",
+      "tran_cn": "n. 电梯门厅，电梯前廊"
+    },
+    {
+      "phrase": "elevator music",
+      "tran_cn": "[美俚]电梯音乐（电梯里单调的轻音乐）"
+    },
+    {
+      "phrase": "elevator shaft",
+      "tran_cn": "升降机井，电梯井"
+    },
+    {
+      "phrase": "freight elevator",
+      "tran_cn": "货物升降机"
+    },
+    {
+      "phrase": "hydraulic elevator",
+      "tran_cn": "液压升降机；液压卷杨机；水力提升机"
+    },
+    {
+      "phrase": "passenger elevator",
+      "tran_cn": "乘客电梯"
+    },
+    {
+      "phrase": "service elevator",
+      "tran_cn": "（美）员工或送货人使用的电梯；服务电梯"
+    },
+    {
+      "phrase": "take the elevator",
+      "tran_cn": "乘电梯"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "电梯，谷仓，升降舵",
+      "tran_en": "a machine that takes people and goods from one level to another in a building"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "elevators"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "word": "simmer",
+  "ipa": {
+    "us": "ˈsɪmə(r)",
+    "uk": "ˈsɪmɚ"
+  },
+  "sentences": [
+    {
+      "en": "Allow the soup to simmer gently for ten minutes.",
+      "cn": "把汤小火煨上10分钟."
+    },
+    {
+      "en": "Bring the mixture to the boil, then let It'simmer for ten minutes.",
+      "cn": "把混合物煮至沸腾, 然后再用文火煮十分钟."
+    },
+    {
+      "en": "Bring the soup to the boil and allow it to simmer gently for about half an hour.",
+      "cn": "把汤煮开，然后用文火炖半小时左右。"
+    },
+    {
+      "en": "Combine the stock, whole onion and peppercorns in a pan and bring to a simmer.",
+      "cn": "将高汤、一整头洋葱和胡椒粒一起放在平底锅里，开小火炖。"
+    },
+    {
+      "en": "He better simmer down and get a grip on himself.",
+      "cn": "他最好冷静下来控制住自己的情绪."
+    },
+    {
+      "en": "He was beginning to simmer with rage.",
+      "cn": "他禁不住大为愤怒."
+    },
+    {
+      "en": "Her resentment began to simmer over.",
+      "cn": "她的怨恨要爆发了."
+    },
+    {
+      "en": "Put on a pan of water to simmer and gently poach the eggs.",
+      "cn": "放一锅水，用文火煮荷包蛋。"
+    },
+    {
+      "en": "Simmer down. He didn't intend to insult your son.",
+      "cn": "请息怒, 他不是有意要侮辱你的儿子."
+    },
+    {
+      "en": "Simmer over a very low flame until the rice is cooked to your liking.",
+      "cn": "用小火焖，直至把米饭焖到合你口味的程度。"
+    },
+    {
+      "en": "Simmer the sauce gently for 10 minutes.",
+      "cn": "把调味汁用文火炖10分钟。"
+    },
+    {
+      "en": "Simmer until mixture reduces.",
+      "cn": "用小火煮到汤汁收浓。"
+    },
+    {
+      "en": "The soup was left to simmer.",
+      "cn": "汤放在火上慢慢煮."
+    },
+    {
+      "en": "There's a great deal of suspicion and fear, and it's hard to say when all of this will simmer down.",
+      "cn": "人们疑心重重，惶恐不安，很难说这一切什么时候会平息下来。"
+    },
+    {
+      "en": "To reconstitute dried tomatoes, simmer in plain water until they are tender.",
+      "cn": "要泡开西红柿干，需要将其放在清水中用文火炖，直到它们变软。"
+    },
+    {
+      "en": "Uncover the pan and let the soup simmer.",
+      "cn": "揭开锅盖，让汤再慢火煨一下。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fume",
+            "rage",
+            "rant",
+            "rave",
+            "seethe",
+            "storm"
+          ],
+          "tran_cn": "沸腾;愤怒"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "boil",
+            "bubble",
+            "cook",
+            "fume",
+            "rage",
+            "rant",
+            "rave",
+            "seethe",
+            "stew",
+            "storm"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "stew"
+          ],
+          "tran_cn": "炖；内心充满；即将爆发"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "boil",
+            "cook",
+            "stew"
+          ],
+          "tran_cn": "烹调,炖煮"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "simmer down",
+      "tran_cn": "冷静下来：在激动或愤怒后变得平静"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "炖的状态或过程，即将沸腾的状态，勉强忍住的笑",
+      "tran_en": "when something is boiling gently"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "炖，慢煮",
+      "tran_en": "to boil gently, or to cook something slowly by boiling it gently"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "炖，内心充满，按捺着，酝酿",
+      "tran_en": "to boil gently, or to cook something slowly by boiling it gently"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "炖，使（液体）的温度维持在沸点或稍低于沸点的温度"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "simmers"
+    ],
+    "past": [
+      "simmered"
+    ],
+    "done": [
+      "simmered"
+    ],
+    "ing": [
+      "simmering"
+    ]
+  }
+}

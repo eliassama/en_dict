@@ -1,0 +1,172 @@
+{
+  "word": "employer",
+  "ipa": {
+    "us": "ɪmˈplɔɪə(r)",
+    "uk": "ɪmˈplɔɪər"
+  },
+  "sentences": [
+    {
+      "en": "An employer shoule be able to apprasise ability and character.",
+      "cn": "雇主应当有能力估计才能和性格."
+    },
+    {
+      "en": "He did his best to ingratiate himself with his employer.",
+      "cn": "他竭力奉承老板."
+    },
+    {
+      "en": "He had been sent to Rome by his employer.",
+      "cn": "他已被老板派往罗马。"
+    },
+    {
+      "en": "His employer greeted him with an effusion of relief.",
+      "cn": "他的雇主看到他大松一口气。"
+    },
+    {
+      "en": "His employer had described him as lacking in initiative and drive.",
+      "cn": "雇主说他缺乏进取心和干劲."
+    },
+    {
+      "en": "His monthly salary is paid into the bank by his employer.",
+      "cn": "他的月薪由雇主替他存入银行."
+    },
+    {
+      "en": "His tightfisted employer was unwilling to give him a raise.",
+      "cn": "他那吝啬的雇主不肯给他加薪."
+    },
+    {
+      "en": "IBM has always been a paternalistic employer.",
+      "cn": "国际商用机器公司一直是个家长作风很强的雇主。"
+    },
+    {
+      "en": "My employer deducted a pound from my wages this week.",
+      "cn": "我的雇主从我本周的工钱中扣除了一英镑."
+    },
+    {
+      "en": "My employer deducted ten pounds from my wages this week.",
+      "cn": "我的雇主从我本周的工钱中扣除了十英镑."
+    },
+    {
+      "en": "She cherished a deep resentment under the rose towards her employer.",
+      "cn": "她暗中对她的雇主怀恨在心."
+    },
+    {
+      "en": "She decided to sue her employer for wrongful dismissal.",
+      "cn": "她决定起诉雇主非法解雇她。"
+    },
+    {
+      "en": "She is very virulent about her former employer.",
+      "cn": "她对她过去的老板恨之入骨."
+    },
+    {
+      "en": "The police force is committed to being an equal opportunities employer.",
+      "cn": "警方承诺向所有警员提供均等机会。"
+    },
+    {
+      "en": "The shoe factory is the largest employer in this area.",
+      "cn": "这家制鞋厂是本地区最大的雇主。"
+    },
+    {
+      "en": "They said she had a servile attitude to her employer.",
+      "cn": "他们说她对她的老板阿谀逢迎。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "employable",
+          "tran_cn": " 适宜雇用的；有资格任职的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "employ",
+          "tran_cn": " 使用；雇用"
+        },
+        {
+          "word": "employable",
+          "tran_cn": " 可雇用者；符合最低雇用要求者"
+        },
+        {
+          "word": "employee",
+          "tran_cn": " 雇员；从业员工"
+        },
+        {
+          "word": "employment",
+          "tran_cn": " 使用；职业；雇用"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "employ",
+          "tran_cn": " 使用，采用；雇用；使忙于，使从事于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "boss",
+            "chief",
+            "company",
+            "contractor",
+            "corporation",
+            "director",
+            "executive",
+            "firm",
+            "leader",
+            "manager",
+            "owner",
+            "proprietor",
+            "skipper"
+          ],
+          "tran_cn": "雇用者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "patron"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "employer brand",
+      "tran_cn": "雇主品牌"
+    },
+    {
+      "phrase": "equal opportunity employer",
+      "tran_cn": "招工一视同仁的雇主"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "雇用者，雇主",
+      "tran_en": "a person, company, or organization that employs people"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "employers"
+    ]
+  }
+}

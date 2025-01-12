@@ -1,0 +1,124 @@
+{
+  "word": "disconcert",
+  "ipa": {
+    "us": "ˌdɪskənˈsɜ:t",
+    "uk": "ˌdɪskənˈsɜrt"
+  },
+  "sentences": [
+    {
+      "en": "His compliments disconcerted her a little.",
+      "cn": "他的恭维让她有点儿尴尬。"
+    },
+    {
+      "en": "I behaved with a politeness which seemed to disconcert him.",
+      "cn": "我礼仪周到,这似乎使他不知所措."
+    },
+    {
+      "en": "The events about to occur will disconcert others but not you.",
+      "cn": "即将发生的事件s会 搅乱别人而不是你."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disconcerted",
+          "tran_cn": " 不安的；惊慌的"
+        },
+        {
+          "word": "disconcerting",
+          "tran_cn": " 令人不安的；打扰人的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "disconcertingly",
+          "tran_cn": " 使人窘迫地；令人仓皇失措地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disconcertment",
+          "tran_cn": " 仓皇失措"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "disconcerted",
+          "tran_cn": " 使困惑；使仓皇失措（disconcert的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addle",
+            "demoralize",
+            "embarrass"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "destroy",
+            "undermine"
+          ],
+          "tran_cn": "使仓皇失措；使困惑；破坏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使仓皇失措；使困惑；破坏",
+      "tran_en": "to make someone feel slightly confused, embarrassed, or worried"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使不安，使为难，使慌张，使窘迫",
+      "tran_en": "to make someone feel slightly confused, embarrassed, or worried"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disconcerts"
+    ],
+    "past": [
+      "disconcerted"
+    ],
+    "done": [
+      "disconcerted"
+    ],
+    "ing": [
+      "disconcerting"
+    ],
+    "adv": [
+      "disconcertingly"
+    ],
+    "adj": [
+      " disconcerting",
+      "disconcerted"
+    ]
+  }
+}

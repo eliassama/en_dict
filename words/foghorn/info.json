@@ -1,0 +1,52 @@
+{
+  "word": "foghorn",
+  "ipa": {
+    "us": "ˈfɒghɔ:n",
+    "uk": "ˈfɔghɔrn"
+  },
+  "sentences": [
+    {
+      "en": "The foghorn boomed out its warning.",
+      "cn": "雾角鸣声示警."
+    },
+    {
+      "en": "The foghorn brayed all night.",
+      "cn": "雾号整夜发出刺耳的叫声."
+    },
+    {
+      "en": "The ship foghorn boomed out.",
+      "cn": "船上的浓雾号角发出呜呜声."
+    },
+    {
+      "en": "The ship's foghorn boomed out.",
+      "cn": "船上的浓雾信号角发出呜呜声."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "signal"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（大雾时发出响亮而低沉的声音以警告其他船只的）雾角，雾喇叭",
+      "tran_en": "a loud horn on a ship, used in fog to warn other ships of its position"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "foghorns"
+    ]
+  }
+}

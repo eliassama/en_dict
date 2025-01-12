@@ -1,0 +1,303 @@
+{
+  "word": "user",
+  "ipa": {
+    "us": "ˈjuːzə(r)",
+    "uk": "ˈjuːzər"
+  },
+  "sentences": [
+    {
+      "en": "a computer user",
+      "cn": "电脑用户"
+    },
+    {
+      "en": "a multi-user software licence",
+      "cn": "多用户共享软件许可"
+    },
+    {
+      "en": "an intravenous drug user",
+      "cn": "使用静脉注射的吸毒者"
+    },
+    {
+      "en": "Even the most security-conscious computer user is under constant threat from computer viruses.",
+      "cn": "即使是有强烈安全意识的计算机用户也时刻处于计算机病毒入侵的威胁下。"
+    },
+    {
+      "en": "It satisfies the user's requirements both functionally and emotionally.",
+      "cn": "它同时满足了用户在功能和情感上的需求。"
+    },
+    {
+      "en": "It's couched in such very user-unfriendly terminology.",
+      "cn": "文中使用了令用户敬而远之的术语。"
+    },
+    {
+      "en": "library users",
+      "cn": "图书馆的读者"
+    },
+    {
+      "en": "Managing disks and files is not a user goal.",
+      "cn": "管理磁盘和文件并不是用户的目标."
+    },
+    {
+      "en": "PLATFORM is an alliance of more than 80 rail-user groups.",
+      "cn": "PLATFORM公司是80多个铁路用户组的联盟。"
+    },
+    {
+      "en": "road users",
+      "cn": "道路使用者"
+    },
+    {
+      "en": "The company is the biggest user of oil.",
+      "cn": "该公司是最大的石油用户."
+    },
+    {
+      "en": "The new version of the program comes with a much better user interface than original.",
+      "cn": "新版程序的用户界面比原来程序的好得多."
+    },
+    {
+      "en": "The password allows the user to log into the system.",
+      "cn": "用戶用密码可进入系统."
+    },
+    {
+      "en": "The umbrella keeps the rains off the user.",
+      "cn": "雨伞使撑伞人免受雨淋."
+    },
+    {
+      "en": "The Windows allow a computer user to execute multiple programs simultaneously.",
+      "cn": "Windows允许计算机用户同时运行多个程序."
+    },
+    {
+      "en": "The Windows allows a computer user to execute multiple programs simultaneously.",
+      "cn": "Windows操作系统允许计算机用户同时运行多个程序."
+    },
+    {
+      "en": "This is an entirely computer operated system which is very user friendly.",
+      "cn": "这个系统完全由电脑操控，非常好用。"
+    },
+    {
+      "en": "You have to be able to describe things in a form that the end user can understand.",
+      "cn": "你必须以终端用户可以理解的方式描述产品。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "usable",
+          "tran_cn": " 可用的；合用的（等于useable）"
+        },
+        {
+          "word": "useable",
+          "tran_cn": " 可用的；便于使用的（等于usable）"
+        },
+        {
+          "word": "used",
+          "tran_cn": " 习惯的；二手的，使用过的"
+        },
+        {
+          "word": "useful",
+          "tran_cn": " 有用的，有益的；有帮助的"
+        },
+        {
+          "word": "useless",
+          "tran_cn": " 无用的；无效的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "usefully",
+          "tran_cn": " 有效地，有用地"
+        },
+        {
+          "word": "uselessly",
+          "tran_cn": " 无用地；无益地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "usability",
+          "tran_cn": " 合用，可用；可用性"
+        },
+        {
+          "word": "usableness",
+          "tran_cn": " 可用；使用方便"
+        },
+        {
+          "word": "usage",
+          "tran_cn": " 使用；用法；惯例"
+        },
+        {
+          "word": "use",
+          "tran_cn": " 使用；用途；发挥"
+        },
+        {
+          "word": "usefulness",
+          "tran_cn": " 有用；有效性；有益"
+        },
+        {
+          "word": "uselessness",
+          "tran_cn": " 无用，无效"
+        },
+        {
+          "word": "using",
+          "tran_cn": " 使用；利用"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "used",
+          "tran_cn": " 用；习惯（use的过去式）"
+        },
+        {
+          "word": "using",
+          "tran_cn": " 使用（use的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "use",
+          "tran_cn": " 使用，运用"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "use",
+          "tran_cn": " 利用；耗费"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "consumer buyer"
+          ],
+          "tran_cn": "[计]用户；使用者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "consumer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "computer user",
+      "tran_cn": "计算机用户；用电脑者"
+    },
+    {
+      "phrase": "end user",
+      "tran_cn": "最终用户"
+    },
+    {
+      "phrase": "graphical user interface",
+      "tran_cn": "图形用户界面"
+    },
+    {
+      "phrase": "registered user",
+      "tran_cn": "注册使用人"
+    },
+    {
+      "phrase": "terminal user",
+      "tran_cn": "终端机用户；联机检索订户"
+    },
+    {
+      "phrase": "user account",
+      "tran_cn": "用户帐户，用户帐号"
+    },
+    {
+      "phrase": "user authentication",
+      "tran_cn": "用户认证；用户身分鉴定"
+    },
+    {
+      "phrase": "user demand",
+      "tran_cn": "用户需求"
+    },
+    {
+      "phrase": "user experience",
+      "tran_cn": "用户体验"
+    },
+    {
+      "phrase": "user friendly",
+      "tran_cn": "[电]使用者亲和性"
+    },
+    {
+      "phrase": "user group",
+      "tran_cn": "用户组，用户集团"
+    },
+    {
+      "phrase": "user guide",
+      "tran_cn": "用户指南；使用手册"
+    },
+    {
+      "phrase": "user id",
+      "tran_cn": "用户名；用户标识"
+    },
+    {
+      "phrase": "user interaction",
+      "tran_cn": "用户交互；使用者互动"
+    },
+    {
+      "phrase": "user interface",
+      "tran_cn": "用户界面"
+    },
+    {
+      "phrase": "user login",
+      "tran_cn": "用户登录"
+    },
+    {
+      "phrase": "user manual",
+      "tran_cn": "使用手册"
+    },
+    {
+      "phrase": "user mode",
+      "tran_cn": "用户状态"
+    },
+    {
+      "phrase": "user name",
+      "tran_cn": "用户名"
+    },
+    {
+      "phrase": "user profile",
+      "tran_cn": "[计]用户预置文件"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "用户，使用者，吸毒成瘾者",
+      "tran_en": "someone or something that uses a product, service etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "users"
+    ]
+  }
+}

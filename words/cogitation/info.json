@@ -1,0 +1,97 @@
+{
+  "word": "cogitation",
+  "ipa": {
+    "us": "ˌkɒdʒɪ'teɪʃn",
+    "uk": "ˌkɑdʒɪˈteʃən"
+  },
+  "sentences": [
+    {
+      "en": "After much cogitation he rejected the offer.",
+      "cn": "做了仔细思考之后,他还是拒绝了邀请."
+    },
+    {
+      "en": "After much cogitation, we decided to move to the Isle of Wight.",
+      "cn": "经过慎重考虑后，我们决定搬到怀特岛去。"
+    },
+    {
+      "en": "But these words were not the product of intellectual cogitation; they were rooted in direct experience.",
+      "cn": "然而,这些言词并不会产生出智性思考; 它们是直接扎根在体验里面."
+    },
+    {
+      "en": "The existing problems were analyzed from two aspects of cogitation and research.",
+      "cn": "分析了在含蜡原油低温粘弹性认识上和研究中存在的问题."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cogitable",
+          "tran_cn": " 可以思考的；可由思考而得的"
+        },
+        {
+          "word": "cogitative",
+          "tran_cn": " 深思熟虑的；有思考力的"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "cogitate",
+          "tran_cn": " 思考；考虑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "cogitate",
+          "tran_cn": " 仔细考虑；谋划"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "meditation",
+            "soul-searching"
+          ],
+          "tran_cn": "深思；思考"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "consideration",
+            "speculation",
+            "thinking"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "仔细思考，计划，设计"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "cogitate"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "word": "valediction",
+  "ipa": {
+    "us": "ˌvælɪˈdɪkʃn",
+    "uk": "ˌvælɪˈdɪkʃən"
+  },
+  "sentences": [
+    {
+      "en": "He gave a touching valediction at graduation.",
+      "cn": "他在毕业典礼上发表了动人的告别辞."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "valedictory",
+          "tran_cn": " 告别的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "valedictorian",
+          "tran_cn": " 告别演说者；致告别辞者"
+        },
+        {
+          "word": "valedictory",
+          "tran_cn": " 告别辞"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "farewell address",
+            "farewell speech"
+          ],
+          "tran_cn": "告别演说；告别词"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "告别，告辞，告别辞",
+      "tran_en": "the act of saying goodbye, especially in a formal speech"
+    }
+  ],
+  "exchange": {}
+}

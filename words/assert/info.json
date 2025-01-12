@@ -1,0 +1,194 @@
+{
+  "word": "assert",
+  "ipa": {
+    "us": "əˈsɜːt",
+    "uk": "əˈsɜːrt"
+  },
+  "sentences": [
+    {
+      "en": "After having been subjugated to ambition, your maternal instincts are at last starting to assert themselves.",
+      "cn": "你那被雄心壮志压制已久的母性本能终于开始展现出来。"
+    },
+    {
+      "en": "After the war, the army made an attempt to assert its authority in the south of the country.",
+      "cn": "战后，军队试图在该国的南部地区维护其统治地位。"
+    },
+    {
+      "en": "But the spirit has stirred and the nation has begun to assert itself.",
+      "cn": "但是精神已经振奋,这个民族已开始显示自己."
+    },
+    {
+      "en": "French cooking, she asserted, is the best in the world.",
+      "cn": "她坚称法国菜是世界上最好的。"
+    },
+    {
+      "en": "I believe I may assert that they were really in possession of deep and growing happiness.",
+      "cn": "我相信我可以说他们真的得到深深的、与日俱增的幸福了."
+    },
+    {
+      "en": "I choose rather to hesitate my opinion than to assert it roundly.",
+      "cn": "我宁可犹疑地表示我的意见而不愿直率地断言这件事."
+    },
+    {
+      "en": "She continued to assert that she was innocent.",
+      "cn": "她仍然坚称自己无辜。"
+    },
+    {
+      "en": "The defendants, who continue to assert their innocence, are expected to appeal.",
+      "cn": "各被告仍然坚称无辜，预计会提起上诉。"
+    },
+    {
+      "en": "The enemy will invariably seek opportunities to assert himself.",
+      "cn": "敌人是一定要寻找机会表现他们自己的."
+    },
+    {
+      "en": "The extensive list of the assert methods can be found in the Simple Test documentation.",
+      "cn": "assert函数列表可以在简单测试手册里发现."
+    },
+    {
+      "en": "The laws of historical development will assert themselves.",
+      "cn": "历史发展的规律是不可抗拒的."
+    },
+    {
+      "en": "The Nordic countries have been quick to assert their interest in the development of the Baltic States.",
+      "cn": "北欧诸国很快就表示它们对波罗的海诸国的发展感兴趣。"
+    },
+    {
+      "en": "They are agitating to assert autonomy.",
+      "cn": "他们正在鼓吹实行自治。"
+    },
+    {
+      "en": "To assert this is to denigrate the effectiveness of the police.",
+      "cn": "坚持这一点就是贬低警方的办事能力."
+    },
+    {
+      "en": "to assert your independence/rights",
+      "cn": "维护独立 / 权利"
+    },
+    {
+      "en": "Unless the passion of it is to die down, it must somehow assert its universality.",
+      "cn": "除非爱情熄灭, 它会肯定自己的普遍性."
+    },
+    {
+      "en": "We assert that the Braun - Blanquet approach does not fall short.",
+      "cn": "我们坚信其它分类途径比之 Braun -Blanquet途径,仍然是有所不足."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "assertable",
+          "tran_cn": " 可断言的"
+        },
+        {
+          "word": "asserted",
+          "tran_cn": " 宣称的；声称的"
+        },
+        {
+          "word": "assertive",
+          "tran_cn": " 肯定的；独断的；坚定而自信的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "assertively",
+          "tran_cn": " 独断地；断言地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assertion",
+          "tran_cn": " 断言，声明；主张，要求；坚持"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "asserted",
+          "tran_cn": " 宣称；声称（assert的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "affirm",
+            "declare",
+            "impute",
+            "insist",
+            "on",
+            "pronounce",
+            "propose",
+            "say",
+            "state",
+            "tell",
+            "testify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "affirm",
+            "declare",
+            "insist",
+            "on",
+            "pronounce",
+            "state"
+          ],
+          "tran_cn": "断言,声称;坚持"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "assert oneself",
+      "tran_cn": "坚持自己的权利或意见"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "坚称，断言，维护，坚持，坚持主张，表现坚定",
+      "tran_en": "to state firmly that something is true"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 肯定地说， 断言； 维护， 坚持； 坚持己见",
+      "tran_en": "to state firmly that something is true"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "asserts"
+    ],
+    "past": [
+      "asserted"
+    ],
+    "done": [
+      "asserted"
+    ],
+    "ing": [
+      "asserting"
+    ]
+  }
+}

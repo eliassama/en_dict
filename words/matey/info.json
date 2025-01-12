@@ -1,0 +1,100 @@
+{
+  "word": "matey",
+  "ipa": {
+    "us": "ˈmeɪti",
+    "uk": "ˈmeti"
+  },
+  "sentences": [
+    {
+      "en": "Don't get too matey with him he's a rogue.",
+      "cn": "别和他太亲近了——他是个无赖."
+    },
+    {
+      "en": "I'm matey with him.",
+      "cn": "我跟他很要好."
+    },
+    {
+      "en": "No problem, matey.",
+      "cn": "没问题，伙计。"
+    },
+    {
+      "en": "She started off being quite matey with everyone.",
+      "cn": "她一上来就和每个人套近乎。"
+    },
+    {
+      "en": "The matey relation between the doctors and patients has active effect on preventing medical disputes.",
+      "cn": "融洽的医患关系对防范医疗纠纷起着积极的作用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mate",
+          "tran_cn": " 助手，大副；配偶；同事；配对物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "mate",
+          "tran_cn": " 交配；成配偶；紧密配合"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mate",
+          "tran_cn": " 使配对；使一致；结伴"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "friendly",
+            "amicable"
+          ],
+          "tran_cn": "友好的；易为人亲近的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "friend",
+            "partner",
+            "comrade",
+            "fellow",
+            "cobber"
+          ],
+          "tran_cn": "伙伴；朋友"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<非正，尤英>友好的，友善的",
+      "tran_en": "behaving as if you were someone’s friend"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "哥儿们；兄弟"
+    }
+  ],
+  "exchange": {}
+}

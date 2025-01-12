@@ -1,0 +1,96 @@
+{
+  "word": "cremate",
+  "ipa": {
+    "us": "krəˈmeɪt",
+    "uk": "ˈkriˌmet,krɪˈmet"
+  },
+  "sentences": [
+    {
+      "en": "Laowang explains: \" Combustion is cremate, degenerating is inhumation. \"",
+      "cn": "老王解释道: “ 燃烧就是火葬, 腐朽就是土葬. ”"
+    },
+    {
+      "en": "She wants Chris to be cremated.",
+      "cn": "她想要克里斯被火化。"
+    },
+    {
+      "en": "The business field including kiln, steam drying tower, lay - glaze line and cremate equipment.",
+      "cn": "业务范围包括生产窑炉 、 喷雾干燥塔 、 施釉线、烧成设备."
+    },
+    {
+      "en": "The corpse - selling operation was designed to help wealthy families to avoid having to cremate their relatives.",
+      "cn": "卖尸的目的是为了协助富裕家庭避免火化自己的亲属."
+    },
+    {
+      "en": "There are so many bodies undertakers want to cremate them in groups. They are all children.",
+      "cn": "这里的遇难者尸体太多了,以至于需要集中火化, 他们都是儿童."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "crematory",
+          "tran_cn": " 火葬的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cremation",
+          "tran_cn": " 火葬；火化"
+        },
+        {
+          "word": "crematorium",
+          "tran_cn": " 火葬场（等于crematory）"
+        },
+        {
+          "word": "crematory",
+          "tran_cn": " 火葬场；垃圾焚化场"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "incremate"
+          ],
+          "tran_cn": "火葬；烧成灰"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "火葬；烧成灰",
+      "tran_en": "to burn the body of a dead person at a funeral ceremony"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "火葬，火化，烧成灰"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "cremates"
+    ],
+    "past": [
+      "cremated"
+    ],
+    "done": [
+      "cremated"
+    ],
+    "ing": [
+      "cremating"
+    ]
+  }
+}

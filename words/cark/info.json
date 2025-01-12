@@ -1,0 +1,65 @@
+{
+  "word": "cark",
+  "ipa": {
+    "us": "kɑ:k",
+    "uk": "kɑk"
+  },
+  "sentences": [
+    {
+      "en": "In the cark he ran up against a stool.",
+      "cn": "他在黑暗中撞上丁一只凳子."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "worry",
+            "trouble",
+            "care",
+            "disturbance"
+          ],
+          "tran_cn": "烦恼；忧虑"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "trouble",
+            "worry"
+          ],
+          "tran_cn": "烦恼；忧虑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "pain"
+          ],
+          "tran_cn": "使…烦恼；使…忧虑"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "烦恼，忧虑"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（使）烦恼，（使）忧虑"
+    }
+  ],
+  "exchange": {}
+}

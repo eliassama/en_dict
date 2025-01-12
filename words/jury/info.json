@@ -1,0 +1,197 @@
+{
+  "word": "jury",
+  "ipa": {
+    "us": "ˈdʒʊəri",
+    "uk": "ˈdʒʊri"
+  },
+  "sentences": [
+    {
+      "en": "All the jury's eyes were on him as he continued.",
+      "cn": "在他继续陈述的时候，全体陪审员的目光都集中在他身上。"
+    },
+    {
+      "en": "But after nearly a week of deliberations, the jury remained deadlocked.",
+      "cn": "但是经过近一周的审议，陪审团仍然僵持不下。"
+    },
+    {
+      "en": "I am not surprised that the jury chose to award this novel the prize.",
+      "cn": "我并不惊讶于评委选择给这部小说颁奖。"
+    },
+    {
+      "en": "jury-rigged",
+      "cn": ""
+    },
+    {
+      "en": "Last month, a federal grand jury began mulling evidence in the case.",
+      "cn": "联邦大陪审团于上月开始仔细审查本案的证据。"
+    },
+    {
+      "en": "She displayed her wound to the twelve gentlemen of the jury.",
+      "cn": "她给陪审团的12位男士看了她的伤口。"
+    },
+    {
+      "en": "The judge should not have left it to the jury to decide.",
+      "cn": "法官本不该把案子交给陪审团来裁定。"
+    },
+    {
+      "en": "The jury agreed with her, but she lost the case on appeal.",
+      "cn": "陪审团同意她的说法，但在上诉时她败诉了。"
+    },
+    {
+      "en": "The jury found him not guilty.",
+      "cn": "陪审团裁定他无罪。"
+    },
+    {
+      "en": "The jury found that the NFL had violated antitrust laws.",
+      "cn": "陪审团裁决全国橄榄球联盟触犯了反垄断法。"
+    },
+    {
+      "en": "The jury has heard two vastly different accounts of what happened.",
+      "cn": "陪审团听到了对所发生事件的两种截然不同的陈述。"
+    },
+    {
+      "en": "The jury is out on whether or not this is true.",
+      "cn": "这是否属实仍未得出定论。"
+    },
+    {
+      "en": "the jury is still out on whether self-regulation by doctors is adequate.",
+      "cn": "关于医生的自律是否得当的问题仍然悬而未决。"
+    },
+    {
+      "en": "The jury took 23 hours to bring in its verdict.",
+      "cn": "陪审团花了23个小时才作出裁决。"
+    },
+    {
+      "en": "The jury will retire to consider its verdict today.",
+      "cn": "陪审团今天将退庭商议裁决结果。"
+    },
+    {
+      "en": "the members of the jury",
+      "cn": "陪审团成员"
+    },
+    {
+      "en": "the right to trial by jury",
+      "cn": "由陪审团进行审理的权利"
+    },
+    {
+      "en": "The six-person jury deliberated about two hours before returning with the verdict.",
+      "cn": "6人陪审团认真商议了约两个小时后作出了裁定。"
+    },
+    {
+      "en": "The trial will restart today with a new jury.",
+      "cn": "今天，会有新的陪审团重新开始审判。"
+    },
+    {
+      "en": "They have already given evidence before a grand jury in Washington.",
+      "cn": "他们已经在华盛顿的大陪审团前作证。"
+    },
+    {
+      "en": "This jury is expected to be sequestered for at least two months.",
+      "cn": "预计这个陪审团将至少被隔离两个月。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "juror",
+          "tran_cn": " 审查委员，陪审员"
+        },
+        {
+          "word": "juryman",
+          "tran_cn": " 陪审员"
+        },
+        {
+          "word": "jurywoman",
+          "tran_cn": " 女陪审员"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "quick-fix",
+            "lash-up"
+          ],
+          "tran_cn": "应急的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "awards",
+            "committee",
+            "judges",
+            "jury",
+            "prize"
+          ],
+          "tran_cn": "评奖团"
+        },
+        {
+          "words": [
+            "body",
+            "grand",
+            "inquest",
+            "jurors",
+            "jury",
+            "of",
+            "panel",
+            "petty"
+          ],
+          "tran_cn": "陪审团"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "grand jury",
+      "tran_cn": "[法]大陪审团"
+    },
+    {
+      "phrase": "judge and jury",
+      "tran_cn": "法官与陪审团"
+    },
+    {
+      "phrase": "jury duty",
+      "tran_cn": "在陪审团作陪审员时间；陪审员的义务"
+    },
+    {
+      "phrase": "jury trial",
+      "tran_cn": "陪审团审案"
+    },
+    {
+      "phrase": "the jury is out",
+      "tran_cn": "悬而未决"
+    },
+    {
+      "phrase": "trial by jury",
+      "tran_cn": "陪审审判"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "应急的",
+      "tran_en": "makeshift "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "陪审团，（展览会，竞赛等的）全体评审员，舆论的裁决，评判委员会",
+      "tran_en": "a group of 12 ordinary people who listen to the details of a case in court and decide whether someone is guilty or not"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "juries"
+    ]
+  }
+}

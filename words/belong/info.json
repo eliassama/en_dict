@@ -1,0 +1,188 @@
+{
+  "word": "belong",
+  "ipa": {
+    "us": "bɪˈlɒŋ",
+    "uk": "bɪˈlɔːŋ"
+  },
+  "sentences": [
+    {
+      "en": "Bacteria belong to the microorganism.",
+      "cn": "细菌属于微生物."
+    },
+    {
+      "en": "Does this house belong to Mr. Winter?",
+      "cn": "这幢房子是温特先生的 吗 ?"
+    },
+    {
+      "en": "He belongs to the golf club.",
+      "cn": "他是高尔夫球俱乐部的成员。"
+    },
+    {
+      "en": "He did not belong to his set of friends.",
+      "cn": "他与他那伙朋友不一样."
+    },
+    {
+      "en": "Hunting dogs belong in the country, not in the city.",
+      "cn": "猎犬宜养在乡间, 不宜养在城市."
+    },
+    {
+      "en": "I belong to the school of thought that favors radical change.",
+      "cn": "我属于激进派."
+    },
+    {
+      "en": "I really think that we belong together.",
+      "cn": "我真的觉得我们属于彼此。"
+    },
+    {
+      "en": "I'm so glad to see you back where you belong.",
+      "cn": "我真高兴看到你又回到了属于你自己的天地。"
+    },
+    {
+      "en": "Put the chair back where it belongs.",
+      "cn": "把椅子放回原处。"
+    },
+    {
+      "en": "The British and Dutch belong to the same race.",
+      "cn": "英国人和荷兰人是同一种族."
+    },
+    {
+      "en": "The house had belonged to her family for three or four generations.",
+      "cn": "这座房子属于她家已有三四代了。"
+    },
+    {
+      "en": "They belong to an older, more self-denying generation.",
+      "cn": "他们属于更加克己的上一代人。"
+    },
+    {
+      "en": "They need to feel they belong.",
+      "cn": "他们需要有归属感。"
+    },
+    {
+      "en": "To this class of substance belong mica, porcelain, quartz, glass, wood, etc.",
+      "cn": "属于这类物质的有云母 、 瓷器 、 石英 、 玻璃 、 木材等等."
+    },
+    {
+      "en": "We belong perpetually to each other for life or for death.",
+      "cn": "我们永远相依为命,同生死,共患难."
+    },
+    {
+      "en": "We belong to the new club.",
+      "cn": "我们是这个新俱乐部的成员."
+    },
+    {
+      "en": "Wheat, maize and oats belong to the grain group.",
+      "cn": "小麦, 玉米及燕麦都属谷类."
+    },
+    {
+      "en": "You don't belong here.",
+      "cn": "你不属于这里。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "belonging",
+          "tran_cn": " 所有物；行李；附属物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "be",
+            "by",
+            "held",
+            "owned"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "a",
+            "be",
+            "follower",
+            "member",
+            "of"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "go",
+            "inhere"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "appertain",
+            "be",
+            "of",
+            "part",
+            "pertain"
+          ],
+          "tran_cn": "属于...一部分"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "room",
+            "live",
+            "harbor"
+          ],
+          "tran_cn": "属于，应归入；居住；适宜；应被放置"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "belong in",
+      "tran_cn": "v. 应归入"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "属于，应在（某处），适合，适应",
+      "tran_en": "If something belongs to you, you own it"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 属于， 是…的成员； 归属于； 应被放置， 应归入； 适合， 合得来",
+      "tran_en": "If something belongs to you, you own it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "belongs"
+    ],
+    "past": [
+      "belonged"
+    ],
+    "done": [
+      "belonged"
+    ],
+    "ing": [
+      "belonging"
+    ],
+    "noun": [
+      "belonging"
+    ]
+  }
+}

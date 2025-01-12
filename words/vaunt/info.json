@@ -1,0 +1,115 @@
+{
+  "word": "vaunt",
+  "ipa": {
+    "us": "vɔ:nt",
+    "uk": "vɔnt, vɑnt"
+  },
+  "sentences": [
+    {
+      "en": "And the LORD said unto Gideon, The people that are with thee are too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me.",
+      "cn": "耶和华对基甸说，跟随你的人过多，我不能将米甸人交在他们手中，免得以色列人向我夸大，说，是我们自己的手救了我们。"
+    },
+    {
+      "en": "No matter how people vaunt an own great activity, they are usually just the outcomes of opportunity, rather than a great intention of result.",
+      "cn": "不管人们怎样夸耀自己的伟大行动，它们常常只是机遇的产物，而非一个伟大意向的结果。"
+    },
+    {
+      "en": "They pour forth words, they speak arrogantly; All who do wickedness vaunt themselves.",
+      "cn": "诗94:4他们絮絮叨叨 、 说傲慢的话. 一切作孽的人、都自己夸张."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "vauntingly",
+          "tran_cn": " 夸张地；吹嘘地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vaunter",
+          "tran_cn": " 自吹自擂的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "air",
+            "boast",
+            "glory",
+            "vapor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "boast about",
+            "boast oneself of"
+          ],
+          "tran_cn": "自夸；吹嘘"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "boast about",
+            "boast oneself of"
+          ],
+          "tran_cn": "自夸；吹嘘"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "自吹自擂，大话，吹牛"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "自夸",
+      "tran_en": "to describe, praise, or display (one's success, possessions, etc) boastfully "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "<文>吹嘘，自夸"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "吹牛，自吹，夸耀"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "vaunts"
+    ],
+    "past": [
+      "vaunted"
+    ],
+    "done": [
+      "vaunted"
+    ],
+    "ing": [
+      "vaunting"
+    ]
+  }
+}

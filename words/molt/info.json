@@ -1,0 +1,143 @@
+{
+  "word": "molt",
+  "ipa": {
+    "us": "məʊlt",
+    "uk": "molt"
+  },
+  "sentences": [
+    {
+      "en": "Finches start to molt at around twelve weeks of age.",
+      "cn": "燕雀大约在12个星期大小的时候开始换羽毛。"
+    },
+    {
+      "en": "He said emperor penguins can spend months at a time in the ocean, coming ashore only to molt or rest, but did not know what might have caused this particular one to become disoriented.",
+      "cn": "他说帝企鹅可以一次性在海里带上数月，上岸只是为了脱毛换羽和休息。 但不知道是什么造成了这只特别的企鹅变得分不清楚方向。"
+    },
+    {
+      "en": "Like all crustaceans, krill must molt in order to grow.",
+      "cn": "象所有甲壳纲, 磷虾必须蜕变为了增长."
+    },
+    {
+      "en": "Like other penguins, it undergoes an annual molt, replacing all its feathers in a few weeks.",
+      "cn": "和其他企鹅一样，它也经历一年一次的脱毛，在几周时间里替换掉所有的羽毛。"
+    },
+    {
+      "en": "Molt - inhibiting hormone ( MIH ) is a member of CHH ( crustacean hyperglycemic hormone ) family.",
+      "cn": "蜕皮抑制激素 ( molt -inhibitinghormone, MIH ) 属甲壳动物高血糖激素 ( crustaceanhyperglycemichormone,CHH ) 家族."
+    },
+    {
+      "en": "Small birds molt once or twice a year, and they replace their 9 or 10 primary flight feathers a few at a time over the course of a few weeks.",
+      "cn": "形体小的鸟儿一年脱羽一到两次。 它们有9到10只主要用于飞行的羽毛，鸟儿们一次更换几只，在几周的时间内它们就可以完成更换。"
+    },
+    {
+      "en": "They molt carapaces , I molt old body.",
+      "cn": "他们换壳, 我换身体."
+    },
+    {
+      "en": "This veterinary product is very effective in preventing animal molt.",
+      "cn": "这种兽药对于防治兽类掉毛很有效."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "molten",
+          "tran_cn": " 熔化的；铸造的；炽热的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "molting",
+          "tran_cn": " 蜕皮；换羽"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "molten",
+          "tran_cn": " 换毛；脱毛（molt的过去分词）"
+        },
+        {
+          "word": "molting",
+          "tran_cn": " 脱毛；换羽（molt的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "replacement of hair",
+            "desquamation"
+          ],
+          "tran_cn": "换毛；脱皮；换毛期"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "moult"
+          ],
+          "tran_cn": "脱毛；换毛"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "depilate"
+          ],
+          "tran_cn": "脱毛；换毛"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "换羽期，脱毛期"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "脱毛；换毛"
+    },
+    {
+      "pos": "vi&n",
+      "tran_cn": "脱毛,换毛"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "换羽，脱毛"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "molts"
+    ],
+    "past": [
+      "molted"
+    ],
+    "done": [
+      "molted"
+    ],
+    "ing": [
+      "molting"
+    ]
+  }
+}

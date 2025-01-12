@@ -1,0 +1,94 @@
+{
+  "word": "cauterize",
+  "ipa": {
+    "us": "ˈkɔ:təraɪz",
+    "uk": "'kɔtəraɪz"
+  },
+  "sentences": [
+    {
+      "en": "He cauterized the wound with a piece of red-hot iron.",
+      "cn": "他用一块烧红的烙铁来给伤口进行烧灼治疗。"
+    },
+    {
+      "en": "Laser beams may cauterize and heal ulcers.",
+      "cn": "激光束可以烧灼和愈合溃疡."
+    },
+    {
+      "en": "Lasers cauterize incisions , reducing bleeding and infection, sealing off nerve endings, and minimizing postoperative pain.",
+      "cn": "激光可以麻痹伤口, 减少流血和感染, 封闭神经末梢, 将术后痛苦降低至最小."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cauterant",
+          "tran_cn": " 腐蚀的；灼烧的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cauterant",
+          "tran_cn": " 腐蚀剂；烧灼物"
+        },
+        {
+          "word": "cauterization",
+          "tran_cn": " 腐蚀；烧灼；烧烙术"
+        },
+        {
+          "word": "cautery",
+          "tran_cn": " 腐蚀；烧灼；烙术；烧灼物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "eat",
+            "torpify"
+          ],
+          "tran_cn": "烧灼；腐蚀；使麻木（等于cauterise）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 烧灼以消毒或止血",
+      "tran_en": "If a doctor cauterizes a wound, he or she burns it with heat or with a chemical in order to close it up and prevent it from becoming infected"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 烧灼， 烙； 使麻木不仁",
+      "tran_en": "If a doctor cauterizes a wound, he or she burns it with heat or with a chemical in order to close it up and prevent it from becoming infected"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（用腐蚀性物质或烙铁）烧灼以消毒"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "cauterizes"
+    ],
+    "past": [
+      "cauterized"
+    ],
+    "done": [
+      "cauterized"
+    ],
+    "ing": [
+      "cauterizing"
+    ]
+  }
+}

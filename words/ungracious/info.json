@@ -1,0 +1,101 @@
+{
+  "word": "ungracious",
+  "ipa": {
+    "us": "ʌnˈgreɪʃəs",
+    "uk": "ʌnˈɡreʃəs"
+  },
+  "sentences": [
+    {
+      "en": "After Anna’s kindness to me, I don’t want to seem ungracious.",
+      "cn": "既然安娜已经向我示好，我也不想显得无礼。"
+    },
+    {
+      "en": "I was often rude and ungracious in refusing help.",
+      "cn": "我拒绝接受帮助的时候时常显得粗鲁无礼。"
+    },
+    {
+      "en": "It is ungracious of me not to acknowledge your help.",
+      "cn": "你大力帮助而我尚未表示谢意,十分失礼."
+    },
+    {
+      "en": "It would be ungracious not to accept your invitation.",
+      "cn": "盛情难却."
+    },
+    {
+      "en": "This curt sumMary is not meant to be ungracious.",
+      "cn": "简略的摘要并不意味着就要没吸引力."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ungraceful",
+          "tran_cn": " 无礼貌的；不优美的；没有风度的；下流的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "ungracefully",
+          "tran_cn": " 笨拙地，不雅地；没有风度地"
+        },
+        {
+          "word": "ungraciously",
+          "tran_cn": " 没教养地；不礼貌地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "discourteous",
+            "impolite",
+            "rude",
+            "uncivil",
+            "ungallant",
+            "unkind"
+          ],
+          "tran_cn": "无礼貌的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "caustic",
+            "discourteous",
+            "impolite",
+            "inhospitable",
+            "rude",
+            "uncivil",
+            "unkind"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "勉强的，愤恨的，不礼貌的，无礼",
+      "tran_en": "not polite or friendly"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "ungraciously"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "word": "salivate",
+  "ipa": {
+    "us": "ˈsælɪveɪt",
+    "uk": "ˈsæləˌvet"
+  },
+  "sentences": [
+    {
+      "en": "A showdown in Istanbul between Arsenal and Barcelona would certainly be a final to salivate.",
+      "cn": "在伊斯坦布尔阿森纳和巴赛罗那之间的对决,将是大家讨论的最后结局."
+    },
+    {
+      "en": "Any dog will salivate when presented with food.",
+      "cn": "所有狗看到食物都会流口水。"
+    },
+    {
+      "en": "Jake heard the meowing and immediately began to salivate.",
+      "cn": "杰克听到喵喵叫声后,立即开始分泌唾液."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "salivary",
+          "tran_cn": " 唾液的；分泌唾液的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "saliva",
+          "tran_cn": " 唾液；涎"
+        },
+        {
+          "word": "salivation",
+          "tran_cn": " 分泌唾液；流涎症；汞中毒"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "drool"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "run at the mouth"
+          ],
+          "tran_cn": "分泌唾液；流口水"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使流涎；使过量分泌唾液",
+      "tran_en": "to look at or show interest in something or someone in a way that shows you like or want them very much – used to show disapproval"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（过量地）分泌唾液"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "salivates"
+    ],
+    "past": [
+      "salivated"
+    ],
+    "done": [
+      "salivated"
+    ],
+    "ing": [
+      "salivating"
+    ],
+    "noun": [
+      "salivation"
+    ]
+  }
+}

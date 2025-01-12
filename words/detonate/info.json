@@ -1,0 +1,123 @@
+{
+  "word": "detonate",
+  "ipa": {
+    "us": "ˈdetəneɪt",
+    "uk": "ˈdɛtnˌet"
+  },
+  "sentences": [
+    {
+      "en": "Also used in combat are thudbugs, small thrown insects that detonate on impact.",
+      "cn": "它既能硬化为坚如磐石的棍棒, 也能平展为快如剃刀的利刃."
+    },
+    {
+      "en": "An engineer tried to detonate the mine.",
+      "cn": "一名工程师试图引爆地雷."
+    },
+    {
+      "en": "And this crisis will depend on many factors likely to detonate.",
+      "cn": "而这种危机的发生,会取决于许多可能的引爆因素."
+    },
+    {
+      "en": "France is expected to detonate its first nuclear device in the next few days.",
+      "cn": "法国预计将在几天后引爆其首枚核装置。"
+    },
+    {
+      "en": "It could take less than a bomb to detonate such a situation.",
+      "cn": "鉴于此,或许不用一颗导弹就能引发两国间当前的紧张局势了."
+    },
+    {
+      "en": "It is illegal to detonate any nuclear weapon.",
+      "cn": "引爆任何核武都是违法的."
+    },
+    {
+      "en": "One may not detonate a nuclear device in the city.",
+      "cn": "不可在该市引爆核子装置."
+    },
+    {
+      "en": "The warhead is set to detonate just above the target to maximise the damage.",
+      "cn": "弹头被设定正好在目标上方来引爆来获得损害最大值."
+    },
+    {
+      "en": "You can have them, but you just can't detonate them.",
+      "cn": "你可以拥有核武, 但就是不能将它们引爆."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "detonation",
+          "tran_cn": " 爆炸；爆炸声；爆发"
+        },
+        {
+          "word": "detonator",
+          "tran_cn": " 雷管；炸药；导火索"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "thunder"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "blow apart",
+            "to explode"
+          ],
+          "tran_cn": "引爆，爆炸"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "spring",
+            "shoot"
+          ],
+          "tran_cn": "使爆炸"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "引爆",
+      "tran_en": "to explode or to make something explode"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）爆炸，引爆，触发（一连串事件）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "detonates"
+    ],
+    "past": [
+      "detonated"
+    ],
+    "done": [
+      "detonated"
+    ],
+    "ing": [
+      "detonating"
+    ]
+  }
+}

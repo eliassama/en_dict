@@ -1,0 +1,176 @@
+{
+  "word": "reckoning",
+  "ipa": {
+    "us": "ˈrekənɪŋ",
+    "uk": "ˈrɛkənɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "At some time there would have to be a reckoning with her.",
+      "cn": "迟早非得跟她算帐不可."
+    },
+    {
+      "en": "By my reckoning we are miles from the factory.",
+      "cn": "我估计我们离开工厂有数英里."
+    },
+    {
+      "en": "By my reckoning we were seven or eight kilometres from Borj Mechaab.",
+      "cn": "据我估计我们离梅卡巴堡有七八公里远。"
+    },
+    {
+      "en": "By my reckoning, this short cut will save us five miles.",
+      "cn": "据我估计, 我们走这条近道可少走五英里."
+    },
+    {
+      "en": "By my reckoning, we have 12,000 clients.",
+      "cn": "据我估计，我们有1.2万名客户。"
+    },
+    {
+      "en": "In the final reckoning weakness has invariably tempted aggression.",
+      "cn": "说到底,软弱总是招引侵略."
+    },
+    {
+      "en": "Interpolation between satellite positions was initially carried out by dead - reckoning procedures.",
+      "cn": "卫星定位值间的内插最初用的是推算航行法."
+    },
+    {
+      "en": "Phelan is fit again and could come into the reckoning.",
+      "cn": "菲兰已经恢复了体力,有可能获胜."
+    },
+    {
+      "en": "Police officers on the case are reckoning to charge someone very shortly.",
+      "cn": "调查这个案子的警官正在考虑尽快起诉嫌疑人。"
+    },
+    {
+      "en": "Reckoning only with Bat Div Seven types they might have been invincible.",
+      "cn": "如果需要与之周旋的单是战列舰第七分舰队那类型的军舰,那么它们可能是无敌的."
+    },
+    {
+      "en": "The day of reckoning is coming for the water company directors.",
+      "cn": "跟自来水公司的主管们算账的日子就要到来了。"
+    },
+    {
+      "en": "The reckoning up of revenue and expenditure shows a small surplus.",
+      "cn": "收支相抵,略有剩余."
+    },
+    {
+      "en": "The shoplifter's day of reckoning came when he was charged with 30 cases of theft.",
+      "cn": "那个冒充顾客进商店行窃的扒手被指控盗窃30次,他遭报应的日子来临了."
+    },
+    {
+      "en": "The waiter gave me the reckoning.",
+      "cn": "侍者把帐单给了我."
+    },
+    {
+      "en": "They are typical of couples who plan a family without reckoning on the small fortune it will cost.",
+      "cn": "他们是那种典型的想要孩子但不考虑花销有多大的夫妻。"
+    },
+    {
+      "en": "Tomorrow is the day of reckoning; the accountant will tell me what my profits were and how much tax I'll have to pay.",
+      "cn": "明天就是算总账的日子,会计师会告诉我有多少盈利, 该交多少税."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reckoner",
+          "tran_cn": "计算手册；计算者；清算人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "reckon",
+          "tran_cn": "估计；计算；猜想，料想"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "reckon",
+          "tran_cn": "测算，估计；认为；计算"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "calculation",
+            "computation",
+            "valuation",
+            "count"
+          ],
+          "tran_cn": "[数]计算；清算；算帐"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addition",
+            "conclusion",
+            "enumeration",
+            "expectation",
+            "payment",
+            "punishment",
+            "understanding"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "computing",
+            "calculating",
+            "relying",
+            "feeling",
+            "figuring"
+          ],
+          "tran_cn": "[数]计算；认为；指望（reckon的ing形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "day of reckoning",
+      "tran_cn": "n. 结账日；最后审判日"
+    },
+    {
+      "phrase": "dead reckoning",
+      "tran_cn": "n. 航位推测法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "计算，账目，船只位置的推算，（尤指体育运动）属于可能胜出者行列之内",
+      "tran_en": "calculation that is based on a careful guess rather than on exact knowledge"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "<正>计算( reckon的现在分词)，猜想，考虑，<非正>思忖"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "reckonings"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "word": "evict",
+  "ipa": {
+    "us": "ɪˈvɪkt",
+    "uk": "ɪˈvɪkt"
+  },
+  "sentences": [
+    {
+      "en": "A problem occurred when the wizard attempted to evict this node from the sponsor cluster.",
+      "cn": "向导试图从发起群集退出此节点时出错."
+    },
+    {
+      "en": "An error occurred attempting to evict node'% 1 '.",
+      "cn": "试图退出节点'%1'时发生错误."
+    },
+    {
+      "en": "An error occurred attempting to evict this computer from the sponsor cluster.",
+      "cn": "试图从发起群集退出此计算机时出错."
+    },
+    {
+      "en": "Bill feels sorry for the people he has to evict, too.",
+      "cn": "要赶走这些人比尔自己心里也不好受."
+    },
+    {
+      "en": "Failed to reset the enumerator during evict clean - up.",
+      "cn": "退出清理过程中未能重置枚举器."
+    },
+    {
+      "en": "Failed to reset the enumerator during evict clean - up. This issue can be resolved using Cluster Administrator.",
+      "cn": "退出过程中未能重置枚举器. 这个问题可以通过使用群集管理器解决."
+    },
+    {
+      "en": "He threaten to take the tenant to court or to have the tenant evict.",
+      "cn": "他威胁将租户送上法庭或逐出."
+    },
+    {
+      "en": "It uses complex network analysis to identify where stealth attacks are taking place and provides the tools organisations need to evict the perpetrators and shore up the network against future threats.",
+      "cn": "它使用复杂的网络分析，以确定哪些地方正在发生的隐蔽攻击，并提供必要的工具驱逐攻击者，支持网络抵御未来的威胁。"
+    },
+    {
+      "en": "One cleric resigned over plans to evict the protesters forcibly, arguing that the Church should have been more supportive of their cause.",
+      "cn": "一位因为计划强行驱逐示威者而辞职的神职人员辩解说国教会应当给予他们更多的支持。"
+    },
+    {
+      "en": "The family saw off attempts by Britain's Royal Navy to evict them and also an attempt in 1978 by a group of German and Dutch businessmen to seize Sealand by force.",
+      "cn": "但英国海军却多次试图将贝茨家族从“海国”驱逐出去。 1978年，一群来自德国和荷兰的商人曾试图通过武力占领这块“领土”。"
+    },
+    {
+      "en": "The landlord can evict a tenant who doesn't pay the rent.",
+      "cn": "房东可以赶走不付租金的房客."
+    },
+    {
+      "en": "The lessor can evict the lessee for failure to pay rent.",
+      "cn": "出租人可驱逐不付租金的承租人."
+    },
+    {
+      "en": "The local council cut electricity to the camp after failing to evict 3 the white squatters.",
+      "cn": "在驱逐白人游民不成后,当地委员会对营区断电."
+    },
+    {
+      "en": "The police refused to evict them. The army refused to help.",
+      "cn": "警察拒绝驱逐他们, 军队也拒绝行动."
+    },
+    {
+      "en": "They had employed heavies to evict shop squatters from neighbouring sites.",
+      "cn": "他们雇了一些彪形大汉，将附近私自占点的商贩都赶走了。"
+    },
+    {
+      "en": "They had to evict some gypsies today and I had to go and fence the area off.",
+      "cn": "他们今天必须驱逐一些吉普赛人，我得去把那个区域圈起来。"
+    },
+    {
+      "en": "They were evicted from their apartment after their mother became addicted to drugs.",
+      "cn": "他们的母亲染上毒瘾后，他们就被逐出了他们的公寓。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "eviction",
+          "tran_cn": " 逐出；赶出；收回"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dispossess",
+            "expel",
+            "oust",
+            "out",
+            "turn"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "expel",
+            "oust",
+            "out",
+            "turn"
+          ],
+          "tran_cn": "逐出;驱逐"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "驱逐, 逐出(租户), 收回(租屋、租地等)",
+      "tran_en": "to tell someone legally that they must leave the house they are living in"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "依法驱逐（房客等），依法收回（房屋等）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "evicts"
+    ],
+    "past": [
+      "evicted"
+    ],
+    "done": [
+      "evicted"
+    ],
+    "ing": [
+      "evicting"
+    ],
+    "noun": [
+      "eviction"
+    ]
+  }
+}

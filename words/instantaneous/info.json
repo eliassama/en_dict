@@ -1,0 +1,196 @@
+{
+  "word": "instantaneous",
+  "ipa": {
+    "us": "ˌɪnstənˈteɪniəs",
+    "uk": "ˌɪnstənˈteɪniəs"
+  },
+  "sentences": [
+    {
+      "en": "A device that senses and stores the instantaneous value of an analog signal.",
+      "cn": "一种检测和存储模拟信号瞬时值的设备."
+    },
+    {
+      "en": "An instantaneous and strong impulse moved him to battle with his desperate fate.",
+      "cn": "一股迅疾而强有力的冲动促使他要向坎坷的命运奋斗."
+    },
+    {
+      "en": "Death was almost instantaneous.",
+      "cn": "当时生命垂危。"
+    },
+    {
+      "en": "Death was instantaneous, eg in a fatal accident.",
+      "cn": "当即死去(如在致命事故中)."
+    },
+    {
+      "en": "For instantaneous over - voltage protects FAX, TEL, MODEM, and ADSL.",
+      "cn": "传真机, 电话机, 调制解调器, ADSL作浪涌保护."
+    },
+    {
+      "en": "He had an instantaneous response.",
+      "cn": "他立刻作了反应."
+    },
+    {
+      "en": "His hospitality was instantaneous and all-embracing.",
+      "cn": "无论何时无论对谁他都是很好客的。"
+    },
+    {
+      "en": "It can monitor the instantaneous velocities at specified points in a flowing stream.",
+      "cn": "它能在流动的流注中的指定点上监测瞬时速度."
+    },
+    {
+      "en": "It represents the instantaneous traces of the ordinary and extraordinary wavefronts.",
+      "cn": "它表示寻常光波前和非常光波前的瞬时轨迹."
+    },
+    {
+      "en": "modern methods of instantaneous communication",
+      "cn": "现代的即时通信方法"
+    },
+    {
+      "en": "She accidentally swallowed the poison and death was instantaneous.",
+      "cn": "她意外地吞下了毒药,当即就死去了."
+    },
+    {
+      "en": "So, the second method is almost always combined with the first, by checking the fields in instantaneous and then doing a batch validation before the form is submitted.",
+      "cn": "所以，第二种方法几乎总是和第一种方法结合在一起，先对域进行瞬时检查，然后在表单被提交之前执行批处理确认。"
+    },
+    {
+      "en": "The instantaneous gamma rays are produced almost entirely before the weapon has completely blown apart.",
+      "cn": "瞬时γ射线差不多是在武器完全飞散之前就全部产生了."
+    },
+    {
+      "en": "The nodes implement function by adopting host - guest in testing instantaneous field.",
+      "cn": "瞬态场的测试节点采用上、下位机模式实现其功能."
+    },
+    {
+      "en": "The reaction of the audience was instantaneous.",
+      "cn": "观众即刻有了反应."
+    },
+    {
+      "en": "The subscipt i refers to instantaneous valves.",
+      "cn": "脚注i指瞬时值."
+    },
+    {
+      "en": "What is the instantaneous center of revolution?",
+      "cn": "瞬时转动中心在 哪里 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "instant",
+          "tran_cn": " 立即的；紧急的；紧迫的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "instantaneously",
+          "tran_cn": " 即刻；突如其来地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "instancy",
+          "tran_cn": " 迫切；紧急；瞬间"
+        },
+        {
+          "word": "instant",
+          "tran_cn": " 瞬间；立即；片刻"
+        },
+        {
+          "word": "instantaneousness",
+          "tran_cn": " 瞬间；即刻"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "momentary",
+            "flashy"
+          ],
+          "tran_cn": "瞬间的；即时的；猝发的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "expeditious",
+            "lightning",
+            "momentary",
+            "summary"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "instantaneous center",
+      "tran_cn": "瞬时中心，瞬心"
+    },
+    {
+      "phrase": "instantaneous current",
+      "tran_cn": "瞬时电流"
+    },
+    {
+      "phrase": "instantaneous frequency",
+      "tran_cn": "瞬时频率"
+    },
+    {
+      "phrase": "instantaneous power",
+      "tran_cn": "瞬时功率"
+    },
+    {
+      "phrase": "instantaneous speed",
+      "tran_cn": "瞬时速度"
+    },
+    {
+      "phrase": "instantaneous value",
+      "tran_cn": "瞬时值"
+    },
+    {
+      "phrase": "instantaneous velocity",
+      "tran_cn": "瞬时速度"
+    },
+    {
+      "phrase": "instantaneous voltage",
+      "tran_cn": "瞬时电压"
+    },
+    {
+      "phrase": "instantaneous water heater",
+      "tran_cn": "即热式热水炉；快热式热水器；瞬时水加热器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "瞬间的，即刻的，猝发的",
+      "tran_en": "happening immediately"
+    },
+    {
+      "pos": "adv",
+      "tran_cn": "瞬间，霎时"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "instantaneously"
+    ]
+  }
+}

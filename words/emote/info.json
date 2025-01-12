@@ -1,0 +1,85 @@
+{
+  "word": "emote",
+  "ipa": {
+    "us": "ɪˈməʊt",
+    "uk": "ɪˈmoʊt"
+  },
+  "sentences": [
+    {
+      "en": "Siskind encourages the children to emote to the music as they dance.",
+      "cn": "西斯金德鼓励孩子们跳舞时要根据音乐表现出情感。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "emotional",
+          "tran_cn": " 情绪的；易激动的；感动人的"
+        },
+        {
+          "word": "emotionless",
+          "tran_cn": " 没有情感的；不露情感的"
+        },
+        {
+          "word": "emotive",
+          "tran_cn": " 感情的；情绪的；表现感情的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "emotionally",
+          "tran_cn": " 感情上；情绪上；令人激动地；情绪冲动地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "emotion",
+          "tran_cn": " 情感；情绪"
+        },
+        {
+          "word": "emotionalism",
+          "tran_cn": " 感情主义；诉诸感情；主情主义"
+        },
+        {
+          "word": "emotionality",
+          "tran_cn": " 情绪性；感动性"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "<美口>夸张地作为, 表现感情",
+      "tran_en": "to clearly show emotion, especially when you are acting"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "<书>强烈地表现[表露]感情"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "emotes"
+    ],
+    "past": [
+      "emoted"
+    ],
+    "done": [
+      "emoted"
+    ],
+    "ing": [
+      "emoting"
+    ]
+  }
+}

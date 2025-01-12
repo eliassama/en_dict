@@ -1,0 +1,65 @@
+{
+  "word": "evaluator",
+  "ipa": {
+    "us": "ɪ'væljʊeɪtə(r)",
+    "uk": "ɪ'væljʊeɪtə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Applicant: Please complete this section before submitting to evaluator.",
+      "cn": "申请人: 请在交给推荐人之前填写完此部分."
+    },
+    {
+      "en": "Encourage everyone to be a critical evaluator.",
+      "cn": "鼓励每一位团体成员都要做评论家."
+    },
+    {
+      "en": "How the patent evaluator thinks: The inventor and evaluator protocol is described.",
+      "cn": "专利评估者如何思考: 介绍发明人和评估人协议."
+    },
+    {
+      "en": "The expression evaluator uses the normal dominance rules.",
+      "cn": "表达式计算器使用正常域控制规则."
+    },
+    {
+      "en": "The test shows that the cocoon evaluator can meet the demand of fast and accurate evaluation.",
+      "cn": "试验表明,评茧仪能够满足快速、准确评茧分级的要求."
+    },
+    {
+      "en": "We will create a poker-hand evaluator, a slot-machine generator, and a casino bank, allowing you to practice some trickier PHP logic.",
+      "cn": "我们将创建一个扑克牌求值程序、老虎机生成器及博彩银行，允许您实践一些更棘手的 PHP 逻辑。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "evaluation",
+          "tran_cn": " 评价；[审计] 评估；估价；求值"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "discriminator"
+          ],
+          "tran_cn": "评估员；[电子]鉴别器；求值程序"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "求值程序"
+    }
+  ],
+  "exchange": {}
+}

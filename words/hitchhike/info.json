@@ -1,0 +1,122 @@
+{
+  "word": "hitchhike",
+  "ipa": {
+    "us": "ˈhɪtʃhaɪk",
+    "uk": "ˈhɪtʃˌhaɪk"
+  },
+  "sentences": [
+    {
+      "en": "Basically it comes down to whether you hitchhike or go by bus.",
+      "cn": "基本的一点是你搭便车去还是乘公共汽车去?"
+    },
+    {
+      "en": "Don't worry, we'll just hitchhike back.",
+      "cn": "没关系的, 会有车来接我们回去的."
+    },
+    {
+      "en": "Neff hitchhiked to New York during his Christmas holiday.",
+      "cn": "内夫在圣诞节休假期间搭免费便车去了纽约。"
+    },
+    {
+      "en": "No bother go back to the camp . If you get lost, just hitchhike home.",
+      "cn": "如果你迷路了, 就不用麻烦再回来了,直接拦便车回家吧!"
+    },
+    {
+      "en": "Travel is cheap if you fly, and easy and free if you hitchhike.",
+      "cn": "如果你飞,旅行很廉宜, 和容易和免费如果你搭便车."
+    },
+    {
+      "en": "Two men hitchhike towards Los Angeles a 1937 photo.",
+      "cn": "1937年,两个想搭便车到洛杉矶的男人."
+    },
+    {
+      "en": "When money has a tangible value, a lot of emotional things hitchhike on its coattails.",
+      "cn": "金钱具有实实在在的价值, 因此很多有关情感的东西和它搭上了关系."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hitchhiker",
+          "tran_cn": " 搭便车的旅行者；顺便插入的广告"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "free-riding",
+            "pick-up"
+          ],
+          "tran_cn": "搭便车（旅行）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "thumb a ride",
+            "free ride"
+          ],
+          "tran_cn": "搭便车"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "require",
+            "exact",
+            "desire",
+            "call for",
+            "request for sth"
+          ],
+          "tran_cn": "要求（搭便车）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "搭便车（旅行）"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "免费搭乘他人便车",
+      "tran_en": "If you hitchhike, you travel by getting rides from passing vehicles without paying"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "<美><口>作搭便车式的旅行"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "hitchhikes"
+    ],
+    "past": [
+      "hitchhiked"
+    ],
+    "done": [
+      "hitchhiked"
+    ],
+    "ing": [
+      "hitchhiking"
+    ],
+    "noun": [
+      "hitchhiker"
+    ]
+  }
+}

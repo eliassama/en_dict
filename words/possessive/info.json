@@ -1,0 +1,148 @@
+{
+  "word": "possessive",
+  "ipa": {
+    "us": "pəˈzesɪv",
+    "uk": "pəˈzɛsɪv"
+  },
+  "sentences": [
+    {
+      "en": "'My'is a possessive adjective.",
+      "cn": "my 是个所有格形容词."
+    },
+    {
+      "en": "Apostrophe: Sign of omission of letter or to show possessive.",
+      "cn": "省略号: 在英文字内表示略去一些字母或表示拥有的符号."
+    },
+    {
+      "en": "Danny could be very jealous and possessive about me.",
+      "cn": "丹尼很爱吃醋，对我的占有欲很强。"
+    },
+    {
+      "en": "He has a strong possessive instinct.",
+      "cn": "他有强烈的占有欲."
+    },
+    {
+      "en": "He sometimes felt as if the family's bolt was shot, their possessive instinct dying out.",
+      "cn": "他有时觉得这个家族的干劲已经耗尽, 他们的占有本能已经在消逝."
+    },
+    {
+      "en": "He used to ring his possessive mother several times a day.",
+      "cn": "他母亲控制欲很强，过去他常常一天给她打好几次电话。"
+    },
+    {
+      "en": "He was very possessive towards her.",
+      "cn": "他对她的占有欲很强."
+    },
+    {
+      "en": "It is often used with a possessive adjective.",
+      "cn": "这一词常与所有格的形容词连用."
+    },
+    {
+      "en": "Love is not being possessive.",
+      "cn": "爱是从不把对方当作财产占有."
+    },
+    {
+      "en": "My son is very possessive about [ of ] his mother.",
+      "cn": "我的儿子想 独占 他的母亲."
+    },
+    {
+      "en": "People were very possessive about their coupons.",
+      "cn": "人们很想独占礼券。"
+    },
+    {
+      "en": "Possessive adjectives are used to modify nouns that follow the possessive adjectives.",
+      "cn": "拥有格形容词是用作修饰其后跟随的名词."
+    },
+    {
+      "en": "Possessive personal pronouns are used to show ownership or possession.",
+      "cn": "拥有格代名词用作表达物件之拥有权."
+    },
+    {
+      "en": "Some parents are too possessive of their children.",
+      "cn": "有些父母过分要求子女百依百顺。"
+    },
+    {
+      "en": "The possessive instinct never stands still.",
+      "cn": "占有欲是从来不会停止不前的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "possession",
+          "tran_cn": " 拥有；财产；领地；自制；着迷"
+        },
+        {
+          "word": "possessiveness",
+          "tran_cn": " 占有；自制力"
+        },
+        {
+          "word": "possessor",
+          "tran_cn": " 持有人；所有人"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "possess",
+          "tran_cn": " 控制；使掌握；持有；迷住"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "any",
+            "having"
+          ],
+          "tran_cn": "占有的；所有的；所有格的；占有欲强的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acquisitive",
+            "greedy",
+            "selfish"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "所有（权）的，占有的，所属关系的，所有格的",
+      "tran_en": "wanting someone to have feelings of love or friendship for you and no one else"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "<语>所有格，占有，占有欲",
+      "tran_en": "an adjective,  pronoun  , or form of a word that shows that something belongs to someone or something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "possessives"
+    ],
+    "adv": [
+      "possessively"
+    ],
+    "noun": [
+      "possessiveness"
+    ]
+  }
+}

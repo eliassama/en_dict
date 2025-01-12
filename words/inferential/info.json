@@ -1,0 +1,113 @@
+{
+  "word": "inferential",
+  "ipa": {
+    "us": "ˌɪnfə'renʃəl",
+    "uk": "ˌɪnfə'renʃəl"
+  },
+  "sentences": [
+    {
+      "en": "Finally, people like to stereotype. This is an inferential process based on limited data.",
+      "cn": "最后, 人们喜欢刻板地给人“穿靴戴帽”, 这是基于有限的资料所做的推理."
+    },
+    {
+      "en": "In this article I will focus on data collected using a nominal scale of measurement and the inferential techniques appropriate for nominal data.",
+      "cn": "在本文中，我将主要讨论通过使用测量的定类尺度收集的数据，以及适用于定类数据的推论技术。"
+    },
+    {
+      "en": "It can give an objective account of the inferential nature of human communication.",
+      "cn": "它能客观地描述、解释交际过程中的推理过程."
+    },
+    {
+      "en": "The bottom tray usually is not the best place to make an inferential measurement of composition.",
+      "cn": "一般说来,盘子的背面并不是用来推断构成成分的最佳位置."
+    },
+    {
+      "en": "The validity of inferential form is the key conception of logic.",
+      "cn": "推理形式的有效性是逻辑学的核心概念."
+    },
+    {
+      "en": "There might be a market for inferential power like that, especially if it could be yoked to some of the autonomous semi-intelligent agents that are already buzzing around on the Internet.",
+      "cn": "如果像那样的话，推论力也可能有市场，尤其是如果它能跟一些在互联网上已经流传开的、自发的半智能力量结合在一起时更可能有市场。"
+    },
+    {
+      "en": "This paper is an attempt to give inferential reasoning and solution to thin film vibration equation.",
+      "cn": "试图对薄膜振动方程加以推导和求解."
+    },
+    {
+      "en": "This paper presents an intelligent point temperature scanning - monitoring system based on the fuzzy - inferential decision.",
+      "cn": "本文介绍了一种基于模糊推理决策的智能化多点温度巡回监测系统."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inference",
+          "tran_cn": " 推理；推论；推断"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "infer",
+          "tran_cn": " 推断；作出推论"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "infer",
+          "tran_cn": " 推断；推论"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "theoretical",
+            "concluded",
+            "reasoning"
+          ],
+          "tran_cn": "推理的；推论的；根据推理的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "circumstantial",
+            "connotation",
+            "consequent",
+            "derivative"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inferential statistics",
+      "tran_cn": "推论统计；推论统计学"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可以推论的，据推论得出的",
+      "tran_en": "of, relating to, or derived from inference "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,149 @@
+{
+  "word": "drowse",
+  "ipa": {
+    "us": "draʊz",
+    "uk": "draʊz"
+  },
+  "sentences": [
+    {
+      "en": "I was drowsing in front of the television when you called.",
+      "cn": "我正坐在电视机前打瞌睡，恰好你打电话来。"
+    },
+    {
+      "en": "Oh, no! Looks like they catch me drowse.",
+      "cn": "喔, 糟了. 他们好像发觉我在打瞌睡."
+    },
+    {
+      "en": "She was no sensualist, longing to drowse sleepily in the lap of luxury.",
+      "cn": "她不是个肉欲主义者,想昏昏沉沉地过纸醉金迷的生活."
+    },
+    {
+      "en": "Teach him to read, teach to midnight, chen Xian drowse, the head came up against screen.",
+      "cn": "教他读书, 教至半夜, 陈咸瞌睡, 头碰到了屏风."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "drowsy",
+          "tran_cn": " 昏昏欲睡的；沉寂的；催眠的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "drowsily",
+          "tran_cn": " 昏昏欲睡地；懒洋洋地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "drowsiness",
+          "tran_cn": " 睡意；困倦；假寐"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sleepiness",
+            "zizz"
+          ],
+          "tran_cn": "瞌睡；假寐"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "sleep",
+            "slumber"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "catnap",
+            "doze",
+            "drift",
+            "nap",
+            "off"
+          ],
+          "tran_cn": "昏昏沉沉地消磨"
+        },
+        {
+          "words": [
+            "droop",
+            "languish"
+          ],
+          "tran_cn": "瞌睡,打盹儿"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "doze off",
+            "be in a daze"
+          ],
+          "tran_cn": "打瞌睡；发呆"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "瞌睡；假寐"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "打瞌睡；发呆",
+      "tran_en": "to be in a light sleep or to feel as though you are almost asleep"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": "瞌睡",
+      "tran_en": "to be in a light sleep or to feel as though you are almost asleep"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "打瞌睡"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "drowses"
+    ],
+    "past": [
+      "drowsed"
+    ],
+    "done": [
+      "drowsed"
+    ],
+    "ing": [
+      "drowsing"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "word": "anaesthetize",
+  "ipa": {
+    "us": "əˈni:sθətaɪz",
+    "uk": "ˈənɛsθɪˌtaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Objective To discuss the reasons for complications caused by indwellingcatheter after anaesthetize and prevention measures.",
+      "cn": "目的探讨麻醉后留置尿管引起并发症的原因及预防措施."
+    },
+    {
+      "en": "Sad time, I start take the wine to anaesthetize the oneself.",
+      "cn": "伤心的时候, 我开始拿酒来麻醉自己."
+    },
+    {
+      "en": "So in the boring and overripe days, I use wine to anaesthetize my self.",
+      "cn": "因此在乏味和太熟天, 我用酒麻醉我的自已."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "anaesthetic",
+          "tran_cn": " 麻醉的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "anaesthesia",
+          "tran_cn": " 麻醉；麻木；感觉缺失（等于anesthesia）"
+        },
+        {
+          "word": "anaesthetic",
+          "tran_cn": " 麻醉剂；麻药"
+        },
+        {
+          "word": "anaesthetist",
+          "tran_cn": " 麻醉师（等于anesthetist）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "anaesthetise",
+          "tran_cn": " 使麻醉"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "paralyze"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bedead",
+            "anesthetize"
+          ],
+          "tran_cn": "使麻醉；使麻木"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使麻醉；使麻木",
+      "tran_en": "to give someone an anaesthetic so that they do not feel pain"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使麻醉，使麻木"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "anaesthetizes"
+    ],
+    "past": [
+      "anaesthetized"
+    ],
+    "done": [
+      "anaesthetized"
+    ],
+    "ing": [
+      "anaesthetizing"
+    ]
+  }
+}

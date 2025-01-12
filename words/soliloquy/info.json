@@ -1,0 +1,93 @@
+{
+  "word": "soliloquy",
+  "ipa": {
+    "us": "səˈlɪləkwi",
+    "uk": "səˈlɪləkwi"
+  },
+  "sentences": [
+    {
+      "en": "A literary composition in the form of a soliloquy.",
+      "cn": "一种文体,通过长长的独白展现人物的思想和感情."
+    },
+    {
+      "en": "As he made this dreary soliloquy, he had cantered out of Rotten Row into the park.",
+      "cn": "他一边这么闷闷不乐地自言自语,一边离开了罗登道,来到公园里."
+    },
+    {
+      "en": "Generally, operas start with a soliloquy of an actor introducing himself on his first appearance.",
+      "cn": "通常戏的开头都会有几句定场白."
+    },
+    {
+      "en": "Hamlet's soliloquy is probably the most famous in English drama.",
+      "cn": "哈姆雷特的独白在英国戏剧中大概是最出名的了."
+    },
+    {
+      "en": "Such expressions in literary works are called as soliloquy.",
+      "cn": "这种现象在文学作品中的表现就是独白."
+    },
+    {
+      "en": "The soliloquy was an Elizabethan dramatic convention.",
+      "cn": "独白是伊丽莎白时代戏剧的惯常手法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "soliloquize",
+          "tran_cn": " 自言自语；独白"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "soliloquize",
+          "tran_cn": " 自言自语地说"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "monologue"
+          ],
+          "tran_cn": "独白；自言自语"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "speech"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "自言自语，（戏剧中的）独白",
+      "tran_en": "a speech in a play in which a character, usually alone on the stage, talks to himself or herself so that the  audience  knows their thoughts"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "soliloquies"
+    ],
+    "verb": [
+      "soliloquize"
+    ]
+  }
+}

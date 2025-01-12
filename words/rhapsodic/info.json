@@ -1,0 +1,84 @@
+{
+  "word": "rhapsodic",
+  "ipa": {
+    "us": "ræp'sɒdɪk",
+    "uk": "ræpˈsɑdɪk"
+  },
+  "sentences": [
+    {
+      "en": "...a rhapsodic letter about the birth of her first baby.",
+      "cn": "...一封有关她第一个孩子出生的幸福洋溢的信。"
+    },
+    {
+      "en": "The rejection of their pay claim was given a less than rhapsodic reception by the miners.",
+      "cn": "矿工要求提高工资遭到拒绝而甚为恼火."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rhapsody",
+          "tran_cn": " 狂想曲；狂诗"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "rhapsodize",
+          "tran_cn": " 写狂想文；作狂想曲"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rhapsodize",
+          "tran_cn": " 狂热地说；把…写成狂想诗文"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "crazy",
+            "wild",
+            "enthusiastic"
+          ],
+          "tran_cn": "狂想曲的；狂热的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "lyric"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "狂想的，狂想曲的"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "rhapsody"
+    ]
+  }
+}

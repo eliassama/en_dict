@@ -1,0 +1,87 @@
+{
+  "word": "decimate",
+  "ipa": {
+    "us": "ˈdesɪmeɪt",
+    "uk": "ˈdesɪmeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Devastators should be used to decimate infantry and attack units ranges.",
+      "cn": "毁灭战舰应该被用于远距离大批屠杀步兵和攻击单位."
+    },
+    {
+      "en": "Many adversities decimate the fluke numbers.",
+      "cn": "许多很不利的因素可使吸虫数量减少十分之一."
+    },
+    {
+      "en": "The banshees and attack the colossi as the terran ground forces decimate the protoss infantry.",
+      "cn": "隐匿的女妖轰炸机消灭了巨像,并配合地面部队消灭了异能者地面部队."
+    },
+    {
+      "en": "The banshees and attack the colossi the terran ground forces decimate the protoss infantry.",
+      "cn": "隐匿的女妖轰炸机消灭了巨像,并配合地面部队消灭了神族地面部队."
+    },
+    {
+      "en": "The population has been decimated by disease.",
+      "cn": "疾病导致大量人口死亡。"
+    },
+    {
+      "en": "The young blue - skinned commander was able to decimate the intruders despite inferior weapons and numbers.",
+      "cn": "虽然在武器的数量和质量上都处于劣势,但这个年轻的蓝皮肤指挥官还是给入侵者造成重创."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "decimation",
+          "tran_cn": " 大批杀害；每十人杀一人；大量毁灭"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "butcher",
+            "lessen"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "十中抽一，取十分之一；大批杀害",
+      "tran_en": "to destroy a large part of something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "十中抽一，大批杀害"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "decimates"
+    ],
+    "past": [
+      "decimated"
+    ],
+    "done": [
+      "decimated"
+    ],
+    "ing": [
+      "decimating"
+    ],
+    "noun": [
+      "decimation"
+    ]
+  }
+}

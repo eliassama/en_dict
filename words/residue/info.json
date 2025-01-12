@@ -1,0 +1,189 @@
+{
+  "word": "residue",
+  "ipa": {
+    "us": "ˈrezɪdjuː",
+    "uk": "ˈrezɪduː"
+  },
+  "sentences": [
+    {
+      "en": "A residue can build up on the hair shaft, leaving the hair limp and dull looking.",
+      "cn": "残留物会积聚在头发上，使头发看起来软塌塌的，而且毫无光泽。"
+    },
+    {
+      "en": "A small residue is retained tenaciously by the surface.",
+      "cn": "少量的残留物被表面牢固地保留着."
+    },
+    {
+      "en": "All gravimetric measurements require some sort of crucible or dish to hold the residue or precipitate.",
+      "cn": "所有重量分析需要某种坩埚或器皿保留残渣或沉淀物."
+    },
+    {
+      "en": "Always using the same shampoo means that a residue can build up on the hair.",
+      "cn": "总是用同一种洗发水就意味着某种残留物会在头发上越积越多。"
+    },
+    {
+      "en": "Both forms are readily gasified by electrical discharge without leaving any tangible residue.",
+      "cn": "两种形态都易被放电气化而不剩任何可触察的残余."
+    },
+    {
+      "en": "Coal is destructively distilled leaving a solid residue, coke.",
+      "cn": "煤被干馏后剩下固体残余物:焦炭."
+    },
+    {
+      "en": "In general, an inorganic residue is much more detrimental to the operation of the waveguide.",
+      "cn": "一般, 无机残留物对波导使用的危害要大得多."
+    },
+    {
+      "en": "Mary scraped the residue of food from the plates before putting them under water.",
+      "cn": "玛丽在把盘子放入水之前先刮去上面的食物残渣."
+    },
+    {
+      "en": "Pesticide persistence beyond the critical period for control leads to residue problems.",
+      "cn": "农药一旦超过控制的临界期,就会导致残留问题."
+    },
+    {
+      "en": "Residue and vapour are withdrawn continuously from the boiler.",
+      "cn": "残液和蒸气不断从再沸器抽出."
+    },
+    {
+      "en": "Rinse off any soap residue.",
+      "cn": "冲净残留的肥皂。"
+    },
+    {
+      "en": "The city is a residue of Britain's era of commercial and industrial supremacy.",
+      "cn": "伦敦商业区是英国工商业全盛时期的残余."
+    },
+    {
+      "en": "The flies leave a sticky residue on crops.",
+      "cn": "苍蝇在庄稼上留下黏糊糊的分泌物。"
+    },
+    {
+      "en": "The low - boiling inflammable part and the high - boiling residue both had to be discarded as useless.",
+      "cn": "低沸点 易燃部分和高沸点之残渣油均须弃置用."
+    },
+    {
+      "en": "The residue is progressively enriched in carbon.",
+      "cn": "残留部分愈来愈富含碳质."
+    },
+    {
+      "en": "Their difference is a quadratic residue of 17.",
+      "cn": "它们的差是17的平方剩余."
+    },
+    {
+      "en": "We need only to find the right medicine to dissolve the residue.",
+      "cn": "我们只需要找到对症的药来溶解这些残留物就可以了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "residual",
+          "tran_cn": " 剩余的；残留的"
+        },
+        {
+          "word": "residuary",
+          "tran_cn": " 剩余的，残余的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "residual",
+          "tran_cn": " 剩余；残渣"
+        },
+        {
+          "word": "residuary",
+          "tran_cn": " 残余；偏差"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "balance",
+            "dregs",
+            "leftovers",
+            "remains",
+            "rest",
+            "sediment"
+          ],
+          "tran_cn": "剩余;残渣"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "balance",
+            "cinders",
+            "debris",
+            "dirt",
+            "dregs",
+            "remainder",
+            "remains",
+            "remnant",
+            "rest",
+            "sediment"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "amino acid residue",
+      "tran_cn": "氨基酸残基"
+    },
+    {
+      "phrase": "amount of residue",
+      "tran_cn": "残留量"
+    },
+    {
+      "phrase": "carbon residue",
+      "tran_cn": "焦炭残渣；炭渣"
+    },
+    {
+      "phrase": "filter residue",
+      "tran_cn": "[化]滤渣"
+    },
+    {
+      "phrase": "oil residue",
+      "tran_cn": "油渣，油残留物；残油"
+    },
+    {
+      "phrase": "pesticide residue",
+      "tran_cn": "[药]农药残留（量）"
+    },
+    {
+      "phrase": "quadratic residue",
+      "tran_cn": "二次剩余"
+    },
+    {
+      "phrase": "solid residue",
+      "tran_cn": "固体残渣"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "残余，残渣，余渣，残余物，[法]剩余财产，[林]废材",
+      "tran_en": "a substance that remains on a surface, in a container etc and cannot be removed easily, or that remains after a chemical process"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "residues"
+    ]
+  }
+}

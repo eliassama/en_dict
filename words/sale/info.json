@@ -1,0 +1,285 @@
+{
+  "word": "sale",
+  "ipa": {
+    "us": "seɪl",
+    "uk": "seɪl"
+  },
+  "sentences": [
+    {
+      "en": "arms sales to Iran",
+      "cn": "对伊朗的军火销售"
+    },
+    {
+      "en": "booksellers normally order books on a sale-or-return basis.",
+      "cn": "书商通常根据剩货包退的原则定购图书。"
+    },
+    {
+      "en": "Car salesmen will often bring down the price rather than lose a sale (= fail to sell something ) .",
+      "cn": "汽车推销员常常宁愿降价也不愿失去一笔生意。"
+    },
+    {
+      "en": "cars for sale at reasonable prices.",
+      "cn": "价位合理的待售小轿车。"
+    },
+    {
+      "en": "Harvey gets a $50 commission every time he makes a sale (= sells something as part of his job ) .",
+      "cn": "哈维每做成一笔生意可得到50美元的佣金。"
+    },
+    {
+      "en": "He blended in with the crowd at the art sale.",
+      "cn": "他混入了艺术品拍卖会的人群中。"
+    },
+    {
+      "en": "He bought a sports jacket on sale at Gowings Men's Store.",
+      "cn": "他在高英斯男装店买了一件打折的运动上衣。"
+    },
+    {
+      "en": "He was disgusted with the stodgy pizzas on sale in London.",
+      "cn": "他讨厌吃伦敦卖的难以下咽的比萨饼。"
+    },
+    {
+      "en": "I'll sell at a discount in return for a speedy sale.",
+      "cn": "为了尽快售出，我会打折销售。"
+    },
+    {
+      "en": "In 1991, the house was advertised for sale at $49,000.",
+      "cn": "1991年，这座房子登广告出售，售价为49,000美元。"
+    },
+    {
+      "en": "Our real bete noire is the car boot sale.",
+      "cn": "我们最烦那些用汽车后备箱摆摊卖旧货的。"
+    },
+    {
+      "en": "She was ringing up her sale on an ancient cash register.",
+      "cn": "她正用一台老掉牙的收银机记账。"
+    },
+    {
+      "en": "The beans are then ground and packaged for sale as ground coffee.",
+      "cn": "然后那些咖啡豆被磨碎，包装好作为咖啡粉出售。"
+    },
+    {
+      "en": "the November issue is on sale now.",
+      "cn": "11月号的杂志现在已经在发售了。"
+    },
+    {
+      "en": "The painting was bought by dealers at the Christie's sale.",
+      "cn": "这幅油画在佳士得的拍卖会上被交易商拍走。"
+    },
+    {
+      "en": "The sale is a big coup for the auction house.",
+      "cn": "这笔交易是该拍卖行的一大成功之举。"
+    },
+    {
+      "en": "The trio are part of Sotheby's sale of Works of Art.",
+      "cn": "该三件套是苏富比艺术品拍卖会上的一件拍品。"
+    },
+    {
+      "en": "There are many boats, new and used, for sale.",
+      "cn": "有很多新旧不一的船待售。"
+    },
+    {
+      "en": "There was a camera for sale in the window.",
+      "cn": "橱窗里有一架相机待售。"
+    },
+    {
+      "en": "There was a Leica camera for sale in the window.",
+      "cn": "橱窗里有架莱卡相机待售。"
+    },
+    {
+      "en": "Your old clothes will be gratefully accepted by jumble sale organisers.",
+      "cn": "旧货义卖的组织者会感激地领受您捐赠的旧衣物。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "salable",
+          "tran_cn": " 畅销的；适于销售的；价格适当的"
+        },
+        {
+          "word": "saleable",
+          "tran_cn": " 畅销的；可供出售的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "salability",
+          "tran_cn": " 畅销；出售"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bargain",
+            "clearance",
+            "cut",
+            "discount",
+            "fire",
+            "markdown",
+            "pricing",
+            "reduction",
+            "sale",
+            "tag"
+          ],
+          "tran_cn": "减价,打折扣,大减价"
+        },
+        {
+          "words": [
+            "auction",
+            "bargaining",
+            "exchange",
+            "marketing",
+            "selling",
+            "trade",
+            "trading",
+            "traffic",
+            "transaction",
+            "transfer",
+            "vending",
+            "vendue"
+          ],
+          "tran_cn": "卖,售,做交易,交换,拍卖"
+        },
+        {
+          "words": [
+            "buyers",
+            "consumers",
+            "customers",
+            "demand",
+            "market",
+            "purchasers"
+          ],
+          "tran_cn": "市场,需求,买家,消费者,顾客"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bargain"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "(up) for sale",
+      "tran_cn": "供出售；待售"
+    },
+    {
+      "phrase": "after sale service",
+      "tran_cn": "售后服务"
+    },
+    {
+      "phrase": "auction sale",
+      "tran_cn": "拍卖"
+    },
+    {
+      "phrase": "clearance sale",
+      "tran_cn": "清货贱卖；清仓大减价"
+    },
+    {
+      "phrase": "conditions of sale",
+      "tran_cn": "销售条件"
+    },
+    {
+      "phrase": "contract of sale",
+      "tran_cn": "买卖契约；销货合同"
+    },
+    {
+      "phrase": "direct sale",
+      "tran_cn": "直销；直接销售；传销"
+    },
+    {
+      "phrase": "domestic sale",
+      "tran_cn": "内销"
+    },
+    {
+      "phrase": "for sale",
+      "tran_cn": "出售；待售"
+    },
+    {
+      "phrase": "garage sale",
+      "tran_cn": "宅前旧货出售；在私家车库进行的家中旧货出售"
+    },
+    {
+      "phrase": "hot sale",
+      "tran_cn": "热销产品"
+    },
+    {
+      "phrase": "on sale",
+      "tran_cn": "供出售；上市"
+    },
+    {
+      "phrase": "point of sale",
+      "tran_cn": "销售点"
+    },
+    {
+      "phrase": "promote the sale",
+      "tran_cn": "促销推销"
+    },
+    {
+      "phrase": "put on sale",
+      "tran_cn": "发售"
+    },
+    {
+      "phrase": "put up for sale",
+      "tran_cn": "拿出销售"
+    },
+    {
+      "phrase": "retail sale",
+      "tran_cn": "零售销售"
+    },
+    {
+      "phrase": "sale agent",
+      "tran_cn": "销售代理"
+    },
+    {
+      "phrase": "sale in domestic market",
+      "tran_cn": "内销"
+    },
+    {
+      "phrase": "sale of property",
+      "tran_cn": "财产的变卖；出售物业"
+    },
+    {
+      "phrase": "sale or return",
+      "tran_cn": "(英)剩货包退，可退货经售"
+    },
+    {
+      "phrase": "short sale",
+      "tran_cn": "n. [商]卖空"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "销售（量），特价销售，拍卖",
+      "tran_en": "when you sell something"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "特价销售",
+      "tran_en": "when you sell something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sales"
+    ]
+  }
+}

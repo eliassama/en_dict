@@ -1,0 +1,230 @@
+{
+  "word": "rental",
+  "ipa": {
+    "us": "ˈrentl",
+    "uk": "ˈrentl"
+  },
+  "sentences": [
+    {
+      "en": "A friend drove her to Atlanta, where she picked up a rental car.",
+      "cn": "一个朋友开车送她去了亚特兰大，在那里她租到了一辆车。"
+    },
+    {
+      "en": "As the car rental industry polarizes, business will go to the bigger companies.",
+      "cn": "随着汽车租赁业的两极分化，生意将流向较大的公司。"
+    },
+    {
+      "en": "I received a bill for the car rental from my credit card company.",
+      "cn": "我收到一张我的信用卡公司寄来的汽车租金账单。"
+    },
+    {
+      "en": "I wrote a letter to the car rental agency, explaining what had happened.",
+      "cn": "我给租车行写了一封信说明发生的情况。"
+    },
+    {
+      "en": "I've paid this month's television rental.",
+      "cn": "我已付了这个月的电视租金."
+    },
+    {
+      "en": "In the early 1990s, it was easy to get into the rental business.",
+      "cn": "20世纪90年代早期，进入租赁行业很容易。"
+    },
+    {
+      "en": "It has been let at an annual rental of 393,000.",
+      "cn": "它以每年39.3万英镑的价格被租了出去。"
+    },
+    {
+      "en": "Repairs and improvements can lead to higher rental rates.",
+      "cn": "修缮后可以提高租价。"
+    },
+    {
+      "en": "Telephone charges include line rental.",
+      "cn": "电话费包括线路租用费。"
+    },
+    {
+      "en": "The yearly rental of her house is 2400 yuan.",
+      "cn": "她这房子年租金是2400元."
+    },
+    {
+      "en": "There are hefty charges across the board for one-way rental.",
+      "cn": "各处对单程租赁的收费都很高。"
+    },
+    {
+      "en": "There is a kind of interesting services in Britain - rental services.",
+      "cn": "在英国租借服务中有一种很有趣的服务."
+    },
+    {
+      "en": "They traced the van to a New Jersey car rental agency.",
+      "cn": "他们查出面包车属于新泽西州的一家租车行。"
+    },
+    {
+      "en": "This rental payment appropriates some of the consumer surplus.",
+      "cn": "这种租金付款占有了一些消费剩余."
+    },
+    {
+      "en": "Video rental is usually £3.",
+      "cn": "录像带的租金通常是3英镑。"
+    },
+    {
+      "en": "We can organise car rental from Chicago O'Hare Airport.",
+      "cn": "我们可以安排提供从芝加哥奥黑尔机场出发的租车服务。"
+    },
+    {
+      "en": "We didn't worry because they were always so prompt with their rental payment.",
+      "cn": "我们不担心，因为他们交租金总是非常及时。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rentable",
+          "tran_cn": " 可租的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rent",
+          "tran_cn": " 租金"
+        },
+        {
+          "word": "rente",
+          "tran_cn": " （法）年金，年收入；长期公债，公债利息"
+        },
+        {
+          "word": "renter",
+          "tran_cn": " 承租人；佃户；房东；（英）影片出租商"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "rent",
+          "tran_cn": " 租；出租"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rent",
+          "tran_cn": " 出租；租用；租借"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "leasehold"
+          ],
+          "tran_cn": "租赁的；收取租金的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "letting",
+            "leasing"
+          ],
+          "tran_cn": "租金收入，租金；租赁"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "vacancy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "car rental",
+      "tran_cn": "汽车出租"
+    },
+    {
+      "phrase": "equipment rental",
+      "tran_cn": "设备租用"
+    },
+    {
+      "phrase": "rental agency",
+      "tran_cn": "租凭公司"
+    },
+    {
+      "phrase": "rental agreement",
+      "tran_cn": "租约；租赁合同"
+    },
+    {
+      "phrase": "rental fee",
+      "tran_cn": "租赁费"
+    },
+    {
+      "phrase": "rental house",
+      "tran_cn": "租房；出租公司"
+    },
+    {
+      "phrase": "rental housing",
+      "tran_cn": "租赁房屋"
+    },
+    {
+      "phrase": "rental income",
+      "tran_cn": "租赁收入"
+    },
+    {
+      "phrase": "rental rate",
+      "tran_cn": "租金率"
+    },
+    {
+      "phrase": "rental return",
+      "tran_cn": "租金收益"
+    },
+    {
+      "phrase": "rental value",
+      "tran_cn": "租赁价值，租税价"
+    },
+    {
+      "phrase": "residential rental",
+      "tran_cn": "房租"
+    },
+    {
+      "phrase": "video rental",
+      "tran_cn": "录影带租借"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "租用的，出租的",
+      "tran_en": "You use rental to describe things that are connected with the renting out of goods, properties, and services"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "租费，租金额，租用，出租",
+      "tran_en": "the money that you pay to use a car, television, or other machine over a period of time"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rentals"
+    ]
+  }
+}

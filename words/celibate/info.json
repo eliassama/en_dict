@@ -1,0 +1,88 @@
+{
+  "word": "celibate",
+  "ipa": {
+    "us": "ˈselɪbət",
+    "uk": "ˈsɛləbɪt"
+  },
+  "sentences": [
+    {
+      "en": "...the U.S.A.'s biggest group of celibates.",
+      "cn": "…美国最大的独身宗教群体。"
+    },
+    {
+      "en": "I've been celibate for the past six months.",
+      "cn": "我已禁欲六个月。"
+    },
+    {
+      "en": "The instinct of the celibate warned him to hold back.",
+      "cn": "单身汉的本能告诫他回头是岸."
+    },
+    {
+      "en": "The Pope bluntly told the world's priests yesterday to stay celibate.",
+      "cn": "教皇昨天直言全世界的神父都应该禁欲。"
+    },
+    {
+      "en": "The Roman Catholic Church insists priests remain celibate and has ruled out letting them marry.",
+      "cn": "罗马天主教会规定,牧师必须保持独身,不允许结婚."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "celibacy",
+          "tran_cn": " 独身"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "stoical"
+          ],
+          "tran_cn": "独身的；禁欲的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bachelor",
+            "monastic",
+            "pure",
+            "single"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "独身者的",
+      "tran_en": "not married and not having sex, especially because of your religious beliefs"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "独身者",
+      "tran_en": "A celibate is someone who is celibate"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "celibates"
+    ],
+    "noun": [
+      "celibacy"
+    ]
+  }
+}

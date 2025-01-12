@@ -1,0 +1,217 @@
+{
+  "word": "jelly",
+  "ipa": {
+    "us": "ˈdʒeli",
+    "uk": "ˈdʒeli"
+  },
+  "sentences": [
+    {
+      "en": "a peanut butter and jelly sandwich",
+      "cn": "一份花生酱加果酱三明治"
+    },
+    {
+      "en": "Do you think this jelly's firm enough to eat yet ?",
+      "cn": "你以为这果子冻已经硬得可以吃了 吗 ?"
+    },
+    {
+      "en": "frogs’ eggs floating in a protective jelly",
+      "cn": "包在胶质卵囊里浮在水中的蛙卵"
+    },
+    {
+      "en": "health food products containing royal jelly",
+      "cn": "含蜂王浆的保健食品"
+    },
+    {
+      "en": "I had two peanut butter and jelly sandwiches.",
+      "cn": "我吃了两个放了花生酱和果酱的三明治。"
+    },
+    {
+      "en": "jelly and ice cream",
+      "cn": "果冻冰激凌"
+    },
+    {
+      "en": "One's legs feel like jelly.",
+      "cn": "两腿发软."
+    },
+    {
+      "en": "raspberry jelly",
+      "cn": "山莓果冻"
+    },
+    {
+      "en": "Royal jelly is effective in treating nervous exhaustion.",
+      "cn": "蜂皇精治神经衰弱很有效."
+    },
+    {
+      "en": "Some have referred to it by the unappetizing name \" capital jelly \".",
+      "cn": "某些人把它称为 “ 资本浆糊 ” 这一倒胃口的名字."
+    },
+    {
+      "en": "The jelly firmed quickly.",
+      "cn": "果冻迅速坚硬起来."
+    },
+    {
+      "en": "The jelly has not set yet.",
+      "cn": "冷冻尚未凝固."
+    },
+    {
+      "en": "They removed royal jelly for medicinal use.",
+      "cn": "他们把蜂王浆取出用作药品."
+    },
+    {
+      "en": "We had toast and jelly at breakfast.",
+      "cn": "我们早餐吃的是烤面包和果冻."
+    },
+    {
+      "en": "You can buy a formulation containing royal jelly, pollen and vitamin C.",
+      "cn": "可以买一种含蜂王浆、花粉和维生素C的配方产品。"
+    },
+    {
+      "en": "You may leave the jelly in a cool place to harden it.",
+      "cn": "你可以把果子冻放在阴凉的地方,让它凝固."
+    },
+    {
+      "en": "You've cleared all the jelly - fish out of the way.",
+      "cn": "你已把海蜇都赶走了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "jellied",
+          "tran_cn": "涂凝胶物的；凝成胶状的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "jell",
+          "tran_cn": "果子冻"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "jellied",
+          "tran_cn": "变成胶冻；使成胶质（jelly的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "jell",
+          "tran_cn": "定形；凝结"
+        },
+        {
+          "word": "jellify",
+          "tran_cn": "成凝胶状；成果子冻"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "jell",
+          "tran_cn": "使…成胶状；使…定形"
+        },
+        {
+          "word": "jellify",
+          "tran_cn": "使成凝胶状；使成果子冻"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "conserves",
+            "jam",
+            "jell",
+            "marmalade",
+            "preserves"
+          ],
+          "tran_cn": "果冻,酱"
+        },
+        {
+          "words": [
+            "aspic",
+            "blancmange",
+            "gelatin",
+            "gelatinoid",
+            "pudding"
+          ],
+          "tran_cn": "肉冻胶状物,奶冻,布丁"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cohere",
+            "thicken"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "agglutinate"
+          ],
+          "tran_cn": "成胶状"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fruit jelly",
+      "tran_cn": "果冻；水果冻；果子冻"
+    },
+    {
+      "phrase": "jelly fish",
+      "tran_cn": "水母；海蜇；[口]软弱无力的人"
+    },
+    {
+      "phrase": "petroleum jelly",
+      "tran_cn": "凡士林（等于petrolatum）；矿油"
+    },
+    {
+      "phrase": "royal jelly",
+      "tran_cn": "蜂王浆，王浆"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "果冻，胶状物，肉冻，果酱",
+      "tran_en": "a soft sweet food made from fruit juice and gelatin"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "成胶状",
+      "tran_en": "to jellify "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "jellies"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "word": "allopathy",
+  "ipa": {
+    "us": "æ'lɒpəθɪ",
+    "uk": "æ'lɒpəθɪ"
+  },
+  "sentences": [
+    {
+      "en": "Of or relating to the practice of allopathy.",
+      "cn": "属于、关于或实施对抗疗法的。"
+    },
+    {
+      "en": "One who practices or advocates allopathy.",
+      "cn": "属于、关于或实施对抗疗法的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "allopathic",
+          "tran_cn": " 对抗疗法的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "enantiopathy"
+          ],
+          "tran_cn": "[临床]对抗疗法"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "medicine"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "对抗疗法",
+      "tran_en": "the orthodox medical method of treating disease, by inducing a condition different from or opposed to the cause of the disease "
+    }
+  ],
+  "exchange": {}
+}

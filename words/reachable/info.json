@@ -1,0 +1,142 @@
+{
+  "word": "reachable",
+  "ipa": {
+    "us": "ˈri:tʃəbl",
+    "uk": "'ritʃəbl"
+  },
+  "sentences": [
+    {
+      "en": "A method to solve the problem of goal non reachable with obstacle nearby ( GNRON ) is proposed.",
+      "cn": "提出一种解决人工势场法目标不可达问题的方法."
+    },
+    {
+      "en": "All these cities are reachable in a few hours.",
+      "cn": "所有这些城市都在几小时内可以到达."
+    },
+    {
+      "en": "An adjacent system reachable by traversal of a single subnetwork by a Protocol Data Unit ( PDU ).",
+      "cn": "通过单个子网络运输,协议数据单元可到达的相邻系统."
+    },
+    {
+      "en": "Don't think I am reachable because I am handsome, actually I am welcome to all.",
+      "cn": "别以为我长的帅就认为我遥不可及高不可攀, 其实我是海纳百川啊."
+    },
+    {
+      "en": "First of all think about your goals, are they reachable, logical or really good for you.",
+      "cn": "首先要想想你的目标, 他们是否可以实现, 符合逻辑或者是否真地对你有益?"
+    },
+    {
+      "en": "However, goals must be easy to understand and reachable.",
+      "cn": "可是, 目标必须容易理解,而且可以达成."
+    },
+    {
+      "en": "I believe this goal is reachable and understandable.",
+      "cn": "我相信此一目标可以达成,而且可以理解."
+    },
+    {
+      "en": "In order to cluster multi - density dataset, a clustering algorithm on density - reachable for multi - density is proposed.",
+      "cn": "为对多密度数据集聚类, 提出一种基于密度可达的多密度聚类算法."
+    },
+    {
+      "en": "Is reachable from other OSS applications through an SQL interface.",
+      "cn": "通过SQL接口,为其他应用提供数据."
+    },
+    {
+      "en": "It then traverses the chain of references until all (directly or indirectly) reachable objects from the root set are marked.",
+      "cn": "跟踪然后遍历引用链直至标记完根集中所有（直接或间接）可获得的对象。"
+    },
+    {
+      "en": "Some secrets are reachable only by using concealed doors or triggers.",
+      "cn": "有些秘密是可及只由使用被隐瞒的门或触发器."
+    },
+    {
+      "en": "Such perfectionism is then supposedly deferred and only reachable in \" other dimensions. \"",
+      "cn": "这样的圆满当然在想像中不断推迟,只能在 “ 其他空间 ” 实现."
+    },
+    {
+      "en": "The cluster node is not reachable.",
+      "cn": "无法连接到群集节点."
+    },
+    {
+      "en": "The farm is only reachable by car.",
+      "cn": "那个农场只能开车去。"
+    },
+    {
+      "en": "The two models reflect the nature topology character and the reachable of public traffic network.",
+      "cn": "这两个模型反映了公交网络的自然拓扑特征以及公交网络的可达性."
+    },
+    {
+      "en": "This method is not reachable from any method outside the class.",
+      "cn": "这个方法不能被类外面的方法调用."
+    },
+    {
+      "en": "To make life easier (and it is good practice anyway), we make sure that all data is reachable from the root of a single tree of data structures in memory.",
+      "cn": "为了让生活更容易（它总是一个很好的实践），我们必须确保所有的数据从单一数据结构书的根上是可获得的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reach",
+          "tran_cn": " 范围；延伸；河段；横风行驶"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "reach",
+          "tran_cn": " 达到；延伸；伸出手；传开"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "reach",
+          "tran_cn": " 达到；影响；抵达；伸出"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "getatable",
+            "accomplishable"
+          ],
+          "tran_cn": "可获得的；可达成的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accessible",
+            "achievable",
+            "approachable",
+            "attainable"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可达成的，可获得的"
+    }
+  ],
+  "exchange": {}
+}

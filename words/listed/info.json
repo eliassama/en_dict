@@ -1,0 +1,183 @@
+{
+  "word": "listed",
+  "ipa": {
+    "us": "'lɪstɪd",
+    "uk": "'lɪstɪd"
+  },
+  "sentences": [
+    {
+      "en": "All prices listed are in ZAR.",
+      "cn": "所有价格都是用南非兰特列出的。"
+    },
+    {
+      "en": "Check if all the configurations listed above have been performed.",
+      "cn": "检查是否执行了上面列出的所有配置。"
+    },
+    {
+      "en": "He listed four dependents on his income - tax form.",
+      "cn": "他在所得税申报表上填写家属四人."
+    },
+    {
+      "en": "He was listed as MIA.",
+      "cn": "他被列为战斗失踪人员。"
+    },
+    {
+      "en": "He was not listed under his real name on the residents panel.",
+      "cn": "他未以真名在居民名册上登记。"
+    },
+    {
+      "en": "He's been wait-listed for a football scholarship to Stanford.",
+      "cn": "他已被列入斯坦福大学的美式足球奖学金等候者名单。"
+    },
+    {
+      "en": "Her name is listed in the telephone directory.",
+      "cn": "她的名字被列在了电话号码簿上."
+    },
+    {
+      "en": "It is listed among the ingredients on the package.",
+      "cn": "它是包装盒标明的成分之一。"
+    },
+    {
+      "en": "Oxford United have transfer-listed two midfield players.",
+      "cn": "牛津联足球俱乐部已把两名中场球员列入转会名单。"
+    },
+    {
+      "en": "Select any one of the listed files to open and edit it in the respective editor.",
+      "cn": "选择任意一个列出的文件，以在各自的编辑器中打开并编辑它。"
+    },
+    {
+      "en": "She was long-listed for the senior team last year.",
+      "cn": "她去年被列入了一线队初选名单。"
+    },
+    {
+      "en": "Some of Australia's largest listed companies are expected to announce huge interim earnings this week.",
+      "cn": "澳大利亚最大的一些上市公司预计将在本周宣布巨额中期盈利。"
+    },
+    {
+      "en": "The items are listed in order of importance.",
+      "cn": "这些项目是按其重要性的顺序列出的."
+    },
+    {
+      "en": "The names are listed in alphabetical order .",
+      "cn": "姓名是按字母顺序排列的。"
+    },
+    {
+      "en": "The officers were listed in order of seniority.",
+      "cn": "官员列名以职位高低为序."
+    },
+    {
+      "en": "The pupils were asked to list the sports they loved most and hated most.",
+      "cn": "学生们被要求列出他们最喜欢的和最讨厌的运动。"
+    },
+    {
+      "en": "The relationships I have and that I consider to be meaningful have all of the qualities listed above.",
+      "cn": "我拥有的人脉，其中我认为有意义的关系包含上述列出的所有品质。"
+    },
+    {
+      "en": "The trees all listed to leeward.",
+      "cn": "树木统统向下风方向倾."
+    },
+    {
+      "en": "There are ten English classes listed in the timetable.",
+      "cn": "课表上列有10节英语课."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "list",
+          "tran_cn": " [计] 列表；清单；目录"
+        },
+        {
+          "word": "lister",
+          "tran_cn": " 制表人；双耕犁"
+        },
+        {
+          "word": "listing",
+          "tran_cn": " 列表，清单"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "listing",
+          "tran_cn": " 列表（list的现在分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "list",
+          "tran_cn": " 列于表上"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "list",
+          "tran_cn": " 列出；记入名单内"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "cataloged"
+          ],
+          "tran_cn": "列出；登记（list的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "listed above",
+      "tran_cn": "上列的"
+    },
+    {
+      "phrase": "listed company",
+      "tran_cn": "上市公司，股票上市的公司"
+    },
+    {
+      "phrase": "listed price",
+      "tran_cn": "挂牌价格；上市价格"
+    },
+    {
+      "phrase": "listed securities",
+      "tran_cn": "上市证券；交易所挂牌证券"
+    },
+    {
+      "phrase": "listed stock",
+      "tran_cn": "交易所登记股票；上场股票"
+    },
+    {
+      "phrase": "to be listed",
+      "tran_cn": "上市"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "列入文物保护名册的，登记上市的",
+      "tran_en": "a listed company is one which offers its shares for sale on the stock exchange"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "列出；登记（list的过去分词）",
+      "tran_en": "To list several things such as reasons or names means to write or say them one after another, usually in a particular order"
+    }
+  ],
+  "exchange": {}
+}

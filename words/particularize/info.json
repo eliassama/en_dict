@@ -1,0 +1,117 @@
+{
+  "word": "particularize",
+  "ipa": {
+    "us": "pəˈtɪkjələraɪz",
+    "uk": "pərˈtɪkjələraɪz"
+  },
+  "sentences": [
+    {
+      "en": "Mr. Johnson particularizes the general points he wants to make.",
+      "cn": "约翰逊先生举例说明了他想要表达的主要观点。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "particular",
+          "tran_cn": " 特别的；详细的；独有的；挑剔的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "particularly",
+          "tran_cn": " 特别地，独特地；详细地，具体地；明确地，细致地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "particular",
+          "tran_cn": " 详细说明；个别项目"
+        },
+        {
+          "word": "particularism",
+          "tran_cn": " 特殊神宠论；完全忠于一种理论"
+        },
+        {
+          "word": "particularity",
+          "tran_cn": " 特质；个性；讲究"
+        },
+        {
+          "word": "particularization",
+          "tran_cn": " 详细列明"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "localize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "elaborate on",
+            "specialize"
+          ],
+          "tran_cn": "详细说明；大书特书"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "specify",
+            "enumerate"
+          ],
+          "tran_cn": "列举；使特殊"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 详述， 列举",
+      "tran_en": "to give the details of something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "列举， 逐一叙述，详述， 特别指出"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "particularizes"
+    ],
+    "past": [
+      "particularized"
+    ],
+    "done": [
+      "particularized"
+    ],
+    "ing": [
+      "particularizing"
+    ]
+  }
+}

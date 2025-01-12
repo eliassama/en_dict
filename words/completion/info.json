@@ -1,0 +1,241 @@
+{
+  "word": "completion",
+  "ipa": {
+    "us": "kəmˈpli:ʃn",
+    "uk": "kəmˈpliʃən"
+  },
+  "sentences": [
+    {
+      "en": "After the completion of the job the workmen went home.",
+      "cn": "工作完结后,工人们都回家."
+    },
+    {
+      "en": "Completion of this bridge is expected in a year or so.",
+      "cn": "这座桥一年半载可望竣工."
+    },
+    {
+      "en": "He was afforded a certificate upon completion of his course of study.",
+      "cn": "他结业时被授予证书."
+    },
+    {
+      "en": "Pertaining to the analysis of an operation after its completion.",
+      "cn": "有关一次运行结束后的分析工作."
+    },
+    {
+      "en": "The building is nearing completion.",
+      "cn": "这座大楼差不多快完工了."
+    },
+    {
+      "en": "The completion of the building is scheduled for May.",
+      "cn": "该楼定于五月份完工."
+    },
+    {
+      "en": "the completion of the new hospital building",
+      "cn": "新医院大楼的竣工"
+    },
+    {
+      "en": "The house is nearing completion (= almost finished ) .",
+      "cn": "房子即将完工。"
+    },
+    {
+      "en": "The hydroelectric station is nearing completion.",
+      "cn": "水电站即将竣工."
+    },
+    {
+      "en": "The new highway is scheduled for completion by the end of the year.",
+      "cn": "新公路定于年内竣工."
+    },
+    {
+      "en": "The project has a completion date of December 22nd.",
+      "cn": "该项目的完成日期是12月22日。"
+    },
+    {
+      "en": "The project is nearing completion.",
+      "cn": "这个项目即将结束。"
+    },
+    {
+      "en": "The project is taking a long time but is now nearing completion.",
+      "cn": "这个项目耗时很长，但现在就快结束了。"
+    },
+    {
+      "en": "The repairs to the Hafner machine were near to completion.",
+      "cn": "对哈夫纳机器的修理即将结束。"
+    },
+    {
+      "en": "The teacher retired at the completion of the school year.",
+      "cn": "那位老师执教满任后便退休了."
+    },
+    {
+      "en": "The untimely death of the engineer delayed the completion of the project.",
+      "cn": "工程师的过早去世推迟了工程的完工期."
+    },
+    {
+      "en": "These can usually be categorized into either \" addiction \" or'set completion \" case.",
+      "cn": "这种例外通常可以分为 “ 癖好 ” 和 “ 集成 ” 两种."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "complete",
+          "tran_cn": "完整的；完全的；彻底的"
+        },
+        {
+          "word": "completed",
+          "tran_cn": "完整的；完全的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "completely",
+          "tran_cn": "完全地，彻底地；完整地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "completeness",
+          "tran_cn": "完整；完全；完成；圆满；结束"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "completed",
+          "tran_cn": "完成（complete的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "complete",
+          "tran_cn": "完成"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "crowning",
+            "perfecting"
+          ],
+          "tran_cn": "圆满,完美"
+        },
+        {
+          "words": [
+            "accomplishing",
+            "achieving",
+            "capping",
+            "clinching",
+            "closing",
+            "consummating",
+            "ending",
+            "executing",
+            "fulfilling",
+            "settling",
+            "terminating",
+            "up",
+            "winding"
+          ],
+          "tran_cn": "完成,结束"
+        },
+        {
+          "words": [
+            "accomplishment",
+            "achievement",
+            "attainment",
+            "conclusion",
+            "consummation",
+            "effectuation",
+            "finalization",
+            "finish",
+            "fruition",
+            "fulfilment",
+            "realization"
+          ],
+          "tran_cn": "成就,实现"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "closure",
+            "execution",
+            "performance",
+            "plenitude",
+            "settlement"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "completion ceremony",
+      "tran_cn": "竣工式，竣工仪式"
+    },
+    {
+      "phrase": "completion date",
+      "tran_cn": "竣工日期；完工日期"
+    },
+    {
+      "phrase": "completion method",
+      "tran_cn": "完井方法；填充法"
+    },
+    {
+      "phrase": "completion of works",
+      "tran_cn": "完工；工程竣工"
+    },
+    {
+      "phrase": "completion rate",
+      "tran_cn": "布通率；完成比例"
+    },
+    {
+      "phrase": "completion status",
+      "tran_cn": "完成状态"
+    },
+    {
+      "phrase": "final completion",
+      "tran_cn": "最终完工，竣工"
+    },
+    {
+      "phrase": "time of completion",
+      "tran_cn": "竣工时间"
+    },
+    {
+      "phrase": "well completion",
+      "tran_cn": "完井；钻井完成"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "完成，结束",
+      "tran_en": "the state of being finished"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "completions"
+    ]
+  }
+}

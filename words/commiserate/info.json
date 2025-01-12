@@ -1,0 +1,117 @@
+{
+  "word": "commiserate",
+  "ipa": {
+    "us": "kəˈmɪzəreɪt",
+    "uk": "kəˈmɪzəˌret"
+  },
+  "sentences": [
+    {
+      "en": "I commiserate with you on the loss of your mother.",
+      "cn": "你母亲逝世,我特向你慰问."
+    },
+    {
+      "en": "I hate the tribulation, I commiserate the sorrow brought by tribulation.",
+      "cn": "我厌恶别人深重的苦难, 怜悯苦难带来的悲哀."
+    },
+    {
+      "en": "The wounded fellow sufferers commiserate with each other.",
+      "cn": "受伤的人常常同病相怜."
+    },
+    {
+      "en": "When I lost, he commiserated with me.",
+      "cn": "我失败时，他同情我。"
+    },
+    {
+      "en": "You'd better commiserate John on his recent misfortunes.",
+      "cn": "你最好对约翰最近的不幸表示同情."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "commiserative",
+          "tran_cn": " 同情的；可怜的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "commiseration",
+          "tran_cn": " 怜悯，同情"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "sympathize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "sympathize",
+            "feel for"
+          ],
+          "tran_cn": "同情，怜悯；吊慰"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "feel for",
+            "have pity on"
+          ],
+          "tran_cn": "同情，怜悯"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "怜悯, 同情",
+      "tran_en": "to express your sympathy for someone who is unhappy about something"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 同情， 怜悯",
+      "tran_en": "to express your sympathy for someone who is unhappy about something"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "怜悯，同情"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "commiserates"
+    ],
+    "past": [
+      "commiserated"
+    ],
+    "done": [
+      "commiserated"
+    ],
+    "ing": [
+      "commiserating"
+    ]
+  }
+}

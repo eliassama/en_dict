@@ -1,0 +1,81 @@
+{
+  "word": "blackball",
+  "ipa": {
+    "us": "ˈblækbɔ:l",
+    "uk": "ˈblækˌbɔl"
+  },
+  "sentences": [
+    {
+      "en": "Lawrence Talbot: I module blackball every of you!",
+      "cn": "劳伦斯?塔尔博特: “我要杀死你们! ”"
+    },
+    {
+      "en": "Members can blackball candidates in secret ballots.",
+      "cn": "成员可以通过无记名投票反对候选人加入。"
+    },
+    {
+      "en": "Will you blackball her if she tries to join our club?",
+      "cn": "假如她要参加我们的俱乐部,你是否投反对票?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "non",
+            "con"
+          ],
+          "tran_cn": "反对票；黑球（表示反对）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "boycott"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "reject",
+            "exclude"
+          ],
+          "tran_cn": "排斥；投反对票"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "投票反对，排斥",
+      "tran_en": "to vote against someone, especially so that they cannot join a club or social group"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "blackballs"
+    ],
+    "past": [
+      "blackballed"
+    ],
+    "done": [
+      "blackballed"
+    ],
+    "ing": [
+      "blackballing"
+    ]
+  }
+}

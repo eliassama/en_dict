@@ -1,0 +1,104 @@
+{
+  "word": "derange",
+  "ipa": {
+    "us": "dɪ'reɪndʒ",
+    "uk": "dɪ'reɪndʒ"
+  },
+  "sentences": [
+    {
+      "en": "Jack's inconsistent argument derange us all.",
+      "cn": "杰克前后矛盾的争辩困扰了我们大家."
+    },
+    {
+      "en": "So few men were present to derange the harmony of the wilderness.",
+      "cn": "极少有人去扰乱林子里的平静."
+    },
+    {
+      "en": "To disturb the normal physical or mental health of; derange .",
+      "cn": "使生病，使失调，使错乱打乱正常的身体或智能的健康；使神经错乱。"
+    },
+    {
+      "en": "To unsettle; derange.",
+      "cn": "使混乱，扰乱；"
+    },
+    {
+      "en": "Whatever you do, don't let the stress derange owe head.",
+      "cn": "但无乱咋样，无所不能让压力使得你精神错乱。"
+    },
+    {
+      "en": "Whatever you do, dont let the stress derange your mind.",
+      "cn": "但无乱如何，不能让压力使得你精神错乱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deranged",
+          "tran_cn": " 疯狂的；精神错乱的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "derangement",
+          "tran_cn": " 精神错乱，发狂"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "deranged",
+          "tran_cn": " 使（精神）错乱（derange的过去分词和过去式）；扰乱"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "craze",
+            "dislocate",
+            "disorder",
+            "disrupt"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "disorder",
+            "upset"
+          ],
+          "tran_cn": "扰乱；使错乱；使发狂"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "扰乱；使错乱；使发狂",
+      "tran_en": "to disturb the order or arrangement of; throw into disorder; disarrange "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使精神错乱，打乱",
+      "tran_en": "to disturb the order or arrangement of; throw into disorder; disarrange "
+    }
+  ],
+  "exchange": {}
+}

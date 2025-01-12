@@ -1,0 +1,156 @@
+{
+  "word": "postage",
+  "ipa": {
+    "us": "ˈpəʊstɪdʒ",
+    "uk": "ˈpoʊstɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "A chip is a piece of silicon about the size of a postage stamp.",
+      "cn": "芯片就是一枚邮票大小的硅片。"
+    },
+    {
+      "en": "A fifty cent postage stamp was put on the heavy letter.",
+      "cn": "那封超重的信上贴了一张五十美分的邮票."
+    },
+    {
+      "en": "All letters must be stamped with the correct postage.",
+      "cn": "任何信件都应该按所需邮资贴邮票."
+    },
+    {
+      "en": "an increase in postage rates",
+      "cn": "邮费的增加"
+    },
+    {
+      "en": "For foreign orders postage is extra.",
+      "cn": "国外订单邮费另计。"
+    },
+    {
+      "en": "Have you reckoned the cost of postage in?",
+      "cn": "你是否已把邮费计算在内?"
+    },
+    {
+      "en": "How much is the postage for a postcard?",
+      "cn": "寄一张明信片的邮资是多少？"
+    },
+    {
+      "en": "Proof of postage will not be accepted as proof of receipt.",
+      "cn": "邮资单据不能当作收据。"
+    },
+    {
+      "en": "Send a cheque for £18.99 plus £2 for postage and packing.",
+      "cn": "请寄上18.99英镑的支票，外加2英镑的邮资和包装费。"
+    },
+    {
+      "en": "Send it to the address given with £1.50 to cover postage and administration.",
+      "cn": "将它寄到指定地址，并附上1.50英镑以支付邮资和管理费。"
+    },
+    {
+      "en": "Sheets of postage stamps are perforated.",
+      "cn": "一张张的邮票都打过接缝孔."
+    },
+    {
+      "en": "The bill was $ 10, plus $ 1 for postage.",
+      "cn": "账款是十美元, 再加上一美元邮费."
+    },
+    {
+      "en": "The bill was 10, plus 1 for postage.",
+      "cn": "账款是十美元，再加上一美元邮费。"
+    },
+    {
+      "en": "The price includes postage charges.",
+      "cn": "价格包括邮费在内."
+    },
+    {
+      "en": "This dictionary is 100 yuan, postage included.",
+      "cn": "这本词典连邮费共100元."
+    },
+    {
+      "en": "What is the postage for a letter to Australia?",
+      "cn": "往澳大利亚寄一封信要多少邮费?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "postal",
+          "tran_cn": " 邮政的；邮局的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "post",
+          "tran_cn": " 岗位；邮件；标杆"
+        },
+        {
+          "word": "postal",
+          "tran_cn": " 明信片"
+        },
+        {
+          "word": "posting",
+          "tran_cn": " 记录；[会计] 过帐；委派"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "posting",
+          "tran_cn": " 公布；邮递；布置（post的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "post",
+          "tran_cn": " 快速行进"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "post",
+          "tran_cn": " 张贴；公布；邮递；布置"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "taxe",
+            "franking"
+          ],
+          "tran_cn": "[邮]邮资，邮费"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "postage stamp",
+      "tran_cn": "n. 邮票"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "邮费，邮资",
+      "tran_en": "the money charged for sending a letter, package etc by post"
+    }
+  ],
+  "exchange": {}
+}

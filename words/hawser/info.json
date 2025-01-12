@@ -1,0 +1,64 @@
+{
+  "word": "hawser",
+  "ipa": {
+    "us": "ˈhɔ:zə(r)",
+    "uk": "ˈhɔzɚ"
+  },
+  "sentences": [
+    {
+      "en": "It is clearly to sec that sway motion is increased with the increasing of the length of hawser.",
+      "cn": "计算结果表明，随着系缆索的长度的增加，油船的摇艏运动明显增大。"
+    },
+    {
+      "en": "The fingers were pinched under a hawser.",
+      "cn": "手指被夹在了大缆绳下面."
+    },
+    {
+      "en": "The hawser can either be thick , heavy ropes or a thin steel cable use on ships.",
+      "cn": "缆绳既可以指粗重的绳子,也可以指船上使用的细钢索."
+    },
+    {
+      "en": "There's a new hawser faked down there.",
+      "cn": "有条新铁索盘卷在那里."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mooring line",
+            "mooring rope"
+          ],
+          "tran_cn": "粗缆；系船索"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "rope"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（供系船或下锚用的）缆索，锚链",
+      "tran_en": "A hawser is a large heavy rope, especially one used on a ship"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hawsers"
+    ]
+  }
+}

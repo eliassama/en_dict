@@ -1,0 +1,188 @@
+{
+  "word": "digestion",
+  "ipa": {
+    "us": "daɪˈdʒestʃən",
+    "uk": "daɪˈdʒɛstʃən, dɪ-"
+  },
+  "sentences": [
+    {
+      "en": "Digestion, of course , starts in Joe's mouth and stomach.",
+      "cn": "消化 当然 是从乔的口腔和胃开始的."
+    },
+    {
+      "en": "He had always an easy temper , a faultless digestion, and a rosy cheek.",
+      "cn": "他一向无忧无虑, 消化不错, 面色红润."
+    },
+    {
+      "en": "He has a good digestion.",
+      "cn": "他消化能力很强."
+    },
+    {
+      "en": "It improves digester cost operation and reduces capital cost wherever sludge digestion is utilized.",
+      "cn": "当采用污泥消化时,它可改进消化器的运行并降低其基建投资费用."
+    },
+    {
+      "en": "My digestion ain't so hot these days, either.",
+      "cn": "我的消化系统这几天也不怎么对劲儿。"
+    },
+    {
+      "en": "My digestion has been poor since we left Marseilles.",
+      "cn": "自从我们离开马赛以来,我一直消化不良."
+    },
+    {
+      "en": "No liquids are served with meals because they interfere with digestion.",
+      "cn": "上饭菜时不要同时上汤水或饮品，因为这会影响消化。"
+    },
+    {
+      "en": "Perhaps the simplest approach to extracellular digestion is that employed by saprophytes.",
+      "cn": "细胞外消化最简单途径也许是腐生生物所利用的方法."
+    },
+    {
+      "en": "Segregation of fatty material is a serious problem in anaerobic sludge digestion units.",
+      "cn": "厌氧污泥消化单元中脂肪物质的分离是个难题."
+    },
+    {
+      "en": "She has a weak [ good ] digestion.",
+      "cn": "她的消化力弱 [ 强 ]."
+    },
+    {
+      "en": "The optimal conditions for the anaerobic digestion are the following.",
+      "cn": "厌气消化的最佳条件如下."
+    },
+    {
+      "en": "This food is easy of digestion.",
+      "cn": "这食物容易消化."
+    },
+    {
+      "en": "This kind of tea acts as an aid to digestion.",
+      "cn": "这种茶可助消化."
+    },
+    {
+      "en": "This rich food is bad for your digestion.",
+      "cn": "这种油腻食物不利于你的消化."
+    },
+    {
+      "en": "Too much tea is bad for your digestion.",
+      "cn": "喝太多茶会影响消化。"
+    },
+    {
+      "en": "Wine or sugary drinks inhibit digestion.",
+      "cn": "葡萄酒或含糖饮料抑制消化。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "digestible",
+          "tran_cn": " 易消化的；可摘要的"
+        },
+        {
+          "word": "digestive",
+          "tran_cn": " 消化的；助消化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "digest",
+          "tran_cn": " 文摘；摘要"
+        },
+        {
+          "word": "digester",
+          "tran_cn": " 做摘要者；助消化食品；汇编者；蒸炼器"
+        },
+        {
+          "word": "digestibility",
+          "tran_cn": " 消化性；可消化性"
+        },
+        {
+          "word": "digestive",
+          "tran_cn": " 助消化药"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "digest",
+          "tran_cn": " 消化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "digest",
+          "tran_cn": " 消化；吸收；融会贯通"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "comprehension",
+            "mastery",
+            "understanding"
+          ],
+          "tran_cn": "领悟,掌握"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "absorption",
+            "assimilation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acid digestion",
+      "tran_cn": "酸分解；酸性消化"
+    },
+    {
+      "phrase": "aerobic digestion",
+      "tran_cn": "好氧消化；需氧消化"
+    },
+    {
+      "phrase": "anaerobic digestion",
+      "tran_cn": "厌氧消化；厌气消化"
+    },
+    {
+      "phrase": "digestion tank",
+      "tran_cn": "老化器；消化槽"
+    },
+    {
+      "phrase": "sludge digestion",
+      "tran_cn": "污泥消化法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "消化（系统）",
+      "tran_en": "the process of digesting food"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "digestions"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "word": "disjunction",
+  "ipa": {
+    "us": "dɪsˈdʒʌŋkʃn",
+    "uk": "dɪsˈdʒʌŋkʃən"
+  },
+  "sentences": [
+    {
+      "en": "However, the disjunction of trained personnel and industry requires the quick optimization of Higher Tourism Education system.",
+      "cn": "然而, 人才与行业的脱节呼唤着旅游高等教育系统的迅速优化."
+    },
+    {
+      "en": "Like society , it builds its unity on the disjunction.",
+      "cn": "每次统一都以剧烈的分裂为基础."
+    },
+    {
+      "en": "Logical disjunction, as we define it here, is the inclusive OR operation.",
+      "cn": "我的翻译是:我们在这里定义的逻辑析取是包涵或."
+    },
+    {
+      "en": "Performs a logical disjunction on two expressions.",
+      "cn": "对两个表达式执行逻辑析取操作."
+    },
+    {
+      "en": "We've created disjunction between the liberal arts and sciences and our role as citizens and professionals.",
+      "cn": "我们已经在人文学科与科学以及我们作为公民角色和职业角色之间打造了一道分离的鸿沟."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disjunct",
+          "tran_cn": " 分离的；头、胸和腹部由缢缩分开的"
+        },
+        {
+          "word": "disjunctive",
+          "tran_cn": " 分隔的；分离的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disjunctive",
+          "tran_cn": " 反意连接词"
+        },
+        {
+          "word": "disjuncture",
+          "tran_cn": " 分裂；分离"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "separation",
+            "detachment"
+          ],
+          "tran_cn": "分离；[数]析取；分裂；折断"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abstraction",
+            "separation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "分离，析取",
+      "tran_en": "the act of disconnecting or the state of being disconnected; separation "
+    }
+  ],
+  "exchange": {}
+}

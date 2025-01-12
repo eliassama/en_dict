@@ -1,0 +1,67 @@
+{
+  "word": "incommode",
+  "ipa": {
+    "us": "ˌɪnkəˈməʊd",
+    "uk": "ˌɪnkəˈmoʊd"
+  },
+  "sentences": [
+    {
+      "en": "But, also can give you incommode sometimes, produce plastic shoe dermatitis.",
+      "cn": "但是, 有时也会给您添麻烦, 发生塑料鞋皮炎."
+    },
+    {
+      "en": "We do not ask others to be faultless , we only ask their faults should not incommode to our own .",
+      "cn": "我们不要求他人完美无缺，我们只要求他们的缺陷不会妨碍我们。"
+    },
+    {
+      "en": "Will it incommode you if I use your computer for a while?",
+      "cn": "我借你的电脑用一下会使你不方便 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "incommodious",
+          "tran_cn": " 不便的；狭窄的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "let",
+            "violate"
+          ],
+          "tran_cn": "添麻烦；使感不便；妨碍"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "妨碍"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "incommodes"
+    ],
+    "past": [
+      "incommoded"
+    ],
+    "done": [
+      "incommoded"
+    ],
+    "ing": [
+      "incommoding"
+    ]
+  }
+}

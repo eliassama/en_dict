@@ -1,0 +1,207 @@
+{
+  "word": "protocol",
+  "ipa": {
+    "us": "ˈprəʊtəkɒl",
+    "uk": "ˈproʊtəkɑːl"
+  },
+  "sentences": [
+    {
+      "en": "...a computer protocol which could communicate across different languages.",
+      "cn": "…一个可以在不同的语言之间传递信息的计算机协议。"
+    },
+    {
+      "en": "a breach of diplomatic protocol",
+      "cn": "违反外交礼节"
+    },
+    {
+      "en": "a breach of protocol",
+      "cn": "违反外交礼节"
+    },
+    {
+      "en": "According to protocol, he first reported to the Director of the hospital.",
+      "cn": "根据礼节，他先向医院院长报到。"
+    },
+    {
+      "en": "He has become something of a stickler for the finer observances of royal protocol.",
+      "cn": "他已经变得非常刻板，哪怕是最细微的皇室礼仪也会遵循。"
+    },
+    {
+      "en": "I didn't know the army taught surveillance protocol.",
+      "cn": "我不知道军队还会教你们追踪技能."
+    },
+    {
+      "en": "Identify interoperability issues with the organization's partners ( for example, topology, protocol )",
+      "cn": "确定与合作伙伴的互用性问题 ( 例如, 拓扑 、 协议 )"
+    },
+    {
+      "en": "Once in a while, emergency justified a break with protocol.",
+      "cn": "偶而遇到紧急情况, 就得破例了."
+    },
+    {
+      "en": "Particularly the author explains Point - to - point protocol ( PPP ) realization exhaustively.",
+      "cn": "特别对 点对点 协议 ( PPP ) 协议的实现做了详尽阐述."
+    },
+    {
+      "en": "Real - time allows the T .30 protocol to be relayed across the IP network.",
+      "cn": "实时 模式允许T.30协议在IP网上中继(分段传送)."
+    },
+    {
+      "en": "The organizer was familiar with the protocol of royal visits.",
+      "cn": "组织者熟悉国王出访的礼仪."
+    },
+    {
+      "en": "The statesmen signed a protocol.",
+      "cn": "那些政治家签了议定书."
+    },
+    {
+      "en": "This paper discusses formal description style of communication protocol for computer networks.",
+      "cn": "研讨计算机网络通信协议的形式描述风格."
+    },
+    {
+      "en": "We must observe the correct protocol.",
+      "cn": "我们必须遵守应有的礼仪."
+    },
+    {
+      "en": "Were the seating arrangements for the dinner party according to protocol?",
+      "cn": "餐会的坐位安排是根据礼节的需要 吗 ?"
+    },
+    {
+      "en": "What is your lab's protocol for the collection of any monetary evidence?",
+      "cn": "你们实验室对于货币证物收集有何规程?"
+    },
+    {
+      "en": "While all round him the area fairly seethed with protocol.",
+      "cn": "而在他的周围完全洋溢着外交礼节的气氛."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agreement",
+            "ceremony",
+            "understanding",
+            "treaty",
+            "accord"
+          ],
+          "tran_cn": "协议；草案；礼仪"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ceremony",
+            "civility",
+            "convention",
+            "courtesy",
+            "formality",
+            "formula"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "study out"
+          ],
+          "tran_cn": "拟定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "study out"
+          ],
+          "tran_cn": "拟定"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "address resolution protocol",
+      "tran_cn": "[计]地址分辨协议"
+    },
+    {
+      "phrase": "border gateway protocol",
+      "tran_cn": "边界网关协议"
+    },
+    {
+      "phrase": "communication protocol",
+      "tran_cn": "[计]通信协议"
+    },
+    {
+      "phrase": "communications protocol",
+      "tran_cn": "通信协议；通讯协定"
+    },
+    {
+      "phrase": "file transfer protocol",
+      "tran_cn": "文件传送协议"
+    },
+    {
+      "phrase": "internet protocol",
+      "tran_cn": "互联网协议"
+    },
+    {
+      "phrase": "kyoto protocol",
+      "tran_cn": "京都议定书"
+    },
+    {
+      "phrase": "montreal protocol",
+      "tran_cn": "蒙特利尔议定书"
+    },
+    {
+      "phrase": "network protocol",
+      "tran_cn": "网络协议"
+    },
+    {
+      "phrase": "protocol conversion",
+      "tran_cn": "协议转换"
+    },
+    {
+      "phrase": "protocol stack",
+      "tran_cn": "协议栈；协定堆"
+    },
+    {
+      "phrase": "signaling protocol",
+      "tran_cn": "信号协议；信令协定"
+    },
+    {
+      "phrase": "transport protocol",
+      "tran_cn": "传送协议，点到点传输协议"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "礼仪，（外交条约的）草案，（数据传递的）协议，科学实验报告（或计划）",
+      "tran_en": "a system of rules about the correct way to behave on an official occasion"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "拟定"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "拟定"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "protocols"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "word": "handily",
+  "ipa": {
+    "us": "ˈhændɪli",
+    "uk": "ˈhændɪli, -dli"
+  },
+  "sentences": [
+    {
+      "en": "He paddled the canoe handily.",
+      "cn": "他十分熟练地用桨划独木舟."
+    },
+    {
+      "en": "Our team won handily.",
+      "cn": "我队轻而易举地赢了."
+    },
+    {
+      "en": "She beat him handily.",
+      "cn": "她轻而易举地打败了他."
+    },
+    {
+      "en": "The carpenter works handily.",
+      "cn": "木工熟练地工作."
+    },
+    {
+      "en": "The machine horsepower is powerful and operated handily.",
+      "cn": "机械本身结构马力足操作轻巧."
+    },
+    {
+      "en": "The system based - on FPGA and PCI bus architecture updates software and hardware handily, economizes cost.",
+      "cn": "这种基于FPGA可编程芯片、PCI总线结构的设计非常灵活,易于模块化、系统软硬件升级方便, 节约成本."
+    },
+    {
+      "en": "The telephone, clock, and radio were handily located by the patients bedside.",
+      "cn": "电话, 钟和无线电就放在病床边,非常方便."
+    },
+    {
+      "en": "They won the first two games handily, and today they get 10 - 23 Memphis.",
+      "cn": "他们轻松取得了前两场比赛的胜利, 今天他们所要面对的是只有10胜23负的灰熊队."
+    },
+    {
+      "en": "We're handily placed for ( ie within a short distance of ) the shopping centre.",
+      "cn": "我们距离购物中心不远,非常方便."
+    },
+    {
+      "en": "We're handily placed for the train station.",
+      "cn": "我们被安置在去火车站近便的地方。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "handy",
+          "tran_cn": " 便利的；手边的，就近的；容易取得的；敏捷的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "handiness",
+          "tran_cn": " 轻便；灵巧；敏捷"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "promptly",
+            "expediently"
+          ],
+          "tran_cn": "方便地；敏捷地；灵巧地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "easily"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "方便地",
+      "tran_en": "if you win something handily, you win easily"
+    }
+  ],
+  "exchange": {}
+}

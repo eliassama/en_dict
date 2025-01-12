@@ -1,0 +1,95 @@
+{
+  "word": "biometrics",
+  "ipa": {
+    "us": "ˌbaɪəʊ'metrɪks",
+    "uk": "ˌbaɪɒ'metrɪks"
+  },
+  "sentences": [
+    {
+      "en": "A third and increasingly common method, called biometrics, is based on who and what they do.",
+      "cn": "第三种,也是越来越常见的方法叫做生物统计学, 它是基于用户是谁、他们做什么来证实身份的."
+    },
+    {
+      "en": "BE also includes cancelable biometrics, and with that, security and privacy can be achieved.",
+      "cn": "BE包含了可撤销生物认证技术, 增强了生物认证中的安全性和保护隐私."
+    },
+    {
+      "en": "Biometrics promises identities that are virtually impossible to steal, impersonate or misplace.",
+      "cn": "这种生物科技测量标准的特徵是近几乎不可能被偷取, 假扮,或误置."
+    },
+    {
+      "en": "Biometrics raise thorny questions about privacy and the potential for abuse.",
+      "cn": "生物测验学会引发一些有关隐私的棘手问题,同时它还有被滥用的可能."
+    },
+    {
+      "en": "Can biometrics make banking more secure?",
+      "cn": "生物识别技术能让银行业务更安全 吗 ?"
+    },
+    {
+      "en": "Compared with the traditional verification technology, the biometrics verification has universality, stability and uniqueness.",
+      "cn": "与传统的身份识别技术相比, 生物特征自身具有广泛性 、 稳定性和唯一性."
+    },
+    {
+      "en": "On - line handwritten signature verification is one of the important technologies in human biometrics authentication fields.",
+      "cn": "手写签名鉴别属于人体生物特徵鉴别领域的重要技术之一."
+    },
+    {
+      "en": "The fusion of these two biometrics has an advantage in improving verification performance.",
+      "cn": "二者的融合可以有效的改进识别的性能."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "biomedical",
+          "tran_cn": " 生物医学的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "biomass",
+          "tran_cn": " （单位面积或体积内的）[生态] 生物量"
+        },
+        {
+          "word": "biome",
+          "tran_cn": " [生态] 生物群系；[生态] 生物群落区"
+        },
+        {
+          "word": "biomedicine",
+          "tran_cn": " 生物医学"
+        },
+        {
+          "word": "biometry",
+          "tran_cn": " 寿命测定（等于biometrics）；生物统计学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "biostatistics"
+          ],
+          "tran_cn": "[生物]生物统计学；生物测定学；寿命统计"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "生物测定学",
+      "tran_en": "the analysis of biological data using mathematical and statistical methods "
+    }
+  ],
+  "exchange": {}
+}

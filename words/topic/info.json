@@ -1,0 +1,183 @@
+{
+  "word": "topic",
+  "ipa": {
+    "us": "ˈtɒpɪk",
+    "uk": "ˈtɑːpɪk"
+  },
+  "sentences": [
+    {
+      "en": "a highly controversial topic",
+      "cn": "颇有争议的话题"
+    },
+    {
+      "en": "a hotly debated topic",
+      "cn": "激烈辩论的话题"
+    },
+    {
+      "en": "a topic much discussed in barrooms across the country",
+      "cn": "全国各地酒吧间议论纷纷的话题"
+    },
+    {
+      "en": "a wide range of topics",
+      "cn": "广泛的话题"
+    },
+    {
+      "en": "His remarks didn't relate to the topic under discussion.",
+      "cn": "他说的话与讨论的问题无关."
+    },
+    {
+      "en": "I have a meeting with my supervisor about my research topic.",
+      "cn": "我要就我的研究课题同导师见一次面。"
+    },
+    {
+      "en": "I have discussed this topic in some detail.",
+      "cn": "我已经较为详细地探讨了这个话题。"
+    },
+    {
+      "en": "Radical feminism is currently the fashionable topic among the chattering classes.",
+      "cn": "激进的女权主义是时下名嘴阶层热议的话题。"
+    },
+    {
+      "en": "Sex education in schools was the buzz topic.",
+      "cn": "性教育在学校是个热议话题。"
+    },
+    {
+      "en": "The environment is a popular topic these days.",
+      "cn": "如今环境是一个热门话题。"
+    },
+    {
+      "en": "The main topic for discussion is political union.",
+      "cn": "讨论的主题是政治联合。"
+    },
+    {
+      "en": "The main topic for discussion will be the proposed new supermarket.",
+      "cn": "讨论的主要议题是拟建中的超级市场。"
+    },
+    {
+      "en": "The main topic of conversation was Tom's new girlfriend.",
+      "cn": "交谈的主要话题是汤姆的新女友。"
+    },
+    {
+      "en": "The topic is not taught in degree courses.",
+      "cn": "学位课程不讲授这个课题。"
+    },
+    {
+      "en": "The topic of addiction remains something of a taboo.",
+      "cn": "毒瘾仍然是个有些忌讳的话题。"
+    },
+    {
+      "en": "The topic today centers about the crisis in the Middle East.",
+      "cn": "今天课题的中心是中东危机."
+    },
+    {
+      "en": "The weather is a constant topic of conversation in Britain.",
+      "cn": "在英国，天气是交谈中永恒的话题。"
+    },
+    {
+      "en": "We are away from our topic. Let's get back to our discussion.",
+      "cn": "我们离题了, 让咱们重新开始讨论议题吧."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "topical",
+          "tran_cn": " 局部的；论题的；时事问题的；局部地区的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "topically",
+          "tran_cn": " 总论地；时事问题地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "topicality",
+          "tran_cn": " 时事性；时事性话题"
+        },
+        {
+          "word": "topicalization",
+          "tran_cn": " 主题化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "issue",
+            "point",
+            "problem",
+            "question",
+            "subject",
+            "text",
+            "theme"
+          ],
+          "tran_cn": "题目;话题;论题"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "heading",
+            "issue",
+            "plot",
+            "point",
+            "problem",
+            "question",
+            "subject",
+            "text",
+            "theme",
+            "thesis"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hot topic",
+      "tran_cn": "热门话题；新锐"
+    },
+    {
+      "phrase": "special topic",
+      "tran_cn": "专题"
+    },
+    {
+      "phrase": "topic for discussion",
+      "tran_cn": "议题"
+    },
+    {
+      "phrase": "topic sentence",
+      "tran_cn": "课题句子，主题句子"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "话题",
+      "tran_en": "a subject that people talk or write about"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "topics"
+    ]
+  }
+}

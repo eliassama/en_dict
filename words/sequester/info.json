@@ -1,0 +1,95 @@
+{
+  "word": "sequester",
+  "ipa": {
+    "us": "sɪˈkwestə(r)",
+    "uk": "sɪˈkwɛstɚ"
+  },
+  "sentences": [
+    {
+      "en": "CO 2 - emitting industries could pay farmers to buy stoves to char and sequester farm waste.",
+      "cn": "排放二氧化碳的工业会向农民支付一定费用,由农民买烧炉炼木炭、收集农场废物."
+    },
+    {
+      "en": "The jury were sequestered during the trial.",
+      "cn": "审判期间，陪审团被隔离开来。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sequestered",
+          "tran_cn": " 隐退的；偏僻的；幽静的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sequestration",
+          "tran_cn": " 隔离；扣押；退隐"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "sequestered",
+          "tran_cn": " 扣押（sequester的过去分词）；使…隐退；使…分开"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sequestrate",
+          "tran_cn": " 没收；扣押"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "seclude",
+            "expropriate"
+          ],
+          "tran_cn": "使隔绝；使隐退；没收，扣押"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使隔绝；使隐退；没收，扣押",
+      "tran_en": "to keep a person or a group of people away from other people"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使隔绝，使隔离，<律>扣押"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "sequesters"
+    ],
+    "past": [
+      "sequestered"
+    ],
+    "done": [
+      "sequestered"
+    ],
+    "ing": [
+      "sequestering"
+    ]
+  }
+}

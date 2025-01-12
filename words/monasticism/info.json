@@ -1,0 +1,64 @@
+{
+  "word": "monasticism",
+  "ipa": {
+    "us": "məˈnæstɪsɪzəm",
+    "uk": "məˈnæstɪˌsɪzəm"
+  },
+  "sentences": [
+    {
+      "en": "The Roswell Poor Clares offer screens of descriptive material aimed at dispelling myths about monasticism.",
+      "cn": "罗斯韦尔的嘉辣会修女们提供了多屏描写性材料,目的在于消除关于宗教社区研究的种种谎言."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "monastic",
+          "tran_cn": " 修道院的；僧尼的；庙宇的"
+        },
+        {
+          "word": "monastical",
+          "tran_cn": " 出家的，僧院的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "monastery",
+          "tran_cn": " 修道院；僧侣"
+        },
+        {
+          "word": "monastic",
+          "tran_cn": " 僧侣；修道士"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "monkery",
+            "asceticism"
+          ],
+          "tran_cn": "修道院生活；禁欲主义；出家；隐修制度"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "修道院生活方式，隐修制度（或规章）",
+      "tran_en": "the monastic system, movement, or way of life "
+    }
+  ],
+  "exchange": {}
+}

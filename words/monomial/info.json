@@ -1,0 +1,33 @@
+{
+  "word": "monomial",
+  "ipa": {
+    "us": "mɒ'nəʊmɪəl",
+    "uk": "mə'noʊmɪrl"
+  },
+  "sentences": [
+    {
+      "en": "The algorithm utilizes the common nullspace of a set of fourth-order cumulant matrices of the output signals to identify an unknown MIMO channel impulse response up to a constant monomial matrix.",
+      "cn": "该算法利用一组输出信号的四阶累积量矩阵的零空间，把一个未知多输入多输出（MIMO）信道的冲激响应辨识成一个常的单项矩阵。"
+    },
+    {
+      "en": "This model uses the method of mathematical standardization of mathematical statistical theory, constructs the comprehensive evaluation method of monomial and multinomial result.",
+      "cn": "该模型利用数理统计理论中数据标准化的方法，构造了单项成绩以及多项成绩的综合评价方法。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "单项的",
+      "tran_en": "consisting of a single algebraic term "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "单项式",
+      "tran_en": "an expression consisting of a single term, such as 5ax "
+    }
+  ],
+  "exchange": {}
+}

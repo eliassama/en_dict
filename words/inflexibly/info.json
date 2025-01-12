@@ -1,0 +1,66 @@
+{
+  "word": "inflexibly",
+  "ipa": {
+    "us": "ɪn'fleksəblɪ",
+    "uk": "ɪn'fleksəblɪ"
+  },
+  "sentences": [
+    {
+      "en": "These are very dynamic people, but they manifest inflexibly in relating to the world.",
+      "cn": "这是一些很有力量的人, 但他们在与这个世界的联系中表现地过于强硬而难于妥协."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inflexible",
+          "tran_cn": " 顽固的；不可弯曲的；不屈挠的；不能转变的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inflexibility",
+          "tran_cn": " 不屈性，缺乏弹性；顽固；不变性"
+        },
+        {
+          "word": "inflexion",
+          "tran_cn": " 弯曲；转调；屈折；回折点"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "gamely",
+            "pertinaciously"
+          ],
+          "tran_cn": "不屈地，执拗地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "不屈曲地，不屈地"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "inflexibility"
+    ],
+    "adj": [
+      "inflexible"
+    ]
+  }
+}

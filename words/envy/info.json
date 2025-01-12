@@ -1,0 +1,219 @@
+{
+  "word": "envy",
+  "ipa": {
+    "us": "ˈenvi",
+    "uk": "ˈenvi"
+  },
+  "sentences": [
+    {
+      "en": "Alice's girlfriends were green with envy when they saw her new dress.",
+      "cn": "爱丽丝的女友们看到她的新衣服很妒忌."
+    },
+    {
+      "en": "Britain is now the envy of the world's record companies.",
+      "cn": "英国现在是全世界唱片公司羡慕的对象。"
+    },
+    {
+      "en": "Could there have been a slight tinge of envy in Eva's voice?",
+      "cn": "伊娃的声音里可能会有一丝羡慕吗？"
+    },
+    {
+      "en": "Glover thinks that Smith did him down, perhaps out of envy.",
+      "cn": "格洛弗认为史密斯说他坏话，也许是出于嫉妒。"
+    },
+    {
+      "en": "Gradually he began to acknowledge his feelings of envy towards his mother.",
+      "cn": "渐渐地，他开始承认自己羡慕母亲。"
+    },
+    {
+      "en": "He couldn't conceal his envy of me.",
+      "cn": "他掩饰不住对我的忌妒。"
+    },
+    {
+      "en": "I don't envy your journey in this bad weather.",
+      "cn": "我并不羡慕你在这样恶劣的天气里旅行."
+    },
+    {
+      "en": "I felt a twinge of envy for the people who lived there.",
+      "cn": "我对住在那儿的人产生过一阵嫉妒."
+    },
+    {
+      "en": "I really envy you and Ian, you seem so happy together.",
+      "cn": "我真是羡慕你和伊恩，你俩在一起看起来多幸福。"
+    },
+    {
+      "en": "I was filled with envy at their adventurous lifestyle.",
+      "cn": "我很羨慕他们敢于冒险的生活方式."
+    },
+    {
+      "en": "Klein's most important work is called \"Envy and Gratitude\"",
+      "cn": "克莱因最重要的著作名为《嫉妒与感激》。"
+    },
+    {
+      "en": "Maybe there is jealousy, but I think the envy is more powerful.",
+      "cn": "也许是羡慕，但我认为更多的是嫉妒。"
+    },
+    {
+      "en": "She could see that all the other girls were green with envy(= feeling a lot of envy ).",
+      "cn": "她看得出其他女孩都很眼红。"
+    },
+    {
+      "en": "She has a lifestyle which most people would envy.",
+      "cn": "她的生活方式会令大多数人感到羡慕。"
+    },
+    {
+      "en": "She was caught between envy and admiration.",
+      "cn": "她不知是该妒忌还是该羡慕。"
+    },
+    {
+      "en": "They enjoyed an income and lifestyle that many people would envy.",
+      "cn": "他们的收入和生活方式会令很多人都羡慕不已。"
+    },
+    {
+      "en": "They were full of envy when they saw my new car.",
+      "cn": "他们看了我的新汽车,都非常羡慕."
+    },
+    {
+      "en": "Unconscious envy manifests itself very often as this kind of arrogance.",
+      "cn": "潜意识里的嫉妒常表现为这种傲慢自大。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "enviable",
+          "tran_cn": " 值得羡慕的；引起忌妒的"
+        },
+        {
+          "word": "envious",
+          "tran_cn": " 羡慕的；嫉妒的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "enviably",
+          "tran_cn": " 羡慕地；妒忌地"
+        },
+        {
+          "word": "enviously",
+          "tran_cn": " 羡慕地；嫉妒地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "jealousy",
+            "green-eyed monster"
+          ],
+          "tran_cn": "嫉妒，妒忌；羡慕"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "be",
+            "covet",
+            "crave",
+            "jealous",
+            "of"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "be",
+            "covet",
+            "jealous",
+            "of"
+          ],
+          "tran_cn": "妒忌;羡慕"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "envy of",
+      "tran_cn": "嫉妒…；羡慕…"
+    },
+    {
+      "phrase": "green with envy",
+      "tran_cn": "adj. 非常嫉妒的"
+    },
+    {
+      "phrase": "lost in envy",
+      "tran_cn": "非常嫉妒"
+    },
+    {
+      "phrase": "out of envy",
+      "tran_cn": "adv. 出于忌妒"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "羡慕（的对象）",
+      "tran_en": "the feeling of wanting something that someone else has"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": " 嫉妒， 羡慕",
+      "tran_en": "to wish that you had someone else’s possessions, abilities etc"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": "忌妒，妒忌的对象；羡慕",
+      "tran_en": "to wish that you had someone else’s possessions, abilities etc"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "羡慕",
+      "tran_en": "to wish that you had someone else’s possessions, abilities etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "羡慕，妒忌",
+      "tran_en": "to wish that you had someone else’s possessions, abilities etc"
+    },
+    {
+      "pos": "vt&n",
+      "tran_cn": "妒忌；羡慕",
+      "tran_en": "to wish that you had someone else’s possessions, abilities etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "envies"
+    ],
+    "third": [
+      "envies"
+    ],
+    "past": [
+      "envied"
+    ],
+    "done": [
+      "envied"
+    ],
+    "ing": [
+      "envying"
+    ]
+  }
+}

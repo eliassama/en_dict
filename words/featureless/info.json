@@ -1,0 +1,90 @@
+{
+  "word": "featureless",
+  "ipa": {
+    "us": "ˈfi:tʃələs",
+    "uk": "ˈfitʃərləs"
+  },
+  "sentences": [
+    {
+      "en": "featureless plains",
+      "cn": "毫无特色的平原"
+    },
+    {
+      "en": "Malone looked out at the grey-green featureless landscape.",
+      "cn": "马隆向外看着毫无特色的灰绿色的景致。"
+    },
+    {
+      "en": "The countryside is flat and featureless.",
+      "cn": "这乡村一马平川，平淡无奇。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "featured",
+          "tran_cn": " 特定的；被作为特色的；有…的面貌特征的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "feature",
+          "tran_cn": " 特色，特征；容貌；特写或专题节目"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "featured",
+          "tran_cn": " 使…有特色；起重要作用（feature的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "feature",
+          "tran_cn": " 起重要作用"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "feature",
+          "tran_cn": " 特写；以…为特色；由…主演"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "indistinctive"
+          ],
+          "tran_cn": "无特色的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "无特色的，平凡的",
+      "tran_en": "a featureless place has no interesting parts to notice"
+    }
+  ],
+  "exchange": {}
+}

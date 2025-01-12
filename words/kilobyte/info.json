@@ -1,0 +1,40 @@
+{
+  "word": "kilobyte",
+  "ipa": {
+    "us": " 'kɪləʊ.baɪt",
+    "uk": " 'kɪlə.baɪt"
+  },
+  "sentences": [
+    {
+      "en": "Ext2fs is designed for block devices like IDE devices, where the logical block size will be on the order of 512 bytes, 1 kilobyte, and so on.",
+      "cn": "Ext2fs 是为象 IDE 设备那样的块设备设计的，这些设备的逻辑块大小是 512 字节，1 K 字节等这样的倍数。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "kbyte"
+          ],
+          "tran_cn": "[计]千字节，1024字节"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[计] 千字节，1024字节",
+      "tran_en": "a unit for measuring computer information, equal to 1,024 bytes"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "千字节，1024字节"
+    }
+  ],
+  "exchange": {}
+}

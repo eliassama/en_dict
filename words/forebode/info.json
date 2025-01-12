@@ -1,0 +1,104 @@
+{
+  "word": "forebode",
+  "ipa": {
+    "us": "fɔ:'bəʊd",
+    "uk": "fɔrˈbod, for-"
+  },
+  "sentences": [
+    {
+      "en": "Black clouds forebode a storm.",
+      "cn": "乌云预示有暴风雨."
+    },
+    {
+      "en": "can be, if I forebode aright, no power, short of the Divine mercy, to disclose, whether by uttered words, or by type or emblem, the secrets that may be buried with a human heart.",
+      "cn": "如果我的预感不错的话，除去上天的仁慈，没有什么力量，无论是通过讲出来的语言或是任何形式的标志，能够揭示可能埋在一个人心里的秘密。"
+    },
+    {
+      "en": "It is very difficult to forebode all the time.",
+      "cn": "人生总是很难预料."
+    },
+    {
+      "en": "The dark clouds forebode a rainstorm.",
+      "cn": "乌云预示着暴风雨即将来临."
+    },
+    {
+      "en": "These black clouds forebode a violent storm.",
+      "cn": "这些乌云预示着狂风暴雨即将到来."
+    },
+    {
+      "en": "These developments forebode disaster.",
+      "cn": "这些情况预示著要有灾祸."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "foreboding",
+          "tran_cn": " 预感的；不祥之兆的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "foreboding",
+          "tran_cn": " 预感；先兆；预兆"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "threaten",
+            "warn"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "forbode"
+          ],
+          "tran_cn": "预示；预感；预兆"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预示, 预言, 预兆, 预感",
+      "tran_en": "to warn of or indicate (an event, result, etc) in advance "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<正>预示（灾祸等）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "forebodes"
+    ],
+    "past": [
+      "foreboded"
+    ],
+    "done": [
+      "foreboded"
+    ],
+    "ing": [
+      "foreboding"
+    ]
+  }
+}

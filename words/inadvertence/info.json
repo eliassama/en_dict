@@ -1,0 +1,70 @@
+{
+  "word": "inadvertence",
+  "ipa": {
+    "us": "ˌinədˈvə:təns",
+    "uk": "ˌɪnədˈvɚtns"
+  },
+  "sentences": [
+    {
+      "en": "M : Emotional reactions, born of ignorance or inadvertence, are never justified.",
+      "cn": "因无明及失察而起的情绪反应永不会合理."
+    },
+    {
+      "en": "Mistakes proceed from inadvertence.",
+      "cn": "错误出自粗心大意."
+    },
+    {
+      "en": "Study the prison you have built around yourself by inadvertence.",
+      "cn": "考察你因心不在焉给自己做成的困窘."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inadvertent",
+          "tran_cn": " 疏忽的；不注意的（副词inadvertently）；无意中做的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "inadvertently",
+          "tran_cn": " 非故意地；不注意地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "absence",
+            "inattention"
+          ],
+          "tran_cn": "不注意；怠慢，疏忽"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "不注意，怠慢，漫不经心"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "inadvertently"
+    ],
+    "adj": [
+      "inadvertent"
+    ]
+  }
+}

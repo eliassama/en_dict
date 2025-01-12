@@ -1,0 +1,80 @@
+{
+  "word": "unknowing",
+  "ipa": {
+    "us": "ʌnˈnəʊɪŋ",
+    "uk": "ʌnˈnoʊɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Farmers can unknowing this spreads unknowingly spread the infection with their cutting tools.",
+      "cn": "农民们在使用刀具时不知不觉地便扩大了疾病的传染范围."
+    },
+    {
+      "en": "Longing for full knowledge, one must chart route through the murk of unknowing.",
+      "cn": "有时由于渴望取得全面了解, 还必须在一片无知的混沌之中开出一条路子来."
+    },
+    {
+      "en": "Some governments have been victims and perhaps unknowing accomplices in the bank's activities.",
+      "cn": "有些政府曾是银行行为的受害者或不知情的同谋。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "unknowable",
+          "tran_cn": " 不可知的；不能知道的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "unknowingly",
+          "tran_cn": " 不知不觉地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "unware",
+            "unaware"
+          ],
+          "tran_cn": "不知道的；没有察觉的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "insensible",
+            "unaware"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "没查觉的，无知的",
+      "tran_en": "not realizing what you are doing or what is happening"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "unknowingly"
+    ]
+  }
+}

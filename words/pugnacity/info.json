@@ -1,0 +1,65 @@
+{
+  "word": "pugnacity",
+  "ipa": {
+    "us": "pʌɡ'næsətɪ",
+    "uk": "pʌɡˈnæsətɪ"
+  },
+  "sentences": [
+    {
+      "en": "He is legendary for his fearlessness and pugnacity.",
+      "cn": "他是出了名的大胆好斗。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pugnacious",
+          "tran_cn": " 好斗的，好战的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bellicosity",
+            "truculency"
+          ],
+          "tran_cn": "好斗，好战"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "offensive"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "好斗，好战",
+      "tran_en": "Pugnacity is the quality of being pugnacious"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "pugnaciously"
+    ],
+    "adj": [
+      "pugnacious"
+    ]
+  }
+}

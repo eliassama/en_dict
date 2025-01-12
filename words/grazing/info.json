@@ -1,0 +1,167 @@
+{
+  "word": "grazing",
+  "ipa": {
+    "us": "ˈɡreɪzɪŋ",
+    "uk": "ˈɡreɪzɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Cattle were grazing on the meadow.",
+      "cn": "牛在牧场上吃草."
+    },
+    {
+      "en": "Cows were grazing in the field.",
+      "cn": "牛在野外吃草."
+    },
+    {
+      "en": "Cows were grazing on the marshes.",
+      "cn": "牛群在湿地上吃草。"
+    },
+    {
+      "en": "He had nearly a thousand acres of grazing and arable land.",
+      "cn": "他有将近1,000公顷的草场和耕地。"
+    },
+    {
+      "en": "He will need more grazing land and perhaps La Prade could lease him a few acres.",
+      "cn": "他将需要更多牧场，也许拉普拉德可以租几英亩地给他。"
+    },
+    {
+      "en": "Horses are grazing in the pasture.",
+      "cn": "马儿正在牧场上吃草."
+    },
+    {
+      "en": "I counted 34 wild goats grazing.",
+      "cn": "我数了数，有34只野山羊在啃草。"
+    },
+    {
+      "en": "Lawsuits involving property rights and farming and grazing rights increased markedly.",
+      "cn": "涉及财产权,耕作与放牧权的诉讼案件显著地增加."
+    },
+    {
+      "en": "Scientists have found the bones of a hoofed grazing animal about the size of a small horse.",
+      "cn": "科学家们已经发现了一种约有马驹般大小的有蹄草食性动物的骨骼。"
+    },
+    {
+      "en": "The cattle are grazing in the field.",
+      "cn": "牛群在田野上吃草."
+    },
+    {
+      "en": "The cattle were grazing in the fields.",
+      "cn": "牛群在田野中吃青草."
+    },
+    {
+      "en": "The cows are out now, grazing in the pasture.",
+      "cn": "牛现在已经放出去了，正在牧场上吃草。"
+    },
+    {
+      "en": "There we saw herds of cows grazing on the pasture.",
+      "cn": "我们在那里看到一群群的牛在草地上吃草."
+    },
+    {
+      "en": "There were cows grazing beside the river.",
+      "cn": "有些牛在河边吃草。"
+    },
+    {
+      "en": "We're grazing the sheep in the next field.",
+      "cn": "我们正在旁边一块地里放羊."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "grazed",
+          "tran_cn": " 擦破的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "graze",
+          "tran_cn": " 放牧；轻擦"
+        },
+        {
+          "word": "grazier",
+          "tran_cn": " 放牧人；畜牧业者；牧场主"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "grazed",
+          "tran_cn": " 擦过；放牧（graze的过去分词）；抓破"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "graze",
+          "tran_cn": " 吃草；擦伤"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "graze",
+          "tran_cn": " 放牧；擦伤"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "pasturage"
+          ],
+          "tran_cn": "[畜牧]放牧；牧草"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "grazing angle",
+      "tran_cn": "入射余角；掠射角；切线角"
+    },
+    {
+      "phrase": "grazing incidence",
+      "tran_cn": "掠入射；切线入射；临界入射"
+    },
+    {
+      "phrase": "grazing land",
+      "tran_cn": "牧场；放牧地"
+    },
+    {
+      "phrase": "rotational grazing",
+      "tran_cn": "循环放牧"
+    },
+    {
+      "phrase": "sheep are grazing",
+      "tran_cn": "羊在吃草"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "放牧，牧场，草场",
+      "tran_en": "Grazing or grazing land is land on which animals graze"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（让动物）吃草( graze的现在分词 )，轻擦，擦破，擦过，掠过"
+    }
+  ],
+  "exchange": {}
+}

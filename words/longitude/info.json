@@ -1,0 +1,144 @@
+{
+  "word": "longitude",
+  "ipa": {
+    "us": "ˈlɒŋɡɪtjuːd",
+    "uk": "ˈlɑːndʒɪtuːd"
+  },
+  "sentences": [
+    {
+      "en": "A concrete control which supports editing a longitude value.",
+      "cn": "一种提供编辑经度值的控制器."
+    },
+    {
+      "en": "A similar feature is found at 13 degrees North between 230 degrees and 250 degrees longitude.",
+      "cn": "在北纬13度、经度230度到250度之间发现了类似的特征。"
+    },
+    {
+      "en": "All places on the same meridian have the same longitude.",
+      "cn": "在同一子午线上的地方都有相同的经度."
+    },
+    {
+      "en": "All points on the same meridian have the same longitude.",
+      "cn": "同一条经线上的所有点经度相同."
+    },
+    {
+      "en": "Each point on Earth is specified by geographic latitude and longitude.",
+      "cn": "地球上每一点都可以用地理纬度和经度来确定."
+    },
+    {
+      "en": "Every place on the same meridian has the same longitude.",
+      "cn": "同一经线上的地方其经度相同."
+    },
+    {
+      "en": "He noted the latitude and longitude, then made a mark on the admiralty chart.",
+      "cn": "他记下纬度和经度，然后在航海图上做了个标记。"
+    },
+    {
+      "en": "Our position is longitude 116 degrees east.",
+      "cn": "我们的位置是东经116度."
+    },
+    {
+      "en": "Photographs with GPS information stored inside EXIF block show longitude, latitude location.",
+      "cn": "照片与GPS的EXIF信息存储在块显示经度, 纬度位置."
+    },
+    {
+      "en": "Terrestrial longitude is measured in degrees east or west of the Greenwich meridian.",
+      "cn": "地球的经度是用格林尼治子午线向东或向西的度数来表示的."
+    },
+    {
+      "en": "The city is at longitude 21°east.",
+      "cn": "这个城市位于东经21度。"
+    },
+    {
+      "en": "The city is at longitude 21� � east.",
+      "cn": "这个城市位于东经21度."
+    },
+    {
+      "en": "The line of zero degree longitude passes through Greenwich.",
+      "cn": "经度零度线穿过格林威治."
+    },
+    {
+      "en": "The longitude of New York is 74 degrees west of Greenwich.",
+      "cn": "纽约的经度是西经74度."
+    },
+    {
+      "en": "the longitude of the island",
+      "cn": "那座岛的经度"
+    },
+    {
+      "en": "The town lies at longitude 12˚ east.",
+      "cn": "这个镇位于东经12度。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "longitudinal",
+          "tran_cn": "长度的，纵向的；经线的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "longitudinally",
+          "tran_cn": "长度上，经向；经度上"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "lon",
+            "shute"
+          ],
+          "tran_cn": "[地理]经度；经线"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "measurement"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "east longitude",
+      "tran_cn": "东经"
+    },
+    {
+      "phrase": "latitude and longitude",
+      "tran_cn": "经纬度"
+    },
+    {
+      "phrase": "west longitude",
+      "tran_cn": "西经"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "经度，经线，[天]黄经",
+      "tran_en": "the distance of a place east or west of the Greenwich meridian, measured in degrees"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "longitudes"
+    ]
+  }
+}

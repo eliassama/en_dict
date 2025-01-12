@@ -1,0 +1,185 @@
+{
+  "word": "bearer",
+  "ipa": {
+    "us": "ˈbeərə(r)",
+    "uk": "ˈberə(r)"
+  },
+  "sentences": [
+    {
+      "en": "For details, please see the bearer.",
+      "cn": "详情请和来人面洽."
+    },
+    {
+      "en": "He hated always to be the bearer of bad tidings.",
+      "cn": "他讨厌总是带去坏消息。"
+    },
+    {
+      "en": "He rewarded the bearer before reading the note.",
+      "cn": "他在读那短笺之前,先给送信人小费."
+    },
+    {
+      "en": "He was the U.S. flag bearer at the 1976 Montreal Games.",
+      "cn": "他是1976年蒙特利尔奥运会上美国的举旗手。"
+    },
+    {
+      "en": "I am the bearer of good tidings .",
+      "cn": "我带来了好消息。"
+    },
+    {
+      "en": "I hate to be the bearer of bad news , but ...",
+      "cn": "我真不愿意报告坏消息，但是…"
+    },
+    {
+      "en": "I hate to be the bearer of bad news.",
+      "cn": "我讨厌告诉别人坏消息。"
+    },
+    {
+      "en": "I'm sorry to be the bearer of bad news.",
+      "cn": "很遗憾我带来了坏消息。"
+    },
+    {
+      "en": "Let the bearer see his wife.'",
+      "cn": "请让此人见她. ”"
+    },
+    {
+      "en": "Nixon was less likely to brush off the bearer of unwelcome intelligence.",
+      "cn": "尼克松不大可能对他的逆耳之言置之不理."
+    },
+    {
+      "en": "On such occasions she was the bearer of replies.",
+      "cn": "在这种时机,她是回话的传达者."
+    },
+    {
+      "en": "She is the bearer of good news.",
+      "cn": "她带来了好消息."
+    },
+    {
+      "en": "Spanish identity documents state the bearer's profession.",
+      "cn": "西班牙的身份证件会注明证件持有者的职业。"
+    },
+    {
+      "en": "The note says \" Payable to bearer on demand \".",
+      "cn": "票据上写着: \" 见票即付 \"."
+    },
+    {
+      "en": "The Speaker is preceded by the mace-bearer upon his entry to the chamber.",
+      "cn": "当议长走进议事厅的时候，前面由执议长权标的人开路。"
+    },
+    {
+      "en": "The tree is a good bearer.",
+      "cn": "这树产果子甚多."
+    },
+    {
+      "en": "The tsetse fly is a bearer of sleeping sickness.",
+      "cn": "采采蝇为传染昏睡病的媒介."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bearable",
+          "tran_cn": " 可忍受的；支持得住的"
+        },
+        {
+          "word": "bearish",
+          "tran_cn": " 粗暴的；如熊的；股票看跌的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bear",
+          "tran_cn": " 熊"
+        },
+        {
+          "word": "bearing",
+          "tran_cn": " [机] 轴承；关系；方位；举止"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bearing",
+          "tran_cn": " 忍受（bear的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "bear",
+          "tran_cn": " 承受；结果实"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bear",
+          "tran_cn": " 忍受；具有；支撑"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cheque holder",
+            "runner"
+          ],
+          "tran_cn": "[专利][金融]持票人；[建]承木；[机]托架；送信人；搬运工人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "carrier",
+            "messenger",
+            "postman"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "standard bearer",
+      "tran_cn": "倡导者；旗手"
+    },
+    {
+      "phrase": "torch bearer",
+      "tran_cn": "火炬手"
+    },
+    {
+      "phrase": "water bearer",
+      "tran_cn": "n. [天]宝瓶座"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "持票人，送信人，搬运工人",
+      "tran_en": "The bearer of something such as a message is the person who brings it to you"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bearers"
+    ]
+  }
+}

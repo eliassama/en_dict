@@ -1,0 +1,58 @@
+{
+  "word": "desegregate",
+  "ipa": {
+    "us": "ˌdi:ˈsegrɪgeɪt",
+    "uk": "ˌdi'seɡrɪɡeɪt"
+  },
+  "sentences": [
+    {
+      "en": "The courts ordered busing to desegregate the schools.",
+      "cn": "法律规定要用校车运送学生来打破学校的种族隔离。"
+    },
+    {
+      "en": "The United States was working to desegregate the military, schools, and all public facilities.",
+      "cn": "美国当时正在着手废除对军队、学校和所有公共设施实施的种族隔离。"
+    },
+    {
+      "en": "We have succeeded in persuading many districts to desegregate voluntarily.",
+      "cn": "我们已圆满地劝服了许多地方自愿取消种族隔离."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "desegregation",
+          "tran_cn": " 废止种族歧视"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "废止种族隔离",
+      "tran_en": "to end a system in which people of different races are kept separate"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "desegregates"
+    ],
+    "past": [
+      "desegregated"
+    ],
+    "done": [
+      "desegregated"
+    ],
+    "ing": [
+      "desegregating"
+    ],
+    "noun": [
+      "desegregation"
+    ]
+  }
+}

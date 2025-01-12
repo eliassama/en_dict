@@ -1,0 +1,58 @@
+{
+  "word": "eukaryote",
+  "ipa": {
+    "us": "jʊ'kærɪəʊt",
+    "uk": "ju'kærioʊiət"
+  },
+  "sentences": [
+    {
+      "en": "Amazingly, these mitochondria were once free - living bacteria that were captured by an early single - celled eukaryote.",
+      "cn": "令人惊奇的是, 这些线粒体曾是被早期 单细胞 真核生物俘获的自生细菌."
+    },
+    {
+      "en": "Grypania may have been either a bacterial colony or a eukaryote — an organism with specialized cells, enclosed in a membrane.",
+      "cn": "卷曲藻可能是一个菌落，或者一种真核生物——其包裹在细胞膜内的细胞功能已经出现分化的生物体。"
+    },
+    {
+      "en": "Many research teams have been striving to determine the structure of a eukaryote ribosome (see 'Structures of desire').",
+      "cn": "许多研究小组力求确定一个真核核糖的结构（看到向往的结构）。"
+    },
+    {
+      "en": "Scientists now know that this common ancestor, 'the first eukaryote', was a lot more sophisticated than any known bacterium.",
+      "cn": "科学家现在知道，这个共同的祖先，“第一真核生物”比任何已知的细菌都要复杂得多。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "eukaryotic",
+          "tran_cn": " 真核的，真核生物的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "eucaryon"
+          ],
+          "tran_cn": "真核细胞（等于eucaryote）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "真核细胞",
+      "tran_en": "any member of the Eukarya, a domain of organisms having cells each with a distinct nucleus within which the genetic material is contained"
+    }
+  ],
+  "exchange": {}
+}

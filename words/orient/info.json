@@ -1,0 +1,239 @@
+{
+  "word": "orient",
+  "ipa": {
+    "us": "ˈɔːrient",
+    "uk": "ˈɔːrient"
+  },
+  "sentences": [
+    {
+      "en": "Anxiety comes from not being able to orient yourself in your own existence.",
+      "cn": "不能适应生活便会产生焦虑。"
+    },
+    {
+      "en": "As a result it's important to use visual cues to orient users.",
+      "cn": "因此需要提供视觉上的提示来标识位置和方向,这很重要."
+    },
+    {
+      "en": "Because it can orient any maps to the direction I'm facing.",
+      "cn": "因为它能为地图程序做指向并根据行进方向旋转地图."
+    },
+    {
+      "en": "I haven't been able to orient my ideas to the new conditions.",
+      "cn": "我还未能使自己的观点适应新情况."
+    },
+    {
+      "en": "It is often economical to orient the flight lines in one direction rather than another.",
+      "cn": "把航线定向在某一方向上住住会比定向在另一方向上更加经济."
+    },
+    {
+      "en": "It takes new students a while to orientate themselves to college life.",
+      "cn": "新生要经过一段时间才能适应大学生活。"
+    },
+    {
+      "en": "Overviews serve a similar purpose to signposts in an interface: They help to orient users.",
+      "cn": "界面总体视图起着与导航标志相同的作用,即帮助用户定位."
+    },
+    {
+      "en": "She lay still for a few seconds, trying to orient herself.",
+      "cn": "她静静地躺了一会儿，试图弄清自己的方位。"
+    },
+    {
+      "en": "She looked at the street names, trying to orient herself.",
+      "cn": "她看看街名，试图确定自己的方位。"
+    },
+    {
+      "en": "The climbers stopped to orient themselves before descending the mountain.",
+      "cn": "登山者先停下来确定所在的位置,然后再下山."
+    },
+    {
+      "en": "The dean of students tries to orient the freshmen.",
+      "cn": "训导主任努力帮助一年级新生适应环境."
+    },
+    {
+      "en": "The explorer climbed a tree in order to orient himself.",
+      "cn": "探险家爬上树以认清方向."
+    },
+    {
+      "en": "The Orient equitation club is mainly for its members who like riding.",
+      "cn": "骑术俱乐部以会员为主,聚集了各界的爱马人士,并对游园客人等开放."
+    },
+    {
+      "en": "These not only help in presentation but also help orient users.",
+      "cn": "这不仅有助于表达,而且可以帮助使用者在创建时更好地定位."
+    },
+    {
+      "en": "We must orient our products to the needs of the market.",
+      "cn": "我们必须使我们的产品适应市场的需要."
+    },
+    {
+      "en": "We must orient our work to the needs of the people.",
+      "cn": "我们必须使我们的工作面向人民的需要."
+    },
+    {
+      "en": "You can orient yourself by remembering that the hill is due north.",
+      "cn": "只要记住这座小山位于正北方,你就能确定你所在的方位了."
+    },
+    {
+      "en": "You will need the time to orient yourself to your new way of eating.",
+      "cn": "你需要时间适应新的吃法。"
+    },
+    {
+      "en": "You will need the time to orient yourself to your new way of eating.",
+      "cn": "你需要时间适应新的吃法。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "oriental",
+          "tran_cn": " 东方的；东方人的"
+        },
+        {
+          "word": "oriented",
+          "tran_cn": " 导向的；定向的；以…为方向的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "oriental",
+          "tran_cn": " 东方人"
+        },
+        {
+          "word": "orientation",
+          "tran_cn": " 方向；定向；适应；情况介绍；向东方"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "orientalize",
+          "tran_cn": " 东方化"
+        },
+        {
+          "word": "oriented",
+          "tran_cn": " 调整；使朝向（orient的过去分词）；确定…的方位"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "orientate",
+          "tran_cn": " 向东；定向"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "orientate",
+          "tran_cn": " 给...定位；使适应"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "eastern"
+          ],
+          "tran_cn": "东方的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "east"
+          ],
+          "tran_cn": "东方；东方诸国"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to the east"
+          ],
+          "tran_cn": "向东"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "adapt",
+            "condition",
+            "suit",
+            "season"
+          ],
+          "tran_cn": "使适应；确定方向；使朝东"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "orient express",
+      "tran_cn": "东方快车"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "东方的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "东方，亚洲，亚洲各国",
+      "tran_en": "the eastern part of the world, especially China and Japan"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使适应；确定方向；使朝东",
+      "tran_en": "to find exactly where you are by looking around you or using a map"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "转向东方，使调整或者成为一条直线",
+      "tran_en": "to find exactly where you are by looking around you or using a map"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "标定方向，使…向东方，以…为参照，使熟悉或适应",
+      "tran_en": "to find exactly where you are by looking around you or using a map"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "orients"
+    ],
+    "past": [
+      "oriented"
+    ],
+    "done": [
+      "oriented"
+    ],
+    "ing": [
+      "orienting"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "word": "potentiate",
+  "ipa": {
+    "us": "pə'tenʃɪeɪt",
+    "uk": "pəˈtɛnʃiˌet"
+  },
+  "sentences": [
+    {
+      "en": "Circulating exosomes potentiate tumor malignant properties in a mouse model of chronic sleep fragmentation.",
+      "cn": "循环外泌体加强了小鼠慢性片段睡眠模型的肿瘤恶性属性。"
+    },
+    {
+      "en": "Concomitant therapy with other calcium antagonists, antihypertensives and alcohol may potentiate the hypotensive action of drug.",
+      "cn": "与其他的钙桔抗剂 、 高血压药物及酒精饮料同时使用,会增强本品的降低血压的作用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "potency",
+          "tran_cn": " 效能；力量；潜力；权势"
+        },
+        {
+          "word": "potentate",
+          "tran_cn": " 统治者，君主；有权势的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "governor",
+            "ruler"
+          ],
+          "tran_cn": "统治者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "enhance",
+            "cement",
+            "muscle",
+            "build up"
+          ],
+          "tran_cn": "加强；赋与力量"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 加强， 强化",
+      "tran_en": "to cause to be potent "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使强有力，增强（尤指药物）效能，使可能"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "potentiates"
+    ],
+    "past": [
+      "potentiated"
+    ],
+    "done": [
+      "potentiated"
+    ],
+    "ing": [
+      "potentiating"
+    ]
+  }
+}

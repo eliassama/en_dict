@@ -1,0 +1,181 @@
+{
+  "word": "rash",
+  "ipa": {
+    "us": "ræʃ",
+    "uk": "ræʃ"
+  },
+  "sentences": [
+    {
+      "en": "Don't be rash in making your decision.",
+      "cn": "别轻率做出决定."
+    },
+    {
+      "en": "Don't do anything rash until the feel-ings subside.",
+      "cn": "在冷静下来之前不要鲁莽行事。"
+    },
+    {
+      "en": "Don’t go making any rash decisions about your future!",
+      "cn": "不要对你的未来贸然作决定！"
+    },
+    {
+      "en": "Don't make a rash act.",
+      "cn": "不要轻举妄动."
+    },
+    {
+      "en": "Have you consulted a doctor about your rash?",
+      "cn": "你找医生看过你的疹子 吗 ?"
+    },
+    {
+      "en": "He may break out in a rash when he eats these nuts.",
+      "cn": "他吃了这些坚果可能会长皮疹。"
+    },
+    {
+      "en": "Heat rash rises on his back.",
+      "cn": "他背上起痱子了."
+    },
+    {
+      "en": "Heat sometimes causes a prickly rash on the skin.",
+      "cn": "热有时使皮肤上生剌痛的疹子."
+    },
+    {
+      "en": "Her hands have broken out in a rash.",
+      "cn": "她双手忽然出满了皮疹."
+    },
+    {
+      "en": "I woke up covered in a rash.",
+      "cn": "我醒来时长了一身皮疹。"
+    },
+    {
+      "en": "It was rather rash of you to lend them your car.",
+      "cn": "你把汽车借给他们实在有欠考虑。"
+    },
+    {
+      "en": "My skin has broken out in an itchy rash.",
+      "cn": "我的皮肤上突然长出一片让人发痒的皮疹."
+    },
+    {
+      "en": "Now a rash of scruffy little shops bordered one side of the street.",
+      "cn": "现在街道的一边排满了各种破旧的小店。"
+    },
+    {
+      "en": "Please Jessie, don’t do anything rash.",
+      "cn": "求你了，杰西，不要草率行事。"
+    },
+    {
+      "en": "The rash most commonly appears on the back.",
+      "cn": "皮疹经常长在后背上."
+    },
+    {
+      "en": "The rash of accidental shootings underscores how difficult it will be to restore order here.",
+      "cn": "一连串的意外枪击事件凸显了恢复该地区的秩序有多困难。"
+    },
+    {
+      "en": "They believe this confusion is responsible for a rash of suicides this spring.",
+      "cn": "他们认为今年春天一连串的自杀事件是由这次混乱引起的。"
+    },
+    {
+      "en": "When I changed to a new soap I came out in a terrible rash.",
+      "cn": "我换了块新香皂，结果就起了严重的疹子。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "rashly",
+          "tran_cn": "轻率地；鲁莽地；无见识地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rashness",
+          "tran_cn": "轻率；皮肤上短暂出现的疹子"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "hasty",
+            "imprudent"
+          ],
+          "tran_cn": "轻率的；鲁莽的；不顾后果的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "quat",
+            "tetter"
+          ],
+          "tran_cn": "[皮肤]皮疹；突然大量出现的事物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "brash",
+            "careless",
+            "hasty",
+            "impetuous",
+            "imprudent",
+            "impulsive",
+            "reckless",
+            "sudden"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "diaper rash",
+      "tran_cn": "[医]尿布疹"
+    },
+    {
+      "phrase": "skin rash",
+      "tran_cn": "皮疹"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "鲁莽的，轻率的，性急的，不顾后果的",
+      "tran_en": "(of people or their actions) doing sth that may not be sensible without first thinking about the possible results; done in this way"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "（皮）疹，爆发，同时大量出现的事件",
+      "tran_en": "a lot of red spots on someone’s skin, caused by an illness"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rashes"
+    ],
+    "er": [
+      "rasher"
+    ],
+    "est": [
+      "rashest"
+    ],
+    "adv": [
+      "rashly"
+    ]
+  }
+}

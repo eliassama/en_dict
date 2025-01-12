@@ -1,0 +1,149 @@
+{
+  "word": "parallelism",
+  "ipa": {
+    "us": "ˈpærəlelɪzəm",
+    "uk": "ˈpærəlɛlˌɪzəm"
+  },
+  "sentences": [
+    {
+      "en": "Don't exaggerate the parallelism between the two cases.",
+      "cn": "不要夸大那两件事的相似性."
+    },
+    {
+      "en": "I fully persuaded that this double parallelism is by no means an accident or an illusion.",
+      "cn": "我充分确信,这种双重的平行现象,决非出于偶然,也决不是一种错觉."
+    },
+    {
+      "en": "I think he exaggerates the parallelism between the two cases.",
+      "cn": "我认为他夸大了两件事的相似之处。"
+    },
+    {
+      "en": "I think he exaggerates the parallelism between the two cases.",
+      "cn": "我认为他夸大了两件事的相似之处。"
+    },
+    {
+      "en": "Implicit parallelism and global searching are two characteristics of genetic algorithm.",
+      "cn": "隐含并行性和全局搜索特性是遗传算法的两大特点."
+    },
+    {
+      "en": "Multi - paradigm parallelism is the characteristic of large - scale parallel application systems.",
+      "cn": "多范例并行是大规模并行应用系统的本质特征."
+    },
+    {
+      "en": "O Henry's usage of parallelism featured well - knit plot and clear rhythm.",
+      "cn": "欧亨利的使用情况,并行精选,以及严密的阴谋,并清晰的节奏."
+    },
+    {
+      "en": "People's attitude is suspicion of axiom of choice and axiom of parallelism.",
+      "cn": "人们对平行公理和选择公理的态度都表现为:怀疑."
+    },
+    {
+      "en": "The fuller development of the parallelism was to lead to analytic geometry.",
+      "cn": "这种平行性的进一步发扬便导致了解析几何的产生."
+    },
+    {
+      "en": "The GPU is the vehicle for exploiting data parallelism.",
+      "cn": "该GPU是利用车辆的数据并行."
+    },
+    {
+      "en": "The last thing we should do is make any parallelism between the murderers and their victims.",
+      "cn": "我们最不应该做的一件事就是拿凶手和被害人来比较。"
+    },
+    {
+      "en": "The parallelism in the classification of organisms and phytocoenoses is realized.",
+      "cn": "人们已认识到生物分类和植物群落分类是平行的."
+    },
+    {
+      "en": "The parallelism in the classification of organisms and phytocoenoses is relised.",
+      "cn": "在认识上生物分类和植物群落分类是平行的."
+    },
+    {
+      "en": "There is a parallelism between fatigue and the ability to sleep.",
+      "cn": "疲劳与能否入睡有关。"
+    },
+    {
+      "en": "Thses schemes have good degree of parallelism and don't need numerical bound.",
+      "cn": "其优点是有很好的并行度,且无需引入数值边界."
+    },
+    {
+      "en": "When you write a couplet, pay attention to antithetic parallelism and antithesis.",
+      "cn": "写对联时要注意排偶对仗."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "parallel",
+          "tran_cn": " 平行的；类似的，相同的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "parallel",
+          "tran_cn": " 平行线；对比"
+        },
+        {
+          "word": "parallelepiped",
+          "tran_cn": " 平行六面体"
+        },
+        {
+          "word": "parallelogram",
+          "tran_cn": " 平行四边形"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "parallel",
+          "tran_cn": " 使…与…平行"
+        },
+        {
+          "word": "parallelize",
+          "tran_cn": " 平行放置；使……平行于……"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "similarity",
+            "analogy"
+          ],
+          "tran_cn": "[数]平行；类似，对应"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "analogy",
+            "harmony"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "平行，对应，类似",
+      "tran_en": "the state of being  parallel  with something"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,186 @@
+{
+  "word": "hail",
+  "ipa": {
+    "us": "heɪl",
+    "uk": "heɪl"
+  },
+  "sentences": [
+    {
+      "en": "A nearby volcano erupted violently, sending out a hail of molten rock and boiling mud.",
+      "cn": "附近的一座火山猛烈爆发了，喷出大量熔岩和滚烫的泥流。"
+    },
+    {
+      "en": "Hail fell with such violence that it broke windows.",
+      "cn": "冰雹猛落,把玻璃窗也砸破了."
+    },
+    {
+      "en": "Hail to the new champion Bengali D'Albret.",
+      "cn": "向新科冠军本·贾利·达阿尔布雷致敬。"
+    },
+    {
+      "en": "He died as any self-respecting gangster should — in a hail of bullets.",
+      "cn": "他死于乱枪之下——匪徒典型的最终下场。"
+    },
+    {
+      "en": "heavy showers of rain and hail",
+      "cn": "夹着冰雹的阵阵大雨"
+    },
+    {
+      "en": "Here comes the new teacher, let's hail him.",
+      "cn": "新老师来了, 我们欢迎他."
+    },
+    {
+      "en": "I hail from Brighton.",
+      "cn": "我来自布赖顿。"
+    },
+    {
+      "en": "I hurried away to hail a taxi.",
+      "cn": "我赶紧去叫出租车。"
+    },
+    {
+      "en": "It’s windy and hailing outside.",
+      "cn": "外面风很大，还下着冰雹。"
+    },
+    {
+      "en": "She hails from Oklahoma.",
+      "cn": "她来自美国俄克拉荷马"
+    },
+    {
+      "en": "She leaned out of the window and hailed a passerby.",
+      "cn": "她探出窗户向一个路人大喊。"
+    },
+    {
+      "en": "The band hail from Glasgow.",
+      "cn": "乐团来自格拉斯哥。"
+    },
+    {
+      "en": "The people lined the streets to hail the returning heroes.",
+      "cn": "人们夹道欢迎凯旋的英雄们."
+    },
+    {
+      "en": "The riot police were met with a hail of stones and petrol bombs.",
+      "cn": "防暴警察遭到一阵密集的石块和汽油弹的袭击。"
+    },
+    {
+      "en": "The victim was hit by a hail of bullets.",
+      "cn": "受害者被一阵弹雨击中。"
+    },
+    {
+      "en": "There was a hail of angry words.",
+      "cn": "愤怒的话语如冰雹似地砸来."
+    },
+    {
+      "en": "These students hail from all parts of the country.",
+      "cn": "这些学生来自全国各地."
+    },
+    {
+      "en": "This is a film which seems to hail from the hippie era.",
+      "cn": "这看起来是一部嬉皮士时代的影片。"
+    },
+    {
+      "en": "We hail from all corners of the country.",
+      "cn": "我们都是来自五湖四海."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "int",
+      "words": [
+        {
+          "words": [
+            "welcome",
+            "rah"
+          ],
+          "tran_cn": "万岁；欢迎"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "precipitation",
+            "blast"
+          ],
+          "tran_cn": "[气象]冰雹；致敬；招呼；一阵"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "call",
+            "cheer",
+            "greet",
+            "shout",
+            "sleet",
+            "welcome"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hail from",
+      "tran_cn": "来自或发源于"
+    },
+    {
+      "phrase": "hail storm",
+      "tran_cn": "冰雹风暴"
+    },
+    {
+      "phrase": "within hail",
+      "tran_cn": "在招呼得到的地方；在听得见的地方"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "int",
+      "tran_cn": "万岁；欢迎"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "冰雹，一阵",
+      "tran_en": "frozen raindrops which fall as hard balls of ice"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "(下)冰雹；(冰雹般)一阵，落下",
+      "tran_en": "frozen raindrops which fall as hard balls of ice"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "向…欢呼，招呼",
+      "tran_en": "to call to someone in order to greet them or try to attract their attention"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "下冰雹，如冰雹般地降下",
+      "tran_en": "if it hails, small balls of ice fall like rain"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "致敬，打招呼，打信号示意（计程车等）停下，赞扬（或称颂）…为（尤用于报章等）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "hails"
+    ],
+    "past": [
+      "hailed"
+    ],
+    "done": [
+      "hailed"
+    ],
+    "ing": [
+      "hailing"
+    ]
+  }
+}

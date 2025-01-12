@@ -1,0 +1,76 @@
+{
+  "word": "cookout",
+  "ipa": {
+    "us": "ˈkʊkaʊt",
+    "uk": "ˈkʊkˌaʊt"
+  },
+  "sentences": [
+    {
+      "en": "a cookout on the beach",
+      "cn": "海滩上的露天烧烤"
+    },
+    {
+      "en": "Cab driver : For twenty dollars I'll take you to a Ku Klux Klan cookout!",
+      "cn": "占士邦: 那麽若你跟著那架房车后面的话,我会给你多二十元."
+    },
+    {
+      "en": "Gimi: Sounds like a plan . [ to Holly ] Will I see you at the cookout?",
+      "cn": "吉米: 听来不错. ( 对荷莉)我会在野炊时见到你 吗 ?"
+    },
+    {
+      "en": "I've been invited to a cookout this weekend.",
+      "cn": "我这周末已经被邀去参加野炊."
+    },
+    {
+      "en": "Why don't you guys come a cookout on Friday night?",
+      "cn": "你们星期五晚上何不去野炊?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cooking",
+          "tran_cn": " 烹调用的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cookery",
+          "tran_cn": " 烹调术；烹调业"
+        },
+        {
+          "word": "cooking",
+          "tran_cn": " 烹饪"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "cooking",
+          "tran_cn": " 烹调；筹划（cook的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "在外面野餐的郊游",
+      "tran_en": "a party or occasion when a meal is cooked and eaten outdoors"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cookouts"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "word": "suggestible",
+  "ipa": {
+    "us": "səˈdʒestəbl",
+    "uk": "səɡˈdʒɛstəbəl, səˈdʒɛs-"
+  },
+  "sentences": [
+    {
+      "en": "...highly suggestible and compliant individuals.",
+      "cn": "耳根软、非常听话的人。"
+    },
+    {
+      "en": "He was young and highly suggestible.",
+      "cn": "当时他年轻，很容易听信他人。"
+    },
+    {
+      "en": "I did many stupid things when I was young and suggestible.",
+      "cn": "我年轻时受外界的影响做过不少傻事."
+    },
+    {
+      "en": "She's at a suggestible age.",
+      "cn": "她处于易受影响的年龄."
+    },
+    {
+      "en": "The hypnotic subject is very suggestible.",
+      "cn": "受催眠治疗的病人,在精神上是易受影响的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "suggestive",
+          "tran_cn": " 暗示的；提示的；影射的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "suggestibility",
+          "tran_cn": " 暗示感受性；可教唆；被暗示性"
+        },
+        {
+          "word": "suggestion",
+          "tran_cn": " 建议；示意；微量，细微的迹象"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "suggest",
+          "tran_cn": " 提议，建议；启发；使人想起"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "susceptible",
+            "impressionable"
+          ],
+          "tran_cn": "可建议的；耳根软的；易受影响的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "pliable"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "易受他人影响的",
+      "tran_en": "easily influenced by other people or by things you see and hear"
+    }
+  ],
+  "exchange": {}
+}

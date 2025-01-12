@@ -1,0 +1,92 @@
+{
+  "word": "slither",
+  "ipa": {
+    "us": "ˈslɪðə(r)",
+    "uk": "ˈslɪðər"
+  },
+  "sentences": [
+    {
+      "en": "A snake slithered across the grass.",
+      "cn": "一条蛇蜿蜒爬过草丛。"
+    },
+    {
+      "en": "He slithered down the muddy bank.",
+      "cn": "他在泥泞的河岸上踉踉跄跄地走。"
+    },
+    {
+      "en": "I felt the December air slither down my leg.",
+      "cn": "我感觉到十二月的冷风沿着腿直往下钻."
+    },
+    {
+      "en": "More often than not , the rattlesnake will slither away in search of a less intimidating foe.",
+      "cn": "多数环境下, 响尾蛇会爬开,去寻找不恁地吓人的猎物."
+    },
+    {
+      "en": "They slither while they pass.",
+      "cn": "它们划过时尽显其飘逸之姿."
+    },
+    {
+      "en": "Tonya screamed when she saw a snake slither across the yard.",
+      "cn": "托雅看见有条蛇爬过院子时高声尖叫了起来."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "slithery",
+          "tran_cn": " 滑溜的；滑的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "slip",
+            "slide"
+          ],
+          "tran_cn": "使滑动"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "滑动；滑行"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "不稳地滑动",
+      "tran_en": "to slide somewhere over a surface, twisting or moving from side to side"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "滑动，滑行"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使滑动"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "slithers"
+    ],
+    "past": [
+      "slithered"
+    ],
+    "done": [
+      "slithered"
+    ],
+    "ing": [
+      "slithering"
+    ]
+  }
+}

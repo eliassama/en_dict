@@ -1,0 +1,119 @@
+{
+  "word": "depute",
+  "ipa": {
+    "us": "dɪˈpju:t",
+    "uk": "dɪ'pjut"
+  },
+  "sentences": [
+    {
+      "en": "A subcommittee was deputed to investigate the claims.",
+      "cn": "一个委员会专门小组受托去核实索赔事宜。"
+    },
+    {
+      "en": "He depute the running of the department to an assistant.",
+      "cn": "他把部门的管理工作委托给助手了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deputy",
+          "tran_cn": " 副的；代理的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deputation",
+          "tran_cn": " 代表团，代表；委任代理"
+        },
+        {
+          "word": "deputy",
+          "tran_cn": " 代理人，代表"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "deputise",
+          "tran_cn": " 担任代表"
+        },
+        {
+          "word": "deputize",
+          "tran_cn": " 代理；代表"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "deputise",
+          "tran_cn": " 委...为代表"
+        },
+        {
+          "word": "deputize",
+          "tran_cn": " 指定…为代理；授权…为代表"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "commission",
+            "license"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "commission",
+            "licensed to"
+          ],
+          "tran_cn": "委任；授权给；指定…为代理人"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "委托",
+      "tran_en": "to tell or allow someone to do something instead of you"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "将（工作、职权等）交给某人，给予（某人）代表行事或发言之权"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "deputes"
+    ],
+    "past": [
+      "deputed"
+    ],
+    "done": [
+      "deputed"
+    ],
+    "ing": [
+      "deputing"
+    ]
+  }
+}

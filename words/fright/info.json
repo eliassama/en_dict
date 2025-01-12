@@ -1,0 +1,228 @@
+{
+  "word": "fright",
+  "ipa": {
+    "us": "fraɪt",
+    "uk": "fraɪt"
+  },
+  "sentences": [
+    {
+      "en": "A tree fell on the house and gave him a fright.",
+      "cn": "一棵树倒在房子上,吓了他一大跳."
+    },
+    {
+      "en": "An untrained horse had taken fright at the sound of gunfire.",
+      "cn": "一匹未经训练的马听到枪响受了惊。"
+    },
+    {
+      "en": "He yelled with fright.",
+      "cn": "他惊恐得大声喊叫."
+    },
+    {
+      "en": "Her face was ghostly pale with fright.",
+      "cn": "她吓得面色惨白."
+    },
+    {
+      "en": "Her fright and concern sunk her down in a deep swoon.",
+      "cn": "恐惧和担心使她昏厥在地."
+    },
+    {
+      "en": "Howard wanted to be a popular singer, but stage fright crippled him.",
+      "cn": "霍华德想成为流行歌手，但因怯场而心生畏惧。"
+    },
+    {
+      "en": "She had such a fright that she fainted.",
+      "cn": "她吓得昏了过去."
+    },
+    {
+      "en": "She quaked with fright.",
+      "cn": "她吓得发抖."
+    },
+    {
+      "en": "She shrieked in fright.",
+      "cn": "她吓得尖叫起来。"
+    },
+    {
+      "en": "She turned pale with fright.",
+      "cn": "她吓得面色刷白."
+    },
+    {
+      "en": "The birds smashed into the top of their cages in fright.",
+      "cn": "鸟儿们吓得猛撞笼顶。"
+    },
+    {
+      "en": "The children gave a squeal of fright.",
+      "cn": "孩子们发出惊吓的尖叫声."
+    },
+    {
+      "en": "The steam pipes rattled suddenly, and Franklin jumped with fright.",
+      "cn": "蒸汽管突然发出咯咯的声音，弗兰克林吓得跳了起来。"
+    },
+    {
+      "en": "to cry out in fright",
+      "cn": "吓得大声叫喊"
+    },
+    {
+      "en": "To hide my fright I asked a question.",
+      "cn": "为了掩饰自己的恐惧，我问了个问题。"
+    },
+    {
+      "en": "You gave me quite a fright.",
+      "cn": "把人家吓了一大跳."
+    },
+    {
+      "en": "You gave me such a fright creeping up on me like that!",
+      "cn": "你这样不声不响地过来，吓了我一跳！"
+    },
+    {
+      "en": "You naughty boy, you gave me such a fright.",
+      "cn": "你这调皮鬼，吓了我一跳。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "frightened",
+          "tran_cn": "害怕的；受惊的；受恐吓的"
+        },
+        {
+          "word": "frightening",
+          "tran_cn": "令人恐惧的；引起突然惊恐的"
+        },
+        {
+          "word": "frightful",
+          "tran_cn": "可怕的；惊人的；非常的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "frighteningly",
+          "tran_cn": "令人恐惧地"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "frightened",
+          "tran_cn": "害怕；使吃惊；吓走（frighten的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "frighten",
+          "tran_cn": "害怕，惊恐"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "frighten",
+          "tran_cn": "使惊吓；吓唬…"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "eyesore",
+            "mess"
+          ],
+          "tran_cn": "丑陋的人"
+        },
+        {
+          "words": [
+            "alarm",
+            "awe",
+            "dismay",
+            "dread",
+            "fear",
+            "horror",
+            "panic",
+            "phobia",
+            "terror"
+          ],
+          "tran_cn": "担心;害怕;恐怖"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "alarm",
+            "awe",
+            "consternation",
+            "dismay",
+            "dread",
+            "eyesore",
+            "fear",
+            "horror",
+            "mess",
+            "panic",
+            "phobia",
+            "terror"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "alarm",
+            "exercise"
+          ],
+          "tran_cn": "使惊恐"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "look a fright",
+      "tran_cn": "(非正式)看上去蓬松散乱（或怪异）的"
+    },
+    {
+      "phrase": "stage fright",
+      "tran_cn": "怯场"
+    },
+    {
+      "phrase": "take fright",
+      "tran_cn": "突然受惊吓；突然惊慌失措"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "恐怖，惊吓，可怕的东西，难看的人",
+      "tran_en": "a sudden feeling of fear"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使惊恐"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "frights"
+    ]
+  }
+}

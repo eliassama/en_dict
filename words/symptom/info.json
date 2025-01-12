@@ -1,0 +1,145 @@
+{
+  "word": "symptom",
+  "ipa": {
+    "us": "ˈsɪmptəm",
+    "uk": "ˈsɪmptəm"
+  },
+  "sentences": [
+    {
+      "en": "A symptom, not a disease, jaundice simply announces that something is wrong with me.",
+      "cn": "黄疸是一种症状, 不是一种病, 只能说明我有毛病了."
+    },
+    {
+      "en": "Arterial disease in which chronic high blood pressure is the primary symptom.",
+      "cn": "动脉压是心脏输出血液与血管对血液的阻力共同产生的."
+    },
+    {
+      "en": "At any moment the tension inside you was liable to translate itself into some visible symptom.",
+      "cn": "你内心的紧张,随时可能转变成什么一目了然的症候."
+    },
+    {
+      "en": "Depressive disorders are a heterogeneous group of conditions that share the common symptom of dysphoric mood.",
+      "cn": "抑郁性疾患包括一组具有心情忧郁这一共同症状的若干情况."
+    },
+    {
+      "en": "High interest rates are a symptom of a weak economy.",
+      "cn": "高利率是经济疲软的征兆."
+    },
+    {
+      "en": "Industrial class conflict was a symptom of anomie.",
+      "cn": "工业阶级矛盾就是一种反常的症象."
+    },
+    {
+      "en": "It is probable that the medication will suppress the symptom without treating the condition.",
+      "cn": "这种药物有可能治标不治本。"
+    },
+    {
+      "en": "One of the most common symptoms of schizophrenia is hearing imaginary voices.",
+      "cn": "精神分裂症最常见的症状之一是幻听。"
+    },
+    {
+      "en": "The disappearance of jobs is a symptom of a deeper socioeconomic change.",
+      "cn": "工作岗位减少是社会经济发生进一步变化的一个征兆。"
+    },
+    {
+      "en": "There was outwardly a certain cynicism about him, a sure symptom of an inherent moral decay.",
+      "cn": "乍一看,他的确有些玩世不恭, 肯定受到旧的腐朽道德的侵蚀."
+    },
+    {
+      "en": "This kind of disease is companied with the symptom of high fever.",
+      "cn": "这种疾病常以发高烧的症状出现."
+    },
+    {
+      "en": "Was the noise a cause of the illness, or were the complaints about noise merely a symptom?",
+      "cn": "噪音是病因呢, 还是对噪音的抱怨仅仅是一种症状 呢 ?"
+    },
+    {
+      "en": "Was this clash the symptom of disintegrating authority?",
+      "cn": "这次冲突是否是权威瓦解的征兆 呢 ?"
+    },
+    {
+      "en": "What appearance is the symptom of hepatitis?",
+      "cn": "肝炎的症状是什么样子的？"
+    },
+    {
+      "en": "What does the general symptom of the cold have?",
+      "cn": "感冒的一般症状有哪些?"
+    },
+    {
+      "en": "What does the skin allergy symptom that blood disease causes have?",
+      "cn": "血液病引起的皮肤过敏症状有哪些?"
+    },
+    {
+      "en": "You think being afraid of me is a symptom of a serious ailment?",
+      "cn": "你认为害怕我是一种严重疾病的症状?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "symptomatic",
+          "tran_cn": " 有症状的；症候的"
+        },
+        {
+          "word": "symptomless",
+          "tran_cn": " 无症状的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "implication",
+            "indication",
+            "mark",
+            "omen",
+            "sign",
+            "token"
+          ],
+          "tran_cn": "象征;暗示"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "implication",
+            "indication",
+            "mark",
+            "omen",
+            "sign",
+            "token",
+            "warning"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "symptom complex",
+      "tran_cn": "症候群"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "症状，征兆",
+      "tran_en": "something wrong with your body or mind which shows that you have a particular illness"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "symptoms"
+    ]
+  }
+}

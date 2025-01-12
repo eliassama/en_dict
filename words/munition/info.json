@@ -1,0 +1,74 @@
+{
+  "word": "munition",
+  "ipa": {
+    "us": "mju:'nɪʃn",
+    "uk": "mjuˈnɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "The rebels bombed the munition factory.",
+      "cn": "叛军轰炸了兵工厂."
+    },
+    {
+      "en": "The soldiers had plenty of arms and munition!",
+      "cn": "士兵们有充足的武器和弹药."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "ordnance",
+            "ammo"
+          ],
+          "tran_cn": "军需品；军火"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "weapon"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "军需品，军火"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "给某部门提供军火"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "munitions"
+    ],
+    "third": [
+      "munitions"
+    ],
+    "past": [
+      "munitioned"
+    ],
+    "done": [
+      "munitioned"
+    ],
+    "ing": [
+      "munitioning"
+    ],
+    "noun": [
+      "munitions"
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "word": "puppet",
+  "ipa": {
+    "us": "ˈpʌpɪt",
+    "uk": "ˈpʌpɪt"
+  },
+  "sentences": [
+    {
+      "en": "a 20-minute puppet show",
+      "cn": "20分钟的木偶表演"
+    },
+    {
+      "en": "Behind the crude lectern, off to a side, stands a curtained puppet theatre.",
+      "cn": "在粗糙的读经台后面, 偏向一边, 是一座挂着幕布的木偶戏台."
+    },
+    {
+      "en": "He jerked the string and the puppet jumped.",
+      "cn": "他猛一拉绳子,木偶就跳了起来."
+    },
+    {
+      "en": "He's my puppet and I'm his puppet master.",
+      "cn": "他是我的小狗,我是小狗的主人."
+    },
+    {
+      "en": "I will call this new puppet Pinocchio, he thought.",
+      "cn": "他心想:“我把这个新的木偶叫做皮诺奇好了. ”"
+    },
+    {
+      "en": "Jossie: Is everyone ready to practise the puppet show?",
+      "cn": "琼西: 大家都准备好木偶剧没?"
+    },
+    {
+      "en": "On this high note the puppet show commences.",
+      "cn": "木偶戏就在这阵高昂的调子里开场了."
+    },
+    {
+      "en": "Pupils presented a mime and puppet show.",
+      "cn": "学生们奉献了一台哑剧形式的木偶戏。"
+    },
+    {
+      "en": "The audience at the back craned their necks to see the puppet show.",
+      "cn": "后面的观众伸长了脖子看木偶戏."
+    },
+    {
+      "en": "The doctor is a very dogmatic puppet.",
+      "cn": "这个医生是个真正的道学先生."
+    },
+    {
+      "en": "The government is in danger of becoming a mere puppet of the military.",
+      "cn": "政府面临沦为军方傀儡的危险。"
+    },
+    {
+      "en": "The morale of the puppet troops dropped to a new low.",
+      "cn": "伪军的士气进一步低落了."
+    },
+    {
+      "en": "The puppet - show was performed with great regularity and decency.",
+      "cn": "木偶戏的演出井然有序,也很规矩."
+    },
+    {
+      "en": "The puppet soldier cried for mercy.",
+      "cn": "伪军高呼饶命."
+    },
+    {
+      "en": "The puppet troops burnt the whole village down.",
+      "cn": "伪军焚毁了整个村庄."
+    },
+    {
+      "en": "The whole village was burnt down by the puppet troops.",
+      "cn": "整个村子都被伪军焚毁了."
+    },
+    {
+      "en": "We watched a performance which included a puppet show and acrobatics.",
+      "cn": "我们观看了一场演出,内容有木偶和杂技."
+    },
+    {
+      "en": "When the invasion occurred he seized power and ruled the country as a puppet of the occupiers.",
+      "cn": "他趁入侵之时夺取了政权，作为占领者的傀儡统治着这个国家。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "puppeteer",
+          "tran_cn": " 操纵木偶的人；操纵傀儡"
+        },
+        {
+          "word": "puppetry",
+          "tran_cn": " 木偶；木偶戏；傀儡"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "puppeteer",
+          "tran_cn": " 操纵"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "doll",
+            "dummy",
+            "fantoccini",
+            "finger-puppet",
+            "glove-puppet",
+            "hand-puppet",
+            "inuppet",
+            "marionette",
+            "string-puppet"
+          ],
+          "tran_cn": "木偶"
+        },
+        {
+          "words": [
+            "accomplice",
+            "appendage",
+            "assistant",
+            "catspaw",
+            "creature",
+            "dupe",
+            "employee",
+            "figurehead",
+            "gudgeon",
+            "gull",
+            "henchman",
+            "hireling",
+            "instrument",
+            "patsy",
+            "pawn",
+            "stooge",
+            "subordinate",
+            "sucker",
+            "tool",
+            "underling"
+          ],
+          "tran_cn": "玩偶"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dependent",
+            "robot"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hand puppet",
+      "tran_cn": "n. 布袋木偶"
+    },
+    {
+      "phrase": "puppet play",
+      "tran_cn": "傀儡戏；木偶戏"
+    },
+    {
+      "phrase": "puppet show",
+      "tran_cn": "木偶剧，木偶表演"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "木偶，傀儡，受他人操纵的人",
+      "tran_en": "a model of a person or animal that you move by pulling wires or strings, or by putting your hand inside it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "puppets"
+    ]
+  }
+}

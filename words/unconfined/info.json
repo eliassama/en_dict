@@ -1,0 +1,85 @@
+{
+  "word": "unconfined",
+  "ipa": {
+    "us": "ˌʌnkən'faɪnd",
+    "uk": "ˌʌnkən'faɪnd"
+  },
+  "sentences": [
+    {
+      "en": "Laboratory testing included sieve analyses and unconfined compressive strength testing.",
+      "cn": "实验室测试包括筛分析及无侧限抗压强度测试."
+    },
+    {
+      "en": "Linda's unconfined hair fell to her shoulders.",
+      "cn": "琳达那未束的头发,散落在她的肩膀上."
+    },
+    {
+      "en": "One of the two main types of aquifer is the unconfined aquifer.",
+      "cn": "非承压含水层是两种主要含水层之一."
+    },
+    {
+      "en": "The aquifer is unconfined locally and may be recharged.",
+      "cn": "含水层因为局部不承压而得到补给."
+    },
+    {
+      "en": "There are three types of aquifers: perched, unconfined, and confined.",
+      "cn": "含水层有三种形态, 分别是上层滞水 、 潜水和承压水."
+    },
+    {
+      "en": "Unconfined water is abundance but confined water is scarcity.",
+      "cn": "地下潜水较多而承压水少."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "free",
+            "unrestricted"
+          ],
+          "tran_cn": "自由的；松散的；无拘束的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "unbounded"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "unconfined aquifer",
+      "tran_cn": "非承压含水层；不受压含水层；无压含水层"
+    },
+    {
+      "phrase": "unconfined compression",
+      "tran_cn": "无侧限抗压强度；无侧限压缩"
+    },
+    {
+      "phrase": "unconfined compression test",
+      "tran_cn": "无侧限压缩试验；无围压缩试验"
+    },
+    {
+      "phrase": "unconfined compressive strength",
+      "tran_cn": "无侧限抗压强度；非封闭抗压强度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "无限制的，无约束的，无拘束",
+      "tran_en": "not enclosed or restricted; free "
+    }
+  ],
+  "exchange": {}
+}

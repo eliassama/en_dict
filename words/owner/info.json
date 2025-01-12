@@ -1,0 +1,222 @@
+{
+  "word": "owner",
+  "ipa": {
+    "us": "ˈəʊnə(r)",
+    "uk": "ˈoʊnər"
+  },
+  "sentences": [
+    {
+      "en": "After his death the house reverted to its original owner.",
+      "cn": "他死后房子归还给了原先的主人."
+    },
+    {
+      "en": "He was now the proud owner of a bright red sports car.",
+      "cn": "他现在拥有了一辆亮红色跑车，很是自豪。"
+    },
+    {
+      "en": "I naturally took him to be the owner of the estate.",
+      "cn": "我自然而然地把他当成了庄园的主人。"
+    },
+    {
+      "en": "If you can't get any satisfaction, complain to the park owner.",
+      "cn": "如果你得不到任何赔偿，向园区所有者投诉。"
+    },
+    {
+      "en": "It is expected that the new owner will change the yacht's name.",
+      "cn": "估计新主人会给游艇改名。"
+    },
+    {
+      "en": "The car must be returned to its rightful owner.",
+      "cn": "这辆车必须归还给真正的主人。"
+    },
+    {
+      "en": "The gold ring should be given back to the owner.",
+      "cn": "这枚金戒指应该还给失主."
+    },
+    {
+      "en": "The house was remodelled by its present owner.",
+      "cn": "现在的房主改建了这座房子。"
+    },
+    {
+      "en": "The owner insisted on Cool Ground running in the Gold Cup.",
+      "cn": "主人坚持要让“酷地”参加金杯赛马会。"
+    },
+    {
+      "en": "The owner is making huge profits at the expense of downtrodden peasants.",
+      "cn": "物主靠压榨农民而赢得暴利。"
+    },
+    {
+      "en": "The painting has been returned to its rightful owner .",
+      "cn": "这幅画已归还给合法所有权人。"
+    },
+    {
+      "en": "The plantation owner has possessed himself of a vast piece of land.",
+      "cn": "这个种植园主把大片土地占为己有."
+    },
+    {
+      "en": "the proud owner of a new car",
+      "cn": "得意扬扬的新汽车主人"
+    },
+    {
+      "en": "The restaurant owner could only speak pidgin English.",
+      "cn": "餐馆老板只会讲洋泾浜英语。"
+    },
+    {
+      "en": "The stolen car was returned to its rightful owner .",
+      "cn": "被盗的汽车还给了其合法的主人。"
+    },
+    {
+      "en": "They held up the owner and robbed him of everything.",
+      "cn": "他们劫持了货主,并抢走了他的所有东西."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "own",
+          "tran_cn": " 自己的；特有的"
+        },
+        {
+          "word": "ownerless",
+          "tran_cn": " 无主的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "own",
+          "tran_cn": " 自己的"
+        },
+        {
+          "word": "ownership",
+          "tran_cn": " 所有权；物主身份"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "own",
+          "tran_cn": " 承认"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "own",
+          "tran_cn": " 拥有；承认"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "deed",
+            "holder",
+            "householder",
+            "keeper",
+            "landlady",
+            "landlord",
+            "landowner",
+            "lord",
+            "master",
+            "mistress",
+            "possessor",
+            "proprietor",
+            "proprietress",
+            "titleholder"
+          ],
+          "tran_cn": "物主,所有者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "employer"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "beneficial owner",
+      "tran_cn": "受益所有人"
+    },
+    {
+      "phrase": "building owner",
+      "tran_cn": "[法]业主"
+    },
+    {
+      "phrase": "business owner",
+      "tran_cn": "企业主"
+    },
+    {
+      "phrase": "copyright owner",
+      "tran_cn": "版权拥有人"
+    },
+    {
+      "phrase": "home owner",
+      "tran_cn": "房主；业主"
+    },
+    {
+      "phrase": "house owner",
+      "tran_cn": "业主；房屋所有人"
+    },
+    {
+      "phrase": "majority owner",
+      "tran_cn": "多数份数拥有人"
+    },
+    {
+      "phrase": "owner of the project",
+      "tran_cn": "项目的所有者"
+    },
+    {
+      "phrase": "part owner",
+      "tran_cn": "n. （船舶的）共有人"
+    },
+    {
+      "phrase": "property owner",
+      "tran_cn": "业主；产权人"
+    },
+    {
+      "phrase": "registered owner",
+      "tran_cn": "登记拥有人；注册业主"
+    },
+    {
+      "phrase": "ship owner",
+      "tran_cn": "船东；船主；船舶所有人"
+    },
+    {
+      "phrase": "shop owner",
+      "tran_cn": "店主"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "物主，所有人",
+      "tran_en": "someone who owns something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "owners"
+    ]
+  }
+}

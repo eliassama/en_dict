@@ -1,0 +1,315 @@
+{
+  "word": "milk",
+  "ipa": {
+    "us": "mɪlk",
+    "uk": "mɪlk"
+  },
+  "sentences": [
+    {
+      "en": "a bottle of milk",
+      "cn": "一瓶奶"
+    },
+    {
+      "en": "a pint of semi-skimmed milk",
+      "cn": "一品脱半脱脂奶"
+    },
+    {
+      "en": "Any product made from cow's milk made him vomit.",
+      "cn": "任何乳制品都会让他呕吐。"
+    },
+    {
+      "en": "As the baby suckles, a further supply of milk is generated.",
+      "cn": "婴儿吮吸时，会有更多的奶水流出来。"
+    },
+    {
+      "en": "Blend a little milk with the custard powder to form a paste.",
+      "cn": "往蛋奶沙司粉里加入一点儿牛奶，搅成糊糊。"
+    },
+    {
+      "en": "He popped out to buy a pint of milk.",
+      "cn": "他匆匆出门去买一品脱牛奶。"
+    },
+    {
+      "en": "He seems to be milking the incident for all it’s worth (= getting as much from it as possible ) .",
+      "cn": "他似乎正竭力从这件事中捞取好处。"
+    },
+    {
+      "en": "I helped to milk the cows.",
+      "cn": "我帮忙挤牛奶。"
+    },
+    {
+      "en": "Many people dunk their foods in coffee, tea or milk.",
+      "cn": "很多人在咖啡、茶或牛奶里蘸东西吃。"
+    },
+    {
+      "en": "Milk products are an excellent source of calcium and protein.",
+      "cn": "奶制品富含钙与蛋白质。"
+    },
+    {
+      "en": "Milk, oily fish and egg all contain vitamin D.",
+      "cn": "牛奶、油性鱼类和鸡蛋都含有维生素D."
+    },
+    {
+      "en": "She finished putting the milk away and turned around.",
+      "cn": "她把牛奶收好后转过身来。"
+    },
+    {
+      "en": "Sheep's milk is produced in much the same way as goat's milk.",
+      "cn": "绵羊奶和山羊奶的生产过程差不多。"
+    },
+    {
+      "en": "Someone allergic to milk is likely to react to cheese.",
+      "cn": "对牛奶过敏的人可能对奶酪也有不良反应。"
+    },
+    {
+      "en": "Soya milk can cause allergic reactions in some children.",
+      "cn": "有些孩子会对豆浆过敏。"
+    },
+    {
+      "en": "The signboard outside the factory read \"baby milk plant\".",
+      "cn": "工厂外的招牌上写着“婴儿乳品厂”。"
+    },
+    {
+      "en": "The tea was sweetened with a hoarded tin of condensed milk.",
+      "cn": "用贮藏的一罐炼乳为茶添加了甜味。"
+    },
+    {
+      "en": "Their aim will be to produce as much milk as possible.",
+      "cn": "他们的目标是尽可能提高牛奶产量。"
+    },
+    {
+      "en": "Warm milk is the ideal breeding ground for bacteria.",
+      "cn": "温牛奶是细菌理想的滋生地。"
+    },
+    {
+      "en": "Would you like some milk in your tea?",
+      "cn": "你茶里要加点奶吗？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "milky",
+          "tran_cn": " 乳白色的；牛奶的；乳状的；柔和的；混浊不清的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "milker",
+          "tran_cn": " 乳牛；挤奶人；挤奶器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "beestings",
+            "bonnyclabber",
+            "breast",
+            "buttermilk",
+            "cow's",
+            "cream",
+            "goat's",
+            "junket",
+            "milk"
+          ],
+          "tran_cn": "乳,牛奶"
+        },
+        {
+          "words": [
+            "fluid",
+            "juice",
+            "sap"
+          ],
+          "tran_cn": "乳液,乳状物,乳剂"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blood",
+            "fleece",
+            "white"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "abuse",
+            "bleed",
+            "dry",
+            "exploit",
+            "sap",
+            "suck"
+          ],
+          "tran_cn": "压迫,榨取"
+        },
+        {
+          "words": [
+            "bleed",
+            "decant",
+            "extract",
+            "out",
+            "phlebotomize",
+            "squeeze"
+          ],
+          "tran_cn": "抽取,挤取"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "extract",
+            "ream"
+          ],
+          "tran_cn": "榨取；挤…的奶"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bean milk",
+      "tran_cn": "豆奶；豆浆"
+    },
+    {
+      "phrase": "breast milk",
+      "tran_cn": "母乳；母奶"
+    },
+    {
+      "phrase": "coconut milk",
+      "tran_cn": "椰奶；椰子汁"
+    },
+    {
+      "phrase": "drink milk",
+      "tran_cn": "喝牛奶"
+    },
+    {
+      "phrase": "fresh milk",
+      "tran_cn": "鲜牛奶"
+    },
+    {
+      "phrase": "in milk",
+      "tran_cn": "（尤指母牛）出奶的；产奶的"
+    },
+    {
+      "phrase": "in the milk",
+      "tran_cn": "(谷粒等快成熟时)正在灌浆，呈浆液状"
+    },
+    {
+      "phrase": "it's no use crying over spilt (北美 亦作",
+      "tran_cn": "(谚)为无可挽回的事后悔无益"
+    },
+    {
+      "phrase": "milk and honey",
+      "tran_cn": "繁荣富足"
+    },
+    {
+      "phrase": "milk can",
+      "tran_cn": "牛奶罐"
+    },
+    {
+      "phrase": "milk cow",
+      "tran_cn": "奶牛；乳牛"
+    },
+    {
+      "phrase": "milk of human kindness",
+      "tran_cn": "关爱；恻隐之心"
+    },
+    {
+      "phrase": "milk powder",
+      "tran_cn": "n. 奶粉"
+    },
+    {
+      "phrase": "milk product",
+      "tran_cn": "乳制品"
+    },
+    {
+      "phrase": "milk protein",
+      "tran_cn": "牛奶蛋白；牛乳蛋白质"
+    },
+    {
+      "phrase": "milk tea",
+      "tran_cn": "奶茶"
+    },
+    {
+      "phrase": "powdered milk",
+      "tran_cn": "n. 奶粉"
+    },
+    {
+      "phrase": "raw milk",
+      "tran_cn": "原料乳；生牛奶；未消毒牛奶"
+    },
+    {
+      "phrase": "skimmed milk",
+      "tran_cn": "脱脂奶（等于skinmilk）；脱脂乳"
+    },
+    {
+      "phrase": "soy milk",
+      "tran_cn": "n. 豆奶；豆浆"
+    },
+    {
+      "phrase": "soybean milk",
+      "tran_cn": "豆浆"
+    },
+    {
+      "phrase": "whole milk",
+      "tran_cn": "n. 全脂奶，全脂牛奶"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "奶，乳液，母乳",
+      "tran_en": "a white liquid produced by cows or goats that is drunk by people"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "牛奶",
+      "tran_en": "a white liquid produced by cows or goats that is drunk by people"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "挤(奶)",
+      "tran_en": "to take milk from a cow or goat"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "挤奶，榨取"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "milks"
+    ],
+    "past": [
+      "milked"
+    ],
+    "done": [
+      "milked"
+    ],
+    "ing": [
+      "milking"
+    ]
+  }
+}

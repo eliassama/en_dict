@@ -1,0 +1,92 @@
+{
+  "word": "mucky",
+  "ipa": {
+    "us": "ˈmʌki",
+    "uk": "ˈmʌki"
+  },
+  "sentences": [
+    {
+      "en": "Don’t come in here with those mucky boots on.",
+      "cn": "不要穿着那双脏靴子进来。"
+    },
+    {
+      "en": "My hands are all mucky.",
+      "cn": "我的手全弄脏了."
+    },
+    {
+      "en": "Your hands are all mucky.",
+      "cn": "你的手太脏了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "muck",
+          "tran_cn": " 淤泥；垃圾；肥料；品质低劣的东西"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "muck",
+          "tran_cn": " 闲逛；鬼混"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "muck",
+          "tran_cn": " 弄脏；施肥；清除…的污物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "evil",
+            "rank"
+          ],
+          "tran_cn": "脏的，粪的；讨厌的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "filthy",
+            "muddy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "粪肥的，肮脏的",
+      "tran_en": "dirty"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "muckier"
+    ],
+    "est": [
+      "muckiest"
+    ]
+  }
+}

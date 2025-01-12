@@ -1,0 +1,107 @@
+{
+  "word": "reciprocation",
+  "ipa": {
+    "us": "rɪˌsɪprə'keɪʃn",
+    "uk": "rɪˌsɪprəˈkeʃən"
+  },
+  "sentences": [
+    {
+      "en": "All is communicated through the straightest reciprocation between direct mind to mind.",
+      "cn": "所有沟通经由最直接的互换,在心直接对心之间."
+    },
+    {
+      "en": "Others must be taken , very precisely , very deliberately, as there is reciprocation on the other side.",
+      "cn": "由于对方采取了相应的步骤,因而还必须很明确 、 很审慎地采取另外一些步骤."
+    },
+    {
+      "en": "The reciprocation lies in the ownership and professional systems.",
+      "cn": "组织的所有制和行业性质存在交互作用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "reciprocating",
+          "tran_cn": " 往复的；交互的；摆动的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reciprocating",
+          "tran_cn": " 往复"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "reciprocating",
+          "tran_cn": " 往复运动（reciprocate的ing形式）；互给；报答"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "reciprocate",
+          "tran_cn": " 往复运动；互换；酬答；互给"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "reciprocate",
+          "tran_cn": " 报答；互换；互给"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "exchange",
+            "payment",
+            "reward",
+            "return"
+          ],
+          "tran_cn": "交换；往复运动；报答"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "reaction"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "互换"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "reciprocate"
+    ]
+  }
+}

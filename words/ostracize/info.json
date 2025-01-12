@@ -1,0 +1,101 @@
+{
+  "word": "ostracize",
+  "ipa": {
+    "us": "ˈɒstrəsaɪz",
+    "uk": "ˈɑstrəsaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Ever since I spoke up, my colleagues ostracize me.",
+      "cn": "从我一开始说话我的同事就让我闭嘴."
+    },
+    {
+      "en": "He was ostracized by the other students.",
+      "cn": "他受到其他学生的排斥。"
+    },
+    {
+      "en": "She claims she's being ostracized by some members of her local community.",
+      "cn": "她声称遭到自己所在社区的一些成员排斥。"
+    },
+    {
+      "en": "She was afraid that if she spoke up her colleagues would ostracize her.",
+      "cn": "她担心，如果她说出来，同事们就会孤立她。"
+    },
+    {
+      "en": "What are we to do when others ridicule andsubtly ostracize us?",
+      "cn": "当别人讥笑或者排斥我们的时候,我们该怎麽做哪?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ostracism",
+          "tran_cn": " 排斥；放逐；贝壳流放法"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "ostracise",
+          "tran_cn": " （古希腊）贝壳放逐法；排斥（等于ostracize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blink",
+            "dispossess"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "banish",
+            "reject"
+          ],
+          "tran_cn": "放逐；排斥；按贝壳流放法放逐"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "(古希腊)贝壳放逐法, 放逐, 排斥",
+      "tran_en": "If someone is ostracized, people deliberately behave in an unfriendly way toward them and do not allow them to take part in any of their social activities"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "放逐，流放，摈弃，排斥"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "ostracizes"
+    ],
+    "past": [
+      "ostracized"
+    ],
+    "done": [
+      "ostracized"
+    ],
+    "ing": [
+      "ostracizing"
+    ]
+  }
+}

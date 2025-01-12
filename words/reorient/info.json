@@ -1,0 +1,65 @@
+{
+  "word": "reorient",
+  "ipa": {
+    "us": "ˌri:'ɔ:rɪent",
+    "uk": "ˌri'ɔrɪent"
+  },
+  "sentences": [
+    {
+      "en": "We all need to take another look at Lamar Odom and reorient our thinking.",
+      "cn": "我们都需要用另一种眼光去看奥多姆和调整我们的思维."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reorientation",
+          "tran_cn": " 再定位"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "adapt",
+            "condition",
+            "suit",
+            "season"
+          ],
+          "tran_cn": "使适应；再调整"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使适应；再调整"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使适应，再教育"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "reorients"
+    ],
+    "past": [
+      "reoriented"
+    ],
+    "done": [
+      "reoriented"
+    ],
+    "ing": [
+      "reorienting"
+    ]
+  }
+}

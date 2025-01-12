@@ -1,0 +1,115 @@
+{
+  "word": "colonist",
+  "ipa": {
+    "us": "ˈkɒlənɪst",
+    "uk": "ˈkɑːlənɪst"
+  },
+  "sentences": [
+    {
+      "en": "The colonists struggled through their first winter.",
+      "cn": "这些殖民地居民艰难地度过了第一个冬天。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "colonial",
+          "tran_cn": "殖民地的，殖民的"
+        },
+        {
+          "word": "colonialist",
+          "tran_cn": "殖民主义者的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "colonial",
+          "tran_cn": "殖民地居民"
+        },
+        {
+          "word": "colonialism",
+          "tran_cn": "殖民主义；殖民政策"
+        },
+        {
+          "word": "colonialist",
+          "tran_cn": "殖民主义者"
+        },
+        {
+          "word": "colonization",
+          "tran_cn": "殖民；殖民地化"
+        },
+        {
+          "word": "colonizer",
+          "tran_cn": "殖民者；殖民地开拓者；移入选民；移民"
+        },
+        {
+          "word": "colony",
+          "tran_cn": "殖民地；移民队"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "colonize",
+          "tran_cn": "开拓殖民地；移居于殖民地"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "colonize",
+          "tran_cn": "将…开拓为殖民地；移于殖民地；从他地非法把选民移入"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "colonial",
+            "colonizer",
+            "settler"
+          ],
+          "tran_cn": "殖民者,移住民,殖民地居民"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "emigrant",
+            "pioneer"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "殖民者，殖民地居民，移民",
+      "tran_en": "someone who settles in a new colony"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "colonists"
+    ]
+  }
+}

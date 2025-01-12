@@ -1,0 +1,112 @@
+{
+  "word": "ossify",
+  "ipa": {
+    "us": "ˈɒsɪfaɪ",
+    "uk": "ˈɑsɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "...conventions that threatened to ossify art.",
+      "cn": "...使艺术僵化的一些规矩。"
+    },
+    {
+      "en": "It is easy for the mind to ossify.",
+      "cn": "脑筋是易于僵化的."
+    },
+    {
+      "en": "It reckons that rationing would ossify the farm industry.",
+      "cn": "人们认为实行配给制会使农业失去活力。"
+    },
+    {
+      "en": "This disease will make her tendons ossify and her body paralyzed into a statue.",
+      "cn": "她肩膀两侧长出额外骨头,病情会令她的肌腱继续骨化,身体逐步瘫痪,最终变成一尊雕像."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ossiferous",
+          "tran_cn": " 含骨化石的；生骨的"
+        },
+        {
+          "word": "ossified",
+          "tran_cn": " 僵化的；已骨化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ossification",
+          "tran_cn": " 骨化；成骨；（思想的）僵化"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "ossified",
+          "tran_cn": " 僵化，变得保守（ossify的过去分词）；使骨化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "sclerose"
+          ],
+          "tran_cn": "骨化；硬化；僵化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "Burtonize",
+            "metalize"
+          ],
+          "tran_cn": "使硬化；使骨化；使僵化"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使骨化, 使硬化",
+      "tran_en": "to change into bone or to make something change into bone"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "骨化，硬化，使僵化"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "ossifies"
+    ],
+    "past": [
+      "ossified"
+    ],
+    "done": [
+      "ossified"
+    ],
+    "ing": [
+      "ossifying"
+    ],
+    "noun": [
+      "ossification"
+    ]
+  }
+}

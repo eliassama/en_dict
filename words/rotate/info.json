@@ -1,0 +1,211 @@
+{
+  "word": "rotate",
+  "ipa": {
+    "us": "rəʊˈteɪt",
+    "uk": "ˈroʊteɪt"
+  },
+  "sentences": [
+    {
+      "en": "Do the vanes in the figure rotate clockwise or counterclockwise?",
+      "cn": "图中叶片的旋转方向是顺时针的,还是反时针的?"
+    },
+    {
+      "en": "Explain why the vanes rotate when they are illuminated.",
+      "cn": "试解释:叶片被照亮时为什么会旋转."
+    },
+    {
+      "en": "Farmers rotate their crops so that the soil will remain fertile.",
+      "cn": "为保持土壤肥力,农民搞作物轮作."
+    },
+    {
+      "en": "It is best to allow the rotor to rotate freely.",
+      "cn": "最好让转子自由旋转."
+    },
+    {
+      "en": "Molecules rotate and vibrate by virtue of their heat.",
+      "cn": "分子因热效应而发生转动和振动."
+    },
+    {
+      "en": "Rotate the head clockwise and counterclockwise.",
+      "cn": "按顺时针方向转动头部，然后再逆时针旋转。"
+    },
+    {
+      "en": "Rotate the pan halfway through the baking time.",
+      "cn": "烘烤到一半时把盘子转一下。"
+    },
+    {
+      "en": "Rotate the shoulders in their sockets five times.",
+      "cn": "让肩膀绕臼部转动5次。"
+    },
+    {
+      "en": "Stay well away from the helicopter when its blades start to rotate.",
+      "cn": "直升机的螺旋桨开始转动时，尽量离远点儿。"
+    },
+    {
+      "en": "Take each foot in both your hands and rotate it to loosen and relax the ankle.",
+      "cn": "双手抓住自己的双脚，转动一下，以放松脚踝。"
+    },
+    {
+      "en": "The dial index will rotate in azimuth, giving an incorrect heading reading.",
+      "cn": "读数示标会绕方位轴转动, 给出不正确的航向读数."
+    },
+    {
+      "en": "The doctor asked the patient to rotate his eyes.",
+      "cn": "医生叫病人转动一下眼球."
+    },
+    {
+      "en": "The Earth rotates on its axis once every 24 hours.",
+      "cn": "地球每24小时绕地轴自转一周。"
+    },
+    {
+      "en": "The shaft and discs rotate at about forty revolutions per second.",
+      "cn": "竖轴和磁盘每秒钟大约旋转40转."
+    },
+    {
+      "en": "This large gear turns the small one to rotate the cylinder.",
+      "cn": "这个大齿轮带动小齿轮使滚筒旋转."
+    },
+    {
+      "en": "With a low-pitched rumbling noise, the propeller began to rotate.",
+      "cn": "伴随着隆隆的低沉噪声，螺旋桨开始旋转起来。"
+    },
+    {
+      "en": "You can rotate the wheel with your hand.",
+      "cn": "你可以用手转动轮子."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rotary",
+          "tran_cn": " 旋转的，转动的；轮流的"
+        },
+        {
+          "word": "rotatable",
+          "tran_cn": " 可旋转的；可转动的；可循环的"
+        },
+        {
+          "word": "rotated",
+          "tran_cn": " 旋转的"
+        },
+        {
+          "word": "rotational",
+          "tran_cn": " 转动的；回转的；轮流的"
+        },
+        {
+          "word": "rotatory",
+          "tran_cn": " 旋转的；使回转的；轮流的；引起旋转的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rotary",
+          "tran_cn": " 旋转式机器；[动力] 转缸式发动机"
+        },
+        {
+          "word": "rotation",
+          "tran_cn": " 旋转；循环，轮流"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "rotated",
+          "tran_cn": " 旋转；使…转动；循环（rotate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "circle",
+            "gyrate",
+            "pivot",
+            "roll",
+            "screw",
+            "spin",
+            "swivel",
+            "turn",
+            "twirl",
+            "twist",
+            "wheel",
+            "whirl"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "gyrate",
+            "pivot",
+            "spin",
+            "swivel",
+            "turn"
+          ],
+          "tran_cn": "旋转,转动"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "turn",
+            "spin",
+            "swing"
+          ],
+          "tran_cn": "使旋转；使转动；使轮流"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "[植] 辐状的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "旋转",
+      "tran_en": "to turn with a circular movement around a central point, or to make something do this"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使某物）旋转，使转动，使轮流，轮换，交替"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "rotates"
+    ],
+    "past": [
+      "rotated"
+    ],
+    "done": [
+      "rotated"
+    ],
+    "ing": [
+      "rotating"
+    ],
+    "adj": [
+      "rotating"
+    ]
+  }
+}

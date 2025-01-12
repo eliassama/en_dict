@@ -1,0 +1,208 @@
+{
+  "word": "binary",
+  "ipa": {
+    "us": "ˈbaɪnəri",
+    "uk": "ˈbaɪnəri"
+  },
+  "sentences": [
+    {
+      "en": "a binary star system",
+      "cn": "双星系"
+    },
+    {
+      "en": "A bistable storage device which stores binary data as states of flip - flop elements.",
+      "cn": "一种以触发器的状态存储二进制数据的双稳态存储器."
+    },
+    {
+      "en": "A byte composed of three binary element.",
+      "cn": "一种由三个二进制位组成的字节."
+    },
+    {
+      "en": "A set of specified binary codes used to check the correctness of digital circuits.",
+      "cn": "一组用于检测数字电路正确性的特定二进制码."
+    },
+    {
+      "en": "Addition, subtraction, multiplication, and division are binary operations.",
+      "cn": "加 、 减 、 乘 、 除都是二元运算."
+    },
+    {
+      "en": "Binary data that requires two or more bytes for full representation.",
+      "cn": "需要两个或多个字节来完整表示的二进制数据."
+    },
+    {
+      "en": "Computers operate using binary numbers.",
+      "cn": "计算机运行运用二进位制."
+    },
+    {
+      "en": "It would, however , be very tedious and difficult to write all information in binary code.",
+      "cn": "把所有的信息都翻译成二进制码是十分枯燥和困难的."
+    },
+    {
+      "en": "Let us try converting the number itself to binary.",
+      "cn": "我们试一试,把这个数本身变成二进制数."
+    },
+    {
+      "en": "Number of binary code recording on magnetic tape per unit length.",
+      "cn": "单位长度的磁带上所记录的二进制代码数."
+    },
+    {
+      "en": "the binary system",
+      "cn": "二进制"
+    },
+    {
+      "en": "The binary system of numbers is used in digital computers.",
+      "cn": "数字计算机都使用二进制数字系统."
+    },
+    {
+      "en": "The horizontal and vertical ticks ( 3 ) are a representation of the number 8 in binary form.",
+      "cn": "水平和垂直线所标记 ( 3 ) 是以二进位制表示的数目8."
+    },
+    {
+      "en": "The radix complement in the pure binary numeration system.",
+      "cn": "纯二进制记数系统中的基数补码."
+    },
+    {
+      "en": "There are various ways of obtaining the powers and roots of binary numbers.",
+      "cn": "求二进制数的乘方和开方的方法有多种."
+    },
+    {
+      "en": "Using binary notation is in fact just manipulating ones and noughts.",
+      "cn": "使用二进制标号法实际上只运用1和0两个数."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bin",
+          "tran_cn": " 箱子，容器；二进制"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bin",
+          "tran_cn": " 把…放入箱中"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "dualistic",
+            "bibasic"
+          ],
+          "tran_cn": "[数]二进制的；二元的，[电子]二态的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "twin"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "binary alloy",
+      "tran_cn": "二元合金"
+    },
+    {
+      "phrase": "binary code",
+      "tran_cn": "二进制代码"
+    },
+    {
+      "phrase": "binary coding",
+      "tran_cn": "二进编码"
+    },
+    {
+      "phrase": "binary compound",
+      "tran_cn": "n. [化]二元化合物"
+    },
+    {
+      "phrase": "binary data",
+      "tran_cn": "二进制数据；二进数据；二元数据"
+    },
+    {
+      "phrase": "binary digit",
+      "tran_cn": "二进制数字，二进制位"
+    },
+    {
+      "phrase": "binary file",
+      "tran_cn": "[计]二进制文件"
+    },
+    {
+      "phrase": "binary form",
+      "tran_cn": "二段体；二元形式；二元型；二段曲式"
+    },
+    {
+      "phrase": "binary format",
+      "tran_cn": "二进形式，二进制格式"
+    },
+    {
+      "phrase": "binary image",
+      "tran_cn": "二进制映象"
+    },
+    {
+      "phrase": "binary logic",
+      "tran_cn": "二元逻辑；二进制逻辑；二进位逻辑运算"
+    },
+    {
+      "phrase": "binary number",
+      "tran_cn": "二进制数"
+    },
+    {
+      "phrase": "binary operation",
+      "tran_cn": "[数]二元运算；二进制操作"
+    },
+    {
+      "phrase": "binary opposition",
+      "tran_cn": "二元对立；二项对立；相对关系"
+    },
+    {
+      "phrase": "binary relation",
+      "tran_cn": "n. 二元关系"
+    },
+    {
+      "phrase": "binary representation",
+      "tran_cn": "二进制表示法；二进位表示；二元表示"
+    },
+    {
+      "phrase": "binary search",
+      "tran_cn": "对分查找；二进位检索；折半查找法；二分搜寻"
+    },
+    {
+      "phrase": "binary star",
+      "tran_cn": "双星；双子星"
+    },
+    {
+      "phrase": "binary system",
+      "tran_cn": "二进制"
+    },
+    {
+      "phrase": "binary tree",
+      "tran_cn": "[数]二叉树；[计]二进制树形网络"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "双重的，由两个东西组成的，二态的，二元的，二进制的",
+      "tran_en": "a system of counting, used in computers, in which only the numbers 0 and 1 are used"
+    }
+  ],
+  "exchange": {}
+}

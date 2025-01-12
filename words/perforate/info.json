@@ -1,0 +1,125 @@
+{
+  "word": "perforate",
+  "ipa": {
+    "us": "ˈpɜ:fəreɪt",
+    "uk": "ˈpɜrfəreɪt"
+  },
+  "sentences": [
+    {
+      "en": "A broken rib had perforated her lung.",
+      "cn": "一根肋骨骨折，刺穿了她的肺部。"
+    },
+    {
+      "en": "I refused to wear headphones because they can perforate your eardrums.",
+      "cn": "我不愿戴耳机，因为它可能会使鼓膜穿孔。"
+    },
+    {
+      "en": "In advanced stages the opaque corneas may ulcerate and even perforate.",
+      "cn": "在疾病后期,不透明的角膜可能产生溃疡,甚至穿孔."
+    },
+    {
+      "en": "In communications, a manual switching system where incoming messages to the switching center perforate paper tape.",
+      "cn": "在通信技术中, 一种人工信息[报文]交换方法,即进入交换中心的(信息)报文用手工在纸带上穿孔."
+    },
+    {
+      "en": "The Ascaris adults may perforate a suture line or cause a bile or pancreatic duct obstruction.",
+      "cn": "成虫可穿破缝线或引起胆管或胰腺管阻塞."
+    },
+    {
+      "en": "This machine can perforate the sheets of stamps.",
+      "cn": "这台机器能在整版邮票上打孔."
+    },
+    {
+      "en": "Water - power deep penetrator system can perforate clearly drainage channel utilizing the principle of pressure jet cutting.",
+      "cn": "水力深穿透射孔系统利用高压水射流钻孔的方式实现深穿透射孔."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "perfoliate",
+          "tran_cn": " 茎贯穿叶而生长的；贯穿性的；[植] 抱茎状的"
+        },
+        {
+          "word": "perforated",
+          "tran_cn": " 穿孔的；有排孔的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "perforation",
+          "tran_cn": " 穿孔；贯穿"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "perforated",
+          "tran_cn": " 穿孔（perforate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bore",
+            "enter",
+            "penetrate",
+            "pierce",
+            "puncture"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "move through",
+            "go across"
+          ],
+          "tran_cn": "穿过，贯穿；[古生]穿孔"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "打孔",
+      "tran_en": "to make a hole or holes in something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "穿孔于，在…上打眼，（在纸张等上）打齿孔[孔眼线]"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "perforates"
+    ],
+    "past": [
+      "perforated"
+    ],
+    "done": [
+      "perforated"
+    ],
+    "ing": [
+      "perforating"
+    ]
+  }
+}

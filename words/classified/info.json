@@ -1,0 +1,197 @@
+{
+  "word": "classified",
+  "ipa": {
+    "us": "ˈklæsɪfaɪd",
+    "uk": "ˈklæsəˌfaɪd"
+  },
+  "sentences": [
+    {
+      "en": "Advertisers have made a close study of human nature and have classified all our little weaknesses.",
+      "cn": "广告者仔细研究了人的本性并且把我们的各种小小弱点一一分类. (makeaclose study仔细研究)"
+    },
+    {
+      "en": "Biolar shift registers are classified as unidirectional and bidirectional.",
+      "cn": "双极型移位寄存器可分为单向和双向两种."
+    },
+    {
+      "en": "Despite being classified as a depressant, alcohol initially acts as a stimulant on the central nervous system.",
+      "cn": "虽说被划定为镇静剂，酒精最初却是被当作中枢神经系统的兴奋剂。"
+    },
+    {
+      "en": "He glanced his eyes down the classified advertisements.",
+      "cn": "他浏览了一下分类广告."
+    },
+    {
+      "en": "He has a security clearance that allows him access to classified information.",
+      "cn": "他获得了安全许可，可以接触机密信息。"
+    },
+    {
+      "en": "His possession of classified documents in his home was, at the very least, a violation of Navy security regulations.",
+      "cn": "他把机密文件藏在家中，至少是违反了海军安全条例。"
+    },
+    {
+      "en": "Probability distributions are classified as either discrete or continuous.",
+      "cn": "概率分布为离散型和连续型两种."
+    },
+    {
+      "en": "She never participated in obtaining or copying any classified documents for anyone.",
+      "cn": "她从未参与过为任何人获取或复制机密文件之事。"
+    },
+    {
+      "en": "The books in the library are classified according to subject.",
+      "cn": "图书馆的书按学科分类。"
+    },
+    {
+      "en": "The document was highly classified and circulated to a very limited group of people.",
+      "cn": "这份文件高度机密，只在很小范围内传阅。"
+    },
+    {
+      "en": "These needs may be classified into two subsidiary sets.",
+      "cn": "这种需要可以再分为两类."
+    },
+    {
+      "en": "They are classified in sorts.",
+      "cn": "它们是按品种分类的."
+    },
+    {
+      "en": "This information has been classified top secret.",
+      "cn": "这一情报被归为绝密类别。"
+    },
+    {
+      "en": "Thousands of classified documents have now been declassified.",
+      "cn": "数以千计的保密文件现在被解密了."
+    },
+    {
+      "en": "Tungsten is classified among the metals.",
+      "cn": "钨归入金属类."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "class",
+          "tran_cn": " 极好的"
+        },
+        {
+          "word": "classifiable",
+          "tran_cn": " 可分类的"
+        },
+        {
+          "word": "classificatory",
+          "tran_cn": " 类别的；分类上的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "class",
+          "tran_cn": " 阶级；班级；种类"
+        },
+        {
+          "word": "classification",
+          "tran_cn": " 分类；类别，等级"
+        },
+        {
+          "word": "classifier",
+          "tran_cn": " [测][遥感] 分类器；分类者；分类词"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "class",
+          "tran_cn": " 分类；把…分等级"
+        },
+        {
+          "word": "classify",
+          "tran_cn": " 分类；分等"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "systematic",
+            "secret",
+            "confidential"
+          ],
+          "tran_cn": "分类的；类别的；机密的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "assorted"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "ranged"
+          ],
+          "tran_cn": "把…分类（classify的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "classified ad",
+      "tran_cn": "分类广告"
+    },
+    {
+      "phrase": "classified advertisement",
+      "tran_cn": "分类广告"
+    },
+    {
+      "phrase": "classified advertising",
+      "tran_cn": "n. 分类广告；分类广告业务"
+    },
+    {
+      "phrase": "classified as",
+      "tran_cn": "被分类为"
+    },
+    {
+      "phrase": "classified index",
+      "tran_cn": "分类索引"
+    },
+    {
+      "phrase": "classified information",
+      "tran_cn": "机密情报；机密资料"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "机密的，保密的，分类的",
+      "tran_en": "classified information, documents etc are ones which the government has ordered to be kept secret"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "分类广告"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "将…分类（ classify的过去式和过去分词）"
+    }
+  ],
+  "exchange": {}
+}

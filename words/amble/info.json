@@ -1,0 +1,113 @@
+{
+  "word": "amble",
+  "ipa": {
+    "us": "ˈæmbl",
+    "uk": "ˈæmbəl"
+  },
+  "sentences": [
+    {
+      "en": "An old man came out and ambled over for a chat.",
+      "cn": "一个老人出来，缓步走过去聊天。"
+    },
+    {
+      "en": "Every evening, they amble along the bank.",
+      "cn": "每天晚上, 他们都沿着江边悠闲地散步."
+    },
+    {
+      "en": "He was coming along at an amble.",
+      "cn": "他以缓慢的步子走来."
+    },
+    {
+      "en": "Let's go for an amble.",
+      "cn": "我们去散步 吧."
+    },
+    {
+      "en": "They 3 amble past open - air restaurants, across shaded 4 ) patios tucked behind walls of 5 ) Bougainvillea.",
+      "cn": "他们悠闲地走过露天餐馆 、 穿过阴凉的天井,旁边的墙上密密麻麻地长满了九重葛."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ambler",
+          "tran_cn": " 慢慢走的人；以溜步法走的马"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bummel",
+            "stroll"
+          ],
+          "tran_cn": "（马的）缓行步态；漫步"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "constitutional",
+            "saunter",
+            "stroll",
+            "walk"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "pace",
+            "saunter",
+            "slow",
+            "stroll"
+          ],
+          "tran_cn": "漫步,缓行,散步"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（马的）缓行步态；漫步"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "缓行, 溜蹄",
+      "tran_en": "to walk slowly in a relaxed way"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（马）缓行，从容地走，漫步",
+      "tran_en": "to walk slowly in a relaxed way"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "ambles"
+    ],
+    "past": [
+      "ambled"
+    ],
+    "done": [
+      "ambled"
+    ],
+    "ing": [
+      "ambling"
+    ]
+  }
+}

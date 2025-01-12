@@ -1,0 +1,153 @@
+{
+  "word": "override",
+  "ipa": {
+    "us": "ˌəʊvəˈraɪd",
+    "uk": "ˌoʊvərˈraɪd"
+  },
+  "sentences": [
+    {
+      "en": "Added option to override the warning to save file.",
+      "cn": "增加超越警告保存文件选项."
+    },
+    {
+      "en": "An override of the veto appears unlikely.",
+      "cn": "看来推翻这项否决的可能性很小。"
+    },
+    {
+      "en": "Big companies think they can sometimes override local opinion.",
+      "cn": "大公司认为它们对地方舆论有时候可以置之不理。"
+    },
+    {
+      "en": "Considerations of safety override all other concerns.",
+      "cn": "对安全的考虑压倒一切."
+    },
+    {
+      "en": "Derived classes cannot override an interface member implemented in a base class.",
+      "cn": "派生类不能重写在基类里面实现的接口成员."
+    },
+    {
+      "en": "Override this member function to perform the OK button action.",
+      "cn": "重载这个成员函数来实现OK按钮操作."
+    },
+    {
+      "en": "The analyst's judgement then must override mathematical and statistical significance.",
+      "cn": "分析家的判断必须超越数学和统计的有效性."
+    },
+    {
+      "en": "The bill now goes to the House where an override vote is expected to fail.",
+      "cn": "该议案现在提交到众议院，在这里否决投票预计不会获得通过。"
+    },
+    {
+      "en": "The EU commission exercised its power to override British policy.",
+      "cn": "欧盟委员会行使其权力来否决英国的政策。"
+    },
+    {
+      "en": "The needs of the windmill must override everything else, he said.",
+      "cn": "他说,为风车所需要的东西一定要不惜一切代价."
+    },
+    {
+      "en": "The president vetoed the bill, and the Senate failed by a single vote to override his veto.",
+      "cn": "总统否决了该议案，而参议院以一票之差未能推翻他的否决。"
+    },
+    {
+      "en": "The president vetoed the bill, but congress override his veto.",
+      "cn": "总统否决了议案, 但国会将它推翻."
+    },
+    {
+      "en": "The welfare of a child should always override the wishes of its parents.",
+      "cn": "孩子的幸福安康应该永远比父母的愿望来得更重要。"
+    },
+    {
+      "en": "These experiments left little doubt that appropriate light changes could override signals from the biological clock.",
+      "cn": "这些试验使我深信不疑,适当的光照变化能够克服来自“生物钟”的信号."
+    },
+    {
+      "en": "This override method is used by List and Show.",
+      "cn": "这个覆盖方法用于列表和显示."
+    },
+    {
+      "en": "Whoever modified it must have given it the ability to override my direct control.",
+      "cn": "被改进过的型号一定被赋予了违背我直接命令的能力."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "overriding",
+          "tran_cn": " 高于一切的，最重要的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "overriding",
+          "tran_cn": " 践踏；压垮；不顾（override的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agency commission"
+          ],
+          "tran_cn": "[会计]代理佣金"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "throw down",
+            "topple down"
+          ],
+          "tran_cn": "推翻；不顾；践踏"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "manual override",
+      "tran_cn": "手动超越控制；并联手动阀"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "代理佣金"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "制服, 践踏, 奔越过, 蹂躏, 不顾, 不考虑(某人的意见,决定,愿望等)",
+      "tran_en": "to use your power or authority to change someone else’s decision"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "推翻，无视，践踏，优先于，覆盖"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "overrides"
+    ],
+    "past": [
+      "overrode"
+    ],
+    "done": [
+      "overridden"
+    ],
+    "ing": [
+      "overriding"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "word": "cogitate",
+  "ipa": {
+    "us": "ˈkɒdʒɪteɪt",
+    "uk": "ˈkɑdʒɪteɪt"
+  },
+  "sentences": [
+    {
+      "en": "Although I like being around people, I do need my quiet time to cogitate.",
+      "cn": "我喜欢跟人交往但也喜欢独处思考."
+    },
+    {
+      "en": "He sat silently cogitating.",
+      "cn": "他静坐深思。"
+    },
+    {
+      "en": "We cogitated on the meaning of life.",
+      "cn": "我们深思生命的意义。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cogitable",
+          "tran_cn": " 可以思考的；可由思考而得的"
+        },
+        {
+          "word": "cogitative",
+          "tran_cn": " 深思熟虑的；有思考力的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cogitation",
+          "tran_cn": " 深思；思考"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "study"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "allow",
+            "think of",
+            "think about"
+          ],
+          "tran_cn": "思考；考虑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "mull over",
+            "reflect on"
+          ],
+          "tran_cn": "仔细考虑；谋划"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "思考, 考虑",
+      "tran_en": "to think carefully and seriously about something"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "<正>认真思考，深思熟虑"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "cogitates"
+    ],
+    "past": [
+      "cogitated"
+    ],
+    "done": [
+      "cogitated"
+    ],
+    "ing": [
+      "cogitating"
+    ],
+    "noun": [
+      "cogitation"
+    ]
+  }
+}

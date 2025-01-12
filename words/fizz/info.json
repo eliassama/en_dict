@@ -1,0 +1,125 @@
+{
+  "word": "fizz",
+  "ipa": {
+    "us": "fɪz",
+    "uk": "fɪz"
+  },
+  "sentences": [
+    {
+      "en": "Burton sipped his gin fizz.",
+      "cn": "伯顿抿了一口杜松子汽酒."
+    },
+    {
+      "en": "For $50, the guests got three courses of top nosh, fizz, wine, and beer.",
+      "cn": "花50美元，客人们就尝到了三道美味菜肴，还有汽水、葡萄酒和啤酒。"
+    },
+    {
+      "en": "He called for a gin fizz and weinies.",
+      "cn": "他要了杜松子香槟酒和红肠."
+    },
+    {
+      "en": "I wonder if there's any fizz left in the lemonade.",
+      "cn": "我想知道这柠檬汽水中还有没有气泡。"
+    },
+    {
+      "en": "Is that an asset - price bubble or just the fizz of Dom P é rignon?",
+      "cn": "财产价格泡沫,抑或香槟之王的泡沫?"
+    },
+    {
+      "en": "Our bar serves a number of cocktails, such as Martini, Pink Ladies , and Gin Fizz.",
+      "cn": "我们酒吧供应多种鸡尾酒, 如马提尼 、 红粉佳人、金菲士等."
+    },
+    {
+      "en": "This lemonade has lost its fizz.",
+      "cn": "这汽水跑气了."
+    },
+    {
+      "en": "Would you like some gin fizz?",
+      "cn": "想要点杜松子汽酒 吗 ?"
+    },
+    {
+      "en": "You could hear the liquid fizz as she poured it out of the bottle.",
+      "cn": "她将液体倒出瓶子时,你可以听到它嘶嘶冒泡."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fizzy",
+          "tran_cn": " 起泡沫的；嘶嘶作响的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "energy",
+            "vitality",
+            "excitement",
+            "spring",
+            "vigor"
+          ],
+          "tran_cn": "兴奋，活力；嘶嘶声；充气饮料"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bubble"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "foam"
+          ],
+          "tran_cn": "显示兴奋；发嘶嘶声；起泡沫"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "兴奋，活力，嘶嘶声，〈美〉发泡性饮料（特指香槟酒等）",
+      "tran_en": "Fizz is also a noun"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "显示兴奋；发嘶嘶声；起泡沫"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "兴奋，发嘶嘶声，（液体，通常指饮料）起泡"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "fizzes"
+    ],
+    "past": [
+      "fizzed"
+    ],
+    "done": [
+      "fizzed"
+    ],
+    "ing": [
+      "fizzing"
+    ]
+  }
+}

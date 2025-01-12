@@ -1,0 +1,53 @@
+{
+  "word": "postdate",
+  "ipa": {
+    "us": "ˌpəʊst'deɪt",
+    "uk": "postˈdet, ˈpost-"
+  },
+  "sentences": [
+    {
+      "en": "He send us a postdate cheque.",
+      "cn": "他寄给我们一张填迟日期的支票."
+    },
+    {
+      "en": "She let me postdate the cheque until the end of the month.",
+      "cn": "她让我将支票上的日期填为月底。"
+    },
+    {
+      "en": "Some of the mosaics postdate this period.",
+      "cn": "这些镶嵌画中有些要晚于这段时期。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "事后日期"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 填迟…的日期 that is later than the actual date)",
+      "tran_en": "if you postdate a cheque, you write it with a date that is later than the actual date, so that it will not become effective until that time"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "填迟…的日期"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "postdates"
+    ],
+    "past": [
+      "postdated"
+    ],
+    "done": [
+      "postdated"
+    ],
+    "ing": [
+      "postdating"
+    ]
+  }
+}

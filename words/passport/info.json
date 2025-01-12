@@ -1,0 +1,165 @@
+{
+  "word": "passport",
+  "ipa": {
+    "us": "ˈpɑːspɔːt",
+    "uk": "ˈpæspɔːrt"
+  },
+  "sentences": [
+    {
+      "en": "A passport that is out of date is invalid.",
+      "cn": "护照过期是无效的."
+    },
+    {
+      "en": "a South African passport",
+      "cn": "南非护照"
+    },
+    {
+      "en": "Check the expiration date on your passport.",
+      "cn": "检查一下你护照上的截止日期。"
+    },
+    {
+      "en": "Evans was trying to obtain a false passport and other documents.",
+      "cn": "埃文斯正试图取得一本假护照和其他证件。"
+    },
+    {
+      "en": "For foreign holidays you will need a valid passport.",
+      "cn": "出国度假需持有效护照。"
+    },
+    {
+      "en": "He stowed his passport away safely in a drawer.",
+      "cn": "他把护照妥善保存在抽届里."
+    },
+    {
+      "en": "He views boxing as his passport out of poverty.",
+      "cn": "他把拳击看作自己摆脱贫困的手段."
+    },
+    {
+      "en": "He went straight through Passport Control without incident.",
+      "cn": "他很顺利地通过了护照检查处。"
+    },
+    {
+      "en": "He's gone off with my passport.",
+      "cn": "他拿走了我的护照。"
+    },
+    {
+      "en": "I have an Irish passport.",
+      "cn": "我持爱尔兰护照。"
+    },
+    {
+      "en": "Inside the passport was a folded slip of paper.",
+      "cn": "护照里面有张折起的纸片。"
+    },
+    {
+      "en": "My attempt to get a new passport turned into a Kafkaesque nightmare.",
+      "cn": "我试图申请新护照的过程变成了一场官样文章的噩梦。"
+    },
+    {
+      "en": "Officials type each passport number into a computer.",
+      "cn": "行政人员将每个护照号都输入计算机中."
+    },
+    {
+      "en": "The only passport to success is hard work.",
+      "cn": "获得成功的唯一途径就是艰苦奋斗。"
+    },
+    {
+      "en": "They need to check that your passport is in order.",
+      "cn": "他们要检查一下你的护照是否有效。"
+    },
+    {
+      "en": "When I lost my passport, I felt such an idiot.",
+      "cn": "我丢了护照时觉得自己像个大傻瓜。"
+    },
+    {
+      "en": "You must hand over your passport before you leave.",
+      "cn": "离境前必须交回护照."
+    },
+    {
+      "en": "You'll have to get a passport, and you'll also need a visa.",
+      "cn": "你必须申办护照, 同时还需要有签证."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "authorization",
+            "permission",
+            "permit",
+            "travel",
+            "visa",
+            "warrant"
+          ],
+          "tran_cn": "护照,保障"
+        },
+        {
+          "words": [
+            "access",
+            "admission",
+            "admittance",
+            "entrance",
+            "entree"
+          ],
+          "tran_cn": "接收,录取,放行,通行证"
+        },
+        {
+          "words": [
+            "pratique",
+            "release",
+            "waiver"
+          ],
+          "tran_cn": "许可证,健康证明,豁免"
+        },
+        {
+          "words": [
+            "ID",
+            "card",
+            "certification",
+            "credentials",
+            "identification",
+            "identity",
+            "licence",
+            "permit"
+          ],
+          "tran_cn": "证书,凭证"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "credential",
+            "license"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "passport control",
+      "tran_cn": "护照检查处；入境检验；验护照"
+    },
+    {
+      "phrase": "passport number",
+      "tran_cn": "护照号；护照号码"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "护照，途径，手段",
+      "tran_en": "a small official document that you get from your government, that proves who you are, and which you need in order to leave your country and enter other countries"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "passports"
+    ]
+  }
+}

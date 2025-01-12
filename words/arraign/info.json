@@ -1,0 +1,84 @@
+{
+  "word": "arraign",
+  "ipa": {
+    "us": "əˈreɪn",
+    "uk": "əˈren"
+  },
+  "sentences": [
+    {
+      "en": "He be arraign for high treason.",
+      "cn": "他被控叛国罪."
+    },
+    {
+      "en": "He was arraigned for criminally abetting a traitor.",
+      "cn": "他因非法怂恿一名叛国者而被传讯。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "arraignment",
+          "tran_cn": " 传讯；提讯；提问；责难"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "impeach",
+            "impute"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "law",
+            "cite"
+          ],
+          "tran_cn": "传讯，控告；责难，指责"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "提问, 传讯, 责难",
+      "tran_en": "to make someone come to court to hear what their crime is"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "告发，控告，传讯，指责",
+      "tran_en": "to make someone come to court to hear what their crime is"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "arraigns"
+    ],
+    "past": [
+      "arraigned"
+    ],
+    "done": [
+      "arraigned"
+    ],
+    "ing": [
+      "arraigning"
+    ],
+    "noun": [
+      "arraignment"
+    ]
+  }
+}

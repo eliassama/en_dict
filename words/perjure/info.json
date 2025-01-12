@@ -1,0 +1,62 @@
+{
+  "word": "perjure",
+  "ipa": {
+    "us": "ˈpɜ:dʒə(r)",
+    "uk": "ˈpɜrdʒə(r)"
+  },
+  "sentences": [
+    {
+      "en": "The man scrupled to perjure himself.",
+      "cn": "这人发伪誓时迟疑了起来."
+    },
+    {
+      "en": "Witnesses lied and perjured themselves.",
+      "cn": "证人撒谎作伪证。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "perjurer",
+          "tran_cn": " 伪证者；[法] 作伪证者；伪誓者"
+        },
+        {
+          "word": "perjury",
+          "tran_cn": " 伪证；伪誓；背信弃义"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使发伪誓, 使破坏誓言",
+      "tran_en": "to tell a lie after promising to tell the truth in a court of law"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "发假誓，作伪证"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "perjures"
+    ],
+    "past": [
+      "perjured"
+    ],
+    "done": [
+      "perjured"
+    ],
+    "ing": [
+      "perjuring"
+    ],
+    "noun": [
+      "perjurer"
+    ]
+  }
+}

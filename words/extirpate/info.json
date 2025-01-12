@@ -1,0 +1,88 @@
+{
+  "word": "extirpate",
+  "ipa": {
+    "us": "ˈekstəpeɪt",
+    "uk": "ˈekstərpeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Objective: To explore the role of radioheating hemostasia after tonsil extirpate.",
+      "cn": "摘要目的: 探讨扁桃体摘除术后射频止血方法的有效性."
+    },
+    {
+      "en": "The police arrested dealers in an attempt to extirpate drug aBuse.",
+      "cn": "在禁毒运动中警察逮捕了很多毒品交易者."
+    },
+    {
+      "en": "To explore the role of radioheating hemostasia after tonsil extirpate.",
+      "cn": "目的:探讨扁桃体摘除术后射频止血方法的有效性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "extirpation",
+          "tran_cn": " 消灭，根除；毁灭"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "eradicate",
+            "exterminate",
+            "uproot"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "die out",
+            "become extinct"
+          ],
+          "tran_cn": "使连根拔起；灭绝，破除"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "消灭, 根除, 毁灭, [医]摘除(肿瘤等)",
+      "tran_en": "to completely destroy something that is unpleasant or unwanted"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "消灭，灭绝，根除"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "extirpates"
+    ],
+    "past": [
+      "extirpated"
+    ],
+    "done": [
+      "extirpated"
+    ],
+    "ing": [
+      "extirpating"
+    ],
+    "noun": [
+      "extirpation"
+    ]
+  }
+}

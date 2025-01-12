@@ -1,0 +1,58 @@
+{
+  "word": "inroad",
+  "ipa": {
+    "us": "ˈɪnrəʊd",
+    "uk": "ˈɪnroʊd"
+  },
+  "sentences": [
+    {
+      "en": "We haven’t made much of an inroad into the backlog of work.",
+      "cn": "我们没有完成多少积压的工作。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "attack",
+            "foray",
+            "invasion",
+            "raid"
+          ],
+          "tran_cn": "侵袭"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "attack",
+            "entrenchment",
+            "foray",
+            "invasion",
+            "raid"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "进展，侵袭",
+      "tran_en": "to make some progress towards achieving something difficult"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "inroads"
+    ]
+  }
+}

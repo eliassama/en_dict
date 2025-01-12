@@ -1,0 +1,98 @@
+{
+  "word": "disjunctive",
+  "ipa": {
+    "us": "dɪs'dʒʌŋktɪv",
+    "uk": "dɪsˈdʒʌŋktɪv"
+  },
+  "sentences": [
+    {
+      "en": "Because you let me have that kind of disjunctive felling.",
+      "cn": "因为你让我有了那种分离的感觉。"
+    },
+    {
+      "en": "Because you let me have that kind of not to think a disjunctive felling.",
+      "cn": "因为你让我有了那种不想分离的感觉."
+    },
+    {
+      "en": "Categoricalness implies another property which he called it disjunctive.",
+      "cn": "范畴性还隐含着另外一条性质,他把它叫做析取性."
+    },
+    {
+      "en": "Disjunctive words coexistence refers to two disjunctive words being used in a sentence.",
+      "cn": "转折词语的连用是指在同一个句子中两个表示转折意思的词语连用。"
+    },
+    {
+      "en": "Drag onto the page, then connect external disjunctive mandatory constraint shape to constrained role(s).",
+      "cn": "拖到绘图页上，然后将外部分离强制约束形状连接到被约束的角色。"
+    },
+    {
+      "en": "Michael Whittle's art concerning biology records the disjunctive dialogue between mind and nature.",
+      "cn": "麦克怀德的艺术生物学记录了人的精神和本性之间的分隔对话."
+    },
+    {
+      "en": "The disjunctive proposition has two aspects of independence of two important cornerstones for logic inference.",
+      "cn": "因此,以尽举选言命题作前提能构成从已知获取新知的推理."
+    },
+    {
+      "en": "This model is in a special form called disjunctive normal form ( DNF ).",
+      "cn": "这一模型表现为一种特殊的形式--正常分离形式 ( DNF )."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disjunct",
+          "tran_cn": " 分离的；头、胸和腹部由缢缩分开的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disjunction",
+          "tran_cn": " 分离；析取；分裂；折断"
+        },
+        {
+          "word": "disjuncture",
+          "tran_cn": " 分裂；分离"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "apart",
+            "isolated",
+            "separating"
+          ],
+          "tran_cn": "[数]分隔的；分离的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "disjunctive normal form",
+      "tran_cn": "析取范式"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "分离（性）的，（指连词）转折的，反意的",
+      "tran_en": "a disjunctive  conjunction  expresses a choice or opposition between two ideas. For example, ‘or’ is a disjunctive conjunction."
+    },
+    {
+      "pos": "n",
+      "tran_cn": "反意连接词"
+    }
+  ],
+  "exchange": {}
+}

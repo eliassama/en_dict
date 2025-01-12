@@ -1,0 +1,202 @@
+{
+  "word": "composer",
+  "ipa": {
+    "us": "kəmˈpəʊzə(r)",
+    "uk": "kəmˈpoʊzər"
+  },
+  "sentences": [
+    {
+      "en": "...music by Strauss, Mozart, Beethoven, and other great composers.",
+      "cn": "…施特劳斯、莫扎特、贝多芬及其他伟大作曲家创作的音乐。"
+    },
+    {
+      "en": "After his education, Goldschmidt became a pupil of the composer Franz Schreker.",
+      "cn": "学业结束后，戈尔德施米特成了作曲家弗朗兹·施雷克尔的学生。"
+    },
+    {
+      "en": "As a professional composer I owe much to Radio 3.",
+      "cn": "作为一名职业作曲家，我十分感激第三电台。"
+    },
+    {
+      "en": "As soon as a melody is finished with, the composer writes another.",
+      "cn": "每写完一首曲子, 这位作曲家就接着写另一首."
+    },
+    {
+      "en": "Brooks is an excellent composer.",
+      "cn": "布鲁克斯是一位杰出的作曲家."
+    },
+    {
+      "en": "He has dual role as composer and conductor.",
+      "cn": "他兼作曲家及指挥的双重身分."
+    },
+    {
+      "en": "his dual role as composer and conductor",
+      "cn": "他兼任作曲家和指挥的双重角色"
+    },
+    {
+      "en": "It was the fortieth anniversary of the death of the composer.",
+      "cn": "这是该作曲家逝世40周年纪念日。"
+    },
+    {
+      "en": "It would be sacrilege to alter the composer's original markings.",
+      "cn": "改动作曲家原有的符号是亵渎行为。"
+    },
+    {
+      "en": "Lewis emerges as a composer of distinction and sensitivity.",
+      "cn": "刘易斯作为一位悟性很高的优秀作曲家崭露头角。"
+    },
+    {
+      "en": "She's only 18 but she's already a practised composer.",
+      "cn": "她才18岁，但已成了老练的作曲家。"
+    },
+    {
+      "en": "The aloof composer neither worried nor cared about public opinion.",
+      "cn": "这位超然的作曲家对舆论既不担心,也不在意."
+    },
+    {
+      "en": "The composer expresses his sorrow in his music.",
+      "cn": "这位作曲家用音乐表达他的悲伤."
+    },
+    {
+      "en": "The composer was one of many illustrious visitors to the town.",
+      "cn": "那位作曲家是许多造访过这个城市的杰出人物之一。"
+    },
+    {
+      "en": "The manuscripts were written in the composer's own hand.",
+      "cn": "手稿是作曲家亲笔写的。"
+    },
+    {
+      "en": "The success of a popular composer depends on his melody.",
+      "cn": "人们喜爱的作曲家成功的秘诀在于他谱写的优美的音乐."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "composed",
+          "tran_cn": "镇静的；沉着的"
+        },
+        {
+          "word": "composing",
+          "tran_cn": "起镇静作用的"
+        },
+        {
+          "word": "compositional",
+          "tran_cn": "组成的；创作的；作曲的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "composing",
+          "tran_cn": "组成；[印刷] 排字"
+        },
+        {
+          "word": "composition",
+          "tran_cn": "作文，作曲；[材] 构成；合成物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "composed",
+          "tran_cn": "组成；作曲（compose的过去分词）；著作"
+        },
+        {
+          "word": "composing",
+          "tran_cn": "组成；写作（compose的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "compose",
+          "tran_cn": "组成；作曲；排字"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "compose",
+          "tran_cn": "构成；写作；使平静；排…的版"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "maestro",
+            "melodist",
+            "songster",
+            "songwriter",
+            "symphonist"
+          ],
+          "tran_cn": "作曲家"
+        },
+        {
+          "words": [
+            "author",
+            "dramatist",
+            "novelist",
+            "playwright",
+            "screenwriter",
+            "storyteller",
+            "writer"
+          ],
+          "tran_cn": "作者"
+        },
+        {
+          "words": [
+            "architect",
+            "coiner",
+            "contriver",
+            "creator",
+            "designer",
+            "deviser",
+            "framer",
+            "inventor"
+          ],
+          "tran_cn": "设计者,发明者,调停人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "musician"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "作曲家",
+      "tran_en": "someone who writes music"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "composers"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "word": "beatific",
+  "ipa": {
+    "us": "ˌbi:əˈtɪfɪk",
+    "uk": "ˌbiəˈtɪfɪk"
+  },
+  "sentences": [
+    {
+      "en": "...a beatific smile.",
+      "cn": "...一个幸福的微笑。"
+    },
+    {
+      "en": "All parents wish their children could have a safe and beatific life.",
+      "cn": "父母都渴望他们的孩子们平安快乐。"
+    },
+    {
+      "en": "Perhaps the Beatific Vision itself has some remote kinship with this lowly experience.",
+      "cn": "或许至福幻象本身就同这种平凡的体验有着某种淡薄的血缘关系."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "beatification",
+          "tran_cn": " 受福；列福式；（天主教）宣福礼"
+        },
+        {
+          "word": "beatitude",
+          "tran_cn": " 祝福；至福"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "beatify",
+          "tran_cn": " 行宣福礼；使享福"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "happy",
+            "blessed",
+            "festival"
+          ],
+          "tran_cn": "幸福的；祝福的；快乐的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cheerful"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<文>快乐而安详的，有福的，极乐的，天使般的",
+      "tran_en": "a beatific look, smile etc shows great peace and happiness"
+    }
+  ],
+  "exchange": {}
+}

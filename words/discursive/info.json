@@ -1,0 +1,82 @@
+{
+  "word": "discursive",
+  "ipa": {
+    "us": "dɪsˈkɜ:sɪv",
+    "uk": "dɪsˈkɜrsɪv"
+  },
+  "sentences": [
+    {
+      "en": "a long, discursive article",
+      "cn": "一篇冗长且不着边际的文章"
+    },
+    {
+      "en": "His own toast was discursive and overlong, though rather touching.",
+      "cn": "他自己的祝酒词虽然也颇为动人,但是比较松散而冗长."
+    },
+    {
+      "en": "the discursive style of the novel",
+      "cn": "这部小说的散漫风格"
+    },
+    {
+      "en": "They complained that my writing was becoming too discursive.",
+      "cn": "他们抱怨我的文章变得太散漫的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "discursively",
+          "tran_cn": " 东拉西扯地；推论地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "discursiveness",
+          "tran_cn": " 推论；漫谈离题"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "loose",
+            "excursive"
+          ],
+          "tran_cn": "散漫的；离题的；东拉西扯的；无层次的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "desultory",
+            "episodic",
+            "excursive",
+            "incoherent"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "东拉西扯的，离题的",
+      "tran_en": "discussing many different ideas, facts etc, without always having a clear purpose"
+    }
+  ],
+  "exchange": {}
+}

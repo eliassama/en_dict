@@ -1,0 +1,183 @@
+{
+  "word": "diagnosis",
+  "ipa": {
+    "us": "ˌdaɪəɡˈnəʊsɪs",
+    "uk": "ˌdaɪəɡˈnoʊsɪs"
+  },
+  "sentences": [
+    {
+      "en": "An exact diagnosis can only be made by obtaining a blood sample.",
+      "cn": "只有抽取血样才能作出准确的诊断。"
+    },
+    {
+      "en": "diagnosis of lung cancer",
+      "cn": "肺癌的诊断"
+    },
+    {
+      "en": "Diagnosis was deferred pending further assessment.",
+      "cn": "等候进一步的评估再诊断."
+    },
+    {
+      "en": "Early diagnosis and treatment can usually prevent blindness.",
+      "cn": "早期的诊断和治疗通常可以预防失明。"
+    },
+    {
+      "en": "Further scans are required to confirm the diagnosis of an abnormality.",
+      "cn": "需要进一步扫描来确诊是否出现异常病变。"
+    },
+    {
+      "en": "His symptoms gave no obvious pointer to a possible diagnosis.",
+      "cn": "他的症状无法作出明确的诊断."
+    },
+    {
+      "en": "She began to consult doctors, and each had a different diagnosis.",
+      "cn": "她开始四处寻医，但每个医生的诊断都不相同。"
+    },
+    {
+      "en": "Symptoms may not appear for some weeks, so diagnosis can be difficult.",
+      "cn": "症状可能在几周里都不会出现，所以诊断起来会比较困难。"
+    },
+    {
+      "en": "The case defies diagnosis.",
+      "cn": "这种病症难以确诊."
+    },
+    {
+      "en": "The diagnosis was devastating. She had cancer.",
+      "cn": "诊断结果令人震惊：她得了癌症。"
+    },
+    {
+      "en": "The diagnosis was ovarian cancer.",
+      "cn": "诊断结果是卵巢癌."
+    },
+    {
+      "en": "The doctor made his diagnosis after studying the patient's symptoms.",
+      "cn": "医生研究病人的症状后,作出诊断."
+    },
+    {
+      "en": "The engineer made a complete diagnosis of the bridge's collapse.",
+      "cn": "工程师对桥的倒塌做一次彻底的调查分析."
+    },
+    {
+      "en": "This report is about diagnosis and control of gosling pest.",
+      "cn": "这份报告是关于小鹅瘟的诊断与防制的。"
+    },
+    {
+      "en": "We waited in great suspense for the doctor's diagnosis.",
+      "cn": "我们焦急万分地等候医生做出诊断。"
+    },
+    {
+      "en": "What was the doctor's diagnosis of your disease?",
+      "cn": "医生对你的病作出了什么诊断?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "diagnostic",
+          "tran_cn": " 诊断的；特征的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "diagnosing",
+          "tran_cn": " 诊断"
+        },
+        {
+          "word": "diagnostic",
+          "tran_cn": " 诊断法；诊断结论"
+        },
+        {
+          "word": "diagnostician",
+          "tran_cn": " 诊断专家；诊断医生"
+        },
+        {
+          "word": "diagnostics",
+          "tran_cn": " 诊断学（用作单数）"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "diagnosing",
+          "tran_cn": " 诊断（diagnose的现在分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "diagnose",
+          "tran_cn": " 诊断；判断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "diagnose",
+          "tran_cn": " 诊断；断定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "diacrisis"
+          ],
+          "tran_cn": "[临床][计]诊断"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "business diagnosis",
+      "tran_cn": "业务分析，企业诊断"
+    },
+    {
+      "phrase": "differential diagnosis",
+      "tran_cn": "鉴别诊断"
+    },
+    {
+      "phrase": "early diagnosis",
+      "tran_cn": "早期诊断"
+    },
+    {
+      "phrase": "failure diagnosis",
+      "tran_cn": "故障诊断，失效诊断"
+    },
+    {
+      "phrase": "fault diagnosis",
+      "tran_cn": "故障诊断"
+    },
+    {
+      "phrase": "prenatal diagnosis",
+      "tran_cn": "产前诊断，产前检查"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "诊断，判断",
+      "tran_en": "the process of discovering exactly what is wrong with someone or something, by examining them closely"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "diagnoses"
+    ]
+  }
+}

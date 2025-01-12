@@ -1,0 +1,53 @@
+{
+  "word": "mishandle",
+  "ipa": {
+    "us": "ˌmɪsˈhændl",
+    "uk": "ˌmɪsˈhændl"
+  },
+  "sentences": [
+    {
+      "en": "The prime minister admitted that the crisis had been mishandled.",
+      "cn": "首相承认此次危机处理不当。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abuse",
+            "mistreat"
+          ],
+          "tran_cn": "虐待；错误地处理"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "vt",
+      "tran_cn": "处理不当（不力），错误地处理，粗暴地对待，虐待",
+      "tran_en": "to deal with a situation badly, because of a lack of skill or care"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "mishandles"
+    ],
+    "past": [
+      "mishandled"
+    ],
+    "done": [
+      "mishandled"
+    ],
+    "ing": [
+      "mishandling"
+    ],
+    "noun": [
+      "mishandling"
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "word": "numeric",
+  "ipa": {
+    "us": "nju:'merɪk",
+    "uk": "nu'merɪk"
+  },
+  "sentences": [
+    {
+      "en": "Binary items is a numeric data item in binary notation.",
+      "cn": "二进制数据项是用二进制记数法表示的一种数位数据项."
+    },
+    {
+      "en": "Converts the numeric value of this instance to its equivalent string representation.",
+      "cn": "将此实例的数值转换为其等效的字符串表示形式."
+    },
+    {
+      "en": "Do you want to use your numeric keypad instead of the mouse?",
+      "cn": "您想不用鼠标,而使用数字键盘 吗 ?"
+    },
+    {
+      "en": "DSL . simulation mobile phone and numeric move telephone and so on.",
+      "cn": "模拟移动电话和数字移动电话等."
+    },
+    {
+      "en": "Explanation: Significant digits truncated during CAST from numeric to character.",
+      "cn": "说明：在从数字到字符科协截断有效数字。"
+    },
+    {
+      "en": "If the data type of the field is numeric, the field is added to the Values area, with a default aggregation of sum.",
+      "cn": "如果这个字段的数据类型为数值，那么这个字段就会增加到值区域，形成一个求和的默认集合。"
+    },
+    {
+      "en": "If you have numeric data, keep the level of precision appropriate.",
+      "cn": "如果您有数字数据, 保持适当的精度水平."
+    },
+    {
+      "en": "LED Displays Have Two Main Types: Numeric Display And Alphanumeric Display.",
+      "cn": "led显示屏有两个主要类型: 数字展示及字母数字显示器."
+    },
+    {
+      "en": "Names or numeric identifiers that correspond to elements in a Web Capture.",
+      "cn": "与网页获取区中的元素对应的名称或数字标识符."
+    },
+    {
+      "en": "Otherwise, a unary numeric operand remains as is and is not converted.",
+      "cn": "否则, 一元数字操作数保留被转换或者不被转换."
+    },
+    {
+      "en": "Press numeric keys 3 1 to enter the channel number 31.",
+      "cn": "按数字键31来输入频道号码31."
+    },
+    {
+      "en": "Propagation of seismic wave in complex medium is mostly simulated by numeric solution of oneway or two-way wave equation.",
+      "cn": "复杂介质中地震波的传播多是通过求取单程或双程波动方程的数值解进行模拟的。"
+    },
+    {
+      "en": "Returns the variance of a numeric expression evaluated over a set ( unbiased ).",
+      "cn": "返回在某一集合上对数值表达式求得的方差 ( 非偏置填充 )."
+    },
+    {
+      "en": "The instructions of the program have to be written in a numeric form.",
+      "cn": "程序的指令需要写成数字形式."
+    },
+    {
+      "en": "The integer data type is toa numeric value without a fractional component.",
+      "cn": "所有数值数据类型都是从小数数据类型里派生出来的."
+    },
+    {
+      "en": "The numeric keypad is on the right of typewriter character keys.",
+      "cn": "数字小键盘是在打字机字符键的右侧."
+    },
+    {
+      "en": "This is an invalid syntax for a hexadecimal numeric entity reference syntax.",
+      "cn": "这是十六进制数字实体引用语法的无效语法."
+    },
+    {
+      "en": "This is an invalid syntax for a hexadecimal numeric entity reference.",
+      "cn": "这是十六进制数字实体引用的无效语法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "numeral",
+          "tran_cn": " 数字的；表示数字的"
+        },
+        {
+          "word": "numerical",
+          "tran_cn": " 数值的；数字的；用数字表示的（等于numeric）"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "numerically",
+          "tran_cn": " 数字上；用数字表示"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "numeral",
+          "tran_cn": " 数字"
+        },
+        {
+          "word": "numeration",
+          "tran_cn": " 计算；数字的读法；[数] 命数法；编号"
+        },
+        {
+          "word": "numerology",
+          "tran_cn": " 命理学；数字命理学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "digital"
+          ],
+          "tran_cn": "[计][数]数值的（等于mumerical）；数字的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "number",
+            "figure",
+            "digital"
+          ],
+          "tran_cn": "数；[计]数字"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "numeric data",
+      "tran_cn": "数字数据"
+    },
+    {
+      "phrase": "numeric display",
+      "tran_cn": "[计]数字显示"
+    },
+    {
+      "phrase": "numeric keypad",
+      "tran_cn": "数字小键盘"
+    },
+    {
+      "phrase": "numeric value",
+      "tran_cn": "数值，数字值"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "数字的，数值的"
+    }
+  ],
+  "exchange": {}
+}

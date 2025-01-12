@@ -1,0 +1,71 @@
+{
+  "word": "transfigure",
+  "ipa": {
+    "us": "trænsˈfɪgə(r)",
+    "uk": "trænsˈfɪgjər"
+  },
+  "sentences": [
+    {
+      "en": "At one time we could transfigure into any shape including any animal form.",
+      "cn": "在某个时候,我们能变身成任何外形,包括任何动物形体."
+    },
+    {
+      "en": "Her face was transfigured with joy.",
+      "cn": "她高兴得容光焕发。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "transfiguration",
+          "tran_cn": " 变形；变容；变貌"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "candy",
+            "deform"
+          ],
+          "tran_cn": "使变形；使改观；美化；理想化"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使变形, 美化, 理想化",
+      "tran_en": "to change the way someone or something looks, especially so that they become more beautiful"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "改变…的外表，美化，使变得高尚或理想"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "transfigures"
+    ],
+    "past": [
+      "transfigured"
+    ],
+    "done": [
+      "transfigured"
+    ],
+    "ing": [
+      "transfiguring"
+    ],
+    "noun": [
+      "transfiguration"
+    ]
+  }
+}

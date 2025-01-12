@@ -1,0 +1,84 @@
+{
+  "word": "hallucinate",
+  "ipa": {
+    "us": "həˈlu:sɪneɪt",
+    "uk": "hə'lusɪneɪt"
+  },
+  "sentences": [
+    {
+      "en": "Drug addicts often hallucinate.",
+      "cn": "吸毒成瘾的人常常产生幻觉."
+    },
+    {
+      "en": "Hunger made him hallucinate.",
+      "cn": "饥饿使他产生了幻觉。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hallucinatory",
+          "tran_cn": " 引起幻觉的"
+        },
+        {
+          "word": "hallucinogenic",
+          "tran_cn": " 引起幻觉的；迷幻药的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hallucination",
+          "tran_cn": " 幻觉，幻想；错觉"
+        },
+        {
+          "word": "hallucinosis",
+          "tran_cn": " 幻觉性精神病"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "daydream"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使产生幻觉",
+      "tran_en": "to see or hear things that are not really there"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使产生幻觉"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "hallucinates"
+    ],
+    "past": [
+      "hallucinated"
+    ],
+    "done": [
+      "hallucinated"
+    ],
+    "ing": [
+      "hallucinating"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "word": "shopworn",
+  "ipa": {
+    "us": "ˈʃɒpwɔ:n",
+    "uk": "ˈʃɑpwɔrn"
+  },
+  "sentences": [
+    {
+      "en": "He was fat and looked shopworn around the nose and mouth.",
+      "cn": "他人长得胖,鼻头和嘴巴部分显出一副不合时宜的可怜相."
+    },
+    {
+      "en": "shopworn management techniques",
+      "cn": "老一套的管理手法"
+    },
+    {
+      "en": "The old coat has shopworn in the closet for years.",
+      "cn": "这件旧外套在橱中闲放已好几年了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "shopsoiled",
+          "tran_cn": " 陈列久了的；陈旧的（等于shopworn）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "old",
+            "timeworn"
+          ],
+          "tran_cn": "陈旧的；陈腐的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（商品在商店中陈列过久或被触摸过多而）残旧了的，陈旧的，陈腐的",
+      "tran_en": "a product that is shopworn is slightly damaged or dirty because it has been in a shop for a long time"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,157 @@
+{
+  "word": "liquidate",
+  "ipa": {
+    "us": "ˈlɪkwɪdeɪt",
+    "uk": "ˈlɪkwɪˌdet"
+  },
+  "sentences": [
+    {
+      "en": "A unanimous vote was taken to liquidate the company.",
+      "cn": "全体投票一致通过停业清理公司。"
+    },
+    {
+      "en": "But that plan apart on Sunday, all but assuring that Lehman would be forced to liquidate.",
+      "cn": "但是这个方案在周日无疾而终,导致雷曼只能被迫停业."
+    },
+    {
+      "en": "By Wednesday it looked as if PWC [ PricewaterhouseCoopers , the administrators ] had found assets to liquidate.",
+      "cn": "到了周三, 管理员找到了可以变现的资产."
+    },
+    {
+      "en": "He was compelled to liquidate his securities.",
+      "cn": "他被迫将债券变换成现金."
+    },
+    {
+      "en": "In that moment of distraction, he could miss his last favorable opportunity to liquidate his position.",
+      "cn": "当他分心时, 他就错过了最后的平仓机会."
+    },
+    {
+      "en": "It is not too late to liquidate assets and move into precious metals, spreading out geographically.",
+      "cn": "现在亦不是太晚去卖出资产和将所得的资金转移至贵金属, 以及将资本分散在世界各地."
+    },
+    {
+      "en": "Pressure is also mounting on distributors to liquidate their holdings of quayside material.",
+      "cn": "经销商出清码头库存的压力也在持续攀升."
+    },
+    {
+      "en": "The court decided to help the company liquidate its chain debts.",
+      "cn": "法院决定帮助企业清理三角债."
+    },
+    {
+      "en": "The doctor delivers demand the bill of cost , sa Weiji cannot liquidate.",
+      "cn": "医生一次次送来催索诊费的帐单, 萨维奇都无法偿付."
+    },
+    {
+      "en": "The stock was sold to liquidate the loan.",
+      "cn": "股票被卖出以偿还贷款。"
+    },
+    {
+      "en": "They have not hesitated in the past to liquidate their rivals.",
+      "cn": "过去他们曾毫不犹豫地铲除对手。"
+    },
+    {
+      "en": "They're likely to hold big fire sales to liquidate their inventory.",
+      "cn": "他们可能会举行清仓大甩卖。"
+    },
+    {
+      "en": "Trying to liquidate that balance sheet quickly could lead to panic across the financial system.",
+      "cn": "试图清算他的资产负债表将会很快在金融体系内蔓延恐慌情绪."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "liquid",
+          "tran_cn": " 液体的；清澈的；明亮的；易变的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "liquid",
+          "tran_cn": " 液体，流体；流音"
+        },
+        {
+          "word": "liquidation",
+          "tran_cn": " 清算；偿还；液化；清除"
+        },
+        {
+          "word": "liquidator",
+          "tran_cn": " 清算人；公司资产清理人"
+        },
+        {
+          "word": "liquidity",
+          "tran_cn": " 流动性；流动资产；[金融] 偿债能力"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "butcher",
+            "murder"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "reckon with sb",
+            "bring to account"
+          ],
+          "tran_cn": "清算；清理债务"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "eliminate",
+            "avoid"
+          ],
+          "tran_cn": "清算；偿付；消除"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "清算；偿付；消除",
+      "tran_en": "to close a business or company and sell the things that belong to it, in order to pay its debts"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "清算，清偿，结束，换现款"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "liquidates"
+    ],
+    "past": [
+      "liquidated"
+    ],
+    "done": [
+      "liquidated"
+    ],
+    "ing": [
+      "liquidating"
+    ]
+  }
+}

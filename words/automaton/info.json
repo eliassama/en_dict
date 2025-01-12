@@ -1,0 +1,193 @@
+{
+  "word": "automaton",
+  "ipa": {
+    "us": "ɔ:ˈtɒmətən",
+    "uk": "ɔˈtɑmətən"
+  },
+  "sentences": [
+    {
+      "en": "A shallow water acoustic field algorithm using finite automaton was presented.",
+      "cn": "提出一种用有穷状态自动机研究浅海声场的方法."
+    },
+    {
+      "en": "Automaton theory is a basic theory of compile routine for identifying words.",
+      "cn": "自动机理论是编译程序中单词识别的基本理论."
+    },
+    {
+      "en": "Do you think I an an automaton?",
+      "cn": "依以为我是一架自动机器 吗 ?"
+    },
+    {
+      "en": "I get sick of being thought of as a political automaton.",
+      "cn": "我讨厌被看作政治机器。"
+    },
+    {
+      "en": "In existing one - dimensional cellular automaton models of traffic flow, drivers'varying behaviors are the deceleration probability.",
+      "cn": "在已有的交通流一 维 元胞自动机模型中, 司机不同的驾驶行为是以车辆减速概率的形式体现的."
+    },
+    {
+      "en": "In this paper we discuss one cryptosystem which based on the theory of the finite automaton.",
+      "cn": "该文讨论的是基于有限自动机理论的公钥加密体制."
+    },
+    {
+      "en": "Man like every other animal is by nature indolent. if nothing spurs him on then he will hardly think and will bahave from habit like an automaton.",
+      "cn": "人如其他动物一样本性慵懒，如果没有什么鞭策著他，他几乎不思考，只是象机器人一样按照习惯去做。"
+    },
+    {
+      "en": "Modularization state automaton implements batch job execution.",
+      "cn": "模块化的状态自动机实现了作业的执行."
+    },
+    {
+      "en": "One - dimension slow - to - start multi - cellular automaton model of the bus running in the on - line stop is presented.",
+      "cn": "构建了适用于在线公交车站车辆运行的一 维 慢启动 多元 胞自动机仿真模型."
+    },
+    {
+      "en": "Only an automaton wouldn't have noticed.",
+      "cn": "只有机器人不会注意到这一点."
+    },
+    {
+      "en": "So the storage structure of finite automaton should the choosed adjacency lists.",
+      "cn": "所以,有穷自动机的存储结构最好采用邻接链表来存储."
+    },
+    {
+      "en": "The concept of composition of finite automata is first proposed in finite automaton public key cryptosystem.",
+      "cn": "在有限自动机公开钥密码体制中首次提出了自动机化合的概念."
+    },
+    {
+      "en": "The paper introduces the working principle of the whole system of gold foil manipulating automaton and PLC control system.",
+      "cn": "介绍了金箔装叠精细操作机器人自动化系统总体工作原理及PLC控制系统原理。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "automated",
+          "tran_cn": " 自动化的；机械化的"
+        },
+        {
+          "word": "automatic",
+          "tran_cn": " 自动的；无意识的；必然的"
+        },
+        {
+          "word": "automatically",
+          "tran_cn": " 不经思索的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "automatically",
+          "tran_cn": " 自动地；机械地；无意识地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "automatic",
+          "tran_cn": " 自动机械；自动手枪"
+        },
+        {
+          "word": "automation",
+          "tran_cn": " 自动化；自动操作"
+        },
+        {
+          "word": "automatism",
+          "tran_cn": " 自动作用；[医] 自动症；自动性"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "automated",
+          "tran_cn": " 自动化（automate的过去分词）；自动操作"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "automate",
+          "tran_cn": " 自动化，自动操作"
+        },
+        {
+          "word": "automatize",
+          "tran_cn": " 自动化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "automate",
+          "tran_cn": " 使自动化，使自动操作"
+        },
+        {
+          "word": "automatise",
+          "tran_cn": " （英）使自动化（等于automatize）"
+        },
+        {
+          "word": "automatize",
+          "tran_cn": " 使自动化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "robot",
+            "droid"
+          ],
+          "tran_cn": "[自]自动机；机器人；自动机器"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "machine"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cellular automaton",
+      "tran_cn": "细胞自动机"
+    },
+    {
+      "phrase": "finite automaton",
+      "tran_cn": "有限自动机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "自动机，机器人",
+      "tran_en": "a machine, especially one in the shape of a human, that moves without anyone controlling it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "automata",
+      "automatons"
+    ]
+  }
+}

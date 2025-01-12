@@ -1,0 +1,190 @@
+{
+  "word": "magnitude",
+  "ipa": {
+    "us": "ˈmæɡnɪtjuːd",
+    "uk": "ˈmæɡnɪtuːd"
+  },
+  "sentences": [
+    {
+      "en": "an increase of this order of magnitude",
+      "cn": "如此大幅度的增长"
+    },
+    {
+      "en": "An operation of this magnitude is going to be difficult.",
+      "cn": "这么大的手术实施起来十分困难。"
+    },
+    {
+      "en": "Dependable production is just as important as the magnitude of output.",
+      "cn": "可靠的生产和巨大生产量一样重要."
+    },
+    {
+      "en": "I want to know the magnitude of this equipment.",
+      "cn": "我想知道这个设备的大小."
+    },
+    {
+      "en": "It made his role more extravagant, of greater magnitude.",
+      "cn": "这一来他的地位就更高不可攀了, 身份就更尊贵了."
+    },
+    {
+      "en": "Its conservation law encompasses both its magnitude and its direction.",
+      "cn": "它的守恒定律包括大小和方向两方面."
+    },
+    {
+      "en": "Lily was duly impressed by the magnitude of her opportunities.",
+      "cn": "选择良偶的重要性丽莉早已深深地铭刻在心."
+    },
+    {
+      "en": "No one comprehended the magnitude of the problem then.",
+      "cn": "当时无人认识到这一问题的严重性."
+    },
+    {
+      "en": "Numbers of this enormous magnitude are very difficult to comprehend.",
+      "cn": "这个巨大的数字是很难想象的."
+    },
+    {
+      "en": "Physical properties that are completely specified by their magnitude are called scalars.",
+      "cn": "物理性质完全由其大小所确定者叫做标量."
+    },
+    {
+      "en": "Stars of the first magnitude are the brightest.",
+      "cn": "一等星最明亮."
+    },
+    {
+      "en": "The auditorium is a building of great magnitude.",
+      "cn": "这个大礼堂是一栋巨大的建筑物."
+    },
+    {
+      "en": "The device speed has improved by two orders of magnitude since 1960.",
+      "cn": "自1960年至今,器件速度已改善了两个数量级."
+    },
+    {
+      "en": "The star varies in brightness by about three magnitudes.",
+      "cn": "星体的亮度大约分三个星等。"
+    },
+    {
+      "en": "The time delay would be smaller by eight orders of magnitude.",
+      "cn": "如果按8个数量级来看，延时量会显得小一些。"
+    },
+    {
+      "en": "Then , too, the Soviet airlift was growing in magnitude.",
+      "cn": "还有, 苏联的空运规模日益增大."
+    },
+    {
+      "en": "These are issues of great magnitude.",
+      "cn": "这些问题极为重要。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "abundance",
+            "barrels",
+            "copiousness",
+            "deal",
+            "great",
+            "much",
+            "plenitude",
+            "plenty",
+            "profusion",
+            "quantity",
+            "superabundance",
+            "tons"
+          ],
+          "tran_cn": "丰富,充足"
+        },
+        {
+          "words": [
+            "bigness",
+            "boundlessness",
+            "enormousness",
+            "expanse",
+            "greatness",
+            "immensity",
+            "infinity",
+            "largeness",
+            "vastness"
+          ],
+          "tran_cn": "巨大,广大"
+        },
+        {
+          "words": [
+            "amplitude",
+            "bulk",
+            "dimension",
+            "extent",
+            "mass",
+            "measure",
+            "proportion",
+            "size",
+            "volume"
+          ],
+          "tran_cn": "数量,范围,体积,量"
+        },
+        {
+          "words": [
+            "consequence",
+            "distinction",
+            "eminence",
+            "enormity",
+            "importance",
+            "influence",
+            "moment",
+            "prominence",
+            "significance"
+          ],
+          "tran_cn": "重大,重要性"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "breadth",
+            "dimensions",
+            "gravity",
+            "measurement",
+            "weight",
+            "width"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "absolute magnitude",
+      "tran_cn": "绝对星等；绝对量级"
+    },
+    {
+      "phrase": "earthquake magnitude",
+      "tran_cn": "地震震级，地震等级；地震规模"
+    },
+    {
+      "phrase": "order of magnitude",
+      "tran_cn": "数量级"
+    },
+    {
+      "phrase": "signal magnitude",
+      "tran_cn": "信号幅度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "巨大，广大，重大，重要，量级，（地震）级数",
+      "tran_en": "the great size or importance of something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "magnitudes"
+    ]
+  }
+}

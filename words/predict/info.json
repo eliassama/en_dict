@@ -1,0 +1,179 @@
+{
+  "word": "predict",
+  "ipa": {
+    "us": "prɪˈdɪkt",
+    "uk": "prɪˈdɪkt"
+  },
+  "sentences": [
+    {
+      "en": "A canny investor would need to predict when the dollar will once more start tumbling.",
+      "cn": "精明的投资者需要预计到美元何时会再次大跌。"
+    },
+    {
+      "en": "As Liz had predicted , the rumours were soon forgotten.",
+      "cn": "正如利兹所预料的，流言很快就被淡忘了。"
+    },
+    {
+      "en": "Birth rates are notoriously difficult to predict.",
+      "cn": "众所周知,出生率是很难预测的."
+    },
+    {
+      "en": "Election officials predict they'll set a new turnout record for an off-year election in Washington state.",
+      "cn": "选举官员预测他们将在华盛顿州创下非大选年投票人数的新纪录。"
+    },
+    {
+      "en": "I cannot predict when to meet her again.",
+      "cn": "我无法预测什么时候会再见到她."
+    },
+    {
+      "en": "I predict it will run and run.",
+      "cn": "我估计这会一直延续下去。"
+    },
+    {
+      "en": "It is yet premature to predict the possible outcome of the dialogue.",
+      "cn": "预言这次对话可能有什么结果为时尚早."
+    },
+    {
+      "en": "It will be many years before anyone can predict a hurricane's behavior with much accuracy.",
+      "cn": "要能够相当准确地预测出飓风的特性尚需多年。"
+    },
+    {
+      "en": "It's hard to predict how things will turn out.",
+      "cn": "事情还不定怎样呢."
+    },
+    {
+      "en": "Many predict 1991 will rival the great vintage of 1965.",
+      "cn": "许多人预测1991年酿制的葡萄酒可以与1965年生产的佳酿相媲美。"
+    },
+    {
+      "en": "Sales were five percent lower than predicted.",
+      "cn": "销售额比预期低5%。"
+    },
+    {
+      "en": "Statisticians predict a fall in unemployment by 2004.",
+      "cn": "统计学家们预测2004年失业率会下降."
+    },
+    {
+      "en": "The most recent polls predict a tight three-way race.",
+      "cn": "最近的调查显示，这将是一场三方激烈角逐的比赛。"
+    },
+    {
+      "en": "This cynicism makes today's young people hard to predict.",
+      "cn": "这种愤世嫉俗的人生观使当今的年轻人难以揣摩."
+    },
+    {
+      "en": "We can't predict the outcome. There are too many imponderables.",
+      "cn": "我们无法预测结果，难以预料的情况太多了。"
+    },
+    {
+      "en": "Weather forecasts predict more hot weather, gusty winds and lightning strikes.",
+      "cn": "天气预报预测高温、大风和雷电天气将继续。"
+    },
+    {
+      "en": "Whether this will be successful or not is still difficult to predict.",
+      "cn": "成败利钝尚难逆料."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "predictable",
+          "tran_cn": " 可预言的"
+        },
+        {
+          "word": "predictive",
+          "tran_cn": " 预言性的；成为前兆的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "predictably",
+          "tran_cn": " 可预言地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "predictability",
+          "tran_cn": " 可预测性；可预言"
+        },
+        {
+          "word": "prediction",
+          "tran_cn": " 预报；预言"
+        },
+        {
+          "word": "predictor",
+          "tran_cn": " [气象] 预报器；预言者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "divine",
+            "forecast",
+            "foresee",
+            "foretell",
+            "portend",
+            "prophesy"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "divine",
+            "forecast",
+            "foresee",
+            "foretell",
+            "portend",
+            "prophesy"
+          ],
+          "tran_cn": "预言;预料"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预言，预测",
+      "tran_en": "to say that something will happen, before it happens"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "预言，预测",
+      "tran_en": "to say that something will happen, before it happens"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "predicts"
+    ],
+    "past": [
+      "predicted"
+    ],
+    "done": [
+      "predicted"
+    ],
+    "ing": [
+      "predicting"
+    ]
+  }
+}

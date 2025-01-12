@@ -1,0 +1,150 @@
+{
+  "word": "visibility",
+  "ipa": {
+    "us": "ˌvɪzəˈbɪləti",
+    "uk": "ˌvɪzəˈbɪləti"
+  },
+  "sentences": [
+    {
+      "en": "Black smog reduced visibility to about fifty yards.",
+      "cn": "黑色的烟雾使能见度降到大约五十码左右."
+    },
+    {
+      "en": "The pilot homed in by means of radar, despite the poor visibility.",
+      "cn": "尽管能见度极差,飞机由雷达导航返航了."
+    },
+    {
+      "en": "The plight of the Kurds gained global visibility.",
+      "cn": "库尔德人的苦难引起了全球关注。"
+    },
+    {
+      "en": "The road was realigned to improve visibility.",
+      "cn": "道路作了调整，视野清晰了。"
+    },
+    {
+      "en": "The saddles feature a reflective trim for night time visibility.",
+      "cn": "这些车座的特点是带有在夜间可视的反光镶边。"
+    },
+    {
+      "en": "The sand in the air reduced visibility to a hundred yards.",
+      "cn": "空中的沙尘将能见距离降低到100码."
+    },
+    {
+      "en": "The visibility readout is .019.",
+      "cn": "能见度为。019。"
+    },
+    {
+      "en": "The weather was at its worst; bitterly cold, with leaden skies that gave minimum visibility.",
+      "cn": "天气极其恶劣。寒风凛冽，天色晦暗，能见度极低。"
+    },
+    {
+      "en": "Under the glare of the street lamps, visibility was good.",
+      "cn": "在街灯的照射下, 可以看得很清楚."
+    },
+    {
+      "en": "Visibility at the city's airport came down to zero, bringing air traffic to a standstill.",
+      "cn": "该市机场的能见度降为零，空中交通陷入了停顿。"
+    },
+    {
+      "en": "Visibility on the roads is down to 20 metres due to heavy fog.",
+      "cn": "道路能见度因浓雾降至20米。"
+    },
+    {
+      "en": "Visibility was down to 25 yards.",
+      "cn": "能见度降至25码."
+    },
+    {
+      "en": "Visibility was good all round.",
+      "cn": "四周的视野都很好。"
+    },
+    {
+      "en": "Visibility was poor.",
+      "cn": "能见度很差。"
+    },
+    {
+      "en": "Wire frames and bounding boxes solve problems of object visibility.",
+      "cn": "线框和边框解决了对象的可视化问题."
+    },
+    {
+      "en": "Yet Kissinger succeeded in defying an old Washington dictum that you can have in the capital visibility or influence, but not both.",
+      "cn": "在华盛顿有一条传统格言:要么抛头露面,要么得势弄权, 二者不可兼得. 基辛格却公然蔑视这种传统."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "visible",
+          "tran_cn": " 明显的；看得见的；现有的；可得到的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "visibly",
+          "tran_cn": " 明显地；显然；看得见地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "visible",
+          "tran_cn": " 可见物；进出口贸易中的有形项目"
+        },
+        {
+          "word": "vision",
+          "tran_cn": " 视力；美景；眼力；幻象；想象力"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vision",
+          "tran_cn": " 想象；显现；梦见"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "definition"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "low visibility",
+      "tran_cn": "低能见度"
+    },
+    {
+      "phrase": "poor visibility",
+      "tran_cn": "不良能见度；能见度不良；较差能见度"
+    },
+    {
+      "phrase": "visibility meter",
+      "tran_cn": "能见度表"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "能见度，可见性，可见距离，清晰度",
+      "tran_en": "the distance it is possible to see, especially when this is affected by weather conditions"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,197 @@
+{
+  "word": "donation",
+  "ipa": {
+    "us": "dəʊˈneɪʃn",
+    "uk": "doʊˈneɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "He's too mean to make a donation.",
+      "cn": "他很小气,不肯捐款."
+    },
+    {
+      "en": "Her request for a donation met with a repulse.",
+      "cn": "她要求赞助却遭到粗暴拒绝."
+    },
+    {
+      "en": "His generous donation filled our need for additional funds.",
+      "cn": "他的慷慨捐赠满足了我们对额外资金的需求."
+    },
+    {
+      "en": "I will match my donation to yours.",
+      "cn": "我要使我捐赠的东西同你的一样."
+    },
+    {
+      "en": "I'll be sending them a donation in appreciation of their help.",
+      "cn": "我将送给他们一笔捐款以感谢他们的帮助."
+    },
+    {
+      "en": "If you would like to send a donation to Cobuild, please enclose a cheque with your coupon.",
+      "cn": "如果你想为Cobuild语料库捐款，请随订货单附上支票。"
+    },
+    {
+      "en": "Return the enclosed Donation Form today in the prepaid envelope provided.",
+      "cn": "请于今日将随函附上的捐款表格用所提供的邮资预付的信封寄回。"
+    },
+    {
+      "en": "She made a personal donation to the fund.",
+      "cn": "她以个人名义向基金会捐款."
+    },
+    {
+      "en": "She turned her nose up at my small donation.",
+      "cn": "她嫌我捐赠微薄而嗤之以鼻."
+    },
+    {
+      "en": "Since war broke out, the phones at donation centers have been ringing off the hook.",
+      "cn": "自从战争爆发以来，捐赠中心的电话就一直响个不停。"
+    },
+    {
+      "en": "The benefit to the donor was an acknowledgment of the donation in a printed bulletin.",
+      "cn": "捐赠者被印入捐赠公示榜以示感谢。"
+    },
+    {
+      "en": "The club received a benevolent donation.",
+      "cn": "该俱乐部接受了一笔慈善捐款."
+    },
+    {
+      "en": "There have been generous donations from EU funds.",
+      "cn": "欧盟基金给予了慷慨的捐款。"
+    },
+    {
+      "en": "They made a generous donation to charity.",
+      "cn": "他们对慈善事业慷慨捐助."
+    },
+    {
+      "en": "to make a donation to charity",
+      "cn": "向慈善事业捐赠"
+    },
+    {
+      "en": "You can of course help by giving them a donation directly.",
+      "cn": "你当然可以通过直接向他们捐款来帮助他们。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "donated",
+          "tran_cn": " 捐赠的"
+        },
+        {
+          "word": "donor",
+          "tran_cn": " 捐献的；经人工授精出生的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "donate",
+          "tran_cn": " 捐赠；捐献"
+        },
+        {
+          "word": "donor",
+          "tran_cn": " 捐赠者；供者；赠送人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "donated",
+          "tran_cn": " 捐赠（donate的过去分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "donate",
+          "tran_cn": " 捐赠；捐献"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "donate",
+          "tran_cn": " 捐赠；捐献"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bestowal",
+            "presentation"
+          ],
+          "tran_cn": "捐赠"
+        },
+        {
+          "words": [
+            "aid",
+            "alms",
+            "benefaction",
+            "bonus",
+            "contribution",
+            "gift",
+            "grant",
+            "handout",
+            "offering",
+            "pledge",
+            "present",
+            "relief"
+          ],
+          "tran_cn": "捐赠物,礼品"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acquisition",
+            "assistance",
+            "charity",
+            "collection",
+            "subscription",
+            "tribute"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "blood donation",
+      "tran_cn": "献血；捐血；供血"
+    },
+    {
+      "phrase": "charitable donation",
+      "tran_cn": "慈善捐款"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "捐赠物，捐赠，赠送",
+      "tran_en": "something, especially money, that you give to a person or an organ-ization in order to help them"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "donations"
+    ]
+  }
+}

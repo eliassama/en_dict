@@ -1,0 +1,149 @@
+{
+  "word": "insulator",
+  "ipa": {
+    "us": "ˈɪnsjuleɪtə(r)",
+    "uk": "ˈɪnsəleɪtər"
+  },
+  "sentences": [
+    {
+      "en": "A loose mulch acts on the surface as an insulator.",
+      "cn": "疏松的覆盖物在土壤表面起了隔热的作用."
+    },
+    {
+      "en": "AMD switched to silicon - on - insulator ( SOI ); Intel stayed with bulk silicon.",
+      "cn": "AMD转向了 绝缘体上硅 ( SOI ), 而intel仍然使用体硅."
+    },
+    {
+      "en": "Any two conductors separated by an insulator are said to form a capacitor.",
+      "cn": "由绝缘体隔开任何两个导体就组成电容器."
+    },
+    {
+      "en": "Dry air is a good insulator, but sea water is not.",
+      "cn": "干燥空气是一种好绝缘物, 海水则不是."
+    },
+    {
+      "en": "Even in an insulator the electrons can move about without leaving their parent atoms or molecules.",
+      "cn": "甚至在绝缘体内,电子也能不离开它所属的原子或分子而运动."
+    },
+    {
+      "en": "Fat is an excellent insulator against the cold.",
+      "cn": "脂肪是极好的抵御寒冷的绝热体。"
+    },
+    {
+      "en": "For the insulator investigated the 50 % flashover voltage is reduced by 23.4 %.",
+      "cn": "实验表明表面电荷积聚使得绝缘子沿面闪络电压的降低竟然达到23.4%."
+    },
+    {
+      "en": "In a hot climate the condensation will be on the inner surface of the insulator.",
+      "cn": "在气候炎热时,凝结水将出现在隔热层的内表面."
+    },
+    {
+      "en": "It is insulator but its thermal conductivity is better than Cu.",
+      "cn": "它本身是绝缘体,其导热能力优于铜,并能承受极高的强电场."
+    },
+    {
+      "en": "Our company mainly produce Post insulator, Pin insulator and Porcelain Bushing.",
+      "cn": "公司主要生产以出口为主的柱式绝缘子 、 针式绝缘子及瓷套."
+    },
+    {
+      "en": "Shellac also happened to be an effective electrical insulator.",
+      "cn": "紫胶恰巧还是一种有效的绝缘物."
+    },
+    {
+      "en": "The atoms of an insulator hold their electrons very tight.",
+      "cn": "绝缘体的原子把电子抓得很牢."
+    },
+    {
+      "en": "The FRP is an insulator to electricity, so it is good in safety.",
+      "cn": "因FRP材质 不导电, 因而灯杆用电安全性能好."
+    },
+    {
+      "en": "The productuses 4 pairs, Insulation is HDPE insulator, and sheath is PVC.",
+      "cn": "1本产品规格为4对, 绝缘采用高密度聚乙烯绝缘料, 护套为聚氯乙烯护套料."
+    },
+    {
+      "en": "Transmission Support Spacer to Insulator Mounting Plate & ndash; ( 4 wd )",
+      "cn": "至绝缘器安装板的变速箱支撑隔板&ndash; ( 4轮驱动 )"
+    },
+    {
+      "en": "Wood is an excellent insulator.",
+      "cn": "木材是很好的绝缘体。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "insulant",
+          "tran_cn": "绝缘材料，绝缘物质"
+        },
+        {
+          "word": "insulation",
+          "tran_cn": "绝缘；隔离，孤立"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "insulate",
+          "tran_cn": "隔离，使孤立；使绝缘，使隔热"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "isolater",
+            "nonconductor"
+          ],
+          "tran_cn": "[电][物]绝缘体；从事绝缘工作的工人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "electrical insulator",
+      "tran_cn": "电绝缘体；电绝缘器"
+    },
+    {
+      "phrase": "heat insulator",
+      "tran_cn": "隔热材料；热绝缘器"
+    },
+    {
+      "phrase": "insulator string",
+      "tran_cn": "绝缘子串；绝缘串"
+    },
+    {
+      "phrase": "porcelain insulator",
+      "tran_cn": "瓷绝缘体，瓷隔电子"
+    },
+    {
+      "phrase": "post insulator",
+      "tran_cn": "柱形绝缘子"
+    },
+    {
+      "phrase": "thermal insulator",
+      "tran_cn": "热绝缘器；热绝缘体"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "绝缘，隔热或隔音等的物质或装置，隔离者，隔离物，隔振子，隔电子",
+      "tran_en": "a material or object which does not allow electricity, heat, or sound to pass through it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "insulators"
+    ]
+  }
+}

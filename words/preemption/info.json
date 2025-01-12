@@ -1,0 +1,104 @@
+{
+  "word": "preemption",
+  "ipa": {
+    "us": "prɪ'empʃən",
+    "uk": "pri'empʃən"
+  },
+  "sentences": [
+    {
+      "en": "For example, federal statutes might explicitly preempt, or explicitly waive any preemption of, state law.",
+      "cn": "例如, 联邦法律可以明确的先占, 或明确的取消州法律的先占."
+    },
+    {
+      "en": "No Forced Preemption ( Server ).",
+      "cn": "内核 抢占 模式."
+    },
+    {
+      "en": "Perhaps the area in which preemption is most likely to be found is interstate transportation.",
+      "cn": "最可能发现先占权的领域或许是州际运输业."
+    },
+    {
+      "en": "Preemption is not guaranteed ; however , most JVM implementations result in behavior appears to be strictly divemptive.",
+      "cn": "抢占并不是绝对的, 可是大多数的JVM的实现结果在行为上表现出了严格的抢占."
+    },
+    {
+      "en": "Race conditions are only an issue where interrupts and/or preemption are possible and where critical sections exist.",
+      "cn": "竞争状态仅仅有一种情况下产生，在此处中断或（和）优先抢占是充许的并且有一个临界区存在。"
+    },
+    {
+      "en": "The Court is reluctant to infer preemption merely from the presence of comprehensive federal regulations.",
+      "cn": "法院不愿意仅仅由于存在内容全面的联邦法规就从中推论出先占权."
+    },
+    {
+      "en": "The general forms of the conflict are domain name hijacking and trade mark preemption.",
+      "cn": "较为普遍的域名与商标冲突的表现形式有:域名抢注、“偶合”及商标抢注."
+    },
+    {
+      "en": "The Leases are not subject to any options or rights of preemption or first refusal in favour of any third parties.",
+      "cn": "租契并不受制于以任何第三方为受惠人的任何选择权或优先购买权利或优先权。"
+    },
+    {
+      "en": "The Supreme Court has set forth various factors which are to be considered in preemption cases.",
+      "cn": "最高法院已经宣布了先占权案例中必须被考虑的各种各样的因素."
+    },
+    {
+      "en": "This paper analyzes the principle of the preemptible kernel and compares two approaches to implement preemption.",
+      "cn": "分析了Linux可 抢占内核的实现原理,并对两种可抢占内核的实现方案作了比较."
+    },
+    {
+      "en": "This reluctance to preemption makes sense, because the agency can readily adopt an express preemption regulation.",
+      "cn": "这种不愿意使用先占权的做法是有意义的, 因为机构能随时采用明确的先占权法令."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "preemptive",
+          "tran_cn": " 优先购买的；先发制人的；有先买权的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "preemptor",
+          "tran_cn": " 获优先购买权者；先取者；先发制人者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "preempt",
+          "tran_cn": " 先占；先取；以先买权获得"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "displacement",
+            "subrogation"
+          ],
+          "tran_cn": "优先购买；强制收购；抢先占有；取代"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "先买权，先占，先发制人，优先权"
+    }
+  ],
+  "exchange": {}
+}

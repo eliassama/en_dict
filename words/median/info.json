@@ -1,0 +1,151 @@
+{
+  "word": "median",
+  "ipa": {
+    "us": "ˈmi:diən",
+    "uk": "ˈmidiən"
+  },
+  "sentences": [
+    {
+      "en": "A median filter for removing noise in black and white scans.",
+      "cn": "中值滤波去除噪声的黑白扫描."
+    },
+    {
+      "en": "An improved median filtering algorithm is presented in this paper.",
+      "cn": "摘要提出了一种改进的中值滤波算法."
+    },
+    {
+      "en": "And the iterative median filtering algorithm is used when smoothing impulse noise.",
+      "cn": "而在滤除噪声时,采用的是迭代的中值滤波算法."
+    },
+    {
+      "en": "Article basis afore - mentioned viewpoints, analysed the affirmatory method median.",
+      "cn": "文章依据上述观点, 分析了中位数的确定方法."
+    },
+    {
+      "en": "Because the involvement price is high, suggestion median line operation.",
+      "cn": "由于介入价位较高, 建议中线操作."
+    },
+    {
+      "en": "HBIG was discontinued a median of 26 ( range, 0.2 - 121 ) months after OLT.",
+      "cn": "在原位肝移植术后平均26 ( 范围0.2-121个月 ) 个月HBIG被 停用."
+    },
+    {
+      "en": "Median oerall surial of all 211 patients was 49.3 months.",
+      "cn": "所有211名患者的中位总存活数是49.3个月."
+    },
+    {
+      "en": "Middle - class lifestyles have flourished even though median wages have barely budged.",
+      "cn": "尽管收入中值几乎原地不动, 中产阶级 的生活方式还是日益兴旺."
+    },
+    {
+      "en": "One half of its values will be found below and one half above the median.",
+      "cn": "一半数值低于中位数,一半数值高于中位数."
+    },
+    {
+      "en": "Ranking is based on 2 AL subjects, the middle median admissions grades.",
+      "cn": "排名以2科高级程度科目作为中位数招生等级."
+    },
+    {
+      "en": "The average and median durations of unemployment also fell.",
+      "cn": "平均失业期及普遍失业期也减短了."
+    },
+    {
+      "en": "The median age of the group is 42.",
+      "cn": "该组的中间年龄为42岁。"
+    },
+    {
+      "en": "The median interval between onset of symptoms and diagnosis was three months.",
+      "cn": "3例有家族史,且均为姊妹配对."
+    },
+    {
+      "en": "The paper presents an easily applicable adaptive weighted median filter ( AWMF ).",
+      "cn": "通过介绍一种易于实现的自适应权重中值滤波器 ( AWMF )."
+    },
+    {
+      "en": "The remaining fingers are supplied by the median nerve.",
+      "cn": "其余的手指是由正中神经支配的."
+    },
+    {
+      "en": "Where the speed distribution is skew, it's better to quote the median speed.",
+      "cn": "在速度分布是扭曲的情况下, 最好用中值速度."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "mid",
+            "centre"
+          ],
+          "tran_cn": "中值的；中央的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mid-value",
+            "medium value"
+          ],
+          "tran_cn": "中值，[数]中位数；中线"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "centre",
+            "medial"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "median age",
+      "tran_cn": "中位数年龄；中值年龄"
+    },
+    {
+      "phrase": "median eminence",
+      "tran_cn": "正中隆起；中突"
+    },
+    {
+      "phrase": "median line",
+      "tran_cn": "正中线"
+    },
+    {
+      "phrase": "median nerve",
+      "tran_cn": "正中神经"
+    },
+    {
+      "phrase": "median value",
+      "tran_cn": "中位數，中值"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "中央的，中间的，[数]中值的",
+      "tran_en": "being the middle number or measurement in a set of numbers or measurements that have been arranged in order"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "[数]中值，中位数，中线",
+      "tran_en": "the middle number or measurement in a set of numbers or measurements that have been arranged in order"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "medians"
+    ]
+  }
+}

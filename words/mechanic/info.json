@@ -1,0 +1,163 @@
+{
+  "word": "mechanic",
+  "ipa": {
+    "us": "məˈkænɪk",
+    "uk": "məˈkænɪk"
+  },
+  "sentences": [
+    {
+      "en": "a garage mechanic",
+      "cn": "汽车修理厂的技工"
+    },
+    {
+      "en": "An elevator mechanic can work the machinery directly by turning this lever.",
+      "cn": "电梯修理工可以转动这根杠杆直接操作机器。"
+    },
+    {
+      "en": "He is a garage mechanic.",
+      "cn": "他是一名加油站技工."
+    },
+    {
+      "en": "He is an adept mechanic.",
+      "cn": "他是个熟练的机械师."
+    },
+    {
+      "en": "He was a born mechanic with a flair for design.",
+      "cn": "他生来就是个有设计天赋的机械师。"
+    },
+    {
+      "en": "He worked as a motor mechanic.",
+      "cn": "他是一名汽车修理工。"
+    },
+    {
+      "en": "If you smell gas fumes or burning, take the car to your mechanic.",
+      "cn": "如果你闻见汽油冒烟或燃烧的异味，应把车送修。"
+    },
+    {
+      "en": "The car has not been running very well and a mechanic had to come over to have a look at it.",
+      "cn": "这辆车最近跑起来一直不是很顺，只好请修理工来看了一下。"
+    },
+    {
+      "en": "The factories no longer relied upon a mechanic to put together looms within the plant.",
+      "cn": "工厂不再依靠机修工在车间里组装织机。"
+    },
+    {
+      "en": "The mechanic is repairing my car.",
+      "cn": "这个机修工正在给我修汽车。"
+    },
+    {
+      "en": "The mechanic located the fault immediately.",
+      "cn": "机修工立即找到了出故障的地方。"
+    },
+    {
+      "en": "The mechanic made the necessary adjustments to the engine.",
+      "cn": "机械师对发动机作了必要的调整."
+    },
+    {
+      "en": "The mechanic repaired my car.",
+      "cn": "这个机修工给我修汽车."
+    },
+    {
+      "en": "The mechanic serviced our automobile.",
+      "cn": "机械师把我们的汽车修好了."
+    },
+    {
+      "en": "The mechanic soon fixed up the machine.",
+      "cn": "机修工很快就把机器修好了."
+    },
+    {
+      "en": "The mechanic was busy repairing the machine.",
+      "cn": "机修工正忙于修机器."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mechanical",
+          "tran_cn": " 机械的；力学的；呆板的；无意识的；手工操作的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "mechanically",
+          "tran_cn": " 机械地；呆板地；物理上地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "manual",
+            "handmade"
+          ],
+          "tran_cn": "手工的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "craftsman",
+            "machinist",
+            "repairman",
+            "technician"
+          ],
+          "tran_cn": "机械工,修理工"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "artisan",
+            "craftsman",
+            "machinist",
+            "repairman",
+            "technician",
+            "worker"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "car mechanic",
+      "tran_cn": "n. 汽车修理师"
+    },
+    {
+      "phrase": "mechanic design",
+      "tran_cn": "机械设计"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "手工的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "技工，机修工",
+      "tran_en": "someone who is skilled at repairing motor vehicles and machinery"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "mechanics"
+    ]
+  }
+}

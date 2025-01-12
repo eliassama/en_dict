@@ -1,0 +1,155 @@
+{
+  "word": "soot",
+  "ipa": {
+    "us": "sʊt",
+    "uk": "sʊt, sut"
+  },
+  "sentences": [
+    {
+      "en": "...a wall blackened by soot.",
+      "cn": "…一堵被煤烟灰熏黑了的墙。"
+    },
+    {
+      "en": "He induced skin cancer in mice with soot extracts.",
+      "cn": "他用煤烟提取物诱发了小鼠皮肤癌."
+    },
+    {
+      "en": "His face was blackened - either by mud or soot.",
+      "cn": "满脸上乌黑,不知是泥还是煤烟."
+    },
+    {
+      "en": "In soot the atoms have no regular arrangement.",
+      "cn": "在煤烟中,碳原子呈无规则排列."
+    },
+    {
+      "en": "Soot fouls the air.",
+      "cn": "烟屑污染空气."
+    },
+    {
+      "en": "Soot is the product of the imperfect combustion of fuel.",
+      "cn": "煤烟是燃料不完全燃烧的产物."
+    },
+    {
+      "en": "Soot is usually the product of the imperfect combustion of fuel.",
+      "cn": "煤烟通常是燃料不完全燃烧的产物."
+    },
+    {
+      "en": "Soot makes smoke dark and blackens walls.",
+      "cn": "烟灰使得烟成黑色,并熏黑了墙壁."
+    },
+    {
+      "en": "The air was loaded with soot.",
+      "cn": "空气充满煤烟."
+    },
+    {
+      "en": "The chimney is almost chocked up with soot.",
+      "cn": "烟囱几乎被烟灰堵住了."
+    },
+    {
+      "en": "The chimney was choked with soot.",
+      "cn": "烟囱被煤灰堵塞了."
+    },
+    {
+      "en": "The inside of a chimney soon gets covered in soot.",
+      "cn": "烟囱里面很快就覆盖了一层煤烟."
+    },
+    {
+      "en": "The parks and squares looked grim under a mantle of soot and ash.",
+      "cn": "在一层烟尘的笼罩之下，公园和广场显得阴沉沉的。"
+    },
+    {
+      "en": "Their faces were blackened with soot.",
+      "cn": "他们满脸煤灰。"
+    },
+    {
+      "en": "There are dots of soot on the windowsill.",
+      "cn": "窗台上有一点烟灰."
+    },
+    {
+      "en": "You'vegot a smudge of soot on your cheek.",
+      "cn": "你脸上有块煤灰污迹."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sooty",
+          "tran_cn": " 乌黑的；煤烟熏黑的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sootiness",
+          "tran_cn": " 烟熏；烟黑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sooty",
+          "tran_cn": " 用煤灰覆盖；用煤烟弄脏"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "coom",
+            "cigarette ash"
+          ],
+          "tran_cn": "煤烟，烟灰"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "black",
+            "cloud",
+            "grime"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "(as) black as soot",
+      "tran_cn": "非常黑"
+    },
+    {
+      "phrase": "soot blower",
+      "tran_cn": "吹灰装置；烟灰吹除机"
+    },
+    {
+      "phrase": "soot formation",
+      "tran_cn": "烟炱的形成；积灰"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "煤烟，烟灰，油烟",
+      "tran_en": "black powder that is produced when something is burned"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "用煤烟熏黑；以煤烟弄脏"
+    }
+  ],
+  "exchange": {}
+}

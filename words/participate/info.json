@@ -1,0 +1,203 @@
+{
+  "word": "participate",
+  "ipa": {
+    "us": "pɑːˈtɪsɪpeɪt",
+    "uk": "pɑːrˈtɪsɪpeɪt"
+  },
+  "sentences": [
+    {
+      "en": "According to statistics, about 10 % of the prison population did not participate in labour in 1990.",
+      "cn": "据1990年的统计, 不参加劳动的犯人约占10%左右."
+    },
+    {
+      "en": "Every year between 30000 and 40000 Miaos participate in the festivities.",
+      "cn": "节日里,聚会的苗族同胞,每年有三四万人."
+    },
+    {
+      "en": "He has invited the all battle companions participate in his wedding party.",
+      "cn": "他邀请了所有战友参加他的结婚舞会."
+    },
+    {
+      "en": "He may personally participate in summit conferences.",
+      "cn": "他亲自参加首脑会议."
+    },
+    {
+      "en": "His poems participate of the nature of satire.",
+      "cn": "他的诗带有讽刺性."
+    },
+    {
+      "en": "I couldn't assent to, much less participate in such proceeding.",
+      "cn": "我对于这种举动并不赞成, 哪里还谈得上参与呢."
+    },
+    {
+      "en": "Not all citizens , however, could participate equally in the good life.",
+      "cn": "当然, 并不是所有的公民都同样有这样的好生活."
+    },
+    {
+      "en": "Several experts will participate as technical advisers.",
+      "cn": "几位专家将作为技术顾问参加."
+    },
+    {
+      "en": "Some members refused to participate.",
+      "cn": "有些会员拒绝参加。"
+    },
+    {
+      "en": "Terry can't participate in the match because he has hurt his foot.",
+      "cn": "特里不能参加比赛,因为他扭了脚."
+    },
+    {
+      "en": "The people are demanding a chance to participate more in government.",
+      "cn": "人民要求更多的参与政事的机会."
+    },
+    {
+      "en": "They invited the world to participate in at international exposition.",
+      "cn": "他们邀请世界各国参加国际博览会."
+    },
+    {
+      "en": "User fees or other costs to participate in a computer network system vary considerably.",
+      "cn": "用户为加入计算机网系统而付的费用或其它费用差别很大."
+    },
+    {
+      "en": "We insist wanting his student to participate in this work.",
+      "cn": "我们坚持要他的学生参加这项工作."
+    },
+    {
+      "en": "We, too, cherish the opportunity to participate in the decision - making process.",
+      "cn": "我们也珍视参加决策过程的机会."
+    },
+    {
+      "en": "You may well participate with us in our gains.",
+      "cn": "你们完全可以跟我们共享利益."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "participant",
+          "tran_cn": " 参与的；有关系的"
+        },
+        {
+          "word": "participating",
+          "tran_cn": " 由多人一起参加的；（股票等）持有人有权分享利益的"
+        },
+        {
+          "word": "participatory",
+          "tran_cn": " 供人分享的；吸引参与的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "participant",
+          "tran_cn": " 参与者；关系者"
+        },
+        {
+          "word": "participation",
+          "tran_cn": " 参与；分享；参股"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "participating",
+          "tran_cn": " 参加（participate的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contribute",
+            "cooperate",
+            "enter",
+            "in",
+            "into",
+            "join",
+            "part",
+            "partake",
+            "take"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "mix",
+            "take part in"
+          ],
+          "tran_cn": "参与，参加；分享"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "a",
+            "enter",
+            "hand",
+            "have",
+            "in",
+            "into",
+            "join",
+            "part",
+            "partake",
+            "take"
+          ],
+          "tran_cn": "参加,参与"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "participate in",
+      "tran_cn": "参加；分享"
+    },
+    {
+      "phrase": "participate in social activities",
+      "tran_cn": "参与社会活动"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "参与，参加",
+      "tran_en": "to take part in an activity or event"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "参加",
+      "tran_en": "to take part in an activity or event"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "participates"
+    ],
+    "past": [
+      "participated"
+    ],
+    "done": [
+      "participated"
+    ],
+    "ing": [
+      "participating"
+    ]
+  }
+}

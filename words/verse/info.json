@@ -1,0 +1,185 @@
+{
+  "word": "verse",
+  "ipa": {
+    "us": "vɜːs",
+    "uk": "vɜːrs"
+  },
+  "sentences": [
+    {
+      "en": "a book of comic verse",
+      "cn": "一本滑稽诗集"
+    },
+    {
+      "en": "Genesis chapter 3, verse 13",
+      "cn": "《创世记》第3章第13节"
+    },
+    {
+      "en": "He is good at verse.",
+      "cn": "他善于作诗."
+    },
+    {
+      "en": "He published only three slim volumes of verse in his short life.",
+      "cn": "在他短暂的一生里，他只出版过3卷薄薄的诗集。"
+    },
+    {
+      "en": "He recited a verse of the twenty-third psalm.",
+      "cn": "他背诵了《诗篇》第23篇中的一节。"
+    },
+    {
+      "en": "He used to declaim French verse to us.",
+      "cn": "他过去常给我们朗诵法语诗歌。"
+    },
+    {
+      "en": "He wrote reams ( and reams ) of verse.",
+      "cn": "他写了很多很多的诗."
+    },
+    {
+      "en": "His book was in parts written in verse.",
+      "cn": "他的书有许多地方是用韵文写的."
+    },
+    {
+      "en": "His verse has the sing - song rhythm of a poetaster.",
+      "cn": "他的诗句有着蹩脚诗人的单调的节律."
+    },
+    {
+      "en": "I have been moved to write a few lines of verse.",
+      "cn": "我因感动而写下了几句诗。"
+    },
+    {
+      "en": "It was a verse from the book of Job. It was so apropos.",
+      "cn": "这是摘自乔布书中的一句诗，用得非常恰当。"
+    },
+    {
+      "en": "It was in blank verse that she sang.",
+      "cn": "她以无韵诗体作诗."
+    },
+    {
+      "en": "Latin verse remained completely incomprehensible to me.",
+      "cn": "拉丁语的诗歌我仍然一点都不懂."
+    },
+    {
+      "en": "Learn the first two verses of the poem by heart.",
+      "cn": "把这首诗的头两节背下来。"
+    },
+    {
+      "en": "Let’s sing the last verse again.",
+      "cn": "我们把最后一节再唱一遍吧。"
+    },
+    {
+      "en": "Most of the play is written in verse, but some of it is in prose.",
+      "cn": "这剧本大部分是用韵文写的，不过有一些是用散文。"
+    },
+    {
+      "en": "The poet fell in love with her and immortalized her in his verse.",
+      "cn": "诗人爱上了她，并以诗歌使她名传后世。"
+    },
+    {
+      "en": "The verse rose up to fire his breast with inspiration.",
+      "cn": "这首诗激发了他的灵感。"
+    },
+    {
+      "en": "This verse describes three signs of spring.",
+      "cn": "这节诗描绘了春天来临的三个征兆。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "versifier",
+          "tran_cn": "将散文改成韵文的人；拙劣诗人；诗人"
+        },
+        {
+          "word": "version",
+          "tran_cn": "版本；译文；倒转术"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "versify",
+          "tran_cn": "作诗"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "versify",
+          "tran_cn": "用诗表达；将…改成韵文"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "poetry",
+            "poem"
+          ],
+          "tran_cn": "诗，诗篇；韵文；诗节"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "chapter",
+            "division",
+            "jingle",
+            "measure",
+            "part",
+            "passage",
+            "poetry",
+            "rhyme",
+            "section"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "blank verse",
+      "tran_cn": "素体诗，无韵诗（不押韵的五音步诗行）"
+    },
+    {
+      "phrase": "chapter and verse",
+      "tran_cn": "n. 引经据典"
+    },
+    {
+      "phrase": "free verse",
+      "tran_cn": "自由诗体（不受格律约束的）"
+    },
+    {
+      "phrase": "vice verse",
+      "tran_cn": "反之亦然，反过来也一样"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "诗，韵文，诗节，诗行，诗篇，圣经中的节",
+      "tran_en": "words arranged in the form of poetry"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "作诗"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "verses"
+    ]
+  }
+}

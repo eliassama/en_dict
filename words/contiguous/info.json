@@ -1,0 +1,158 @@
+{
+  "word": "contiguous",
+  "ipa": {
+    "us": "kənˈtɪgjuəs",
+    "uk": "kənˈtɪɡjuəs"
+  },
+  "sentences": [
+    {
+      "en": "America’s 48 contiguous states",
+      "cn": "美国的48个互相毗连的州"
+    },
+    {
+      "en": "California and Mexico are contiguous.",
+      "cn": "加利福尼亚和墨西哥相邻."
+    },
+    {
+      "en": "California is contiguous with [ to ] Mexico.",
+      "cn": "加利福尼亚与墨西哥 相邻 ."
+    },
+    {
+      "en": "Conversely, some applications represent data as a matrix of many small contiguous pieces of data.",
+      "cn": "与之相反, 有些程序把数据表示为由许多连续的小片数据组成的矩阵."
+    },
+    {
+      "en": "Discrete data is not necessarily homogeneous, and discrete selection is not necessarily contiguous.",
+      "cn": "离散数据不一定是同一类的, 离散选择也不一定是连续的."
+    },
+    {
+      "en": "Discrete data is not necessarilydiscrete selection is not necessarily contiguous.",
+      "cn": "离散选择也不一定是连续的."
+    },
+    {
+      "en": "Each program had to occupy a single contiguous block of storage locations.",
+      "cn": "程式载入主记忆体内,它必须占有连续地址的记忆体."
+    },
+    {
+      "en": "Finally we discuss contiguous mapping properties of the pairwise contiguous spaces.",
+      "cn": "其次给出配邻近空间的函数特征."
+    },
+    {
+      "en": "In contiguous selection, however, the incoming data always replaces the currently selected data.",
+      "cn": "但在连续选择中, 输入的数据总是会替换当前选中数据."
+    },
+    {
+      "en": "Its vineyards are virtually contiguous with those of Ausone.",
+      "cn": "其葡萄园差不多紧挨着欧颂堡的葡萄园。"
+    },
+    {
+      "en": "Mutual exclusion is the rule in both discrete and contiguous selection.",
+      "cn": "互斥对离散选择和连续选择都适用."
+    },
+    {
+      "en": "The breadth of the contiguous zone is twelve nautical miles.",
+      "cn": "毗连区的宽度为十二海里."
+    },
+    {
+      "en": "The bridge is contiguous to the house.",
+      "cn": "桥屋相邻."
+    },
+    {
+      "en": "They are two immediately contiguous areas.",
+      "cn": "他们是紧密接邻的地区."
+    },
+    {
+      "en": "This district is contiguous to the border.",
+      "cn": "这个地区接近边境."
+    },
+    {
+      "en": "Viet Nam is contiguous to China.",
+      "cn": "越南与中国毗邻."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "contiguity",
+          "tran_cn": " 邻近，接触"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "abutting",
+            "adjoining",
+            "bordering",
+            "conjoining",
+            "connecting",
+            "contacting",
+            "contactual",
+            "joining",
+            "juxtaposed",
+            "juxtapositional",
+            "meeting",
+            "proximate",
+            "touching"
+          ],
+          "tran_cn": "连接的"
+        },
+        {
+          "words": [
+            "adjacent",
+            "by",
+            "close",
+            "near",
+            "nearby",
+            "next",
+            "nigh",
+            "to",
+            "vicinal"
+          ],
+          "tran_cn": "邻近的,接近的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "connected",
+            "neighboring",
+            "surrounding"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "contiguous area",
+      "tran_cn": "毗连的区域；相连区"
+    },
+    {
+      "phrase": "contiguous zone",
+      "tran_cn": "毗连区"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "接触的，邻近的，共同的",
+      "tran_en": "next to something, or next to each other"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "contiguity"
+    ]
+  }
+}

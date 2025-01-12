@@ -1,0 +1,207 @@
+{
+  "word": "consonant",
+  "ipa": {
+    "us": " ˈkɒnsənənt",
+    "uk": " ˈkɑːnsənənt"
+  },
+  "sentences": [
+    {
+      "en": "\" N \" is a syllabic consonant in \" button \" .",
+      "cn": "在 button 这个词里n是 构成音节的辅音."
+    },
+    {
+      "en": "For adjectives that end in a vowel + consonant we double the consonant.",
+      "cn": "元音+辅音结尾的形容词双写辅音."
+    },
+    {
+      "en": "His view on the issue is consonant with mine.",
+      "cn": "他对这个问题的看法和我一致."
+    },
+    {
+      "en": "I found their work very much consonant with this way of thinking.",
+      "cn": "我发现他们的工作与这种思维方式非常一致。"
+    },
+    {
+      "en": "I recall: Which classmate have these initial consonant following in being surnamed?",
+      "cn": "我回想: 哪些同学的姓里有下面这些声母?"
+    },
+    {
+      "en": "In Dutch and Low German, the initial consonant softened to become daler.",
+      "cn": "在荷兰及德国南方, taler一词开头的辅音常常软化而变成“daler”."
+    },
+    {
+      "en": "She asked me to pronounce each vowel and consonant clearly.",
+      "cn": "她叫我把每个元音和辅音都清晰地发出来."
+    },
+    {
+      "en": "The fractal interpolating fitting curves are well consonant with the observation data.",
+      "cn": "下沉量和水平移动量的分形插值拟合曲线与实测岩移数据吻合较好."
+    },
+    {
+      "en": "The quality of this suit is not quite consonant with its price.",
+      "cn": "这套衣服的质量与价钱不太相符."
+    },
+    {
+      "en": "The quality of this suit isn't quite consonant with its price.",
+      "cn": "这套衣服的质量和价钱不相称."
+    },
+    {
+      "en": "The standard theory emphasizes colorful wording , consonant lyrics, and strong emotion surging.",
+      "cn": "辞采艳丽 、 音韵和谐 、 感情强烈的文学标准观."
+    },
+    {
+      "en": "These are common consonant clusters at the beginning of words.",
+      "cn": "这些单词的开头有相同辅音组合."
+    },
+    {
+      "en": "These are common consonant clusters at the end of words.",
+      "cn": "这些是常见的词尾后缀."
+    },
+    {
+      "en": "This policy is scarcely consonant with the government’s declared aims.",
+      "cn": "这项政策与政府所宣称的目标基本上不符。"
+    },
+    {
+      "en": "This vowel is usually elided before a single consonant.",
+      "cn": "这个元音在单个辅音字母前通常不发音."
+    },
+    {
+      "en": "Words that begin with a consonant sound were easier to learn.",
+      "cn": "以子音开头的字比较容易学."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "consonantal",
+          "tran_cn": " 带辅音性质的；辅音的；子音的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "consonance",
+          "tran_cn": " 一致，调和；和音"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "accord",
+            "accordant",
+            "agreeable",
+            "agreement",
+            "coherent",
+            "cohesive",
+            "compliant",
+            "concordant",
+            "concurrent",
+            "concurring",
+            "conformable",
+            "congruent",
+            "congruous",
+            "consentaneous",
+            "consentient",
+            "consistent",
+            "correspondent",
+            "corresponding",
+            "in",
+            "parallel",
+            "rapport",
+            "unanimous",
+            "unison"
+          ],
+          "tran_cn": "一致的,调和的"
+        },
+        {
+          "words": [
+            "chiming",
+            "euphonious",
+            "harmonious",
+            "harmony",
+            "in",
+            "melodic",
+            "melodious",
+            "monodic",
+            "pleasant-sounding",
+            "symphonious",
+            "tune",
+            "tuneful"
+          ],
+          "tran_cn": "协调的,和谐的"
+        },
+        {
+          "words": [
+            "consonantal"
+          ],
+          "tran_cn": "辅音的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "liquid",
+            "sibilant",
+            "sonant",
+            "sonorant",
+            "spirant",
+            "stop"
+          ],
+          "tran_cn": "辅音"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adapted",
+            "coincident",
+            "fitting"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "consonant cluster",
+      "tran_cn": "辅音连缀；辅音音丛"
+    },
+    {
+      "phrase": "initial consonant",
+      "tran_cn": "开首辅音"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "一致的，符合的，协和音的，和音的",
+      "tran_en": "relating to a combination of musical notes that sounds pleasant"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "辅音，子音，辅音字母",
+      "tran_en": "a speech sound made by partly or completely stopping the flow of air through your mouth"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "consonants"
+    ]
+  }
+}

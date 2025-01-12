@@ -1,0 +1,48 @@
+{
+  "word": "scarp",
+  "ipa": {
+    "us": "skɑ:p",
+    "uk": "skɑrp"
+  },
+  "sentences": [
+    {
+      "en": "The scarp has slopes with grades greater than 60 degrees.",
+      "cn": "这个悬崖的斜坡角度大于60度。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "abrupt slope",
+            "escarpment"
+          ],
+          "tran_cn": "内斜坡，陡坡"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cliff"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（护城河的）内斜坡，陡坡",
+      "tran_en": "a line of natural cliffs"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,77 @@
+{
+  "word": "trepan",
+  "ipa": {
+    "us": "trɪˈpæn",
+    "uk": "trɪ'pæn"
+  },
+  "sentences": [
+    {
+      "en": "To bore ( a shaft ) with a trepan.",
+      "cn": "钻用钻井机钻 ( 矿井 )"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "trephination",
+          "tran_cn": " [外科] 环钻术；环锯术"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "drilling machine",
+            "driller"
+          ],
+          "tran_cn": "环锯；钻孔机"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "sell",
+            "fox",
+            "kid"
+          ],
+          "tran_cn": "欺骗；诱入圈套；用环锯行手术"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "环锯, 钻孔机, 陷阱",
+      "tran_en": "an instrument resembling a carpenter's brace and bit formerly used to remove circular sections of bone (esp from the skull) "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "诱入圈套，欺骗"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "trepans"
+    ],
+    "past": [
+      "trepanned"
+    ],
+    "done": [
+      "trepanned"
+    ],
+    "ing": [
+      "trepanning"
+    ]
+  }
+}

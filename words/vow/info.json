@@ -1,0 +1,186 @@
+{
+  "word": "vow",
+  "ipa": {
+    "us": "vaʊ",
+    "uk": "vaʊ"
+  },
+  "sentences": [
+    {
+      "en": "\" Let us make a vow to the dead \"",
+      "cn": "“ 我们向亡灵宣誓 ”"
+    },
+    {
+      "en": "He had broken his vow of poverty.",
+      "cn": "他违背了他安贫乐道的誓言。"
+    },
+    {
+      "en": "He took a vow of chastity and celibacy.",
+      "cn": "他发下守贞禁欲的誓言。"
+    },
+    {
+      "en": "He'll vow that I was the direct cause of the marriage.",
+      "cn": "他将会公开宣布我是直接促成这桩婚事的人."
+    },
+    {
+      "en": "I am under a vow to drink no wine.",
+      "cn": "我已立誓戒酒."
+    },
+    {
+      "en": "I had to admire David's  vow that he would leave the programme.",
+      "cn": "戴维发誓要离开这个项目，我不得不对他表示钦佩。"
+    },
+    {
+      "en": "I had to admire David's vow that he would leave the programme.",
+      "cn": "戴维发誓要离开这个项目，我不得不对他表示钦佩。"
+    },
+    {
+      "en": "I made a silent vow to be more careful in the future.",
+      "cn": "我暗暗发誓，日后要倍加小心。"
+    },
+    {
+      "en": "I make a vow at a time to do this.",
+      "cn": "我曾发誓这样做."
+    },
+    {
+      "en": "I solemnly vowed that someday I would return to live in Europe.",
+      "cn": "我郑重起誓总有一天我要重回欧洲生活。"
+    },
+    {
+      "en": "Jim made a vow that he would find his wife’s killer.",
+      "cn": "吉姆发誓要找到杀害他妻子的凶手。"
+    },
+    {
+      "en": "My parents are under a vow to go to church every Sunday.",
+      "cn": "我父母许愿,每星期日都去做礼拜."
+    },
+    {
+      "en": "Once he took the vow his loyalty never wavered.",
+      "cn": "一旦他发了誓,他的忠诚从不动摇."
+    },
+    {
+      "en": "People in some religious orders take a vow of celibacy.",
+      "cn": "有些宗教修会的人发誓不结婚."
+    },
+    {
+      "en": "She took a vow never to lend money to anyone again.",
+      "cn": "她发誓绝不再借钱给别人."
+    },
+    {
+      "en": "The girl was keeping some vow which I could not describe.",
+      "cn": "这个姑娘正遵守某种我无法形容的誓言."
+    },
+    {
+      "en": "While many models vow to go back to college, few do.",
+      "cn": "很多模特发誓要重回大学校园，但很少有人做到。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vower",
+          "tran_cn": "宣誓者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "oath",
+            "pledge"
+          ],
+          "tran_cn": "发誓；誓言；许愿"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "consecrate",
+            "engagement",
+            "oath",
+            "security",
+            "testify",
+            "warrant"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "plight one's troth",
+            "cross my heart"
+          ],
+          "tran_cn": "发誓；郑重宣告"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "assure",
+            "guarantee",
+            "pledge",
+            "promise",
+            "swear",
+            "vouch"
+          ],
+          "tran_cn": "发誓;保证"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "exchange vows",
+      "tran_cn": "订婚；结婚"
+    },
+    {
+      "phrase": "under a vow",
+      "tran_cn": "发过誓"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "誓言，郑重宣布",
+      "tran_en": "a serious promise"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "发誓；郑重宣告",
+      "tran_en": "If you vow to do something, you make a serious promise or decision that you will do it"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "起誓，发誓，郑重宣告"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "vows"
+    ],
+    "past": [
+      "vowed"
+    ],
+    "done": [
+      "vowed"
+    ],
+    "ing": [
+      "vowing"
+    ]
+  }
+}

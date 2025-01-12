@@ -1,0 +1,87 @@
+{
+  "word": "castigate",
+  "ipa": {
+    "us": "ˈkæstɪɡeɪt",
+    "uk": "ˈkæstɪɡeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Marx never lost an opportunity to castigate colonialism.",
+      "cn": "马克思从不放过任何谴责殖民主义的机会。"
+    },
+    {
+      "en": "She could not find sufficient reproaches with which to castigate herself.",
+      "cn": "她找不出充分的理由非难自己."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "castigation",
+          "tran_cn": " 惩罚；苛评；修订"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "criticize",
+            "damn",
+            "penalize",
+            "punish",
+            "skin"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "chastise",
+            "throw the book at"
+          ],
+          "tran_cn": "严惩；苛评；矫正；修订"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "严惩",
+      "tran_en": "to criticize or punish someone severely"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "严厉批评，惩戒，对…实施严厉的惩罚，矫正，修订",
+      "tran_en": "to criticize or punish someone severely"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "castigates"
+    ],
+    "past": [
+      "castigated"
+    ],
+    "done": [
+      "castigated"
+    ],
+    "ing": [
+      "castigating"
+    ],
+    "noun": [
+      "castigation"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "word": "frump",
+  "ipa": {
+    "us": "frʌmp",
+    "uk": " frʌmp"
+  },
+  "sentences": [
+    {
+      "en": "She got a reputation as a frump.",
+      "cn": "她落得了个邋遢女人的名声。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "frumpish",
+          "tran_cn": " 衣物破旧的；心地不良的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "conservative",
+            "fuddy-duddy"
+          ],
+          "tran_cn": "守旧者；衣著邋遢的女人"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<非正>古板的人，老古董",
+      "tran_en": "a woman who is dowdy, drab, or unattractive "
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "frumpy"
+    ]
+  }
+}

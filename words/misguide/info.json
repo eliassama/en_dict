@@ -1,0 +1,81 @@
+{
+  "word": "misguide",
+  "ipa": {
+    "us": "mɪs'gaɪd",
+    "uk": "mɪs'gaɪd"
+  },
+  "sentences": [
+    {
+      "en": "In addition, they will also misguide the innocent, which becomes a vicious circle.",
+      "cn": "此外，他们将误导那些思想单纯的人，这将导致一个恶心循环。"
+    },
+    {
+      "en": "One sort of behavior is incomplete or distorted information disclosure mentioned by Williamson, especially purposeful misguide, distortion, concealment and confusion, etc.",
+      "cn": "第一种行为是威廉森提出的不完全或者扭曲的信息披露, 特别是故意误导, 扭曲和隐藏相关信息以及制造疑惑等等."
+    },
+    {
+      "en": "The other type of behavior is non-deceptive information misguide or incompleteness of information, namely, significant omission of information disclosure.",
+      "cn": "另一种行为是非欺骗性的误导或者信息不充分, 即信息披露的重大遗露."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "misguided",
+          "tran_cn": " 被误导的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "misguided",
+          "tran_cn": " 使入歧途（misguide的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "mislead",
+            "misdirect"
+          ],
+          "tran_cn": "误导；使误入歧途"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "误导",
+      "tran_en": "to guide or direct wrongly or badly "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "对…指导错误，把…引入歧途"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "misguides"
+    ],
+    "past": [
+      "misguided"
+    ],
+    "done": [
+      "misguided"
+    ],
+    "ing": [
+      "misguiding"
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "word": "arrange",
+  "ipa": {
+    "us": "əˈreɪndʒ",
+    "uk": "əˈreɪndʒ"
+  },
+  "sentences": [
+    {
+      "en": "A hairdresser's job is to cut, arrange and colour the customer's hair.",
+      "cn": "理发师的工作就是为顾客理发 、 梳理发型和染发."
+    },
+    {
+      "en": "Arrange for the transfer of medical records to your new doctor.",
+      "cn": "安排一下把病历转给你的新医生的事宜。"
+    },
+    {
+      "en": "Ben arranged the flowers in a vase.",
+      "cn": "本把花放在花瓶里插好。"
+    },
+    {
+      "en": "Contact your local branch to arrange an appointment.",
+      "cn": "请联络当地分部安排预约。"
+    },
+    {
+      "en": "Customers who arrange overdrafts will face a monthly charge of £5.",
+      "cn": "透支的客户每月要缴纳5英镑的费用。"
+    },
+    {
+      "en": "He began to arrange the flowers in the vase.",
+      "cn": "他开始把花瓶内的花摆好."
+    },
+    {
+      "en": "He had managed to arrange to stay on in Adelaide.",
+      "cn": "他已设法安排好在阿德莱德继续呆下去。"
+    },
+    {
+      "en": "He started to arrange the books in piles.",
+      "cn": "他开始将书成堆摆放。"
+    },
+    {
+      "en": "He was forever attempting to arrange deals.",
+      "cn": "他老是想撮合交易。"
+    },
+    {
+      "en": "I will arrange for someone to take you round.",
+      "cn": "我会安排人带你转转。"
+    },
+    {
+      "en": "I will endeavour to arrange it.",
+      "cn": "我会尽力安排。"
+    },
+    {
+      "en": "I'm going to arrange with him about the tickets.",
+      "cn": "我准备就票的问题与他商量."
+    },
+    {
+      "en": "I’d like to arrange a business loan.",
+      "cn": "我想办理一笔商业贷款。"
+    },
+    {
+      "en": "It is not for me to arrange such matters.",
+      "cn": "我无权安排这些事情。"
+    },
+    {
+      "en": "Matthew arrived at 2 o'clock as arranged.",
+      "cn": "马修两点钟依约而至。"
+    },
+    {
+      "en": "The hotel manager will arrange for a baby-sitter.",
+      "cn": "宾馆经理会安排人照看婴儿。"
+    },
+    {
+      "en": "The list is arranged alphabetically.",
+      "cn": "名单按字母顺序排列。"
+    },
+    {
+      "en": "We can arrange this for a small charge.",
+      "cn": "我们可以将此安排好，只收取很少的费用。"
+    },
+    {
+      "en": "We can arrange unsecured loans for any amount from £500 to £7,500.",
+      "cn": "我们能提供数额从500英镑到7,500英镑的无担保贷款。"
+    },
+    {
+      "en": "You will need to arrange a telegraphic transfer from your bank to ours.",
+      "cn": "你们得安排由你方银行将钱款电汇给我方银行。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "arranged",
+          "tran_cn": " 安排的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "arrangement",
+          "tran_cn": " 布置；整理；准备"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "arranged",
+          "tran_cn": " 安排；计划；准备（arrange的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adapt",
+            "adjust",
+            "catalog",
+            "catalogue",
+            "classify",
+            "collocate",
+            "comb",
+            "coordinate",
+            "devise",
+            "dispose",
+            "fit",
+            "frame",
+            "grade",
+            "group",
+            "negotiate",
+            "organize",
+            "place",
+            "plan",
+            "prepare",
+            "put",
+            "queue",
+            "set",
+            "settle",
+            "sort",
+            "stage",
+            "straighten",
+            "systematize"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "place in",
+            "treat",
+            "form"
+          ],
+          "tran_cn": "安排；排列；协商"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "adapt",
+            "catalog",
+            "classify",
+            "fit",
+            "in",
+            "marshal",
+            "methodize",
+            "order",
+            "organize",
+            "put",
+            "settle",
+            "systematize"
+          ],
+          "tran_cn": "安排;改编"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "arrange for",
+      "tran_cn": "安排；为…做准备"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "排列，布置，安排，筹备，改编（乐曲），商定，谈妥",
+      "tran_en": "to organize or make plans for something such as a meeting, party, or trip"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "安排，准备",
+      "tran_en": "to organize or make plans for something such as a meeting, party, or trip"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "arranges"
+    ],
+    "past": [
+      "arranged"
+    ],
+    "done": [
+      "arranged"
+    ],
+    "ing": [
+      "arranging"
+    ]
+  }
+}

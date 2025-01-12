@@ -1,0 +1,106 @@
+{
+  "word": "singleton",
+  "ipa": {
+    "us": "ˈsɪŋgltən",
+    "uk": "ˈsɪŋɡəltən"
+  },
+  "sentences": [
+    {
+      "en": "A singleton is used comparatively rarely in application development.",
+      "cn": "在应用程序开发中,很少使用单一实例."
+    },
+    {
+      "en": "Alliott told Singleton he was passing the sentence prescribed by law.",
+      "cn": "阿利奥特告诉辛格尔顿他是依法判决。"
+    },
+    {
+      "en": "As the singleton female longing and share experience experience with age person.",
+      "cn": "身为独生子女渴望与同龄人分享经历经验."
+    },
+    {
+      "en": "Bank is a 38-year-old singleton who grew up in Philadelphia.",
+      "cn": "班克是一名38岁的单身汉，在费城长大。"
+    },
+    {
+      "en": "Mr. Singleton wants to bet with you on the election.",
+      "cn": "辛莱顿先生想就这次选举和你打赌."
+    },
+    {
+      "en": "Since there is only one singleton instance, any instance fields of a singleton will occur only once per class, just like static fields.",
+      "cn": "由于只有一个单实例，单例对象的域只会在一个类中出现一次，就像静态域一样。"
+    },
+    {
+      "en": "Singleton female easy and capricious, selfish, slack, feebleminded wait.",
+      "cn": "独生子女轻易任性 、 自私 、 懒散 、 意志薄弱等."
+    },
+    {
+      "en": "Singleton is at a loss, love also indecision!",
+      "cn": "失去了我唯一的你, 爱却又如此的优柔寡断!"
+    },
+    {
+      "en": "Singleton was a fantasist who claimed to have a karate blackbelt.",
+      "cn": "辛格尔顿是个牛皮大王，他自称有一条空手道黑带。"
+    },
+    {
+      "en": "Take a letter, Miss Singleton.",
+      "cn": "帮我写封信，辛格尔顿小姐。"
+    },
+    {
+      "en": "The Singleton pattern is used in the design of logger classes.",
+      "cn": "单件模式被用在日志记录类中."
+    },
+    {
+      "en": "They created the teenager , the yuppie, the baby boomer, the singleton and the metrosexual.",
+      "cn": "他们把消费者划分为:青少年, 婴儿潮, 单身主义者和都市玉男."
+    },
+    {
+      "en": "This class a singleton and cannot be created directly.",
+      "cn": "这个类是单立的,不能被直接创建."
+    },
+    {
+      "en": "This class handles all application interaction with a user. The class is a singleton.",
+      "cn": "这个类操纵着所有有关用户的应用程序. 这个类也是单件模式的."
+    },
+    {
+      "en": "This paper presents a prediction model of frequency parameters of short - wave communication based on - singleton fuzzy system.",
+      "cn": "提出一种利用非单点模糊系统建模的 短波 通信频率参数预测模型."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "singleness",
+          "tran_cn": " 单一；独身；真诚；专心"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "yin",
+            "celibacy"
+          ],
+          "tran_cn": "一个；独身"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "一个，独身，单独"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "singletons"
+    ]
+  }
+}

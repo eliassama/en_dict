@@ -1,0 +1,168 @@
+{
+  "word": "obligatory",
+  "ipa": {
+    "us": "əˈblɪɡətri",
+    "uk": "əˈblɪɡətɔːri"
+  },
+  "sentences": [
+    {
+      "en": "Attendance at primary school is obligatory.",
+      "cn": "上小学是义务的."
+    },
+    {
+      "en": "Attendance at tonight's meeting is obligatory.",
+      "cn": "今晚的会必须出席."
+    },
+    {
+      "en": "He felt Betrayed when he found the guests numerous, the food heavy , and the Ball obligatory.",
+      "cn": "当他发现众多的来宾, 过多的食物, 和非参加不可的舞会时,他感到上当受骗了."
+    },
+    {
+      "en": "It is obligatory for all employees to wear protective clothing.",
+      "cn": "所有员工必须穿防护服装。"
+    },
+    {
+      "en": "It is obligatory for us to obey the laws.",
+      "cn": "我们必须守法."
+    },
+    {
+      "en": "It is obligatory to remove your shoes before entering.",
+      "cn": "入室必须脱鞋."
+    },
+    {
+      "en": "Most women will be offered an ultrasound scan during pregnancy, although it's not obligatory.",
+      "cn": "大多数处于妊娠期的妇女将被建议接受超声波检查，不过这不是强制性的。"
+    },
+    {
+      "en": "No sooner had we been installed than we were served the obligatory heavy meal.",
+      "cn": "我们刚刚安顿下来,就要我们去出席例行的盛大宴会."
+    },
+    {
+      "en": "She offered him the obligatory cup of tea.",
+      "cn": "她照例给他端来一杯茶。"
+    },
+    {
+      "en": "The hostess was dressed very simply for a simple, perhaps obligatory occasion.",
+      "cn": "在这种简单的, 也许纯属义务性的场合,女主人的衣着十分朴素."
+    },
+    {
+      "en": "The mathematics is obligatory course inside the school.",
+      "cn": "数学是学校里的一门必修课."
+    },
+    {
+      "en": "The press conferences were almost obligatory.",
+      "cn": "这些新闻会议是不得已的."
+    },
+    {
+      "en": "The provision of your personal information in this form is obligatory.",
+      "cn": "你必须在本表格提供所需个人资料."
+    },
+    {
+      "en": "There was all the usual humbug and obligatory compliments from ministers.",
+      "cn": "全都是些部长们常说的骗人鬼话和少不了的奉承恭维。"
+    },
+    {
+      "en": "These rates do not include the charge for obligatory medical consultations.",
+      "cn": "这些费用不含必要的就诊费。"
+    },
+    {
+      "en": "WH - movement is obligatory in English. It changes sentence from affirmative to interrogative.",
+      "cn": "英语中WH移位对肯定句变疑问句是属于强制性的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "obligate",
+          "tran_cn": " 有责任的，有义务的；必需的"
+        },
+        {
+          "word": "obligated",
+          "tran_cn": " 有义务的；责无旁贷的"
+        },
+        {
+          "word": "obliged",
+          "tran_cn": " 必须的；感激的；有责任的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "obligated",
+          "tran_cn": " 使负义务（obligate的过去式）"
+        },
+        {
+          "word": "obligation",
+          "tran_cn": " 义务；职责；债务"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "obliged",
+          "tran_cn": " 要求；约束；施恩惠（oblige的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "obligate",
+          "tran_cn": " 使负义务；强使，强迫；对…施以恩惠"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "compulsory",
+            "deontic"
+          ],
+          "tran_cn": "[法]义务的；必须的；义不容辞的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "forced",
+            "forcible",
+            "necessary"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "obligatory course",
+      "tran_cn": "必修课"
+    },
+    {
+      "phrase": "obligatory right",
+      "tran_cn": "债权"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "必须的，应尽的，义务的，强制性的",
+      "tran_en": "something that is obligatory must be done because of a law, rule etc"
+    }
+  ],
+  "exchange": {}
+}

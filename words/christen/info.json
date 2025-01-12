@@ -1,0 +1,145 @@
+{
+  "word": "christen",
+  "ipa": {
+    "us": "ˈkrɪsn",
+    "uk": "ˈkrɪsən"
+  },
+  "sentences": [
+    {
+      "en": "Let's have a drink to christen our new sherry glasses.",
+      "cn": "让我们为使用我们新的雪利酒杯喝点儿酒."
+    },
+    {
+      "en": "She was christened Sarah.",
+      "cn": "她在受洗时取名萨拉。"
+    },
+    {
+      "en": "To christen the new hall, a number of great orchestras have been invited to play.",
+      "cn": "几个著名交响乐团受邀演出，以庆祝新音乐厅的启用。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "chrisom",
+          "tran_cn": " 初生婴孩的白色洗礼巾/洗礼服；婴儿"
+        },
+        {
+          "word": "christening",
+          "tran_cn": " （基督教）洗礼；（基督教）洗礼仪式；命名典礼"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "christening",
+          "tran_cn": " 为…施洗礼（christen的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "specify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "anoint",
+            "asperse",
+            "baptize",
+            "immerse"
+          ],
+          "tran_cn": "为某某施洗礼"
+        },
+        {
+          "words": [
+            "call",
+            "denominate",
+            "designate",
+            "dub",
+            "name",
+            "term",
+            "title"
+          ],
+          "tran_cn": "命名,给某某绰号"
+        },
+        {
+          "words": [
+            "consecrate",
+            "dedicate"
+          ],
+          "tran_cn": "视为神圣,尊敬"
+        },
+        {
+          "words": [
+            "begin",
+            "break",
+            "commence",
+            "in",
+            "inaugurate",
+            "initiate",
+            "out",
+            "using"
+          ],
+          "tran_cn": "隆重地首次启用"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "denominate"
+          ],
+          "tran_cn": "为…命名；为…施洗礼"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "(Christen)人名；(法、德、西、丹、挪)克里斯滕；(英)克里森"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "为…命名；为…施洗礼",
+      "tran_en": "to officially give a child its name at a Christian religious ceremony"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "给…洗礼，施洗礼时命名，开始使用"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "christens"
+    ],
+    "past": [
+      "christened"
+    ],
+    "done": [
+      "christened"
+    ],
+    "ing": [
+      "christening"
+    ]
+  }
+}

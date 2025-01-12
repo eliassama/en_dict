@@ -1,0 +1,198 @@
+{
+  "word": "ignore",
+  "ipa": {
+    "us": "ɪɡˈnɔː(r)",
+    "uk": "ɪɡˈnɔːr"
+  },
+  "sentences": [
+    {
+      "en": "He had completely ignored her remark, preferring his own theory.",
+      "cn": "他完全不理睬她的话，认为自己的说法更有道理。"
+    },
+    {
+      "en": "He's his own man, but he doesn't ignore advice.",
+      "cn": "他 虽然 有主张, 但并不轻视别人的意见."
+    },
+    {
+      "en": "I could no longer ignore the fact that he was deeply unhappy.",
+      "cn": "我再不能对他深感不快这个事实不闻不问了。"
+    },
+    {
+      "en": "I shall ignore that uncalled - for remark.",
+      "cn": "我不会理会那句不负责任的话的."
+    },
+    {
+      "en": "Ignore it at your peril.",
+      "cn": "无视该问题要自担风险。"
+    },
+    {
+      "en": "Ignore the early warnings and illness could result.",
+      "cn": "忽略早期征兆可能会导致疾病。"
+    },
+    {
+      "en": "It would be irresponsible to ignore the situation.",
+      "cn": "对这一状况不闻不问，那就是不负责任。"
+    },
+    {
+      "en": "Older people often try to ignore their infirmities.",
+      "cn": "年纪大的人常常试图忽视自己年迈体衰的事实。"
+    },
+    {
+      "en": "problems which we can’t afford to ignore",
+      "cn": "我们不能置之不理的问题"
+    },
+    {
+      "en": "Sam rudely ignored the question.",
+      "cn": "萨姆粗鲁地对这个问题不予理睬。"
+    },
+    {
+      "en": "Such arguments ignore the question of where ultimate responsibility lay.",
+      "cn": "这些争论忽略了最终责任由谁来负的问题。"
+    },
+    {
+      "en": "The best way to deal with a tease is to ignore him.",
+      "cn": "对付爱捉弄人的人的最佳方法就是不搭理他。"
+    },
+    {
+      "en": "The best way to respond to a flame is to ignore it.",
+      "cn": "回应谩骂性电子邮件的最好办法就是置之不理。"
+    },
+    {
+      "en": "The movie industry had chosen to ignore the encroaching competition of television.",
+      "cn": "电影业故意无视电视业的侵犯性竞争。"
+    },
+    {
+      "en": "The phone rang, but she ignored it.",
+      "cn": "电话铃响了，但她只当没听见。"
+    },
+    {
+      "en": "They completely ignore these facts as if they never existed.",
+      "cn": "他们完全忽略了这些事实,就仿佛它们不存在似的."
+    },
+    {
+      "en": "They knew that discrimination was going on, but chose to ignore it.",
+      "cn": "他们当时知道歧视现象仍然存在，但是宁愿装聋作哑。"
+    },
+    {
+      "en": "We cannot ignore such provocations.",
+      "cn": "对于这种挑衅,我们不能置之不理."
+    },
+    {
+      "en": "You can’t ignore the fact that many criminals never go to prison.",
+      "cn": "你不能无视很多罪犯从未获刑的事实。"
+    },
+    {
+      "en": "You should ignore their sneers at your efforts.",
+      "cn": "他们对你的努力所作的讥笑你不要去理会."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ignored",
+          "tran_cn": " 被忽视的；被忽略的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "ignorantly",
+          "tran_cn": " 无知地；不学无术地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ignorance",
+          "tran_cn": " 无知，愚昧；不知，不懂"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "ignored",
+          "tran_cn": " 忽略；不顾（ignore的过去分词）；不理会"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "avoid",
+            "blink",
+            "defy",
+            "disobey",
+            "disregard",
+            "distance",
+            "forget",
+            "overlook",
+            "shun",
+            "slight",
+            "snub"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "avoid",
+            "disregard",
+            "neglect",
+            "overlook",
+            "slight",
+            "snub"
+          ],
+          "tran_cn": "不理会;忽视"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ignore all",
+      "tran_cn": "全部忽略"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "忽视，佯装未见",
+      "tran_en": "to behave as if you had not heard or seen someone or something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "忽视，不顾",
+      "tran_en": "to behave as if you had not heard or seen someone or something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "ignores"
+    ],
+    "past": [
+      "ignored"
+    ],
+    "done": [
+      "ignored"
+    ],
+    "ing": [
+      "ignoring"
+    ]
+  }
+}

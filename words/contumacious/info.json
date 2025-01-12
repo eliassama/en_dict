@@ -1,0 +1,58 @@
+{
+  "word": "contumacious",
+  "ipa": {
+    "us": "ˌkɒntjuˈmeɪʃəs",
+    "uk": "ˌkɑntuˈmeɪʃəs"
+  },
+  "sentences": [
+    {
+      "en": "There is another efficacious method for subduing the most obstinate, contumacious sinner.",
+      "cn": "有另一个有效的方法来镇压那最为顽固，抗命不从的罪人。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "contumacy",
+          "tran_cn": " 拒不服从，抗命；藐视法庭"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "resistant",
+            "stubborn"
+          ],
+          "tran_cn": "不听命令的；反抗法院命令的；顽固的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "defiant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "拒不服从的，违抗法院命令的",
+      "tran_en": "stubbornly resistant to authority; wilfully obstinate "
+    }
+  ],
+  "exchange": {}
+}

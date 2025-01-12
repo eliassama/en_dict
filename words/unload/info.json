@@ -1,0 +1,160 @@
+{
+  "word": "unload",
+  "ipa": {
+    "us": "ˌʌnˈləʊd",
+    "uk": "ˌʌnˈloʊd"
+  },
+  "sentences": [
+    {
+      "en": "Do you mind if I unload the children onto you this afternoon?",
+      "cn": "今天下午我把孩子托付给你,你不介意 吧 ?"
+    },
+    {
+      "en": "Everyone helped to unload the luggage from the car.",
+      "cn": "大家都帮着从汽车上卸行李。"
+    },
+    {
+      "en": "I was reluctant to unload those books.",
+      "cn": "我不愿意丢弃那些书."
+    },
+    {
+      "en": "If we don't unload it soon, the grain will start rotting in the silos.",
+      "cn": "如果我们不立刻把粮食卸下来，它们就会在筒仓里开始腐烂。"
+    },
+    {
+      "en": "If we unload them , the can stop the rise and turn it into a drop.",
+      "cn": "我们一放,涨风马上就会变成回跌!"
+    },
+    {
+      "en": "Mary began to unload her trouble onto her mother.",
+      "cn": "玛丽开始把她的烦恼告诉她的母亲."
+    },
+    {
+      "en": "My tongue cannot unload my heart's great burthen.",
+      "cn": "我的舌头也不能发泄我心头的烦燥."
+    },
+    {
+      "en": "She began to unload her troubles on her mother.",
+      "cn": "她开始把她的烦恼告诉母亲."
+    },
+    {
+      "en": "So the pressure bear on emotion is then hard to unload.",
+      "cn": "那么情感上所承受的压力则是难以卸下."
+    },
+    {
+      "en": "The driver unloaded some boxes from the back of the truck.",
+      "cn": "司机从卡车后部卸下了一些箱子。"
+    },
+    {
+      "en": "The sailors docked the ship and began to unload it.",
+      "cn": "船员们将船靠了码头,并开始卸货."
+    },
+    {
+      "en": "The ships will unload tomorrow.",
+      "cn": "这些船明天卸货."
+    },
+    {
+      "en": "The stevedores'work is to load and unload ships.",
+      "cn": "装卸工人的工作是装卸船只."
+    },
+    {
+      "en": "They want to unload the stocks on the market.",
+      "cn": "他们想把股票在市场上抛售掉."
+    },
+    {
+      "en": "Unload everything from the boat and clean it thoroughly.",
+      "cn": "把所有东西从船上卸下来，然后把船彻底清理一下。"
+    },
+    {
+      "en": "You can have a rest after you unload the car.",
+      "cn": "你们卸下车上的货物后可以休息一下."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "unloading",
+          "tran_cn": " 卸载；卸货"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "unloading",
+          "tran_cn": " 卸货（unload的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "discharge",
+            "unpack"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "discharge of goods",
+            "load off"
+          ],
+          "tran_cn": "卸货；退子弹"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "debark"
+          ],
+          "tran_cn": "卸；摆脱…之负担；倾销"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "卸(货)",
+      "tran_en": "to remove a load from a vehicle, ship etc"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "卸下货物或其它负担，退子弹，[商]抛售（证券）"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "卸货，去除负担，倾吐，处理，倾销"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "unloads"
+    ],
+    "past": [
+      "unloaded"
+    ],
+    "done": [
+      "unloaded"
+    ],
+    "ing": [
+      "unloading"
+    ]
+  }
+}

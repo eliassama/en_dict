@@ -1,0 +1,135 @@
+{
+  "word": "microcomputer",
+  "ipa": {
+    "us": "ˈmaɪkrəʊkəmpju:tə(r)",
+    "uk": "ˈmaɪkroʊkəmpjutə(r)"
+  },
+  "sentences": [
+    {
+      "en": "A commonly used microcomputer algorithm for multiplication.",
+      "cn": "微型计算机一种常用的乘法算法."
+    },
+    {
+      "en": "A microcomputer small enough to use on one's lap.",
+      "cn": "一种通常用手推动的小型带轮车辆."
+    },
+    {
+      "en": "A newly - devised microcomputer can act as a guide to a blind person.",
+      "cn": "一种新设计的微型计算机能够充任盲人的向导."
+    },
+    {
+      "en": "Applying advanced microcomputer control tone lighting and flame monitoring system.",
+      "cn": "→采用先进的微电脑控制脉冲点火和火焰监测系统."
+    },
+    {
+      "en": "Controlled by microcomputer, displayed by big LCD, printing reports.",
+      "cn": "采用微电脑控制, 大屏幕液晶中文菜单显示, 打印输出中文报表."
+    },
+    {
+      "en": "Development of 51 single - chip microcomputer - based file system, fat 16 and achieve a fat 32.",
+      "cn": "基于51单片机开发的文件系统, 实现了fat16和fat32."
+    },
+    {
+      "en": "Even though it was a decisive commercial failure, it ignited the imagination of many people in the small but booming microcomputer industry.",
+      "cn": "尽管在商业上注定是一个失败，但它点燃了许多人对于微型计算机工业的憧憬和想像。"
+    },
+    {
+      "en": "In a microcomputer, these are both on the microcomputer chip.",
+      "cn": "在微型计算机中, 这两个部分都在微型机芯片上."
+    },
+    {
+      "en": "Microcomputer control of the seat, the temperature be arbitrary regulation.",
+      "cn": "微电脑控制的座圈, 温度可任意调节."
+    },
+    {
+      "en": "Microcomputer is a very small computer, such as a laptop or personal computer.",
+      "cn": "微机计算机是一种非常小的计算机, 如膝上机或个人计算机."
+    },
+    {
+      "en": "Or, as in my case, turning on the old antique microcomputer to read my single-sided, single-density floppies might lead to a fire and the quick end of your weekend data retrieval project.",
+      "cn": "或者，像我所作的那样，打开一个旧的古董微型计算机来读取我的单面单密度磁盘，而这有可能引起一场火灾，以及你的周末数据检索计划的快速完结。"
+    },
+    {
+      "en": "Physical units transmit information to and from the microcomputer via appropriate interface logic.",
+      "cn": "各种实体设备能够通过适当的接口逻辑电路对计算机传输(输入或输出)信息."
+    },
+    {
+      "en": "Serial Transfer Between IBM - PC Microcomputer and Single Board Computers.",
+      "cn": "SIO串行接口电路的智能编程."
+    },
+    {
+      "en": "Status flags represent one of the simplest forms of microcomputer logic.",
+      "cn": "状态标志是微计算机逻辑中的一种最简单的形式之一."
+    },
+    {
+      "en": "The merchant sold electrical appliances, such as microcomputer, microphone, microprocessor and microwave ovens.",
+      "cn": "商人卖一些电器，比如微型计算机，话筒，微处理器和微波炉。"
+    },
+    {
+      "en": "The single - chip microcomputer control technology is a lot more practical control technology.",
+      "cn": "而单片机技术是诸多微机控制中比较实用的控制技术."
+    },
+    {
+      "en": "The system usesthe single - chip microcomputer and the standard STD system.",
+      "cn": "实现了多数据的自动采集与控制及多功能."
+    },
+    {
+      "en": "To meet this goal, a microcomputer controlled hybrid powertrain was designed and built.",
+      "cn": "为了达到这一目标, 设计和制造了微计算机控制的混合式动力装置."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "microelectronic",
+          "tran_cn": " [电子] 微电子的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "microchip",
+          "tran_cn": " 微型集成电路片，微芯片"
+        },
+        {
+          "word": "microcircuit",
+          "tran_cn": " [电子] 微电路"
+        },
+        {
+          "word": "microelectronics",
+          "tran_cn": " 微电子学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "computer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "微型（电子）计算机，微电脑",
+      "tran_en": "a small computer"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "microcomputers"
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "word": "archive",
+  "ipa": {
+    "us": "ˈɑːkaɪv",
+    "uk": "ˈɑːrkaɪv"
+  },
+  "sentences": [
+    {
+      "en": "A: copy only files with the Archive attribute set.",
+      "cn": "复制唯一文件以档案属性集合."
+    },
+    {
+      "en": "an archive of the writer’s unpublished work",
+      "cn": "那位作家未发表作品的档案"
+    },
+    {
+      "en": "Be responsible for archive any documents in production department.",
+      "cn": "负责生产部门内的所有文件的归档."
+    },
+    {
+      "en": "Be responsible to keep and archive records and documents relating to purchasing.",
+      "cn": "负责与采购相关各类记录凭证的保管,存档."
+    },
+    {
+      "en": "Copies of these messages may be in the archive.",
+      "cn": "这些信息拷贝或许存档."
+    },
+    {
+      "en": "In a separate archive is the official localization and universal activator.",
+      "cn": "在单独的存档是正式的本地化和普遍激活."
+    },
+    {
+      "en": "In fact, it presupposes an excellent legal archive or law library.",
+      "cn": "事实上, 很可能存在一所完备的法律文件档案室或法学图书馆."
+    },
+    {
+      "en": "Infected files in archive will not be deleted or repaired!",
+      "cn": "文档文件里的被感染文件将不能被删除或修复!"
+    },
+    {
+      "en": "Marxism reveals the logical core of archive information multiplication.",
+      "cn": "马克思主义揭示了档案信息增值的合理内核."
+    },
+    {
+      "en": "Receive and archive the production documentation , including the Batch Record and COA.",
+      "cn": "及时准确接收、存入各种与生产有关原始记录."
+    },
+    {
+      "en": "She went to the city archive this morning.",
+      "cn": "她今天上午去了市档案馆。"
+    },
+    {
+      "en": "The repository is the official archive of our work.",
+      "cn": "库是我们的正式的档案."
+    },
+    {
+      "en": "This vast archive has been indexed and made accessible to researchers.",
+      "cn": "这个存量巨大的档案室的所有文件都已编了索引，可供研究人员使用。"
+    },
+    {
+      "en": "To see any past APOD, access the archive page.",
+      "cn": "要想看任何一张过去的APOD图, 进入存档页."
+    },
+    {
+      "en": "What are the unique benefits of the ARCHIVE storage engine?",
+      "cn": "ARCHIVE存储引擎唯一的好处是什么 呢 ?"
+    },
+    {
+      "en": "What is the requirement for using Archive Bit mode?",
+      "cn": "为什么需要使用文档位备份?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "archival",
+          "tran_cn": " 档案的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "archivist",
+          "tran_cn": " 案卷保管人；档案保管员"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chancery"
+          ],
+          "tran_cn": "档案馆；档案文件"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "archive file",
+      "tran_cn": "n. [计]档案文件"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "档案的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "档案（馆），史料，记录",
+      "tran_en": "a place where a large number of historical records are stored, or the records that are stored"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "把…存档",
+      "tran_en": "to put documents, books, information etc in an archive"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 存档",
+      "tran_en": "to put documents, books, information etc in an archive"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "archives"
+    ],
+    "third": [
+      "archives"
+    ],
+    "past": [
+      "archived"
+    ],
+    "done": [
+      "archived"
+    ],
+    "ing": [
+      "archiving"
+    ]
+  }
+}

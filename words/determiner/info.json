@@ -1,0 +1,148 @@
+{
+  "word": "determiner",
+  "ipa": {
+    "us": "dɪˈtɜ:mɪnə(r)",
+    "uk": "dɪˈtɜrmɪnə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Figure 7 demonstrates the added determiner of user-request function (write or read) to determine sharing/locking levels in order to improve data consistency.",
+      "cn": "图 7 显示添加了用户请求 函数（写或读）决定因素来确定共享/锁定级别以提高数据一致性。"
+    },
+    {
+      "en": "When the noun determiner cannot be substituted, it is included in the pattern.",
+      "cn": "当名词的限定词不可改变时，笔者就会在模板中予以保留。"
+    },
+    {
+      "en": "When you use a determiner , you put a noun group, in front of numbers or adjectives.",
+      "cn": "限定词用于名词短语前面, 置于数字或形容词之前."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "determinable",
+          "tran_cn": " 可决定的"
+        },
+        {
+          "word": "determinant",
+          "tran_cn": " 决定性的"
+        },
+        {
+          "word": "determinate",
+          "tran_cn": " 确定的；决定的"
+        },
+        {
+          "word": "determinative",
+          "tran_cn": " 决定的；限定的"
+        },
+        {
+          "word": "determined",
+          "tran_cn": " 决定了的；坚决的"
+        },
+        {
+          "word": "determinist",
+          "tran_cn": " 决定论的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "determinedly",
+          "tran_cn": " 决然地；断然地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "determinant",
+          "tran_cn": " 决定因素；[数] 行列式"
+        },
+        {
+          "word": "determinateness",
+          "tran_cn": " 坚决；确定"
+        },
+        {
+          "word": "determination",
+          "tran_cn": " 决心；果断"
+        },
+        {
+          "word": "determinative",
+          "tran_cn": " 限定词；决定的事物"
+        },
+        {
+          "word": "determinism",
+          "tran_cn": " [力] 决定论"
+        },
+        {
+          "word": "determinist",
+          "tran_cn": " 决定论者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "determined",
+          "tran_cn": " 决定；断定（determine的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "determine",
+          "tran_cn": " 确定；决定；判决，终止"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "determinate",
+          "tran_cn": " 确定；弄清楚"
+        },
+        {
+          "word": "determine",
+          "tran_cn": " 决定；判决；使…下定决心"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "qualifier",
+            "definitive"
+          ],
+          "tran_cn": "[语]限定词；决定因素"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<语言>限定词",
+      "tran_en": "a word that is used before a noun in order to show which thing you mean. In the phrases ‘the car’ and ‘some cars’, ‘the’ and ‘some’ are determiners."
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "determiners"
+    ]
+  }
+}

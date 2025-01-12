@@ -1,0 +1,81 @@
+{
+  "word": "odometer",
+  "ipa": {
+    "us": "əʊˈdɒmɪtə(r)",
+    "uk": "oʊˈdɑmɪtə(r)"
+  },
+  "sentences": [
+    {
+      "en": "A consensus fusion algorithm for multi-odometer data is presented to improve in-pipeline location precision of the autonomous pipeline inspection robot.",
+      "cn": "针对自主管道检测机器人的管内定位问题，提出了一种能够提高定位精度的多里程仪测量数据一致性融合方法。"
+    },
+    {
+      "en": "Conclusion The reliability of system is improved by integrating accelerometer, odometer and GPS.",
+      "cn": "结论加速度计 、 里程计和GPS接收机组合导航提高了车辆导航精度,增加了系统的可靠性."
+    },
+    {
+      "en": "Differential calculus doesn’t need to just be an equation, but the odometer and speedometer on a car.",
+      "cn": "微积分并不只会在等式中出现，它还会在汽车的里程表和速度表中应用。"
+    },
+    {
+      "en": "For instance, on page 87 he explains the differences between pure boundary values and typical values with a car odometer/speedometer analogy.",
+      "cn": "例如，在第87页中，他通过汽车里的里程表和里程计来比喻单纯的临界值和典型值之间的不同。"
+    },
+    {
+      "en": "Gauge like Odometer you could use instrumentation complete source code, has been tested.",
+      "cn": "计里程表一样的仪器可以使用完整的源代码, 已经过测试."
+    },
+    {
+      "en": "I checked the odometer . He was right. Four miles exactly. I could have sworn it was 20.",
+      "cn": "我看了一下里程计, 他说得没错,确实是4英里, 我还坚信是20英里呢."
+    },
+    {
+      "en": "In each taxi there must be an odometer.",
+      "cn": "每部车均有里程显示器."
+    },
+    {
+      "en": "It was running perfectly and in pristine condition with 70,000 miles on the odometer.",
+      "cn": "这辆车的车况非常好,而且里程表上显示它只跑了7万英里,和刚丢时差不多."
+    },
+    {
+      "en": "Odometer the design of the structure is simple, low cost, showing clear, stable and reliable results.",
+      "cn": "本里程表的设计具有结构简单, 成本低廉, 显示清晰, 稳定可靠等优点."
+    },
+    {
+      "en": "The odometer shows now 140 miles per hour.",
+      "cn": "里程表显示现在的时速为140英里."
+    },
+    {
+      "en": "We found powdered sugar on the odometer cable.",
+      "cn": "我们在里程表的电线上找到糖粉."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mileage counter",
+            "odograph"
+          ],
+          "tran_cn": "（汽车的）[车辆]里程表，里程计"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "里程计",
+      "tran_en": "an instrument in a vehicle that shows how many miles or kilometres the vehicle has travelled"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "odometers"
+    ]
+  }
+}

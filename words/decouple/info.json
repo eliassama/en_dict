@@ -1,0 +1,52 @@
+{
+  "word": "decouple",
+  "ipa": {
+    "us": "di:ˈkʌpl",
+    "uk": "diˈkʌpəl"
+  },
+  "sentences": [
+    {
+      "en": "Finally, two hardware decouple Methods : Were compared on their merit and fault.",
+      "cn": "最后对比了两种硬件消耦的优缺点."
+    },
+    {
+      "en": "In heterogeneous and dynamic environments we must decouple the event producers and consumers.",
+      "cn": "在多样和动态的环境,我们必须解偶事件的生产者和消费者."
+    },
+    {
+      "en": "It'showed that eccentric pressure is produced by eccentric decouple charge blasting on borehole wall.",
+      "cn": "实验结果表明,偏心不耦合装药在孔壁上形成明显的偏心应力场."
+    },
+    {
+      "en": "The four point suspension strategies are analyzed, which are mechanical decouple andelectrical decouple.",
+      "cn": "分析和探讨了四点悬浮的实现策略:机械解耦和电气解耦."
+    },
+    {
+      "en": "The inner loop adopts sliding mode control which can decouple torque and flux.",
+      "cn": "内环采用滑动模控制实现了电动机转矩和磁通的解耦."
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "减弱（核爆炸）震波，分离，隔断"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "decouples"
+    ],
+    "past": [
+      "decoupled"
+    ],
+    "done": [
+      "decoupled"
+    ],
+    "ing": [
+      "decoupling"
+    ]
+  }
+}

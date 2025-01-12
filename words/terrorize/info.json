@@ -1,0 +1,102 @@
+{
+  "word": "terrorize",
+  "ipa": {
+    "us": "ˈterəraɪz",
+    "uk": "ˈtɛrəˌraɪz"
+  },
+  "sentences": [
+    {
+      "en": "gangs who terrorize the neighbourhood",
+      "cn": "使邻近地区人心惶惶的犯罪团伙"
+    },
+    {
+      "en": "Gas Skunk : Gas Skunk, terrorize!",
+      "cn": "毒气兽, 变身!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "terror",
+          "tran_cn": " 恐怖；恐怖行动；恐怖时期；可怕的人"
+        },
+        {
+          "word": "terrorism",
+          "tran_cn": " 恐怖主义；恐怖行动；恐怖统治"
+        },
+        {
+          "word": "terrorist",
+          "tran_cn": " 恐怖主义者，恐怖分子"
+        },
+        {
+          "word": "terrorization",
+          "tran_cn": " 恐怖手段抑制"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "terrorise",
+          "tran_cn": " 恐吓（等于terrorize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "intimidate",
+            "prey",
+            "scare",
+            "threaten"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "affright"
+          ],
+          "tran_cn": "使…恐怖"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 恐吓",
+      "tran_en": "to deliberately frighten people by threatening to harm them, especially so they will do what you want"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使恐怖，胁迫，实行恐怖统治"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "terrorizes"
+    ],
+    "past": [
+      "terrorized"
+    ],
+    "done": [
+      "terrorized"
+    ],
+    "ing": [
+      "terrorizing"
+    ]
+  }
+}

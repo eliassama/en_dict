@@ -1,0 +1,59 @@
+{
+  "word": "disenfranchise",
+  "ipa": {
+    "us": "ˌdɪsɪnˈfræntʃaɪz",
+    "uk": "ˌdɪsɪn'fræntʃaɪz"
+  },
+  "sentences": [
+    {
+      "en": "...fears of an organized attempt to disenfranchise supporters of Father Aristide.",
+      "cn": "…对剥夺阿里斯蒂德神父支持者选举权的一次有组织企图的担心。"
+    },
+    {
+      "en": "White supremacists devise new methods to disenfranchise Negroes.",
+      "cn": "白人至上论者想出新的方法以剥夺黑人的公民权。"
+    },
+    {
+      "en": "White supremacists devise new Methods: To disenfranchise Negroes.",
+      "cn": "白人至上论者想出新的方法以剥夺黑人的公民权."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disenfranchisement",
+          "tran_cn": " 剥夺公民选举权"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "剥夺…的公民权（等于disfranchise）",
+      "tran_en": "to take away someone’s rights, especially their right to vote"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "剥夺…的选举权，剥夺…的公民权，终止…的特许权"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disenfranchises"
+    ],
+    "past": [
+      "disenfranchised"
+    ],
+    "done": [
+      "disenfranchised"
+    ],
+    "ing": [
+      "disenfranchising"
+    ]
+  }
+}

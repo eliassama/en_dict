@@ -1,0 +1,213 @@
+{
+  "word": "prediction",
+  "ipa": {
+    "us": "prɪˈdɪkʃn",
+    "uk": "prɪˈdɪkʃn"
+  },
+  "sentences": [
+    {
+      "en": "Browning's prediction is no better than a wild guess.",
+      "cn": "勃朗宁的预测不过是妄加猜测而已。"
+    },
+    {
+      "en": "Change my life because some freakshow made a prediction 400 years ago?",
+      "cn": "为了四百年前疯狂的举动而改变我的生活?"
+    },
+    {
+      "en": "Considerations of this kind let to a prediction and a gamble.",
+      "cn": "这类考虑导致猜测和冒险."
+    },
+    {
+      "en": "He was unwilling to make a prediction about which books would sell in the coming year.",
+      "cn": "他不愿意预测来年哪些书会有销路。"
+    },
+    {
+      "en": "It was another case of the preconception fathering the prediction.",
+      "cn": "这可以说又是按先入之见做出预言的一例."
+    },
+    {
+      "en": "No methods are available for the accurate prediction of the effect of bends and fittings.",
+      "cn": "精确地预计弯头和管件的影响尚无方法可循."
+    },
+    {
+      "en": "Recently it makes a sizable dent in this prediction.",
+      "cn": "这一预言最近有了很大进展."
+    },
+    {
+      "en": "The correlation is loose and the use for prediction insecure.",
+      "cn": "这种相关是不密切的,而且用来预测是靠不住的."
+    },
+    {
+      "en": "The data can be used to make useful economic predictions .",
+      "cn": "这些数据可用于进行有用的经济预测。"
+    },
+    {
+      "en": "The departures of an actual image from the prediction of simple theory are called aberrations.",
+      "cn": "实际的象与简单理论所预期的象的偏差,叫做象差."
+    },
+    {
+      "en": "The outcome of the election was correspondent with my prediction.",
+      "cn": "选举结果与我的预计一致."
+    },
+    {
+      "en": "The prediction has unfortunately come true.",
+      "cn": "不幸而言中."
+    },
+    {
+      "en": "The stumbling block is the mechanistic prediction of cloud cover.",
+      "cn": "麻烦的是对云量的机械预报."
+    },
+    {
+      "en": "They were accurate in their prediction that he would change her life drastically.",
+      "cn": "他们预测得没错，他使她的生活发生了翻天覆地的变化。"
+    },
+    {
+      "en": "This great prediction is coming true.",
+      "cn": "这一伟大的预言即将成为事实."
+    },
+    {
+      "en": "Weather prediction has never been a perfect science.",
+      "cn": "天气预报从来都不是完美的科学。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "predictable",
+          "tran_cn": " 可预言的"
+        },
+        {
+          "word": "predictive",
+          "tran_cn": " 预言性的；成为前兆的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "predictably",
+          "tran_cn": " 可预言地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "predictability",
+          "tran_cn": " 可预测性；可预言"
+        },
+        {
+          "word": "predictor",
+          "tran_cn": " [气象] 预报器；预言者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "predict",
+          "tran_cn": " 作出预言；作预料，作预报"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "predict",
+          "tran_cn": " 预报，预言；预知"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "augury",
+            "conjecture",
+            "divination",
+            "expectation",
+            "forecast",
+            "guess",
+            "hunch",
+            "intuition",
+            "prognosis",
+            "prognostication",
+            "projection",
+            "prophecy",
+            "speculation",
+            "supposition",
+            "surmise",
+            "vaticination"
+          ],
+          "tran_cn": "预言,预示,猜测"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "foreboding"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "earthquake prediction",
+      "tran_cn": "地震预报"
+    },
+    {
+      "phrase": "failure prediction",
+      "tran_cn": "[计]失效预测，故障预测"
+    },
+    {
+      "phrase": "linear prediction",
+      "tran_cn": "线性预测；线性预报"
+    },
+    {
+      "phrase": "prediction algorithm",
+      "tran_cn": "预测算法"
+    },
+    {
+      "phrase": "prediction error",
+      "tran_cn": "n. 预测误差"
+    },
+    {
+      "phrase": "prediction model",
+      "tran_cn": "预测模型；推算模型"
+    },
+    {
+      "phrase": "reliability prediction",
+      "tran_cn": "[经]可靠性预计"
+    },
+    {
+      "phrase": "weather prediction",
+      "tran_cn": "天气预报"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[气]预测，预报，预言，预言的事物",
+      "tran_en": "a statement about what you think is going to happen, or the act of making this statement"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "predictions"
+    ]
+  }
+}

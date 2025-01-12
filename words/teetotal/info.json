@@ -1,0 +1,85 @@
+{
+  "word": "teetotal",
+  "ipa": {
+    "us": "ˌti:ˈtəʊtl",
+    "uk": "ˌtiˈtoʊtl"
+  },
+  "sentences": [
+    {
+      "en": "He will not be having a celebratory drink, as he is teetotal.",
+      "cn": "他滴酒不沾，不会喝庆功酒的。"
+    },
+    {
+      "en": "He won't drink because he's teetotal.",
+      "cn": "他不肯喝酒,因为他是滴酒不沾的."
+    },
+    {
+      "en": "No thank you; I happen to be teetotal.",
+      "cn": "谢谢,不用了; 我正好不喝酒."
+    },
+    {
+      "en": "Similarly, the IQ of women drinkers showed an improvement of 2.5 points over their teetotal sisters.",
+      "cn": "同样, 饮酒的妇女智商比那些完全不喝酒的妇女要高2.5个百分点."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "teetotaler",
+          "tran_cn": " 禁酒主义者，绝对禁酒者"
+        },
+        {
+          "word": "teetotalism",
+          "tran_cn": " 绝对禁酒"
+        },
+        {
+          "word": "teetotaller",
+          "tran_cn": " 禁酒者；绝对戒酒主义者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "absolute",
+            "strict",
+            "full",
+            "complete",
+            "total"
+          ],
+          "tran_cn": "完全的，绝对的；绝对戒酒的；滴酒不沾的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "entire"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "完全戒酒的，主张完全戒酒的，<口>彻底的，完全的",
+      "tran_en": "of, relating to, or practising abstinence from alcoholic drink "
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "teetotalism"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "word": "malinger",
+  "ipa": {
+    "us": "məˈlɪŋgə(r)",
+    "uk": "məˈlɪŋɡɚ"
+  },
+  "sentences": [
+    {
+      "en": "He accused Frank of malingering.",
+      "cn": "他指责弗兰克装病逃避工作。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "malingerer",
+          "tran_cn": " 装病逃差者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "soldier"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "装病",
+      "tran_en": "to avoid work by pretending to be ill"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（尤指为逃避工作）诈病，装病"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "malingers"
+    ],
+    "past": [
+      "malingered"
+    ],
+    "ing": [
+      "malingering"
+    ],
+    "noun": [
+      "malingerer"
+    ]
+  }
+}

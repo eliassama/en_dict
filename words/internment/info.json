@@ -1,0 +1,81 @@
+{
+  "word": "internment",
+  "ipa": {
+    "us": "ɪn'tɜ:nmənt",
+    "uk": "ɪnˈtənmənt"
+  },
+  "sentences": [
+    {
+      "en": "an internment camp",
+      "cn": "拘留营"
+    },
+    {
+      "en": "The chapters on the internment are Both readaBle and well researched.",
+      "cn": "这些关于拘留的章节不仅具可读性而且研究得很透彻."
+    },
+    {
+      "en": "The orc clans were quickly rounded up and placed within guarded internment camps.",
+      "cn": "四分五裂的兽人氏族很快被赶进了戒备森严的俘虏收容所."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "intern",
+          "tran_cn": " 实习生，实习医师"
+        },
+        {
+          "word": "internee",
+          "tran_cn": " 被拘留者（尤指战俘或敌侨）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "intern",
+          "tran_cn": " 作实习医师"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "intern",
+          "tran_cn": " 拘留，软禁"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "detention",
+            "custody"
+          ],
+          "tran_cn": "拘留；收容"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "拘留",
+      "tran_en": "the practice of keeping people in prison during a war or for political reasons, without charging them with a crime"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "intern"
+    ]
+  }
+}

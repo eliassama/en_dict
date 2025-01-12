@@ -1,0 +1,75 @@
+{
+  "word": "ingenuously",
+  "ipa": {
+    "us": "ɪn'dʒenjʊəslɪ",
+    "uk": "ɪn'dʒenjʊrslɪ"
+  },
+  "sentences": [
+    {
+      "en": "Somewhat ingenuously, he explains how the crime may be accomplished.",
+      "cn": "他有点天真地解释了这一罪行可能是如何实施的。"
+    },
+    {
+      "en": "Voldemort stared at him ingenuously. The man MUST have lost his marbles.",
+      "cn": "魔王愕然向对方望过去. 这家伙绝对疯了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ingenuous",
+          "tran_cn": " 天真的；坦白的；正直的；朴实的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ingenuousness",
+          "tran_cn": " 率直；正直；老实"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "unreservedly",
+            "candidly"
+          ],
+          "tran_cn": "率直地；正直地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aboveboard",
+            "simply"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "率直地，正直地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "ingenuous"
+    ]
+  }
+}

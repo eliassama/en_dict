@@ -1,0 +1,204 @@
+{
+  "word": "sob",
+  "ipa": {
+    "us": "sɒb",
+    "uk": "sɑːb"
+  },
+  "sentences": [
+    {
+      "en": "A sob caught in his throat.",
+      "cn": "他泣不成声。"
+    },
+    {
+      "en": "And she choked back a little sob.",
+      "cn": "她强忍着泪水."
+    },
+    {
+      "en": "Compare cry, sob, weep, wail and whimper.",
+      "cn": "试比较cry 、 sob 、 weep 、 wail、whimper这 五个词."
+    },
+    {
+      "en": "He began sobbing uncontrollably .",
+      "cn": "他不由自主地抽噎起来。"
+    },
+    {
+      "en": "He often gulps down a sob.",
+      "cn": "他经常忍气吞声地生活."
+    },
+    {
+      "en": "He sat down and, clinging to the thwart, began to sob quietly.",
+      "cn": "他坐下去, 抓住了座板, 开始低声哭泣."
+    },
+    {
+      "en": "Her little chin quivered and a sob rose to her throat.",
+      "cn": "她那小下巴颏儿一颤一颤的,一阵抽咽涌到她的喉头."
+    },
+    {
+      "en": "Her sobs grew louder.",
+      "cn": "她的呜咽声变得更大了。"
+    },
+    {
+      "en": "His voice broke into a sob as he answered.",
+      "cn": "他回答的时候,声音象哭一样."
+    },
+    {
+      "en": "It was a long, grieving sound , like a sigh -- almost like a sob.",
+      "cn": "这一声叫喊又悠长又 凄楚, 似是长叹,又似是呜咽."
+    },
+    {
+      "en": "My voice cleaves to my throat, and sob chokes my utterance.",
+      "cn": "我的噪子哽咽, 泣不成声."
+    },
+    {
+      "en": "She asked with a sob.",
+      "cn": "她哭泣着央求."
+    },
+    {
+      "en": "She began to sob again, burying her face in the pillow.",
+      "cn": "她把脸埋在枕头里，又开始啜泣起来。"
+    },
+    {
+      "en": "She choked back a little sob.",
+      "cn": "她拚命憋住了抽泣."
+    },
+    {
+      "en": "She nodded with a sob.",
+      "cn": "她啜泣着点了点头."
+    },
+    {
+      "en": "The child started to sob when he couldn't find his mother.",
+      "cn": "孩子因找不到他妈妈哭了起来."
+    },
+    {
+      "en": "The girl didn't answer, but continued to sob with her head on the table.",
+      "cn": "琴不回答, 也不抬起头来.她只顾低声哭着."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sobbing",
+          "tran_cn": " 湿透的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sobbingly",
+          "tran_cn": " 啜泣地；呜咽地"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "sobbing",
+          "tran_cn": " 啜泣；哭诉（sob的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "snivel"
+          ],
+          "tran_cn": "啜泣，呜咽"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bawl",
+            "blubber",
+            "cry",
+            "howl",
+            "sigh",
+            "snivel",
+            "wail",
+            "weep"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "bawl",
+            "blubber",
+            "cry",
+            "howl",
+            "snivel",
+            "wail",
+            "weep"
+          ],
+          "tran_cn": "呜咽;哭泣"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sob story",
+      "tran_cn": "非常悲伤的故事"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "呜咽",
+      "tran_en": "A sob is one of the noises that you make when you are crying"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "  抽泣， 呜咽地说",
+      "tran_en": "to cry noisily while breathing in short sudden bursts"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "啜泣，哭诉",
+      "tran_en": "to cry noisily while breathing in short sudden bursts"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "抽泣，呜咽",
+      "tran_en": "to cry noisily while breathing in short sudden bursts"
+    },
+    {
+      "pos": "vi&n",
+      "tran_cn": "呜咽，哭泣",
+      "tran_en": "to cry noisily while breathing in short sudden bursts"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sobs"
+    ],
+    "third": [
+      "sobs"
+    ],
+    "past": [
+      "sobbed"
+    ],
+    "done": [
+      "sobbed"
+    ],
+    "ing": [
+      "sobbing"
+    ]
+  }
+}

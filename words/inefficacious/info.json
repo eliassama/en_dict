@@ -1,0 +1,86 @@
+{
+  "word": "inefficacious",
+  "ipa": {
+    "us": "ˌɪnefɪ'keɪʃəs",
+    "uk": "ˌɪnefə'keɪʃəs"
+  },
+  "sentences": [
+    {
+      "en": "The bronchus arterial embolization is a safe and efficient method to patient with severe hemoptysis, it can be preferred method to inefficacious patients treated with conservative treatment.",
+      "cn": "支气管动脉栓塞术是一种安全有效的大咯血治疗方法，可以作为临床上保守治疗无效后的首选治疗方法。"
+    },
+    {
+      "en": "When other modalities become inefficacious , Argon-helium knife still can get very good results.",
+      "cn": "其它方法都无效的情况下，氩氦刀依然取得非常好的效果。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inefficient",
+          "tran_cn": " 无效率的，效率低的；无能的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "inefficiently",
+          "tran_cn": " 无效率地；缺乏能力地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inefficacy",
+          "tran_cn": " 无效；无效力"
+        },
+        {
+          "word": "inefficiency",
+          "tran_cn": " 效率低；无效率；无能"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "useless",
+            "unnecessary"
+          ],
+          "tran_cn": "无用的；无效果的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "fruitless",
+            "null",
+            "worthless"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "无效力的，无用的",
+      "tran_en": "failing to produce the desired effect "
+    }
+  ],
+  "exchange": {}
+}

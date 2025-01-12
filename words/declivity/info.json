@@ -1,0 +1,66 @@
+{
+  "word": "declivity",
+  "ipa": {
+    "us": "dɪ'klɪvɪtɪ",
+    "uk": "dɪ'klɪvətɪ"
+  },
+  "sentences": [
+    {
+      "en": "He had rolled down a declivity of twelve or fifteen feet.",
+      "cn": "他是从十二尺或十五尺高的地方滚下来的."
+    },
+    {
+      "en": "I looked frontage straightly , going declivity one by one.",
+      "cn": "我两眼直视前方,一路下坡又下坡."
+    },
+    {
+      "en": "The south declivity of Yimeng Uplift and the slope places around Central Uplift are the important areas for surveying gas reservoirs in regional stratigraphic traps.",
+      "cn": "伊盟隆起南坡、中央古隆起的围斜部位是寻找区域地层圈闭气藏的重要地区；"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "declivitous",
+          "tran_cn": " 相当陡的；向下倾斜的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "slope",
+            "pitch"
+          ],
+          "tran_cn": "下坡；倾斜"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "descent"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "斜坡，坡度，下斜",
+      "tran_en": "a downward slope, esp of the ground "
+    }
+  ],
+  "exchange": {}
+}

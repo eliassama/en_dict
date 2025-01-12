@@ -1,0 +1,233 @@
+{
+  "word": "dock",
+  "ipa": {
+    "us": "dɒk",
+    "uk": "dɑːk"
+  },
+  "sentences": [
+    {
+      "en": "A crowd was waiting at the dock to greet them.",
+      "cn": "一群人在码头等着迎接他们。"
+    },
+    {
+      "en": "After a night of drunken revelry they ended up in the dock.",
+      "cn": "一夜醉酒作乐后,他们都出现在被告席上."
+    },
+    {
+      "en": "He threatens to dock her fee.",
+      "cn": "他威胁要扣掉她的服务费。"
+    },
+    {
+      "en": "He tried to slip past the ticket collector at the dock.",
+      "cn": "他设法从码头上收票人身边溜过去."
+    },
+    {
+      "en": "He was in the public dock, confessing everything, implicating everybody.",
+      "cn": "他站在被告席上, 什么都招认, 什么人都咬."
+    },
+    {
+      "en": "Now it was again a green light on a dock.",
+      "cn": "现在它又是码头上的一盏绿灯了."
+    },
+    {
+      "en": "Six 10000 - ton freighters can berth at this dock.",
+      "cn": "6艘万吨货轮可以同时在这个码头停靠."
+    },
+    {
+      "en": "The crash happened as the ferry attempted to dock on Staten Island.",
+      "cn": "这次碰撞发生于渡船试图停靠在斯塔滕岛时。"
+    },
+    {
+      "en": "The crew was on the beach while the ship was in dry dock.",
+      "cn": "船停泊在干船坞里时水手们都上岸去了."
+    },
+    {
+      "en": "The judge looked over to the prisoner in the dock.",
+      "cn": "法官打量了被告席上的犯人."
+    },
+    {
+      "en": "The ship was in dock .",
+      "cn": "船泊在船坞。"
+    },
+    {
+      "en": "The truck left the loading dock with hoses still attached.",
+      "cn": "卡车驶离装货月台时塑料水龙带还连在上面。"
+    },
+    {
+      "en": "They spent all their time sitting around the dock and shooting the breeze.",
+      "cn": "他们整天坐在码头一带聊天."
+    },
+    {
+      "en": "To dock points would be wrong.",
+      "cn": "扣分的判罚是错误的。"
+    },
+    {
+      "en": "We docked at Rangoon the next morning.",
+      "cn": "第二天早晨我们在仰光停靠码头。"
+    },
+    {
+      "en": "We took the children down to the dock to see the ships.",
+      "cn": "我们把孩子领到船坞去看轮船."
+    },
+    {
+      "en": "We took the children to the dock to see the ships.",
+      "cn": "我们带孩子们到码头去看轮船."
+    },
+    {
+      "en": "What other ships are in dock here?",
+      "cn": "这儿的码头还有其他什么船只？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "docking",
+          "tran_cn": " 入坞的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dockage",
+          "tran_cn": " 船坞使用费；[水运] 码头费；扣除；削减"
+        },
+        {
+          "word": "docker",
+          "tran_cn": " 码头工人"
+        },
+        {
+          "word": "docking",
+          "tran_cn": " 入坞"
+        },
+        {
+          "word": "dockworker",
+          "tran_cn": " 码头工人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "docking",
+          "tran_cn": " 入港；为…设置船坞（dock的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "landing",
+            "pier"
+          ],
+          "tran_cn": "[水运]码头；[船]船坞；被告席；尾巴的骨肉部分"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "anchor",
+            "clip",
+            "cut",
+            "moor",
+            "off",
+            "tie"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "crop",
+            "bob"
+          ],
+          "tran_cn": "使靠码头；剪短"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dock in",
+      "tran_cn": "进坞"
+    },
+    {
+      "phrase": "dry dock",
+      "tran_cn": "干船坞"
+    },
+    {
+      "phrase": "floating dock",
+      "tran_cn": "n. 浮动船坞"
+    },
+    {
+      "phrase": "in dock",
+      "tran_cn": "（船）靠码头；进坞"
+    },
+    {
+      "phrase": "in dry dock",
+      "tran_cn": "失业"
+    },
+    {
+      "phrase": "in the dock",
+      "tran_cn": "受审判或质问"
+    },
+    {
+      "phrase": "loading dock",
+      "tran_cn": "n. 码头；灌油码头；装货码头"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "码头，月台，被告席，酸模",
+      "tran_en": "a place in a port where ships are loaded, unloaded, or repaired"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "停靠码头，（使）在太空对接，扣除",
+      "tran_en": "if a ship docks, or if the captain docks it, it sails into a dock so that it can unload"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 靠码头， 进港",
+      "tran_en": "if a ship docks, or if the captain docks it, it sails into a dock so that it can unload"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使靠码头；扣",
+      "tran_en": "if a ship docks, or if the captain docks it, it sails into a dock so that it can unload"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "docks"
+    ],
+    "third": [
+      "docks"
+    ],
+    "past": [
+      "docked"
+    ],
+    "done": [
+      "docked"
+    ],
+    "ing": [
+      "docking"
+    ]
+  }
+}

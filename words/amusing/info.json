@@ -1,0 +1,189 @@
+{
+  "word": "amusing",
+  "ipa": {
+    "us": "əˈmjuːzɪŋ",
+    "uk": "əˈmjuːzɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a highly amusing (=  very amusing  ) film",
+      "cn": "非常有趣的电影"
+    },
+    {
+      "en": "amusing anecdotes about his brief career as an actor",
+      "cn": "关于他短暂演员生涯的趣闻逸事"
+    },
+    {
+      "en": "David's play was amusing and its pacifist angle had a great appeal.",
+      "cn": "戴维的剧本很有趣,剧中的和平主义倾向性有很大的吸引力."
+    },
+    {
+      "en": "Do not hesitate to laugh at anything you find amusing.",
+      "cn": "只要觉得好笑就尽管笑。"
+    },
+    {
+      "en": "He always lays on the colours to make his stories more amusing.",
+      "cn": "他总是用夸张的手法使他的故事更有趣."
+    },
+    {
+      "en": "He had a terrific sense of humour and could be very amusing.",
+      "cn": "他极具幽默感，很会逗人发笑。"
+    },
+    {
+      "en": "He related some amusing stories in his childhood to his children.",
+      "cn": "他向孩子们述说了他少年时代的一些趣事."
+    },
+    {
+      "en": "He was witty, amusing and gifted with a sharp business brain.",
+      "cn": "他机智诙谐，具有敏锐的商业头脑。"
+    },
+    {
+      "en": "His intejection of amusing stories into his speech made it more interesting.",
+      "cn": "他发言时插进了一些有趣的故事,使他的发言更加妙趣横生."
+    },
+    {
+      "en": "I didn't find the joke at all amusing.",
+      "cn": "我认为这笑话一点也不可笑。"
+    },
+    {
+      "en": "I don’t find his jokes at all amusing .",
+      "cn": "我觉得他的笑话一点都不好笑。"
+    },
+    {
+      "en": "John is very amusing when he is completely befuddled.",
+      "cn": "当约翰喝得完全糊涂了的时候,他非常有趣儿."
+    },
+    {
+      "en": "The dialogue is amusing but the plot is weak.",
+      "cn": "对白逗趣但是情节薄弱。"
+    },
+    {
+      "en": "The otherwise dreary book is enlivened by some very amusing illustrations.",
+      "cn": "这本枯燥乏味的书幸亏加了一些精彩的插图才变得生动有趣."
+    },
+    {
+      "en": "The play was amusing, but it was little more than froth.",
+      "cn": "这出戏还算有趣, 不过内容有些空泛."
+    },
+    {
+      "en": "The show is very amusing and the cast are very good.",
+      "cn": "演出妙趣横生，演员的表演也很出彩。"
+    },
+    {
+      "en": "The youngsters got up to all sorts of amusing antics.",
+      "cn": "这些年轻人做出各种各样可笑的蠢事."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "amused",
+          "tran_cn": " 愉快的，顽皮的；被逗乐的"
+        },
+        {
+          "word": "amusive",
+          "tran_cn": " 愉快的；有趣的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "amusingly",
+          "tran_cn": " 有趣地；好笑地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "amusement",
+          "tran_cn": " 消遣，娱乐；乐趣"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "amused",
+          "tran_cn": " 逗笑（amuse的过去分词）；使欢乐"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "amuse",
+          "tran_cn": " 娱乐；消遣；使发笑；使愉快"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "funny",
+            "interesting"
+          ],
+          "tran_cn": "有趣的,好笑的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "absorbing",
+            "comic",
+            "comical",
+            "droll",
+            "enjoyable",
+            "entertaining",
+            "humorous",
+            "witty"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "sending"
+          ],
+          "tran_cn": "逗乐；打发；使…高兴（amuse的ing形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "amuse oneself",
+      "tran_cn": "自娱自乐，消遣"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有趣的",
+      "tran_en": "funny and entertaining"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "amusingly"
+    ]
+  }
+}

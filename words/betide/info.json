@@ -1,0 +1,154 @@
+{
+  "word": "betide",
+  "ipa": {
+    "us": "bɪˈtaɪd",
+    "uk": "bɪˈtaɪd"
+  },
+  "sentences": [
+    {
+      "en": "Such omens betide no good.",
+      "cn": "这种征兆预示情况不妙."
+    },
+    {
+      "en": "The betide better results.",
+      "cn": "这预兆表明会产生较好的效果."
+    },
+    {
+      "en": "The omens betide better results.",
+      "cn": "这预兆表明会产生较好的效果。"
+    },
+    {
+      "en": "These things betide evil.",
+      "cn": "这些事都是不祥之兆."
+    },
+    {
+      "en": "We shall remain friends whatever may betide.",
+      "cn": "无论发生什么事,我们将永远是朋友."
+    },
+    {
+      "en": "We'll be leaving at 8 o'clock sharp, and woe betide anyone how is late!",
+      "cn": "我们8点准时出发, 谁迟到谁遭殃!"
+    },
+    {
+      "en": "We're leaving at ten o'clock, and woe betide you if you're late!",
+      "cn": "我们准备10点钟离开, 你若晚的话倒霉!"
+    },
+    {
+      "en": "Whate'er betide , maintain your courage.",
+      "cn": "无论有什么事发生,都不要惊慌失措."
+    },
+    {
+      "en": "Whatever may betide, maintain your courage.",
+      "cn": "无论发生什么事,都不要惊慌失措."
+    },
+    {
+      "en": "Woe betide anyone who arrives late!",
+      "cn": "迟到的人将会遭殃!"
+    },
+    {
+      "en": "Woe betide anyone who got in his way.",
+      "cn": "逆他者亡。"
+    },
+    {
+      "en": "Woe betide him if he does evils.",
+      "cn": "如果他作恶,但愿天降祸于他."
+    },
+    {
+      "en": "Woe betide him if he's late!",
+      "cn": "如果他迟到,该他倒霉!"
+    },
+    {
+      "en": "Woe betide the poor soldier.",
+      "cn": "不幸降临于可怜的士兵身上."
+    },
+    {
+      "en": "Woe betide the villain!",
+      "cn": "愿那个恶棍遭殃!"
+    },
+    {
+      "en": "Woe betide you if you betray us.",
+      "cn": "如果你背叛我们,你会得到报应."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "betoken",
+          "tran_cn": " 预示；表示"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "be"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "occur",
+            "happen",
+            "proceed"
+          ],
+          "tran_cn": "发生"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "indicate",
+            "forecast",
+            "shadow",
+            "announce"
+          ],
+          "tran_cn": "预示；降临于，发生于"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "woe betide",
+      "tran_cn": "见 woe"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预示；降临于，发生于"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "发生"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "betides"
+    ],
+    "past": [
+      "betided"
+    ],
+    "done": [
+      "betided"
+    ],
+    "ing": [
+      "betiding"
+    ]
+  }
+}

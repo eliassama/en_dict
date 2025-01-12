@@ -1,0 +1,122 @@
+{
+  "word": "frizzle",
+  "ipa": {
+    "us": "ˈfrɪzl",
+    "uk": "'frɪzl"
+  },
+  "sentences": [
+    {
+      "en": "As she looked round Durbeyfield was seen moving along the road in a chaise belonging to The Pure Drop, driven by a frizzle-headed brawny damsel with her gown-sleeves rolled above her elbows.",
+      "cn": "且说她扭过头来，看见德贝菲尔坐着醇沥酒店的马车，一路驶来，赶车的是一个头发卷曲、体魄健壮的姑娘，两只衣袖卷到胳膊肘上面。"
+    },
+    {
+      "en": "She watched the paper curl and frizzle and burn; and presently they were ashes.",
+      "cn": "她注视着纸片卷曲、焦枯、燃烧; 转眼间它们变成了灰烬."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "frizzly",
+          "tran_cn": " 头发卷曲的；满是卷结的"
+        },
+        {
+          "word": "frizzy",
+          "tran_cn": " 卷曲的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "frizz",
+          "tran_cn": " 吱吱响声；卷发；皱缩（等于friz）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "frizz",
+          "tran_cn": " 卷曲；炸得吱吱响"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "frizz",
+          "tran_cn": " 使鬈曲；为某人卷发；煎炸时吱吱做声"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "wavy hair",
+            "kinkle"
+          ],
+          "tran_cn": "卷发；吱吱响声"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "crisp"
+          ],
+          "tran_cn": "炸得吱吱响；卷曲"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "crispen"
+          ],
+          "tran_cn": "使卷缩；使卷曲"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "卷发；吱吱响声",
+      "tran_en": "a tight crisp curl "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使卷缩，使（卷曲），炸得吱吱响",
+      "tran_en": "to form (the hair) into tight crisp curls; frizz "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "frizzles"
+    ],
+    "past": [
+      "frizzled"
+    ],
+    "done": [
+      "frizzled"
+    ],
+    "ing": [
+      "frizzling"
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "word": "sequential",
+  "ipa": {
+    "us": "sɪˈkwenʃl",
+    "uk": "sɪˈkwenʃl"
+  },
+  "sentences": [
+    {
+      "en": "...the sequential story of the universe.",
+      "cn": "...宇宙的变迁史。"
+    },
+    {
+      "en": "As to sequential pattern mining, mining algorithm is very important.",
+      "cn": "对于序列模式数据挖掘来说, 挖掘算法是系统成功的关键."
+    },
+    {
+      "en": "Explain and calculate performance characteristics of single - clock sequential circuits.",
+      "cn": "解释并计算单一时脉之循序电路的效能特性."
+    },
+    {
+      "en": "Flip - flops are a key component and memory cells of sequential logic circuit.",
+      "cn": "触发器是构成时序逻辑电路的存储单元和核心部件."
+    },
+    {
+      "en": "In the end, an alternative arithmetic namely sequential search arithmetic is proposed.",
+      "cn": "最后, 提出了一种新的时隙选择算法-序贯搜索算法."
+    },
+    {
+      "en": "In this release the sequential portion of update and corrections.",
+      "cn": "本新闻稿中序贯部分更新和更正."
+    },
+    {
+      "en": "It is just the sequential form of the existence of least upper bounds.",
+      "cn": "这正好是上确界存在性的序列形式."
+    },
+    {
+      "en": "Objective To evaluate the efficacy of sequential therapy of moxifloxacin.",
+      "cn": "目的评价莫西沙星序贯疗法的疗效."
+    },
+    {
+      "en": "One of the rejects:'sequential curtailments. \"",
+      "cn": "落选的词语之一是 “ 顺序削减. ”"
+    },
+    {
+      "en": "Sequential Modular Approach was applied to design distillation column simulation training algorithm.",
+      "cn": "采用序贯模块法设计了精馏塔仿真培训的算法."
+    },
+    {
+      "en": "Several session mining on sequential time intervals achieve a rule measure sequence.",
+      "cn": "对若干连续期间的数据挖掘将形成规则的度量值序列."
+    },
+    {
+      "en": "The appellation stuck , and the age of the sequential hierarchical menu began.",
+      "cn": "其名称也从中而来, 于是顺序层次关系菜单时代开始了."
+    },
+    {
+      "en": "The major advantage to sequential systems is their low cost.",
+      "cn": "顺序存取系统的主要优点是便宜."
+    },
+    {
+      "en": "The probabilistic load flow adopts non - sequential Monte - Carlo simulation algorithm.",
+      "cn": "概率潮流采用 非 序贯蒙特卡罗仿真算法."
+    },
+    {
+      "en": "The yields of aldehydes produced in this sequential process are comparable to the two - step method.",
+      "cn": "用此法制得的醛,其产率与用两步法可制得的产率不相上下."
+    },
+    {
+      "en": "What will your selection be in sequential order?",
+      "cn": "如果按照顺序排列，你将会给出什么答案？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sequent",
+          "tran_cn": " 连续的；其次的；作为结果而产生的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sequentially",
+          "tran_cn": " 从而；继续地；循序地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sequence",
+          "tran_cn": " [数][计] 序列；顺序；续发事件"
+        },
+        {
+          "word": "sequent",
+          "tran_cn": " 结果；相继发生的事"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sequence",
+          "tran_cn": " 按顺序排好"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "continuing",
+            "straight",
+            "endless",
+            "running",
+            "serial"
+          ],
+          "tran_cn": "连续的；相继的；[数]有顺序的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "consequent",
+            "episodic",
+            "following",
+            "later",
+            "serial",
+            "successive"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sequential access",
+      "tran_cn": "[计]顺序存取"
+    },
+    {
+      "phrase": "sequential analysis",
+      "tran_cn": "序列分析；序贯分析；逐次分析"
+    },
+    {
+      "phrase": "sequential circuit",
+      "tran_cn": "[计]时序线路，程序电路"
+    },
+    {
+      "phrase": "sequential control",
+      "tran_cn": "[计]顺序控制；时序控制"
+    },
+    {
+      "phrase": "sequential design",
+      "tran_cn": "序贯设计"
+    },
+    {
+      "phrase": "sequential logic",
+      "tran_cn": "时序逻辑；顺序逻辑；循序逻辑"
+    },
+    {
+      "phrase": "sequential method",
+      "tran_cn": "序贯法；顺序法"
+    },
+    {
+      "phrase": "sequential sampling",
+      "tran_cn": "序贯抽样；顺序抽样"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "按次序的，相继的，构成连续镜头的，时序，序贯",
+      "tran_en": "relating to or happening in a sequence"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "sequentially"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "word": "desiccate",
+  "ipa": {
+    "us": "'desɪˌkeɪt",
+    "uk": "ˈdɛsɪˌket"
+  },
+  "sentences": [
+    {
+      "en": "Although many bdelloids live in desiccation-prone habitats, such as ephemeral ponds, there are substantial numbers found in permanently aquatic habitats that are unable to desiccate.",
+      "cn": "尽管许多轮虫生活在干燥的栖息地，如短时间的小水塘，但是有许多轮虫却生活在不会干涸的多水环境里。"
+    },
+    {
+      "en": "The device was able to desiccate the salty water and to condense the moisture into drinkable water.",
+      "cn": "这个装置能先把盐水蒸干，再让水蒸气冷凝成可饮用的水。"
+    },
+    {
+      "en": "Tympanic center leaves the alveolus of one desiccate.",
+      "cn": "鼓膜中心则留下一变干的小孔。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "desiccant",
+          "tran_cn": " 去湿的，使干燥的"
+        },
+        {
+          "word": "desiccated",
+          "tran_cn": " 干的（等于desiccate）；粉状的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "desiccant",
+          "tran_cn": " [助剂] 干燥剂"
+        },
+        {
+          "word": "desiccation",
+          "tran_cn": " 干燥"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "desiccated",
+          "tran_cn": " 使干燥（desiccate的过去式）；变干"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "dry out",
+            "exsiccate"
+          ],
+          "tran_cn": "变干"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使完全变干, 干贮(食物等)",
+      "tran_en": "to remove most of the water from (a substance or material); dehydrate "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "弄干，使脱水，使失水"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,111 @@
+{
+  "word": "homosexual",
+  "ipa": {
+    "us": "ˌhəʊməˈsekʃuəl",
+    "uk": "ˌhoʊməˈsekʃuəl"
+  },
+  "sentences": [
+    {
+      "en": "In broader usage, the term refers to any act of persuasion , between heterosexual or homosexual individuals.",
+      "cn": "广义上说, 这个术语同样适用于同性个体之间."
+    },
+    {
+      "en": "Ruth’s brother was homosexual.",
+      "cn": "露丝的弟弟是同性恋。"
+    },
+    {
+      "en": "The judge said that discrimination against homosexuals is deplorable.",
+      "cn": "法官说歧视同性恋的行为应该受到谴责。"
+    },
+    {
+      "en": "This will very likely also be true of homosexual and bisexual relationships.",
+      "cn": "接纳同性和双性性关系也极可能变为现实."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "homophile",
+          "tran_cn": " 关心同性恋者权利的；同性恋的（等于homosexual）"
+        },
+        {
+          "word": "homophobic",
+          "tran_cn": " 害怕同性恋的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "homophile",
+          "tran_cn": " 同性恋者；同性恋权力支持者"
+        },
+        {
+          "word": "homophobia",
+          "tran_cn": " 对同性恋的恐惧；对同性恋的憎恶"
+        },
+        {
+          "word": "homosexuality",
+          "tran_cn": " 同性恋"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "faggy",
+            "Lesbo"
+          ],
+          "tran_cn": "[生物][心理]同性恋的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "gay"
+          ],
+          "tran_cn": "[心理]同性恋者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "queer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "同性恋的",
+      "tran_en": "if someone, especially a man, is homosexual, they are sexually attracted to people of the same sex"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "同性恋者",
+      "tran_en": "Homosexual is also a noun"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "homosexuals"
+    ]
+  }
+}

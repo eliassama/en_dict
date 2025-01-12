@@ -1,0 +1,167 @@
+{
+  "word": "propellant",
+  "ipa": {
+    "us": "prəˈpelənt",
+    "uk": "prəˈpɛlənt"
+  },
+  "sentences": [
+    {
+      "en": "...a propellant for nuclear rockets.",
+      "cn": "...一批核火箭燃料。"
+    },
+    {
+      "en": "A variety of mechanical surfaces have been employed for deflecting the exhaust jets of solid - propellant rockets.",
+      "cn": "人们已经用过各种类型的机械控制面来偏转固体推进剂火箭的排气流."
+    },
+    {
+      "en": "After the mandrel is melted, a thin layer of alloy remains on the propellant surface.",
+      "cn": "此心轴溶化之后, 在推进剂表面上留有一薄层的合金."
+    },
+    {
+      "en": "Carbon black is an opacifier which prevents radiant energy transmission to the interior of the propellant.",
+      "cn": "炭黑是不透明的,可以防止辐射热传到推进剂内部."
+    },
+    {
+      "en": "Flame temperature measurements can be used as a guide in discussing enevgetics of a homogeneous propellant.",
+      "cn": "火焰温度的测定可作为讨论均质推进剂能量特性的指导."
+    },
+    {
+      "en": "It is reasonable that this result should be generally applicable also to liquid - propellant rockets.",
+      "cn": "这个结果通常也应适用于液体推进剂火箭."
+    },
+    {
+      "en": "Propellant binders based on these materials have excellent mechanical properties and good performance.",
+      "cn": "用这些材料制成的推进粘结剂的工作性能很好,而机械性能则更为突出."
+    },
+    {
+      "en": "Propellant is another term for the fuel of a rocket.",
+      "cn": "推进剂是火箭燃料的另一术语."
+    },
+    {
+      "en": "Solid propellant engine systems are basically less flexible in operation than liquid or hybrid propellant systems.",
+      "cn": "固体推进剂发动机系统的可调性基本上比液体或混合型的要差."
+    },
+    {
+      "en": "Some propellant droplets may not evaporate within the confines of the thrust chamber.",
+      "cn": "有些推进剂可能在推力室内并未汽化."
+    },
+    {
+      "en": "Some stratification exists in the spray produced by any liquid propellant injector.",
+      "cn": "由任何液体推进剂喷注器所产生的喷雾都存在某些成层现象."
+    },
+    {
+      "en": "Swelling and porosity of the propellant mixture became evident after 6 days at ambient temperature.",
+      "cn": "在室温下将药柱放置6天后,推进剂呈现膨胀和气孔."
+    },
+    {
+      "en": "The factory produces propellant for ballistic missiles.",
+      "cn": "这个工厂为弹道导弹生产推进剂。"
+    },
+    {
+      "en": "The final operation in propellant manufacture is the curing of the binder.",
+      "cn": "制造推进剂的最后操作是粘合剂的固化."
+    },
+    {
+      "en": "The heptane compound has a primary purpose as a plasticizer for doublebase propellant systems.",
+      "cn": "化合物庚烷的主要用途是作为双基推进剂的增塑剂."
+    },
+    {
+      "en": "The nitroguanidine is added to the propellant during its mixing phase.",
+      "cn": "在推进剂的混合阶段将硝基胍加到推进剂中."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "propellent",
+          "tran_cn": " 推进的；有推动力的"
+        },
+        {
+          "word": "propelling",
+          "tran_cn": " 推进的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "propellent",
+          "tran_cn": " 推动者；推进物；推进燃料"
+        },
+        {
+          "word": "propeller",
+          "tran_cn": " [航][船] 螺旋桨；推进器"
+        },
+        {
+          "word": "propelling",
+          "tran_cn": " 推进"
+        },
+        {
+          "word": "propellor",
+          "tran_cn": " [航][船] 螺旋桨；推进者；[航][船] 推进器"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "propelling",
+          "tran_cn": " 推动（propel的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "propel",
+          "tran_cn": " 推进；驱使；激励；驱策"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "driving",
+            "pulsive"
+          ],
+          "tran_cn": "[航]推进的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "aerosol propellant",
+      "tran_cn": "气溶胶喷射剂；气溶胶火箭燃料"
+    },
+    {
+      "phrase": "propellant gas",
+      "tran_cn": "推进剂，气体推进剂"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "推进的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "推进物",
+      "tran_en": "Propellant is a substance that causes something to move forward"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "propellants"
+    ]
+  }
+}

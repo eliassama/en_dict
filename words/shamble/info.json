@@ -1,0 +1,97 @@
+{
+  "word": "shamble",
+  "ipa": {
+    "us": "ˈʃæmbl",
+    "uk": "ˈʃæmbəl"
+  },
+  "sentences": [
+    {
+      "en": "Shuffle and shamble indicate moving without lifting the feet completely off the ground.",
+      "cn": "shuffle和shamble均指行走时脚不完全离开地面."
+    },
+    {
+      "en": "Wait, please; you betray too much vigor, too much decision; you want more of a shamble.",
+      "cn": "您先别忙; 这可显着太有精神, 太有决断了; 还得再带点儿磨磨蹭蹭的样子才成."
+    },
+    {
+      "en": "Zombies shamble up the rows of the grid toward your house, and if they get past your defenses, well, you know.",
+      "cn": "僵尸们在网格的每一行向你的房子蹒跚而行，如果他们越过了你的防线，那么，你知道的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "shambling",
+          "tran_cn": " 拖沓的；呆滞的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "shambling",
+          "tran_cn": " 拖着脚步走；蹒跚的走（shamble的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "titubation",
+            "hitchiness"
+          ],
+          "tran_cn": "蹒跚；摇晃的脚步"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "mouch"
+          ],
+          "tran_cn": "蹒跚地走；摇晃不稳；摇摇晃晃地走"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "蹒跚；摇晃的脚步",
+      "tran_en": "an awkward or unsteady walk "
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 蹒跚而行， 踉跄地走",
+      "tran_en": "to walk slowly and awkwardly, not lifting your feet much, for example because you are tired, weak, or lazy"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "蹒跚而行，拖着脚走，踉跄地走"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "shambles"
+    ],
+    "past": [
+      "shambled"
+    ],
+    "done": [
+      "shambled"
+    ],
+    "ing": [
+      "shambling"
+    ]
+  }
+}

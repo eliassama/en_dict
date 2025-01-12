@@ -1,0 +1,78 @@
+{
+  "word": "bedeck",
+  "ipa": {
+    "us": "bɪˈdek",
+    "uk": "bɪˈdɛk"
+  },
+  "sentences": [
+    {
+      "en": "...flags bedecking the balcony.",
+      "cn": "... 装饰阳台的旗子。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bedizen",
+          "tran_cn": " 俗丽地穿着或装饰；过分地打扮"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "brighten",
+            "deck",
+            "embellish"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "paint",
+            "hang",
+            "modify"
+          ],
+          "tran_cn": "装饰；修饰"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "装饰；修饰",
+      "tran_en": "to decorate something such as a building or street by hanging things all over it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "装饰，打扮某物/某人"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "bedecks"
+    ],
+    "past": [
+      "bedecked"
+    ],
+    "done": [
+      "bedecked"
+    ],
+    "ing": [
+      "bedecking"
+    ]
+  }
+}

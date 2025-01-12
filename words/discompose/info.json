@@ -1,0 +1,83 @@
+{
+  "word": "discompose",
+  "ipa": {
+    "us": "ˌdɪskəmˈpəʊz",
+    "uk": "ˌdɪskəmˈpoʊz"
+  },
+  "sentences": [
+    {
+      "en": "The grin of his friend discompose jack when he tried to make his speech.",
+      "cn": "杰克想要讲演时,他的朋友裂着嘴笑,使他心里很慌乱."
+    },
+    {
+      "en": "Therefore , to discompose these signals by filtering can help to understand possible sedimentary dynamic procedures.",
+      "cn": "用滤波方法分析分解信号,可以了解不同沉积作用特征并进一步分析可能的环境变化控制机制."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "discomposed",
+          "tran_cn": " 不安的；失去平衡的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "discomposure",
+          "tran_cn": " 不安；心乱；狼狈"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addle",
+            "dislocate",
+            "disorder",
+            "disrupt",
+            "embarrass"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "trouble",
+            "cloud"
+          ],
+          "tran_cn": "使烦恼；使不安；使混乱"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "不安",
+      "tran_en": "to make someone feel worried and no longer calm"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使不安，使烦恼"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "discomposure"
+    ]
+  }
+}

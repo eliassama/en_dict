@@ -1,0 +1,160 @@
+{
+  "word": "enquiry",
+  "ipa": {
+    "us": "ɪnˈkwaɪəri",
+    "uk": "ˈɪnkwəri"
+  },
+  "sentences": [
+    {
+      "en": "After months of enquiry we finally discovered the truth.",
+      "cn": "经过几个月调查,我们最后发现了真相."
+    },
+    {
+      "en": "Although the key result turned out negative, the researchers concluded that there is reason to pursue this line of enquiry further.",
+      "cn": "虽然，关键的结果是消极的，研究人员得出结论，认为他们有理由要作进一步的追求，继续探索的路线。"
+    },
+    {
+      "en": "An enquiry she thought was a waste of resources.",
+      "cn": "她认为调查是浪费财力."
+    },
+    {
+      "en": "Cabin crew have been giving evidence at the M1 aircrash enquiry.",
+      "cn": "机舱人员一直在为M1空难调查作证。"
+    },
+    {
+      "en": "Det Supt Bassett was in charge of the murder enquiry.",
+      "cn": "探长巴西特负责调查该谋杀案。"
+    },
+    {
+      "en": "I don’t know who sent the gift, but I’ll make some enquiries.",
+      "cn": "我不知道礼物是谁送的，但我会打听一下。"
+    },
+    {
+      "en": "I want to make an enquiry about train times.",
+      "cn": "我想打听一下火车的时刻."
+    },
+    {
+      "en": "I was referred to the manager / the enquiry office.",
+      "cn": "人家叫我去找经理[去问讯处]."
+    },
+    {
+      "en": "She has taken my enquiry as a personal affront.",
+      "cn": "她将我的询问当成了人身侮辱。"
+    },
+    {
+      "en": "Thank you for your enquiry / enquiries about my health.",
+      "cn": "谢谢你问候我的健康情况."
+    },
+    {
+      "en": "The police have eliminated two suspects  from their enquiry.",
+      "cn": "警方从调查中已排除了两名受嫌疑的人。"
+    },
+    {
+      "en": "The police have eliminated two suspects ( from their enquiry ).",
+      "cn": "警方 ( 从调查中 ) 已排除了两名受嫌疑的人."
+    },
+    {
+      "en": "They could be tracked down by enquiry , they could be squeezed out of you by torture.",
+      "cn": "他们可以通过讯问, 可以通过拷打弄清楚."
+    },
+    {
+      "en": "They followed this line of enquiry because another property of self-organised criticality is that each event, on average, triggers only one other.",
+      "cn": "他们选用这种方式进行探究是因为自我组织临界的另一个特性是：平均来说，每一次触发都是一个接一个的。"
+    },
+    {
+      "en": "They referred me to the Enquiry Office.",
+      "cn": "他们让我到问事处去问."
+    },
+    {
+      "en": "Various malpractices by police officers were brought to light by the enquiry.",
+      "cn": "警察的各种不法行为经调查已揭露出来."
+    },
+    {
+      "en": "We are forced to admit the impossibility of further enquiry.",
+      "cn": "我们被迫承认不可能进一步探索."
+    },
+    {
+      "en": "We are pleased to receive your enquiry.",
+      "cn": "我们很高兴收到您的询问函。"
+    },
+    {
+      "en": "We’re getting a lot of enquiries about our new London-Rio service.",
+      "cn": "许多人来打听我们新开设的伦敦－里约热内卢的航班情况。"
+    },
+    {
+      "en": "What was the result of the enquiry?",
+      "cn": "调查的结果如何?"
+    },
+    {
+      "en": "When fresh supplies come into the market, we can revert to your enquiry.",
+      "cn": "等新货上市时，我们才能回头考虑你们的询盘。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "enquire",
+          "tran_cn": " 询问；调查；问候（等于inquire）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "enquire",
+          "tran_cn": " 询问；打听"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "question",
+            "quaere"
+          ],
+          "tran_cn": "[计]询问，[贸易]询盘"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "canvass"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "enquiry form",
+      "tran_cn": "查询表格"
+    },
+    {
+      "phrase": "intellectual enquiry",
+      "tran_cn": "知识探索；知识探求"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "调查，询问，探索，问讯处",
+      "tran_en": "a question you ask in order to get information"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "enquiries"
+    ]
+  }
+}

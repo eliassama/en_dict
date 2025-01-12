@@ -1,0 +1,83 @@
+{
+  "word": "sextant",
+  "ipa": {
+    "us": "ˈsekstənt",
+    "uk": "ˈsɛkstənt"
+  },
+  "sentences": [
+    {
+      "en": "I can see all the traditional signalling flags neatly stowed on shelves on the bridge—so neatly, in fact, that I suspect they might never have been used, together with the sextant, the flares.",
+      "cn": "我可以看见所有传统的信号旗整齐地装载在桥架上-如此整洁，事实上，我怀疑它们和六分仪及闪光信号一样，可能从未被用过。"
+    },
+    {
+      "en": "Is sextant still widely used for navigation?",
+      "cn": "六分仪现在仍然广泛应用于航海 吗 ?"
+    },
+    {
+      "en": "Other early instruments included the sextant and the astrolabe.",
+      "cn": "另外的早期仪器还有六分仪和星盘."
+    },
+    {
+      "en": "Sextant can be used for exploration and navigation .",
+      "cn": "六分仪可用于航海和勘探中。"
+    },
+    {
+      "en": "Sextant can be used for exploration and navigation.",
+      "cn": "六分仪可用于航海和勘探中."
+    },
+    {
+      "en": "Sextant once played a very important role in navigation.",
+      "cn": "六分仪曾经在航海中扮演了重要角色."
+    },
+    {
+      "en": "To define latitude and longitude coordinates for a location on the Earth, at minimum, you must be able to see the stars or the Sun and have a sextant and clock that displays time in GMT.",
+      "cn": "确定地球上某个位置的经度和纬度坐标的最低需求是，你至少能够看到星星和太阳，并具备一个六分仪和能够显示 GMT 时间的时钟 T。"
+    },
+    {
+      "en": "To navigate , they must fix their sextant on something concrete.",
+      "cn": "要行动, 就必须要立足于某个坚实的事物上."
+    },
+    {
+      "en": "Unlike decimal coordinates, which you can determine using a sextant and a chronometer, you cannot determine UTM coordinates without calculations.",
+      "cn": "十进制坐标可通过一个六分仪和一个记时计确定，与此不同的是，必须通过计算才能确定 UTM 坐标。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sexagesimal",
+          "tran_cn": " 六十的；六十进位的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sexagesimal",
+          "tran_cn": " 六十分之一"
+        },
+        {
+          "word": "sextuplet",
+          "tran_cn": " 六个一组；六胞胎之一"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（航海用的）六分仪",
+      "tran_en": "a tool for measuring angles between stars in order to calculate the position of a ship or aircraft"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sextants"
+    ]
+  }
+}

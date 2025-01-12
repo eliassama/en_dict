@@ -1,0 +1,78 @@
+{
+  "word": "immutability",
+  "ipa": {
+    "us": "ɪˌmju:tə'bɪlətɪ",
+    "uk": "ɪˌmjutə'bɪlətɪ"
+  },
+  "sentences": [
+    {
+      "en": "Farmers all over the globe knowinging the importance and immutability the seasons.",
+      "cn": "全全地球的农民们都明白季节的很重要性和永恒性."
+    },
+    {
+      "en": "The immutability of God is a strong ground of consolation and encourages hope and confidence.",
+      "cn": "上帝的不变性乃是我们安慰的坚固根基,鼓励我们充满著盼望,信心."
+    },
+    {
+      "en": "The notion of immutability is also baked into all the reflection and concurrency code.",
+      "cn": "不变性理念也融入了所有映射和并发性代码中."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "immutable",
+          "tran_cn": " 不变的；不可变的；不能变的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "immutably",
+          "tran_cn": " 不变地；永恒地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "invariability",
+            "unchangeableness"
+          ],
+          "tran_cn": "不变；永恒性；不变性"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "stability"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "不变，不变性，永恒性"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "immutable"
+    ]
+  }
+}

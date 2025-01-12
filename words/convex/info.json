@@ -1,0 +1,184 @@
+{
+  "word": "convex",
+  "ipa": {
+    "us": "ˈkɒnveks",
+    "uk": "ˈkɑːnveks"
+  },
+  "sentences": [
+    {
+      "en": "a convex lens",
+      "cn": "凸透镜"
+    },
+    {
+      "en": "A convex lens is used to concentrate rays of light.",
+      "cn": "凸透镜用于聚集光线."
+    },
+    {
+      "en": "a convex mirror",
+      "cn": "凸镜"
+    },
+    {
+      "en": "An indifference curve is usually assumed to be convex.",
+      "cn": "无差异曲线通常呈凸形."
+    },
+    {
+      "en": "Convex analysis, Lagrangian relaxation, non differentiable optimization, and applications in integer programming.",
+      "cn": "凸分析 、 拉格朗日松弛法 、 不可微分函数最适化以及在整数规划上的应用."
+    },
+    {
+      "en": "For some special cases, the deterministic convex optimization problems are derived.",
+      "cn": "对某些特殊的情形, 我们导出了鲁棒线性最优化的确定性等价问题."
+    },
+    {
+      "en": "I wouldn't say your stomach was big — it's just slightly convex.",
+      "cn": "我不会说你的肚子大——它只是有点凸出."
+    },
+    {
+      "en": "In adults its contour may be straight, slightly concave or slightly convex.",
+      "cn": "成人肺其形状可以是直的, 轻微凹下或轻度突出."
+    },
+    {
+      "en": "Its convex border should project far into the right lower lung field.",
+      "cn": "其凸出缘应深深地突入右下肺野内."
+    },
+    {
+      "en": "The convex surfaces faces toward the left.",
+      "cn": "凸面朝左方."
+    },
+    {
+      "en": "The importance of the commercial bank service management is already convex now.",
+      "cn": "商业银行服务管理的重要性已经凸现."
+    },
+    {
+      "en": "The inferior and lateral convex border of the stomach is the greater curvature.",
+      "cn": "胃的下方及侧面凸缘是胃大弯."
+    },
+    {
+      "en": "The representation theorem with order - extremal points is obtained for compact order - convex sets.",
+      "cn": "研究了序凸集的一些运算性质,得到了紧序凸集的序端点表示定理."
+    },
+    {
+      "en": "The surface of the space key can be flat or convex.",
+      "cn": "空格键则可以是平面或凸面."
+    },
+    {
+      "en": "This paper given discribes a convex persevering fitting method.",
+      "cn": "文中描述了一种保凸参数拟合方法."
+    },
+    {
+      "en": "What causes the conversion and why does it have a convex casing?",
+      "cn": "它为什么有个凸起的外壳 呢 ?"
+    },
+    {
+      "en": "When there is a diminishing marginal rate substitution, preferences are convex.",
+      "cn": "边际替代率是逐渐减少的, 偏好就会凸起."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "convexly",
+          "tran_cn": " 凸圆地；中凸地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "convexity",
+          "tran_cn": " 凸面，凸状；中凸"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "gibbous"
+          ],
+          "tran_cn": "凸面的；凸圆的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "convex bank",
+      "tran_cn": "凸岸"
+    },
+    {
+      "phrase": "convex body",
+      "tran_cn": "凸体"
+    },
+    {
+      "phrase": "convex combination",
+      "tran_cn": "[数]凸组合"
+    },
+    {
+      "phrase": "convex curve",
+      "tran_cn": "[数]凸曲线"
+    },
+    {
+      "phrase": "convex edge",
+      "tran_cn": "外弯边；凸边，凸面"
+    },
+    {
+      "phrase": "convex function",
+      "tran_cn": "凸函数"
+    },
+    {
+      "phrase": "convex hull",
+      "tran_cn": "[计]凸包；凸壳"
+    },
+    {
+      "phrase": "convex lens",
+      "tran_cn": "凸透镜"
+    },
+    {
+      "phrase": "convex mirror",
+      "tran_cn": "凸面镜；凸镜"
+    },
+    {
+      "phrase": "convex optimization",
+      "tran_cn": "凸规划"
+    },
+    {
+      "phrase": "convex polygon",
+      "tran_cn": "凸多边形；凸面多角形"
+    },
+    {
+      "phrase": "convex programming",
+      "tran_cn": "[计]凸规划"
+    },
+    {
+      "phrase": "convex set",
+      "tran_cn": "（管理数学）凸集"
+    },
+    {
+      "phrase": "convex surface",
+      "tran_cn": "凸面"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "凸的，凸面的，凸状，凸形",
+      "tran_en": "curved outwards, like the surface of the eye"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "凸面体；凸状"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "convexity"
+    ]
+  }
+}

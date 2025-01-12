@@ -1,0 +1,182 @@
+{
+  "word": "inclined",
+  "ipa": {
+    "us": "ɪnˈklaɪnd",
+    "uk": "ɪnˈklaɪnd"
+  },
+  "sentences": [
+    {
+      "en": "Bratby's grandfather had been artistically inclined.",
+      "cn": "布拉特比的祖父很有艺术天分。"
+    },
+    {
+      "en": "Commandos are inclined to shoot first and ask questions later.",
+      "cn": "突击队员往往会先开枪，然后再问话。"
+    },
+    {
+      "en": "He inclined forward so as to hear more clearly.",
+      "cn": "他向前倾斜着身体,以便听得更清楚些."
+    },
+    {
+      "en": "He inclined his head regally.",
+      "cn": "他很有帝王风范地点了点头。"
+    },
+    {
+      "en": "He inclined towards the speaker to hear more clearly.",
+      "cn": "他把身体倾向发言人,以便听得更清楚些."
+    },
+    {
+      "en": "He was inclined to self-pity.",
+      "cn": "他总是自怜自叹。"
+    },
+    {
+      "en": "Henry was inclined to seek solace in drink.",
+      "cn": "亨利往往借酒消愁。"
+    },
+    {
+      "en": "I am inclined to daydream.",
+      "cn": "我喜欢空想。"
+    },
+    {
+      "en": "If you are so inclined, you can watch TV.",
+      "cn": "如果你这么想看电视，你就看吧。"
+    },
+    {
+      "en": "Jack inclined his head very slightly.",
+      "cn": "杰克轻轻点了点头。"
+    },
+    {
+      "en": "Martin is inclined to rush in where angels fear to tread.",
+      "cn": "马丁总是喜欢贸然行事。"
+    },
+    {
+      "en": "Nobody felt inclined to argue with Smith.",
+      "cn": "没人愿意与史密斯争辩。"
+    },
+    {
+      "en": "She has always been inclined to excitability.",
+      "cn": "她一向比较容易激动。"
+    },
+    {
+      "en": "She was inclined to trust him.",
+      "cn": "她愿意相信他。"
+    },
+    {
+      "en": "The leaves are inclined to scorch in hot sunshine.",
+      "cn": "叶子在酷热的阳光下容易枯黄。"
+    },
+    {
+      "en": "They felt inclined to throw the whole thing over.",
+      "cn": "他们倾向于放弃整件事."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inclining",
+          "tran_cn": " 倾斜的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inclination",
+          "tran_cn": " 倾向，爱好；斜坡"
+        },
+        {
+          "word": "incline",
+          "tran_cn": " 倾斜；斜面；斜坡"
+        },
+        {
+          "word": "inclining",
+          "tran_cn": " 倾向；爱好"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "inclining",
+          "tran_cn": " 倾斜；倾向（incline的ing形式）；点头弯腰"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "incline",
+          "tran_cn": " 倾斜；倾向；易于"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "incline",
+          "tran_cn": " 使倾斜；使倾向于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agreeable",
+            "disposed",
+            "prone",
+            "willing"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inclined angle",
+      "tran_cn": "倾斜角；夹角"
+    },
+    {
+      "phrase": "inclined fault",
+      "tran_cn": "倾斜断层"
+    },
+    {
+      "phrase": "inclined hole",
+      "tran_cn": "斜孔，斜炮眼；斜井"
+    },
+    {
+      "phrase": "inclined plane",
+      "tran_cn": "n. 斜面"
+    },
+    {
+      "phrase": "inclined shaft",
+      "tran_cn": "斜井；斜坑"
+    },
+    {
+      "phrase": "inclined surface",
+      "tran_cn": "斜面"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "倾斜的，倾向的",
+      "tran_en": "to be likely to do something or behave in a particular way"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（使）倾斜( incline的过去式和过去分词)，（使）偏向"
+    }
+  ],
+  "exchange": {}
+}

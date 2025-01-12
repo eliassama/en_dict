@@ -1,0 +1,218 @@
+{
+  "word": "interpreter",
+  "ipa": {
+    "us": "ɪnˈtɜːprətə(r)",
+    "uk": "ɪnˈtɜːrprətər"
+  },
+  "sentences": [
+    {
+      "en": "Aristide spoke to the press through an interpreter.",
+      "cn": "阿里斯蒂德通过口译员向媒体发表讲话。"
+    },
+    {
+      "en": "Every photo interpreter should be familiar with basic principles of photogrammetry.",
+      "cn": "每个象片解译人员都应当熟悉摄影测量学的基本原理."
+    },
+    {
+      "en": "He knows a little Chinese, so he can do without an interpreter.",
+      "cn": "他懂一点中国话, 所以可以不用译员."
+    },
+    {
+      "en": "He serves as an interpreter for us.",
+      "cn": "他给我们当翻译."
+    },
+    {
+      "en": "I had my admirable interpreter of the previous year Major Birse.",
+      "cn": "去年我有一位可钦佩的译员伯尔斯少校."
+    },
+    {
+      "en": "I'll act as interpreter.",
+      "cn": "我来作翻译."
+    },
+    {
+      "en": "She thinks of putting in for the position of interpreter.",
+      "cn": "她想申请当译员."
+    },
+    {
+      "en": "She works as an interpreter in that company.",
+      "cn": "她在该公司里担任翻译员."
+    },
+    {
+      "en": "Speaking through an interpreter , the President said that the talks were going well.",
+      "cn": "总统通过译员说会谈进展良好。"
+    },
+    {
+      "en": "Speaking through an interpreter (= using an interpreter ), Ahmed said, ‘I’m very worried about my wife and children.’",
+      "cn": "艾哈迈德通过口译者说:“我很担心我的妻子和孩子们。”"
+    },
+    {
+      "en": "The clarity of resolution can be never too good for interpreter.",
+      "cn": "对于解译人员来说,清晰度可能从来都不是很满意的."
+    },
+    {
+      "en": "The result obtained by smoothing contours is inevitably biased by the interpreter.",
+      "cn": "通过平滑等值线得到的结果必然带有解释人员的倾向性."
+    },
+    {
+      "en": "We communicated through an interpreter.",
+      "cn": "我们通过传译员交流."
+    },
+    {
+      "en": "We employ her as an English interpreter.",
+      "cn": "我们雇用她作英语翻译."
+    },
+    {
+      "en": "We must allow him to be a good interpreter.",
+      "cn": "我们必须承认他是个好译员."
+    },
+    {
+      "en": "When Bethune looked inquiringly at Tung, the interpreter stepped forward.",
+      "cn": "白求恩探询地望望董的时候, 这位翻译就走上前去."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interpretable",
+          "tran_cn": " 可说明的；可判断的；可翻译的"
+        },
+        {
+          "word": "interpretative",
+          "tran_cn": " 解释的；作为说明的"
+        },
+        {
+          "word": "interpretive",
+          "tran_cn": " 解释的；作为说明的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interpretation",
+          "tran_cn": " 解释；翻译；演出"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "interpret",
+          "tran_cn": " 解释；翻译"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "interpret",
+          "tran_cn": " 说明；口译"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agent",
+            "flak",
+            "front",
+            "man",
+            "mouthpiece",
+            "press",
+            "public",
+            "relations",
+            "spokesman"
+          ],
+          "tran_cn": "发言人,出版社"
+        },
+        {
+          "words": [
+            "annotator",
+            "commentator",
+            "dragoman",
+            "exegete",
+            "exegetist",
+            "explainer",
+            "exponent",
+            "expositor",
+            "expounder",
+            "guide",
+            "metaphrast",
+            "paraphrast",
+            "scholiast",
+            "translator"
+          ],
+          "tran_cn": "翻译者,编辑,引导者"
+        },
+        {
+          "words": [
+            "abeyance",
+            "break",
+            "cessation",
+            "discontinuance",
+            "interim",
+            "interlude",
+            "intermission",
+            "interruption",
+            "interval",
+            "lull",
+            "pause",
+            "recess",
+            "respite",
+            "rest",
+            "suspension"
+          ],
+          "tran_cn": "间歇,暂停"
+        },
+        {
+          "words": [
+            "augur",
+            "oracle",
+            "prophet",
+            "seer",
+            "soothsayer"
+          ],
+          "tran_cn": "预言家"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "teacher"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "simultaneous interpreter",
+      "tran_cn": "同声传译员"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "解释者，口译译员，[军事]判读员，[自]翻译器",
+      "tran_en": "someone who changes spoken words from one language into an-other, especially as their job"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interpreters"
+    ]
+  }
+}

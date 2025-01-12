@@ -1,0 +1,83 @@
+{
+  "word": "peculate",
+  "ipa": {
+    "us": "'pekjʊleɪt",
+    "uk": "ˈpɛkjəˌlet"
+  },
+  "sentences": [
+    {
+      "en": "In an open network environment, it's hoped that the resources in the server is opened to the legal user in the network, and the server can prevent illegal user to peculate or demolish the resources;",
+      "cn": "在一个公开的网络环境，服务器上的资源希望只对网络中的合法用户开放，并能阻止非法用户进行盗用或破坏资源；"
+    },
+    {
+      "en": "It means that we can modify and peculate the code.",
+      "cn": "这意味着我们可以盗用或修改其代码。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "peculation",
+          "tran_cn": " 侵吞公款；挪用公款；贪污"
+        },
+        {
+          "word": "peculator",
+          "tran_cn": " [法] 挪用公款者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "pirate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "embezzle",
+            "misappropriate"
+          ],
+          "tran_cn": "盗用，挪用（公款等）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "挪用, 盗用",
+      "tran_en": "to appropriate or embezzle (public money) "
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "盗用，挪用（钱财）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "peculates"
+    ],
+    "past": [
+      "peculated"
+    ],
+    "done": [
+      "peculated"
+    ],
+    "ing": [
+      "peculating"
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "word": "interface",
+  "ipa": {
+    "us": "ˈɪntəfeɪs",
+    "uk": "ˈɪntərfeɪs"
+  },
+  "sentences": [
+    {
+      "en": "...the development of better user interfaces.",
+      "cn": "…更好用户界面的开发。"
+    },
+    {
+      "en": "Alterations occur at the interface between white blood calls and endothelium.",
+      "cn": "白细胞和内膜的交界面发生改变."
+    },
+    {
+      "en": "At each interface the spreading wavefront is made discontinuous.",
+      "cn": "在每一分界面上扩展的波前出现间断."
+    },
+    {
+      "en": "At the same time, interface standards also benefIt'software vendors.",
+      "cn": "同时, 界面标准也有利于软件开发商."
+    },
+    {
+      "en": "In early stages of design, pretend the interface is magic.",
+      "cn": "在设计的早期阶段, 假设界面有魔术效应."
+    },
+    {
+      "en": "Liquid water can leach soluble materials from the interface.",
+      "cn": "液态水能够从界面溶解出可溶性物质."
+    },
+    {
+      "en": "My computer has a network interface, which allows me to get to other computers.",
+      "cn": "我的计算机有网络接口可以与其它计算机连在一起."
+    },
+    {
+      "en": "Similarly, the status of user interface objects should be apparent to users.",
+      "cn": "类似地, 用户界面对象的状态也应该对用户是显而易见的."
+    },
+    {
+      "en": "The different components all have to interface smoothly.",
+      "cn": "不同的部件都必须能顺利接合。"
+    },
+    {
+      "en": "the interface between computer and printer",
+      "cn": "计算机和打印机之间的接口"
+    },
+    {
+      "en": "The new version of the program comes with a much better user interface than original.",
+      "cn": "新版程序的用户界面比原来程序的好得多."
+    },
+    {
+      "en": "The reaction occurs mainly on the interface between the two reacting phases.",
+      "cn": "反应主要发生在两反应相之间的交界面上."
+    },
+    {
+      "en": "The system uses an impressive graphical interface.",
+      "cn": "这一系统采用了特别好的图形界面。"
+    },
+    {
+      "en": "This is one of the most frequently violated principles in user - interface design.",
+      "cn": "在用户界面设计中,这是人们违反得最多的原则之一."
+    },
+    {
+      "en": "This program has perspicuous interface and extensive application.",
+      "cn": "该程序界面明了，适用范围广。"
+    },
+    {
+      "en": "We will concentrate here on the direct interface to a television - type display.",
+      "cn": "下面我们将集中探讨对电视型显示器的直接接口."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interfacial",
+          "tran_cn": " 界面的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "limiting surface",
+            "boundary surface"
+          ],
+          "tran_cn": "[力][自][地物]界面；[通信][计]接口；[物化]接触面"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bus interface",
+      "tran_cn": "总线接口；汇流排介面"
+    },
+    {
+      "phrase": "communication interface",
+      "tran_cn": "通信接口"
+    },
+    {
+      "phrase": "control interface",
+      "tran_cn": "控制接口"
+    },
+    {
+      "phrase": "data interface",
+      "tran_cn": "数据接口；数据界面"
+    },
+    {
+      "phrase": "graphical user interface",
+      "tran_cn": "图形用户界面"
+    },
+    {
+      "phrase": "hardware interface",
+      "tran_cn": "[计]硬件接口"
+    },
+    {
+      "phrase": "human-computer interface",
+      "tran_cn": "人机界面；人机接口"
+    },
+    {
+      "phrase": "interface card",
+      "tran_cn": "接口卡；介面卡"
+    },
+    {
+      "phrase": "interface circuit",
+      "tran_cn": "接口电路"
+    },
+    {
+      "phrase": "interface layer",
+      "tran_cn": "接口层，中间层；界面层"
+    },
+    {
+      "phrase": "interface module",
+      "tran_cn": "接口模块"
+    },
+    {
+      "phrase": "interface software",
+      "tran_cn": "接口软件，界面工具"
+    },
+    {
+      "phrase": "interface structure",
+      "tran_cn": "界面结构；接口结构"
+    },
+    {
+      "phrase": "man-machine interface",
+      "tran_cn": "人机接口；人机联系装置；人机联系"
+    },
+    {
+      "phrase": "network interface",
+      "tran_cn": "网络接口；网络界面"
+    },
+    {
+      "phrase": "output interface",
+      "tran_cn": "输出接口；輸出界面；输出介面"
+    },
+    {
+      "phrase": "serial interface",
+      "tran_cn": "[计]串联接口"
+    },
+    {
+      "phrase": "software interface",
+      "tran_cn": "软件接口"
+    },
+    {
+      "phrase": "standard interface",
+      "tran_cn": "标准接口"
+    },
+    {
+      "phrase": "user interface",
+      "tran_cn": "用户界面"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "界面，<计>接口，交界面",
+      "tran_en": "the way in which you see the information from a computer program on a screen, or how you type information into the program"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（使通过界面或接口）接合，连接，[计算机]使联系",
+      "tran_en": "if you interface two parts of a computer system, or if they interface, you connect them"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "相互作用（或影响），交流，交谈"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interfaces"
+    ],
+    "third": [
+      "interfaces"
+    ],
+    "past": [
+      "interfaced"
+    ],
+    "done": [
+      "interfaced"
+    ],
+    "ing": [
+      "interfacing"
+    ]
+  }
+}

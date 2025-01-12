@@ -1,0 +1,171 @@
+{
+  "word": "scanner",
+  "ipa": {
+    "us": "ˈskænə(r)",
+    "uk": "ˈskænɚ"
+  },
+  "sentences": [
+    {
+      "en": "a high-tech body scanner",
+      "cn": "高科技人体扫描仪"
+    },
+    {
+      "en": "A novel laser confocal biochip scanner was given in this paper.",
+      "cn": "本文提出了一种新颖的激光共焦生物芯片扫描仪."
+    },
+    {
+      "en": "But first they have to decode the scanner's algorithm.",
+      "cn": "但是他们首先要破解感应器的运算规则."
+    },
+    {
+      "en": "Import your scanned images from the scanner and save as a JPG file.",
+      "cn": "从扫描仪导入扫描后的图像，并保存为JPG文件。"
+    },
+    {
+      "en": "Power Switch: Use this to turn the scanner ON or OFF.",
+      "cn": "扫描仪电源开关: 使用这个开关来开启或关闭此扫描仪的电源."
+    },
+    {
+      "en": "The identity cards are examined by an electronic scanner.",
+      "cn": "用电子扫描器来检验身份证。"
+    },
+    {
+      "en": "The image - dissector scanner is another heavily used and very successful low light level detector.",
+      "cn": "析象管扫描器是另一种常用而且很成功的微光探测器."
+    },
+    {
+      "en": "The invisible infrared spectrum is also sensed by the multispectral scanner.",
+      "cn": "看不见的红外光谱也能被多光谱扫描器辨出."
+    },
+    {
+      "en": "The New 3 D Optical Desktop Scanner affordable for all!",
+      "cn": "新的三维光学扫描仪桌面就是要让所有人都买得起!"
+    },
+    {
+      "en": "The scanner calibration variables including brightness , contrast, gamma value, the white balance.",
+      "cn": "扫描仪需订正的不恒度次要包罗亮度 、 差比度(伽马值) 、 不黑不均."
+    },
+    {
+      "en": "The scanner is sometimes called a lexical analyzer.",
+      "cn": "扫描程序有时又把它称为词法分析程序."
+    },
+    {
+      "en": "The scanner will save risk and pain for patients.",
+      "cn": "扫描仪将使病人免遭风险和痛苦。"
+    },
+    {
+      "en": "The syntax analyzer calls the scanner when it needs a new symbol.",
+      "cn": "当语法分析程序需要新符号时,它就调用扫描过程."
+    },
+    {
+      "en": "Using a scanner, we can look at the unborn foetus.",
+      "cn": "我们用扫描器可以观察未出生的胎儿."
+    },
+    {
+      "en": "We will fix the laser scanner on the engraving machine.",
+      "cn": "将激光扫描测头安装在雕刻机上."
+    },
+    {
+      "en": "You should know the significance to the scanner.",
+      "cn": "你应该知道垂向扫描器的意义."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "scanning",
+          "tran_cn": " 扫描的；观测的；搜索的；扫掠的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "scan",
+          "tran_cn": " 扫描；浏览；审视；细看"
+        },
+        {
+          "word": "scanning",
+          "tran_cn": " 扫描；搜索，观测；扫掠"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "scanning",
+          "tran_cn": " 扫描（scan的现在分词）；浏览"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "scan",
+          "tran_cn": " 扫描；扫掠"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "scan",
+          "tran_cn": " 扫描；浏览；细看；详细调查；标出格律"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "scanning equipment"
+          ],
+          "tran_cn": "[计][电子]扫描仪；扫描器；光电子扫描装置"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "barcode scanner",
+      "tran_cn": "条形码扫描器"
+    },
+    {
+      "phrase": "ct scanner",
+      "tran_cn": "电脑断层扫描机（等于CAT scanner）"
+    },
+    {
+      "phrase": "image scanner",
+      "tran_cn": "图像扫描器"
+    },
+    {
+      "phrase": "laser scanner",
+      "tran_cn": "激光扫描仪"
+    },
+    {
+      "phrase": "optical scanner",
+      "tran_cn": "光扫描器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "扫描器，扫描设备，检测装置，细查者",
+      "tran_en": "a machine that passes an electrical beam over something in order to produce a picture of what is inside it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "scanners"
+    ]
+  }
+}

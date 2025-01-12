@@ -1,0 +1,99 @@
+{
+  "word": "numerate",
+  "ipa": {
+    "us": "'nju:mərət",
+    "uk": "ˈnuməˌret, ˈnju-"
+  },
+  "sentences": [
+    {
+      "en": "Business graduates must also be numerate, because most degrees will have courses in quantitative methods and statistics.",
+      "cn": "商科专业大学毕业生也必须具备良好的数学能力, 因为大部分学位涉及定量研究法和统计学领域课程."
+    },
+    {
+      "en": "This method is easier to numerate implementation than the traditional time domain method of moment.",
+      "cn": "与传统求解时域电场积分方程的时域矩量法相比,该方法易于数值实现."
+    },
+    {
+      "en": "We look for applicants who are numerate, computer-literate and energetic self-starters.",
+      "cn": "我们对求职者的要求是具备运算能力，熟练使用电脑，精力充沛而且工作积极主动。"
+    },
+    {
+      "en": "Where children respect a parent and know that he or she demands good behavior in school, even mediocre or loutish teachers can pull off the trick④of producing modestly literate and numerate children.",
+      "cn": "如果孩子尊重父母，并且知道父母要求自己好好上学，即便是平庸的或是很笨的老师也能够成功地教出一般水平的能读会算的小学生。"
+    },
+    {
+      "en": "Your children should be literate and numerate.",
+      "cn": "你的孩子应该会识字算数。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "numerable",
+          "tran_cn": " 可计数的；可计算的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "numeracy",
+          "tran_cn": " 计算能力，识数"
+        },
+        {
+          "word": "numeration",
+          "tran_cn": " 计算；数字的读法；[数] 命数法；编号"
+        },
+        {
+          "word": "numerator",
+          "tran_cn": " 分子；计算者；计算器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "specify",
+            "enumerate"
+          ],
+          "tran_cn": "[数]数，列举；读（数）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "识数的，有计算能力的"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "数，列举，数，列举"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "numerates"
+    ],
+    "past": [
+      "numerated"
+    ],
+    "done": [
+      "numerated"
+    ],
+    "ing": [
+      "numerating"
+    ],
+    "noun": [
+      "numeracy"
+    ]
+  }
+}

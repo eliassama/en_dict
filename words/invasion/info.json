@@ -1,0 +1,203 @@
+{
+  "word": "invasion",
+  "ipa": {
+    "us": "ɪnˈveɪʒn",
+    "uk": "ɪnˈveɪʒn"
+  },
+  "sentences": [
+    {
+      "en": "...seven years after the Roman invasion of Britain.",
+      "cn": "…罗马人入侵大不列颠岛之后的7年。"
+    },
+    {
+      "en": "an impermissible invasion of privacy",
+      "cn": "对个人隐私的非法侵犯"
+    },
+    {
+      "en": "He leaned towards her and she stiffened at this invasion of her personal space.",
+      "cn": "他向她俯过身去，这种侵犯她个人空间的举动让她绷紧了身子。"
+    },
+    {
+      "en": "I felt my body involuntarily stiffen against her invasion of my personal space.",
+      "cn": "随着她不断侵入我的个人空间，我感觉全身都不由自主地紧绷起来。"
+    },
+    {
+      "en": "Seaside resorts such as Blackpool and Brighton are preparing for a tourist invasion.",
+      "cn": "像布莱克浦与布赖顿这样的海滨胜地正为游客的大批涌入做准备。"
+    },
+    {
+      "en": "the annual invasion of teenagers for the Glastonbury Festival",
+      "cn": "每年前来参加格拉斯顿伯里音乐节的青少年的涌入"
+    },
+    {
+      "en": "the German invasion of Poland in 1939",
+      "cn": "德国于1939年对波兰的侵略"
+    },
+    {
+      "en": "the imminent threat of invasion",
+      "cn": "迫在眉睫的入侵威胁"
+    },
+    {
+      "en": "the invasion of Normandy",
+      "cn": "对诺曼底的入侵"
+    },
+    {
+      "en": "The invasion of tourists brought life to the summer resort.",
+      "cn": "大批游客涌入,使这个避暑胜地热闹起来."
+    },
+    {
+      "en": "The invasion was held up by unexpectedly stout resistance.",
+      "cn": "入侵行动因遭遇到了出乎意料的顽强抵抗而受阻。"
+    },
+    {
+      "en": "The secrecy and swiftness of the invasion shocked and amazed army officers.",
+      "cn": "这次入侵的隐秘和迅速令陆军军官们大为震惊。"
+    },
+    {
+      "en": "There was a peaceful pitch invasion after Milan's eighth goal.",
+      "cn": "米兰队攻入第八粒进球后，观众有序地涌进球场。"
+    },
+    {
+      "en": "They all trembled at the prospect of an enemy invasion.",
+      "cn": "他们想到敌人可能入侵都不寒而栗."
+    },
+    {
+      "en": "They are ready against the possible invasion.",
+      "cn": "他们防备可能的入侵."
+    },
+    {
+      "en": "They received intelligence of an impending invasion.",
+      "cn": "他们收到消息,说侵略就在眼前."
+    },
+    {
+      "en": "This invasion is tantamount to a declaration of war.",
+      "cn": "这次侵略就相当于宣战."
+    },
+    {
+      "en": "This was a shocking invasion of privacy.",
+      "cn": "这是对隐私的公然侵犯。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "invasive",
+          "tran_cn": " 侵略性的；攻击性的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "invader",
+          "tran_cn": " 侵略者；侵入物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "invade",
+          "tran_cn": " 侵略；侵入；侵袭；侵犯"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "invade",
+          "tran_cn": " 侵略；侵袭；侵扰；涌入"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "breach",
+            "encroachment",
+            "incursion",
+            "infiltration",
+            "infraction",
+            "infringement",
+            "inroad",
+            "intrusion",
+            "transgression",
+            "trespass",
+            "violation"
+          ],
+          "tran_cn": "侵犯,干预"
+        },
+        {
+          "words": [
+            "aggression",
+            "assailment",
+            "assault",
+            "attack",
+            "blitz",
+            "blitzkrieg",
+            "foray",
+            "frontier",
+            "hostile",
+            "ingress",
+            "irruption",
+            "offensive",
+            "onslaught",
+            "raid",
+            "storm",
+            "strike",
+            "violation"
+          ],
+          "tran_cn": "侵略,入侵"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "descent",
+            "entrenchment",
+            "offense"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "invasion depth",
+      "tran_cn": "侵入深度"
+    },
+    {
+      "phrase": "invasion of privacy",
+      "tran_cn": "侵犯个人隐私；侵犯隐私权"
+    },
+    {
+      "phrase": "water invasion",
+      "tran_cn": "水侵"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "入侵，侵略，侵害，侵犯，侵袭，[医]发病",
+      "tran_en": "when the army of one country enters another country by force, in order to take control of it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "invasions"
+    ]
+  }
+}

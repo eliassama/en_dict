@@ -1,0 +1,187 @@
+{
+  "word": "skate",
+  "ipa": {
+    "us": "skeɪt",
+    "uk": "skeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Boats had plenty of mackerel and a few skate.",
+      "cn": "那些船上有许多鲭鱼，还有几条鳐鱼。"
+    },
+    {
+      "en": "Don't skateboard or roller skate on the road..",
+      "cn": "不要在路上玩滑板或溜冰."
+    },
+    {
+      "en": "He always tries to skate over difficulties.",
+      "cn": "他总是试图把困难一语带过."
+    },
+    {
+      "en": "He is learning how to skate.",
+      "cn": "他正在学滑冰."
+    },
+    {
+      "en": "He taught her how to skate.",
+      "cn": "他教她怎样滑冰."
+    },
+    {
+      "en": "I m learning to skate on real ice!",
+      "cn": "我正在真冰上学溜冰."
+    },
+    {
+      "en": "In less than an hour Andy's skate had turned to an icy yacht.",
+      "cn": "不出一小时,安迪的微醺变成了酩酊大醉."
+    },
+    {
+      "en": "Interest in the skate board tailed off.",
+      "cn": "人们对滑冰板的兴趣渐渐小了."
+    },
+    {
+      "en": "It took him only three days to learn to skate.",
+      "cn": "他三天功夫就学会了滑冰."
+    },
+    {
+      "en": "Scientists have tended to skate over the difficulties of explaining dreams.",
+      "cn": "科学家们往往回避释梦的难题。"
+    },
+    {
+      "en": "The children skated on the frozen pond.",
+      "cn": "孩子们在结冰的池塘上滑冰。"
+    },
+    {
+      "en": "The ice is hard enough to skate on.",
+      "cn": "冰层已够坚厚,可以滑冰."
+    },
+    {
+      "en": "The ice is not strong enough to skate upon.",
+      "cn": "冰太薄不可在上面滑冰."
+    },
+    {
+      "en": "They prefer to skate around the issue of sex discrimination.",
+      "cn": "他们不愿多触及性别歧视的问题."
+    },
+    {
+      "en": "They were picked to skate against the visiting team.",
+      "cn": "他们被选出来与客队比赛溜冰."
+    },
+    {
+      "en": "When I skate, I'm fearful of the sparkling ice.",
+      "cn": "我滑冰的时候很怕那闪亮的冰."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "skateboard",
+          "tran_cn": " 溜冰板"
+        },
+        {
+          "word": "skateboarder",
+          "tran_cn": " 滑溜冰板的人；滑板运动员"
+        },
+        {
+          "word": "skater",
+          "tran_cn": " 溜冰者"
+        },
+        {
+          "word": "skating",
+          "tran_cn": " 溜冰，滑冰"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "skating",
+          "tran_cn": " 滑冰（skate的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "skateboard",
+          "tran_cn": " 用滑板滑行"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "ice-skating"
+          ],
+          "tran_cn": "溜冰；冰鞋"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "ice skating",
+            "ice-skate"
+          ],
+          "tran_cn": "滑冰；滑过"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get one's skates on",
+      "tran_cn": "(英，非正式)赶紧；快点"
+    },
+    {
+      "phrase": "ice skate",
+      "tran_cn": "溜冰鞋；溜冰"
+    },
+    {
+      "phrase": "roller skate",
+      "tran_cn": "四轮滑冰鞋；轮式溜冰鞋"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "溜冰鞋，鳐鱼",
+      "tran_en": "one of a pair of boots with metal blades on the bottom, for moving quickly on ice"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "滑冰，",
+      "tran_en": "to move on skates"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 溜冰， 滑冰",
+      "tran_en": "to move on skates"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "skates"
+    ],
+    "third": [
+      "skates"
+    ],
+    "past": [
+      "skated"
+    ],
+    "done": [
+      "skated"
+    ],
+    "ing": [
+      "skating"
+    ]
+  }
+}

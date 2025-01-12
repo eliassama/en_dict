@@ -1,0 +1,161 @@
+{
+  "word": "revoke",
+  "ipa": {
+    "us": "rɪˈvəʊk",
+    "uk": "rɪˈvoʊk"
+  },
+  "sentences": [
+    {
+      "en": "A testator may revoke or alter a will he previously made.",
+      "cn": "遗嘱人可以撤销、变更自己所立的遗嘱."
+    },
+    {
+      "en": "An election agent may only revoke the appointment of a polling agent on a counting agent.",
+      "cn": "选举代理人只可撤销监察投票代理人及监察点票代理人的委任."
+    },
+    {
+      "en": "Candidate may revoke the appointment of any type of agent at any time.",
+      "cn": "候选人可撤销任何类别的代理人的委任."
+    },
+    {
+      "en": "Cannot grant, deny or revoke permissions to or from special roles.",
+      "cn": "无法对特殊角色授予 、 拒绝或废除权限."
+    },
+    {
+      "en": "Could not revoke login access from'% s '.",
+      "cn": "未能废除'' %1 !''的登录访问权."
+    },
+    {
+      "en": "Do not allow anyone to revoke my enterprise server licensor certificate.",
+      "cn": "不允许任何人吊销我的企业服务器许可方证书."
+    },
+    {
+      "en": "If we have a repeat of this situation , I will revoke your probation.",
+      "cn": "如果继续这样的话, 我会撤销你的缓刑."
+    },
+    {
+      "en": "Q 12. Can I apply to revoke another person Registered Design?",
+      "cn": "我可以申请撤销他人已注册的外观设计 吗 ?"
+    },
+    {
+      "en": "Remarriage would revoke all previous wills.",
+      "cn": "再婚会使原有的一切遗嘱失效."
+    },
+    {
+      "en": "Revoke resolutions reached at legal meetings.",
+      "cn": "一撤销法定会议之决议."
+    },
+    {
+      "en": "The intention to revoke a will.",
+      "cn": "将遗嘱取消的打算."
+    },
+    {
+      "en": "The temporary suspension period, investors can continue to declare, you can also revoke declaration.",
+      "cn": "临时停牌期间, 投资者可以继续申报, 也可以撤销申报."
+    },
+    {
+      "en": "The university may revoke my diploma.",
+      "cn": "大学可能吊销我的毕业证书."
+    },
+    {
+      "en": "Their work permits have been revoked.",
+      "cn": "他们的工作许可证被吊销了。"
+    },
+    {
+      "en": "We hereby revoke the agreement of January 1 st 1982.",
+      "cn": "我们特此宣告1982年1月1日的协议无效."
+    },
+    {
+      "en": "We hereby revoke the agreement of May 8, 2004.",
+      "cn": "我方特此宣告于2004年5月8日签订的合同无效."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "revokable",
+          "tran_cn": " 可取消的，可废止的；可撤回的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abolish",
+            "annul",
+            "cancel",
+            "invalidate",
+            "overrule",
+            "recall",
+            "repeal",
+            "rescind",
+            "retract",
+            "withdraw"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abolish",
+            "annul",
+            "cancel",
+            "invalidate",
+            "overrule",
+            "recall",
+            "repeal",
+            "rescind",
+            "retract",
+            "withdraw"
+          ],
+          "tran_cn": "撤回;作废"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "有牌不跟"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "撤回, 废除, 宣告无效",
+      "tran_en": "to officially state that a law, decision, or agreement is no longer effective"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "有牌不跟"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "撤销，取消，废除",
+      "tran_en": "to officially state that a law, decision, or agreement is no longer effective"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "revokes"
+    ],
+    "past": [
+      "revoked"
+    ],
+    "done": [
+      "revoked"
+    ],
+    "ing": [
+      "revoking"
+    ]
+  }
+}

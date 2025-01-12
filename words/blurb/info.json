@@ -1,0 +1,80 @@
+{
+  "word": "blurb",
+  "ipa": {
+    "us": "blɜ:b",
+    "uk": "blɜrb"
+  },
+  "sentences": [
+    {
+      "en": "He gets a kick out of reading the blurb on cereal boxes.",
+      "cn": "他以读谷类食品包装盒上的广告为乐."
+    },
+    {
+      "en": "I could image the blurb he would have already written about her powers of observation.",
+      "cn": "我可以想象他本该用来描述她细腻观察力的夸张词语."
+    },
+    {
+      "en": "In the blurb I couldn't see anything about thinking at all.",
+      "cn": "在这本书的简介中，我根本找不到任何有关思想的东西。"
+    },
+    {
+      "en": "This book fails to give what the blurb describes.",
+      "cn": "这本书不像该书护封上所描绘的那样好."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "hype",
+            "ballyhoo"
+          ],
+          "tran_cn": "大肆宣传；吹捧性广告；商品信息"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "advertisement",
+            "commercial",
+            "promote"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "aggrandize"
+          ],
+          "tran_cn": "夸大；大肆宣传"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（尤指印在书籍等护封上的）简介，推荐广告"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "夸大；大肆宣传"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "blurbs"
+    ]
+  }
+}

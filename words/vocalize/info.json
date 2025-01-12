@@ -1,0 +1,176 @@
+{
+  "word": "vocalize",
+  "ipa": {
+    "us": "ˈvəʊkəlaɪz",
+    "uk": "ˈvoʊkəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Archbishop Hunthausen also vocalized his beliefs that women and homosexuals should be more active in the church.",
+      "cn": "大主教亨特豪森也阐述了他的想法：妇女和同性恋者应更积极地参与教堂事务。"
+    },
+    {
+      "en": "Babies can't vocalize their emotions, but you can judge from their facial expression and behaviors.",
+      "cn": "婴儿无法说出自己的感情, 但是你可以从他们的面部表情和行为判断出他们的意思."
+    },
+    {
+      "en": "He tried to vocalize his feelings.",
+      "cn": "他力图说出他的感受."
+    },
+    {
+      "en": "Please allow me to vocalize as desired during labor and birth without comment or criticism.",
+      "cn": "在待产和生产的过程中允我发声,请不要给我任何建议或者是批评."
+    },
+    {
+      "en": "Showing children pictures sometimes helps them to vocalize their ideas.",
+      "cn": "让儿童看图画有时有助于他们用言语表达思想。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vocal",
+          "tran_cn": " 歌唱的；声音的，有声的"
+        },
+        {
+          "word": "vocalic",
+          "tran_cn": " 元音的；含元音的；元音性的"
+        },
+        {
+          "word": "vociferous",
+          "tran_cn": " 大声叫的；喊叫的，喧嚷的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "vocally",
+          "tran_cn": " 用声音；口头地"
+        },
+        {
+          "word": "vociferously",
+          "tran_cn": " 喊叫地；吵闹地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vocal",
+          "tran_cn": " 声乐作品；元音"
+        },
+        {
+          "word": "vocalisation",
+          "tran_cn": " 发声；元音化（等于vocalization）"
+        },
+        {
+          "word": "vocalism",
+          "tran_cn": " 发声法；元音系统"
+        },
+        {
+          "word": "vocalist",
+          "tran_cn": " 歌手；声乐家"
+        },
+        {
+          "word": "vocalization",
+          "tran_cn": " 发声，发音；发声法"
+        },
+        {
+          "word": "vociferator",
+          "tran_cn": " 喊叫者；大声叫的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "vocalise",
+          "tran_cn": " 练声（等于vocalize）"
+        },
+        {
+          "word": "vociferate",
+          "tran_cn": " 大声呼叫"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vocalise",
+          "tran_cn": " 发声；使元音化"
+        },
+        {
+          "word": "vociferate",
+          "tran_cn": " 喊叫；大叫"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "croon",
+            "mouth",
+            "sing"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "sound production",
+            "phonate"
+          ],
+          "tran_cn": "发声；喊叫"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "sound"
+          ],
+          "tran_cn": "使发成元音；使发声"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "成为有声",
+      "tran_en": "to make a sound or sounds with your voice"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "vocalizes"
+    ],
+    "past": [
+      "vocalized"
+    ],
+    "done": [
+      "vocalized"
+    ],
+    "ing": [
+      "vocalizing"
+    ]
+  }
+}

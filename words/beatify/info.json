@@ -1,0 +1,75 @@
+{
+  "word": "beatify",
+  "ipa": {
+    "us": "biˈætɪfaɪ",
+    "uk": "biˈætəˌfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "In May, Pope John Paul is to beatify Gianna Beretta.",
+      "cn": "5月，教皇约翰·保罗将为吉安娜·贝雷塔行宣福礼。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "beatific",
+          "tran_cn": " 幸福的；祝福的；快乐的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "beatification",
+          "tran_cn": " 受福；列福式；（天主教）宣福礼"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "consecrate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "行宣福礼；使享福",
+      "tran_en": "if the Pope beatifies someone, he says officially that they are a holy or special person"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "宣布…已升入“真福品位”，赐福"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "beatifies"
+    ],
+    "past": [
+      "beatified"
+    ],
+    "done": [
+      "beatified"
+    ],
+    "ing": [
+      "beatifying"
+    ],
+    "noun": [
+      "beatification"
+    ]
+  }
+}

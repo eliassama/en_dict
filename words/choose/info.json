@@ -1,0 +1,203 @@
+{
+  "word": "choose",
+  "ipa": {
+    "us": "tʃuːz",
+    "uk": "tʃuːz"
+  },
+  "sentences": [
+    {
+      "en": "A panel of judges will choose the winner.",
+      "cn": "会由一个评判小组选出冠军。"
+    },
+    {
+      "en": "Choose a soft, medium or firm mattress to suit their individual needs.",
+      "cn": "针对他们各人不同的需要挑选柔软、软硬适中或者坚硬的床垫。"
+    },
+    {
+      "en": "Choose shades which tone in with your natural colouring.",
+      "cn": "选择与你本身的肤色相衬的颜色。"
+    },
+    {
+      "en": "For added protection choose a lipstick with a sun screen.",
+      "cn": "选择防晒护唇膏来增强保护。"
+    },
+    {
+      "en": "He chose his words carefully as he spoke.",
+      "cn": "他说话时字斟句酌。"
+    },
+    {
+      "en": "I don’t mind which one we have – you choose.",
+      "cn": "我们要哪一个我无所谓，你来挑吧。"
+    },
+    {
+      "en": "It is always best to choose organically grown foods if possible.",
+      "cn": "如果可能，最好还是挑选有机食品。"
+    },
+    {
+      "en": "It is always important to choose enjoyable, nutritious foods.",
+      "cn": "选择好吃的、营养价值高的食物总是很重要。"
+    },
+    {
+      "en": "It took us ages to choose a new carpet.",
+      "cn": "我们挑选新地毯花了很长时间。"
+    },
+    {
+      "en": "Knox had taken it on himself to choose the wine.",
+      "cn": "诺克斯擅自作主，选了葡萄酒。"
+    },
+    {
+      "en": "Lathan had to choose between marrying her and keeping his job.",
+      "cn": "莱森不得不在娶她和保住工作之间作出选择。"
+    },
+    {
+      "en": "The default is usually the setting that most users would probably choose.",
+      "cn": "默认选项通常是大多数用户都会选择的设置。"
+    },
+    {
+      "en": "There is very little to choose between the world's top tennis players.",
+      "cn": "世界顶级网球运动员之间往往难分伯仲。"
+    },
+    {
+      "en": "They can transfer or share the contract with whosoever they choose.",
+      "cn": "他们可以与他们选择的任何人交换或分享这份合约。"
+    },
+    {
+      "en": "They must choose between two evenly matched candidates for governor.",
+      "cn": "他们必须在两位不相上下的州长候选人之间作出选择。"
+    },
+    {
+      "en": "We, the patients, cannot pick and choose our doctors.",
+      "cn": "我们患者不能对医生挑挑拣拣。"
+    },
+    {
+      "en": "Why did he choose these pale, nerveless, uninteresting people?",
+      "cn": "他为什么选了这么些脸色苍白、有气无力而又无聊乏味的人？"
+    },
+    {
+      "en": "Without adequate information, many students choose a college almost blindly.",
+      "cn": "因为缺少足够的信息，许多学生都是近乎盲目地选择大学。"
+    },
+    {
+      "en": "You can just take out the interest each year, if you choose.",
+      "cn": "你要是愿意，每年可以仅支取利息。"
+    },
+    {
+      "en": "You can, if you choose, invest in the stock market.",
+      "cn": "如果你愿意，可以投资股票市场。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "chooser",
+          "tran_cn": " 选择器；选举人；选择者；投票者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adopt",
+            "appoint",
+            "assign",
+            "cull",
+            "determine",
+            "please",
+            "single",
+            "specify",
+            "take"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "opt for",
+            "to make a choice"
+          ],
+          "tran_cn": "选择，挑选"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "elect",
+            "pick",
+            "prefer",
+            "select"
+          ],
+          "tran_cn": "选择;选举;宁愿"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "as you choose",
+      "tran_cn": "随你的便"
+    },
+    {
+      "phrase": "cannot choose but",
+      "tran_cn": "只得；只好；不得不"
+    },
+    {
+      "phrase": "cannot choose but do something",
+      "tran_cn": "(正式)别无选择只得做（某事）"
+    },
+    {
+      "phrase": "choose from",
+      "tran_cn": "挑选，从…中选择"
+    },
+    {
+      "phrase": "choose to do",
+      "tran_cn": "选择去做某事"
+    },
+    {
+      "phrase": "choose up",
+      "tran_cn": "选球员组队：在棒球或软式棒球等运动中挑选队员组成两方或两队"
+    },
+    {
+      "phrase": "there is little (或 nothing) to choose between",
+      "tran_cn": "…之间区别不大（或无区别）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "选择，决定，甘愿",
+      "tran_en": "to decide which one of a number of things or people you want"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 挑选， 选择； 选定； 愿意",
+      "tran_en": "to decide which one of a number of things or people you want"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "chooses"
+    ],
+    "past": [
+      "chose"
+    ],
+    "done": [
+      "chosen"
+    ],
+    "ing": [
+      "choosing"
+    ]
+  }
+}

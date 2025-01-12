@@ -1,0 +1,244 @@
+{
+  "word": "invitation",
+  "ipa": {
+    "us": "ˌɪnvɪˈteɪʃn",
+    "uk": "ˌɪnvɪˈteɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "\"I can't pass this up.\" She waved the invitation.",
+      "cn": "“我不能错过这个机会，”她挥舞着请帖说。"
+    },
+    {
+      "en": "an invitation to speak at a scientific conference",
+      "cn": "在科学大会上发言的邀请"
+    },
+    {
+      "en": "an invitation to speak at a scientific conference.",
+      "cn": "在科学大会上发言的邀请"
+    },
+    {
+      "en": "Eliza accepted Charles' invitation to a house party.",
+      "cn": "伊丽莎接受了查尔斯发出的参加家庭晚会的邀请。"
+    },
+    {
+      "en": "Elizabeth had a standing invitation to stay with her.",
+      "cn": "伊丽莎白受到邀请，可以随时去她家住。"
+    },
+    {
+      "en": "Entry to this competition is by invitation only.",
+      "cn": "只有受邀请才能参加本次竞赛。"
+    },
+    {
+      "en": "Eve spurned Mark's invitation.",
+      "cn": "伊夫一口回绝了马克的邀请。"
+    },
+    {
+      "en": "I deem it an honour to accept your invitation.",
+      "cn": "承蒙您的邀请,我觉得很荣幸."
+    },
+    {
+      "en": "It was kind of you to extend an invitation to us.",
+      "cn": "感谢你对我们的邀请."
+    },
+    {
+      "en": "It would be ungracious not to accept your invitation.",
+      "cn": "盛情难却."
+    },
+    {
+      "en": "It'stands to reason that I should accept her invitation.",
+      "cn": "按照常情,我应该接受她的邀请."
+    },
+    {
+      "en": "Much to my regret, I am unable to accept your kind invitation.",
+      "cn": "不能接受您的盛情邀请,深为抱歉."
+    },
+    {
+      "en": "Much to my regret, I refused to accept your kind invitation.",
+      "cn": "(当时)拒绝您的盛情邀请, 深感后悔."
+    },
+    {
+      "en": "Much to my regret, I'm unable to accept your kind invitation.",
+      "cn": "我不能接受你盛情的邀请,非常遗憾."
+    },
+    {
+      "en": "She had wangled an invitation to the opening night.",
+      "cn": "她弄到了一张首映之夜的请柬。"
+    },
+    {
+      "en": "She refused his invitation to the tea party.",
+      "cn": "他请她参加茶会，她拒绝了他的邀请。"
+    },
+    {
+      "en": "The invitation had caught me off guard.",
+      "cn": "收到这份邀请让我颇感意外。"
+    },
+    {
+      "en": "They were always dropping by, usually without invitation.",
+      "cn": "他们常常来串门，通常不请自来。"
+    },
+    {
+      "en": "They were persuaded that we would accept the invitation.",
+      "cn": "他们相信我们会接受邀请."
+    },
+    {
+      "en": "We sent out more than 300 wedding invitations.",
+      "cn": "我们发出了超过300份婚礼请柬。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "invitational",
+          "tran_cn": " 邀请的"
+        },
+        {
+          "word": "invitatory",
+          "tran_cn": " 邀请的"
+        },
+        {
+          "word": "inviting",
+          "tran_cn": " 诱人的；有魅力的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "invitational",
+          "tran_cn": " 四人两球赛"
+        },
+        {
+          "word": "invitatory",
+          "tran_cn": " 请祈祷的赞美诗；宣召"
+        },
+        {
+          "word": "invite",
+          "tran_cn": " 邀请"
+        },
+        {
+          "word": "invitee",
+          "tran_cn": " 被邀请者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "inviting",
+          "tran_cn": " 邀请（invite的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "invite",
+          "tran_cn": " 邀请，招待；招致"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "call",
+            "challenge",
+            "summons"
+          ],
+          "tran_cn": "召唤"
+        },
+        {
+          "words": [
+            "allurement",
+            "attraction",
+            "bait",
+            "draw",
+            "enticement",
+            "flirtation",
+            "hint",
+            "lure",
+            "magnetism",
+            "offer",
+            "overture",
+            "proffer",
+            "suggestion",
+            "tantalization",
+            "temptation",
+            "tender"
+          ],
+          "tran_cn": "吸引,诱惑,暗示"
+        },
+        {
+          "words": [
+            "adjuration",
+            "appeal",
+            "application",
+            "bidding",
+            "entreaty",
+            "imploration",
+            "invite",
+            "invocation",
+            "obtestation",
+            "petition",
+            "plea",
+            "request",
+            "solicitation",
+            "supplication"
+          ],
+          "tran_cn": "要求,请求,邀请"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by invitation",
+      "tran_cn": "凭请柬"
+    },
+    {
+      "phrase": "formal invitation",
+      "tran_cn": "正式请柬；正式邀请函"
+    },
+    {
+      "phrase": "invitation card",
+      "tran_cn": "请帖；招待券"
+    },
+    {
+      "phrase": "invitation for bid",
+      "tran_cn": "招标"
+    },
+    {
+      "phrase": "invitation letter",
+      "tran_cn": "邀请函"
+    },
+    {
+      "phrase": "invitation to bid",
+      "tran_cn": "[经]招标；投标邀请书"
+    },
+    {
+      "phrase": "invitation to tender",
+      "tran_cn": "招标"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "邀请，请帖，诱因，怂恿",
+      "tran_en": "a written or spoken request to someone, inviting them to go somewhere or do something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "invitations"
+    ]
+  }
+}

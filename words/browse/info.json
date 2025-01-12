@@ -1,0 +1,196 @@
+{
+  "word": "browse",
+  "ipa": {
+    "us": "braʊz",
+    "uk": "braʊz"
+  },
+  "sentences": [
+    {
+      "en": "...a browse around the shops.",
+      "cn": "…在商店的一番闲逛。"
+    },
+    {
+      "en": "a feature that allows you to browse your hard drive and choose the graphic you want to display",
+      "cn": "让你可以浏览硬盘驱动器选择自己想要显示的图像的一个功能"
+    },
+    {
+      "en": "Browse mode is invalid for subqueries and derived tables.",
+      "cn": "对于子查询和派生表,浏览模式无效."
+    },
+    {
+      "en": "Browse the list below to find our more and choose your favorites!",
+      "cn": "浏览下面的列表中找到我们的更多,并选择您的最爱!"
+    },
+    {
+      "en": "Camels browse on trees as well as on ground cover.",
+      "cn": "骆驼既吃地被植物也吃树的枝叶."
+    },
+    {
+      "en": "He likes to browse through magazines in the library.",
+      "cn": "他喜欢在图书馆浏览杂志."
+    },
+    {
+      "en": "I had a browse through the books on her shelf.",
+      "cn": "我浏览了一下她书架上的书."
+    },
+    {
+      "en": "I stopped in several bookstores to browse.",
+      "cn": "我曾在几家书店停留，翻看里面的书。"
+    },
+    {
+      "en": "It is a good idea to browse through it first.",
+      "cn": "最好先通篇浏览一遍."
+    },
+    {
+      "en": "Let's go in. I like to browse in interesting stores.",
+      "cn": "我们进去看看吧. 我喜欢在有意思的商场里浏览、逛游."
+    },
+    {
+      "en": "Q: Why can't I browse some people's file list?",
+      "cn": "问: 为什么我不能浏览某些用户的文件目录?"
+    },
+    {
+      "en": "Select Browse Definition to view external components in the Object Browser.",
+      "cn": "选择“浏览定义”可在“对象浏览器”中查看外部组件."
+    },
+    {
+      "en": "Show the top overlay and select Browse Guide from the navigation menu.",
+      "cn": "资料显示最常见覆盖,并选择浏览指南从导航菜单中."
+    },
+    {
+      "en": "There are plenty of biographies for him to browse over.",
+      "cn": "有大量传记供他浏览。"
+    },
+    {
+      "en": "These cattle can browse as well as others on grass.",
+      "cn": "这些牛和其它牛类一样,能咬食杂草."
+    },
+    {
+      "en": "You are welcome to come in and browse.",
+      "cn": "欢迎您光临本店随便看看。"
+    },
+    {
+      "en": "You view a browse information file in the Object Browser.",
+      "cn": "在对象浏览器中查看浏览信息文件."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "browser",
+          "tran_cn": " [计] 浏览器；吃嫩叶的动物；浏览书本的人"
+        },
+        {
+          "word": "browsing",
+          "tran_cn": " 浏览"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "browsing",
+          "tran_cn": " 浏览；吃草（browse的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "lookthrough",
+            "scan"
+          ],
+          "tran_cn": "浏览；吃草"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "feed",
+            "graze",
+            "read",
+            "scan",
+            "thumb"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "feed",
+            "graze"
+          ],
+          "tran_cn": "吃嫩叶;放牧"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "read",
+            "scan"
+          ],
+          "tran_cn": "翻阅,浏览"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "browse through",
+      "tran_cn": "浏览；翻阅"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": " 嫩叶； 嫩芽",
+      "tran_en": "Browse is also a noun"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（在商店里）随便看，翻阅，浏览（信息），（动物）吃草",
+      "tran_en": "to look through the pages of a book, magazine etc without a particular purpose, just looking at the most interesting parts"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": "浏览, 放牧",
+      "tran_en": "to look through the pages of a book, magazine etc without a particular purpose, just looking at the most interesting parts"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "吃草",
+      "tran_en": "if a goat,  deer  etc browses, it eats plants"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "browses"
+    ],
+    "past": [
+      "browsed"
+    ],
+    "done": [
+      "browsed"
+    ],
+    "ing": [
+      "browsing"
+    ]
+  }
+}

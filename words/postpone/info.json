@@ -1,0 +1,181 @@
+{
+  "word": "postpone",
+  "ipa": {
+    "us": "pəˈspəʊn",
+    "uk": "poʊˈspoʊn"
+  },
+  "sentences": [
+    {
+      "en": "Arise in price will make people postpone expenditure.",
+      "cn": "价格的上升会使人们推迟支出."
+    },
+    {
+      "en": "At times, Congress moves quickly and explicitly to reverse or postpone a controversial agency action.",
+      "cn": "有时, 国会迅速明确地采取行动取消或延缓有争议的机关行动."
+    },
+    {
+      "en": "He proposed that we should postpone the trip.",
+      "cn": "他建议我们推迟这次旅行."
+    },
+    {
+      "en": "He said it was just not permissible to postpone the main issue by allowing business to carry on as usual.",
+      "cn": "他说决不允许因为日常工作而耽搁了重大问题。"
+    },
+    {
+      "en": "His trial has been postponed indefinitely (= no one knows when it will happen ) .",
+      "cn": "对他的审判被无限期推迟了。"
+    },
+    {
+      "en": "I had to postpone ideas of a career and stay at home.",
+      "cn": "我不得不暂缓就业打算，呆在家里。"
+    },
+    {
+      "en": "I have to postpone our appointment.",
+      "cn": "我要把我们的约会延期."
+    },
+    {
+      "en": "I shall postpone making a decision till I learn full particulars.",
+      "cn": "在未获悉详情之前我得从缓作出决定."
+    },
+    {
+      "en": "I think we should postpone the outing.",
+      "cn": "我认为我们应该推迟这次郊游."
+    },
+    {
+      "en": "It is totally out of the question to postpone the midnight deadline.",
+      "cn": "想要推迟午夜的最后期限是完全不可能的。"
+    },
+    {
+      "en": "It won't hurt to postpone the matter for a few days.",
+      "cn": "此事耽搁几天无所影响."
+    },
+    {
+      "en": "It won't hurt to postpone the meeting for a few more days.",
+      "cn": "会议再推迟几天也无妨."
+    },
+    {
+      "en": "She decided to postpone the converastion for that evening.",
+      "cn": "她决定当天晚上把谈话搁一搁."
+    },
+    {
+      "en": "She decided to postpone the conversation for that evening.",
+      "cn": "她决定把当天晚上的谈话搁一搁."
+    },
+    {
+      "en": "The committee judged it advisable to postpone the meeting.",
+      "cn": "委员会认为会议应该延期举行."
+    },
+    {
+      "en": "The match had to be postponed until next week.",
+      "cn": "比赛不得不推迟到下周举行。"
+    },
+    {
+      "en": "There was an audible sigh of relief in Washington when the foreign ministers decided to postpone the meeting.",
+      "cn": "各国外长决定推迟会议后，华盛顿如释重负。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "postponement",
+          "tran_cn": " 延期；延缓"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adjourn",
+            "defer",
+            "delay",
+            "hold",
+            "off",
+            "over",
+            "procrastinate",
+            "put",
+            "shelf",
+            "shelve",
+            "stall",
+            "suspend",
+            "table",
+            "wait"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "stave off",
+            "time delay"
+          ],
+          "tran_cn": "延缓，延迟；延缓发作"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "defer",
+            "delay",
+            "hold",
+            "off",
+            "over",
+            "procrastinate",
+            "put",
+            "shelve",
+            "stall",
+            "suspend",
+            "table"
+          ],
+          "tran_cn": "使延期,延缓"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使…延期；把…放在次要地位；把…放在后面",
+      "tran_en": "to change the date or time of a planned event or action to a later one"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "延缓，延缓发作"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使延期，延缓，把…放在次要地位，把…放在后面",
+      "tran_en": "to change the date or time of a planned event or action to a later one"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "postpones"
+    ],
+    "past": [
+      "postponed"
+    ],
+    "done": [
+      "postponed"
+    ],
+    "ing": [
+      "postponing"
+    ],
+    "noun": [
+      "postponement"
+    ]
+  }
+}

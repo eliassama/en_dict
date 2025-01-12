@@ -1,0 +1,253 @@
+{
+  "word": "sequence",
+  "ipa": {
+    "us": "ˈsiːkwəns",
+    "uk": "ˈsiːkwəns"
+  },
+  "sentences": [
+    {
+      "en": "a time-lapse sequence of a flower opening",
+      "cn": "一组延时拍摄花蕾开放的镜头"
+    },
+    {
+      "en": "As they remove each segment, they analyze its molecular sequence.",
+      "cn": "在除去每一片段时, 他们分析了片段的分子顺序."
+    },
+    {
+      "en": "Be careful to perform the actions in the correct sequence .",
+      "cn": "注意要按正确的顺序来完成动作。"
+    },
+    {
+      "en": "Be careful to perform the actions in the correct sequence.",
+      "cn": "注意要按正确的顺序来完成动作。"
+    },
+    {
+      "en": "Flip the camera to vertical, recompose . Shoot again. Same sequence, methodical.",
+      "cn": "把相机竖起来,重新构图, 再拍,同样的场景, 依次拍摄."
+    },
+    {
+      "en": "He described the sequence of events leading up to the robbery.",
+      "cn": "他描述了抢劫案发生前的一系列有关情况。"
+    },
+    {
+      "en": "He had to attend a sequence of meetings.",
+      "cn": "他得参加一系列会议."
+    },
+    {
+      "en": "It is not easy to establish the exact sequence of events.",
+      "cn": "要确定事态演变的明确结果,并不容易."
+    },
+    {
+      "en": "Only the opening sequence could claim to be genuinely innovatory.",
+      "cn": "只有开场片段能称得上是真正的创新。"
+    },
+    {
+      "en": "Polling is a synchronous mechanism, where devices are serviced in sequence.",
+      "cn": "查询是一种同步机构, 其中的各个设备是依次接受服务的."
+    },
+    {
+      "en": "The above sequence of events is illustrated in Fig . 2.2 a - d .",
+      "cn": "上述事件的先后顺序由图2.2a -d 说明."
+    },
+    {
+      "en": "The best sequence in the film occurs when Roth stops at a house he used to live in.",
+      "cn": "电影中最棒的一组镜头出现于罗思在他曾住过的一幢屋子前驻足时。"
+    },
+    {
+      "en": "The book is more satisfying if you read each chapter in sequence.",
+      "cn": "这本书依次读各章会更好."
+    },
+    {
+      "en": "The camera moved in on the hero for a close - up sequence.",
+      "cn": "摄影机向男主角移近,准备拍摄一组 特写 镜头."
+    },
+    {
+      "en": "The cultural relics are displayed in chronological sequence.",
+      "cn": "文物按年代顺序展出."
+    },
+    {
+      "en": "The project is nothing less than mapping every gene sequence in the human body.",
+      "cn": "这个项目就是要绘制人体所有基因序列的图谱。"
+    },
+    {
+      "en": "Under these circumstances, this sequence of reactions would be gluconeogenic.",
+      "cn": "因此这一系列反应就是糖原异生作用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sequent",
+          "tran_cn": " 连续的；其次的；作为结果而产生的"
+        },
+        {
+          "word": "sequential",
+          "tran_cn": " 连续的；相继的；有顺序的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sequencer",
+          "tran_cn": " 程序装置，[计] 定序器"
+        },
+        {
+          "word": "sequent",
+          "tran_cn": " 结果；相继发生的事"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "continuation",
+            "progression",
+            "series",
+            "succession"
+          ],
+          "tran_cn": "连续;接续"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "continuance",
+            "continuation",
+            "movement",
+            "procession",
+            "progression",
+            "series",
+            "succession",
+            "train"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "amino acid sequence",
+      "tran_cn": "氨基酸序列；氨基酸顺序"
+    },
+    {
+      "phrase": "construction sequence",
+      "tran_cn": "装配顺序；施工步骤；施工程序"
+    },
+    {
+      "phrase": "in sequence",
+      "tran_cn": "顺次；挨次"
+    },
+    {
+      "phrase": "negative sequence",
+      "tran_cn": "逆序"
+    },
+    {
+      "phrase": "nucleotide sequence",
+      "tran_cn": "核苷酸序列；核酸序列；核苷酸顺序"
+    },
+    {
+      "phrase": "operating sequence",
+      "tran_cn": "操作程序；操作顺序"
+    },
+    {
+      "phrase": "operation sequence",
+      "tran_cn": "[经]操作程序；操孜序"
+    },
+    {
+      "phrase": "phase sequence",
+      "tran_cn": "相序；位相序列"
+    },
+    {
+      "phrase": "positive sequence",
+      "tran_cn": "正序"
+    },
+    {
+      "phrase": "random sequence",
+      "tran_cn": "随机序列"
+    },
+    {
+      "phrase": "sedimentary sequence",
+      "tran_cn": "沉积层序"
+    },
+    {
+      "phrase": "sequence analysis",
+      "tran_cn": "序列分析"
+    },
+    {
+      "phrase": "sequence control",
+      "tran_cn": "顺序控制"
+    },
+    {
+      "phrase": "sequence diagram",
+      "tran_cn": "顺序图，循序图；程序表"
+    },
+    {
+      "phrase": "sequence number",
+      "tran_cn": "序号；顺序数"
+    },
+    {
+      "phrase": "sequence of events",
+      "tran_cn": "事件顺序，作业顺序；事故顺序记录，事情的进展"
+    },
+    {
+      "phrase": "temporal sequence",
+      "tran_cn": "时间序列；时间程序，时间层序"
+    },
+    {
+      "phrase": "time sequence",
+      "tran_cn": "时间顺序"
+    },
+    {
+      "phrase": "welding sequence",
+      "tran_cn": "n. 焊接顺序；熔接次序"
+    },
+    {
+      "phrase": "zero sequence",
+      "tran_cn": "零序部分"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[数]数列，序列，顺序，连续，片断插曲",
+      "tran_en": "the order that something happens or exists in, or the order it is supposed to happen or exist in"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "按顺序排好"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使按顺序排列，安排顺序，[生化]确定…的顺序，确定…的化学结构序列"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sequences"
+    ],
+    "third": [
+      "sequences"
+    ],
+    "past": [
+      "sequenced"
+    ],
+    "done": [
+      "sequenced"
+    ],
+    "ing": [
+      "sequencing"
+    ]
+  }
+}

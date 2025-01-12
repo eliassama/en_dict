@@ -1,0 +1,120 @@
+{
+  "word": "isotherm",
+  "ipa": {
+    "us": "ˈaɪsəθɜ:m",
+    "uk": "ˈaɪsəθɜrm"
+  },
+  "sentences": [
+    {
+      "en": "A numerical procedure is used to calculate the water activity for nonlinear isotherm equations.",
+      "cn": "利用等温水份线的直线公式和史密斯公式,虽然可以直接求得预测值,但误差偏大."
+    },
+    {
+      "en": "A thinner isotherm allows faster turnover of warmer waters from below, which speeds ice-melt.",
+      "cn": "更薄的等温线意味着下层温暖的海水能更快地交换上来，这将加速冰层溶化。"
+    },
+    {
+      "en": "A thinner isotherm allows faster turnover of warmer waters from below, which speeds ice-melt. The process is self-perpetuating: as ice melts, the ocean absorbs more heat and melts more ice, and so on.",
+      "cn": "较薄的等温线使下面温暖的海水快速流转，从而加快冰融化。"
+    },
+    {
+      "en": "An isotherm is a line on a map that joins locations having the same mean temperatures.",
+      "cn": "等温线是在地图上把具有相同平均温度的地方连结起来的线."
+    },
+    {
+      "en": "Cation exchange capacity and equilibria isotherm at 25 ℃ were determined.",
+      "cn": "在25℃下测定了样品的总交换容量和平衡等温线."
+    },
+    {
+      "en": "Dye adsorption can be described by a multilayer adsorption isotherm curve.",
+      "cn": "染料吸附可以用多层吸附等温线来描述."
+    },
+    {
+      "en": "ExplicIt'solutions are presented for the linear and Smith forms of the isotherm equations.",
+      "cn": "其应用之假设条件为食品乾物质与所含水份的总质量不变,且在混合过程中无化学反应发生."
+    },
+    {
+      "en": "On the other hand, with the opposite direction, the fluid flow impedes the isotherm movement.",
+      "cn": "当流动方向和等温线推进方向相反时, 流动削弱了等温线的推进."
+    },
+    {
+      "en": "Pore size - pore volume distributions of different activated carbons made in China and abroad adsorption isotherm methods.",
+      "cn": "叙述中国生产的部分商品化的各类活性炭及一些国外活性炭样品的微孔孔径 - 孔容分布."
+    },
+    {
+      "en": "That's the isotherm here.",
+      "cn": "等温线的方程了。"
+    },
+    {
+      "en": "The adsorption isotherm of neptunium on silica gel corresponds to the form of Langmuir isotherm.",
+      "cn": "三种价态的镎的吸附规律符合Langmuir吸附等温线,镎在硅胶上的吸附属于单分子层吸附."
+    },
+    {
+      "en": "The parameters of adsorption isotherm and kinetics are calculated.",
+      "cn": "计算了相应的吸附等温线参数和吸附动力学参数."
+    },
+    {
+      "en": "The software for analysing the sorption and desorption isotherm of paddy was presented.",
+      "cn": "介绍了所研制的稻谷吸附与解吸等温线性能分析软件."
+    },
+    {
+      "en": "Through the adsorbing experiment of phenol, the phenol - adsorption isotherm of the gangue - based adsorbent was obtained.",
+      "cn": "通过矸石基吸附剂对苯酚的吸附实验, 给出了矸石基吸附剂对它的吸附等温线."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "isothermal",
+          "tran_cn": " 等温的；等温线的"
+        },
+        {
+          "word": "isothermic",
+          "tran_cn": " 等温的；等温线的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "isothermal",
+          "tran_cn": " 等温线"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "choroisotherm"
+          ],
+          "tran_cn": "[气象]等温线"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "adsorption isotherm",
+      "tran_cn": "等温吸附线"
+    },
+    {
+      "phrase": "sorption isotherm",
+      "tran_cn": "吸着等温线；等温吸附线"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "等温线",
+      "tran_en": "a line on a weather map joining places where the temperature is the same"
+    }
+  ],
+  "exchange": {}
+}

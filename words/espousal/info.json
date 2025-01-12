@@ -1,0 +1,69 @@
+{
+  "word": "espousal",
+  "ipa": {
+    "us": "ɪ'spaʊzl",
+    "uk": "ɪˈspaʊzəl, -səl"
+  },
+  "sentences": [
+    {
+      "en": "...the Slovene leadership's espousal of reform and nationalism.",
+      "cn": "...斯洛文尼亚领导层对改革和民族主义的拥护。"
+    },
+    {
+      "en": "Margaret Thatcher's espousal of monetarism eventually brought inflation down in the early 1980s.",
+      "cn": "玛格丽特·撒切尔对于货币主义的拥护最终使通货膨胀在20世纪八十年代降了下来。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "espouse",
+          "tran_cn": " 支持；嫁娶；赞成；信奉"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "up with",
+            "advocacy"
+          ],
+          "tran_cn": "拥护；信奉；订婚"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "engagement",
+            "favor",
+            "option",
+            "wedding"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "支持，拥护，<古>结婚，订婚",
+      "tran_en": "A government's or person's espousal of a particular policy, cause, or belief is their strong support of it"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "espouse"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "word": "lade",
+  "ipa": {
+    "us": "leɪd",
+    "uk": "leɪd"
+  },
+  "sentences": [
+    {
+      "en": "Fool lade out all the water, and wise men take the fish.",
+      "cn": "愚人涸干水, 智者取走鱼."
+    },
+    {
+      "en": "Its action is very well for driver controling lade weight, deicing overload and keeping watch on the cargoes , ect.",
+      "cn": "对司机把握装载量，防止超载和监控货物等都有很好的作用。"
+    },
+    {
+      "en": "Mann : Wenn es ein sch ? nes M ? dchen ist, lade ich sie ins Kino ein.",
+      "cn": "如果是个漂亮女孩, 我就请她去看电影."
+    },
+    {
+      "en": "Nochmals Entschuldigung, heute lade ich ( Euch daf ü r ) ein.",
+      "cn": "真对不起, 今天我请客."
+    },
+    {
+      "en": "Old days never die, they just lade away.",
+      "cn": "旧时光永不灭, 只是间凋零."
+    },
+    {
+      "en": "Shipping company uses EDI agency to realize international information communication already, shipping proof and space plan or lade the plan can be transmitted through telecommunication.",
+      "cn": "航运企业早已使用EDI媒介来实现国际信息交流，装运证实和分隔计划或装载计划都可通过电信来传输。"
+    },
+    {
+      "en": "They must not be lade led into making bogus investments.",
+      "cn": "他们绝对不能被诱导而做出虚假的投资."
+    },
+    {
+      "en": "This is a circuit plan of secondhand radiodetector truck lade weight with ultrasonic structural is simple.",
+      "cn": "给出一种利用超声波测距方式间接测量汽车装载量的电路方案."
+    },
+    {
+      "en": "Wenn es ein sch ? nes M ? dchen ist, lade ich sie ins Kino ein .",
+      "cn": "你在家里的话,你就做饭."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "laden",
+          "tran_cn": " 负载的；装满的；苦恼的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "lading",
+          "tran_cn": " 装船；装载；船货"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "laden",
+          "tran_cn": " 装载（lade的过去分词）"
+        },
+        {
+          "word": "lading",
+          "tran_cn": " 装货；载满（lade的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "laden",
+          "tran_cn": " 装载（等于lade）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "laden",
+          "tran_cn": " 装载（等于lade）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "ladle out",
+            "scoop out"
+          ],
+          "tran_cn": "（用勺子）舀出；装货"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "onload",
+            "stow"
+          ],
+          "tran_cn": "装载；装（船）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "装载（货物），装（船），（用勺子）舀出"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "lades"
+    ],
+    "past": [
+      "laded"
+    ],
+    "done": [
+      "laden"
+    ],
+    "ing": [
+      "lading"
+    ]
+  }
+}

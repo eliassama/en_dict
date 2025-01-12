@@ -1,0 +1,181 @@
+{
+  "word": "constrain",
+  "ipa": {
+    "us": "kənˈstreɪn",
+    "uk": "kənˈstreɪn"
+  },
+  "sentences": [
+    {
+      "en": "A fallen bridge might constrain your ability to get across a river.",
+      "cn": "一座坍塌的大桥可能对你过河的能力产生约束."
+    },
+    {
+      "en": "A strong magnetic field can constrain electrons to move only along the field lines.",
+      "cn": "强磁场可约束电子使之只能沿着场力线运动."
+    },
+    {
+      "en": "A template can constrain any data type component, including recursively nested components.",
+      "cn": "模板可以任何数据类型成分, 包括递归成分."
+    },
+    {
+      "en": "A template can constrain the cardinality of a clone's association.",
+      "cn": "模板可以约束复制关系的集势."
+    },
+    {
+      "en": "A template can constrain the cardinality of a clone's attribute.",
+      "cn": "模板可约束复制属性的集势."
+    },
+    {
+      "en": "As with dragging, a meta - key is often used to constrain the direction of a resize interaction.",
+      "cn": "和拖动一样, 元键在这里也可以用来约束调整尺寸操作的方向."
+    },
+    {
+      "en": "In some cases we constrain, or even ban, use of certain features.",
+      "cn": "在一些情况下,我们尽量避免甚至是禁止使用某些特性."
+    },
+    {
+      "en": "It's the capacity of those roads which is going to constrain the amount of travel by car that can take place.",
+      "cn": "制约驾车出行量的将会是那些道路的通行能力。"
+    },
+    {
+      "en": "Now, there are suggestions the shortages may constrain economic growth too.",
+      "cn": "现在, 有人认为电力短缺可能也将制约经济增长."
+    },
+    {
+      "en": "Poor soil has constrained the level of crop production.",
+      "cn": "贫瘠的土地限制了农作物的产量。"
+    },
+    {
+      "en": "She tried to constrain herself from a cough in class.",
+      "cn": "上课时她竭力忍住不咳嗽."
+    },
+    {
+      "en": "The constitution should not constrain us from articulating these political ideas.",
+      "cn": "宪法不应阻止我们声张这些政治理念."
+    },
+    {
+      "en": "The police used horses to constrain the crowd from violence.",
+      "cn": "警察骑着马阻止那群人诉诸暴力."
+    },
+    {
+      "en": "The study will examine the factors which constrain local economic growth.",
+      "cn": "这项研究将考查抑制当地经济发展的因素."
+    },
+    {
+      "en": "These tastes and incomes constrain how the quantity demand will react to changes in price.",
+      "cn": "这些偏好和收入制约了数量的需求怎样对价格的变动作出反应."
+    },
+    {
+      "en": "This condition would obviously constrain an employer's selection of new workers.",
+      "cn": "这一条件将对企业遴选新员工构成明显的约束."
+    },
+    {
+      "en": "Women are too often constrained by family commitments and by low expectations.",
+      "cn": "女性往往受家庭职责及低期望值约束。"
+    },
+    {
+      "en": "Women’s employment opportunities are often severely constrained by family commitments.",
+      "cn": "女性的就业机会常常受到家庭责任的严重限制。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "constrained",
+          "tran_cn": " 拘泥的；被强迫的；不舒服的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "constrainedly",
+          "tran_cn": " 勉强地；强迫地；不自然地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "constraint",
+          "tran_cn": " [数] 约束；局促，态度不自然；强制"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "constrained",
+          "tran_cn": " 驱使；强迫；勉强（constrain的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "compel",
+            "conscript",
+            "force",
+            "inhibit",
+            "localize",
+            "oblige",
+            "press",
+            "shame",
+            "urge"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "compel",
+            "force",
+            "press",
+            "urge"
+          ],
+          "tran_cn": "强迫;束缚"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "约束，限制，强迫",
+      "tran_en": "to limit something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 限制， 约束； 克制， 抑制",
+      "tran_en": "to limit something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "constrains"
+    ],
+    "past": [
+      "constrained"
+    ],
+    "done": [
+      "constrained"
+    ],
+    "ing": [
+      "constraining"
+    ]
+  }
+}

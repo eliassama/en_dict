@@ -1,0 +1,228 @@
+{
+  "word": "spill",
+  "ipa": {
+    "us": "spɪl",
+    "uk": "spɪl"
+  },
+  "sentences": [
+    {
+      "en": "An oil spill could be devastating for wildlife.",
+      "cn": "溢出的油对野生动物来说可能是毁灭性的。"
+    },
+    {
+      "en": "Don't spill the soup.",
+      "cn": "别把汤洒了."
+    },
+    {
+      "en": "Don't spill water on your suit.",
+      "cn": "不要把水洒到你的衣服上。"
+    },
+    {
+      "en": "He carefully balanced the satchel so that its contents would not spill out onto the floor.",
+      "cn": "他仔细地把小背包放好，不让里面的东西掉到地板上。"
+    },
+    {
+      "en": "He is prepared to spill the blood of a million people.",
+      "cn": "他准备杀掉100万人。"
+    },
+    {
+      "en": "He was tempted to spill out his problems to Philip.",
+      "cn": "他很想把自己的问题透露给菲利普。"
+    },
+    {
+      "en": "Katie almost spilled her milk.",
+      "cn": "凯蒂差点把牛奶洒出来。"
+    },
+    {
+      "en": "Look out the milk doesn't spill.",
+      "cn": "当心不要让牛奶溢出来."
+    },
+    {
+      "en": "Tears began to spill out of the boy's eyes.",
+      "cn": "男孩的眼泪开始夺眶而出。"
+    },
+    {
+      "en": "The coffee is so full that it might spill over.",
+      "cn": "咖啡太满可能会溢出来."
+    },
+    {
+      "en": "The oil spill has caused incalculable damage to the environment.",
+      "cn": "这次石油泄漏对环境造成了难以估计的损害。"
+    },
+    {
+      "en": "The spill could wipe out the Gulf's turtle population.",
+      "cn": "这次原油泄漏可能会使波斯湾的海龟灭绝。"
+    },
+    {
+      "en": "The sway of the pail caused some milk to spill out.",
+      "cn": "桶一晃荡,泼出来一些牛奶."
+    },
+    {
+      "en": "The tanker began to spill its cargo of oil.",
+      "cn": "油轮已开始漏油。"
+    },
+    {
+      "en": "Tyson broke a rib when he took a spill on his motorcycle.",
+      "cn": "泰森从摩托车上摔下来，断了一根肋骨。"
+    },
+    {
+      "en": "Utmost care must be taken not to spill any of the contents.",
+      "cn": "千万注意里面的东西一点都不能洒出来。"
+    },
+    {
+      "en": "When the bell rings, more than 1,000 children spill from classrooms.",
+      "cn": "当铃声响起时，1,000多名孩子从教室里涌了出来。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "spillage",
+          "tran_cn": " 溢出；溢出量"
+        },
+        {
+          "word": "spiller",
+          "tran_cn": " 使溢出者；使溅出者"
+        },
+        {
+          "word": "spillover",
+          "tran_cn": " 溢出；外流人口"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "superflux",
+            "extravasation"
+          ],
+          "tran_cn": "溢出，溅出；溢出量；摔下；小塞子"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cascade",
+            "flood",
+            "over",
+            "overflow",
+            "pour",
+            "run",
+            "spatter",
+            "sprinkle"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "discharge",
+            "issue",
+            "shed"
+          ],
+          "tran_cn": "溢出，流出；摔下；涌流"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "drain",
+            "overflow"
+          ],
+          "tran_cn": "使溢出，使流出；使摔下"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "chemical spill",
+      "tran_cn": "化学溢出物；化学品溢漏"
+    },
+    {
+      "phrase": "oil spill",
+      "tran_cn": "漏油；浮油"
+    },
+    {
+      "phrase": "spill (someone's) blood",
+      "tran_cn": "杀人（或伤人）"
+    },
+    {
+      "phrase": "spill into",
+      "tran_cn": "涌进"
+    },
+    {
+      "phrase": "spill one's guts",
+      "tran_cn": "(非正式)无保留地透露大量信息，和盘托出"
+    },
+    {
+      "phrase": "spill out",
+      "tran_cn": "（使）溢出，（使）溅出；突然涌出；说出（真相、内情）"
+    },
+    {
+      "phrase": "spill over",
+      "tran_cn": "溢出"
+    },
+    {
+      "phrase": "spill the beans",
+      "tran_cn": "(非正式)无意中（或不慎）泄露秘密"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "溢出量/物，纸捻，跌落",
+      "tran_en": "when you spill something, or an amount of something that is spilled"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "溢出，蜂拥而出",
+      "tran_en": "if you spill a liquid, or if it spills, it accidentally flows over the edge of a container"
+    },
+    {
+      "pos": "vi&vt",
+      "tran_cn": "洒出，溅出",
+      "tran_en": "if you spill a liquid, or if it spills, it accidentally flows over the edge of a container"
+    },
+    {
+      "pos": "vt&vi",
+      "tran_cn": "(使)溢出，(使)溅出",
+      "tran_en": "if you spill a liquid, or if it spills, it accidentally flows over the edge of a container"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "spills"
+    ],
+    "third": [
+      "spills"
+    ],
+    "past": [
+      " spilled",
+      "spilt"
+    ],
+    "done": [
+      " spilled",
+      "spilt"
+    ],
+    "ing": [
+      "spilling"
+    ]
+  }
+}

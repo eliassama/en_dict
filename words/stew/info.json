@@ -1,0 +1,200 @@
+{
+  "word": "stew",
+  "ipa": {
+    "us": "stju:",
+    "uk": "stu"
+  },
+  "sentences": [
+    {
+      "en": "beef stew",
+      "cn": "炖牛肉"
+    },
+    {
+      "en": "beef stew and dumplings",
+      "cn": "牛肉炖丸子"
+    },
+    {
+      "en": "He ate every savoury morsel of a delectable stew at the dinner.",
+      "cn": "晚餐时他吃遍每一道味美可口的炖食."
+    },
+    {
+      "en": "He took a spoonful of the stew and ate it.",
+      "cn": "他舀了一匙炖菜吃了。"
+    },
+    {
+      "en": "He's been in a stew since early this morning.",
+      "cn": "他从今天一大早就焦虑不安。"
+    },
+    {
+      "en": "Highly charged emotions have you in a stew.",
+      "cn": "高度紧张的情绪会让人陷入不安。"
+    },
+    {
+      "en": "Leave them to stew in their own juice.",
+      "cn": "让他们自食其果吧。"
+    },
+    {
+      "en": "Rabbit stew is one of chef Giancarlo Moeri's signature dishes.",
+      "cn": "炖野兔是厨师詹卡洛·莫里的招牌菜之一。"
+    },
+    {
+      "en": "She eked out the stew to make another meal.",
+      "cn": "她省出一些钝菜再做一顿饭."
+    },
+    {
+      "en": "She served him a bowl of beef stew.",
+      "cn": "她为他端上了一碗炖牛肉。"
+    },
+    {
+      "en": "Stew the apple and blackberries to make a thick pulp.",
+      "cn": "将苹果和黑莓炖成稠浆。"
+    },
+    {
+      "en": "Stew the pears in red wine for a couple of hours.",
+      "cn": "将梨在红葡萄酒中炖上几小时."
+    },
+    {
+      "en": "stewed apples",
+      "cn": "炖苹果"
+    },
+    {
+      "en": "The meat is divided evenly and boiled in a stew.",
+      "cn": "那块肉被均匀切成小块放到炖菜里煮熟。"
+    },
+    {
+      "en": "The rice is accompanied by a soup or a soupy stew.",
+      "cn": "米饭伴以汤羹或炖菜。"
+    },
+    {
+      "en": "The stew must be boiled up before serving.",
+      "cn": "炖肉必须煮熟才能上桌."
+    },
+    {
+      "en": "They made a stew.",
+      "cn": "他们做了一道炖菜。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "stewed",
+          "tran_cn": "焦虑不安的；烂醉的；炖煮的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "stewed",
+          "tran_cn": "用文火慢慢煨炖；使…焦虑不安（stew的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "worry",
+            "trouble"
+          ],
+          "tran_cn": "炖，炖汤；烦恼；闷热；鱼塘"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cook",
+            "fret",
+            "fume",
+            "rage",
+            "rant",
+            "rave",
+            "seethe",
+            "storm"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "simmer",
+            "fret one's gizzard"
+          ],
+          "tran_cn": "炖，炖汤；焖；受闷热；忧虑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "pot-roast",
+            "braise"
+          ],
+          "tran_cn": "炖，炖汤；焖；忧虑；受闷热"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get (yourself)/be in a stew (about/over something)",
+      "tran_cn": "（为某事）坐立不安；心烦意乱"
+    },
+    {
+      "phrase": "in a stew",
+      "tran_cn": "烦恼；着急"
+    },
+    {
+      "phrase": "let somebody stew in their own juice",
+      "tran_cn": "(非正式）让某人自作自受"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "炖煮的菜肴，烦恼，焦虑",
+      "tran_en": "a hot meal made by cooking meat and vegetables slowly in liquid for a long time"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "炖",
+      "tran_en": "to cook something slowly in liquid"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "炖，煨，闷热，担忧"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "stews"
+    ],
+    "third": [
+      "stews"
+    ],
+    "past": [
+      "stewed"
+    ],
+    "done": [
+      "stewed"
+    ],
+    "ing": [
+      "stewing"
+    ]
+  }
+}

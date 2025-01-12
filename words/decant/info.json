@@ -1,0 +1,75 @@
+{
+  "word": "decant",
+  "ipa": {
+    "us": "dɪˈkænt",
+    "uk": "dɪ'kænt"
+  },
+  "sentences": [
+    {
+      "en": "May I decant it now to allow it to breathe?",
+      "cn": "我可否慢慢倒,好让香味散发出来?"
+    },
+    {
+      "en": "Vintage ports must be decanted to remove natural sediments.",
+      "cn": "优质的葡萄酒必须倒出以清除其中自然沉淀的杂质。"
+    },
+    {
+      "en": "You centrifuge the solution, decant the supernatant, and discard the pellet.",
+      "cn": "你然后对溶液离心, 慢慢倒出上清,弃沉淀.对上清液你加更多的硫酸铵."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "decantation",
+          "tran_cn": " [化工] 倾析；倾注"
+        },
+        {
+          "word": "decanter",
+          "tran_cn": " 玻璃水瓶；滗析器；倾注洗涤器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "milk"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 轻轻倒出",
+      "tran_en": "If you decant a liquid into another container, you put it into another container"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "将（酒等）自瓶中倒入另一容器"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "decants"
+    ],
+    "past": [
+      "decanted"
+    ],
+    "done": [
+      "decanted"
+    ],
+    "ing": [
+      "decanting"
+    ]
+  }
+}

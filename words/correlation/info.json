@@ -1,0 +1,266 @@
+{
+  "word": "correlation",
+  "ipa": {
+    "us": "ˌkɒrəˈleɪʃn",
+    "uk": "ˌkɔːrəˈleɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "...the correlation between smoking and disease.",
+      "cn": "…吸烟和疾病之间的关联。"
+    },
+    {
+      "en": "a strong correlation between urban deprivation and poor health",
+      "cn": "都市贫困和健康状况差之间的密切关系"
+    },
+    {
+      "en": "A superficial glance at the table shows a strong correlation between the two sets of measurements.",
+      "cn": "粗看一下这张表就可以看出两组测量数据间有密切的相互关系."
+    },
+    {
+      "en": "Are you familiar with their correlation ?",
+      "cn": "你了解他们的相互关系吗？"
+    },
+    {
+      "en": "Correlation of morphological factors with injury is important.",
+      "cn": "形态因素与受害的相互关系很重要."
+    },
+    {
+      "en": "If the two signals are random, the cross - correlation is zero.",
+      "cn": "倘若两个信号都是随机的, 则 互相关系数 为零."
+    },
+    {
+      "en": "Many factors will enter into any generalized correlation accounting for this behavior.",
+      "cn": "任何说明这种性状的通用关联式将包含许多因素."
+    },
+    {
+      "en": "Many other interesting correlation can be conjured up.",
+      "cn": "其他许多有意思的相互关系能被想象出来."
+    },
+    {
+      "en": "Our presentation of the literature has been aimed at pertinent interpretation and correlation of research findings.",
+      "cn": "我们提出这些文献的目的在于适当地解释并与研究结果相联系."
+    },
+    {
+      "en": "The coefficient of correlation, R, is obtained by taking the square root of R 2.",
+      "cn": "相关系数R是通过把R2开平方根求得的."
+    },
+    {
+      "en": "The correlation between skin cancer incidence and exposure to Ultraviolet radiation is given in Fig . 11 - 22.",
+      "cn": "图11-22中给出皮肤癌发病率与暴露紫外线辐射之间的关系."
+    },
+    {
+      "en": "the correlation between smoking and disease",
+      "cn": "吸烟和疾病之间的关联"
+    },
+    {
+      "en": "The correlation covers a broad range of test materials.",
+      "cn": "这一相互关系式包含有范围广泛的实验材料."
+    },
+    {
+      "en": "The correlation is loose and the use for prediction insecure.",
+      "cn": "这种相关是不密切的,而且用来预测是靠不住的."
+    },
+    {
+      "en": "The greater the sum, the greater the cross - correlation coefficient obtained in this way will be.",
+      "cn": "和数越大, 以这种形式得到的相关系数也越大."
+    },
+    {
+      "en": "There is a close correlation between contour lines and lithology.",
+      "cn": "等值线的外形和岩性吻合的很好."
+    },
+    {
+      "en": "This result is achieved by oil / oil or gas / gas correlation.",
+      "cn": "通过石油/石油或天然气/天然气的对比便可得到这个结果."
+    },
+    {
+      "en": "We shall often find correlation between grammatical and semantic categories.",
+      "cn": "我们往往会发现语法范畴和语义范畴之间的相互联系."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "correlate",
+          "tran_cn": " 关联的"
+        },
+        {
+          "word": "correlated",
+          "tran_cn": " 有相互关系的"
+        },
+        {
+          "word": "correlative",
+          "tran_cn": " 相关的；有相互关系的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "correlate",
+          "tran_cn": " 相关物；相关联的人"
+        },
+        {
+          "word": "correlative",
+          "tran_cn": " 关联词；相关物"
+        },
+        {
+          "word": "correlativity",
+          "tran_cn": " 相关关系；相互关系"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "correlated",
+          "tran_cn": " （使）相关联；（使）相互对照（correlate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "correlate",
+          "tran_cn": " 关联"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "correlate",
+          "tran_cn": " 使有相互关系；互相有关系"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "relationship",
+            "associations",
+            "relevance"
+          ],
+          "tran_cn": "[数]相关，[理物]关联；相互关系"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "analogy",
+            "parallel",
+            "reference"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "canonical correlation",
+      "tran_cn": "典型相关"
+    },
+    {
+      "phrase": "canonical correlation analysis",
+      "tran_cn": "典型相关分析；典范相关分析"
+    },
+    {
+      "phrase": "correlation analysis",
+      "tran_cn": "相关分析"
+    },
+    {
+      "phrase": "correlation coefficient",
+      "tran_cn": "相关系数；关联系数"
+    },
+    {
+      "phrase": "correlation factor",
+      "tran_cn": "[因素]相关因子"
+    },
+    {
+      "phrase": "correlation function",
+      "tran_cn": "相关函数"
+    },
+    {
+      "phrase": "correlation matrix",
+      "tran_cn": "相关矩阵"
+    },
+    {
+      "phrase": "correlation method",
+      "tran_cn": "相关法；对比法"
+    },
+    {
+      "phrase": "correlation spectroscopy",
+      "tran_cn": "关联能谱法"
+    },
+    {
+      "phrase": "correlation technique",
+      "tran_cn": "相关技术，相关方法"
+    },
+    {
+      "phrase": "correlation theory",
+      "tran_cn": "相关理论"
+    },
+    {
+      "phrase": "cross correlation",
+      "tran_cn": "互相关，交互相关"
+    },
+    {
+      "phrase": "data correlation",
+      "tran_cn": "数据相关"
+    },
+    {
+      "phrase": "direct correlation",
+      "tran_cn": "直接相关；正相关"
+    },
+    {
+      "phrase": "high correlation",
+      "tran_cn": "高度相关"
+    },
+    {
+      "phrase": "linear correlation",
+      "tran_cn": "线性相关"
+    },
+    {
+      "phrase": "negative correlation",
+      "tran_cn": "[经]负相关"
+    },
+    {
+      "phrase": "partial correlation",
+      "tran_cn": "部份相关，偏相关；部分相关"
+    },
+    {
+      "phrase": "positive correlation",
+      "tran_cn": "[化]正相关"
+    },
+    {
+      "phrase": "time correlation",
+      "tran_cn": "时间相关，时间关联"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "关联，联系",
+      "tran_en": "a connection between two ideas, facts etc, especially when one may be the cause of the other"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "correlations"
+    ]
+  }
+}

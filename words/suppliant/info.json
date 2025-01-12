@@ -1,0 +1,95 @@
+{
+  "word": "suppliant",
+  "ipa": {
+    "us": "'sʌplɪənt",
+    "uk": "ˈsʌpliənt"
+  },
+  "sentences": [
+    {
+      "en": "He asked for help a suppliant attitude.",
+      "cn": "他以恳求的态度要我帮忙."
+    },
+    {
+      "en": "He asked for help in a suppliant attitude.",
+      "cn": "他以恳求的态度要我帮忙。"
+    },
+    {
+      "en": "He knelt as a suppliant at the altar.",
+      "cn": "他跪在祭坛前祈祷."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "supplicatory",
+          "tran_cn": " 恳求的；祈求的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "supplicant",
+          "tran_cn": " 恳求者，乞求者"
+        },
+        {
+          "word": "supplication",
+          "tran_cn": " 恳求；祈祷"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "supplicate",
+          "tran_cn": " 哀求；恳请；祈求"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "supplicate",
+          "tran_cn": " 恳求，哀求；恳请"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "precative",
+            "imploring"
+          ],
+          "tran_cn": "恳求的；哀求的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "恳求的，哀求的，谦卑的",
+      "tran_en": "expressing entreaty or supplication "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "恳求者，哀求者",
+      "tran_en": "a supplicant"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "suppliants"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "word": "disburse",
+  "ipa": {
+    "us": "dɪsˈbɜːs",
+    "uk": "dɪsˈbɜːrs"
+  },
+  "sentences": [
+    {
+      "en": "On approval, we will disburse the fund to your designated bank account directly.",
+      "cn": "一经批核, 贷款将于扣除手续费后直接存入您指定的银行账户."
+    },
+    {
+      "en": "Receive and disburse money in establishments other than financial institutions.",
+      "cn": "负责公司和相关财务机构的资金收付."
+    },
+    {
+      "en": "The aid will not be disbursed until next year.",
+      "cn": "援助款项到明年才能拨出。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disbursal",
+          "tran_cn": " 支出"
+        },
+        {
+          "word": "disbursement",
+          "tran_cn": " 支出，支付"
+        },
+        {
+          "word": "disburser",
+          "tran_cn": " 付出者；支付者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "shell"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "foot",
+            "defray"
+          ],
+          "tran_cn": "支付；支出"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "支付",
+      "tran_en": "to pay out money, especially from a large sum that is available for a special purpose"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "支出，付出"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disburses"
+    ],
+    "past": [
+      "disbursed"
+    ],
+    "done": [
+      "disbursed"
+    ],
+    "ing": [
+      "disbursing"
+    ],
+    "noun": [
+      "disbursement"
+    ]
+  }
+}

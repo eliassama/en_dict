@@ -1,0 +1,97 @@
+{
+  "word": "householder",
+  "ipa": {
+    "us": "ˈhaʊshəʊldə(r)",
+    "uk": "ˈhaʊshoʊldə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Based on Householder transformation, MPI + OpenMP hybrid parallel algorithm of tridiagonalizing a dense symmetric matrix is presented.",
+      "cn": "基于householder转换, 给出了稠密对称矩阵三对角化的MPI+OpenMP混合并行算法."
+    },
+    {
+      "en": "Householder: Could you and mend a leak in a pipe?",
+      "cn": "房主: 你能不能来修理一下管道?"
+    },
+    {
+      "en": "Officials appealed to householders to open their homes to the thousands of persons made homeless by the storm.",
+      "cn": "官员们呼吁住户们为成千上万因这次暴风雨而无家可归的人提供住宿。"
+    },
+    {
+      "en": "The article returns discovery, in householder lifetime belongings is accumulated appeared two high peak value.",
+      "cn": "本文还发现, 在户主一生中财产积累出现了两个高峰值."
+    },
+    {
+      "en": "The householder devotees generally visited Sri Ramakrishna on Sunday afternoons and other holidays.",
+      "cn": "居士奉献者通过会在星期日下午和其他假期拜访室利罗摩克里希纳."
+    },
+    {
+      "en": "The use of brush and spray methods is perhaps best known to the ordinary householder.",
+      "cn": "普通居民也许都很知道涂刷法和喷雾法的使用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "household",
+          "tran_cn": " 家庭的；日常的；王室的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "housefather",
+          "tran_cn": " 男家长；男舍监（指学生宿舍的）；男管理员"
+        },
+        {
+          "word": "household",
+          "tran_cn": " 家庭；一家人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "patriarch",
+            "paterfamilias"
+          ],
+          "tran_cn": "户主，家长；房主"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "landlord",
+            "owner",
+            "resident"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "家长，户主，房主，占有房子的人，住户",
+      "tran_en": "someone who owns or is in charge of a house"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "householders"
+    ]
+  }
+}

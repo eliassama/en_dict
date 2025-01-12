@@ -1,0 +1,327 @@
+{
+  "word": "rust",
+  "ipa": {
+    "us": "rʌst",
+    "uk": "rʌst"
+  },
+  "sentences": [
+    {
+      "en": "A scale of rust covered the steel plate.",
+      "cn": "一层铁锈覆盖了钢板."
+    },
+    {
+      "en": "A zinc coating is applied to the steel for rust protection.",
+      "cn": "镀锌层是用来防止钢铁生锈的."
+    },
+    {
+      "en": "An iron tool, if never used, will corrode with rust.",
+      "cn": "铁制工具长期不用会锈损."
+    },
+    {
+      "en": "As rust is to iron, so is laziness to man.",
+      "cn": "懒惰对于人好比铁生了锈."
+    },
+    {
+      "en": "Iron gathers rust easily.",
+      "cn": "铁容易生锈."
+    },
+    {
+      "en": "It is better to wear out than rust out.",
+      "cn": "与其懒死,不如累死."
+    },
+    {
+      "en": "pipes covered with rust",
+      "cn": "生了锈的管子"
+    },
+    {
+      "en": "Ray painted below the waterline with a special anti-rust paint.",
+      "cn": "雷用专门的防锈涂料涂船的吃水线以下的部位。"
+    },
+    {
+      "en": "Rust and flaking paint mean the metalwork is in poor condition.",
+      "cn": "生锈和掉漆说明金属配件损毁严重。"
+    },
+    {
+      "en": "Rust has corroded the steel rails.",
+      "cn": "锈侵蚀了钢轨."
+    },
+    {
+      "en": "She scraped the rust off the kitchen knife.",
+      "cn": "她擦掉了菜刀上的锈."
+    },
+    {
+      "en": "The gate was old and badly rusted.",
+      "cn": "大门很旧，锈得厉害。"
+    },
+    {
+      "en": "The metal had begun to rust.",
+      "cn": "金属开始生锈。"
+    },
+    {
+      "en": "The mower is covered with rust.",
+      "cn": "割草机布满了锈."
+    },
+    {
+      "en": "The old padlock was red with rust.",
+      "cn": "旧挂锁已经锈红了."
+    },
+    {
+      "en": "The rain will rust the iron roof.",
+      "cn": "雨水会使铁皮屋顶生锈."
+    },
+    {
+      "en": "The tools will corrode with rust if never used.",
+      "cn": "这些工具如长期不用会长铁锈而损坏."
+    },
+    {
+      "en": "There were large patches of rust on the car.",
+      "cn": "车上有大片锈斑。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rusted",
+          "tran_cn": " 锈的"
+        },
+        {
+          "word": "rusting",
+          "tran_cn": " 生锈的"
+        },
+        {
+          "word": "rustless",
+          "tran_cn": " 不生锈的；无锈的"
+        },
+        {
+          "word": "rusty",
+          "tran_cn": " 生锈的，腐蚀的；铁锈色的，锈色的；迟钝的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rustiness",
+          "tran_cn": " 生锈；声音嘶哑"
+        },
+        {
+          "word": "rusting",
+          "tran_cn": " 生锈；锈蚀"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "rusted",
+          "tran_cn": " 生锈（rust的过去式和过去分词）；迟钝"
+        },
+        {
+          "word": "rusting",
+          "tran_cn": " 生锈（rust的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "corrosion",
+            "oxidation",
+            "patina",
+            "patination",
+            "verdigris"
+          ],
+          "tran_cn": "腐蚀,生锈"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bronze",
+            "brown",
+            "corrode"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "at",
+            "away",
+            "blight",
+            "damage",
+            "dissolve",
+            "eat",
+            "erode",
+            "harm",
+            "injure",
+            "spoil",
+            "undermine",
+            "waste",
+            "wear"
+          ],
+          "tran_cn": "腐蚀,伤害"
+        },
+        {
+          "words": [
+            "away",
+            "erode",
+            "film",
+            "over",
+            "oxidize",
+            "wear"
+          ],
+          "tran_cn": "腐蚀,锈"
+        },
+        {
+          "words": [
+            "apart",
+            "crumble",
+            "decay",
+            "decline",
+            "degenerate",
+            "deteriorate",
+            "downhill",
+            "fall",
+            "go",
+            "rot",
+            "seed",
+            "stale",
+            "to",
+            "wither"
+          ],
+          "tran_cn": "遭毁坏,退化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "dull"
+          ],
+          "tran_cn": "生锈；成铁锈色；变迟钝"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "eat",
+            "cauterize"
+          ],
+          "tran_cn": "使生锈；腐蚀"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "red rust",
+      "tran_cn": "赤锈病；烟叶斑点病"
+    },
+    {
+      "phrase": "rust belt",
+      "tran_cn": "铁锈地带（指从前工业繁盛今已衰落的发达国家一些地区）"
+    },
+    {
+      "phrase": "rust free",
+      "tran_cn": "不锈的；未生锈的"
+    },
+    {
+      "phrase": "rust inhibitor",
+      "tran_cn": "防锈剂；抗腐蚀添加剂"
+    },
+    {
+      "phrase": "rust prevention",
+      "tran_cn": "防锈处理"
+    },
+    {
+      "phrase": "rust preventive",
+      "tran_cn": "防锈剂"
+    },
+    {
+      "phrase": "rust protection",
+      "tran_cn": "防锈，抗锈"
+    },
+    {
+      "phrase": "rust removal",
+      "tran_cn": "除锈；除锈器"
+    },
+    {
+      "phrase": "rust remover",
+      "tran_cn": "除锈剂"
+    },
+    {
+      "phrase": "rust resistance",
+      "tran_cn": "抗锈蚀性；耐锈蚀性；耐锈蚀能力"
+    },
+    {
+      "phrase": "stem rust",
+      "tran_cn": "杆锈；茎锈病"
+    },
+    {
+      "phrase": "white rust",
+      "tran_cn": "[植物病理]白锈病"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "铁锈，锈病，锈菌，荒废，停滞，锈，锈色",
+      "tran_en": "the reddish-brown substance that forms on iron or steel when it gets wet"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "锈，生锈；荒废",
+      "tran_en": "the reddish-brown substance that forms on iron or steel when it gets wet"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "生锈，氧化",
+      "tran_en": "to become covered with rust, or to make something become covered in rust"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）生锈，[植]害锈病，变钝，荒废"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rusts"
+    ],
+    "third": [
+      "rusts"
+    ],
+    "past": [
+      "rusted"
+    ],
+    "done": [
+      "rusted"
+    ],
+    "ing": [
+      "rusting"
+    ],
+    "adj": [
+      "rusted"
+    ]
+  }
+}

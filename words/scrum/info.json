@@ -1,0 +1,136 @@
+{
+  "word": "scrum",
+  "ipa": {
+    "us": "skrʌm",
+    "uk": "skrʌm"
+  },
+  "sentences": [
+    {
+      "en": "Figure 7 compares the primary SCRUM characteristics to those of other methodologies.",
+      "cn": "图7基本的SCRUM方法和其他方法特性的比较."
+    },
+    {
+      "en": "If the ball is passed forward the referee orders set scrum.",
+      "cn": "如果球被往前传了,裁判就会判并列争球."
+    },
+    {
+      "en": "Object Oriented technology provides the basis for the SCRUM methodology.",
+      "cn": "面向对象技术为SCRUM提供了技术基础."
+    },
+    {
+      "en": "Our observations have led us to conclude that SCRUM projects have both velocity and acceleration.",
+      "cn": "我们的观察发现SCRUM项目同时具有速度和加速度."
+    },
+    {
+      "en": "Procedural code, with its many and intertwined interfaces, is inappropriate for the SCRUM methodology.",
+      "cn": "面向过程的代码所具有的包含诸多相互交织的接口的特点对于SCRUM技术是不合适的."
+    },
+    {
+      "en": "SCRUM is a management, enhancement and maintenance methodology for an existing system.",
+      "cn": "SCRUM是一种对已存在系统的管理, 提高和维护的方法."
+    },
+    {
+      "en": "SCRUM may be selectively applied to procedural systems with clean interfaces and strong data orientation.",
+      "cn": "然而对于有着清晰接口和明显的数据导向的面向过程的系统SCRUM技术还是可以考虑的."
+    },
+    {
+      "en": "SCRUM will address new or re - engineered systems development efforts at a later date.",
+      "cn": "在不久的将来,SCRUM将致力于新的或重组的系统开发."
+    },
+    {
+      "en": "She pushed through the scrum of photographers.",
+      "cn": "她从挤作一团的摄影记者中挤了过去。"
+    },
+    {
+      "en": "Shoppers got into a scrum round the bargain counter.",
+      "cn": "顾客在廉价品柜台周围你争我夺."
+    },
+    {
+      "en": "The SCRUM approach is used at leading edge software companies with significant success.",
+      "cn": "SCRUM方法现在被很多领先的软件公司成功使用."
+    },
+    {
+      "en": "The SCRUM methodology embodies these general, loose controls, using OO techniques for the actual construction deliverables.",
+      "cn": "在使用面向对象技术来构建实际的可发行软件过程中,SCRUM方法包括了一般化和松散的控制."
+    },
+    {
+      "en": "The SCRUM methodology, on the other hand , is designed to be quite flexible throughout.",
+      "cn": "然而, scrum方法论的设计自始至终具有很强的适应性."
+    },
+    {
+      "en": "There was a real scrum when the bus arrived.",
+      "cn": "公共汽车到站时，人们一窝蜂都往上挤。"
+    },
+    {
+      "en": "These controls are used in the various phases of SCRUM.",
+      "cn": "这些控制因素存在于SCRUMf方法的不同阶段中."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "scrummage",
+          "tran_cn": " 并列争球"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "scrummage",
+          "tran_cn": " 参与争球；排成争球队形"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "scrummage",
+          "tran_cn": " 排成争球队形；参与争球（等于scrimmage）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chaos",
+            "disorder",
+            "confusion",
+            "involvement",
+            "mix"
+          ],
+          "tran_cn": "扭打，混乱；并列争球"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "并列争球，扭打，混乱，争夺",
+      "tran_en": "a part of a game of  rugby  when the players all push together in a circle, with their heads down, and try to get the ball"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "参加并列争球"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "抛（球）开始并列争球"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "scrums"
+    ]
+  }
+}

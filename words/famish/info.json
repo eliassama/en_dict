@@ -1,0 +1,104 @@
+{
+  "word": "famish",
+  "ipa": {
+    "us": "'fæmɪʃ",
+    "uk": "ˈfæmɪʃ"
+  },
+  "sentences": [
+    {
+      "en": "They are famish for food.",
+      "cn": "他们因缺乏食物而正在挨饿."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "famished",
+          "tran_cn": " 极饥饿的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "famished",
+          "tran_cn": " 使饥饿（famish的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "hunger",
+            "starve"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "hunger",
+            "starve"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "go hungry",
+            "suffer hunger",
+            "go be hungry"
+          ],
+          "tran_cn": "挨饿"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "starve"
+          ],
+          "tran_cn": "使挨饿"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "(常用被动语态)使挨饿, <古>使饿死",
+      "tran_en": "to be or make very hungry or weak "
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "使挨饿，感到饥饿"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "famishes"
+    ],
+    "past": [
+      "famished"
+    ],
+    "done": [
+      "famished"
+    ],
+    "ing": [
+      "famishing"
+    ]
+  }
+}

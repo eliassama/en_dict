@@ -1,0 +1,129 @@
+{
+  "word": "sequent",
+  "ipa": {
+    "us": "'si:kwənt",
+    "uk": "'sikwənt"
+  },
+  "sentences": [
+    {
+      "en": "As one of the critical steps, identification of risk factors affects the sequent risk evaluation directly.",
+      "cn": "摘要风险因素辨识作为风险评价的关键环节之一, 其结果直接影响后续的风险评价."
+    },
+    {
+      "en": "Chinese four - character structure like a chain of pearls has meaning with rich andand its sequent tone.",
+      "cn": "连珠四字结构词义丰富,文采华丽,语气连贯,而其字面意义却并非历历俱足,往往是虚实相生,重在一股气势和意境."
+    },
+    {
+      "en": "In the sequent ten years, he travelled almost the whole country.",
+      "cn": "在接下来的十年里他差不多走遍了整个国家。"
+    },
+    {
+      "en": "It is a dynamic circular chain that formed by sequent lists and linked lists alternately.",
+      "cn": "该结构是由顺序表与链表交叉构造而形成的一种动态循环链表."
+    },
+    {
+      "en": "Methods Adopt the sequent nursing procedure to implement the holistic nursing.",
+      "cn": "运用护理程序对患者实施整体护理."
+    },
+    {
+      "en": "The ultrasonic pulse sent is controlled by CPU, The ultrasonic pulse can be sequent and discontinuous.",
+      "cn": "脉冲的发射由CPU控制, 可以发送连续超声波和序列脉冲波."
+    },
+    {
+      "en": "The warming of the Earth and the con-sequent climatic changes affect us all.",
+      "cn": "地球变暖以及随之而来的气候变化影响着我们所有人。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sequential",
+          "tran_cn": " 连续的；相继的；有顺序的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sequela",
+          "tran_cn": " [医] 后遗症；结果；后继者"
+        },
+        {
+          "word": "sequence",
+          "tran_cn": " [数][计] 序列；顺序；续发事件"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sequence",
+          "tran_cn": " 按顺序排好"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "continuing",
+            "straight",
+            "endless",
+            "running",
+            "serial"
+          ],
+          "tran_cn": "连续的；其次的；作为结果而产生的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "outcome",
+            "product",
+            "result",
+            "event",
+            "consequence"
+          ],
+          "tran_cn": "结果；相继发生的事"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "consequent",
+            "following",
+            "later",
+            "successive"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "接续而来的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "结果；相继发生的事",
+      "tran_en": "something that follows; consequence "
+    }
+  ],
+  "exchange": {}
+}

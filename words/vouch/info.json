@@ -1,0 +1,177 @@
+{
+  "word": "vouch",
+  "ipa": {
+    "us": "vaʊtʃ",
+    "uk": "vaʊtʃ"
+  },
+  "sentences": [
+    {
+      "en": "Can you present any references who might vouch for your character?",
+      "cn": "你能提供一些可以为你的人格作担保的证明人吗？"
+    },
+    {
+      "en": "Don't ask new contacts to vouch for you; that's not fair.",
+      "cn": "不要拜托新认识的人为你担保, 那是不合理的."
+    },
+    {
+      "en": "Experts vouch for the painting's authenticity.",
+      "cn": "由专家确认该画是否为真迹."
+    },
+    {
+      "en": "I can vouch for him / his honesty.",
+      "cn": "我可以为他[他的诚实]作担保."
+    },
+    {
+      "en": "I can vouch for his honesty.",
+      "cn": "我可以为他的诚实做担保。"
+    },
+    {
+      "en": "I can vouch for the fact that he is a good worker.",
+      "cn": "我保证他是好员工."
+    },
+    {
+      "en": "I can't vouch for it that he is in town.",
+      "cn": "我不能说他一定在城里."
+    },
+    {
+      "en": "I can't vouch for the accuracy of my memory.",
+      "cn": "我无法保证我的记忆正确无误."
+    },
+    {
+      "en": "I can't vouch for this hotel ( = I have no personal experience of it ) but it looked wonderful from the brochure.",
+      "cn": "我没住过这家旅馆,可从指南上看它很棒."
+    },
+    {
+      "en": "I said, yeah, I'm vouch for him because I believe in him.",
+      "cn": "我说:“是的, 我替他担保,因为我相信他. ”"
+    },
+    {
+      "en": "I've read this report carefully and I can vouch for its correctness.",
+      "cn": "我仔细看过这份报告,认为它正确无误."
+    },
+    {
+      "en": "I've read this report carefully and I can vouch for its truthfulness.",
+      "cn": "我已仔细看过这份报告,我可以保证它的真实性."
+    },
+    {
+      "en": "Kim's mother agreed to vouch for Maria and get her a job.",
+      "cn": "金的母亲同意为玛丽亚担保，好让她找份工作。"
+    },
+    {
+      "en": "They asked whether I was prepared to vouch for him.",
+      "cn": "他们问我是否愿意为他作担保."
+    },
+    {
+      "en": "We are ready to vouch for the truth of the report.",
+      "cn": "我们愿意保证这一报导的真实性."
+    },
+    {
+      "en": "You should give the names of two people who can vouch for your honesty and reliability.",
+      "cn": "你应该提供两个能担保你诚实可信的人的名字."
+    },
+    {
+      "en": "You think they'll vouch for you after I find out the truth about this ring?",
+      "cn": "我查出这只钻戒的真相他们还会替你说话 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vouchee",
+          "tran_cn": " 被担保人"
+        },
+        {
+          "word": "voucher",
+          "tran_cn": " 收据；证人；保证人；证明者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "attest",
+            "certify",
+            "insure",
+            "witness"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "assure",
+            "aver",
+            "bear",
+            "guarantee",
+            "pledge",
+            "promise",
+            "swear",
+            "testify",
+            "vow",
+            "witness"
+          ],
+          "tran_cn": "保证;发誓"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "assure",
+            "prove",
+            "demonstrate",
+            "guarantee",
+            "argue"
+          ],
+          "tran_cn": "担保；证明；传出庭作证"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "vouch for",
+      "tran_cn": "担保；保证"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 担保， 保证"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "保证，担保，确定，确定地说"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（因亲眼看见而）为…作证，断定，<律>传（某人）出庭作证"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "vouches"
+    ],
+    "past": [
+      "vouched"
+    ],
+    "done": [
+      "vouched"
+    ],
+    "ing": [
+      "vouching"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "word": "remediable",
+  "ipa": {
+    "us": "rɪˈmi:diəbl",
+    "uk": "rɪˈmidiəbəl"
+  },
+  "sentences": [
+    {
+      "en": "remediable problems",
+      "cn": "可以解决的问题"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "remedial",
+          "tran_cn": " 治疗的；补救的；矫正的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "remediation",
+          "tran_cn": " 补救；矫正；补习"
+        },
+        {
+          "word": "remedy",
+          "tran_cn": " 补救；治疗；赔偿"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "remedy",
+          "tran_cn": " 补救；治疗；纠正"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "curable",
+            "rectifiable"
+          ],
+          "tran_cn": "可治疗的；可矫正的；可补救的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "corrigible",
+            "curable"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可治疗的，可补救的，可矫正的",
+      "tran_en": "able to be corrected or cured"
+    }
+  ],
+  "exchange": {}
+}

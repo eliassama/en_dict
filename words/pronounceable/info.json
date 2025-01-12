@@ -1,0 +1,83 @@
+{
+  "word": "pronounceable",
+  "ipa": {
+    "us": "prəˈnaʊnsəbl",
+    "uk": " prəˈnaʊnsəbl"
+  },
+  "sentences": [
+    {
+      "en": "I find some of the place - names barely pronounceable.",
+      "cn": "我发现有些地名简直没法念."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pronounced",
+          "tran_cn": " 显著的；断然的；讲出来的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pronunciation",
+          "tran_cn": " 发音；读法"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "pronounced",
+          "tran_cn": " 发音；宣告；断言（pronounce的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "pronounce",
+          "tran_cn": " 发音；作出判断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "pronounce",
+          "tran_cn": " 发音；宣判；断言"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "assertable",
+            "affirmable"
+          ],
+          "tran_cn": "读得出的；可发音的；可断言的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可发音的，可断言的",
+      "tran_en": "a word, name etc that is pronounceable is easy to say"
+    }
+  ],
+  "exchange": {}
+}

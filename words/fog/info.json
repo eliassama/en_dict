@@ -1,0 +1,252 @@
+{
+  "word": "fog",
+  "ipa": {
+    "us": "fɒɡ",
+    "uk": "fɑːɡ"
+  },
+  "sentences": [
+    {
+      "en": "A blanket of fog covered the fields.",
+      "cn": "大雾笼罩了田野。"
+    },
+    {
+      "en": "He was fog-bound at London airport.",
+      "cn": "他因为浓雾被困伦敦机场。"
+    },
+    {
+      "en": "His mind was in a fog when he finally got up.",
+      "cn": "他终于起床了，头脑一片混沌。"
+    },
+    {
+      "en": "I said, \"My car won't go in fog\".",
+      "cn": "我说：“我的车在雾天里没法开。”"
+    },
+    {
+      "en": "It wasn't very thick fog.",
+      "cn": "雾不算很浓。"
+    },
+    {
+      "en": "It will be a cold night, and there may be fog patches .",
+      "cn": "今夜天气寒冷，部分地区可能有雾。"
+    },
+    {
+      "en": "It'd fog up their telescopes.",
+      "cn": "这会让他们的望远镜蒙上一层雾气。"
+    },
+    {
+      "en": "She heard the sound of the guns thundering in the fog.",
+      "cn": "她听到雾中传来隆隆的枪炮声。"
+    },
+    {
+      "en": "Some fog warning signs had been put up with flashing yellow lights.",
+      "cn": "一些配有黄色闪光灯的大雾警示标志立了起来。"
+    },
+    {
+      "en": "Synchronizing these attacks may be difficult in the fog of war.",
+      "cn": "在迷雾一样的战争中可能很难同时发动这些攻击。"
+    },
+    {
+      "en": "The car and the van collided head-on in thick fog.",
+      "cn": "那辆小轿车和货车在浓雾中迎面相撞。"
+    },
+    {
+      "en": "The fog began to disperse.",
+      "cn": "雾开始散了。"
+    },
+    {
+      "en": "The fog cleared away and the full moon appeared.",
+      "cn": "雾消散了,整个月亮出现了."
+    },
+    {
+      "en": "The fog had lifted and revealed a warm, sunny day.",
+      "cn": "雾已经散了，看来是温暖晴朗的一天。"
+    },
+    {
+      "en": "The fog lifted (= disappeared ) in the afternoon.",
+      "cn": "下午，雾散了。"
+    },
+    {
+      "en": "The ship, with the help of radar, sailed in thick fog.",
+      "cn": "船借助于雷达在浓雾中航行."
+    },
+    {
+      "en": "Thick patchy fog and irresponsible driving were to blame.",
+      "cn": "局部浓雾和驾驶员不负责任是罪魁祸首。"
+    },
+    {
+      "en": "You should exercise extreme caution when driving in fog.",
+      "cn": "在雾中开车要极为小心."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fogged",
+          "tran_cn": " 有灰雾的；不清晰的"
+        },
+        {
+          "word": "foggy",
+          "tran_cn": " 有雾的；模糊的，朦胧的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fogger",
+          "tran_cn": " 雾警信号手；照顾牛马的人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "fogged",
+          "tran_cn": " 使模糊；以雾笼罩；使迷惘（fog的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "vapor",
+            "smog"
+          ],
+          "tran_cn": "[气象][摄]雾；烟雾，尘雾；迷惑"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blur",
+            "cloud",
+            "confuse",
+            "dim",
+            "mist",
+            "moisture",
+            "smog",
+            "smoke",
+            "vapor"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "mist"
+          ],
+          "tran_cn": "被雾笼罩；变模糊"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "blur",
+            "cloud",
+            "confuse",
+            "dim"
+          ],
+          "tran_cn": "使模糊;使困惑"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acid fog",
+      "tran_cn": "酸雾；酸雾术"
+    },
+    {
+      "phrase": "advection fog",
+      "tran_cn": "平流雾，移流雾；海面雾"
+    },
+    {
+      "phrase": "dense fog",
+      "tran_cn": "浓雾"
+    },
+    {
+      "phrase": "fog density",
+      "tran_cn": "灰雾密度，雾密度"
+    },
+    {
+      "phrase": "fog lamp",
+      "tran_cn": "雾灯，雾天行车灯"
+    },
+    {
+      "phrase": "fog light",
+      "tran_cn": "雾灯，雾天灯"
+    },
+    {
+      "phrase": "fog machine",
+      "tran_cn": "烟雾器；雾烟机"
+    },
+    {
+      "phrase": "heavy fog",
+      "tran_cn": "n. 浓雾，重雾"
+    },
+    {
+      "phrase": "in a fog",
+      "tran_cn": "困惑不解，如坠五里雾中"
+    },
+    {
+      "phrase": "thick fog",
+      "tran_cn": "浓雾（一级能见度）；大雾"
+    },
+    {
+      "phrase": "water fog",
+      "tran_cn": "水雾，水态雾"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "雾，烟雾，迷惑，割后再生的草",
+      "tran_en": "cloudy air near the ground which is difficult to see through"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使模糊；使困惑；以雾笼罩",
+      "tran_en": "if something made of glass fogs or becomes fogged, it becomes covered in small drops of water that make it difficult to see through"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "为雾笼罩，朦胧，照片（模糊）"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "以雾包围，使模糊，使迷惑"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "fogs"
+    ],
+    "past": [
+      "fogged"
+    ],
+    "done": [
+      "fogged"
+    ],
+    "ing": [
+      "fogging"
+    ]
+  }
+}

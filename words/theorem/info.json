@@ -1,0 +1,224 @@
+{
+  "word": "theorem",
+  "ipa": {
+    "us": "ˈθɪərəm",
+    "uk": "ˈθiːərəm"
+  },
+  "sentences": [
+    {
+      "en": "A complete analysis must build on the implicit function theorem.",
+      "cn": "完整的分析必须建立在隐函数定理的基础上."
+    },
+    {
+      "en": "a mathematical theorem",
+      "cn": "数学定理"
+    },
+    {
+      "en": "And then we have a fundamental theorem that gives us a way to compute this without computing it.",
+      "cn": "下面是一个基本定理,它给出了，无需计算积分就得到结果的办法。"
+    },
+    {
+      "en": "By the corollary to Theorem 4.3, the origin is asymptotically stable.",
+      "cn": "根据定理4.3的推论, 原点是渐近稳定的."
+    },
+    {
+      "en": "His theorem can be translated into simple terms.",
+      "cn": "他的定理可用更简单的术语来解释."
+    },
+    {
+      "en": "I agree with the theorem that the best defence is offence.",
+      "cn": "我同意最好的防御是进攻的理论."
+    },
+    {
+      "en": "It is misleading to refer to the principle as an \" energy theorem \".",
+      "cn": "将功的定理称为 “ 能量定理 ” 是会使人误解的."
+    },
+    {
+      "en": "Let us restate the assertions above as a theorem .",
+      "cn": "我们把上述的断言重新表述为一个定理。"
+    },
+    {
+      "en": "Rolle's theorem is a special case of the mean value theorem.",
+      "cn": "罗尔定理是中值定理的一种特殊形式."
+    },
+    {
+      "en": "So, what does the divergence theorem say?",
+      "cn": "那么散度定理究竟讲的是什么？"
+    },
+    {
+      "en": "That is the so - called fundamental theorem of algebra.",
+      "cn": "这就是代数基本定理."
+    },
+    {
+      "en": "The assertion is known as the closed graph theorem for Hilbert spaces.",
+      "cn": "这个断语被称为希耳伯特空间的闭图象定理."
+    },
+    {
+      "en": "The remarkable part of Karatowski's theorem is the \" only if \" part.",
+      "cn": "库拉图夫斯基定理的卓越部分在于他的 “ 仅当 ” 部分."
+    },
+    {
+      "en": "The theorem may be explained as follows.",
+      "cn": "这条原理可以这样来阐述."
+    },
+    {
+      "en": "Theorem g is called binomial theorem.",
+      "cn": "定理g称为二项式定理."
+    },
+    {
+      "en": "There are a number of alternative formulations of the reciprocity theorem.",
+      "cn": "还有许多别的互易定理的公式."
+    },
+    {
+      "en": "This paper uses several methods of complex functions theorey to prove fundamental theorem of algebra by argument principle, maximum modulus principle and minimum modulus principle.",
+      "cn": "从复变函数理论出发，利用辐角原理、最大模原理、最小模原理给出代数学基本定理的几种新的证明方法。"
+    },
+    {
+      "en": "This result is often called the integrality theorem.",
+      "cn": "此结果常称为整性定理."
+    },
+    {
+      "en": "To get an accurate sample of an event that takes, for example, 20 seconds, samples must be measured every 10 seconds according to the Nyquist theorem.",
+      "cn": "例如，根据奈奎斯原理，为了得到发生时间为 20 秒的事件的准确样本，那么必须每 10 秒进行一次抽样。"
+    },
+    {
+      "en": "We call this principle a rule and not a theorem.",
+      "cn": "我们称这个法则为原理而不称为定理."
+    },
+    {
+      "en": "We now state the idea of the previous paragraph as a theorem.",
+      "cn": "现在我们把上一段的概念叙述成定理."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "theory",
+          "tran_cn": "理论；原理；学说；推测"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mechanism",
+            "element"
+          ],
+          "tran_cn": "[数]定理；原理"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "prescription",
+            "thesis"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "approximation theorem",
+      "tran_cn": "逼近定理"
+    },
+    {
+      "phrase": "binomial theorem",
+      "tran_cn": "[数]二项式定理"
+    },
+    {
+      "phrase": "central limit theorem",
+      "tran_cn": "中心极限定理"
+    },
+    {
+      "phrase": "chinese remainder theorem",
+      "tran_cn": "孙子剩余定理"
+    },
+    {
+      "phrase": "coase theorem",
+      "tran_cn": "[经]科斯定理"
+    },
+    {
+      "phrase": "comparison theorem",
+      "tran_cn": "比较定理"
+    },
+    {
+      "phrase": "duality theorem",
+      "tran_cn": "对偶定理"
+    },
+    {
+      "phrase": "existence theorem",
+      "tran_cn": "[计]存在性定理"
+    },
+    {
+      "phrase": "fixed point theorem",
+      "tran_cn": "不动点定理"
+    },
+    {
+      "phrase": "gauss theorem",
+      "tran_cn": "高斯定理"
+    },
+    {
+      "phrase": "intermediate value theorem",
+      "tran_cn": "介值定理"
+    },
+    {
+      "phrase": "mean value theorem",
+      "tran_cn": "中值定理，平均值定律"
+    },
+    {
+      "phrase": "pythagorean theorem",
+      "tran_cn": "勾股定理；毕氏定理"
+    },
+    {
+      "phrase": "reciprocity theorem",
+      "tran_cn": "[物]互易定理；[电磁]倒易理论"
+    },
+    {
+      "phrase": "remainder theorem",
+      "tran_cn": "余式定理"
+    },
+    {
+      "phrase": "sampling theorem",
+      "tran_cn": "抽样定理"
+    },
+    {
+      "phrase": "separation theorem",
+      "tran_cn": "分离定理，分离定律"
+    },
+    {
+      "phrase": "theorem of kinetic energy",
+      "tran_cn": "动能定理"
+    },
+    {
+      "phrase": "theorem proving",
+      "tran_cn": "定理证明"
+    },
+    {
+      "phrase": "uniqueness theorem",
+      "tran_cn": "唯一性定理；单值定理"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[数] 定理，（能证明的）一般原理，公理，定律，法则",
+      "tran_en": "a statement, especially in mathematics, that you can prove by showing that it has been correctly developed from facts"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "theorems"
+    ]
+  }
+}

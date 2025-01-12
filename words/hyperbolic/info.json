@@ -1,0 +1,144 @@
+{
+  "word": "hyperbolic",
+  "ipa": {
+    "us": "ˌhaɪpəˈbɒlɪk",
+    "uk": "ˌhaɪpərˈbɑlɪk"
+  },
+  "sentences": [
+    {
+      "en": "A hyperbolic grid generation method based on upwind scheme has been developed.",
+      "cn": "双曲型网格生成方法是一种十分适合于重叠网格方法应用的网格生成方法."
+    },
+    {
+      "en": "Based on CORDIC algorithm, research reveals how to calculate hyperbolic function by simple hardware.",
+      "cn": "研究基于CORDIC算法 如何应用简单的硬件实现双曲正弦/余弦函数的计算."
+    },
+    {
+      "en": "Figure 11.3.3–3 Family of hyperbolic flow potentials in the meridional stress plane.",
+      "cn": "这个连续而光滑的流势保证了流向总是为唯一确定的.图11.3.3-3显示了材料应力平面内的一族双曲线势,图11.3.3-4显示了偏应力平面内的流势."
+    },
+    {
+      "en": "Finally, we construct 3 D highly directive antenna based on the hyperbolic medium.",
+      "cn": "最后, 在基于双曲线介质来构造3D高指向天线."
+    },
+    {
+      "en": "In this article holomorphic curves in the complex hyperbolic space are discussed.",
+      "cn": "研究复双曲空间中的全纯曲线."
+    },
+    {
+      "en": "Karl Gauss pioneered hyperbolic geometry.",
+      "cn": "卡尔·高斯开辟了双曲线几何学."
+    },
+    {
+      "en": "Reducer used Gleason hyperbolic Drive, from single to multi - level multilevel transmission.",
+      "cn": "减速机采用格里森双曲线齿轮传动, 从单级到多级多传动."
+    },
+    {
+      "en": "The authors show that the hyperboloid of one sheet and the hyperbolic paraboloid are ruled surfaces.",
+      "cn": "作者证实:单叶双曲面和双曲抛物面是直线曲面."
+    },
+    {
+      "en": "The correlation between ε r and other influential factors a hyperbolic trend.",
+      "cn": "残余变形与其影响因素之间可用双曲线函数关系描述."
+    },
+    {
+      "en": "The hyperbolic surface, which has so-called negative curvature because its surface curves up and down at the same time, like a saddle, just might represent the shape of the universe.",
+      "cn": "双曲表面，即通常所称的负曲率，因为它的表面曲线同时有的向上和有的向下，像一个马鞍，也许这样就可以代表宇宙的形状。"
+    },
+    {
+      "en": "The relationship between suction strength and suction was a hyperbolic feature.",
+      "cn": "同时研究发现非饱和重塑膨胀土的的吸力强度与吸力的双曲特性."
+    },
+    {
+      "en": "The results show that the hyperbolic microlens a better coupling - performance.",
+      "cn": "结果表明双曲面微透镜有较高的耦合效率."
+    },
+    {
+      "en": "This general solution consists of either the combinations of trigonometric and hyperbolic functions, or algebraic polynomials.",
+      "cn": "一般解包括三角函数和双曲线函数组成的解, 还有代数多项式解."
+    },
+    {
+      "en": "This paper presents a class of quadratic non - uniform hyperbolic B - spline curves with multiple shape parameters.",
+      "cn": "给出了一类带多个形状参数的二次 非均匀 双曲B - 样条曲线,这类曲线具有二次多项式B- 样条曲线的许多重要性质."
+    },
+    {
+      "en": "Two fdmilies Of characteristic lines in the hyperbolic region are not orthogonal.",
+      "cn": "在双曲型区域两族特征线互不正交."
+    },
+    {
+      "en": "We define the distance from a point to a hyperbolic pattern such that detection becomes feasible.",
+      "cn": "在此系统中,我们定义了点到双曲线的距离使得系统能够成功的运作."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hyperboloidal",
+          "tran_cn": " 双曲面的；北极的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hyperbola",
+          "tran_cn": " [数] 双曲线"
+        },
+        {
+          "word": "hyperbole",
+          "tran_cn": " 夸张的语句；夸张法"
+        },
+        {
+          "word": "hyperboloid",
+          "tran_cn": " [数] 双曲面；双曲线体"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "exaggerative",
+            "melodramatic"
+          ],
+          "tran_cn": "[数]双曲线的；夸张的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hyperbolic curve",
+      "tran_cn": "双曲线"
+    },
+    {
+      "phrase": "hyperbolic equation",
+      "tran_cn": "双曲型方程"
+    },
+    {
+      "phrase": "hyperbolic function",
+      "tran_cn": "双曲线函数"
+    },
+    {
+      "phrase": "hyperbolic secant",
+      "tran_cn": "双曲正割"
+    },
+    {
+      "phrase": "hyperbolic tangent",
+      "tran_cn": "双曲正切"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<几>双曲线的，<数>双曲线函数的，夸张的"
+    }
+  ],
+  "exchange": {}
+}

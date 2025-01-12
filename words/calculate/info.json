@@ -1,0 +1,226 @@
+{
+  "word": "calculate",
+  "ipa": {
+    "us": "ˈkælkjuleɪt",
+    "uk": "ˈkælkjuleɪt"
+  },
+  "sentences": [
+    {
+      "en": "Astronomers can calculate when there will be eclipses of the sun and moon.",
+      "cn": "天文学家可以算出何时发生日食和月食."
+    },
+    {
+      "en": "Emotional people don't stop to calculate.",
+      "cn": "感情容易冲动的人做事往往不加考虑."
+    },
+    {
+      "en": "Engineers calculate the strains and stresses of a bridge.",
+      "cn": "工程师们计算桥梁的受压力度."
+    },
+    {
+      "en": "Engineers calculate the strains and stresses on a bridge.",
+      "cn": "工程师们计算桥梁的应变和应力."
+    },
+    {
+      "en": "From this you can calculate the total mass in the Galaxy.",
+      "cn": "由此你可以算出银河系的总质量。"
+    },
+    {
+      "en": "He must calculate the probability of failure.",
+      "cn": "他必须计算一下失败的概率."
+    },
+    {
+      "en": "I calculate we'll be in time.",
+      "cn": "我认为我们是来得及的"
+    },
+    {
+      "en": "I'll calculate what it will cost.",
+      "cn": "我要估计一下那要花多少钱."
+    },
+    {
+      "en": "Our main aim is to calculate the number of distinct patterns.",
+      "cn": "我们的主要目的是计算不同的型的数目."
+    },
+    {
+      "en": "Researchers calculated that this group was at a higher risk of heart disease.",
+      "cn": "研究人员估测这一群体患心脏病的机率更高。"
+    },
+    {
+      "en": "Take a hundred and twenty values and calculate the mean.",
+      "cn": "取120个值计算平均数。"
+    },
+    {
+      "en": "The project is on such a gigantic scale that the cost is hard to calculate.",
+      "cn": "工程浩大,所费不赀."
+    },
+    {
+      "en": "These instruments calculate distances precisely.",
+      "cn": "这些仪器计算距离非常精确。"
+    },
+    {
+      "en": "This formula is used to calculate the area of a circle.",
+      "cn": "这个公式用于计算圆的面积。"
+    },
+    {
+      "en": "Use the formula to calculate the volume of the container.",
+      "cn": "用公式计算容器的容积。"
+    },
+    {
+      "en": "We calculate that the average size farm in Lancaster County is 65 acres.",
+      "cn": "我们计算出兰开斯特郡的农场面积平均为65英亩。"
+    },
+    {
+      "en": "We must calculate on a long - term basis.",
+      "cn": "我们要作 长期 打算."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "calculable",
+          "tran_cn": " 可计算的；能预测的；可靠的"
+        },
+        {
+          "word": "calculated",
+          "tran_cn": " 计算出的；适合的；有计划的"
+        },
+        {
+          "word": "calculating",
+          "tran_cn": " 计算的；深谋远虑的；审慎的"
+        },
+        {
+          "word": "calculative",
+          "tran_cn": " 计算的，善于计算的；精明的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "calculation",
+          "tran_cn": " 计算；估计；计算的结果；深思熟虑"
+        },
+        {
+          "word": "calculator",
+          "tran_cn": " 计算器；计算者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "calculated",
+          "tran_cn": " 计算；估计；打算（calculate的过去式和过去分词）"
+        },
+        {
+          "word": "calculating",
+          "tran_cn": " 计算（calculate的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appraise",
+            "compute",
+            "count",
+            "enumerate",
+            "estimate",
+            "figure",
+            "infer",
+            "plan",
+            "program",
+            "reason",
+            "reckon",
+            "score",
+            "suppose",
+            "tally",
+            "think"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "figure",
+            "cast"
+          ],
+          "tran_cn": "计算；以为；作打算"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "compute",
+            "count",
+            "estimate",
+            "figure",
+            "reckon"
+          ],
+          "tran_cn": "计算;估计"
+        },
+        {
+          "words": [
+            "plan",
+            "reason",
+            "suppose",
+            "think"
+          ],
+          "tran_cn": "预测;计划"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be calculated for",
+      "tran_cn": "适合于……；为适合…而设计的"
+    },
+    {
+      "phrase": "calculate on",
+      "tran_cn": "指望；期待"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "计算，估算，估计，预料",
+      "tran_en": "to find out how much something will cost, how long something will take etc, by using numbers"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 计算， 核算； 推测， 估计； 打算， 计划",
+      "tran_en": "to find out how much something will cost, how long something will take etc, by using numbers"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "calculates"
+    ],
+    "past": [
+      "calculated"
+    ],
+    "done": [
+      "calculated"
+    ],
+    "ing": [
+      "calculating"
+    ],
+    "word": "calculate"
+  }
+}

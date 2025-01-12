@@ -1,0 +1,194 @@
+{
+  "word": "interpret",
+  "ipa": {
+    "us": "ɪnˈtɜːprət",
+    "uk": "ɪnˈtɜːrprət"
+  },
+  "sentences": [
+    {
+      "en": "\" Good men ever interpret themselves too meanly,'said the physician.",
+      "cn": "“ 好心的人从来都是把自己说得十分卑微的, ” 医生说."
+    },
+    {
+      "en": "Can you interpret the import of what he remarked at the end of the meeting?",
+      "cn": "你能把他在会议结尾时讲话的含义解释一下 吗 ?"
+    },
+    {
+      "en": "Different people might interpret events differently.",
+      "cn": "不同的人对事件的理解也可能不同."
+    },
+    {
+      "en": "Freud’s attempts to interpret the meaning of dreams",
+      "cn": "弗洛伊德对梦的含义的解析"
+    },
+    {
+      "en": "How do you interpret this poem?",
+      "cn": "你怎样解释这首诗 呢 ?"
+    },
+    {
+      "en": "I'll interpret for you.",
+      "cn": "我来为你做翻译."
+    },
+    {
+      "en": "Interpreters found they could not interpret half of what he said.",
+      "cn": "口译员们发现他说的话他们连一半都翻译不出来。"
+    },
+    {
+      "en": "Normally, the brain does not interpret tile phosphene patterns as identifiable objects.",
+      "cn": "正常情况下, 脑不能把磷苯图像转化成可识别的物像."
+    },
+    {
+      "en": "Officials fear that he might interpret the emphasis on diplomacy as a sign of weakness.",
+      "cn": "官员们担心他会把对外交的重视理解为软弱的表现。"
+    },
+    {
+      "en": "Please interpret the comments of our foreign guest.",
+      "cn": "请把外宾的话翻译一下."
+    },
+    {
+      "en": "She interpret his silence as arrogance.",
+      "cn": "她把他的沉默解释为傲慢。"
+    },
+    {
+      "en": "The judge quite rightly says that he has to interpret the law as it's been passed.",
+      "cn": "法官说他必须按照该法的立法初衷来阐释它，这完全没错。"
+    },
+    {
+      "en": "The manager has accurate financial statements and be able to interpret them.",
+      "cn": "管理人员需具有准确的财务清单并能解释它们."
+    },
+    {
+      "en": "The students were asked to interpret the poem.",
+      "cn": "学生们被要求诠释那首诗的意义。"
+    },
+    {
+      "en": "They could interpret it that way if they'd a mind to.",
+      "cn": "如果他们愿意的话，可以那样理解。"
+    },
+    {
+      "en": "They spoke good Spanish, and promised to interpret for me.",
+      "cn": "他们西班牙语说得很好，答应替我翻译。"
+    },
+    {
+      "en": "We have to interpret his words in a modern light.",
+      "cn": "我们不得不用现代观点来解释他的话."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interpretable",
+          "tran_cn": " 可说明的；可判断的；可翻译的"
+        },
+        {
+          "word": "interpretative",
+          "tran_cn": " 解释的；作为说明的"
+        },
+        {
+          "word": "interpretive",
+          "tran_cn": " 解释的；作为说明的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interpretation",
+          "tran_cn": " 解释；翻译；演出"
+        },
+        {
+          "word": "interpreter",
+          "tran_cn": " 解释者；口译者；注释器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "analyze",
+            "annotate",
+            "clarify",
+            "construe",
+            "diagnose",
+            "explain",
+            "translate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "account",
+            "translate"
+          ],
+          "tran_cn": "解释；翻译"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "analyze",
+            "clarify",
+            "explain",
+            "translate"
+          ],
+          "tran_cn": "解释;澄清;分析"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "right to interpret",
+      "tran_cn": "解释权"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "诠释，领会，把…理解为，口译，演绎",
+      "tran_en": "to translate spoken words from one language into another"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "做口译",
+      "tran_en": "to translate spoken words from one language into another"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 口译， 翻译； 解释， 说明， 诠释； 解释为， 把…理解为",
+      "tran_en": "to translate spoken words from one language into another"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "interprets"
+    ],
+    "past": [
+      "interpreted"
+    ],
+    "done": [
+      "interpreted"
+    ],
+    "ing": [
+      "interpreting"
+    ],
+    "adj": [
+      "interpretable"
+    ]
+  }
+}

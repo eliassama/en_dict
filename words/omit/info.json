@@ -1,0 +1,139 @@
+{
+  "word": "omit",
+  "ipa": {
+    "us": "əˈmɪt",
+    "uk": "oʊˈmɪt"
+  },
+  "sentences": [
+    {
+      "en": "Don't omit a single detail.",
+      "cn": "一点细节也不要漏掉."
+    },
+    {
+      "en": "Don't omit locking [ to lock ] the door.",
+      "cn": "别忘了锁门."
+    },
+    {
+      "en": "Don't omit this paragraph when you write your report.",
+      "cn": "写报告时不要删去这一节."
+    },
+    {
+      "en": "Don't omit to tell him.",
+      "cn": "不要忘了告诉他."
+    },
+    {
+      "en": "I'll not wish to omit this valuable book from my reading.",
+      "cn": "我可不愿在自己的阅读书目中漏掉这本有价值的书."
+    },
+    {
+      "en": "If omit the personage, the crown on the head remains shining.",
+      "cn": "如果将人物删除, 那头顶上的光环依旧."
+    },
+    {
+      "en": "In writing telegrams omit superfluous words.",
+      "cn": "写电报稿要省去不必要的文字。"
+    },
+    {
+      "en": "In writing telegrams omIt'superfluous words.",
+      "cn": "写电报稿要省去不必要的文字."
+    },
+    {
+      "en": "Omit no harsh line , smooth away no displeasing irregularity.",
+      "cn": "不能省略任何刺眼的纹路, 不能掩饰任何讨厌的丑处."
+    },
+    {
+      "en": "Omit the salt in this recipe.",
+      "cn": "省略菜谱中放盐这一步。"
+    },
+    {
+      "en": "Please don't omit to lock the door when you leave.",
+      "cn": "离开时不要忘了锁门."
+    },
+    {
+      "en": "Please don’t omit any details, no matter how trivial they may seem.",
+      "cn": "请不要忽略任何细节，不管它多细小。"
+    },
+    {
+      "en": "Tell us everything that occurred; don't omit anything.",
+      "cn": "告诉我发生的一切. 不要遗漏任何东西."
+    },
+    {
+      "en": "That was a phrase he might omit.",
+      "cn": "这种词儿他还是不讲为妙."
+    },
+    {
+      "en": "This common prudence should have now induced him to omit.",
+      "cn": "按通常的审慎做法,他本来应该免掉这件事的."
+    },
+    {
+      "en": "We now omit the prime on the matrix elements.",
+      "cn": "我们现在把各矩阵元素上的一撇略去."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bar",
+            "disregard",
+            "exclude",
+            "leave",
+            "miss",
+            "neglect",
+            "out",
+            "skip",
+            "spare"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bar",
+            "exclude",
+            "leave",
+            "miss",
+            "neglect",
+            "out",
+            "skip"
+          ],
+          "tran_cn": "忽略;排斥"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "省略；遗漏；删除；疏忽",
+      "tran_en": "to not include someone or something, either deliberately or because you forget to do it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "省略，遗漏，删掉，未（做）",
+      "tran_en": "to not include someone or something, either deliberately or because you forget to do it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "omits"
+    ],
+    "past": [
+      "omitted"
+    ],
+    "done": [
+      "omitted"
+    ],
+    "ing": [
+      "omitting"
+    ]
+  }
+}

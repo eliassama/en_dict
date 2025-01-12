@@ -1,0 +1,121 @@
+{
+  "word": "horrify",
+  "ipa": {
+    "us": "ˈhɒrɪfaɪ",
+    "uk": "ˈhɔrɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "Henry was horrified by what had happened.",
+      "cn": "亨利对所发生的事感到毛骨悚然。"
+    },
+    {
+      "en": "His family was horrified by the change.",
+      "cn": "他的家人对这一变化感到震惊。"
+    },
+    {
+      "en": "Such sentiments might horrify some corporate executives.",
+      "cn": "这种热情可能会让一些公司高管大为惊骇."
+    },
+    {
+      "en": "Such things did not appear to horrify her.",
+      "cn": "这样的事情她却不震惊."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "horrified",
+          "tran_cn": " 惊骇的；带有恐怖感的"
+        },
+        {
+          "word": "horrifying",
+          "tran_cn": " 令人恐惧的；使人惊骇的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "horrifyingly",
+          "tran_cn": " 令人恐惧地；叫人毛骨悚然地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "horror",
+          "tran_cn": " 惊骇；惨状；极端厌恶；令人恐怖的事物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "horrified",
+          "tran_cn": " 惊骇（horrify的过去式和过去分词）；使…战悚"
+        },
+        {
+          "word": "horrifying",
+          "tran_cn": " 令人恐惧；使人毛骨悚然（horrify的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appall",
+            "daunt",
+            "frighten",
+            "offend",
+            "petrify",
+            "revolt",
+            "scare",
+            "terrify"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使恐惧；惊骇；使极度厌恶",
+      "tran_en": "If someone is horrified, they feel shocked or disgusted, usually because of something that they have seen or heard"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使震惊，使感到恐怖",
+      "tran_en": "to make someone feel very shocked and upset or afraid"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "horrifies"
+    ],
+    "past": [
+      "horrified"
+    ],
+    "done": [
+      "horrified"
+    ],
+    "ing": [
+      "horrifying"
+    ],
+    "adj": [
+      "horrified"
+    ]
+  }
+}

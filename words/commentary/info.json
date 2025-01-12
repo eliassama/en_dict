@@ -1,0 +1,216 @@
+{
+  "word": "commentary",
+  "ipa": {
+    "us": "ˈkɒməntri",
+    "uk": "ˈkɑːmənteri"
+  },
+  "sentences": [
+    {
+      "en": "Brezhnev could not forgo extended commentary to several old acquaintances.",
+      "cn": "勃列日涅夫不愿停止同几位熟人没完没了的交谈."
+    },
+    {
+      "en": "Commentary is by Tom Ferris.",
+      "cn": "由汤姆•费里斯现场解说。"
+    },
+    {
+      "en": "He could not read even a newspaper without making a running commentary upon it.",
+      "cn": "甚至连看一份报纸,他也做不到不发草率的议论."
+    },
+    {
+      "en": "He is giving the commentary on the basketball game.",
+      "cn": "他正在对篮球赛作评论."
+    },
+    {
+      "en": "He kept up a running commentary on my attempt to get the machine going.",
+      "cn": "他对我试图把那辆机器开动不断地发表意见."
+    },
+    {
+      "en": "He paused to see the effect of this sardonic bit of commentary.",
+      "cn": "他顿了一下,想看看这句尖刻的话效力如何."
+    },
+    {
+      "en": "His running commentary on the football match was excellent.",
+      "cn": "他对这次足球赛所作的实况报道十分精彩."
+    },
+    {
+      "en": "His spirited commentary makes a match very interesting even on the radio.",
+      "cn": "他对比赛作的实况报导十分生动,即使从收音机收听也很有趣."
+    },
+    {
+      "en": "Let's listen to the radio commentary on the football match.",
+      "cn": "咱们听听收音机有关足球赛的解说吧."
+    },
+    {
+      "en": "political commentary",
+      "cn": "政论"
+    },
+    {
+      "en": "That commentary was just so much puff.",
+      "cn": "那篇评价文章尽是吹捧而已."
+    },
+    {
+      "en": "That programme will include live commentary on the England-Ireland game.",
+      "cn": "那个节目将包括英格兰与爱尔兰比赛的实况报道。"
+    },
+    {
+      "en": "The close-up photography and commentary are clear and unambiguous.",
+      "cn": "那组特写照片和附带的评论一目了然，毫无含糊之处。"
+    },
+    {
+      "en": "This will appear a strange reversal of the usual commentary.",
+      "cn": "这看起来好像故意跟一般评论唱离奇的反调."
+    },
+    {
+      "en": "to give a running commentary on the game",
+      "cn": "现场报道比赛实况"
+    },
+    {
+      "en": "When I was able to elicit only a gentle smile, I thought perhaps this was a commentary on my humor.",
+      "cn": "当我只能让人微微一笑时，我觉得这可能是对我幽默感的一种评价吧。"
+    },
+    {
+      "en": "You can hear commentary on the match in about half an hour's time.",
+      "cn": "大约半小时后就能听到这场比赛的解说了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "comment",
+          "tran_cn": " 评论；意见；批评"
+        },
+        {
+          "word": "commentator",
+          "tran_cn": " 评论员，解说员；实况播音员；时事评论者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "comment",
+          "tran_cn": " 发表评论；发表意见"
+        },
+        {
+          "word": "commentate",
+          "tran_cn": " 评论时事；实况报道"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "comment",
+          "tran_cn": " 为…作评语"
+        },
+        {
+          "word": "commentate",
+          "tran_cn": " 评论；解说；注释"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "composition",
+            "criticism",
+            "critique",
+            "discourse",
+            "disquisition",
+            "editorial",
+            "essay",
+            "exposition",
+            "monograph",
+            "opinion",
+            "pamphlet",
+            "paper",
+            "review",
+            "tract",
+            "tractate"
+          ],
+          "tran_cn": "专著,短文"
+        },
+        {
+          "words": [
+            "analysis",
+            "elucidation",
+            "exegesis",
+            "explanation",
+            "interpretation"
+          ],
+          "tran_cn": "按语,评论"
+        },
+        {
+          "words": [
+            "annotation",
+            "comments",
+            "footnotes",
+            "gloss",
+            "marginalia",
+            "notes",
+            "remarks"
+          ],
+          "tran_cn": "注释,评注"
+        },
+        {
+          "words": [
+            "account",
+            "chronicle",
+            "journal",
+            "log",
+            "memorandum",
+            "minutes",
+            "proceedings",
+            "record"
+          ],
+          "tran_cn": "纪事"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "construction",
+            "definition",
+            "description",
+            "explication"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "commentary on",
+      "tran_cn": "对……的评论"
+    },
+    {
+      "phrase": "running commentary",
+      "tran_cn": "当场连续评述"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "实况报道，评论性文章，评论",
+      "tran_en": "a spoken description of an event, given while the event is happening, especially on the television or radio"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "commentaries"
+    ]
+  }
+}

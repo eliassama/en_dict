@@ -1,0 +1,132 @@
+{
+  "word": "thermocouple",
+  "ipa": {
+    "us": "'θɜ:mə'kʌpl",
+    "uk": "'θɜməˌkʌpəl"
+  },
+  "sentences": [
+    {
+      "en": "\"In the sole of the Wellington boot there's a thermocouple and if you apply heat to one side of the thermocouple and cold to the other side it generates an electrical charge, \" Pain said.",
+      "cn": "佩恩说：“长筒靴的鞋底处有一个热电偶，如果电偶的一面受热，而另一面受冷，就会产生电荷。”"
+    },
+    {
+      "en": "A double - membranous Surface thermocouple used in ceramic materials has been developed.",
+      "cn": "针对陶瓷材料的特点,研制了一种双薄膜式表面热电偶."
+    },
+    {
+      "en": "A thermocouple made of platinum / platinumrhodium provides the accurate temperature sensing.",
+      "cn": "由铂或铂铑组成的热电偶给出精确的温度指示."
+    },
+    {
+      "en": "Generally the thermocouple emf will be measured using a digital voltmeter.",
+      "cn": "一般来说,热电偶电动势将成为衡量使用数字电压表."
+    },
+    {
+      "en": "Input. Determine inputs, such as thermocouple signals, timer, or analytical test results.",
+      "cn": "输入. 确定输入, 比如热电偶信号, 定时器, 或分析测试结果."
+    },
+    {
+      "en": "It could be resistivity, if you have a thermocouple.",
+      "cn": "如果你有个热电偶，它也可以是电阻率。"
+    },
+    {
+      "en": "Reference junction compensation is required for thermocouple measurement with voltmeters.",
+      "cn": "参考交界补偿所需的热电偶测量电压表."
+    },
+    {
+      "en": "Temperature - measuring thermocouple. Type of heating element and polarity symbols can be specified.",
+      "cn": "温度测量热电偶. 可指定加热单元和极性符号的类型."
+    },
+    {
+      "en": "The ambient temperature shall be measured by means of a thermocouple.",
+      "cn": "灯具工作现场的温度应当采取热电偶的方式来测."
+    },
+    {
+      "en": "The results were coincident withthe. calculated data and the thermocouple measurements.",
+      "cn": "测得的刀具表面温度与理论结果及热电偶方法所得结果相符合."
+    },
+    {
+      "en": "The sample temperature was controlled by a Chromel_Alumel thermocouple with a precision on the order of 0.1℃.",
+      "cn": "样品温度用Chromel-Alumel热电偶控制，其精度在0.1℃左右。"
+    },
+    {
+      "en": "The simplest version of the thermocouple gage consists of a resistance wire.",
+      "cn": "最简单的热电偶真空计是由电阻丝组成."
+    },
+    {
+      "en": "The temperature is sensed by a thermocouple located in the vapour space.",
+      "cn": "该温度由位于蒸气空间的热电偶所测出."
+    },
+    {
+      "en": "The thermocouple junction relative to the specimen's surface was hence under control.",
+      "cn": "热电偶交界相对试样的表面热电偶,因此受到控制."
+    },
+    {
+      "en": "The transmitter is wired for up - scale thermocouple burn - out protection.",
+      "cn": "变送器上壳连有热电偶烧毁保护接线."
+    },
+    {
+      "en": "Thermocouple hole outlet, outlet and a good location Hough mouth.",
+      "cn": "把热电偶孔进风口, 出风口和哈夫口定位好."
+    },
+    {
+      "en": "They should be checked frequently against a standard thermocouple.",
+      "cn": "它们经常要用标准热电偶来校对."
+    },
+    {
+      "en": "When a kiln rotates, the thermocouple periodically contacts feed solids materials.",
+      "cn": "因窑炉转动 、 物料和热电偶周期接触,引起测量温度周期性变化."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "thermionic",
+          "tran_cn": " 热电子的，[物] 热离子的"
+        },
+        {
+          "word": "thermoelectric",
+          "tran_cn": " [电] 热电的（等于thermoelectrical）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "thermion",
+          "tran_cn": " [物] 热离子；热电子"
+        },
+        {
+          "word": "thermoelectricity",
+          "tran_cn": " [电] 温差电学，[物] 热电学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "thermal couple",
+            "thermoelectric pair"
+          ],
+          "tran_cn": "[电]热电偶"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "热电偶（热电偶是根据热电效应测量温度的传感器，是温度测量仪表中常用的测温元件），温差电偶",
+      "tran_en": "a device for measuring temperature consisting of a pair of wires of different metals or semiconductors joined at both ends. One junction is at the temperature to be measured, the second at a fixed temperature. The electromotive force generated depends upon the temperature difference "
+    }
+  ],
+  "exchange": {}
+}

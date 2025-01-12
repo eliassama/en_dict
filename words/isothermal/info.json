@@ -1,0 +1,167 @@
+{
+  "word": "isothermal",
+  "ipa": {
+    "us": "'aɪsəʊ'θɜ:məl",
+    "uk": "ˌaɪsə'θɜməl"
+  },
+  "sentences": [
+    {
+      "en": "A new ICE working cycle with a partial isothermal compression stroke is advanced.",
+      "cn": "本文提出了一种新的内燃机理想循环——具有部分等温压缩冲程的内燃机工作过程."
+    },
+    {
+      "en": "A process taking place at constant temperature is said to be isothermal.",
+      "cn": "温度恒定时发生的过程叫做等温过程."
+    },
+    {
+      "en": "A simple computational model for isothermal phase change problem was based on the enthalpy formulation.",
+      "cn": "基于焓法模型导出了一种求解等温相变问题的简单计算模型。"
+    },
+    {
+      "en": "A simplified model of isothermal austenite grain growth has been developed.",
+      "cn": "在分析现有描述奥氏体晶粒长大模型的基础上,提出一简化模型."
+    },
+    {
+      "en": "An effective algorithm based on false transient method to solve the non - isothermal diffusion model is developed.",
+      "cn": "借助假瞬态法,提出了 非 等温扩散模型的有效解法."
+    },
+    {
+      "en": "And you know, you could have a reversible engine with lots and lots of steps, but you could always break them down into some sequence of adiabatic and isothermal steps.",
+      "cn": "你们知道，我们可以设计一个由，很多很多个,循环步骤的热机，但是总可以把它分割成,一系列的绝热,和等温过程。"
+    },
+    {
+      "en": "As long as it's reversible, you know what the efficiency has to be, and in principle, you could break it down into a bunch of steps that you could formulate as isothermal and adiabatic.",
+      "cn": "只要这个循环过程是可逆的，你们知道效率是多少，从理论上说，可以将总过程,分解成一系列绝热,和等温的小过程。"
+    },
+    {
+      "en": "For compressor, the optimal compressing process is the isothermal process.",
+      "cn": "对于压缩机来说, 等温压缩是最理想的压缩过程."
+    },
+    {
+      "en": "Isothermal forging is an advanced processing technology.",
+      "cn": "等温锻造是一种先进的加工工艺."
+    },
+    {
+      "en": "Kinetic Gas Theory - Ideal Gas Law - Isothermal Atmosphere - Phase Diagrams - Phase Transitions.",
+      "cn": "气体动力论 - 理想气体定理-大气等温线 - 相图 - 相变."
+    },
+    {
+      "en": "Non - isothermal thermal decomposition kinetics of mancozeb was studied by thermogravimetry.",
+      "cn": "用 非 等温热重法研究了代森锰锌的热分解反应动力学."
+    },
+    {
+      "en": "The coking and deactivation of virgin naphtha aromatization catalyst are studied on isothermal reactor.",
+      "cn": "利用等温固定床反应器研究了直馏汽油芳构化改质催化剂的结焦失活规律."
+    },
+    {
+      "en": "The effect of isothermal forging temperature on microstructure and mechanical properties of2B70 aluminum alloy was studied.",
+      "cn": "研究了不同等温锻造温度对2B70铝合金显微组织与力学性能的影响。"
+    },
+    {
+      "en": "The isothermal and non isothermal crystallizing behaviors of PETG were studied.",
+      "cn": "研究了PETG(醇改性聚酯)的等温和非等温结晶性能."
+    },
+    {
+      "en": "The non - isothermal and isothermal crystallization kinetics of PA 1212 were studied by DSC.",
+      "cn": "采用DSC方法研究了PA1212的 非 等温和等温结晶动力学."
+    },
+    {
+      "en": "The non - isothermal degradation was found to be first order reaction.",
+      "cn": "研究发现热分解过程为一级反应."
+    },
+    {
+      "en": "The non - isothermal phenomenon may bring about significant effect on the fluid flow and heat transfer.",
+      "cn": "钢液的 非 等温现象对中间包内流体流动和传热有着重要的影响."
+    },
+    {
+      "en": "The study is focused on isothermal precision forming technology of rib - web forging parts.",
+      "cn": "主要研究筋板类锻件等温精密成形技术."
+    },
+    {
+      "en": "This paper presents a mathematical model of calculating gas isothermal compressibility factor.",
+      "cn": "提出了一种计算天然气等温压缩系数的数学模型."
+    },
+    {
+      "en": "This results agree with that of isothermal crystallization kinetics.",
+      "cn": "这一结果同等温结晶相一致。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "isothermic",
+          "tran_cn": " 等温的；等温线的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "isotherm",
+          "tran_cn": " [气象] 等温线"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "choroisotherm"
+          ],
+          "tran_cn": "[气象][物]等温线"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "isothermal adsorption",
+      "tran_cn": "等温吸附"
+    },
+    {
+      "phrase": "isothermal annealing",
+      "tran_cn": "等温退火，再结晶退火"
+    },
+    {
+      "phrase": "isothermal compression",
+      "tran_cn": "等温压缩"
+    },
+    {
+      "phrase": "isothermal condition",
+      "tran_cn": "等温情况；等温条件"
+    },
+    {
+      "phrase": "isothermal forging",
+      "tran_cn": "恒温锻造"
+    },
+    {
+      "phrase": "isothermal process",
+      "tran_cn": "等温过程"
+    },
+    {
+      "phrase": "isothermal quenching",
+      "tran_cn": "等温淬火"
+    },
+    {
+      "phrase": "isothermal transformation",
+      "tran_cn": "等温转变；恒温变态"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "等温的，等温线的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "等温线"
+    }
+  ],
+  "exchange": {}
+}

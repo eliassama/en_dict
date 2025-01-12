@@ -1,0 +1,161 @@
+{
+  "word": "depose",
+  "ipa": {
+    "us": "dɪˈpəʊz",
+    "uk": "dɪˈpoʊz"
+  },
+  "sentences": [
+    {
+      "en": "I will depose you from your office, and you will be ousted from your position.",
+      "cn": "我必赶逐你离开官职.你必从你的原位撤下."
+    },
+    {
+      "en": "Investigators depose the witness behind closed doors.",
+      "cn": "调查组对证人闭门取证."
+    },
+    {
+      "en": "Mr. Ben Bella was deposed in a coup in 1965.",
+      "cn": "本·贝拉先生在1965年的一次政变中被罢免了。"
+    },
+    {
+      "en": "The emperor attempted to depose the Pope.",
+      "cn": "皇帝企图废黜教皇."
+    },
+    {
+      "en": "The tribal council also had the to depose sachems, even against the will of the gens.",
+      "cn": "此外,部落议事会也可以甚至违反氏族的意志而撤换酋长."
+    },
+    {
+      "en": "The witness is going to depose.",
+      "cn": "证人即将宣誓做证."
+    },
+    {
+      "en": "Yor can hire a bicycle in many places. Usually you'll have to pay a depose.",
+      "cn": "在很多地方都可以租到自行车, 通常,你要为此支付租赁费."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deposition",
+          "tran_cn": " 沉积物；矿床；革职"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "certify",
+            "testify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "cashier",
+            "declass",
+            "defrock",
+            "degrade",
+            "dethrone",
+            "disenthrone",
+            "dismiss",
+            "disrate",
+            "eject",
+            "from",
+            "impeach",
+            "kick",
+            "office",
+            "or",
+            "oust",
+            "out",
+            "overthrow",
+            "remove",
+            "uncrown",
+            "unfrock",
+            "unseat"
+          ],
+          "tran_cn": "免职,废黜"
+        },
+        {
+          "words": [
+            "attest",
+            "bear",
+            "give",
+            "swear",
+            "sworn",
+            "testimony",
+            "to",
+            "witness"
+          ],
+          "tran_cn": "宣誓作证"
+        },
+        {
+          "words": [
+            "disbar",
+            "discharge",
+            "displace",
+            "dispossess",
+            "exile",
+            "expel",
+            "oust"
+          ],
+          "tran_cn": "驱逐"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "give evidence",
+            "bear witness"
+          ],
+          "tran_cn": "免职；作证；废黜"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "免职, 废(王位), 作证",
+      "tran_en": "to remove a leader or ruler from a position of power"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "宣誓证明"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "罢免，免职，宣誓作证，废黜（君主等），放置",
+      "tran_en": "to remove a leader or ruler from a position of power"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "deposes"
+    ],
+    "past": [
+      "deposed"
+    ],
+    "done": [
+      "deposed"
+    ],
+    "ing": [
+      "deposing"
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "word": "calibrate",
+  "ipa": {
+    "us": "ˈkælɪbreɪt",
+    "uk": "ˈkælɪbreɪt"
+  },
+  "sentences": [
+    {
+      "en": "...instructions on how to calibrate a thermometer.",
+      "cn": "…校准温度计的说明。"
+    },
+    {
+      "en": "A direct means is required to calibrate the indirect method.",
+      "cn": "要求用直接测定法校正间接测定法."
+    },
+    {
+      "en": "A new approach to calibrate camera parameters by image pair is presented.",
+      "cn": "提出一种用图像对标定摄像机参数的新方法."
+    },
+    {
+      "en": "Apparatus maintenance : On - off and calibrate the test apparatus, writing the records.",
+      "cn": "仪器使用: 负责相关测试仪器的开关机和校验, 并填写相关记录."
+    },
+    {
+      "en": "Calibrate pesticide sprayers in order to assure that the desired application rate is being applied.",
+      "cn": "校准农药喷雾器的目的,是为了保证按所需的量予以喷洒."
+    },
+    {
+      "en": "Do you use accredited institute to calibrate your reference equipments?",
+      "cn": "你们是否有授权的机构来较准你们的参数设备?"
+    },
+    {
+      "en": "It use software to calibrate the measure accuracy ±3 % and linearity ±0.15 %.",
+      "cn": "放大器不用转换量程,并使用软件校正,确保了测试光检测±3%的精度,±0.15%的线性."
+    },
+    {
+      "en": "My watch is faster, and I need calibrate it.",
+      "cn": "我的表走快了，我得把它校准。"
+    },
+    {
+      "en": "Operate, calibrate, repair, and troubleshoot general and specialized instrumentation.",
+      "cn": "常用和专用仪器的操作 、 标定 、 维修及故障解决."
+    },
+    {
+      "en": "Pesticide levels in food are simply too difficult to calibrate.",
+      "cn": "食品中杀虫剂的含量很难精确测定。"
+    },
+    {
+      "en": "So it is used instead to calibrate more practical current - measuring instrument, called ammeters.",
+      "cn": "因此,它只用于校准更实用的测量电流的仪表――安培计."
+    },
+    {
+      "en": "The experience coefficient method is used to calibrate the matrix effect.",
+      "cn": "用经验系数法校正基体效应."
+    },
+    {
+      "en": "They calibrate the effects of atom bombs in megadeaths.",
+      "cn": "他们校准原子弹的百万级杀伤力."
+    },
+    {
+      "en": "To force the test situation toward manageable proportions it is universal practice to calibrate.",
+      "cn": "为了使测试工作切实可行,普遍采用的是数据校准."
+    },
+    {
+      "en": "Use this wizard to calibrate the axes of your game controller.",
+      "cn": "使用该向导校准游戏控制器的轴."
+    },
+    {
+      "en": "You do not need to calibrate the Voltage Sensor or Power Amplifier.",
+      "cn": "你无需校准电压传感器和功率放大器."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "calibrated",
+          "tran_cn": " 标刻度的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "caliber",
+          "tran_cn": " [军] 口径；才干；水准（等于calibre）；器量"
+        },
+        {
+          "word": "calibration",
+          "tran_cn": " 校准；刻度；标度"
+        },
+        {
+          "word": "calibre",
+          "tran_cn": " [军] 口径；才干；水准"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "calibrated",
+          "tran_cn": " 校准（calibrate的过去分词）；校准使...标准化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "adjust",
+            "update",
+            "coordinate"
+          ],
+          "tran_cn": "校正；调整；测定口径"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "校准",
+      "tran_en": "to check or slightly change an instrument or tool, so that it does something correctly"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "校准，使标准化，使合标准，测量（枪的）口径",
+      "tran_en": "to check or slightly change an instrument or tool, so that it does something correctly"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "calibrates"
+    ],
+    "past": [
+      "calibrated"
+    ],
+    "done": [
+      "calibrated"
+    ],
+    "ing": [
+      "calibrating"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "word": "mordacious",
+  "ipa": {
+    "us": "mɔ:'deɪʃəs",
+    "uk": "mɔ'deɪʃəs"
+  },
+  "sentences": [
+    {
+      "en": "They deliberately gave me a skittish and mordacious mount.",
+      "cn": "他们故意给我一匹脾气暴躁而且还咬人的马."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mordant",
+          "tran_cn": " 有腐蚀性的；尖酸的；辛辣的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mordacity",
+          "tran_cn": " 辛辣（言词等的）；讽刺（言词等的）"
+        },
+        {
+          "word": "mordant",
+          "tran_cn": " [助剂] 媒染剂；金属腐蚀剂；金属箔粘着剂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mordant",
+          "tran_cn": " 媒染；用媒染剂处理"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "pointed",
+            "keen"
+          ],
+          "tran_cn": "锐利的；辛辣的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cutting",
+            "cynical"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "锐利的，咬痛的，刻薄的",
+      "tran_en": "sarcastic, caustic, or biting "
+    }
+  ],
+  "exchange": {}
+}

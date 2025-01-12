@@ -1,0 +1,200 @@
+{
+  "word": "refine",
+  "ipa": {
+    "us": "rɪˈfaɪn",
+    "uk": "rɪˈfaɪn"
+  },
+  "sentences": [
+    {
+      "en": "Car makers are constantly refining their designs.",
+      "cn": "汽车制造商在不断完善他们的设计。"
+    },
+    {
+      "en": "Finally he found out how to refine iron and other metals with fire.",
+      "cn": "最终他发现了如何用火炼铁及其它金属."
+    },
+    {
+      "en": "Modern medical techniques refine on those of the pass.",
+      "cn": "现代医学技术比过去的医学技术优越."
+    },
+    {
+      "en": "Modern medical techniques refine on those of the past.",
+      "cn": "现代医疗技术比过去的医疗技术要优越."
+    },
+    {
+      "en": "Oil is refined to remove naturally occurring impurities.",
+      "cn": "油经过提炼去除天然生成的杂质。"
+    },
+    {
+      "en": "oil refining",
+      "cn": "石油的提炼"
+    },
+    {
+      "en": "PDVSA uses it to refine 200,000 barrels per day - well below its capacity.",
+      "cn": "PDVSA每天 使用它提炼200,000桶油,这远远低于它的产能."
+    },
+    {
+      "en": "Reading good books helps to refine our speech.",
+      "cn": "读一些好书有助于使我们的言谈更优雅."
+    },
+    {
+      "en": "Refine the Use Cases - include requirements, constraints, complexity rating, notes and scenarios.",
+      "cn": "完善用例 - 包括需求, 约束 、 复杂程度 、 注释及情形."
+    },
+    {
+      "en": "Surgical techniques are constantly being refined.",
+      "cn": "外科手术技术正在不断得到完善。"
+    },
+    {
+      "en": "The author is planning to refine on his work of five years ago.",
+      "cn": "作者打算把他5年前的著作修改得更完美些."
+    },
+    {
+      "en": "The eighteenth century sought to refine upon Shakespeare by altering and adapting his plays.",
+      "cn": "18世纪,人们试图通过改编莎士比亚的作品来超过他."
+    },
+    {
+      "en": "The purpose of oil refinery is to refine crude petroleum.",
+      "cn": "炼油厂的主要工作是提炼原油."
+    },
+    {
+      "en": "The shape and form there. You have only to refine the work.",
+      "cn": "模型和样板已经形成, 你要做的只是精雕细琢."
+    },
+    {
+      "en": "They refine sugar using this way.",
+      "cn": "他们用这种方法精制糖."
+    },
+    {
+      "en": "We shall have to refine on our methods of advertising.",
+      "cn": "我们得进一步改进做广告的方法."
+    },
+    {
+      "en": "With the power of advanced technique, we evolve and refine principle.",
+      "cn": "我们用先进技术的力量改进和发展原则."
+    },
+    {
+      "en": "Works of taste can refine the mind.",
+      "cn": "高雅的作品能陶冶心灵."
+    },
+    {
+      "en": "You must not refine too much upon this charade.",
+      "cn": "你切不可过分推敲这个字谜."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "refined",
+          "tran_cn": " [油气][化工][冶] 精炼的；精确的；微妙的；有教养的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "refinement",
+          "tran_cn": " 精制；文雅；[化工][油气][冶] 提纯"
+        },
+        {
+          "word": "refiner",
+          "tran_cn": " 精炼机；精制者，精炼者"
+        },
+        {
+          "word": "refinery",
+          "tran_cn": " 精炼厂；提炼厂；冶炼厂"
+        },
+        {
+          "word": "refining",
+          "tran_cn": " 精炼；改善"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "refining",
+          "tran_cn": " 精炼（refine的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "clarify",
+            "cultivate",
+            "develop",
+            "filter",
+            "improve",
+            "perfect",
+            "polish",
+            "purify",
+            "screen"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cultivate",
+            "develop",
+            "improve",
+            "perfect",
+            "polish",
+            "purify"
+          ],
+          "tran_cn": "改善;使完美"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "refine on",
+      "tran_cn": "精于；改进"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "改善，精炼",
+      "tran_en": "to improve a method, plan, system etc by gradually making slight changes to it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "提炼，改善，使高雅",
+      "tran_en": "to improve a method, plan, system etc by gradually making slight changes to it"
+    },
+    {
+      "pos": "vt&vi",
+      "tran_cn": "精炼，提纯",
+      "tran_en": "to make a substance purer using an industrial process"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "refines"
+    ],
+    "past": [
+      "refined"
+    ],
+    "done": [
+      "refined"
+    ],
+    "ing": [
+      "refining"
+    ]
+  }
+}

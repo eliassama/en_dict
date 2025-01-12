@@ -1,0 +1,206 @@
+{
+  "word": "measurable",
+  "ipa": {
+    "us": "ˈmeʒərəbl",
+    "uk": "ˈmeʒərəbl"
+  },
+  "sentences": [
+    {
+      "en": "A goal is only a goal if it is measurable.",
+      "cn": "目标只有能够被衡量才称得上是目标."
+    },
+    {
+      "en": "Both leaders seemed to expect measurable progress.",
+      "cn": "两位领导人似乎都期望取得显著的进展。"
+    },
+    {
+      "en": "Econometrics deals with measurable and measured quantities in economics.",
+      "cn": "计量经济学的对象是经济学中可测量和已测出的量."
+    },
+    {
+      "en": "Economists emphasize measurable quantities — the number of jobs, the per capita income.",
+      "cn": "经济学家看重的是可测定的量——岗位数量、人均收入等。"
+    },
+    {
+      "en": "It does tell us almost everything we need to know about the measurable properties of atoms.",
+      "cn": "它确实能够告诉我们几乎所有我们需要知道的原子的可测性质."
+    },
+    {
+      "en": "Maxwell's field equations described this measurable disturbance of the medium without explicitly discussing the ether itself.",
+      "cn": "麦克斯韦电磁场方程描写了媒质的这种可测量的扰动,而不去详细讨论以太本身."
+    },
+    {
+      "en": "Measurable effects on body chemical processes occur only after prolonged malnutrition.",
+      "cn": "只有长期营养不良才会明显影响人体化学变化的过程."
+    },
+    {
+      "en": "measurable results",
+      "cn": "可衡量的结果"
+    },
+    {
+      "en": "So far the effect is barely measurable.",
+      "cn": "迄今为止，效果微乎其微。"
+    },
+    {
+      "en": "The ground grows layer appropriate deep, measurable and wet.",
+      "cn": "地栽土层宜深厚, 适度湿润."
+    },
+    {
+      "en": "The linearization ofnonlinear system with measurable disturbances is studied.",
+      "cn": "研究了一类具有可测干扰的非线性系统的线性化问题."
+    },
+    {
+      "en": "The quality objectives shall be measurable and consistent with the quality policy.",
+      "cn": "质量目标应包含符合产品要求所需之内容."
+    },
+    {
+      "en": "The simulation results show measurable improvement in both queue length and throughput.",
+      "cn": "仿真结果显示算法在队列长度以及吞吐量方面都取得了不错的效果."
+    },
+    {
+      "en": "There are measurable changes in human performance.",
+      "cn": "人的行为具有可测出的变化."
+    },
+    {
+      "en": "These quantities are not in general physically measurable.",
+      "cn": "一般这些量是不能实际测定的."
+    },
+    {
+      "en": "What are some good examples of a measurable goal?",
+      "cn": "哪些算得上是可衡量的目标 呢 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "measured",
+          "tran_cn": " 量过的；慎重的；基于标准的；有规则的"
+        },
+        {
+          "word": "measureless",
+          "tran_cn": " 无限的，不可量的"
+        },
+        {
+          "word": "measuring",
+          "tran_cn": " 测量用的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "measurably",
+          "tran_cn": " 可以测定的程度；可视地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "measurability",
+          "tran_cn": " 可测量性"
+        },
+        {
+          "word": "measure",
+          "tran_cn": " 测量；措施；程度；尺寸"
+        },
+        {
+          "word": "measurement",
+          "tran_cn": " 测量；[计量] 度量；尺寸；量度制"
+        },
+        {
+          "word": "measurer",
+          "tran_cn": " [测] 测量器；[测] 测量员"
+        },
+        {
+          "word": "measuring",
+          "tran_cn": " 测量；衡量"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "measured",
+          "tran_cn": " 测量，判断（measure的过去分词）"
+        },
+        {
+          "word": "measuring",
+          "tran_cn": " 测量（measure的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "measure",
+          "tran_cn": " 测量；估量"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "measure",
+          "tran_cn": " 测量；估量；权衡"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "important",
+            "crucial",
+            "considerable",
+            "material",
+            "big"
+          ],
+          "tran_cn": "[数]可测量的；重要的；重大的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appreciable",
+            "calculable",
+            "computable",
+            "finite"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "measurable set",
+      "tran_cn": "[数]可测集"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可量度的，可测量的，可预见的，重大的",
+      "tran_en": "able to be measured"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "measurably"
+    ]
+  }
+}

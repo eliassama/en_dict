@@ -1,0 +1,200 @@
+{
+  "word": "telling",
+  "ipa": {
+    "us": "ˈtelɪŋ",
+    "uk": "ˈtelɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a telling argument",
+      "cn": "有说服力的论点"
+    },
+    {
+      "en": "Chuck would lecture me, telling me to get a haircut.",
+      "cn": "查克就会数落我，让我去理一下发。"
+    },
+    {
+      "en": "Fortune-telling is a very much debased art surrounded by superstition.",
+      "cn": "算命是一种非常低级的把戏，充满了迷信色彩。"
+    },
+    {
+      "en": "He carried on telling a joke, laughing his head off.",
+      "cn": "他继续讲笑话，自己笑得前仰后合。"
+    },
+    {
+      "en": "He was telling his tales of conquest in clubland.",
+      "cn": "当时他正在大讲特讲自己在夜总会的征服史。"
+    },
+    {
+      "en": "Herbert sat quietly through the telling of this saga.",
+      "cn": "在聆听这个长篇传奇故事时，赫伯特自始至终安静地坐着。"
+    },
+    {
+      "en": "I don't mind telling you I was absolutely terrified.",
+      "cn": "说真的，我当时吓坏了。"
+    },
+    {
+      "en": "I got a severe telling off for not phoning him.",
+      "cn": "我因为没给他打电话，被狠狠训斥了一顿。"
+    },
+    {
+      "en": "I have been scrupulous about telling them the dangers.",
+      "cn": "我已经本着良心将危险告知他们。"
+    },
+    {
+      "en": "I heard David yelling and telling them to get back.",
+      "cn": "我听到戴维高声喊叫着要他们回来。"
+    },
+    {
+      "en": "Leaflets have been air dropped telling people to leave certain areas.",
+      "cn": "传单被空投下来，要求人们离开某些地区。"
+    },
+    {
+      "en": "Pain is the body's way of telling us that something is wrong.",
+      "cn": "疼痛是身体在告诉我们有地方出问题了。"
+    },
+    {
+      "en": "There'dbe no telling how John would react to such news as this.",
+      "cn": "还不知道约翰听到这样的消息会作何反应。"
+    },
+    {
+      "en": "There's no telling how long the talks could drag on.",
+      "cn": "谁也说不准谈判还会拖多久。"
+    },
+    {
+      "en": "There's no telling what diseases a person can get.",
+      "cn": "无法预知人会得什么病。"
+    },
+    {
+      "en": "Tom wasted no time in telling me why he had come.",
+      "cn": "汤姆马上告诉了我他来的原因。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "tellingly",
+          "tran_cn": " 有效地；显著地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "teller",
+          "tran_cn": " （美）出纳员；讲述者；讲故事者；计票员"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "tell",
+          "tran_cn": " 讲述；告发，泄密；识别"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "tell",
+          "tran_cn": " 告诉，说；辨别；吩咐；断定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "valid",
+            "available",
+            "effective",
+            "virtual",
+            "obvious",
+            "prominent"
+          ],
+          "tran_cn": "有效的；生动的；显著的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "instruction",
+            "relation",
+            "order",
+            "statement",
+            "bidding"
+          ],
+          "tran_cn": "命令；叙述；吐露真情"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "demonstrative",
+            "effective",
+            "expression",
+            "expressive",
+            "significant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "charging"
+          ],
+          "tran_cn": "告诉；讲述（tell的ing形式）；命令"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "there is no telling",
+      "tran_cn": "难以预料；很难说"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有效的，显著的，生动的，说明问题的",
+      "tran_en": "having a great or important effect"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "命令；叙述；吐露真情",
+      "tran_en": "when you tell a story"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "讲述( tell的现在分词)，告诉"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tellings"
+    ],
+    "adv": [
+      "tellingly"
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "word": "piddle",
+  "ipa": {
+    "us": "ˈpɪdl",
+    "uk": "ˈpɪdl"
+  },
+  "sentences": [
+    {
+      "en": "He did nothing but piddle away the time.",
+      "cn": "他不做事,只是混日子."
+    },
+    {
+      "en": "I piddled around the house all day.",
+      "cn": "我成天在屋里闲荡着。"
+    },
+    {
+      "en": "The puppy has done a piddle on the carpet.",
+      "cn": "小狗在地毯上撒了一泡尿."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "piddling",
+          "tran_cn": " 琐屑的；无用的；不重要的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "piddling",
+          "tran_cn": " 撒尿；鬼混（piddle的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "urine",
+            "emiction"
+          ],
+          "tran_cn": "尿"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "urinate",
+            "monkey around"
+          ],
+          "tran_cn": "撒尿；鬼混；挑食；做无聊事"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "lose",
+            "spend",
+            "waste on",
+            "trifle away",
+            "hurl away"
+          ],
+          "tran_cn": "浪费"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "piddle about (或 around)",
+      "tran_cn": "混日子；闲逛"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "撒尿, 鬼混, 游荡",
+      "tran_en": "to  urinate "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "撒尿，鬼混，游荡"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "piddles"
+    ],
+    "past": [
+      "piddled"
+    ],
+    "done": [
+      "piddled"
+    ],
+    "ing": [
+      "piddling"
+    ]
+  }
+}

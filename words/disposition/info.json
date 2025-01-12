@@ -1,0 +1,220 @@
+{
+  "word": "disposition",
+  "ipa": {
+    "us": "ˌdɪspəˈzɪʃn",
+    "uk": "ˌdɪspəˈzɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "a map showing the disposition of American forces",
+      "cn": "显示美军部署的地图"
+    },
+    {
+      "en": "He had at his disposition large sums of money.",
+      "cn": "他可以支配大量的金钱."
+    },
+    {
+      "en": "He has a cheerful disposition.",
+      "cn": "他性情开朗."
+    },
+    {
+      "en": "He has a passive disposition.",
+      "cn": "他个性消极."
+    },
+    {
+      "en": "He is considering the disposition of furniture in his new house.",
+      "cn": "他在考虑怎样在新居中布置家具."
+    },
+    {
+      "en": "He was a nice lad — bright and with a sunny disposition.",
+      "cn": "他是个不错的小伙子——聪明伶俐而且性格开朗。"
+    },
+    {
+      "en": "Neither side shows the slightest disposition to compromise.",
+      "cn": "双方都没有表露出丝毫妥协的意思。"
+    },
+    {
+      "en": "One's natural disposition is stupid.",
+      "cn": "禀性愚蒙."
+    },
+    {
+      "en": "She has a good disposition.",
+      "cn": "她的性情好."
+    },
+    {
+      "en": "She has shown no abnormality in intelligence or in disposition.",
+      "cn": "她在智力或性情上都未显示出任何反常."
+    },
+    {
+      "en": "She is mild in disposition.",
+      "cn": "她性情温和."
+    },
+    {
+      "en": "the disposition of assets on death",
+      "cn": "身后财产的处置"
+    },
+    {
+      "en": "The rides are unsuitable for people of a nervous disposition.",
+      "cn": "这种骑乘不适合紧张型性格的人。"
+    },
+    {
+      "en": "The twin brothers are alike in appearance but differ greatly in disposition.",
+      "cn": "这对孪生兄弟外貌很相像,但性格却相差很大."
+    },
+    {
+      "en": "The two men are unlike in disposition.",
+      "cn": "这两个人的气质不同."
+    },
+    {
+      "en": "The waiter has a sunny disposition.",
+      "cn": "这位侍者性格开朗."
+    },
+    {
+      "en": "They show no disposition to improvise or to take risks.",
+      "cn": "他们不愿意临时凑合或冒险。"
+    },
+    {
+      "en": "This has given him a disposition to consider our traditions critically.",
+      "cn": "这使他倾向以批判眼光看待我们的传统。"
+    },
+    {
+      "en": "to have a cheerful disposition",
+      "cn": "性情开朗"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disposable",
+          "tran_cn": " 可任意处理的；可自由使用的；用完即可丢弃的"
+        },
+        {
+          "word": "disposed",
+          "tran_cn": " 有…倾向的；打算做…的；有某种健康状态的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disposal",
+          "tran_cn": " 处理；支配；清理；安排"
+        },
+        {
+          "word": "dispose",
+          "tran_cn": " 处置；性情"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "disposed",
+          "tran_cn": " 处理；配置；使适应（dispose的过去分词）；使有倾向"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "dispose",
+          "tran_cn": " 处理；安排；（能够）决定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "dispose",
+          "tran_cn": " 处理；处置；安排"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "character",
+            "inclination",
+            "nature",
+            "temperament"
+          ],
+          "tran_cn": "性情;气质"
+        },
+        {
+          "words": [
+            "adjustment",
+            "administration",
+            "arrangement",
+            "order",
+            "settlement"
+          ],
+          "tran_cn": "配置;处分;整理"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adjustment",
+            "administration",
+            "arrangement",
+            "blood",
+            "character",
+            "constitution",
+            "feather",
+            "fiber",
+            "grain",
+            "humor",
+            "inclination",
+            "kidney",
+            "nature",
+            "order",
+            "perspective",
+            "settlement",
+            "spirit",
+            "temper",
+            "temperament",
+            "tendency",
+            "vein",
+            "way"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "disposition effect",
+      "tran_cn": "处置效应；处分效果"
+    },
+    {
+      "phrase": "disposition plan",
+      "tran_cn": "配置平面图"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "性格，倾向，排列，布置，（财产）赠予，分配",
+      "tran_en": "a particular type of character which makes someone likely to behave or react in a certain way"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "dispositions"
+    ]
+  }
+}

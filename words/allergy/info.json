@@ -1,0 +1,140 @@
+{
+  "word": "allergy",
+  "ipa": {
+    "us": "ˈælədʒi",
+    "uk": "ˈælərdʒi"
+  },
+  "sentences": [
+    {
+      "en": "a food allergy",
+      "cn": "食物过敏"
+    },
+    {
+      "en": "Allergy to cats is one of the commonest causes of asthma.",
+      "cn": "对猫类过敏是哮喘病发作最常见的诱因之一。"
+    },
+    {
+      "en": "Can I see a show of hands for everyone here with a nut allergy?",
+      "cn": "各位有坚果过敏的请举下手好 吗 ?"
+    },
+    {
+      "en": "Each of these immune responses is an example of an allergy.",
+      "cn": "每个免疫反应都是变态反应."
+    },
+    {
+      "en": "Frequently sufferers of this kind of allergy are also sufferers of asthma.",
+      "cn": "患有这种过敏症的人也经常会患有哮喘病。"
+    },
+    {
+      "en": "He developed an allergy to pollen.",
+      "cn": "他对花粉过敏."
+    },
+    {
+      "en": "He has an allergy to wine.",
+      "cn": "他极讨厌酒."
+    },
+    {
+      "en": "How does old allergy grow red point point to do on nose?",
+      "cn": "鼻子上老过敏长红点点怎么办?"
+    },
+    {
+      "en": "How does the allergy after been cut stick on the skin do?",
+      "cn": "皮肤上贴过创口贴后过敏怎么办?"
+    },
+    {
+      "en": "I have an allergy to animal hair.",
+      "cn": "我对动物毛过敏。"
+    },
+    {
+      "en": "I have an allergy to penicillin.",
+      "cn": "我对青霉素有过敏反应."
+    },
+    {
+      "en": "Some people have an allergy to pollen.",
+      "cn": "一些人对花粉有过敏反应."
+    },
+    {
+      "en": "The patient had an allergy to penicillin.",
+      "cn": "该患者对青霉素过敏."
+    },
+    {
+      "en": "What does the skin allergy symptom that blood disease causes have?",
+      "cn": "血液病引起的皮肤过敏症状有哪些?"
+    },
+    {
+      "en": "Wyrazik had not, until that time, known about his allergy to penicillin.",
+      "cn": "在这之前, 怀拉兹克并不知道自己对青霉素过敏."
+    },
+    {
+      "en": "You see a positive allergy test and decide it's infection?",
+      "cn": "根据过敏测试阳性结果判断是感染造成的?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "allergenic",
+          "tran_cn": " 引起过敏症的"
+        },
+        {
+          "word": "allergic",
+          "tran_cn": " 对…过敏的；对…极讨厌的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "allergen",
+          "tran_cn": " [医] 过敏原"
+        },
+        {
+          "word": "allergist",
+          "tran_cn": " 过敏症专科医师"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "defense",
+            "fever",
+            "hay",
+            "hypersensitivity",
+            "immune",
+            "sensitivity",
+            "susceptivity",
+            "vulnerability",
+            "weakness"
+          ],
+          "tran_cn": "过敏,脆弱"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "food allergy",
+      "tran_cn": "食物过敏，食品过敏；食物变态反应"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "过敏反应，厌恶，反感",
+      "tran_en": "a medical condition in which you become ill or in which your skin becomes red and painful because you have eaten or touched a particular substance"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "allergies"
+    ]
+  }
+}

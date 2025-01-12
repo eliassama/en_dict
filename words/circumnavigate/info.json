@@ -1,0 +1,70 @@
+{
+  "word": "circumnavigate",
+  "ipa": {
+    "us": "ˌsɜ:kəmˈnævɪgeɪt",
+    "uk": "ˌsɜrkəmˈnævɪgeɪt"
+  },
+  "sentences": [
+    {
+      "en": "For this year at least, our race to circumnavigate the globe in less than 80 days is over.",
+      "cn": "至少今年，我们80天内环游地球一周的比赛已经结束了。"
+    },
+    {
+      "en": "He plans to circumnavigate the world in a helium balloon.",
+      "cn": "他计画搭乘氦气球环绕世界一周."
+    },
+    {
+      "en": "Request circumnavigation ( to circumnavigate ) 30 km right of track ( airway ) to avoid the thunderstorm.",
+      "cn": "请求向 航迹 ( 航路 ) 右方绕行30公里以避开雷雨."
+    },
+    {
+      "en": "Request circumnavigation ( to circumnavigate ) 30 km right of track ( airway ) to avoid the thunderstorm.",
+      "cn": "请求向 航迹 ( 路 ) 方绕行30公里以避开雷雨."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "circumnavigation",
+          "tran_cn": " 世界一周旅行；周游世界"
+        },
+        {
+          "word": "circumnavigator",
+          "tran_cn": " 世界一周旅行者；周游世界者"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "环航",
+      "tran_en": "to sail, fly, or travel completely around the Earth, an island etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "环航"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "circumnavigates"
+    ],
+    "past": [
+      "circumnavigated"
+    ],
+    "done": [
+      "circumnavigated"
+    ],
+    "ing": [
+      "circumnavigating"
+    ],
+    "noun": [
+      "circumnavigation"
+    ]
+  }
+}

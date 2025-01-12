@@ -1,0 +1,83 @@
+{
+  "word": "shoplift",
+  "ipa": {
+    "us": "'ʃɒplɪft",
+    "uk": "'ʃɒplɪft"
+  },
+  "sentences": [
+    {
+      "en": "He openly shoplifted from a supermarket.",
+      "cn": "他在一家超市公然行窃。"
+    },
+    {
+      "en": "The best kind shoplift.",
+      "cn": "一流的偷窃."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "shoplifter",
+          "tran_cn": " 商店扒手"
+        },
+        {
+          "word": "shoplifting",
+          "tran_cn": " 入店行窃"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "shoplifting",
+          "tran_cn": " 装作顾客在商店偷窃（shoplift的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "pirate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "从商店中偷商品",
+      "tran_en": "If someone shoplifts, they steal goods from a shop by hiding them in a bag or in their clothes"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "在商店偷窃"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "shoplifts"
+    ],
+    "past": [
+      "shoplifted"
+    ],
+    "done": [
+      "shoplifted"
+    ],
+    "ing": [
+      "shoplifting"
+    ],
+    "noun": [
+      "shoplifting"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "word": "provable",
+  "ipa": {
+    "us": "ˈpru:vəbl",
+    "uk": ""
+  },
+  "sentences": [
+    {
+      "en": "Monkeys, apparently, offer one another fleas at times, but not in any provable spirit of kindliness.",
+      "cn": "猴子似乎有时互相帮助捉跳蚤，但是这并不在任何可以证明的善意的范畴内。"
+    },
+    {
+      "en": "Probe into the design principle of cipher systems irrelevant to computing power, design cipher systems with provable safety, and analyze the defects of existent cipher systems.",
+      "cn": "探索与计算能力无关的密码体制的设计原理，设计可证明安全性的密码体制，分析现有密码体制的缺陷。"
+    },
+    {
+      "en": "The benefit is that one can build up the theory of correctness provable compiler easily.",
+      "cn": "这样处理的好处是便于构造正确性可证明的编译器设计的理论基础。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "proved",
+          "tran_cn": " 证实的；被证明的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "provably",
+          "tran_cn": " 证明地；可查验地；试验得出地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "provability",
+          "tran_cn": " 可证迷"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "proved",
+          "tran_cn": " 证明；检验；表现出；钻探（prove的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "prove",
+          "tran_cn": " 证明是"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "prove",
+          "tran_cn": " 证明；检验；显示"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "evincible",
+            "certifiable"
+          ],
+          "tran_cn": "[数]可证明的；可以查清的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "demonstrable",
+            "scientific"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可证明的，可证实的"
+    }
+  ],
+  "exchange": {}
+}

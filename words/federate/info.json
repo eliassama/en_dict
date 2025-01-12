@@ -1,0 +1,162 @@
+{
+  "word": "federate",
+  "ipa": {
+    "us": "ˈfedəreɪt",
+    "uk": "'fedəreɪt"
+  },
+  "sentences": [
+    {
+      "en": "In the end, it presents the general process of developing a federate according to the code.",
+      "cn": "最后结合代码介绍了用RTI开发联邦成员的一般过程."
+    },
+    {
+      "en": "Problem of crosscutting federate could be resolved effectively by using Aspect - Oriented programming technology.",
+      "cn": "利用面向方面的编程技术,能够有效地解决邦员的横切问题."
+    },
+    {
+      "en": "The basic situation and federate structure of the warfare simulation based on HLA are introduced.",
+      "cn": "介绍了HLA作战仿真的基本情况及其联邦结构."
+    },
+    {
+      "en": "The Bridge Federate is a feasible solution to achieve multi - federations interconnection.",
+      "cn": "基于桥接成员实现多联邦互连是目前较为通用和可行的方法."
+    },
+    {
+      "en": "The simulation engine ( SE ) is the most important federate among the federations based on HLA.",
+      "cn": "仿真引擎作为仿真系统的核心,是HLA仿真联邦中的特殊联邦成员."
+    },
+    {
+      "en": "Using the Bridge Federate is one of the approaches to interconnect HLA multiple federations.",
+      "cn": "实现多联邦互连有多种方法,桥接成员是其中一种."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "federal",
+          "tran_cn": " 联邦的；同盟的"
+        },
+        {
+          "word": "federalist",
+          "tran_cn": " （支持）联邦党人的；联邦制的"
+        },
+        {
+          "word": "federated",
+          "tran_cn": " 联邦的；联合的；结成同盟的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "federally",
+          "tran_cn": " 联邦地；联邦政府地；同盟地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "federal",
+          "tran_cn": " 北部联邦同盟盟员；北京连邦软件产业发展公司，国内主要的正版软件经销商"
+        },
+        {
+          "word": "federalism",
+          "tran_cn": " 联邦制；联邦主义"
+        },
+        {
+          "word": "federalist",
+          "tran_cn": " 联邦党；联邦制拥护者；支持北部联邦者"
+        },
+        {
+          "word": "federalization",
+          "tran_cn": " 联邦化；同盟"
+        },
+        {
+          "word": "federation",
+          "tran_cn": " 联合；联邦；联盟；联邦政府"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "federated",
+          "tran_cn": " 结成同盟；按联邦制组织起来（federate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "federalize",
+          "tran_cn": " 使同盟；使成联邦"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "linked",
+            "joint"
+          ],
+          "tran_cn": "同盟的；联邦制度下的；联合的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "centralize",
+            "conjoin",
+            "unite"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "同盟的；联邦制度下的；联合的",
+      "tran_en": "federal; federated "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使结成同盟；使结成联邦",
+      "tran_en": "if a group of states federate, they join together to form a federation"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）结成联邦"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "federates"
+    ],
+    "past": [
+      "federated"
+    ],
+    "done": [
+      "federated"
+    ],
+    "ing": [
+      "federating"
+    ]
+  }
+}

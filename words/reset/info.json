@@ -1,0 +1,160 @@
+{
+  "word": "reset",
+  "ipa": {
+    "us": "ˌri:ˈset",
+    "uk": "riˈsɛt"
+  },
+  "sentences": [
+    {
+      "en": "A small piece of code that is placed at the reset address.",
+      "cn": "一段被放置在重启地址的代码."
+    },
+    {
+      "en": "As Richard Colonno sees it, what new drugs do is reset a pathogen's biological clock.",
+      "cn": "理查德-柯罗诺认为, 新药物所起的作用只是重新调整病原菌的生物钟."
+    },
+    {
+      "en": "Before using, you should hand reset the clock and date.",
+      "cn": "使用前, 得人工重调时钟和日期."
+    },
+    {
+      "en": "Built - in AC contactor, thermal relay and universal self - reset converting switch.",
+      "cn": "内装交流接触器, 热继电器,自复位万能转换开关等."
+    },
+    {
+      "en": "Do you want to reset the transformations desfined using this connection?",
+      "cn": "是否要重设用此连接定义的转换?"
+    },
+    {
+      "en": "Each algorithm, the program will automatically reset the memory block.",
+      "cn": "每次选择算法时, 程序自动将内存块清零."
+    },
+    {
+      "en": "Mary's broken arm had to be reset.",
+      "cn": "玛丽的断臂必须接骨."
+    },
+    {
+      "en": "She was careful to reset the alarm before she left the office.",
+      "cn": "在离开办公室之前，她小心翼翼地重设了警报器。"
+    },
+    {
+      "en": "The priority is reset when the process returns to the waIt'state.",
+      "cn": "当进程返回到等待状态时,重置该优先级."
+    },
+    {
+      "en": "The reset button is for resetting the light indicator after tripping.",
+      "cn": "指示器被锁定.按下复位按钮使灯光指示器恢复到正常状态."
+    },
+    {
+      "en": "The WatchDog has been reset and APs 1 and 2 are OFFLINE.",
+      "cn": "已经重启了监视器,且AP1 和AP2处于OFFLINE状态."
+    },
+    {
+      "en": "This monolithic integrated circuit is an analog latch device with digital reset.",
+      "cn": "进口工业网的这种单片集成电路是带数字复位功能的模拟锁存设备."
+    },
+    {
+      "en": "Type reset refresh buffer and re - importing the data coding requirements.",
+      "cn": "键入reset刷新缓冲区,重新输入要求编码的数据."
+    },
+    {
+      "en": "We can reset the seam and take in some of the material.",
+      "cn": "我们可以重新安排缝口,并收进一点衣料."
+    },
+    {
+      "en": "We need to reset the weight marks on this steelyard.",
+      "cn": "我们应该重新校准一下这个秤的定盘星."
+    },
+    {
+      "en": "Where is there a reset button? Oh, here it is! Oh!",
+      "cn": "重设按钮在哪里? 哦, 在这儿! 喔!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "resettlement",
+          "tran_cn": " 重新安置"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "reassociation",
+            "recompounding"
+          ],
+          "tran_cn": "重新设定；重新组合；[印刷]重排版"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to clear"
+          ],
+          "tran_cn": "重置；清零"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "automatic reset",
+      "tran_cn": "自动复位；[电]自动复置"
+    },
+    {
+      "phrase": "hard reset",
+      "tran_cn": "硬复位，硬重置"
+    },
+    {
+      "phrase": "reset all",
+      "tran_cn": "全部重设；还原预设值"
+    },
+    {
+      "phrase": "reset button",
+      "tran_cn": "[计]重置键；复原按钮"
+    },
+    {
+      "phrase": "reset circuit",
+      "tran_cn": "复位电路；重接电路"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "重新安排",
+      "tran_en": "to restart a computer without switching the power off"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "重置，清零"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "重置，重排，重新安装"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "resets"
+    ],
+    "past": [
+      "reset"
+    ],
+    "done": [
+      "reset"
+    ],
+    "ing": [
+      "resetting"
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "word": "erase",
+  "ipa": {
+    "us": "ɪˈreɪz",
+    "uk": "ɪˈreɪs"
+  },
+  "sentences": [
+    {
+      "en": "Don't erase the tape yet.",
+      "cn": "现在还不能把录音抹去."
+    },
+    {
+      "en": "He tried to erase the idea from his mind.",
+      "cn": "他试图从头脑中抹掉这个想法."
+    },
+    {
+      "en": "I could not erase from my mind the poignant thought.",
+      "cn": "我无法驱散萦绕在我心头的痛切之感."
+    },
+    {
+      "en": "I shall try never to erase the boundaries that separate the two domains.",
+      "cn": "我们也将力求不抹杀这两上领域的界限."
+    },
+    {
+      "en": "In cell wars, as in other wars, the battle scars are often difficult to erase.",
+      "cn": "在细胞战争中就象在其他战争中一样, 战争的创伤常常是不容易去除的."
+    },
+    {
+      "en": "Make light pencil lines so that they will erase easily.",
+      "cn": "划铅笔线要浅些,便于擦掉."
+    },
+    {
+      "en": "Most of our fears are unreasonable, but they are impossible to erase.",
+      "cn": "我们的恐惧多半是毫无根据的, 可却又无法消除."
+    },
+    {
+      "en": "Please erase my name from the list.",
+      "cn": "请把我的名字从名单上擦去."
+    },
+    {
+      "en": "She couldn't erase the terrible experience from her memory.",
+      "cn": "她无法把那次可怕的经历从记忆中抹去."
+    },
+    {
+      "en": "She tried to erase the memory of that evening.",
+      "cn": "她试图忘却那天晚上的事。"
+    },
+    {
+      "en": "Some of the names had been accidentally erased.",
+      "cn": "有几个名字无意中被擦掉了。"
+    },
+    {
+      "en": "The computer crashed, and all our records were erased.",
+      "cn": "计算机瘫痪了，我们所有的记录都被删除了。"
+    },
+    {
+      "en": "These marks don't erase easily, I'm afraid.",
+      "cn": "这些记号恐怕不容易擦掉."
+    },
+    {
+      "en": "They are desperate to erase the memory of that last defeat in Cardiff.",
+      "cn": "他们急于抹去上次在卡迪夫遭遇失败的记忆。"
+    },
+    {
+      "en": "Try as I might , I cannot erase such a terrible experience from my mind.",
+      "cn": "我怎么也不能把这可怕的经历从我的记忆中抹掉."
+    },
+    {
+      "en": "Why would they erase my memory of you?",
+      "cn": "他们为什么要擦除关于你的记忆?"
+    },
+    {
+      "en": "You can erase pencil marks with a rubber.",
+      "cn": "你可以用橡皮擦掉铅笔记号."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "erasable",
+          "tran_cn": " 可消除的；可抹去的；可删除的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "eraser",
+          "tran_cn": " 擦除器；[计] 清除器"
+        },
+        {
+          "word": "erasure",
+          "tran_cn": " 消除；涂擦的痕迹；消磁"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blot",
+            "cancel",
+            "cross",
+            "obliterate",
+            "off",
+            "out",
+            "wipe"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "blot",
+            "cancel",
+            "cross",
+            "delete",
+            "efface",
+            "expunge",
+            "obliterate",
+            "off",
+            "out",
+            "wipe"
+          ],
+          "tran_cn": "擦掉;清除;删去"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "擦掉，抹去，删除",
+      "tran_en": "to remove information from a computer memory or recorded sounds from a tape"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "擦掉；删去",
+      "tran_en": "to remove information from a computer memory or recorded sounds from a tape"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "erases"
+    ],
+    "past": [
+      "erased"
+    ],
+    "done": [
+      "erased"
+    ],
+    "ing": [
+      "erasing"
+    ]
+  }
+}

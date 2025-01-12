@@ -1,0 +1,101 @@
+{
+  "word": "countermand",
+  "ipa": {
+    "us": "ˌkaʊntəˈmɑ:nd",
+    "uk": "ˈkaʊntərmænd"
+  },
+  "sentences": [
+    {
+      "en": "Countermand that order with the agency, Pitcher , and don't bring any more of'em in here.",
+      "cn": "皮彻, 通知事务所,取消要人申请,叫他们别再送人过来."
+    },
+    {
+      "en": "EXMP : The general countermand the orders issued in his absence.",
+      "cn": "将军撤销了他不在时所发布的命令."
+    },
+    {
+      "en": "I can't countermand an order Winger's given.",
+      "cn": "我无法撤销温格下达的命令。"
+    },
+    {
+      "en": "I have now to countermand that order, in consequence of the receipting of the letter this morning.",
+      "cn": "由于今日上午才收到来函,现在只好取消那份订单."
+    },
+    {
+      "en": "Please countermand our order for same.",
+      "cn": "对上述订单,请取消."
+    },
+    {
+      "en": "The countermand of a cheque only takes effect after the expiration oflimit of time for presentment.",
+      "cn": "撤销支票付款的委托,仅于提示期限满后行之,始为有效."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cancellation",
+            "withdrawal"
+          ],
+          "tran_cn": "取消；反对命令"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "annul"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "recall",
+            "call it off"
+          ],
+          "tran_cn": "取消，撤消；下反对命令召回"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "取消；反对命令"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "取消, 撤消, 下反对命令召回",
+      "tran_en": "If you countermand an order, you cancel it, usually by giving a different order"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "取消（命令），撤回"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "countermands"
+    ],
+    "past": [
+      "countermanded"
+    ],
+    "done": [
+      "countermanded"
+    ],
+    "ing": [
+      "countermanding"
+    ]
+  }
+}

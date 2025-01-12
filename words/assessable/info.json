@@ -1,0 +1,85 @@
+{
+  "word": "assessable",
+  "ipa": {
+    "us": "ə'sesəbl",
+    "uk": "ə'sesəbl"
+  },
+  "sentences": [
+    {
+      "en": "It is difficult to determine basic assessable variable of the indexes in model analysis.",
+      "cn": "结合防空兵作战能力评估模型,运用“云重心”理论确定了评估模型中各指标基本评定值."
+    },
+    {
+      "en": "Results Of the 693 segments of arteria, 683 were assessable on both DSA and CTA.",
+      "cn": "结果在693个动脉节段中, 683个节段在CTA与DSA均可以显示."
+    },
+    {
+      "en": "Tax payment is limited to a maximum of the standard total assessable income before allowances.",
+      "cn": "应缴税款将不超过以标准税率计算扣除免税额前之总收入."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assessee",
+          "tran_cn": " 财产价值已被估定之人"
+        },
+        {
+          "word": "assessment",
+          "tran_cn": " 评定；估价"
+        },
+        {
+          "word": "assessor",
+          "tran_cn": " 评审员；确定税款的人；顾问"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "assess",
+          "tran_cn": " 评定；估价；对…征税"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "valuable",
+            "evaluative"
+          ],
+          "tran_cn": "可估价的；可评价的；可征收的；可征税的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appreciable",
+            "calculable",
+            "chargeable",
+            "estimable"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可估价的，可征收的"
+    }
+  ],
+  "exchange": {}
+}

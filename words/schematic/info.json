@@ -1,0 +1,148 @@
+{
+  "word": "schematic",
+  "ipa": {
+    "us": "ski:ˈmætɪk",
+    "uk": "skiˈmætɪk, skɪ-"
+  },
+  "sentences": [
+    {
+      "en": "A general schematic view of a data storage and retrieval system is given in Fig 1 - 1 .",
+      "cn": "数据存储和检索系统的总框图见图 1-1."
+    },
+    {
+      "en": "a schematic diagram of DNA",
+      "cn": "脱氧核糖核酸结构简图"
+    },
+    {
+      "en": "Attach the WFI schematic including all the pint of use.",
+      "cn": "附上WFI示意图,包括使用的品脱."
+    },
+    {
+      "en": "Basic knowledge on understanding the PCB drawings and Schematic drawings.",
+      "cn": "具备读懂基本的PCB图纸及电路原理图纸的能力."
+    },
+    {
+      "en": "Figure 12 - 16 is a schematic drawing that illustrates the processing steps.",
+      "cn": "图12-16是生产流程的示意图."
+    },
+    {
+      "en": "Figure 4 shows the schematic of this version.",
+      "cn": "图 4 显示了这个版本的示意图。"
+    },
+    {
+      "en": "Finally, schematic and layout design are discussed and circuIt'simulation results are provided.",
+      "cn": "最后, 讨论了电流驱动型DAC的电路图和版图设计,并给出仿真结果."
+    },
+    {
+      "en": "Hardware ( PCB ) schematic, layout design and debug for portable entertainment product.",
+      "cn": "硬件 ( PCB ) 概要, 布局设计和调试为便携式的娱乐产品."
+    },
+    {
+      "en": "I was extremely puzzled that there seemed to be no method in the schematic interface to add anything other than a 16-bit accumulator.",
+      "cn": "示意图界面中除了一个用于添加 16 位累加器的方法外，再没有其他的方法，我对此感到非常迷惑。"
+    },
+    {
+      "en": "In many cases, only a complicated discrete component schematic is provided by the manufacturer.",
+      "cn": "在许多情况下, 厂家提供的只是复杂的分立元件原理图."
+    },
+    {
+      "en": "It lets you draw a schematic and generate a net list.",
+      "cn": "让你画简图,产生一净重的目录."
+    },
+    {
+      "en": "Its value is given in the schematic.",
+      "cn": "其值在图中表示出来."
+    },
+    {
+      "en": "Perform schematic design and circuit board layouts and prototype debug.",
+      "cn": "包括参考设计板的的原理图,印制板图及样板调试."
+    },
+    {
+      "en": "See above, plus the schematic at the end of previous section.",
+      "cn": "见上, 在先前部分的结尾加上概要."
+    },
+    {
+      "en": "The contents of all the elements indicated in the document structure schematic, grouped by element type.",
+      "cn": "在文档结构示意图中显示的所有元素的内容，按元素类型分组。"
+    },
+    {
+      "en": "The following is the schematic of a transient - response test circuit.",
+      "cn": "下面是瞬态相应测试电路的示意图."
+    },
+    {
+      "en": "The play has a very schematic plot.",
+      "cn": "这出戏的剧情非常严谨。"
+    },
+    {
+      "en": "This is represented in the schematic diagram below.",
+      "cn": "这正如下面的这幅简略图所示。"
+    },
+    {
+      "en": "We reproduced a same working schematic diagram.",
+      "cn": "我们复制了一份同样的施工简图."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "schema",
+          "tran_cn": " [计][心理] 模式；计划；图解；概要"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "graphical",
+            "diagrammatical"
+          ],
+          "tran_cn": "图解的；概要的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "principle scheme",
+            "elementary diagram"
+          ],
+          "tran_cn": "原理图；图解视图"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "schematic design",
+      "tran_cn": "方案设计"
+    },
+    {
+      "phrase": "schematic diagram",
+      "tran_cn": "原理图，示意图"
+    },
+    {
+      "phrase": "schematic drawing",
+      "tran_cn": "示意图；略图"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "纲要的，示意的，严谨的，有章法的",
+      "tran_en": "showing the main parts of something in a simple way"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "schematically"
+    ]
+  }
+}

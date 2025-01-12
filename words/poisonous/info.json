@@ -1,0 +1,198 @@
+{
+  "word": "poisonous",
+  "ipa": {
+    "us": "ˈpɔɪzənəs",
+    "uk": "ˈpɔɪzənəs"
+  },
+  "sentences": [
+    {
+      "en": "A lot of poisonous waste water comes from that chemical factory.",
+      "cn": "那个化工厂排出大量有毒的废水."
+    },
+    {
+      "en": "All parts of the yew tree are poisonous, including the berries.",
+      "cn": "紫杉的各个部分都有毒，包括浆果。"
+    },
+    {
+      "en": "He gave her a poisonous look.",
+      "cn": "他恶意地看了她一眼."
+    },
+    {
+      "en": "He was bitten by a poisonous snake.",
+      "cn": "他被毒蛇咬了."
+    },
+    {
+      "en": "I had a frightening encounter with a poisonous snake.",
+      "cn": "我曾意外地遇到过一条毒蛇,吓得我要命."
+    },
+    {
+      "en": "If plastic and rubber are burnt, they'll give off poisonous gases.",
+      "cn": "要是塑料和橡胶被焚, 就会放出有毒的气体."
+    },
+    {
+      "en": "poisonous gases such as hydrogen sulfide",
+      "cn": "硫化氢等有毒气体"
+    },
+    {
+      "en": "Poisonous smoke had got into the water supply.",
+      "cn": "毒烟已经进入供水系统。"
+    },
+    {
+      "en": "poisonous substances",
+      "cn": "有毒物质"
+    },
+    {
+      "en": "She was bitten on the ankle by a poisonous snake .",
+      "cn": "她被毒蛇咬了脚踝。"
+    },
+    {
+      "en": "Some mushrooms are extremely poisonous.",
+      "cn": "一些蘑菇有剧毒。"
+    },
+    {
+      "en": "Some mushrooms are good to eat; some are poisonous.",
+      "cn": "有些蘑菇可食用, 有些则有毒."
+    },
+    {
+      "en": "The heat is simply poisonous.",
+      "cn": "热得讨厌极了."
+    },
+    {
+      "en": "The leaves of yew trees are poisonous to cattle.",
+      "cn": "紫杉树叶会令牛中毒."
+    },
+    {
+      "en": "The weather was positively poisonous.",
+      "cn": "这天气着实讨厌."
+    },
+    {
+      "en": "There are hundreds of poisonous spiders and snakes.",
+      "cn": "毒蜘蛛和毒蛇成百上千。"
+    },
+    {
+      "en": "This gas is highly poisonous.",
+      "cn": "这种气体有剧毒。"
+    },
+    {
+      "en": "This medicine is poisonous if taken in large quantities.",
+      "cn": "这种药如服过量是会中毒的."
+    },
+    {
+      "en": "This medicine is poisonous.",
+      "cn": "这药有毒性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "poison",
+          "tran_cn": " 有毒的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "poison",
+          "tran_cn": " 毒药，毒物；酒；有毒害的事物；[助剂] 抑制剂"
+        },
+        {
+          "word": "poisoner",
+          "tran_cn": " 投毒者；毒害者"
+        },
+        {
+          "word": "poisoning",
+          "tran_cn": " 中毒"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "poisoning",
+          "tran_cn": " 毒害（poison的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "poison",
+          "tran_cn": " 放毒，下毒"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "poison",
+          "tran_cn": " 污染；使中毒，放毒于；败坏；阻碍"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "deadly",
+            "destructive",
+            "harmful",
+            "malignant",
+            "noxious",
+            "toxic",
+            "venomous"
+          ],
+          "tran_cn": "有害的;有毒的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deadly",
+            "destructive",
+            "harmful",
+            "malignant",
+            "noxious",
+            "toxic",
+            "venomous"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "poisonous gas",
+      "tran_cn": "毒气；有毒气体"
+    },
+    {
+      "phrase": "poisonous plant",
+      "tran_cn": "有毒植物"
+    },
+    {
+      "phrase": "poisonous substance",
+      "tran_cn": "有毒物，毒性物质"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有毒的，极令人厌恶的",
+      "tran_en": "containing poison or producing poison"
+    }
+  ],
+  "exchange": {}
+}

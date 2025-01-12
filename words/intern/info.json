@@ -1,0 +1,136 @@
+{
+  "word": "intern",
+  "ipa": {
+    "us": "ˈɪntɜːn",
+    "uk": " ˈɪntɜːrn"
+  },
+  "sentences": [
+    {
+      "en": "...a medical intern.",
+      "cn": "…一位实习医生。"
+    },
+    {
+      "en": "Intern : Accumulate 7000 heal points in a single life.",
+      "cn": "用一次生命,积累7000点治愈的生命值."
+    },
+    {
+      "en": "LJ Hao, CY Yang , HC Lam, JK Lee. Hypoparathyroidism. J Intern Med Taiwan 2003; 14:264 - 51.",
+      "cn": "郝立智, 杨纯宜, 林兴中, 李镇. 副甲状腺功能低下症. 内科学志2003; 第14期:第264至270页."
+    },
+    {
+      "en": "Vol 11 - Harry LORRAYNE Intern Card Magic 1.",
+      "cn": "掠夺LORRAYNE-国际的扑克魔术1."
+    },
+    {
+      "en": "Vol 12 - Harry LORRAYNE Intern Card Magic 2.",
+      "cn": "掠夺LORRAYNE-国际的扑克魔术2."
+    },
+    {
+      "en": "Vol 13 - Harry LORRAYNE Intern Card Magic 3.",
+      "cn": "掠夺LORRAYNE-国际的扑克魔术3."
+    },
+    {
+      "en": "We are trying to follow some general intern atonal practice.",
+      "cn": "我们在尝试按国际惯例办事."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "internal",
+          "tran_cn": " 内部的；内在的；国内的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "internment",
+          "tran_cn": " 拘留；收容"
+        },
+        {
+          "word": "internship",
+          "tran_cn": " 实习生；（美）实习期；实习医师职位"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "trainee",
+            "probationer"
+          ],
+          "tran_cn": "实习生，实习医师"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cage",
+            "resident"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "hold",
+            "detain"
+          ],
+          "tran_cn": "拘留，软禁"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<美>住院实习医生，拘禁（俘虏等），扣留（船只等），同“interne”，同“internee”",
+      "tran_en": "someone who has nearly finished training as a doctor and is working in a hospital"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "拘留，软禁",
+      "tran_en": "to put someone in prison without charging them with a crime, for political reasons or during a war"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "拘留，关押"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interns"
+    ],
+    "third": [
+      "interns"
+    ],
+    "past": [
+      "interned"
+    ],
+    "done": [
+      "interned"
+    ],
+    "ing": [
+      "interning"
+    ],
+    "noun": [
+      "internment"
+    ]
+  }
+}

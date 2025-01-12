@@ -1,0 +1,199 @@
+{
+  "word": "freezing",
+  "ipa": {
+    "us": "ˈfriːzɪŋ",
+    "uk": "ˈfriːzɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "\"You must be freezing,\" she said.",
+      "cn": "“你一定冻坏了，”她说。"
+    },
+    {
+      "en": "Brrr, it's freezing here.",
+      "cn": "呵，这儿真冷啊。"
+    },
+    {
+      "en": "freezing fog",
+      "cn": "冰雾"
+    },
+    {
+      "en": "Freezing weather in spring hampered the hens' ability to lay.",
+      "cn": "春天严寒的天气降低了母鸡的产蛋能力。"
+    },
+    {
+      "en": "I was freezing cold.",
+      "cn": "我快冻僵了。"
+    },
+    {
+      "en": "It is freezing outside, and put on your winter coat.",
+      "cn": "外面很冷, 穿上你的大衣吧."
+    },
+    {
+      "en": "It was freezing out there even in his buttoned-up overcoat.",
+      "cn": "外面非常冷，即使穿上大衣扣上扣子也不顶事。"
+    },
+    {
+      "en": "It's 15 degrees below freezing.",
+      "cn": "温度为零下15度。"
+    },
+    {
+      "en": "It's freezing in here!",
+      "cn": "这儿冷得不得了！"
+    },
+    {
+      "en": "It’s freezing in this house. Can’t I turn on the heating?",
+      "cn": "房子里冷极了，我不可以开暖气吗？"
+    },
+    {
+      "en": "She hung on as the freezing, rushing water cascaded past her.",
+      "cn": "她抓得紧紧的，任凭冰冷湍急的水流从她身上倾泻而下。"
+    },
+    {
+      "en": "The cinema was freezing.",
+      "cn": "电影院太冷了。"
+    },
+    {
+      "en": "The hospital is freezing staff appointments as part of its cutbacks.",
+      "cn": "这家医院冻结员工职位作为削减开支的一部分."
+    },
+    {
+      "en": "The temperature remained below freezing point throughout the day.",
+      "cn": "一整天气温都在零度以下。"
+    },
+    {
+      "en": "These plants must be stored in the light at above freezing temperature.",
+      "cn": "这些植物必须放置于零度以上光照充足的地方。"
+    },
+    {
+      "en": "They remain stranded in freezing weather and rapidly worsening conditions.",
+      "cn": "他们仍然被困着，天气严寒，情况迅速恶化。"
+    },
+    {
+      "en": "We were freezing cold in the tent last night.",
+      "cn": "昨晚我们在帐篷里都冻僵了。"
+    },
+    {
+      "en": "When everybody else is boiling hot, I'm freezing!",
+      "cn": "当其他所有人都酷热难耐时，我却冻得够呛！"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "freeze",
+          "tran_cn": " 冻结；凝固"
+        },
+        {
+          "word": "freezer",
+          "tran_cn": " 冰箱；冷冻库；制冷工"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "freeze",
+          "tran_cn": " 冻结；冷冻；僵硬"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "freeze",
+          "tran_cn": " 使…冻住；使…结冰"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "cutting",
+            "iced"
+          ],
+          "tran_cn": "冰冻的；严寒的；冷冻用的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arctic",
+            "chill",
+            "cutting",
+            "frigid",
+            "frosty",
+            "glacial",
+            "raw"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "above freezing",
+      "tran_cn": "零上"
+    },
+    {
+      "phrase": "freezing and thawing",
+      "tran_cn": "冻融"
+    },
+    {
+      "phrase": "freezing cold",
+      "tran_cn": "好冷啊；非常冷"
+    },
+    {
+      "phrase": "freezing method",
+      "tran_cn": "凝固法；冷凝法；冻结方法"
+    },
+    {
+      "phrase": "freezing point",
+      "tran_cn": "冰点，凝固点"
+    },
+    {
+      "phrase": "freezing point depression",
+      "tran_cn": "冰点降低"
+    },
+    {
+      "phrase": "freezing rain",
+      "tran_cn": "冻雨；要结冰的雨"
+    },
+    {
+      "phrase": "freezing temperature",
+      "tran_cn": "冻结温度，冻结点；冰点；凝固温度"
+    },
+    {
+      "phrase": "freezing weather",
+      "tran_cn": "结冰气候"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "极冷的，冰点以下的",
+      "tran_en": "below the temperature at which water turns to ice"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "在冰点以上/下"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "冻结，冷冻（freeze的现在分词）"
+    }
+  ],
+  "exchange": {}
+}

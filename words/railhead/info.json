@@ -1,0 +1,64 @@
+{
+  "word": "railhead",
+  "ipa": {
+    "us": "ˈreɪlhed",
+    "uk": "ˈrelˌhɛd"
+  },
+  "sentences": [
+    {
+      "en": "The goods will be send to the railhead by lorry.",
+      "cn": "货物将由货车运送到铁路终点."
+    },
+    {
+      "en": "The goods will be sent to the railhead by lorry.",
+      "cn": "货物将由货车运送到铁路终点。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "railroader",
+          "tran_cn": " [铁路] 铁路员工"
+        },
+        {
+          "word": "railroading",
+          "tran_cn": " 铁路建设；仓促行事"
+        },
+        {
+          "word": "railway",
+          "tran_cn": " （英）铁路；轨道；铁道部门"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "railroading",
+          "tran_cn": " 由铁路运输；乘火车旅行（railroad的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "railway",
+          "tran_cn": " 乘火车旅行"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "铁路终点站，铁路末端，轨头",
+      "tran_en": "the end of a railway line"
+    }
+  ],
+  "exchange": {}
+}

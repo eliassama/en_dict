@@ -1,0 +1,210 @@
+{
+  "word": "transmit",
+  "ipa": {
+    "us": "trænzˈmɪt",
+    "uk": "trænzˈmɪt"
+  },
+  "sentences": [
+    {
+      "en": "A communication channel, of which each end can simultaneously transmit and receive.",
+      "cn": "一种两端都能同时发送和接收报文的(通信)信道."
+    },
+    {
+      "en": "A signal - relay satellite would transmit information from the telescope to Earth.",
+      "cn": "望远镜接收到的信息将由转播信号的一颗卫星转播到地球上."
+    },
+    {
+      "en": "A telegram will be the quickest way to transmit the message.",
+      "cn": "打电报将是传递这个信息的最快途径."
+    },
+    {
+      "en": "A telegraph can transmit two different signals : a dot and a dash.",
+      "cn": "一台发报机可发射两种讯号:点和线."
+    },
+    {
+      "en": "Anopheles mosquitos transmit malaria.",
+      "cn": "疟蚊传播疟疾."
+    },
+    {
+      "en": "Insects can transmit diseases.",
+      "cn": "昆虫能传播疾病."
+    },
+    {
+      "en": "Marconi now found that he could transmit Morse Code signals.",
+      "cn": "他现在可以用它来发送和接收莫尔斯电码了."
+    },
+    {
+      "en": "Parents transmIt'some of their characteristics to their children.",
+      "cn": "父母把一些特有的素质遗传给儿女."
+    },
+    {
+      "en": "Terminal fittings transmit their force in bearing.",
+      "cn": "端部连接器将其力传到支撑装置上去."
+    },
+    {
+      "en": "The device is not designed to transmit to satellites.",
+      "cn": "该设备不是为向卫星发送信号而设计的。"
+    },
+    {
+      "en": "The roots transmit moisture and nutrient to the trunk and branches.",
+      "cn": "根将水分和养料输送到干和枝."
+    },
+    {
+      "en": "The students were hoist by their own petards, however, as Granada decided to transmit the programme anyway.",
+      "cn": "不过，学生们聪明反被聪明误，格拉纳达最终还是决定要转播这个节目。"
+    },
+    {
+      "en": "The system transmits information over digital phone lines.",
+      "cn": "这一系统通过数字电话线路传输信息。"
+    },
+    {
+      "en": "The US Open will be transmitted live via satellite.",
+      "cn": "美国公开赛将通过卫星现场直播。"
+    },
+    {
+      "en": "These thin crystals transmit much of the power.",
+      "cn": "这些薄薄的晶体传导了大部分的动力。"
+    },
+    {
+      "en": "This is currently the most efficient way to transmit certain types of data like electronic mail.",
+      "cn": "这是目前传送电子邮件等某些类型的数据的最高效方式。"
+    },
+    {
+      "en": "Transmit it to your children and to your children's children.",
+      "cn": "还要把这种责任传给你们的后代,子子孙孙传下去."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "transmissible",
+          "tran_cn": " 能传送的；能透射的；可传达的"
+        },
+        {
+          "word": "transmitted",
+          "tran_cn": " 透射的"
+        },
+        {
+          "word": "transmitting",
+          "tran_cn": " 传送中"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "transmission",
+          "tran_cn": " 传动装置，[机] 变速器；传递；传送；播送"
+        },
+        {
+          "word": "transmittal",
+          "tran_cn": " 传输；传送；被传送"
+        },
+        {
+          "word": "transmittance",
+          "tran_cn": " [光] 透射比；透明度"
+        },
+        {
+          "word": "transmitter",
+          "tran_cn": " [电讯] 发射机，[通信] 发报机；传达人"
+        },
+        {
+          "word": "transmitting",
+          "tran_cn": " 传送，传递"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "transmitted",
+          "tran_cn": " 传输；传送（transmit的过去分词）"
+        },
+        {
+          "word": "transmitting",
+          "tran_cn": " 传递，发射（transmite的现在分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bring",
+            "dispatch",
+            "forward",
+            "forwards",
+            "or",
+            "over",
+            "radio",
+            "send",
+            "signal",
+            "signify",
+            "transfer"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "along",
+            "dispatch",
+            "forward",
+            "over",
+            "pass",
+            "send",
+            "transfer"
+          ],
+          "tran_cn": "传送,传达"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "transmit information",
+      "tran_cn": "传输信息"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "传送，传达；发射",
+      "tran_en": "to send out electronic signals, messages etc using radio, television, or other similar equipment"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "发送信号"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "传输，传送，传递，发射，传染",
+      "tran_en": "to send out electronic signals, messages etc using radio, television, or other similar equipment"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "transmits"
+    ],
+    "past": [
+      "transmitted"
+    ],
+    "done": [
+      "transmitted"
+    ],
+    "ing": [
+      "transmitting"
+    ]
+  }
+}

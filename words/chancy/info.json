@@ -1,0 +1,102 @@
+{
+  "word": "chancy",
+  "ipa": {
+    "us": "ˈtʃɑ:nsi",
+    "uk": "ˈtʃænsi"
+  },
+  "sentences": [
+    {
+      "en": "Acting professionally is a chancy business.",
+      "cn": "专业表演是有风险的行业。"
+    },
+    {
+      "en": "Babies and the chancy life of a musician do not exactly go together.",
+      "cn": "生儿育女和乐师动荡不定的生活是不合拍的."
+    },
+    {
+      "en": "If this method of progress seems chancy and wasteful, it has the merit of its faults.",
+      "cn": "如果这种进步的方法好像太碰机会,也太浪费了, 它的缺点也不无利益的功绩."
+    },
+    {
+      "en": "Invest-ment is becoming a chancy business.",
+      "cn": "投资正变成一项风险事业。"
+    },
+    {
+      "en": "Still, this form of indirect communication and tacit restraint was slow and chancy.",
+      "cn": "不过, 这种间接信息和暗自抑制的方式,毕竟还是太慢,而且也不太确实."
+    },
+    {
+      "en": "That was a chancy thing to do; you could have been badly injured.",
+      "cn": "那事做起来可真危险, 当时你很有可能会受重伤."
+    },
+    {
+      "en": "That was a chancy thing to do; you could have been killed.",
+      "cn": "那事做起来可真危险, 当时你很有可能会遇害."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "chance",
+          "tran_cn": " 机会，际遇；运气，侥幸；可能性"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "chance",
+          "tran_cn": " 碰巧；偶然被发现"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "chance",
+          "tran_cn": " 偶然发生；冒……的险"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "troubled",
+            "uncomfortable"
+          ],
+          "tran_cn": "不确实的；偶然发生的；不安的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adventurous",
+            "dangerous",
+            "risky"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不确实的，不安的",
+      "tran_en": "not certain, or involving a lot of risk"
+    }
+  ],
+  "exchange": {}
+}

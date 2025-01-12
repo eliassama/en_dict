@@ -1,0 +1,108 @@
+{
+  "word": "connive",
+  "ipa": {
+    "us": "kəˈnaɪv",
+    "uk": "kəˈnaɪv"
+  },
+  "sentences": [
+    {
+      "en": "He accused them of conniving with foreign companies to weaken employment rights.",
+      "cn": "他指控他们与外国公司共谋来削弱雇用权。"
+    },
+    {
+      "en": "Not to protest is to connive at the destruction of the environment.",
+      "cn": "对于破坏环境的行为不加反对就等于纵容."
+    },
+    {
+      "en": "The prisoners paid the guards to connive at their escape.",
+      "cn": "囚犯们贿赂看守,使看守默许他们越狱."
+    },
+    {
+      "en": "They connived with their mother to deceive me.",
+      "cn": "他们与他们的母亲串通来骗我。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "conniving",
+          "tran_cn": " 纵容的；默许的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "connivance",
+          "tran_cn": " 纵容；默许；假装不见"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "conniving",
+          "tran_cn": " 纵容；默许；假装不见；共谋（connive的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "collude",
+            "complot",
+            "cooperate",
+            "scheme"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "conspire",
+            "collude"
+          ],
+          "tran_cn": "共谋；纵容；默许"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "默许, 纵容, 暗中合作, 密谋策划",
+      "tran_en": "to not try to stop something wrong from happening"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "密谋 ，搞阴谋，默许，纵容"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "connives"
+    ],
+    "past": [
+      "connived"
+    ],
+    "done": [
+      "connived"
+    ],
+    "ing": [
+      "conniving"
+    ]
+  }
+}

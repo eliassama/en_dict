@@ -1,0 +1,177 @@
+{
+  "word": "loathe",
+  "ipa": {
+    "us": "ləʊð",
+    "uk": "loʊð"
+  },
+  "sentences": [
+    {
+      "en": "He loathes their politics.",
+      "cn": "他讨厌他们那一套政治。"
+    },
+    {
+      "en": "I hate and loathe Bohemianism.",
+      "cn": "我恨的就是不拘世俗,恶心的就是不抱世俗."
+    },
+    {
+      "en": "I hate that damned rubber. I loathe the filthy natives.",
+      "cn": "我恨这晦气的橡胶. 我厌恶这些肮脏的土人."
+    },
+    {
+      "en": "I loathe having to get up so early in the morning!",
+      "cn": "我对这么早起来实在感到厌恶!"
+    },
+    {
+      "en": "I loathe having to go to these conferences.",
+      "cn": "我最讨厌的是得参加这些会议."
+    },
+    {
+      "en": "I loathe modern art.",
+      "cn": "我很不喜欢现代艺术。"
+    },
+    {
+      "en": "I loathe negativity. I can't stand people who moan.",
+      "cn": "我厌恶消极态度，不能忍受唉声叹气的人。"
+    },
+    {
+      "en": "I loathe the smell of burning rubber.",
+      "cn": "我厌恶燃着的橡胶散发的气味."
+    },
+    {
+      "en": "Miss Sun was also loathe to say goodbye and couldn't bear to part from Miss Fan.",
+      "cn": "孙小姐也依依惜别,舍不下她."
+    },
+    {
+      "en": "The two men loathe each other.",
+      "cn": "两个男人互相看不顺眼。"
+    },
+    {
+      "en": "They loathe Bronka Ginsberg but aren't about to cross her.",
+      "cn": "他们厌恶勃隆卡?京斯贝格,但不想和她作对."
+    },
+    {
+      "en": "We hate and loathe these veritable fiends.",
+      "cn": "我们痛恨、厌恶这些不折不扣的魔鬼."
+    },
+    {
+      "en": "We loathe each other, yet we seem doomed constantly to meet.",
+      "cn": "我们相互厌恶, 但似乎偏偏冤家常碰头."
+    },
+    {
+      "en": "We loathe the daily bread that prolongs useless existence.",
+      "cn": "我们憎恨每天的饮食,因为是这些东西使我们拖延着无用的生命."
+    },
+    {
+      "en": "Would the picture teach him to loathe his own soul?",
+      "cn": "这幅画是否会教他去厌弃自己的心灵 呢 ?"
+    },
+    {
+      "en": "You loathe the smell of greasy food when you are seasick.",
+      "cn": "当你晕船时,你会厌恶油腻的气味."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "loathing",
+          "tran_cn": " 厌恶的"
+        },
+        {
+          "word": "loathly",
+          "tran_cn": " 讨厌的；可恶的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "loathly",
+          "tran_cn": " 不情愿地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "loathing",
+          "tran_cn": " 嫌恶"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "loathing",
+          "tran_cn": " 讨厌（loathe的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abhor",
+            "abominate",
+            "despise",
+            "detest",
+            "dislike",
+            "hate",
+            "scorn"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abhor",
+            "abominate",
+            "despise",
+            "detest",
+            "dislike",
+            "hate"
+          ],
+          "tran_cn": "憎恶;讨厌"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "厌恶, 憎恶",
+      "tran_en": "to hate someone or something very much"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "憎恨，厌恶（某人、某事物），[口]极不喜欢（某事物）",
+      "tran_en": "to hate someone or something very much"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "loathes"
+    ],
+    "past": [
+      "loathed"
+    ],
+    "done": [
+      "loathed"
+    ],
+    "ing": [
+      "loathing"
+    ]
+  }
+}

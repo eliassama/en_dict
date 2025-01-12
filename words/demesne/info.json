@@ -1,0 +1,58 @@
+{
+  "word": "demesne",
+  "ipa": {
+    "us": "dəˈmeɪn",
+    "uk": "dɪˈmen, -ˈmin"
+  },
+  "sentences": [
+    {
+      "en": "Keats is referring to epic poetry when he mentions Homer's'proud demesne '.",
+      "cn": "当济慈提到荷马的'骄傲的领域'时,他指的是史诗."
+    },
+    {
+      "en": "Keats is referring to epic poetry when he mentions Homers proud demesne.",
+      "cn": "当济慈提到荷马的骄傲的领域时,他指的是史诗."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "possession",
+            "manor"
+          ],
+          "tran_cn": "私有地；领地；土地之所有"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "parish",
+            "possession"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "held in demesne",
+      "tran_cn": "（地产）合法占有的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "领地，地产，占有（土地）",
+      "tran_en": "land, esp surrounding a house or manor, retained by the owner for his own use "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,189 @@
+{
+  "word": "bathroom",
+  "ipa": {
+    "us": "ˈbɑːθruːm , ˈbɑːθrʊm",
+    "uk": "ˈbæθruːm , ˈbæθrʊm"
+  },
+  "sentences": [
+    {
+      "en": "Before entering the bathroom, he emptied his dirty laundry into the hamper.",
+      "cn": "进浴室前，他把脏衣服全都放进洗衣筐里。"
+    },
+    {
+      "en": "Go and wash your hands in the bathroom.",
+      "cn": "到盥洗室洗手去。"
+    },
+    {
+      "en": "Hand clamped over his mouth, he made a dash for the bathroom.",
+      "cn": "他手捂住嘴向浴室冲去。"
+    },
+    {
+      "en": "He asked whether he could use my bathroom.",
+      "cn": "他问是否可以用我的卫生间。"
+    },
+    {
+      "en": "He headed to the bathroom to wash up.",
+      "cn": "他走进洗手间去洗漱。"
+    },
+    {
+      "en": "Leaning on Jon, Michael took faltering steps to the bathroom.",
+      "cn": "迈克尔倚着乔恩，踉踉跄跄地走到浴室。"
+    },
+    {
+      "en": "My glasses steamed when I came into the bathroom.",
+      "cn": "我走进浴室时，眼镜上蒙上了一层水气。"
+    },
+    {
+      "en": "She left the light on in the bathroom at his request.",
+      "cn": "她按照他的要求将浴室里的灯开着。"
+    },
+    {
+      "en": "She was on her hands and knees in the bathroom.",
+      "cn": "她趴在浴室的地上。"
+    },
+    {
+      "en": "Sylvia fetched a towel from the bathroom.",
+      "cn": "西尔维娅去卫生间拿了一条毛巾。"
+    },
+    {
+      "en": "The bathroom floor was awash.",
+      "cn": "浴室地板浸在水中。"
+    },
+    {
+      "en": "The bathroom has a light and airy feel.",
+      "cn": "浴室给人以明亮通风之感。"
+    },
+    {
+      "en": "The bathroom is entirely my own creation.",
+      "cn": "浴室完全是由我设计的。"
+    },
+    {
+      "en": "The bathroom is furnished with 2 toilets, 2 showers, and 2 sinks.",
+      "cn": "卫生间里装了两个抽水马桶、两个淋浴器、和两个洗脸盆。"
+    },
+    {
+      "en": "The master bedroom has its own en suite bathroom.",
+      "cn": "主卧室带有独立卫生间。"
+    },
+    {
+      "en": "The water shed from the bathroom.",
+      "cn": "水是从浴室中溢出来的。"
+    },
+    {
+      "en": "There is only one bathroom shared between eight bedrooms.",
+      "cn": "八间卧室共用一间浴室。"
+    },
+    {
+      "en": "We revamped our bathroom last month.",
+      "cn": "我们在上个月装修了浴室。"
+    },
+    {
+      "en": "Where’s the bathroom?",
+      "cn": "洗手间在哪里？"
+    },
+    {
+      "en": "You must have left a tap running in the bathroom.",
+      "cn": "你肯定忘了关浴室的龙头了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bath",
+          "tran_cn": " 沐浴；浴室；浴盆"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "bath",
+          "tran_cn": " 洗澡"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bath",
+          "tran_cn": " 洗澡"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "john",
+            "convenience",
+            "toilet"
+          ],
+          "tran_cn": "浴室；厕所；盥洗室"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bath",
+            "lavatory",
+            "toilet"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bathroom accessories",
+      "tran_cn": "浴室配件"
+    },
+    {
+      "phrase": "bathroom cabinet",
+      "tran_cn": "浴室柜"
+    },
+    {
+      "phrase": "bathroom equipment",
+      "tran_cn": "浴室设备"
+    },
+    {
+      "phrase": "bathroom scale",
+      "tran_cn": "浴室磅秤；体重秤"
+    },
+    {
+      "phrase": "bedroom and bathroom",
+      "tran_cn": "卧室和浴室"
+    },
+    {
+      "phrase": "go to the bathroom",
+      "tran_cn": "上厕所"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "浴室，洗手间",
+      "tran_en": "a room where there is a bath or  shower  , a  basin  , and sometimes a toilet"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "浴室",
+      "tran_en": "a room where there is a bath or  shower  , a  basin  , and sometimes a toilet"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bathrooms"
+    ]
+  }
+}

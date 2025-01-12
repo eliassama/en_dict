@@ -1,0 +1,46 @@
+{
+  "word": "ambassadress",
+  "ipa": {
+    "us": "æmˈbæsədres",
+    "uk": "æmˈbæsədrɪs"
+  },
+  "sentences": [
+    {
+      "en": "The president sent a letter to the ambassadress, requesting her to call at her earliest convenience.",
+      "cn": "总统致函女大使, 请她在方便的时候尽快到访."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ambassadorial",
+          "tran_cn": " 大使的；使节的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ambassador",
+          "tran_cn": " 大使；代表；使节"
+        },
+        {
+          "word": "ambassadorship",
+          "tran_cn": " 大使的职位"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "大使夫人，女大使"
+    }
+  ],
+  "exchange": {}
+}

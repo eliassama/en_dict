@@ -1,0 +1,144 @@
+{
+  "word": "hydrodynamic",
+  "ipa": {
+    "us": "'haɪdrəʊdaɪ'næmɪk",
+    "uk": "ˌhaɪdroʊdaɪ'næmɪk"
+  },
+  "sentences": [
+    {
+      "en": "A second type of thermal escape is far more dramatic. This form of thermal escape is called hydrodynamic escape or, more evocatively, the planetary wind.",
+      "cn": "热逸过程的第二种情形更为奇特，可称为流体力学逃逸（hydrodynamic escape），用通俗一些的话说，叫做“行星风”（以便和“太阳风”呼应）。"
+    },
+    {
+      "en": "Evolution of stars of all masses takes place on a hydrodynamic time scale .",
+      "cn": "各种质量的恒星的演化，均以流体力学的时间尺度进行。"
+    },
+    {
+      "en": "Falling raindrops break up through hydrodynamic effects.",
+      "cn": "下落雨滴由于流体动力作用而破碎."
+    },
+    {
+      "en": "Hydrodynamic forces in potential flow , D'Alembert's paradox , added - mass, slender - body theory.",
+      "cn": "势流中的流动力. 达朗伯特 假说.附加质量. 细长体理论."
+    },
+    {
+      "en": "Hydrodynamic performance of two packing structures was investigated with the air - ( water ) system .",
+      "cn": "以空气 - 水为介质,研究了两种 板间距 填料结构的流体力学性能."
+    },
+    {
+      "en": "In its hydrodynamic behavior, we can liken the dense phase to a liquid.",
+      "cn": "从其流体动力学性状来看, 可把密相看作近似乎液体."
+    },
+    {
+      "en": "In metal lubrication two distinct regions are recognized: boundary and hydrodynamic.",
+      "cn": "在金属的润滑作用中存在两个不同区段: 边界和流体区."
+    },
+    {
+      "en": "It was theorized with a high degree of probability that the change in period was due to the nonlinearity of the hydrodynamic pressure acting on the upstream face of the dam.",
+      "cn": "据推论最大可能性是在那一时间段非线性水压作用于坝体上游面所造成的差别。"
+    },
+    {
+      "en": "On the basis of microtome section theory, we get the hydrodynamic model.",
+      "cn": "依据切片理论建立了不同浪向下船舶纵向运动的水动力模型."
+    },
+    {
+      "en": "Sealing type upstream pumping principle are hydrodynamic pressure and hydrostatic pressure equilibrium.",
+      "cn": "上游式泵送密封的原理是动水压力和静水压力相平衡."
+    },
+    {
+      "en": "So design system should consider hydrodynamic force and makes design perfect.",
+      "cn": "说明设计系统时应考虑液动力,以使系统设计完善."
+    },
+    {
+      "en": "The hydrodynamic equations were solved using a finite - volume method.",
+      "cn": "流体力学方程组求解采用有限体积法."
+    },
+    {
+      "en": "The hydrodynamic head is provided by influx of fresh water from the interior of tropical Jamaica.",
+      "cn": "水压头是由处于热带的牙买加内地流入的淡水提供的."
+    },
+    {
+      "en": "The parameters of cage size have an effect on the hydrodynamic characteristics.",
+      "cn": "网箱各尺寸参数影响网箱的水动力特性."
+    },
+    {
+      "en": "There are many parallels between Cherenkov radiation and hydrodynamic shocks.",
+      "cn": "切仑可夫辐射和流体力学冲击之间有许多共同点."
+    },
+    {
+      "en": "They show its high hydrodynamic efficiency in solvents of various chemical character.",
+      "cn": "他们显示其高动力效率的各种不同的化学溶剂的角色."
+    },
+    {
+      "en": "This indicates a hydrodynamic condition with a very marked potentiometric gradient.",
+      "cn": "这说明水动力条件具有很明显的位能梯度."
+    },
+    {
+      "en": "When other conditions are same, channeling can improve hydrodynamic parameter of turbine.",
+      "cn": "在其余条件一致的情况下, 加装导流罩有助于水轮机的各方面性能的提高."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hydroelectric",
+          "tran_cn": " 水力发电的；水电治疗的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hydrodynamics",
+          "tran_cn": " [流] 流体力学；[流] 水动力学；流体动力学"
+        },
+        {
+          "word": "hydroelectricity",
+          "tran_cn": " 水力电气"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "waterpower"
+          ],
+          "tran_cn": "水力的；[流]流体动力学的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hydrodynamic dispersion",
+      "tran_cn": "水动力扩散；水动力的分散"
+    },
+    {
+      "phrase": "hydrodynamic lubrication",
+      "tran_cn": "液体动力润滑；液动润滑"
+    },
+    {
+      "phrase": "hydrodynamic pressure",
+      "tran_cn": "水动压力，流体压力；铃动压力"
+    },
+    {
+      "phrase": "hydrodynamic transmission",
+      "tran_cn": "液力变速器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "水力的",
+      "tran_en": "of or concerned with the mechanical properties of fluids "
+    }
+  ],
+  "exchange": {}
+}

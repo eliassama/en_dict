@@ -1,0 +1,169 @@
+{
+  "word": "compile",
+  "ipa": {
+    "us": "kəmˈpaɪl",
+    "uk": "kəmˈpaɪl"
+  },
+  "sentences": [
+    {
+      "en": "Automaton theory is a basic theory of compile routine for identifying words.",
+      "cn": "自动机理论是编译程序中单词识别的基本理论."
+    },
+    {
+      "en": "BCB 6.0 compile a complete network chat rooms source code.",
+      "cn": "BCB6.0编译通过的完整的网络聊天室源代码."
+    },
+    {
+      "en": "Compile and translate technical application materials, like leaflet , brochures etc.",
+      "cn": "编写翻译产品技术施用资料, 简介, 手册等."
+    },
+    {
+      "en": "Councils were required to compile a register of all adults living in their areas.",
+      "cn": "各地政务委员会被要求编制一份该地区成年居民的名册。"
+    },
+    {
+      "en": "In order to compile the military history, he has read many materials.",
+      "cn": "他为了编写军史而查阅了很多材料."
+    },
+    {
+      "en": "It is necessary to compile a network of locations with the required environmental measurements.",
+      "cn": "必须编排具有所需环境测量的地点网."
+    },
+    {
+      "en": "It takes years of hard work to compile a good dictionary.",
+      "cn": "编辑一部好词典需要数年的艰苦工作."
+    },
+    {
+      "en": "Mentally, at least, most of us could compile formidable lists of \" do's \" and \" don'ts \".",
+      "cn": "我们中大多数人至少在心中会考虑着一系列 决心 要做和 决心 不做的事情."
+    },
+    {
+      "en": "Now we are finished. Compile and run the application.",
+      "cn": "现在我们结束了.编译并运行此程序."
+    },
+    {
+      "en": "Put condor _ compile in front of your usual link command.",
+      "cn": "最好把condor_compile放在你的日常连接命令之前."
+    },
+    {
+      "en": "Subject: sound file player demo, please use the Visual C ++, Compile directly to the Executive.",
+      "cn": "主题: 声音文件播放演示请使用VisualC++, compile后直接执行即可."
+    },
+    {
+      "en": "The document was compiled by the Department of Health.",
+      "cn": "这份文件是由卫生部汇编的。"
+    },
+    {
+      "en": "The girl sat down with a police artist to compile a Photofit of her attacker.",
+      "cn": "女孩坐着和警方画像专家一起模拟拼绘攻击她的人的画像。"
+    },
+    {
+      "en": "These 36 planes compile 36 different lives that are lived simultaneously.",
+      "cn": "36个平面编辑36个同时存在的不同的生命."
+    },
+    {
+      "en": "This print drafts cent period to and compile publish, offer reader reference.",
+      "cn": "本刊拟分三期摘编发表, 供读者参考."
+    },
+    {
+      "en": "We are trying to compile a list of suitable people for the job.",
+      "cn": "我们在努力编制一份适合做这项工作的人员名单。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "compilation",
+          "tran_cn": " 编辑"
+        },
+        {
+          "word": "compiler",
+          "tran_cn": " 编译器；[计] 编译程序；编辑者，汇编者"
+        },
+        {
+          "word": "compiling",
+          "tran_cn": " [计] 编译"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "compiling",
+          "tran_cn": " 编辑；收集（compile的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accumulate",
+            "amass",
+            "assemble",
+            "collect",
+            "gather",
+            "muster",
+            "store",
+            "up"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "accumulate",
+            "assemble",
+            "collect",
+            "edit",
+            "gather",
+            "store"
+          ],
+          "tran_cn": "编辑;收集"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "compile time",
+      "tran_cn": "编译时间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "编写，编制，编译",
+      "tran_en": "to make a book, list, record etc, using different pieces of information, music etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 汇编， 编制； 编纂； 收集",
+      "tran_en": "to make a book, list, record etc, using different pieces of information, music etc"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "compiles"
+    ],
+    "past": [
+      "compiled"
+    ],
+    "done": [
+      "compiled"
+    ],
+    "ing": [
+      "compiling"
+    ]
+  }
+}

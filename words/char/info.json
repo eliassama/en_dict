@@ -1,0 +1,177 @@
+{
+  "word": "char",
+  "ipa": {
+    "us": "tʃɑː(r)",
+    "uk": "tʃɑːr"
+  },
+  "sentences": [
+    {
+      "en": "a cup of char",
+      "cn": "一杯茶"
+    },
+    {
+      "en": "A horseshoe has always been considered a good luck char.",
+      "cn": "马蹄铁一直被视作一种吉祥物."
+    },
+    {
+      "en": "Anthracite char has poor pore structure and small specific surface area.",
+      "cn": "无烟煤焦分支孔贫乏,比表面积很小."
+    },
+    {
+      "en": "CHAR is a global variable which will always hold the source program being scanned.",
+      "cn": "CHAR是全程变量,它总存放当前所扫描的源程序的字符."
+    },
+    {
+      "en": "Character and the value of the constant expression is representable in the type char.",
+      "cn": "在char类型中,Character和常量表达式的值是可表示的."
+    },
+    {
+      "en": "Halve the peppers and char the skins under a hot grill.",
+      "cn": "将甜椒剖成两半，在滚热的烤架上烤至外壳微焦。"
+    },
+    {
+      "en": "In char, byte , and short you can see the effect of promotion with the arithmetic operators.",
+      "cn": "在char, byte 和short中,我们可看到算术运算符的“转型”效果."
+    },
+    {
+      "en": "Is there any char going?",
+      "cn": "有茶吗？"
+    },
+    {
+      "en": "It had clean whitewashed walls, a table and a char.",
+      "cn": "屋里有白白的墙, 还有条长桌,一把椅子."
+    },
+    {
+      "en": "Local char set is bad. If provided, must be 24 characters.",
+      "cn": "本地字符集不正确. 若要提供字符集, 则须为24个字符."
+    },
+    {
+      "en": "Normal Fried Rice Ingredients: Bean Sprout, Char Siew, Crabstick & Sausage.",
+      "cn": "普通炒饭配料: 豆芽 、 叉烧 、 蟹肉 、 香肠."
+    },
+    {
+      "en": "Notice in the above code the maximum possible hexadecimal values for char, byte, and short.",
+      "cn": "注意在上述代码中,最大的十六进制值只会在char, byte以及short身上出现."
+    },
+    {
+      "en": "Roast the peppers until the skin begins to char and blister.",
+      "cn": "把这些辣椒烤到表皮发黑起泡为止。"
+    },
+    {
+      "en": "The fragmentation char combustion behavior in a fluidized bed combustor.",
+      "cn": "利用下行气流振动床代替流化床,研究了煤的碎裂特性."
+    },
+    {
+      "en": "The results showed that PEPA was an excellent char - forming agents.",
+      "cn": "结果表明:PEPA是 良好的成炭剂,与基体有很好的相容性,与MC协同 作用于PBT树脂 具有出色的阻燃效果(达到UL94V-0级)."
+    },
+    {
+      "en": "Toast hazelnuts on a baking sheet until the skins char.",
+      "cn": "在烘板上将榛子烤至表皮微煳。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "charred",
+          "tran_cn": " 烧黑了的，烧焦的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "charred",
+          "tran_cn": " 烧焦（char的过去分词）；把…烧成碳"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chore"
+          ],
+          "tran_cn": "炭；家庭杂务"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "burn",
+            "scorch",
+            "sear",
+            "singe"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "air burn",
+            "fetch and carry"
+          ],
+          "tran_cn": "烧焦；打杂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "coal"
+          ],
+          "tran_cn": "把…烧成炭"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "碳，（尤指家庭的）杂务，<鱼>嘉鱼，茶（英式英语旧时用法）"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 烧焦； 把…烧成炭",
+      "tran_en": "to burn something so that its outside becomes black"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "烧成炭，烧焦，<主英>做杂役女佣"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把…烧成炭，把…烧焦，烧焦"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "chars"
+    ],
+    "past": [
+      "charred"
+    ],
+    "done": [
+      "charred"
+    ],
+    "ing": [
+      "charring"
+    ]
+  }
+}

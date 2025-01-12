@@ -1,0 +1,203 @@
+{
+  "word": "headline",
+  "ipa": {
+    "us": "ˈhedlaɪn",
+    "uk": "ˈhedlaɪn"
+  },
+  "sentences": [
+    {
+      "en": "'Carnage at Airport ', screamed the tabloid headline.",
+      "cn": "通俗小报的标题耸人听闻: “ 机场喋血”."
+    },
+    {
+      "en": "a paper carrying the front-page headline: ‘Space Aliens meet with President’",
+      "cn": "头版报道题为“天外来客会见总统”的报纸"
+    },
+    {
+      "en": "Detectives smash London vice ring, eg in a newspaper headline.",
+      "cn": "警探侦破伦敦黄赌毒团伙(如报刊标题)."
+    },
+    {
+      "en": "Every ad had a headline, and so did every paragraph.",
+      "cn": "每个广告都有标题, 每一段都有标题."
+    },
+    {
+      "en": "He became a general - assignment anchor at CNN Headline News in July.",
+      "cn": "他从7月份开始担任有线新闻电视公司(CNN)(标题新闻)栏目的总编排."
+    },
+    {
+      "en": "He displayed headline as evidence.",
+      "cn": "他把一些标题摆出来作证."
+    },
+    {
+      "en": "He had brightened at having his name in headline again.",
+      "cn": "他因自己的名字再次出现在大字标题上而喜形于色."
+    },
+    {
+      "en": "I'm Claudia Polley with the news headlines.",
+      "cn": "我是克劳迪娅•波莉，以下是新闻提要。"
+    },
+    {
+      "en": "It does so directly, as headline price indices include some oil - related goods.",
+      "cn": "这种作用非常直接, 因为总体物价指数包括一些与石油相关的商品."
+    },
+    {
+      "en": "The article bore the headline \" Conversation and Confrontation \".",
+      "cn": "文章标题为 \" 对话与对抗 \"."
+    },
+    {
+      "en": "The banner headline leaped out at me from the newspaper.",
+      "cn": "报纸上的通栏标题跃然映入我的眼帘."
+    },
+    {
+      "en": "The Daily Mail has the headline \"The Voice of Conscience\"",
+      "cn": "《每日邮报》的头版标题为“良知的声音”。"
+    },
+    {
+      "en": "The headline ratio of exports to GDP is very misleading.",
+      "cn": "出口占GDP的数据很容易误导人."
+    },
+    {
+      "en": "The newspaper's headline indicates that there was a trade-off at the summit.",
+      "cn": "报纸的大字标题表明峰会上大家作出了妥协。"
+    },
+    {
+      "en": "This news headline is written in equal - line face letters.",
+      "cn": "报纸上的这条新闻标题用的是等线体."
+    },
+    {
+      "en": "Yes, it was the headline achievements that had impressed Colonel Baxter.",
+      "cn": "是的, 正是这些轰动一时的成就给巴克斯特上校留下了很深的印象."
+    },
+    {
+      "en": "You know what the headline was the day before the election?",
+      "cn": "你知道选举前一天报纸的头条是什么 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "heading",
+          "tran_cn": " 标题；（足球）头球；信头"
+        },
+        {
+          "word": "headliner",
+          "tran_cn": " 写标题的记者；头牌人物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "heading",
+          "tran_cn": " 用头顶（head的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "argument",
+            "spreadhead"
+          ],
+          "tran_cn": "大标题；内容提要；栏外标题；头版头条新闻"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "banner",
+            "caption",
+            "head",
+            "heading",
+            "screamer",
+            "streamer",
+            "superscription",
+            "title"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "highlight"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "caption",
+            "head",
+            "title"
+          ],
+          "tran_cn": "加标题于"
+        },
+        {
+          "words": [
+            "feature",
+            "spotlight",
+            "star"
+          ],
+          "tran_cn": "大肆宣传"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "banner headline ",
+      "tran_cn": "（报纸头版的）通栏大标题"
+    },
+    {
+      "phrase": "headline news",
+      "tran_cn": "标题新闻"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "大字标题，新闻提要，头条新闻",
+      "tran_en": "the title of a newspaper report, which is printed in large letters above the report"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "给…加标题；使成为注意中心；大力宣传",
+      "tran_en": "to give a headline to an article or story"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "给…加标题，担任主角"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "headlines"
+    ],
+    "third": [
+      "headlines"
+    ],
+    "past": [
+      "headlined"
+    ],
+    "done": [
+      "headlined"
+    ],
+    "ing": [
+      "headlining"
+    ]
+  }
+}

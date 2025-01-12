@@ -1,0 +1,118 @@
+{
+  "word": "tumour",
+  "ipa": {
+    "us": "ˈtju:mə(r)",
+    "uk": "ˈtuːmər"
+  },
+  "sentences": [
+    {
+      "en": "A benign tumour will not cause you any fatal harm.",
+      "cn": "良性肿瘤不会对你有致命的伤害."
+    },
+    {
+      "en": "a brain tumour",
+      "cn": "脑瘤"
+    },
+    {
+      "en": "an inoperable brain tumour",
+      "cn": "不能动手术的脑瘤"
+    },
+    {
+      "en": "an operation on her lung to remove a tumour",
+      "cn": "为她做肺部肿瘤切除手术"
+    },
+    {
+      "en": "He died in 1984 of an unsuspected brain tumour.",
+      "cn": "他于1984年意外死于脑瘤。"
+    },
+    {
+      "en": "He was died of a malignant tumour.",
+      "cn": "他死于恶性肿瘤."
+    },
+    {
+      "en": "He was suffering from a brain tumour.",
+      "cn": "他当时正患脑瘤."
+    },
+    {
+      "en": "It is not the primary tumour that kills, but secondary growths elsewhere in the body.",
+      "cn": "原发性肿瘤并不会置人于死地，致命的是身体其他部位的继发肿瘤。"
+    },
+    {
+      "en": "It wasn't cancer, only a benign tumour.",
+      "cn": "这不是癌症，只是良性肿瘤。"
+    },
+    {
+      "en": "The course of the disease correlates with the development of the tumour.",
+      "cn": "病程和肿瘤的发展有相互关系."
+    },
+    {
+      "en": "The dye is reduced by dehydrogenase enzymes released by viable tumour cells.",
+      "cn": "染料被存活的肿瘤细胞放出的脱氢酶所还原."
+    },
+    {
+      "en": "The surgeon cut away the tumour with expert skill.",
+      "cn": "外科大夫用熟练的技术把肿瘤切去."
+    },
+    {
+      "en": "The surgeons irradiated the tumour.",
+      "cn": "外科医生用X射线照射那个肿瘤."
+    },
+    {
+      "en": "The surgeons operated on her for a tumour.",
+      "cn": "外科医生为她施行了肿瘤切除手术."
+    },
+    {
+      "en": "The tumour constricts the nerves.",
+      "cn": "肿瘤压迫神经."
+    },
+    {
+      "en": "The tumour was shelled out.",
+      "cn": "肿瘤给切除了."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "node",
+            "oncoma"
+          ],
+          "tran_cn": "[肿瘤]瘤；肿瘤；肿块"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cancer",
+            "excrescence"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "tumour hospital",
+      "tran_cn": "肿瘤医院"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "肿瘤，肿块，疙瘩，赘疣",
+      "tran_en": "a mass of diseased cells in your body that have divided and increased too quickly"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tumours"
+    ]
+  }
+}

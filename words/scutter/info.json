@@ -1,0 +1,74 @@
+{
+  "word": "scutter",
+  "ipa": {
+    "us": "'skʌtə",
+    "uk": "ˈskʌtɚ"
+  },
+  "sentences": [
+    {
+      "en": "At one point you hear a rattling noise, assume its an enemy only for a rat to jump out and scutter away.",
+      "cn": "比如，你听到了嘎嘎声，以为是个敌人结果发现只是只老鼠跳了出来然后逃走了。"
+    },
+    {
+      "en": "You have to scutter,otherwise you won't catch the train.",
+      "cn": "你得快点跑，不然你就赶不上火车了。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dead run"
+          ],
+          "tran_cn": "疾走"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "scurry"
+          ],
+          "tran_cn": "急跑；疾走"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "疾走"
+    },
+    {
+      "pos": "n& v.",
+      "tran_cn": "疾走"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 疾走， 急跑"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "scutters"
+    ],
+    "third": [
+      "scutters"
+    ],
+    "past": [
+      "scuttered"
+    ],
+    "done": [
+      "scuttered"
+    ],
+    "ing": [
+      "scuttering"
+    ]
+  }
+}

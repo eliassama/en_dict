@@ -1,0 +1,51 @@
+{
+  "word": "falconer",
+  "ipa": {
+    "us": "ˈfɔːlkənə(r)",
+    "uk": " ˈfælkənər"
+  },
+  "sentences": [
+    {
+      "en": "The falcon cannot hear the falconer.",
+      "cn": "猎鹰再也听不见主人的呼唤。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "falconine",
+          "tran_cn": " 鹰的；猎鹰的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "falcon",
+          "tran_cn": " [鸟] 猎鹰；[鸟] 隼"
+        },
+        {
+          "word": "falconry",
+          "tran_cn": " 放鹰捕猎；训鹰术"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "以鹰狩猎者，养鹰者，放鹰者",
+      "tran_en": "someone who trains falcons to hunt"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "falconers"
+    ]
+  }
+}

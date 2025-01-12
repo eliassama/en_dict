@@ -1,0 +1,145 @@
+{
+  "word": "mortify",
+  "ipa": {
+    "us": "ˈmɔ:tɪfaɪ",
+    "uk": "ˈmɔrtɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "Jane mortified her family by leaving her husband.",
+      "cn": "简的家人为简离开丈夫感到奇耻大辱。"
+    },
+    {
+      "en": "To cause to feel chagrin ; mortify or discomfit.",
+      "cn": "使懊恼,使受屈辱,使窘迫."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mortified",
+          "tran_cn": " 窘迫的；受辱的"
+        },
+        {
+          "word": "mortifying",
+          "tran_cn": " 痛心的；使人羞愧的；禁欲苦修的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mortification",
+          "tran_cn": " 屈辱；禁欲；坏疽"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "mortified",
+          "tran_cn": " 使受辱（mortify的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mortifying",
+          "tran_cn": " 苦修；使…悔恨（mortify的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addle",
+            "cheapen",
+            "cloud",
+            "deflate",
+            "disgrace",
+            "displease",
+            "embarrass",
+            "humiliate",
+            "impute",
+            "shame",
+            "wound"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "hold in",
+            "hold oneself in"
+          ],
+          "tran_cn": "禁欲；苦行；约束"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "disgrace",
+            "embarrass",
+            "humiliate",
+            "shame",
+            "wound"
+          ],
+          "tran_cn": "伤人;使人丢脸"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "克服, 苦修, 使苦恼"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（指肌肤）变成坏疽"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使受辱，伤害（人的感情），克制，抑制（肉体、情感等）",
+      "tran_en": "If you say that something mortifies you, you mean that it offends or embarrasses you a great deal"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "mortifies"
+    ],
+    "past": [
+      "mortified"
+    ],
+    "done": [
+      "mortified"
+    ],
+    "ing": [
+      "mortifying"
+    ],
+    "noun": [
+      "mortification"
+    ],
+    "adj": [
+      "mortifying"
+    ]
+  }
+}

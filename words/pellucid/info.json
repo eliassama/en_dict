@@ -1,0 +1,90 @@
+{
+  "word": "pellucid",
+  "ipa": {
+    "us": "pəˈlu:sɪd",
+    "uk": "pəˈlusɪd"
+  },
+  "sentences": [
+    {
+      "en": "a pellucid stream",
+      "cn": "清澈的小溪"
+    },
+    {
+      "en": "After reading these stodgy philosophers, I find his pellucid style very enjoyable.",
+      "cn": "在阅读这些乏味的哲学家, 我觉得他的透明风格非常愉快."
+    },
+    {
+      "en": "She has a pair of pellucid blue eyes.",
+      "cn": "她有一双清澈的蓝眼睛。"
+    },
+    {
+      "en": "The butterfly alights on my pellucid fingertip.",
+      "cn": "蝴蝶栖落在我透明的指尖."
+    },
+    {
+      "en": "They sat there watching the water of the pellucid stream rush by.",
+      "cn": "他们坐在那儿望著那清澈的溪水喘急流过."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "pellucidly",
+          "tran_cn": " 透明地；易懂地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pellucidity",
+          "tran_cn": " 透彻度；透明性；透明度"
+        },
+        {
+          "word": "pellucidness",
+          "tran_cn": " 透明性，透明度；（糖液）透光度"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "transparent",
+            "defined",
+            "plain",
+            "crystal"
+          ],
+          "tran_cn": "[昆]透明的；清晰的；明了的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comprehensible",
+            "glassy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "透明的，清澈的",
+      "tran_en": "very clear"
+    }
+  ],
+  "exchange": {}
+}

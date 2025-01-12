@@ -1,0 +1,85 @@
+{
+  "word": "torturous",
+  "ipa": {
+    "us": "'tɔ:tʃərəs",
+    "uk": "ˈtɔrtʃərəs"
+  },
+  "sentences": [
+    {
+      "en": "a torturous five days of fitness testing",
+      "cn": "五天痛苦的体能测试"
+    },
+    {
+      "en": "After 3 years of torturous imprisonment, he was finally set free.",
+      "cn": "经过了三年痛苦的坐牢, 他终于被放出来了."
+    },
+    {
+      "en": "His breathing was torturous.",
+      "cn": "他的呼吸充满痛苦。"
+    },
+    {
+      "en": "The cost information provided by traditional cost management system is torturous in modern manufacturing industry.",
+      "cn": "在现代制造企业中,传统的成本管理系统所提供的成本信息显现了其局限性及不适应性."
+    },
+    {
+      "en": "This is a torturous, agonizing way to kill someone.",
+      "cn": "这是一种让人受尽折磨、痛苦难忍的杀人方法。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "torture",
+          "tran_cn": " 折磨；拷问；歪曲"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "torture",
+          "tran_cn": " 折磨；拷问；歪曲"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "painful",
+            "bitter",
+            "hurt"
+          ],
+          "tran_cn": "折磨人的，痛苦的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "afflictive",
+            "painful"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "折磨人的，充满痛苦（或苦恼）的",
+      "tran_en": "very painful or unpleasant to experience"
+    }
+  ],
+  "exchange": {}
+}

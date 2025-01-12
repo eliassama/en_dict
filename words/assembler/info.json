@@ -1,0 +1,188 @@
+{
+  "word": "assembler",
+  "ipa": {
+    "us": "əˈsemblə(r)",
+    "uk": "əˈsɛmblɚ"
+  },
+  "sentences": [
+    {
+      "en": "A file containing object code. The output of a compiler or assembler.",
+      "cn": "包含目标代码的文件. 编译器或汇编器的输出."
+    },
+    {
+      "en": "An assembler language programmer writes one mnemonic instruction for each machine - level instruction.",
+      "cn": "汇编语言程序设计员为每条机器指令写一条助记符指令."
+    },
+    {
+      "en": "An assembler operation of conditional assembly and macro generation.",
+      "cn": "对条件汇编及宏生成的一种汇编操作."
+    },
+    {
+      "en": "An expression that an assembler evaluates at pre - assembly time.",
+      "cn": "汇编程序在预汇编时对其求值的一种表达式."
+    },
+    {
+      "en": "Assembler - A female track star who holds all the world speed records.",
+      "cn": "汇编 —— 一位田径运动明星,她拥有速度上的世界纪录."
+    },
+    {
+      "en": "AVR Assembler 2 compiler source code integrity, and can be used directly.",
+      "cn": "AVR单片机汇编2编译器的源代码完整, 并可以直接使用."
+    },
+    {
+      "en": "In assembler programming, a name entry.",
+      "cn": "汇编程序设计中使用的一种名(字)项."
+    },
+    {
+      "en": "In this example, the assembler template consists of assembly instructions.",
+      "cn": "本例中，汇编程序模板由汇编指令组成。"
+    },
+    {
+      "en": "It is highly recommended you get NASM assembler too.",
+      "cn": "高度推荐您也安装NASM汇编程序."
+    },
+    {
+      "en": "Nice assembler for 8051 source code integrity, and can be used directly.",
+      "cn": "尼斯汇编8051源代码完整, 并可以直接使用."
+    },
+    {
+      "en": "Section VI will show the complete solution in Assembler.",
+      "cn": "第VI部分将给出完全的汇编解决方案."
+    },
+    {
+      "en": "The action taken by the assembler when it replaces a variable symbol with a value , for example , during the expansion of a macro definition.",
+      "cn": "汇编程序采用的一种动作，例如在宏定义展开时，它用一个值来代替一个变量符号。"
+    },
+    {
+      "en": "The assembler language is a kind of symbolic language.",
+      "cn": "汇编语言是一种符号语言."
+    },
+    {
+      "en": "The design of traffic lights with assembler language feel pretty good!",
+      "cn": "交通灯的设计用汇编语言自己觉得挺不错的!"
+    },
+    {
+      "en": "There are usually no nested statements, blocks , and so forth in assembler statements.",
+      "cn": "在这些汇编语句中通常不包含嵌套语句, 分程序等等."
+    },
+    {
+      "en": "This software logic can be written in a higher level programming language, or it can be executed as assembler logic on a computer chip.",
+      "cn": "这里的软件逻辑可以使用较为高级的编程语言编写，可作为汇编程序逻辑在计算机芯片上执行。"
+    },
+    {
+      "en": "This way, if you need to add a register to your code later, the assembler will auto-recalculate the new register numbers and you don't have to alter your register numbering convention.",
+      "cn": "这样，如果您以后需要向代码中添加一个寄存器，那么汇编程序就会自动重新计算新寄存器的编号，您也不必更改自己的寄存器编号约定。"
+    },
+    {
+      "en": "Utilizing an assembler to produce a machine - language program.",
+      "cn": "用汇编程序产生机器语言的过程."
+    },
+    {
+      "en": "VC ++ is used to call the assembly compiler to compile the assembler.",
+      "cn": "并给出了利用VC+调用汇编编译器编译汇编源文件的方法."
+    },
+    {
+      "en": "What's the difference between an assembler and compiler?",
+      "cn": "汇编程序和编译程序之间有何判别呢？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "assembled",
+          "tran_cn": " 组合的；安装的"
+        },
+        {
+          "word": "assembling",
+          "tran_cn": " 装配的；组合的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assemblage",
+          "tran_cn": " 装配；集合；聚集；集会；集合物；聚集的物或人"
+        },
+        {
+          "word": "assembling",
+          "tran_cn": " 装配；[计] 汇编"
+        },
+        {
+          "word": "assembly",
+          "tran_cn": " 装配；集会，集合"
+        },
+        {
+          "word": "assemblyman",
+          "tran_cn": " 议员；装配工"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "assembled",
+          "tran_cn": " 装配（assemble的过去分词）；集合"
+        },
+        {
+          "word": "assembling",
+          "tran_cn": " 装配（assemble的ing形式）；聚集"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "assemble",
+          "tran_cn": " 集合，聚集"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "assemble",
+          "tran_cn": " 集合，聚集；装配；收集"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "assembly program",
+            "assembly routine"
+          ],
+          "tran_cn": "[计]汇编程序；汇编机；[机]装配工"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "assembler language",
+      "tran_cn": "[计]汇编语言，装配工语言"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "装配工，汇编程序，低级编码， 汇编语言",
+      "tran_en": "An assembler is a person, a machine, or a company that assembles the individual parts of a vehicle or a piece of equipment such as a computer"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "assemblers"
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "word": "quiz",
+  "ipa": {
+    "us": "kwɪz",
+    "uk": "kwɪz"
+  },
+  "sentences": [
+    {
+      "en": "a biology quiz",
+      "cn": "生物测验"
+    },
+    {
+      "en": "a general knowledge quiz",
+      "cn": "常识问答竞赛"
+    },
+    {
+      "en": "a love quiz in a magazine",
+      "cn": "杂志上的爱情问答"
+    },
+    {
+      "en": "Below are printed the answers to the Brain of Soccer 1993 quiz.",
+      "cn": "以下所印的是1993年“脑力足球”小测验的答案。"
+    },
+    {
+      "en": "He asked us to prepare for a quiz.",
+      "cn": "他要我们准备好测验."
+    },
+    {
+      "en": "How did you do in the maths test [ quiz ] ?",
+      "cn": "你的数学 考 得 怎么样 ?"
+    },
+    {
+      "en": "I'll give you a quiz.",
+      "cn": "我考考你."
+    },
+    {
+      "en": "Let me quiz you.",
+      "cn": "我考考你。"
+    },
+    {
+      "en": "Match your skill against the experts in this quiz.",
+      "cn": "在这一测验中你与专家较量一下技巧吧."
+    },
+    {
+      "en": "The quiz showed up Cane's weak points in physics.",
+      "cn": "这次测验看出了凯恩在物理学方面的弱点."
+    },
+    {
+      "en": "The quiz was a good opportunity for the exhibition of his knowledge.",
+      "cn": "这次测验是他显示知识的好机会."
+    },
+    {
+      "en": "The teacher gave us a quiz in English.",
+      "cn": "老师给我们测验英文."
+    },
+    {
+      "en": "The teacher went over the quiz and discussed the student's mistakes.",
+      "cn": "老师审阅了试卷,讨论了学生的错误."
+    },
+    {
+      "en": "We'll have a quiz at the end of the show.",
+      "cn": "节目的最后我们要举行一次智力竞赛。"
+    },
+    {
+      "en": "We've also got a bonus quiz with crates of beer as prizes!",
+      "cn": "我们还获得了一次参加有奖智力竞赛的机会，奖品是成箱的啤酒！"
+    },
+    {
+      "en": "Who coined the word \"quiz\" ?",
+      "cn": "谁创造的“quiz”这个词？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "quizmaster",
+          "tran_cn": " 广播电视测验节目主持人"
+        },
+        {
+          "word": "quizzer",
+          "tran_cn": " 测验节目；提问者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "examine",
+            "interrogate",
+            "query",
+            "question",
+            "test"
+          ],
+          "tran_cn": "测验,考试;质问"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "examination",
+            "examine",
+            "inquiry",
+            "interrogate",
+            "interview",
+            "query",
+            "question",
+            "test"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "dig at",
+            "test for"
+          ],
+          "tran_cn": "挖苦；张望；对…进行测验"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "quiz game",
+      "tran_cn": "答问比赛；智力竞赛"
+    },
+    {
+      "phrase": "quiz show",
+      "tran_cn": "机智问答；智力竞争节目"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "知识竞赛，小测验",
+      "tran_en": "a competition or game in which people have to answer questions"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "询问，盘问"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 考查， 盘问",
+      "tran_en": "to ask someone a lot of questions"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "quizzes"
+    ],
+    "third": [
+      "quizzes"
+    ],
+    "past": [
+      "quizzed"
+    ],
+    "done": [
+      "quizzed"
+    ],
+    "ing": [
+      "quizzing"
+    ]
+  }
+}

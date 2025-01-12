@@ -1,0 +1,222 @@
+{
+  "word": "optimization",
+  "ipa": {
+    "us": "'ɒptəmaɪ'zeɪʃən",
+    "uk": "'ɑ:ptəmaɪ'zeɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "A hybrid search algorithm was composed of chaos optimization and simplex method.",
+      "cn": "将混沌优化和单纯形法相结合,构造出一种混合混沌算法."
+    },
+    {
+      "en": "Aim To study some applications of a neural networks in combinatorial optimization.",
+      "cn": "目的研究神经网络在组合最优化问题中的应用."
+    },
+    {
+      "en": "And the constrained - dominance is applied constrained multi - objective optimization problems efficiently.",
+      "cn": "对于约束 多目标 优化问题,算法采用带约束支配关系判别个体的优劣."
+    },
+    {
+      "en": "Architecture events are widely used for software performance optimization.",
+      "cn": "架构事件可被广泛地用于软件性能优化."
+    },
+    {
+      "en": "Convex analysis, Lagrangian relaxation, non differentiable optimization, and applications in integer programming.",
+      "cn": "凸分析 、 拉格朗日松弛法 、 不可微分函数最适化以及在整数规划上的应用."
+    },
+    {
+      "en": "Development of detergents has required optimization of the surfactants structure.",
+      "cn": "发展洗涤剂时,要求使用最恰当的表面活性剂结构."
+    },
+    {
+      "en": "Dukes of the seventh generation of engines in a further performance optimization.",
+      "cn": "第七代极速引擎对性能做了进一步优化."
+    },
+    {
+      "en": "Evaluate data administration practices to ensure the integrity and optimization of databases.",
+      "cn": "评估数据管理实务,以确保数据库的完整性和最优化."
+    },
+    {
+      "en": "In economic optimization problems the variables involved are almost always subject to certain contrains.",
+      "cn": "在经济学最优化问题中所含的变量差不多总是带有某种约束条件."
+    },
+    {
+      "en": "In the case of productivity tools and other non - entertainment - oriented products, this optimization means minimizing work.",
+      "cn": "对于生产工具和其他 非 娱乐导向的产品而言, 这意味着将工作负荷降至最低."
+    },
+    {
+      "en": "Surrogate model is a key element of the multidisciplinary design optimization ( MDO ) .",
+      "cn": "代理模型是多 学科 设计优化的关键技术之一."
+    },
+    {
+      "en": "The advantages of Perl's design make all this optimization work worth while.",
+      "cn": "Perl在设计上的优势使得所有这些优化都很值得."
+    },
+    {
+      "en": "The novel algorithm can ensure great probability for global optimization.",
+      "cn": "该方法最大限度地保证了网络的泛化能力."
+    },
+    {
+      "en": "These have focused on simplifying the development, automation, and optimization of applications.",
+      "cn": "这主要集中在简化应用程序的开发、自动化和优化方面。"
+    },
+    {
+      "en": "Unconstrained optimization methods include gradient, conjugate direction, Newton, and quasi - Newton methods.",
+      "cn": "无约束最优化方法包括梯度法 、 共轭方向法 、 牛顿法和拟牛顿法."
+    },
+    {
+      "en": "We should emphasize that the optimization process must take into account the fact.",
+      "cn": "我们要强调指出,最佳化过程应考虑到这种事实."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "optimal",
+          "tran_cn": " 最佳的；最理想的"
+        },
+        {
+          "word": "optimum",
+          "tran_cn": " 最适宜的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "optimally",
+          "tran_cn": " 最佳；最适宜"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "optimum",
+          "tran_cn": " 最佳效果；最适宜条件"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "optimise",
+          "tran_cn": " 表示乐观"
+        },
+        {
+          "word": "optimize",
+          "tran_cn": " 优化；持乐观态度"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "optimise",
+          "tran_cn": " 使优化；充分利用"
+        },
+        {
+          "word": "optimize",
+          "tran_cn": " 使最优化，使完善"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "code optimization",
+      "tran_cn": "[计]代码优化"
+    },
+    {
+      "phrase": "constrained optimization",
+      "tran_cn": "[计]约束优化；[化]有约束优化"
+    },
+    {
+      "phrase": "convex optimization",
+      "tran_cn": "凸规划"
+    },
+    {
+      "phrase": "dynamic optimization",
+      "tran_cn": "动态优化；动态最佳化"
+    },
+    {
+      "phrase": "global optimization",
+      "tran_cn": "整体最佳化"
+    },
+    {
+      "phrase": "linear optimization",
+      "tran_cn": "线性规划；线性最佳化"
+    },
+    {
+      "phrase": "network optimization",
+      "tran_cn": "网络优化；网络最佳化"
+    },
+    {
+      "phrase": "optimization algorithm",
+      "tran_cn": "优化算法"
+    },
+    {
+      "phrase": "optimization design",
+      "tran_cn": "优化设计"
+    },
+    {
+      "phrase": "optimization method",
+      "tran_cn": "优化方法；最优化方法"
+    },
+    {
+      "phrase": "optimization model",
+      "tran_cn": "最优模型；最佳模型"
+    },
+    {
+      "phrase": "optimization problem",
+      "tran_cn": "[计]优化问题；最佳化问题"
+    },
+    {
+      "phrase": "optimization program",
+      "tran_cn": "优化程序"
+    },
+    {
+      "phrase": "optimization technique",
+      "tran_cn": "最优化技术"
+    },
+    {
+      "phrase": "optimization theory",
+      "tran_cn": "最优化理论"
+    },
+    {
+      "phrase": "process optimization",
+      "tran_cn": "过程优化；最佳处理"
+    },
+    {
+      "phrase": "quadratic optimization",
+      "tran_cn": "二次最优化"
+    },
+    {
+      "phrase": "sequence optimization",
+      "tran_cn": "顺序最佳化"
+    },
+    {
+      "phrase": "system optimization",
+      "tran_cn": "系统优化"
+    },
+    {
+      "phrase": "unconstrained optimization",
+      "tran_cn": "无约束最优化"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "最佳化，最优化，优选法，优化组合"
+    }
+  ],
+  "exchange": {}
+}

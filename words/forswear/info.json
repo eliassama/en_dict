@@ -1,0 +1,89 @@
+{
+  "word": "forswear",
+  "ipa": {
+    "us": "fɔ:ˈsweə(r)",
+    "uk": "fɔrˈswer"
+  },
+  "sentences": [
+    {
+      "en": "Some priests have to forswear marriage.",
+      "cn": "有些祭司必须宣誓放弃婚姻."
+    },
+    {
+      "en": "The judge asks sharply: \" Do you know to forswear what result can you get? \"",
+      "cn": "法官严厉地问: “ 你知道作伪证会得到什么结果 吗 ? ”"
+    },
+    {
+      "en": "The party was offered a share of government if it forswore violence.",
+      "cn": "若发誓停用暴力，这个政党即可得到部分行政权。"
+    },
+    {
+      "en": "The priests of some religions must forswear wealth and marriage.",
+      "cn": "有些宗教的祭司必须宣誓放弃财富和婚姻."
+    },
+    {
+      "en": "Wells was not likely to forswear the faith of a lifetime.",
+      "cn": "威尔斯决不会背弃他毕生的信仰."
+    },
+    {
+      "en": "You must tell the truth to the judge, because if you forswear yourself you could go to prison.",
+      "cn": "你必须向法官说老实话, 因为你如果作伪证就可能坐牢."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "foreswear"
+          ],
+          "tran_cn": "作伪证"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "foreswear"
+          ],
+          "tran_cn": "发誓抛弃"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "forswear oneself",
+      "tran_cn": "发伪誓；作伪证；违背誓言"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "幸运",
+      "tran_en": "If you forswear something, you promise that you will stop doing it, having it, or using it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "发誓抛弃，坚决放弃，发伪誓，作伪证"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "forswears"
+    ],
+    "past": [
+      "forswore"
+    ],
+    "done": [
+      "forsworn"
+    ],
+    "ing": [
+      "forswearing"
+    ]
+  }
+}

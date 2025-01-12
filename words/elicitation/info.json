@@ -1,0 +1,73 @@
+{
+  "word": "elicitation",
+  "ipa": {
+    "us": "iˌlɪsɪˈteɪʃn",
+    "uk": "iˌlɪsɪˈteɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "A comparison of dose - response curves for morbidity derived from epidemiological data or expert elicitation '; s.",
+      "cn": "通过对从 流行病 学或专家引导中获得的剂量反应曲线."
+    },
+    {
+      "en": "Elicitation Teaching is a kind of teaching thought, should run through entire teaching course.",
+      "cn": "摘要启发式教学是一种教学思想, 应该贯穿于整个教学过程."
+    },
+    {
+      "en": "The elicitation of his testimony was not easy.",
+      "cn": "在套他的供词时颇费周章."
+    },
+    {
+      "en": "You'd better do your teaching with the method of elicitation next class.",
+      "cn": "下节课你最好用启发式教学法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "elicit",
+          "tran_cn": " 抽出，引出；引起"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "extraction",
+            "derivation"
+          ],
+          "tran_cn": "引出；诱出；抽出"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "provocation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "引出，诱出，抽出，启发"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "elicit"
+    ]
+  }
+}

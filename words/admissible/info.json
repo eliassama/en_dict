@@ -1,0 +1,181 @@
+{
+  "word": "admissible",
+  "ipa": {
+    "us": "ədˈmɪsəbl",
+    "uk": "ædˈmɪsəbəl"
+  },
+  "sentences": [
+    {
+      "en": "{\"COLLOINEXA\":[\"admissible evidence\"]}",
+      "cn": "可采信的证据"
+    },
+    {
+      "en": "But such stress tests are beatable and not admissible in court.",
+      "cn": "但是这样的压力测试并不可靠,而且在法庭上不允许使用."
+    },
+    {
+      "en": "Convictions will rise steeply now photographic evidence is admissible.",
+      "cn": "既然照片证据可以接受，有罪判决将大幅增加。"
+    },
+    {
+      "en": "Do either of you have evidence that is admissible?",
+      "cn": "你们两个是否有确凿的证据?"
+    },
+    {
+      "en": "He is still bickering with the control tower over admissible approach routes.",
+      "cn": "他还在为可采用的进近航线与指挥塔台争执不下。"
+    },
+    {
+      "en": "Just because evidence is relevant does not mean that it is admissible.",
+      "cn": "证据仅仅具有关联性并不意味着它便具有可采性."
+    },
+    {
+      "en": "Materials, complete the declarations submitted by companies, the authorized issuing authority admissible.",
+      "cn": "企业提交的申报材料齐备后, 受权发证机关予以受理."
+    },
+    {
+      "en": "Maximum admissible operating temperature of conductor is 70 ℃.",
+      "cn": "导体最高允许工作温度为70℃."
+    },
+    {
+      "en": "Maximum admissible working temperature of conductor is 90 ℃.",
+      "cn": "导体最高允许工作温度为90℃."
+    },
+    {
+      "en": "Robustness with Respect to Small Delays for Exponential Stability of Pritchard - Salamon Systems with Admissible State Feedback.",
+      "cn": "3.具容许状态反馈Pritchard-Salamon系统的指数稳定性对小时滞的鲁棒性(简称小时滞鲁棒稳定性)."
+    },
+    {
+      "en": "Rules of evidence - Standards governing whether evidence in a civil or criminal case is admissible.",
+      "cn": "在民事诉讼或者刑事诉讼中,决定证据是否可被采用的标准."
+    },
+    {
+      "en": "Such behaviour is not admissible among our staff.",
+      "cn": "这种行为在我们职员中是不允许的."
+    },
+    {
+      "en": "The court ruled that the evidence was admissible.",
+      "cn": "法院裁决说证据可以接受."
+    },
+    {
+      "en": "The definition of admissible perturbation is romained in the appendix of part 2.",
+      "cn": "有关可容许扰动的定义包含在这部份2的附录中."
+    },
+    {
+      "en": "The kinematically admissible velocity field and strain rate field extension forging of rounds have been established.",
+      "cn": "建立了圆坯拔长锻造的运动许可速度场与应变速率场."
+    },
+    {
+      "en": "These candidates will now be admissible under the criteria.",
+      "cn": "在这样的标准下,这些申请者是被允许的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "admissive",
+          "tran_cn": " 认可的；容许的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "admissibility",
+          "tran_cn": " 可容许；有入场的资格"
+        },
+        {
+          "word": "admission",
+          "tran_cn": " 承认；入场费；进入许可；坦白；录用"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "admit",
+          "tran_cn": " 承认；容许"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "admit",
+          "tran_cn": " 承认；准许进入；可容纳"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "acceptable",
+            "allowable",
+            "allowed",
+            "equitable",
+            "fair",
+            "just",
+            "justifiable",
+            "lawful",
+            "legal",
+            "legitimate",
+            "okay",
+            "passable",
+            "permissible",
+            "proper",
+            "reasonable",
+            "suitable"
+          ],
+          "tran_cn": "允许的,合法的,合理的"
+        },
+        {
+          "words": [
+            "acknowledgeable",
+            "admittable",
+            "concessible",
+            "confessable",
+            "giveable",
+            "grantable",
+            "tolerable",
+            "yieldable"
+          ],
+          "tran_cn": "服从的,屈服的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "achievable",
+            "bearable"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可容许的，<律>（证据）可接受的，有资格加入的，（意见、计划等）可采纳的",
+      "tran_en": "admissible reasons, facts etc are acceptable or allowed, especially in a court of law"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "admissibility"
+    ]
+  }
+}

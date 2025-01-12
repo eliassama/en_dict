@@ -1,0 +1,132 @@
+{
+  "word": "lately",
+  "ipa": {
+    "us": "ˈleɪtli",
+    "uk": "ˈleɪtli"
+  },
+  "sentences": [
+    {
+      "en": "Have you seen her lately?",
+      "cn": "你最近见过她吗？"
+    },
+    {
+      "en": "I know you've been quarrelling a good deal lately.",
+      "cn": "我知道你们近来时常吵嘴."
+    },
+    {
+      "en": "I've been avoiding my folks lately.",
+      "cn": "我近来一直在避开家人。"
+    },
+    {
+      "en": "I've been concerned about you lately.",
+      "cn": "最近我对你有些担心。"
+    },
+    {
+      "en": "Lately he'd been making mistakes; his nerve was beginning to go.",
+      "cn": "他近来老犯错误，胆子也开始变小了。"
+    },
+    {
+      "en": "Lately, I’ve had trouble sleeping.",
+      "cn": "最近我睡眠有问题。"
+    },
+    {
+      "en": "Lately, the president has been sacking and picking new ministers at whim.",
+      "cn": "最近，总统一时兴起频频解雇旧部长，选任新部长。"
+    },
+    {
+      "en": "She hasn't been feeling well lately and she let the housework slide.",
+      "cn": "她近来一直感到不适,对家务也就随它去了."
+    },
+    {
+      "en": "She hasn't been keeping too well lately.",
+      "cn": "她最近身体不太好。"
+    },
+    {
+      "en": "She's been acting very strangely lately.",
+      "cn": "近来她举止十分反常。"
+    },
+    {
+      "en": "She's been behaving very oddly lately.",
+      "cn": "她最近行为极其反常。"
+    },
+    {
+      "en": "She's been very edgy lately.",
+      "cn": "她近来一直烦躁不安。"
+    },
+    {
+      "en": "Simon had been away a good deal lately.",
+      "cn": "西蒙最近经常出门。"
+    },
+    {
+      "en": "There have been strange happenings here lately.",
+      "cn": "这儿最近发生了一些怪事。"
+    },
+    {
+      "en": "They've really been kicking ass lately — busting places up, harassing everybody.",
+      "cn": "他们最近真是让人气不打一处来，闹得天翻地覆，搅得每个人都不得安宁。"
+    },
+    {
+      "en": "Things have been getting on top of me lately.",
+      "cn": "最近事情太多，压得我透不过气来。"
+    },
+    {
+      "en": "What have you been doing lately?",
+      "cn": "你最近在干什么？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "late",
+          "tran_cn": " 晚的；迟的；已故的；最近的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "late",
+          "tran_cn": " 晚；迟；最近；在晚期"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "of late",
+            "odd-come-shortly"
+          ],
+          "tran_cn": "近来，不久前"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "much lately",
+      "tran_cn": "最近"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "最近，不久前",
+      "tran_en": "recently"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "latelier"
+    ],
+    "est": [
+      "lateliest"
+    ]
+  }
+}

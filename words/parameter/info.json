@@ -1,0 +1,197 @@
+{
+  "word": "parameter",
+  "ipa": {
+    "us": "pəˈræmɪtə(r)",
+    "uk": "pəˈræmɪtər"
+  },
+  "sentences": [
+    {
+      "en": "...some of the parameters that determine the taste of a wine.",
+      "cn": "…一些决定葡萄酒味道的参数。"
+    },
+    {
+      "en": "It is the parameter of distribution.",
+      "cn": "这就是分布参数."
+    },
+    {
+      "en": "Permeability is an important parameter for a oil reservoir characterization and engineering.",
+      "cn": "渗透率是油藏描述和油藏工程中一关键性的参数."
+    },
+    {
+      "en": "Rock strength is a basic parameter for rock engineering design.",
+      "cn": "岩石强度是岩体工程设计的基本依据."
+    },
+    {
+      "en": "Several methods of curve - fitting data yield consistent estimates of parameter values.",
+      "cn": "几种曲线似合数据的方法均能得到参数值的一致性估计."
+    },
+    {
+      "en": "Static and dynamic displacement is another method of categorizing this parameter.",
+      "cn": "静态和动态位移是这个参数的另一种分类方法."
+    },
+    {
+      "en": "The distance between orifice groups is another parameter associated with stability.",
+      "cn": "喷孔组合之间的距离是与不稳定性有关的另一参数."
+    },
+    {
+      "en": "The inquiry has to stay within the parameters laid down by Congress.",
+      "cn": "调查必须局限于国会设定的范围之内。"
+    },
+    {
+      "en": "The specifications may sometimes appear within the parameter list itself.",
+      "cn": "区分部分有时可以在参数表本身出现."
+    },
+    {
+      "en": "The third parameter needed for an oil field to occur is the cap rock or seal.",
+      "cn": "形成油田所必须的第三个参数是盖层岩石或封闭层."
+    },
+    {
+      "en": "The variational parameter multiplying each coordinate is called a scale factor.",
+      "cn": "每个坐标所乘的变分参数叫定标因子."
+    },
+    {
+      "en": "This empirical single - parameter model was selected for interim use because it is simple and unambiguous.",
+      "cn": "这一单一参数经验模型,由于其简单明了而选作临时应用."
+    },
+    {
+      "en": "This is a configurable parameter used for locating the digital CTI display.",
+      "cn": "这是可配置的参数被用来设置数字控制终端接口的显示."
+    },
+    {
+      "en": "Three hundred acres of land is the parameter of our university, s expansion ( growth ).",
+      "cn": "(三百英亩的土地是本大学发展的限度 ) ( 如果用limit取代parameter, 会更简略易懂."
+    },
+    {
+      "en": "V $ PARAMETER displays information about the initialization parameters that are currently in effect for the session.",
+      "cn": "v$parameter动态性能视图显示了对当前会话起作用的初始化参数信息."
+    },
+    {
+      "en": "We call parameter 4 is a dynamic parameter.",
+      "cn": "称参数4为动力参数."
+    },
+    {
+      "en": "We cannot accept or reject a hypothesis about a population parameter simply by intuition.",
+      "cn": "我们不能只凭感觉简单地决定接受或拒绝总体参数的某种假设."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "parametric",
+          "tran_cn": " [数][物] 参数的；[数][物] 参量的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "coefficient",
+            "arguments",
+            "modulus"
+          ],
+          "tran_cn": "参数；系数；[数]参量"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "design parameter",
+      "tran_cn": "设计参数；设计规范"
+    },
+    {
+      "phrase": "dynamic parameter",
+      "tran_cn": "动态参数"
+    },
+    {
+      "phrase": "geometric parameter",
+      "tran_cn": "几何参数"
+    },
+    {
+      "phrase": "key parameter",
+      "tran_cn": "关键参数"
+    },
+    {
+      "phrase": "main parameter",
+      "tran_cn": "主要参数"
+    },
+    {
+      "phrase": "material parameter",
+      "tran_cn": "材料参数"
+    },
+    {
+      "phrase": "model parameter",
+      "tran_cn": "模型参数"
+    },
+    {
+      "phrase": "order parameter",
+      "tran_cn": "有序参数"
+    },
+    {
+      "phrase": "parameter adjustment",
+      "tran_cn": "参数调整；参数平差"
+    },
+    {
+      "phrase": "parameter estimation",
+      "tran_cn": "参数估计"
+    },
+    {
+      "phrase": "parameter list",
+      "tran_cn": "[计]参数表"
+    },
+    {
+      "phrase": "parameter space",
+      "tran_cn": "参数空间"
+    },
+    {
+      "phrase": "parameter value",
+      "tran_cn": "参数值"
+    },
+    {
+      "phrase": "performance parameter",
+      "tran_cn": "[计]性能参数"
+    },
+    {
+      "phrase": "structural parameter",
+      "tran_cn": "结构参数"
+    },
+    {
+      "phrase": "system parameter",
+      "tran_cn": "系统参数；体系参数"
+    },
+    {
+      "phrase": "technical parameter",
+      "tran_cn": "技术参数；技术参考"
+    },
+    {
+      "phrase": "technological parameter",
+      "tran_cn": "工艺参数"
+    },
+    {
+      "phrase": "variable parameter",
+      "tran_cn": "可变参量"
+    },
+    {
+      "phrase": "welding parameter",
+      "tran_cn": "焊接参数；焊接工艺参数"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[数]参数，<物><数>参量，限制因素，决定因素",
+      "tran_en": "Parameters are factors or limits that affect the way something can be done or made"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "parameters"
+    ]
+  }
+}

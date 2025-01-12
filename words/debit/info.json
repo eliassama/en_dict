@@ -1,0 +1,175 @@
+{
+  "word": "debit",
+  "ipa": {
+    "us": "ˈdebɪt",
+    "uk": "ˈdɛbɪt"
+  },
+  "sentences": [
+    {
+      "en": "Another debit . Mr. Lin scowled.",
+      "cn": "林先生听得又是欠账,忍不住皱一下眉头."
+    },
+    {
+      "en": "Figure 2 - 2 summarizes the above rules of debit and credit.",
+      "cn": "图 2-2 汇总了上述借贷记账规则."
+    },
+    {
+      "en": "He instructs the bank to debit his account only in respect of cheques drawn by himself.",
+      "cn": "他通知银行仅凭他签发的支票记入他存款的借方."
+    },
+    {
+      "en": "If the currency has to be paid out abroad, it is registered as a debit.",
+      "cn": "如果需要对外付出外汇, 则应填入借方."
+    },
+    {
+      "en": "Is this item a debit or a credit?",
+      "cn": "这笔帐属于借方还是属于贷方?"
+    },
+    {
+      "en": "on the debit side of an account",
+      "cn": "账户的借方"
+    },
+    {
+      "en": "on the debit side they predict a rise in book prices.",
+      "cn": "不利方面是他们预测书价将要上涨。"
+    },
+    {
+      "en": "Please debit my credit card account for the above amount.",
+      "cn": "请在本人的信用咭中支取上述款项."
+    },
+    {
+      "en": "Receipts of services are entered in the credIt'side while payments the debIt'side.",
+      "cn": "劳务收入记人贷方,所有劳务支出记入借方."
+    },
+    {
+      "en": "Switch to paying your mortgage by direct debit.",
+      "cn": "改成用直接借记方式偿还抵押贷款吧。"
+    },
+    {
+      "en": "The total of debits must balance the total of credits.",
+      "cn": "借方总额必须和贷款总方相抵。"
+    },
+    {
+      "en": "To whom shall I debit the amount?",
+      "cn": "这笔帐要记入谁的借方帐中?"
+    },
+    {
+      "en": "To whom shall I debit this sum?",
+      "cn": "此款应记入谁的账户的借方?"
+    },
+    {
+      "en": "We also accept CREDIT CARD and DEBIT CARD payments outside of Paypal.",
+      "cn": "我们也接受信用卡和借记卡支付的贝宝之外."
+    },
+    {
+      "en": "We enclose a debit note on which the charges be bill.",
+      "cn": "随函寄去借方通知一纸,各项费用均已列明."
+    },
+    {
+      "en": "We pay all our bills by direct debit .",
+      "cn": "我们以直接借记方式支付所有账单。"
+    },
+    {
+      "en": "We undercharge Mr. Smith and have to send him a debit note for the extra amount.",
+      "cn": "我们少收了史密斯先生的钱,只得给他寄去一张借条所要欠款."
+    },
+    {
+      "en": "We will always confirm the revised amount to you in writing before debiting your account.",
+      "cn": "在记入你的借方账户前，我们每次都会以书面形式向你确认修改过的数额。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "debtor"
+          ],
+          "tran_cn": "借方"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "loss",
+            "obligation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be in debit",
+      "tran_cn": "（账户）负债"
+    },
+    {
+      "phrase": "debit and credit",
+      "tran_cn": "借贷，贷借；借方和贷方"
+    },
+    {
+      "phrase": "debit balance",
+      "tran_cn": "借方余额；借方差额"
+    },
+    {
+      "phrase": "debit card",
+      "tran_cn": "借记卡；签帐卡；提款卡"
+    },
+    {
+      "phrase": "debit note",
+      "tran_cn": "借项清单；借方通知；收款票"
+    },
+    {
+      "phrase": "debit side",
+      "tran_cn": "借方；收方"
+    },
+    {
+      "phrase": "direct debit",
+      "tran_cn": "n. [会计]直接借记"
+    },
+    {
+      "phrase": "on the debit side",
+      "tran_cn": "处于不利地位"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "借方，借方帐目，缺点，弊端",
+      "tran_en": "a decrease in the amount of money in a bank account, for example because you have taken money out of it"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "记入借方，登入借方",
+      "tran_en": "to record in financial accounts the money that has been spent or that is owed"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "记入借方",
+      "tran_en": "to record in financial accounts the money that has been spent or that is owed"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "debits"
+    ],
+    "third": [
+      "debits"
+    ],
+    "past": [
+      "debited"
+    ],
+    "done": [
+      "debited"
+    ],
+    "ing": [
+      "debiting"
+    ]
+  }
+}

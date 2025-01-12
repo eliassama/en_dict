@@ -1,0 +1,161 @@
+{
+  "word": "multiplicative",
+  "ipa": {
+    "us": "'mʌltɪplɪkeɪtɪv",
+    "uk": "'mʌltəplɪˌkeɪtɪv"
+  },
+  "sentences": [
+    {
+      "en": "A multiplication sign indicates the multiplicative relationship between two numbers.",
+      "cn": "乘号表示两个数字相乘的关系."
+    },
+    {
+      "en": "A multiplicative constitutive model of hyperelastoplasticity is adopted to simulate large deformation.",
+      "cn": "为模拟更大的变形采用了极分解的乘法超弹塑性本构模型."
+    },
+    {
+      "en": "A multiplicative constitutive model of the hyperelastic - plasticity is used to simulate the large deformations.",
+      "cn": "采用乘法分解 超 弹塑性本构模型,以便模拟更大的变形."
+    },
+    {
+      "en": "A new multiplicative group, Braid array, is constructed through a series of basic changes in the second part, and we conclude that any tame knot or link can be represented by finite braid array.",
+      "cn": "第二部分，由于辫子群与纽结理论的密切联系，本文构造了一个类似于矩阵的乘法群——辫子阵群，并给出了它的一系列基本变换，且得到所有温良纽结或环链都可由有限阶辫子阵惟一表示。"
+    },
+    {
+      "en": "ACCURATE ALGORITHM FOR NUMERICAL SIMULATION OF NONLINEAR STOCHASTIC PROCESS DRIVED BY MULTIPLICATIVE COLORED NOISE.",
+      "cn": "倍增色噪声激励的非线性随机过程的精确数值模拟."
+    },
+    {
+      "en": "An implementation for computing multiplicative inverses in Galois fields GF ( 2 m ) is presented.",
+      "cn": "在扩展欧几里得算法的基础上提出了有限域乘法逆元的计算方法."
+    },
+    {
+      "en": "As you build these kinds of simulations, or anything like this, you need to think through whether things should be multiplicative or additive.",
+      "cn": "正如你建立各种仿真程序，或者类似的仿真程序时，你应该去想一想，他们应该是用加法还是用乘法。 。"
+    },
+    {
+      "en": "Like many similar programs, it can handle multiplicative scale changes.",
+      "cn": "像许多类似的方案，它可以处理乘法规模的变化。"
+    },
+    {
+      "en": "The common image noise is the main additive noise, multiplicative noise and quantization noise.",
+      "cn": "图像的常见噪声主要有加性噪声 、 乘性噪声和量化噪声等."
+    },
+    {
+      "en": "The multiplicative complexity of the two - dimensional discrete Hartley trans ( ? ) m of size 2~ n ×2~ n, where (? )",
+      "cn": "本文研究了长度为2~n×2 ~n ( n为正整数 ) 二 维 离散哈特莱 ( Hartley ) 变换的乘法复杂性."
+    },
+    {
+      "en": "We study the semirings additive reduct are semilattices and multiplicative reduct are rectangular groups.",
+      "cn": "研究了加法半群为半格、乘法半群为矩形群的半环."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "multiple",
+          "tran_cn": " 多重的；多样的；许多的"
+        },
+        {
+          "word": "multiplicate",
+          "tran_cn": " 多种的；多重的"
+        },
+        {
+          "word": "multiply",
+          "tran_cn": " 多层的；多样的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "multiplicatively",
+          "tran_cn": " 用乘法"
+        },
+        {
+          "word": "multiply",
+          "tran_cn": " 多样地；复合地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "multiple",
+          "tran_cn": " 倍数；[电] 并联"
+        },
+        {
+          "word": "multiplication",
+          "tran_cn": " [数] 乘法；增加"
+        },
+        {
+          "word": "multiplicator",
+          "tran_cn": " [数] 乘数；倍率器；放大器"
+        },
+        {
+          "word": "multiplier",
+          "tran_cn": " [数] 乘数；[电子] 倍增器；增加者；繁殖者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "multiply",
+          "tran_cn": " 乘；繁殖；增加"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "multiply",
+          "tran_cn": " 乘；使增加；使繁殖；使相乘"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "incremental",
+            "accessorial"
+          ],
+          "tran_cn": "[数]乘法的；增加的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "multiplication sign"
+          ],
+          "tran_cn": "[数]乘法；倍数词"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "增加的，乘法的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "乘法"
+    }
+  ],
+  "exchange": {}
+}

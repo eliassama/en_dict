@@ -1,0 +1,75 @@
+{
+  "word": "seismograph",
+  "ipa": {
+    "us": "ˈsaɪzməɡrɑːf",
+    "uk": "ˈsaɪzməɡræf"
+  },
+  "sentences": [
+    {
+      "en": "China's Zhang Heng invented the seismograph during the Han Dynasty.",
+      "cn": "中国的张衡在汉朝时发明了地动仪."
+    },
+    {
+      "en": "On the right waist have a seismograph, it tender prior to the earthquake forecast the earthquake.",
+      "cn": "在右腰上有一个地震仪，它嫩在地震前预报地震。"
+    },
+    {
+      "en": "People always make some misunderstanding for the sampling rate and dynamic range of shallow seismograph.",
+      "cn": "人们对浅层地震仪的采样率及动态范围这两个指标往往产生某些误解。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "seismal",
+          "tran_cn": " 地震的"
+        },
+        {
+          "word": "seismic",
+          "tran_cn": " 地震的；因地震而引起的"
+        },
+        {
+          "word": "seismologic",
+          "tran_cn": " 地震学的"
+        },
+        {
+          "word": "seismological",
+          "tran_cn": " 地震学上的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "seism",
+          "tran_cn": " 地震"
+        },
+        {
+          "word": "seismography",
+          "tran_cn": " 地震定测法；地震学（等于seismology）"
+        },
+        {
+          "word": "seismology",
+          "tran_cn": " 地震学"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "地震仪，测震仪",
+      "tran_en": "an instrument that measures and records the movement of the earth during an  earthquake "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "seismographs"
+    ]
+  }
+}

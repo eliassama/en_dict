@@ -1,0 +1,121 @@
+{
+  "word": "interpolate",
+  "ipa": {
+    "us": "ɪnˈtɜ:pəleɪt",
+    "uk": "ɪnˈtɜrpəleɪt"
+  },
+  "sentences": [
+    {
+      "en": "A general algorithm based on interpolate subdivision surface to simulate stationary flexible cloth is presented.",
+      "cn": "提出一种基于插值细分造型的织物模拟算法."
+    },
+    {
+      "en": "A user - defined pore pressure distribution cannot be used to interpolate pore pressures in other clusters.",
+      "cn": "用户自定义的孔压分布,不能用于其他类组的孔压内插."
+    },
+    {
+      "en": "And then elicit different interpolate algorithms in the different conditions.",
+      "cn": "并且然后得出不同内插算法在不同的条件."
+    },
+    {
+      "en": "Do not interpolate between these temperatures. Consult the factory.",
+      "cn": "不能插入这些温度之间. 请咨询工厂."
+    },
+    {
+      "en": "He started humming a tune, then interpolated the odd word as though having difficulty remembering.",
+      "cn": "他开始哼起一个曲调，尽管记得不太清楚，他又插入了几个词。"
+    },
+    {
+      "en": "The analyst is required to interpolate values between standards.",
+      "cn": "分析人员需要在这些标准中插入一些值."
+    },
+    {
+      "en": "Then a high - degree geometric continuity blending surface is obtained with transfinite interpolate method.",
+      "cn": "将其充分性与超限插值方法相结合,成功地构造出两个参数曲面间的高 阶 几何连续过渡曲面."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interpolation",
+          "tran_cn": " 插入；篡改；添写"
+        },
+        {
+          "word": "interposition",
+          "tran_cn": " 干涉，介入；插入，放入"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "interpose",
+          "tran_cn": " 干预；插入；调停"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "interpose",
+          "tran_cn": " 提出（异议等）；使插入；使干涉"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "build in",
+            "plug in"
+          ],
+          "tran_cn": "插入；篡改"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "tamper with",
+            "manipulate"
+          ],
+          "tran_cn": "篡改；插入新语句"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "插入，插（话），篡改",
+      "tran_en": "to interrupt someone by saying something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "interpolates"
+    ],
+    "past": [
+      "interpolated"
+    ],
+    "done": [
+      "interpolated"
+    ],
+    "ing": [
+      "interpolating"
+    ],
+    "noun": [
+      "interpolation"
+    ]
+  }
+}

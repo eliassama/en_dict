@@ -1,0 +1,245 @@
+{
+  "word": "reader",
+  "ipa": {
+    "us": "ˈriːdə(r)",
+    "uk": "ˈriːdər"
+  },
+  "sentences": [
+    {
+      "en": "A lack of narrative drive leaves the reader with piecemeal vignettes.",
+      "cn": "述缺乏吸引力,读者读到的只是一些支离破碎的片段."
+    },
+    {
+      "en": "a series of graded English readers",
+      "cn": "一系列分级英语读物"
+    },
+    {
+      "en": "an avid reader of science fiction",
+      "cn": "科幻小说迷"
+    },
+    {
+      "en": "He had an intuitive sense of what the reader wanted.",
+      "cn": "他能直觉地感到读者需要什么。"
+    },
+    {
+      "en": "He misses not having enough books because he's an avid reader.",
+      "cn": "他是个酷爱阅读的人，总觉得书不够读。"
+    },
+    {
+      "en": "I leave it to the reader to ferret these out.",
+      "cn": "我留给读者去发现这些。"
+    },
+    {
+      "en": "I’ve always been an avid reader (= someone who reads a lot ) .",
+      "cn": "我向来是一个嗜书如命的人。"
+    },
+    {
+      "en": "Incorrect choice of words leads to ambiguity for the reader.",
+      "cn": "用词不当道致读者理解不清."
+    },
+    {
+      "en": "It'should be clear to a reader of any degree of initiation.",
+      "cn": "这对于稍有入门知识的读者都是清晰易解的."
+    },
+    {
+      "en": "John Stevenson is Reader in History at the University of Sheffield.",
+      "cn": "约翰·史蒂文森是谢菲尔德大学的历史学高级讲师。"
+    },
+    {
+      "en": "She has always been an omnivorous reader.",
+      "cn": "她一向阅读兴趣广泛。"
+    },
+    {
+      "en": "The book will appeal to young readers.",
+      "cn": "这本书会吸引年轻读者。"
+    },
+    {
+      "en": "The difference is scarcely perceptible to the average reader.",
+      "cn": "这种差别一般读者几乎是察觉不到的."
+    },
+    {
+      "en": "These texts give the reader an insight into the Chinese mind.",
+      "cn": "这些文章使读者对中国人的思维有了深层次的认识。"
+    },
+    {
+      "en": "This book is intended for the general reader rather than the student.",
+      "cn": "这本书面向一般读者而非学生。"
+    },
+    {
+      "en": "Too , the reader will find in this book many interesting illustrations.",
+      "cn": "读者还能在书中看到许多有趣的插图."
+    },
+    {
+      "en": "We must pay respect to the needs of the general reader.",
+      "cn": "我们必须关心一般读者的需要."
+    },
+    {
+      "en": "Whitechild's life becomes increasingly real to the reader.",
+      "cn": "怀特蔡尔德的生活在读者面前显得越来越真实。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "read",
+          "tran_cn": " 有学问的"
+        },
+        {
+          "word": "readable",
+          "tran_cn": " 可读的；易读的；读起来津津有味的"
+        },
+        {
+          "word": "reading",
+          "tran_cn": " 阅读的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "read",
+          "tran_cn": " 阅读；读物"
+        },
+        {
+          "word": "readability",
+          "tran_cn": " 可读性；易读"
+        },
+        {
+          "word": "readership",
+          "tran_cn": " 读者人数；读者们；读者的身分"
+        },
+        {
+          "word": "reading",
+          "tran_cn": " 阅读，朗读；读物；读数"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "reading",
+          "tran_cn": " 阅读（read的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "read",
+          "tran_cn": " 读；读起来"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "read",
+          "tran_cn": " 阅读；读懂，理解"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "manual",
+            "text",
+            "textbook"
+          ],
+          "tran_cn": "教科书"
+        },
+        {
+          "words": [
+            "book",
+            "booklover",
+            "bookman",
+            "bookworm",
+            "club",
+            "member"
+          ],
+          "tran_cn": "爱读书的人"
+        },
+        {
+          "words": [
+            "copy",
+            "copyholder",
+            "copyreader",
+            "editor",
+            "first",
+            "reader",
+            "second"
+          ],
+          "tran_cn": "编辑"
+        },
+        {
+          "words": [
+            "lector",
+            "lecturer",
+            "prelector",
+            "reciter"
+          ],
+          "tran_cn": "讲演者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "censor",
+            "reporter"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bar code reader",
+      "tran_cn": "条形码扫描器"
+    },
+    {
+      "phrase": "card reader",
+      "tran_cn": "读卡机，读卡器"
+    },
+    {
+      "phrase": "general reader",
+      "tran_cn": "一般读者"
+    },
+    {
+      "phrase": "mind reader",
+      "tran_cn": "n. 测心术者；能测人心思者"
+    },
+    {
+      "phrase": "news reader",
+      "tran_cn": "新闻阅读器；新闻阅读程序；新闻播音员"
+    },
+    {
+      "phrase": "tape reader",
+      "tran_cn": "磁带播放器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "读者，朗读者，读本，讲读者，讲师，审稿人",
+      "tran_en": "someone who reads books, or who reads in a particular way"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "readers"
+    ]
+  }
+}

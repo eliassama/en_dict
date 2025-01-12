@@ -1,0 +1,62 @@
+{
+  "word": "anarchist",
+  "ipa": {
+    "us": "ˈænəkɪst",
+    "uk": "ˈænərkɪst"
+  },
+  "sentences": [
+    {
+      "en": "West Berlin always had a large anarchist community.",
+      "cn": "西柏林一直存在一个大的无政府主义群体。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "anarchic",
+          "tran_cn": " 无政府的；无政府主义的；无法无天的"
+        },
+        {
+          "word": "anarchical",
+          "tran_cn": " 无政府主义的"
+        },
+        {
+          "word": "anarchistic",
+          "tran_cn": " 无政府主义的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "anarchism",
+          "tran_cn": " 无政府主义"
+        },
+        {
+          "word": "anarchy",
+          "tran_cn": " 无政府状态；混乱；无秩序"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "无政府主义者",
+      "tran_en": "someone who believes that governments, laws etc are not necessary"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "anarchists"
+    ],
+    "adj": [
+      "anarchistic"
+    ]
+  }
+}

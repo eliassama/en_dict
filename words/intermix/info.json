@@ -1,0 +1,90 @@
+{
+  "word": "intermix",
+  "ipa": {
+    "us": "ˌɪntəˈmɪks",
+    "uk": "ˌɪntərˈmɪks"
+  },
+  "sentences": [
+    {
+      "en": "Oil and water do not intermix.",
+      "cn": "油和水不能混合."
+    },
+    {
+      "en": "Planes can and do intermix without the knowledge of the inhabitants of the particular planes involved.",
+      "cn": "数个层面能够并确实相互渗透,无需知晓所涉及的特别层面的居民的知识."
+    },
+    {
+      "en": "Why did another universe intermix itself with the universe of which Earth is a part?",
+      "cn": "为什么另一个宇宙要将自己和地球所在的宇宙混杂在一起呢?。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "intermixture",
+          "tran_cn": " 混合；混合物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "amalgamate",
+            "unite"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "jumble"
+          ],
+          "tran_cn": "混杂；混和"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "unite"
+          ],
+          "tran_cn": "使…混杂；使…混合"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（使）混和，（使）混杂",
+      "tran_en": "to mix together, or mix things together（"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "intermixes"
+    ],
+    "past": [
+      "intermixed"
+    ],
+    "done": [
+      "intermixed"
+    ],
+    "ing": [
+      "intermixing"
+    ]
+  }
+}

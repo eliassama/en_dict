@@ -1,0 +1,156 @@
+{
+  "word": "transpose",
+  "ipa": {
+    "us": "trænˈspəʊz",
+    "uk": "trænˈspoʊz"
+  },
+  "sentences": [
+    {
+      "en": "Can you transpose this fugue into g major?",
+      "cn": "你能把这首赋格曲转变为G大调 吗 ?"
+    },
+    {
+      "en": "Can you transpose this fugue into G major?",
+      "cn": "你能把这个赋格曲转换成G大调 吗 ."
+    },
+    {
+      "en": "Dyslexics often transpose letters in a word.",
+      "cn": "诵读困难者经常改换话语的文字."
+    },
+    {
+      "en": "For sequenced sources, just transpose the track up a fifth.",
+      "cn": "为了达到有序的音源, 只要将音轨升到第五音即可."
+    },
+    {
+      "en": "Genetic engineers transpose or exchange bits of hereditary material from one organism to the next.",
+      "cn": "遗传工程师将某一生物的小段遗传物质调换到另一生物，或与其互换。"
+    },
+    {
+      "en": "If A is the mxn matrix, then the nxm matrix is called the transpose of A.",
+      "cn": "如果A是mxn矩阵, 那么nxm矩阵为A的转置矩阵."
+    },
+    {
+      "en": "In the near future I may transpose these drawings to real size and sell the templates.",
+      "cn": "在不久的将来,我可能会转这些图纸和实际尺寸的模板,然后出售."
+    },
+    {
+      "en": "Many people inadvertently transpose digits of the ZIP code.",
+      "cn": "很多人疏忽之下会颠倒邮政编码中数字的顺序。"
+    },
+    {
+      "en": "Now, transpose this analogy to the gasoline industry.",
+      "cn": "现在, 假使将这种理论,应用于石油工业上."
+    },
+    {
+      "en": "She could play any piece of music she heard and transpose it into any key.",
+      "cn": "她能把听过的任何乐曲变以任何调演奏出来。"
+    },
+    {
+      "en": "The director transposes the action from sixteenth-century France to post-Civil War America.",
+      "cn": "导演把情节从16世纪的法国转换到内战后的美国。"
+    },
+    {
+      "en": "These two positions are said to transpose to each other.",
+      "cn": "这两个位置(结果)就可以互换."
+    },
+    {
+      "en": "They have the unusual property of being able to move around or transpose.",
+      "cn": "它有一种不寻常的特性,能在基因组内来回移动,也称为转位."
+    },
+    {
+      "en": "To transpose each other.",
+      "cn": "相互之间调换位置."
+    },
+    {
+      "en": "Transpose these two words and the sentence will read right.",
+      "cn": "把这两个字颠倒过来句子就顺了."
+    },
+    {
+      "en": "Transpose: To change places with another letter, word, lie or illustration.",
+      "cn": "对调次序: 把字, 字词, 字行或插图的次序对调."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "transposable",
+          "tran_cn": " 转座的；可换位的；有换位可能的"
+        },
+        {
+          "word": "transposed",
+          "tran_cn": " 移调的；变调的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "transposition",
+          "tran_cn": " [数] 移项；调换；换置；变调"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "transposed",
+          "tran_cn": " 调换；颠倒顺序；移项（transpore的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "counterchange"
+          ],
+          "tran_cn": "调换；移项；颠倒顺序"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "转置阵"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 颠倒顺序， 调换",
+      "tran_en": "to change the order or position of two or more things"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "进行变换"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<数>移项，使变位，<音>使变调，变换顺序"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "transposes"
+    ],
+    "past": [
+      "transposed"
+    ],
+    "done": [
+      "transposed"
+    ],
+    "ing": [
+      "transposing"
+    ],
+    "noun": [
+      "transposition"
+    ]
+  }
+}

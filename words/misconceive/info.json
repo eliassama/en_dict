@@ -1,0 +1,69 @@
+{
+  "word": "misconceive",
+  "ipa": {
+    "us": "ˌmɪskənˈsi:v",
+    "uk": "ˌmɪskənˈsiv"
+  },
+  "sentences": [
+    {
+      "en": "Because some designers misconceive Chinese characters, therefore we should use it sensitively and rationally to give the design more persuasion and inspiration.",
+      "cn": "但是设计师在利用汉字时，又存在着种种误区。因此，必须对汉字有足够的感性和理性认识，才能使设计作品更具说服力、感染力。"
+    },
+    {
+      "en": "Since namely namely misconceive, that explanation clear nice.",
+      "cn": "既然是个误会，那解释清楚就好了。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "misunderstand"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "mistake",
+            "misunderstand"
+          ],
+          "tran_cn": "误解"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "vi",
+      "tran_cn": "对…有错误看法，误解"
+    },
+    {
+      "pos": "vt&vi",
+      "tran_cn": "误解",
+      "tran_en": "to have the wrong idea; fail to understand "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "misconceives"
+    ],
+    "past": [
+      "misconceived"
+    ],
+    "done": [
+      "misconceived"
+    ],
+    "ing": [
+      "misconceiving"
+    ]
+  }
+}

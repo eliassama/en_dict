@@ -1,0 +1,167 @@
+{
+  "word": "betray",
+  "ipa": {
+    "us": "bɪˈtreɪ",
+    "uk": "bɪˈtreɪ"
+  },
+  "sentences": [
+    {
+      "en": "Don't betray the people's trust in you.",
+      "cn": "不要辜负人民对你的信任."
+    },
+    {
+      "en": "He felt that she had betrayed him.",
+      "cn": "他感觉她背叛了自己。"
+    },
+    {
+      "en": "He nodded his head instead of saying anything where his voice might betray him.",
+      "cn": "他一言不发，只是点头，因为一开口可能会露出破绽。"
+    },
+    {
+      "en": "He promised never to betray the organization.",
+      "cn": "他发誓永不背叛组织."
+    },
+    {
+      "en": "His face betrayed nothing (=  showed no emotion  ) .",
+      "cn": "他不露声色。"
+    },
+    {
+      "en": "His voice betrayed his nervousness.",
+      "cn": "他的声音暴露了他的紧张。"
+    },
+    {
+      "en": "I conjure you not to betray me.",
+      "cn": "我恳求你不要背弃我."
+    },
+    {
+      "en": "I would as lief kill myself as betray my master.",
+      "cn": "我宁愿自杀也不会出卖我的主人。"
+    },
+    {
+      "en": "I would never betray a confidence (=  tell a secret that someone has trusted me with  ) .",
+      "cn": "我永远不会泄露秘密。"
+    },
+    {
+      "en": "Keep calm. Don't betray your identity.",
+      "cn": "沉住气, 别可露馅儿."
+    },
+    {
+      "en": "No, Luca would never betray us.",
+      "cn": "不会, 路加绝不会背叛我们."
+    },
+    {
+      "en": "Only occasionally did the telltale redness around his eyes betray the fatigue he was suffering.",
+      "cn": "只有从他发红的眼圈上偶尔能看出他非常疲惫。"
+    },
+    {
+      "en": "Rosamond was not one of those helpless girls who betray themselves unawares.",
+      "cn": "罗莎蒙德不是那种软弱无能的女孩子、会在不知不觉中暴露自己."
+    },
+    {
+      "en": "She had betrayed her parents' trust .",
+      "cn": "她辜负了父母对她的信任。"
+    },
+    {
+      "en": "She pursed her lips together, as though fearing to betray her news.",
+      "cn": "她闭紧双唇，仿佛害怕透露出她的消息。"
+    },
+    {
+      "en": "They offered me money if I would betray my associates.",
+      "cn": "他们提出来只要我供出同伙就给我钱。"
+    },
+    {
+      "en": "To betray a friend is a base action.",
+      "cn": "出卖朋友是卑鄙的行为."
+    },
+    {
+      "en": "Trust thyself only, and another shall not betray thee.",
+      "cn": "只有信任你自己, 别人才不会出卖你."
+    },
+    {
+      "en": "When I tell someone I will not betray his confidence I keep my word.",
+      "cn": "如果我告诉某人我不会辜负他的信任，我就会恪守诺言。"
+    },
+    {
+      "en": "Woe betide you if you betray us.",
+      "cn": "如果你背叛我们,你会得到报应."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "betrayal",
+          "tran_cn": " 背叛；辜负；暴露"
+        },
+        {
+          "word": "betrayer",
+          "tran_cn": " 叛徒；背信者；告密者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deceive",
+            "delude",
+            "divulge",
+            "inform",
+            "mislead",
+            "trick"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "deceive",
+            "mislead",
+            "trick"
+          ],
+          "tran_cn": "误导;欺骗"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "betray oneself",
+      "tran_cn": "原形毕露"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "出卖，辜负，背叛，流露出",
+      "tran_en": "to be disloyal to someone who trusts you, so that they are harmed or upset"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "出卖，背叛",
+      "tran_en": "to be disloyal to someone who trusts you, so that they are harmed or upset"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "betrays"
+    ],
+    "past": [
+      "betrayed"
+    ],
+    "done": [
+      "betrayed"
+    ],
+    "ing": [
+      "betraying"
+    ]
+  }
+}

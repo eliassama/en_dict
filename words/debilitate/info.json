@@ -1,0 +1,106 @@
+{
+  "word": "debilitate",
+  "ipa": {
+    "us": "dɪˈbɪlɪteɪt",
+    "uk": "dɪˈbɪlɪˌtet"
+  },
+  "sentences": [
+    {
+      "en": "He was debilitated by his illness.",
+      "cn": "他由于生病身体虚弱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "debilitated",
+          "tran_cn": " 操劳过度的；疲惫不堪的"
+        },
+        {
+          "word": "debilitating",
+          "tran_cn": " 使衰弱的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "debilitation",
+          "tran_cn": " 衰弱；乏力"
+        },
+        {
+          "word": "debility",
+          "tran_cn": " 衰弱，虚弱；无活力"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "debilitated",
+          "tran_cn": " 使衰弱（debilitate的过去分词）"
+        },
+        {
+          "word": "debilitating",
+          "tran_cn": " 使虚弱（debilitate的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "disable",
+            "languish"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "devitalize",
+            "enfeeble"
+          ],
+          "tran_cn": "使衰弱；使虚弱"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使衰弱；使虚弱",
+      "tran_en": "to make someone ill and weak"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使虚弱，使衰弱"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "debilitates"
+    ],
+    "past": [
+      "debilitated"
+    ],
+    "done": [
+      "debilitated"
+    ],
+    "ing": [
+      "debilitating"
+    ]
+  }
+}

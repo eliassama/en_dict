@@ -1,0 +1,179 @@
+{
+  "word": "Automatically",
+  "ipa": {
+    "us": "ˌɔːtəˈmætɪkli",
+    "uk": "ˌɔtəˈmætɪkli"
+  },
+  "sentences": [
+    {
+      "en": "Automatically Tommy's hand went to his forehead.",
+      "cn": "汤米不由自主地用手去摸额头。"
+    },
+    {
+      "en": "Business success does not automatically lead to financial success.",
+      "cn": "经商成功不一定赚钱."
+    },
+    {
+      "en": "Husbands and wives of British nationals do not automatically gain citizenship.",
+      "cn": "英国公民的配偶不能自动取得公民身分."
+    },
+    {
+      "en": "It is worth remembering that previous wills are nullified automatically upon marriage.",
+      "cn": "要记住的是，一旦结婚，原遗嘱自动失效。"
+    },
+    {
+      "en": "Many loan application forms automatically add on insurance.",
+      "cn": "许多贷款申请表自动附加保险。"
+    },
+    {
+      "en": "Merely because you believe a thing is right, it isn't automatically so.",
+      "cn": "事情不会仅仅因为你相信它是对的，就会必然如此。"
+    },
+    {
+      "en": "Of course I automatically said yes.",
+      "cn": "当然，我脱口而出说是的。"
+    },
+    {
+      "en": "Once people retire they automatically cease to be union members.",
+      "cn": "人们一旦退休就自动不再是工会会员."
+    },
+    {
+      "en": "She had automatically labelled the boys as troublemakers.",
+      "cn": "她不假思索地认定这些男孩子是捣蛋鬼."
+    },
+    {
+      "en": "The device automatically disconnects the ignition when the engine is switched off.",
+      "cn": "当引擎关掉时，这个装置会自动切断点火开关。"
+    },
+    {
+      "en": "The doors opened automatically as we approached.",
+      "cn": "我们走近时，门自动开了。"
+    },
+    {
+      "en": "The machine automatically downloads the required information to his or her fax.",
+      "cn": "机器能自动将需要的信息下载到传真机上。"
+    },
+    {
+      "en": "The machine cycles automatically.",
+      "cn": "这台机器自动循环运转."
+    },
+    {
+      "en": "The machine is automatically controlled.",
+      "cn": "这机器是自动控制的."
+    },
+    {
+      "en": "The oven burners reignite automatically if blown out.",
+      "cn": "烤炉的火如果吹灭了会自动再点燃。"
+    },
+    {
+      "en": "The transmitters will send a signal automatically to a local base station.",
+      "cn": "发射台会自动将信号发射到地方基站。"
+    },
+    {
+      "en": "Your current account is automatically debited with the amount of your purchase.",
+      "cn": "你购物的金额会自动记入账戶借方."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "automated",
+          "tran_cn": " 自动化的；机械化的"
+        },
+        {
+          "word": "automatic",
+          "tran_cn": " 自动的；无意识的；必然的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "automat",
+          "tran_cn": " 自动售货机；[自] 自动机；自动贩卖式餐馆"
+        },
+        {
+          "word": "automatic",
+          "tran_cn": " 自动机械；自动手枪"
+        },
+        {
+          "word": "automation",
+          "tran_cn": " 自动化；自动操作"
+        },
+        {
+          "word": "automatism",
+          "tran_cn": " 自动作用；[医] 自动症；自动性"
+        },
+        {
+          "word": "automaton",
+          "tran_cn": " 自动机；机器人；自动机器"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "automated",
+          "tran_cn": " 自动化（automate的过去分词）；自动操作"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "automate",
+          "tran_cn": " 自动化，自动操作"
+        },
+        {
+          "word": "automatize",
+          "tran_cn": " 自动化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "automate",
+          "tran_cn": " 使自动化，使自动操作"
+        },
+        {
+          "word": "automatise",
+          "tran_cn": " （英）使自动化（等于automatize）"
+        },
+        {
+          "word": "automatize",
+          "tran_cn": " 使自动化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "voluntarily",
+            "mechanically"
+          ],
+          "tran_cn": "自动地；机械地；无意识地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "自动地，机械地，无意识地",
+      "tran_en": "by the action of a machine, without a person making it work"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,77 @@
+{
+  "word": "collusive",
+  "ipa": {
+    "us": "kə'lu:sɪv",
+    "uk": "kəˈlusɪv, -zɪv"
+  },
+  "sentences": [
+    {
+      "en": "...collusive business practices.",
+      "cn": "...互相勾结的经营方式。"
+    },
+    {
+      "en": "But almost all the proposed threshold group signature scheme can not resist the collusive attack.",
+      "cn": "但现有的门限群签名方案几乎都存在无法抵御合谋攻击的缺陷."
+    },
+    {
+      "en": "Collusive price leadership characterizes oligopolistic markets.",
+      "cn": "串通式价格领导具有寡占市场的特征."
+    },
+    {
+      "en": "How to defense collusive attack is one of the key problems when designing fingerprinting algorithms.",
+      "cn": "抗合谋攻击是数字指纹技术中需要解决的关键问题之一."
+    },
+    {
+      "en": "Pricing decisions made in a collusive atmosphere come close to monopoly pricing.",
+      "cn": "在勾结的情况下制定的价格,接近于垄断价格."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "collusion",
+          "tran_cn": " 勾结；共谋"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "collude",
+          "tran_cn": " 勾结；串通；共谋"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "conniving",
+            "conspirative",
+            "conspiring",
+            "plotting"
+          ],
+          "tran_cn": "共谋的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "共谋的"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "collusion"
+    ]
+  }
+}

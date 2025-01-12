@@ -1,0 +1,81 @@
+{
+  "word": "temporize",
+  "ipa": {
+    "us": "ˈtempəraɪz",
+    "uk": "ˈtɛmpəˌraɪz"
+  },
+  "sentences": [
+    {
+      "en": "Celia had decided long ago she would never temporize on that.",
+      "cn": "西莉亚早就认定,在这上面她绝不能妥协."
+    },
+    {
+      "en": "She would balance and temporize endlessly before reaching a decision.",
+      "cn": "她在做出决定前会不断地犹豫观望和见风使舵."
+    },
+    {
+      "en": "They are still temporizing in the face of what can only be described as a disaster.",
+      "cn": "眼看着灾难来临，他们还在拖延时间。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "temporizer",
+          "tran_cn": " 姑息者；骑墙主义者；顺应时势者；见风使舵的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "temporise",
+          "tran_cn": " 顺应时势；迎合潮流；妥协；拖延（等于temporize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "compound",
+            "drag on"
+          ],
+          "tran_cn": "拖延；妥协；顺应时势；迎合潮流"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "见风驶舵",
+      "tran_en": "to delay or avoid making a decision in order to gain time"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "敷衍，拖延，顺应时势，暂时同意"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "temporizes"
+    ],
+    "past": [
+      "temporized"
+    ],
+    "done": [
+      "temporized"
+    ],
+    "ing": [
+      "temporizing"
+    ]
+  }
+}

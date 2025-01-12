@@ -1,0 +1,55 @@
+{
+  "word": "enfranchisement",
+  "ipa": {
+    "us": "ɪn'fræntʃɪzmənt",
+    "uk": "ɪn'fræntʃɪzmənt"
+  },
+  "sentences": [
+    {
+      "en": "But, paradoxically, as democracy gets stronger and the middle class grows richer, it can realize it has more to lose than gain from a real enfranchisement of society.",
+      "cn": "但矛盾的是，民主发展了，资产阶级也富裕了，他们却意识到从一个真正解放的社会里能失去的越来越多，能获取的越来越少。"
+    },
+    {
+      "en": "It is not true that the enfranchisement of all will result in racial domination.",
+      "cn": "给予全体人民以公民权将导致种族统治,这种观点是不正确的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "enfranchise",
+          "tran_cn": " 给予选举权；给予自治权；解放，释放"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "liberation",
+            "release",
+            "emancipation"
+          ],
+          "tran_cn": "解放，释放"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "释放，解放"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "enfranchise"
+    ]
+  }
+}

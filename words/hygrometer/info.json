@@ -1,0 +1,76 @@
+{
+  "word": "hygrometer",
+  "ipa": {
+    "us": "haɪ'grɒmɪtə",
+    "uk": "haɪ'grɒmətə"
+  },
+  "sentences": [
+    {
+      "en": "1 hygrometer (belonged to FitzRoy)",
+      "cn": "1个湿度计（属于菲茨罗伊）"
+    },
+    {
+      "en": "Hold the digital thermo hygrometer for about 1 minute, until the reading becomes stable.",
+      "cn": "将电子温度湿度计拿出,等约1分钟, 直至读数稳定."
+    },
+    {
+      "en": "Hygrometer: An instrument for the measurement of the humidity of the atmosphere.",
+      "cn": "湿度计: 量度大气湿度的仪器."
+    },
+    {
+      "en": "If not, rest assured that at the time of purchase may require the use of wood hygrometer for humidity testing, this can be perfectly safe.",
+      "cn": "如果没有，请放心，在购买时可能需要使用木材湿度计湿度测试，这可以是绝对安全的。"
+    },
+    {
+      "en": "Process temperature hygrometer table - -- in line with international standards of production process temperature, hygrometer table.",
+      "cn": "工艺温湿度计表 --- 生产符合国际标准的工艺温度 、 湿度计表."
+    },
+    {
+      "en": "The digital hygrometer designed in this way has features of simple configuration, less surrounding elements, powerful antijamming ability, little power loss, high reliability, rapid response and etc.",
+      "cn": "采用该方法设计的数字湿度计具有结构简单、外围电路少、抗干扰能力强、功耗小、可靠性高、速度快、反应时间短等优点。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hygroscopic",
+          "tran_cn": " 吸湿的；湿度计的；易潮湿的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hygroscope",
+          "tran_cn": " [气象] 湿度计；验湿器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "humidiometer",
+            "moisture tester"
+          ],
+          "tran_cn": "[气象]湿度计"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "湿度计",
+      "tran_en": "any of various instruments for measuring humidity "
+    }
+  ],
+  "exchange": {}
+}

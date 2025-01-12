@@ -1,0 +1,231 @@
+{
+  "word": "staple",
+  "ipa": {
+    "us": "ˈsteɪpl",
+    "uk": "ˈsteɪpl"
+  },
+  "sentences": [
+    {
+      "en": "a staple ingredient of comedy",
+      "cn": "喜剧最重要的成分"
+    },
+    {
+      "en": "Bananas and sugar are the staples of Jamaica.",
+      "cn": "香蕉和糖是牙买加的主要产品。"
+    },
+    {
+      "en": "Cereals form the staple diet of an enormous number of people around the world.",
+      "cn": "谷类是世界范围内很大一部分人的主要食物。"
+    },
+    {
+      "en": "Coffee is the staple of this district.",
+      "cn": "咖啡是这个地区的主要产品."
+    },
+    {
+      "en": "Cotton is the staple of the area.",
+      "cn": "棉花是这个地区的主要农作物."
+    },
+    {
+      "en": "It is well known that bamboo shoots are a panda's staple diet.",
+      "cn": "竹笋是熊猫的主要食物，这是人所共知的。"
+    },
+    {
+      "en": "Most staple fibers are discrete, individual entities.",
+      "cn": "大多数短纤维是不联系的单独实体."
+    },
+    {
+      "en": "Oil is Nigeria’s staple export.",
+      "cn": "石油是尼日利亚的主要出口产品。"
+    },
+    {
+      "en": "One or two staple crops are the chief sources of food intake.",
+      "cn": "一、两种主要农作物是人们食物的主要来源."
+    },
+    {
+      "en": "Rice is our staple food.",
+      "cn": "米是我们的主食."
+    },
+    {
+      "en": "Rice is the staple food of more than half the world's population.",
+      "cn": "稻米是全世界一半以上人口的主食。"
+    },
+    {
+      "en": "Staple some sheets of paper together into a book.",
+      "cn": "用订书机将几页纸装订成册。"
+    },
+    {
+      "en": "staples like flour and rice",
+      "cn": "面粉和大米等主食"
+    },
+    {
+      "en": "Tea is the staple crop here.",
+      "cn": "本地产品以茶叶为大宗."
+    },
+    {
+      "en": "The Chinese also eat a type of pasta as part of their staple diet.",
+      "cn": "中国人也把一种面食作为他们的主食之一。"
+    },
+    {
+      "en": "The staple crop is rice.",
+      "cn": "主要农作物为水稻。"
+    },
+    {
+      "en": "They should not be the staple of diplomacy.",
+      "cn": "它们不应成为外交上的常规."
+    },
+    {
+      "en": "This differentiates them from discontinuous, short, or staple fibres.",
+      "cn": "这就把它们与不连续的 、 短的或定长的纤维区别开来."
+    },
+    {
+      "en": "We'll have to staple synthetic fibre this afternoon.",
+      "cn": "今天下午咱们得把合成纤维分分档."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stapler",
+          "tran_cn": " [轻] 订书机；主要商品批发商；把羊毛分级的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "primary",
+            "major",
+            "central",
+            "main",
+            "leading"
+          ],
+          "tran_cn": "主要的，大宗生产的；常用的；纺织纤维的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "topic",
+            "theme",
+            "subject",
+            "main products"
+          ],
+          "tran_cn": "[贸易]主要产品；[轻]订书钉；主题"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "attach",
+            "bind",
+            "clasp",
+            "connect",
+            "fasten",
+            "important",
+            "join",
+            "link",
+            "main",
+            "principal"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "pin up",
+            "nail up"
+          ],
+          "tran_cn": "把…分级；钉住"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "long staple",
+      "tran_cn": "长纤维；长绒棉纤维；毛系短纤维"
+    },
+    {
+      "phrase": "rayon staple",
+      "tran_cn": "粘胶短纤维"
+    },
+    {
+      "phrase": "staple diet",
+      "tran_cn": "主食"
+    },
+    {
+      "phrase": "staple fiber",
+      "tran_cn": "纺纱用的人造短纤维"
+    },
+    {
+      "phrase": "staple fibre",
+      "tran_cn": "人造短纤维"
+    },
+    {
+      "phrase": "staple food",
+      "tran_cn": "主食；主粮"
+    },
+    {
+      "phrase": "staple length",
+      "tran_cn": "纤维长度；纤维定长；手扯长度"
+    },
+    {
+      "phrase": "staple market",
+      "tran_cn": "主要市场"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "最基本的，最重要的",
+      "tran_en": "forming the greatest or most important part of something"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "主要产品，钉书钉，U 形钉，主题，主要部份，主食",
+      "tran_en": "a small piece of thin wire that is pushed into sheets of paper and bent over to hold them together"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "把…分级；钉住"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用订书钉钉住",
+      "tran_en": "to fasten two or more things together with a staple"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "staples"
+    ],
+    "third": [
+      "staples"
+    ],
+    "past": [
+      "stapled"
+    ],
+    "done": [
+      "stapled"
+    ],
+    "ing": [
+      "stapling"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "word": "iterate",
+  "ipa": {
+    "us": "ˈɪtəreɪt",
+    "uk": "ˈɪtəˌret"
+  },
+  "sentences": [
+    {
+      "en": "At Google, we have a saying: \" launch early and iterate. \"",
+      "cn": "在谷歌, 我们有个说法: “ 尽早更新,多多申明. ”"
+    },
+    {
+      "en": "If so, it must iterate the entire invocation list.",
+      "cn": "如果是, 它必须迭代整个调用列表."
+    },
+    {
+      "en": "In modeling, there are ways you can iterate towards the right solution.",
+      "cn": "关于建模, 以下方法能让你一直朝着正确的解决方法前进."
+    },
+    {
+      "en": "Iterators iterate through the container in an arbitrary order, that can change as elements are inserted.",
+      "cn": "迭代器按任意顺序遍历容器, 由元素被插入时还可能改变."
+    },
+    {
+      "en": "Iterators iterate through the container in the order defined by the comparison object.",
+      "cn": "迭代器按照由比较函数对象所定义的顺序遍历容器."
+    },
+    {
+      "en": "Will you repeat that question, please?",
+      "cn": "请你重复一下那个问题,好吗?iterate 系 正式用语,指“一次或数次地重述” 、 “反复申说”,如:"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "iterative",
+          "tran_cn": " [数] 迭代的；重复的，反复的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "iteration",
+          "tran_cn": " [数] 迭代；反复；重复"
+        },
+        {
+          "word": "iterative",
+          "tran_cn": " 反复体"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "repeat",
+            "echo"
+          ],
+          "tran_cn": "迭代；重复；反复说；重做"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "iterate through",
+      "tran_cn": "循环访问"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "反复说, 重申, 重述",
+      "tran_en": "to say or do something again"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "重复，反复申明"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "iterates"
+    ],
+    "past": [
+      "iterated"
+    ],
+    "done": [
+      "iterated"
+    ],
+    "ing": [
+      "iterating"
+    ]
+  }
+}

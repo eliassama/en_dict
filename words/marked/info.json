@@ -1,0 +1,202 @@
+{
+  "word": "marked",
+  "ipa": {
+    "us": "mɑːkt",
+    "uk": "mɑːrkt"
+  },
+  "sentences": [
+    {
+      "en": "a marked lack of enthusiasm",
+      "cn": "明显缺乏热情"
+    },
+    {
+      "en": "Clothes are the best bargain, with many items marked down.",
+      "cn": "买衣服是最划算的，许多衣服都降价了。"
+    },
+    {
+      "en": "For more details about these products, send a postcard marked HB/FF.",
+      "cn": "要了解这些产品的详细信息，请寄来标明HB/FF字样的明信片。"
+    },
+    {
+      "en": "He frugally saved various bits of the machine in carefully marked boxes.",
+      "cn": "他厉行节约地把这台机器的各种零件放进仔细标记的盒子里收好。"
+    },
+    {
+      "en": "Her independence of spirit marked her out from her male fellow officers.",
+      "cn": "她的独立精神使她有别于共事的男性军官。"
+    },
+    {
+      "en": "His writings were marked by an extraordinary lucidity and elegance of style.",
+      "cn": "他的作品简洁明晰，文风典雅。"
+    },
+    {
+      "en": "I marked the ground and then paced it out to be sure.",
+      "cn": "我在地面上作了标记，然后为了确保起见步测了一下。"
+    },
+    {
+      "en": "Miller’s organized desk stood in marked contrast to the rest of the office.",
+      "cn": "米勒的桌子上整理得井井有条，和办公室里的其他桌子形成明显的对比。"
+    },
+    {
+      "en": "Miss Hoare called out names and marked them off.",
+      "cn": "霍尔小姐点名后把它们一一划掉。"
+    },
+    {
+      "en": "That day marked the beginning of a 20-year estrangement.",
+      "cn": "从那一天开始了长达20年的互不往来。"
+    },
+    {
+      "en": "The door is marked \"Private\"",
+      "cn": "这扇门上标着“私人房间”。"
+    },
+    {
+      "en": "The figures marked the final low point of the present economic cycle.",
+      "cn": "这些数据显示了目前经济周期的最低点。"
+    },
+    {
+      "en": "The patient showed a marked improvement in her condition after changing medication.",
+      "cn": "换药治疗后病人的病情明显好转。"
+    },
+    {
+      "en": "The style is marked by simplicity, clarity, and candor.",
+      "cn": "这种风格的特点是简洁、清楚、直截了当。"
+    },
+    {
+      "en": "The trends since the 1950s have become even more marked.",
+      "cn": "20世纪50年代以来，这些趋势更加显而易见。"
+    },
+    {
+      "en": "Theoretically, the price is supposed to be marked on the shelf.",
+      "cn": "照理说，价格应该标在货架上。"
+    },
+    {
+      "en": "They are showing a marked disinclination to pursue these opportunities.",
+      "cn": "他们对争取这些机会明显表现出不乐意。"
+    },
+    {
+      "en": "They marked out the boundaries of our visual universe.",
+      "cn": "他们标出了我们视觉经验领域的界限。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "markedly",
+          "tran_cn": " 明显地；显著地；引人注目地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mark",
+          "tran_cn": " 标志；马克；符号；痕迹"
+        },
+        {
+          "word": "marker",
+          "tran_cn": " 记分员；书签；标识物；作记号的人"
+        },
+        {
+          "word": "marking",
+          "tran_cn": " 标志；打分；做记号；斑纹"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "marking",
+          "tran_cn": " 注意；作记号于；给…打分数（mark的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "mark",
+          "tran_cn": " 作记号"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mark",
+          "tran_cn": " 标志；做标记于；打分数"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "apparent",
+            "decided",
+            "evident",
+            "noted",
+            "noticeable",
+            "plain"
+          ],
+          "tran_cn": "引人注目的;明显的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "apparent",
+            "characteristic",
+            "decided",
+            "evident",
+            "noted",
+            "noticeable",
+            "plain",
+            "pronounced"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "marked freight prepaid",
+      "tran_cn": "注明运费预付"
+    },
+    {
+      "phrase": "marked price",
+      "tran_cn": "标价；标明价目"
+    },
+    {
+      "phrase": "marked with",
+      "tran_cn": "标有"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "显著的，著名的，有记号的，加印记的，受监视的",
+      "tran_en": "very easy to notice"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "表示(mark的过去分词)，作记号，给…打分，在…留下痕迹"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "markedly"
+    ]
+  }
+}

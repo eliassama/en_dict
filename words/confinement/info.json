@@ -1,0 +1,172 @@
+{
+  "word": "confinement",
+  "ipa": {
+    "us": "kənˈfaɪnmənt",
+    "uk": "kənˈfaɪnmənt"
+  },
+  "sentences": [
+    {
+      "en": "Capital punishment is claimed to deter wrongdoing even better than lifelong confinement.",
+      "cn": "死刑之所以需要是因为它在制止犯罪方面甚至比终身监禁更有效."
+    },
+    {
+      "en": "He has been a long confinement to bed.",
+      "cn": "他困卧在床已久."
+    },
+    {
+      "en": "He has been put in solitary confinement for attacking another prisoner.",
+      "cn": "他因伤害另一囚犯而被隔离监禁."
+    },
+    {
+      "en": "He spent eleven years in solitary confinement.",
+      "cn": "他度过了11年的单独监禁."
+    },
+    {
+      "en": "He visited prisoners at their place of confinement.",
+      "cn": "他到犯人关押处访问了犯人。"
+    },
+    {
+      "en": "He'd obviously kept himself fit despite his years of confinement.",
+      "cn": "显然，尽管监禁多年，他依旧保持着身体健康。"
+    },
+    {
+      "en": "her confinement to a wheelchair",
+      "cn": "半步离不开轮椅对她的束缚"
+    },
+    {
+      "en": "Hester Prynne's term of confinement was now at an end.",
+      "cn": "海丝特-白兰的监禁期满了."
+    },
+    {
+      "en": "In this confinement I began to be straitened for food.",
+      "cn": "在这种被困的情况下,我的粮食渐渐缺乏起来."
+    },
+    {
+      "en": "Last night he was being held in solitary confinement in Douglas jail.",
+      "cn": "昨晚他被单独监禁在道格拉斯的监狱里。"
+    },
+    {
+      "en": "Plasmas have shown themselves to be very resourceful at avoiding lengthy confinement.",
+      "cn": "等离子体本身在避免长度约束方面表现得很灵活多样."
+    },
+    {
+      "en": "She had been held in solitary confinement for four months.",
+      "cn": "她被单独关押了4个月。"
+    },
+    {
+      "en": "The animals are kept in close confinement.",
+      "cn": "动物给严密地关了起来."
+    },
+    {
+      "en": "They promised faithfully to bear their confinement with patience.",
+      "cn": "他们都老老实实的答应,要耐着性子忍受禁闭."
+    },
+    {
+      "en": "They were careless, slouchy, and more or less pale from confinement.",
+      "cn": "她们态度懒散, 精神不振,因为不见天日而脸色有些苍白."
+    },
+    {
+      "en": "They were held in confinement for three weeks.",
+      "cn": "他们被关押了三个星期。"
+    },
+    {
+      "en": "to be in solitary confinement",
+      "cn": "被单独监禁"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "confined",
+          "tran_cn": " 狭窄的；幽禁的；有限制的；在分娩中的"
+        },
+        {
+          "word": "confining",
+          "tran_cn": " 受限的，限制的；狭窄的，偏狭的；拘束的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "confine",
+          "tran_cn": " 界限，边界"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "confined",
+          "tran_cn": " 限制（confine的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "confine",
+          "tran_cn": " 限制；禁闭"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "limitation",
+            "delivery",
+            "restriction",
+            "qualification",
+            "prison"
+          ],
+          "tran_cn": "限制；监禁；分娩"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bondage",
+            "constraint",
+            "delivery",
+            "qualification"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inertial confinement",
+      "tran_cn": "惯性约束"
+    },
+    {
+      "phrase": "solitary confinement",
+      "tran_cn": "单独拘禁（等于solitary）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "监禁，关押，分娩",
+      "tran_en": "the act of putting someone in a room, prison etc that they are not allowed to leave, or the state of being there"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "confinements"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "word": "maleficent",
+  "ipa": {
+    "us": "mə'lefɪsnt",
+    "uk": "məˈlɛfɪsənt"
+  },
+  "sentences": [
+    {
+      "en": "A blinding flash of light filled the great hall, and before them stood the evil Maleficent.",
+      "cn": "眩目的闪电照亮了大厅, 妖婆梅列菲森特出现在他们面前."
+    },
+    {
+      "en": "Fairy Flora : Maleficent's powers are far too great.",
+      "cn": "佛罗达侧女: 马雷菲森的魔力太大了."
+    },
+    {
+      "en": "Some TV programs are maleficent to the growth of adolescents.",
+      "cn": "一些电视节目对青少年成长有害。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "malefic",
+          "tran_cn": " 有害的；邪恶的"
+        },
+        {
+          "word": "malfeasant",
+          "tran_cn": " 不法行为的；行为不正的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "maleficence",
+          "tran_cn": " 罪行；恶毒"
+        },
+        {
+          "word": "malfeasance",
+          "tran_cn": " 渎职，违法行为；不正当，坏事"
+        },
+        {
+          "word": "malfeasant",
+          "tran_cn": " 贪官污吏；犯罪者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "harmful",
+            "evil",
+            "criminal",
+            "destructive"
+          ],
+          "tran_cn": "有害的；犯罪的；做坏事的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accursed",
+            "baleful",
+            "black"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有害的",
+      "tran_en": "causing or capable of producing evil or mischief; harmful or baleful "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,182 @@
+{
+  "word": "suggestion",
+  "ipa": {
+    "us": "səˈdʒestʃən",
+    "uk": "səˈdʒestʃən"
+  },
+  "sentences": [
+    {
+      "en": "Any suggestions would be welcome.",
+      "cn": "任何建议都欢迎。"
+    },
+    {
+      "en": "Felicity seemed pleased at the suggestion.",
+      "cn": "费莉西蒂好像对这个建议很满意。"
+    },
+    {
+      "en": "He agreed to her suggestion begrudgingly.",
+      "cn": "他不情愿地同意了她的建议。"
+    },
+    {
+      "en": "He bristled with indignation at the suggestion that he was racist.",
+      "cn": "有人暗示他是个种族主义者，他对此十分恼火。"
+    },
+    {
+      "en": "He sniffed, fidgeting in discomfort, uneasy at the suggestion.",
+      "cn": "他吸了吸鼻子，对这项提议感到窘迫不安，心烦意乱。"
+    },
+    {
+      "en": "Hers was the suggestion I acted upon.",
+      "cn": "我是按照她的建议去做的。"
+    },
+    {
+      "en": "I would challenge the, er, suggestion that we're in third place.",
+      "cn": "我不太同意，呃，我们位居第三的说法。"
+    },
+    {
+      "en": "Isabelle is quick to refute any suggestion of intellectual snobbery.",
+      "cn": "伊莎贝尔对于任何关于她恃才傲物的暗示都迅速予以否认。"
+    },
+    {
+      "en": "It's just a suggestion.",
+      "cn": "这只是个建议。"
+    },
+    {
+      "en": "Perhaps he'd followed her suggestion of a stroll to the river.",
+      "cn": "也许他已经听从了她的建议去河边散步了。"
+    },
+    {
+      "en": "The two leaders were flummoxed by the suggestion.",
+      "cn": "两个领导被这个建议搞晕了。"
+    },
+    {
+      "en": "There is no suggestion that clients have been sold inappropriate policies.",
+      "cn": "无迹象表明向客户售出了不适用的保险。"
+    },
+    {
+      "en": "We reject any suggestion that the law needs amending.",
+      "cn": "对于任何暗示该法律需要修改的观点我们都拒绝接受。"
+    },
+    {
+      "en": "We trust that he and his department are considering our suggestion.",
+      "cn": "我们估计他和他的部门正在考虑我们的建议。"
+    },
+    {
+      "en": "We would view favourably any sensible suggestion for maintaining the business.",
+      "cn": "我们欢迎为维持业务稳定而提出的所有合理建议。"
+    },
+    {
+      "en": "Wolfe waved my suggestion aside.",
+      "cn": "沃尔夫对我的建议置若罔闻。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "suggestible",
+          "tran_cn": " 可建议的；耳根软的；易受影响的"
+        },
+        {
+          "word": "suggestive",
+          "tran_cn": " 暗示的；提示的；影射的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "suggestively",
+          "tran_cn": " 提示地；引起联想地；暗示地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "suggestibility",
+          "tran_cn": " 暗示感受性；可教唆；被暗示性"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "suggest",
+          "tran_cn": " 提议，建议；启发；使人想起"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "adumbration",
+            "advice",
+            "hint",
+            "implication",
+            "insinuation",
+            "proposal"
+          ],
+          "tran_cn": "建议;暗示"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "connotation",
+            "glimmer",
+            "inkling",
+            "inspiration",
+            "invitation",
+            "leadership",
+            "meaning",
+            "motion",
+            "proposition",
+            "recommendation",
+            "reference",
+            "shade",
+            "suspicion"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at the suggestion of",
+      "tran_cn": "在…的建议下"
+    },
+    {
+      "phrase": "make a suggestion",
+      "tran_cn": "提出建议"
+    },
+    {
+      "phrase": "suggestion box",
+      "tran_cn": "n. 意见箱"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "建议，暗示，表明，些微，联想",
+      "tran_en": "an idea, plan, or possibility that someone mentions, or the act of mentioning it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "suggestions"
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "word": "parenthesis",
+  "ipa": {
+    "us": "pəˈrenθəsɪs",
+    "uk": "pəˈrɛnθɪsɪs"
+  },
+  "sentences": [
+    {
+      "en": "A closing parenthesis was expected near line % 1.",
+      "cn": "右括号应该出现在第%1行附近."
+    },
+    {
+      "en": "An opening parenthesis was expected near line % 1.",
+      "cn": "左括号应该出现在第%1行附近."
+    },
+    {
+      "en": "Besides , conditional adverbial clauses ( phrases ) , parenthesis , and the different usages of voice own their respective styles.",
+      "cn": "条件状语或从句 、 插入语和不同语态的使用也有其自身风格."
+    },
+    {
+      "en": "Do not read the parenthesis.",
+      "cn": "不要把插入语读出来."
+    },
+    {
+      "en": "I should like to mention another point here by way of parenthesis.",
+      "cn": "在这里我想附带再提一下另外一点."
+    },
+    {
+      "en": "I should like to mention this by way of parenthesis.",
+      "cn": "我想附带地提一提这个问题."
+    },
+    {
+      "en": "In parenthesis, I should add that the results have not yet been proven.",
+      "cn": "插一句，我想补充的是这些结果还未得到证实。"
+    },
+    {
+      "en": "In parenthesis, I'd say that there were two aspects to writing you must never lose sight of.",
+      "cn": "插一句，关于写作，我认为有两个方面你绝不能忽视。"
+    },
+    {
+      "en": "In this expression, we do not need a multiplication sign or parenthesis.",
+      "cn": "这个表达式中, 我们不需要乘号或括号."
+    },
+    {
+      "en": "Items encapsulated in parenthesis are evaluated first and have the highest precedence.",
+      "cn": "先给包含在括号中的项目赋值,它拥有最高的优先权."
+    },
+    {
+      "en": "Missing subquery or the operator you entered requires parenthesis.",
+      "cn": "缺少子查询或输入的运算符需要圆括号."
+    },
+    {
+      "en": "Put the word in parenthesis.",
+      "cn": "把这词括在圆括号里."
+    },
+    {
+      "en": "Room for a brief parenthesis.",
+      "cn": "此地不妨说一句题外的话."
+    },
+    {
+      "en": "The entire statement is terminated with a semicolon after the closing parenthesis.",
+      "cn": "语句以末尾括号后的分号结束."
+    },
+    {
+      "en": "The statistics were given in parenthesis.",
+      "cn": "统计数字在括号里."
+    },
+    {
+      "en": "This applies to matching parenthesis, brackets, and angle brackets as well.",
+      "cn": "这同样适用于匹配的圆括号 、 方括号和尖括号."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "parenthetical",
+          "tran_cn": " 插句的；附加说明的；放在括号里的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "parenthetically",
+          "tran_cn": " 附带说明地；作为插入成分地；顺便说一句"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "interjection",
+            "round brackets"
+          ],
+          "tran_cn": "插入语；[语]圆括号；附带"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in parenthesis",
+      "tran_cn": "作为（离题的）插话；作为事后的想法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "插入语，插入成分，圆括号，间歇",
+      "tran_en": "a round  bracket "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "parentheses"
+    ]
+  }
+}

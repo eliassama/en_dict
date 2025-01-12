@@ -1,0 +1,206 @@
+{
+  "word": "manipulate",
+  "ipa": {
+    "us": "məˈnɪpjuleɪt",
+    "uk": "məˈnɪpjuleɪt"
+  },
+  "sentences": [
+    {
+      "en": "A clever politician know how to manipulate public opinion.",
+      "cn": "聪明的政客知道如何操纵公众舆论。"
+    },
+    {
+      "en": "A clever politician knows how to manipulate his supporters / public opinion.",
+      "cn": "1个聪明的政治家知道如何利用他的拥护者(舆论)."
+    },
+    {
+      "en": "All we can do then is to manipulate and change the grammer to alleviate the conflict.",
+      "cn": "解决的办法只能是加工,改变文法,以便减少矛盾."
+    },
+    {
+      "en": "Do you know how to manipulate a computer?",
+      "cn": "你知道如何使用计算机 吗 ?"
+    },
+    {
+      "en": "He was arrested for trying to manipulate the company's financial records.",
+      "cn": "他因企图窜改公司财务记录而被逮捕."
+    },
+    {
+      "en": "He was one of those men who manipulated people.",
+      "cn": "他是那种要摆布别人的人。"
+    },
+    {
+      "en": "Macdonald accepted that such information could be used to manipulate, to obfuscate, and to mislead.",
+      "cn": "麦克唐纳相信这样的信息可以用来操纵舆论，蒙蔽误导。"
+    },
+    {
+      "en": "Primitive man quickly learned how to manipulate tools.",
+      "cn": "原始人很快就学会了使用工具."
+    },
+    {
+      "en": "Scientists would soon be able to manipulate human genes to control the ageing process.",
+      "cn": "科学家们很快将能通过操控人类基因来控制衰老过程。"
+    },
+    {
+      "en": "She uses her charm to manipulate people.",
+      "cn": "她利用自身的魅力来摆布别人。"
+    },
+    {
+      "en": "She was unable, for once, to control and manipulate events.",
+      "cn": "她曾一度无法控制和操纵事件。"
+    },
+    {
+      "en": "software designed to store and manipulate data",
+      "cn": "用于存储和处理数据的软件"
+    },
+    {
+      "en": "The pilot of an airplane must manipulate various controls.",
+      "cn": "飞机驾驶员必须会使用种种操纵仪器."
+    },
+    {
+      "en": "The technology uses a pen to manipulate a computer.",
+      "cn": "这项技术使用一支笔来操作电脑。"
+    },
+    {
+      "en": "The treasurer was arrested for trying to manipulate the company's financial records.",
+      "cn": "财务主管由于试图窜改公司财政帐目而被拘留."
+    },
+    {
+      "en": "The way he can manipulate my leg has helped my arthritis so much.",
+      "cn": "他为我的腿实施的推拿术治疗对我的关节炎大有好处。"
+    },
+    {
+      "en": "The workers can manipulate the gears and levers of a machine skillfully.",
+      "cn": "工人们能熟练地操纵机件."
+    },
+    {
+      "en": "We can manipulate the expression for reflection coefficient.",
+      "cn": "我们可以利用反射系数公式."
+    },
+    {
+      "en": "You can integrate text with graphics and manipulate graphic images.",
+      "cn": "你可以把文本和图形拼接起来进行图像处理。"
+    },
+    {
+      "en": "You have the constant feeling you are being manipulated.",
+      "cn": "你总感觉自己是被人控制着的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "manipulable",
+          "tran_cn": " 可操纵自如的；可以操作的"
+        },
+        {
+          "word": "manipulative",
+          "tran_cn": " 巧妙处理的；操纵的，用手控制的"
+        },
+        {
+          "word": "manned",
+          "tran_cn": " 有人驾驶的；有人操纵的；配备齐船员的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "manipulability",
+          "tran_cn": " 可操纵性"
+        },
+        {
+          "word": "manipulation",
+          "tran_cn": " 操纵；操作；处理；篡改"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "manned",
+          "tran_cn": " 给…配备人员（man的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "conduct",
+            "feel",
+            "finger",
+            "handle",
+            "manage",
+            "maneuver",
+            "operate",
+            "play",
+            "touch",
+            "wield",
+            "work"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "conduct",
+            "feel",
+            "handle",
+            "manage",
+            "maneuver",
+            "operate",
+            "touch",
+            "work"
+          ],
+          "tran_cn": "处理;接触"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "manipulate data",
+      "tran_cn": "操作数据"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "操纵；操作；巧妙地处理；篡改",
+      "tran_en": "to make someone think and behave exactly as you want them to, by skilfully deceiving or influencing them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "操作，处理，巧妙地控制，操纵，[医] 推拿，调整",
+      "tran_en": "to make someone think and behave exactly as you want them to, by skilfully deceiving or influencing them"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "manipulates"
+    ],
+    "past": [
+      "manipulated"
+    ],
+    "done": [
+      "manipulated"
+    ],
+    "ing": [
+      "manipulating"
+    ],
+    "noun": [
+      "manipulation"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "word": "avow",
+  "ipa": {
+    "us": "əˈvaʊ",
+    "uk": "əˈvaʊ"
+  },
+  "sentences": [
+    {
+      "en": "...a public statement avowing neutrality.",
+      "cn": "...一份宣布中立的公开声明。"
+    },
+    {
+      "en": "But whatever the danger, Christ's followers must avow their principles.",
+      "cn": "但不论遭何危险, 跟从基督的人必须承认自己的信仰."
+    },
+    {
+      "en": "He avowed his commitment to Marxist ideals.",
+      "cn": "他宣称对马克思主义理想矢志不渝。"
+    },
+    {
+      "en": "Many a man thinks, what he is ashamed to avow ( Samuel Johnson ).",
+      "cn": "很多人都考虑过那些他们羞于说出来的事 ( 萨谬尔约翰逊 )."
+    },
+    {
+      "en": "The senator was forced to avow openly that he had received some money from that company.",
+      "cn": "那个参议员被迫承认曾经收过那家公司的一些钱."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "avowed",
+          "tran_cn": " 公开宣布的；公开承认的；公然的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "avowal",
+          "tran_cn": " 声明，公开表示；公开宣布"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "avowed",
+          "tran_cn": " 声明（avow的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acknowledge",
+            "testify"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "accept",
+            "recognize",
+            "agree",
+            "acknowledge",
+            "grant"
+          ],
+          "tran_cn": "承认；公开宣称；坦率承认"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "承认",
+      "tran_en": "If you avow something, you admit it or declare it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "公开声明，承认",
+      "tran_en": "to make a public statement about something you believe in"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "avows"
+    ],
+    "past": [
+      "avowed"
+    ],
+    "done": [
+      "avowed"
+    ],
+    "ing": [
+      "avowing"
+    ],
+    "noun": [
+      "avowal"
+    ]
+  }
+}

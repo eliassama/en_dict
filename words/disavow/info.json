@@ -1,0 +1,79 @@
+{
+  "word": "disavow",
+  "ipa": {
+    "us": "ˌdɪsəˈvaʊ",
+    "uk": "ˌdɪsə'vaʊ"
+  },
+  "sentences": [
+    {
+      "en": "Dr. Samuels immediately disavowed the newspaper story.",
+      "cn": "塞缪尔斯医生马上否认了报纸上的这条新闻。"
+    },
+    {
+      "en": "How important is it to disavow obligation to it?",
+      "cn": "否定对过往记忆的义务很重要 吗 ?"
+    },
+    {
+      "en": "I deny, disaffirm and disavow that…",
+      "cn": "否决否认以及否定……"
+    },
+    {
+      "en": "I disavow all responsibility for you.",
+      "cn": "我不承认对你有任何责任."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disavowal",
+          "tran_cn": " 否定，否认；拒绝；不承认"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "negative",
+            "deny"
+          ],
+          "tran_cn": "否认，否定；抵赖；拒绝对…的责任"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 否认， 否定， 抵赖",
+      "tran_en": "to say that you are not responsible for something, that you do not know about it, or that you are not involved with it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "不承认，抵赖，拒绝对…承担责任"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disavows"
+    ],
+    "past": [
+      "disavowed"
+    ],
+    "done": [
+      "disavowed"
+    ],
+    "ing": [
+      "disavowing"
+    ],
+    "noun": [
+      "disavowal"
+    ]
+  }
+}

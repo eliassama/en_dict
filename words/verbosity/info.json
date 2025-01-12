@@ -1,0 +1,118 @@
+{
+  "word": "verbosity",
+  "ipa": {
+    "us": "vɜ:'bɒsətɪ",
+    "uk": " vəˈbɑsətɪ"
+  },
+  "sentences": [
+    {
+      "en": "Another motivation is to reduce the verbosity of inner classes, which are currently the closest way to get this effect.",
+      "cn": "另一个动机是减少冗长的内部类，这是目前最可能获得这一效果的方式。"
+    },
+    {
+      "en": "As expressions get more complicated the need to reduce the verbosity of type specification gets more compelling.",
+      "cn": "当表达式变得更加复杂，减轻类型说明的冗长的要求变得更加迫切。"
+    },
+    {
+      "en": "In displaying this letter in such a prominent place, my colleague was seeking to amuse his visitors with its Indian-English verbosity.",
+      "cn": "我的同事把这封信挂在这么显眼的位置, 其实是想向展示他的印度式英语的冗长来娱乐客人."
+    },
+    {
+      "en": "Output Message Type: Specifies the level of verbosity of output messages to generate during the build.",
+      "cn": "输出消息类型: 指定在生成期间生成的输出消息的详细级别."
+    },
+    {
+      "en": "Sets the verbosity level for the build output.",
+      "cn": "设置生成输出的详细等级."
+    },
+    {
+      "en": "Slightly increased verbosity of GDFS access initialization error handling code.",
+      "cn": "稍微增加了GDFS初始化错误操作码的冗长度."
+    },
+    {
+      "en": "This is a big step forward in reducing verbosity but is still not any more abstract — it still forces the user to calculate the comparison function imperatively.",
+      "cn": "在减少代码冗长方面这算是向前迈了很大的一步，但还不算是更加抽象——其依然迫使用户命令式地计算比较函数。"
+    },
+    {
+      "en": "Truscott's verbosity made it hard to separate plain fact from decorative embellishment.",
+      "cn": "特拉斯科特说话啰唆，让人很难分清哪是纯粹的事实哪是添油加醋的修饰之辞。"
+    },
+    {
+      "en": "We became bored with his verbosity.",
+      "cn": "他说话啰唆,叫我们烦厌."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "verbose",
+          "tran_cn": " 冗长的；啰嗦的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "verbosely",
+          "tran_cn": " 冗长地；啰嗦地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "verboseness",
+          "tran_cn": " 冗长，罗唆"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "verbalize",
+          "tran_cn": " 累赘；唠叨；以言语表述"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "verbalize",
+          "tran_cn": " 使…变成动词；用言语表达"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "lengthiness",
+            "prolixity"
+          ],
+          "tran_cn": "冗长；赘言；唠叨"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "冗长，赘言"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "verbose"
+    ]
+  }
+}

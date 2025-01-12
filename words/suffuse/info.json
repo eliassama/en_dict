@@ -1,0 +1,87 @@
+{
+  "word": "suffuse",
+  "ipa": {
+    "us": "səˈfjuːz",
+    "uk": "səˈfjuːz"
+  },
+  "sentences": [
+    {
+      "en": "Hot colour suffused her cheeks.",
+      "cn": "她的脸涨得又红又烫。"
+    },
+    {
+      "en": "I also am really, dear, when wind up time, lets It'suffuse me to your blessing.",
+      "cn": "真的,我也是, 亲爱的, 当风起的时候, 让它涨满我对你的祝福."
+    },
+    {
+      "en": "Instead it continues to suffuse interstellar space like a gas.",
+      "cn": "它反倒是像气体那样,依然弥漫于星际之间."
+    },
+    {
+      "en": "The light of the setting sun suffused the clouds.",
+      "cn": "落日的霞光映红了云层。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "suffusion",
+          "tran_cn": " 充满；弥漫；遍布"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "thread"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abound with",
+            "be imbued with"
+          ],
+          "tran_cn": "充满；弥漫"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "充满",
+      "tran_en": "if warmth, colour, liquid etc suffuses something or someone, it covers or spreads through them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（指颜色、水气等）弥漫于，布满"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "suffuses"
+    ],
+    "past": [
+      "suffused"
+    ],
+    "done": [
+      "suffused"
+    ],
+    "ing": [
+      "suffusing"
+    ]
+  }
+}

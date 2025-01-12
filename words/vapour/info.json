@@ -1,0 +1,158 @@
+{
+  "word": "vapour",
+  "ipa": {
+    "us": "ˈveɪpə(r)",
+    "uk": "ˈveɪpər"
+  },
+  "sentences": [
+    {
+      "en": "A cloud is a condensation of water vapour in the atmosphere.",
+      "cn": "云是由大气中的水蒸气凝结成的."
+    },
+    {
+      "en": "A cloud is a mass of vapour in the sky.",
+      "cn": "云是天空中的水汽团块."
+    },
+    {
+      "en": "A vapour at saturation is in equilibrium with the bulk phase.",
+      "cn": "饱和蒸汽和凝结相处于平衡状态."
+    },
+    {
+      "en": "Clouds are formations of condensed water vapour.",
+      "cn": "云是由凝聚的水蒸气构成的."
+    },
+    {
+      "en": "He sniffed the vapour up ( through his nose ).",
+      "cn": "他 ( 用鼻子 ) 吸入蒸气."
+    },
+    {
+      "en": "Heated, water will change to vapour.",
+      "cn": "水经过加热就会变成蒸气."
+    },
+    {
+      "en": "However, it does not require an absorbed vapour layer to become effective.",
+      "cn": "然而, 它不需要被吸收的水汽层来发挥效能."
+    },
+    {
+      "en": "Ice possesses a lower equilibrium vapour pressure than water.",
+      "cn": "冰具有比水低的平衡蒸汽压."
+    },
+    {
+      "en": "Petrol forms vapour above a certain temperature.",
+      "cn": "高于一定的温度汽油就形成蒸气."
+    },
+    {
+      "en": "Residue and vapour are withdrawn continuously from the boiler.",
+      "cn": "残液和蒸气不断从再沸器抽出."
+    },
+    {
+      "en": "The temperature is sensed by a thermocouple located in the vapour space.",
+      "cn": "该温度由位于蒸气空间的热电偶所测出."
+    },
+    {
+      "en": "Vapour can be changed into liquid by cooling.",
+      "cn": "蒸气可以通过冷却变成液体."
+    },
+    {
+      "en": "water vapour",
+      "cn": "水蒸气"
+    },
+    {
+      "en": "Water vapour condenses to form clouds.",
+      "cn": "水蒸气凝结形成云。"
+    },
+    {
+      "en": "When water changes to water vapour, we say it evaporates.",
+      "cn": "当水变成水蒸气时, 我们把这个过程叫做蒸发."
+    },
+    {
+      "en": "When water vapour changes to water, we say that it condenses.",
+      "cn": "当水蒸气变成水时, 我们把它叫做冷凝."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vaporish",
+          "tran_cn": " 似蒸气的；模糊的；忧郁病的"
+        },
+        {
+          "word": "vaporous",
+          "tran_cn": " 空想的；多蒸气的；雾状的"
+        },
+        {
+          "word": "vapourous",
+          "tran_cn": " 汽化的；气态"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vapor",
+          "tran_cn": " 蒸汽；烟雾"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "vapor",
+          "tran_cn": " 蒸发；吹牛；沮丧"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vapor",
+          "tran_cn": " 使……蒸发；使……汽化"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "chemical vapour deposition",
+      "tran_cn": "化学蒸汽沉积"
+    },
+    {
+      "phrase": "oil vapour",
+      "tran_cn": "油气；石油蒸汽"
+    },
+    {
+      "phrase": "saturated vapour",
+      "tran_cn": "饱和蒸气"
+    },
+    {
+      "phrase": "vapour phase",
+      "tran_cn": "气相；汽相"
+    },
+    {
+      "phrase": "vapour pressure",
+      "tran_cn": "汽压；蒸汽压力；水汽压力"
+    },
+    {
+      "phrase": "water vapour",
+      "tran_cn": "水蒸汽，水汽"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "潮气，水汽，蒸汽（等于vapor）",
+      "tran_en": "a mass of very small drops of a liquid which float in the air, for example because the liquid has been heated"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "vapours"
+    ]
+  }
+}

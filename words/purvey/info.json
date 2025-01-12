@@ -1,0 +1,99 @@
+{
+  "word": "purvey",
+  "ipa": {
+    "us": "pəˈveɪ",
+    "uk": "pərˈveɪ"
+  },
+  "sentences": [
+    {
+      "en": "DJ Dominic purveys a unique brand of music.",
+      "cn": "音乐节目主持人多米尼克播放一种独特的音乐。"
+    },
+    {
+      "en": "They have two restaurants that purvey dumplings and chicken noodle soup.",
+      "cn": "他们那里有两家供应饺子和鸡肉汤面的餐馆。"
+    },
+    {
+      "en": "They purvey food for the army.",
+      "cn": "他们供应食品给军队."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "purveyance",
+          "tran_cn": " 伙食；供给；供应；承办伙食"
+        },
+        {
+          "word": "purveyor",
+          "tran_cn": " 承办商；伙食承办商；供应粮食者；供应货物或提供服务的人或公司"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "provision"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "provide with",
+            "go around"
+          ],
+          "tran_cn": "供应；供给"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "serve",
+            "accommodate"
+          ],
+          "tran_cn": "供应；供给"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "供给, 供应",
+      "tran_en": "to supply goods, services, information etc to people"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<正>提供，供应"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "purveys"
+    ],
+    "past": [
+      "purveyed"
+    ],
+    "done": [
+      "purveyed"
+    ],
+    "ing": [
+      "purveying"
+    ]
+  }
+}

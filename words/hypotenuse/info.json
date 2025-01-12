@@ -1,0 +1,64 @@
+{
+  "word": "hypotenuse",
+  "ipa": {
+    "us": "haɪˈpɒtənju:z",
+    "uk": "haɪˈpɑtənus"
+  },
+  "sentences": [
+    {
+      "en": "Compute the lengths of the hypotenuse and the other small side.",
+      "cn": "计算斜边和其它小的边的长度. )"
+    },
+    {
+      "en": "Either side of a right triangle that is hypotenuse.",
+      "cn": "直角边直角三角形除斜边之外的两条边的任意一条."
+    },
+    {
+      "en": "Either side of a right triangle that is not the hypotenuse .",
+      "cn": "直角三角形的斜边与一个角的对边之比。"
+    },
+    {
+      "en": "Either side of a right triangle that is not the hypotenuse.",
+      "cn": "'直角'.''边''.'直角'.''''.'三角形'. ''除斜边之外的两条边的任意一条."
+    },
+    {
+      "en": "For example the square on hypotenuse of a right angle triangle is equal to the sum of the squares of the other two sides.",
+      "cn": "例如，直角三角形斜边的平方,等于其它两边的平方和。"
+    },
+    {
+      "en": "I want to compute the length of the hypotenuse of a right triangle.",
+      "cn": "我想计算下,直角三角形的斜边。"
+    },
+    {
+      "en": "Interviewer: Ok, so one last question. A right triangle has a hypotenuse equal to 10 and an altitude to the hypotenuse equal to 6.",
+      "cn": "一位计算机系的毕业生接受微软的面试，面试官给出最后一个问题：“已知一个直角三角形的斜边为10，斜边上的高为6，请问这个三角形的面积是多少？”"
+    },
+    {
+      "en": "The hypotenuse is the longest side of a right triangle.",
+      "cn": "直角三角形的斜边是直角三角形中最长的边."
+    },
+    {
+      "en": "The hypotenuse of a right triangle is always the longest side.",
+      "cn": "直角三角形的斜边总是最长的."
+    },
+    {
+      "en": "This time, you create a simple textbox form that corresponds to the opposite and hypotenuse of a right triangle.",
+      "cn": "这次，创建的是一个简单的文本框表单，对应于直角三角形的对边和斜边。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（直角三角形的）斜边，弦",
+      "tran_en": "the longest side of a  triangle  that has a  right angle "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hypotenuses"
+    ]
+  }
+}

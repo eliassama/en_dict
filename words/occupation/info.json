@@ -1,0 +1,216 @@
+{
+  "word": "occupation",
+  "ipa": {
+    "us": "ˌɒkjuˈpeɪʃn",
+    "uk": "ˌɑːkjuˈpeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Bookkeeping is a sedentary occupation.",
+      "cn": "会计是一种需要坐着工作的职业."
+    },
+    {
+      "en": "Corporate crime — committed by businesses — should not be confused with white - collar crime, which refers to the occupation of the perpetrator and may be directed against a business.",
+      "cn": "公司犯罪不应与 白领 犯罪混淆, 后者指的是犯罪者的职业,其罪行可能是针对企业的."
+    },
+    {
+      "en": "He has engaged in rather shady occupation.",
+      "cn": "他从事相当不明不白的职业."
+    },
+    {
+      "en": "He is a factory director by occupation.",
+      "cn": "他的职业是做厂长."
+    },
+    {
+      "en": "He is a teacher by occupation but a philosopher by inclination.",
+      "cn": "他的职业是教师,但他的本心是成为哲学家."
+    },
+    {
+      "en": "He wanted to look for occupation suited to his abilities.",
+      "cn": "他想找个适合自己才能的职业"
+    },
+    {
+      "en": "I haven't entered up your name and occupation yet.",
+      "cn": "我尚未记下你的名字和职业."
+    },
+    {
+      "en": "Intellectual life in France was smothered by the occupation.",
+      "cn": "在被占领期间法国思想界受到了压制。"
+    },
+    {
+      "en": "Large parts of Britain were under Roman occupation.",
+      "cn": "不列颠的大部分领土曾被罗马人占领."
+    },
+    {
+      "en": "manual occupations",
+      "cn": "体力工作"
+    },
+    {
+      "en": "Please state your name, address and occupation.",
+      "cn": "请写明你的姓名、地址和职业。"
+    },
+    {
+      "en": "Please state your name, age and occupation below.",
+      "cn": "请在下面写明姓名、年龄和职业。"
+    },
+    {
+      "en": "Prii had become fluent in German during the Wehrmacht's occupation of Estonia in 1942.",
+      "cn": "在1942年德军侵占爱沙尼亚期间，普里学得了一口流利的德语。"
+    },
+    {
+      "en": "professional and managerial occupations",
+      "cn": "专业及管理工作"
+    },
+    {
+      "en": "Reading is a useful occupation to us.",
+      "cn": "阅读对我们是一种有益的消遣."
+    },
+    {
+      "en": "She was born in France during German occupation.",
+      "cn": "她在德国占领期间生于法国."
+    },
+    {
+      "en": "the German occupation of France",
+      "cn": "德军对法国的占领"
+    },
+    {
+      "en": "The old man became bored for lack of occupation.",
+      "cn": "这位老人因无所事事而感到无聊."
+    },
+    {
+      "en": "You will be asked to fill in a form with details of your birth and occupation.",
+      "cn": "你将需要填写一张有关生日和职业详情的表格。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "occupational",
+          "tran_cn": " 职业的；占领的"
+        },
+        {
+          "word": "occupied",
+          "tran_cn": " 已占用的；使用中的；无空闲的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "occupancy",
+          "tran_cn": " 居住；占有；占用"
+        },
+        {
+          "word": "occupant",
+          "tran_cn": " 居住者；占有者"
+        },
+        {
+          "word": "occupier",
+          "tran_cn": " 居住人；占有者；占用者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "occupied",
+          "tran_cn": " 占有（occupy的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "activity",
+            "affair",
+            "business",
+            "capacity",
+            "concern",
+            "duty",
+            "employment",
+            "function",
+            "interest",
+            "job",
+            "matter",
+            "role",
+            "stint",
+            "task",
+            "trade",
+            "work"
+          ],
+          "tran_cn": "工作;生意"
+        },
+        {
+          "words": [
+            "holding",
+            "ownership",
+            "possession"
+          ],
+          "tran_cn": "拥有;占有"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "activity",
+            "affair",
+            "business",
+            "calling",
+            "capacity",
+            "career",
+            "concern",
+            "duty",
+            "employment",
+            "function",
+            "holding",
+            "interest",
+            "job",
+            "labor",
+            "matter",
+            "ownership",
+            "possession",
+            "profession",
+            "pursuit",
+            "role",
+            "skill",
+            "stint",
+            "task",
+            "trade",
+            "vocation",
+            "work"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take up an occupation",
+      "tran_cn": "就业"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "职业，工作，占有，占领，（土地、房屋、建筑等的）使用",
+      "tran_en": "a job or profession"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "occupations"
+    ]
+  }
+}

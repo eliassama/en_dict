@@ -1,0 +1,202 @@
+{
+  "word": "respiratory",
+  "ipa": {
+    "us": "rəˈspɪrətri",
+    "uk": "ˈrespərətɔːri"
+  },
+  "sentences": [
+    {
+      "en": "A cold is an infection of the upper respiratory tract.",
+      "cn": "感冒是上呼吸道的感染。"
+    },
+    {
+      "en": "Air pollution contributes to respiratory diseases.",
+      "cn": "空气污染可促使呼吸系统疾病发生."
+    },
+    {
+      "en": "Assiduous respiratory care is mandatory.",
+      "cn": "我们强调精心的呼吸护理."
+    },
+    {
+      "en": "He had an infection in the upper respiratory tract.",
+      "cn": "他上呼吸道感染."
+    },
+    {
+      "en": "He's suffering from an acute infection of the lower respiratory tract.",
+      "cn": "他患有急性下呼吸道感染."
+    },
+    {
+      "en": "If you smoke then the whole respiratory system is constantly under attack.",
+      "cn": "如果抽烟，整个呼吸系统就会一直受到损害。"
+    },
+    {
+      "en": "respiratory disease",
+      "cn": "呼吸道疾病"
+    },
+    {
+      "en": "Respiratory infections may also initiate excerbations.",
+      "cn": "呼吸道感染也可能使病情加重."
+    },
+    {
+      "en": "Respiratory tract fluid is the major product of the normal lung.",
+      "cn": "呼吸道液体是正常肺的主要产物."
+    },
+    {
+      "en": "Some respiratory symptoms can be the forerunners of asthma.",
+      "cn": "一些呼吸道症状可能是哮喘病的先兆。"
+    },
+    {
+      "en": "The old man suffers from respiratory diseases.",
+      "cn": "那位老人患呼吸道疾病."
+    },
+    {
+      "en": "The respiratory tract conveys oxygen - rich air to the lungs.",
+      "cn": "呼吸道给肺输送 富氧 的空气."
+    },
+    {
+      "en": "The secretory system of the respiratory tract is probably the most appreciated.",
+      "cn": "呼吸道的分泌系统可能是最先被意识到的."
+    },
+    {
+      "en": "These gases would seriously damage the patient's respiratory system.",
+      "cn": "这些毒气会严重损害患者的呼吸系统。"
+    },
+    {
+      "en": "This applies to most respiratory infections ( e . g . mycoplasma infections, infectious coryza, laryngotracheitis ).",
+      "cn": "大多数呼吸道感染都如此,如支原体感染, 传染性鼻炎, 喉气管炎."
+    },
+    {
+      "en": "Until the age of seven, respiratory movement is abdominal.",
+      "cn": "在七岁以前呼吸运动是腹式的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "respiration",
+          "tran_cn": " 呼吸；呼吸作用"
+        },
+        {
+          "word": "respirator",
+          "tran_cn": " 口罩；[医] 呼吸器；防毒面具"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "respire",
+          "tran_cn": " 呼吸"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "respire",
+          "tran_cn": " 呼吸"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "breathing",
+            "aspiratory"
+          ],
+          "tran_cn": "呼吸的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "adult respiratory distress syndrome",
+      "tran_cn": "成人呼吸窘迫综合征"
+    },
+    {
+      "phrase": "respiratory arrest",
+      "tran_cn": "呼吸停止"
+    },
+    {
+      "phrase": "respiratory chain",
+      "tran_cn": "呼吸链"
+    },
+    {
+      "phrase": "respiratory disease",
+      "tran_cn": "呼吸疾病"
+    },
+    {
+      "phrase": "respiratory disorder",
+      "tran_cn": "呼吸障碍"
+    },
+    {
+      "phrase": "respiratory distress",
+      "tran_cn": "[医]呼吸窘迫"
+    },
+    {
+      "phrase": "respiratory distress syndrome",
+      "tran_cn": "呼吸窘迫综合征"
+    },
+    {
+      "phrase": "respiratory failure",
+      "tran_cn": "呼吸衰竭；呼吸衰弱"
+    },
+    {
+      "phrase": "respiratory insufficiency",
+      "tran_cn": "呼吸功能不全；呼吸衰竭"
+    },
+    {
+      "phrase": "respiratory organs",
+      "tran_cn": "呼吸器官；呼吸道"
+    },
+    {
+      "phrase": "respiratory protection",
+      "tran_cn": "呼吸防护"
+    },
+    {
+      "phrase": "respiratory rate",
+      "tran_cn": "呼吸率"
+    },
+    {
+      "phrase": "respiratory syncytial virus",
+      "tran_cn": "呼吸道合胞体病毒"
+    },
+    {
+      "phrase": "respiratory system",
+      "tran_cn": "呼吸系统"
+    },
+    {
+      "phrase": "respiratory tract",
+      "tran_cn": "呼吸道"
+    },
+    {
+      "phrase": "severe acute respiratory syndrome",
+      "tran_cn": "严重急性呼吸系统综合症"
+    },
+    {
+      "phrase": "upper respiratory tract",
+      "tran_cn": "上呼吸道"
+    },
+    {
+      "phrase": "upper respiratory tract infection",
+      "tran_cn": "上呼吸道感染"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "呼吸的",
+      "tran_en": "relating to breathing or your lungs"
+    }
+  ],
+  "exchange": {}
+}

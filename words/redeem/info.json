@@ -1,0 +1,179 @@
+{
+  "word": "redeem",
+  "ipa": {
+    "us": "rɪˈdiːm",
+    "uk": "rɪˈdiːm"
+  },
+  "sentences": [
+    {
+      "en": "A budger surplus may be used to redeem state debt.",
+      "cn": "预算盈余可用于偿还国债."
+    },
+    {
+      "en": "A very good feature will sometimes redeem several bad ones.",
+      "cn": "一俊遮百丑."
+    },
+    {
+      "en": "He decided to redeem the pledge.",
+      "cn": "他决定赎回质押物."
+    },
+    {
+      "en": "He had no way to redeem his furniture out of pawn.",
+      "cn": "他无法赎回典当的家具."
+    },
+    {
+      "en": "He spent the rest of the game trying to redeem himself after a first-minute mistake.",
+      "cn": "比赛余下的时间里，他都在尽力弥补开局时的失误。"
+    },
+    {
+      "en": "He tried by every means to redeem the pawn.",
+      "cn": "他千方百计要赎回典当物."
+    },
+    {
+      "en": "I'm going to redeem my gold watch.",
+      "cn": "我打算赎回我的金表."
+    },
+    {
+      "en": "Jenny could redeem the stolen money from the thief after he was arrested.",
+      "cn": "在小俞被逮捕后,珍妮可取回被偷的钱."
+    },
+    {
+      "en": "Make sure you know exactly what you will be paying back when you plan to redeem the item.",
+      "cn": "务必弄清楚将来赎回物品时需要支付多少钱。"
+    },
+    {
+      "en": "Olivier’s performance redeemed an otherwise second-rate play.",
+      "cn": "奥利维尔的表演补救了一出本是二流水平的戏。"
+    },
+    {
+      "en": "She determined to redeem her error so far as it might yet be possible.",
+      "cn": "她决心在尽可能的情况下来补偿自己的过失."
+    },
+    {
+      "en": "The acting was not good enough to redeem the ( awfulness of the ) play.",
+      "cn": "该剧 ( 很糟糕 ),演得好也于事无补."
+    },
+    {
+      "en": "The amount required to redeem the mortgage was £358,587.",
+      "cn": "需要偿还的抵押贷款总计358,587英镑。"
+    },
+    {
+      "en": "The excellent acting wasn't enough to redeem a weak plot.",
+      "cn": "精彩的表演不足以掩盖情节的拙劣。"
+    },
+    {
+      "en": "The eyes redeem the face from ugliness.",
+      "cn": "这双眼睛弥补了他其貌不扬之缺陷."
+    },
+    {
+      "en": "We redeem a promise by doing what we said we would.",
+      "cn": "我们怎么说就怎么做以,履行我们的诺言."
+    },
+    {
+      "en": "Work is the way that people seek to redeem their lives from futility.",
+      "cn": "工作可以避免人们虚度生命。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "redeemable",
+          "tran_cn": " 可赎回的；可偿还的；可挽救的；可换成现款的"
+        },
+        {
+          "word": "redeeming",
+          "tran_cn": " 补偿的；弥补的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "redeemer",
+          "tran_cn": " 救世主；赎身者；偿还者；买回者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "redeeming",
+          "tran_cn": " 履行；挽回；补救（redeem的现在分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deliver",
+            "expiate",
+            "fulfill",
+            "good",
+            "make",
+            "off",
+            "pay",
+            "ransom",
+            "recover",
+            "rescue",
+            "retrieve",
+            "salvage"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "deliver",
+            "fulfill",
+            "good",
+            "make",
+            "off",
+            "pay",
+            "recover",
+            "rescue"
+          ],
+          "tran_cn": "履行;挽救"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "赎回；挽回；兑换；履行；补偿；恢复",
+      "tran_en": "to make something less bad"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "赎回，挽回，履行，偿还，兑现",
+      "tran_en": "to make something less bad"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "redeems"
+    ],
+    "past": [
+      "redeemed"
+    ],
+    "done": [
+      "redeemed"
+    ],
+    "ing": [
+      "redeeming"
+    ]
+  }
+}

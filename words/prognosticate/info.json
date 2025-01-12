@@ -1,0 +1,110 @@
+{
+  "word": "prognosticate",
+  "ipa": {
+    "us": "prɒg'nɒstɪkeɪt",
+    "uk": "prɑɡˈnɑstɪˌket"
+  },
+  "sentences": [
+    {
+      "en": "It has long been fashionable for Silicon Valley visionaries to prognosticate about the direction of technology.",
+      "cn": "硅谷的想象者预测了技术的发展方向流行了好长时间。"
+    },
+    {
+      "en": "It is the most important matter to influence the stability and prognosticate of surgery.",
+      "cn": "术后角膜愈合反应是影响手术稳定性及预测性的重要原因之一."
+    },
+    {
+      "en": "Or else of thee this I prognosticate, Thy end is truth's and Beauty's doom and date.",
+      "cn": "要不然关于你我将这样昭示:你的末日也就是真和美的死."
+    },
+    {
+      "en": "Secondly , an algorithm of replication placement policy is proposed depending on prognosticate mechanism.",
+      "cn": "提出了动态阈值预测机制的副本自适应放置算法, 以提高系统吞吐量."
+    },
+    {
+      "en": "Such a whistle stop tour does not remotely qualify me to prognosticate on China's grander questions.",
+      "cn": "这样走马观花的游历,根本不足以让我就中国那些宏大的问题发表预测."
+    },
+    {
+      "en": "Such a whistlestop tour does not remotely qualify me to prognosticate on China's grander questions.",
+      "cn": "这样走马观花的游历，根本不足以让我就中国那些宏大的问题发表预测。"
+    },
+    {
+      "en": "The coma duration prognostication model can prognosticate the duration of coma.",
+      "cn": "结论：昏迷时间预测模型可为临床提供昏迷时间预测。"
+    },
+    {
+      "en": "Unfortunately, I am not able to prognosticate how everything will eventually shake out.",
+      "cn": "不幸的是，我无法预言每件事的最终结果将会怎样。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prognostic",
+          "tran_cn": " 预后的；预兆的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "prognostic",
+          "tran_cn": " 预兆；预言；预后症状"
+        },
+        {
+          "word": "prognostication",
+          "tran_cn": " 预测；预言；预兆"
+        },
+        {
+          "word": "prognosticator",
+          "tran_cn": " 预言者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "predict",
+            "forecast",
+            "calculate"
+          ],
+          "tran_cn": "预言，预测"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预言",
+      "tran_en": "to foretell (future events) according to present signs or indications; prophesy "
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "预言，预示"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "prognosticates"
+    ],
+    "past": [
+      "prognosticated"
+    ],
+    "done": [
+      "prognosticated"
+    ],
+    "ing": [
+      "prognosticating"
+    ]
+  }
+}

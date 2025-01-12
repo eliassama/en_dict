@@ -1,0 +1,126 @@
+{
+  "word": "raze",
+  "ipa": {
+    "us": "reɪz",
+    "uk": "reɪz"
+  },
+  "sentences": [
+    {
+      "en": "Cities such as Berlin and Dresden were virtually razed to the ground.",
+      "cn": "诸如柏林和德累斯顿这样的城市基本上被夷为平地。"
+    },
+    {
+      "en": "Dozens of villages have been razed.",
+      "cn": "几十座村庄已被夷为平地。"
+    },
+    {
+      "en": "In 1162 Milan was razed to the ground by imperial troops.",
+      "cn": "1162年米兰被帝国军队夷为平地。"
+    },
+    {
+      "en": "The conquerors tried to raze the very name of the peoples national hero from their memories.",
+      "cn": "征服者妄图把人民的民族英雄的名字从他们的记忆中抹去."
+    },
+    {
+      "en": "The owners intend to raze the hotel and erect an office building on the site.",
+      "cn": "业主打算夷平酒店和竖立一座办公大楼在网站上."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "razed",
+          "tran_cn": " 被夷平的；被忘却的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "razing",
+          "tran_cn": " 刻放型线铲平"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "razed",
+          "tran_cn": " 被夷平（raze的过去式及过去分词形式）"
+        },
+        {
+          "word": "razing",
+          "tran_cn": " 消除；抹去；破坏（raze的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "demolish",
+            "destroy",
+            "down",
+            "flatten",
+            "level",
+            "tear"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "demolish",
+            "destroy",
+            "down",
+            "flatten",
+            "level",
+            "tear"
+          ],
+          "tran_cn": "消除;破坏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "(Raze)人名；(法)拉兹"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 夷为平地； 彻底破坏",
+      "tran_en": "to completely destroy a town or building"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "彻底摧毁，将…夷为平地"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "razes"
+    ],
+    "past": [
+      "razed"
+    ],
+    "done": [
+      "razed"
+    ],
+    "ing": [
+      "razing"
+    ]
+  }
+}

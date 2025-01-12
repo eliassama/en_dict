@@ -1,0 +1,219 @@
+{
+  "word": "blessing",
+  "ipa": {
+    "us": "ˈblesɪŋ",
+    "uk": "ˈblesɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A double blessing has descended upon the house.",
+      "cn": "双喜临门."
+    },
+    {
+      "en": "A TV can be a real blessing for old people.",
+      "cn": "有电视看对于老年人来说是难得的好事."
+    },
+    {
+      "en": "Blessing has descended upon the house.",
+      "cn": "喜临门."
+    },
+    {
+      "en": "For ordinary Italians, Sunday's news probably amounts to a mixed blessing.",
+      "cn": "对普通的意大利人民来说，星期天的新闻可以说是悲喜交加。"
+    },
+    {
+      "en": "He got quite a blessing from his boss.",
+      "cn": "他被老板狠狠地斥责了一顿."
+    },
+    {
+      "en": "I must have been naive to think we would get my parents' blessing.",
+      "cn": "我一定太天真了，竟认为我们会得到我父母的祝福。"
+    },
+    {
+      "en": "Living in such a beautiful old castle is something of a mixed blessing. Just think of the heating bills, for example.",
+      "cn": "居住在这座美丽的古城堡中既有利,也有弊. 比如,想想它昂贵的取暖费用吧."
+    },
+    {
+      "en": "Our parents gave their blessing to our marriage.",
+      "cn": "我们的父母应允我们结婚."
+    },
+    {
+      "en": "Sometimes not having a home to return to is a real blessing.",
+      "cn": "无家可归有时简直是桩幸事."
+    },
+    {
+      "en": "The blessing was said in Hebrew.",
+      "cn": "祷告用了希伯来语."
+    },
+    {
+      "en": "The failure to conclude the trade talks last December could prove a blessing in disguise.",
+      "cn": "去年12月份贸易谈判中止可能因祸得福。"
+    },
+    {
+      "en": "The priest gave the blessing.",
+      "cn": "牧师为大家祝福。"
+    },
+    {
+      "en": "The priest intoned the blessing.",
+      "cn": "神父吟诵赐福词."
+    },
+    {
+      "en": "The priest pronounced a blessing.",
+      "cn": "教士念祷文,祈神赐福."
+    },
+    {
+      "en": "To be able to fall asleep is a blessing.",
+      "cn": "睡得着就是福气."
+    },
+    {
+      "en": "to pray for God's blessing",
+      "cn": "祈求上帝降福"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "blessed",
+          "tran_cn": " 幸福的；受祝福的；神圣的"
+        },
+        {
+          "word": "blest",
+          "tran_cn": " 幸福的；被祝福的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "blessedly",
+          "tran_cn": " 神圣地；幸福地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "blessedness",
+          "tran_cn": " 幸福；福音"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "blessed",
+          "tran_cn": " 祝福（bless的过去分词）"
+        },
+        {
+          "word": "blest",
+          "tran_cn": " 祝福；保佑（bless的过去分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bless",
+          "tran_cn": " 祝福；保佑；赞美"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "advantage",
+            "alms",
+            "benefaction",
+            "benefit",
+            "boon",
+            "bounty",
+            "favour",
+            "fortune",
+            "gain",
+            "gift",
+            "godsend",
+            "good",
+            "gratuity",
+            "luck",
+            "offering",
+            "profit",
+            "relief"
+          ],
+          "tran_cn": "好处,幸事"
+        },
+        {
+          "words": [
+            "absolution",
+            "acquittal",
+            "benediction",
+            "benison",
+            "dedication",
+            "devotion",
+            "exaltation",
+            "glorification",
+            "grace",
+            "honour",
+            "invocation",
+            "pardon",
+            "praise",
+            "prayer",
+            "thanks-giving",
+            "worship"
+          ],
+          "tran_cn": "赐福,祝福,宽恕"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "congratulation",
+            "favor",
+            "felicity",
+            "glory",
+            "subscription"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a blessing in disguise",
+      "tran_cn": "貌似灾祸实际使人得福之事"
+    },
+    {
+      "phrase": "mixed blessing",
+      "tran_cn": "有好处也有坏处的事"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "幸事，福祉，支持，批准，祈祷",
+      "tran_en": "protection and help from God, or words spoken to ask for this"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "祝福，祝圣（bless的现在分词）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "blessings"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "word": "integument",
+  "ipa": {
+    "us": "ɪn'tegjʊmənt",
+    "uk": "ɪn'tegjəmənt"
+  },
+  "sentences": [
+    {
+      "en": "The cells of the integument and nucellus of some plants form perfectly normal embryos.",
+      "cn": "某些植物的珠被和珠心细胞形成完全正常的胚."
+    },
+    {
+      "en": "There are collagenous fiber in integument especially integument and the hymenopterous integument discovered by the H . E .",
+      "cn": "用伊红和 马洛赖氏 三色法染色可见体壁尤其在腹壁的折叠处及膜翅壁中存在着胶原纤维."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "integumentary",
+          "tran_cn": " 外皮的；包皮的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "skin",
+            "covering"
+          ],
+          "tran_cn": "覆盖物；（动植物的）皮肤，外皮"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "layer",
+            "outside",
+            "shell"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（动植物天然的）覆盖物，珠被，外皮，外壳"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,71 @@
+{
+  "word": "electrocute",
+  "ipa": {
+    "us": "ɪˈlektrəkju:t",
+    "uk": "ɪˈlɛktrəˌkjut"
+  },
+  "sentences": [
+    {
+      "en": "But The sea would electrocute us all.",
+      "cn": "她说她会用爱来拯救我."
+    },
+    {
+      "en": "Last week a housewife was electrocuted by her washing machine.",
+      "cn": "上周有个家庭主妇被洗衣机电死了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "electrocution",
+          "tran_cn": " 电刑；电死"
+        },
+        {
+          "word": "electrolysis",
+          "tran_cn": " [化学] 电解，[化学] 电解作用；以电针除痣"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "electrify",
+          "tran_cn": " 使电气化；使充电；使触电；使激动"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "<美>处电刑, 触电致死",
+      "tran_en": "to kill someone using electricity"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<美>处电刑，触电致死"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "electrocutes"
+    ],
+    "past": [
+      "electrocuted"
+    ],
+    "done": [
+      "electrocuted"
+    ],
+    "ing": [
+      "electrocuting"
+    ],
+    "noun": [
+      "electrocution"
+    ]
+  }
+}

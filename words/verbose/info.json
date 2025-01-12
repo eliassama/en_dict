@@ -1,0 +1,144 @@
+{
+  "word": "verbose",
+  "ipa": {
+    "us": "vɜ:ˈbəʊs",
+    "uk": "vɜrˈboʊs"
+  },
+  "sentences": [
+    {
+      "en": "Displays summary output. By default, the output is VERBOSE.",
+      "cn": "显示概要输出, 默认的输出是详细的."
+    },
+    {
+      "en": "For once, his usually verbose wife was content to listen.",
+      "cn": "他那个一贯唠叨的老婆难得一次愿意倾听。"
+    },
+    {
+      "en": "His writing is difficult and often verbose.",
+      "cn": "他的文章很晦涩，而且往往篇幅冗长。"
+    },
+    {
+      "en": "Legal writing is often unclear and verbose.",
+      "cn": "法律文书往往措辞含糊，行文冗长。"
+    },
+    {
+      "en": "Most C ++ programs use succinct expressions rather than more verbose equivalents.",
+      "cn": "大部分的C++程序员更喜欢使用简洁的表达式而非冗长的等效表达式."
+    },
+    {
+      "en": "Neither of us was what anyone would call verbose.",
+      "cn": "我们俩任谁看来都不是啰嗦的人."
+    },
+    {
+      "en": "Print verbose messages, not just warnings and errors.",
+      "cn": "显示冗余信息, 不仅仅是警告和错误."
+    },
+    {
+      "en": "She is really a verbose companion.",
+      "cn": "她真是个唠叨、啰唆的伙伴."
+    },
+    {
+      "en": "The prose of his official communications was so laboured, pompous and verbose.",
+      "cn": "他笔下的公文矫揉浮华，长篇大论。"
+    },
+    {
+      "en": "The system is setup by default to boot in Verbose mode.",
+      "cn": "该系统是安装在默认开机,在长篇大论模式."
+    },
+    {
+      "en": "Their requests are verbose in comparison to those of native speakers.",
+      "cn": "与母语人士相较,他们的要求过于冗长."
+    },
+    {
+      "en": "There was an error writing the verbose logging property.",
+      "cn": "写入“详细日志纪录”属性出错."
+    },
+    {
+      "en": "Verily this vichyssoise of verbiage veers most verbose.",
+      "cn": "毫无疑问我这拉拉杂杂的啰嗦最终变得冗长无比."
+    },
+    {
+      "en": "Verily, this Vichyssoise of Verbiage Veers most Verbose.",
+      "cn": "毫无疑问, 我这罗嗦的拉拉杂杂最终变得冗长无比."
+    },
+    {
+      "en": "What he had to say was confused, halting, and verbose.",
+      "cn": "他说的这些话既杂乱无章 、 吞吞吐吐, 又啰里啰嗦."
+    },
+    {
+      "en": "Yesterday's communiqu é from Pittsburgh was verbose, and notably short on substance.",
+      "cn": "本周来自匹兹堡的公报篇幅冗长, 但明显缺乏实质性内容."
+    },
+    {
+      "en": "Your report is too long and verbose.",
+      "cn": "你的报告太长太罗嗦了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "verbosely",
+          "tran_cn": " 冗长地；啰嗦地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "verbalization",
+          "tran_cn": " 以言语表现；冗长；变成动词"
+        },
+        {
+          "word": "verboseness",
+          "tran_cn": " 冗长，罗唆"
+        },
+        {
+          "word": "verbosity",
+          "tran_cn": " 冗长；赘言；唠叨"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "interminable",
+            "prolix"
+          ],
+          "tran_cn": "冗长的；啰嗦的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "gabby",
+            "windy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "冗长的，啰唆的，累赘的",
+      "tran_en": "using or containing too many words"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "verbosity"
+    ]
+  }
+}

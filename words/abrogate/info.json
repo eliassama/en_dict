@@ -1,0 +1,80 @@
+{
+  "word": "abrogate",
+  "ipa": {
+    "us": "ˈæbrəgeɪt",
+    "uk": "ˈæbrəˌɡet"
+  },
+  "sentences": [
+    {
+      "en": "A later stature may abrogate an earlier law with which it conflicts.",
+      "cn": "新制定的法律可以使与之相矛盾的旧法律失去效力."
+    },
+    {
+      "en": "Both governments voted to abrogate the treaty.",
+      "cn": "两国政府均投票通过废除这项条约。"
+    },
+    {
+      "en": "The next prime minister could abrogate the treaty.",
+      "cn": "下一任首相可能会废除这个条约。"
+    },
+    {
+      "en": "When can we abrogate the national boundaries all over the world?",
+      "cn": "我要向全球发问,什么时候可以在全球取消国界?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "abrogation",
+          "tran_cn": " 废除；取消"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abolish",
+            "recall"
+          ],
+          "tran_cn": "废除；取消"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "废除；取消",
+      "tran_en": "to officially end a legal agreement, practice etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "废除（法律等），取消，去掉，抛开",
+      "tran_en": "to officially end a legal agreement, practice etc"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "abrogates"
+    ],
+    "past": [
+      "abrogated"
+    ],
+    "done": [
+      "abrogated"
+    ],
+    "ing": [
+      "abrogating"
+    ],
+    "noun": [
+      "abrogation"
+    ]
+  }
+}

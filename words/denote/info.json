@@ -1,0 +1,158 @@
+{
+  "word": "denote",
+  "ipa": {
+    "us": "dɪˈnəʊt",
+    "uk": "dɪˈnoʊt"
+  },
+  "sentences": [
+    {
+      "en": "An identifier created by the programmer to denote a program, constant, type, variable, procedure, or function.",
+      "cn": "一种由程序员建立的标识符,用以指明程序 、 常数 、 类型 、 变量 、 过程或操作功能."
+    },
+    {
+      "en": "Bessie's glance , though it expressed regard , did in no shape denote admiration.",
+      "cn": "白茜的眼神虽然流露出关怀, 但丝毫不表示赞美."
+    },
+    {
+      "en": "Dark clouds denote that a storm is coming.",
+      "cn": "黑云表明风暴要来临."
+    },
+    {
+      "en": "Red eyes denote strain and fatigue.",
+      "cn": "眼睛充血表明压力过大、身心疲惫。"
+    },
+    {
+      "en": "Sometime the term artesian is used to denote a confined aquifer.",
+      "cn": "有时候人们也用自流含水层这一术语表示承压含水层."
+    },
+    {
+      "en": "Textbooks commonly denote shear stresses by the symbol and two subscripts.",
+      "cn": "教科书通常用符号和两个脚标表示剪应力."
+    },
+    {
+      "en": "The bars denote the absolute value.",
+      "cn": "竖划表示绝对值."
+    },
+    {
+      "en": "The small symbols on this map denote historic places and museums.",
+      "cn": "这个地图上的小记号表示史迹与博物馆."
+    },
+    {
+      "en": "These nouns all denote a very great number of people or things.",
+      "cn": "所有这些名词都意味着大量的人或者事物."
+    },
+    {
+      "en": "These nouns denote the physical organism of a person or an animal.",
+      "cn": "这些名词都表示人或动物的身体组织."
+    },
+    {
+      "en": "These signs denote that a crisis is approaching.",
+      "cn": "这些征兆表示危机即将来临."
+    },
+    {
+      "en": "We denote the complement of the region R to the entire space E 3 by Rc.",
+      "cn": "我们用Rc来表示域R在整个空间E3中的补域."
+    },
+    {
+      "en": "We often denote danger by red letters.",
+      "cn": "我们常常用红字表示危险."
+    },
+    {
+      "en": "We use juxtaposition to denote conjunction, AB means both A and B.",
+      "cn": "我们利用并列表示合取, AB意味着A与B两者."
+    },
+    {
+      "en": "We will denote by h the perpendicular distance from p to the inclined face.",
+      "cn": "我们用h来表示从p点到斜面的垂直距离."
+    },
+    {
+      "en": "What does the word ‘curriculum’ denote that ‘course’ does not?",
+      "cn": "curriculum一词的哪些含义是course没有的？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "denotative",
+          "tran_cn": "外延的；指示的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "denotation",
+          "tran_cn": "符号；表示；意义；指示"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "express",
+            "imply",
+            "indicate",
+            "mark",
+            "mean",
+            "say",
+            "show",
+            "signify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "express",
+            "imply",
+            "indicate",
+            "mark",
+            "mean",
+            "say",
+            "show",
+            "signify"
+          ],
+          "tran_cn": "表示;意味;作记号"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预示，表明，意指，指代",
+      "tran_en": "to mean something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 意思是； 表示， 是…的标志",
+      "tran_en": "to mean something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "denotes"
+    ],
+    "past": [
+      "denoted"
+    ],
+    "done": [
+      "denoted"
+    ],
+    "ing": [
+      "denoting"
+    ]
+  }
+}

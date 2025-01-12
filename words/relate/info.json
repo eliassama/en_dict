@@ -1,0 +1,218 @@
+{
+  "word": "relate",
+  "ipa": {
+    "us": "rɪˈleɪt",
+    "uk": "rɪˈleɪt"
+  },
+  "sentences": [
+    {
+      "en": "Ade couldn't relate the phenomena with any theory he knew.",
+      "cn": "艾德无法用他所知道的任何理论来解释这种现象."
+    },
+    {
+      "en": "Afternoon groups relate to the specific addictions and problems therein.",
+      "cn": "下午的小组谈到具体的上瘾病例以及其中的问题。"
+    },
+    {
+      "en": "He is unable to relate to other people.",
+      "cn": "他无法理解他人的想法。"
+    },
+    {
+      "en": "He later related the whole story to me.",
+      "cn": "他后来给我讲了整件事的来龙去脉。"
+    },
+    {
+      "en": "His remarks didn't relate to the topic under discussion.",
+      "cn": "他说的话与讨论的问题无关."
+    },
+    {
+      "en": "I can't relate what he does with [ to ] what he says.",
+      "cn": "我没法把他做的和说的联系 起来."
+    },
+    {
+      "en": "I don’t understand how the two ideas relate.",
+      "cn": "我不明白这两个观点有什么联系。"
+    },
+    {
+      "en": "I found it difficult to relate the two ideas in my mind.",
+      "cn": "我觉得很难把这两种想法联系在一起。"
+    },
+    {
+      "en": "It is difficult to relate his argument to the facts.",
+      "cn": "很难把他的论证同事实联系起来."
+    },
+    {
+      "en": "It is difficult to relate these results with any known cause.",
+      "cn": "很难把结果与任何已知原因联系起来."
+    },
+    {
+      "en": "It's too bad that you are unable to relate to the environment.",
+      "cn": "你不能适应环境,这太糟糕了."
+    },
+    {
+      "en": "It's unfortunate when a father and son can't relate to each other.",
+      "cn": "父子之间关系不好是很不幸的."
+    },
+    {
+      "en": "Other recommendations relate to the details of how such data is stored.",
+      "cn": "其他建议涉及此类信息储存方面的一些细节。"
+    },
+    {
+      "en": "Our findings relate to physically rather than the visually handicapped pupils.",
+      "cn": "我们的研究结果是关于肢体残疾的学生,而不是视力有障碍的学生."
+    },
+    {
+      "en": "The professor told his students to relate theory with practice.",
+      "cn": "教授要学生们理论联系实际."
+    },
+    {
+      "en": "The report seeks to relate the rise in crime to an increase in unemployment.",
+      "cn": "报告试图把犯罪率上升和失业增加联系起来。"
+    },
+    {
+      "en": "There were officials to whom he could relate the whole story.",
+      "cn": "有一些官员会听他讲述整个故事。"
+    },
+    {
+      "en": "These people, usually men, seem unable to relate to the opposite sex.",
+      "cn": "这些人，通常为男性，似乎不懂得如何跟异性相处。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "related",
+          "tran_cn": " 有关系的，有关联的；讲述的，叙述的"
+        },
+        {
+          "word": "relative",
+          "tran_cn": " 相对的；有关系的；成比例的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "relatedness",
+          "tran_cn": " 关联性；关系；亲缘"
+        },
+        {
+          "word": "relation",
+          "tran_cn": " 关系；叙述；故事；亲属关系"
+        },
+        {
+          "word": "relationship",
+          "tran_cn": " 关系；关联"
+        },
+        {
+          "word": "relative",
+          "tran_cn": " 亲戚；相关物；[语] 关系词；亲缘植物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "related",
+          "tran_cn": " 叙述（relate过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bracket",
+            "correlate",
+            "declare",
+            "deliver",
+            "inhere",
+            "narrate",
+            "pertain",
+            "recite",
+            "recount",
+            "report",
+            "say",
+            "state",
+            "sympathize",
+            "tell"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "deal with",
+            "identify"
+          ],
+          "tran_cn": "涉及；认同；符合；与…有某种联系"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "declare",
+            "narrate",
+            "recite",
+            "recount",
+            "report",
+            "state",
+            "tell"
+          ],
+          "tran_cn": "详述"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "relate with",
+      "tran_cn": "使相关，使符合"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "涉及，联系，叙述，认同",
+      "tran_en": "to tell someone about events that have happened to you or to someone else"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 有关， 涉及； 符合； 相处",
+      "tran_en": "if two things relate, they are connected in some way"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把……与……联系起来",
+      "tran_en": "if you relate two different things, you show how they are connected"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "relates"
+    ],
+    "past": [
+      "related"
+    ],
+    "done": [
+      "related"
+    ],
+    "ing": [
+      "relating"
+    ]
+  }
+}

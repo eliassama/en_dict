@@ -1,0 +1,158 @@
+{
+  "word": "acknowledgement",
+  "ipa": {
+    "us": "əkˈnɒlɪdʒmənt",
+    "uk": "əkˈnɑːlɪdʒmənt"
+  },
+  "sentences": [
+    {
+      "en": "Do you want a written acknowledgement?",
+      "cn": "你需要我书面确认收到吗？"
+    },
+    {
+      "en": "Farling smiled in acknowledgement and gave a bow.",
+      "cn": "法林微笑示意，又躬身行了个礼。"
+    },
+    {
+      "en": "He appreciated her acknowledgement of his maturity.",
+      "cn": "她承认他的成熟，他对此心怀感激。"
+    },
+    {
+      "en": "He gave Sabrina a quick nod of acknowledgement.",
+      "cn": "他朝萨布里娜快速点点头,示意看到了她."
+    },
+    {
+      "en": "He smirked in acknowledgement of their uncouth greetings, and sat down.",
+      "cn": "他皮笑肉不笑地接受了他的粗鲁的招呼, 坐了下来."
+    },
+    {
+      "en": "I bowed my head in acknowledgement of guilt.",
+      "cn": "我低下头来承认过失."
+    },
+    {
+      "en": "I received a gracious letter of acknowledgement.",
+      "cn": "我收到一封有礼貌的感谢信."
+    },
+    {
+      "en": "In acknowledgement whereof I have hereunto affixed my signature.",
+      "cn": "下面是我的签名,确认我的誓言."
+    },
+    {
+      "en": "Lord muttered an acknowledgement and allowed his hand to be shaken.",
+      "cn": "洛德嘴里咕噜一声,表示知道了,听任那人握住了自己的手."
+    },
+    {
+      "en": "Mitzi nodded a perfunctory acknowledgement as her glass was filled.",
+      "cn": "杯子被倒满时米芝敷衍性地点头示意。"
+    },
+    {
+      "en": "Please sign the acknowledgement of receipt.",
+      "cn": "请您在送达回证上签名盖章."
+    },
+    {
+      "en": "She fancies herself to be above us and walked by without an acknowledgement.",
+      "cn": "她自以为了不起,不把我们放在眼里,走过时连招呼都不打."
+    },
+    {
+      "en": "Their replies were no more than grunts of acknowledgement.",
+      "cn": "他们所谓的回答不过是表示承认的咕哝罢了。"
+    },
+    {
+      "en": "These flowers are a small acknowledgement of your great kindness.",
+      "cn": "这些花是用来对您的恩惠略表谢意的."
+    },
+    {
+      "en": "This report is an acknowledgement of the size of the problem.",
+      "cn": "这个报告承认了问题的严重性。"
+    },
+    {
+      "en": "We are sending you a small sum of money in acknowledgement of your help.",
+      "cn": "为感谢你的帮助我们寄上一小笔钱."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "acknowledged",
+          "tran_cn": " 公认的；被普遍认可的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "acknowledgment",
+          "tran_cn": " 感谢；承认；承认书"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "acknowledged",
+          "tran_cn": " 承认；确认（acknowledge的过去式和过去分词）；答谢"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "acknowledge",
+          "tran_cn": " 承认；答谢；报偿；告知已收到"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "recognition",
+            "appreciation",
+            "verification",
+            "confirmation",
+            "thank"
+          ],
+          "tran_cn": "承认；确认；感谢"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "greeting",
+            "recognition"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acknowledgement of receipt",
+      "tran_cn": "回执，接收确认"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "承认，（公开）致谢，打招呼的表示，收件复函",
+      "tran_en": "the act of admitting or accepting that something is true"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "acknowledgements"
+    ]
+  }
+}

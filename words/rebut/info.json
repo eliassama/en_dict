@@ -1,0 +1,136 @@
+{
+  "word": "rebut",
+  "ipa": {
+    "us": "rɪˈbʌt",
+    "uk": "rɪˈbʌt"
+  },
+  "sentences": [
+    {
+      "en": "He attempted to rebut the assertions made by the prosecution witness.",
+      "cn": "他试图反驳控方证人所作的断言."
+    },
+    {
+      "en": "He attempts to rebut the assertion made by the prosecution witness.",
+      "cn": "他试图反驳原告方证人所作的断言."
+    },
+    {
+      "en": "He rebut the argument of the other team In a debate.",
+      "cn": "他反驳辩论会中对方的论证."
+    },
+    {
+      "en": "He spent most of his speech rebutting criticisms of his foreign policy.",
+      "cn": "他大部分的演讲都用来反驳他在外交政策上受到的各种批评。"
+    },
+    {
+      "en": "In another category there are the unjustifiable ones , and these we must rebut.",
+      "cn": "一种是闹得不对的, 要驳回去."
+    },
+    {
+      "en": "The defendant may admit or rebut the claims and shall have the right to file counterclaims.",
+      "cn": "被告可以承认或者反驳诉讼请求,有权提起反诉."
+    },
+    {
+      "en": "Their impregnable arguments are hard to rebut.",
+      "cn": "他们牢不可破的论点很难被驳倒."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rebuttal",
+          "tran_cn": " 反驳；辩驳；反证"
+        },
+        {
+          "word": "rebutter",
+          "tran_cn": " 反驳者；第三次答辩"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "disallowance"
+          ],
+          "tran_cn": "驳回；提出反证"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "controvert"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "open up",
+            "bring to light"
+          ],
+          "tran_cn": "反驳；揭露"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "reveal",
+            "negative",
+            "disclose",
+            "refuse",
+            "expose"
+          ],
+          "tran_cn": "反驳；揭露；拒绝"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "驳回；提出反证"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "反驳；揭露；拒绝",
+      "tran_en": "to prove that a statement or a charge made against you is false"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "反驳，驳回，击退"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "rebuts"
+    ],
+    "past": [
+      "rebutted"
+    ],
+    "done": [
+      "rebutted"
+    ],
+    "ing": [
+      "rebutting"
+    ],
+    "noun": [
+      "rebuttal"
+    ]
+  }
+}

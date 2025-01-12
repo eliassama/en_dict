@@ -1,0 +1,89 @@
+{
+  "word": "jaunt",
+  "ipa": {
+    "us": "dʒɔ:nt",
+    "uk": "dʒɔnt, dʒɑnt"
+  },
+  "sentences": [
+    {
+      "en": "a weekend jaunt",
+      "cn": "周末短途旅游"
+    },
+    {
+      "en": "She's gone on a jaunt into town.",
+      "cn": "她到城里游逛去了."
+    },
+    {
+      "en": "They are off for a day's jaunt to the beach.",
+      "cn": "他们出去到海边玩一天."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "excursion",
+            "hike",
+            "journey",
+            "outing",
+            "tour",
+            "trip"
+          ],
+          "tran_cn": "旅行;远足"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "airing",
+            "excursion",
+            "expedition",
+            "journey",
+            "outgoing",
+            "outing",
+            "ride",
+            "tour",
+            "trip",
+            "voyage"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "trip",
+            "excurse"
+          ],
+          "tran_cn": "远足；作短途旅游"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "游览",
+      "tran_en": "a short trip for pleasure"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "短途旅游"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "jaunts"
+    ]
+  }
+}

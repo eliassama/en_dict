@@ -1,0 +1,178 @@
+{
+  "word": "newspaper",
+  "ipa": {
+    "us": "ˈnjuːzpeɪpə(r)",
+    "uk": "ˈnuːzpeɪpər"
+  },
+  "sentences": [
+    {
+      "en": "A Dutch newspaper photographed the president waiting forlornly in the rain.",
+      "cn": "一份荷兰报纸拍到了总统形单影只地在雨中等待的照片。"
+    },
+    {
+      "en": "a series of newspaper articles about life in Cuba",
+      "cn": "刊登在报纸上的一系列关于古巴生活的文章"
+    },
+    {
+      "en": "Alexander Lazarus is a food critic for the newspaper.",
+      "cn": "亚历山大·拉扎勒斯是为该报撰稿的饮食评论家。"
+    },
+    {
+      "en": "Allan gave an interview to the Chicago Tribune newspaper last month.",
+      "cn": "艾伦上个月接受了《芝加哥论坛报》的采访。"
+    },
+    {
+      "en": "Daniel finished the article and laid the newspaper down on his desk.",
+      "cn": "丹尼尔看完文章后把报纸放在他的书桌上。"
+    },
+    {
+      "en": "I came down this morning to get the newspaper.",
+      "cn": "我今天上午过来取报纸。"
+    },
+    {
+      "en": "I think he was born to be editor of a tabloid newspaper.",
+      "cn": "我觉得他天生就是当小报编辑的料。"
+    },
+    {
+      "en": "Prospective buyers should study the small ads in the daily newspaper.",
+      "cn": "打算购物的人应该研究研究日报上的小广告。"
+    },
+    {
+      "en": "She had read about it in the newspapers.",
+      "cn": "关于这件事她已经在报纸上看到了。"
+    },
+    {
+      "en": "The local newspaper misreported the story by claiming the premises were rented.",
+      "cn": "当地报纸报道有误，称这些房屋已经出租了。"
+    },
+    {
+      "en": "The newspaper breached the code of conduct on privacy.",
+      "cn": "该报违反了保护隐私的行为准则。"
+    },
+    {
+      "en": "The newspaper came out weekly. It satirized political leaders.",
+      "cn": "该报纸每周一期，讽刺各位政治领导人。"
+    },
+    {
+      "en": "The newspaper is fighting a damages action brought by the actress.",
+      "cn": "这家报纸正和提起损害赔偿诉讼的女演员对簿公堂。"
+    },
+    {
+      "en": "The newspaper job had me doing the same thing day after day.",
+      "cn": "这份报社的工作让我日复一日地做着同样的事。"
+    },
+    {
+      "en": "The newspaper used the neologism \"dinks\", Double Income No Kids.",
+      "cn": "报纸使用了新词“丁克族”，即“双收入无子女”。"
+    },
+    {
+      "en": "The Tundra Times, a weekly newspaper in Alaska, ceased publication this week.",
+      "cn": "阿拉斯加的周报《苔原时报》本周停刊了。"
+    },
+    {
+      "en": "There is a lengthy article on Spike Milligan in the Observer newspaper.",
+      "cn": "《观察家报》上有一篇关于斯派克·米利根的长篇文章。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "newsprint",
+          "tran_cn": " 新闻用纸（等于newspaper）"
+        },
+        {
+          "word": "newsreader",
+          "tran_cn": " （英）新闻广播员；报纸读者"
+        },
+        {
+          "word": "newssheet",
+          "tran_cn": " 单张报纸；新闻传单"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "biweekly",
+            "chronicle",
+            "daily",
+            "gazette",
+            "journal",
+            "monthly",
+            "news",
+            "organ",
+            "paper",
+            "publication",
+            "quarterly",
+            "rag",
+            "scandal",
+            "sheet",
+            "tabloid",
+            "weekly"
+          ],
+          "tran_cn": "报纸"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "english newspaper",
+      "tran_cn": "n. 英文报纸"
+    },
+    {
+      "phrase": "in the newspaper",
+      "tran_cn": "在报纸上"
+    },
+    {
+      "phrase": "newspaper advertising",
+      "tran_cn": "报纸广告，新闻广告"
+    },
+    {
+      "phrase": "newspaper boy",
+      "tran_cn": "报童"
+    },
+    {
+      "phrase": "newspaper office",
+      "tran_cn": "n. 报社"
+    },
+    {
+      "phrase": "newspaper reporter",
+      "tran_cn": "记者"
+    },
+    {
+      "phrase": "newspaper stand",
+      "tran_cn": "报摊"
+    },
+    {
+      "phrase": "read the newspaper",
+      "tran_cn": "看报"
+    },
+    {
+      "phrase": "sunday newspaper",
+      "tran_cn": "n. 星期日报"
+    },
+    {
+      "phrase": "wall newspaper",
+      "tran_cn": "壁报"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "报纸，报，旧报纸，新闻纸",
+      "tran_en": "a set of large folded sheets of printed paper containing news, articles, pictures, advertisements etc which is sold daily or weekly"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "newspapers"
+    ]
+  }
+}

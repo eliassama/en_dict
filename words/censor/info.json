@@ -1,0 +1,236 @@
+{
+  "word": "censor",
+  "ipa": {
+    "us": "ˈsensə(r)",
+    "uk": "ˈsensər"
+  },
+  "sentences": [
+    {
+      "en": "A censor blipped the swear words.",
+      "cn": "审查员把粗鄙的话用哗哗声消掉."
+    },
+    {
+      "en": "Don't write anything that will bother the censor.",
+      "cn": "你可别写什么给检查员找麻烦的话."
+    },
+    {
+      "en": "He sent the draft to the censor's office by a runner.",
+      "cn": "他让信使把稿件送到新闻检查官办公室."
+    },
+    {
+      "en": "It is not constitutional to censor the press.",
+      "cn": "审查新闻是违反宪法的."
+    },
+    {
+      "en": "ITV companies tend to censor bad language in feature films.",
+      "cn": "独立电视公司一般都会删掉故事片里的脏话。"
+    },
+    {
+      "en": "Linda Gradstein has this report from Jerusalem, which was cleared by an Israeli censor.",
+      "cn": "琳达·格拉德斯坦的这份报道来自耶路撒冷，它已经通过了以色列方面的审查。"
+    },
+    {
+      "en": "Television companies tend to censor bad language in feature films.",
+      "cn": "电视公司往往会在审查故事片时删去其中的粗话。"
+    },
+    {
+      "en": "The censor clipped the swearing words.",
+      "cn": "电影审查员剪去了骂人的话."
+    },
+    {
+      "en": "The censor demanded that the scene be written out.",
+      "cn": "审查员要求把这个情节抹掉."
+    },
+    {
+      "en": "The censor insisted on excising the passage from the film.",
+      "cn": "电影审查员坚持剪去影片的这一段."
+    },
+    {
+      "en": "The censor struck out the next two lines.",
+      "cn": "审查员划掉了下面两行。"
+    },
+    {
+      "en": "The film came under the ban of censor.",
+      "cn": "该影片被审查官员禁止上映."
+    },
+    {
+      "en": "The film has not been viewed by the censor.",
+      "cn": "这部影片还未经审查人员审查."
+    },
+    {
+      "en": "The film hasn't been viewed by the censor.",
+      "cn": "这部影片尚未经审查."
+    },
+    {
+      "en": "The information given to the press was carefully censored by the Ministry of Defence.",
+      "cn": "发布给报界的信息经过了国防部的仔细审查。"
+    },
+    {
+      "en": "The report was cleared by the American military censors.",
+      "cn": "这篇报道被美国军方审查员删掉了。"
+    },
+    {
+      "en": "Tim wrote a piece about the night life here. The censor killed it dead.",
+      "cn": "蒂姆写过一篇关于这里夜生活的文章, 给新闻检查官枪毙了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "censorial",
+          "tran_cn": "监察的，审查的；检查官的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "censorship",
+          "tran_cn": "审查制度；审查机构"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "amender",
+            "bowdlerizer",
+            "examiner",
+            "expurgator",
+            "inspector",
+            "reader",
+            "reviewer"
+          ],
+          "tran_cn": "新闻检查员"
+        },
+        {
+          "words": [
+            "abuser",
+            "carper",
+            "castigator",
+            "caviller",
+            "censurer",
+            "chastiser",
+            "complainer",
+            "critic",
+            "criticaster",
+            "decrier",
+            "denouncer",
+            "depreciator",
+            "disparager",
+            "faultfinder",
+            "knocker",
+            "maligner",
+            "objurgator",
+            "reviler",
+            "scold",
+            "traducer",
+            "vilifier",
+            "vilipender",
+            "vituperator"
+          ],
+          "tran_cn": "训导员,学监"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "repress",
+            "silence"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "abridge",
+            "amend",
+            "bowdlerize",
+            "clean",
+            "cut",
+            "delete",
+            "examine",
+            "expurgate",
+            "inspect",
+            "prohibit",
+            "purge",
+            "read",
+            "restrict",
+            "review",
+            "sanitize",
+            "squelch",
+            "up"
+          ],
+          "tran_cn": "删除,检查"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "examine",
+            "review",
+            "inspect"
+          ],
+          "tran_cn": "审查，检查"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "审查员",
+      "tran_en": "someone whose job is to examine books, films, letters etc and remove anything considered to be offensive, morally harmful, or politically dangerous"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": "审查，审查员；删改",
+      "tran_en": "someone whose job is to examine books, films, letters etc and remove anything considered to be offensive, morally harmful, or politically dangerous"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "审查， 删剪",
+      "tran_en": "to examine books, films, letters etc to remove anything that is considered offensive, morally harmful, or politically dangerous etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "审查，检查",
+      "tran_en": "to examine books, films, letters etc to remove anything that is considered offensive, morally harmful, or politically dangerous etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "censors"
+    ],
+    "third": [
+      "censors"
+    ],
+    "past": [
+      "censored"
+    ],
+    "done": [
+      "censored"
+    ],
+    "ing": [
+      "censoring"
+    ]
+  }
+}

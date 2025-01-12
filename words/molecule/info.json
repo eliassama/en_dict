@@ -1,0 +1,165 @@
+{
+  "word": "molecule",
+  "ipa": {
+    "us": "ˈmɒlɪkjuːl",
+    "uk": "ˈmɑːlɪkjuːl"
+  },
+  "sentences": [
+    {
+      "en": "A methane molecule is composed of one carbon atom attached to four hydrogens.",
+      "cn": "甲烷分子由1个碳原子与4个氢原子构成。"
+    },
+    {
+      "en": "A molecule striking an advancing piston recoils with increased speed.",
+      "cn": "撞在前进中的活塞上的分子,会加速反跳."
+    },
+    {
+      "en": "Above a certain temperature, the enzyme molecule will become unfolded.",
+      "cn": "超过一定温度, 酶分子将会展开."
+    },
+    {
+      "en": "Glucose has a simple sugar molecule.",
+      "cn": "葡萄糖含有单糖分子."
+    },
+    {
+      "en": "Scientists call this claw shape the antibody molecule's idiotype.",
+      "cn": "科学家称这种爪型为抗体微小颗粒的遗传型."
+    },
+    {
+      "en": "So tell me what this molecule does that makes it special.",
+      "cn": "那么告诉我这个分子有何作用而使其与众不同。"
+    },
+    {
+      "en": "Such photons will excite the higher vibrational levels of the OH molecule.",
+      "cn": "这种光子会激发OH分子的较高振动能级."
+    },
+    {
+      "en": "The chemical structure of this particular molecule is very unusual.",
+      "cn": "这个特殊分子的化学结构很不寻常。"
+    },
+    {
+      "en": "The haemoglobin molecule contains only four atoms of iron.",
+      "cn": "血红蛋白分子只含有四个铁原子."
+    },
+    {
+      "en": "The larger the number of heteroatoms, the more highly oxidized the molecule.",
+      "cn": "杂原子数越多, 分子被氧化的程度越高."
+    },
+    {
+      "en": "The molecules of oxygen gas contain just two atoms.",
+      "cn": "氧分子中只有两个原子。"
+    },
+    {
+      "en": "The same holds true for any molecule with a center of symmetry.",
+      "cn": "对任何有对称中心的分子同样是对的."
+    },
+    {
+      "en": "The simplest covalently bonded molecule is formed from two hydrogen atoms.",
+      "cn": "最简单的共价键分子由两个氢原子组成."
+    },
+    {
+      "en": "The structure of the chlorophyll molecule is known . It consists ofporphyrin.",
+      "cn": "叶绿素的分子结构已经搞清, 它是由卟啉组成的."
+    },
+    {
+      "en": "This gives us the structural formula of the molecule.",
+      "cn": "这种方式给出了分子的结构式."
+    },
+    {
+      "en": "What happens to the molecule thereafter is of no concern.",
+      "cn": "分子继之发生的情况就不用考虑了."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "atom",
+            "ion",
+            "magneton",
+            "meson",
+            "monad",
+            "neutrino",
+            "proton",
+            "quark"
+          ],
+          "tran_cn": "分子,粒子"
+        },
+        {
+          "words": [
+            "dot",
+            "fleck",
+            "fraction",
+            "jot",
+            "mote",
+            "particle"
+          ],
+          "tran_cn": "微粒"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "crumb"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "diatomic molecule",
+      "tran_cn": "双原子分子"
+    },
+    {
+      "phrase": "giant molecule",
+      "tran_cn": "巨分子"
+    },
+    {
+      "phrase": "high molecule",
+      "tran_cn": "高分子"
+    },
+    {
+      "phrase": "molecule biology",
+      "tran_cn": "分子生物学；分子学"
+    },
+    {
+      "phrase": "molecule weight",
+      "tran_cn": "分子量"
+    },
+    {
+      "phrase": "polar molecule",
+      "tran_cn": "极性有极分子"
+    },
+    {
+      "phrase": "small molecule",
+      "tran_cn": "小分子"
+    },
+    {
+      "phrase": "water molecule",
+      "tran_cn": "水分子"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "分子，微小颗粒",
+      "tran_en": "the smallest unit into which any substance can be divided without losing its own chemical nature, usually consisting of two or more atoms"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "molecules"
+    ],
+    "adj": [
+      "molecular"
+    ]
+  }
+}

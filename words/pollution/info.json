@@ -1,0 +1,235 @@
+{
+  "word": "pollution",
+  "ipa": {
+    "us": "pəˈluːʃn",
+    "uk": "pəˈluːʃn"
+  },
+  "sentences": [
+    {
+      "en": "a plan to reduce pollution",
+      "cn": "减少污染物的计划"
+    },
+    {
+      "en": "California’s tough anti-pollution laws",
+      "cn": "加利福尼亚州严厉的反污染法"
+    },
+    {
+      "en": "Cars cause pollution, both smog and acid rain.",
+      "cn": "汽车造成的污染既有烟雾也有酸雨。"
+    },
+    {
+      "en": "Energy consumption, congestion and pollution have increased.",
+      "cn": "能源消耗、交通堵塞以及污染状况愈加严重。"
+    },
+    {
+      "en": "Environmentally-conscious Germans are worried about the pollution the car produces.",
+      "cn": "关注环境的德国人对汽车造成的污染十分担心。"
+    },
+    {
+      "en": "Old buses are major contributors to pollution in British cities.",
+      "cn": "破旧的公交车是造成英国城市污染的主要因素。"
+    },
+    {
+      "en": "Pollution can aggravate asthma.",
+      "cn": "污染会使气喘加重。"
+    },
+    {
+      "en": "pollution of the atmosphere",
+      "cn": "大气污染"
+    },
+    {
+      "en": "Randolph's work was exclusively concerned with the effects of pollution on health.",
+      "cn": "伦道夫的著作专门论述污染对健康的影响。"
+    },
+    {
+      "en": "Stationary cars in traffic jams cause a great deal of pollution.",
+      "cn": "交通堵塞中静止不动的汽车产生了大量污染。"
+    },
+    {
+      "en": "Supplies are under increasing threat from overuse and pollution.",
+      "cn": "由于滥用和污染，供应正受到日益严重的威胁。"
+    },
+    {
+      "en": "the accumulative effects of pollution",
+      "cn": "污染的累积效应"
+    },
+    {
+      "en": "The air pollution exceeds most acceptable levels by 10 times or more.",
+      "cn": "大气污染程度超出了普遍认可的标准10倍或更多。"
+    },
+    {
+      "en": "The pollution has already turned vast areas into a wasteland.",
+      "cn": "污染已经使大片地区沦为不毛之地。"
+    },
+    {
+      "en": "The snowcoach concept in Yellowstone provides low-impact, low-pollution access.",
+      "cn": "在黄石公园里使用雪车这一想法，为人们提供了一种对环境低影响、低污染的游览方式。"
+    },
+    {
+      "en": "They say gas guzzlers are contributing to air pollution.",
+      "cn": "他们说高耗油汽车是造成空气污染的原因之一。"
+    },
+    {
+      "en": "traffic congestion and pollution",
+      "cn": "交通拥塞和污染"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "polluted",
+          "tran_cn": " 受污染的；被玷污的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pollutant",
+          "tran_cn": " 污染物"
+        },
+        {
+          "word": "polluter",
+          "tran_cn": " 污染者；污染源；污染物质"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "polluted",
+          "tran_cn": " 污染（pollute的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "pollute",
+          "tran_cn": " 污染；玷污；败坏"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contamination",
+            "impureness"
+          ],
+          "tran_cn": "[环境]污染"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dirt",
+            "smoke"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "air pollution",
+      "tran_cn": "大气污染，空气污染"
+    },
+    {
+      "phrase": "air pollution control",
+      "tran_cn": "空气污染控制；大气污染控制"
+    },
+    {
+      "phrase": "atmospheric pollution",
+      "tran_cn": "大气污染"
+    },
+    {
+      "phrase": "environment pollution",
+      "tran_cn": "[法]环境污染"
+    },
+    {
+      "phrase": "environmental pollution",
+      "tran_cn": "n. 环境污染"
+    },
+    {
+      "phrase": "indoor air pollution",
+      "tran_cn": "空内空气污染"
+    },
+    {
+      "phrase": "industrial pollution",
+      "tran_cn": "工业污染"
+    },
+    {
+      "phrase": "noise pollution",
+      "tran_cn": "n. 噪音污染"
+    },
+    {
+      "phrase": "pollution control",
+      "tran_cn": "污染控制"
+    },
+    {
+      "phrase": "pollution index",
+      "tran_cn": "污染指数"
+    },
+    {
+      "phrase": "pollution load",
+      "tran_cn": "污染负荷；污染度；污染量"
+    },
+    {
+      "phrase": "pollution of the environment",
+      "tran_cn": "环境污染"
+    },
+    {
+      "phrase": "pollution prevention",
+      "tran_cn": "污染预防；防止污染"
+    },
+    {
+      "phrase": "pollution source",
+      "tran_cn": "污染源"
+    },
+    {
+      "phrase": "reduce pollution",
+      "tran_cn": "降低污染"
+    },
+    {
+      "phrase": "secondary pollution",
+      "tran_cn": "二次污染"
+    },
+    {
+      "phrase": "soil pollution",
+      "tran_cn": "土壤污染"
+    },
+    {
+      "phrase": "water pollution",
+      "tran_cn": "水污染"
+    },
+    {
+      "phrase": "water pollution control",
+      "tran_cn": "水污染控制；水污染防治"
+    },
+    {
+      "phrase": "white pollution",
+      "tran_cn": "白色污染"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "污染，污染物",
+      "tran_en": "the process of making air, water, soil etc dangerously dirty and not suitable for people to use, or the state of being dangerously dirty"
+    }
+  ],
+  "exchange": {}
+}

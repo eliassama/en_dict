@@ -1,0 +1,85 @@
+{
+  "word": "syncopate",
+  "ipa": {
+    "us": "'sɪŋkəpeɪt",
+    "uk": "'sɪŋkəˌpeɪt"
+  },
+  "sentences": [
+    {
+      "en": "The song have a syncopate rhythm in the jazz version.",
+      "cn": "这首歌曲改编为爵士乐後采用了切分音节奏."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "syncopated",
+          "tran_cn": " 切分音的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "syncopation",
+          "tran_cn": " 中略；切分法；省略中间的音节"
+        },
+        {
+          "word": "syncope",
+          "tran_cn": " [内科] 晕厥；字中音省略，中略"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "syncopated",
+          "tran_cn": " 词中省略（syncopate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abbreviate"
+          ],
+          "tran_cn": "切分；词中省略，缩写"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "[音]切分, [语]词中省略",
+      "tran_en": "to modify or treat (a beat, rhythm, note, etc) by syncopation "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（音乐的）切分，词中省略，中略"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "syncopates"
+    ],
+    "past": [
+      "syncopated"
+    ],
+    "done": [
+      "syncopated"
+    ],
+    "ing": [
+      "syncopating"
+    ]
+  }
+}

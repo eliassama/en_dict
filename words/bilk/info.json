@@ -1,0 +1,91 @@
+{
+  "word": "bilk",
+  "ipa": {
+    "us": "bɪlk",
+    "uk": "bɪlk"
+  },
+  "sentences": [
+    {
+      "en": "Absolutely cheater, have the suspicion of bilk, the proposal calls the police.",
+      "cn": "绝对的骗子, 有诈骗的嫌疑, 建议报警."
+    },
+    {
+      "en": "City police expresses east, current, network bilk case and photograph comparing in ascendant trend last year.",
+      "cn": "东城警方表示, 目前, 网络诈骗案件与去年相比处于上升趋势."
+    },
+    {
+      "en": "They are charged with bilking investors out of millions of dollars.",
+      "cn": "他们被控骗取投资者数百万美元。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fraud",
+            "sharp"
+          ],
+          "tran_cn": "诈骗；骗子；赖帐"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dishonor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "sell",
+            "fox",
+            "kid"
+          ],
+          "tran_cn": "欺骗，诈骗；使受挫折；赖帐"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "诈骗；骗子；赖帐"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 躲债； 骗取",
+      "tran_en": "To bilk someone out of something, especially money, means to cheat them out of it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "蒙骗",
+      "tran_en": "to cheat someone, especially by taking their money"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "bilks"
+    ],
+    "past": [
+      "bilked"
+    ],
+    "done": [
+      "bilked"
+    ],
+    "ing": [
+      "bilking"
+    ]
+  }
+}

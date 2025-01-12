@@ -1,0 +1,73 @@
+{
+  "word": "divagate",
+  "ipa": {
+    "us": "'daɪvəˌgeɪt",
+    "uk": "ˈdaɪvəˌɡet, ˈdɪvə-"
+  },
+  "sentences": [
+    {
+      "en": "Please don't divagate from what we're discussing about! We don't need your political opinions.",
+      "cn": "请别从我们所讨论的事岔开话题, 我们不需要你政治上的意见."
+    },
+    {
+      "en": "Solved the problems of the divagate teachers and the unfit teachers.",
+      "cn": "解决流浪教师及不适任教师之问题。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "divagation",
+          "tran_cn": " 流浪；入歧途；分离；逸脱"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "diverge",
+          "tran_cn": " 分歧；偏离；分叉；离题"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "diverge",
+          "tran_cn": " 使偏离；使分叉"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "range",
+            "wander from"
+          ],
+          "tran_cn": "离题；流浪；漫游"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "流浪, 漫游,离题",
+      "tran_en": "to digress or wander "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "<文>漫游，漂泊游荡，离题"
+    }
+  ],
+  "exchange": {}
+}

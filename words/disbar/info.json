@@ -1,0 +1,51 @@
+{
+  "word": "disbar",
+  "ipa": {
+    "us": "dɪsˈbɑ:(r)",
+    "uk": "dɪsˈbɑr"
+  },
+  "sentences": [
+    {
+      "en": "Roy learns that his political opponents plan to disbar him for an ethical lapse, but he vows to remain a lawyer until he dies.",
+      "cn": "罗伊了解到他的政治对手他计划夺取律师资格的伦理失效，但他发誓要留一名律师，直到他去世。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disbarment",
+          "tran_cn": " [法] 取消律师资格"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "depose",
+            "dispossess"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "[律] 逐出法庭, 剥夺律师资格",
+      "tran_en": "to make a lawyer leave the legal profession"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "取消律师出庭的资格"
+    }
+  ],
+  "exchange": {}
+}

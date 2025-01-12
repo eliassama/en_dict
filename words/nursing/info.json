@@ -1,0 +1,206 @@
+{
+  "word": "nursing",
+  "ipa": {
+    "us": "ˈnɜːsɪŋ",
+    "uk": "ˈnɜːrsɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a career in nursing",
+      "cn": "护理生涯"
+    },
+    {
+      "en": "Canseco, nursing a back injury, struck out.",
+      "cn": "坎塞科因背部受伤而三振出局。"
+    },
+    {
+      "en": "Does the nursing staff seem to care?",
+      "cn": "护理人员看上去在乎吗？"
+    },
+    {
+      "en": "He died in a nursing home at the age of 87.",
+      "cn": "他在一家养老院去世，享年87岁。"
+    },
+    {
+      "en": "I’d love to go into nursing.",
+      "cn": "我很乐意从事护理行业。"
+    },
+    {
+      "en": "Much was spent nursing the place back to health.",
+      "cn": "为了修缮这个地方使之重放光彩而花费了不少钱."
+    },
+    {
+      "en": "Nursing is hard work, but it can be very fulfilling.",
+      "cn": "护士工作很艰苦; 但可以使人感到满足."
+    },
+    {
+      "en": "Nursing is not just a job—it's a vocation.",
+      "cn": "护理不仅仅是一项工作，而且还是一种职业。"
+    },
+    {
+      "en": "Nursing was ill-paid and grindingly hard work.",
+      "cn": "护理工作薪水微薄，艰苦难耐。"
+    },
+    {
+      "en": "psychiatric nursing",
+      "cn": "精神病人的护理"
+    },
+    {
+      "en": "She resolved to report the matter to the hospital's nursing manager.",
+      "cn": "她决定把这件事汇报给医院的护士长。"
+    },
+    {
+      "en": "Some have regular clinics staffed by nursing officers.",
+      "cn": "一些设有配备护理军官的常规诊所。"
+    },
+    {
+      "en": "The baby is nursing at its mother's breasts.",
+      "cn": "那孩子正在吃妈妈的奶."
+    },
+    {
+      "en": "The course leads to a diploma in psychiatric nursing.",
+      "cn": "读完这门课程可以获得精神病护理文凭."
+    },
+    {
+      "en": "The elderly at the nursing home have some protections, but not much.",
+      "cn": "看护之家的老人们已经受到一些保护，但这类措施为数不多。"
+    },
+    {
+      "en": "The hotel is going to be converted into a nursing home.",
+      "cn": "那家旅馆将被改建成私人疗养院。"
+    },
+    {
+      "en": "The Matron at the nursing home expressed a wish to attend.",
+      "cn": "养老院的护士长说她愿意参加。"
+    },
+    {
+      "en": "the nursing profession",
+      "cn": "护理专业"
+    },
+    {
+      "en": "We struggle to maintain a little dignity, but look at us, \" said one resident of the nursing home.",
+      "cn": "看护之家的一位老人说：“我们想尽量维持一点尊严，可是看看自己这样子。”"
+    },
+    {
+      "en": "Young people and nursing mothers are exempted from charges.",
+      "cn": "未成年人和哺乳期女性免予起诉。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "nurse",
+          "tran_cn": " 护士；奶妈，保姆"
+        },
+        {
+          "word": "nurturance",
+          "tran_cn": " 养成；教育；培养（形容词nurturant）；养育"
+        },
+        {
+          "word": "nurture",
+          "tran_cn": " 养育；教养；营养物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "nurse",
+          "tran_cn": " 照料，护理；喂奶；当保姆"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "nurse",
+          "tran_cn": " 看护，护理；照顾；培养；给…喂奶"
+        },
+        {
+          "word": "nurture",
+          "tran_cn": " 养育；鼓励；培植"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "upbringing",
+            "fosterage"
+          ],
+          "tran_cn": "[临床]护理；看护；养育"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "fostering",
+            "nurturing"
+          ],
+          "tran_cn": "看护；养育（nurse的ing形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "nursing care",
+      "tran_cn": "护理"
+    },
+    {
+      "phrase": "nursing department",
+      "tran_cn": "护理部"
+    },
+    {
+      "phrase": "nursing home",
+      "tran_cn": "私人疗养院"
+    },
+    {
+      "phrase": "nursing personnel",
+      "tran_cn": "护理人员"
+    },
+    {
+      "phrase": "nursing psychology",
+      "tran_cn": "护理心理学"
+    },
+    {
+      "phrase": "nursing school",
+      "tran_cn": "护理学院"
+    },
+    {
+      "phrase": "nursing staff",
+      "tran_cn": "护理人员"
+    },
+    {
+      "phrase": "psychiatric nursing",
+      "tran_cn": "精神病护理"
+    },
+    {
+      "phrase": "surgical nursing",
+      "tran_cn": "外科护理学"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "护理，看护，养育",
+      "tran_en": "the job or skill of looking after people who are ill, injured, or old"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "护理( nurse的现在分词)，照料，喂，吃奶"
+    }
+  ],
+  "exchange": {}
+}

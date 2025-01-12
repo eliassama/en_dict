@@ -1,0 +1,133 @@
+{
+  "word": "inundate",
+  "ipa": {
+    "us": "ˈɪnʌndeɪt",
+    "uk": "ˈɪnʌnˌdet, ˈɪnən-"
+  },
+  "sentences": [
+    {
+      "en": "After the broadcast, we were inundated with requests for more information.",
+      "cn": "节目播出之后，太多人来询问详情，令我们应接不暇。"
+    },
+    {
+      "en": "Deluge: To overrun with water; inundate.",
+      "cn": "淹没: 被水淹没; 使泛滥."
+    },
+    {
+      "en": "The tidal wave inundated vast areas of cropland.",
+      "cn": "海啸淹没了大片农田。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inundated",
+          "tran_cn": " 洪泛的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inundation",
+          "tran_cn": " 洪水；泛滥"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "inundated",
+          "tran_cn": " 淹没（inundate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cascade",
+            "deluge",
+            "drench",
+            "flood",
+            "over",
+            "overflow",
+            "run"
+          ],
+          "tran_cn": "洪水;泛滥"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cascade",
+            "deluge",
+            "drench",
+            "drown",
+            "engulf",
+            "flood",
+            "immerse",
+            "over",
+            "overflow",
+            "run",
+            "shower",
+            "submerge"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "flood",
+            "flow"
+          ],
+          "tran_cn": "淹没；泛滥；浸水；（洪水般的）扑来"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "淹没",
+      "tran_en": "to cover an area with a large amount of water"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "淹没，泛滥，（洪水般的）扑来，使充满",
+      "tran_en": "to receive so much of something that you cannot easily deal with it all"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inundates"
+    ],
+    "past": [
+      "inundated"
+    ],
+    "done": [
+      "inundated"
+    ],
+    "ing": [
+      "inundating"
+    ],
+    "noun": [
+      "inundation"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "word": "landlord",
+  "ipa": {
+    "us": "ˈlændlɔːd",
+    "uk": "ˈlændlɔːrd"
+  },
+  "sentences": [
+    {
+      "en": "He is the landlord of this pub.",
+      "cn": "他是这家酒店的店主."
+    },
+    {
+      "en": "He left what little furniture he owned to his landlord in lieu of rent.",
+      "cn": "他把自己仅有的那点家具留给了房东抵房租。"
+    },
+    {
+      "en": "He was in an argument with his landlord downstairs.",
+      "cn": "他与楼下的房东发生了争执。"
+    },
+    {
+      "en": "He was square with his landlord.",
+      "cn": "他不欠房东的帐."
+    },
+    {
+      "en": "His landlord doubled the rent.",
+      "cn": "他的房东把租金提高了一倍。"
+    },
+    {
+      "en": "Kara is meeting with the landlord, Mr. Li.",
+      "cn": "卡拉和房东李先生碰了面."
+    },
+    {
+      "en": "Larry's landlord threatened not to renew his lease.",
+      "cn": "拉里的房东威胁说不跟他续租。"
+    },
+    {
+      "en": "Regulations placed clear obligations on the landlord for the benefit of the tenant.",
+      "cn": "为维护房客的利益，条例明确规定了房东负有的各项义务。"
+    },
+    {
+      "en": "The house has an absentee landlord , who visits the property once a year.",
+      "cn": "这栋房子的房主不在这儿住, 一年过来一次."
+    },
+    {
+      "en": "The landlord gave notice of the termination of tenancy.",
+      "cn": "房东给了租期终止的通知."
+    },
+    {
+      "en": "The landlord gave us a drink on the house.",
+      "cn": "店主免费为我们供应了一杯饮料."
+    },
+    {
+      "en": "The landlord had let the building fall into decay .",
+      "cn": "房东不管，房子已经破烂不堪。"
+    },
+    {
+      "en": "The landlord has imposed a severe stress on the poor tenants.",
+      "cn": "房东给这些可怜的房客们加了很大的压力."
+    },
+    {
+      "en": "The landlord is doing my apartment over.",
+      "cn": "房东正在翻修我的房子."
+    },
+    {
+      "en": "The landlord refused to serve him because he considered him too drunk.",
+      "cn": "酒吧老板觉得他已经喝多了，拒绝再给他添酒。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "landholder",
+          "tran_cn": " 地主；土地拥有者"
+        },
+        {
+          "word": "landlady",
+          "tran_cn": " 女房东；女地主；女店主"
+        },
+        {
+          "word": "landowner",
+          "tran_cn": " 地主，土地所有者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "free-holder",
+            "holder",
+            "householder",
+            "landholder",
+            "landowner",
+            "owner",
+            "property",
+            "squire"
+          ],
+          "tran_cn": "地主"
+        },
+        {
+          "words": [
+            "boniface",
+            "host",
+            "hotel-keeper",
+            "innholder",
+            "innkeeper",
+            "restaurateur"
+          ],
+          "tran_cn": "店主"
+        },
+        {
+          "words": [
+            "lessor",
+            "manager",
+            "master",
+            "proprietary",
+            "proprietor",
+            "superintendent"
+          ],
+          "tran_cn": "房东"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "owner"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "房东，地主，店主",
+      "tran_en": "a man who rents a room, building, or piece of land to someone"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "landlords"
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "word": "option",
+  "ipa": {
+    "us": "ˈɒpʃn",
+    "uk": "ˈɑːpʃn"
+  },
+  "sentences": [
+    {
+      "en": "But be warned: this is not a cheap option.",
+      "cn": "但要慎重：这个选择代价不菲。"
+    },
+    {
+      "en": "Click this option to right-justify the selected text.",
+      "cn": "点击这个选项，使选定的文本向右对齐。"
+    },
+    {
+      "en": "Co-operation was more than just an attractive option, it was an obligation.",
+      "cn": "合作不仅仅是诱人的选择，它也是一种责任。"
+    },
+    {
+      "en": "Each bank has granted the other an option on 19.9% of its shares.",
+      "cn": "两家银行都同意给予对方其19.9%股份的期权。"
+    },
+    {
+      "en": "He had two options.",
+      "cn": "他有两种选择。"
+    },
+    {
+      "en": "He overstepped the mark and we had no option but to suspend him.",
+      "cn": "他的行为越矩了，我们别无选择只好将他停职。"
+    },
+    {
+      "en": "He veered away from the most environmentally sound option.",
+      "cn": "他放弃了对环境保护最有利的选择方案。"
+    },
+    {
+      "en": "He's crossed the Rubicon with regard to the use of military force as an option.",
+      "cn": "他已经下定决心使用武力。"
+    },
+    {
+      "en": "I felt as though I should mention it as an option.",
+      "cn": "我觉得我好像应该把它作为一种选择提出来。"
+    },
+    {
+      "en": "I would unhesitatingly choose the latter option.",
+      "cn": "我会毫不犹豫地选择后者。"
+    },
+    {
+      "en": "It is thought that a management buyout is one option.",
+      "cn": "管理层收购被认为是一种选择。"
+    },
+    {
+      "en": "Jones has taken an option on shares in the company.",
+      "cn": "琼斯已获得那家公司股票的期权."
+    },
+    {
+      "en": "Teenage mothers often have no option but to (= have no other choice except to ) live with their parents.",
+      "cn": "少女妈妈往往别无选择，只能与父母同住。"
+    },
+    {
+      "en": "The job of chairman can no longer be regarded as a convenient soft option.",
+      "cn": "别再以为董事长这份工作是那么容易做的。"
+    },
+    {
+      "en": "The menu changes weekly and usually includes a vegan option.",
+      "cn": "菜单每周都有变化，通常包含可供严格的素食者选择的菜肴。"
+    },
+    {
+      "en": "There are a number of options available.",
+      "cn": "有多种选择。"
+    },
+    {
+      "en": "This was not the only option open to him.",
+      "cn": "这并非是他的唯一选择。"
+    },
+    {
+      "en": "Using the option to display only text speeds things up a lot.",
+      "cn": "选用纯文本显示可以使速度大幅提升。"
+    },
+    {
+      "en": "You will have to pay them; you have no option.",
+      "cn": "你必须付给他们钱, 别无选择."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "optional",
+          "tran_cn": " 可选择的，随意的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "optional",
+          "tran_cn": " 选修科目"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "opt",
+          "tran_cn": " 选择"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "discretionary",
+            "free",
+            "independent",
+            "spontaneous",
+            "unbidden",
+            "unforced",
+            "unprompted",
+            "unsolicited",
+            "volitional",
+            "voluntary"
+          ],
+          "tran_cn": "自愿的,非强制的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "alternative",
+            "choice",
+            "equivalent",
+            "substitute",
+            "surrogate"
+          ],
+          "tran_cn": "供选择的事物"
+        },
+        {
+          "words": [
+            "desire",
+            "inclination",
+            "partiality",
+            "pleasure",
+            "predilection",
+            "preference",
+            "prepossession",
+            "propensity",
+            "taste",
+            "wish"
+          ],
+          "tran_cn": "偏爱,愿望"
+        },
+        {
+          "words": [
+            "acceptance",
+            "adoption",
+            "appointment",
+            "assignment",
+            "choice",
+            "conclusion",
+            "decision",
+            "determination",
+            "discretion",
+            "election",
+            "espousal",
+            "judgment",
+            "nomination",
+            "opinion",
+            "selection",
+            "selectivity",
+            "vote",
+            "will"
+          ],
+          "tran_cn": "选择,任命,决断"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "freedom",
+            "refusal"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "alternative option",
+      "tran_cn": "替代，替代物；比较选择方案"
+    },
+    {
+      "phrase": "american option",
+      "tran_cn": "现货期权；美式选择权"
+    },
+    {
+      "phrase": "at one's option",
+      "tran_cn": "随意"
+    },
+    {
+      "phrase": "call option",
+      "tran_cn": "看涨期权；购买选择权"
+    },
+    {
+      "phrase": "configuration option",
+      "tran_cn": "配置选项"
+    },
+    {
+      "phrase": "default option",
+      "tran_cn": "[计]缺省选择"
+    },
+    {
+      "phrase": "european option",
+      "tran_cn": "欧式期权；欧式选择权"
+    },
+    {
+      "phrase": "have no option but",
+      "tran_cn": "不得不，被迫，除…之外别无他法"
+    },
+    {
+      "phrase": "keep (或 leave) one's options open",
+      "tran_cn": "暂时不作决定"
+    },
+    {
+      "phrase": "menu option",
+      "tran_cn": "菜单选择"
+    },
+    {
+      "phrase": "not be an option",
+      "tran_cn": "不可行"
+    },
+    {
+      "phrase": "option contract",
+      "tran_cn": "n. 期权合约；选择权契约"
+    },
+    {
+      "phrase": "option market",
+      "tran_cn": "期货买卖"
+    },
+    {
+      "phrase": "option pricing model",
+      "tran_cn": "期权定价模式"
+    },
+    {
+      "phrase": "option to purchase",
+      "tran_cn": "购买选择权"
+    },
+    {
+      "phrase": "purchase option",
+      "tran_cn": "进货选择权"
+    },
+    {
+      "phrase": "put option",
+      "tran_cn": "出售选择权；卖出选择权；卖出期权"
+    },
+    {
+      "phrase": "share option",
+      "tran_cn": "股份认购权（在一定时期内按预定价格买卖股票的权利）"
+    },
+    {
+      "phrase": "soft option",
+      "tran_cn": "轻松的选择；较为方便的出路"
+    },
+    {
+      "phrase": "standard option",
+      "tran_cn": "标准选择；标准选件"
+    },
+    {
+      "phrase": "stock option",
+      "tran_cn": "职工优先认股权"
+    },
+    {
+      "phrase": "the first option",
+      "tran_cn": "最佳选择，第一选择"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "选择，选择权，可选择的事物",
+      "tran_en": "a choice you can make in a particular situation"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "options"
+    ]
+  }
+}

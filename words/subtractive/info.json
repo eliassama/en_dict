@@ -1,0 +1,111 @@
+{
+  "word": "subtractive",
+  "ipa": {
+    "us": "səb'træktɪv",
+    "uk": "səbˈtræktɪv"
+  },
+  "sentences": [
+    {
+      "en": "Aim a PCR technique for rapid screening of recombinant plasmid in subtractive library of cDNA.",
+      "cn": "目的:消减文库构建过程中,用PCR技术快速筛选重组阳性克隆."
+    },
+    {
+      "en": "Complementary to the three additive light primaries, there are three subtractive primaries.",
+      "cn": "与加色法三原色互为补色的颜色为减色法三原色."
+    },
+    {
+      "en": "Dominating methods in wheat gene cloning include homology - based cloning, map - based cloning, suppression subtractive hybridization , DDRT - PCR etc.",
+      "cn": "目前,小麦基因的克隆方法主要有同源克隆 、 图位克隆 、 差减杂交 、 差异显示等."
+    },
+    {
+      "en": "Magenta one of the subtractive primary colours. it is used in four-colour process printing . also referred to as process red.",
+      "cn": "减法原色之一。是四色彩印所用的颜色。亦称四色红。"
+    },
+    {
+      "en": "Properly combined, the subtractive primaries can absorb all colors of light, producing black.",
+      "cn": "适当组合时, 减色法三原色能吸收光线中的所有色彩, 产生黑色."
+    },
+    {
+      "en": "See Additive primary colours, Subtractive primary colours.",
+      "cn": "参阅加色法原色, 减色法原色."
+    },
+    {
+      "en": "Subtractive primary colours: Refer to colour of pigment.",
+      "cn": "减色法原色: 是指颜料的颜色."
+    },
+    {
+      "en": "The basic principle is: that the subtractive mixing all ink color color, but staying the same.",
+      "cn": "其基本原理是: 色料三原色是调配一切墨色的基础色, 万变不离其宗."
+    },
+    {
+      "en": "The result is a subtractive number.",
+      "cn": "结果是负数。"
+    },
+    {
+      "en": "These systems include the additive and subtractive color wheels , are addressed as metaphorical maps of color.",
+      "cn": "这些色彩体系包括色环的加减, 都标于色彩的隐晦图."
+    },
+    {
+      "en": "They are called subtractive primary colours because each of these colour will absorb or subtract one third of the colours in the white light.",
+      "cn": "它们被称为减色法原色是因为它们每个颜色会吸收或减去白光内的三分之一色光。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "subtracter",
+          "tran_cn": " [计] 减法器；扣除者"
+        },
+        {
+          "word": "subtraction",
+          "tran_cn": " [数] 减法；减少；差集"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "subtract",
+          "tran_cn": " 减去；扣掉"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "negative",
+            "nonpositive"
+          ],
+          "tran_cn": "[数]减去的；负的；有负号的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "mathematical"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "减去的，负的，有负号的",
+      "tran_en": "able or tending to remove or subtract "
+    }
+  ],
+  "exchange": {}
+}

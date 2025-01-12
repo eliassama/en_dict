@@ -1,0 +1,197 @@
+{
+  "word": "tab",
+  "ipa": {
+    "us": "tæb",
+    "uk": "tæb"
+  },
+  "sentences": [
+    {
+      "en": "A clerk had slipped the wrong tab on Tony's X-ray .",
+      "cn": "一位职员失手把一个错误的标签贴到了托尼的X光片上。"
+    },
+    {
+      "en": "an index tab labeled ‘Expenses’",
+      "cn": "标着“支出”字样的检索标签"
+    },
+    {
+      "en": "At least one estimate puts the total tab at $7 million.",
+      "cn": "至少有一个估价把总数定在了700万美元。"
+    },
+    {
+      "en": "COB. TAB. COG mould train technology.",
+      "cn": "COB. TAB. COG模组工艺技术制作."
+    },
+    {
+      "en": "Coca - Cola introduced the first low calorie soft drink, \" TAB. \"",
+      "cn": "可口可乐 首先投放了低热量的饮料 “ TAB ”."
+    },
+    {
+      "en": "Hang your coat up by the tab on the collar.",
+      "cn": "用衣服上的领襻把上衣挂起来."
+    },
+    {
+      "en": "I'll be picking up the tab.",
+      "cn": "账单是我来付."
+    },
+    {
+      "en": "Imports an address book from a tab - delimited or comma - separated ( CSV ) text file.",
+      "cn": "从以TAB键 分隔或逗号分隔 ( csv ) 的文本文件中导入通讯录."
+    },
+    {
+      "en": "Let's keep a tab on expenses.",
+      "cn": "我们把各项费用都记录下来 吧."
+    },
+    {
+      "en": "Let's keep tabs on expenditures.",
+      "cn": "让们密切注意开支情况"
+    },
+    {
+      "en": "my company will pick up the tab for all moving expenses.",
+      "cn": "我公司将承担搬迁的所有费用。"
+    },
+    {
+      "en": "One such means, which is very effective, is the geared or servo tab.",
+      "cn": "这类方法中的一种非常有效的方法是随动调整片或伺服调整片."
+    },
+    {
+      "en": "Pollard picked up the tab for dinner that night.",
+      "cn": "那天的晚饭是波拉德掏的钱。"
+    },
+    {
+      "en": "So I don't suppose I could start a tab?",
+      "cn": "那我大概没法子开单子赊帐了 吧 ?"
+    },
+    {
+      "en": "TAB. COG mould train technology.",
+      "cn": "TAB. COG模组工艺技术制作."
+    },
+    {
+      "en": "The average monthly tab comes to $ 168.50.",
+      "cn": "每月平均费用达到一百六十八点五美元."
+    },
+    {
+      "en": "The tab for superhighways may run as high as 2 million dollars a kilometer.",
+      "cn": "造超级高速公路的费用可能达到每公里200万美元之上."
+    },
+    {
+      "en": "To open, pull tab, eg on a can of beer.",
+      "cn": "拉环开罐(如啤酒罐上的字样)."
+    },
+    {
+      "en": "We have to keep a close tab on daily sales.",
+      "cn": "我们必须仔细登记每日售量."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "table",
+          "tran_cn": " 桌子的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tabbing",
+          "tran_cn": " 跨栏"
+        },
+        {
+          "word": "table",
+          "tran_cn": " 桌子；表格；平地层"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "tabbing",
+          "tran_cn": " 列表；指定（tab的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "table",
+          "tran_cn": " 制表；搁置；嵌合"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "ticket",
+            "label",
+            "tag",
+            "prepared by"
+          ],
+          "tran_cn": "标签；制表；帐单"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "flap",
+            "trademark"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "keep tabs (或 a tab) on",
+      "tran_cn": "(非正式)监控…的活动（或进展）；密切注意"
+    },
+    {
+      "phrase": "keep tabs on【非正式用语】",
+      "tran_cn": "密切注意"
+    },
+    {
+      "phrase": "pick up the tab",
+      "tran_cn": "(非正式，主北美)付账；承担费用"
+    },
+    {
+      "phrase": "tab key",
+      "tran_cn": "跳格键；制表键"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "abbr",
+      "tran_cn": "(=Technical Assistance Board (of the United Nations))（联合国）技术援助委"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "帐单，（易拉罐的）拉环，标签，制表",
+      "tran_en": "a small piece of paper, cloth, plastic etc that sticks out from the edge of something, so that you can find it more easily"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "给…贴标签"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<口>监视，给…贴标签，用垂饰安装"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tabs"
+    ]
+  }
+}

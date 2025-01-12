@@ -1,0 +1,110 @@
+{
+  "word": "reflexion",
+  "ipa": {
+    "us": "rɪ'flekʃən",
+    "uk": "rɪˈflɛkʃən"
+  },
+  "sentences": [
+    {
+      "en": "...the reflexion of a beam of light off a mirror.",
+      "cn": "中文例句:  …一束光线在镜面上的反射。"
+    },
+    {
+      "en": "Can you see your reflexion in the glass?",
+      "cn": "中文例句: 你能看到玻璃里你的影像吗？"
+    },
+    {
+      "en": "His speech was an accurate reflexion of the public mood.",
+      "cn": "中文例句: 他的讲话是公众情绪的准确反映"
+    },
+    {
+      "en": "Maxwell equations: Lorentz force, plane electromagnetic waves, radiation, light waves, reflexion, refraction, Huyghens principle, diffraction, interference phenomena.",
+      "cn": "麦克斯韦方程组：洛仑兹力，平面电磁波，辐射，光波，反射，折射，惠更斯原理，衍射，干涉现象。"
+    },
+    {
+      "en": "The dark areas of the reflexion map aren't really black.",
+      "cn": "反射贴图的黑色部分其实并不全黑。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "reflex",
+          "tran_cn": " 反射的；反省的；反作用的；优角的"
+        },
+        {
+          "word": "reflexed",
+          "tran_cn": " [植] 反折的；下弯的"
+        },
+        {
+          "word": "reflexive",
+          "tran_cn": " 反身的；[物] 反射的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "reflexly",
+          "tran_cn": " 反射地；反省地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reflex",
+          "tran_cn": " 反射；反映；映像；回复；习惯性思维"
+        },
+        {
+          "word": "reflexive",
+          "tran_cn": " 反身代词；反身动词"
+        },
+        {
+          "word": "reflexivity",
+          "tran_cn": " [数] 自反性；反射度"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "reflexed",
+          "tran_cn": " 把…折转，把…折回（reflex的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "reverberation",
+            "repercussiveness"
+          ],
+          "tran_cn": "反射；反射作用（等于reflection）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<主英>反射，反射光，反射作用（等于reflection）",
+      "tran_en": "an image that you can see in a mirror, glass, or water"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "reflexions"
+    ]
+  }
+}

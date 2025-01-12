@@ -1,0 +1,162 @@
+{
+  "word": "sparse",
+  "ipa": {
+    "us": "spɑ:s",
+    "uk": "spɑrs"
+  },
+  "sentences": [
+    {
+      "en": "As we drove towards the desert, the vegetation became sparse.",
+      "cn": "我们驱车前往沙漠, 沿途的草木渐渐变得稀疏."
+    },
+    {
+      "en": "He was a tubby little man in his fifties, with sparse hair.",
+      "cn": "他50来岁，头发稀疏，身材矮胖。"
+    },
+    {
+      "en": "Heath wrote us a letter friendly in tone, sparse in content.",
+      "cn": "希思给我们写了一封语调友善 、 内容空泛的信."
+    },
+    {
+      "en": "His pink scalp gleamed through his sparse hair.",
+      "cn": "他发红的头皮在稀疏的头发下泛微光."
+    },
+    {
+      "en": "his sparse brown hair",
+      "cn": "他那稀疏的棕色头发"
+    },
+    {
+      "en": "Kangaroos compete with sheep and cattle for sparse supplies of food and water.",
+      "cn": "袋鼠与牛羊争夺稀少的食物和水。"
+    },
+    {
+      "en": "Many slopes are rock fields with sparse vegetation.",
+      "cn": "许多山坡都是石头地，植被稀疏。"
+    },
+    {
+      "en": "rural areas with sparse populations",
+      "cn": "人口稀少的农村地区"
+    },
+    {
+      "en": "She went in to fix the sparse evening meal.",
+      "cn": "她走进屋去准备简单的晚餐."
+    },
+    {
+      "en": "Statistical data is rather sparse.",
+      "cn": "统计数据相当缺乏."
+    },
+    {
+      "en": "Tenasserim had a very sparse population.",
+      "cn": "丹那沙林人口密度不大."
+    },
+    {
+      "en": "The experienced personnel , enlisted and officers alike , were a sparse lot.",
+      "cn": "有经验的老手, 无论官也好兵也好, 都廖廖无几."
+    },
+    {
+      "en": "The sparse line of spectators noticed nothing unusual.",
+      "cn": "那一排稀稀落落的观众没留意到任何不寻常之处。"
+    },
+    {
+      "en": "the sparse population of the islands",
+      "cn": "那些岛上零星的人口"
+    },
+    {
+      "en": "The sparse vegetation will only feed a small population of animals.",
+      "cn": "稀疏的植物只够喂养少量的动物."
+    },
+    {
+      "en": "The trees are sparse.",
+      "cn": "树木稀疏."
+    },
+    {
+      "en": "Traffic was sparse on the highway.",
+      "cn": "公路上车流稀少。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sparsely",
+          "tran_cn": " 稀疏地；贫乏地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sparseness",
+          "tran_cn": " 稀疏；稀少"
+        },
+        {
+          "word": "sparsity",
+          "tran_cn": " 稀疏，稀少；贫乏"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "meager",
+            "scanty",
+            "scarce",
+            "scattered",
+            "skimpy"
+          ],
+          "tran_cn": "稀少的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "infrequent",
+            "meager",
+            "scanty",
+            "scarce",
+            "skimpy",
+            "thin",
+            "tight"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sparse matrix",
+      "tran_cn": "[数]稀疏矩阵"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "稀疏的，稀少的",
+      "tran_en": "existing only in small amounts"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "sparser"
+    ],
+    "est": [
+      "sparsest"
+    ],
+    "adv": [
+      "sparsely"
+    ],
+    "noun": [
+      "sparseness"
+    ]
+  }
+}

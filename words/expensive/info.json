@@ -1,0 +1,206 @@
+{
+  "word": "expensive",
+  "ipa": {
+    "us": "ɪkˈspensɪv",
+    "uk": "ɪkˈspensɪv"
+  },
+  "sentences": [
+    {
+      "en": "Although they're expensive, they last forever and never go out of style.",
+      "cn": "尽管价格昂贵，但它们经久耐用，永不过时。"
+    },
+    {
+      "en": "Buying expensive furniture is not necessarily the smartest move to make.",
+      "cn": "购买昂贵的家具不见得就是最明智之举。"
+    },
+    {
+      "en": "Employing the wrong builder can be a horribly expensive mistake.",
+      "cn": "用错建筑工人有时会是代价高昂的错误。"
+    },
+    {
+      "en": "For low-income families, children’s safety equipment can be prohibitively expensive (= so expensive that most people cannot afford it ).",
+      "cn": "对于低收入家庭来说，儿童的安全设备贵得让人望而却步。"
+    },
+    {
+      "en": "Her husband had expensive tastes (= liked expensive things ).",
+      "cn": "她丈夫喜欢的东西都很贵。"
+    },
+    {
+      "en": "I get very nervous because I'm using a lot of expensive equipment.",
+      "cn": "因为正在使用很多昂贵的设备，所以我非常紧张。"
+    },
+    {
+      "en": "I spend a lot on expensive jewelry and clothing.",
+      "cn": "我花很多钱购买昂贵的首饰和衣服。"
+    },
+    {
+      "en": "It is expensive to buy and a bind to carry home.",
+      "cn": "买这个费用很贵，搬回家也费劲。"
+    },
+    {
+      "en": "Many people are now stuck with expensive fixed-rate mortgages.",
+      "cn": "许多人目前都有高额的定息按揭缠身。"
+    },
+    {
+      "en": "Nuclear plants are expensive to build, though cheap to operate.",
+      "cn": "核电站造价高昂，虽然运转费用低廉。"
+    },
+    {
+      "en": "Petrol is becoming more and more expensive.",
+      "cn": "汽油越来越贵了。"
+    },
+    {
+      "en": "Photography is an expensive hobby.",
+      "cn": "摄影是一项很花钱的业余爱好。"
+    },
+    {
+      "en": "She had decked him out from head to foot in expensive clothes.",
+      "cn": "她用昂贵的服装把他从头到脚打扮一新。"
+    },
+    {
+      "en": "Tape is expensive and loses sound quality every time it is copied.",
+      "cn": "磁带成本高，而且每录制一次音质就会变差一些。"
+    },
+    {
+      "en": "The case against is twofold: too risky and too expensive.",
+      "cn": "反对理由有两点：太冒险而且太昂贵。"
+    },
+    {
+      "en": "the most expensive restaurant in town",
+      "cn": "城里最贵的餐馆"
+    },
+    {
+      "en": "There are restaurants, both humble and expensive, that specialize in them.",
+      "cn": "专门做这些菜的餐馆既有毫不起眼的也有价格昂贵的。"
+    },
+    {
+      "en": "They actually moved down from upstairs because the rent's that expensive.",
+      "cn": "他们确实从楼上搬到了楼下，因为房租太贵了。"
+    },
+    {
+      "en": "They will be slightly more expensive but they last a lot longer.",
+      "cn": "它们的价钱要贵一些，可是更加耐用。"
+    },
+    {
+      "en": "This is fearfully expensive compared with the last one I bought.",
+      "cn": "这和我上次买的相比贵得吓人。"
+    },
+    {
+      "en": "Waterproofed fabric pants are more expensive than plastic pants.",
+      "cn": "防水纤维短裤比塑料短裤贵多了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "expensively",
+          "tran_cn": " 昂贵地；乱花钱地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "expense",
+          "tran_cn": " 损失，代价；消费；开支"
+        },
+        {
+          "word": "expensiveness",
+          "tran_cn": " 高价，昂贵性"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "expense",
+          "tran_cn": " 被花掉"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "expense",
+          "tran_cn": " 向…收取费用"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "costly",
+            "dear",
+            "high-priced"
+          ],
+          "tran_cn": "高价的;昂贵的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "costly",
+            "dear",
+            "exclusive",
+            "high-priced",
+            "precious",
+            "priceless",
+            "prime",
+            "rich",
+            "valuable"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a bit expensive",
+      "tran_cn": "有点贵"
+    },
+    {
+      "phrase": "expensive thing",
+      "tran_cn": "昂贵的东西"
+    },
+    {
+      "phrase": "less expensive",
+      "tran_cn": "adj. 比较便宜的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "昂贵的",
+      "tran_en": "costing a lot of money"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "贵的",
+      "tran_en": "costing a lot of money"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "more expensive"
+    ],
+    "est": [
+      "most expensive"
+    ],
+    "adv": [
+      "expensively"
+    ]
+  }
+}

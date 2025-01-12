@@ -1,0 +1,199 @@
+{
+  "word": "accidental",
+  "ipa": {
+    "us": "ˌæksɪˈdentl",
+    "uk": "ˌæksɪˈdentl"
+  },
+  "sentences": [
+    {
+      "en": "Accidental inhalation of the powder can be harmful.",
+      "cn": "意外的粉尘吸入可能有害。"
+    },
+    {
+      "en": "an accidental discharge of toxic waste",
+      "cn": "有毒废料的意外排放"
+    },
+    {
+      "en": "Buy an insurance policy that covers accidental damage .",
+      "cn": "购买一份意外损害保单。"
+    },
+    {
+      "en": "E was kind of zig - zagging across the pavement, and I bumps into'im accidental - like.",
+      "cn": "他有点歪歪斜斜地在人行道上走, 我一不小心撞到了他的怀里."
+    },
+    {
+      "en": "Even their agonies have an accidental effect of clownishness.",
+      "cn": "即便是他们的极度痛苦地带有一种滑稽的意味."
+    },
+    {
+      "en": "It is an accidental error.",
+      "cn": "这是偶然的误差."
+    },
+    {
+      "en": "It is by no means accidental.",
+      "cn": "事出有因."
+    },
+    {
+      "en": "It was an accidental meeting.",
+      "cn": "这完全是一次偶然的相会."
+    },
+    {
+      "en": "Large accidental spills have occurred.",
+      "cn": "发生大量泄漏事故."
+    },
+    {
+      "en": "My own accidental cut across the knuckles was a flea - bite.",
+      "cn": "我指关节上的意外刀伤根本算不了什么."
+    },
+    {
+      "en": "Our meeting in New York was quite accidental.",
+      "cn": "我们在纽约的会见完全是偶然的."
+    },
+    {
+      "en": "Our meeting was quite accidental.",
+      "cn": "我们的相遇是很偶然的."
+    },
+    {
+      "en": "Signal which prevents accidental operation by spurious signals or avoids possible ambiguity.",
+      "cn": "防止假信号的意外作用或者避免二义性而设置的信号."
+    },
+    {
+      "en": "The abortion arose from an accidental fall.",
+      "cn": "流产是由于(孕妇)不慎摔倒所致."
+    },
+    {
+      "en": "The firm's intentions were laid open by the director's accidental remark.",
+      "cn": "公司的打算被董事偶然的谈话给透露了."
+    },
+    {
+      "en": "The rash of accidental shootings underscores how difficult it will be to restore order here.",
+      "cn": "一连串的意外枪击事件凸显了恢复该地区的秩序有多困难。"
+    },
+    {
+      "en": "Their marriage was quite accidental.",
+      "cn": "他们的结合是偶然的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "accidentally",
+          "tran_cn": " 意外地；偶然地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "accident",
+          "tran_cn": " 事故；意外；[法] 意外事件；机遇"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "casual",
+            "chance",
+            "fluky",
+            "fortuitous",
+            "freak",
+            "haphazard",
+            "inadvertent",
+            "random",
+            "serendipitous",
+            "stray",
+            "unanticipated",
+            "undesigned",
+            "unexpected",
+            "unforeseen",
+            "unintended",
+            "unintentional",
+            "unlooked-for",
+            "unplanned",
+            "unpremeditated",
+            "unthinking",
+            "unwitting"
+          ],
+          "tran_cn": "计划外的,意料外的,随意的"
+        },
+        {
+          "words": [
+            "adventitious",
+            "beside",
+            "by-the-way",
+            "circumstantial",
+            "conditional",
+            "contingent",
+            "dependent",
+            "external",
+            "extraneous",
+            "extrinsic",
+            "incidental",
+            "inessential",
+            "irrelevant",
+            "nonessential",
+            "parenthetical",
+            "point",
+            "provisional",
+            "the",
+            "unessential"
+          ],
+          "tran_cn": "额外的,不必要的,可有可无的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aimless"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "accidental damage",
+      "tran_cn": "意外损坏"
+    },
+    {
+      "phrase": "accidental death",
+      "tran_cn": "意外死亡；非正常死亡"
+    },
+    {
+      "phrase": "accidental error",
+      "tran_cn": "偶然误差；偶然性错误；随机误差"
+    },
+    {
+      "phrase": "accidental explosion",
+      "tran_cn": "意外爆炸，偶发性爆炸"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "意外的，偶然的",
+      "tran_en": "happening without being planned or intended"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "次要方面；非主要的特性；临时记号"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "accidentally"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "word": "briefing",
+  "ipa": {
+    "us": "ˈbri:fɪŋ",
+    "uk": "ˈbrifɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A briefing that gave us a fix on the current situation.",
+      "cn": "开会之前,我先给你简单说一下情况."
+    },
+    {
+      "en": "After all the briefing sessions at head office, our sales team is at concert pitch.",
+      "cn": "在总公司开过各种情况介绍会后, 我们全体销售人员都跃跃欲试,准备大干一场."
+    },
+    {
+      "en": "Charles and I were closeted in his study for the briefing session.",
+      "cn": "我和查尔斯在他的书房里闭门开简介会。"
+    },
+    {
+      "en": "Do what the briefing calls for.",
+      "cn": "按简令的要求去做."
+    },
+    {
+      "en": "Don't you want me to have a shred of credibility in the briefing room?",
+      "cn": "难道你不想让我在简报室里有一点点可信度 吗 ?"
+    },
+    {
+      "en": "He spent two hours mugging up the statistics before briefing the press.",
+      "cn": "在向记者们介绍情况之前,他花了两个小时突击统计数字."
+    },
+    {
+      "en": "His skill was diplomacy; his briefing on weapons system had obviously been rudimentary.",
+      "cn": "他是外交专家, 虽然听过有关武器系统的情况介绍,显然还是一知半解."
+    },
+    {
+      "en": "I asked him to draw up a list of what they're saying at the briefing.",
+      "cn": "我要他把记者在新闻发布会上说的话开一张单子."
+    },
+    {
+      "en": "Lei , deputy governor of the peace to attend the briefing.",
+      "cn": "副州长雷和平出席汇报会."
+    },
+    {
+      "en": "May I ask when you received your last intelligence briefing?",
+      "cn": "您能告诉我您何时得到的最新情况的简报 吗 ?"
+    },
+    {
+      "en": "Ministerial colleagues were briefing against him.",
+      "cn": "其他部长在攻击诋毁他。"
+    },
+    {
+      "en": "Now , BilI's been briefing me, of course, but this guy's your informant, right?",
+      "cn": "比尔跟我简报过了那家伙是你的线民?"
+    },
+    {
+      "en": "The President received a briefing by telegram.",
+      "cn": "总统收到用电报发来的一份简报。"
+    },
+    {
+      "en": "Then they were shown, to the door for a short briefing.",
+      "cn": "然后他们被带到门口,简单介绍了一下情况."
+    },
+    {
+      "en": "They're holding a press briefing tomorrow.",
+      "cn": "他们明天将召开新闻发布会。"
+    },
+    {
+      "en": "We were sufficiently uneasy about possible misinterpretations that we had prepared a careful press briefing.",
+      "cn": "我们对可能产生的错误解释十分不安,因此准备了一份措辞严谨的新闻介绍材料."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "brief",
+          "tran_cn": " 简短的，简洁的；短暂的，草率的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "briefly",
+          "tran_cn": " 短暂地；简略地；暂时地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "brief",
+          "tran_cn": " 摘要，简报；概要，诉书"
+        },
+        {
+          "word": "briefness",
+          "tran_cn": " 简单；短促"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "brief",
+          "tran_cn": " 简报，摘要；作…的提要"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "instantane"
+          ],
+          "tran_cn": "简报；作战指示"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "briefing session",
+      "tran_cn": "简介会"
+    },
+    {
+      "phrase": "news briefing",
+      "tran_cn": "新闻发布会"
+    },
+    {
+      "phrase": "press briefing",
+      "tran_cn": "新闻发布会；记者招待会；新闻简报会"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "情况介绍会，详细指示",
+      "tran_en": "information or instructions that you get before you have to do something"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "向…简要介绍情况（brief的现在分词）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "briefings"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "word": "magniloquent",
+  "ipa": {
+    "us": "mæg'nɪləkwənt",
+    "uk": "mæɡˈnɪləkwənt"
+  },
+  "sentences": [
+    {
+      "en": "News of the death of forests appears to have been greatly magniloquent.",
+      "cn": "森林在灭亡的消息似乎被很大程度上夸大其词了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "magnified",
+          "tran_cn": " 放大的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "magniloquence",
+          "tran_cn": " 夸张的话；豪语；大言"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "magnified",
+          "tran_cn": " 放大；夸张（magnify的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "exaggerative",
+            "melodramatic"
+          ],
+          "tran_cn": "夸张的；说大话的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "boastful",
+            "elevated",
+            "exaggerated"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（说话）夸张的，自负的，吹牛的，唱高调的",
+      "tran_en": "(of speech) lofty in style; grandiloquent "
+    }
+  ],
+  "exchange": {}
+}

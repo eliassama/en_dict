@@ -1,0 +1,156 @@
+{
+  "word": "insertion",
+  "ipa": {
+    "us": "ɪnˈsɜ:ʃn",
+    "uk": "ɪnˈsɜrʃn"
+  },
+  "sentences": [
+    {
+      "en": "Bradycardia, if persistent, should be controlled by the insertion of a pacemaker as soon as possible.",
+      "cn": "如果持续出现心动过缓, 应尽快使用起搏器."
+    },
+    {
+      "en": "By insertion of photocopies, all folders can be maintained complete with little extra effort.",
+      "cn": "插入它的复制本, 不费多大力量就能使所有文件夹保持完整."
+    },
+    {
+      "en": "Check the GC manufacturer's instrument manual for the correct insertion distance.",
+      "cn": "查阅GC生产商的仪器说明书,以便获取正确的安装距离."
+    },
+    {
+      "en": "Check the instrument maufacture's manual for the proper insertion distance.",
+      "cn": "查阅仪器生产商的说明书,以便获取合适的安装距离."
+    },
+    {
+      "en": "He had simply slipped on a long nightgown with an insertion front.",
+      "cn": "他只随便披上了一件长睡衣,前边敞着领口."
+    },
+    {
+      "en": "He recorded an item for insertion in the programme.",
+      "cn": "他录了一条消息插播到节目中。"
+    },
+    {
+      "en": "High - Q tuned LC filters will have more insertion loss.",
+      "cn": "高Q值调谐LC滤波器会有更多的插入损耗."
+    },
+    {
+      "en": "If a program allows an insertion point, objects must be selected by clicking and dragging.",
+      "cn": "如果程序允许插入点, 就必须通过单击和拖动来选择对象."
+    },
+    {
+      "en": "In effect, the insertion of the client and provider gateways into the flow should be transparent to both the client and provider.",
+      "cn": "实际上，将客户端和提供者网关插入到流程中对于客户端和提供者应该是透明的。"
+    },
+    {
+      "en": "Method of insertion loss measurement for radio frequency filters.",
+      "cn": "射频滤波器插入损耗的测量方法."
+    },
+    {
+      "en": "Requirments for force fit insertion assembly operation are explained.",
+      "cn": "阐述了压力配合插入装配作业的要求."
+    },
+    {
+      "en": "Sometimes the insertion of one word can change the meaning of a whole sentence.",
+      "cn": "有时插入一个字可以改变全句的意义。"
+    },
+    {
+      "en": "The application positions the window at the text insertion point.",
+      "cn": "应用程序将窗口定位在文本插入点."
+    },
+    {
+      "en": "The article presents a new way for insertion motion on rapier machine.",
+      "cn": "提出了一种新颖的剑杆织机电子引纬方法."
+    },
+    {
+      "en": "The insertion of these genealogies is the more peculiar and unreasonable.",
+      "cn": "这些系谱的掺入是更为离奇和无理的."
+    },
+    {
+      "en": "The method of measurement is the same for oral or nasal insertion.",
+      "cn": "经口和经鼻这两种途径插管所测量的方法相同."
+    },
+    {
+      "en": "The other topic hierarchy is integrated with this topic hierarchy at this insertion point.",
+      "cn": "其他主题层次结构在这个插入点与该主题层次结构集成。"
+    },
+    {
+      "en": "They have high reflection losses and isolates degree, lower insertion loss.",
+      "cn": "具有高的反射损耗和隔离度, 较低的插入损耗."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "insert",
+          "tran_cn": " 插入物"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "insert",
+          "tran_cn": " 插入；嵌入"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "interpolation",
+            "inlet"
+          ],
+          "tran_cn": "插入；[计]嵌入；插入物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addition"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "insertion loss",
+      "tran_cn": "插入损耗"
+    },
+    {
+      "phrase": "insertion point",
+      "tran_cn": "插入点"
+    },
+    {
+      "phrase": "insertion sort",
+      "tran_cn": "插入分类"
+    },
+    {
+      "phrase": "weft insertion",
+      "tran_cn": "引纬；投纬"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "插入（物）",
+      "tran_en": "the act of putting something inside something else"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "insertions"
+    ]
+  }
+}

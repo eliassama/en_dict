@@ -1,0 +1,66 @@
+{
+  "word": "parol",
+  "ipa": {
+    "us": "pə'rəʊl",
+    "uk": "pə'roʊl"
+  },
+  "sentences": [
+    {
+      "en": "The doctor just have 50,000 diagnosis a month, artificial intelligence and parol professionals are part of that.",
+      "cn": "医生每月要诊断大约5万个病人，包括人工智能的口头诊断。"
+    },
+    {
+      "en": "The parol evidence rule applies to evidence as to the express terms of a contract are.",
+      "cn": "口头证据规则适用于确定合同的明示条款的证据."
+    },
+    {
+      "en": "This kind Parol contract Work relations cannot Obtains the acknowledgment.",
+      "cn": "这种仅以口头合同成立的劳动关系得不到承认."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "oral",
+            "spoken",
+            "verbal"
+          ],
+          "tran_cn": "口头的；没有签章的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "oral defense"
+          ],
+          "tran_cn": "口头言词；口头答辩；石蜡燃料"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by parol",
+      "tran_cn": "口头声明"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "口头的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "口头言词",
+      "tran_en": "(formerly) the pleadings in an action when presented by word of mouth "
+    }
+  ],
+  "exchange": {}
+}

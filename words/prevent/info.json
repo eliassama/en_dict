@@ -1,0 +1,209 @@
+{
+  "word": "prevent",
+  "ipa": {
+    "us": "prɪˈvent",
+    "uk": "prɪˈvent"
+  },
+  "sentences": [
+    {
+      "en": "A dentist may decide to extract the tooth to prevent recurrent trouble.",
+      "cn": "牙医可能会决定拔掉那颗牙，以免反复发作。"
+    },
+    {
+      "en": "Family control would prevent any hostile takeover or greenmail attempt.",
+      "cn": "家族管理可以防止任何恶意收购或绿票讹诈的企图。"
+    },
+    {
+      "en": "He said this would prevent companies from creating new jobs.",
+      "cn": "他说这将使公司无法创造新的工作机会。"
+    },
+    {
+      "en": "He tried to prevent union money from being sequestrated by the courts.",
+      "cn": "他试图阻止法院扣押工会的资产。"
+    },
+    {
+      "en": "Lemon juice can help to prevent economy-class syndrome by improving blood circulation.",
+      "cn": "柠檬汁能够改善血液循环，有助于预防经济舱综合征。"
+    },
+    {
+      "en": "Officials say they'll spare no expense to prevent another riot.",
+      "cn": "官员说他们会不惜一切地阻止再次发生暴乱。"
+    },
+    {
+      "en": "Police are out in force to prevent a recurrence of the violence.",
+      "cn": "警方出动大量警力防止暴力事件再次发生。"
+    },
+    {
+      "en": "Riot police are being deployed throughout the city to prevent any trouble.",
+      "cn": "正在全城部署防暴警察以防止发生骚乱。"
+    },
+    {
+      "en": "Smear Vaseline on to your baby's skin to prevent soreness.",
+      "cn": "给孩子皮肤上抹些凡士林以防止肿痛。"
+    },
+    {
+      "en": "Stir the custard occasionally to prevent a skin forming.",
+      "cn": "要不时地搅拌牛奶蛋糊，防止其表面结皮。"
+    },
+    {
+      "en": "The cables are all bright yellow to prevent you tripping over them.",
+      "cn": "电缆都是亮黄色，以防绊倒人。"
+    },
+    {
+      "en": "The house has been barred and bolted to prevent re-entry.",
+      "cn": "房子已经被封了，门被闩上，防止有人入内。"
+    },
+    {
+      "en": "The police have been trying to prevent them carrying weapons.",
+      "cn": "警方一直都设法阻止他们携带武器。"
+    },
+    {
+      "en": "The rules are intended to prevent accidents.",
+      "cn": "这些规定旨在预防事故。"
+    },
+    {
+      "en": "The security forces had to intervene to prevent the situation worsening.",
+      "cn": "安全部队不得不介入，以防止局势进一步恶化。"
+    },
+    {
+      "en": "We recognized the possibility and took steps to prevent it happening.",
+      "cn": "我们认识到了这种可能性，并且采取了一些预防措施。"
+    },
+    {
+      "en": "We were prevented from entering the site.",
+      "cn": "我们被阻止进入现场。"
+    },
+    {
+      "en": "Wrap small ornaments in paper to prevent them being damaged.",
+      "cn": "把小饰品用纸包上以免损坏。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prevenient",
+          "tran_cn": " 预期的；以前的；预防的；先行的"
+        },
+        {
+          "word": "preventable",
+          "tran_cn": " 可预防的；可阻止的；可防止的"
+        },
+        {
+          "word": "preventive",
+          "tran_cn": " 预防的，防止的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "prevention",
+          "tran_cn": " 预防；阻止；妨碍"
+        },
+        {
+          "word": "preventive",
+          "tran_cn": " 预防药；预防法"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abort",
+            "avert",
+            "bar",
+            "block",
+            "deter",
+            "discourage",
+            "forbid",
+            "from",
+            "help",
+            "hinder",
+            "inhibit",
+            "keep",
+            "preclude",
+            "prohibit",
+            "silence",
+            "stop",
+            "thwart"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "stem",
+            "hinder from"
+          ],
+          "tran_cn": "妨碍，阻止"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "block",
+            "deter",
+            "forbid",
+            "from",
+            "hinder",
+            "inhibit",
+            "keep",
+            "preclude",
+            "prohibit",
+            "stop",
+            "thwart"
+          ],
+          "tran_cn": "阻止;制止;妨碍"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "prevent and control pollution",
+      "tran_cn": "防治污染；预防和控制污染"
+    },
+    {
+      "phrase": "prevent from",
+      "tran_cn": "阻止，制止；妨碍"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "阻碍，预防",
+      "tran_en": "to stop something from happening, or stop someone from doing something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "prevents"
+    ],
+    "past": [
+      "prevented"
+    ],
+    "done": [
+      "prevented"
+    ],
+    "ing": [
+      "preventing"
+    ],
+    "adj": [
+      "preventable"
+    ]
+  }
+}

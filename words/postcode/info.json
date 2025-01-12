@@ -1,0 +1,84 @@
+{
+  "word": "postcode",
+  "ipa": {
+    "us": "ˈpəʊstkəʊd",
+    "uk": "ˈpoʊstkoʊd"
+  },
+  "sentences": [
+    {
+      "en": "If yes, please note your address and postcode.",
+      "cn": "如果需要, 请注明,并提供详细的邮寄地址和邮编."
+    },
+    {
+      "en": "In the English class, the teacher asked us to write down our home address and postcode.",
+      "cn": "意思是,在英语课上, 老师要我们写下我们的地址和邮编."
+    },
+    {
+      "en": "It is clerical error postcode, do not close?",
+      "cn": "是不是写错了邮编, 收不到 啊 ?"
+    },
+    {
+      "en": "Mark the frame with your postcode.",
+      "cn": "在这一格里写上你的邮政编码。"
+    },
+    {
+      "en": "O : If you write the postcode, it will be helpful.",
+      "cn": "如果你写上邮编, 它会是有帮助的."
+    },
+    {
+      "en": "Please add the postcode.",
+      "cn": "请把邮编补上."
+    },
+    {
+      "en": "Type your street address and postcode.",
+      "cn": "键入你的街道地址和邮政编码。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "postal",
+          "tran_cn": " 邮政的；邮局的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "postal",
+          "tran_cn": " 明信片"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "zip code",
+            "postal code"
+          ],
+          "tran_cn": "（英）邮政编码；邮区号"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "邮政编码",
+      "tran_en": "a group of numbers and letters that you write at the end of an address on an envelope, package etc. The postcode shows the exact area where someone lives and helps the post office deliver the post more quickly."
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "postcodes"
+    ]
+  }
+}

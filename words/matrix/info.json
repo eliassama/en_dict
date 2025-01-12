@@ -1,0 +1,184 @@
+{
+  "word": "matrix",
+  "ipa": {
+    "us": "ˈmeɪtrɪks",
+    "uk": "ˈmetrɪks"
+  },
+  "sentences": [
+    {
+      "en": "a matrix table",
+      "cn": "矩阵表"
+    },
+    {
+      "en": "Local deviations depend strongly on the local geometry of the solid matrix.",
+      "cn": "局部偏离严格地依赖于固体矩阵的局部几何形状."
+    },
+    {
+      "en": "Macromolecules cannot approach the ligand owing to steric hindrance of the matrix.",
+      "cn": "由于载体的立体位阻的关系,大分子化合物不能接触到配基."
+    },
+    {
+      "en": "Matrix formulations are ideally suited to the storage facilities of computers.",
+      "cn": "矩阵列方程最适于计算机存储."
+    },
+    {
+      "en": "The basis matrix B is unimodular.",
+      "cn": "基矩阵B是幺模的."
+    },
+    {
+      "en": "The condition number, defined below, is changed by scaling the matrix.",
+      "cn": "调整矩阵的比例就改变了下面定义的条件数."
+    },
+    {
+      "en": "The fracture surface traverses matrix as well as fibers and interface.",
+      "cn": "断裂表面横切过基体、纤维和界面."
+    },
+    {
+      "en": "The matrix is defined as the reciprocal of A.",
+      "cn": "该矩阵定义为A之逆矩阵."
+    },
+    {
+      "en": "The square matrix is called a diagonal matrix.",
+      "cn": "该方矩阵称为对角矩阵."
+    },
+    {
+      "en": "They may be conveniently expressed in the following matrix form.",
+      "cn": "它们可以方便地表示成下列矩阵形式."
+    },
+    {
+      "en": "This is standard matrix theory.",
+      "cn": "这是规范的矩阵理论."
+    },
+    {
+      "en": "This matrix is condensed by the equation.",
+      "cn": "此矩阵借方程缩聚."
+    },
+    {
+      "en": "This matrix is symmetric and banded , the band being equal to four.",
+      "cn": "这个矩阵是对称的且是带状的, 带宽等于四."
+    },
+    {
+      "en": "This may be reduced to the much more condensed matrix form.",
+      "cn": "这可以简化成较精简的矩阵形式."
+    },
+    {
+      "en": "This strain can be compared directly with the allowable matrix strain.",
+      "cn": "这个应变值能直接与基体容许应变比较."
+    },
+    {
+      "en": "We now omit the prime on the matrix elements.",
+      "cn": "我们现在把各矩阵元素上的一撇略去."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "model",
+            "shape",
+            "former",
+            "substrate"
+          ],
+          "tran_cn": "[数]矩阵；模型；[生物][地质]基质；母体；子宫；脉石"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "adjacency matrix",
+      "tran_cn": "邻接矩阵，相邻矩阵"
+    },
+    {
+      "phrase": "coefficient matrix",
+      "tran_cn": "系数矩阵"
+    },
+    {
+      "phrase": "correlation matrix",
+      "tran_cn": "相关矩阵"
+    },
+    {
+      "phrase": "covariance matrix",
+      "tran_cn": "[计]协方差矩阵"
+    },
+    {
+      "phrase": "density matrix",
+      "tran_cn": "密度矩阵"
+    },
+    {
+      "phrase": "dot matrix",
+      "tran_cn": "点阵"
+    },
+    {
+      "phrase": "extracellular matrix",
+      "tran_cn": "细胞外基质"
+    },
+    {
+      "phrase": "inverse matrix",
+      "tran_cn": "[计]矩阵求逆，逆矩阵，反矩阵"
+    },
+    {
+      "phrase": "jacobian matrix",
+      "tran_cn": "雅可比矩阵；[数]导数矩阵"
+    },
+    {
+      "phrase": "matrix analysis",
+      "tran_cn": "矩阵分析（法）"
+    },
+    {
+      "phrase": "matrix effect",
+      "tran_cn": "基体效应"
+    },
+    {
+      "phrase": "matrix equation",
+      "tran_cn": "矩阵方程"
+    },
+    {
+      "phrase": "matrix structure",
+      "tran_cn": "矩阵结构；基地组织"
+    },
+    {
+      "phrase": "matrix theory",
+      "tran_cn": "矩阵理论"
+    },
+    {
+      "phrase": "metal matrix",
+      "tran_cn": "金属基体；金属模版"
+    },
+    {
+      "phrase": "sparse matrix",
+      "tran_cn": "[数]稀疏矩阵"
+    },
+    {
+      "phrase": "stiffness matrix",
+      "tran_cn": "刚度矩阵；劲度矩阵"
+    },
+    {
+      "phrase": "transfer matrix",
+      "tran_cn": "转移距阵；转换矩阵"
+    },
+    {
+      "phrase": "transformation matrix",
+      "tran_cn": "变换矩阵，转换矩阵"
+    },
+    {
+      "phrase": "transition matrix",
+      "tran_cn": "跃迁矩阵"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<数>矩阵，模型，基质，母体，子宫",
+      "tran_en": "an arrangement of numbers, letters, or signs in rows and  column s  that you consider to be one amount, and that you use in solving mathematical problems"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "matrices"
+    ]
+  }
+}

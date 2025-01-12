@@ -1,0 +1,160 @@
+{
+  "word": "hello",
+  "ipa": {
+    "us": "həˈləʊ",
+    "uk": "həˈloʊ"
+  },
+  "sentences": [
+    {
+      "en": "\"Er, hello, viewers,\" he babbled.",
+      "cn": "“呃，观众们，你们好，”他含混不清地说。"
+    },
+    {
+      "en": "\"Hello, is this Raymond Brown?\"— 'Yeah. who's this.'",
+      "cn": "“喂，是雷蒙德·布朗吗？”——“对，您是哪位？”"
+    },
+    {
+      "en": "\"Hello, Maria,\" he said, and she blushed again.",
+      "cn": "“你好，玛丽亚，”他说，这让她脸上又泛起了红晕。"
+    },
+    {
+      "en": "\"Hello, Swanson,\" he said without surprise.",
+      "cn": "“你好，斯旺森。”他说话的时候并未显得惊讶。"
+    },
+    {
+      "en": "\"Hello,\" he said. \"This is an unexpected pleasure.\"",
+      "cn": "“嗨，”他说。“这真是个意外之喜。”"
+    },
+    {
+      "en": "A moment later, Cohen picked up the phone. \"Hello?\"",
+      "cn": "过了一会儿，科恩接起电话。“喂？”"
+    },
+    {
+      "en": "Hello Freddy, it's only me, Maxine.",
+      "cn": "你好，弗蕾迪！是我，玛克辛。"
+    },
+    {
+      "en": "Hello John. What can we do for you?",
+      "cn": "喂，约翰!我们能帮你做点什么吗？"
+    },
+    {
+      "en": "Hello, Dolph. Glad I caught you.",
+      "cn": "喂，多尔夫，可见着你了。"
+    },
+    {
+      "en": "Hello, is Gordon there please?",
+      "cn": "喂，请问戈登在吗？"
+    },
+    {
+      "en": "Hello, John! How are you?",
+      "cn": "喂，约翰！你好吗？"
+    },
+    {
+      "en": "Hello, this is John Thompson.",
+      "cn": "喂，我是约翰·汤普森。"
+    },
+    {
+      "en": "Hello, Trish.",
+      "cn": "你好，特里茜。"
+    },
+    {
+      "en": "I answered the phone and this voice went, \"Hello? Is that Alison?\"",
+      "cn": "我拿起电话，就听到这个声音：“喂？是艾利森吗？”"
+    },
+    {
+      "en": "Stanley, come and say hello to your nephew.",
+      "cn": "斯坦利，过来和你的侄子打声招呼。"
+    },
+    {
+      "en": "The salesperson greeted me with a warm hello.",
+      "cn": "售货员热情地和我打招呼。"
+    },
+    {
+      "en": "Well, hello there ! I haven’t seen you for ages.",
+      "cn": "嗨，你好！好久不见了。"
+    },
+    {
+      "en": "Why hello, Tom.",
+      "cn": "哎呀，你好，汤姆。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "int",
+      "words": [
+        {
+          "words": [
+            "hallo",
+            "holloo"
+          ],
+          "tran_cn": "喂；哈罗"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "day",
+            "good",
+            "greetings",
+            "salutations"
+          ],
+          "tran_cn": "表示问候"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "day",
+            "good",
+            "greeting",
+            "salutation",
+            "salute"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hello again",
+      "tran_cn": "回魂妻（电影名称）"
+    },
+    {
+      "phrase": "hello and welcome",
+      "tran_cn": "欢迎莅临"
+    },
+    {
+      "phrase": "hello everyone",
+      "tran_cn": "大家好"
+    },
+    {
+      "phrase": "say hello",
+      "tran_cn": "打招呼；问好"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "int",
+      "tran_cn": "哈喽，喂，你好，您好，表示问候，打招呼",
+      "tran_en": "used as a greeting when you see or meet someone"
+    },
+    {
+      "pos": "interj",
+      "tran_cn": "你好；喂",
+      "tran_en": "used as a greeting when you see or meet someone"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "“喂”的招呼声或问候声"
+    }
+  ],
+  "exchange": {}
+}

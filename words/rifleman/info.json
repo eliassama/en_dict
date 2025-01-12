@@ -1,0 +1,67 @@
+{
+  "word": "rifleman",
+  "ipa": {
+    "us": "ˈraɪflmən",
+    "uk": "ˈraɪfəlmən"
+  },
+  "sentences": [
+    {
+      "en": "A rifleman was racing out of the open door.",
+      "cn": "一名步兵正从打开的门中冲出来。"
+    },
+    {
+      "en": "It is this rifleman who shot the enemy commander in chief.",
+      "cn": "是这个步枪射手打死了敌方的总司令."
+    },
+    {
+      "en": "Level 1 - 25 % of the time, the Rifleman deals 30 bonus damage.",
+      "cn": "一级-25%的几率爆头, 造成30点额外的伤害.晕眩0.01秒."
+    },
+    {
+      "en": "Level 2 - 30 % of the time , the Rifleman deals 30 bonus damage and stuns for. 1 seconds.",
+      "cn": "二级-30%的几率爆头, 造成30点额外的伤害. 晕眩0.1秒."
+    },
+    {
+      "en": "Refinery - Sell after the Harverster comes out. Send the Rifleman to protect your expansion.",
+      "cn": "矿厂 - 在矿车出来后卖掉. 派机枪兵去保护扩张点."
+    },
+    {
+      "en": "Rifleman Squad - This creates an anti - infantry machine gun on one of the hard - points of the MARV.",
+      "cn": "机枪兵 —— 这可以在MARV的 驻扎点上架设一挺 反 步兵机枪."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rifling",
+          "tran_cn": " 膛线；来复线"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "rifling",
+          "tran_cn": " 抢劫；搜索；用步枪射击（rifle的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "步兵",
+      "tran_en": "a man who uses a rifle"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "riflemen"
+    ]
+  }
+}

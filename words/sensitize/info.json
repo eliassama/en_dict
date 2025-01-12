@@ -1,0 +1,167 @@
+{
+  "word": "sensitize",
+  "ipa": {
+    "us": "ˈsensətaɪz",
+    "uk": "'sensətaɪz"
+  },
+  "sentences": [
+    {
+      "en": "It seems important to sensitize people to the fact that depression is more than the blues.",
+      "cn": "让人们意识到抑郁症不仅仅是心情忧郁，这点似乎很重要。"
+    },
+    {
+      "en": "Long - term exposure to this medicine may sensitize you to the allergen.",
+      "cn": "长期使用这种药可能会使你易于过敏."
+    },
+    {
+      "en": "Luteolin can also sensitize a number of apoptosis - inducing factors by unique mechanisms.",
+      "cn": "木犀草素还能增敏多种致凋亡因子,具有多靶点抗肿瘤的潜力."
+    },
+    {
+      "en": "sensitized photographic paper",
+      "cn": "感光相纸"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sensing",
+          "tran_cn": " 敏感的"
+        },
+        {
+          "word": "sensitive",
+          "tran_cn": " 敏感的；[仪] 灵敏的；感光的；易受伤害的"
+        },
+        {
+          "word": "sensitized",
+          "tran_cn": " [感光] 敏化的；激活的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sensitively",
+          "tran_cn": " 敏感地；易感知地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sensing",
+          "tran_cn": " 传感；感觉；测知"
+        },
+        {
+          "word": "sensitiser",
+          "tran_cn": " 感光剂（等于sensitizer）"
+        },
+        {
+          "word": "sensitising",
+          "tran_cn": " 感光"
+        },
+        {
+          "word": "sensitivity",
+          "tran_cn": " 敏感；敏感性；过敏"
+        },
+        {
+          "word": "sensitization",
+          "tran_cn": " 敏化作用；促进感受性；感光度之增强"
+        },
+        {
+          "word": "sensitizer",
+          "tran_cn": " [感光] 敏化剂；[感光] 感光剂；激敏物"
+        },
+        {
+          "word": "sensitizing",
+          "tran_cn": " 光敏处理"
+        },
+        {
+          "word": "sensitometer",
+          "tran_cn": " [摄] 感光计；[摄] 曝光表"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "sensing",
+          "tran_cn": " 感觉，了解（sense的现在分词）"
+        },
+        {
+          "word": "sensitizing",
+          "tran_cn": " 使敏感（sensitize的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sensitise",
+          "tran_cn": " 变得敏感（等于sensitize）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sensitise",
+          "tran_cn": " 使敏感（等于sensitize）"
+        },
+        {
+          "word": "sensitising",
+          "tran_cn": " 使感光（sensitise的现在分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "string up"
+          ],
+          "tran_cn": "使敏感；使具有感光性"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使敏感；使具有感光性",
+      "tran_en": "to give someone some experience or knowledge of a particular problem or situation so that they can notice it and understand it easily"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使某事物或某人敏感，（摄影）使（胶片、纸等）易于感光"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "sensitizes"
+    ],
+    "past": [
+      "sensitized"
+    ],
+    "done": [
+      "sensitized"
+    ],
+    "ing": [
+      "sensitizing"
+    ],
+    "noun": [
+      "sensitization"
+    ]
+  }
+}

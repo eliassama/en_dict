@@ -1,0 +1,190 @@
+{
+  "word": "negotiate",
+  "ipa": {
+    "us": "nɪˈɡəʊʃieɪt",
+    "uk": "nɪˈɡoʊʃieɪt"
+  },
+  "sentences": [
+    {
+      "en": "He is commissioned to negotiate with them.",
+      "cn": "他被授权与他们谈判."
+    },
+    {
+      "en": "He was, in a sense, given a blank cheque to negotiate the new South Africa.",
+      "cn": "从某种意义上来说，他已经全权负责建立新南非的协商工作。"
+    },
+    {
+      "en": "His first aim is to get the warring parties back to the negotiating table (= discussing something ).",
+      "cn": "他的首要目标就是把交战各方拉回到谈判桌上。"
+    },
+    {
+      "en": "I'll negotiate with their coach on the date of the match.",
+      "cn": "我将与他们的教练磋商比赛的日期问题."
+    },
+    {
+      "en": "I'm sorry; our bank doesn't negotiate foreign checks.",
+      "cn": "对不起, 我们银行不兑换国外支票."
+    },
+    {
+      "en": "If we go after the Turk and the Families interfere, we'll negotiate the issue.",
+      "cn": "要是咱们想抓那个‘土耳其人’,而其他大家族要插手干涉, 那咱们就将计就计来谈判."
+    },
+    {
+      "en": "Negotiate about Afghanistan, but don't sit on your hands while you bargain.",
+      "cn": "谈判阿富汗问题吧, 但当你谈判时不要坐守不前、不采取行动."
+    },
+    {
+      "en": "The driver failed to negotiate a bend and ran into a tree.",
+      "cn": "司机没能顺利拐弯，撞到了树上。"
+    },
+    {
+      "en": "The President wants to squelch any perception that the meeting is an attempt to negotiate.",
+      "cn": "总统想要消除任何视本次会议为谈判尝试的看法。"
+    },
+    {
+      "en": "They refused to negotiate unless three preliminary requirements were met.",
+      "cn": "如果三项先决条件得不到满足,他们就拒绝谈判."
+    },
+    {
+      "en": "To negotiate with our buyers is my forte.",
+      "cn": "与买方谈判是我的特长。"
+    },
+    {
+      "en": "We try to negotiate a safe passage for relief convoys which will travel that stretch of road.",
+      "cn": "我们试图通过谈判为将要经过那段路的救援车队争取到安全通行权。"
+    },
+    {
+      "en": "We'll leave you to negotiate with them.",
+      "cn": "我们委托你去与他们谈判."
+    },
+    {
+      "en": "We've decided to negotiate a loan with them.",
+      "cn": "我们决定和他们商定贷款之事."
+    },
+    {
+      "en": "We've decided to negotiate with the employers about our wage claims.",
+      "cn": "我们已经决定和雇主谈判关于我们的工资要求."
+    },
+    {
+      "en": "You can even snatch a few hours off, and perhaps negotiate the occasional night off too.",
+      "cn": "你甚至可以抽空休息几小时，商量一下的话没准还能偶尔不用上晚班。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "negotiable",
+          "tran_cn": " 可通过谈判解决的；可协商的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "negotiant",
+          "tran_cn": " 谈判者；磋商者"
+        },
+        {
+          "word": "negotiation",
+          "tran_cn": " 谈判；转让；顺利的通过"
+        },
+        {
+          "word": "negotiator",
+          "tran_cn": " 谈判者；磋商者；交涉者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arbitrate",
+            "arrange",
+            "intercede",
+            "intervene",
+            "mediate",
+            "over",
+            "referee",
+            "settle",
+            "talk",
+            "umpire"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "transact"
+          ],
+          "tran_cn": "谈判，交涉"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "arbitrate",
+            "arrange",
+            "intervene",
+            "mediate",
+            "over",
+            "referee",
+            "settle",
+            "talk",
+            "umpire"
+          ],
+          "tran_cn": "谈判;交涉"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "negotiate about",
+      "tran_cn": "协商；谈判"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "谈判，商议；转让；越过",
+      "tran_en": "to discuss something in order to reach an agreement, especially in business or politics"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "谈判，协商，交涉",
+      "tran_en": "to discuss something in order to reach an agreement, especially in business or politics"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "谈判达成，成功越过，议价出售",
+      "tran_en": "to succeed in getting past or over a difficult place on a path, road etc"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "negotiates"
+    ],
+    "past": [
+      "negotiated"
+    ],
+    "done": [
+      "negotiated"
+    ],
+    "ing": [
+      "negotiating"
+    ]
+  }
+}

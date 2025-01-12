@@ -1,0 +1,150 @@
+{
+  "word": "surgeon",
+  "ipa": {
+    "us": "ˈsɜːdʒən",
+    "uk": "ˈsɜːrdʒən"
+  },
+  "sentences": [
+    {
+      "en": "...a heart surgeon.",
+      "cn": "…一位心脏外科医生。"
+    },
+    {
+      "en": "A plastic surgeon can remove the top layer of skin.",
+      "cn": "整形外科医生可以除去最表层的皮肤。"
+    },
+    {
+      "en": "He followed his father and became a surgeon.",
+      "cn": "他子承父业，成为了一名外科医生。"
+    },
+    {
+      "en": "He knew that under the surgeon's knife he would surely die.",
+      "cn": "他知道他必定会死在外科医生刀下."
+    },
+    {
+      "en": "His injuries were not such as to need a surgeon.",
+      "cn": "他的伤还不是那种需要外科医生治的伤."
+    },
+    {
+      "en": "His proficiency as a surgeon is well known.",
+      "cn": "他作为一名外科医生的水平是有名的."
+    },
+    {
+      "en": "Only your family doctor can refer you to a surgeon.",
+      "cn": "只有你的家庭医生才能把你介绍给外科医生。"
+    },
+    {
+      "en": "Shirley's brother is now a consultant heart surgeon in Sweden.",
+      "cn": "雪利的兄弟现在在瑞典做心脏外科高级顾问医师。"
+    },
+    {
+      "en": "Surgeon General's warning: cigarette smoking causes cancer",
+      "cn": "卫生局长提醒大家：吸烟致癌"
+    },
+    {
+      "en": "The surgeon applied some ointment to my burnt fingers.",
+      "cn": "外科医生在我烧伤的指头上敷了一些药膏."
+    },
+    {
+      "en": "The surgeon cut through connective tissue to expose the bone.",
+      "cn": "外科医生割开结缔组织,让骨头露出来."
+    },
+    {
+      "en": "The surgeon healed the soldier's bullet wound in the leg.",
+      "cn": "医生治好了那位士兵腿部的枪伤."
+    },
+    {
+      "en": "The surgeon is now operating.",
+      "cn": "外科医生正在做手术."
+    },
+    {
+      "en": "The surgeon sewed up the wound.",
+      "cn": "外科医师缝合好伤口."
+    },
+    {
+      "en": "The young surgeon showed exceptional competence.",
+      "cn": "这位年轻的外科医生具有不寻常的才干."
+    },
+    {
+      "en": "We must be as impersonal as a surgeon with his knife.",
+      "cn": "我们必须像外科医生拿手术刀时一样冷静客观，不受任何感情影响。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "surgical",
+          "tran_cn": " 外科的；手术上的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "surgically",
+          "tran_cn": " 如外科手术般地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "surgery",
+          "tran_cn": " 外科；外科手术；手术室；诊疗室"
+        },
+        {
+          "word": "surgical",
+          "tran_cn": " 外科手术；外科病房"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sawbones",
+            "chirurgeon"
+          ],
+          "tran_cn": "外科医生"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "orthopedic surgeon",
+      "tran_cn": "整形外科医生；骨科医师"
+    },
+    {
+      "phrase": "plastic surgeon",
+      "tran_cn": "整形外科医生"
+    },
+    {
+      "phrase": "surgeon general",
+      "tran_cn": "卫生局局长；军医处处长"
+    },
+    {
+      "phrase": "veterinary surgeon",
+      "tran_cn": "兽医"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "外科医生，[军]军医",
+      "tran_en": "a doctor who does operations in a hospital"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "surgeons"
+    ]
+  }
+}

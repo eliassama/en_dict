@@ -1,0 +1,59 @@
+{
+  "word": "aliquant",
+  "ipa": {
+    "us": "'ælɪkwənt",
+    "uk": "'ælɪkwənt"
+  },
+  "sentences": [
+    {
+      "en": "5 is an aliquant part of 12",
+      "cn": ""
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "aliquot",
+          "tran_cn": " 能整除的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "aliquot",
+          "tran_cn": " 能整除"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "indivisible"
+          ],
+          "tran_cn": "不能整除的；[数]除不尽的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不能整除的",
+      "tran_en": "of, signifying, or relating to a quantity or number that is not an exact divisor of a given quantity or number "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "不能整除；[数] 除不尽的数"
+    }
+  ],
+  "exchange": {}
+}

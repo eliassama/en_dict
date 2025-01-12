@@ -1,0 +1,262 @@
+{
+  "word": "packet",
+  "ipa": {
+    "us": "ˈpækɪt",
+    "uk": "ˈpækɪt"
+  },
+  "sentences": [
+    {
+      "en": "a packet of chocolate biscuits",
+      "cn": "一包巧克力饼干"
+    },
+    {
+      "en": "a packet of chocolate digestives",
+      "cn": "一包巧克力粗面饼干"
+    },
+    {
+      "en": "a packet of cigarettes",
+      "cn": "一包香烟"
+    },
+    {
+      "en": "a packet of envelopes",
+      "cn": "一包信封"
+    },
+    {
+      "en": "a packet of salted peanuts",
+      "cn": "一袋咸花生"
+    },
+    {
+      "en": "a packet of wild flower seeds",
+      "cn": "一包野花籽"
+    },
+    {
+      "en": "Elinor bought her a packet of biscuits.",
+      "cn": "埃莉诺给她买了一袋饼干。"
+    },
+    {
+      "en": "Follow the instructions on the packet carefully.",
+      "cn": "仔细按照包装上的说明操作。"
+    },
+    {
+      "en": "He had smoked half a packet of cigarettes.",
+      "cn": "他已经吸了半包香烟。"
+    },
+    {
+      "en": "I send each inquirer a packet of information.",
+      "cn": "我给每位查询者发送了一份资料。"
+    },
+    {
+      "en": "It was a packet mix.",
+      "cn": "这是一小包混合配料。"
+    },
+    {
+      "en": "It'll cost you a packet.",
+      "cn": "那会花你一大笔钱。"
+    },
+    {
+      "en": "It'says on the packet that these crisps contain no additives.",
+      "cn": "包装上说这些炸薯片不含添加剂."
+    },
+    {
+      "en": "Oliver filched a packet of cigarettes from a well - dressed passenger.",
+      "cn": "奥立佛从一名衣冠楚楚的乘客身上偷得一包香烟."
+    },
+    {
+      "en": "Paul tore open the packet as soon as it arrived.",
+      "cn": "保罗一收到包裹就拆开了。"
+    },
+    {
+      "en": "Someone's making a packet out of it.",
+      "cn": "有人从中狠赚了一笔。"
+    },
+    {
+      "en": "The Inspector opened the packet of cigarettes.",
+      "cn": "检查员撕开了那包香烟。"
+    },
+    {
+      "en": "You could save yourself a packet.",
+      "cn": "你能为自己省一大笔钱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "packable",
+          "tran_cn": " 可捆扎的；可打包的；可压紧的"
+        },
+        {
+          "word": "packaged",
+          "tran_cn": " 包装过的"
+        },
+        {
+          "word": "packed",
+          "tran_cn": " （常用来构成复合词）充满…的，塞满了…的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "packaging",
+          "tran_cn": " 包装；包装业，包装风格"
+        },
+        {
+          "word": "packer",
+          "tran_cn": " 包装机；包装工人；罐头食品工人，赶牲口运货的人"
+        },
+        {
+          "word": "packing",
+          "tran_cn": " 包装；填充物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "packaged",
+          "tran_cn": " 包装；把…装袋（package的过去式和过去分词）"
+        },
+        {
+          "word": "packaging",
+          "tran_cn": " 包装（package的ing形式）"
+        },
+        {
+          "word": "packed",
+          "tran_cn": " 包装（pack的过去分词）"
+        },
+        {
+          "word": "packing",
+          "tran_cn": " 包装；装满；压紧（pack的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bale",
+            "bundle",
+            "envelope",
+            "pack",
+            "package",
+            "parcel",
+            "pouch",
+            "sheaf"
+          ],
+          "tran_cn": "小包,小捆,封套"
+        },
+        {
+          "words": [
+            "mailboat"
+          ],
+          "tran_cn": "邮包,"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "boat",
+            "freighter",
+            "oiler",
+            "paddlesteamer",
+            "sailing-ship",
+            "ship",
+            "steamboat",
+            "steamer",
+            "steamship",
+            "sternwheeler",
+            "tanker",
+            "transport",
+            "tugboat",
+            "vessel"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "encase",
+            "sheathe"
+          ],
+          "tran_cn": "包装，打包"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "buy a packet",
+      "tran_cn": "[美国俚语]被击落；被杀"
+    },
+    {
+      "phrase": "data packet",
+      "tran_cn": "[计]数据包"
+    },
+    {
+      "phrase": "ip packet",
+      "tran_cn": "因特网数据包"
+    },
+    {
+      "phrase": "packet delay",
+      "tran_cn": "包延迟；封包延迟；分组延迟"
+    },
+    {
+      "phrase": "packet radio",
+      "tran_cn": "无线电分组交换网络"
+    },
+    {
+      "phrase": "packet switch",
+      "tran_cn": "[计]信息包交换"
+    },
+    {
+      "phrase": "packet switched network",
+      "tran_cn": "分封交换网路；包交换网络；分组交换网络"
+    },
+    {
+      "phrase": "packet switching",
+      "tran_cn": "[通信]包交换技术"
+    },
+    {
+      "phrase": "packet transmission",
+      "tran_cn": "包传输；群发送；报文分组通信"
+    },
+    {
+      "phrase": "pay packet",
+      "tran_cn": "n. （附工资及工资单的）工资袋（等于pay envelope）；薪水"
+    },
+    {
+      "phrase": "wave packet",
+      "tran_cn": "[物]波包；波群"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "小包，信息包，邮船，大笔款项",
+      "tran_en": "a small flat package that is sent by post or delivered to someone"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "包装，打包，用邮船运送"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "packets"
+    ]
+  }
+}

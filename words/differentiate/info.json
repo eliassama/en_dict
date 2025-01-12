@@ -1,0 +1,218 @@
+{
+  "word": "differentiate",
+  "ipa": {
+    "us": "ˌdɪfəˈrenʃieɪt",
+    "uk": "ˌdɪfəˈrenʃieɪt"
+  },
+  "sentences": [
+    {
+      "en": "A botanist can differentiate varieties of plants.",
+      "cn": "植物学家能区分各种不同的植物."
+    },
+    {
+      "en": "A child may not differentiate between his imagination and the real world.",
+      "cn": "儿童可能无法将自己的幻想与真实世界区分开来。"
+    },
+    {
+      "en": "At this age your baby cannot differentiate one person from another.",
+      "cn": "这个年龄的婴儿还不能认人。"
+    },
+    {
+      "en": "Differentiate between command and configuration.",
+      "cn": "要把命令和设置区别开来."
+    },
+    {
+      "en": "He cannot differentiate the two flowers.",
+      "cn": "他无法辨认这两种花."
+    },
+    {
+      "en": "He couldn't differentiate between the enemy and ourselves.",
+      "cn": "他敌我不分."
+    },
+    {
+      "en": "He never learned to differentiate between good and evil.",
+      "cn": "他从未学会分辨善恶."
+    },
+    {
+      "en": "It is wrong to differentiate between pupils according to their family background.",
+      "cn": "按家庭出身区别对待学生的做法是错误的."
+    },
+    {
+      "en": "It's difficult to differentiate between the two varieties.",
+      "cn": "这两个品种很难辨别。"
+    },
+    {
+      "en": "It's wrong to differentiate between boys and girls.",
+      "cn": "男女孩区别对待是错误的."
+    },
+    {
+      "en": "Skin cells just in front of them differentiate to form lenses.",
+      "cn": "它们前面的皮肤细胞就分化而形成晶体."
+    },
+    {
+      "en": "They are sometimes difficult to differentiate from aromatic or olefinic absorptions.",
+      "cn": "有时它们就难于和芳香族或烯烃的吸收峰相互区别."
+    },
+    {
+      "en": "This genus of plants differentiate into many species.",
+      "cn": "这种植物可区分为许多种类."
+    },
+    {
+      "en": "This property, often called \" helicity,'serves to differentiate the neutrino from its antiparticle.",
+      "cn": "这种性质通常称为 “ 螺旋性”, 可以用来区分中微子和它的反粒子."
+    },
+    {
+      "en": "What differentiates these two periods of history?",
+      "cn": "这两个历史时期的差别在哪里？"
+    },
+    {
+      "en": "You can differentiate between the houses by the shape of their chimneys.",
+      "cn": "你可以凭借烟囱形状的不同来区分这两幢房子."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "differentiable",
+          "tran_cn": " [数] 可微的；可辨的；可区分的"
+        },
+        {
+          "word": "differentiated",
+          "tran_cn": " 分化型；已分化的；可区分的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "differentially",
+          "tran_cn": " 区别地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "differentiation",
+          "tran_cn": " 变异，[生物] 分化；区别"
+        },
+        {
+          "word": "differentiator",
+          "tran_cn": " [自] 微分器；微分电路；区分者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "differentiated",
+          "tran_cn": " 使有差别（differentiate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "a",
+            "apart",
+            "characterize",
+            "contrast",
+            "discriminate",
+            "distinction",
+            "distinguish",
+            "make",
+            "separate",
+            "set",
+            "tell"
+          ],
+          "tran_cn": "区分,区别"
+        },
+        {
+          "words": [
+            "adapt",
+            "adjust",
+            "alter",
+            "change",
+            "different",
+            "make",
+            "modify"
+          ],
+          "tran_cn": "变异,分化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to distinguish",
+            "tell apart"
+          ],
+          "tran_cn": "区分，区别"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to distinguish",
+            "tell apart"
+          ],
+          "tran_cn": "区分，区别"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "differentiate from",
+      "tran_cn": "将…区别开来"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "区分，辨别，使有差别",
+      "tran_en": "to recognize or express the difference between things or people"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "区分，区别",
+      "tran_en": "to recognize or express the difference between things or people"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 区分； 使不同， 使有差异",
+      "tran_en": "If you differentiate between things or if you differentiate one thing from another, you recognize or show the difference between them"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "differentiates"
+    ],
+    "past": [
+      "differentiated"
+    ],
+    "done": [
+      "differentiated"
+    ],
+    "ing": [
+      "differentiating"
+    ],
+    "noun": [
+      "differentiation"
+    ]
+  }
+}

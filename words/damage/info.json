@@ -1,0 +1,329 @@
+{
+  "word": "damage",
+  "ipa": {
+    "us": "ˈdæmɪdʒ",
+    "uk": "ˈdæmɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "Adhering to the new rules meant inflicting serious damage on motor racing.",
+      "cn": "遵守新的规定就意味着赛车比赛将遭受严重影响。"
+    },
+    {
+      "en": "Damage was confined to a small portion of the castle.",
+      "cn": "城堡仅有一小部分受损。"
+    },
+    {
+      "en": "Environmentalists will be on the watch for damage to wildlife.",
+      "cn": "环境保护主义者将会密切关注对野生动物造成的伤害。"
+    },
+    {
+      "en": "Hallucination is common in patients who have suffered damage to the brain.",
+      "cn": "脑部受损的病人常会产生幻觉。"
+    },
+    {
+      "en": "He estimated the speed of the winds from the degree of damage.",
+      "cn": "他根据破坏的程度估算风速。"
+    },
+    {
+      "en": "His eyesight suffered irreparable damage.",
+      "cn": "他的视力受到了无法修复的损伤。"
+    },
+    {
+      "en": "Incidents of this type cause irreparable damage to relations with the community.",
+      "cn": "这类事件会对与该社群的关系造成不可弥合的伤害。"
+    },
+    {
+      "en": "insects that damage crops",
+      "cn": "破坏庄稼的昆虫"
+    },
+    {
+      "en": "It may cost several billion roubles to make good the damage.",
+      "cn": "也许要花上几十亿卢布才能赔偿这一损失。"
+    },
+    {
+      "en": "It's a fair guess to say that the damage will be extensive.",
+      "cn": "说损失会很严重想必猜得不错。"
+    },
+    {
+      "en": "Most of the damage that's occurred was simply because of fallen trees.",
+      "cn": "目前大部分损坏都是因为倒下的树木造成的。"
+    },
+    {
+      "en": "Persistent damage or inadequate healing may lead to chronic lameness.",
+      "cn": "反复受伤或治疗不当可导致长期跛足。"
+    },
+    {
+      "en": "Smoking can severely damage your health.",
+      "cn": "吸烟会严重损害健康。"
+    },
+    {
+      "en": "The company cannot accept responsibility for loss or damage.",
+      "cn": "公司不承担丢失或损坏的责任。"
+    },
+    {
+      "en": "There is little assessment of the damage to the natural environment.",
+      "cn": "几乎未对自然环境破坏程度作出评估。"
+    },
+    {
+      "en": "There may be permanent brain damage.",
+      "cn": "可能有永久性脑损伤。"
+    },
+    {
+      "en": "These chemicals have been found to cause serious environmental damage.",
+      "cn": "经发现，这些化学物质会造成严重的环境破坏。"
+    },
+    {
+      "en": "These gases would seriously damage the patient's respiratory system.",
+      "cn": "这些毒气会严重损害患者的呼吸系统。"
+    },
+    {
+      "en": "They pleaded guilty to lesser charges of criminal damage.",
+      "cn": "他们承认了刑事毁坏的较轻罪名。"
+    },
+    {
+      "en": "Women sometimes damage their skin by going overboard with abrasive cleansers.",
+      "cn": "女性有时因过度使用磨砂膏而损伤了皮肤。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "damaged",
+          "tran_cn": " 被损坏的"
+        },
+        {
+          "word": "damaging",
+          "tran_cn": " 有破坏性的，损害的；诽谤的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "damaged",
+          "tran_cn": " 损害（damage的过去式和过去分词）"
+        },
+        {
+          "word": "damaging",
+          "tran_cn": " 破坏（damage的现在分词形式）；损害"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "harm",
+            "hurt",
+            "impair",
+            "ruin",
+            "spoil"
+          ],
+          "tran_cn": "损害;毁坏"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "break",
+            "cripple",
+            "deface",
+            "destruction",
+            "disfigurement",
+            "harm",
+            "havoc",
+            "hurt",
+            "impair",
+            "injure",
+            "loss",
+            "mar",
+            "mischief",
+            "molest",
+            "prejudice",
+            "ravage",
+            "ruin",
+            "rust",
+            "scotch",
+            "spoil",
+            "upset"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "do harm to",
+            "let in for"
+          ],
+          "tran_cn": "损害；损毁；赔偿金"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "destroy",
+            "hurt",
+            "blast"
+          ],
+          "tran_cn": "损害，毁坏"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "brain damage",
+      "tran_cn": "脑损伤"
+    },
+    {
+      "phrase": "cause damage to",
+      "tran_cn": "对…造成损坏，带来损害"
+    },
+    {
+      "phrase": "damage assessment",
+      "tran_cn": "损坏情况估计"
+    },
+    {
+      "phrase": "damage control",
+      "tran_cn": "损害控制；破坏性控制"
+    },
+    {
+      "phrase": "damage mechanics",
+      "tran_cn": "损伤力学"
+    },
+    {
+      "phrase": "damage threshold",
+      "tran_cn": "损伤阈值，损坏阈"
+    },
+    {
+      "phrase": "earthquake damage",
+      "tran_cn": "地震破坏；地震损害"
+    },
+    {
+      "phrase": "environmental damage",
+      "tran_cn": "环境损害；破坏环境"
+    },
+    {
+      "phrase": "fatigue damage",
+      "tran_cn": "疲劳损伤；疲劳损坏"
+    },
+    {
+      "phrase": "fire damage",
+      "tran_cn": "火灾损失"
+    },
+    {
+      "phrase": "formation damage",
+      "tran_cn": "地层损害，油层损害；生产层损坏"
+    },
+    {
+      "phrase": "liver damage",
+      "tran_cn": "肝损伤"
+    },
+    {
+      "phrase": "mechanical damage",
+      "tran_cn": "机械损伤；硬伤"
+    },
+    {
+      "phrase": "permanent damage",
+      "tran_cn": "永久损伤"
+    },
+    {
+      "phrase": "physical damage",
+      "tran_cn": "有形损坏；物理性损坏；机械损坏"
+    },
+    {
+      "phrase": "property damage",
+      "tran_cn": "财产损失；财产损害"
+    },
+    {
+      "phrase": "serious damage",
+      "tran_cn": "严重损害；严重损坏"
+    },
+    {
+      "phrase": "structural damage",
+      "tran_cn": "结构损伤"
+    },
+    {
+      "phrase": "the damage is done",
+      "tran_cn": "于事无补"
+    },
+    {
+      "phrase": "tissue damage",
+      "tran_cn": "组织损伤"
+    },
+    {
+      "phrase": "water damage",
+      "tran_cn": "水渍"
+    },
+    {
+      "phrase": "what's the damage?",
+      "tran_cn": "(非正式，幽默)要多少钱？"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "损坏，伤害，不良影响，损害赔偿金",
+      "tran_en": "physical harm that is done to something or to a part of someone’s body, so that it is broken or injured"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": " 毁坏， 损害",
+      "tran_en": "physical harm that is done to something or to a part of someone’s body, so that it is broken or injured"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "损坏，伤害",
+      "tran_en": "to cause physical harm to something or to part of someone’s body"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": "损害,毁坏",
+      "tran_en": "physical harm that is done to something or to a part of someone’s body, so that it is broken or injured"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 损害",
+      "tran_en": "to cause physical harm to something or to part of someone’s body"
+    },
+    {
+      "pos": "vt&n",
+      "tran_cn": "损害，损失",
+      "tran_en": "physical harm that is done to something or to a part of someone’s body, so that it is broken or injured"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "damages"
+    ],
+    "third": [
+      "damages"
+    ],
+    "past": [
+      "damaged"
+    ],
+    "done": [
+      "damaged"
+    ],
+    "ing": [
+      "damaging"
+    ]
+  }
+}

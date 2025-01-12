@@ -1,0 +1,103 @@
+{
+  "word": "ineligible",
+  "ipa": {
+    "us": "ɪnˈelɪdʒəbl",
+    "uk": "ɪnˈelɪdʒəbl"
+  },
+  "sentences": [
+    {
+      "en": "First Name contains reserved or ineligible word.",
+      "cn": "名字中包含了保留的或不恰当的词汇."
+    },
+    {
+      "en": "He is ineligible for marriage.",
+      "cn": "他不适宜结婚."
+    },
+    {
+      "en": "His conflict of interest made him ineligible for the post.",
+      "cn": "他本身的利益冲突使他不适合那个职位."
+    },
+    {
+      "en": "Last Name contains reserved or ineligible word.",
+      "cn": "姓氏中包含了保留的或不恰当的词汇."
+    },
+    {
+      "en": "Only applicable to students aged 18 or above who are ineligible to act as the applicant.",
+      "cn": "只适用于年满18岁或以上但未能成为申请人之学生."
+    },
+    {
+      "en": "Quickname contains reserved or ineligible word.",
+      "cn": "昵称中包含了保留的或不恰当的词汇."
+    },
+    {
+      "en": "Roman Pavlyuchenko and Vedran are ineligible for the UEFA Cup and have stayed in London.",
+      "cn": "帕夫柳琴科和乔尔卢卡因为规则问题,所以不能参赛(欧洲联盟杯的比赛),因此他们留在伦敦."
+    },
+    {
+      "en": "Sign - In Name contains reserved or ineligible word.",
+      "cn": "“登录名”中包含保留字或不符合要求的字."
+    },
+    {
+      "en": "Tenders with an ineligible valid period shall be rejected as non - responsive tenders.",
+      "cn": "投标有效期不满足要求的投标将被视为 非 响应性投标而予以拒绝."
+    },
+    {
+      "en": "The good news is that only few people, such as pregnant women, are ineligible for treatment.",
+      "cn": "好消息是只有少数人, 如孕妇, 不适合这种治疗."
+    },
+    {
+      "en": "They were ineligible to remain in the U.S.",
+      "cn": "他们没有资格继续留在美国了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ineligibility",
+          "tran_cn": " 不合宜；不适任；无被选资格"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "unavailable",
+            "unmarriageable"
+          ],
+          "tran_cn": "无被选资格的"
+        },
+        {
+          "words": [
+            "improper",
+            "inappropriate",
+            "unacceptable",
+            "undesirable",
+            "unqualified",
+            "unseemly",
+            "unsuitable"
+          ],
+          "tran_cn": "无资格的,不可取的,不合格的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "无入选资格的，不合格的，无被选权",
+      "tran_en": "not allowed to have or do something because of a law or rule"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "ineligibility"
+    ]
+  }
+}

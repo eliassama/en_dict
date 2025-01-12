@@ -1,0 +1,223 @@
+{
+  "word": "efficient",
+  "ipa": {
+    "us": "ɪˈfɪʃnt",
+    "uk": "ɪˈfɪʃnt"
+  },
+  "sentences": [
+    {
+      "en": "a quieter, more efficient engine",
+      "cn": "一台声音更小、效率更高的发动机"
+    },
+    {
+      "en": "a very efficient secretary",
+      "cn": "效率高的秘书"
+    },
+    {
+      "en": "an efficient use of land",
+      "cn": "土地的有效使用"
+    },
+    {
+      "en": "Cars are becoming so aerodynamically efficient.",
+      "cn": "汽车越来越向流线型节能方向发展。"
+    },
+    {
+      "en": "Lighting is now more energy efficient.",
+      "cn": "如今的照明设备更加节能。"
+    },
+    {
+      "en": "Mr. Wang is very efficient.",
+      "cn": "王先生办事干净利落."
+    },
+    {
+      "en": "She is acquainted with all the twists that make for efficient cooking.",
+      "cn": "她熟知所有高效率烹调的妙诀."
+    },
+    {
+      "en": "She is an efficient manageress.",
+      "cn": "她是个有能力的经理."
+    },
+    {
+      "en": "She was efficient and reliable.",
+      "cn": "她办事很有效率，也很可靠。"
+    },
+    {
+      "en": "Some of the most efficient refrigerators consume 70 percent less electricity than traditional models.",
+      "cn": "一些极为节能的冰箱比传统型号耗电减少70%。"
+    },
+    {
+      "en": "the efficient use of energy",
+      "cn": "能源的有效利用"
+    },
+    {
+      "en": "The improved farm tools are efficient as well as easy to handle.",
+      "cn": "新式农具既轻巧,又出活."
+    },
+    {
+      "en": "The metro is efficient and spotlessly clean.",
+      "cn": "地铁非常快捷，而且一尘不染。"
+    },
+    {
+      "en": "The pill is the most efficient method of birth control.",
+      "cn": "服用避孕药是最有效的避孕方法。"
+    },
+    {
+      "en": "The process of replication is very quick and efficient.",
+      "cn": "复制的过程快捷、高效。"
+    },
+    {
+      "en": "The service at the hotel is efficient and unobtrusive.",
+      "cn": "那旅馆的服务工作有效率而不夸张。"
+    },
+    {
+      "en": "This is currently the most efficient way to transmit certain types of data like electronic mail.",
+      "cn": "这是目前传送电子邮件等某些类型的数据的最高效方式。"
+    },
+    {
+      "en": "Your problem lies in lacking efficient methods.",
+      "cn": "你的问题在于缺少有效的方法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "efficacious",
+          "tran_cn": " 有效的；灵验的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "efficaciously",
+          "tran_cn": " 有效地；灵验地"
+        },
+        {
+          "word": "efficiently",
+          "tran_cn": " 有效地；效率高地（efficient的副词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "efficiency",
+          "tran_cn": " 效率；效能；功效"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "economical",
+            "saving",
+            "thrifty"
+          ],
+          "tran_cn": "效率高的"
+        },
+        {
+          "words": [
+            "active",
+            "effective",
+            "effectual",
+            "efficacious",
+            "operant",
+            "operative",
+            "potent",
+            "powerful",
+            "productive",
+            "valid"
+          ],
+          "tran_cn": "有效的"
+        },
+        {
+          "words": [
+            "able",
+            "capable",
+            "competent",
+            "qualified",
+            "workmanlike"
+          ],
+          "tran_cn": "有能力的,能胜任的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accomplished",
+            "expeditious",
+            "experienced",
+            "practical",
+            "technical"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "efficient allocation of resources",
+      "tran_cn": "资源有效配置"
+    },
+    {
+      "phrase": "efficient frontier",
+      "tran_cn": "有效边界；效率前缘"
+    },
+    {
+      "phrase": "efficient market",
+      "tran_cn": "有效市场"
+    },
+    {
+      "phrase": "efficient market hypothesis",
+      "tran_cn": "有效市场假说；有效率市场假说"
+    },
+    {
+      "phrase": "efficient market theory",
+      "tran_cn": "有效市场理论；效率市场理论"
+    },
+    {
+      "phrase": "efficient markets hypothesis",
+      "tran_cn": "有效市场假说"
+    },
+    {
+      "phrase": "efficient performance",
+      "tran_cn": "经营效果"
+    },
+    {
+      "phrase": "efficient point",
+      "tran_cn": "有效点"
+    },
+    {
+      "phrase": "efficient production",
+      "tran_cn": "有效生产"
+    },
+    {
+      "phrase": "energy efficient",
+      "tran_cn": "节能"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "效率高的，有能力的",
+      "tran_en": "if someone or something is efficient, they work well without wasting time, money, or energy"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "efficiently"
+    ]
+  }
+}

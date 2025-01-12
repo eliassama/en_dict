@@ -1,0 +1,166 @@
+{
+  "word": "elector",
+  "ipa": {
+    "us": "ɪˈlektə(r)",
+    "uk": "ɪˈlɛktɚ"
+  },
+  "sentences": [
+    {
+      "en": "A new arc welder realizes multi - function and anti - elector shock through single chip and fuzzy control.",
+      "cn": "新焊机采用单片机及模糊控制实现弧焊机的多外特性及 防 触电功能,使焊机既一机多用,又安全可靠."
+    },
+    {
+      "en": "A polling station is where I vote and is listed on my Elector Information Card.",
+      "cn": "投票站是我前去投票的地方.选平易近登记证上面开列的有投票地点."
+    },
+    {
+      "en": "A registered elector is entitled to subscribe only ONE nomination form in this by - election.",
+      "cn": "每一位登记选民只可就今次 补选 签署一份提名表格."
+    },
+    {
+      "en": "A registered elector is entitled to subscribe only ONE nomination form.",
+      "cn": "每一位登记选民只可签署一份提名表格."
+    },
+    {
+      "en": "Good - day to you, Monsieur the Elector!",
+      "cn": "早安, 选董先生!"
+    },
+    {
+      "en": "I am a registered elector for a the geographical constituency.",
+      "cn": "本人已登记为地方选区的选民."
+    },
+    {
+      "en": "It tells you who is Emperor, who is Elector Count and who has been banned.",
+      "cn": "它会告诉你谁是皇帝, 谁是选举议会成员,谁被帝国驱逐了."
+    },
+    {
+      "en": "Over 36% of electors did not vote at all.",
+      "cn": "超过36%的选民放弃了投票。"
+    },
+    {
+      "en": "The list of elector is put up on the noticeboard in the local office.",
+      "cn": "选举人的名单贴在地方办公室的布告栏上."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "elect",
+          "tran_cn": " 选出的；当选的；卓越的"
+        },
+        {
+          "word": "electioneering",
+          "tran_cn": " 竞选活动的"
+        },
+        {
+          "word": "elective",
+          "tran_cn": " 选修的；选举的；选任的"
+        },
+        {
+          "word": "electoral",
+          "tran_cn": " 选举的；选举人的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "elect",
+          "tran_cn": " 被选的人；特殊阶层；上帝的选民"
+        },
+        {
+          "word": "election",
+          "tran_cn": " 选举；当选；选择权；上帝的选拔"
+        },
+        {
+          "word": "electioneer",
+          "tran_cn": " 从事选举活动；积极竞选的人"
+        },
+        {
+          "word": "electioneering",
+          "tran_cn": " 竞选活动"
+        },
+        {
+          "word": "elective",
+          "tran_cn": " 选修课程"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "electioneering",
+          "tran_cn": " 从事选举活动（electioneer的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "elect",
+          "tran_cn": " 作出选择；进行选举"
+        },
+        {
+          "word": "electioneer",
+          "tran_cn": " 从事选举活动；积极参加竞选"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "elect",
+          "tran_cn": " 选举；选择；推选"
+        },
+        {
+          "word": "elected",
+          "tran_cn": " 选举，推选"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "voter",
+            "chooser"
+          ],
+          "tran_cn": "选举人；有选举权的人；总统选举人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "constituent"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "有选举权的人，选举人，总统选举人，<美>总统选举团成员",
+      "tran_en": "someone who has the right to vote in an election"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "electors"
+    ]
+  }
+}

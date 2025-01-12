@@ -1,0 +1,78 @@
+{
+  "word": "bulldozer",
+  "ipa": {
+    "us": "ˈbʊldəʊzə(r)",
+    "uk": "ˈbʊldoʊzə(r)"
+  },
+  "sentences": [
+    {
+      "en": "A bulldozer finally dug up beneath the front gate to create enough overhead clearance.",
+      "cn": "最终是一台挖土机将前门下挖深才造出足够的车辆顶部通行间隙."
+    },
+    {
+      "en": "Investigators have identified a bulldozer operator.",
+      "cn": "调查人员已认定一名压路机司机."
+    },
+    {
+      "en": "What he meant was that Brett had his ownpersonality, all kids do, and his style was that of a bulldozer.",
+      "cn": "他的意思是布雷特有自己的个性，每个孩子都是如此，而他的风格就像不可一世的推土机。"
+    },
+    {
+      "en": "What he meant was that Brett had his ownpersonality, all kids do, and his style was that of a bulldozer.",
+      "cn": "他的意思是说布雷特和所有的孩子一样有自己的个性，但是他的做事风格就像是一个推土机。"
+    },
+    {
+      "en": "What is the total weight of this kind of bulldozer?",
+      "cn": "这种型号的推土机总重量是多少？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bulldoze",
+          "tran_cn": " 强迫；恫吓；用推土机清除"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "pushdozer",
+            "dozer"
+          ],
+          "tran_cn": "[机]推土机；欺凌者，威吓者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "shovel"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "推土机，恐吓者，威胁者",
+      "tran_en": "a powerful vehicle with a broad metal blade, used for moving earth and rocks, destroying buildings etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bulldozers"
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "word": "fatality",
+  "ipa": {
+    "us": "fəˈtæləti",
+    "uk": "feˈtælɪti, fə-"
+  },
+  "sentences": [
+    {
+      "en": "a 50% increase in the number of traffic fatalities",
+      "cn": "交通事故死亡人数50%的增长"
+    },
+    {
+      "en": "A bite from a bushmaster has an 80 % fatality rate, even with anti - venom.",
+      "cn": "被巨蝮咬了的人80%会死, 即使有 抗 毒血清."
+    },
+    {
+      "en": "Crime brings its own fatality with it.",
+      "cn": "做坏事总没好报应."
+    },
+    {
+      "en": "Curative rate was 97.54 % , fatality rate 2.46 %.",
+      "cn": "本组治愈率为97·54%, 病死率为2·46%."
+    },
+    {
+      "en": "Doctors are trying to reduce the fatality of diseases.",
+      "cn": "医生们正竭力减低疾病的致命影响力."
+    },
+    {
+      "en": "It did not shrink from such words as fatality, bondage and the like.",
+      "cn": "它并不在乎诸如宿命 、 束缚之类的词语."
+    },
+    {
+      "en": "It is my conviction , or my delusion , that crime brings its own fatality with it.",
+      "cn": "我深信做坏事总没好报应."
+    },
+    {
+      "en": "It was a fatality.",
+      "cn": "这是一起人命关天的事."
+    },
+    {
+      "en": "Objectivity is the opposite of fatality.",
+      "cn": "客观真理的相反就是致命."
+    },
+    {
+      "en": "She struggle against fatality in vain.",
+      "cn": "她徒然奋斗反抗宿命."
+    },
+    {
+      "en": "That is the fatality of faith, and the lesson of romance.",
+      "cn": "那是信仰的致命弱点, 也是罗曼史的教训."
+    },
+    {
+      "en": "The case - fatality percentages were higher in the highly polluted areas.",
+      "cn": "致死病例的百分比,在重污染区较多."
+    },
+    {
+      "en": "The fatality of good resolutions is that they are always too late.",
+      "cn": "好决心的致命性,总是在于为时过晚."
+    },
+    {
+      "en": "The virus has a fatality rate of about 30 %.",
+      "cn": "病毒的致死率是约30%."
+    },
+    {
+      "en": "There was a strange fatality about their both losing their jobs on the same day.",
+      "cn": "他们两人同一天失去工作,真是天意叵测."
+    },
+    {
+      "en": "To compute the risk ( Pr ) of fatality with the logistic regress equation.",
+      "cn": "应用Logistic回归方程计算新的预测病死几率 ( Pr )."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fatal",
+          "tran_cn": " 致命的；重大的；毁灭性的；命中注定的"
+        },
+        {
+          "word": "fatalistic",
+          "tran_cn": " 宿命论的"
+        },
+        {
+          "word": "fated",
+          "tran_cn": " 命中注定的，宿命的；受命运支配的"
+        },
+        {
+          "word": "fateful",
+          "tran_cn": " 重大的；决定性的；宿命的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "fatally",
+          "tran_cn": " 致命地；命中注定地；不可避免地"
+        },
+        {
+          "word": "fatefully",
+          "tran_cn": " 宿命地；决定性地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fatalism",
+          "tran_cn": " 宿命论"
+        },
+        {
+          "word": "fatalist",
+          "tran_cn": " 宿命论者"
+        },
+        {
+          "word": "fate",
+          "tran_cn": " 命运"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fate",
+          "tran_cn": " 注定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "death",
+            "disaster",
+            "end",
+            "evil",
+            "dying"
+          ],
+          "tran_cn": "死亡；宿命；致命性；不幸；灾祸"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "death"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fatality rate",
+      "tran_cn": "致死率"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "死亡，致命性，宿命感",
+      "tran_en": "a death in an accident or a violent attack"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "fatalities"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "word": "lecturer",
+  "ipa": {
+    "us": "ˈlektʃərə(r)",
+    "uk": "ˈlektʃərər"
+  },
+  "sentences": [
+    {
+      "en": "A lecturer in the English Department has recently been refused tenure.",
+      "cn": "英语系一名讲师最近未能获得终身职位."
+    },
+    {
+      "en": "He's a good lecturer as he really knows his stuff.",
+      "cn": "他是位好讲师,因为他确实精通业务."
+    },
+    {
+      "en": "I've been instructed to wait here until the lecturer arrives.",
+      "cn": "我得到指示在这儿等到讲课老师到来."
+    },
+    {
+      "en": "In 1978 there were 884 students at a lecturer/student ratio of 1:15.",
+      "cn": "1978年有884名学生，师生比为1比15。"
+    },
+    {
+      "en": "Rainey was an unimpressive, rather dull lecturer.",
+      "cn": "雷尼是个平庸而且相当乏味的老师。"
+    },
+    {
+      "en": "She’s a brilliant lecturer.",
+      "cn": "她是位出色的演讲者。"
+    },
+    {
+      "en": "The allegation has caused one lecturer's career to bite the dust.",
+      "cn": "这项指控断送了一名讲师的前程。"
+    },
+    {
+      "en": "The lecturer accompanited his etplanation with some tape recordings.",
+      "cn": "这位讲师边解释边放录音."
+    },
+    {
+      "en": "The lecturer is an anthropologist.",
+      "cn": "这位讲师是人类学家。"
+    },
+    {
+      "en": "The lecturer is booked for every night of the week.",
+      "cn": "这位讲演人本星期每晚都有预约."
+    },
+    {
+      "en": "The lecturer phrased monotonously.",
+      "cn": "这位讲师用词单调."
+    },
+    {
+      "en": "The lecturer spoke very clearly so that we could hear every word.",
+      "cn": "讲课的人讲话很清楚,我们每个字都能听清."
+    },
+    {
+      "en": "The lecturer spouted for hours.",
+      "cn": "讲师滔滔不绝地讲了几个小时."
+    },
+    {
+      "en": "The lecturer treated his subject thoroughly.",
+      "cn": "那个讲师对他讲的东西阐述得很透彻."
+    },
+    {
+      "en": "The lecturer was besieged with questions from his audience.",
+      "cn": "讲演者为听众所提出的许多问题所困恼."
+    },
+    {
+      "en": "They plied the lecturer with questions.",
+      "cn": "他们向讲课者连续不断地提出问题."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "lector",
+          "tran_cn": " 讲师；助理牧师；（教堂礼拜时的）读经者"
+        },
+        {
+          "word": "lecture",
+          "tran_cn": " 演讲；讲稿；教训"
+        },
+        {
+          "word": "lectureship",
+          "tran_cn": " 讲师职务；讲师的职位"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "lecture",
+          "tran_cn": " 讲课；讲演"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "lecture",
+          "tran_cn": " 演讲；训诫"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "praelector",
+            "docent"
+          ],
+          "tran_cn": "讲师，演讲者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "professor",
+            "reader",
+            "spokesman",
+            "teacher"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "guest lecturer",
+      "tran_cn": "客座教授；特约讲师"
+    },
+    {
+      "phrase": "senior lecturer",
+      "tran_cn": "高级讲师"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（大学或学院中的）讲课者，授课者，（英美大学中的）讲师，演讲者",
+      "tran_en": "someone who gives lectures, especially in a university"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "lecturers"
+    ]
+  }
+}

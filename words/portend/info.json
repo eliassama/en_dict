@@ -1,0 +1,133 @@
+{
+  "word": "portend",
+  "ipa": {
+    "us": "pɔ:ˈtend",
+    "uk": "pɔrˈtend"
+  },
+  "sentences": [
+    {
+      "en": "A phenomenon supposed to portend good or evil; a prophetic sign.",
+      "cn": "预兆可以预测好坏的一现象; 预兆."
+    },
+    {
+      "en": "Less emphasis on mortgage payments portend higher delinquency rates and perhaps even more foreclosures.",
+      "cn": "人们逐渐减少抵押付款预示着较高的税款拖欠率,或许甚至会造成丧失更多的抵押品赎回权."
+    },
+    {
+      "en": "Not, perhaps, a great portend for a new generation of robots.",
+      "cn": "但是在现实中, 这可能预示着下一代的新机器人."
+    },
+    {
+      "en": "Overcast skies portend a rough day for boats on Iceland's Lake Myvatn.",
+      "cn": "阴云密布的天空为冰岛米湖上的船只预示了狂风暴雨的一天."
+    },
+    {
+      "en": "strange events that portend disaster",
+      "cn": "预示着灾难的奇怪事件"
+    },
+    {
+      "en": "Swallows flying low portend rain.",
+      "cn": "燕子低飞预示有雨."
+    },
+    {
+      "en": "These clouds are ominous. They portend a severe storm.",
+      "cn": "这些云是不祥的预兆,预示着一场大风暴即将来临."
+    },
+    {
+      "en": "What do these strange events portend?",
+      "cn": "这些奇怪的事件预示着 什么 ?"
+    },
+    {
+      "en": "What does all this portend?",
+      "cn": "所有这一切预示着 什么 ?"
+    },
+    {
+      "en": "What may they portend for the future?",
+      "cn": "对于将来有何预示?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "portentous",
+          "tran_cn": " 不祥的；预兆的；令人惊讶的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "portentously",
+          "tran_cn": " 不祥地；有预兆地；盛气凌人地，自负地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "portent",
+          "tran_cn": " 前兆；预示；迹象；异常之物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "predict",
+            "signify"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "indicate",
+            "forecast",
+            "shadow",
+            "spell",
+            "announce"
+          ],
+          "tran_cn": "预示；预兆；意味着"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预示",
+      "tran_en": "to be a sign that something is going to happen, especially something bad"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "预示，预兆，给…以警告，预告"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "portends"
+    ],
+    "past": [
+      "portended"
+    ],
+    "done": [
+      "portended"
+    ],
+    "ing": [
+      "portending"
+    ]
+  }
+}

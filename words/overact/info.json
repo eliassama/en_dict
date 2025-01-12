@@ -1,0 +1,84 @@
+{
+  "word": "overact",
+  "ipa": {
+    "us": "ˌəʊvərˈækt",
+    "uk": "ˌoʊvərˈækt"
+  },
+  "sentences": [
+    {
+      "en": "Amateur actors often overact.",
+      "cn": "业余演员往往表演过火."
+    },
+    {
+      "en": "Declan: I'm allowed to bring girls with home but i shouldn't overact it of course.",
+      "cn": "父母允许我带女孩子回家,但是当然不应该有过分的举动."
+    },
+    {
+      "en": "Slender and decently built, Roberts has the look of a martial arts expert but this is one of those movies where he has a tendency to overact.",
+      "cn": "片中他表现地细致高杆，有一副武术大师的样子，但是这部影片中他也同样显露出“表演过火”的趋向。"
+    },
+    {
+      "en": "Sometimes he had overacted in his role as Prince.",
+      "cn": "有时，他把王子的角色过度演绎了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "overactive",
+          "tran_cn": " 过于活跃的；活跃得不正常的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "overactivity",
+          "tran_cn": " 过于活泼，过度活跃；过度活性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "ham"
+          ],
+          "tran_cn": "夸张表演；表演过火"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "夸张表演",
+      "tran_en": "to act in a play with too much emotion or movement – used to show disapproval"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "过火地表演（角色）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "overacts"
+    ],
+    "past": [
+      "overacted"
+    ],
+    "done": [
+      "overacted"
+    ],
+    "ing": [
+      "overacting"
+    ]
+  }
+}

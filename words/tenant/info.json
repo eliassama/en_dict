@@ -1,0 +1,147 @@
+{
+  "word": "tenant",
+  "ipa": {
+    "us": "ˈtenənt",
+    "uk": "ˈtenənt"
+  },
+  "sentences": [
+    {
+      "en": "A tenant may have a right of first refusal if a property is offered for sale.",
+      "cn": "若房产要出售，承租人可以有优先购买权。"
+    },
+    {
+      "en": "Are you an owner - occupier or a tenant?",
+      "cn": "你住自己的房子还是租房住?"
+    },
+    {
+      "en": "Do you own the house or are you a tenant?",
+      "cn": "你是拥有这幢房子还是租住的?"
+    },
+    {
+      "en": "Her tenant left, bag and baggage, without paying the rent.",
+      "cn": "她的房客未付房租就带着全部财物离去了."
+    },
+    {
+      "en": "Homage was accordingly the acknowledgment of the bond of tenure between lord and tenant.",
+      "cn": "效忠同样也是对领主和佃户之间租赁契约的确认."
+    },
+    {
+      "en": "If they disturb me, they lose a good tenant.",
+      "cn": "如果他们扰乱我, 他们会丢掉一位很好的租户的."
+    },
+    {
+      "en": "If you are a council tenant call the housing department about it.",
+      "cn": "市建住房租户请就该问题致电住房部。"
+    },
+    {
+      "en": "It's difficult to sell a house with a sitting tenant.",
+      "cn": "住着房客的房子很难卖."
+    },
+    {
+      "en": "Regulations placed clear obligations on the landlord for the benefit of the tenant.",
+      "cn": "为维护房客的利益，条例明确规定了房东负有的各项义务。"
+    },
+    {
+      "en": "She was unwilling to submit her house to rough treatment by tenant.",
+      "cn": "她并不愿意她的房客们糟踏她的房子."
+    },
+    {
+      "en": "The desk was left by the previous tenant.",
+      "cn": "书桌是上一个房客留下来的。"
+    },
+    {
+      "en": "The land reverted to the lord if the tenant died without heirs.",
+      "cn": "如果土地保有人死后无继承人,土地归还领主."
+    },
+    {
+      "en": "The landlady turned out a tenant for not paying the rent.",
+      "cn": "女房东赶走了一名不交房租的房客."
+    },
+    {
+      "en": "The tenant received two month's notice.",
+      "cn": "房客得到两个月后搬出的通知."
+    },
+    {
+      "en": "The tenant was dispossessed for not paying his rent.",
+      "cn": "那名房客因未付房租而被赶走."
+    },
+    {
+      "en": "The wronged tenant turned out to be also the wealthy capitalist.",
+      "cn": "受害的房客结果被发现也是阔绰的资本家."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tenantry",
+          "tran_cn": " 承租人；佃农；租出的财产；租赁"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dweller",
+            "inhabitant",
+            "occupant",
+            "resident"
+          ],
+          "tran_cn": "居民"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dweller",
+            "inhabitant",
+            "inmate",
+            "occupant",
+            "resident"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "rent"
+          ],
+          "tran_cn": "租借（常用于被动语态）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "房客，佃户，<律>占用者，占有者",
+      "tran_en": "someone who lives in a house, room etc and pays rent to the person who owns it"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "租借（常用于被动语态）"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "租借，租用"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tenants"
+    ]
+  }
+}

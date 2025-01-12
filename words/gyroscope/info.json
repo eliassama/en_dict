@@ -1,0 +1,130 @@
+{
+  "word": "gyroscope",
+  "ipa": {
+    "us": "ˈdʒaɪrəskəʊp",
+    "uk": "ˈdʒaɪrəskoʊp"
+  },
+  "sentences": [
+    {
+      "en": "At present, the electrostatic suspended gyroscope ( ESG ) is the most precise inertia instrument in the world.",
+      "cn": "静电陀螺仪是目前世界上最高精度的惯性器件."
+    },
+    {
+      "en": "Discovery is delivering a new astronaut sleeping quarters, an ammonia tank and a gyroscope for the space station.",
+      "cn": "“发现”号将为空间站送去一个新的宇航员睡觉舱，一个氨水箱和一个回转仪。"
+    },
+    {
+      "en": "Drag onto the page to add a gyro, gyroscope , or gyrocompass.",
+      "cn": "拖到绘图页后，可以添加回转仪、 陀螺仪或回转罗盘。"
+    },
+    {
+      "en": "Drag onto the page to add a gyro, gyroscope, or gyrocompass.",
+      "cn": "拖到绘图页后,可以添加回转仪 、 陀螺仪或回转罗盘."
+    },
+    {
+      "en": "Electrostatic suspended gyroscope ( ESG ) is recognized as the most accurate gyroscope nowadays.",
+      "cn": "目前,静电陀螺被公认为是测量精度最高的陀螺仪,但是其的造价昂贵."
+    },
+    {
+      "en": "Hold the spinning Bicycle Wheel Gyroscope with its axis horizontal.",
+      "cn": "手上拿著车轮回旋仪并保持它的转轴水平."
+    },
+    {
+      "en": "In the process of simulation, by adjusting the precision of the gyroscope, accelerometer and video camera, we can get a series of results.",
+      "cn": "在仿真过程中，调整陀螺仪、加速度计和摄像机这三者的精度，可以得到一系列结果。"
+    },
+    {
+      "en": "North - finding method is an important research of gyroscope north finder.",
+      "cn": "寻北方法是陀螺寻北仪的重要研究对象."
+    },
+    {
+      "en": "Represents a gyro, gyroscope, or gyrocompass.",
+      "cn": "表示回转仪 、 陀螺仪或回转罗盘."
+    },
+    {
+      "en": "Silicon gyroscope has low precision and serious non - linear errors.",
+      "cn": "微硅陀螺精度不高,存在严重的非线性误差."
+    },
+    {
+      "en": "Strap - down flexible gyroscope north seeker provides direction and position , navigation data for the military vehicle.",
+      "cn": "捷联式挠性陀螺寻北仪能为军车提供基准定向和导航数据."
+    },
+    {
+      "en": "The compensating method for MEMS gyroscope random drift error is discussed.",
+      "cn": "从工程实用的角度出发,探讨了MEMS陀螺仪随机漂移误差的有效补偿方法."
+    },
+    {
+      "en": "The compensation of Dead Band is an important problem in designing a closed - loop Fiber Optic Gyroscope.",
+      "cn": "克服死区是 闭环 光纤陀螺设计中需要考虑的重要问题."
+    },
+    {
+      "en": "The equipment and environment of fiber - optic gyroscope ( FOG ) zero - drift experiment are introduced.",
+      "cn": "介绍了 光纤陀螺 零漂实验的设备环境,硬件和软件的构成及数据采集过程."
+    },
+    {
+      "en": "The gyroscope compass makes the vessels keep on the fixed course voluntarily.",
+      "cn": "陀螺罗盘自动使船只保持在预定的航线上."
+    },
+    {
+      "en": "The gyroscope in tank is used to stabilize the aim system of the gun.",
+      "cn": "坦克中的陀螺仪用于稳定火炮的瞄准系统。"
+    },
+    {
+      "en": "The law of conservation of angular momentum may be demonstrated with a gyroscope.",
+      "cn": "角动量守恒定律,可以用回转器来演示."
+    },
+    {
+      "en": "The paper presents the dither feedback which exploits magnetoelectric dither pick - up ( MEDP ) technology in ring laser gyroscope.",
+      "cn": "经分析 指出,磁电拾振技术应用在机抖激光陀螺抖动反馈方案中,其工作原理属于速度型传感器,直接反映抖动偏频量."
+    },
+    {
+      "en": "The scheme improves stability of gyroscope driving well.",
+      "cn": "由此可见,本方案使陀螺仪驱动性能得到了极大提高."
+    },
+    {
+      "en": "Used in combination with GPS, an accelerometer, a compass and the gyroscope can be used for in indoor navigation with floor accuracy.",
+      "cn": "与全球定位系统、加速度计、陀螺仪和指南针结合使用，可用于具有地面精度的室内导航。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "gyroscopic",
+          "tran_cn": " 回转仪的，[航][水运] 陀螺的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gyration",
+          "tran_cn": " 旋转，[力] 回转；螺层"
+        },
+        {
+          "word": "gyrostabilizer",
+          "tran_cn": " [船] 回转稳定器"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "陀螺仪，回转仪",
+      "tran_en": "a wheel that spins inside a frame and is used for keeping ships and aircraft steady. It can also be a child’s toy."
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "gyroscopes"
+    ],
+    "adj": [
+      "gyroscopic"
+    ]
+  }
+}

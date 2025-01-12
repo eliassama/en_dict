@@ -1,0 +1,59 @@
+{
+  "word": "extirpation",
+  "ipa": {
+    "us": "ˌekstə'peɪʃn",
+    "uk": "ˌekstə'peɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Gamma Knife surgery ( GKS ) has recently been tried as an alternative to surgical extirpation.",
+      "cn": "伽玛刀治疗 ( GKS ) 最近被尝试作为手术根治之外的另一种选择."
+    },
+    {
+      "en": "Gamma Knife surgery has recently been tried as an alternative to surgical extirpation.",
+      "cn": "伽玛刀治疗最近被尝试作为手术根治之外的另一种选择。"
+    },
+    {
+      "en": "Objective : To explore an operative method for the extirpation of hysteromyoma with laparoscope.",
+      "cn": "目的: 探讨腹腔镜子宫肌瘤摘除术的方法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "extirpate",
+          "tran_cn": " 使连根拔起；灭绝，破除"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "destruction",
+            "death",
+            "eradication"
+          ],
+          "tran_cn": "消灭，根除；毁灭"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "消灭，根除，毁灭，摘除"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "extirpate"
+    ]
+  }
+}

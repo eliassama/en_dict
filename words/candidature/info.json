@@ -1,0 +1,45 @@
+{
+  "word": "candidature",
+  "ipa": {
+    "us": "ˈkændɪdətʃə(r)",
+    "uk": "ˈkændədətʃɚ"
+  },
+  "sentences": [
+    {
+      "en": "It is one means by which university committees assess and approve your research candidature.",
+      "cn": "这是招生委员会衡量并采用研究人员的方法之一."
+    },
+    {
+      "en": "This notice should be used a nominated candidate who wishes to withdraw his candidature.",
+      "cn": "获提名而欲退出选举的候选人,须填写此通知."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "candidacy",
+          "tran_cn": " 候选资格；候选状态"
+        },
+        {
+          "word": "candidate",
+          "tran_cn": " 候选人，候补者；应试者"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "候选人身份，候选人资格"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "candidatures"
+    ]
+  }
+}

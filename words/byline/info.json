@@ -1,0 +1,56 @@
+{
+  "word": "byline",
+  "ipa": {
+    "us": "ˈbaɪlaɪn",
+    "uk": "ˈbaɪˌlaɪn"
+  },
+  "sentences": [
+    {
+      "en": "His byline was absent as well.",
+      "cn": "他的署名也不见了."
+    },
+    {
+      "en": "The thesis topic, some containing subtitle. Topic is under the byline, signed prior to or below a line the school, hospital, Department, grade.",
+      "cn": "论文题目，有的含副标题。题目之下是作者署名，署名之前或下边一行写作者的校、院、系、年级。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "avocation",
+            "bywork"
+          ],
+          "tran_cn": "标题下署名之行；铁路支线；副业"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "affix one's signature"
+          ],
+          "tran_cn": "署名"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "报刊文章撰稿人签名处，署名，铁路支线，副业",
+      "tran_en": "A byline is a line at the top of an article in a newspaper or magazine giving the author's name"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bylines"
+    ]
+  }
+}

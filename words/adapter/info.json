@@ -1,0 +1,178 @@
+{
+  "word": "adapter",
+  "ipa": {
+    "us": "ə'dæptə",
+    "uk": "əˈdæptɚ"
+  },
+  "sentences": [
+    {
+      "en": "A no - leakage quick loading adapter pertains to the art of liquid delivery.",
+      "cn": "一种无泄漏快速装车接头,属于流体输送领域."
+    },
+    {
+      "en": "An adapter allows the card to plug into any multimedia card slot.",
+      "cn": "而配合一块适配器可以使它插入任何多媒体插槽."
+    },
+    {
+      "en": "Another thing is venturi'adapter ', see picture 18.",
+      "cn": "另一件事是文丘里'适配器 ', 看到图片18."
+    },
+    {
+      "en": "Check modules are threaded into the valve adapter for leak proof operation.",
+      "cn": "止回阀模块通过螺纹旋进阀门适配器内,提供无泄漏运行."
+    },
+    {
+      "en": "Fiber adapter includes ST, SC, FC, LC, a variety single, multi - adapter.",
+      "cn": "光纤适配器类包括ST 、 SC 、 FC 、 LC 、 各种规格单 、 多模 适配器."
+    },
+    {
+      "en": "Involve , Directional Coupler , Shortplug, Adapter , Four Stabs Tune, Transformer etc.",
+      "cn": "包括定向合器,波导段, 变压器, 短路器, 波导转换器, 调配器等."
+    },
+    {
+      "en": "Make sure your network cable is properly attached to your network adapter.",
+      "cn": "确保网络电缆正确连接网络适配器."
+    },
+    {
+      "en": "Note that the resource adapter should not block in this method.",
+      "cn": "注意，资源适配器不应当阻塞在这个方法中。"
+    },
+    {
+      "en": "PC is connected with LonWorks networks by a LonTalk protocol adapter.",
+      "cn": "一块LonTalk协议适配卡将PC机与LonWorks网络相联."
+    },
+    {
+      "en": "Place the tester adapter over the opening.",
+      "cn": "把试验器连接装置放在加油口上."
+    },
+    {
+      "en": "Plug in the AC adapter and restart your notebook.",
+      "cn": "插入交流电适配器并重新启动笔记本电脑."
+    },
+    {
+      "en": "Power and charge all your devices with a universal power adapter!",
+      "cn": "电力和电荷所有设备通用电源适配器!"
+    },
+    {
+      "en": "Secondly, ARM 7 core based embedded instrument network adapter system hardware is designed.",
+      "cn": "其次, 设计了基于ARM7内核的嵌入式仪器网络适配系统硬件."
+    },
+    {
+      "en": "The adapter bushing and key may be different from illustration shown.",
+      "cn": "适配器衬套和销键可能与图示不同."
+    },
+    {
+      "en": "The resource adapter will install on the server after you do that.",
+      "cn": "当您做了之后，资源适配器将安装在服务器上。"
+    },
+    {
+      "en": "The top adapter is secured from the top using three M 5 screws.",
+      "cn": "顶部适配器从顶部用3颗M5螺丝加固."
+    },
+    {
+      "en": "This section shows you how to remove an adapter.",
+      "cn": "这一部分向您展示了如何删除适配器。"
+    },
+    {
+      "en": "What data should the data adapter load into the dataset?",
+      "cn": "数据适配器应将哪些数据加载到数据集中?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "adaptable",
+          "tran_cn": " 适合的；能适应的；可修改的"
+        },
+        {
+          "word": "adaptive",
+          "tran_cn": " 适应的，适合的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "adaptability",
+          "tran_cn": " 适应性；可变性；适合性"
+        },
+        {
+          "word": "adaptation",
+          "tran_cn": " 适应；改编；改编本，改写本"
+        },
+        {
+          "word": "adaption",
+          "tran_cn": " 适应；改编本"
+        },
+        {
+          "word": "adaptor",
+          "tran_cn": " [通信] 适配器；（美）改编者；转接器（等于adapter）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "adapt",
+          "tran_cn": " 适应"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "adapt",
+          "tran_cn": " 使适应；改编"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "accommodator"
+          ],
+          "tran_cn": "[通信]适配器；改编者；[电子][机][冶]接合器；适应者"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ac adapter",
+      "tran_cn": "交流电转接器，交流整流器"
+    },
+    {
+      "phrase": "adapter card",
+      "tran_cn": "适配器卡"
+    },
+    {
+      "phrase": "display adapter",
+      "tran_cn": "显示适配部件；显卡"
+    },
+    {
+      "phrase": "graphics adapter",
+      "tran_cn": "图形适配器（显示卡的另一种名称）；图形介面卡"
+    },
+    {
+      "phrase": "power adapter",
+      "tran_cn": "适配器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "适配器，改编者，适应者，适应物",
+      "tran_en": "an object that you use to connect two different pieces of electrical equipment, or to connect two pieces of equipment to the same power supply"
+    }
+  ],
+  "exchange": {}
+}

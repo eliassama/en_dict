@@ -1,0 +1,54 @@
+{
+  "word": "workweek",
+  "ipa": {
+    "us": "ˈwɜ:kwi:k",
+    "uk": "ˈwɜrkwik"
+  },
+  "sentences": [
+    {
+      "en": "a 40-hour workweek",
+      "cn": "40小时工作周"
+    },
+    {
+      "en": "Calvin Wilson has been returned to a five - day workweek.",
+      "cn": "卡尔温-威尔逊已恢复每周工作5天."
+    },
+    {
+      "en": "Overtime hours and the length of the average workweek also have increased.",
+      "cn": "加班时数和平均每周工作时数也有增加."
+    },
+    {
+      "en": "Some companies are cutting back to a 4 - day workweek.",
+      "cn": "有些公司将工作制削减到了每周(工作)4天."
+    },
+    {
+      "en": "This is the third email from my boss this weekend. I'm a victim of workweek creep!",
+      "cn": "这是本周末我老板发给我的第三封邮件了. 我是 “ 公私不分”模式的受害者."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "workstation",
+          "tran_cn": " 工作站；工拙"
+        },
+        {
+          "word": "worktable",
+          "tran_cn": " 工作台；缝纫桌"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "一星期工作时间",
+      "tran_en": "the total amount of time that you spend working during a week"
+    }
+  ],
+  "exchange": {}
+}

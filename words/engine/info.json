@@ -1,0 +1,243 @@
+{
+  "word": "engine",
+  "ipa": {
+    "us": "ˈendʒɪn",
+    "uk": "ˈendʒɪn"
+  },
+  "sentences": [
+    {
+      "en": "Apart from two men on watch in the engine-room, everyone was asleep.",
+      "cn": "除了两个人在机房值班外，其他人都在睡觉。"
+    },
+    {
+      "en": "Arnold stopped the engine and got out of the car.",
+      "cn": "阿诺德关掉发动机，下了车。"
+    },
+    {
+      "en": "In 1941, the train would have been pulled by a steam engine.",
+      "cn": "1941年，火车本可以由蒸汽机车拉动。"
+    },
+    {
+      "en": "Is the engine running smoothly?",
+      "cn": "发动机运转平稳吗？"
+    },
+    {
+      "en": "Jake's head jerked up at the throb of the engine.",
+      "cn": "听到发动机的轰鸣声，杰克猛地抬起了头。"
+    },
+    {
+      "en": "Some objects had got entangled with the underneath mechanism of the engine.",
+      "cn": "一些东西缠在了发动机下面的机件上。"
+    },
+    {
+      "en": "The boat's engine misfired after he tried to start it up.",
+      "cn": "他试着启动船的引擎，但没发动起来。"
+    },
+    {
+      "en": "The engine note changed as the aircraft landed, taxied and halted.",
+      "cn": "发动机的声音随着飞机着陆、滑行和停下一直在变化。"
+    },
+    {
+      "en": "The engine of one landing craft was still running.",
+      "cn": "一艘登陆艇的发动机还在运转。"
+    },
+    {
+      "en": "The GM diesel engine shunted the coaches to Platform 4.",
+      "cn": "通用柴油动力火车头将车厢转轨到了4号月台。"
+    },
+    {
+      "en": "Then abruptly he revved the engine to full power.",
+      "cn": "然后他突然加速到最大马力。"
+    },
+    {
+      "en": "There were also several accidents mainly caused by engine failures on take-off.",
+      "cn": "还有几次事故主要是起飞时引擎出现故障造成的。"
+    },
+    {
+      "en": "Two of them got out to fiddle around with the engine.",
+      "cn": "其中两人下车鼓捣引擎。"
+    },
+    {
+      "en": "Very slowly he moved forward, the engine ticking over.",
+      "cn": "他慢慢往前开，发动机低速运转。"
+    },
+    {
+      "en": "Water in the engine compartment is sucked away by a hose.",
+      "cn": "发动机舱里的水由一条软管抽走。"
+    },
+    {
+      "en": "We were stranded with engine trouble on a deserted highway.",
+      "cn": "我们因发动机故障而被困在空无一人的公路上。"
+    },
+    {
+      "en": "When I started the engine it sparked, fizzed and went dead.",
+      "cn": "我刚发动引擎时，引擎冒出火星，发出长长的嘶声，然后就熄火了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "engineer",
+          "tran_cn": " 工程师；工兵；火车司机"
+        },
+        {
+          "word": "engineering",
+          "tran_cn": " 工程，工程学"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "engineering",
+          "tran_cn": " 设计；管理（engineer的ing形式）；建造"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "engineer",
+          "tran_cn": " 设计；建造"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "engineer",
+          "tran_cn": " 设计；策划；精明地处理"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dynamo",
+            "generator",
+            "motor",
+            "plant",
+            "power",
+            "turbine"
+          ],
+          "tran_cn": "引擎,发动机"
+        },
+        {
+          "words": [
+            "aid",
+            "apparatus",
+            "appliance",
+            "facility",
+            "machine",
+            "mechanical",
+            "mechanism"
+          ],
+          "tran_cn": "机械,机器"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "automobile engine",
+      "tran_cn": "汽车发动机引擎"
+    },
+    {
+      "phrase": "combustion engine",
+      "tran_cn": "内燃机；燃烧机；内燃机燃烧机"
+    },
+    {
+      "phrase": "diesel engine",
+      "tran_cn": "柴油机（等于diesel）"
+    },
+    {
+      "phrase": "engine cylinder",
+      "tran_cn": "发动机汽缸"
+    },
+    {
+      "phrase": "engine oil",
+      "tran_cn": "机器润滑油"
+    },
+    {
+      "phrase": "engine parts",
+      "tran_cn": "发动机部件"
+    },
+    {
+      "phrase": "engine performance",
+      "tran_cn": "引擎性能"
+    },
+    {
+      "phrase": "engine power",
+      "tran_cn": "发动机功率；额定功率"
+    },
+    {
+      "phrase": "engine room",
+      "tran_cn": "轮机舱"
+    },
+    {
+      "phrase": "engine speed",
+      "tran_cn": "发动机转速度；引擎转速"
+    },
+    {
+      "phrase": "gas engine",
+      "tran_cn": "内燃机；燃气发动机"
+    },
+    {
+      "phrase": "gasoline engine",
+      "tran_cn": "汽油机，汽油发动机"
+    },
+    {
+      "phrase": "inference engine",
+      "tran_cn": "[计]推理机"
+    },
+    {
+      "phrase": "internal combustion engine",
+      "tran_cn": "内燃机"
+    },
+    {
+      "phrase": "internal-combustion engine",
+      "tran_cn": "内燃机"
+    },
+    {
+      "phrase": "main engine",
+      "tran_cn": "主机，主发动机"
+    },
+    {
+      "phrase": "motorcycle engine",
+      "tran_cn": "摩托车发动机；摩托车引擎"
+    },
+    {
+      "phrase": "rocket engine",
+      "tran_cn": "n. 火箭发动机；火箭引擎"
+    },
+    {
+      "phrase": "search engine",
+      "tran_cn": "搜索引擎"
+    },
+    {
+      "phrase": "steam engine",
+      "tran_cn": "蒸汽机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "引擎，机车，火车头",
+      "tran_en": "the part of a vehicle that produces power to make it move"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "engines"
+    ]
+  }
+}

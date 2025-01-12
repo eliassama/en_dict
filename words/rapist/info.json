@@ -1,0 +1,76 @@
+{
+  "word": "rapist",
+  "ipa": {
+    "us": "ˈreɪpɪst",
+    "uk": "ˈrepɪst"
+  },
+  "sentences": [
+    {
+      "en": "She later found out that he was a convicted rapist.",
+      "cn": "她后来发现他是个已被定罪的强奸犯。"
+    },
+    {
+      "en": "The girl's mother was also expelled from the church ; the rapist was not.",
+      "cn": "女孩的母亲也被开除了教籍,但兽行的始作俑者却教籍依然如故."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rape",
+          "tran_cn": " 强奸，掠夺；[园艺] 油菜；葡萄渣"
+        },
+        {
+          "word": "raper",
+          "tran_cn": " 强奸犯"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "rape",
+          "tran_cn": " 犯强奸罪"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rape",
+          "tran_cn": " 强奸；掠夺，抢夺"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "raper"
+          ],
+          "tran_cn": "强奸犯"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "强奸犯",
+      "tran_en": "a person who has  rape d  someone (= forced them to have sex, especially using violence )"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rapists"
+    ]
+  }
+}

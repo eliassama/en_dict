@@ -1,0 +1,189 @@
+{
+  "word": "bribe",
+  "ipa": {
+    "us": "braɪb",
+    "uk": "braɪb"
+  },
+  "sentences": [
+    {
+      "en": "He can't be bought, ie is too honest to accept a bribe.",
+      "cn": "收买不了他."
+    },
+    {
+      "en": "He gained entry into the building by means of a bribe to the guard.",
+      "cn": "他通过贿赂卫兵而获准进入大楼."
+    },
+    {
+      "en": "He resolutely refused their bribe.",
+      "cn": "他坚决不接受他们的贿赂."
+    },
+    {
+      "en": "He tried to bribe the policeman not to arrest him.",
+      "cn": "他企图贿赂警察不逮捕他."
+    },
+    {
+      "en": "I have never before been asked to accept a bribe.",
+      "cn": "我以前从未被要求接受贿赂."
+    },
+    {
+      "en": "I wouldn't sully my hands by acceptinga bribe.",
+      "cn": "我决不接受贿赂,一尘不染."
+    },
+    {
+      "en": "Never before have I been asked to accept a bribe.",
+      "cn": "以前我从未被要求接受贿赂."
+    },
+    {
+      "en": "Of course Rahm cannot acknowledge that the bribe has worked.",
+      "cn": "当然,拉姆不能承认贿赂起了作用."
+    },
+    {
+      "en": "The children were given candy as a bribe to be good.",
+      "cn": "用糖果哄孩子们不要闹."
+    },
+    {
+      "en": "The idea of accepting a bribe was repugnant to me.",
+      "cn": "我一想到受贿这种事就非常反感."
+    },
+    {
+      "en": "The judge rejected a bribe from the defendant's family.",
+      "cn": "法官拒收被告家属的贿赂."
+    },
+    {
+      "en": "The judge was impeached for taking a bribe.",
+      "cn": "这个法官被检举接受贿赂."
+    },
+    {
+      "en": "The merchant offers a bribe to him.",
+      "cn": "这商人向他行贿."
+    },
+    {
+      "en": "The official was impeached for taking a bribe.",
+      "cn": "那位官员因受贿被参."
+    },
+    {
+      "en": "The officials said that they had been offered bribes before an important game.",
+      "cn": "这几名官员说，有人在一场重要比赛之前向他们行贿。"
+    },
+    {
+      "en": "The only way we could get into the country was by bribing the border officials.",
+      "cn": "我们要进入这个国家，唯一的办法是贿赂边境官员。"
+    },
+    {
+      "en": "There was a big stink about his accepting a bribe.",
+      "cn": "他收受贿赂,引起一场大纠纷."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bribable",
+          "tran_cn": " 可收买的，可贿赂的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "briber",
+          "tran_cn": " [法] 行贿者"
+        },
+        {
+          "word": "bribery",
+          "tran_cn": " [法] 贿赂；受贿；行贿"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fix",
+            "golden key",
+            "payola",
+            "glove money"
+          ],
+          "tran_cn": "[法]贿赂"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "buy",
+            "off",
+            "oil"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "corrupt practices"
+          ],
+          "tran_cn": "[法]行贿"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "buy",
+            "graft",
+            "off"
+          ],
+          "tran_cn": "行贿;收买"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "贿赂",
+      "tran_en": "money or a gift that you illegally give someone to persuade them to do something for you"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "贿赂",
+      "tran_en": "to illegally give someone, especially a public official, money or a gift in order to persuade them to do something for you"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "向…贿赂，买通",
+      "tran_en": "to illegally give someone, especially a public official, money or a gift in order to persuade them to do something for you"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bribes"
+    ],
+    "third": [
+      "bribes"
+    ],
+    "past": [
+      "bribed"
+    ],
+    "done": [
+      "bribed"
+    ],
+    "ing": [
+      "bribing"
+    ]
+  }
+}

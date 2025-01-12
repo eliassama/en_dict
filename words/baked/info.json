@@ -1,0 +1,159 @@
+{
+  "word": "baked",
+  "ipa": {
+    "us": "beɪkt",
+    "uk": "beɪkt"
+  },
+  "sentences": [
+    {
+      "en": "A delicious smell of freshly baked bread wafted across the garden.",
+      "cn": "花园中飘过一股刚出炉面包的香味."
+    },
+    {
+      "en": "A freshly baked cake doesn't cut easily.",
+      "cn": "刚烤好的蛋糕不容易切."
+    },
+    {
+      "en": "Don't listen to his half - baked ideas.",
+      "cn": "不要听他那思虑不周详的主意."
+    },
+    {
+      "en": "Freshly baked apple pie makes a tasty dessert.",
+      "cn": "新烤的苹果派是很可口的饭后点心."
+    },
+    {
+      "en": "He baked us a cake.",
+      "cn": "他为我们烤了一块蛋糕."
+    },
+    {
+      "en": "She baked bread in an oven.",
+      "cn": "她用烤炉烤面包."
+    },
+    {
+      "en": "She'd baked some bread which made the air smell sweet.",
+      "cn": "她刚烤制了一些面包，空气里都弥漫着一股香味。"
+    },
+    {
+      "en": "That smell of freshly baked bread carries me back!",
+      "cn": "刚烤好面包的香气使我忆起往事!"
+    },
+    {
+      "en": "The cake baked too long.",
+      "cn": "饼烤得太久了."
+    },
+    {
+      "en": "the delectable smell of freshly baked bread",
+      "cn": "新烤面包的香味"
+    },
+    {
+      "en": "The players can advertise baked beans, but not rugby boots.",
+      "cn": "球员可以给烤菜豆做广告，但不能代言橄榄球靴。"
+    },
+    {
+      "en": "They're freshly baked. I fetched them from the baker's this morning.",
+      "cn": "它们是刚出炉的。我早上去面包房买回来的。"
+    },
+    {
+      "en": "We baked bread and cake in an oven.",
+      "cn": "我们在炉子里烤面包和蛋糕."
+    },
+    {
+      "en": "We baked him some bread.",
+      "cn": "我们为他烤了一些面包."
+    },
+    {
+      "en": "Why shouldn't Dan eat the cake? After all, he baked it.",
+      "cn": "为什么丹不该吃蛋糕? 不管怎么说还是他做的呢."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "baking",
+          "tran_cn": " 烘烤的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bake",
+          "tran_cn": " 烤；烘烤食品"
+        },
+        {
+          "word": "baker",
+          "tran_cn": " 面包师；面包工人；（便携式）烘炉"
+        },
+        {
+          "word": "baking",
+          "tran_cn": " 烘焙，烘烤；一次烘焙的量"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "baking",
+          "tran_cn": " 烤，烘焙；烧硬，烘干（bake的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "bake",
+          "tran_cn": " 烘面包；被烤干；受热"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bake",
+          "tran_cn": " 烤，烘焙"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "roasted",
+            "grilled"
+          ],
+          "tran_cn": "烤的；烘焙的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "baked beans",
+      "tran_cn": "（加番茄酱等制的）烘豆"
+    },
+    {
+      "phrase": "baked potato",
+      "tran_cn": "烤马铃薯；烘马铃薯"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "烘烤制作的，[俚语] 喝醉的，酒醉的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "烤( bake的过去式和过去分词 )，烘焙，（将某物）烤硬，（变得）灼热"
+    }
+  ],
+  "exchange": {}
+}

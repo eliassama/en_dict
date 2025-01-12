@@ -1,0 +1,165 @@
+{
+  "word": "bye",
+  "ipa": {
+    "us": "baɪ",
+    "uk": "baɪ"
+  },
+  "sentences": [
+    {
+      "en": "\"Anyhow, thanks a lot. Bye bye.\"",
+      "cn": "“那么，多谢了。再见。”"
+    },
+    {
+      "en": "Bye Mum, see you in a minute.",
+      "cn": "妈妈，一会儿见。"
+    },
+    {
+      "en": "Bye, Dave.",
+      "cn": "再见，戴夫。"
+    },
+    {
+      "en": "Bye, see you tomorrow.",
+      "cn": "再见,明天见."
+    },
+    {
+      "en": "Bye! See you next week.",
+      "cn": "再见！下星期再会。"
+    },
+    {
+      "en": "Dickens felt compelled to return to the stage for a final good-bye.",
+      "cn": "迪肯斯觉得必须返回舞台作最后的道别。"
+    },
+    {
+      "en": "Fran slipped the catch on the door, then turned to say good - bye .",
+      "cn": "弗兰拉开门闩, 然后转身说“ 再见 ”."
+    },
+    {
+      "en": "Good - bye , old chap, I'll see you on my return.",
+      "cn": "再见 吧, 老伙计, 等我回来再见面."
+    },
+    {
+      "en": "Good - bye then! Mind how you go!",
+      "cn": "再见了, 路上小心!"
+    },
+    {
+      "en": "He stood mournfully at the gate waving bye bye.",
+      "cn": "他伤心地站在门口，挥手告别。"
+    },
+    {
+      "en": "I must say good - bye now.",
+      "cn": "我现在得告辞了."
+    },
+    {
+      "en": "If you lend him money, you can kiss it good - bye.",
+      "cn": "如果你借给他钱, 你就甭想他还你."
+    },
+    {
+      "en": "They hurried into the city to say good - bye to us.",
+      "cn": "他们赶进城来和我们告别."
+    },
+    {
+      "en": "We said good - bye to each other at the station.",
+      "cn": "我们是在车站分手的."
+    },
+    {
+      "en": "We said good - bye, then he turned and walked off without another word.",
+      "cn": "我们说了声“再见”, 他便转身离去,没再说一句话."
+    },
+    {
+      "en": "We waved good - bye to her at the airport.",
+      "cn": "我们在机场向她挥手告别."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "secondary",
+            "minor",
+            "supporting",
+            "peripheral"
+          ],
+          "tran_cn": "次要的"
+        }
+      ]
+    },
+    {
+      "pos": "int",
+      "words": [
+        {
+          "words": [
+            "adios",
+            "tatas",
+            "pippip",
+            "bye-bye"
+          ],
+          "tran_cn": "再见"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "marginalia"
+          ],
+          "tran_cn": "轮空；次要的东西"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "goodbye"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by the bye",
+      "tran_cn": "顺便地；偶然地"
+    },
+    {
+      "phrase": "by the bye 或 by the by",
+      "tran_cn": "顺便；附带"
+    },
+    {
+      "phrase": "bye bye bye",
+      "tran_cn": "再见再见再见"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "次要的"
+    },
+    {
+      "pos": "int",
+      "tran_cn": "再见，回头见",
+      "tran_en": "goodbye"
+    },
+    {
+      "pos": "interj",
+      "tran_cn": "再见",
+      "tran_en": "goodbye"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "次要的东西，（体育比赛中）轮空"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "byes"
+    ]
+  }
+}

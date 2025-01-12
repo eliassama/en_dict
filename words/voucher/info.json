@@ -1,0 +1,174 @@
+{
+  "word": "voucher",
+  "ipa": {
+    "us": "ˈvaʊtʃə(r)",
+    "uk": "ˈvaʊtʃər"
+  },
+  "sentences": [
+    {
+      "en": "a voucher for a free meal",
+      "cn": "免费用餐券"
+    },
+    {
+      "en": "As a basic business voucher in the economic exchange, invoice is a primitive evidence for financial accounting and an important proof for taxation check.",
+      "cn": "发票作为经济交往中基本的商事凭证，是财务会计核算的原始凭证和税务稽查的重要凭据。"
+    },
+    {
+      "en": "Checking and entering the purchase voucher and collecting the purchase contracts.",
+      "cn": "及时交接登记、审核采购凭证,收集采购合同."
+    },
+    {
+      "en": "First prize is a £1,000 travel voucher.",
+      "cn": "头等奖是价值1,000英镑的旅行券。"
+    },
+    {
+      "en": "G: My travel agent issued me this hotel voucher. Can I use it?",
+      "cn": "我的旅行社交给我这张预付旅馆费用的收据, 我可以使用 吗 ?"
+    },
+    {
+      "en": "I must know his voucher.",
+      "cn": "我必须认识他的保证人."
+    },
+    {
+      "en": "I still think it's a bit of a cheek sending a voucher rather than a refund.",
+      "cn": "我还是认为，他们寄来优惠购物券，而不是退款，真是有些厚颜无耻。"
+    },
+    {
+      "en": "In a department store when a gift voucher is exchanged it's stamped with the details of the store to cancel it.",
+      "cn": "在百货公司里，凡是已经兑换的礼券都会在上面盖上将其注销的商店的详细信息。"
+    },
+    {
+      "en": "Please customer to cautiously check merchandise and voucher while take goods.",
+      "cn": "请顾客在提货时仔细核对商品及单据."
+    },
+    {
+      "en": "Review and authorize necessary vouchers e . g. payment voucher, journal vouchers etc.",
+      "cn": "审阅签署有关凭证(如付款凭证, 采购凭证等)."
+    },
+    {
+      "en": "Send out check or credit voucher after paying approved.",
+      "cn": "付款批准之后,将支票或者贷记凭证发出."
+    },
+    {
+      "en": "Sure, sir. Could you sign the voucher here, please?",
+      "cn": "当然可以.先生. 请在餐券上签名, 好吗?"
+    },
+    {
+      "en": "The first prize is a voucher for 2 airline tickets to Hawaii.",
+      "cn": "头奖是两张去夏威夷的机票兑换卷."
+    },
+    {
+      "en": "The voucher can be used at most major supermarkets.",
+      "cn": "这种购物券可以在大多数大型超市使用。"
+    },
+    {
+      "en": "The winners will each receive a voucher for a pair of cinema tickets.",
+      "cn": "获胜者每人将会获得两张电影票的代金券。"
+    },
+    {
+      "en": "The winners will each receive a voucher for a pair of movie tickets.",
+      "cn": "获胜者每人将获得一张代币券，可换取两张电影票。"
+    },
+    {
+      "en": "Well , I see. Can I use this voucher pay the bill?",
+      "cn": "我明白了, 我可以用这张餐券付帐 吗 ?"
+    },
+    {
+      "en": "Whenever cash is paid out, a voucher or receipt should be obtained.",
+      "cn": "无论何时只要支付现金, 就必须要有一张凭据或者收据."
+    },
+    {
+      "en": "Would you mind initialing this voucher?",
+      "cn": "请在凭单上用首字母签名。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vouchee",
+          "tran_cn": " 被担保人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "vouch",
+          "tran_cn": " 保证；证明；确定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vouch",
+          "tran_cn": " 担保；证明；传出庭作证"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "guarantee",
+            "witness"
+          ],
+          "tran_cn": "收据；[法]证人；保证人；证明者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "credential",
+            "paper",
+            "receipt",
+            "ticket",
+            "token",
+            "warrant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cash voucher",
+      "tran_cn": "优惠券；现金凭单"
+    },
+    {
+      "phrase": "gift voucher",
+      "tran_cn": "礼券（等于gift token）"
+    },
+    {
+      "phrase": "voucher system",
+      "tran_cn": "付款凭单制度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "代金券，票券",
+      "tran_en": "a ticket that can be used instead of money for a particular purpose"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "证实的可靠性"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "vouchers"
+    ]
+  }
+}

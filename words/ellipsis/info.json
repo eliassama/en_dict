@@ -1,0 +1,123 @@
+{
+  "word": "ellipsis",
+  "ipa": {
+    "us": "ɪˈlɪpsɪs",
+    "uk": "ɪˈlɪpsɪs"
+  },
+  "sentences": [
+    {
+      "en": "An ellipsis connector. Move its control point to change spacing.",
+      "cn": "一条省略号连接线. 移动它的控制点来更改间距."
+    },
+    {
+      "en": "Breaks words between lines and adds ellipsis if the text doesn't fit in the rectangle.",
+      "cn": "中断行间的词,并且如果文本不适合此矩形则添加省略号."
+    },
+    {
+      "en": "Chinese null subjects can be further distinguished as PRO and ellipsis subject.",
+      "cn": "主语空位可以进一步区分为句法层面的PRO和篇章层面的省略型空语类."
+    },
+    {
+      "en": "Click the ellipsis for the relationship expression and add the following logic to the relationship definition.",
+      "cn": "单击关系表达式的省略号，并向关系定义中添加如下逻辑。"
+    },
+    {
+      "en": "Ellipsis is a very common grammatical phenomenon in English, especially in some particular situations.",
+      "cn": "省略是英语中常见的语法现象, 且以特定语境下的省略居多."
+    },
+    {
+      "en": "Genuine VP ellipsis construction does not exist in English.",
+      "cn": "英语中不存在真正的动词短语省略."
+    },
+    {
+      "en": "In place of this ellipsis , you'll have code to set several additional MajorFunction pointers.",
+      "cn": "代替这个省略号, 你要用一些代码来设置一些附加的主函数指示器."
+    },
+    {
+      "en": "In the next place, the thesis differentiate ellipsis and implicit.",
+      "cn": "其次, 区别了省略和隐含."
+    },
+    {
+      "en": "In this textbook we will tolerate a certain amount of ellipsis.",
+      "cn": "在这本书中我们允许一些简化."
+    },
+    {
+      "en": "Named and variadic parameters can be used in the same function, simply by placing the variadic ellipsis after the list of named parameters.",
+      "cn": "可以在同一个函数中同时使用命名参数和可变参数，只需要将可变参数的省略号放在命名参数列表之后。"
+    },
+    {
+      "en": "Some views about ellipsis in General Archaic Chinese are put forward to discuss in this paper.",
+      "cn": "文中并片《古汉语通论》一书的省略说提出商榷的意见."
+    },
+    {
+      "en": "States that a function type does not have ellipsis parameter.",
+      "cn": "表示函数类型不带省略号参数."
+    },
+    {
+      "en": "The sentence ` He is dead and I alive'contains an ellipsis, ie of the word ` am '.",
+      "cn": "在Heisdead andI alive 一句中有一处省略, 即am这个词."
+    },
+    {
+      "en": "There are five types of cohesion: reference, substitution, ellipsis, conjunction and lexical cohesion.",
+      "cn": "衔接有五种类型: 指称 、 替代 、 省略 、 连接和词汇衔接."
+    },
+    {
+      "en": "There is an ellipsis of \" that \" in that sentence.",
+      "cn": "那个句子省略了 \" that \"."
+    },
+    {
+      "en": "To browse to the location of the file, click the ellipsis button.",
+      "cn": "若要浏览文件的位置, 请单击省略号按钮."
+    },
+    {
+      "en": "Truncates text that does not fit in the rectangle and adds ellipsis.",
+      "cn": "截断无法放入矩形框的文本并添加省略号."
+    },
+    {
+      "en": "You no doubt noticed the ellipsis in the code above.",
+      "cn": "您一定注意到上述代码中的省略号。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "elliptic",
+          "tran_cn": " 椭圆形的；省略的"
+        },
+        {
+          "word": "elliptical",
+          "tran_cn": " 椭圆的；省略的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "omis",
+            "apostrophe"
+          ],
+          "tran_cn": "[语]省略；省略符号；脱漏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（语法结构上的）省略",
+      "tran_en": "when words are deliberately left out of a sentence, though the meaning can still be understood. For example, you may say ‘He’s leaving but I’m not’ instead of saying ‘He’s leaving but I’m not leaving.’"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "ellipses"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "word": "bisect",
+  "ipa": {
+    "us": "baɪˈsekt",
+    "uk": "baɪ'sekt"
+  },
+  "sentences": [
+    {
+      "en": "A long cobbled street bisects the town from east to west.",
+      "cn": "一条长长的鹅卵石街道从东向西把小镇一分为二。"
+    },
+    {
+      "en": "The lines bisect each other.",
+      "cn": "这些线条互相穿过."
+    },
+    {
+      "en": "The new road will bisect the town.",
+      "cn": "新马路将把城市分成两部分."
+    },
+    {
+      "en": "We'll bisect his trail in sixty seconds. Look for the red paint!",
+      "cn": "六十秒钟之后我们就会找到他的行踪, 注意找红油漆记号!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bisection",
+          "tran_cn": " 两断；对切；二等分的一半"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "split"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "go halves with sb. in sth."
+          ],
+          "tran_cn": "平分；二等分"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "平分；二等分",
+      "tran_en": "to divide something into two equal parts"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把…一分为二，把…二等分，与…相交叉",
+      "tran_en": "to divide something into two equal parts"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "bisects"
+    ],
+    "past": [
+      "bisected"
+    ],
+    "done": [
+      "bisected"
+    ],
+    "ing": [
+      "bisecting"
+    ]
+  }
+}

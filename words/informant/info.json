@@ -1,0 +1,183 @@
+{
+  "word": "informant",
+  "ipa": {
+    "us": "ɪnˈfɔːmənt",
+    "uk": "ɪnˈfɔːrmənt"
+  },
+  "sentences": [
+    {
+      "en": "'Old Bailey spy ,'returned his informant.",
+      "cn": "“ 老贝勒的密探, ” 他的情报提供人说,“呀哈!"
+    },
+    {
+      "en": "Could you Be my language informant for Dutch?",
+      "cn": "你愿意为我作荷兰语的资料提供人 吗 ?"
+    },
+    {
+      "en": "He charged her not to reveal the identity of the informant.",
+      "cn": "他告诫她不要透露提供消息者的身份."
+    },
+    {
+      "en": "He was working for me, he was informant.",
+      "cn": "他在为我工作, 他是我地线人."
+    },
+    {
+      "en": "I feel that what the informant says may well be true.",
+      "cn": "我认为那个提供消息的人说的可能是真的."
+    },
+    {
+      "en": "I found out what happened from my informant who saw it happen.",
+      "cn": "我从目击这件事发生的消息提供者那儿探明了事情真相."
+    },
+    {
+      "en": "Now , BilI's been briefing me, of course, but this guy's your informant, right?",
+      "cn": "比尔跟我简报过了那家伙是你的线民?"
+    },
+    {
+      "en": "One of the witnesses was a paid informant for the FBI.",
+      "cn": "目击者之一是联邦调查局出钱雇用的线人。"
+    },
+    {
+      "en": "The anthropologist transcribed the sentences of the native informant.",
+      "cn": "人类学家给那些记录当地人信息的句子标音."
+    },
+    {
+      "en": "The foreman decided to take the informant's advice.",
+      "cn": "工头决定接受线人的意见."
+    },
+    {
+      "en": "The journalist did not want to reveal the identity of his informant.",
+      "cn": "那个新闻工作者不想透露消息提供人的身份."
+    },
+    {
+      "en": "The name of the informant must not be disclosed.",
+      "cn": "告密者的名字一定要公之于众."
+    },
+    {
+      "en": "The sound of our informant's voice directed him to the library.",
+      "cn": "向我们报告的人的声音把他引到书房来."
+    },
+    {
+      "en": "They suspected that he was the informant.",
+      "cn": "他们怀疑他是告密者."
+    },
+    {
+      "en": "Unfortunately, my informant is no longer among the living.",
+      "cn": "不幸的是, 我的线人遭遇了不幸."
+    },
+    {
+      "en": "We trusted our informant , Alonzo , to you, and you got his whole family killed?",
+      "cn": "我们信任我们的线人, 但次你害我们的线人全家被杀?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "informational",
+          "tran_cn": " 情报的；报告的；新闻的"
+        },
+        {
+          "word": "informatory",
+          "tran_cn": " 提供情报的（等于informative）"
+        },
+        {
+          "word": "informed",
+          "tran_cn": " 消息灵通的；见多识广的"
+        },
+        {
+          "word": "informing",
+          "tran_cn": " 增长见闻的；提供情报的；鼓舞的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "information",
+          "tran_cn": " 信息，资料；知识；情报；通知"
+        },
+        {
+          "word": "informativeness",
+          "tran_cn": " 信息量；忠实度"
+        },
+        {
+          "word": "informer",
+          "tran_cn": " 告密者；通知者；控告人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "informed",
+          "tran_cn": " 通知；使了解；提供资料（inform的过去分词）"
+        },
+        {
+          "word": "informing",
+          "tran_cn": " 通知；报告；使了解（inform的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "inform",
+          "tran_cn": " 告发；告密"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "inform",
+          "tran_cn": " 通知；告诉；报告"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "tattletale",
+            "beefer"
+          ],
+          "tran_cn": "被调查者；告密者；提供消息者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "communicant",
+            "monitor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "提供消息的人，告密者，被调查者，报告者",
+      "tran_en": "someone who secretly gives the police, the army etc information about someone else"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "informants"
+    ]
+  }
+}

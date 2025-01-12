@@ -1,0 +1,57 @@
+{
+  "word": "distrait",
+  "ipa": {
+    "us": "dɪs'treɪ",
+    "uk": "dɪ'streɪ"
+  },
+  "sentences": [
+    {
+      "en": "My friend seems upset and distrait; it turns out his dad is seriously sick.",
+      "cn": " 我朋友看起来心不在焉的， 原来是因为他爸病重。"
+    },
+    {
+      "en": "The distrait actress fluffed her lines.",
+      "cn": "那位心不在焉的女演员忘了台词。"
+    },
+    {
+      "en": "The distrait boy is always losing his books.",
+      "cn": "这个心不在焉的男孩老是丢书。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "abstracted",
+            "uncaring"
+          ],
+          "tran_cn": "（法）心不在焉的（因烦恼、忧惧等）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "absorbed",
+            "abstracted"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "心不在焉的",
+      "tran_en": "absent-minded; abstracted "
+    }
+  ],
+  "exchange": {}
+}

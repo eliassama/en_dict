@@ -1,0 +1,80 @@
+{
+  "word": "catenate",
+  "ipa": {
+    "us": "'kætɪneɪt",
+    "uk": "'kætəˌneɪt"
+  },
+  "sentences": [
+    {
+      "en": "The word 'concatenate' is just a verbose synonym for 'catenate'.",
+      "cn": "“连接”只是“连接”的较为详细的同义词（看英文吧）。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "catenary",
+          "tran_cn": " 悬链线的；垂曲线的"
+        },
+        {
+          "word": "catenulate",
+          "tran_cn": " [生物] 链状的；成链形的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "catena",
+          "tran_cn": " 连续，系列；彼此相连接的东西；（尤指）专业丛书"
+        },
+        {
+          "word": "catenary",
+          "tran_cn": " 链；悬链线；链状物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "couple",
+            "connect with"
+          ],
+          "tran_cn": "连接；把…连接成链状"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "连接, 使连续"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "连接，使连续"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "catenates"
+    ],
+    "past": [
+      "catenated"
+    ],
+    "done": [
+      "catenated"
+    ],
+    "ing": [
+      "catenating"
+    ]
+  }
+}

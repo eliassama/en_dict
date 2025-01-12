@@ -1,0 +1,139 @@
+{
+  "word": "resistor",
+  "ipa": {
+    "us": "rɪˈzɪstə(r)",
+    "uk": "rɪˈzɪstɚ"
+  },
+  "sentences": [
+    {
+      "en": "A resistor - condenser circuit at the input to the vertical oscillator.",
+      "cn": "位于垂直振荡器输入端的一种阻容电路."
+    },
+    {
+      "en": "Also, the resistor limits the AC gain of the feedback ammeter.",
+      "cn": "此外, 该电阻器还限制回馈安培表的交流增益."
+    },
+    {
+      "en": "Basic passive device integration regions include capacitor, resistor and inductor layers.",
+      "cn": "基本被动元件整合区域包含电容 、 电阻和电感层."
+    },
+    {
+      "en": "Because moving charges make currents, and changing magnetic fluxes breed voltages, the new device would generate a voltage from a current rather like a resistor, but in a complex, dynamic way.",
+      "cn": "因为移动的电荷会产生电流，变化的磁通量会产生电压，新的设备会从电流中产生电压，像电阻一样，不过是以更加复杂、动态的方式。"
+    },
+    {
+      "en": "Calibration temperature, pressure, voltage, electric current, resistor, and frequency.",
+      "cn": "校准温度 、 压力 、 电压 、 电流 、 电阻, 以及频率."
+    },
+    {
+      "en": "For transformer, capacitor, resistor and electronic component lead cutting.",
+      "cn": "变压器 、 电容 、 电阻、电子零件."
+    },
+    {
+      "en": "I think there's something wrong with the resistor.",
+      "cn": "我认为是电阻器出了毛病."
+    },
+    {
+      "en": "In a circuit diagram, on the other hand, a resistor might be oriented horizontally or vertically, and it might appear above, below, or next to the preceding circuit element.",
+      "cn": "另一方面，在一张电路图表里，一个电阻器可能是水平或者垂直朝向的，并可能在之前电路元素的上面、下面或者旁边。"
+    },
+    {
+      "en": "Physically, the resistor is effectively the source of noise.",
+      "cn": "从物理上来说, 电阻器等效于噪声源."
+    },
+    {
+      "en": "Product introduction: RX 21 series resistor is lacquered wire wound resistor.",
+      "cn": "产品介绍: RX21型电阻器为被漆型绕线电阻器."
+    },
+    {
+      "en": "Resistor offers resistance to the flow of electrical current.",
+      "cn": "电阻器起着对电流流动的阻碍作用."
+    },
+    {
+      "en": "RK type resistor - KT type cam controller, a phase open circuit.",
+      "cn": "RK型电阻器-KT型凸轮控制器控制, 一相开路."
+    },
+    {
+      "en": "RXHG - B using sheet to separate the resistor body from the installation frame.",
+      "cn": "为电阻体与安装支架之间使用瓷片隔离."
+    },
+    {
+      "en": "The resistor is manufactured by highly quality - controlled process and guaranteed high reliability.",
+      "cn": "本电阻器的制造系经高品质管理程序,并具有高信赖性的品质保证."
+    },
+    {
+      "en": "The thermostat is isolated from the resistor via the ceramic housing.",
+      "cn": "温度接触器与电阻器之间通过陶瓷架被隔离."
+    },
+    {
+      "en": "Using high precision resistor, capacitor, IC with low noise.",
+      "cn": "电阻 、 电容采用高精度设计元件 、 IC采用低噪音进口元件."
+    },
+    {
+      "en": "What is the output power at weak signals compared to the optimal load resistor.",
+      "cn": "在接收弱信号的时候，和最佳负载电阻比较，它的输出功率如何？"
+    },
+    {
+      "en": "You talking about series gate resistor, not Gate - Source resistor.",
+      "cn": "platonas你谈论系列门电阻, 而不是门源电阻."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "resistance",
+          "tran_cn": " 阻力；电阻；抵抗；反抗；抵抗力"
+        },
+        {
+          "word": "resister",
+          "tran_cn": " 抵抗者；反抗者；电阻器"
+        },
+        {
+          "word": "resistivity",
+          "tran_cn": " [电] 电阻率；抵抗力；电阻系数"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "braking resistor",
+      "tran_cn": "制动电阻器"
+    },
+    {
+      "phrase": "chip resistor",
+      "tran_cn": "晶片形电阻器"
+    },
+    {
+      "phrase": "metal film resistor",
+      "tran_cn": "金属膜电阻器；金属膜电阻"
+    },
+    {
+      "phrase": "series resistor",
+      "tran_cn": "串联电阻器；附加电阻器"
+    },
+    {
+      "phrase": "thermal resistor",
+      "tran_cn": "热敏电阻；热变电阻"
+    },
+    {
+      "phrase": "variable resistor",
+      "tran_cn": "可变电阻器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "电阻器",
+      "tran_en": "a piece of wire or other material used for increasing electrical resistance"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "resistors"
+    ]
+  }
+}

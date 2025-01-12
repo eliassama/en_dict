@@ -1,0 +1,51 @@
+{
+  "word": "paramilitary",
+  "ipa": {
+    "us": "ˌpærəˈmɪlətri",
+    "uk": "ˌpærəˈmɪləteri"
+  },
+  "sentences": [
+    {
+      "en": "Paramilitaries and army recruits patrolled the village.",
+      "cn": "准军事组织成员和部队的新兵在村子里巡逻。"
+    },
+    {
+      "en": "Paramilitary police were sent to the village to pursue the attackers, he said.",
+      "cn": "他说, 武警已经被派往到该村追捕武装分子."
+    },
+    {
+      "en": "the paramilitary police",
+      "cn": "准军事警察"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "paramedical",
+          "tran_cn": " 辅助医务的"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "准军事的，辅助军事的",
+      "tran_en": "relating to or helping a military organization"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "准军事部队的成员",
+      "tran_en": "Paramilitaries are members of a paramilitary organization"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "paramilitaries"
+    ]
+  }
+}

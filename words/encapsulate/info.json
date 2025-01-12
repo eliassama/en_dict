@@ -1,0 +1,132 @@
+{
+  "word": "encapsulate",
+  "ipa": {
+    "us": "ɪnˈkæpsjuleɪt",
+    "uk": "ɪnˈkæpsjuleɪt"
+  },
+  "sentences": [
+    {
+      "en": "A delegate instance may encapsulate either static or instance method.",
+      "cn": "委托实例可以封装静态或实例方法."
+    },
+    {
+      "en": "Abstract base classes are quite elegant to encapsulate calling conventions.",
+      "cn": "抽象基类很优雅的封装调用请求."
+    },
+    {
+      "en": "Cannot Encapsulate data when the page is being browsed.",
+      "cn": "当浏览数据页时,无法封装数据."
+    },
+    {
+      "en": "Containers are objects that encapsulate and track zero or more components.",
+      "cn": "容器是封装和跟踪零个或更多个组件的对象."
+    },
+    {
+      "en": "Delegates constructed with a named method can encapsulate either a static method or an instance method.",
+      "cn": "使用命名方法构造的委托可以封装静态方法或实例方法."
+    },
+    {
+      "en": "In particular , there are standard smart pointer classes designed to encapsulate COM interface pointers.",
+      "cn": "通常情况下, 我们有专门封装COM接口指针的的标准智能指针类."
+    },
+    {
+      "en": "In this application, the carrier is used to encapsulate the grid.",
+      "cn": "在这种情况下, 要用载体把格栅密封起来."
+    },
+    {
+      "en": "It may be desirable to encapsulate larger sequences of commands.",
+      "cn": "存在着封装更大规模的命令序列的需求."
+    },
+    {
+      "en": "Methods encapsulate the functionality of a component in the same object where the data resides.",
+      "cn": "方法在数据存放的同一对象内封装为组件的功能."
+    },
+    {
+      "en": "On the Refactor menu, click Encapsulate Field.",
+      "cn": "在“重构”菜单上单击“封装字段”."
+    },
+    {
+      "en": "The Encapsulate Field dialog box appears.",
+      "cn": "随即出现“封装字段”对话框."
+    },
+    {
+      "en": "The tags and scriptlets encapsulate the business logic on the HTML page.",
+      "cn": "标记和scriptlets把 商业逻辑过程封装在html页面内."
+    },
+    {
+      "en": "The words of the song neatly encapsulate the mood of the country at that time.",
+      "cn": "这首歌的歌词言简意赅地表现出国家当时的氛围。"
+    },
+    {
+      "en": "Use a factory implementation to encapsulate mechanisms for caching and reusing objects.",
+      "cn": "使用工厂实现封装缓存和重用对象的机制."
+    },
+    {
+      "en": "We use classes to encapsulate algorithms and data storage.",
+      "cn": "我们用类封装算法和存储数据."
+    },
+    {
+      "en": "With these custom tags, you can encapsulate even most sophisticated Java code into lightweight JSP tags.",
+      "cn": "利用这些标签, 你可以把大部分复杂的Java代码封装到轻便的JSP标签里."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "encapsulation",
+          "tran_cn": " 封装；包装"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to compress",
+            "telescope"
+          ],
+          "tran_cn": "压缩；将…装入胶囊；将…封进内部"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "装入胶囊, 压缩",
+      "tran_en": "to express or show something in a short way"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "形成囊状物"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "封装，概述",
+      "tran_en": "to express or show something in a short way"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "encapsulates"
+    ],
+    "past": [
+      "encapsulated"
+    ],
+    "done": [
+      "encapsulated"
+    ],
+    "ing": [
+      "encapsulating"
+    ],
+    "noun": [
+      "encapsulation"
+    ]
+  }
+}

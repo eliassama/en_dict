@@ -1,0 +1,92 @@
+{
+  "word": "secede",
+  "ipa": {
+    "us": "sɪˈsi:d",
+    "uk": "sɪˈsid"
+  },
+  "sentences": [
+    {
+      "en": "But the southerners have lost faith in that idea and must be allowed to secede.",
+      "cn": "然而,南部人民在北部的统治者已经失去信心,因此,他们要“逃离”苏丹."
+    },
+    {
+      "en": "Singapore seceded from the Federation of Malaysia and became an independent sovereign state.",
+      "cn": "新加坡脱离马来西亚联邦成为一个独立的主权国家。"
+    },
+    {
+      "en": "The article briefly narrative trouble of Sichuan province Luhuo county grain of production after secede farming.",
+      "cn": "本文简要地叙述了退耕后四川省炉霍县粮食生产中存在的问题及问题的严重性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "secession",
+          "tran_cn": " 脱离；分离"
+        },
+        {
+          "word": "secessionism",
+          "tran_cn": " 脱离论；分离主义"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "out of contact",
+            "break away"
+          ],
+          "tran_cn": "脱离；退出"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cede"
+          ],
+          "tran_cn": "从…中脱离；割让"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "正式脱离或退出, 分离",
+      "tran_en": "if a country or state secedes from another country, it officially stops being part of it and becomes independent"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "脱离，退出",
+      "tran_en": "if a country or state secedes from another country, it officially stops being part of it and becomes independent"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "从…中脱离"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "secedes"
+    ],
+    "past": [
+      "seceded"
+    ],
+    "done": [
+      "seceded"
+    ],
+    "ing": [
+      "seceding"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "word": "pusillanimous",
+  "ipa": {
+    "us": "ˌpju:sɪˈlænɪməs",
+    "uk": "ˌpjusəˈlænəməs"
+  },
+  "sentences": [
+    {
+      "en": "The authorities have been too pusillanimous in merely condemning the violence.",
+      "cn": "当局过于懦弱，仅仅谴责了这场暴力行为。"
+    },
+    {
+      "en": "The pusillanimous man would not defend his own family.",
+      "cn": "软弱无力的人不会保卫他自己的家."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "pusillanimously",
+          "tran_cn": " 胆怯地，怯懦地；优柔寡断地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pusillanimity",
+          "tran_cn": " 胆怯；无气力；优柔寡断"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "chicken",
+            "lily-livered"
+          ],
+          "tran_cn": "胆怯的；懦弱的；优柔寡断的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cowardly",
+            "craven",
+            "yellow"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "懦弱的，胆怯的",
+      "tran_en": "frightened of taking even small risks"
+    }
+  ],
+  "exchange": {}
+}

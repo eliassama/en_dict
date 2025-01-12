@@ -1,0 +1,100 @@
+{
+  "word": "proponent",
+  "ipa": {
+    "us": "prəˈpəʊnənt",
+    "uk": "prəˈpoʊnənt"
+  },
+  "sentences": [
+    {
+      "en": "A follower of Thomas Jefferson or a proponent of his politics.",
+      "cn": "杰斐逊的塑像和真人一样大小."
+    },
+    {
+      "en": "Craig Larman is a strong proponent of using the RUP in a lightweight manner.",
+      "cn": "CraigLarman是轻量级方式开发过程中使用RUP的强烈建议者."
+    },
+    {
+      "en": "EXAMPLE: Our new boss a proponent of short but frequent staff meetings.",
+      "cn": "我们的新老板主张,员工会议应该简短,但要经常开."
+    },
+    {
+      "en": "Except as otherwise by statute the proponent of a rule or the burden of proof.",
+      "cn": "除法律另有规定者外,规章或裁决令的提议方负有举证责任."
+    },
+    {
+      "en": "Halsey was identified as a leading proponent of the values of progressive education.",
+      "cn": "哈尔西被认为是进步教育价值观的主要拥护者。"
+    },
+    {
+      "en": "Stapp became a strong early proponent of automobile seat belts.",
+      "cn": "斯塔普是力主在汽车上采用座椅安全带的早期创导者."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "proposal",
+          "tran_cn": " 提议，建议；求婚"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "propose",
+          "tran_cn": " 建议；求婚；打算"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "propose",
+          "tran_cn": " 建议；打算，计划；求婚"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "advocate",
+            "supporter"
+          ],
+          "tran_cn": "支持者；建议者；提出认证遗嘱者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "supporter"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "支持者，拥护者，提倡者，提出认证遗嘱者",
+      "tran_en": "someone who supports something or persuades people to do something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "proponents"
+    ]
+  }
+}

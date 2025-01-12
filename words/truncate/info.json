@@ -1,0 +1,128 @@
+{
+  "word": "truncate",
+  "ipa": {
+    "us": "trʌŋˈkeɪt",
+    "uk": "ˈtrʌŋkeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Conversions from floating - point numbers to integer values truncate the number toward zero.",
+      "cn": "从 浮点数 向整数值的转换将向零截断数字."
+    },
+    {
+      "en": "Do you want to truncate the transaction log?",
+      "cn": "是否要截断事务日志?"
+    },
+    {
+      "en": "If the list is too long, it will be truncated by the computer.",
+      "cn": "如果列表太长，电脑会将其截短。"
+    },
+    {
+      "en": "MEI is an effective numerical method to truncate finite difference mesh.",
+      "cn": "方法是一种有效的用于边界截断的数值计算方法."
+    },
+    {
+      "en": "The report is also available in a truncated version.",
+      "cn": "该报告还有简缩版。"
+    },
+    {
+      "en": "Truncate insignificant trailing zero when using null scale.",
+      "cn": "使用空刻度时截去多余的零结尾."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "truncated",
+          "tran_cn": " 缩短了的；被删节的；切去顶端的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "truncation",
+          "tran_cn": " 截断；切掉顶端"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "truncated",
+          "tran_cn": " 缩短（truncate的过去分词）；截去…的顶端"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "curtal"
+          ],
+          "tran_cn": "[生物]截短的；被删节的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "lessen",
+            "telescope"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cut",
+            "surface"
+          ],
+          "tran_cn": "把…截短；缩短；使成平面"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 截短， 缩短",
+      "tran_en": "to make something shorter"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "缩短"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "truncates"
+    ],
+    "past": [
+      "truncated"
+    ],
+    "done": [
+      "truncated"
+    ],
+    "ing": [
+      "truncating"
+    ],
+    "noun": [
+      "truncation"
+    ]
+  }
+}

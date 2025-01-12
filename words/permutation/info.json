@@ -1,0 +1,125 @@
+{
+  "word": "permutation",
+  "ipa": {
+    "us": "ˌpɜ:mjuˈteɪʃn",
+    "uk": "ˌpɜrmjuˈteɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "a sandwich shop that sells every possible permutation of meat and bread",
+      "cn": "出售各种肉类和面包组合的三明治店"
+    },
+    {
+      "en": "All forms of life are created by the different permutation and combination of these basic pairs.",
+      "cn": "生命现象的多姿多彩,形形色色都是由这些碱基的不同排列组合所造成的."
+    },
+    {
+      "en": "By introducing the original permutation and the region, the conception of single permutation is proposed.",
+      "cn": "在引入原排列和区的概念的基础上, 提出了单排列的概念."
+    },
+    {
+      "en": "Every sort of permutation and combination is possible in human nature.",
+      "cn": "火的本性可能有各种交织和组合的情况."
+    },
+    {
+      "en": "Meanwhile, the article also put forward such corresponding techniques as readjustment of word and focus permutation.",
+      "cn": "并提出了相应的翻译对策,如调整语序,迁移句子重心."
+    },
+    {
+      "en": "More important is, look from the angle of electronics, they think new permutation cannot be run.",
+      "cn": "更重要的是, 从电子学的角度看, 它们认为新的排列无法运作."
+    },
+    {
+      "en": "Objective To study the method of the artificial thigh bone permutation perioperatively for advanced age.",
+      "cn": "目的探讨高龄人工股骨头置换术围手术期的治疗方法."
+    },
+    {
+      "en": "Other enumeration problems lead us to the study of orbits of permutation groups.",
+      "cn": "其它的计数问题引导我们去研究置换群的轨道."
+    },
+    {
+      "en": "Permutation code broke through the traditional concept of block algorithm, and improved the encrypt intensity greatly.",
+      "cn": "排列码加密解密算法突破了传统的分组密码的旧观念, 使加密强度有了较大幅度的提高."
+    },
+    {
+      "en": "The construction of the permutation depends on the single permutation and the original permutation.",
+      "cn": "单排列和原排列是构造排列的材料."
+    },
+    {
+      "en": "The data compressing method based on constant grade makes use of permutation and combination theory.",
+      "cn": "常数级压缩方法利用排列组合原理,适于压缩字节内容无规律的文件."
+    },
+    {
+      "en": "The symmetry group is the permutation group acting to exchange particles of the same type.",
+      "cn": "在对称组排列组表演交换微粒的同类型."
+    },
+    {
+      "en": "This paper deals with orthodox semirings whose additive idempotents satisfy permutation identities.",
+      "cn": "本文主要研究加法幂等元满足置换等式的纯整半环."
+    },
+    {
+      "en": "This paper makes use permutation method in the calculation of roundness error fitting the minimum conditions.",
+      "cn": "提出一种圆度误差评定的实用算法,利用线性规划单纯形法,按最小条件求得圆度误差."
+    },
+    {
+      "en": "Unique because that particular permutation has not appeared before.",
+      "cn": "之所以独一无二,是因为那种独特的基因排列组合以前不曾出现过."
+    },
+    {
+      "en": "Write a random permutation of the input lines to standard output.",
+      "cn": "把输入行按随机顺序写到标准输出."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "permutable",
+          "tran_cn": " 可排列的；能交换的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "permute",
+          "tran_cn": " 交换；变更；排列"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "array",
+            "ranging"
+          ],
+          "tran_cn": "[数]排列；置换"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "permutation and combination",
+      "tran_cn": "n. [数]排列组合"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（一组事物可能的一种）序列，排列，排列中的任一组数字或文字",
+      "tran_en": "one of the different ways in which a number of things can be arranged"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "permutations"
+    ]
+  }
+}

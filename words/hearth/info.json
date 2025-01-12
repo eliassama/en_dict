@@ -1,0 +1,157 @@
+{
+  "word": "hearth",
+  "ipa": {
+    "us": "hɑ:θ",
+    "uk": "hɑrθ"
+  },
+  "sentences": [
+    {
+      "en": "A bright fire was burning in the hearth.",
+      "cn": "壁炉里炉火烧得正旺."
+    },
+    {
+      "en": "A fire crackled on the hearth.",
+      "cn": "火在炉中噼啪作响."
+    },
+    {
+      "en": "A log fire crackled in the hearth.",
+      "cn": "炉中的木柴烧得噼啪作响。"
+    },
+    {
+      "en": "A log fire roared in the open hearth.",
+      "cn": "柴火在敞开着的壁炉里熊熊燃烧。"
+    },
+    {
+      "en": "He dumped the logs on the big stone hearth.",
+      "cn": "他将一根根短棍木柴扔进巨大的石壁炉里。"
+    },
+    {
+      "en": "He sat on a tapestry cushion next to the hearth.",
+      "cn": "他坐在壁炉边上的一块绣花软垫上。"
+    },
+    {
+      "en": "He stammered, and turning his back on her walked toward the hearth.",
+      "cn": "他口齿不清地说, 然后背向她朝壁炉走去."
+    },
+    {
+      "en": "He stoked up the fire in the hearth.",
+      "cn": "他给壁炉里的火添了点柴。"
+    },
+    {
+      "en": "I longed to be at my own hearth once again.",
+      "cn": "我渴望再回到自己家里."
+    },
+    {
+      "en": "I've laid the fire in the hearth, all you have to do is to put a match to it.",
+      "cn": "我已在火炉里放好木柴,作好了生火准备, 你只要把它点燃就行了."
+    },
+    {
+      "en": "It was winter and there was a huge fire roaring in the hearth.",
+      "cn": "时值冬天，壁炉里炉火熊熊。"
+    },
+    {
+      "en": "Kneeling in front of the open hearth, old Maria was fanning the smoldering fire.",
+      "cn": "老玛丽亚跪在壁炉前的空地上，扇着闷燃的炉火。"
+    },
+    {
+      "en": "She came and sat in a chair before the hearth.",
+      "cn": "她走过来,在炉子前面的椅子上坐下."
+    },
+    {
+      "en": "The embers still glowed in the hearth.",
+      "cn": "余烬仍在炉膛里发出暗淡的光。"
+    },
+    {
+      "en": "There was a heap of old feathery wood - ashes on the hearth.",
+      "cn": "壁炉上有—堆轻轻的陈年的柴灰."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hearthrug",
+          "tran_cn": "如炉边地毯的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hearthrug",
+          "tran_cn": "炉前的地毯"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fireplace",
+            "fireside",
+            "home"
+          ],
+          "tran_cn": "壁炉;炉边;家庭"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "domicile",
+            "fireplace",
+            "fireside",
+            "home",
+            "residence"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hearth and home",
+      "tran_cn": "温暖舒适的家庭(生活)"
+    },
+    {
+      "phrase": "hearth bottom",
+      "tran_cn": "n. 【机】炉床底"
+    },
+    {
+      "phrase": "hearth furnace",
+      "tran_cn": "床式反射炉"
+    },
+    {
+      "phrase": "open hearth",
+      "tran_cn": "平炉"
+    },
+    {
+      "phrase": "open hearth furnace",
+      "tran_cn": "平炉"
+    },
+    {
+      "phrase": "rotary hearth furnace",
+      "tran_cn": "环形加热炉；转底炉"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "灶台，炉边，（高炉的）炉膛，炉缸，〈比喻〉家庭，壁炉地面",
+      "tran_en": "the area of floor around a fireplace in a house"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hearths"
+    ]
+  }
+}

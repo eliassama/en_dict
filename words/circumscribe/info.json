@@ -1,0 +1,141 @@
+{
+  "word": "circumscribe",
+  "ipa": {
+    "us": "ˈsɜːkəmskraɪb",
+    "uk": "ˈsɜːrkəmskraɪb"
+  },
+  "sentences": [
+    {
+      "en": "Here the basic method to circumscribe contradiction is paraconsistent logic.",
+      "cn": "这里,限制矛盾的基本手法是次协调逻辑."
+    },
+    {
+      "en": "Please circumscribe the words which are wrongly spelled.",
+      "cn": "请将拼错的词圈出来."
+    },
+    {
+      "en": "The President’s power is circumscribed by Congress and the Supreme Court.",
+      "cn": "总统的权力受到国会和最高法院的制约。"
+    },
+    {
+      "en": "The principal has requested all teachers to circumscribe failures in red on the report cards.",
+      "cn": "这项规定要求,所有老师均要在报告卡用红笔上标出错误所在."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "circumscribed",
+          "tran_cn": " 外接的；局限的；受限制的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "circumscribed",
+          "tran_cn": " 限制（circumscribe的过去分词）；在周围画线；为…划界线"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "qualify",
+            "specify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "define"
+          ],
+          "tran_cn": "为某事物下定义"
+        },
+        {
+          "words": [
+            "belt",
+            "circle",
+            "encircle",
+            "encompass",
+            "engird",
+            "environ",
+            "gird",
+            "girdle",
+            "outline",
+            "surround"
+          ],
+          "tran_cn": "环绕,在某事物周围划线"
+        },
+        {
+          "words": [
+            "bound",
+            "confine",
+            "curb",
+            "enclose",
+            "fence",
+            "in",
+            "limit",
+            "restrain",
+            "restrict"
+          ],
+          "tran_cn": "限制,限定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "block",
+            "set a limit to"
+          ],
+          "tran_cn": "限制；在…周围画线"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 划界限； 限制",
+      "tran_en": "to limit power, rights, or abilities"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "在…周围划线，划定…范围，限制，限定",
+      "tran_en": "to limit power, rights, or abilities"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "circumscribes"
+    ],
+    "past": [
+      "circumscribed"
+    ],
+    "done": [
+      "circumscribed"
+    ],
+    "ing": [
+      "circumscribing"
+    ],
+    "noun": [
+      "circumscription"
+    ]
+  }
+}

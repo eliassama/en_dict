@@ -1,0 +1,51 @@
+{
+  "word": "homograph",
+  "ipa": {
+    "us": "ˈhɒməgrɑ:f",
+    "uk": "ˈhɑməgræf"
+  },
+  "sentences": [
+    {
+      "en": "In the third chapter, identical words have been divided into synonymy and homograph from semanteme.",
+      "cn": "第三章从词义的角度出发，将同形词分为同形同义词和同形异义词。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "homonymic",
+          "tran_cn": " 同名的；同音异义字的"
+        },
+        {
+          "word": "homonymous",
+          "tran_cn": " 同名的；双关的；同音异义的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "homology",
+          "tran_cn": " 同源；相同；异体同形；同族关系"
+        },
+        {
+          "word": "homomorphism",
+          "tran_cn": " [数] 同态，同形；异质同形"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<语法>同形异义词",
+      "tran_en": "a word that is spelled the same as another, but is different in meaning, origin, grammar, or pronunciation. For example, the noun ‘record’ is a homograph of the verb ‘record’."
+    }
+  ],
+  "exchange": {}
+}

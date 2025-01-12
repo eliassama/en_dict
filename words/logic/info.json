@@ -1,0 +1,283 @@
+{
+  "word": "logic",
+  "ipa": {
+    "us": "ˈlɒdʒɪk",
+    "uk": "ˈlɑːdʒɪk"
+  },
+  "sentences": [
+    {
+      "en": "At this point our logic was at fault.",
+      "cn": "在这一点上,我们推理的方法是错误的."
+    },
+    {
+      "en": "By now all logic had gone out of the window.",
+      "cn": "到这时根本就不讲什么逻辑了。"
+    },
+    {
+      "en": "He argues with learning and logic.",
+      "cn": "他的辩论既有学问又合逻辑."
+    },
+    {
+      "en": "He wasn't sure he'd got it right, although the theory attracted him by its logic.",
+      "cn": "该理论的逻辑性吸引了他，但他不能确定自己的理解是否正确。"
+    },
+    {
+      "en": "Her logic was irrefutable.",
+      "cn": "她的逻辑无懈可击。"
+    },
+    {
+      "en": "His logic is too loose to make much sense.",
+      "cn": "他的推理太不严密,没什么道理."
+    },
+    {
+      "en": "I fail to see the logic behind his argument.",
+      "cn": "我不明白支持他论据的是什么逻辑。"
+    },
+    {
+      "en": "It is a situation, in sum, devoid of logic.",
+      "cn": "总之，该情况毫无逻辑。"
+    },
+    {
+      "en": "Logic had prevailed and he had abandoned the idea.",
+      "cn": "最终理智占了上风，他打消了那个念头。"
+    },
+    {
+      "en": "Logic is taught here as a separate subject.",
+      "cn": "逻辑学在这里是作为单独一门课来讲授的."
+    },
+    {
+      "en": "Might is right -- that is the logic of imperialism.",
+      "cn": "强权即公理 -- 这是帝国主义的逻辑."
+    },
+    {
+      "en": "The whole process is flawed because the logic behind the questions is too simplistic.",
+      "cn": "整个过程都有缺陷，因为问题背后的逻辑太过简单了。"
+    },
+    {
+      "en": "There is a certain logic in their choice of architect.",
+      "cn": "他们对建筑师的选择是有一定道理的。"
+    },
+    {
+      "en": "There is a compelling logic to his main theory.",
+      "cn": "他的主要理论蕴含令人信服的逻辑推理."
+    },
+    {
+      "en": "There is an alliance between logic and metaphysics.",
+      "cn": "逻辑与形而上学之间有类似之处."
+    },
+    {
+      "en": "There isa certain logicin their choice of architect.",
+      "cn": "他们对建筑师的选择是有一定道理的。"
+    },
+    {
+      "en": "What sort of logic is that?",
+      "cn": "这是什么逻辑?"
+    },
+    {
+      "en": "You arrived at your conclusion using the methods of formal logic.",
+      "cn": "你这个结论是按照形式逻辑的方法推论出来的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "logical",
+          "tran_cn": " 合逻辑的，合理的；逻辑学的"
+        },
+        {
+          "word": "logistic",
+          "tran_cn": " 后勤学的；[数] 符号逻辑的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "logically",
+          "tran_cn": " 逻辑上；合乎逻辑"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "logicality",
+          "tran_cn": " 逻辑性；合论理性；论法的正确"
+        },
+        {
+          "word": "logician",
+          "tran_cn": " 逻辑学家；论理学者"
+        },
+        {
+          "word": "logicism",
+          "tran_cn": " 逻辑主义；逻辑皱"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "analysis",
+            "argument",
+            "argumentation",
+            "deduction",
+            "induction",
+            "inference",
+            "ratiocination",
+            "rationale",
+            "rationalization",
+            "reasoning",
+            "syllogization"
+          ],
+          "tran_cn": "推理,辩论,推理法"
+        },
+        {
+          "words": [
+            "dialectics",
+            "logic",
+            "logistic",
+            "of",
+            "polemics",
+            "reasoning",
+            "science",
+            "symbolic"
+          ],
+          "tran_cn": "逻辑"
+        },
+        {
+          "words": [
+            "good",
+            "judgment",
+            "mind",
+            "of",
+            "presence",
+            "reason",
+            "sense",
+            "sound",
+            "wisdom"
+          ],
+          "tran_cn": "逻辑性,条理性"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coherence",
+            "dialectic",
+            "thinking"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "control logic",
+      "tran_cn": "控制逻辑"
+    },
+    {
+      "phrase": "digital logic",
+      "tran_cn": "数字逻辑"
+    },
+    {
+      "phrase": "formal logic",
+      "tran_cn": "形式逻辑"
+    },
+    {
+      "phrase": "fuzzy logic",
+      "tran_cn": "模糊逻辑"
+    },
+    {
+      "phrase": "fuzzy logic control",
+      "tran_cn": "模糊逻辑控制"
+    },
+    {
+      "phrase": "logic analyzer",
+      "tran_cn": "逻辑分析仪；逻辑分析器"
+    },
+    {
+      "phrase": "logic circuit",
+      "tran_cn": "逻辑电路"
+    },
+    {
+      "phrase": "logic control",
+      "tran_cn": "逻辑控制"
+    },
+    {
+      "phrase": "logic design",
+      "tran_cn": "[计]逻辑设计"
+    },
+    {
+      "phrase": "logic operation",
+      "tran_cn": "逻辑运算"
+    },
+    {
+      "phrase": "logic programming",
+      "tran_cn": "逻辑编程"
+    },
+    {
+      "phrase": "logic system",
+      "tran_cn": "逻辑系统"
+    },
+    {
+      "phrase": "mathematical logic",
+      "tran_cn": "数理逻辑"
+    },
+    {
+      "phrase": "modal logic",
+      "tran_cn": "模态逻辑；情态逻辑"
+    },
+    {
+      "phrase": "predicate logic",
+      "tran_cn": "谓词逻辑"
+    },
+    {
+      "phrase": "programmable logic",
+      "tran_cn": "可编程序逻辑"
+    },
+    {
+      "phrase": "programmable logic controller",
+      "tran_cn": "可编程序逻辑控制器"
+    },
+    {
+      "phrase": "propositional logic",
+      "tran_cn": "命题逻辑"
+    },
+    {
+      "phrase": "sequential logic",
+      "tran_cn": "时序逻辑；顺序逻辑；循序逻辑"
+    },
+    {
+      "phrase": "temporal logic",
+      "tran_cn": "时序逻辑；时间逻辑"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "逻辑的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "逻辑（学），思维方式，（做某事的）道理",
+      "tran_en": "a way of thinking about something that seems correct and reasonable, or a set of sensible reasons for doing something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "logics"
+    ]
+  }
+}

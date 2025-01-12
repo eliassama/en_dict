@@ -1,0 +1,64 @@
+{
+  "word": "hotelier",
+  "ipa": {
+    "us": "həʊˈteliə(r)",
+    "uk": "hoʊˈteljər"
+  },
+  "sentences": [
+    {
+      "en": "A hotelier is a professional in the hotel business.",
+      "cn": "旅馆经理是旅馆业的内行."
+    },
+    {
+      "en": "How long has Insured been in business as hotelier at this premises?",
+      "cn": "被保险人在该保险场所从事宾馆业有多久?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hotel",
+          "tran_cn": " 旅馆，饭店；客栈"
+        },
+        {
+          "word": "hotelkeeper",
+          "tran_cn": " 旅馆经营者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "hotel",
+          "tran_cn": " 进行旅馆式办公"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hotel",
+          "tran_cn": " 使…在饭店下榻"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "旅馆老板",
+      "tran_en": "someone who owns or manages a hotel"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hoteliers"
+    ]
+  }
+}

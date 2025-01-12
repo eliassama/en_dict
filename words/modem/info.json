@@ -1,0 +1,106 @@
+{
+  "word": "modem",
+  "ipa": {
+    "us": "ˈməʊdem",
+    "uk": "ˈmoʊdem"
+  },
+  "sentences": [
+    {
+      "en": "A minimum 28,800 bps modem is probably the slowest you'll want to put up with.",
+      "cn": "传输速度为28,800比特/秒的调制解调器很可能是你愿意忍受的最低速度的解调器。"
+    },
+    {
+      "en": "Also, by modem standards, the code appears crude and lacking in humanity.",
+      "cn": "而且在现代人看来, 这部法典也显得粗糙,缺乏人道."
+    },
+    {
+      "en": "Biomedical research, like everything else in the modem world, is happening faster and faster.",
+      "cn": "同当代其他一切事物一样,生物医学研究的进程也越来越快."
+    },
+    {
+      "en": "Descartes raises the central questions of modem philosophy.",
+      "cn": "笛卡尔提出了现代哲学的核心问题."
+    },
+    {
+      "en": "Does your computer have a modem?",
+      "cn": "你的电脑有调制解调器 吗 ?"
+    },
+    {
+      "en": "He sent his work to his publishers by modem.",
+      "cn": "他通过网络把作品发给了出版商。"
+    },
+    {
+      "en": "It allows modem pooling, which looks like a single connection to users.",
+      "cn": "它还可以要用Modem池, 用户看起来像是单一连接."
+    },
+    {
+      "en": "Nintendo hopes to price the add-on modem at less than $200.",
+      "cn": "任天堂希望将该外挂调制解调器的价格定在200美元以下。"
+    },
+    {
+      "en": "PSTN lines delivered to our equipment at GBOX for out of band management via modem.",
+      "cn": "需要2PSTN线通过GBOX接入到我们的设备,我们通过MODEM管理."
+    },
+    {
+      "en": "Select the protocol tab and un - check all protocol except modem.",
+      "cn": "选择 Protocolstab,不要选取所有的协议,除Modem之外."
+    },
+    {
+      "en": "The application of APRO made the implementation of modem functions easier.",
+      "cn": "APRO组件的开发应用,使各种modem功能的实现更加方便."
+    },
+    {
+      "en": "The control over MODEM by rock - bottom single - chip computer system is the base of effective communication.",
+      "cn": "底层 单片机系统 对Modem的控制是数据有效传输的基础."
+    },
+    {
+      "en": "The main driver for modem market growth, particularly the international market, is the Internet.",
+      "cn": "推动Modem市尝尤其是在国际市场上增长的主要动力是因特网."
+    },
+    {
+      "en": "The sub - system use AT commands to control the MODEM communication.",
+      "cn": "上下位机的远程通信是采用MODEM挂接电话线的方法."
+    },
+    {
+      "en": "With a 10 Mbps Cable modem, that same file can be downloaded in 8 seconds.",
+      "cn": "而通过10Mbps的有线电视Modem, 同样的文件只要8秒钟就能下载完."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "MODEM Modulator And Demodulator",
+            "modulator-demodulator"
+          ],
+          "tran_cn": "调制解调器（等于modulator-demodulator）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "adsl modem",
+      "tran_cn": "宽带调制解调器"
+    },
+    {
+      "phrase": "cable modem",
+      "tran_cn": "有线通"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "调制解调器",
+      "tran_en": "a piece of electronic equipment that allows information from one computer to be sent along telephone wires to another computer"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "modems"
+    ]
+  }
+}

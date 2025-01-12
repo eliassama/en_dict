@@ -1,0 +1,80 @@
+{
+  "word": "stagy",
+  "ipa": {
+    "us": "ˈsteɪdʒi",
+    "uk": "ˈstedʒi"
+  },
+  "sentences": [
+    {
+      "en": "a very stagy manner",
+      "cn": "非常做作的举止"
+    },
+    {
+      "en": "The room was decorated with stagy opulence.",
+      "cn": "那房间装饰得富丽堂皇,像戏台似的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "stag",
+          "tran_cn": " 全是男人的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stag",
+          "tran_cn": " 牡鹿；不带女伴的舞客；阉割过的雄鹿"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "stag",
+          "tran_cn": " 不带女伴参加晚会"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "affected",
+            "hokey"
+          ],
+          "tran_cn": "做作的，不自然的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "theatrical"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "演戏的，舞台的，做作的",
+      "tran_en": "behaviour that is stagy is not natural and is like the way an actor behaves on a stage"
+    }
+  ],
+  "exchange": {}
+}

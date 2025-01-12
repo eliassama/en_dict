@@ -1,0 +1,168 @@
+{
+  "word": "rumour",
+  "ipa": {
+    "us": "ˈruːmə(r)",
+    "uk": "ˈruːmər"
+  },
+  "sentences": [
+    {
+      "en": "He buzzed the rumour everywhere.",
+      "cn": "他到处散播谣言."
+    },
+    {
+      "en": "He conceded that second-hand accounts are leading to rumour and counter-rumour.",
+      "cn": "他承认道听途说会引发谣言和辟谣。"
+    },
+    {
+      "en": "He dismissed the story as a rumour.",
+      "cn": "他把这个消息当做谣言而不予考虑."
+    },
+    {
+      "en": "His name has come up in the rumour mill as a possible director for the project.",
+      "cn": "有谣传说他可能出任这个项目的主管。"
+    },
+    {
+      "en": "I know it's bandied about, but I think it's only a rumour.",
+      "cn": "我知道这事到处乱传, 不过我想这只是谣言."
+    },
+    {
+      "en": "I should like to know who put that rumour about.",
+      "cn": "我想知道是谁散布了那谣言."
+    },
+    {
+      "en": "If it's possible, track the rumour back to its origin.",
+      "cn": "如果可能，应追查谣言的源头。"
+    },
+    {
+      "en": "Michael flatly denied virtually every rumour.",
+      "cn": "迈克尔几乎对每个传闻都坚决否认。"
+    },
+    {
+      "en": "Rumour has it that Jean's getting married again.",
+      "cn": "传说简又要结婚了."
+    },
+    {
+      "en": "Rumour has it that tickets were being sold for £300.",
+      "cn": "据谣传，票卖到了300英镑。"
+    },
+    {
+      "en": "The rumour had to disappear before facts.",
+      "cn": "在真相面前谣言不得不消声匿迹."
+    },
+    {
+      "en": "The rumour raised a storm of conjecture.",
+      "cn": "这谣言引起了一阵猜测."
+    },
+    {
+      "en": "The rumour was hotly denied.",
+      "cn": "这个谣传被强烈地予以否认."
+    },
+    {
+      "en": "The rumour was unfounded.",
+      "cn": "传闻失实."
+    },
+    {
+      "en": "There's a nasty sort of rumour going around about it.",
+      "cn": "关于这件事正有一则恶意的谣言在流传。"
+    },
+    {
+      "en": "This rumour has been bruited about for years.",
+      "cn": "这个谣言已传播多年了。"
+    },
+    {
+      "en": "U.S. officials are discounting rumours of a coup.",
+      "cn": "美国政府官员对一场政变的传闻将信将疑。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rumor",
+          "tran_cn": " 谣言；传闻"
+        },
+        {
+          "word": "rumormonger",
+          "tran_cn": " 造谣者；散布谣言者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rumor",
+          "tran_cn": " 谣传；传说"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "scuttlebutt",
+            "canard"
+          ],
+          "tran_cn": "谣言"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "buzz",
+            "knowledge"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "传闻，谣言，流言",
+      "tran_en": "information or a story that is passed from one person to another and which may or may not be true"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "传闻；谣传",
+      "tran_en": "information or a story that is passed from one person to another and which may or may not be true"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "传闻"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "谣传"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rumours"
+    ],
+    "third": [
+      "rumours"
+    ],
+    "past": [
+      "rumoured"
+    ],
+    "done": [
+      "rumoured"
+    ],
+    "ing": [
+      "rumouring "
+    ],
+    "adj": [
+      "rumoured"
+    ]
+  }
+}

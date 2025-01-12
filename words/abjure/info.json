@@ -1,0 +1,97 @@
+{
+  "word": "abjure",
+  "ipa": {
+    "us": "əbˈdʒʊə(r)",
+    "uk": "əbˈdʒʊr"
+  },
+  "sentences": [
+    {
+      "en": "...a formal statement abjuring military action.",
+      "cn": "...一个宣布撤回军事行动的正式声明。"
+    },
+    {
+      "en": "Indeed, if many investors abjure the listing , those who hold their noses and take the plunge might make even more money.",
+      "cn": "当然, 如果许多投资人放弃购买该公司的股份, 那些铤而走险的人也许真的会赚更多的钱."
+    },
+    {
+      "en": "Some of the Roman Emperors tried to make Christians abjure their religion.",
+      "cn": "有些罗马皇帝试著使基督教徒宣誓放弃他们的宗教."
+    },
+    {
+      "en": "The conqueror tried to make the natives abjure their religion.",
+      "cn": "征服者试著让当地人宣誓放弃他们的宗教."
+    },
+    {
+      "en": "They were compelled to abjure their faith.",
+      "cn": "他们被迫发誓放弃自己的信仰."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "abjuration",
+          "tran_cn": " 发誓断绝；放弃"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "annul"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "escape",
+            "shun"
+          ],
+          "tran_cn": "发誓放弃；公开放弃；避免"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "abjure the realm",
+      "tran_cn": "(旧)发誓永远离开国家"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "发誓放弃, 避免, 公开放弃",
+      "tran_en": "to state publicly that you will give up a particular belief or way of behaving"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "发誓放弃，郑重放弃（意见），宣布撤回（声明等），避免",
+      "tran_en": "If you abjure something such as a belief or way of life, you state publicly that you will give it up or that you reject it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "abjures"
+    ],
+    "past": [
+      "abjured"
+    ],
+    "done": [
+      "abjured"
+    ],
+    "ing": [
+      "abjuring"
+    ]
+  }
+}

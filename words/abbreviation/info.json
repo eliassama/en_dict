@@ -1,0 +1,183 @@
+{
+  "word": "abbreviation",
+  "ipa": {
+    "us": "əˌbriːviˈeɪʃn",
+    "uk": "əˌbriːviˈeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "‘Dr’ is the written abbreviation of ‘Doctor’.",
+      "cn": "Dr是Doctor的书面缩写形式。"
+    },
+    {
+      "en": "\" Mr \" is the abbreviation of \" Mister \".",
+      "cn": "“ Mr ” 是 “ Mister ” 的缩写."
+    },
+    {
+      "en": "A. D. is the abbreviation for \" advertisement \" .",
+      "cn": "A. D. 是 advertisement 的缩写."
+    },
+    {
+      "en": "An abbreviation for formula calculation language, a high - level programming language not too widely used.",
+      "cn": "公式计算语言的简称, 应用不太广泛的一种高级程序设计语言."
+    },
+    {
+      "en": "As a matter of fact, Blog is the abbreviation of Webblog.",
+      "cn": "事实上, 博客这个词是网络日志的缩写."
+    },
+    {
+      "en": "By convention an atom of an element is represented by an abbreviation of the element's name.",
+      "cn": "按照惯例,一种元素的原子由该元素名称的缩写来表示."
+    },
+    {
+      "en": "Deviation in aviation is dangerous. Writing is alleviated via bias on abbreviation.",
+      "cn": "在航空过程中的不符合是危险的. 写被关于缩写通过偏见减轻."
+    },
+    {
+      "en": "Each Reader's Digest condensed book is an abbreviation of an originally longer work.",
+      "cn": "《读者文摘》都是较长原著的缩写本."
+    },
+    {
+      "en": "Isn't that the abbreviation for manuscript?",
+      "cn": "这不是手稿一词的缩写 吗 ?"
+    },
+    {
+      "en": "Molecular conductor is the abbreviation for the electrically conducting molecular crystal.",
+      "cn": "分子导体是具有导电性的分子晶体的简称."
+    },
+    {
+      "en": "PFI -- , Germany shoemaking checks Piermasensi the abbreviation of the institute.",
+      "cn": "PFI——— 德国皮尔马森斯制鞋测试研究所的简称."
+    },
+    {
+      "en": "Please explain the meaning of this abbreviation ( mark, symbol ) on the drawing.",
+      "cn": "请解释图上这个缩写 ( 标记 、 符号 ) 的意义."
+    },
+    {
+      "en": "The abbreviation for Kansas is KS.",
+      "cn": "Kansas（堪萨斯州）的缩写是KS。"
+    },
+    {
+      "en": "The abbreviation key for the reading is given at the end.",
+      "cn": "阅读资料的缩写列在最后."
+    },
+    {
+      "en": "The AIDS virus is called HIV, an abbreviation for human immunodeficiency virus.",
+      "cn": "艾滋病毒被称为“HIV”, 是人体免疫缺损病毒的缩写."
+    },
+    {
+      "en": "The postal abbreviation for Kansas is KS.",
+      "cn": "堪萨斯州的邮政缩写是KS。"
+    },
+    {
+      "en": "VOICE: \" Multiverse \" is an abbreviation for \" multiple universes. \"",
+      "cn": "“多元宇宙 ” 就是宇宙有很多重的缩写."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "abbreviated",
+          "tran_cn": " 简短的；小型的；服装超短的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "abbreviator",
+          "tran_cn": " 缩写者；节略者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "abbreviated",
+          "tran_cn": " 缩写；节略（abbreviate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "abbreviate",
+          "tran_cn": " 使用缩写词"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "abbreviate",
+          "tran_cn": " 缩写，使省略；使简短"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "abridgement",
+            "abridgment",
+            "abstract",
+            "brief",
+            "compendium",
+            "condensation",
+            "conspectus",
+            "digest",
+            "epitome",
+            "form",
+            "outline",
+            "precis",
+            "prospectus",
+            "resume",
+            "short",
+            "shortening",
+            "sketch",
+            "summary",
+            "survey",
+            "syllabus",
+            "synopsis",
+            "version"
+          ],
+          "tran_cn": "缩写,节略,概要"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "compression",
+            "contraction"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "缩写词，缩略形式",
+      "tran_en": "a short form of a word or expression"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "abbreviations"
+    ]
+  }
+}

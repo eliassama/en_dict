@@ -1,0 +1,212 @@
+{
+  "word": "interval",
+  "ipa": {
+    "us": "ˈɪntəvl",
+    "uk": "ˈɪntərvl"
+  },
+  "sentences": [
+    {
+      "en": "An interval of a year elapsed before we were able to return.",
+      "cn": "隔了一年我们才得以返回."
+    },
+    {
+      "en": "And, after a long interval: \" Oh, Scarlett, you mustn't stay here.",
+      "cn": "歇了一会儿又说: \" 啊, 思嘉, 你得带着韦德一起离开."
+    },
+    {
+      "en": "Break up the interval ( a, b ) into small enough intervals.",
+      "cn": "把〔a, b〕 分为一串充分小的小区间."
+    },
+    {
+      "en": "During the interval, Linton superintended a prize draw.",
+      "cn": "中间休息时，林顿组织了一次抽奖。"
+    },
+    {
+      "en": "During the interval, wine was served.",
+      "cn": "幕间休息时有葡萄酒供应。"
+    },
+    {
+      "en": "England were two goals behind at the interval.",
+      "cn": "中场休息时英格兰队落后两球。"
+    },
+    {
+      "en": "He left the room, returning after a short interval with a message.",
+      "cn": "他离开房间，过了一会儿就带回来一条消息。"
+    },
+    {
+      "en": "In the interval a blond boy dressed in white serenaded the company on the flute.",
+      "cn": "幕间休息时，一位身着白衣的金发男孩用长笛为来宾演奏了一支小夜曲。"
+    },
+    {
+      "en": "Sleep — during this interval is out of the question.",
+      "cn": "要在这样的间歇里睡觉是不可能的."
+    },
+    {
+      "en": "The audience were going out for the interval.",
+      "cn": "幕间休息时观众走出了剧场."
+    },
+    {
+      "en": "The ferry service has restarted after an interval of 12 years.",
+      "cn": "时隔12年之后，轮渡服务又重新开通了。"
+    },
+    {
+      "en": "The goal that decided the match came just before the interval.",
+      "cn": "决定本场比赛结果的进球是在中场休息前一刻打入的。"
+    },
+    {
+      "en": "The interval between the two posts measures thirty meters.",
+      "cn": "那两根柱间的距离为三十米."
+    },
+    {
+      "en": "The interval between the two trees measures 40 feet.",
+      "cn": "这两棵树的间隔是40英尺."
+    },
+    {
+      "en": "The interval OC is known as the domain of dependence.",
+      "cn": "区间OC叫做相关域."
+    },
+    {
+      "en": "the light flashed at intervals.",
+      "cn": "灯光不时地闪烁。"
+    },
+    {
+      "en": "the path is marked with rocks at intervals.",
+      "cn": "小路每隔一定的距离就有石头做标记。"
+    },
+    {
+      "en": "There was a long interval before he anwsered the telephone.",
+      "cn": "隔了好久他才回了电话."
+    },
+    {
+      "en": "Trees had been planted at regular intervals.",
+      "cn": "树已按均距栽种。"
+    },
+    {
+      "en": "We can get some drinks in the interval.",
+      "cn": "我们可以在幕间休息时喝点什么。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "break",
+            "interim",
+            "interlude",
+            "intermission",
+            "interruption",
+            "pause",
+            "recess",
+            "respite"
+          ],
+          "tran_cn": "间隔;中止;休息"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "break",
+            "interim",
+            "interlude",
+            "intermission",
+            "interpreter",
+            "interruption",
+            "pause",
+            "period",
+            "recess",
+            "respite",
+            "span",
+            "stage",
+            "time",
+            "truce"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at intervals",
+      "tran_cn": "每隔…的空间（或距离）"
+    },
+    {
+      "phrase": "closed interval",
+      "tran_cn": "[数]闭区间"
+    },
+    {
+      "phrase": "confidence interval",
+      "tran_cn": "置信区间，可靠区间"
+    },
+    {
+      "phrase": "in the interval",
+      "tran_cn": "在这一期间；在间隔时"
+    },
+    {
+      "phrase": "interval analysis",
+      "tran_cn": "[计]区间分析"
+    },
+    {
+      "phrase": "interval estimate",
+      "tran_cn": "区间估计"
+    },
+    {
+      "phrase": "interval estimation",
+      "tran_cn": "区间估计；区间推定"
+    },
+    {
+      "phrase": "maintenance interval",
+      "tran_cn": "（飞机发动机的）维修间隔期"
+    },
+    {
+      "phrase": "recurrence interval",
+      "tran_cn": "重现期，重复周期；脉冲周期"
+    },
+    {
+      "phrase": "sample interval",
+      "tran_cn": "取样间隔"
+    },
+    {
+      "phrase": "sampling interval",
+      "tran_cn": "采样间隔"
+    },
+    {
+      "phrase": "space interval",
+      "tran_cn": "空间间隔"
+    },
+    {
+      "phrase": "spacing interval",
+      "tran_cn": "间隔时间"
+    },
+    {
+      "phrase": "temperature interval",
+      "tran_cn": "温度间距，温度间隔；温度范围"
+    },
+    {
+      "phrase": "time interval",
+      "tran_cn": "时间间隔"
+    },
+    {
+      "phrase": "unit interval",
+      "tran_cn": "单位间隔；单位时间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "间隔，幕间休息，（数学）区间",
+      "tran_en": "the period of time between two events, activities etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "intervals"
+    ]
+  }
+}

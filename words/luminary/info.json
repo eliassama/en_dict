@@ -1,0 +1,79 @@
+{
+  "word": "luminary",
+  "ipa": {
+    "us": "ˈluːmɪnəri",
+    "uk": "ˈluːmɪneri"
+  },
+  "sentences": [
+    {
+      "en": "luminaries of Parisian society",
+      "cn": "巴黎社会的名流"
+    },
+    {
+      "en": "That luminary gazed earnestly at some papers before him.",
+      "cn": "那个大好佬在用心细看面前的报纸."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "luminous",
+          "tran_cn": " 发光的；明亮的；清楚的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "luminance",
+          "tran_cn": " [光][电子] 亮度；[光] 发光性（等于luminosity）；光明"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "worthy",
+            "luminous body"
+          ],
+          "tran_cn": "发光体；杰出人物；知识渊博的人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "hero",
+            "heroine",
+            "lamp",
+            "somebody",
+            "sun"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "杰出人物，名人，天体，发光体",
+      "tran_en": "someone who is very famous or highly respected for their skill at doing something or their knowledge of a particular subject"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "luminaries"
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "word": "marginalize",
+  "ipa": {
+    "us": "ˈmɑːdʒɪnəlaɪz",
+    "uk": "ˈmɑːrdʒɪnəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Female employees complained of being marginalized by management.",
+      "cn": "女性雇员抱怨被管理层边缘化。"
+    },
+    {
+      "en": "The effect of this has been to increasingly marginalize the local authority sector.",
+      "cn": "这件事的影响是使地方当局越来越受到排斥。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "marginal",
+          "tran_cn": " 边缘的；临界的；末端的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "marginally",
+          "tran_cn": " 少量地；最低限度地；在栏外；在页边"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "marge",
+          "tran_cn": " 边缘（等于margin）"
+        },
+        {
+          "word": "margin",
+          "tran_cn": " 边缘；利润，余裕；页边的空白"
+        },
+        {
+          "word": "marginality",
+          "tran_cn": " 边缘性"
+        },
+        {
+          "word": "marginalization",
+          "tran_cn": " 边缘化；忽视；排斥"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "margin",
+          "tran_cn": " 加边于；加旁注于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "ignore",
+            "reject"
+          ],
+          "tran_cn": "排斥；忽视；使处于社会边缘；使脱离社会发展进程"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "边缘化，排斥",
+      "tran_en": "to make a person or a group of people unimportant and powerless in an unfair way"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使处于社会边缘，使脱离社会发展进程，忽视，排斥"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "marginalizes"
+    ],
+    "past": [
+      "marginalized"
+    ],
+    "ing": [
+      "marginalizing"
+    ],
+    "noun": [
+      "marginalization"
+    ]
+  }
+}

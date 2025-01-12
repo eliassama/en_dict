@@ -1,0 +1,105 @@
+{
+  "word": "dissenter",
+  "ipa": {
+    "us": "dɪˈsentə(r)",
+    "uk": "dɪˈsɛntɚ"
+  },
+  "sentences": [
+    {
+      "en": "Political dissenters were imprisoned.",
+      "cn": "持不同政见者遭到监禁。"
+    },
+    {
+      "en": "The role of the dissenter is not for the weak - kneed.",
+      "cn": "反对者的角色不是软弱之人所能够担当的."
+    },
+    {
+      "en": "Tower of London ( 1597 ) Catholic dissenter John a rope stretched from the Tower a getaway rowboat.",
+      "cn": "伦敦塔 ( 1597年 ) 不信奉英国国教的天主教徒JohnGerard爬上了塔顶伸下来的一条绳子,登上一条小船逃之夭夭."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dissentient",
+          "tran_cn": " 反对的，持异议的；不赞成的"
+        },
+        {
+          "word": "dissenting",
+          "tran_cn": " 不同意的（等于dissentient）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dissent",
+          "tran_cn": " 异议；（大写）不信奉国教"
+        },
+        {
+          "word": "dissentient",
+          "tran_cn": " 不赞成的人，持异议的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "dissenting",
+          "tran_cn": " 不同意；持异议（dissent的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "dissent",
+          "tran_cn": " 不同意；不信奉国教"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "anti",
+            "opponent"
+          ],
+          "tran_cn": "持异议者；反对者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "original"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "持异议者，持不同意见者",
+      "tran_en": "a person or organization that disagrees with an official decision or accepted opinion"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "dissenters"
+    ]
+  }
+}

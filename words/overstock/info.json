@@ -1,0 +1,99 @@
+{
+  "word": "overstock",
+  "ipa": {
+    "us": "ˌəʊvəˈstɒk",
+    "uk": "ˌoʊvərˈstɑk"
+  },
+  "sentences": [
+    {
+      "en": "Fourth, the overstock sites on the Net are also interesting choices when it comes to your search for party favors.",
+      "cn": "第四，当你去搜罗一些聚会礼品时，网络上一些库存过多的网站也是个不错的选择。"
+    },
+    {
+      "en": "In order to provide an evaluation of the social networking impact one-business, we are starting our attempt from word-of-mouth marketplaces or overstock auctions or reputation systems.",
+      "cn": "为了提供一个社交网络对电子商务影响的评估，我们尝试从口碑市场或库存过剩拍卖或声誉系统开始。"
+    },
+    {
+      "en": "Overstock contradiction will also highlight the investment growth.",
+      "cn": "产能过剩矛盾凸显也会抑制投资增长."
+    },
+    {
+      "en": "We will have to sell off the overstock to make room in the warehouse.",
+      "cn": "为了腾出库房场地,我们必须廉价出售存货."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "overstuffed",
+          "tran_cn": " 垫得又软又厚的；冗长的；多油的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "oversupply",
+          "tran_cn": " [经] 供给过多；过多的供应品"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "overstuffed",
+          "tran_cn": " 装填过度；涂油过多（overstuff的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "oversupply",
+          "tran_cn": " 过度供给"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[经管] 库存过剩"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "过多的进货，库存过剩",
+      "tran_en": "to obtain more of something than is needed"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": " 库存过剩",
+      "tran_en": "to obtain more of something than is needed"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "进货过多"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "overstocks"
+    ],
+    "past": [
+      "overstocked"
+    ],
+    "done": [
+      "overstocked"
+    ],
+    "ing": [
+      "overstocking"
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "word": "hypothesis",
+  "ipa": {
+    "us": "haɪˈpɒθəsɪs",
+    "uk": "haɪˈpɑːθəsɪs"
+  },
+  "sentences": [
+    {
+      "en": "A suggested explanation, so long as its correctness is still in doubt, is called a hypothesis.",
+      "cn": "提出来的解释, 只要它的正确性仍然有疑问, 便称为假说."
+    },
+    {
+      "en": "An early version of the hypothesis is due to Griffith.",
+      "cn": "这个假说的早期看法是格里菲思提到的."
+    },
+    {
+      "en": "Fermi's suggestion was more than a verbal hypothesis.",
+      "cn": "费密的见解不仅是词句上的假设."
+    },
+    {
+      "en": "Her hypothesis concerns the role of electromagnetic radiation.",
+      "cn": "她的假说涉及到电磁辐射的作用."
+    },
+    {
+      "en": "If this hypothesis is correct certain other consequences flow from it.",
+      "cn": "如果这个假说是正确的话,肯定由此还会得出其他的推论."
+    },
+    {
+      "en": "No serious arguments that dispute this hypothesis have been advanced.",
+      "cn": "对于这些前提,尚未发生激烈的争论."
+    },
+    {
+      "en": "One hypothesis is that the victim fell asleep while driving.",
+      "cn": "一种假设是受害人开车时睡着了。"
+    },
+    {
+      "en": "Streaming is still the only hypothesis to account for translocation in fungus.",
+      "cn": "胞质流还仅仅是一种解释真菌中转移的假说."
+    },
+    {
+      "en": "Such a hypothesis raises other questions in its turn.",
+      "cn": "这样的假设会相继引出另一些问题."
+    },
+    {
+      "en": "The hypothesis no longer belongs to the realm of science fiction.",
+      "cn": "这种设想已不是科学幻想."
+    },
+    {
+      "en": "The mathematical formulation of this hypothesis is a persuasive one.",
+      "cn": "这一假设的数学形式是诱人的."
+    },
+    {
+      "en": "The results confirmed his hypothesis on the use of modal verbs.",
+      "cn": "结果证实了他的关于情态动词用法的假设."
+    },
+    {
+      "en": "The theory is based on the hypothesis that all men are born equal.",
+      "cn": "这个理论基于人人平等的前提."
+    },
+    {
+      "en": "This distribution is not inconsistent with the counterflow hypothesis.",
+      "cn": "这种分配并不与逆向流动假说相矛盾."
+    },
+    {
+      "en": "What until then had been a hypothesis, became an article of faith.",
+      "cn": "在此之前还只是一种假设的东西, 变成了一种信条."
+    },
+    {
+      "en": "Work will now begin to test the hypothesis in rats.",
+      "cn": "现在将开始在老鼠身上做实验以验证该假设。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hypothetical",
+          "tran_cn": " 假设的；爱猜想的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "hypothetically",
+          "tran_cn": " 假设地；假想地"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "hypothesise",
+          "tran_cn": " （英）假定；设定；假设（等于hypothesize）"
+        },
+        {
+          "word": "hypothesize",
+          "tran_cn": " 假设，假定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hypothesise",
+          "tran_cn": " （英）假定；设定；假设（等于hypothesize）"
+        },
+        {
+          "word": "hypothesize",
+          "tran_cn": " 假设，假定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "tentative"
+          ],
+          "tran_cn": "假设"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abstraction",
+            "proposition",
+            "theory",
+            "thesis"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "efficient market hypothesis",
+      "tran_cn": "有效市场假说；有效率市场假说"
+    },
+    {
+      "phrase": "efficient markets hypothesis",
+      "tran_cn": "有效市场假说"
+    },
+    {
+      "phrase": "hypothesis test",
+      "tran_cn": "假设检验"
+    },
+    {
+      "phrase": "hypothesis testing",
+      "tran_cn": "假设检验；假设测算"
+    },
+    {
+      "phrase": "null hypothesis",
+      "tran_cn": "零假设；虚假设；解消假设"
+    },
+    {
+      "phrase": "riemann hypothesis",
+      "tran_cn": "黎曼假设（等于黎曼猜想）"
+    },
+    {
+      "phrase": "working hypothesis",
+      "tran_cn": "作业假说，工作假说"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "假设，假说，[逻]前提",
+      "tran_en": "an idea that is suggested as an explanation for something, but that has not yet been proved to be true"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hypotheses"
+    ]
+  }
+}

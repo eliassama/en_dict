@@ -1,0 +1,134 @@
+{
+  "word": "abase",
+  "ipa": {
+    "us": "əˈbeɪs",
+    "uk": "əˈbes"
+  },
+  "sentences": [
+    {
+      "en": "A man who never respect others will abase hisself.",
+      "cn": "不尊重别人的人同时也自贬了身份."
+    },
+    {
+      "en": "A man who uses bad language will only abase himself.",
+      "cn": "说脏话者只会自贬身分."
+    },
+    {
+      "en": "Abase all, the Server application and Client application implementation was followed.",
+      "cn": "在上述的基础上,编写了实现应用服务器和客户端应用程序的方法、步骤."
+    },
+    {
+      "en": "Don't abase your apartment.",
+      "cn": "不要降低你的地位。"
+    },
+    {
+      "en": "Don't abase yourself! You're unique, you can do everything!",
+      "cn": "不许贬低自己! 你是独一无二的! 你可以做任何事!"
+    },
+    {
+      "en": "Finally, the open problems on research in Dat abase Security are discussed.",
+      "cn": "最后提出了数据库安全研究应当解决的几个问题."
+    },
+    {
+      "en": "He refused to abase himself in the eyes of others.",
+      "cn": "他不愿在他人面前被贬低."
+    },
+    {
+      "en": "He would not abase himself by showing fear.",
+      "cn": "他不愿露出惧色而有失身份."
+    },
+    {
+      "en": "In former times, priests used to abase themselves before the gods.",
+      "cn": "过去, 牧师们常常对神自责."
+    },
+    {
+      "en": "She wanted to abase herself before the strong man, to be low and humble before him.",
+      "cn": "她使自己在这个强壮的男人面前显得更谦卑,低下和恭顺."
+    },
+    {
+      "en": "The leader's refusal to abase himself before his followers irritated the king.",
+      "cn": "这位首领拒绝在他的部下面前低三下四,这使得皇帝很恼火."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "abasement",
+          "tran_cn": " 身分低微；屈尊；降低"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bring",
+            "degrade",
+            "demote",
+            "dishonor",
+            "down",
+            "impute",
+            "reduce",
+            "shame"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bring",
+            "debase",
+            "degrade",
+            "demean",
+            "demote",
+            "down",
+            "humble",
+            "humiliate",
+            "lower",
+            "make",
+            "reduce"
+          ],
+          "tran_cn": "贬低,降低;使受辱"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "降低",
+      "tran_en": "to humble or belittle (oneself, etc) "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使谦卑，使感到羞耻，使降低（地位、身份等），<古>降下"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "abases"
+    ],
+    "past": [
+      "abased"
+    ],
+    "done": [
+      "abased"
+    ],
+    "ing": [
+      "abasing"
+    ],
+    "noun": [
+      "abasement"
+    ]
+  }
+}

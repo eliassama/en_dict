@@ -1,0 +1,217 @@
+{
+  "word": "configuration",
+  "ipa": {
+    "us": "kənˌfɪɡəˈreɪʃn",
+    "uk": "kənˌfɪɡjəˈreɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "...Stonehenge, in southwestern England, an ancient configuration of giant stones.",
+      "cn": "…史前巨石柱群，位于英国西南部，是一座古代巨石阵列。"
+    },
+    {
+      "en": "A transient application should launch to its previous position and configuration.",
+      "cn": "运行暂时应用时,它应该处于上一次的位置和配置状态下."
+    },
+    {
+      "en": "Differentiate between command and configuration.",
+      "cn": "要把命令和设置区别开来."
+    },
+    {
+      "en": "For some remote systems, the translation of configuration information into machine language.",
+      "cn": "对于某些远程系统, 将配置信息翻译成机器语言的过程."
+    },
+    {
+      "en": "Geographers study the configuration of the mountains.",
+      "cn": "地理学家研究山脉的地形轮廓."
+    },
+    {
+      "en": "Historically, the supply curve of hours has followed this configuration.",
+      "cn": "在历史上, 工时的供给曲线是符合这种形状的."
+    },
+    {
+      "en": "In the process the magnetic field structure relaxes to a lower - energy configuration .",
+      "cn": "在这个过程中,磁场结构松弛到 低能量 状态."
+    },
+    {
+      "en": "Prices range from $119 to $199, depending on the particular configuration.",
+      "cn": "价格因具体配置而异，从119美元至199美元不等。"
+    },
+    {
+      "en": "Some teletypes are equipped with EIA - RS 232 C in a serial configuration.",
+      "cn": "有些电传打字机用EIA-RS232C装备成串行方式."
+    },
+    {
+      "en": "The amount of fluctuation is also affected by bed configuration.",
+      "cn": "变化的幅度也受河床形状的影响."
+    },
+    {
+      "en": "The conical configuration of the appendix makes obstruction of the lumen unlikely.",
+      "cn": "阑尾呈圆锥形,不易造成腔内梗阻."
+    },
+    {
+      "en": "The elevation and configuration of the launch pad also require consideration.",
+      "cn": "提升机和发射台的外形也需要考虑."
+    },
+    {
+      "en": "The potential energy is energy the system possesses by virtue of its configuration.",
+      "cn": "势能是体系由于它的相对位置而具有的能."
+    },
+    {
+      "en": "The term configuration describes moving, adding, or deleting persistent objects.",
+      "cn": "术语“配置”概括了移动 、 添加或者删除持久对象."
+    },
+    {
+      "en": "Those with a random distribution of configuration are termed atactic.",
+      "cn": "构型无规分布的聚合物叫无规聚合物."
+    },
+    {
+      "en": "We can elaborate the electronic configuration for the atoms in the periodic chart.",
+      "cn": "我们能够精心安排周期表中原子的电子排布."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "configurational",
+          "tran_cn": " 结构的；构形的；外形的；组态的"
+        },
+        {
+          "word": "configured",
+          "tran_cn": " 配置；配置的，组态的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "configured",
+          "tran_cn": " 使…成形；按特定形式装配（configure的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "configure",
+          "tran_cn": " 安装；使成形"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "allocation",
+            "mechanics",
+            "framework",
+            "profile",
+            "texture"
+          ],
+          "tran_cn": "配置；结构；外形"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "absolute configuration",
+      "tran_cn": "绝对构型"
+    },
+    {
+      "phrase": "basic configuration",
+      "tran_cn": "基本配置；基本形状"
+    },
+    {
+      "phrase": "circuit configuration",
+      "tran_cn": "电路排布"
+    },
+    {
+      "phrase": "configuration change",
+      "tran_cn": "配置改变"
+    },
+    {
+      "phrase": "configuration control",
+      "tran_cn": "配置控制"
+    },
+    {
+      "phrase": "configuration files",
+      "tran_cn": "配置文件；设定档（configuration file的复数形式）"
+    },
+    {
+      "phrase": "configuration management",
+      "tran_cn": "配置管理；结构管理"
+    },
+    {
+      "phrase": "configuration manager",
+      "tran_cn": "配置管理器；组态管理员"
+    },
+    {
+      "phrase": "configuration space",
+      "tran_cn": "位形空间，构形空间；配置空间"
+    },
+    {
+      "phrase": "electronic configuration",
+      "tran_cn": "n. 电子构型；电子排布"
+    },
+    {
+      "phrase": "hardware configuration",
+      "tran_cn": "硬件配置"
+    },
+    {
+      "phrase": "initial configuration",
+      "tran_cn": "初始配置；初始组态"
+    },
+    {
+      "phrase": "line configuration",
+      "tran_cn": "线路配置；网络配置"
+    },
+    {
+      "phrase": "machine configuration",
+      "tran_cn": "机器配置"
+    },
+    {
+      "phrase": "memory configuration",
+      "tran_cn": "存储器配置；存储器格局"
+    },
+    {
+      "phrase": "molecular configuration",
+      "tran_cn": "分子构型"
+    },
+    {
+      "phrase": "network configuration",
+      "tran_cn": "网络结构；网路配置"
+    },
+    {
+      "phrase": "software configuration",
+      "tran_cn": "软件配置，软件结构"
+    },
+    {
+      "phrase": "standard configuration",
+      "tran_cn": "标准配置；标准安装；标准设备配备"
+    },
+    {
+      "phrase": "system configuration",
+      "tran_cn": "系统配置；系统结构"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "构造，布局，配置",
+      "tran_en": "the shape or arrangement of the parts of something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "configurations"
+    ]
+  }
+}

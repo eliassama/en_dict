@@ -1,0 +1,97 @@
+{
+  "word": "snaky",
+  "ipa": {
+    "us": "ˈsneɪki",
+    "uk": "ˈsneki"
+  },
+  "sentences": [
+    {
+      "en": "By path snaky but on, can see gold melon lithic a corner.",
+      "cn": "由小路蜿蜒而上, 可以看到金瓜石的一隅."
+    },
+    {
+      "en": "High stone walls topped with snaky concertina wire, set off at intervals by looming guard towers.",
+      "cn": "顶部装着蛇腹式铁丝网的高高的石墙, 被渐渐隐现的哨塔隔开."
+    },
+    {
+      "en": "I was walking along a snaky path, the way to my grandma's.",
+      "cn": "我走在弯弯曲曲的乡村小道上, 准备去最疼我的姥姥家."
+    },
+    {
+      "en": "What are you snaky about?",
+      "cn": "你为啥发火？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "snakelike",
+          "tran_cn": " 蛇形的；蛇一般的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "snake",
+          "tran_cn": " 蛇；阴险的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "snake",
+          "tran_cn": " 迂回前进"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "snake",
+          "tran_cn": " 拉（木材等）；迂回前进"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "sinister",
+            "insidious"
+          ],
+          "tran_cn": "阴险的；弯弯曲曲的；似蛇的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "slippery"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "似蛇的，（尤指像蛇般）蜿蜒曲折的",
+      "tran_en": "of or like a snake; sinuous "
+    }
+  ],
+  "exchange": {}
+}

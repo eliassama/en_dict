@@ -1,0 +1,54 @@
+{
+  "word": "millinery",
+  "ipa": {
+    "us": "ˈmɪlɪnəri",
+    "uk": "ˈmɪlɪneri"
+  },
+  "sentences": [
+    {
+      "en": "...her aunt's modest millinery shop.",
+      "cn": "...她姑姑的小女帽店。"
+    },
+    {
+      "en": "Chanel run a millinery shop in Paris.",
+      "cn": "夏奈儿在巴黎开了一家女帽店."
+    },
+    {
+      "en": "He opens a high - class millinery establishment.",
+      "cn": "他开设 高档 妇人用帽店."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "milliner",
+          "tran_cn": " 女帽制造商；女帽贩卖商"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "hat"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "女帽类，女帽制造（贩卖）业",
+      "tran_en": "the making and selling of women’s hats"
+    }
+  ],
+  "exchange": {}
+}

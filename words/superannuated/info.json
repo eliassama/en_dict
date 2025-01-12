@@ -1,0 +1,103 @@
+{
+  "word": "superannuated",
+  "ipa": {
+    "us": "ˌsu:pərˈænjueɪtɪd",
+    "uk": "ˌsjupɚˈænjuˌetɪd"
+  },
+  "sentences": [
+    {
+      "en": "Are you still riding that superannuated old bike?",
+      "cn": "你还骑那辆老掉牙的自行车 吗 ?"
+    },
+    {
+      "en": "Nothing is more tiresome than a superannuated pedagogue.",
+      "cn": "老朽无能的学究最令人讨厌不过。"
+    },
+    {
+      "en": "superannuated computing equipment",
+      "cn": "过时的计算机设备"
+    },
+    {
+      "en": "superannuated sportsmen",
+      "cn": "走下坡路的运动员"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "superannuation",
+          "tran_cn": " 退休；退休金；废弃；陈旧"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "superannuate",
+          "tran_cn": " 变得过时；因年老而领养老金退休"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "superannuate",
+          "tran_cn": " 废弃，淘汰；给……养老金使退休；解雇……"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "ancient",
+            "retired"
+          ],
+          "tran_cn": "过时的；退休的；老朽的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "secondhand"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "retired"
+          ],
+          "tran_cn": "退休；变陈旧（superannuate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "领取退休金而退休的，落伍的，废弃的",
+      "tran_en": "old and no longer useful or no longer able to do things"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "因落后于时代而废除，勒令退学( superannuate的过去式和过去分词 )"
+    }
+  ],
+  "exchange": {}
+}

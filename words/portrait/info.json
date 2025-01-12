@@ -1,0 +1,180 @@
+{
+  "word": "portrait",
+  "ipa": {
+    "us": "ˈpɔːtreɪt",
+    "uk": "ˈpɔːrtrət"
+  },
+  "sentences": [
+    {
+      "en": "\"Elizabeth R\", a TV portrait of the Queen, had record viewing figures.",
+      "cn": "关于女王的电视专题片《伊丽莎白女王》创下了收视纪录。"
+    },
+    {
+      "en": "a family portrait",
+      "cn": "全家福"
+    },
+    {
+      "en": "Alberg took the portrait down from the wall.",
+      "cn": "阿尔伯格从墙上摘下那幅肖像画。"
+    },
+    {
+      "en": "He gives us a portrait of the real Gandhi, warts and all.",
+      "cn": "他向我们描绘了真正的甘地，包括他的不足。"
+    },
+    {
+      "en": "He had his portrait painted in uniform.",
+      "cn": "他让人画了一幅身着制服的画像。"
+    },
+    {
+      "en": "He was putting the finishing stroke to the portrait.",
+      "cn": "他给这幅画作最后的修饰."
+    },
+    {
+      "en": "It's an exquisite portrait.",
+      "cn": "这是幅精美的画像."
+    },
+    {
+      "en": "Lucian Freud has been asked to paint a portrait of the Queen.",
+      "cn": "卢西恩·弗洛伊德已受邀为女王画肖像画。"
+    },
+    {
+      "en": "She painted a beautiful portrait for us.",
+      "cn": "她为我们画了一幅漂亮的肖像."
+    },
+    {
+      "en": "She posed for her portrait.",
+      "cn": "她摆好姿势让人为她画肖像."
+    },
+    {
+      "en": "She’s been commissioned to paint Jackson’s portrait .",
+      "cn": "她已受托为杰克逊画肖像。"
+    },
+    {
+      "en": "The art of portrait miniatures was originated in England.",
+      "cn": "微型画像艺术创始于英国."
+    },
+    {
+      "en": "The article gives a detailed portrait of a great soldier.",
+      "cn": "这篇文章详细地描写了一位伟大的战士."
+    },
+    {
+      "en": "The artist has reproduced your features very well in this portrait.",
+      "cn": "这位艺术家在这幅画像中把你的容貌重现得维妙维肖."
+    },
+    {
+      "en": "The portrait was touched up so as to make it lighter.",
+      "cn": "这张画经过润色,色调明朗了一些."
+    },
+    {
+      "en": "There is a portrait of King Charles on the wall.",
+      "cn": "墙上挂着查尔斯国王的画像."
+    },
+    {
+      "en": "What an accurate portrait — it's him to the life!",
+      "cn": "多准确的画像啊,酷似他本人!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "portraitist",
+          "tran_cn": " 肖像画家；人像摄影师"
+        },
+        {
+          "word": "portraiture",
+          "tran_cn": " 肖像画；肖像绘制；人像摄影"
+        },
+        {
+          "word": "portrayal",
+          "tran_cn": " 描绘；画像，肖像"
+        },
+        {
+          "word": "portrayer",
+          "tran_cn": " 记述者；描画者；肖像画家"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "depiction",
+            "description",
+            "detail",
+            "narrative",
+            "recital",
+            "recitation",
+            "relation"
+          ],
+          "tran_cn": "描写;描述"
+        },
+        {
+          "words": [
+            "effigy",
+            "icon",
+            "image",
+            "likeness",
+            "miniature",
+            "photograph",
+            "profile",
+            "representation",
+            "resemblance",
+            "semblance",
+            "silhouette",
+            "simulacrum",
+            "snapshot"
+          ],
+          "tran_cn": "肖像,画像,相片,相似"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cartoon",
+            "copy",
+            "painting"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "family portrait",
+      "tran_cn": "全家福"
+    },
+    {
+      "phrase": "head portrait",
+      "tran_cn": "头像"
+    },
+    {
+      "phrase": "phase portrait",
+      "tran_cn": "相位图；相图"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "竖向的；纵向打印格式的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "肖像，肖像画，模型，标本，半身雕塑像，人物描写",
+      "tran_en": "a painting, drawing, or photograph of a person"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "portraits"
+    ]
+  }
+}

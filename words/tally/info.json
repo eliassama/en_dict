@@ -1,0 +1,244 @@
+{
+  "word": "tally",
+  "ipa": {
+    "us": "ˈtæli",
+    "uk": "ˈtæli"
+  },
+  "sentences": [
+    {
+      "en": "(= write down ) the number of cars that pass.",
+      "cn": "记下经过车辆的数目。"
+    },
+    {
+      "en": "Don't forget to keep a careful tally of what you spend.",
+      "cn": "别忘了仔细记下你的开支账目."
+    },
+    {
+      "en": "He added to his tally in the last minute.",
+      "cn": "他在比赛最后一分钟又得了分."
+    },
+    {
+      "en": "He kept a running tally of who had called him, who had visited, who had sent flowers.",
+      "cn": "他不断记录着又有谁给他打电话，拜访过他，或给他送花。"
+    },
+    {
+      "en": "Her list does not tally with mine.",
+      "cn": "她的单子与我的不相符."
+    },
+    {
+      "en": "His story doesn't tally with yours.",
+      "cn": "他说的话跟你说的不相符."
+    },
+    {
+      "en": "She made a record tally.",
+      "cn": "她获得了创纪录的比分."
+    },
+    {
+      "en": "Some of the records held by the accounts departments did not tally.",
+      "cn": "会计部门的一些账目有出入。"
+    },
+    {
+      "en": "The facts mentioned in the report tally to every detail.",
+      "cn": "报告中所提到的事实都丝毫不差."
+    },
+    {
+      "en": "The figures didn't seem to tally.",
+      "cn": "数字好像不符。"
+    },
+    {
+      "en": "The final tally was $465,000.",
+      "cn": "总的支出是46.5万美元。"
+    },
+    {
+      "en": "The final tally was 817 votes for her and 731 for Mr Lee.",
+      "cn": "最后得出的票数是她817票，李先生731票。"
+    },
+    {
+      "en": "The tally was three yeas and two nays, so the yeas have it.",
+      "cn": "投票结果是三票赞成两票反对, 投赞成票者胜利."
+    },
+    {
+      "en": "The tally was two ayes and three nays.",
+      "cn": "投票结果是两票赞成,三票反对."
+    },
+    {
+      "en": "the two goals that took his tally for Scotland to 15",
+      "cn": "使他在苏格兰队的总进球数达到15个的两粒进球"
+    },
+    {
+      "en": "The two stories do not tally.",
+      "cn": "两种说法对不上."
+    },
+    {
+      "en": "They do not keep a tally of visitors to the palace, but it is very popular.",
+      "cn": "他们没有对来宫殿的游客作一个记录，不过这个地方非常受欢迎的。"
+    },
+    {
+      "en": "This description didn't seem to tally with what we saw.",
+      "cn": "这一描述似乎与我们目睹的情况不符。"
+    },
+    {
+      "en": "You can buy on tally in this shop.",
+      "cn": "在这家商店里可以赊购."
+    },
+    {
+      "en": "Your figures don't tally with mine.",
+      "cn": "你的数字和我的不符."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tall",
+          "tran_cn": " 高的；长的；过分的；夸大的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "tall",
+          "tran_cn": " 夸大地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tallyman",
+          "tran_cn": " 以分期方式售货的商人；装卸货计数人；带样品卖货的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "counter",
+            "ticket",
+            "label"
+          ],
+          "tran_cn": "计数器；标签；记账"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agree",
+            "calculate",
+            "check",
+            "coincide",
+            "compute",
+            "correspond",
+            "count",
+            "enumerate",
+            "enumeration",
+            "estimate",
+            "figure",
+            "invoice",
+            "list",
+            "match",
+            "reckon",
+            "resemble",
+            "score"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "agree",
+            "check",
+            "coincide",
+            "correspond",
+            "match"
+          ],
+          "tran_cn": "相符合;一致"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "calculate",
+            "compute",
+            "count",
+            "estimate",
+            "figure",
+            "list",
+            "reckon",
+            "score"
+          ],
+          "tran_cn": "计算;记录"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "medal tally",
+      "tran_cn": "奖牌总数"
+    },
+    {
+      "phrase": "tally up",
+      "tran_cn": "总结；加一；结算"
+    },
+    {
+      "phrase": "tally with",
+      "tran_cn": "与…相符合"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "计数器，标签，记账",
+      "tran_en": "a record of how much you have spent, won etc by a particular point in time"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 一致， 符合",
+      "tran_en": "if numbers or statements tally, they match exactly"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "符合，吻合，记录，计分"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "测量，计数，通过做记号记录，加标签于，使符合，使吻合"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tallies"
+    ],
+    "third": [
+      "tallies"
+    ],
+    "past": [
+      "tallied"
+    ],
+    "done": [
+      "tallied"
+    ],
+    "ing": [
+      "tallying"
+    ]
+  }
+}

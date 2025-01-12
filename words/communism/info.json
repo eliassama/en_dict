@@ -1,0 +1,75 @@
+{
+  "word": "communism",
+  "ipa": {
+    "us": "ˈkɒmjunɪzəm",
+    "uk": "ˈkɑːmjunɪzəm"
+  },
+  "sentences": [
+    {
+      "en": "...the ultimate triumph of communism in the world.",
+      "cn": "…共产主义在全世界的最终胜利。"
+    },
+    {
+      "en": "The Gang of Four's absurd theory of socialism and communism led only to poverty and stagnation.",
+      "cn": "“四人帮”荒谬的理论导致中国处于贫困、停滞的状态."
+    },
+    {
+      "en": "the ultimate triumph of communism in the world",
+      "cn": "共产主义在全世界的最终胜利"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "communist",
+          "tran_cn": " 共产主义的"
+        },
+        {
+          "word": "communistic",
+          "tran_cn": " 共产主义的；共产主义者的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "communist",
+          "tran_cn": " 共产党员；共产主义者"
+        },
+        {
+          "word": "communization",
+          "tran_cn": " 共产化；共有化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "Bolshevism",
+            "Marxism",
+            "Socialism",
+            "Sovietism",
+            "collectivism"
+          ],
+          "tran_cn": "共产主义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "共产主义（制度）",
+      "tran_en": "a political system in which the government controls the production of all food and goods, and there is no privately owned property"
+    }
+  ],
+  "exchange": {}
+}

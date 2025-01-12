@@ -1,0 +1,190 @@
+{
+  "word": "trader",
+  "ipa": {
+    "us": "ˈtreɪdə(r)",
+    "uk": "ˈtreɪdər"
+  },
+  "sentences": [
+    {
+      "en": "a small trader who sells hats in Oxford",
+      "cn": "在牛津卖帽子的小贩"
+    },
+    {
+      "en": "And the trader bowed himself out of the apartment.",
+      "cn": "随后,那贩子便欠身告辞了."
+    },
+    {
+      "en": "Credit is everything to a trader.",
+      "cn": "信用对于商人来说至关重要."
+    },
+    {
+      "en": "Finance for a sole trader usually comes from the individual's own savings or from family and friends.",
+      "cn": "个体户的资金通常来自个人积蓄或者来自亲朋好友。"
+    },
+    {
+      "en": "He had given up roving as horse - trader.",
+      "cn": "他不再四处流浪贩马为生."
+    },
+    {
+      "en": "He was a foxy old trader.",
+      "cn": "他是个老奸商."
+    },
+    {
+      "en": "I am a beauty - merchant , a trader in song, and I pursue utility.",
+      "cn": "我是个贩卖美的商人 、 推销歌曲的贾客.我追求的是实效."
+    },
+    {
+      "en": "It must be this miserable trader - this intruder.",
+      "cn": "一定是那个晦气的商人 -- 那个外来的家伙."
+    },
+    {
+      "en": "Market traders display an exotic selection of the island's produce.",
+      "cn": "市场商家们展示了该岛具有异国情调的农产品系列。"
+    },
+    {
+      "en": "She bargained with the trader till he sold her the fruit cheaply.",
+      "cn": "她和卖水果的人讨价还价,直到他把水果便宜地卖给了她."
+    },
+    {
+      "en": "The company is an international trader in grain.",
+      "cn": "这家公司是国际粮食贸易公司."
+    },
+    {
+      "en": "The old man was a trader in tea.",
+      "cn": "那老头曾是茶商."
+    },
+    {
+      "en": "The trader and catcher may yet be a - mong our aristocracy.",
+      "cn": "黑奴贩子和黑奴追捕者们,恐怕还将侧身于我们的达官贵人之列呢."
+    },
+    {
+      "en": "The trader squirmed in his old ducks.",
+      "cn": "穿着旧帆布服的生意人浑身上下都不自在."
+    },
+    {
+      "en": "The trader was fat and smooth and quietly smiling.",
+      "cn": "生意人长得肥胖、机灵,他安静地微笑着."
+    },
+    {
+      "en": "The trader was obstinate in the negotiation.",
+      "cn": "这个商人在谈判中拗强固执."
+    },
+    {
+      "en": "The trader was truthful and without deceit.",
+      "cn": "这位商人很可信,童叟无欺."
+    },
+    {
+      "en": "To the surprise of many Wall Street traders, the dollar rose yesterday.",
+      "cn": "使很多华尔街经纪人意外的是，昨天美元上涨了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "trading",
+          "tran_cn": "交易的；贸易的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "trade",
+          "tran_cn": "贸易，交易；行业；职业"
+        },
+        {
+          "word": "tradesman",
+          "tran_cn": "商人；（英）店主；零售商；手艺人"
+        },
+        {
+          "word": "tradespeople",
+          "tran_cn": "商人；商界；开商店者及其家属"
+        },
+        {
+          "word": "trading",
+          "tran_cn": "交易；贸易；购物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "trading",
+          "tran_cn": "交换（trade的ing形式）；做买卖"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "trade",
+          "tran_cn": "交易，买卖；以物易物"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "trade",
+          "tran_cn": "用…进行交换"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bargainer",
+            "dealer"
+          ],
+          "tran_cn": "交易者；商人；[船][水运]商船"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "advertiser",
+            "merchant",
+            "seller",
+            "vendor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "foreign trader",
+      "tran_cn": "贸易商；对外贸易业者"
+    },
+    {
+      "phrase": "securities trader",
+      "tran_cn": "券商"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "商人，商船，交易者",
+      "tran_en": "someone who buys and sells goods or stocks"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "traders"
+    ]
+  }
+}

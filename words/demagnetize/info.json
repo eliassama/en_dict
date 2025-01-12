@@ -1,0 +1,64 @@
+{
+  "word": "demagnetize",
+  "ipa": {
+    "us": "ˌdi:'mægnɪtˌaɪz",
+    "uk": "diˈmæɡnɪˌtaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Don't put magnets near credit cards because it might demagnetize them.",
+      "cn": "不要把磁棒靠近信用卡,可能会使卡消磁."
+    },
+    {
+      "en": "When you rent or buy a DVD, the checkout clerk rubs it across a pad to demagnetize the metallic glass so it won't trigger an alarm when you leave.",
+      "cn": "当你租或者买DVD光盘时，收银员会把它滑过一个垫子使其中的金属玻璃退磁，所以在你离开的时候不会引起警报。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "demagnetization",
+          "tran_cn": " [电][矿业] 退磁；[电] 去磁"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "demagnetise",
+          "tran_cn": " 使退磁"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "degauss",
+            "unbuild"
+          ],
+          "tran_cn": "消磁；使退磁"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 消磁， 使退磁",
+      "tran_en": "to take away the  magnetic  qualities of something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "消磁，使退磁"
+    }
+  ],
+  "exchange": {}
+}

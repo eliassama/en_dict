@@ -1,0 +1,102 @@
+{
+  "word": "assignee",
+  "ipa": {
+    "us": "ˌæsaɪ'ni:",
+    "uk": "ˌæsaɪ'ni"
+  },
+  "sentences": [
+    {
+      "en": "After receiving notification, the assignor shall assist the assignee in removing any obstacles.",
+      "cn": "让与人接到通知后, 应当协助受让人排除妨碍."
+    },
+    {
+      "en": "Article39 Where a registered trademark is assigned, the assignor and assignee shall conclude a contract for the assignment, and jointly file an application with the trademark Office.",
+      "cn": "第三十九条转让注册商标的，转让人和受让人应当签订转让协议，并共同向商标局提出申请。"
+    },
+    {
+      "en": "By filing a joint application with the assignee with the Trademark Office.",
+      "cn": "你可以和授权人共同向商标局提出申请."
+    },
+    {
+      "en": "Costs incurred for intermediary and agent business or for acting as assignee.",
+      "cn": "指因居间及代理业务或受委?等所应负担之成本."
+    },
+    {
+      "en": "Goodwill assignee, meeting the statutory requirements, can also be obtained ownership, even if the grantor punishment.",
+      "cn": "善意受让人, 满足法定条件, 纵使让与人无处分处,亦可取得所有权."
+    },
+    {
+      "en": "Revenues earned from compensation for intermediary and agent business or for acting as an assignee.",
+      "cn": "指因居间及代理业务或受委?等报酬所得之收入."
+    },
+    {
+      "en": "Upon receipt of the notice of assignment of the obligee's right, the obligor may, in respect of the assignee, avail itself of any defense it has against the assignor.",
+      "cn": "第八十三条债务人接到债权转让通知时，债务人对让与人享有债权，并且债务人的债权先于转让的债权到期或者同时到期的，债务人可以向受让人主张抵销。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "assignable",
+          "tran_cn": " [经] 可分配的；可指定的；可让渡的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assignation",
+          "tran_cn": " 分配；约会；指定；[经] 转让"
+        },
+        {
+          "word": "assignment",
+          "tran_cn": " 分配；任务；作业；功课"
+        },
+        {
+          "word": "assignor",
+          "tran_cn": " 让与人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "deputy",
+            "agent",
+            "factor",
+            "secondary",
+            "proxy"
+          ],
+          "tran_cn": "代理人；[法][经]受托人；分配到任务的人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "receiver"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "受托人，代理人，受让人，被指定人",
+      "tran_en": "a person to whom some right, interest, or property is transferred "
+    }
+  ],
+  "exchange": {}
+}

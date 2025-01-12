@@ -1,0 +1,119 @@
+{
+  "word": "tabulate",
+  "ipa": {
+    "us": "ˈtæbjuleɪt",
+    "uk": "ˈtæbjəˌlet"
+  },
+  "sentences": [
+    {
+      "en": "Advertising -- Tabulate response - card mechanisms from ads, web site ads, and other forms of advertising.",
+      "cn": "广告 —— 使用列表法来比较平面媒体广告 、 站广告或其他形式广告的推广效果."
+    },
+    {
+      "en": "Do you like to use a chart to tabulate the data?",
+      "cn": "你喜欢用图表来统计数据 吗 ?"
+    },
+    {
+      "en": "It took me ten hours tabulate the results.",
+      "cn": "我花了十个小时把结果制成“表格”."
+    },
+    {
+      "en": "It took me ten hours to tabulate the results.",
+      "cn": "我花了十个小时把结果制成表格."
+    },
+    {
+      "en": "Let me tabulate the results as follows.",
+      "cn": "让我将结果列表如下."
+    },
+    {
+      "en": "Please tabulate the numbers in order.",
+      "cn": "请把那些数字按顺序制成表."
+    },
+    {
+      "en": "Results for the test programme haven't been tabulated.",
+      "cn": "试验项目的结果还没有制成表格。"
+    },
+    {
+      "en": "Using the sketch, it is now possible to tabulate the coordinates of all the nodes.",
+      "cn": "应用草图, 现在可以将所有结点的坐标移制成表."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tabular",
+          "tran_cn": "扁平的；列成表格的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tabulation",
+          "tran_cn": "表格；作表"
+        },
+        {
+          "word": "tabulator",
+          "tran_cn": "制表机；作表的人；跳格键"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "catalogue",
+            "chart"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "surface"
+          ],
+          "tran_cn": "使成平面；把…制成表格"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "平板状的；有平面的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "把（数字、事实）列成表，使成板[片]状，使成平面",
+      "tran_en": "to arrange figures or information together in a set or a list, so that they can be easily compared"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "tabulates"
+    ],
+    "past": [
+      "tabulated"
+    ],
+    "done": [
+      "tabulated"
+    ],
+    "ing": [
+      "tabulating"
+    ],
+    "noun": [
+      "tabulation"
+    ]
+  }
+}

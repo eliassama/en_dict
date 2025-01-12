@@ -1,0 +1,84 @@
+{
+  "word": "heckler",
+  "ipa": {
+    "us": "'heklə(r)",
+    "uk": "'heklə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Jessie: Is a heckler a stalker?",
+      "cn": "杰西: 诘难者和自命不凡者是一回事 吗 ?"
+    },
+    {
+      "en": "The heckler made a score off the referee.",
+      "cn": "辩论中,这个展开激烈质问的人在裁判方面占了上风."
+    },
+    {
+      "en": "The heckler refused to be put down.",
+      "cn": "诘问者不让人家制止他讲话."
+    },
+    {
+      "en": "The heckler was ejected from the auditorium for creating a disturbance.",
+      "cn": "起哄捣蛋分子因制造骚乱被赶出礼堂."
+    },
+    {
+      "en": "The heckler was ejected from the meeting.",
+      "cn": "那个专找茬儿的捣蛋分子被逐出会场."
+    },
+    {
+      "en": "When comic Michael Richards was unnerved by an African American heckler at a comedy club several years ago, he responded with a racial-slur-laced tirade.",
+      "cn": "当喜剧演员迈克尔·理查德斯几年前在一个喜剧俱乐部被一位美国黑人质问者搞得懊恼不安时，他用了一大段带种族侮辱色彩的话作回应。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "heckle",
+          "tran_cn": " 麻梳"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "heckle",
+          "tran_cn": " 诘问；激烈质问；以麻梳梳理"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "pest"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "诘问者"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hecklers"
+    ],
+    "verb": [
+      "heckle"
+    ],
+    "noun": [
+      "heckling"
+    ]
+  }
+}

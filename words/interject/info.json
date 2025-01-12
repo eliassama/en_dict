@@ -1,0 +1,101 @@
+{
+  "word": "interject",
+  "ipa": {
+    "us": "ˌɪntəˈdʒekt",
+    "uk": "ˌɪntərˈdʒekt"
+  },
+  "sentences": [
+    {
+      "en": "‘That’s absolute rubbish!’ he interjected.",
+      "cn": "“那全是废话！”他突然插话道。"
+    },
+    {
+      "en": "I hate to interject a note of realism, but we don't have any money to do any of this.",
+      "cn": "我不想插话讲实际情况, 但我们确实没钱做这些事."
+    },
+    {
+      "en": "If I may interject a note of caution into the discussion.",
+      "cn": "请容我在讨论中插句话,要注意."
+    },
+    {
+      "en": "Then it has to choose the best mode and time to interject.",
+      "cn": "最后,它还必须选择最佳的打扰模式与时机."
+    },
+    {
+      "en": "To introduce or interject ( a comment, for example ) during discourse or a conversation.",
+      "cn": "插话在交谈或谈话中添入或插入 ( 例如,评论 )"
+    },
+    {
+      "en": "Well, if I could just interject.",
+      "cn": "嗯，请允许我插一句。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interjection",
+          "tran_cn": " [语] 感叹词；插入语；突然的发声"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "implant",
+            "insert",
+            "interpose",
+            "intrude"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "between",
+            "implant",
+            "insert",
+            "interpose",
+            "put"
+          ],
+          "tran_cn": "插嘴;插入"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "突然插入；插嘴",
+      "tran_en": "to interrupt what someone else is saying with a sudden remark"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（突然）插入，插话，打断"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "interjects"
+    ],
+    "past": [
+      "interjected"
+    ],
+    "done": [
+      "interjected"
+    ],
+    "ing": [
+      "interjecting"
+    ]
+  }
+}

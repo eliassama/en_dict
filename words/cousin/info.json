@@ -1,0 +1,166 @@
+{
+  "word": "cousin",
+  "ipa": {
+    "us": "ˈkʌzn",
+    "uk": "ˈkʌzn"
+  },
+  "sentences": [
+    {
+      "en": "Eric was my cousin Edward's boy.",
+      "cn": "埃里克是我表兄爱德华的儿子。"
+    },
+    {
+      "en": "George ducked out of his forced marriage to a cousin.",
+      "cn": "乔治逃脱了和他表亲的包办婚姻。"
+    },
+    {
+      "en": "He invented some story about a cousin.",
+      "cn": "他骗别人说自己有位堂兄。"
+    },
+    {
+      "en": "He tracked down his cousin and uncle. The latter was sick.",
+      "cn": "他追查到了堂弟和叔叔的下落，发现叔叔这时正在病中。"
+    },
+    {
+      "en": "Her cousin, a hairdresser, was perming her hair as a special treat.",
+      "cn": "她表兄是美发师，正在免费给她烫发。"
+    },
+    {
+      "en": "His cousin is somebody quite high up in the navy.",
+      "cn": "他的堂兄是一位海军高官。"
+    },
+    {
+      "en": "His cousin was about to wed.",
+      "cn": "他表弟要结婚了。"
+    },
+    {
+      "en": "His cousin was soon cursing luridly.",
+      "cn": "他的表弟立刻用极其难听的脏话大骂起来。"
+    },
+    {
+      "en": "I tried again to get ahold of my cousin Joan.",
+      "cn": "我再次尝试联系我的表妹琼。"
+    },
+    {
+      "en": "My cousin Mark helped me to bring in the bags.",
+      "cn": "我表弟马克帮我把包提了进来。"
+    },
+    {
+      "en": "My cousin Mark helped me.",
+      "cn": "表兄马克帮了我。"
+    },
+    {
+      "en": "Sakota was her cousin and bosom pal.",
+      "cn": "沙科塔是她的表妹和亲密伙伴。"
+    },
+    {
+      "en": "She has relinquished the post to her cousin, Sir Edward.",
+      "cn": "她把职位让给了表弟爱德华爵士."
+    },
+    {
+      "en": "She is determined to wreak vengeance on those who killed her cousin.",
+      "cn": "她决心要向杀害表妹的凶手报仇."
+    },
+    {
+      "en": "She looks a bit like his cousin Maureen.",
+      "cn": "她长得有点儿像他表姐莫琳。"
+    },
+    {
+      "en": "The average European kitchen is smaller than its American cousin.",
+      "cn": "欧式的厨房一般比美式厨房小。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cousinly",
+          "tran_cn": " 堂兄弟姐妹关系的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "cousinly",
+          "tran_cn": " 堂兄弟姐妹关系地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "congener",
+            "kin",
+            "kinsman",
+            "kinswoman"
+          ],
+          "tran_cn": "亲属,亲戚"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "relative"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "distant cousin",
+      "tran_cn": "远表兄妹"
+    },
+    {
+      "phrase": "first cousin",
+      "tran_cn": "堂兄弟姊妹"
+    },
+    {
+      "phrase": "first cousin once removed",
+      "tran_cn": "父母的第一代堂（表）兄弟姐妹"
+    },
+    {
+      "phrase": "first cousin twice removed",
+      "tran_cn": "祖父母的第一代堂（表）兄弟姐妹"
+    },
+    {
+      "phrase": "second cousin",
+      "tran_cn": "第二代堂（表）兄弟姐妹；父母的第一代堂（表）兄弟姐妹的子女"
+    },
+    {
+      "phrase": "second cousin once removed",
+      "tran_cn": "父母的第二代堂（表）兄弟姐妹"
+    },
+    {
+      "phrase": "third cousin",
+      "tran_cn": "第三代堂（表）兄弟姐妹；父母第二代堂（表）兄弟姐妹的子女"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "同辈表亲，堂兄弟（或姐妹），表兄弟（或姐妹）",
+      "tran_en": "the child of your  uncle  or  aunt "
+    },
+    {
+      "pos": "other",
+      "tran_cn": "同辈表亲"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cousins"
+    ]
+  }
+}

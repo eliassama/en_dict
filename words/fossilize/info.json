@@ -1,0 +1,114 @@
+{
+  "word": "fossilize",
+  "ipa": {
+    "us": "ˈfɒsəlaɪz",
+    "uk": "ˈfɑsəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Most couples, however fossilized their relationship, have some interests in common.",
+      "cn": "大多数夫妻，不管关系多么僵化，都有一些共同的兴趣。"
+    },
+    {
+      "en": "What they seem to want to do in fact is fossilize the particular environment in which people live and work.",
+      "cn": "他们似乎想要做的实际上就是让人们生活和工作的环境固定不变。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fossil",
+          "tran_cn": " 化石的；陈腐的，守旧的"
+        },
+        {
+          "word": "fossiliferous",
+          "tran_cn": " 含有化石的"
+        },
+        {
+          "word": "fossilized",
+          "tran_cn": " 石化的；僵化的；老化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fossil",
+          "tran_cn": " 化石；僵化的事物；顽固不化的人"
+        },
+        {
+          "word": "fossilisation",
+          "tran_cn": " 化石化"
+        },
+        {
+          "word": "fossilization",
+          "tran_cn": " 石化；僵化"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "fossilized",
+          "tran_cn": " 石化（fossilize的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "fossilise",
+          "tran_cn": " 变成化石（等于fossilize）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fossilise",
+          "tran_cn": " 使成化石（等于fossilize）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使成化石；使陈腐",
+      "tran_en": "if people, ideas, systems etc fossilize or are fossilized, they never change or develop, even when there are good reasons why they should change"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "变成化石，变陈腐"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使成化石，使陈腐"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "fossilizes"
+    ],
+    "past": [
+      "fossilized"
+    ],
+    "done": [
+      "fossilized"
+    ],
+    "ing": [
+      "fossilizing"
+    ],
+    "noun": [
+      "fossilization"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "word": "marcher",
+  "ipa": {
+    "us": "ˈmɑ:tʃə(r)",
+    "uk": "ˈmɑrtʃə(r)"
+  },
+  "sentences": [
+    {
+      "en": "civil rights marchers",
+      "cn": "争取公民权的游行示威者"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "march",
+          "tran_cn": " 行军，进军；进行曲；示威游行"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "march",
+          "tran_cn": " 进军；走过"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "march",
+          "tran_cn": " 迫使……前进"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "parader"
+          ],
+          "tran_cn": "行进者，游行者"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "边疆地区居民，边境防务长官，行进者，行军者",
+      "tran_en": "a member of a group of people that are walking somewhere in order to express their ideas or protest about something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "marchers"
+    ]
+  }
+}

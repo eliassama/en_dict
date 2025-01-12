@@ -1,0 +1,135 @@
+{
+  "word": "hey",
+  "ipa": {
+    "us": "heɪ",
+    "uk": "he"
+  },
+  "sentences": [
+    {
+      "en": "\"Hey, I don't know what you're talking about,\" Russo objected.",
+      "cn": "“喂，我不知道你在说些什么，”拉索反驳道。"
+    },
+    {
+      "en": "\"Hey, Judith,\" he resumed, \"tell me all about yourself.\"",
+      "cn": "“嘿，朱迪思，”他接着说，“跟我谈谈你自己吧。”"
+    },
+    {
+      "en": "\"Hey, you're gorgeous,\" he slurred.",
+      "cn": "“嗨，你真漂亮，”他含混地说。"
+    },
+    {
+      "en": "\"Hey! Look out!\" shouted Patty.",
+      "cn": "“嘿！小心点！”帕蒂喊道。"
+    },
+    {
+      "en": "Hey up, Margaret!.",
+      "cn": "嘿，玛格丽特！。"
+    },
+    {
+      "en": "Hey up! Here's the cops!.",
+      "cn": "嘿！警察来了！。"
+    },
+    {
+      "en": "Hey wow, man! Where d'you get those boots?",
+      "cn": "哎哟，老弟，哪里搞来的靴子？"
+    },
+    {
+      "en": "Hey, can I just ask you something?",
+      "cn": "嘿，问你点事好吗？"
+    },
+    {
+      "en": "Hey, don't muss up my hair!",
+      "cn": "嗨，别弄乱了我的头发！"
+    },
+    {
+      "en": "Hey, I know what, I'll get a bumper sticker printed up.",
+      "cn": "嘿，有了，我会找人印刷一些保险杠贴纸。"
+    },
+    {
+      "en": "Hey, just a minute!",
+      "cn": "嗨，等一下！"
+    },
+    {
+      "en": "Hey, just a minute. Where do you think you're going with my handbag?",
+      "cn": "嗨, 等一下! 你拿着我的手提袋上哪儿去了?"
+    },
+    {
+      "en": "Hey, look at the time! We'll talk about it tonight. All right?",
+      "cn": "嘿，看看都几点啦？咱们晚上再讨论，好不好？"
+    },
+    {
+      "en": "Hey, Ma. It's the old man.",
+      "cn": "嗨，妈，是老爸。"
+    },
+    {
+      "en": "Hey, no way, buddy.",
+      "cn": "嘿，没门儿，老兄。"
+    },
+    {
+      "en": "Hey, thanks, guv.",
+      "cn": "嘿，谢谢，先生。"
+    },
+    {
+      "en": "Hey, wait a minute!",
+      "cn": "喂，等一下！"
+    },
+    {
+      "en": "You just press the button and, hey presto, a perfect cup of coffee!",
+      "cn": "只要按下按钮，嘿，马上就出来一杯上好的咖啡！"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "int",
+      "words": [
+        {
+          "words": [
+            "here",
+            "G'Day"
+          ],
+          "tran_cn": "喂！（引起注意等）；你好！（表示问候）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "stover",
+            "hay"
+          ],
+          "tran_cn": "干草（等于hay）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hey up",
+      "tran_cn": "(英，非正式)（用于打招呼或唤起注意）嘿"
+    },
+    {
+      "phrase": "what the hey",
+      "tran_cn": "(北美，非正式，婉)同what the hell"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "int",
+      "tran_cn": "（用以引起注意，表示惊异或询问）嘿，喂，你好！（表示问候），咳",
+      "tran_en": "a shout used to get someone’s attention or to show surprise, interest, or annoyance"
+    },
+    {
+      "pos": "interj",
+      "tran_cn": "嘿；喂",
+      "tran_en": "a shout used to get someone’s attention or to show surprise, interest, or annoyance"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "干草（等于hay）"
+    }
+  ],
+  "exchange": {}
+}

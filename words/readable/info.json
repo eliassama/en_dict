@@ -1,0 +1,182 @@
+{
+  "word": "readable",
+  "ipa": {
+    "us": "ˈri:dəbl",
+    "uk": "ˈridəbəl"
+  },
+  "sentences": [
+    {
+      "en": "A device for recording sales data on machine readable media at the time eachsale is made.",
+      "cn": "每次销售时,用于在机器可读的介质上记录销售数据的一种设备."
+    },
+    {
+      "en": "A machine - readable identification card for identifying an operator at a computer terminal.",
+      "cn": "一种机器可以阅读的标识卡,用以识别计算机终端上的操作员."
+    },
+    {
+      "en": "His books on diplomatic history were eminently readable.",
+      "cn": "他写的有关外交史的书可读性非常强。"
+    },
+    {
+      "en": "It is the combination of wit and political analysis that makes his articles so readable.",
+      "cn": "他的生花妙笔与政治分析相得益彰,使他的文章脍炙人口."
+    },
+    {
+      "en": "Make sure your original is clean and readable.",
+      "cn": "确保原稿整洁易读."
+    },
+    {
+      "en": "Nested classes can lead to more readable and maintainable code.",
+      "cn": "内嵌类可以使得代码更易读和易维护."
+    },
+    {
+      "en": "The book is clear, readable and adequately illustrated.",
+      "cn": "这本书明白易懂，可读性强，插图丰富。"
+    },
+    {
+      "en": "The elderly and other sight - impaired users require larger and more readable type faces.",
+      "cn": "图7-3视觉语言研究被用来探索不同的抽象于且有些独立于交互设计的视觉风格."
+    },
+    {
+      "en": "The English translation may have been condensed into a single more readable book.",
+      "cn": "英译本可能被压缩成了更具可读性的单行本。"
+    },
+    {
+      "en": "The figures should be clearly readable.",
+      "cn": "数字应该很清晰易辨."
+    },
+    {
+      "en": "The two parties encode confidential data in a form that is not directly readable by the other party.",
+      "cn": "双方将机密资料加密，这样对方就无法直接读取资料。"
+    },
+    {
+      "en": "This book might be more readable if it is abridged.",
+      "cn": "这本书如经删节,可读性也许会更强些."
+    },
+    {
+      "en": "This essay is grammatically smooth and readable.",
+      "cn": "这篇作文写得还顺."
+    },
+    {
+      "en": "This is a well researched and very readable book.",
+      "cn": "这是一本研究深刻、可读性强的书。"
+    },
+    {
+      "en": "This is an impeccably researched and very readable book.",
+      "cn": "这本书中的研究缜密透彻，可读性很强。"
+    },
+    {
+      "en": "Treasure Island is very readable.",
+      "cn": "《金银岛》是一本可读性很强的书."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "read",
+          "tran_cn": " 有学问的"
+        },
+        {
+          "word": "reading",
+          "tran_cn": " 阅读的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "read",
+          "tran_cn": " 阅读；读物"
+        },
+        {
+          "word": "readability",
+          "tran_cn": " 可读性；易读"
+        },
+        {
+          "word": "reader",
+          "tran_cn": " 读者；阅读器；读物"
+        },
+        {
+          "word": "readership",
+          "tran_cn": " 读者人数；读者们；读者的身分"
+        },
+        {
+          "word": "reading",
+          "tran_cn": " 阅读，朗读；读物；读数"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "reading",
+          "tran_cn": " 阅读（read的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "read",
+          "tran_cn": " 读；读起来"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "read",
+          "tran_cn": " 阅读；读懂，理解"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "legible"
+          ],
+          "tran_cn": "可读的；易读的；读起来津津有味的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "legible"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "machine readable",
+      "tran_cn": "计算机可读的；机粕读的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "易读的，易懂的",
+      "tran_en": "interesting and enjoyable to read, and easy to understand"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "readability"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "word": "seismology",
+  "ipa": {
+    "us": "saɪzˈmɒlədʒi",
+    "uk": "saɪzˈmɑːlədʒi"
+  },
+  "sentences": [
+    {
+      "en": "He had just received a doctorate in recognition of his contributions to seismology .",
+      "cn": "他刚被授予了博士头衔以表彰他对地震学作出的贡献。"
+    },
+    {
+      "en": "He is a famous seismology expert.",
+      "cn": "他是有名的地震学专家。"
+    },
+    {
+      "en": "In pure seismology , ground motion is generally expressed by its amplitude.",
+      "cn": "地面运动一般以振幅表示."
+    },
+    {
+      "en": "The last system also corresponds to the real time seismology.",
+      "cn": "其中，最后一个体系即相当于实时地震学。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "seismal",
+          "tran_cn": " 地震的"
+        },
+        {
+          "word": "seismic",
+          "tran_cn": " 地震的；因地震而引起的"
+        },
+        {
+          "word": "seismologic",
+          "tran_cn": " 地震学的"
+        },
+        {
+          "word": "seismological",
+          "tran_cn": " 地震学上的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "seism",
+          "tran_cn": " 地震"
+        },
+        {
+          "word": "seismograph",
+          "tran_cn": " 地震仪"
+        },
+        {
+          "word": "seismography",
+          "tran_cn": " 地震定测法；地震学（等于seismology）"
+        },
+        {
+          "word": "seismologist",
+          "tran_cn": " 地震学家"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "地震学",
+      "tran_en": "the scientific study of  earthquakes "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "seismologists"
+    ],
+    "adj": [
+      "seismological"
+    ]
+  }
+}

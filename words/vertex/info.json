@@ -1,0 +1,151 @@
+{
+  "word": "vertex",
+  "ipa": {
+    "us": "ˈvɜ:teks",
+    "uk": "ˈvɜrteks"
+  },
+  "sentences": [
+    {
+      "en": "A vertex with zero outdegree is called a sink.",
+      "cn": "出度为零的顶点称作收点."
+    },
+    {
+      "en": "Also, try to minimize changes of vertex or index buffer.",
+      "cn": "同样也要尽量减少顶点缓存或者索引缓存的切换."
+    },
+    {
+      "en": "An edge corresponds to a corridor and a vertex to the conjunction of several corridors.",
+      "cn": "边对应于走廓,而顶点对应于几条走廓的相交点."
+    },
+    {
+      "en": "Definition of a sphere a vertex is not allowed to enter. This allows collision against the animated cloth.",
+      "cn": "定义一个球体的一个顶点不允许进入。这允许反向碰撞动画布料。"
+    },
+    {
+      "en": "Palm - hitting , the anterior fontanelle of the vertex and Baihui.",
+      "cn": "掌 击法 常用于头顶前囟与百会."
+    },
+    {
+      "en": "Per - vertex light is faster and more flexible but lacks resolution.",
+      "cn": "每顶点光照更快且其更加灵活,但是缺乏分辨率."
+    },
+    {
+      "en": "Select a vertex, point or other system as origin.",
+      "cn": "选择三个面,它们相交的点作为坐标点."
+    },
+    {
+      "en": "Set vertex streams and index buffer to the primitive.",
+      "cn": "集流顶点和索引缓冲区的原始."
+    },
+    {
+      "en": "So what are the capabilities and benefits of using Vertex Shaders?",
+      "cn": "那么,我们使用顶点着色的性能及利益在那里 呢 ?"
+    },
+    {
+      "en": "The driver might allocate a larger buffer after this point, or you might need to reduce your vertex count.",
+      "cn": "在这点之后，驱动可能会分配一个更大的缓存，或者你可能需要降低你的顶点数量。"
+    },
+    {
+      "en": "The vertex shader and pixel shader each have user - defined input and output.",
+      "cn": "顶点着色器和像素着色器都有用户定义的输入和输出."
+    },
+    {
+      "en": "Up to 128 instructions can be encoded in a single vertex shader.",
+      "cn": "指令的序列为128个操作长度."
+    },
+    {
+      "en": "Vertex a is the initial vertex and b is the terminal vertext.",
+      "cn": "a顶点是始端顶点,而b是末端顶点."
+    },
+    {
+      "en": "Vertex coloring model and decomposing algorithm of gate assignment problem is offered.",
+      "cn": "给出了停机位分配问题顶点着色模型及其分解算法."
+    },
+    {
+      "en": "Vertex scan line number is the core concept of this algorithm.",
+      "cn": "顶点扫描线号是该算法中的核心概念."
+    },
+    {
+      "en": "We shall present some of the basic properties of the vertex and edge chromatic numbers.",
+      "cn": "我们将介绍顶点色数和边色数的一些基本性质."
+    },
+    {
+      "en": "You can create your vertex shader in two ways ( that I know ) .",
+      "cn": "创建 顶点着色 程序你可有两种方法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vertical",
+          "tran_cn": " 垂直的，直立的；[解剖] 头顶的，顶点的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vertical",
+          "tran_cn": " 垂直线，垂直面"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "height",
+            "summit",
+            "sky",
+            "peak",
+            "apex"
+          ],
+          "tran_cn": "[解剖]顶点；[昆]头顶；[天]天顶"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "altitude",
+            "pinnacle",
+            "zenith"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "vertex angle",
+      "tran_cn": "顶角"
+    },
+    {
+      "phrase": "vertex power",
+      "tran_cn": "镜顶屈光度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "最高点，顶点，<数>（三角形、圆锥体等与底相对的）顶，（三角形、多边形等的）角的顶点",
+      "tran_en": "the point where two lines meet to form an angle, especially the point of a triangle"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      " vertexs",
+      " vertices",
+      "vertexes"
+    ]
+  }
+}

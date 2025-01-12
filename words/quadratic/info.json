@@ -1,0 +1,181 @@
+{
+  "word": "quadratic",
+  "ipa": {
+    "us": "kwɒˈdrætɪk",
+    "uk": "kwɑˈdrætɪk"
+  },
+  "sentences": [
+    {
+      "en": "A singular linear quadratic problem for discrete - time descriptor systems is studied.",
+      "cn": "研究了离散广义系统的奇异线性二次指标最优控制问题."
+    },
+    {
+      "en": "Afterwards, the inverse quadratic eigenvalue problems in damped vibration system are studied.",
+      "cn": "再次, 研究了阻尼振动系统中的二次特征值反问题."
+    },
+    {
+      "en": "Both vegetables and quadratic polynomials are made more interesting with the Mandelbrot set.",
+      "cn": "有了曼德尔勃特集合，蔬菜和二次多项式都变得有趣多了。"
+    },
+    {
+      "en": "Both vegetables and quadratic polynomials are made more interesting with the Mandelbrot set. The formula explains the repeating complexity of broccoli heads like this one.",
+      "cn": "有了曼德尔勃特集合，蔬菜和二次多项式都变得有趣多了。这个方程式表现了类似图中的花椰菜菜籽的重复的复杂性。"
+    },
+    {
+      "en": "Finally, the algorithm was applied to a quadratic sieve.",
+      "cn": "最后给出了算法在二次筛法中的应用."
+    },
+    {
+      "en": "Interpolation Quadratic complete source code can be used directly.",
+      "cn": "二次插值完整的源代码可以直接使用."
+    },
+    {
+      "en": "Or C, the migration method of graphing quadratic functions?",
+      "cn": "或者C, 二次函数图像平移法?"
+    },
+    {
+      "en": "Regression estimates : including intercept and coefficients for linear, quadratic and correlation coefficient.",
+      "cn": "2?归参数: 含截距 、 一次、二次?归参数与相关系数."
+    },
+    {
+      "en": "Roger can solve quadratic equations as easy as falling off a log.",
+      "cn": "罗杰能轻而易举地解二次方程式."
+    },
+    {
+      "en": "The changing of maximum dynamic stress with depth quadratic function.",
+      "cn": "最大动应力不是随深度呈线性变化,而是呈二次函数关系."
+    },
+    {
+      "en": "The child then knows how to solve a quadratic equation.",
+      "cn": "于是学生就会解二次方程了."
+    },
+    {
+      "en": "The quadratic aperture of the cat's - eye diaphragm is imaged too large.",
+      "cn": "猫眼光栏的方形光孔成象太大."
+    },
+    {
+      "en": "The quadratic equation may have instilled horror in many of us.",
+      "cn": "对很多人来说，二次方程是很恐怖的。"
+    },
+    {
+      "en": "Their difference is a quadratic residue of 17.",
+      "cn": "它们的差是17的平方剩余."
+    },
+    {
+      "en": "This paper proposed a linear quadratic performance target based on passivity considerations.",
+      "cn": "该文基于无源性控制思想,提出一种二次型性能指标."
+    },
+    {
+      "en": "This paper uses an immune evolution strategy to solve quadratic assignment problems.",
+      "cn": "利用一种免疫进化策略算法来求解二次布局问题."
+    },
+    {
+      "en": "Usually, x is a quadratic equation , x has two different solutions.",
+      "cn": "二次方程式通常都有两个不同的解."
+    },
+    {
+      "en": "V indicates that quadratic term is significant at 15 % level.",
+      "cn": "表示该回归方程中的二次项仅达15%的显著水平."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "quadric",
+          "tran_cn": " 二次的"
+        },
+        {
+          "word": "quadrillion",
+          "tran_cn": " 千之五次方的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "quadric",
+          "tran_cn": " 二次曲面"
+        },
+        {
+          "word": "quadrillion",
+          "tran_cn": " 百万之四次方；千的五次方"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "double-dip"
+          ],
+          "tran_cn": "[数]二次的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "quadratic approximation",
+      "tran_cn": "二次逼近"
+    },
+    {
+      "phrase": "quadratic convergence",
+      "tran_cn": "[计]二次收敛"
+    },
+    {
+      "phrase": "quadratic curve",
+      "tran_cn": "二次曲线，二次方曲线"
+    },
+    {
+      "phrase": "quadratic equation",
+      "tran_cn": "[代数]二次方程式"
+    },
+    {
+      "phrase": "quadratic form",
+      "tran_cn": "二次型"
+    },
+    {
+      "phrase": "quadratic function",
+      "tran_cn": "二次函数"
+    },
+    {
+      "phrase": "quadratic interpolation",
+      "tran_cn": "二次插值，二次插值法"
+    },
+    {
+      "phrase": "quadratic optimization",
+      "tran_cn": "二次最优化"
+    },
+    {
+      "phrase": "quadratic polynomial",
+      "tran_cn": "二次多项式"
+    },
+    {
+      "phrase": "quadratic programming",
+      "tran_cn": "二次规划"
+    },
+    {
+      "phrase": "quadratic residue",
+      "tran_cn": "二次剩余"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "二次的",
+      "tran_en": "of or relating to the second power "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "二次方程式",
+      "tran_en": "an equation containing one or more terms in which the variable is raised to the power of two, but no terms in which it is raised to a higher power "
+    }
+  ],
+  "exchange": {}
+}

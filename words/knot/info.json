@@ -1,0 +1,357 @@
+{
+  "word": "knot",
+  "ipa": {
+    "us": "nɒt",
+    "uk": "nɑːt"
+  },
+  "sentences": [
+    {
+      "en": "A knot of people stood talking outside the door.",
+      "cn": "一群人站在门外聊天."
+    },
+    {
+      "en": "A knot sometimes forms in a tired muscle.",
+      "cn": "疲乏的肌肉上有时会起硬块."
+    },
+    {
+      "en": "A little knot of men stood clapping.",
+      "cn": "一小群人站在那儿鼓掌。"
+    },
+    {
+      "en": "A pretty scarf was loosely knotted around her neck.",
+      "cn": "她的脖子上松松地系着一条漂亮的围巾。"
+    },
+    {
+      "en": "He made a knot in the rope.",
+      "cn": "他在绳子上打了个结."
+    },
+    {
+      "en": "I felt my stomach knot with apprehension.",
+      "cn": "我很担忧，心都揪紧了。"
+    },
+    {
+      "en": "Len tied the knot with Kate five years ago.",
+      "cn": "莱恩5年前和凯特结婚了。"
+    },
+    {
+      "en": "One lace had broken and been tied in a knot.",
+      "cn": "一根带子已经断了，被打成一个结。"
+    },
+    {
+      "en": "Pull the elastic tight and knot the ends.",
+      "cn": "把橡皮筋拽紧，两头打上结。"
+    },
+    {
+      "en": "She tied a knot in her scarf.",
+      "cn": "她把围巾打了个结。"
+    },
+    {
+      "en": "She wore a checked shirt tied in a knot above the navel.",
+      "cn": "她身穿一件格子衬衫，衣角在肚脐上方打了个结。"
+    },
+    {
+      "en": "Slack the rope before trying to untie the knot.",
+      "cn": "解结之前先将绳索放松."
+    },
+    {
+      "en": "The crew are in serious trouble in 50-knot winds and huge seas.",
+      "cn": "船员们在50节的大风与滔天巨浪中深陷困境。"
+    },
+    {
+      "en": "There was a knot of tension in his stomach.",
+      "cn": "他紧张得心揪得紧紧的。"
+    },
+    {
+      "en": "they &B{tied themselves in knots} over what to call the country.",
+      "cn": "他们很困惑不知如何称呼该国。"
+    },
+    {
+      "en": "to tie a knot",
+      "cn": "打结"
+    },
+    {
+      "en": "to untie a knot",
+      "cn": "解开绳结"
+    },
+    {
+      "en": "You should cut the knot by firing them all.",
+      "cn": "你应该快刀斩乱麻,把他们统统解雇."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "knotty",
+          "tran_cn": " 棘手的，难解决的；[木] 多节的；有结的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "knottiness",
+          "tran_cn": " 纠纷；难题；多节"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agglomeration",
+            "aggregation",
+            "assemblage",
+            "band",
+            "bunch",
+            "clump",
+            "cluster",
+            "company",
+            "crew",
+            "gang",
+            "gathering",
+            "group",
+            "heap",
+            "mass",
+            "mob",
+            "pile",
+            "set",
+            "swarm",
+            "throng"
+          ],
+          "tran_cn": "一小群,一小队"
+        },
+        {
+          "words": [
+            "bump",
+            "gnarl",
+            "hump",
+            "knob",
+            "knur",
+            "knurl",
+            "lump",
+            "node",
+            "nodule",
+            "nub",
+            "nurl",
+            "protuberence",
+            "snarl"
+          ],
+          "tran_cn": "节,节疤"
+        },
+        {
+          "words": [
+            "Gordian",
+            "complexity",
+            "complication",
+            "conundrum",
+            "difficulty",
+            "dilemma",
+            "intricacy",
+            "knot",
+            "labyrinth",
+            "maze",
+            "perplexity",
+            "poser",
+            "problem",
+            "puzzle",
+            "riddle"
+          ],
+          "tran_cn": "难事,麻烦事"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aglet",
+            "aiguillette",
+            "bow",
+            "frog",
+            "rosette"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "bowline",
+            "bowtie",
+            "braid",
+            "interlacement",
+            "intertwinement",
+            "loop",
+            "plait",
+            "plexus",
+            "slipknot",
+            "tie",
+            "twist"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "circle",
+            "connection",
+            "joint",
+            "network",
+            "paradox",
+            "ridge"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "bind",
+            "clinch",
+            "lash",
+            "lasso",
+            "leash",
+            "noose",
+            "tether",
+            "tie"
+          ],
+          "tran_cn": "作花结,打结"
+        },
+        {
+          "words": [
+            "bend",
+            "contort",
+            "deform",
+            "disfigure",
+            "distort",
+            "gnarl",
+            "warp"
+          ],
+          "tran_cn": "扭,拗"
+        },
+        {
+          "words": [
+            "entangle",
+            "entanglement",
+            "entwine",
+            "knit",
+            "ravel",
+            "tangle",
+            "twist"
+          ],
+          "tran_cn": "纠缠"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "tie off"
+          ],
+          "tran_cn": "打结"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "tie off"
+          ],
+          "tran_cn": "打结"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at a rate of knots",
+      "tran_cn": "(英，非正式)飞快地"
+    },
+    {
+      "phrase": "chinese knot",
+      "tran_cn": "中国结"
+    },
+    {
+      "phrase": "cut the gordian knot",
+      "tran_cn": "快刀斩乱麻"
+    },
+    {
+      "phrase": "get knotted",
+      "tran_cn": "(英，非正式)（用于对某人的轻蔑拒绝）被缠上了"
+    },
+    {
+      "phrase": "gordian knot",
+      "tran_cn": "难题；戈尔迪之结（希腊神话中的一个难题）"
+    },
+    {
+      "phrase": "love knot",
+      "tran_cn": "n. 情结；园心结；相思"
+    },
+    {
+      "phrase": "root knot",
+      "tran_cn": "根瘤病；根癌"
+    },
+    {
+      "phrase": "tie someone (up) in knots",
+      "tran_cn": "(非正式)使困惑"
+    },
+    {
+      "phrase": "tie the knot",
+      "tran_cn": "(非正式)结婚"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "结，绳结，结节，（装饰用的）花结，蝴蝶结，[航]节(=浬/小时)，浬，海里，（树木或木材上的）节疤，（人或动物身上的）硬块，节，瘤，难事，难题，麻烦事，（问题的）要点，（戏剧，小说的）情节的征结",
+      "tran_en": "a unit for measuring the speed of ships and aircraft, equal to about 1,853 metres per hour"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "打结",
+      "tran_en": "to tie together two ends or pieces of string, rope, cloth etc"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 打结",
+      "tran_en": "to tie together two ends or pieces of string, rope, cloth etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把…打成结",
+      "tran_en": "to tie together two ends or pieces of string, rope, cloth etc"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "把…打结，把…连结，捆扎，包扎，使密切结合，使纠结，皱（眉）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "knots"
+    ],
+    "third": [
+      "knots"
+    ],
+    "past": [
+      "knotted"
+    ],
+    "done": [
+      "knotted"
+    ],
+    "ing": [
+      "knotting"
+    ]
+  }
+}

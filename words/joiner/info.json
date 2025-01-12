@@ -1,0 +1,134 @@
+{
+  "word": "joiner",
+  "ipa": {
+    "us": "ˈdʒɔɪnə(r)",
+    "uk": "ˈdʒɔɪnɚ"
+  },
+  "sentences": [
+    {
+      "en": "John Harrison, a working-class joiner with relatively little education eventually won the prize after building a series of clocks, each improving on the previous one.",
+      "cn": "一个毫不起眼、没有受过多少教育的工匠，约翰·哈里森，最终凭借一系列的发明创造和不断改良，最终获得了这笔丰厚的奖金。"
+    },
+    {
+      "en": "The joiner has a name for reliability.",
+      "cn": "那个木匠以可靠闻名."
+    },
+    {
+      "en": "The Joiner nailed a strip of wood on the door.",
+      "cn": "木匠把一块木条钉在门上."
+    },
+    {
+      "en": "The joiner shaved a thin strip off the edge of the door.",
+      "cn": "细木工把门檐刨掉薄薄一层."
+    },
+    {
+      "en": "The joiner's coming to fit the new door on next week.",
+      "cn": "木匠下星期要来把新门装上."
+    },
+    {
+      "en": "Work done by a joiner ; fine woodwork.",
+      "cn": "有细边的木工活用的 凿子."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "joint",
+          "tran_cn": " 共同的；连接的；联合的，合办的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "join",
+          "tran_cn": " 结合；连接；接合点"
+        },
+        {
+          "word": "joinery",
+          "tran_cn": " [木] 细木工业；细木工制品"
+        },
+        {
+          "word": "joining",
+          "tran_cn": " 连接；接缝；连接物"
+        },
+        {
+          "word": "joint",
+          "tran_cn": " 关节；接缝；接合处，接合点；（牛，羊等的腿）大块肉"
+        },
+        {
+          "word": "jointer",
+          "tran_cn": " 接洽人；接合物；刨接缝的长刨"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "join",
+          "tran_cn": " 加入；参加；结合"
+        },
+        {
+          "word": "joint",
+          "tran_cn": " 贴合；生节"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "join",
+          "tran_cn": " 参加；结合；连接"
+        },
+        {
+          "word": "joint",
+          "tran_cn": " 连接，贴合；接合；使有接头"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "craftsman",
+            "workman"
+          ],
+          "tran_cn": "接合者；工匠"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "carpenter",
+            "connection"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "工匠",
+      "tran_en": "someone who makes wooden doors, window frames etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "joiners"
+    ]
+  }
+}

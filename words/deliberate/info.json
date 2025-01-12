@@ -1,0 +1,227 @@
+{
+  "word": "deliberate",
+  "ipa": {
+    "us": "dɪˈlɪbərət , dɪˈlɪbəreɪt",
+    "uk": "dɪˈlɪbərət , dɪˈlɪbəreɪt"
+  },
+  "sentences": [
+    {
+      "en": "a deliberate act of vandalism",
+      "cn": "故意毁坏的行为"
+    },
+    {
+      "en": "a deliberate attempt to humiliate her",
+      "cn": "对她的故意羞辱"
+    },
+    {
+      "en": "Deliberate in counsel , prompt in action.",
+      "cn": "静如处子,动如脱兔."
+    },
+    {
+      "en": "He approached her with slow, deliberate steps.",
+      "cn": "他迈着缓慢、从容的步子向她走去。"
+    },
+    {
+      "en": "He did it in a deliberate manner.",
+      "cn": "他以慎重的态度来做这件事."
+    },
+    {
+      "en": "He got sent off for deliberate handball in the 32nd minute.",
+      "cn": "他在第32分钟时因故意手球犯规被罚下场。"
+    },
+    {
+      "en": "He lounged in an armchair in a stance of deliberate contempt.",
+      "cn": "他懒洋洋地躺在扶手椅里,故意摆出一种轻蔑的架势."
+    },
+    {
+      "en": "He was deliberate in his speech and action.",
+      "cn": "他谨言慎行."
+    },
+    {
+      "en": "His actions were clearly the result of deliberate calculation.",
+      "cn": "他的行动显然是精心策划过的."
+    },
+    {
+      "en": "His movements were gentle and deliberate.",
+      "cn": "他的动作舒缓而从容。"
+    },
+    {
+      "en": "I think there was deliberate concealment of relevant documents.",
+      "cn": "我认为有人故意隐瞒相关文件。"
+    },
+    {
+      "en": "It was both deliberate and malicious, not to mention clever.",
+      "cn": "这件事是处心积虑、早有预谋的，更不用说其手段的高明。"
+    },
+    {
+      "en": "It's not clear whether the incident was an accident or deliberate.",
+      "cn": "还不清楚这起事件是意外还是蓄意所为。"
+    },
+    {
+      "en": "The attack on him was quite deliberate.",
+      "cn": "对他的袭击完全是有预谋的。"
+    },
+    {
+      "en": "The deliberate cruelty of his words cut her like a knife.",
+      "cn": "他故意说的残酷无情的话对她像刀割一样。"
+    },
+    {
+      "en": "This was a deliberate piece of misinformation.",
+      "cn": "这是一条故意制造的假消息。"
+    },
+    {
+      "en": "We should deliberate what to do tomorrow.",
+      "cn": "我们应该考虑一下明天做什么."
+    },
+    {
+      "en": "You should deliberate over the question before you respond to it.",
+      "cn": "回答问题之前你应该慎重考虑."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deliberative",
+          "tran_cn": " 审议的；慎重的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "deliberately",
+          "tran_cn": " 故意地；谨慎地；慎重地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deliberateness",
+          "tran_cn": " 审慎；故意；深思熟虑"
+        },
+        {
+          "word": "deliberation",
+          "tran_cn": " 审议；考虑；从容；熟思"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "easy",
+            "leisurely",
+            "slow",
+            "unhurried"
+          ],
+          "tran_cn": "不慌不忙的,从容的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "advised",
+            "consider",
+            "contemplate",
+            "easy",
+            "intended",
+            "intentional",
+            "leisurely",
+            "meditate",
+            "muse",
+            "over",
+            "ponder",
+            "premeditated",
+            "reflect",
+            "slow",
+            "speculate",
+            "study",
+            "think",
+            "unhurried",
+            "ventilate",
+            "voluntary",
+            "willful"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "negotiate",
+            "mull over"
+          ],
+          "tran_cn": "仔细考虑；商议"
+        }
+      ]
+    },
+    {
+      "pos": "vt & vi.",
+      "words": [
+        {
+          "words": [
+            "consider",
+            "meditate",
+            "mull",
+            "over",
+            "ponder",
+            "reflect",
+            "study",
+            "think"
+          ],
+          "tran_cn": "仔细考虑"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deliberate on",
+      "tran_cn": "审议；仔细研究，考虑"
+    },
+    {
+      "phrase": "take time to deliberate",
+      "tran_cn": "做事要深思熟虑"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "蓄意的，从容的，小心翼翼的",
+      "tran_en": "intended or planned"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "深思熟虑",
+      "tran_en": "to think about something very carefully"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "deliberates"
+    ],
+    "past": [
+      "deliberated"
+    ],
+    "done": [
+      "deliberated"
+    ],
+    "ing": [
+      "deliberating"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "word": "incorrect",
+  "ipa": {
+    "us": "ˌɪnkəˈrekt",
+    "uk": "ˌɪnkəˈrekt"
+  },
+  "sentences": [
+    {
+      "en": "Gershwin's lyrics would today probably be deemed politically incorrect.",
+      "cn": "格什温的歌词在今天很可能被视为政治上不正确。"
+    },
+    {
+      "en": "He denied that his evidence about the telephone call was incorrect.",
+      "cn": "他否认自己关于电话的证词是虚假的。"
+    },
+    {
+      "en": "His version of what happened is incorrect.",
+      "cn": "他对所发生的事情的说法不准确。"
+    },
+    {
+      "en": "I hope you will be magnanimous enough to excuse any incorrect behaviour on my part.",
+      "cn": "对不住的地方,望您海量包涵."
+    },
+    {
+      "en": "Incorrect choice of words leads to ambiguity for the reader.",
+      "cn": "用词不当道致读者理解不清."
+    },
+    {
+      "en": "Receding gums can be the result of disease or simply incorrect brushing.",
+      "cn": "牙龈萎缩可能是疾病导致的，也可能仅仅是错误的刷牙方式引起的。"
+    },
+    {
+      "en": "Regional accents are still acceptable but there is to be a blitz on incorrect grammar.",
+      "cn": "地方口音还可以接受，但要下大力气纠正语法错误。"
+    },
+    {
+      "en": "She asserted the charge to be incorrect.",
+      "cn": "她断言这起指控是不正确的."
+    },
+    {
+      "en": "Sir John was definitely in the Treasury's bad books for incorrect thinking on economic prospects.",
+      "cn": "约翰爵士肯定不受财政部的待见，因为他对经济前景的预测并不准确。"
+    },
+    {
+      "en": "Such a view is incorrect, to say the least.",
+      "cn": "至少可以说这样的见解是错误的."
+    },
+    {
+      "en": "Such a view rests on a number of incorrect assumptions.",
+      "cn": "这样的观点建立在很多不正确的假设之上。"
+    },
+    {
+      "en": "The conclusion is incorrect.",
+      "cn": "这个结论是不能接受的."
+    },
+    {
+      "en": "The information you gave us was incorrect.",
+      "cn": "你给我们的信息不准确。"
+    },
+    {
+      "en": "The method is incorrect.",
+      "cn": "方法不对头."
+    },
+    {
+      "en": "This argument sounds reasonable, but actually it's incorrect.",
+      "cn": "这种论调貌似有理, 实际上是错误的."
+    },
+    {
+      "en": "Your answer is incorrect.",
+      "cn": "你的回答不正确."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "incorrectly",
+          "tran_cn": " 错误地；不适当地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "incorrectness",
+          "tran_cn": " 错误；不合适；不真实"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "faulty",
+            "improper",
+            "inaccurate",
+            "wrong"
+          ],
+          "tran_cn": "错误的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "erroneous",
+            "fallacious",
+            "false",
+            "faulty",
+            "improper",
+            "inaccurate",
+            "inexact",
+            "off",
+            "out",
+            "perverse",
+            "wrong"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "politically incorrect",
+      "tran_cn": "政治上不正确的；不合时宜的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "错误的，不正确的，不能接受的，（说话或举止）不合规矩的",
+      "tran_en": "not correct or true"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "incorrectly"
+    ],
+    "noun": [
+      "incorrectness"
+    ]
+  }
+}

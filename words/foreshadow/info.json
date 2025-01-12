@@ -1,0 +1,98 @@
+{
+  "word": "foreshadow",
+  "ipa": {
+    "us": "fɔ:ˈʃædəʊ",
+    "uk": "fɔrˈʃædoʊ"
+  },
+  "sentences": [
+    {
+      "en": "Public health officials fear that because of vast underreporting, recorded statistics foreshadow much more severe conditions.",
+      "cn": "公共卫生官员害怕因为通报率严重偏低, 实际的情况可能比记录的统计数字更为严重."
+    },
+    {
+      "en": "The book then uses this information to foreshadow the direction that future anti - neoplastic therapies will take.",
+      "cn": "书然后使用这讯息预兆将来的 反 新生物的治疗将带的指示."
+    },
+    {
+      "en": "The disappointing sales figures foreshadow more redundancies.",
+      "cn": "令人失望的销售额预示着会有更多人被裁员。"
+    },
+    {
+      "en": "The revolution foreshadowed an entirely new social order.",
+      "cn": "这场革命预示着一种全新的社会秩序将要出现。"
+    },
+    {
+      "en": "Their words foreshadow events to come.",
+      "cn": "他们的话预示了所将要发生的事情."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "forerunner",
+          "tran_cn": " 先驱；先驱者；预兆"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "warning",
+            "predictive signs",
+            "bodement"
+          ],
+          "tran_cn": "预兆"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "indicate",
+            "shadow",
+            "announce"
+          ],
+          "tran_cn": "预示；成为…的前兆"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "预兆"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "预示；成为…的前兆",
+      "tran_en": "to show or say that something will happen in the future"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "预示，是…的先兆"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "foreshadows"
+    ],
+    "past": [
+      "foreshadowed"
+    ],
+    "done": [
+      "foreshadowed"
+    ],
+    "ing": [
+      "foreshadowing"
+    ]
+  }
+}

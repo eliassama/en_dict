@@ -1,0 +1,72 @@
+{
+  "word": "castigation",
+  "ipa": {
+    "us": "ˌkæstɪ'ɡeɪʃn",
+    "uk": "ˌkæstɪ'ɡeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Some people believe that work is a better means of order and discipline than chain and castigation.",
+      "cn": "有些人认为要使犯人遵纪守法劳动是比镣铐和惩罚更有效的手段."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "castigate",
+          "tran_cn": " 严惩；苛评；矫正；修订"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "punishment",
+            "rod",
+            "payment",
+            "discipline"
+          ],
+          "tran_cn": "惩罚；苛评；修订"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "complaint",
+            "diatribe",
+            "hell",
+            "penalty",
+            "persecution",
+            "punishment",
+            "rod"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "严厉的责骂、批评或惩罚，修订"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "castigations"
+    ],
+    "verb": [
+      "castigate"
+    ]
+  }
+}

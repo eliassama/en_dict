@@ -1,0 +1,256 @@
+{
+  "word": "discount",
+  "ipa": {
+    "us": "ˈdɪskaʊnt , dɪsˈkaʊnt",
+    "uk": "ˈdɪskaʊnt , dɪsˈkaʊnt"
+  },
+  "sentences": [
+    {
+      "en": "a scheme which lets tenants buy their homes at a discount.",
+      "cn": "可以让租户以折扣价买房的计划。"
+    },
+    {
+      "en": "Eagle Star offers a 10% discount to the over-55s.",
+      "cn": "鹰星公司给予年龄在55岁以上的顾客10％的折扣。"
+    },
+    {
+      "en": "Experts discounted the accuracy of the polls.",
+      "cn": "专家对这次民意调查的准确性不以为然。"
+    },
+    {
+      "en": "Full-time staff get a 20 per cent discount.",
+      "cn": "全职员工享受20%的折扣。"
+    },
+    {
+      "en": "Games were discounted to as little as 5.",
+      "cn": "游戏减价到只要5美元。"
+    },
+    {
+      "en": "General Hausken had not discounted the possibility of an aerial attack.",
+      "cn": "豪斯肯将军没有忽视空袭的可能。"
+    },
+    {
+      "en": "His statement does not discount the possibility of change.",
+      "cn": "他的说法并不否定变化的可能性."
+    },
+    {
+      "en": "However, traders tended to discount the rumor.",
+      "cn": "然而，商人往往不相信这一谣传。"
+    },
+    {
+      "en": "I can give you a small discount.",
+      "cn": "我可以给你打点折扣."
+    },
+    {
+      "en": "I'll sell at a discount in return for a speedy sale.",
+      "cn": "为了尽快售出，我会打折销售。"
+    },
+    {
+      "en": "In 1979, Liquor Barn thrived as a discount merchandiser.",
+      "cn": "1979年，LiquorBarn烈酒折扣店的生意十分红火。"
+    },
+    {
+      "en": "Only a five percent discount ? How about twenty percent?",
+      "cn": "只打九五折? 八折怎么样?"
+    },
+    {
+      "en": "That store does not discount at all.",
+      "cn": "那家商店出售商品一概不打折."
+    },
+    {
+      "en": "The Young Persons Railcard gives you a discount on rail travel.",
+      "cn": "持青年人卡乘火车可以享受折扣。"
+    },
+    {
+      "en": "They are often available at a discount.",
+      "cn": "它们经常可以以折扣价买到。"
+    },
+    {
+      "en": "They give 10 % discount for cash payment.",
+      "cn": "现金付款,他们给以九折优待."
+    },
+    {
+      "en": "This has forced airlines to discount fares heavily in order to spur demand.",
+      "cn": "这迫使航空公司对机票大幅打折来刺激需求。"
+    },
+    {
+      "en": "You can ask a dealer for a discount whether you pay cash or buy on credit.",
+      "cn": "无论是付现还是赊购，都可以要求经销商打折。"
+    },
+    {
+      "en": "You can discount what Jack said: he's a dreadful liar.",
+      "cn": "杰克说的话你不必当真,他可是个说谎大王."
+    },
+    {
+      "en": "You should accept his statement with some discount.",
+      "cn": "你听他的话要打个折扣."
+    },
+    {
+      "en": "You should discount what he says.",
+      "cn": "你听他的话要打个折扣。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "discounter",
+          "tran_cn": " 折扣商店；廉价商店"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agio",
+            "rabato"
+          ],
+          "tran_cn": "[贸易]折扣；[金融]贴现率"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "account",
+            "allow",
+            "cheapen",
+            "consider",
+            "deduct",
+            "for",
+            "into",
+            "reduction",
+            "remove",
+            "sale",
+            "subtract",
+            "take"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "deduct",
+            "remove",
+            "subtract"
+          ],
+          "tran_cn": "打折扣;减少"
+        },
+        {
+          "words": [
+            "account",
+            "allow",
+            "consider",
+            "for",
+            "into",
+            "take"
+          ],
+          "tran_cn": "预计到"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at a discount",
+      "tran_cn": "打折的。 比较 at a premium (见 premium)"
+    },
+    {
+      "phrase": "cash discount",
+      "tran_cn": "现金折扣"
+    },
+    {
+      "phrase": "discount cash flow",
+      "tran_cn": "现金收支折现法；贴现现金流"
+    },
+    {
+      "phrase": "discount factor",
+      "tran_cn": "折现系数；贴现因素"
+    },
+    {
+      "phrase": "discount for cash",
+      "tran_cn": "[经]贴现"
+    },
+    {
+      "phrase": "discount interest",
+      "tran_cn": "[经]贴现利息"
+    },
+    {
+      "phrase": "discount price",
+      "tran_cn": "折扣价格"
+    },
+    {
+      "phrase": "discount store",
+      "tran_cn": "廉价商店"
+    },
+    {
+      "phrase": "discount window",
+      "tran_cn": "贴现窗口"
+    },
+    {
+      "phrase": "purchase discount",
+      "tran_cn": "购货折扣"
+    },
+    {
+      "phrase": "quantity discount",
+      "tran_cn": "数量折扣，大批量折扣"
+    },
+    {
+      "phrase": "special discount",
+      "tran_cn": "特别折扣"
+    },
+    {
+      "phrase": "trade discount",
+      "tran_cn": "商业折扣"
+    },
+    {
+      "phrase": "volume discount",
+      "tran_cn": "数量折扣；总额折扣"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "折扣，",
+      "tran_en": "a reduction in the usual price of something"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "打折，认为…不重要",
+      "tran_en": "to reduce the price of something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 把…打折扣； 不信； 漠视； 低估",
+      "tran_en": "to reduce the price of something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "discounts"
+    ],
+    "third": [
+      "discounts"
+    ],
+    "past": [
+      "discounted"
+    ],
+    "done": [
+      "discounted"
+    ],
+    "ing": [
+      "discounting"
+    ]
+  }
+}

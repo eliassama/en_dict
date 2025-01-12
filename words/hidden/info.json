@@ -1,0 +1,204 @@
+{
+  "word": "hidden",
+  "ipa": {
+    "us": "ˈhɪdn",
+    "uk": "ˈhɪdn"
+  },
+  "sentences": [
+    {
+      "en": "As you descend, suddenly you see at last the hidden waterfall.",
+      "cn": "一直往下走，最终你会突然看到那条隐秘的瀑布。"
+    },
+    {
+      "en": "Be on the lookout for hidden costs in hotel bills.",
+      "cn": "小心酒店账单中有隐性收费。"
+    },
+    {
+      "en": "Bland, banal music tinkled discreetly from hidden loudspeakers.",
+      "cn": "隐藏的喇叭里幽幽地传出平淡乏味的音乐。"
+    },
+    {
+      "en": "He spent yesterday hidden away in his country retreat.",
+      "cn": "他昨天躲在了他乡下的静养地。"
+    },
+    {
+      "en": "Hidden dangers lurk in every family saloon car.",
+      "cn": "每部家庭式双排座小轿车都存在隐患。"
+    },
+    {
+      "en": "I couldn't keep the tears hidden any longer.",
+      "cn": "我再也掩饰不住泪水。"
+    },
+    {
+      "en": "I have $100m hidden away where no one will ever find it.",
+      "cn": "我把1亿美元藏到了一个永远没人会找到的地方。"
+    },
+    {
+      "en": "Some areas can hold hidden dangers for dogs.",
+      "cn": "一些区域可能对狗有隐伏的危险。"
+    },
+    {
+      "en": "The compound was hidden by trees and shrubs.",
+      "cn": "大院掩映在树木灌丛之中。"
+    },
+    {
+      "en": "The half moon is hidden behind some wispy clouds.",
+      "cn": "半轮月亮躲在淡淡的云彩之后。"
+    },
+    {
+      "en": "the hidden meaning behind his words",
+      "cn": "他的言外之意"
+    },
+    {
+      "en": "The picture lay hidden in the archives for over 40 years.",
+      "cn": "这张照片在档案室中藏了40多年。"
+    },
+    {
+      "en": "The precise details of the origins of life remain hidden.",
+      "cn": "生命起源的确切详情仍是个谜。"
+    },
+    {
+      "en": "the use of hidden cameras",
+      "cn": "隐藏式摄像机的使用"
+    },
+    {
+      "en": "There are hidden depths in all of us.",
+      "cn": "我们所有人都有值得认识的深藏部分。"
+    },
+    {
+      "en": "There was a sparkle in her eye that could not be hidden.",
+      "cn": "她眼中闪烁着一丝无法掩藏的亮光。"
+    },
+    {
+      "en": "Under all the innocent fun, there are hidden dangers, especially for children.",
+      "cn": "在所有简单无害的娱乐项目背后都隐藏着危险，特别是对儿童而言。"
+    },
+    {
+      "en": "We had kept its presence hidden with a strategically placed chair.",
+      "cn": "我们用一张摆放得很巧妙的椅子将它隐藏了起来。"
+    },
+    {
+      "en": "Whatever is hidden is harmful (hence revelation equals security).",
+      "cn": "任何隐藏的东西都是有害的（所以披露就等于安全）。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hide",
+          "tran_cn": " 躲藏；兽皮；躲藏处"
+        },
+        {
+          "word": "hiding",
+          "tran_cn": " 隐匿；躲藏处；殴打"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "hide",
+          "tran_cn": " 隐藏"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hide",
+          "tran_cn": " 隐藏；隐瞒；鞭打"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "latent",
+            "veiled"
+          ],
+          "tran_cn": "隐藏的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cloistered",
+            "closet",
+            "covert",
+            "dark",
+            "enigmatic",
+            "expressionless",
+            "inner",
+            "invisible",
+            "inward,",
+            "inwards",
+            "latent",
+            "mysterious",
+            "potential",
+            "private",
+            "secluded",
+            "secret",
+            "unknown"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "jooked"
+          ],
+          "tran_cn": "隐藏，躲藏（hide的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hidden curriculum",
+      "tran_cn": "隐性课程；潜在课程；隐蔽课程；非正式课程"
+    },
+    {
+      "phrase": "hidden danger",
+      "tran_cn": "隐患"
+    },
+    {
+      "phrase": "hidden line",
+      "tran_cn": "隐藏线"
+    },
+    {
+      "phrase": "hidden trouble",
+      "tran_cn": "隐患"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "隐藏的，神秘的，秘密的",
+      "tran_en": "difficult to see or find"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "(Hidden)人名；(英)希登"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "隐藏( hide的过去分词)"
+    }
+  ],
+  "exchange": {}
+}

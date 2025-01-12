@@ -1,0 +1,54 @@
+{
+  "word": "shrubby",
+  "ipa": {
+    "us": "ˈʃrʌbi",
+    "uk": "ˈʃrʌbi"
+  },
+  "sentences": [
+    {
+      "en": "...a shrubby tree.",
+      "cn": "...一棵灌木状的树木。"
+    },
+    {
+      "en": "Kasite shrubby grassland is one of the main grassland types in Guizhou province.",
+      "cn": "喀斯特灌丛草地是贵州省的主要草地类型之一."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "shrub",
+          "tran_cn": " 灌木；灌木丛"
+        },
+        {
+          "word": "shrubbery",
+          "tran_cn": " 灌木；[林] 灌木林"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "fruticose"
+          ],
+          "tran_cn": "灌木的；灌木繁茂的；灌木一般的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "灌木的，灌木一般的",
+      "tran_en": "A shrubby plant is like a shrub"
+    }
+  ],
+  "exchange": {}
+}

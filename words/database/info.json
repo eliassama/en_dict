@@ -1,0 +1,182 @@
+{
+  "word": "database",
+  "ipa": {
+    "us": "ˈdeɪtəbeɪs",
+    "uk": "ˈdeɪtəbeɪs"
+  },
+  "sentences": [
+    {
+      "en": "A generalized database management and multi - user operating system designed for the business environment.",
+      "cn": "一种为商业环境而设计的通用数据库管理和 多用户 操作系统."
+    },
+    {
+      "en": "A report model is a business description of the underlying database.",
+      "cn": "报表模型是对基础数据库的业务性说明。"
+    },
+    {
+      "en": "According to my database, the poppy has a powerful sleep - inducing effect.",
+      "cn": "据我的数据库显示, 罂粟具有显著的催眠作用."
+    },
+    {
+      "en": "As a true transactional database, the order of each write is supremely important.",
+      "cn": "对于真实的事务数据库，每个写入的顺序极为重要。"
+    },
+    {
+      "en": "customer details held on a database",
+      "cn": "存储在数据库内的客户详细信息"
+    },
+    {
+      "en": "Database integrity tests can detect inconsistencies caused by hardware or software errors.",
+      "cn": "数据库完整性测试可以检测到由于硬件或软件错误而导致的不一致."
+    },
+    {
+      "en": "Does that database track criminals in the military?",
+      "cn": "那个数据库记录有军队里的犯罪情况?"
+    },
+    {
+      "en": "I discovered some new information in the database.",
+      "cn": "我在资料库里发现了一些新信息."
+    },
+    {
+      "en": "In database, a field that contain information about an entity.",
+      "cn": "数据库中包含有某个实体信息的字段."
+    },
+    {
+      "en": "The database is fully hyperlinked both within the database and to thousands of external links.",
+      "cn": "该数据库在其内部以及和数千个外部链接之间充分实现了超链接。"
+    },
+    {
+      "en": "The name of the new database table ( the destination table ).",
+      "cn": "新数据库表的名称 ( 目标表 )."
+    },
+    {
+      "en": "The new database will help horse breeders enormously.",
+      "cn": "新数据库将对马匹饲养者有极大的帮助。"
+    },
+    {
+      "en": "the process of database creation",
+      "cn": "数据库的创建过程"
+    },
+    {
+      "en": "The server sets these variables whenever the default database changes.",
+      "cn": "服务器当缺省database改变时设置这些变量的值."
+    },
+    {
+      "en": "Which is more important, the database or the business it is trying to support?",
+      "cn": "数据库和它所支撑的生意,哪个更重要?"
+    },
+    {
+      "en": "You can hack into Abbott's database, right ?",
+      "cn": "你可以进入艾伯特的数据库, 是 吗 ?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dbase",
+            "informix"
+          ],
+          "tran_cn": "[计]数据库，资料库"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "computer database",
+      "tran_cn": "计算机数据库"
+    },
+    {
+      "phrase": "database access",
+      "tran_cn": "数据库存取"
+    },
+    {
+      "phrase": "database administration",
+      "tran_cn": "数据库管理；资料库管理"
+    },
+    {
+      "phrase": "database administrator",
+      "tran_cn": "数据库管理员；数据库管理程序"
+    },
+    {
+      "phrase": "database engine",
+      "tran_cn": "数据库引擎；资料库引擎"
+    },
+    {
+      "phrase": "database file",
+      "tran_cn": "数据库文件"
+    },
+    {
+      "phrase": "database management",
+      "tran_cn": "数据库管理，资料库管理"
+    },
+    {
+      "phrase": "database management system",
+      "tran_cn": "数据库管理系统"
+    },
+    {
+      "phrase": "database manager",
+      "tran_cn": "数据库管理器"
+    },
+    {
+      "phrase": "database record",
+      "tran_cn": "资料库记录"
+    },
+    {
+      "phrase": "database schema",
+      "tran_cn": "数据库模式；数据库架构"
+    },
+    {
+      "phrase": "database server",
+      "tran_cn": "数据库服务器；资料库伺服器"
+    },
+    {
+      "phrase": "database size",
+      "tran_cn": "数据库大小"
+    },
+    {
+      "phrase": "database software",
+      "tran_cn": "数据库软件；资料库软体"
+    },
+    {
+      "phrase": "database system",
+      "tran_cn": "数据库系统；资料库系统"
+    },
+    {
+      "phrase": "design database",
+      "tran_cn": "设计数据库"
+    },
+    {
+      "phrase": "distributed database",
+      "tran_cn": "[计]分布式数据库"
+    },
+    {
+      "phrase": "introduction to database",
+      "tran_cn": "数据库概论"
+    },
+    {
+      "phrase": "network database",
+      "tran_cn": "网络数据库；网状式资料库"
+    },
+    {
+      "phrase": "relational database",
+      "tran_cn": "关系数据库"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "数据库，资料库",
+      "tran_en": "a large amount of data stored in a computer system so that you can find and use it easily"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "databases"
+    ]
+  }
+}

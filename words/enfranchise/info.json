@@ -1,0 +1,119 @@
+{
+  "word": "enfranchise",
+  "ipa": {
+    "us": "ɪnˈfræntʃaɪz",
+    "uk": "ɛnˈfrænˌtʃaɪz"
+  },
+  "sentences": [
+    {
+      "en": "The company voted to enfranchise its 120 women members.",
+      "cn": "公司投票决定给予其120名女职员选举权。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "enfranchisement",
+          "tran_cn": " 解放，释放"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "loosen"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "authorize",
+            "charter",
+            "empower",
+            "license",
+            "privilege"
+          ],
+          "tran_cn": "给予...自治权"
+        },
+        {
+          "words": [
+            "admit",
+            "citizenship",
+            "naturalize",
+            "to"
+          ],
+          "tran_cn": "给某人公民权"
+        },
+        {
+          "words": [
+            "affranchise",
+            "disenthral",
+            "disimprison",
+            "emancipate",
+            "free",
+            "liberate",
+            "manumit",
+            "release",
+            "set",
+            "unfetter",
+            "unshackle"
+          ],
+          "tran_cn": "释放"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "deliver",
+            "emancipate"
+          ],
+          "tran_cn": "给予选举权；给予自治权；解放，释放"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "给予选举权, 给予自治权, 解放",
+      "tran_en": "to give a group of people the right to vote"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "给予选举权，（从奴隶制中）解放",
+      "tran_en": "to give a group of people the right to vote"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "enfranchises"
+    ],
+    "past": [
+      "enfranchised"
+    ],
+    "done": [
+      "enfranchised"
+    ],
+    "ing": [
+      "enfranchising"
+    ],
+    "noun": [
+      "enfranchisement"
+    ]
+  }
+}

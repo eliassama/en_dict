@@ -1,0 +1,188 @@
+{
+  "word": "restriction",
+  "ipa": {
+    "us": "rɪˈstrɪkʃn",
+    "uk": "rɪˈstrɪkʃn"
+  },
+  "sentences": [
+    {
+      "en": "a 50 mph speed restriction",
+      "cn": "每小时50英里的限速"
+    },
+    {
+      "en": "A similar restriction by a maker or drawer would destroy the negotiality of the instrument.",
+      "cn": "如开票人或提款人作类似限制,则票据的流通性就会遭到破坏."
+    },
+    {
+      "en": "Citizens of the EU can travel without restriction within the EU.",
+      "cn": "欧盟的公民在欧盟境内可以不受限制地出入各国."
+    },
+    {
+      "en": "If the law of parity conservation were suspended, this restriction would be removed.",
+      "cn": "如果宇称守恒定律受到破坏, 就会取消这个限制."
+    },
+    {
+      "en": "It enables a specific gene to be located on a particular restriction enzyme fragment.",
+      "cn": "它就能使专一的基因被定位于特定的限制性内切酶切成的片段上."
+    },
+    {
+      "en": "One restriction on agency action takes the form of judicial review.",
+      "cn": "对机构行为实行限制的另外一种形式表现为司法复审."
+    },
+    {
+      "en": "Some restriction on funding was necessary.",
+      "cn": "有必要对资金提供加以限制。"
+    },
+    {
+      "en": "Such legislation is virtually immune from restriction under the commerce clause.",
+      "cn": "按照《商业条款》,该立法不受限制的影响."
+    },
+    {
+      "en": "The 30 mph speed restriction applies in all built - up areas.",
+      "cn": "每小时限速30英里适用于所有建筑物聚集区."
+    },
+    {
+      "en": "The gasoline detection system consists of a capillary restriction.",
+      "cn": "汽油检测系统由毛细管节流器组成."
+    },
+    {
+      "en": "The Supreme Court struck down this restriction.",
+      "cn": "最高法院撤销了这一限制."
+    },
+    {
+      "en": "The swimming club is open to families in the neighborhood without restriction.",
+      "cn": "这个游泳俱乐部对邻近地区的家庭开放,不受限制."
+    },
+    {
+      "en": "Their success is conditional, I suggest, on this restriction.",
+      "cn": "我认为他们能否成功取决于这一限制因素."
+    },
+    {
+      "en": "There is no restriction [ limit ] on the number of people.",
+      "cn": "人数不 限."
+    },
+    {
+      "en": "When this restriction is removed , the body assumes the liquid states.",
+      "cn": "当这种限制不在存在时, 物体就呈液态了."
+    },
+    {
+      "en": "Worse still was the restriction of responsibility to one's own field.",
+      "cn": "更糟糕的是只准各人自扫门前雪."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "restricted",
+          "tran_cn": " 受限制的；保密的"
+        },
+        {
+          "word": "restrictive",
+          "tran_cn": " 限制的；限制性的；约束的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "restrictively",
+          "tran_cn": " 限制性地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "restrictive",
+          "tran_cn": " 限制词"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "restricted",
+          "tran_cn": " 限制（restrict的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "restrict",
+          "tran_cn": " 限制；约束；限定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "limitation",
+            "qualification",
+            "chain",
+            "constraint"
+          ],
+          "tran_cn": "限制；约束；束缚"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ceiling",
+            "contraction",
+            "limit",
+            "obstruction",
+            "prevention",
+            "prohibition",
+            "provision",
+            "qualification"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "restriction endonuclease",
+      "tran_cn": "限制酶，限制性内切核酸酶"
+    },
+    {
+      "phrase": "restriction enzyme",
+      "tran_cn": "限制性内切酶；限制酶"
+    },
+    {
+      "phrase": "restriction fragment",
+      "tran_cn": "限制酶断片"
+    },
+    {
+      "phrase": "trade restriction",
+      "tran_cn": "贸易限制"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "限制，限定，拘束，束缚，管制",
+      "tran_en": "a rule or law that limits or controls what people can do"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "restrictions"
+    ]
+  }
+}

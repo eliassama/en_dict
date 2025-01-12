@@ -1,0 +1,167 @@
+{
+  "word": "ambassador",
+  "ipa": {
+    "us": "æmˈbæsədə(r)",
+    "uk": "æmˈbæsədər"
+  },
+  "sentences": [
+    {
+      "en": "...the German ambassador to Poland.",
+      "cn": "…德国驻波兰大使。"
+    },
+    {
+      "en": "Britain's new ambassador to Lebanon has presented his credentials to the President.",
+      "cn": "英国驻黎巴嫩的新任大使已将国书递交给总统。"
+    },
+    {
+      "en": "He leaked the news of the ambassador's visit.",
+      "cn": "他把大使来访的消息泄露出去了."
+    },
+    {
+      "en": "HE the Australian Ambassador",
+      "cn": "澳大利亚大使阁下"
+    },
+    {
+      "en": "He took up office as an ambassador for ten years continuously.",
+      "cn": "他连任十年大使."
+    },
+    {
+      "en": "His Excellency the Spainish Ambassador is here to see you.",
+      "cn": "西班牙大使阁下来见您."
+    },
+    {
+      "en": "I was carrying dispatches from the ambassador.",
+      "cn": "我正拿着大使的急件。"
+    },
+    {
+      "en": "She has now accepted a posting as ambassador to Scandinavia.",
+      "cn": "她现在已接受任命,担任驻斯堪的纳维亚大使."
+    },
+    {
+      "en": "The ambassador did his utmost to prevent the outbreak of hostilities.",
+      "cn": "这位大使竭尽全力防止战事的爆发."
+    },
+    {
+      "en": "The Ambassador Hotel is a Los Angeles landmark.",
+      "cn": "国宾大饭店是洛杉矶的地标性建筑之一。"
+    },
+    {
+      "en": "The ambassador personally conveyed the president's message to the king.",
+      "cn": "大使将总统的口信亲自转达给国王."
+    },
+    {
+      "en": "The ambassador refused to all interviews.",
+      "cn": "该大使拒绝了所有记者对他的采访."
+    },
+    {
+      "en": "The Ambassador refused to give any interviews to journalists.",
+      "cn": "大使拒绝会见记者."
+    },
+    {
+      "en": "The ambassador was clearly disconcerted by the British reaction.",
+      "cn": "显然，英国的反应让这位大使很不安。"
+    },
+    {
+      "en": "The ambassador would not be drawn on questions of a political nature.",
+      "cn": "大使不会对政治问题发表意见。"
+    },
+    {
+      "en": "The new ambassador is more mature than his predecessor.",
+      "cn": "新大使比他的前任更成熟一些."
+    },
+    {
+      "en": "the US ambassador to Spain",
+      "cn": "美国驻西班牙大使"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ambassadorial",
+          "tran_cn": " 大使的；使节的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ambassadorship",
+          "tran_cn": " 大使的职位"
+        },
+        {
+          "word": "ambassadress",
+          "tran_cn": " 大使夫人；女大使"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agent",
+            "ambassador",
+            "attache",
+            "consul",
+            "delegate",
+            "diplomat",
+            "emissary",
+            "envoy",
+            "goodwill",
+            "nuncio",
+            "plenipotentiary",
+            "representative"
+          ],
+          "tran_cn": "外交官,使者"
+        },
+        {
+          "words": [
+            "announcer",
+            "herald",
+            "proclaimer"
+          ],
+          "tran_cn": "调解人,发言人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "an ambassador",
+      "tran_cn": "大使"
+    },
+    {
+      "phrase": "goodwill ambassador",
+      "tran_cn": "亲善大使，友好大使"
+    },
+    {
+      "phrase": "image ambassador",
+      "tran_cn": "形象大使；商品代言人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "大使，使节，代表",
+      "tran_en": "an important official who represents his or her government in a foreign country"
+    },
+    {
+      "pos": "rn",
+      "tran_cn": "大使；授权代表",
+      "tran_en": "an important official who represents his or her government in a foreign country"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "ambassadors"
+    ],
+    "adj": [
+      "ambassadorial"
+    ]
+  }
+}

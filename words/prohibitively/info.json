@@ -1,0 +1,88 @@
+{
+  "word": "prohibitively",
+  "ipa": {
+    "us": "prəʊˈhɪbɪtɪvlɪ",
+    "uk": "proˈhɪbɪtɪvlɪ"
+  },
+  "sentences": [
+    {
+      "en": "Giving every patient an annual anti - flu injection would be prohibitively expensive.",
+      "cn": "每年给每个病人注射 抗 流感针剂的花费是无法承受的."
+    },
+    {
+      "en": "It is prohibitively expensive.",
+      "cn": "价格贵得吓人."
+    },
+    {
+      "en": "Now, the costs of devaluing appear prohibitively high.",
+      "cn": "现在, 贬值货币的代价看起来高得让人望而怯步."
+    },
+    {
+      "en": "Real - estate prices in downtown Manhattan looked prohibitively expensive.",
+      "cn": "市中心曼哈顿的房地产价格贵得使人望而生畏."
+    },
+    {
+      "en": "When you add it all up it's prohibitively expensive.",
+      "cn": "费用归并后惊人得高."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prohibitive",
+          "tran_cn": " 禁止的，禁止性的；抑制的；（费用，价格等）过高的；类同禁止的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "prohibition",
+          "tran_cn": " 禁止；禁令；禁酒；诉讼中止令"
+        },
+        {
+          "word": "prohibitionist",
+          "tran_cn": " 禁酒主义者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "prohibit",
+          "tran_cn": " 阻止，禁止"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "excessively",
+            "exorbitantly"
+          ],
+          "tran_cn": "禁止地；过高地；过分地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "禁止地，过高地；过分地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "prohibitive"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "word": "quiescence",
+  "ipa": {
+    "us": "kwɪ'esns",
+    "uk": "kwɪ'esns"
+  },
+  "sentences": [
+    {
+      "en": "Only I know is that it is in quiescence, including the instant moment.",
+      "cn": "我只知道,它凝固了, 包括瞬间."
+    },
+    {
+      "en": "The Eurasian seismic belt still remained in quiescence.",
+      "cn": "亚欧带仍保持平静."
+    },
+    {
+      "en": "The image of Buddha, who was called The Greatest Yogin of all Times, expresses serene quiescence.",
+      "cn": "佛陀的肖像, 在任何时期都被称为最伟大的瑜伽修行者, 表达出平静的静止."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "quiescent",
+          "tran_cn": " 静止的；不活动的；沉寂的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "quiescency",
+          "tran_cn": " 静止"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "silence",
+            "rest"
+          ],
+          "tran_cn": "[昆]静止；沉默"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "inertia"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "静止"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "quiescent"
+    ]
+  }
+}

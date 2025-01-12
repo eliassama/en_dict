@@ -1,0 +1,180 @@
+{
+  "word": "memorize",
+  "ipa": {
+    "us": "ˈmeməraɪz",
+    "uk": "ˈmeməraɪz"
+  },
+  "sentences": [
+    {
+      "en": "An actor must memorize his part in a play.",
+      "cn": "演员必须背熟自己在剧中的台词."
+    },
+    {
+      "en": "He studied his map, trying to memorize the way to Rose's street.",
+      "cn": "他研究了地图，试图记住到罗丝家那条街的路。"
+    },
+    {
+      "en": "I don't try to memorize speeches word for word.",
+      "cn": "我不会试图一字不落地记住讲话要说的内容。"
+    },
+    {
+      "en": "I don't understand why we have to memorize conversations.",
+      "cn": "我弄不懂为什么我们一定要记住对话."
+    },
+    {
+      "en": "I hate to memorize phrases with fixed prepositions from books.",
+      "cn": "我很痛恨从书本上强记需要配上固定介系词的片语."
+    },
+    {
+      "en": "I shall try to memorize all these phrases.",
+      "cn": "我要熟记所有这些词组。"
+    },
+    {
+      "en": "If you memorize a poem, you can say it without looking at a book.",
+      "cn": "你若记住一首诗, 不看书就能脱口而出."
+    },
+    {
+      "en": "In the meantime, consult dictionaries and memorize grammatical rules.",
+      "cn": "同时还要查阅词典,记语法规则."
+    },
+    {
+      "en": "In the meantime, consult dictionaries, memorize grammatical rules.",
+      "cn": "读书时, 要查词典, 记语法规则."
+    },
+    {
+      "en": "Memorize mode for practicing your memory of the play tables.",
+      "cn": "记忆模式的实践您的记忆中发挥表."
+    },
+    {
+      "en": "She can not memorize who she is, and where she lived.",
+      "cn": "她记不起来她是谁, 住在什么地方."
+    },
+    {
+      "en": "The boy can memorize the data easily.",
+      "cn": "这男孩能轻松地记住这些数据。"
+    },
+    {
+      "en": "The hearts of the ring are of you I almost memorize poems.",
+      "cn": "心中响动的是我几乎背熟的你的诗篇."
+    },
+    {
+      "en": "to memorize a poem",
+      "cn": "记住一首诗"
+    },
+    {
+      "en": "We just took notes, tried to memorize the books, and got high marks.",
+      "cn": "我们只做笔记, 努力背书, 得高分."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "memorial",
+          "tran_cn": " 记忆的；纪念的，追悼的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "memorability",
+          "tran_cn": " 值得记忆；难忘的人"
+        },
+        {
+          "word": "memorial",
+          "tran_cn": " 纪念碑，纪念馆；纪念仪式；纪念物"
+        },
+        {
+          "word": "memorization",
+          "tran_cn": " 记住；暗记"
+        },
+        {
+          "word": "memorizer",
+          "tran_cn": " [计] 存储器"
+        },
+        {
+          "word": "memory",
+          "tran_cn": " 记忆，记忆力；内存，[计] 存储器；回忆"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "memorise",
+          "tran_cn": " （英）记忆；存储（等于memorize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "learn"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "by",
+            "heart",
+            "learn",
+            "remember"
+          ],
+          "tran_cn": "背诵;记忆"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "retain",
+            "keep in mind"
+          ],
+          "tran_cn": "记住，背熟；记忆"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "熟记，牢记",
+      "tran_en": "to learn words, music etc so that you know them perfectly"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "记住，熟记，[计算机科学] 存储，记忆",
+      "tran_en": "to learn words, music etc so that you know them perfectly"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "memorizes"
+    ],
+    "past": [
+      "memorized"
+    ],
+    "done": [
+      "memorized"
+    ],
+    "ing": [
+      "memorizing"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "word": "braise",
+  "ipa": {
+    "us": "breɪz",
+    "uk": "brez"
+  },
+  "sentences": [
+    {
+      "en": "Add in the veal rack and braise.",
+      "cn": "将煎好的小牛排放入红酒汁中焖煮."
+    },
+    {
+      "en": "First braise the onions.",
+      "cn": "先炖洋葱."
+    },
+    {
+      "en": "I braised some beans to accompany a shoulder of lamb.",
+      "cn": "我炖了些豆子，作为羊肩肉的配菜。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "braised",
+          "tran_cn": " 炖熟的；焖熟的；用文火炖到全熟的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "braising",
+          "tran_cn": " 炖；烧"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "braised",
+          "tran_cn": " 用文火炖（braise的过去分词）"
+        },
+        {
+          "word": "braising",
+          "tran_cn": " （用文火）炖（braise的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "steam",
+            "pot-roast"
+          ],
+          "tran_cn": "炖；蒸"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 炖， 蒸",
+      "tran_en": "to cook meat or vegetables slowly in a small amount of liquid in a closed container"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "炖，焖"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "braises"
+    ],
+    "past": [
+      "braised"
+    ],
+    "done": [
+      "braised"
+    ],
+    "ing": [
+      "braising"
+    ]
+  }
+}

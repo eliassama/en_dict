@@ -1,0 +1,191 @@
+{
+  "word": "quarrel",
+  "ipa": {
+    "us": "ˈkwɒrəl",
+    "uk": "ˈkwɑːrəl"
+  },
+  "sentences": [
+    {
+      "en": "He had an acrimonious quarrel with his girlfriend yesterday.",
+      "cn": "昨天他跟他的女朋友激烈争吵了一番."
+    },
+    {
+      "en": "He mediated in the quarrel between the two boys.",
+      "cn": "他调解两个孩子之间的争吵."
+    },
+    {
+      "en": "He was clearly in a mood to pick a quarrel with anybody.",
+      "cn": "他现在的心情明显是逮谁就想跟谁吵。"
+    },
+    {
+      "en": "I had a terrible quarrel with my other brothers.",
+      "cn": "我和其他几个兄弟大吵了一架。"
+    },
+    {
+      "en": "I have no quarrel with the court’s verdict.",
+      "cn": "我对法庭的裁决没有异议。"
+    },
+    {
+      "en": "I wish you two would stop quarreling.",
+      "cn": "我希望你们两个别再吵了。"
+    },
+    {
+      "en": "I would quarrel with you on that figure.",
+      "cn": "在那个数字的问题上，我并不认同你的看法。"
+    },
+    {
+      "en": "I've long since forgotten what our quarrel was about.",
+      "cn": "我早就忘掉我们为什么吵架了."
+    },
+    {
+      "en": "It could have happened during a quarrel between them over Naomi.",
+      "cn": "这件事可能是在他们为娜奥米争吵的过程中发生的。"
+    },
+    {
+      "en": "Jacob left after a quarrel with his wife.",
+      "cn": "雅各布和妻子吵了一架后走了。"
+    },
+    {
+      "en": "That dog will pick a quarrel with anyone he meets.",
+      "cn": "那只狗碰到任何人都要吠叫."
+    },
+    {
+      "en": "The quarrel between the Serbs and the Croats is old and bitter.",
+      "cn": "塞尔维亚人和克罗地亚人之间的争斗由来已久，而且非常激烈。"
+    },
+    {
+      "en": "The quarrel led to a complete estrangement between her and her family.",
+      "cn": "这一争吵使她同家人完全疏远了."
+    },
+    {
+      "en": "The small argument boiled over into a serious quarrel.",
+      "cn": "小小的争论酿成一场激烈的争吵."
+    },
+    {
+      "en": "The teacher smoothed over the quarrel between the two boys.",
+      "cn": "老师平息了两位男孩之间的争吵."
+    },
+    {
+      "en": "The two nations settled their quarrel in an amicable way.",
+      "cn": "两国以和睦友好的方式解决了他们的争端."
+    },
+    {
+      "en": "They could quarrel quite legitimately with some of my choices.",
+      "cn": "他们大有理由不同意我的一些选择。"
+    },
+    {
+      "en": "They never made up the quarrel.",
+      "cn": "他们再也没能和解。"
+    },
+    {
+      "en": "You can't quarrel with the decision of the court; it's very fair.",
+      "cn": "你不能反对法院的判决, 它判得很公正."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "quarrelsome",
+          "tran_cn": " 喜欢吵架的；好争论的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "quarreler",
+          "tran_cn": " 争吵者；喜欢埋怨的人"
+        },
+        {
+          "word": "quarreller",
+          "tran_cn": " 争吵的人；喜欢埋怨的人"
+        },
+        {
+          "word": "quarrelsomeness",
+          "tran_cn": " 喜吵架"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "falling-out",
+            "earful"
+          ],
+          "tran_cn": "吵架；反目；怨言；争吵的原因；方头凿"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "debate",
+            "exchange words"
+          ],
+          "tran_cn": "吵架；争论；挑剔"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "quarrel about",
+      "tran_cn": "争论；为…争吵"
+    },
+    {
+      "phrase": "quarrel with",
+      "tran_cn": "v. 抱怨；不同意；拒绝接受；跟…吵架"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "争吵，分歧，抱怨的理由",
+      "tran_en": "an angry argument or disagreement"
+    },
+    {
+      "pos": "n&vi",
+      "tran_cn": " 争吵， 吵架",
+      "tran_en": "an angry argument or disagreement"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "争吵，反对",
+      "tran_en": "to have an argument"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "争吵，吵架",
+      "tran_en": "to have an argument"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "quarrels"
+    ],
+    "third": [
+      "quarrels"
+    ],
+    "past": [
+      "quarreled",
+      "quarrelled"
+    ],
+    "done": [
+      "quarreled",
+      "quarrelled"
+    ],
+    "ing": [
+      "quarreling",
+      "quarrelling"
+    ]
+  }
+}

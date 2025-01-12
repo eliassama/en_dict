@@ -1,0 +1,136 @@
+{
+  "word": "syntax",
+  "ipa": {
+    "us": "ˈsɪntæks",
+    "uk": "ˈsɪnˌtæks"
+  },
+  "sentences": [
+    {
+      "en": "A sentence of a grammar is ambiguous if there exists two syntax trees for it.",
+      "cn": "如果一文法的句子存在两个语法树,那么该句子是二义性的."
+    },
+    {
+      "en": "For Sue,'syntax is all the money collected at the church from sinners. \"",
+      "cn": "对苏来讲, “ syntax(句法)就是教堂从犯罪的人那儿收来的税钱. ”"
+    },
+    {
+      "en": "His grammar and syntax, both in oral and written expression, were much better than the average.",
+      "cn": "无论口头还是笔头，他的文法和句法都非常出众。"
+    },
+    {
+      "en": "Invalid Syntax. Cannot specify password without specifying username name.",
+      "cn": "无效语法. 不能指定密码而不指定用户名."
+    },
+    {
+      "en": "Let's investigate the syntax of Chinese.",
+      "cn": "让我们研究一下汉语的语法."
+    },
+    {
+      "en": "SAMPLE experiment as part of language syntax analysis of the achievement.",
+      "cn": "词法分析中2.实验内容SAMPLE语言语法分析部分的实现."
+    },
+    {
+      "en": "The C # language introduced new syntax to describe your designs.",
+      "cn": "语言引入了新语法描述你的设计."
+    },
+    {
+      "en": "the difficulties of English syntax",
+      "cn": "英语句法的难点"
+    },
+    {
+      "en": "The syntax analyzer calls the scanner when it needs a new symbol.",
+      "cn": "当语法分析程序需要新符号时,它就调用扫描过程."
+    },
+    {
+      "en": "The syntax of the language is brief to a fault.",
+      "cn": "语言本身的语法要极端简单扼要."
+    },
+    {
+      "en": "There are two aspects to any language - syntax and semantics.",
+      "cn": "语言有两个共通点:语法和语义."
+    },
+    {
+      "en": "This book is oriented towards so - called syntax - directed methods of compiling.",
+      "cn": "本书以介绍 所谓 “句法制导的编译方法”作为准则."
+    },
+    {
+      "en": "This is an invalid syntax for a hexadecimal numeric entity reference.",
+      "cn": "这是十六进制数字实体引用的无效语法."
+    },
+    {
+      "en": "You can reference arrays by their index, much like native PHP syntax.",
+      "cn": "你可以由数组索引(下标)引用数组元素, 非常像php的语法."
+    },
+    {
+      "en": "You should utilize the initializer syntax for both static and instance variables.",
+      "cn": "你应该在静态变量和实例变量上面利用初始化语法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "syntactic",
+          "tran_cn": " 句法的；语法的；依据造句法的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "syntactically",
+          "tran_cn": " 依照句法地；在语句构成上"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "grammar",
+            "phraseology"
+          ],
+          "tran_cn": "语法；[计][语]句法；有秩序的排列"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "grammar"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "syntax analysis",
+      "tran_cn": "语法分析"
+    },
+    {
+      "phrase": "syntax error",
+      "tran_cn": "语法错误；句法误差"
+    },
+    {
+      "phrase": "syntax tree",
+      "tran_cn": "语法树；句法树"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "句法，句法规则[分析]，语构，语法",
+      "tran_en": "the way words are arranged to form sentences or phrases, or the rules of grammar which control this"
+    }
+  ],
+  "exchange": {}
+}

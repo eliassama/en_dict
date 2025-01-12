@@ -1,0 +1,245 @@
+{
+  "word": "appointment",
+  "ipa": {
+    "us": "əˈpɔɪntmənt",
+    "uk": "əˈpɔɪntmənt"
+  },
+  "sentences": [
+    {
+      "en": "All consultations are by appointment only .",
+      "cn": "就诊必须预约。"
+    },
+    {
+      "en": "All consultations are by appointment only.",
+      "cn": "就诊必须预约。"
+    },
+    {
+      "en": "an appointment at the dentist's",
+      "cn": "牙科诊所的门诊预约"
+    },
+    {
+      "en": "At the time, his appointment seemed a stroke of genius.",
+      "cn": "当时，对他的任命犹如神来之笔。"
+    },
+    {
+      "en": "Drake and his cohorts were not pleased with my appointment.",
+      "cn": "德雷克那一帮人对我的任命很不满。"
+    },
+    {
+      "en": "He secured the appointment of professor of English literature in the university.",
+      "cn": "他获聘为该大学的英国文学教授."
+    },
+    {
+      "en": "I fixed up an appointment to see her.",
+      "cn": "我安排了与她见面。"
+    },
+    {
+      "en": "I have an appointment at the doctors.",
+      "cn": "我在诊所有个预约。"
+    },
+    {
+      "en": "I have an appointment with him at four o'clock.",
+      "cn": "我和他四点钟有个约会."
+    },
+    {
+      "en": "I've got an appointment I can't wriggle out of.",
+      "cn": "我有个推脱不掉的约会."
+    },
+    {
+      "en": "In some cases people have had to wait several weeks for an appointment.",
+      "cn": "在某些情况下，人们必须等上好几周才能得到约见。"
+    },
+    {
+      "en": "Other changes included the appointment of a new Foreign Minister.",
+      "cn": "其他变动包括任命了一位新的外交部长。"
+    },
+    {
+      "en": "She arranged an appointment for Friday afternoon at four-fifteen.",
+      "cn": "她在星期五下午4点15分安排了一次会面。"
+    },
+    {
+      "en": "She has an appointment with her accountant.",
+      "cn": "她和她的会计约好了见面。"
+    },
+    {
+      "en": "She sounded upset when I said you couldn't give her an appointment.",
+      "cn": "我告诉她你不能安排与她会面时，她的声音听上去有些沮丧。"
+    },
+    {
+      "en": "The appointment is at 3 p.m.",
+      "cn": "约会定于下午3点。"
+    },
+    {
+      "en": "The appointment was put off because of his illness.",
+      "cn": "由于他生病而推迟了约会."
+    },
+    {
+      "en": "Viewing is by appointment only.",
+      "cn": "参观须事先预约。"
+    },
+    {
+      "en": "visits are by appointment only.",
+      "cn": "未经预约，谢绝参观（或来访）。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "appointed",
+          "tran_cn": " 约定的，指定的"
+        },
+        {
+          "word": "appointive",
+          "tran_cn": " 任命的；委派的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "appointee",
+          "tran_cn": " 被任命者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "appointed",
+          "tran_cn": " 任命；指定；约定时间，地点（appoint 的过去分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "appoint",
+          "tran_cn": " 任命；委派"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "appoint",
+          "tran_cn": " 任命；指定；约定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "arrangement",
+            "assignation",
+            "assignment",
+            "date",
+            "engagement",
+            "meeting",
+            "rendezvous",
+            "tryst"
+          ],
+          "tran_cn": "会议,约会"
+        },
+        {
+          "words": [
+            "assignment",
+            "delegation",
+            "designation",
+            "installation",
+            "job",
+            "naming",
+            "nomination",
+            "placement",
+            "selection"
+          ],
+          "tran_cn": "命名,任命"
+        },
+        {
+          "words": [
+            "berth",
+            "billet",
+            "office",
+            "place",
+            "position",
+            "post",
+            "station"
+          ],
+          "tran_cn": "官位"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "admission",
+            "option",
+            "settlement"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "appointment book",
+      "tran_cn": "记事簿；预约簿"
+    },
+    {
+      "phrase": "appointment system",
+      "tran_cn": "委任制"
+    },
+    {
+      "phrase": "by appointment",
+      "tran_cn": "根据预先约定"
+    },
+    {
+      "phrase": "by appointment to the Queen",
+      "tran_cn": "（英国） 女王陛下御用（制造商的产品宣传用语，宣称女王系其客户，以示其产品质量有保证）"
+    },
+    {
+      "phrase": "have an appointment",
+      "tran_cn": "有约会"
+    },
+    {
+      "phrase": "letter of appointment",
+      "tran_cn": "委任书，聘书"
+    },
+    {
+      "phrase": "make an appointment",
+      "tran_cn": "约会，预约"
+    },
+    {
+      "phrase": "make an appointment with",
+      "tran_cn": "与某人约会"
+    },
+    {
+      "phrase": "power of appointment",
+      "tran_cn": "(律)（由财产所有人授予的）财产处置权"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "预约，约定，任命，职位",
+      "tran_en": "an arrangement for a meeting at an agreed time and place, for a particular purpose"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "appointments"
+    ]
+  }
+}

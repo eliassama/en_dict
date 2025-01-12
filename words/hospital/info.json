@@ -1,0 +1,240 @@
+{
+  "word": "hospital",
+  "ipa": {
+    "us": "ˈhɒspɪtl",
+    "uk": "ˈhɑːspɪtl"
+  },
+  "sentences": [
+    {
+      "en": "He discharged himself from hospital against the advice of doctors.",
+      "cn": "他不顾医生的劝告自行出院了。"
+    },
+    {
+      "en": "He hanged himself two hours after arriving at a mental hospital.",
+      "cn": "在到精神病医院两小时后他就上吊自杀了。"
+    },
+    {
+      "en": "He is still fighting for his life in hospital.",
+      "cn": "他仍在医院与死神搏斗。"
+    },
+    {
+      "en": "Her childhood was overshadowed by her mother's incarceration in a psychiatric hospital.",
+      "cn": "她的母亲被关在精神病院，这给她的童年蒙上了阴影。"
+    },
+    {
+      "en": "I should point out that these estimates cover just the hospital expenditures.",
+      "cn": "我应该指出，这些估算仅包括医院的费用。"
+    },
+    {
+      "en": "She attended a cancer support group at her local hospital.",
+      "cn": "她参加了当地医院的癌症互助组。"
+    },
+    {
+      "en": "She was admitted to hospital with a soaring temperature.",
+      "cn": "她因发高烧被送进医院。"
+    },
+    {
+      "en": "She was taken to hospital, apparently amnesiac and shocked.",
+      "cn": "她被送往医院，好像是受了惊吓出现了失忆。"
+    },
+    {
+      "en": "The doctors gave numerous examples of patients being expelled from hospital.",
+      "cn": "医生们列举了大量病人被逐出医院的实例。"
+    },
+    {
+      "en": "The hospital has pioneered the use of birthing pools.",
+      "cn": "这家医院率先使用了分娩池。"
+    },
+    {
+      "en": "The results show the level of frustration among hospital doctors.",
+      "cn": "这些结果显示了医院医生的不满程度。"
+    },
+    {
+      "en": "They are building a new hospital.",
+      "cn": "他们正在建一家新医院。"
+    },
+    {
+      "en": "They feel scared and powerless in conveyor-belt hospital wards.",
+      "cn": "在千篇一律的病房里，他们感到恐惧而又无能为力。"
+    },
+    {
+      "en": "They were taken to hospital suffering from smoke inhalation.",
+      "cn": "他们因吸入大量烟尘被送往医院。"
+    },
+    {
+      "en": "Today the best tests are performed in the hospital .see chap. 17..",
+      "cn": "现在，本医院可提供最好的化验（见第17章）。"
+    },
+    {
+      "en": "You are welcome to visit the hospital at any time.",
+      "cn": "你可以随时来医院。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hospitaler",
+          "tran_cn": " 教会慈善团体之团员（尤指照料有疾病和有急需者的人）"
+        },
+        {
+          "word": "hospitalisation",
+          "tran_cn": " 住院治疗（等于hospitalization）"
+        },
+        {
+          "word": "hospitality",
+          "tran_cn": " 好客；殷勤"
+        },
+        {
+          "word": "hospitalization",
+          "tran_cn": " 住院治疗；医院收容；住院保险（等于hospitalization insurance）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hospitalise",
+          "tran_cn": " 使住院；把…送进医院治疗"
+        },
+        {
+          "word": "hospitalize",
+          "tran_cn": " 就医；送…进医院治疗"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "clinic",
+            "sanitarium"
+          ],
+          "tran_cn": "医院;救济院"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "clinic",
+            "home",
+            "institution",
+            "sanitarium"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "affiliated hospital",
+      "tran_cn": "附属医院"
+    },
+    {
+      "phrase": "be in hospital",
+      "tran_cn": "住院"
+    },
+    {
+      "phrase": "central hospital",
+      "tran_cn": "中心医院"
+    },
+    {
+      "phrase": "children's hospital",
+      "tran_cn": "儿童医院"
+    },
+    {
+      "phrase": "city hospital",
+      "tran_cn": "城市医院；市立医院"
+    },
+    {
+      "phrase": "field hospital",
+      "tran_cn": "野战医院；战地医院"
+    },
+    {
+      "phrase": "general hospital",
+      "tran_cn": "总医院；综合医院"
+    },
+    {
+      "phrase": "go to hospital",
+      "tran_cn": "住院；去医院看病；去看病"
+    },
+    {
+      "phrase": "hospital bed",
+      "tran_cn": "病床；医院病床"
+    },
+    {
+      "phrase": "hospital care",
+      "tran_cn": "住院治疗"
+    },
+    {
+      "phrase": "hospital discharge",
+      "tran_cn": "出院"
+    },
+    {
+      "phrase": "hospital information system",
+      "tran_cn": "医院信息系统；医院资讯系统"
+    },
+    {
+      "phrase": "hospital ship",
+      "tran_cn": "医院船，医务船"
+    },
+    {
+      "phrase": "in hospital",
+      "tran_cn": "住院"
+    },
+    {
+      "phrase": "in the hospital",
+      "tran_cn": "在医院里"
+    },
+    {
+      "phrase": "maternity hospital",
+      "tran_cn": "产科医院；妇产科医院"
+    },
+    {
+      "phrase": "mental hospital",
+      "tran_cn": "精神病院"
+    },
+    {
+      "phrase": "military hospital",
+      "tran_cn": "军事医院；陆军医院"
+    },
+    {
+      "phrase": "plastic surgery hospital",
+      "tran_cn": "整形外科医院"
+    },
+    {
+      "phrase": "private hospital",
+      "tran_cn": "私立医院"
+    },
+    {
+      "phrase": "teaching hospital",
+      "tran_cn": "医学院的附属医院，教学医院"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "医院",
+      "tran_en": "a large building where sick or injured people receive medical treatment"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "医院",
+      "tran_en": "a large building where sick or injured people receive medical treatment"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hospitals"
+    ]
+  }
+}

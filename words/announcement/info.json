@@ -1,0 +1,190 @@
+{
+  "word": "announcement",
+  "ipa": {
+    "us": "əˈnaʊnsmənt",
+    "uk": "əˈnaʊnsmənt"
+  },
+  "sentences": [
+    {
+      "en": "Baker issued his surprise announcement in Paris after two hours of talks.",
+      "cn": "经过两个小时的会谈后,贝克在巴黎发布了他惊人的通告."
+    },
+    {
+      "en": "He asked us to be quiet and then made a startling announcement.",
+      "cn": "他叫我们安静下来,然后宣布了一条令人吃惊的消息."
+    },
+    {
+      "en": "He was floored by the announcement.",
+      "cn": "这个通告使他不知所措。"
+    },
+    {
+      "en": "I have an important announcement to make.",
+      "cn": "我要宣布一件重要的事情。"
+    },
+    {
+      "en": "MPs waited for the chancellor's announcement.",
+      "cn": "议员们等待着财政大臣发布公告。"
+    },
+    {
+      "en": "She then decided right before the opening to make a dramatic announcement.",
+      "cn": "然后就在开幕式开始之前，她决定要宣布一件激动人心的事情。"
+    },
+    {
+      "en": "The announcement of her retirement caused consternation among tennis fans.",
+      "cn": "她宣布挂拍告退的消息引起了网球迷的震惊。"
+    },
+    {
+      "en": "The announcement was greeted enthusiastically.",
+      "cn": "公告受到人们的热烈欢迎。"
+    },
+    {
+      "en": "The announcement was greeted with much hilarity and mirth.",
+      "cn": "这一项宣布引起了热烈的欢呼声."
+    },
+    {
+      "en": "The announcement was made a short time ago.",
+      "cn": "通告是不久前才宣布的。"
+    },
+    {
+      "en": "The announcement was made in a communique & 1 & issued by the Defence Minister.",
+      "cn": "这项公告是在国防部长的 公报 中发出的."
+    },
+    {
+      "en": "The announcement was made in an impromptu press conference at the airport.",
+      "cn": "这一宣布是在机场举行的临时新闻发布会上作出的."
+    },
+    {
+      "en": "The announcement was not entirely unexpected .",
+      "cn": "这个通告并非完全出乎意料。"
+    },
+    {
+      "en": "The minister made the announcement at a news conference.",
+      "cn": "部长在记者招待会上发表了这项声明。"
+    },
+    {
+      "en": "to make an announcement",
+      "cn": "发表公告"
+    },
+    {
+      "en": "to make an announcement over the Tannoy",
+      "cn": "通过天朗扩音系统发布通知"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "announcer",
+          "tran_cn": " [广播] 广播员；宣告者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "announce",
+          "tran_cn": " 宣布参加竞选；当播音员"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "announce",
+          "tran_cn": " 宣布；述说；预示；播报"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bulletin",
+            "communique",
+            "disclosure",
+            "information",
+            "news",
+            "publication",
+            "report",
+            "tidings",
+            "word"
+          ],
+          "tran_cn": "公开发表"
+        },
+        {
+          "words": [
+            "annunciation",
+            "broadcast",
+            "declaration",
+            "decree",
+            "edict",
+            "enunciation",
+            "ordinance",
+            "proclamation",
+            "promulgation",
+            "pronunciamento",
+            "statement"
+          ],
+          "tran_cn": "宣告,布告"
+        },
+        {
+          "words": [
+            "advertisement",
+            "bill",
+            "brochure",
+            "commercial",
+            "flier",
+            "handbill",
+            "leaflet",
+            "message",
+            "pamphlet",
+            "placard"
+          ],
+          "tran_cn": "消息,广告,宣传小册子"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "circular",
+            "circulation",
+            "deliverance",
+            "profession"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "official announcement",
+      "tran_cn": "正式通知；官方消息"
+    },
+    {
+      "phrase": "results announcement",
+      "tran_cn": "[财经]业绩公布"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "通告，声明，宣布，公布，启事",
+      "tran_en": "an important or official statement"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "announcements"
+    ]
+  }
+}

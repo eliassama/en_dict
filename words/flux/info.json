@@ -1,0 +1,235 @@
+{
+  "word": "flux",
+  "ipa": {
+    "us": "flʌks",
+    "uk": "flʌks"
+  },
+  "sentences": [
+    {
+      "en": "All things are in a state of flux.",
+      "cn": "万物都在不断地变动."
+    },
+    {
+      "en": "Both quantum mechanics and chaos theory suggest a world constantly in flux.",
+      "cn": "量子力学和混沌理论都表明世界永远处于不断变化中。"
+    },
+    {
+      "en": "Education remains in a state of flux which will take some time to settle down.",
+      "cn": "教育处于不断的变化中，需要一段时间才能稳定下来。"
+    },
+    {
+      "en": "Emittance and irradiance are meaningful measurements of flux at a specific surface.",
+      "cn": "发射强度和辐照强度只有对一定表面上通量的量度才是有意义的."
+    },
+    {
+      "en": "Events are in a state of flux.",
+      "cn": "事情在不断变化中."
+    },
+    {
+      "en": "Everything is in flux at the moment.",
+      "cn": "眼下一切都变化不定。"
+    },
+    {
+      "en": "He perfected a flux - gate sensor in 1941.",
+      "cn": "他在1941年制成了一台磁通脉冲传感器."
+    },
+    {
+      "en": "Here was the whole world in storm and flux.",
+      "cn": "全世界正处于风雨飘摇中."
+    },
+    {
+      "en": "I have tried to apprehend the Pythagorean power by which number holds sway above the flux.",
+      "cn": "我力图领悟毕达哥拉斯的才能,他的才能使数字支配着不断变动的事物."
+    },
+    {
+      "en": "In most reactors, there is a significant flux of fast neutrons.",
+      "cn": "在大部分反应堆中都有一定强度的快中子流."
+    },
+    {
+      "en": "In steady flow, mass flux is constant.",
+      "cn": "在稳定流动中, 质量通量是恒定不变的."
+    },
+    {
+      "en": "Rayleigh scatter determines the upwelling diffuse flux which can be absorbed.",
+      "cn": "Rayleigh散射决定了能被吸收的向外的漫射通量."
+    },
+    {
+      "en": "So without having to repeat all those parameters just assume that when I write down flux it represents these variables.",
+      "cn": "所以，不需要重复，所有那些几何,假设当我们写下流量时,它表现了这些变量。"
+    },
+    {
+      "en": "The education system is still in a state of flux .",
+      "cn": "教育体制仍处于不断变化之中。"
+    },
+    {
+      "en": "The flux is generally an organic salt dissolved in water and alcohol mixture.",
+      "cn": "助熔剂通常是一种溶于水和酒精中的有机盐混合物."
+    },
+    {
+      "en": "The magnetization process consists of many small discontinuous flux changes.",
+      "cn": "磁化过程包括许多小而不连续的磁通变化."
+    },
+    {
+      "en": "The market is in a constant state of flux.",
+      "cn": "市场行情在不断变化."
+    },
+    {
+      "en": "The radio flux is extremely variable, exhibiting erratic outbursts.",
+      "cn": "射电流量变化极大, 显示出无规则爆发."
+    },
+    {
+      "en": "When the secondary circuit is open, the core flux is produced by the primary current only.",
+      "cn": "当次级电路开路时, 铁芯磁通量仅仅由初级电流产生."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "issue",
+            "instability"
+          ],
+          "tran_cn": "[流][机]流量；变迁；不稳定；流出"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "movement",
+            "river",
+            "tide"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "discharge",
+            "issue",
+            "shed"
+          ],
+          "tran_cn": "熔化；流出"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "fuse"
+          ],
+          "tran_cn": "使熔融；用焊剂处理"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "energy flux",
+      "tran_cn": "能流；能通量"
+    },
+    {
+      "phrase": "flux cored wire",
+      "tran_cn": "药芯焊丝；含熔剂芯焊条"
+    },
+    {
+      "phrase": "flux density",
+      "tran_cn": "通量密度；辐射流密度；流量密度"
+    },
+    {
+      "phrase": "flux leakage",
+      "tran_cn": "磁漏"
+    },
+    {
+      "phrase": "flux linkage",
+      "tran_cn": "[电]磁链；磁通匝连数"
+    },
+    {
+      "phrase": "flux rate",
+      "tran_cn": "流量；通量率"
+    },
+    {
+      "phrase": "heat flux",
+      "tran_cn": "热流，热通量"
+    },
+    {
+      "phrase": "heat flux density",
+      "tran_cn": "热流密度；热淋度；热通密度"
+    },
+    {
+      "phrase": "in flux",
+      "tran_cn": "在变化；不定"
+    },
+    {
+      "phrase": "leakage flux",
+      "tran_cn": "漏通量"
+    },
+    {
+      "phrase": "luminous flux",
+      "tran_cn": "n. 光通量（单位为流明lumen）"
+    },
+    {
+      "phrase": "magnetic flux",
+      "tran_cn": "磁通量"
+    },
+    {
+      "phrase": "magnetic flux density",
+      "tran_cn": "磁感应强度；磁通密度"
+    },
+    {
+      "phrase": "mass flux",
+      "tran_cn": "质量流量"
+    },
+    {
+      "phrase": "momentum flux",
+      "tran_cn": "动量通量"
+    },
+    {
+      "phrase": "photon flux",
+      "tran_cn": "光子通量"
+    },
+    {
+      "phrase": "radiant flux",
+      "tran_cn": "辐射通量"
+    },
+    {
+      "phrase": "soldering flux",
+      "tran_cn": "焊剂；合金助焊剂；钎剂"
+    },
+    {
+      "phrase": "water flux",
+      "tran_cn": "n. 水通量；水溶性焊剂"
+    },
+    {
+      "phrase": "welding flux",
+      "tran_cn": "焊剂；焊药；焊接熔剂"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "不断的变动，流动，波动，流体",
+      "tran_en": "a situation in which things are changing a lot and you cannot be sure what will happen"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使熔融；用焊剂处理"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "fluxes"
+    ]
+  }
+}

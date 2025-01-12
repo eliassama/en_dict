@@ -1,0 +1,191 @@
+{
+  "word": "mow",
+  "ipa": {
+    "us": "məʊ",
+    "uk": "moʊ"
+  },
+  "sentences": [
+    {
+      "en": "\" Well, when are you going to mow it?",
+      "cn": "“ 我说, 你打算什么时候干?"
+    },
+    {
+      "en": "He continued to mow the lawn and do other routine chores.",
+      "cn": "他继续剪草坪，并做些其他日常杂务。"
+    },
+    {
+      "en": "He hired a man to mow the lawn.",
+      "cn": "他雇人割草."
+    },
+    {
+      "en": "I don't think I can mow the lawn.",
+      "cn": "我想我没办法割草."
+    },
+    {
+      "en": "I have get to hang up mow. I have a class.",
+      "cn": "我现在得挂断了. 我有课."
+    },
+    {
+      "en": "I have to pay my bill mow. The name is Jack London. Room 254.",
+      "cn": "我现在得付账了. 姓名是杰克伦敦, 254房间."
+    },
+    {
+      "en": "I'm cheesed off with having to mow the lawn every week.",
+      "cn": "每个星期都得刈草坪真把我烦死了."
+    },
+    {
+      "en": "It’s time to mow the lawn again.",
+      "cn": "又该修剪草坪了。"
+    },
+    {
+      "en": "mowed down the opposition with strong arguments.",
+      "cn": "用强有力的论据驳倒对方"
+    },
+    {
+      "en": "Our difficulties may be mountains high, but we'll mow them down.",
+      "cn": "那怕困难和山一样高, 我们也要克服它们."
+    },
+    {
+      "en": "The grass is getting too long, we must mow the lawn.",
+      "cn": "草越来越长了, 我们必须割草坪."
+    },
+    {
+      "en": "The mower firmly refused to mow, so I decided to dismantle it.",
+      "cn": "修完后割草机还是纹丝不动, 于是,我决定把它拆开."
+    },
+    {
+      "en": "The proposed amalgamation of the two institutes has mow fallen through.",
+      "cn": "这两个研究所打算合并的事现在已经落空了."
+    },
+    {
+      "en": "They set him to mow the lawn.",
+      "cn": "他们叫他给草坪刈草."
+    },
+    {
+      "en": "We have to mow down the long grass regularly.",
+      "cn": "我们得定期刈草."
+    },
+    {
+      "en": "We shall have to mow down the tall grass in the big field.",
+      "cn": "我们得把大田里的高草割掉."
+    },
+    {
+      "en": "You wouldn't want to mow the lawn, but if they get in, we hear them.",
+      "cn": "你不想要剪草地, 但是这样,它们来了我们就会知道."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mown",
+          "tran_cn": " 割下的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mower",
+          "tran_cn": " 割草机；割草的人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "mown",
+          "tran_cn": " 割（mow的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mowe"
+          ],
+          "tran_cn": "草堆；皱眉；谷堆"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "clip",
+            "crop",
+            "cut",
+            "prune",
+            "shave",
+            "shear"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "harvest"
+          ],
+          "tran_cn": "割草；收割庄稼"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "As you sow you shall mow .",
+      "tran_cn": "有付出就有收获。"
+    },
+    {
+      "phrase": "mow down",
+      "tran_cn": "战胜"
+    },
+    {
+      "phrase": "mow someone down",
+      "tran_cn": "（用交通工具或枪）杀死，撂倒，扫倒 "
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "草堆；皱眉；谷堆",
+      "tran_en": "the part of a barn where hay, straw, etc, is stored "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "割草；收割庄稼",
+      "tran_en": "to cut grass using a machine"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "刈，割，扫射，皱眉头，扮鬼脸"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "mows"
+    ],
+    "past": [
+      "mowed"
+    ],
+    "done": [
+      " mown",
+      "mowed"
+    ],
+    "ing": [
+      "mowing"
+    ]
+  }
+}

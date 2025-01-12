@@ -1,0 +1,120 @@
+{
+  "word": "debug",
+  "ipa": {
+    "us": "ˌdi:ˈbʌg",
+    "uk": "diˈbʌɡ"
+  },
+  "sentences": [
+    {
+      "en": "DEBUG detailed explanation of the command line parameters, including format and uses the details.",
+      "cn": "详细的DEBUG命令行参数解释, 包含格式及用途、细节等."
+    },
+    {
+      "en": "Debug your macros: insert breakpoints, play partially or loop your playback.",
+      "cn": "调试您的宏: 插入断点, 发挥部分或闭环您的播放."
+    },
+    {
+      "en": "Experience hardware debug device , such as multi - meter, oscillograph, etc.",
+      "cn": "有万用表 、 示波器等常用工具的使用经验."
+    },
+    {
+      "en": "Explains how Debug and Release are used, and introduces build configurations.",
+      "cn": "说明如何使用“调试”版本和“发布”版本, 并介绍生成配置."
+    },
+    {
+      "en": "Link - maintenance frames are used to manage and debug a link.",
+      "cn": "连结维持讯框被用在连结的管理与除错."
+    },
+    {
+      "en": "Once again, careful planning is the key; good planning simplifies program debug.",
+      "cn": "再重复一次, 精心的编程设计是关键, 优良的设计可简化程序的调试."
+    },
+    {
+      "en": "Programmers at our installation write and debug lengthy code.",
+      "cn": "我们站的程序员编写和调整长长的代码."
+    },
+    {
+      "en": "Return the defect boards to Debug to repair.",
+      "cn": "10把板退还Debug去维修."
+    },
+    {
+      "en": "The production lines ground to a halt for hours while technicians tried to debug software.",
+      "cn": "生产线停工达数小时之久，在此期间技术人员试图纠除软件错误。"
+    },
+    {
+      "en": "These operators are used mainly to debug assembly - language code.",
+      "cn": "这些运算符主要用于调试汇编语言代码."
+    },
+    {
+      "en": "This model provides a good debug method for development of embedded system.",
+      "cn": "该模型为嵌入式系统的应用程序开发提供了良好的调试手段."
+    },
+    {
+      "en": "This paper presents commands of DEBUG and its applications in system maintenance.",
+      "cn": "介绍了debug命令 的作用和它在系统维护中的几项应用."
+    },
+    {
+      "en": "Trace is normally defined in both Debug and Release versions.",
+      "cn": "跟踪通常同时定义在“调试”和“发布”版本中."
+    },
+    {
+      "en": "We'll use DEBUG to look at a floppy disk's Boot Record.",
+      "cn": "我们将使用DEBUG来看看软盘的引导记录."
+    },
+    {
+      "en": "You can debug a release build of an application.",
+      "cn": "您可以调试应用程序的发布版本."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "debugger",
+          "tran_cn": " 调试器；[计] 调试程序"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "debug mode",
+      "tran_cn": "调试方式"
+    },
+    {
+      "phrase": "debug monitor",
+      "tran_cn": "[计]调试监测程序；翟监督程序"
+    },
+    {
+      "phrase": "system debug",
+      "tran_cn": "系统调试"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "调试；除错，改正有毛病部分；[军] 除去窃听器",
+      "tran_en": "to remove secret listening equipment from a place"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "拆除窃听器，排除故障"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "debugs"
+    ],
+    "past": [
+      "debugged"
+    ],
+    "done": [
+      "debugged"
+    ],
+    "ing": [
+      "debugging"
+    ]
+  }
+}

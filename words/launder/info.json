@@ -1,0 +1,133 @@
+{
+  "word": "launder",
+  "ipa": {
+    "us": "ˈlɔ:ndə(r)",
+    "uk": "ˈlɔndɚ,ˈlɑn-"
+  },
+  "sentences": [
+    {
+      "en": "He was jailed of laundering drug money.",
+      "cn": "他因帮毒贩洗钱而锒铛入狱。"
+    },
+    {
+      "en": "How you guys launder all the money you're making from the drug deals.",
+      "cn": "你们这些家伙如何洗从毒品交易中赚来的黑钱."
+    },
+    {
+      "en": "Properly launder and fold clothes for your family for one week.",
+      "cn": "妥善地为自己的家庭洗熨衣服一星期."
+    },
+    {
+      "en": "The gang launder the steal money through their chain of restaurants.",
+      "cn": "这帮匪徒通过他们的连锁饭店洗赃款."
+    },
+    {
+      "en": "To develop and manage driver, security guard, cleaner, launder, canteen, and other logistics.",
+      "cn": "管理司机 、 保安 、 清洁工 、 洗衣房 、 食堂, 以及其他后勤管理."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "laundering",
+          "tran_cn": " 洗烫"
+        },
+        {
+          "word": "laundress",
+          "tran_cn": " 洗熨衣物的女工"
+        },
+        {
+          "word": "laundry",
+          "tran_cn": " 洗衣店，洗衣房；要洗的衣服；洗熨；洗好的衣服"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "laundering",
+          "tran_cn": " 洗涤；洗黑钱（launder的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bathe",
+            "scour",
+            "scrub",
+            "wash"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "wash well",
+            "line dry"
+          ],
+          "tran_cn": "洗涤；洗熨；耐洗"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bathe",
+            "scour",
+            "scrub",
+            "wash"
+          ],
+          "tran_cn": "洗涤;洗净"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "流水槽"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "洗涤；清洗；洗黑钱（把来路可疑的钱弄得貌似合法）",
+      "tran_en": "to wash and iron clothes, sheets etc"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "洗涤，洗熨"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "洗涤，洗黑钱（把来路可疑的钱弄得貌似合法），洗烫衣物，消除…的污点"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "launders"
+    ],
+    "past": [
+      "laundered"
+    ],
+    "done": [
+      "laundered"
+    ],
+    "ing": [
+      "laundering"
+    ]
+  }
+}

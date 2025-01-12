@@ -1,0 +1,64 @@
+{
+  "word": "vicinal",
+  "ipa": {
+    "us": "'vɪsɪnl",
+    "uk": "'vɪsənəl"
+  },
+  "sentences": [
+    {
+      "en": "Seven major methods and their reaction characteristics for the synthesis of primary vicinal diamines starting from epoxides , and alkenes etc. are given in detail.",
+      "cn": "详细综述了从环氧化合物、烯烃等为起始原料合成一系列一级邻二胺的七条主要路线，并比较了各条反应路线的特点。"
+    },
+    {
+      "en": "The parameter's determination of Gaussian vicinal function is proposed to be modified, based on the maximum likelihood criterion.",
+      "cn": "依据最大似然原则对已有的高斯邻域函数参数取值方法进行改进。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vicinity",
+          "tran_cn": " 邻近，附近；近处"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "surrounding",
+            "neighboring"
+          ],
+          "tran_cn": "附近的；[公路]本地的；邻晶的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contiguous",
+            "neighboring",
+            "surrounding"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "邻近的，邻位，邻界面",
+      "tran_en": "neighbouring "
+    }
+  ],
+  "exchange": {}
+}

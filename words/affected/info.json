@@ -1,0 +1,201 @@
+{
+  "word": "affected",
+  "ipa": {
+    "us": "əˈfektɪd",
+    "uk": "əˈfɛktɪd"
+  },
+  "sentences": [
+    {
+      "en": "an affected laugh",
+      "cn": "假笑"
+    },
+    {
+      "en": "He had been deeply affected by the sudden death of his father-in-law.",
+      "cn": "岳父的猝死使他十分伤心。"
+    },
+    {
+      "en": "Hearing can be affected by ear wax blocking the ear canal.",
+      "cn": "耳垢堵塞耳道可能会影响听力。"
+    },
+    {
+      "en": "His reason had been permanently affected by what he had witnessed.",
+      "cn": "他所目睹的那一幕永久性地影响了他的神智。"
+    },
+    {
+      "en": "Manufacturing processes may be affected by the functionality of the product.",
+      "cn": "生产过程可能要受到产品设计目的的影响。"
+    },
+    {
+      "en": "She had an affected air and a disdainful look.",
+      "cn": "她举止做作，神情倨傲。"
+    },
+    {
+      "en": "The affected skin turns red and may blister.",
+      "cn": "受感染的皮肤会变红，还有可能起水疱。"
+    },
+    {
+      "en": "The divorce affected Jim deeply.",
+      "cn": "离婚对吉姆打击很大。"
+    },
+    {
+      "en": "The voice was patronizing and affected, the accent artificial.",
+      "cn": "声音拿腔拿调的，听上去矫揉造作。"
+    },
+    {
+      "en": "There was never any real danger of the children being affected.",
+      "cn": "并不存在儿童受到感染的切实危险。"
+    },
+    {
+      "en": "This has profoundly affected my life.",
+      "cn": "这给我的生活带来了深刻的影响。"
+    },
+    {
+      "en": "Ultimately, Bismarck's revisionism scarcely affected or damaged British interests at all.",
+      "cn": "从根本上说，俾斯麦的修正主义几乎未对英国的利益造成一丝一毫的影响或损害。"
+    },
+    {
+      "en": "Use a crepe bandage to support the affected area.",
+      "cn": "用强力绷带托住伤处。"
+    },
+    {
+      "en": "Use the applicator to apply cream to the affected area.",
+      "cn": "用涂药器把药膏抹在感染部位。"
+    },
+    {
+      "en": "Vitamins in solution are more affected than those in solid foods.",
+      "cn": "溶液里的维生素比固体食物里的维生素受到的影响更大。"
+    },
+    {
+      "en": "Water supplies and other public utilities were badly affected.",
+      "cn": "供水以及其他公用事业受到了严重影响。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "affecting",
+          "tran_cn": " 动人的；感人的"
+        },
+        {
+          "word": "affectional",
+          "tran_cn": " 情感上的；爱情的"
+        },
+        {
+          "word": "affective",
+          "tran_cn": " 情感的；表达感情的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "affectedly",
+          "tran_cn": " 假装地；做作地"
+        },
+        {
+          "word": "affectingly",
+          "tran_cn": " 令人感动地；令人伤心地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "affect",
+          "tran_cn": " 情感；引起感情的因素"
+        },
+        {
+          "word": "affectation",
+          "tran_cn": " 做作；矫揉造作；假装"
+        },
+        {
+          "word": "affection",
+          "tran_cn": " 喜爱，感情；影响；感染"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "affecting",
+          "tran_cn": " 影响（affect的ing形式）；感动"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "affect",
+          "tran_cn": " 倾向；喜欢"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "affect",
+          "tran_cn": " 影响；感染；感动；假装"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "assumed",
+            "simulate"
+          ],
+          "tran_cn": "受到影响的；做作的；假装的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "affected area",
+      "tran_cn": "疫区；受影响区；被影响地区"
+    },
+    {
+      "phrase": "affected by",
+      "tran_cn": "adj. 受到...的影响"
+    },
+    {
+      "phrase": "be affected with",
+      "tran_cn": "患有...疾病"
+    },
+    {
+      "phrase": "heat affected zone",
+      "tran_cn": "热影响区，高热影响区（焊接件的）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "感动的，受到影响的，（人或行为）假装的，倾向于…的",
+      "tran_en": "not sincere or natural"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "影响( affect的过去式和过去分词 )，假装，感动，（疾病）侵袭"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "影响；假装；使…感动（affect的过去式和过去分词）"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "affectedly"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "word": "lithograph",
+  "ipa": {
+    "us": "ˈlɪθəgrɑ:f",
+    "uk": "ˈlɪθəgræf"
+  },
+  "sentences": [
+    {
+      "en": "A print of a woodcut , lithograph, or other engraved material, especially when reproduced in a book.",
+      "cn": "铅版:木刻, 平版或其它雕刻材料的印模, 尤指在书中复制时的印版."
+    },
+    {
+      "en": "A print of woodcut, lithograph, or other engraved material, especially when reproduced in a book.",
+      "cn": "准备用作印刷表面的一片金属, 塑料,橡胶, 纸板或其它材料, 例如电版或铅版."
+    },
+    {
+      "en": "Cole printed 1,000 of the cards on a lithograph stone before having them hand - colored.",
+      "cn": "科尔随即用石版印刷了1000张,之后又让人给这些卡手工着色."
+    },
+    {
+      "en": "Lithograph was introduced from China to Europe.",
+      "cn": "印刷术是从中国传入欧洲的。"
+    },
+    {
+      "en": "The lithography and the manufacture technology are the lithograph most important art performance method.",
+      "cn": "石版印刷和制作技术是石版画最重要的艺术表现手段."
+    },
+    {
+      "en": "We have Own the advanced production machine in lineation, in double offset lithograph, in quarto equipments.",
+      "cn": "拥有四开胶印机 、 面双色划线机等先进的生产设备."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "lithographic",
+          "tran_cn": " 平版的；平版印刷的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "lithographer",
+          "tran_cn": " 石版家；石印工"
+        },
+        {
+          "word": "lithography",
+          "tran_cn": " [印刷] 平版印刷术，石印术"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "offset",
+            "planography"
+          ],
+          "tran_cn": "平版印刷"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "offset"
+          ],
+          "tran_cn": "用平版印刷术印刷"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "平版印刷品",
+      "tran_en": "a printed picture produced by lithography"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "lithographs"
+    ]
+  }
+}

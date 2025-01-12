@@ -1,0 +1,90 @@
+{
+  "word": "inhabitable",
+  "ipa": {
+    "us": "ɪn'hæbɪtəbl",
+    "uk": "ɪn'hæbɪtəbəl"
+  },
+  "sentences": [
+    {
+      "en": "Long low ridges which rise above the marsh form the only inhabitable areas on the plain.",
+      "cn": "隆起在沼泽上的一系列又长又矮的山脊,是平原上唯一可以栖住的地方."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inhabited",
+          "tran_cn": " 有人居住的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inhabitancy",
+          "tran_cn": " 居住，住所；有人居住的状态"
+        },
+        {
+          "word": "inhabitant",
+          "tran_cn": " 居民；居住者"
+        },
+        {
+          "word": "inhabitation",
+          "tran_cn": " 居住；栖息"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "inhabited",
+          "tran_cn": " 占据（inhabit的过去分词）；居住于"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "inhabit",
+          "tran_cn": " （古）居住；栖息"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "inhabit",
+          "tran_cn": " 栖息；居住于；占据"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "habitable",
+            "livable"
+          ],
+          "tran_cn": "适于居住的；可居住的，可栖居的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "适于居住的，可居住的"
+    }
+  ],
+  "exchange": {}
+}

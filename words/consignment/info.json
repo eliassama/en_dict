@@ -1,0 +1,157 @@
+{
+  "word": "consignment",
+  "ipa": {
+    "us": "kənˈsaɪnmənt",
+    "uk": "kənˈsaɪnmənt"
+  },
+  "sentences": [
+    {
+      "en": "a consignment of medicines",
+      "cn": "运送的一批药物"
+    },
+    {
+      "en": "Could you give me a quotation for my consignment now?",
+      "cn": "您能对我们的寄售货物做一下估价 吗 ?"
+    },
+    {
+      "en": "Enclosed is our set of the shipping documents covering this consignment.",
+      "cn": "随附我们关于此货的全套海运提单."
+    },
+    {
+      "en": "I'll do that. I've got to state the consignment's safely packed, haven't I ?",
+      "cn": "我会的. 我还要说明,托运货物包装安全, 对 吧 ?"
+    },
+    {
+      "en": "It's really something wrong with the quality of this consignment of bicycles.",
+      "cn": "这批自行车的质量确实有问题."
+    },
+    {
+      "en": "Maintain and update consignment stock record , monitor consignment shipments with scheduled deliveries.",
+      "cn": "维护和更新库存数据, 跟踪定期交付货物的出货状态."
+    },
+    {
+      "en": "The colour of the shipment is much darker than that of your previous consignment.",
+      "cn": "这批货的颜色比上批要暗许多."
+    },
+    {
+      "en": "The exporter can enter into consignment transaction.",
+      "cn": "出口商可做寄售交易."
+    },
+    {
+      "en": "The first consignment of food was flown in yesterday.",
+      "cn": "第一批食品昨天空运到了。"
+    },
+    {
+      "en": "The retailer accepted the shipment on consignment.",
+      "cn": "零售商接受了运来的寄售物品"
+    },
+    {
+      "en": "The salesman sorted his new consignment of stockings.",
+      "cn": "推销员把新到的一批长袜清理分类."
+    },
+    {
+      "en": "They're concerned with the dispatch and receipt of consignment.",
+      "cn": "和他们有关的是发货和接货."
+    },
+    {
+      "en": "This last consignment of hosiery is quite up to standard.",
+      "cn": "这批新到的针织品完全符合规格."
+    },
+    {
+      "en": "We assume that damage occurred while the consignment was in your care.",
+      "cn": "我们认为货物是在你方保管时受到损害的."
+    },
+    {
+      "en": "We have to ask you to dispatch the consignment immediately.",
+      "cn": "我们得要求你立即发送该批货物。"
+    },
+    {
+      "en": "We must ask you to dispatch the consignment immediately.",
+      "cn": "我们必须要求你立即发送该批货物."
+    },
+    {
+      "en": "We usually only order goods on consignment.",
+      "cn": "我们通常只能订购寄售的货物."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "consignee",
+          "tran_cn": " 收件人；受托者；承销人"
+        },
+        {
+          "word": "consignor",
+          "tran_cn": " 发货人；货主；委托者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "consign",
+          "tran_cn": " 交付；托运；寄存；把…委托给"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "assignment",
+            "commission",
+            "conveyance",
+            "delegation",
+            "delivery",
+            "deposit",
+            "entrusting",
+            "entrustment",
+            "errand",
+            "giving",
+            "mandate",
+            "mission",
+            "over",
+            "relegation",
+            "relinquishment",
+            "remittance",
+            "transferal",
+            "trust"
+          ],
+          "tran_cn": "交付,委托,寄售,托卖"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "consignment business",
+      "tran_cn": "寄售业务"
+    },
+    {
+      "phrase": "consignment note",
+      "tran_cn": "托运单；托运收据；寄售通知书"
+    },
+    {
+      "phrase": "on consignment",
+      "tran_cn": "寄售方式：规定只有在售完后才付款并且未售出的物品可以被退还给委托人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "装运的货物，托运的货物，托运，运送，委托，托管",
+      "tran_en": "a quantity of goods that are sent somewhere, especially in order to be sold"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "consignments"
+    ]
+  }
+}

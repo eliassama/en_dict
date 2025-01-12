@@ -1,0 +1,166 @@
+{
+  "word": "quota",
+  "ipa": {
+    "us": "ˈkwəʊtə",
+    "uk": "ˈkwoʊtə"
+  },
+  "sentences": [
+    {
+      "en": "A restricted import quota was set for meat products.",
+      "cn": "肉类产品设定了进口配额."
+    },
+    {
+      "en": "Be sure you get your daily quota of calcium.",
+      "cn": "要确保每天的钙摄入量。"
+    },
+    {
+      "en": "Cannot allocate database object - database would exceed its disk quota.",
+      "cn": "不能分配数据库对象 —— 数据库将超过它的磁盘限额."
+    },
+    {
+      "en": "Each has his quota of work for the day.",
+      "cn": "每个人都有一份当天的工作."
+    },
+    {
+      "en": "Each member of the club was given his quota of tickets to sell for the party.",
+      "cn": "俱乐部的每一会员分到了为那游艺会而售卖的一部分门票."
+    },
+    {
+      "en": "How to keep and increase the quota of sale of the hotel?",
+      "cn": "如何才能够保持并增加酒店的销售额 呢 ?"
+    },
+    {
+      "en": "Most stars probably have their quota of planets, meteorids, comets, and asteroids.",
+      "cn": "多数恒星也许还拥有若干行星 、 流星 、 彗星和小行星."
+    },
+    {
+      "en": "No boat is allowed to catch more than its quota of fish.",
+      "cn": "任何船都不允许捕获超过限量的鱼."
+    },
+    {
+      "en": "The government has decided to scrap quotas on car imports.",
+      "cn": "政府决定取消汽车进口配额。"
+    },
+    {
+      "en": "The highway construction quota is a significant foundation for the whole system.",
+      "cn": "公路工程施工定额是整个公路工程定额体系的重要基础."
+    },
+    {
+      "en": "The quota of four tickets per person had been reduced to two.",
+      "cn": "每人可购买的票的限额已经由四张降至两张。"
+    },
+    {
+      "en": "There are plans to introduce strict immigration quotas.",
+      "cn": "有计划要推行严格的移民限额制度。"
+    },
+    {
+      "en": "These are not the only production teams that have overfulfilled the output quota.",
+      "cn": "超产的不单是这几个生产队."
+    },
+    {
+      "en": "They have the usual quota of human weaknesses, no doubt.",
+      "cn": "毫无疑问，他们身上也有人所共有的弱点。"
+    },
+    {
+      "en": "to introduce a strict import quota on grain",
+      "cn": "严格限制谷物进口量"
+    },
+    {
+      "en": "We must fix the daily work quota for your men.",
+      "cn": "我们也必须改变你们的工作强度."
+    },
+    {
+      "en": "Workers do all they can to fulfill the production quota.",
+      "cn": "工人们奋力实现生产指标."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "allotment",
+            "percentage",
+            "proportion",
+            "ratio",
+            "share"
+          ],
+          "tran_cn": "配额;分担额"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "allotment",
+            "contingent",
+            "percentage",
+            "proportion",
+            "ratio",
+            "ration",
+            "share"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "above quota",
+      "tran_cn": "超额"
+    },
+    {
+      "phrase": "credit quota",
+      "tran_cn": "信贷规模"
+    },
+    {
+      "phrase": "export quota",
+      "tran_cn": "出口配额，输出限额"
+    },
+    {
+      "phrase": "import quota",
+      "tran_cn": "输入限额"
+    },
+    {
+      "phrase": "production quota",
+      "tran_cn": "生产指标；生产限额；生产配额；生产预计额"
+    },
+    {
+      "phrase": "quota control",
+      "tran_cn": "配额管制，配额控制"
+    },
+    {
+      "phrase": "quota management",
+      "tran_cn": "定额管理；配额管理"
+    },
+    {
+      "phrase": "quota system",
+      "tran_cn": "n. 配额制；定额分配制"
+    },
+    {
+      "phrase": "sales quota",
+      "tran_cn": "销售配额；销售限额；目标销售额"
+    },
+    {
+      "phrase": "tariff quota",
+      "tran_cn": "关税配额"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（正式限定的）定量，定额，配额，指标",
+      "tran_en": "an official limit on the number or amount of something that is allowed in a particular period"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "quotas"
+    ]
+  }
+}

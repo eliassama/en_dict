@@ -1,0 +1,171 @@
+{
+  "word": "homologous",
+  "ipa": {
+    "us": "həˈmɒləgəs",
+    "uk": "hoʊˈmɑləgəs"
+  },
+  "sentences": [
+    {
+      "en": "Alleles of the same gene occupy the equivalent locus on homologous chromosomes.",
+      "cn": "等位基因位于同源染色体相对应的位点上."
+    },
+    {
+      "en": "Cross - overs have occurred independently of each other between pair of homologous chromosomes.",
+      "cn": "交换现象独立地在每一对同源染色体之间发生."
+    },
+    {
+      "en": "Each of the 46 chromosomes is a member of a homologous pair.",
+      "cn": "46条染色体的每一条都是一个同源对的成员。"
+    },
+    {
+      "en": "Each type evokes antibodies which protect against the homologous, but not heterologous virus.",
+      "cn": "每一种抗原型都能产生抗同种病毒的抗体, 但对异种病毒则不能."
+    },
+    {
+      "en": "Each type evokes antibodies which protect against the homologous.",
+      "cn": "每一种类型都能产生抗同种病毒的抗体."
+    },
+    {
+      "en": "Having the same alleles at gene locus on homologous chromosomes.",
+      "cn": "(遗传学)在相应的染色体位点上具有同样的等位基因."
+    },
+    {
+      "en": "Homogametic sex The sex with homologous sex chromosomes, in mammals, designated XX.",
+      "cn": "同配性别:指有相同性染色体的性别, 在哺乳动物中, 它用XX来表示."
+    },
+    {
+      "en": "Homologous parts, as has been remarked by some authors, tend to cohere.",
+      "cn": "某些作者曾经说过,同源部分有互相合生的倾向."
+    },
+    {
+      "en": "If both of a pair of homologous chromosomes are missing, nullisomy results.",
+      "cn": "如果一对同源染色体都缺失了, 称为缺体."
+    },
+    {
+      "en": "Nucleotide sequences homologous to oncornaviruses DNA products have been observed in human leukaemic cells.",
+      "cn": "在人白血病细胞中,已经观察到与肿瘤毒病DNA产物相同的核苷酸序列."
+    },
+    {
+      "en": "Stereoisomerism is encountered in the homologous series.",
+      "cn": "在烯烃同系列中出现了立体异构现象."
+    },
+    {
+      "en": "The collapse of the protostella is extremely non - homologous.",
+      "cn": "原恒星云的坍缩是极其不保形的."
+    },
+    {
+      "en": "The former are considered to be homologous with the sepals of Ranunculus.",
+      "cn": "一般认为,前者的花瓣与毛茛属植物花萼同源."
+    },
+    {
+      "en": "The gradation in the physical properties of the alkanes is typical of a homologous series.",
+      "cn": "烷烃物理性质的逐渐变化是同系列的特点."
+    },
+    {
+      "en": "The seal's flipper is homologous with the human arm.",
+      "cn": "海豹的鳍肢与人类的手臂同源。"
+    },
+    {
+      "en": "There are so many important genes on every chromosome that the loss of both members of a homologous pair would be fatal, wouldn’t even get past embryonic development.",
+      "cn": "每一条染色体上都包含了数量巨大的重要基因，而同时丢失一对同源染色体将是致命的，生命甚至通不过胚胎发育期。"
+    },
+    {
+      "en": "Translocation occurs when a fragment of one chromosome becomes attached to a non - homologous chromosome.",
+      "cn": "一段染色体跟 非 同源染色体连在一起时就发生易位."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "homologic",
+          "tran_cn": " 相应的；类似的；同源的"
+        },
+        {
+          "word": "homological",
+          "tran_cn": " 相应的；一致的；同源的（等于homologic或者homologous）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "homogeny",
+          "tran_cn": " 同构发生；同源发生"
+        },
+        {
+          "word": "homology",
+          "tran_cn": " 同源；相同；异体同形；同族关系"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "homologize",
+          "tran_cn": " 相应"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "homologize",
+          "tran_cn": " 使相应；使对应"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "united",
+            "consistent",
+            "corresponding",
+            "solid",
+            "matching"
+          ],
+          "tran_cn": "相应的；[免疫][化学][生物]同源的；类似的；一致的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "analogous",
+            "relative",
+            "twin"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "homologous chromosome",
+      "tran_cn": "同源染色体"
+    },
+    {
+      "phrase": "homologous recombination",
+      "tran_cn": "同源重组"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "相应的，类似的，一致的，同源的",
+      "tran_en": "having a related or similar position, structure, etc "
+    }
+  ],
+  "exchange": {}
+}

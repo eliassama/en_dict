@@ -1,0 +1,168 @@
+{
+  "word": "hierarchy",
+  "ipa": {
+    "us": "ˈhaɪərɑːki",
+    "uk": "ˈhaɪərɑːrki"
+  },
+  "sentences": [
+    {
+      "en": "A dynamically bound method call, however outward into the inheritance hierarchy.",
+      "cn": "动态绑定方法的调用, 然而,这将涉及到继承类图."
+    },
+    {
+      "en": "a rigid social hierarchy",
+      "cn": "严格的社会等级制度"
+    },
+    {
+      "en": "Abraham Maslow proposed the concept of a hierarchy of needs to be satisfied.",
+      "cn": "亚伯拉罕·马斯洛提出了分层次满足需要的观念."
+    },
+    {
+      "en": "Chapter Six treats the hierarchy of audience's psychological needs \"",
+      "cn": "论文第六章论述了观影心理需求层次."
+    },
+    {
+      "en": "His outspokenness has ensured that he has at least one senior enemy within the BBC hierarchy.",
+      "cn": "他的坦率直言已经使得他和英国广播公司内部的至少一位高层树了敌。"
+    },
+    {
+      "en": "If you chose that one, the project hierarchy should look like Figure 8 after you have created the project.",
+      "cn": "如果您从中选择了一个，那么在您创建项目时，项目层级结构应该如图 8 所示。"
+    },
+    {
+      "en": "My ambition was to travel upwards in the ecclesiastical hierarchy.",
+      "cn": "我的雄心是在教会中一步一步往上走。"
+    },
+    {
+      "en": "Next use hue, saturation, value, size, and position to distinguish levels of hierarchy.",
+      "cn": "之后我们使用颜色 、 饱和度 、 值 、 尺寸和位置来区分层次结构中的每个层次."
+    },
+    {
+      "en": "Reversals of the average order of the hierarchy are sometimes observed.",
+      "cn": "有时候我们也看到一般层级顺序倒置的现象."
+    },
+    {
+      "en": "See how stupidly they kow-tow to persons higher in the hierarchy.",
+      "cn": "瞧他们对上级唯命是从的样子是多么愚蠢啊。"
+    },
+    {
+      "en": "She worked her way up through the corporate hierarchy to become president.",
+      "cn": "她在公司一步一步升到了总裁的位置。"
+    },
+    {
+      "en": "She's high up in the management hierarchy.",
+      "cn": "她在管理阶层中地位很高."
+    },
+    {
+      "en": "The fundamental unit of the hierarchy is the association.",
+      "cn": "等级系统中的基本单位是群丛."
+    },
+    {
+      "en": "The hierarchy of menus has been flattened down until it is only one level deep.",
+      "cn": "这里菜单只有一级,层次关系扁平化了."
+    },
+    {
+      "en": "The hierarchy of the Catholic Church realize the magnitude of the paradigm change.",
+      "cn": "天主教堂僧侣统治集团认识到范例改变的份量."
+    },
+    {
+      "en": "There is a hierarchy in the classification of all living creatures.",
+      "cn": "一切生物均可按等级分类."
+    },
+    {
+      "en": "There was a range of opinion within the ecclesiastical hierarchy on the issue.",
+      "cn": "这个问题在基督教会的领导阶层中存在多种意见."
+    },
+    {
+      "en": "Thus you have only one hierarchy of loggers for all users. You lose isolation.",
+      "cn": "这样，所有的用户只有一个层次结构，您会失去隔离性。"
+    },
+    {
+      "en": "To some extent, they may be looked on as a hierarchy, as in Figure 4.2.",
+      "cn": "就某种程度而言, 可以把它们看成为多层次的关系, 如图4--2所示."
+    },
+    {
+      "en": "We need two new Classes at either end of the inheritance hierarchy to do this.",
+      "cn": "在继承层次的每个端点，我们需要两个新类来完成这个。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hierarchical",
+          "tran_cn": " 分层的；等级体系的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "hierarchically",
+          "tran_cn": " 分层次，分等级地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ladder"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "feudal hierarchy",
+      "tran_cn": "封建等级制度"
+    },
+    {
+      "phrase": "hierarchy of needs",
+      "tran_cn": "需要层次；需求层次理论"
+    },
+    {
+      "phrase": "hierarchy of needs theory",
+      "tran_cn": "需要层次理论；需要阶梯理论"
+    },
+    {
+      "phrase": "hierarchy system",
+      "tran_cn": "体系；分级系统"
+    },
+    {
+      "phrase": "inheritance hierarchy",
+      "tran_cn": "继承层次；继承体系；继承阶层架构"
+    },
+    {
+      "phrase": "knowledge hierarchy",
+      "tran_cn": "知识体系"
+    },
+    {
+      "phrase": "object hierarchy",
+      "tran_cn": "对象阶层架构；对象层次结构"
+    },
+    {
+      "phrase": "social hierarchy",
+      "tran_cn": "社会等级；社会阶层"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[计]分层，层次，等级制度，统治集团，天使的级别或等级",
+      "tran_en": "a system of organization in which people or things are divided into levels of importance"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hierarchies"
+    ]
+  }
+}

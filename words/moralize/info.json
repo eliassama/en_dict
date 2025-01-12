@@ -1,0 +1,148 @@
+{
+  "word": "moralize",
+  "ipa": {
+    "us": "ˈmɒrəlaɪz",
+    "uk": "ˈmɔrəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "As a dramatist I hate to moralize.",
+      "cn": "作为一名剧作家，我憎恨说教。"
+    },
+    {
+      "en": "But he did not moralize long.",
+      "cn": "但是,他对这些大道理想得并不长久."
+    },
+    {
+      "en": "His ethicism often led him to moralize.",
+      "cn": "他的道德主义使他经常说教他人."
+    },
+    {
+      "en": "My dear boy, you are really beginning to moralize.",
+      "cn": "好孩子, 你真是开始说教啦."
+    },
+    {
+      "en": "politicians moralizing about people’s sexual behaviour",
+      "cn": "就人们的性行为进行说教的政客们"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "moral",
+          "tran_cn": " 道德的；精神上的；品性端正的"
+        },
+        {
+          "word": "moralistic",
+          "tran_cn": " 说教的；道学的；道德家的；注意道德的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "morally",
+          "tran_cn": " 道德上；有道德地；确实地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "moral",
+          "tran_cn": " 道德；寓意"
+        },
+        {
+          "word": "moralism",
+          "tran_cn": " 道德主义；格言；教训"
+        },
+        {
+          "word": "moralist",
+          "tran_cn": " 道德家；伦理学者"
+        },
+        {
+          "word": "morality",
+          "tran_cn": " 道德；品行，美德"
+        },
+        {
+          "word": "moralization",
+          "tran_cn": " 教化；德化；用道德解释"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "moralise",
+          "tran_cn": " 教化；从道德上解释（等于moralize）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "moralise",
+          "tran_cn": " 讲道；说教（等于moralize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "preachify",
+            "sermonize"
+          ],
+          "tran_cn": "说教；讲道德"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to teach",
+            "humanize"
+          ],
+          "tran_cn": "教化，从道德上解释；从…引出道德教训"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "教化 ,说教",
+      "tran_en": "to tell other people your ideas about right and wrong behaviour, especially when they have not asked for your opinion"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "论道德，说教"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "moralizes"
+    ],
+    "past": [
+      "moralized"
+    ],
+    "done": [
+      "moralized"
+    ],
+    "ing": [
+      "moralizing"
+    ]
+  }
+}

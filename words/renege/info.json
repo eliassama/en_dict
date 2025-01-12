@@ -1,0 +1,86 @@
+{
+  "word": "renege",
+  "ipa": {
+    "us": "rɪˈni:g",
+    "uk": "rɪˈnɪɡ,-ˈnɛɡ,-ˈniɡ"
+  },
+  "sentences": [
+    {
+      "en": "Any more colourful candidate could renege on a deal.",
+      "cn": "任何不同政见的候选人都可能就此交易而报复."
+    },
+    {
+      "en": "He reneged on a promise to leave his wife.",
+      "cn": "他背弃了诺言，离开了他的妻子。"
+    },
+    {
+      "en": "If you renege again, I am going to gut you.",
+      "cn": "如果你再食言, 我会挖出你的内脏!"
+    },
+    {
+      "en": "They reneged on a pledge to release the hostages.",
+      "cn": "他们违背承诺，没有释放人质。"
+    },
+    {
+      "en": "You said you'd come, why did you renege on your promise?",
+      "cn": "你说你要来的, 为什么要背信弃义?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "eat his words",
+            "break one's promise"
+          ],
+          "tran_cn": "食言；违例出牌"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "deny",
+            "disown"
+          ],
+          "tran_cn": "否认"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "食言, 违例出牌",
+      "tran_en": "If someone reneges on a promise or an agreement, they do not do what they have promised or agreed to do"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "食言，违例出牌"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "否认，食言，违约，放弃，拒绝"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "reneges"
+    ],
+    "past": [
+      "reneged"
+    ],
+    "done": [
+      "reneged"
+    ],
+    "ing": [
+      "reneging"
+    ]
+  }
+}

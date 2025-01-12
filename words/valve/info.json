@@ -1,0 +1,213 @@
+{
+  "word": "valve",
+  "ipa": {
+    "us": "vælv",
+    "uk": "vælv"
+  },
+  "sentences": [
+    {
+      "en": "Exercise is a good safety valve for the tension that builds up at work.",
+      "cn": "锻炼身体是排解工作压力的好办法。"
+    },
+    {
+      "en": "He replaced a dud valve.",
+      "cn": "他换掉了坏阀门。"
+    },
+    {
+      "en": "heart valves",
+      "cn": "心脏瓣膜"
+    },
+    {
+      "en": "Residents heard an enormous bang as a safety valve on the boiler failed.",
+      "cn": "由于锅炉的安全阀失效，居民们听到了砰的一声巨响。"
+    },
+    {
+      "en": "Some carburetors have an auxliary fuel valve and inlet.",
+      "cn": "有些化油器具有备用的燃油阀和入口."
+    },
+    {
+      "en": "The abnormality mitral stenosis was in myocardium, not in the valve.",
+      "cn": "二尖瓣狭窄的病变是在心肌而不是在瓣膜."
+    },
+    {
+      "en": "The analyser or sensing unit contains the sample - injection valve.",
+      "cn": "分析和传感单元内有注样阀."
+    },
+    {
+      "en": "The bag is resealed with a simple twist of the valve.",
+      "cn": "只需拧一下阀门，气囊就能重新密封。"
+    },
+    {
+      "en": "The connecting rod may drive a valve stem directly.",
+      "cn": "连杆可以直接带动阀门的把柄."
+    },
+    {
+      "en": "The exhaust valve on my car has burnt out three times.",
+      "cn": "我车子上的排气阀已烧坏三次."
+    },
+    {
+      "en": "The exhaust valve on my car has burnt out.",
+      "cn": "我汽车上的排气阀烧掉了."
+    },
+    {
+      "en": "The feed - pipe is as clean as a whistle, so I'm afraid, if the oil is not getting through to the burner, the valve must be faulty.",
+      "cn": "送料管干干净净, 所以我担心要是油不通过喷嘴, 阀门一定有毛病."
+    },
+    {
+      "en": "The ileocecal valve and terminal ileum are usually dilated rather than stenosed.",
+      "cn": "回盲部和末端回肠常呈扩张面而不狭窄."
+    },
+    {
+      "en": "The intake valve was jammed open.",
+      "cn": "进气阀卡住了，关不上。"
+    },
+    {
+      "en": "The PCV valve sticks in the open, maximum - flow position.",
+      "cn": "把PCV阀固定在开启位置即最大流量位置."
+    },
+    {
+      "en": "The pump sucks air out ( of the vessel ) through this valve.",
+      "cn": "这台泵通过这个阀门把 ( 容器中的 ) 空气抽出."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "valved",
+          "tran_cn": " 装有阀的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "valved",
+          "tran_cn": " 装阀于…（valve的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "depression tube",
+            "evacuated tube"
+          ],
+          "tran_cn": "[机]阀；[解剖]瓣膜；真空管；活门"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cock",
+            "outlet"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "air valve",
+      "tran_cn": "空气阀；通气管之活瓣"
+    },
+    {
+      "phrase": "ball valve",
+      "tran_cn": "球阀，弹子阀；球形阀"
+    },
+    {
+      "phrase": "butterfly valve",
+      "tran_cn": "蝶形阀"
+    },
+    {
+      "phrase": "check valve",
+      "tran_cn": "止回阀，止逆阀"
+    },
+    {
+      "phrase": "control valve",
+      "tran_cn": "n. [化]控制阀"
+    },
+    {
+      "phrase": "electromagnetic valve",
+      "tran_cn": "电磁阀"
+    },
+    {
+      "phrase": "exhaust valve",
+      "tran_cn": "[化]排气阀"
+    },
+    {
+      "phrase": "gate valve",
+      "tran_cn": "闸门阀；闸式阀"
+    },
+    {
+      "phrase": "heart valve",
+      "tran_cn": "心脏瓣膜；人工心瓣"
+    },
+    {
+      "phrase": "mitral valve",
+      "tran_cn": "n. [解]二尖瓣；僧帽瓣"
+    },
+    {
+      "phrase": "pressure valve",
+      "tran_cn": "施压阀；压力控制阀，压力増压阀"
+    },
+    {
+      "phrase": "regulating valve",
+      "tran_cn": "调节阀；溢流阀；第阀"
+    },
+    {
+      "phrase": "relief valve",
+      "tran_cn": "安全阀；减压阀"
+    },
+    {
+      "phrase": "safety valve",
+      "tran_cn": "安全阀，安全活门"
+    },
+    {
+      "phrase": "solenoid valve",
+      "tran_cn": "电磁阀"
+    },
+    {
+      "phrase": "throttle valve",
+      "tran_cn": "节流阀"
+    },
+    {
+      "phrase": "valve body",
+      "tran_cn": "[机]阀体"
+    },
+    {
+      "phrase": "valve control",
+      "tran_cn": "阀门控制，阀控制器；调节阀，气门控制"
+    },
+    {
+      "phrase": "valve core",
+      "tran_cn": "阀心；气门芯"
+    },
+    {
+      "phrase": "valve seat",
+      "tran_cn": "阀座，气门座"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "阀，真空管，（管乐器的）活栓，（心脏的）瓣膜",
+      "tran_en": "a part of a tube or pipe that opens and shuts like a door to control the flow of liquid, gas, air etc passing through it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "valves"
+    ]
+  }
+}

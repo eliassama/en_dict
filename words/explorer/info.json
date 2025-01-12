@@ -1,0 +1,168 @@
+{
+  "word": "explorer",
+  "ipa": {
+    "us": "ɪkˈsplɔːrə(r)",
+    "uk": "ɪkˈsplɔːrər"
+  },
+  "sentences": [
+    {
+      "en": "...the travels of Columbus, Magellan, and many other explorers.",
+      "cn": "…哥伦布、麦哲伦和许多其他探险家的旅行。"
+    },
+    {
+      "en": "But there is one explorer who is largely unknown outside of China.",
+      "cn": "不过却有一名探险家除中国人外,鲜少为人所知."
+    },
+    {
+      "en": "He is an Arctic explorer.",
+      "cn": "他是个北极探险家."
+    },
+    {
+      "en": "Sensing the explorer's lust for gold, the chief wisely presented gold ornaments as gifts.",
+      "cn": "酋长觉察出探险者们垂涎黄金的欲念, 就聪明地把金饰品作为礼物赠送给他们."
+    },
+    {
+      "en": "Some prevision warned the explorer of trouble.",
+      "cn": "某种预感警告探险者将有麻烦发生."
+    },
+    {
+      "en": "The animation, in this case, could have been built right into the main Explorer window.",
+      "cn": "在这种情况下, 动画可以直接建立在资源管理器的主窗口中."
+    },
+    {
+      "en": "The bank's responsibility is to verify that the explorer's documents conform to the letter of credit.",
+      "cn": "银行的责任在于查核出口商的单据必须与信用证的一致."
+    },
+    {
+      "en": "The explorer climbed a tree in order to orient himself.",
+      "cn": "探险家爬上树以认清方向."
+    },
+    {
+      "en": "The explorer climbed a tree in order to orientate himself.",
+      "cn": "那位勘探者为了确定他所在的地点爬到了一颗树上."
+    },
+    {
+      "en": "The explorer related his adventures.",
+      "cn": "探险者叙述他的冒险经历."
+    },
+    {
+      "en": "The explorer spun many fantastic tales about his adventures in the primeval forests.",
+      "cn": "那探险家杜撰了许多他在原始森林里历险的离奇故事."
+    },
+    {
+      "en": "The explorer told fantastic stories of his adventures.",
+      "cn": "探险者讲了关于他几次冒险的离奇的故事."
+    },
+    {
+      "en": "The explorer told of his adventure with great circumstance.",
+      "cn": "探险者详细叙述了他的冒险经历."
+    },
+    {
+      "en": "The explorer was ever awake for the dangers that surrounded him.",
+      "cn": "这个探险家时刻提防着周围的危险."
+    },
+    {
+      "en": "The explorer was killed by barbaric people.",
+      "cn": "那位探险家被野蛮人杀死了."
+    },
+    {
+      "en": "Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal, for on Novenber 21 st , 1964, the greatest bridge in the world was named after him.",
+      "cn": "虽然维拉扎诺不能被认为是一位伟大的探险家, 但他的名字将有可能流芳百世, 因为在1964年11月21日, 一座世界上最大的桥梁以他的名字命名了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "explorative",
+          "tran_cn": " 探究的；探险的；探测的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "exploration",
+          "tran_cn": " 探测；探究；踏勘"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "explore",
+          "tran_cn": " 探索；探测；探险"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "explore",
+          "tran_cn": " 探索；探测；探险"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "finder",
+            "prober"
+          ],
+          "tran_cn": "探险家；探测者，探测器"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adventurer",
+            "leader",
+            "traveler"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "internet explorer",
+      "tran_cn": "因特网浏览器；微软网页浏览器"
+    },
+    {
+      "phrase": "microsoft internet explorer",
+      "tran_cn": "用来游览Internet上web站的程式"
+    },
+    {
+      "phrase": "server explorer",
+      "tran_cn": "服务器资源管理器；服务器总管"
+    },
+    {
+      "phrase": "solution explorer",
+      "tran_cn": "[计]解决方案资源管理器（设计数据库所用软件的菜单选项）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "探险家，勘探者，探测器，[医]探针",
+      "tran_en": "someone who travels through an unknown area to find out about it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "explorers"
+    ]
+  }
+}

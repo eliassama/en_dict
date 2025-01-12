@@ -1,0 +1,189 @@
+{
+  "word": "calibration",
+  "ipa": {
+    "us": "ˌkælɪˈbreɪʃn",
+    "uk": "ˌkæləˈbreʃən"
+  },
+  "sentences": [
+    {
+      "en": "a calibration error",
+      "cn": "校准误差"
+    },
+    {
+      "en": "A few remarks must finally be made concerning the calibration of scintillation detectors.",
+      "cn": "最后需要讲几点关于闪烁探测器校正方面的注意事项."
+    },
+    {
+      "en": "Check calibration of gloss meter with standard test block.",
+      "cn": "检查光泽米的定标以标准测试块."
+    },
+    {
+      "en": "CMM Calibration - The forum to discuss CMM Calibration ideas experiences, concerns and solutions.",
+      "cn": "CMM校准 - 论坛讨论CMM校准的经验 、 疑问和结果."
+    },
+    {
+      "en": "Function test and calibration self - heterodyne curve for direction finder on sea trial.",
+      "cn": "航行试验中测向仪效用试验及自差曲线校正."
+    },
+    {
+      "en": "I believe the solution lies in the calibration rather than the design.",
+      "cn": "我相信解决的方法在面板厚度校正的技术,而不是力木的设计."
+    },
+    {
+      "en": "I view a very practical one, a calibration method.",
+      "cn": "本人看法:很实用的一本书, 给出了calibration的方法."
+    },
+    {
+      "en": "It is advisable to check the instrument by frequent calibration.",
+      "cn": "最好通过经常的校准来检查仪器."
+    },
+    {
+      "en": "Linear calibration models are introduced to improve the accuracy of the instrument.",
+      "cn": "同时为了提高测量精度,引入了线性校正模型."
+    },
+    {
+      "en": "Release the Foot Switch when the Calibration Indicator reaches its set position.",
+      "cn": "当刻度指示器指向规定的位置,放开脚踏板."
+    },
+    {
+      "en": "Repeat the preparation of standards starting with pure solutions until successive calibration curves agree within 10 %.",
+      "cn": "重复配制标准溶液(从纯溶液开始)直至逐次的标准曲线彼此偏差均在10%以内."
+    },
+    {
+      "en": "Sensitivity can be controlled easily because TS has Auto - calibration function.",
+      "cn": "因为TS具有自校准功能,所以灵敏度可以很容易的控制."
+    },
+    {
+      "en": "The instrument is very delicate for general calibration purposes.",
+      "cn": "这种仪器作为一般的标定是很精确的."
+    },
+    {
+      "en": "The torquing current is measured and related to drift rate by prior calibration data.",
+      "cn": "测出产生力矩的电流,然后根据事先校正的数据来算出飘移率."
+    },
+    {
+      "en": "These data can be plotted to form a calibration curve.",
+      "cn": "这些数据可以绘制成一校准曲线."
+    },
+    {
+      "en": "This is necessary because the loads are usually applied normal to the calibration fixture surface.",
+      "cn": "之所以有此需要,是因为所加载荷通常是垂直于校准装置平面的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "calibrated",
+          "tran_cn": "标刻度的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "calibrated",
+          "tran_cn": "校准（calibrate的过去分词）；校准使...标准化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "calibrate",
+          "tran_cn": "校正；调整；测定口径"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "standardization",
+            "regulation",
+            "scale",
+            "graduation",
+            "alignment"
+          ],
+          "tran_cn": "校准；刻度；标度"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "accurate calibration",
+      "tran_cn": "精确校准"
+    },
+    {
+      "phrase": "automatic calibration",
+      "tran_cn": "自动校准"
+    },
+    {
+      "phrase": "calibration accuracy",
+      "tran_cn": "校准精度；校准精确度"
+    },
+    {
+      "phrase": "calibration certificate",
+      "tran_cn": "检定证书；检验证书"
+    },
+    {
+      "phrase": "calibration curve",
+      "tran_cn": "校正曲线，校准曲线"
+    },
+    {
+      "phrase": "calibration error",
+      "tran_cn": "校准误差；标定误差"
+    },
+    {
+      "phrase": "calibration factor",
+      "tran_cn": "校准系数"
+    },
+    {
+      "phrase": "calibration method",
+      "tran_cn": "标定方法，校估方法；校准法"
+    },
+    {
+      "phrase": "calibration standard",
+      "tran_cn": "校准用标准"
+    },
+    {
+      "phrase": "calibration system",
+      "tran_cn": "校准系统"
+    },
+    {
+      "phrase": "calibration test",
+      "tran_cn": "校准试验"
+    },
+    {
+      "phrase": "camera calibration",
+      "tran_cn": "相机校正"
+    },
+    {
+      "phrase": "field calibration",
+      "tran_cn": "现场校准；野外校正"
+    },
+    {
+      "phrase": "meter calibration",
+      "tran_cn": "计量器校准"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "校准，标准化，刻度，标度，测量口径",
+      "tran_en": "the process of checking or slightly changing an instrument or tool so that it does something correctly"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "calibrations"
+    ]
+  }
+}

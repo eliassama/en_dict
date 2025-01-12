@@ -1,0 +1,142 @@
+{
+  "word": "mottle",
+  "ipa": {
+    "us": "'mɒtl",
+    "uk": "ˈmɑtl"
+  },
+  "sentences": [
+    {
+      "en": "In tubers from such potatoes stem mottle symptoms are rarely observed.",
+      "cn": "由这类马玲薯产生的块茎中茎斑驳症状不易观察到."
+    },
+    {
+      "en": "Ingrain paper: Paper finished with a mottle surface used for book covers, etc.",
+      "cn": "斑纹纸: 加工造成有斑点花纹的纸, 作书皮等用."
+    },
+    {
+      "en": "Mottle are caused by poor ink or uneven absorption characteristics in the paper.",
+      "cn": "是由于油墨品质差,纸张具不均匀的吸收性所引至."
+    },
+    {
+      "en": "Surface mottle of BMC parts is one of common quality defects.",
+      "cn": "不饱和聚酯树脂模塑料压制件表面颜色不均匀是常见的质量难题之一."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mottled",
+          "tran_cn": " 斑驳的，杂色的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mottling",
+          "tran_cn": " 斑点状阴影"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "mottled",
+          "tran_cn": " 使成杂色（mottle的过去分词）"
+        },
+        {
+          "word": "mottling",
+          "tran_cn": " 使成杂色（mottle的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dapple",
+            "maculation",
+            "mottle",
+            "polychrome",
+            "speckle",
+            "striature",
+            "stripe",
+            "variegation"
+          ],
+          "tran_cn": "斑点,斑纹,杂色"
+        },
+        {
+          "words": [
+            "dapple",
+            "fleck",
+            "patch",
+            "speck",
+            "speckle",
+            "spot",
+            "streak",
+            "stripe",
+            "watermark"
+          ],
+          "tran_cn": "有斑点的东西,有斑纹的东西"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "bespeckle",
+            "bespot",
+            "dapple",
+            "fleck",
+            "freckle",
+            "maculate",
+            "marble",
+            "streak",
+            "striate",
+            "variegate"
+          ],
+          "tran_cn": "使呈杂色,使呈斑驳"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "杂色，斑点"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使有斑点 n杂色, 斑点",
+      "tran_en": "to colour with streaks or blotches of different shades "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使成杂色，使有斑点"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "mottles"
+    ],
+    "past": [
+      "mottled"
+    ],
+    "done": [
+      "mottled"
+    ],
+    "ing": [
+      "mottling"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "word": "hobbyist",
+  "ipa": {
+    "us": "ˈhɒbiɪst",
+    "uk": "ˈhɑbiɪst"
+  },
+  "sentences": [
+    {
+      "en": "Buyer then offers evidence that he bought the computer for his personal use as a hobbyist.",
+      "cn": "那么,买受人应提供自己作为爱好者购买那台电脑是用于私人使用的证据."
+    },
+    {
+      "en": "Cracker A computer hobbyist who gets kicks from gaining unauthorized access to computer systems.",
+      "cn": "闯入客一种计算机业余爱好者,闯入未经许可访问的计算机系统."
+    },
+    {
+      "en": "Often you can pick up a lot of information and valuable advice from a fellow hobbyist.",
+      "cn": "你可以经常从你的业余爱好者的伙伴那里得到许多信息和定贵的建议."
+    },
+    {
+      "en": "Similarly, the numerous business concerns catering to the hobbyist have a tremendous but unknown dollar value.",
+      "cn": "同样, 为满足园艺爱好者们所成立的商务公司也有着巨大而未知的经济效益."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hobbler",
+          "tran_cn": " 无执照的引航员；跛行之人或动物"
+        },
+        {
+          "word": "hobby",
+          "tran_cn": " 嗜好；业余爱好"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "amateur",
+            "dilettante"
+          ],
+          "tran_cn": "业余爱好者；沉溺于某嗜好之人"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "沉溺于某种癖好者，嗜某爱好成癖的人",
+      "tran_en": "You can refer to person who is very interested in a particular hobby and spends a lot of time on it as a hobbyist"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hobbyists"
+    ]
+  }
+}

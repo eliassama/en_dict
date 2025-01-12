@@ -1,0 +1,118 @@
+{
+  "word": "petrify",
+  "ipa": {
+    "us": "ˈpetrɪfaɪ",
+    "uk": "ˈpetrɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "To convert to a mineral substance ; petrify.",
+      "cn": "这些 矿物质 使水有毒."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "petrified",
+          "tran_cn": " 惊呆的；目瞪口呆的"
+        },
+        {
+          "word": "petrochemical",
+          "tran_cn": " 石化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "petrifaction",
+          "tran_cn": " 石化；化石；吓呆"
+        },
+        {
+          "word": "petrochemical",
+          "tran_cn": " 石油化学产品"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "petrified",
+          "tran_cn": " 使石化；变僵硬；发呆（petrify的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appall",
+            "frighten",
+            "harden",
+            "horrify",
+            "shock",
+            "solidify",
+            "stun",
+            "terrify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "appall",
+            "become",
+            "frighten",
+            "harden",
+            "horrify",
+            "shock",
+            "stone",
+            "stun",
+            "terrify"
+          ],
+          "tran_cn": "使吓呆"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "石化,吓呆"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使吓呆，使惊呆"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "吓呆，使麻木"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "petrifies"
+    ],
+    "past": [
+      "petrified"
+    ],
+    "done": [
+      "petrified"
+    ],
+    "ing": [
+      "petrifying"
+    ]
+  }
+}

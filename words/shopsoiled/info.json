@@ -1,0 +1,56 @@
+{
+  "word": "shopsoiled",
+  "ipa": {
+    "us": "'ʃɒpˌsɔɪld",
+    "uk": "'ʃɒpˌsɔɪld"
+  },
+  "sentences": [
+    {
+      "en": "The salesman tried to palm us off with some shopsoiled sheets.",
+      "cn": "售货员设法用商店陈列过的旧床单来哄骗我们。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "shopworn",
+          "tran_cn": " 陈旧的；陈腐的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "shopwindow",
+          "tran_cn": " 橱窗；陈列窗"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "old",
+            "prehistoric"
+          ],
+          "tran_cn": "陈列久了的；陈旧的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（商品在商店中陈列过久或被触摸过多而）残旧了的，陈旧的，陈腐的",
+      "tran_en": "worn, faded, tarnished, etc, from being displayed in a shop or store"
+    }
+  ],
+  "exchange": {}
+}

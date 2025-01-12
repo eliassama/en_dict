@@ -1,0 +1,125 @@
+{
+  "word": "parity",
+  "ipa": {
+    "us": "ˈpærəti",
+    "uk": "ˈpærɪti"
+  },
+  "sentences": [
+    {
+      "en": "A modified serial decoding algorithm for low - density parity - check ( LDPC ) codes is proposed.",
+      "cn": "提出了一种改进的 低密度 奇偶校验码 ( LDPC ) 串行译码算法."
+    },
+    {
+      "en": "A wavelet - domain digital watermarking scheme based on parity - decomposition is proposed.",
+      "cn": "提出了一种基于奇偶分解的小波域图像数字水印方案."
+    },
+    {
+      "en": "Frequent drops in the dollar parity have repeatedly touched off gold rushes.",
+      "cn": "美元比价不断下跌,触发了一次又一次新的抢购黄金的风潮."
+    },
+    {
+      "en": "If the law of parity conservation were suspended, this restriction would be removed.",
+      "cn": "如果宇称守恒定律受到破坏, 就会取消这个限制."
+    },
+    {
+      "en": "Italy wanted naval parity with France.",
+      "cn": "意大利想要在海军实力上与法国平起平坐。"
+    },
+    {
+      "en": "Parity is often used to check the integrity of transmitted data.",
+      "cn": "奇偶校验用于检验数据的完整性."
+    },
+    {
+      "en": "Prison officers are demanding pay parity with the police force.",
+      "cn": "狱警正要求与警察同工同酬。"
+    },
+    {
+      "en": "Purchasing power parity was developed by Swedish economist Karl Cassel.",
+      "cn": "购买力平价是由瑞典经济学家卡尔.卡瑟尔所研究提出."
+    },
+    {
+      "en": "Silver can be raised by law to a parity with gold in value.",
+      "cn": "银可由法律提高到和金同等的价值."
+    },
+    {
+      "en": "The parity of atomic states is important in spectroscopy.",
+      "cn": "原子状态的宇称性质在光谱中是重要的."
+    },
+    {
+      "en": "The rest of the analysis is concerned with finding the parity as well as the spin.",
+      "cn": "余下的分析不仅涉及到求自旋,而且还要求出宇称."
+    },
+    {
+      "en": "The two currencies have now reached parity.",
+      "cn": "这两种货币现已达到同等价值."
+    },
+    {
+      "en": "There is one argument for parity prices before we the subject.",
+      "cn": "最后,我们来讨论主张等位价格的另一类论调."
+    },
+    {
+      "en": "To achieve parity for agricultural prices, the Act of 1938 provided a number of devices.",
+      "cn": "为了取得农产品平价, 1938年立法提供了一些办法."
+    },
+    {
+      "en": "Women have yet to achieve wage or occupational parity in many fields.",
+      "cn": "女性在很多领域还没能争取到薪金、职位方面的平等。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "coordination",
+            "equation"
+          ],
+          "tran_cn": "[金融]平价；同等；相等"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "analogy",
+            "equality",
+            "parallel",
+            "poise",
+            "similarity"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "parity bit",
+      "tran_cn": "[计]校验位（加进磁带等上的数组中以造成奇偶性的位）"
+    },
+    {
+      "phrase": "parity check",
+      "tran_cn": "奇偶校验检查"
+    },
+    {
+      "phrase": "purchasing power parity",
+      "tran_cn": "购买力平价"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "平价，价值对等，同等，平等",
+      "tran_en": "the state of being equal, especially having equal pay, rights, or power"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "parities"
+    ]
+  }
+}

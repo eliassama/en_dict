@@ -1,0 +1,157 @@
+{
+  "word": "allude",
+  "ipa": {
+    "us": "əˈluːd",
+    "uk": "əˈluːd"
+  },
+  "sentences": [
+    {
+      "en": "Besides, It'struck him as a little absurd to allude to the matter.",
+      "cn": "况且, 他突然觉得提这事有点荒唐."
+    },
+    {
+      "en": "He allude to his brother's engagement to Mary.",
+      "cn": "他兄弟与玛丽 “ 订婚”的事他只字未提."
+    },
+    {
+      "en": "He did not even allude to his brother's engagement to Mary.",
+      "cn": "他兄弟与玛丽订婚的事他只字未提."
+    },
+    {
+      "en": "I allude only here a small among them.",
+      "cn": "我在此只提及其中的一小幅."
+    },
+    {
+      "en": "I didn't allude to any person or anything.",
+      "cn": "我并未影射如何人或任何事."
+    },
+    {
+      "en": "I didn't allude to anything or anybody.",
+      "cn": "我并未影射任何人或任何事."
+    },
+    {
+      "en": "I didn't allude to anything.",
+      "cn": "我并没暗示任何东西."
+    },
+    {
+      "en": "I do not allude to you, my boy.",
+      "cn": "我不是指你, 我的孩子."
+    },
+    {
+      "en": "In your remarks you allude to certain sinister development.",
+      "cn": "你在讲话中暗示某种不祥的事要发生."
+    },
+    {
+      "en": "In your remarks you allude to certain sinister developments.",
+      "cn": "在你的谈话中暗示了一些不祥的势头."
+    },
+    {
+      "en": "They allude to a vision only half - glimpsed.",
+      "cn": "他们提出的设想只是惊鸿一瞥."
+    },
+    {
+      "en": "With friends, she sometimes alluded to a feeling that she herself was to blame for her son's predicament.",
+      "cn": "和朋友们一起时，她有时暗示她感到儿子的困境要怪她自己。"
+    },
+    {
+      "en": "You allude perhaps to the entail of this estate.",
+      "cn": "你大概是说产业的继承权问题."
+    },
+    {
+      "en": "You allude to something else.",
+      "cn": "你且谈另外一件吧."
+    },
+    {
+      "en": "You must not allude to it when you meet him.",
+      "cn": "你遇到他时,不要提及这件事."
+    },
+    {
+      "en": "You mustn't allude to his baby's death when you meet John.",
+      "cn": "你遇见约翰时,不可提到他小孩去世的事."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "allusive",
+          "tran_cn": " 暗指的；引用典故的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "allusion",
+          "tran_cn": " 暗示；提及"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "hint",
+            "imply",
+            "infer",
+            "intimate",
+            "refer",
+            "suggest"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "hint",
+            "imply",
+            "indirectly",
+            "infer",
+            "intimate",
+            "mention",
+            "refer",
+            "slightly",
+            "suggest"
+          ],
+          "tran_cn": "暗示"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "暗指，影射，间接提到",
+      "tran_en": "If you allude to something, you mention it in an indirect way"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 暗指， 影射， 间接提到",
+      "tran_en": "If you allude to something, you mention it in an indirect way"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "alludes"
+    ],
+    "past": [
+      "alluded"
+    ],
+    "done": [
+      "alluded"
+    ],
+    "ing": [
+      "alluding"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "word": "osculate",
+  "ipa": {
+    "us": "'ɒskjʊleɪt",
+    "uk": "'ɒskjəˌleɪt"
+  },
+  "sentences": [
+    {
+      "en": "And so we would osculate (kiss).",
+      "cn": "然后，我们接吻。"
+    },
+    {
+      "en": "And so we would osculate.",
+      "cn": "然后，我们接吻。"
+    },
+    {
+      "en": "These two surfaces osculate.",
+      "cn": "这两个表面相互接触."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "osculation",
+          "tran_cn": " 密切；接吻；接触"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "kiss",
+            "neck"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "come in contact with",
+            "to be in touch with"
+          ],
+          "tran_cn": "接吻；接触；与……有共同特性"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "接吻，接触，有共同点",
+      "tran_en": "to kiss "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "osculates"
+    ],
+    "past": [
+      "osculated"
+    ],
+    "done": [
+      "osculated"
+    ],
+    "ing": [
+      "osculating"
+    ]
+  }
+}

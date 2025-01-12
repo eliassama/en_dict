@@ -1,0 +1,196 @@
+{
+  "word": "automated",
+  "ipa": {
+    "us": "ˈɔːtəmeɪtɪd",
+    "uk": "ˈɔːtəmeɪtɪd"
+  },
+  "sentences": [
+    {
+      "en": "a highly automated factory",
+      "cn": "高度自动化的工厂"
+    },
+    {
+      "en": "All other services will have automated room delivery systems.",
+      "cn": "所有其他的服务都要使用房间自动化运送系统."
+    },
+    {
+      "en": "Data was obtained in a continuous automated manner which greatly facilitated residual stress determination.",
+      "cn": "数据是连续地自动获得的,这对确定残余应变极为方便."
+    },
+    {
+      "en": "Hyphenated and automated apparatus are also appearing on the market more frequently.",
+      "cn": "同时市场中各种联用仪器和自动化仪器也正层出不穷."
+    },
+    {
+      "en": "Section 13 . 3 covers the thermocompression bonding process itself and also tape automated bonding.",
+      "cn": "13.3节的内容既涉及热压连接工艺本身,也涉及了自动连接的传送带技术."
+    },
+    {
+      "en": "The automated people mover carries 20 to 100 passengers and is used in places such as airports.",
+      "cn": "自动短途客运系统载客20到100名，用于机场等地。"
+    },
+    {
+      "en": "The dryers can be automated.",
+      "cn": "干燥机可以自动化作业."
+    },
+    {
+      "en": "The entire manufacturing process has been automated.",
+      "cn": "整个生产过程已自动化。"
+    },
+    {
+      "en": "The equipment was made on highly automated production lines.",
+      "cn": "该设备是在高度自动化的生产线上制造的。"
+    },
+    {
+      "en": "The pathogen was almost instantly detected by automated systems.",
+      "cn": "病原体几乎立刻就被自动系统检测到了。"
+    },
+    {
+      "en": "The production of this bibliography is totally automated.",
+      "cn": "这个目录的编制过程全是自动化的."
+    },
+    {
+      "en": "The production process is now fully automated .",
+      "cn": "生产流程现在全部自动化了。"
+    },
+    {
+      "en": "This is particulary valuable if an automated GC procedure is used.",
+      "cn": "如采用自动气相色谱分析,则该方法尤为有用."
+    },
+    {
+      "en": "This part of the assembly process is now fully automated.",
+      "cn": "装配过程的这一部分现在是全自动的."
+    },
+    {
+      "en": "This restricted approach to the general problem of automated design has a number of pedagogical advantages.",
+      "cn": "在自动设计一般性的问题上采用这一有限制性的方法在教学上有许多优点."
+    },
+    {
+      "en": "To some extent the smaller the assembly, the more adaptable is its manufacture to automated techniques.",
+      "cn": "在一定程度上,装配件越小, 其制造过程对于自动化技术的适应性也就越强."
+    },
+    {
+      "en": "We'll plant automated sensors here, here, and here, and rig them through a central relay here.",
+      "cn": "我们把自动化的传感器安置在这儿, 这儿和这儿, 在这儿安装上中心继电器."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "automatic",
+          "tran_cn": " 自动的；无意识的；必然的"
+        },
+        {
+          "word": "automatically",
+          "tran_cn": " 不经思索的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "automatically",
+          "tran_cn": " 自动地；机械地；无意识地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "automat",
+          "tran_cn": " 自动售货机；[自] 自动机；自动贩卖式餐馆"
+        },
+        {
+          "word": "automatic",
+          "tran_cn": " 自动机械；自动手枪"
+        },
+        {
+          "word": "automation",
+          "tran_cn": " 自动化；自动操作"
+        },
+        {
+          "word": "automatism",
+          "tran_cn": " 自动作用；[医] 自动症；自动性"
+        },
+        {
+          "word": "automaton",
+          "tran_cn": " 自动机；机器人；自动机器"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "automate",
+          "tran_cn": " 自动化，自动操作"
+        },
+        {
+          "word": "automatize",
+          "tran_cn": " 自动化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "automate",
+          "tran_cn": " 使自动化，使自动操作"
+        },
+        {
+          "word": "automatise",
+          "tran_cn": " （英）使自动化（等于automatize）"
+        },
+        {
+          "word": "automatize",
+          "tran_cn": " 使自动化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "mechanized",
+            "push-button"
+          ],
+          "tran_cn": "[自]自动化的；机械化的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "automated machine",
+      "tran_cn": "自动化机械；自动化的机器"
+    },
+    {
+      "phrase": "automated teller machine",
+      "tran_cn": "自动柜员机"
+    },
+    {
+      "phrase": "automated welding",
+      "tran_cn": "自动焊接"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "自动化的",
+      "tran_en": "using computers and machines to do a job, rather than people"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "自动化（automate的过去分词）"
+    }
+  ],
+  "exchange": {}
+}

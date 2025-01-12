@@ -1,0 +1,80 @@
+{
+  "word": "gutless",
+  "ipa": {
+    "us": "ˈgʌtləs",
+    "uk": "ˈɡʌtlɪs"
+  },
+  "sentences": [
+    {
+      "en": "He was a yellow gutless worm.",
+      "cn": "他是个胆小的、没勇气的可怜虫."
+    },
+    {
+      "en": "I should have had the support of my team, but they were really gutless.",
+      "cn": "我本应该得到我的团队的支持，但他们实在太没胆量了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "gut",
+          "tran_cn": " 简单的；本质的，根本的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gut",
+          "tran_cn": " 内脏；肠子；剧情；胆量；海峡"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "gut",
+          "tran_cn": " 取出内脏；摧毁内部装置"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "cut-and-dry"
+          ],
+          "tran_cn": "无胆量的；没勇气的；没有生气的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cowardly",
+            "craven"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<非正>怯懦的，没胆量的",
+      "tran_en": "lacking courage or determination"
+    }
+  ],
+  "exchange": {}
+}

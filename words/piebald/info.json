@@ -1,0 +1,67 @@
+{
+  "word": "piebald",
+  "ipa": {
+    "us": "ˈpaɪbɔ:ld",
+    "uk": "ˈpaɪˌbɔld"
+  },
+  "sentences": [
+    {
+      "en": "a piebald horse",
+      "cn": "一匹有黑白花斑的马"
+    },
+    {
+      "en": "It is a piebald pony.",
+      "cn": "这是一匹黑白斑小型马。"
+    },
+    {
+      "en": "Note A perfect piebald is preferable a muddy brindle or defective solid color.",
+      "cn": "注意:正确的花斑色比污浊的虎斑色或有缺陷的纯色更可取."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "shot",
+            "varied"
+          ],
+          "tran_cn": "花斑的；杂色的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "skewbald"
+          ],
+          "tran_cn": "花斑马；花马"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "mottled"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "花斑的",
+      "tran_en": "a piebald animal has black and white areas on its body"
+    }
+  ],
+  "exchange": {}
+}

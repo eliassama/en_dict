@@ -1,0 +1,162 @@
+{
+  "word": "announcer",
+  "ipa": {
+    "us": "əˈnaʊnsə(r)",
+    "uk": "əˈnaʊnsər"
+  },
+  "sentences": [
+    {
+      "en": "Announcer: Scotland and Northern Ireland will probably have sunshine all day.",
+      "cn": "广播员: 明天英格兰和北爱尔兰或许一整天天气晴朗."
+    },
+    {
+      "en": "He is recognized to be a qualified announcer.",
+      "cn": "他被认为是合格的播音员."
+    },
+    {
+      "en": "The announcer , with rich dramatic doom in his voice, spoke words that arrested her pen.",
+      "cn": "广播员的洪亮清晰和富有感情的声音, 使她不由得停下笔."
+    },
+    {
+      "en": "The announcer apologised for the delay.",
+      "cn": "播报员就晚点表示歉意。"
+    },
+    {
+      "en": "The announcer asked listeners to guess where he was speaking from.",
+      "cn": "节目主持人要听众们猜他是在什么地方说话的."
+    },
+    {
+      "en": "The announcer gabbled some incomprehensible message over the public address system.",
+      "cn": "播音员透过有线广播叽哩咕噜地说了一些难懂的讯息."
+    },
+    {
+      "en": "The announcer gave out that the 3:30 train to Manchester would start from Platform 4.",
+      "cn": "播音员通知:三点三十分开往曼彻斯特的火车将从4号站台发车."
+    },
+    {
+      "en": "The announcer interrupted the radio music to give a special piece of news.",
+      "cn": "播音员停止播放音乐,开始播发一条重要新闻."
+    },
+    {
+      "en": "The announcer is signing off for tonight.",
+      "cn": "广播员宣告今晚广播结束."
+    },
+    {
+      "en": "The announcer knocked on the microphone to inform the performers.",
+      "cn": "那报幕员敲击麦克风来通知表演者们."
+    },
+    {
+      "en": "The announcer read out this budget of disaster with that BBC calm.",
+      "cn": "广播员宣布这一系列倒霉消息时,用的是英国广播公司的镇静口吻."
+    },
+    {
+      "en": "The announcer's voice brought Holden out of his reverie.",
+      "cn": "播音员的声音将霍尔登从幻想中惊醒。"
+    },
+    {
+      "en": "The radio announcer said \" It's time to sign off for the day ; listen again tomorrow. \"",
+      "cn": "电台播音员说: “ 本台 全天 播音完毕,请明天再收听. ”"
+    },
+    {
+      "en": "The radio announcer said it was nine o'clock.",
+      "cn": "电台播音员报时9点整。"
+    },
+    {
+      "en": "This is your favorite announcer signing off for tonight.",
+      "cn": "这是你最喜欢的播音员在结束今晚的广播."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "announcement",
+          "tran_cn": " 公告；宣告；发表；通告"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "announce",
+          "tran_cn": " 宣布参加竞选；当播音员"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "announce",
+          "tran_cn": " 宣布；述说；预示；播报"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "forerunner",
+            "harbinger",
+            "herald",
+            "messenger",
+            "proclaimer",
+            "trumpeter"
+          ],
+          "tran_cn": "传信人"
+        },
+        {
+          "words": [
+            "anchorman",
+            "broadcaster",
+            "deejay",
+            "disk",
+            "emcee",
+            "jockey",
+            "moderator",
+            "newscaster",
+            "reporter"
+          ],
+          "tran_cn": "报告者,主持人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ambassador",
+            "communicant",
+            "monitor",
+            "spokesman"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "radio announcer",
+      "tran_cn": "电台播音员"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "宣告者，播音员",
+      "tran_en": "someone who gives information to people using a  loudspeaker  or  microphone  , especially at an airport or railway station"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "announcers"
+    ]
+  }
+}

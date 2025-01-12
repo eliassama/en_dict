@@ -1,0 +1,164 @@
+{
+  "word": "disable",
+  "ipa": {
+    "us": "dɪsˈeɪbl",
+    "uk": "dɪsˈeɪbl"
+  },
+  "sentences": [
+    {
+      "en": "A power failure during the firmware writing operation will disable the camera.",
+      "cn": "固件写入过程中切勿关闭电源."
+    },
+    {
+      "en": "A signal used enable or disable a circuit function.",
+      "cn": "或禁止电路功能的信号."
+    },
+    {
+      "en": "Auto disable screen saver ( setting condition of disable screen saver )",
+      "cn": "自动禁止屏幕保护- ( 设置禁用屏幕保护的条件 )"
+    },
+    {
+      "en": "Carter was permanently disabled in the war.",
+      "cn": "卡特在那场战争中成了终生残废。"
+    },
+    {
+      "en": "Clear the check boxes for settings you want to disable.",
+      "cn": "清除要禁用的设置的复选框."
+    },
+    {
+      "en": "Disable BIOS memory options such as caching or shadowing.",
+      "cn": "禁用BIOS中内存设置,诸如缓存和映射."
+    },
+    {
+      "en": "Disable buffering ( reduce delays in stream delivery, recommended for synchronized events )",
+      "cn": "禁用缓冲 ( 减少流传递中的延迟,对于同步事件, 建议使用此功能 )"
+    },
+    {
+      "en": "Disable Image Toolbar for all future browsing sessions or this session only?",
+      "cn": "为所有将来的浏览会话禁用图片工具栏还是只针对此会话?"
+    },
+    {
+      "en": "Disable menu items when they are not applicable.",
+      "cn": "禁用不适用的菜单项."
+    },
+    {
+      "en": "Fitting prostheses and or thoses for the disable, including intelligent prostheses.",
+      "cn": "为各类上、肢截肢及其它肌残病人安装各类假肢及矫形器, 包括目前最先进的智能假肢."
+    },
+    {
+      "en": "If problems comtinue, disable or any newly installed hardware or software.",
+      "cn": "如果问题还存在, 禁用或删除新安装的硬件或软件."
+    },
+    {
+      "en": "If you disable the switch, the trace messages will not appear.",
+      "cn": "如果禁用此开关, 则不会显示跟踪消息."
+    },
+    {
+      "en": "It's an injury that could disable somebody for life.",
+      "cn": "这种伤害可能会造成终身残疾."
+    },
+    {
+      "en": "Job applications from disable workers poured in at a staggering rate.",
+      "cn": "残废工人求职申请书大批涌来、数量惊人."
+    },
+    {
+      "en": "She did all this tendon damage and it really disabled her.",
+      "cn": "她肌腱受了这么多损伤，这真地使她致残了。"
+    },
+    {
+      "en": "To disable the auto - detection of encoding, clear this option.",
+      "cn": "若要禁用自动编码检测, 请清除此选项."
+    },
+    {
+      "en": "What command will disable CDP on a router interface?",
+      "cn": "那个指令可以在路由器接口上关闭CDP协议?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disabled",
+          "tran_cn": " 残废的，有缺陷的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disablement",
+          "tran_cn": " 残废；无资格；损坏"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "disabled",
+          "tran_cn": " 使…失去能力（disable的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cripple",
+            "dismember",
+            "maim",
+            "weaken",
+            "wing"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cripple",
+            "debilitate",
+            "enfeeble",
+            "weaken"
+          ],
+          "tran_cn": "使无能;使残废"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使伤残，使无效，使不能运转",
+      "tran_en": "to make someone unable to use a part of their body properly"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 丧失能力， 伤残",
+      "tran_en": "If an injury or illness disables someone, it affects them so badly that it restricts the way that they can live their life"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disables"
+    ],
+    "past": [
+      "disabled"
+    ],
+    "done": [
+      "disabled"
+    ],
+    "ing": [
+      "disabling"
+    ]
+  }
+}

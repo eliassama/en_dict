@@ -1,0 +1,85 @@
+{
+  "word": "scat",
+  "ipa": {
+    "us": "skæt",
+    "uk": "skæt"
+  },
+  "sentences": [
+    {
+      "en": "But the president of the jury has sounded the scat the competition ended.",
+      "cn": "但没过多久,主裁判就吹响了比赛结束的哨声."
+    },
+    {
+      "en": "I don't want you here, so scat!",
+      "cn": "我这里用不着你, 走开!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "scatter",
+          "tran_cn": " 分散；散播，撒播"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "scatter",
+          "tran_cn": " 分散，散开；散射"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "scatter",
+          "tran_cn": " 使散射；使散开，使分散；使散播，使撒播"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "int",
+      "words": [
+        {
+          "words": [
+            "sh",
+            "hist"
+          ],
+          "tran_cn": "嘘（赶猫等的呼声）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "go away",
+            "walk away"
+          ],
+          "tran_cn": "用拟声唱法唱；走开"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "爵士音乐中无意义的音节的演唱，敲打声"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "迅速走开",
+      "tran_en": "to go away in haste "
+    }
+  ],
+  "exchange": {}
+}

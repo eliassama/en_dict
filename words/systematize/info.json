@@ -1,0 +1,163 @@
+{
+  "word": "systematize",
+  "ipa": {
+    "us": "ˈsɪstəmətaɪz",
+    "uk": "ˈsɪstəməˌtaɪz"
+  },
+  "sentences": [
+    {
+      "en": "The Global Vault is part of a broader effort to gather and systematize information about plants and their genes, which climate change experts say may indeed prove more valuable than gold.",
+      "cn": "目前，世界上很多人士致力于收集种子及其种子基因的信息并使之系统化，全球种子地库是这种全球性努力的的一个缩影。 气候变化专家称，这些信息要比金子还要贵重。"
+    },
+    {
+      "en": "This basic plugin is undoubtedly one of the important plugins to systematize the archives.",
+      "cn": "这个插件无疑是系统化归档的重要插件之一。"
+    },
+    {
+      "en": "We have to systematize our filing so it is easier to find correspondence.",
+      "cn": "我们必须使我们的文件系统化,这样我就容易找到往来信件."
+    },
+    {
+      "en": "You need to systematize your approach to problem solving.",
+      "cn": "你需要采用有条理的方法解决问题。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "systematic",
+          "tran_cn": " 系统的；体系的；有系统的；[图情] 分类的"
+        },
+        {
+          "word": "systematized",
+          "tran_cn": " 系统化的"
+        },
+        {
+          "word": "systemic",
+          "tran_cn": " 系统的；全身的；体系的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "systematically",
+          "tran_cn": " 有系统地；有组织地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "system",
+          "tran_cn": " 制度，体制；系统；方法"
+        },
+        {
+          "word": "systematics",
+          "tran_cn": " 系统学；分类学"
+        },
+        {
+          "word": "systematism",
+          "tran_cn": " 组织化；系统化；制度化；组织主义"
+        },
+        {
+          "word": "systematist",
+          "tran_cn": " 组织主义者"
+        },
+        {
+          "word": "systematization",
+          "tran_cn": " 系统化；组织化；分类"
+        },
+        {
+          "word": "systematizer",
+          "tran_cn": " 分类者；组织者；使体系化的人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "systematized",
+          "tran_cn": " 系统化，体系化（systematize的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "systematise",
+          "tran_cn": " 使系统化；使有秩序（等于systematize）"
+        },
+        {
+          "word": "systemize",
+          "tran_cn": " 使……系统化；把……分类；组织化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arrange",
+            "coordinate",
+            "dispose",
+            "harmonize",
+            "mobilize",
+            "organize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "sort"
+          ],
+          "tran_cn": "使系统化；使组织化；将…分类"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "系统化",
+      "tran_en": "to put facts, numbers, ideas etc into a particular order"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使系统化，使成体系",
+      "tran_en": "to put facts, numbers, ideas etc into a particular order"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "systematizes"
+    ],
+    "past": [
+      "systematized"
+    ],
+    "done": [
+      "systematized"
+    ],
+    "ing": [
+      "systematizing"
+    ],
+    "noun": [
+      "systematization"
+    ]
+  }
+}

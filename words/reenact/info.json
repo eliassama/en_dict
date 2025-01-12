@@ -1,0 +1,62 @@
+{
+  "word": "reenact",
+  "ipa": {
+    "us": "ri:'nækt",
+    "uk": "ˌriɛnˈækt, -əˈnækt"
+  },
+  "sentences": [
+    {
+      "en": "Reenact this scene from memory with the same or random participants.",
+      "cn": "请原班人马或其他人根据记忆重演这个段子."
+    },
+    {
+      "en": "The key lies in our reactions — how we reenact , or restructure internally, what others say and do.",
+      "cn": "重点在于我们的反应---我们如何再制定及如何在在内心重建别人所说的和所做的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reenactment",
+          "tran_cn": " 再制定；再扮演"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "reorganize"
+          ],
+          "tran_cn": "重新制定；再扮演；再制定"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "再制定，再扮演"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "reenacts"
+    ],
+    "past": [
+      "reenacted"
+    ],
+    "done": [
+      "reenacted"
+    ],
+    "ing": [
+      "reenacting"
+    ]
+  }
+}

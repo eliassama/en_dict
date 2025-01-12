@@ -1,0 +1,164 @@
+{
+  "word": "pawn",
+  "ipa": {
+    "us": "pɔ:n",
+    "uk": "pɔn"
+  },
+  "sentences": [
+    {
+      "en": "\" Those must be pawn shops on fire,'said Mrs. Chang.",
+      "cn": "“ 一定是当铺起火."
+    },
+    {
+      "en": "A good pawn never shamed his master.",
+      "cn": "典当好,面子保."
+    },
+    {
+      "en": "all our money was gone and everything was in pawn.",
+      "cn": "我们所有的钱都没了，每样东西都当掉了。"
+    },
+    {
+      "en": "Did you leave your eyes in pawn in some wine - shop?",
+      "cn": "你把你那双眼睛抵押在小酒店里啦,还是怎么啦?"
+    },
+    {
+      "en": "He demanded her wristwatch as a pawn for the loan.",
+      "cn": "他要她把手表留下来作为贷款的抵押."
+    },
+    {
+      "en": "He had no way to redeem his furniture out of pawn.",
+      "cn": "他无法赎回典当的家具."
+    },
+    {
+      "en": "He had redeemed his better coat from the pawn - shop before he left.",
+      "cn": "他在临走以前从当铺把他比较整齐的一件上装赎了出来."
+    },
+    {
+      "en": "He is contemplating pawning his watch.",
+      "cn": "他在考虑把手表当了。"
+    },
+    {
+      "en": "He redeemed his one and only suit from pawn to attend a wedding.",
+      "cn": "他从当铺赎回他唯一的一件上衣去参加婚礼."
+    },
+    {
+      "en": "He redeemed his watch from pawn.",
+      "cn": "他赎回了典当的表."
+    },
+    {
+      "en": "He tried by every means to redeem the pawn.",
+      "cn": "他千方百计要赎回典当物."
+    },
+    {
+      "en": "His television set is in pawn to pay his rent.",
+      "cn": "他当了电视机以支付房租."
+    },
+    {
+      "en": "I was merely a pawn in his cunning stratagem.",
+      "cn": "我只不过是他那狡猾计谋中的一件工具."
+    },
+    {
+      "en": "It looks as though he is being used as a political pawn by the President.",
+      "cn": "看起来他似乎被总统当作了政治卒子。"
+    },
+    {
+      "en": "My watch is at pawn.",
+      "cn": "我的手表已当掉."
+    },
+    {
+      "en": "newly industrialized economies are racing to &B{pawn off} old processes &B{on} poorer countries.",
+      "cn": "新兴工业化国家竞相把陈旧工艺流程处理给贫穷国家。"
+    },
+    {
+      "en": "She has redeemed her jewellery from pawn.",
+      "cn": "她从当铺赎回了珠宝."
+    },
+    {
+      "en": "The Slovaks , who had been used as a pawn by Germany, obtained a precarious autonomy.",
+      "cn": "曾被德国用来做棋盘上的卒子的 斯洛伐克 人, 获得了朝不保夕的自治."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pawnbroker",
+          "tran_cn": " 当铺老板；典当商"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "hostage"
+          ],
+          "tran_cn": "[贸易]典当；[经]抵押物；兵，卒；人质"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deposit",
+            "pledge"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in pawn",
+      "tran_cn": "当掉，押出"
+    },
+    {
+      "phrase": "pawn shop",
+      "tran_cn": "当铺"
+    },
+    {
+      "phrase": "pawn someone/thing off",
+      "tran_cn": "把不要的人（或物）处理掉"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "典当，抵押物，（国际象棋中的）兵，卒，<比喻>爪牙，人质",
+      "tran_en": "one of the eight smallest and least valuable pieces which each player has in the game of  chess "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "典当，抵押",
+      "tran_en": "to leave something valuable with a pawnbroker in order to borrow money from them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "典当，抵押，以（某事物）担保，拿（生命，名誉等）作保证"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "pawns"
+    ],
+    "third": [
+      "pawns"
+    ],
+    "past": [
+      "pawned"
+    ],
+    "done": [
+      "pawned"
+    ],
+    "ing": [
+      "pawning"
+    ]
+  }
+}

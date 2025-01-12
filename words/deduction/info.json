@@ -1,0 +1,167 @@
+{
+  "word": "deduction",
+  "ipa": {
+    "us": "dɪˈdʌkʃn",
+    "uk": "dɪˈdʌkʃn"
+  },
+  "sentences": [
+    {
+      "en": "After deductions for tax etc, your salary is about £700 a month.",
+      "cn": "扣除税款等之后，你的月薪大约有700英镑。"
+    },
+    {
+      "en": "After the deduction of tax at 20 per cent, the interest rate will be 6.2 per cent.",
+      "cn": "扣除了20%的税后，利率将为6.2%。"
+    },
+    {
+      "en": "Both induction and deduction are essential characteristics of rational thinking.",
+      "cn": "归纳与推论都是理性思维的重要特征."
+    },
+    {
+      "en": "Children will soon make deductions about the meaning of a word.",
+      "cn": "儿童不久就能推断词义了。"
+    },
+    {
+      "en": "Equation ( 4 ) permits a simple deduction of the relation between the phase velocity and the period.",
+      "cn": "用方程 ( 4 ) 可简单推导相速度和周期的关系."
+    },
+    {
+      "en": "He arrived at the solution by a simple process of deduction.",
+      "cn": "他通过一番简单的推理得出了解决问题的方法。"
+    },
+    {
+      "en": "He pays to the seller the full amount of the sight draft, without any deduction.",
+      "cn": "他向卖方支付即期汇票的全部金额, 不打折扣."
+    },
+    {
+      "en": "He then tested this deduction by means of the experiment we all know.",
+      "cn": "然后,他用我们所熟知的那个实验来检验这一推理."
+    },
+    {
+      "en": "Her deduction that he was now dead was correct.",
+      "cn": "她关于他已去世的推论是正确的."
+    },
+    {
+      "en": "His deduction led him to the correct conclusion.",
+      "cn": "他的推断使他得出正确的结论."
+    },
+    {
+      "en": "No deduction in pay is made for absence due to illness.",
+      "cn": "因病请假不扣工资."
+    },
+    {
+      "en": "That seems a reasonable deduction.",
+      "cn": "那似乎是合理的结论."
+    },
+    {
+      "en": "That's a deduction from Jeremy Bentham's theory of interest.",
+      "cn": "这是根据虞莱弥·朋撒姆关于高利贷的理论推演出来的."
+    },
+    {
+      "en": "The allowable deduction is apportioned between the estate and the beneficiaries.",
+      "cn": "减免的税额在地产和受益人之间分摊。"
+    },
+    {
+      "en": "The deduction is allowed for a single overseas trip over 30 days.",
+      "cn": "一次临时离境超过30天可以扣除天数."
+    },
+    {
+      "en": "The hypotheses of fibre flaws are based on deduction from mechanical experiments.",
+      "cn": "纤维缺陷的理论是根据机械测试推导出来的."
+    },
+    {
+      "en": "What is the deduction standard for foreigners'salary income?",
+      "cn": "外籍人员的工资薪金收入扣除标准是 多少 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deducible",
+          "tran_cn": " 可推论的"
+        },
+        {
+          "word": "deductible",
+          "tran_cn": " 可扣除的；可减免的"
+        },
+        {
+          "word": "deductive",
+          "tran_cn": " 演绎的；推论的；推断的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "deduce",
+          "tran_cn": " 推论，推断；演绎出"
+        },
+        {
+          "word": "deduct",
+          "tran_cn": " 扣除，减去；演绎"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "conclusion",
+            "consequence"
+          ],
+          "tran_cn": "[会计]扣除，减除；[数]推论；减除额"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "conclusion",
+            "consequence",
+            "judgment",
+            "logic",
+            "reduction",
+            "speculation",
+            "suspicion",
+            "thinking"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deduction method",
+      "tran_cn": "演绎法；扣除法"
+    },
+    {
+      "phrase": "logical deduction",
+      "tran_cn": "逻辑推理，逻辑演绎"
+    },
+    {
+      "phrase": "tax deduction",
+      "tran_cn": "减免税款"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "推论，演绎，扣除（额）",
+      "tran_en": "the process of using the knowledge or information you have in order to understand something or form an opinion, or the opinion that you form"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "deductions"
+    ]
+  }
+}

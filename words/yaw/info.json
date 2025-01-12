@@ -1,0 +1,145 @@
+{
+  "word": "yaw",
+  "ipa": {
+    "us": "jɔ:",
+    "uk": "jɔ"
+  },
+  "sentences": [
+    {
+      "en": "A method of controlling vehicle braking stability on bisectional road by yaw moment was proposed.",
+      "cn": "提出了利用横摆力矩控制汽车在对开路面制动稳定性的方法."
+    },
+    {
+      "en": "As the plane climbed to 370 feet, it started yawing.",
+      "cn": "飞机攀升到370英尺高时开始偏航。"
+    },
+    {
+      "en": "Disturbances about the yaw axis of an airplane will result in disturbances about the roll axis.",
+      "cn": "对飞机的偏航轴紊乱会导致对辊轴的骚乱."
+    },
+    {
+      "en": "I push on the rudder pedal and begin a yaw rate turn to the left.",
+      "cn": "我蹬方向舵踏板使飞机沿Y轴向左进入滚转."
+    },
+    {
+      "en": "I'll help you for yaw sister's sake.",
+      "cn": "看在你姐姐面上,我会帮你的."
+    },
+    {
+      "en": "In the controller , the assisted motor angle is controlled of yaw rate and the sideslip angle.",
+      "cn": "并以转向盘转角、横摆角速度和侧偏角为优化目标,设计了线性二次型调节器控制."
+    },
+    {
+      "en": "In the controller, the assisted motor angle is controlled by the feedback of yaw sideslip angle.",
+      "cn": "研究了横摆角速度反馈控制律对线控转向汽车操纵稳定性的影响."
+    },
+    {
+      "en": "Independent pitch and yaw of the two birds produce noise.",
+      "cn": "两只吊舱的独立俯仰和偏航均会产生噪声."
+    },
+    {
+      "en": "Pitch - yaw coupling can be neglected only for nearly axisymmetric vehicles.",
+      "cn": "只有对接近于轴对称的飞行器,俯仰与偏航的耦合才能略去."
+    },
+    {
+      "en": "Table 1 gives the fatigue yaw moment exerted on the 4 yaw pinions.",
+      "cn": "表1给出了施加在四个偏航小齿轮上的疲劳偏航力矩."
+    },
+    {
+      "en": "The integrated guidance autopilot model of the yaw plane is formulated firstly.",
+      "cn": "提出了一种反舰导弹针对水面机动目标的航向平面控制导引一体化设计方案."
+    },
+    {
+      "en": "The measuring principle yaw and pitch was analyzed.",
+      "cn": "分析了俯仰角、偏摆角的误差分离和实时测量原理."
+    },
+    {
+      "en": "The simulation algorithms of wave high, yaw force, rolling moment and sway moment were put forward.",
+      "cn": "给出了随机海浪波高 、 横荡力 、 横摇力矩、艏摇力矩的仿真算法."
+    },
+    {
+      "en": "This AUV for environmental protection has three degrees of freedom , called surge, heave and yaw.",
+      "cn": "这里,自治型水下环保机器人具有三个自由度, 分别称为推进 、 升沉和转首."
+    },
+    {
+      "en": "This is caused by the dihedral effect of the wings ( roll due to yaw ).",
+      "cn": "这是由二面角的翅膀效果 ( 滚动由于偏航 )."
+    },
+    {
+      "en": "When the vertical climb stops , the helicopter is rotated 180 degrees about the yaw axis.",
+      "cn": "先保持水平直线飞行, 当直升机通过操控者后,开始平滑地拉高机头(升舵)使机头朝上垂直爬升."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "leeway",
+            "sheer"
+          ],
+          "tran_cn": "（火箭、飞机、宇宙飞船等）[航]偏航"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deflect"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "sheer"
+          ],
+          "tran_cn": "[航]偏航"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "yaw angle",
+      "tran_cn": "[航天]偏航角"
+    },
+    {
+      "phrase": "yaw rate",
+      "tran_cn": "角速度；偏航率"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "偏航",
+      "tran_en": "if a ship, aircraft etc yaws, it turns away from the direction it should be travelling in"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "<术>（船）偏航，偏离航线，（飞机）偏航"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "yaws"
+    ],
+    "past": [
+      "yawed"
+    ],
+    "done": [
+      "yawed"
+    ],
+    "ing": [
+      "yawing"
+    ]
+  }
+}

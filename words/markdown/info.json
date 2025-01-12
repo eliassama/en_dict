@@ -1,0 +1,55 @@
+{
+  "word": "markdown",
+  "ipa": {
+    "us": "ˈmɑ:kdaʊn",
+    "uk": "ˈmɑrkdaʊn"
+  },
+  "sentences": [
+    {
+      "en": "Customers know that our sales offer genuine markdowns across the shop.",
+      "cn": "顾客们知道我们的大甩卖是货真价实的全场降价。"
+    },
+    {
+      "en": "On the calendar below, markdown 2 - 3 important things that you need to do this month.",
+      "cn": "请在旁边的日历记下 2-3 件你在本月要做的重要事情."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "rabato"
+          ],
+          "tran_cn": "标低价，[物价]减价"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "sale"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "减价",
+      "tran_en": "a reduction in the price of something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "markdowns"
+    ]
+  }
+}

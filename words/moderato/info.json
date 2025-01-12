@@ -1,0 +1,64 @@
+{
+  "word": "moderato",
+  "ipa": {
+    "us": "ˌmɒdəˈrɑ:təʊ",
+    "uk": "ˌmɑdəˈrɑtoʊ"
+  },
+  "sentences": [
+    {
+      "en": "Cello Concerto in B minor , Op. 104, B. 191 : III. Finale : Allegro moderato Andante - Allegro vivo.",
+      "cn": "b小调大提琴协奏曲, 作品104, B. 191: 第三乐章、终曲: 适中的快板——柔板——活跃的快板."
+    },
+    {
+      "en": "Symphony No.5 in E minor, Op. 64 : Andante cantabile con alcuna licenza - Moderato con anima.",
+      "cn": "小调第五交响曲, 作品64——稍自由的如歌的小行板 —— 生气勃勃的中板."
+    },
+    {
+      "en": "Symphony No.5 in E minor, Op. 64 : II. Andante cantabile con alcuna licenza - Moderato con anima.",
+      "cn": "小调第五交响曲, 作品64:稍自由的如歌的行板 —— 生气勃勃的中板."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "moderate",
+          "tran_cn": " 稳健的，温和的；适度的，中等的；有节制的"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "moderate",
+          "tran_cn": " 变缓和，变弱"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "moderate",
+          "tran_cn": " 节制；减轻"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "中板的",
+      "tran_en": "at an average speed – used as an instruction on how fast to play a piece of music"
+    },
+    {
+      "pos": "adv& adj.",
+      "tran_cn": "中板地（的）"
+    }
+  ],
+  "exchange": {}
+}

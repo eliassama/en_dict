@@ -1,0 +1,214 @@
+{
+  "word": "permission",
+  "ipa": {
+    "us": "pəˈmɪʃn",
+    "uk": "pərˈmɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Grateful acknowledgment is made for permission to reprint.",
+      "cn": "为获准重印致以深切感谢。"
+    },
+    {
+      "en": "He asked permission to leave the room.",
+      "cn": "他请求离开房间的许可。"
+    },
+    {
+      "en": "He got permission from his commanding officer to join me.",
+      "cn": "他得到指挥官的许可来与我会合。"
+    },
+    {
+      "en": "Permission has not yet been granted for the airline to overfly Tanzania.",
+      "cn": "这家航空公司还未获得飞越坦桑尼亚领空的许可。"
+    },
+    {
+      "en": "Planning permission is handed out sparingly.",
+      "cn": "建筑许可证的发放是很谨慎的。"
+    },
+    {
+      "en": "That car is my property; you mustn't use it without my permission.",
+      "cn": "这辆车是我的财产, 你必须得到我的允许才能使用."
+    },
+    {
+      "en": "The article was reproduced by the special permission of the President.",
+      "cn": "由于总统的特殊允许,这篇文章被复印了一份."
+    },
+    {
+      "en": "The jet entered Chinese airspace without permission.",
+      "cn": "那架喷气式飞机未经允许闯入中国领空。"
+    },
+    {
+      "en": "The plane circled, awaiting permission to land.",
+      "cn": "飞机在天上盘旋，等候着陆许可。"
+    },
+    {
+      "en": "the revocation of planning permission",
+      "cn": "建筑许可的撤销"
+    },
+    {
+      "en": "They cannot leave the country without permission.",
+      "cn": "没有许可他们不得离开这个国家。"
+    },
+    {
+      "en": "They had asked Hong Kong for permission to put into port there.",
+      "cn": "他们请求香港允许他们在那里入港停留。"
+    },
+    {
+      "en": "They have permission to build 200 new houses.",
+      "cn": "他们得到建200座新房的许可。"
+    },
+    {
+      "en": "They used copyrighted music without permission.",
+      "cn": "他们未经允许使用了受版权保护的音乐。"
+    },
+    {
+      "en": "We are grateful to you for permission to reproduce this article.",
+      "cn": "非常感谢您允许我们复印这篇文章。"
+    },
+    {
+      "en": "You must ask permission for all major expenditure.",
+      "cn": "一切重大开支均须报请批准。"
+    },
+    {
+      "en": "You were wrong to take the car without permission.",
+      "cn": "你未经许可就把车开走是不应该的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "permissible",
+          "tran_cn": " 可允许的；获得准许的"
+        },
+        {
+          "word": "permissive",
+          "tran_cn": " 许可的；自由的；宽容的；（两性关系）放纵的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "permissibly",
+          "tran_cn": " 获准地；得到许可地"
+        },
+        {
+          "word": "permissively",
+          "tran_cn": " 许可地；自由地；娇宠地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "permissibility",
+          "tran_cn": " 允许；可容许性"
+        },
+        {
+          "word": "permissiveness",
+          "tran_cn": " 放任；许可"
+        },
+        {
+          "word": "permit",
+          "tran_cn": " 许可证，执照"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "permit",
+          "tran_cn": " 许可；允许"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "permit",
+          "tran_cn": " 许可；允许"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "approval",
+            "consent",
+            "leave",
+            "license",
+            "permit"
+          ],
+          "tran_cn": "允许,许可"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "concession",
+            "favor",
+            "passport",
+            "subscription",
+            "yes"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ask for permission",
+      "tran_cn": "征求许可；请求允许"
+    },
+    {
+      "phrase": "give permission",
+      "tran_cn": "准许"
+    },
+    {
+      "phrase": "grant permission",
+      "tran_cn": "准许"
+    },
+    {
+      "phrase": "planning permission",
+      "tran_cn": "（英）建筑许可证（建造或改建房屋前必须获得的）"
+    },
+    {
+      "phrase": "with one's permission",
+      "tran_cn": "如果…允许的话"
+    },
+    {
+      "phrase": "without permission",
+      "tran_cn": "未经许可"
+    },
+    {
+      "phrase": "written permission",
+      "tran_cn": "书面许可证；签单"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "准许，许可证",
+      "tran_en": "If someone who has authority over you gives you permission to do something, they say that they will allow you to do it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "permissions"
+    ]
+  }
+}

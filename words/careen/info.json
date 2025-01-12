@@ -1,0 +1,74 @@
+{
+  "word": "careen",
+  "ipa": {
+    "us": "kəˈri:n",
+    "uk": "kəˈrin"
+  },
+  "sentences": [
+    {
+      "en": "He stood to one side as they careened past him.",
+      "cn": "他们在他身边猛冲而过，他赶紧让到一边。"
+    },
+    {
+      "en": "Their ship was put into port to careen and refit.",
+      "cn": "他们的轮船被送入港口倾侧待修."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "pitch",
+            "slope",
+            "lean"
+          ],
+          "tran_cn": "倾侧，倾斜"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "slope",
+            "lean"
+          ],
+          "tran_cn": "使倾侧，使倾斜"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "倾斜, 倾, (为修理或清洁而)使倾侧"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "倾斜，倚靠，<美>（车辆）歪歪斜斜地行驶，猛冲"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "将船倾侧，将船倾倒（以清洗、捻缝或修理）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "careens"
+    ],
+    "past": [
+      "careened"
+    ],
+    "done": [
+      "careened"
+    ],
+    "ing": [
+      "careening"
+    ]
+  }
+}

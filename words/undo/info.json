@@ -1,0 +1,204 @@
+{
+  "word": "undo",
+  "ipa": {
+    "us": "ʌnˈduː",
+    "uk": "ʌnˈduː"
+  },
+  "sentences": [
+    {
+      "en": "A better alternative might be to Undo within the current selection only.",
+      "cn": "有一种较好的替代方法,我们可以仅撤销当前的选择."
+    },
+    {
+      "en": "A heavy-handed approach from the police could undo that good impression.",
+      "cn": "警方采取高压手段可能会毁掉之前留下的好印象。"
+    },
+    {
+      "en": "A second click of the Format - Undo button would reverse the italicize operation.",
+      "cn": "再输入更多的文本,按下格式撤销键,结果仅仅是段落的缩进撤销了."
+    },
+    {
+      "en": "Can you undo this knot?",
+      "cn": "你能解开这个结 吗 ?"
+    },
+    {
+      "en": "Explanatory Undo is, generally , a much more pleasant feature than blind Undo.",
+      "cn": "解释性撤销与隐蔽撤销相比,使用起来更愉悦."
+    },
+    {
+      "en": "Forgiving interactions and Undo encourage users to try direct manipulation without trepidation.",
+      "cn": "温顺宽厚的交互方式已经允许撤销都会鼓励使用者毫无畏惧地尝试直接操作."
+    },
+    {
+      "en": "He undid most of the good work of the previous manager.",
+      "cn": "他把前任经理的大部分功绩都毁掉了。"
+    },
+    {
+      "en": "His pride will undo him some day.",
+      "cn": "他的傲慢总有一天会毁了他."
+    },
+    {
+      "en": "I managed secretly to undo a corner of the parcel.",
+      "cn": "我悄悄地设法解开了包裹的一角。"
+    },
+    {
+      "en": "I undid the package carefully.",
+      "cn": "我小心地打开包裹。"
+    },
+    {
+      "en": "If Michael won, he would undo everything I have fought for.",
+      "cn": "如果迈克尔赢了，那我一直以来努力争取的一切都将白费。"
+    },
+    {
+      "en": "If you want to repair the wheels you just undo the four nuts.",
+      "cn": "如果你想修理轮子,只需拧开这4个螺母就行了."
+    },
+    {
+      "en": "Many operations, however, masquerade as Undo - proof , but they are really easily reversible.",
+      "cn": "然而很多操作伪装成 防 撤销的, 但其实很容易恢复."
+    },
+    {
+      "en": "Once the damage is done, even modern surgery can't undo it entirely.",
+      "cn": "伤害一旦造成，即使是现代外科手术也无法将其完全消除。"
+    },
+    {
+      "en": "Please undo the package.",
+      "cn": "请解开这包裹."
+    },
+    {
+      "en": "She prepared to undo the band of cloth around his arm which had served as tourniquet.",
+      "cn": "她准备解开缠在他胳臂上止血的布带."
+    },
+    {
+      "en": "The screws can be undone by hand.",
+      "cn": "这些螺丝可以用手拧开。"
+    },
+    {
+      "en": "What are the implications of category - specific Undo in a nontext program?",
+      "cn": "分类撤销对于非文本程序来说意味着 什么 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "undone",
+          "tran_cn": " 破灭的；未完成的；解开的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "undoing",
+          "tran_cn": " 毁灭；取消；毁灭的原因"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "undone",
+          "tran_cn": " 解开；消除（undo的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "undoing",
+          "tran_cn": " 解开；取消（undo的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abolish",
+            "annul",
+            "apart",
+            "destroy",
+            "disassemble",
+            "dismantle",
+            "doff",
+            "loosen",
+            "spoil",
+            "take",
+            "unfasten",
+            "unlock",
+            "untie",
+            "wreck"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "repeal rescission",
+            "take back"
+          ],
+          "tran_cn": "撤消"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "apart",
+            "disassemble",
+            "dismantle",
+            "take",
+            "unfasten",
+            "untie"
+          ],
+          "tran_cn": "解开;放松"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "解开，打开；取消",
+      "tran_en": "to open something that is tied, fastened or wrapped"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "撤销"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "松开，解开，取消，废除，毁灭，扰乱",
+      "tran_en": "to open something that is tied, fastened or wrapped"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "undoes"
+    ],
+    "past": [
+      "undid"
+    ],
+    "done": [
+      "undone"
+    ],
+    "ing": [
+      "undoing"
+    ]
+  }
+}

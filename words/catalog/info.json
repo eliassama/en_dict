@@ -1,0 +1,209 @@
+{
+  "word": "catalog",
+  "ipa": {
+    "us": "ˈkætəlɒɡ",
+    "uk": "ˈkætəlɔːɡ"
+  },
+  "sentences": [
+    {
+      "en": "A catalog of waveshapes can be built up for a wide range of layering configurations.",
+      "cn": "可以给出各种各样的地层结构的标准波形."
+    },
+    {
+      "en": "a mail order catalog",
+      "cn": "邮购商品目录"
+    },
+    {
+      "en": "A picture of a cat on a log is a rebus for catalog.",
+      "cn": "谜画中有一只猫(cat) 站在一块木头(alog)上,谜底是catalog( 目录)."
+    },
+    {
+      "en": "Can you catalog all these books?",
+      "cn": "你能给所有这些书编目录吗？"
+    },
+    {
+      "en": "Can you send me a catalog?",
+      "cn": "你能给我寄一份商品目录吗？"
+    },
+    {
+      "en": "Has the Harvard catalog come yet ?",
+      "cn": "哈佛大学简介来了 吗 ?"
+    },
+    {
+      "en": "He catalog ( ue ) d all the insects in his collection.",
+      "cn": "他将收集的昆虫编成目录."
+    },
+    {
+      "en": "I leafed through the catalog and found nothing interesting.",
+      "cn": "我翻了翻目录,没看到什么有趣的东西."
+    },
+    {
+      "en": "I looked over the catalog you gave me this morning, and I'd like to discuss prices on your computer speakers.",
+      "cn": "今天早上我已经详细看过你给我的目录了。 我想讨论有关你们计算机扬声器的价格。"
+    },
+    {
+      "en": "Next, upload the files to the catalog.",
+      "cn": "接下来，将文件上传到目录。"
+    },
+    {
+      "en": "That stamp is the one answering the description in the catalog.",
+      "cn": "那张邮票的特征和目录中的一样."
+    },
+    {
+      "en": "The 32-page catalog is chock-full of things that add fun to festive occasions.",
+      "cn": "32页的目录尽是些渲染节日喜庆的东西。"
+    },
+    {
+      "en": "The catalog includes helpful information on the different bike models available.",
+      "cn": "目录中包括了在售的各种型号自行车的有用信息。"
+    },
+    {
+      "en": "The catalog is organized alphabetically by label name.",
+      "cn": "这个目录按标签名的字母顺序排列而成。"
+    },
+    {
+      "en": "The corner of a small catalog stung the corner of his mouth.",
+      "cn": "一本小册子的书角砸在他的嘴角上."
+    },
+    {
+      "en": "The manuscripts have never been systematically catalogued.",
+      "cn": "一直没有系统地为这些手稿编过目录。"
+    },
+    {
+      "en": "The store sent us a new catalog of its merchandise.",
+      "cn": "商店寄给我们一份新的商品目录."
+    },
+    {
+      "en": "These names are to be listed in the catalog.",
+      "cn": "这些名字将列入目录."
+    },
+    {
+      "en": "This stamp catalog ( ue ) s at five dollars.",
+      "cn": "这张邮票的 价目 是五美元."
+    },
+    {
+      "en": "Well. this is our latest catalog.",
+      "cn": "嗯，这是我们最新的产品目录。 。"
+    },
+    {
+      "en": "You can look for the book in the library catalog.",
+      "cn": "你可以在图书馆的图书目录上查找这本书。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "catalogued",
+          "tran_cn": " 编目的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cataloger",
+          "tran_cn": " 编制目录的人"
+        },
+        {
+          "word": "cataloguer",
+          "tran_cn": " [劳经] 编目员"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "catalogued",
+          "tran_cn": " 把…编目分类（catalogue的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "file"
+          ],
+          "tran_cn": "目录;目录册,目录簿"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arrange",
+            "log",
+            "table"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "classify",
+            "group",
+            "list",
+            "record",
+            "sort"
+          ],
+          "tran_cn": "编目;登记"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "card catalog",
+      "tran_cn": "图书馆里的卡片目录（等于card catalogue）"
+    },
+    {
+      "phrase": "product catalog",
+      "tran_cn": "产品目录"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "目录（簿），一连串（坏事）",
+      "tran_en": "(catalogue)a complete list of things that you can look at, buy, or use, for example in a library or at an art show"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "列入目录，列举，英式拼写 catalogue"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 将…编入目录， 将编目"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "catalogs"
+    ],
+    "third": [
+      "catalog"
+    ],
+    "past": [
+      "cataloged"
+    ],
+    "done": [
+      "cataloged"
+    ],
+    "ing": [
+      "cataloging"
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "word": "investigate",
+  "ipa": {
+    "us": "ɪnˈvestɪɡeɪt",
+    "uk": "ɪnˈvestɪɡeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Antitrust authorities must investigate the effect and purpose of an agreement to determine its legality.",
+      "cn": "反托拉斯当局需要通过调查该协定的影响和目的来确认其合法性."
+    },
+    {
+      "en": "He becomes still more unmistakable when we investigate further.",
+      "cn": "要是我们作进一步的研究,那就看得更加清楚."
+    },
+    {
+      "en": "He felt impelled to investigate further.",
+      "cn": "他觉得有必要作进一步调查。"
+    },
+    {
+      "en": "He was asked to investigate the causes of a railway accident.",
+      "cn": "要他去调查火车肇事的起因."
+    },
+    {
+      "en": "He would catch her first, then he would return and investigate.",
+      "cn": "他得先把它捉住, 然后回来察看."
+    },
+    {
+      "en": "I heard a noise and went downstairs to investigate.",
+      "cn": "我听见响声，就下楼去看个究竟。"
+    },
+    {
+      "en": "Investigate the system used for allocating car registration numbers.",
+      "cn": "研究一下用来规定汽车登记号码的一套方法."
+    },
+    {
+      "en": "It is only fairly recently that historians have begun to investigate the question.",
+      "cn": "只是到最近历史学家才开始探究这个问题。"
+    },
+    {
+      "en": "Let's investigate the syntax of Chinese.",
+      "cn": "让我们研究一下汉语的语法."
+    },
+    {
+      "en": "Police have set up an incident room as they begin to investigate this morning's fire.",
+      "cn": "警方已经设立了专案室，开始调查今天早上的枪击事件。"
+    },
+    {
+      "en": "Police should be asked to investigate so that the guilty can be brought to book soon.",
+      "cn": "应该要求警方介入调查，以将罪犯早日绳之以法。"
+    },
+    {
+      "en": "Scientists began using spectrometers to investigate the properties of the elements.",
+      "cn": "科学家们开始使用分光计去研究元素的性质."
+    },
+    {
+      "en": "The climbers sent two men up to investigate the rockfall.",
+      "cn": "登山者派了两个人爬上去察看岩石坠落的情况."
+    },
+    {
+      "en": "The military sent Jesse A. Marcel and Captain Sheridan Cavitt to investigate.",
+      "cn": "部队派JesseA. Marcel和上尉SheridanCavitt去调查."
+    },
+    {
+      "en": "The state police are investigating the incident.",
+      "cn": "州警察正调查此事。"
+    },
+    {
+      "en": "The study investigates the impact of violent TV programming on children.",
+      "cn": "该研究调查暴力电视节目对儿童的影响。"
+    },
+    {
+      "en": "They should adopt a more imaginative approach and investigate alternative uses for their property.",
+      "cn": "他们应该采用一种更有想象力的方式来为他们的财产找到另外的用途。"
+    },
+    {
+      "en": "We should not jump to conclusions. Let's investigate first.",
+      "cn": "我们不应草率下结论, 还是先调查一下吧."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "investigative",
+          "tran_cn": " 研究的；调查的；好调查的"
+        },
+        {
+          "word": "investigatory",
+          "tran_cn": " 调查的，审查的；研究的，好研究的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "investigation",
+          "tran_cn": " 调查；调查研究"
+        },
+        {
+          "word": "investigator",
+          "tran_cn": " 研究者；调查者；侦查员"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "analyse",
+            "audit",
+            "canvass",
+            "examine",
+            "explore",
+            "inquire",
+            "inspect",
+            "probe",
+            "prospect",
+            "review",
+            "scrutinize",
+            "search",
+            "study"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "check into",
+            "inquire into"
+          ],
+          "tran_cn": "调查；研究"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "examine",
+            "explore",
+            "inspect",
+            "probe",
+            "research",
+            "review",
+            "scrutinize",
+            "search",
+            "study"
+          ],
+          "tran_cn": "调查;检查;考察"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "investigate into",
+      "tran_cn": "对……进行调查"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "调查，研究",
+      "tran_en": "to try to find out the truth about something such as a crime, accident, or scientific problem"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "调查， 调查研究",
+      "tran_en": "to try to find out the truth about something such as a crime, accident, or scientific problem"
+    },
+    {
+      "pos": "vt&vi",
+      "tran_cn": "调查",
+      "tran_en": "to try to find out the truth about something such as a crime, accident, or scientific problem"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "investigates"
+    ],
+    "past": [
+      "investigated"
+    ],
+    "done": [
+      "investigated"
+    ],
+    "ing": [
+      "investigating"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "word": "pursy",
+  "ipa": {
+    "us": "'pɜ:sɪ",
+    "uk": "'pɜsɪ"
+  },
+  "sentences": [
+    {
+      "en": "Results The rate of overweight was 47.3%, and that of pursy was 7.4%.",
+      "cn": "结果飞行人员体重超重的比例高达47.3%；明显肥胖的飞行人员占7.4%；"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "purse",
+          "tran_cn": " 钱包，小钱袋；金钱，财源"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "purse",
+          "tran_cn": " 皱起，缩拢"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "round",
+            "obese"
+          ],
+          "tran_cn": "皱起的；肥胖的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "肥胖的，皱起的"
+    }
+  ],
+  "exchange": {}
+}

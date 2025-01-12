@@ -1,0 +1,84 @@
+{
+  "word": "libellous",
+  "ipa": {
+    "us": "ˈlaɪbələs",
+    "uk": "ˈlaɪbələs"
+  },
+  "sentences": [
+    {
+      "en": "He claimed the articles were libellous and damaging to the interests of the team.",
+      "cn": "他声称那些文章造谣诽谤，对全队的利益造成了损害。"
+    },
+    {
+      "en": "He says that the report is libellous.",
+      "cn": "他说报导是诽谤性的."
+    },
+    {
+      "en": "libellous gossip",
+      "cn": "诽谤性质的流言"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "libel",
+          "tran_cn": " 诽谤罪；诋毁；毁坏名誉的东西；控诉书"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "libel",
+          "tran_cn": " 进行文字诽谤"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "libel",
+          "tran_cn": " 中伤；控告；对…进行诽谤"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "calumniatory",
+            "defamatory"
+          ],
+          "tran_cn": "诽谤的；损害名誉的（等于libelous）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abusive"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "诽谤（性）的，中伤的",
+      "tran_en": "containing untrue written statements about someone which could make other people have a bad opinion of them"
+    }
+  ],
+  "exchange": {}
+}

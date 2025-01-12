@@ -1,0 +1,329 @@
+{
+  "word": "import",
+  "ipa": {
+    "us": "ˈɪmpɔːt , ɪmˈpɔːt",
+    "uk": "ˈɪmpɔːrt , ɪmˈpɔːrt"
+  },
+  "sentences": [
+    {
+      "en": "a ban on beef imports",
+      "cn": "禁止进口牛肉"
+    },
+    {
+      "en": "A restricted import quota was set for meat products.",
+      "cn": "肉类产品设定了进口配额."
+    },
+    {
+      "en": "American demand for Japanese imports (= goods from Japan )",
+      "cn": "美国人对日本进口产品的需求"
+    },
+    {
+      "en": "Germany, however, insists on restrictions on the import of Polish coal.",
+      "cn": "但是德国坚持对进口波兰煤炭加以限制."
+    },
+    {
+      "en": "I have already spoken about the import of his speech.",
+      "cn": "有关他的讲话的含意我刚刚已经谈过了。"
+    },
+    {
+      "en": "Import controls were extended to the paper industry.",
+      "cn": "进口的限制范围扩大到造纸工业."
+    },
+    {
+      "en": "Import duties still average 30%.",
+      "cn": "进口税的平均水平仍然在30%。"
+    },
+    {
+      "en": "In 2001, Britain exported more cars than it imported.",
+      "cn": "2001年英国的汽车出口量大于进口。"
+    },
+    {
+      "en": "Rich countries benefited from importing Indonesia's timber.",
+      "cn": "富国从进口印度尼西亚木材中获利。"
+    },
+    {
+      "en": "the abolition of import duties ",
+      "cn": "进口关税的废止"
+    },
+    {
+      "en": "The beetle is thought to be a European import.",
+      "cn": "这种甲虫被认为是从欧洲传入的。"
+    },
+    {
+      "en": "the import of electrical goods",
+      "cn": "电气产品的进口"
+    },
+    {
+      "en": "The painting was returned to Spain on a temporary import licence.",
+      "cn": "这幅画凭着临时进口许可证被送回了西班牙。"
+    },
+    {
+      "en": "to introduce a strict import quota on grain",
+      "cn": "严格限制谷物进口量"
+    },
+    {
+      "en": "We import an incredible amount of cheese from the Continent.",
+      "cn": "我们从欧洲大陆进口数量惊人的奶酪。"
+    },
+    {
+      "en": "We import foreign manufactured goods.",
+      "cn": "我们进口国外制成品。"
+    },
+    {
+      "en": "We import raw materials and energy and export mainly in-dustrial products.",
+      "cn": "我们进口原材料和能源，主要出口工业产品。"
+    },
+    {
+      "en": "We import raw silk.",
+      "cn": "我们进口生丝."
+    },
+    {
+      "en": "We must produce more food for ourselves and import less.",
+      "cn": "我们必须增产食品,减少进口."
+    },
+    {
+      "en": "What does this import?",
+      "cn": "这含有什么意思?"
+    },
+    {
+      "en": "What's the import of the speech?",
+      "cn": "这个演说的意义是什么?"
+    },
+    {
+      "en": "You can import files from Microsoft Word 5.1 or MacWrite II.",
+      "cn": "可以从MicrosoftWord5.1或MacWriteII程序导入文件。"
+    },
+    {
+      "en": "You can then export this profile so that other users can simply import the profile.",
+      "cn": "您可以输出这个轮廓，这样其他用户仅仅只需要输入这个轮廓即可。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "important",
+          "tran_cn": " 重要的，重大的；有地位的；有权力的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "importantly",
+          "tran_cn": " 重要地；大量地；有名望地；自命不凡地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "importance",
+          "tran_cn": " 价值；重要；重大；傲慢"
+        },
+        {
+          "word": "importation",
+          "tran_cn": " 进口；输入品"
+        },
+        {
+          "word": "importer",
+          "tran_cn": " 进口商；输入者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "significance",
+            "stress",
+            "value",
+            "weight",
+            "meaning"
+          ],
+          "tran_cn": "[贸易]进口，进口货；输入；意思，含义；重要性"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "admit",
+            "bring",
+            "effect",
+            "implication",
+            "importance",
+            "in",
+            "introduce",
+            "meaning",
+            "receive",
+            "significance",
+            "substance",
+            "take"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to input",
+            "type in"
+          ],
+          "tran_cn": "输入，[贸易]进口"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to input",
+            "type in"
+          ],
+          "tran_cn": "输入，[贸易]进口；含…的意思"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "import agent",
+      "tran_cn": "进口代理商"
+    },
+    {
+      "phrase": "import and export",
+      "tran_cn": "进出口；导入和导出；输入和输出"
+    },
+    {
+      "phrase": "import and export corporation",
+      "tran_cn": "[经]进出口公司"
+    },
+    {
+      "phrase": "import data",
+      "tran_cn": "输入数据"
+    },
+    {
+      "phrase": "import declaration",
+      "tran_cn": "进口报单；进口声明书"
+    },
+    {
+      "phrase": "import department",
+      "tran_cn": "n. 进口部"
+    },
+    {
+      "phrase": "import duty",
+      "tran_cn": "进口税"
+    },
+    {
+      "phrase": "import from",
+      "tran_cn": "从…输入；从…进口"
+    },
+    {
+      "phrase": "import licence",
+      "tran_cn": "进口许可证；进口执照"
+    },
+    {
+      "phrase": "import license",
+      "tran_cn": "进口许可证"
+    },
+    {
+      "phrase": "import licensing",
+      "tran_cn": "进口许可"
+    },
+    {
+      "phrase": "import permit",
+      "tran_cn": "进口护照；进口准许证"
+    },
+    {
+      "phrase": "import price",
+      "tran_cn": "[经]输入价格"
+    },
+    {
+      "phrase": "import quota",
+      "tran_cn": "输入限额"
+    },
+    {
+      "phrase": "import substitution",
+      "tran_cn": "进口替代"
+    },
+    {
+      "phrase": "import tariff",
+      "tran_cn": "进口关税"
+    },
+    {
+      "phrase": "import tax",
+      "tran_cn": "进口税"
+    },
+    {
+      "phrase": "import trade",
+      "tran_cn": "进口贸易"
+    },
+    {
+      "phrase": "net import",
+      "tran_cn": "净进口"
+    },
+    {
+      "phrase": "parallel import",
+      "tran_cn": "平行进口"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "进口，引进，重要性，意思",
+      "tran_en": "a product that is brought from one country into another so that it can be sold there, or the business of doing this"
+    },
+    {
+      "pos": "n & v",
+      "tran_cn": "进口"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "进口，导入",
+      "tran_en": "to bring a product from one country into another so that it can be sold there"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": "进口,输入,(pl.)进口商品;要旨,含意"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "进口",
+      "tran_en": "to bring a product from one country into another so that it can be sold there"
+    },
+    {
+      "pos": "vt&n",
+      "tran_cn": "输入，进口"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "imports"
+    ],
+    "third": [
+      "imports"
+    ],
+    "past": [
+      "imported"
+    ],
+    "done": [
+      "imported"
+    ],
+    "ing": [
+      "importing"
+    ]
+  }
+}

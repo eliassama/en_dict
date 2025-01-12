@@ -1,0 +1,189 @@
+{
+  "word": "entreat",
+  "ipa": {
+    "us": "ɪnˈtri:t",
+    "uk": "ɛnˈtrit"
+  },
+  "sentences": [
+    {
+      "en": "' Entreat me to believe it no more, Miss Manette.",
+      "cn": "“别再请求我相信了, 曼内特小姐."
+    },
+    {
+      "en": "'I entreat you to tell me more, sir.'",
+      "cn": "“ 我求你告诉我更多一些情况, 先生. ”"
+    },
+    {
+      "en": "\" Be careful of my friend , I entreat you, and leave me. \"",
+      "cn": "“ 求你小心照顾我的朋友, 去吧. ”"
+    },
+    {
+      "en": "\" Come thou, and entreat his blessing!",
+      "cn": "“ 你过来, 恳求他的祝福吧!"
+    },
+    {
+      "en": "Charles Darnay felt it hopeless to entreat him further , and his pride was touched besides.",
+      "cn": "查尔斯-达尔内感到再恳求他己是枉然, 自尊心也受到了伤害."
+    },
+    {
+      "en": "He beseeched me to entreat your Majesties to hear and see the matter.",
+      "cn": "他拜托我一定请陛下二位也来看戏."
+    },
+    {
+      "en": "He entreated them to delay their departure.",
+      "cn": "他恳求他们晚些再走。"
+    },
+    {
+      "en": "His friends entreated him not to go.",
+      "cn": "他的朋友们恳求他不要去。"
+    },
+    {
+      "en": "However much you may entreat him, you will get little or nothing.",
+      "cn": "无论你向他恳求多少, 你都不会得到什么东西的."
+    },
+    {
+      "en": "I earnestly entreat that we don't get caught out again.",
+      "cn": "我诚挚地祈求我们不要再被人抓住短处了。"
+    },
+    {
+      "en": "I entreat this favor of you.",
+      "cn": "我恳求你帮忙这件事."
+    },
+    {
+      "en": "I entreat you to show mercy.",
+      "cn": "我求您发发慈悲."
+    },
+    {
+      "en": "May I entreat a favour of you ?",
+      "cn": "您能帮帮忙 吗 ?"
+    },
+    {
+      "en": "Please help me, I entreat you.",
+      "cn": "请帮帮我吧，求你了。"
+    },
+    {
+      "en": "She shouldn't entreat her elder like that.",
+      "cn": "她不应那样对待长辈."
+    },
+    {
+      "en": "So kind as they are to you! Take the part with a good grace, I entreat.",
+      "cn": "他们待你那么好. 我求你,顺顺当当地承担起那个角色吧."
+    },
+    {
+      "en": "They entreat me to acquaint her with it.",
+      "cn": "他们一定要我把这件事告诉她."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "entreatingly",
+          "tran_cn": "乞求地；哀求地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "entreaty",
+          "tran_cn": "恳求；乞求"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appeal",
+            "ask",
+            "beg",
+            "canvass",
+            "conjure",
+            "implore",
+            "invoke",
+            "plead",
+            "pray"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "pray for",
+            "cry on"
+          ],
+          "tran_cn": "恳求；乞求"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "pray for",
+            "appeal for"
+          ],
+          "tran_cn": "恳求；请求"
+        }
+      ]
+    },
+    {
+      "pos": "vt & vi.",
+      "words": [
+        {
+          "words": [
+            "ask",
+            "beg",
+            "beseech",
+            "implore",
+            "importune",
+            "plead",
+            "supplicate"
+          ],
+          "tran_cn": "乞求;请求"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "恳求",
+      "tran_en": "to ask someone, in a very emotional way, to do something for you"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "恳求，乞求"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "恳求，乞求，〈古〉对待"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "entreats"
+    ],
+    "past": [
+      "entreated"
+    ],
+    "done": [
+      "entreated"
+    ],
+    "ing": [
+      "entreating"
+    ]
+  }
+}

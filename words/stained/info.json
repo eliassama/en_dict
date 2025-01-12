@@ -1,0 +1,183 @@
+{
+  "word": "stained",
+  "ipa": {
+    "us": "steɪnd",
+    "uk": "stend"
+  },
+  "sentences": [
+    {
+      "en": "He stained his military record by going AWOL [ a. w . o . l . = absent without official leave ] .",
+      "cn": "他因擅 离职 守而玷污了军绩."
+    },
+    {
+      "en": "He stained the family honor .",
+      "cn": "他玷污了家族的荣誉。"
+    },
+    {
+      "en": "He stained the wood brown.",
+      "cn": "他给木头涂上了褐色."
+    },
+    {
+      "en": "He stained the wood reddish - brown .",
+      "cn": "他给木头涂上了 红褐色."
+    },
+    {
+      "en": "Her sweat-stained clothing clung to her body.",
+      "cn": "她那被汗水浸透的衣服黏在身上。"
+    },
+    {
+      "en": "His black cassock was dusty and sweat - stained.",
+      "cn": "他黑色的袍子上尽是尘土,汗渍斑斑."
+    },
+    {
+      "en": "His clothing was stained with mud.",
+      "cn": "他的衣服沾上了泥。"
+    },
+    {
+      "en": "His crimes stained the family honour.",
+      "cn": "他的罪行玷污了家庭的名誉."
+    },
+    {
+      "en": "His teeth were stained with nicotine from years of smoking.",
+      "cn": "他的牙齿因多年抽烟而被尼古丁染黄了."
+    },
+    {
+      "en": "His white coat was grubby and stained.",
+      "cn": "他的白色外套污迹斑斑，简直脏透了。"
+    },
+    {
+      "en": "My dress was stained.",
+      "cn": "我的连衣裙弄上了污渍。"
+    },
+    {
+      "en": "Nicotine marks stained his chin and fingers.",
+      "cn": "尼古丁渍染黄了他的下巴和手指。"
+    },
+    {
+      "en": "Not stained strongly or definitely by either acid or basic dyes but stained readily by neutral dyes. Used especially of white blood cells.",
+      "cn": "嗜中性染料的不一定非用酸性或碱性染剂染色不可的，也易于用中性染剂染色的，尤其指白细胞。"
+    },
+    {
+      "en": "The clothes are stained with grease.",
+      "cn": "衣服被油脂渍住了."
+    },
+    {
+      "en": "The doors are then stained and varnished.",
+      "cn": "这些门还要染色涂清漆。"
+    },
+    {
+      "en": "The stained-glass panels are etched and then handpainted using traditional methods.",
+      "cn": "彩色玻璃板先经过蚀刻，然后用传统技法手工着色。"
+    },
+    {
+      "en": "There was a stained-glass window with the family coat of arms.",
+      "cn": "有一扇饰有家族盾形纹章的彩色玻璃窗。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "stainable",
+          "tran_cn": " 可染色的"
+        },
+        {
+          "word": "stainless",
+          "tran_cn": " 不锈的；纯洁的，未被玷污的；无瑕疵的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stain",
+          "tran_cn": " 污点；瑕疵；着色剂"
+        },
+        {
+          "word": "stainability",
+          "tran_cn": " （细胞的）可染性"
+        },
+        {
+          "word": "stainer",
+          "tran_cn": " 色料；染色工；染色器"
+        },
+        {
+          "word": "staining",
+          "tran_cn": " 着色"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "staining",
+          "tran_cn": " 沾染（stain的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "stain",
+          "tran_cn": " 污染；被沾污；被染污"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "stain",
+          "tran_cn": " 沾污；败坏；给…着色"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dirty",
+            "filthy",
+            "inky"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "blurred"
+          ],
+          "tran_cn": "玷污；败坏；给…染色（stain的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stained glass",
+      "tran_cn": "彩色玻璃（镶嵌在教堂的窗户）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "玷污的，褪色的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（使）染色( stain的过去式和过去分词 )，褪色，变污，玷污，败坏（名声）"
+    }
+  ],
+  "exchange": {}
+}

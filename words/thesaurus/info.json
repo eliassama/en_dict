@@ -1,0 +1,123 @@
+{
+  "word": "thesaurus",
+  "ipa": {
+    "us": "θɪˈsɔ:rəs",
+    "uk": "θɪˈsɔrəs"
+  },
+  "sentences": [
+    {
+      "en": "A dictionary of synonyms is called a thesaurus.",
+      "cn": "同义词字典称为类属词典."
+    },
+    {
+      "en": "A thesaurus is a book of synonyms and antonyms.",
+      "cn": "同类语词典是一本拥有同义词和反义词的书."
+    },
+    {
+      "en": "A thesaurus is something like a dictionary.",
+      "cn": "类语词典与普通词典相仿."
+    },
+    {
+      "en": "A thesaurus-based model for organizing information contains the most structure and provides the greatest search and filter capabilities.",
+      "cn": "基于辞典的信息组织模型包含最多的结构，并提供最强的搜索和筛选功能。"
+    },
+    {
+      "en": "At the entry for \" kill \" , my thesaurus lists \" murder \" , \" assassinate \" and \" waste \" .",
+      "cn": "我的同义词词典在kill条目中列出murder, assassinate, waste 词条."
+    },
+    {
+      "en": "Be careful when using a thesaurus.",
+      "cn": "当用词典是一定要当心."
+    },
+    {
+      "en": "How can you find antonyms in the thesaurus?",
+      "cn": "你怎么能在同义词典中发现反义词 呢 ?"
+    },
+    {
+      "en": "In a typical approach, SKOS tools display the thesaurus or taxonomy to the user for browsing.",
+      "cn": "典型情况下，SKOS 工具会把辞典或分类法显示给用户进行浏览。"
+    },
+    {
+      "en": "Molly: Two of them are language dictionaries, one a synonym thesaurus.",
+      "cn": "莫莉: 两本是字典, 另一本是同义词典."
+    },
+    {
+      "en": "Temporarily segmentation algorithm called the name thesaurus tree - morphology.",
+      "cn": "暂时把分词算法的名称叫做树状词库分词法."
+    },
+    {
+      "en": "The inner bootstrapping utilizes Synonymy Thesaurus to expand pattern semantics.",
+      "cn": "内自举借助通用的《同义词词林》扩张模式的语义范围."
+    },
+    {
+      "en": "The most extensive approach is a full thesaurus.",
+      "cn": "最广泛使用的方法是完整的辞典。"
+    },
+    {
+      "en": "The sea is the world's greatest thesaurus of minerals and food.",
+      "cn": "海洋是世界上最大的矿物和食物宝库."
+    },
+    {
+      "en": "There is not enough memory or disk space to run the thesaurus.",
+      "cn": "内存或磁盘空间不足,无法运行同义词库."
+    },
+    {
+      "en": "Thesaurus: list , repetition , account , catalogue , enumeration.",
+      "cn": "这个字翻成遮掩如何?"
+    },
+    {
+      "en": "This paper put forward a bridge - connection patterns filtering algorithm ( BPFA ) for extracting high - frequency words without thesaurus.",
+      "cn": "提出一种不依赖于词典的抽取文本特征词的桥接模式滤除算法 ( BPFA )."
+    },
+    {
+      "en": "Use a thesaurus to find synonyms for two of your words.",
+      "cn": "使用词典找到你的词汇中的两个同义词."
+    },
+    {
+      "en": "Why do you need a thesaurus?",
+      "cn": "你需要同义词典做 什么 ?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "treasury",
+            "treasure house"
+          ],
+          "tran_cn": "宝库；辞典；知识宝库；分类词汇汇编"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "compilation",
+            "encyclopedia",
+            "glossary",
+            "vocabulary"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "同义词词典，分类词典，百科全书",
+      "tran_en": "a book in which words are put into groups with other words that have similar meanings"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "thesauruses"
+    ]
+  }
+}

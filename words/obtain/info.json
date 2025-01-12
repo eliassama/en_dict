@@ -1,0 +1,196 @@
+{
+  "word": "obtain",
+  "ipa": {
+    "us": "əbˈteɪn",
+    "uk": "əbˈteɪn"
+  },
+  "sentences": [
+    {
+      "en": "Anglers are required to obtain prior authorization from the park keeper.",
+      "cn": "垂钓者必须事先得到公园管理者的许可."
+    },
+    {
+      "en": "Can plants obtain adequate nourishment from such poor soil?",
+      "cn": "土壤这样贫瘠，植物能获得足够的养分吗？"
+    },
+    {
+      "en": "Evans was trying to obtain a false passport and other documents.",
+      "cn": "埃文斯正试图取得一本假护照和其他证件。"
+    },
+    {
+      "en": "He has enough money to obtain the necessaries of life.",
+      "cn": "他有足够的钱购买生活必需品"
+    },
+    {
+      "en": "He lowballed the cost of the project in order to obtain federal funding.",
+      "cn": "他为了得到联邦资助而故意压低项目的成本价格。"
+    },
+    {
+      "en": "I could obtain with the snap of my fingers anything I chose.",
+      "cn": "我不费吹灰之力就可以得到我看中的任何东西。"
+    },
+    {
+      "en": "It is strictly forbidden to obtain confessions and to give them credence.",
+      "cn": "严禁逼供信."
+    },
+    {
+      "en": "It's far beyond reach of our ability to obtain such aim.",
+      "cn": "按我们的能力这种目标是不可企及的."
+    },
+    {
+      "en": "Offshoring provides an opportunity to obtain I.T. services at low cost.",
+      "cn": "离岸外包提供了以低成本获得信息技术服务的机会。"
+    },
+    {
+      "en": "Only with mass direct action will we obtain such change.",
+      "cn": "只有采取大规模直接行动，我们才会取得这样的改变。"
+    },
+    {
+      "en": "There was a lot of pressure on you to obtain good grades.",
+      "cn": "你背负了拿到高分的巨大压力。"
+    },
+    {
+      "en": "These conditions no longer obtain.",
+      "cn": "这些状况已不复存在。"
+    },
+    {
+      "en": "They were plotting how to obtain the necessary information.",
+      "cn": "他们正在策划如何获取必要的情报."
+    },
+    {
+      "en": "To obtain her degree, she answered 81 questions over 10 papers.",
+      "cn": "为获得学位，她回答了10页纸上的81个问题。"
+    },
+    {
+      "en": "Underage youths can obtain alcohol from their older friends.",
+      "cn": "未到法定年龄的青少年可以从年龄较大的朋友那里弄到酒。"
+    },
+    {
+      "en": "You can obtain the product from all good chemists.",
+      "cn": "你可从各大药房买到这种产品。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "obtainable",
+          "tran_cn": " 能得到的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "obtainment",
+          "tran_cn": " 获得"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acquire",
+            "compass",
+            "conscript",
+            "derive",
+            "earn",
+            "gain",
+            "get",
+            "procure",
+            "reap",
+            "receive",
+            "secure",
+            "take"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "pick up",
+            "get access to"
+          ],
+          "tran_cn": "获得；流行"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "achieve",
+            "acquire",
+            "buy",
+            "earn",
+            "gain",
+            "get",
+            "inherit",
+            "procure",
+            "purchase",
+            "receive",
+            "secure",
+            "win"
+          ],
+          "tran_cn": "获得;得到"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "obtain employment",
+      "tran_cn": "就业，找到工作"
+    },
+    {
+      "phrase": "obtain evidence",
+      "tran_cn": "取证"
+    },
+    {
+      "phrase": "obtain information",
+      "tran_cn": "获得信息；索取资料或合同"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "得到，存在",
+      "tran_en": "to get something that you want, especially through your own effort, skill, or work"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 通用， 流行， 存在",
+      "tran_en": "if a situation, system, or rule obtains, it continues to exist"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "获得，得到",
+      "tran_en": "to get something that you want, especially through your own effort, skill, or work"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "obtains"
+    ],
+    "past": [
+      "obtained"
+    ],
+    "done": [
+      "obtained"
+    ],
+    "ing": [
+      "obtaining"
+    ]
+  }
+}

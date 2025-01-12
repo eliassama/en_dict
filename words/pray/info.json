@@ -1,0 +1,203 @@
+{
+  "word": "pray",
+  "ipa": {
+    "us": "preɪ",
+    "uk": "preɪ"
+  },
+  "sentences": [
+    {
+      "en": "\"Let us pray,\" said the Methodist chaplain.",
+      "cn": "“我们来祈祷吧，”那个循道宗牧师说。"
+    },
+    {
+      "en": "And what, pray, do you buy and sell, Major?",
+      "cn": "梅杰，请问，你都买卖些什么？"
+    },
+    {
+      "en": "I beg your pardon, pray continue.",
+      "cn": "抱歉，请继续。"
+    },
+    {
+      "en": "I hope and pray that this is a misunderstanding.",
+      "cn": "我非常希望这是个误会。"
+    },
+    {
+      "en": "In times of difficulty, she pray for an oracle to guide her.",
+      "cn": "在困难的时候, 她祈祷神谕来指引她."
+    },
+    {
+      "en": "Let us pray, brethren.",
+      "cn": "请众同祷。"
+    },
+    {
+      "en": "One can only pray that the team's manager learns something from it.",
+      "cn": "大家也只能希冀球队教练从中汲取教训。"
+    },
+    {
+      "en": "Paul was praying that no one had noticed his absence.",
+      "cn": "保罗但愿没有人注意到他的缺席。"
+    },
+    {
+      "en": "She went to pray for the soul of her late husband.",
+      "cn": "她去为亡夫的灵魂祈祷。"
+    },
+    {
+      "en": "They visited the Shrine of Our Lady to pray for redemption.",
+      "cn": "他们参观了圣母马利亚的神龛,为赎罪而祈祷."
+    },
+    {
+      "en": "They went to the mosque to pray.",
+      "cn": "他们去清真寺祷告。"
+    },
+    {
+      "en": "to pray for God's blessing",
+      "cn": "祈求上帝降福"
+    },
+    {
+      "en": "to pray for God's forgiveness",
+      "cn": "祈求上帝宽恕"
+    },
+    {
+      "en": "to pray for the salvation of the world",
+      "cn": "为世人得救而祷告"
+    },
+    {
+      "en": "We have a beautiful city and we pray it stays that way.",
+      "cn": "我们的城市很美丽，但愿它能保持下去。"
+    },
+    {
+      "en": "We pray to God to deliver us from evil.",
+      "cn": "我们祈求上帝把我们从罪恶中拯救出来."
+    },
+    {
+      "en": "We pray you to set the child free.",
+      "cn": "我们恳求你放了这个孩子."
+    },
+    {
+      "en": "We’re praying for good weather tomorrow.",
+      "cn": "我们企盼明天会是好天气。"
+    },
+    {
+      "en": "Will you pray to Our Lady for me?",
+      "cn": "你能为我向圣母马利亚祈祷吗？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prayerful",
+          "tran_cn": " 虔诚的；常常祷告的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "prayer",
+          "tran_cn": " 祈祷，祷告；恳求；祈祷文"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appeal",
+            "beg",
+            "beseech",
+            "entreat",
+            "implore",
+            "invoke",
+            "petition",
+            "plead"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "appeal",
+            "beg",
+            "beseech",
+            "entreat",
+            "implore",
+            "petition",
+            "plead"
+          ],
+          "tran_cn": "祈求;请求,恳求"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "beseech",
+            "obsecrate"
+          ],
+          "tran_cn": "祈祷；恳求；央求"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pray for",
+      "tran_cn": "恳求，请求"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "（用于询问或指示）请问，请"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "(Pray)人名；(匈)普劳伊；(英)普雷"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 祈祷， 祈求； 请求， 恳求",
+      "tran_en": "to speak to God in order to ask for help or give thanks"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "祈祷，请，恳求"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "祈祷，祷告，请求，恳求，央求",
+      "tran_en": "to speak to God in order to ask for help or give thanks"
+    },
+    {
+      "pos": "vt&vi",
+      "tran_cn": "祈祷，祷告",
+      "tran_en": "to speak to God in order to ask for help or give thanks"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "prays"
+    ],
+    "past": [
+      "prayed"
+    ],
+    "done": [
+      "prayed"
+    ],
+    "ing": [
+      "praying"
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "word": "likelihood",
+  "ipa": {
+    "us": "ˈlaɪklihʊd",
+    "uk": "ˈlaɪklihʊd"
+  },
+  "sentences": [
+    {
+      "en": "But the likelihood is that people would be willing to pay if they were certain that their money was going to a good cause.",
+      "cn": "但如果人们确切知道自己的钱会用于做善事，他们就可能更愿意掏腰包。"
+    },
+    {
+      "en": "Do you think there is any likelihood of his agreeing to it?",
+      "cn": "你认为他有同意此事的可能性 吗 ?"
+    },
+    {
+      "en": "I don't think there is any likelihood of his agreeing to it.",
+      "cn": "我认为不会有他同意那件事情的可能."
+    },
+    {
+      "en": "If I refused, it would in all likelihood mean I’d lose my job.",
+      "cn": "如果我拒绝，那我十有八九会丢掉工作。"
+    },
+    {
+      "en": "Probability is a numerical statement of the likelihood that an event will occur.",
+      "cn": "概率是指某一事件发生可能性的数量陈述."
+    },
+    {
+      "en": "That, as we all know, is not only a possibility but a likelihood.",
+      "cn": "众所周知，那不仅可能发生，而且是很可能发生。"
+    },
+    {
+      "en": "The likelihood is that the slump will be followed by a period of buoyancy.",
+      "cn": "萧条过后经济有可能会出现一段时期的繁荣。"
+    },
+    {
+      "en": "The likelihood is, you'll need to raise more elsewhere.",
+      "cn": "很可能你还得从其他方面再筹一些."
+    },
+    {
+      "en": "The likelihood of infection is minimal.",
+      "cn": "感染的可能性极小。"
+    },
+    {
+      "en": "The most important deterrent for most criminals is the likelihood of detection and arrest.",
+      "cn": "对大多数罪犯来说，最大的威慑力量是警方可能会破案并将他们逮捕。"
+    },
+    {
+      "en": "There didn't seem much likelihood of it happening.",
+      "cn": "这种事情发生的可能性不大。"
+    },
+    {
+      "en": "There is a strong likelihood that the matter will soon be settled.",
+      "cn": "事情极可能不久就会获得解决."
+    },
+    {
+      "en": "There is every likelihood that sanctions will work.",
+      "cn": "制裁完全可能发挥作用。"
+    },
+    {
+      "en": "There is every likelihood that she'll come.",
+      "cn": "她极有可能来这儿."
+    },
+    {
+      "en": "There is no likelihood of his coming again.",
+      "cn": "他不见得会再来了."
+    },
+    {
+      "en": "Using a seatbelt will reduce the likelihood of serious injury in a car accident.",
+      "cn": "系安全带可以降低在车祸中受重伤的可能性。"
+    },
+    {
+      "en": "We must try our best to reduce the likelihood of war.",
+      "cn": "我们必须尽最大努力减少战争的可能性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "likable",
+          "tran_cn": "可爱的"
+        },
+        {
+          "word": "like",
+          "tran_cn": "同样的；相似的"
+        },
+        {
+          "word": "likeable",
+          "tran_cn": "令人喜爱的，可爱的（等于likable）"
+        },
+        {
+          "word": "likely",
+          "tran_cn": "很可能的；合适的；有希望的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "like",
+          "tran_cn": "可能"
+        },
+        {
+          "word": "likely",
+          "tran_cn": "很可能；或许"
+        }
+      ]
+    },
+    {
+      "pos": "conj",
+      "words": [
+        {
+          "word": "like",
+          "tran_cn": "好像"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "like",
+          "tran_cn": "爱好；同样的人或物"
+        }
+      ]
+    },
+    {
+      "pos": "prep",
+      "words": [
+        {
+          "word": "like",
+          "tran_cn": "像；如同"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "like",
+          "tran_cn": "喜欢；希望"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "like",
+          "tran_cn": "喜欢；想；愿意"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "possibility",
+            "probability",
+            "feasibility",
+            "potential",
+            "maybe"
+          ],
+          "tran_cn": "可能性，可能"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "chance",
+            "contingent",
+            "expectation",
+            "possibility",
+            "probability",
+            "prospect"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in all likelihood",
+      "tran_cn": "很有可能"
+    },
+    {
+      "phrase": "likelihood estimation",
+      "tran_cn": "似然估算"
+    },
+    {
+      "phrase": "likelihood function",
+      "tran_cn": "似然函数"
+    },
+    {
+      "phrase": "likelihood ratio",
+      "tran_cn": "概率比；似然率"
+    },
+    {
+      "phrase": "maximum likelihood",
+      "tran_cn": "极大似然；最大似然率"
+    },
+    {
+      "phrase": "maximum likelihood estimation",
+      "tran_cn": "最大似然估计；最大相似估计法"
+    },
+    {
+      "phrase": "maximum likelihood estimator",
+      "tran_cn": "最大似然估计值；极大似然估计量；最大概似推定量"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "可能，可能性，[数]似然，似真",
+      "tran_en": "the degree to which something can reasonably be expected to happen"
+    }
+  ],
+  "exchange": {}
+}

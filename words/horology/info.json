@@ -1,0 +1,54 @@
+{
+  "word": "horology",
+  "ipa": {
+    "us": "hɒˈrɒlədʒi",
+    "uk": "həˈrɑlədʒi"
+  },
+  "sentences": [
+    {
+      "en": "He is skilled in horology.",
+      "cn": "他精于钟表制造。"
+    },
+    {
+      "en": "The appearance of radio-controlled clock is a revolution in the history of the horology.",
+      "cn": "电波钟表技术和产品的出现是人类计时历史上的又一次革命。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "horologe",
+          "tran_cn": " 钟表，时计"
+        },
+        {
+          "word": "horologist",
+          "tran_cn": " 钟表商；钟表研究者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chronometry"
+          ],
+          "tran_cn": "[仪]钟表学；测时法；钟表制造术"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "钟表制造术",
+      "tran_en": "the art or science of making timepieces or of measuring time "
+    }
+  ],
+  "exchange": {}
+}

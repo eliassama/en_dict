@@ -1,0 +1,166 @@
+{
+  "word": "dew",
+  "ipa": {
+    "us": "djuː",
+    "uk": "duː"
+  },
+  "sentences": [
+    {
+      "en": "\" Life is like the morning dew!",
+      "cn": "“ 人生如朝露!"
+    },
+    {
+      "en": "Dew had fallen heavily since the wind had dropped.",
+      "cn": "风已停息,露水更浓了."
+    },
+    {
+      "en": "Grasses were moist with dew.",
+      "cn": "草被露水沾湿了."
+    },
+    {
+      "en": "Her eyes streamed with dew.",
+      "cn": "她泪珠滚滚."
+    },
+    {
+      "en": "His new shoes were wet with dew.",
+      "cn": "他的那双新鞋被露水弄湿了."
+    },
+    {
+      "en": "In the morning the grass was wet with dew.",
+      "cn": "早晨青草上面有露水."
+    },
+    {
+      "en": "It is beginning to dew.",
+      "cn": "下露水了."
+    },
+    {
+      "en": "Life is poetically compared to the morning dew.",
+      "cn": "在诗歌中，人生被比喻为朝露。"
+    },
+    {
+      "en": "Moisture in the atmosphere condensed into dew during the night.",
+      "cn": "大气中的水汽在夜间凝结成了露珠."
+    },
+    {
+      "en": "Pearls of dew glistened on the grass.",
+      "cn": "草地上珠露晶莹."
+    },
+    {
+      "en": "The dew gathered on the leaves.",
+      "cn": "露水在叶子上凝结。"
+    },
+    {
+      "en": "The dew on the branches drizzled our hair and shoulders.",
+      "cn": "枝头上的露珠润湿了我们的头发和双肩."
+    },
+    {
+      "en": "The flowers sweat dew.",
+      "cn": "花渗出水珠."
+    },
+    {
+      "en": "The grass was wet with early morning dew.",
+      "cn": "清晨的露水使得青草湿漉漉的。"
+    },
+    {
+      "en": "The green boughs glittered with all their pearls of dew.",
+      "cn": "绿枝上闪烁着露珠的光彩."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dewy",
+          "tran_cn": " 带露水的，露湿的；如露的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dewiness",
+          "tran_cn": " 露状；湿润；纯洁"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "drop",
+            "gutta"
+          ],
+          "tran_cn": "珠，滴；露水；清新"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "condensation",
+            "moisture",
+            "water"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "get wet",
+            "moisten"
+          ],
+          "tran_cn": "（露水等）弄湿"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dew point",
+      "tran_cn": "[物，气]露点"
+    },
+    {
+      "phrase": "dew point pressure",
+      "tran_cn": "[石油]露点压力"
+    },
+    {
+      "phrase": "morning dew",
+      "tran_cn": "晨露；朝露"
+    },
+    {
+      "phrase": "mountain dew",
+      "tran_cn": "[俚]私酿的威士忌酒"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "露（水）",
+      "tran_en": "the small drops of water that form on outdoor surfaces during the night"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "结露水"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（露水等）弄湿"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "dews"
+    ]
+  }
+}

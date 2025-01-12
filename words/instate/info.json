@@ -1,0 +1,72 @@
+{
+  "word": "instate",
+  "ipa": {
+    "us": "ɪn'steɪt",
+    "uk": "ɪnˈstet"
+  },
+  "sentences": [
+    {
+      "en": "He will instate Mason to a high position of power.",
+      "cn": "他会任命梅森一个位高权重的职位。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "enthrone",
+            "inaugurate",
+            "install",
+            "nominate",
+            "seat"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "constitute",
+            "place",
+            "name",
+            "institute to",
+            "nominate sb to"
+          ],
+          "tran_cn": "任命"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 任命",
+      "tran_en": "to place in a position or office; install "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "任命，安置"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "instates"
+    ],
+    "past": [
+      "instated"
+    ],
+    "done": [
+      "instated"
+    ],
+    "ing": [
+      "instating"
+    ]
+  }
+}

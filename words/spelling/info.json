@@ -1,0 +1,183 @@
+{
+  "word": "spelling",
+  "ipa": {
+    "us": "ˈspelɪŋ",
+    "uk": "ˈspelɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a spelling mistake",
+      "cn": "拼写错误"
+    },
+    {
+      "en": "an essay full of spelling mistakes",
+      "cn": "一篇满是拼写错误的文章"
+    },
+    {
+      "en": "Apart from some spelling mistakes, the composition is fairly good.",
+      "cn": "除了一些拼写错误, 这篇文章写得很不错."
+    },
+    {
+      "en": "Check and double-check spelling and punctuation.",
+      "cn": "要反复检查拼写和标点符号。"
+    },
+    {
+      "en": "Grammatical errors are always obvious to me, spelling mistakes stand out.",
+      "cn": "语法错误对我来说总是非常明显，而拼写错误也很显眼。"
+    },
+    {
+      "en": "Her spelling has improved.",
+      "cn": "她的拼写进步了。"
+    },
+    {
+      "en": "His spelling is very bad.",
+      "cn": "他的拼写能力很差。"
+    },
+    {
+      "en": "I thought a phonetic spelling might aid in pronunciation.",
+      "cn": "我想语音拼写可能有助于发音。"
+    },
+    {
+      "en": "Marks were given for accurate spelling and punctuation.",
+      "cn": "因拼写及标点正确而得分。"
+    },
+    {
+      "en": "Spelling mistakes are often just the result of haste.",
+      "cn": "拼写错误经常是由于匆忙而造成的。"
+    },
+    {
+      "en": "The book deals with some of the oddities of grammar and spelling.",
+      "cn": "这本书专讲语法和拼写方面的某些不规则现象。"
+    },
+    {
+      "en": "The teacher told the student to pay attention to his spelling.",
+      "cn": "老师提醒那个学生要注意拼法."
+    },
+    {
+      "en": "Words like \" believe \" and \" receive \" are a source of confusion in spelling.",
+      "cn": "诸如believe和receive这样的词在拼写上容易混淆."
+    },
+    {
+      "en": "You will be penalized for poor spelling.",
+      "cn": "你拼写不好将会受到处罚。"
+    },
+    {
+      "en": "Your bad spelling may prejudice your chances of getting this job.",
+      "cn": "你糟糕的拼写会妨碍你获得这个工作的机会."
+    },
+    {
+      "en": "Your composition is well written except for a few spelling mistakes.",
+      "cn": "你的作文除了几处拼写错误外,写得很好."
+    },
+    {
+      "en": "Your spelling's a bit ropey.",
+      "cn": "你的拼写有点难看。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "spellbound",
+          "tran_cn": " 被咒语所镇住的；出神的；被迷住的；茫然不知所之的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "spell",
+          "tran_cn": " 符咒；一段时间；魅力"
+        },
+        {
+          "word": "spelldown",
+          "tran_cn": " 拼字比赛"
+        },
+        {
+          "word": "speller",
+          "tran_cn": " 拼字的人；拼字课本"
+        },
+        {
+          "word": "spelt",
+          "tran_cn": " 斯佩耳特小麦"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "spelt",
+          "tran_cn": " 拼写（spell的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "spell",
+          "tran_cn": " 拼字；轮替"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "spell",
+          "tran_cn": " 拼，拼写；意味着；招致；拼成；迷住；轮值"
+        },
+        {
+          "word": "spellbind",
+          "tran_cn": " 迷住；用妖术迷惑"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "beguiling"
+          ],
+          "tran_cn": "拼写；意味着（spell的ing形式）；迷住"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "spelling bee",
+      "tran_cn": "拼字比赛会"
+    },
+    {
+      "phrase": "spelling checker",
+      "tran_cn": "[计]拼写检查程序"
+    },
+    {
+      "phrase": "spelling mistake",
+      "tran_cn": "拼写错误"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "拼写，拼法",
+      "tran_en": "the act of spelling words correctly, or the ability to do this"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "拼写( spell的现在分词)，意味着"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "spellings"
+    ]
+  }
+}

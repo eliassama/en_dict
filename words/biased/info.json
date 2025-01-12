@@ -1,0 +1,166 @@
+{
+  "word": "biased",
+  "ipa": {
+    "us": "ˈbaɪəst",
+    "uk": "ˈbaɪəst"
+  },
+  "sentences": [
+    {
+      "en": "a school biased towards music and art",
+      "cn": "一所偏重音乐和艺术的学校"
+    },
+    {
+      "en": "He seemed a bit biased against women in my opinion.",
+      "cn": "我认为他好像对女性有点儿成见。"
+    },
+    {
+      "en": "Her colleagues are generally biased against her.",
+      "cn": "她的同事们普遍对她有成见."
+    },
+    {
+      "en": "In what respect do you think the film is biased?",
+      "cn": "你认为影片在哪一方面失之偏颇?"
+    },
+    {
+      "en": "Judgment is often biased by interest.",
+      "cn": "判断往往因利害关系而产生偏差."
+    },
+    {
+      "en": "Managers are naturally biased towards projects showing a quick return.",
+      "cn": "管理人自然对短期內有回报的项目抱有偏爱."
+    },
+    {
+      "en": "Many parents are biased against popular music.",
+      "cn": "许多父母对流行音乐有偏见."
+    },
+    {
+      "en": "Of course I’m biased, but I thought my daughter’s paintings were the best.",
+      "cn": "当然我有偏心，但我还是认为我女儿的画最好。"
+    },
+    {
+      "en": "racially biased attitudes",
+      "cn": "带种族偏见的态度"
+    },
+    {
+      "en": "The judge was biased in favor of the local team.",
+      "cn": "裁判对本地的球队有偏袒."
+    },
+    {
+      "en": "The judge was biased.",
+      "cn": "法官偏袒一方。"
+    },
+    {
+      "en": "The judgement is often biased by interest.",
+      "cn": "判断往往因利害关系而有偏差."
+    },
+    {
+      "en": "The Methods: They employed were heavily biased in the gentry's favour.",
+      "cn": "他们采用的方法严重偏袒中上阶级."
+    },
+    {
+      "en": "The result obtained by smoothing contours is inevitably biased by the interpreter.",
+      "cn": "通过平滑等值线得到的结果必然带有解释人员的倾向性."
+    },
+    {
+      "en": "The selection of pupils for grammar schools was biased in favour of the middle-class child of a small family from a good area.",
+      "cn": "文法学校招生时偏向于录取来自好地段的中产阶级小家庭的孩子。"
+    },
+    {
+      "en": "University funding was tremendously biased towards scientists.",
+      "cn": "大学科研经费向科学家极大地倾斜。"
+    },
+    {
+      "en": "You can't help being biased so you may as well be up front about it.",
+      "cn": "你难免会有偏见，倒不如干脆坦然承认。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bias",
+          "tran_cn": " 偏斜的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "bias",
+          "tran_cn": " 偏斜地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bias",
+          "tran_cn": " 偏见；偏爱；斜纹；乖离率"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bias",
+          "tran_cn": " 使存偏见"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "tendentious",
+            "jaundiced"
+          ],
+          "tran_cn": "有偏见的；结果偏倚的，有偏的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contracted",
+            "one-sided",
+            "prejudiced",
+            "subjective",
+            "unjust"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "biased estimate",
+      "tran_cn": "偏差估计"
+    },
+    {
+      "phrase": "reverse biased",
+      "tran_cn": "反向偏压；反向偏置的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有偏见的，有偏的，结果偏倚的",
+      "tran_en": "unfairly preferring one person or group over another"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使存偏见(bias的过去式和过去分词)"
+    }
+  ],
+  "exchange": {}
+}

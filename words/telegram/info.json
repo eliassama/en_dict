@@ -1,0 +1,185 @@
+{
+  "word": "telegram",
+  "ipa": {
+    "us": "ˈtelɪɡræm",
+    "uk": "ˈtelɪɡræm"
+  },
+  "sentences": [
+    {
+      "en": "\"I want to send a telegram.\" — \"Fine, to whom?\"",
+      "cn": "“我想发份电报。”——“好的，发给谁？”"
+    },
+    {
+      "en": "A few days earlier he had received a telegram from Lord Lloyd.",
+      "cn": "几天前，他收到劳埃德勋爵发来的一封电报。"
+    },
+    {
+      "en": "A telegram from Uncle Fred arrived.",
+      "cn": "弗雷德舅舅发的一封电报来了。"
+    },
+    {
+      "en": "Did you forward his telegram?",
+      "cn": "你转送了他的电报了 吗 ?"
+    },
+    {
+      "en": "He sent her off a telegram announcing his immediate return to Queenstown.",
+      "cn": "他给她发出一份电报,说他立即返回昆斯敦."
+    },
+    {
+      "en": "He sent his mother a telegram upon his arrival in Beijing.",
+      "cn": "他一抵达北京就给母亲发了电报."
+    },
+    {
+      "en": "He was asked to send a telegram.",
+      "cn": "他被叫去送一封电报了."
+    },
+    {
+      "en": "I've got your telegram.",
+      "cn": "我已经收到了你的电报."
+    },
+    {
+      "en": "If we reword the telegram we can save one - third of the cost.",
+      "cn": "如果我们改写电报文字,费用能省 三分之一."
+    },
+    {
+      "en": "It's a telegram in cipher.",
+      "cn": "这是密码电报."
+    },
+    {
+      "en": "Just before I left Singapore, I sent them a telegram.",
+      "cn": "在离开新加坡前我给他们发了一封电报."
+    },
+    {
+      "en": "The president received a briefing by telegram.",
+      "cn": "总裁收到了一份电报简报。"
+    },
+    {
+      "en": "The President received a briefing by telegram.",
+      "cn": "总统收到用电报发来的一份简报。"
+    },
+    {
+      "en": "The victory inspired him to dispatch a gleeful telegram to Roosevelt.",
+      "cn": "胜利促使他给罗斯福发了封喜报。"
+    },
+    {
+      "en": "They dispatched a telegram to the old man's son.",
+      "cn": "他们给老人的儿子发了一份电报."
+    },
+    {
+      "en": "Will you hand on this telegram to your friend?",
+      "cn": "你把这份电报转交给你的朋友好 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "telegraphic",
+          "tran_cn": " 电信的；电报的；电报机的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "telegraphically",
+          "tran_cn": " 通过电报，用电报"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "telecasting",
+          "tran_cn": " 电视广播；大众传播"
+        },
+        {
+          "word": "telegrapher",
+          "tran_cn": " 报务员；电报员"
+        },
+        {
+          "word": "telegraphy",
+          "tran_cn": " 电信；电报学"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "telecasting",
+          "tran_cn": " 用电视播放（telecast的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cable",
+            "cablegram",
+            "dispatch",
+            "lettergram",
+            "marconigram",
+            "message",
+            "radiogram",
+            "radiotelegram",
+            "telegram",
+            "telegraph",
+            "telex",
+            "transmission",
+            "wire"
+          ],
+          "tran_cn": "电报,电信"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "greeting"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "to send a telegram",
+      "tran_cn": "发电报"
+    },
+    {
+      "phrase": "urgent telegram",
+      "tran_cn": "急电"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "电报",
+      "tran_en": "a message sent by telegraph"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "发电报"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用电报发送"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "telegrams"
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "word": "steal",
+  "ipa": {
+    "us": "stiːl",
+    "uk": "stiːl"
+  },
+  "sentences": [
+    {
+      "en": "At only £3.50, this champagne is a steal.",
+      "cn": "这瓶香槟酒只卖3.50英镑，太便宜了。"
+    },
+    {
+      "en": "Boys broke into a shop and stole £45 in cash.",
+      "cn": "男孩们闯进一家商店，盗走了45英镑现金。"
+    },
+    {
+      "en": "During the riots hundreds of people seized the opportunity to steal property.",
+      "cn": "在暴乱中成百上千的人纷纷趁机偷窃财物。"
+    },
+    {
+      "en": "He managed to steal a kiss from the girl.",
+      "cn": "他冷不防吻了那姑娘一下."
+    },
+    {
+      "en": "He planned to steal the money, but his schemes were discovered.",
+      "cn": "他打算去偷那笔钱, 但他的诡计被揭穿了."
+    },
+    {
+      "en": "He tried to strangle a border policeman and steal his gun.",
+      "cn": "他企图勒死一名边防警察并偷走他的枪。"
+    },
+    {
+      "en": "His friend tempted him to steal.",
+      "cn": "他的朋友怂恿他去偷东西."
+    },
+    {
+      "en": "Hunger reduced him to steal.",
+      "cn": "饥饿使他不得不行窃."
+    },
+    {
+      "en": "In his confession the thief incriminated two others who helped him steal.",
+      "cn": "这个盗窃犯在供词中牵连了另外两个协助他偷窃的人."
+    },
+    {
+      "en": "It is wrong to steal.",
+      "cn": "偷窃是不道德的."
+    },
+    {
+      "en": "It's immoral to steal.",
+      "cn": "偷盗是不道德的。"
+    },
+    {
+      "en": "People who are drug addicts come in and steal.",
+      "cn": "瘾君子会进来偷东西。"
+    },
+    {
+      "en": "stores that open on Sunday are stealing a march on their competitors.",
+      "cn": "星期天营业的商店比它们的竞争者更有优势。"
+    },
+    {
+      "en": "The eighth commandment is \"Thou shalt not steal\".",
+      "cn": "第八诫是“不可偷盗”。"
+    },
+    {
+      "en": "The thief was perceived to steal into the house.",
+      "cn": "有人看见小偷溜进那房子里去了."
+    },
+    {
+      "en": "They can steal away at night and join us.",
+      "cn": "他们可以晚上偷偷溜出来和我们碰面。"
+    },
+    {
+      "en": "What were you thinking of? You shouldn't steal.",
+      "cn": "你当时是怎么想的？你不该偷东西。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "stealing",
+          "tran_cn": " 有偷窃行为的"
+        },
+        {
+          "word": "stolen",
+          "tran_cn": " 偷走的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "stealthily",
+          "tran_cn": " 暗地里"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stealer",
+          "tran_cn": " 偷窃者；偷干者"
+        },
+        {
+          "word": "stealing",
+          "tran_cn": " 偷窃；贼赃；偷垒（棒球比赛中的犯规行为）"
+        },
+        {
+          "word": "stealth",
+          "tran_cn": " 秘密；秘密行动；鬼祟"
+        },
+        {
+          "word": "stole",
+          "tran_cn": " 圣衣；女用披肩"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "stealing",
+          "tran_cn": " 偷盗；抄袭（steal的ing形式）"
+        },
+        {
+          "word": "stole",
+          "tran_cn": " 偷窃，偷盗（steal的过去式）"
+        },
+        {
+          "word": "stolen",
+          "tran_cn": " 偷窃；剽窃（steal的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "rip-off",
+            "cheapie"
+          ],
+          "tran_cn": "[法]偷窃；便宜货；偷垒"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "creep",
+            "embezzle",
+            "filch",
+            "hijack",
+            "pilfer",
+            "pirate",
+            "plunder",
+            "prowl",
+            "rob",
+            "skulk",
+            "sneak",
+            "take",
+            "thieve"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "scrump",
+            "pick pocket"
+          ],
+          "tran_cn": "[法]偷窃；剽窃；偷偷地做"
+        }
+      ]
+    },
+    {
+      "pos": "vt & vi.",
+      "words": [
+        {
+          "words": [
+            "filch",
+            "pilfer",
+            "rob",
+            "take",
+            "thieve"
+          ],
+          "tran_cn": "偷;抢"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "steal (someone's) thunder",
+      "tran_cn": "强占：使用、强占或用先买权占有别人想法的使用权，尤指对自己有好处且未得到发明者同意的"
+    },
+    {
+      "phrase": "steal a march on",
+      "tran_cn": "占先机，抢先而获得优势"
+    },
+    {
+      "phrase": "steal away",
+      "tran_cn": "（把某物）偷走；溜掉"
+    },
+    {
+      "phrase": "steal over",
+      "tran_cn": "（感情等）渐渐控制…；渐渐弥漫；悄悄地呈现；不知不觉地袭来"
+    },
+    {
+      "phrase": "steal someone blind",
+      "tran_cn": "(非正式)无情地抢劫；彻底地欺骗"
+    },
+    {
+      "phrase": "steal someone's heart",
+      "tran_cn": "赢得…的爱"
+    },
+    {
+      "phrase": "steal someone's thunder",
+      "tran_cn": "在别人试图留下印象前赢得称赞"
+    },
+    {
+      "phrase": "steal the show",
+      "tran_cn": "吸引注意力，赢得赞扬"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "便宜货，偷窃",
+      "tran_en": "to be very cheap"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "窃取，偷偷移动，偷垒",
+      "tran_en": "to take something that belongs to someone else"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "steals"
+    ],
+    "third": [
+      "steals"
+    ],
+    "past": [
+      "stole"
+    ],
+    "done": [
+      "stolen"
+    ],
+    "ing": [
+      "stealing"
+    ]
+  }
+}

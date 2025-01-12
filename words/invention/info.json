@@ -1,0 +1,167 @@
+{
+  "word": "invention",
+  "ipa": {
+    "us": "ɪnˈvenʃn",
+    "uk": "ɪnˈvenʃn"
+  },
+  "sentences": [
+    {
+      "en": "Come along, someone must want to know my invention.",
+      "cn": "再努力想想看, 肯定会有人对我的发明感兴趣."
+    },
+    {
+      "en": "Fax machines were a wonderful invention at the time.",
+      "cn": "传真机在当时是一项了不起的发明。"
+    },
+    {
+      "en": "It's a most useful invention.",
+      "cn": "这是一项极其有用的发明."
+    },
+    {
+      "en": "It's been a tricky business marketing his new invention.",
+      "cn": "推广他的新发明一直是件棘手的事情。"
+    },
+    {
+      "en": "Tell us how you lit upon the idea for your invention.",
+      "cn": "请告诉我们,你是怎么想到你那个发明的."
+    },
+    {
+      "en": "The dishwasher is a wonderful invention.",
+      "cn": "洗碗机是一项奇妙的发明。"
+    },
+    {
+      "en": "the invention of printing",
+      "cn": "印刷术的发明"
+    },
+    {
+      "en": "The invention of printing helped the diffusion of learning.",
+      "cn": "印刷术的发明有助于知识的传播."
+    },
+    {
+      "en": "The invention of the computer has revolutionized the business world.",
+      "cn": "电脑的发明使商界发生了根本变化。"
+    },
+    {
+      "en": "The new invention ensures the beer keeps a full, frothy head.",
+      "cn": "这项新发明能保证啤酒始终保持丰富的泡沫。"
+    },
+    {
+      "en": "They attributed the success of their invention to Engineer Huang.",
+      "cn": "他们把发明的成功归于黄工程师."
+    },
+    {
+      "en": "They demonstrated the new invention to us.",
+      "cn": "他们向我们演示了他们的新发明."
+    },
+    {
+      "en": "They subsequently admitted that the story was pure invention.",
+      "cn": "他们后来承认他们说的纯属虚构。"
+    },
+    {
+      "en": "This invention is ascribed to Edison.",
+      "cn": "这项发明被认为是属于爱迪生的."
+    },
+    {
+      "en": "This safety invention will eject the pilot from a burning plane.",
+      "cn": "这个安全装置会把飞行员从燃烧着的飞机中弹出."
+    },
+    {
+      "en": "To be a good story - writer a person needs invention.",
+      "cn": "要当优秀小说家,就必须有创作才能."
+    },
+    {
+      "en": "You can't fault them for lack of invention.",
+      "cn": "你不能因为他们缺乏创新就指责他们。"
+    },
+    {
+      "en": "Your invention is clever, but not practical.",
+      "cn": "你的发明很巧, 但不实用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inventive",
+          "tran_cn": " 发明的；有发明才能的；独出心裁的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inventiveness",
+          "tran_cn": " 创造性；发明的才能"
+        },
+        {
+          "word": "inventor",
+          "tran_cn": " 发明家；[专利] 发明人；创造者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "invent",
+          "tran_cn": " 发明；创造；虚构"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fiction",
+            "contrivance"
+          ],
+          "tran_cn": "[专利]发明；发明物；虚构；发明才能"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coinage",
+            "fiction",
+            "formation",
+            "ingenuity",
+            "patent",
+            "pretense",
+            "romance"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "patent of invention",
+      "tran_cn": "发明专利"
+    },
+    {
+      "phrase": "patented invention",
+      "tran_cn": "发明专利权"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "发明，捏造，发明才能，创意",
+      "tran_en": "a useful machine, tool, instrument etc that has been invented"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "inventions"
+    ]
+  }
+}

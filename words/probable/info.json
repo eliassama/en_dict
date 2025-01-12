@@ -1,0 +1,166 @@
+{
+  "word": "probable",
+  "ipa": {
+    "us": "ˈprɒbəbl",
+    "uk": "ˈprɑːbəbl"
+  },
+  "sentences": [
+    {
+      "en": "A storm is probable today.",
+      "cn": "今天可能会有暴风雨."
+    },
+    {
+      "en": "For some viruses the encounter with a surface is probable diffusion - limited.",
+      "cn": "有些病毒与表面接触可能受到扩散的限制."
+    },
+    {
+      "en": "His new hypothesis is considered probable.",
+      "cn": "他作出的新假设被认为是有充分根据的."
+    },
+    {
+      "en": "I fear that a land war now looks very probable.",
+      "cn": "恐怕陆地战爆发的可能性很大。"
+    },
+    {
+      "en": "I should think it very probable, and you certainly will be successful.",
+      "cn": "我想这是很可能的, 你无疑会一帆风顺的."
+    },
+    {
+      "en": "It is hardly probable that he will succeed.",
+      "cn": "他不会成功."
+    },
+    {
+      "en": "It is highly probable that many of the Service's personnel were put off by such high-flown rhetoric.",
+      "cn": "很可能该部门的许多工作人员都对这种华而不实的虚夸言辞感到反感。"
+    },
+    {
+      "en": "It is probable that he has forgotten.",
+      "cn": "恐怕他是忘了."
+    },
+    {
+      "en": "It is probable that she might change her mind at the last minute.",
+      "cn": "她大概会在最后时刻改变主意."
+    },
+    {
+      "en": "It is probable that the medication will suppress the symptom without treating the condition.",
+      "cn": "这种药物有可能治标不治本。"
+    },
+    {
+      "en": "It'seems probable that he will arrive before dusk.",
+      "cn": "他似乎有可能黄昏前到达."
+    },
+    {
+      "en": "Rain is possible, but not probable before evening.",
+      "cn": "有可能要下雨, 但天黑前不可能下. murderer是 那些possiblemurderer中 犯罪动机最强、时机最好的谋杀犯"
+    },
+    {
+      "en": "She was named as the probable successor.",
+      "cn": "她被指定为可能的继承人."
+    },
+    {
+      "en": "Success is highly probable .",
+      "cn": "成功的希望相当大。"
+    },
+    {
+      "en": "Success is possible but hardly probable.",
+      "cn": "成功是有可能的,但不一定."
+    },
+    {
+      "en": "The probable cause of the fire was faulty wiring.",
+      "cn": "起火的原因很可能是电路故障。"
+    },
+    {
+      "en": "The probable outcome of the talks is a compromise.",
+      "cn": "会谈的结果很可能是妥协."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "probably",
+          "tran_cn": " 大概；或许；很可能"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "probability",
+          "tran_cn": " 可能性；机率；[数] 或然率"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "apt",
+            "hopeful",
+            "liable",
+            "likely",
+            "presumable",
+            "promising"
+          ],
+          "tran_cn": "可能的;有希望的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accessible",
+            "achievable",
+            "apt",
+            "contingent",
+            "hopeful",
+            "liable",
+            "likely",
+            "possible",
+            "presumable",
+            "promising"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "most probable",
+      "tran_cn": "最可能的"
+    },
+    {
+      "phrase": "probable cause",
+      "tran_cn": "可能的原因；合理的根据"
+    },
+    {
+      "phrase": "probable error",
+      "tran_cn": "概差；概然误差；可能错误"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可能的，大概的",
+      "tran_en": "likely to exist, happen, or be true"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "很可能的事，可能入选者",
+      "tran_en": "someone who is likely to be chosen for a team, to win a race etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "probables"
+    ]
+  }
+}

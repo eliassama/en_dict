@@ -1,0 +1,89 @@
+{
+  "word": "rescind",
+  "ipa": {
+    "us": "rɪˈsɪnd",
+    "uk": "rɪˈsɪnd"
+  },
+  "sentences": [
+    {
+      "en": "A voidable contract is one that a party will be entitled to rescind.",
+      "cn": "在可撤销合同中,合同一方有权废止合同."
+    },
+    {
+      "en": "Darlan then tried to rescind the order.",
+      "cn": "当时达尔郎欲收回成命."
+    },
+    {
+      "en": "If one party fails to honor the contract, the other party is entitled to rescind it.",
+      "cn": "如果一方不履行合同, 另一方就有权取消它."
+    },
+    {
+      "en": "Prudentials is important to adoption of subrogation and the right to rescind.",
+      "cn": "对于代位权和撤销权严格适用."
+    },
+    {
+      "en": "That wouldn't rescind the bonuses , just require AIG to account them differently.",
+      "cn": "这一条款不会禁止分红, 只是要求AIG对此做合理的解释."
+    },
+    {
+      "en": "The governor does not have the authority to rescind the ruling.",
+      "cn": "该州长无权撤销这项裁决。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "annul",
+            "repeal",
+            "retract",
+            "revoke"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "release from",
+            "want out"
+          ],
+          "tran_cn": "解除；废除；撤回"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "解除；废除；撤回",
+      "tran_en": "to officially end a law, or change a decision or agreement"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "废除，撤销",
+      "tran_en": "to officially end a law, or change a decision or agreement"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "rescinds"
+    ],
+    "past": [
+      "rescinded"
+    ],
+    "done": [
+      "rescinded"
+    ],
+    "ing": [
+      "rescinding"
+    ]
+  }
+}

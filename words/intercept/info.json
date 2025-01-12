@@ -1,0 +1,168 @@
+{
+  "word": "intercept",
+  "ipa": {
+    "us": "ˌɪntəˈsept",
+    "uk": "ˌɪntərˈsept"
+  },
+  "sentences": [
+    {
+      "en": "An advanced model, the Nike - Zeus, is designed to intercept invading missiles.",
+      "cn": "一种先进模式的“奈克Ⅲ式”导弹被设计用于截击入侵导弹."
+    },
+    {
+      "en": "an attempt to intercept drugs being smuggled over the border",
+      "cn": "阻截毒品走私入境的努力"
+    },
+    {
+      "en": "Camby is still there and is always trying to intercept the shots.",
+      "cn": "这一场,坎比还在那儿,试图封盖."
+    },
+    {
+      "en": "Continue the heading to intercept localizer, cleared for ILS approach.",
+      "cn": "继续这一航向切入航道, 允许盲降进入."
+    },
+    {
+      "en": "Gunmen intercepted him on his way to the airport.",
+      "cn": "持枪人在他去机场的路上截住了他。"
+    },
+    {
+      "en": "Heavy vegetation may intercept a large amount of precipitation on its leaves.",
+      "cn": "浓密的植被的叶子中能截留大量的降水."
+    },
+    {
+      "en": "His phone calls were intercepted.",
+      "cn": "他的电话被截听了。"
+    },
+    {
+      "en": "Intercept will now cause damage to targets that are immune to stun.",
+      "cn": "即使目标免疫昏迷,拦截也会对其造成伤害."
+    },
+    {
+      "en": "It is illegal to intercept a letter or parcel before it is delivered.",
+      "cn": "在送达之前，中途拦截信件或包裹是非法的。"
+    },
+    {
+      "en": "It is illegal to intercept radio messages.",
+      "cn": "拦截无线电报是非法的。"
+    },
+    {
+      "en": "Our troops are going to intercept the enemy at the mountain pass.",
+      "cn": "我军将在这个山口要击敌人."
+    },
+    {
+      "en": "Regression estimates : including intercept and coefficients for linear, quadratic and correlation coefficient.",
+      "cn": "2?归参数: 含截距 、 一次、二次?归参数与相关系数."
+    },
+    {
+      "en": "The camera is then placed to intercept the desired rays.",
+      "cn": "这时即可放置照相机去接收所要的光线."
+    },
+    {
+      "en": "The Sentinels circling the dome to intercept the new threat.",
+      "cn": "哨兵围绕着圆屋顶拦截新的威胁."
+    },
+    {
+      "en": "To study relationship area under ROC curve with intercept and slope.",
+      "cn": "目的探索roc曲线 下面积与roc曲线 在ND轴上的截距、斜率的关系."
+    },
+    {
+      "en": "To take or intercept the impact of ( a blow, for example ).",
+      "cn": "接受或拦截 ( 例如一拳 ) 的冲击."
+    },
+    {
+      "en": "Write a VB source to intercept anti - WINDOWS shutdown shutdown process!",
+      "cn": "写VB的源拦截 反 窗口关闭关机过程!"
+    },
+    {
+      "en": "Yuke Landing Force Fighter squadron, turn to intercept them.",
+      "cn": "战斗机中队, 转去迎击敌人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interception",
+          "tran_cn": " 拦截，截住；截断，截取；侦听，窃听"
+        },
+        {
+          "word": "interceptor",
+          "tran_cn": " [航][军] 拦截机；妨碍者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arrest",
+            "check",
+            "hold",
+            "interrupt",
+            "stop",
+            "up"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "block tackle",
+            "hold up"
+          ],
+          "tran_cn": "拦截；截断；窃听"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "intercept method",
+      "tran_cn": "截距法；顶距差法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（数学）截距，截击，拦截，截听，拦截者"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "拦截；截断；窃听",
+      "tran_en": "to stop something or someone that is going from one place to another before they get there"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "拦截，拦住，截球，截击，拦阻",
+      "tran_en": "to stop something or someone that is going from one place to another before they get there"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "intercepts"
+    ],
+    "third": [
+      "intercepts"
+    ],
+    "past": [
+      "intercepted"
+    ],
+    "done": [
+      "intercepted"
+    ],
+    "ing": [
+      "intercepting"
+    ],
+    "noun": [
+      "interception"
+    ]
+  }
+}

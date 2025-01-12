@@ -1,0 +1,40 @@
+{
+  "word": "heteromorphic",
+  "ipa": {
+    "us": "ˌhetərə'mɔ:fɪk",
+    "uk": "ˌhetərə'mɔfɪk"
+  },
+  "sentences": [
+    {
+      "en": "Heteromorphic data integrity contains three steps: data preparation, data mapping and data combination.",
+      "cn": "异构数据集成包括三个步骤: 数据准备, 数据匹配和数据合并."
+    },
+    {
+      "en": "In most heteromorphic plants the stigmas of the different morphs have different surface textures and the pollen may be of different size or sculpturing or both.",
+      "cn": "在大多数异态型植物中．不同形态的柱头的表面结构不同，花粉的大小或纹饰不同，或两者兼而有之。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "deponent"
+          ],
+          "tran_cn": "[生物]异形的，异态的；[化学]多晶型的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "完全变态的，变形的",
+      "tran_en": "differing from the normal form in size, shape, and function "
+    }
+  ],
+  "exchange": {}
+}

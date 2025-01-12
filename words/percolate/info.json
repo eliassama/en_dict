@@ -1,0 +1,146 @@
+{
+  "word": "percolate",
+  "ipa": {
+    "us": "ˈpɜ:kəleɪt",
+    "uk": "ˈpɜrkəleɪt"
+  },
+  "sentences": [
+    {
+      "en": "Credit becomes readily available, asset prices percolate , and many categories of spending are buoyed.",
+      "cn": "信贷唾手可得, 资产价格的上涨渗入各个领域, 各种开支也是越涨越高."
+    },
+    {
+      "en": "I waited for the coffee to percolate down for a few minutes.",
+      "cn": "我等咖啡滤煮了几分钟."
+    },
+    {
+      "en": "I'll percolate some coffee for you.",
+      "cn": "我给你滤煮一些咖啡."
+    },
+    {
+      "en": "I'll percolate some coffee, ie make it by percolating.",
+      "cn": "我去用过滤法煮些咖啡."
+    },
+    {
+      "en": "Let the coffee percolate for seven minutes.",
+      "cn": "让咖啡滤7分钟."
+    },
+    {
+      "en": "Our emotions swim in a soup of hormones and peptides that percolate through our whole body.",
+      "cn": "我们的情绪在浸透了整个身躯的荷尔蒙和缩氨酸的海洋中遨游."
+    },
+    {
+      "en": "Rain water will only percolate through slowly.",
+      "cn": "雨水只会慢慢地渗进来。"
+    },
+    {
+      "en": "The rain will percolate through the soil.",
+      "cn": "雨水渗入土中."
+    },
+    {
+      "en": "These ideas were slow to percolate.",
+      "cn": "这些观念流传得很慢。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "percolation",
+          "tran_cn": " 过滤；浸透"
+        },
+        {
+          "word": "percolator",
+          "tran_cn": " 过滤器；渗滤器；咖啡渗滤壶"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "transduate",
+            "diffusate"
+          ],
+          "tran_cn": "滤过液；渗出液"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bubble",
+            "filter"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "filtrate",
+            "water logging"
+          ],
+          "tran_cn": "过滤；渗出；浸透"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "exude"
+          ],
+          "tran_cn": "使渗出；使过滤"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "滤过之液体, 滤液"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 过滤出； 渗透",
+      "tran_en": "if liquid, light, or air percolates somewhere, it passes slowly through a material that has very small holes in it"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "滤，渗透，（思想等）渗透，渗入"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（用渗滤壶）煮（咖啡），渗滤"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "percolates"
+    ],
+    "past": [
+      "percolated"
+    ],
+    "done": [
+      "percolated"
+    ],
+    "ing": [
+      "percolating"
+    ],
+    "noun": [
+      "percolation"
+    ]
+  }
+}

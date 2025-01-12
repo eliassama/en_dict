@@ -1,0 +1,105 @@
+{
+  "word": "sentimentalize",
+  "ipa": {
+    "us": "ˌsentɪˈmentəlaɪz",
+    "uk": "ˌsɛntəˈmɛntlˌaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Don't sentimentalize the past events.",
+      "cn": "不要伤感于过去的事情!"
+    },
+    {
+      "en": "Don't sentimentalize when you talk about animals.",
+      "cn": "谈论动物不必忧形于色."
+    },
+    {
+      "en": "He's the kind of filmmaker who doesn't hesitate to over-sentimentalize.",
+      "cn": "他是那种煽起情来不遗余力的电影制作人。"
+    },
+    {
+      "en": "novels that sentimentalize the past",
+      "cn": "怀旧小说"
+    },
+    {
+      "en": "We are apt to sentimentalize our past.",
+      "cn": "我们容易感伤地回忆我们的过去."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sentimental",
+          "tran_cn": " 感伤的；感情脆弱的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sentimentally",
+          "tran_cn": " 富情感地；多情地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sentiment",
+          "tran_cn": " 感情，情绪；情操；观点；多愁善感"
+        },
+        {
+          "word": "sentimentalism",
+          "tran_cn": " 感情主义；沉于情感"
+        },
+        {
+          "word": "sentimentalist",
+          "tran_cn": " 感伤主义者；多愁善感的人"
+        },
+        {
+          "word": "sentimentality",
+          "tran_cn": " 多愁善感"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "schmaltz"
+          ],
+          "tran_cn": "使感伤；为…而伤感"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "伤感",
+      "tran_en": "to speak, write, or think about only the good or happy things about something, not the bad things"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "sentimentalizes"
+    ],
+    "past": [
+      "sentimentalized"
+    ],
+    "done": [
+      "sentimentalized"
+    ],
+    "ing": [
+      "sentimentalizing"
+    ]
+  }
+}

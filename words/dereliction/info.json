@@ -1,0 +1,102 @@
+{
+  "word": "dereliction",
+  "ipa": {
+    "us": "ˌderəˈlɪkʃn",
+    "uk": "ˌdɛrəˈlɪkʃən"
+  },
+  "sentences": [
+    {
+      "en": "He pleaded guilty to wilful dereliction of duty.",
+      "cn": "他承认犯有玩忽职守罪。"
+    },
+    {
+      "en": "He was found guilty of gross dereliction of duty.",
+      "cn": "他被判严重玩忽职守."
+    },
+    {
+      "en": "He was reduced to ordinary soldier due to a serious dereliction of duty.",
+      "cn": "他因严重失职被降为普通士兵."
+    },
+    {
+      "en": "His criticisms of their dereliction of duty were right on the button.",
+      "cn": "他批评他们玩忽职守,这是很中肯的."
+    },
+    {
+      "en": "Official state media say the two mine officials were detained for alleged dereliction of duty.",
+      "cn": "中国官方媒体报导,两名煤矿官员因被控玩忽职守而被拘留."
+    },
+    {
+      "en": "Other conducts involving abusing authority, dereliction of duty and playing favoritism and committing irregularities.",
+      "cn": "(五)其他滥用职权 、 玩忽职守、徇私舞弊的行为."
+    },
+    {
+      "en": "The previous owners had rescued the building from dereliction.",
+      "cn": "这座建筑之前的业主将其从破败不堪的状况中挽救了出来。"
+    },
+    {
+      "en": "This policeman was punished for his dereliction of duty.",
+      "cn": "这名警察因玩忽职守罪被判了刑."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "derelict",
+          "tran_cn": " 玩忽职守的；无主的；被抛弃了的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "derelict",
+          "tran_cn": " 遗弃物；玩忽职守者；被遗弃的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "malpractice",
+            "fall asleep at the switch"
+          ],
+          "tran_cn": "玩忽职守；抛弃物；遗弃"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "delinquency",
+            "desertion",
+            "offense"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dereliction of duty",
+      "tran_cn": "失职；疏忽职守"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "无主，抛弃物，溺职",
+      "tran_en": "when someone fails to do what they should do as part of their job"
+    }
+  ],
+  "exchange": {}
+}

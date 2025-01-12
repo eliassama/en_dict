@@ -1,0 +1,96 @@
+{
+  "word": "draughty",
+  "ipa": {
+    "us": "ˈdrɑːfti",
+    "uk": " ˈdræfti"
+  },
+  "sentences": [
+    {
+      "en": "a draughty old house",
+      "cn": "透风的老房子"
+    },
+    {
+      "en": "He led me through to a bare, draughty interviewing room.",
+      "cn": "他把我带到了一间空荡荡的、有过堂风的会见室。"
+    },
+    {
+      "en": "It's terribly draughty in here.",
+      "cn": "这儿穿堂风大极了."
+    },
+    {
+      "en": "Store in a place of shady and cool, dry and draughty keep away from incompatible substances.",
+      "cn": "储存在密闭的容器中.储存于阴凉 、 干燥、通风好的地方,并远离不相容物质."
+    },
+    {
+      "en": "The floor was draughty bare boards.",
+      "cn": "地面铺的是透气性好的实木地板。"
+    },
+    {
+      "en": "This is a draughty house.",
+      "cn": "这是一栋通风的房屋."
+    },
+    {
+      "en": "We were sitting in a draughty position near the door.",
+      "cn": "我们坐在门边有穿堂风经过的地方."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "draught",
+          "tran_cn": " 汲出的；拖拉的（等于draft）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "draught",
+          "tran_cn": " 气流；汇票；草稿（等于draft）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "draught",
+          "tran_cn": " 起草；征兵；选派（等于draft）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "ventilative",
+            "airy"
+          ],
+          "tran_cn": "通风的；通风良好的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "通风良好的，有隙缝风吹入的",
+      "tran_en": "a draughty room or building has cold air blowing through it"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "draughtier"
+    ],
+    "est": [
+      "draughtiest"
+    ]
+  }
+}

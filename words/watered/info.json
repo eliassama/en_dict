@@ -1,0 +1,171 @@
+{
+  "word": "watered",
+  "ipa": {
+    "us": "'wɔ:təd",
+    "uk": "'wɔtəd"
+  },
+  "sentences": [
+    {
+      "en": "Have the horses been fed and watered?",
+      "cn": "给马匹喂食饮水了 吗 ?"
+    },
+    {
+      "en": "He watered down the wine.",
+      "cn": "他在酒中掺水."
+    },
+    {
+      "en": "He went out to water the plants.",
+      "cn": "他出去给植物浇水。"
+    },
+    {
+      "en": "His eyes watered from cigarette smoke.",
+      "cn": "他的眼睛被香烟熏得直流泪。"
+    },
+    {
+      "en": "I'm sure this whisky has been watered down.",
+      "cn": "我敢肯定这瓶威士忌掺过水了."
+    },
+    {
+      "en": "Proposed legislation affecting bird-keepers has been watered down.",
+      "cn": "影响养鸟者的立法提案的措词已经缓和一些了。"
+    },
+    {
+      "en": "The flowers scorched as they were not watered for a long time.",
+      "cn": "由于很久未浇水,花都枯萎了."
+    },
+    {
+      "en": "The garden is crying out to be watered.",
+      "cn": "花园需要马上浇水."
+    },
+    {
+      "en": "The land is watered by these rivers.",
+      "cn": "这片土地受这些河流灌溉."
+    },
+    {
+      "en": "The milk has been watered ( down ).",
+      "cn": "牛奶已掺水了."
+    },
+    {
+      "en": "The plants want watering / want to be watered daily.",
+      "cn": "这些花草得天天浇水."
+    },
+    {
+      "en": "The story has been watered down.",
+      "cn": "这故事的生动性被冲淡了."
+    },
+    {
+      "en": "The valley is continuously watered by the melting snow from the mountains.",
+      "cn": "群山融化的雪不断流经山谷."
+    },
+    {
+      "en": "The wine has been watered.",
+      "cn": "这酒是兑了水的."
+    },
+    {
+      "en": "They watered the thirsty fields.",
+      "cn": "他们给干旱的土地灌水."
+    },
+    {
+      "en": "Tom's mouth watered for the apple, but he stuck to his work.",
+      "cn": "看见那苹果,汤姆馋得直流口水, 可是他还是继续刷他的墙."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "watering",
+          "tran_cn": " 灌溉的；浇水用的"
+        },
+        {
+          "word": "waterless",
+          "tran_cn": " 无水的；干的；不用水的，不需水的"
+        },
+        {
+          "word": "watery",
+          "tran_cn": " 水的；淡的；湿的；松软的；有雨意的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "water",
+          "tran_cn": " 水；海水；雨水；海域，大片的水"
+        },
+        {
+          "word": "waterer",
+          "tran_cn": " 饮水器；供给饮水的人"
+        },
+        {
+          "word": "wateriness",
+          "tran_cn": " 平淡；多水；稀薄"
+        },
+        {
+          "word": "watering",
+          "tran_cn": " 浇水；灌溉；排水沟"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "watering",
+          "tran_cn": " 浇水；灌溉（water的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "water",
+          "tran_cn": " 加水；流泪"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "water",
+          "tran_cn": " 使湿；供以水；给…浇水"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "crimped"
+          ],
+          "tran_cn": "掺水的；洒有水的，洒了水的；有波纹的；加虚股的（面值增加而实值未按比例增加）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "watered down",
+      "tran_cn": "冲淡的， 打折扣的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "洒有水的，掺水的，<美>加虚股的，面值增加而实值未按比例增加的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "给…水喝( water的过去式和过去分词 )，在…浇水[洒水]，往（酒里）掺水，（尤指江河）流经并供水给（某地区）",
+      "tran_en": "If you water plants, you pour water over them in order to help them to grow"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,195 @@
+{
+  "word": "exclude",
+  "ipa": {
+    "us": "ɪkˈskluːd",
+    "uk": "ɪkˈskluːd"
+  },
+  "sentences": [
+    {
+      "en": "a special diet that excludes dairy products",
+      "cn": "不包含奶制品的特别食谱"
+    },
+    {
+      "en": "Conclusion CT scan can confirm or exclude the diagnosis of intestinal obstruction.",
+      "cn": "结论ct可确定或除外肠梗阻,同时在判断是否绞窄性肠梗阻或麻痹性肠梗阻的诊断中起着重要的作用."
+    },
+    {
+      "en": "Further examination is needed to exclude the chance of disease.",
+      "cn": "需要进一步检查以排除患病的可能。"
+    },
+    {
+      "en": "I cannot entirely exclude the possibility that some form of pressure was applied to the neck.",
+      "cn": "我不能完全排除颈部受到某种压迫的可能性。"
+    },
+    {
+      "en": "It can exclude all the other agent except hair cell.",
+      "cn": "它可以排除毛细胞以外的其他一切因素的影响."
+    },
+    {
+      "en": "Note: Road traffic accident of 2003,2004 exclude the slight accident.",
+      "cn": "注: 2003、2004年道路交通事故不含轻微事故."
+    },
+    {
+      "en": "Please note that the above items are exclude Delivery Charges.",
+      "cn": "请注意!以上价格不包括邮费."
+    },
+    {
+      "en": "Practical considerations exclude the possibility of ideal conditions being fully realized.",
+      "cn": "由于某些事际的考虑,而使理想状态不能充分实现."
+    },
+    {
+      "en": "Sarah heard the other girls talking and laughing and felt excluded.",
+      "cn": "萨拉听见其他女孩又说又笑，觉得自己受到了排斥。"
+    },
+    {
+      "en": "She gets very upset if I exclude her from anything.",
+      "cn": "要是有什么事情我不让她参加，她会非常难过。"
+    },
+    {
+      "en": "The judges decided to exclude evidence which had been unfairly attained.",
+      "cn": "法官裁决不接纳以不正当手段获取的证据。"
+    },
+    {
+      "en": "The mould is then covered to exclude dust.",
+      "cn": "然后将模具盖好,以防尘埃."
+    },
+    {
+      "en": "The result does not exclude the possible coexistence of an underlying lung cancer.",
+      "cn": "化验结果并不能排出潜在合并肺癌的可能性."
+    },
+    {
+      "en": "Then we exclude Elements A and B then we include again the AB.",
+      "cn": "然后去掉A和B的元素,再重新包含AB的元素."
+    },
+    {
+      "en": "They eat only plant foods, and take care to exclude animal products from other areas of their lives.",
+      "cn": "他们只吃素食，在生活的其他方面也注意拒绝使用动物产品。"
+    },
+    {
+      "en": "They have spent $3 million building fences around the National Park to exclude such pests.",
+      "cn": "为了阻止这类有害动物进入，他们已经耗资300万美元在国家公园周边建造围栏。"
+    },
+    {
+      "en": "This definition does not exclude the use of pesticides.",
+      "cn": "这个定义并不排除使用杀虫剂."
+    },
+    {
+      "en": "We can exclude the possibility of total loss from our calculations.",
+      "cn": "我们可以在预测中把彻底失败的可能性排除在外."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "exclusive",
+          "tran_cn": " 独有的；排外的；专一的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "exclusively",
+          "tran_cn": " 唯一地；专有地；排外地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "exclusion",
+          "tran_cn": " 排除；排斥；驱逐；被排除在外的事物"
+        },
+        {
+          "word": "exclusive",
+          "tran_cn": " 独家新闻；独家经营的项目；排外者"
+        },
+        {
+          "word": "exclusiveness",
+          "tran_cn": " 排他性；排外性；独占"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ban",
+            "bar",
+            "eliminate",
+            "except",
+            "exile",
+            "forbid",
+            "keep",
+            "omit",
+            "out",
+            "outlaw",
+            "preclude",
+            "prohibit",
+            "reject",
+            "repudiate",
+            "shut"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bar",
+            "forbid",
+            "keep",
+            "out",
+            "outlaw",
+            "prohibit",
+            "reject",
+            "shut"
+          ],
+          "tran_cn": "排斥;禁止"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "law (或 principle) of the excluded middle",
+      "tran_cn": "(逻)排中律"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "不包括，把…排斥在外，排除…的可能性",
+      "tran_en": "to deliberately not include something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 把…排除在外",
+      "tran_en": "to deliberately not include something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "excludes"
+    ],
+    "past": [
+      "excluded"
+    ],
+    "done": [
+      "excluded"
+    ],
+    "ing": [
+      "excluding"
+    ]
+  }
+}

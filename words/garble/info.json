@@ -1,0 +1,105 @@
+{
+  "word": "garble",
+  "ipa": {
+    "us": "'gɑ:bl",
+    "uk": "ˈɡɑrbəl"
+  },
+  "sentences": [
+    {
+      "en": "Say again, you are garble.",
+      "cn": "重说一遍, 不理解."
+    },
+    {
+      "en": "You garble my words from their real meaning.",
+      "cn": "你曲解了我的话的真实含义。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "garbled",
+          "tran_cn": " 篡改的；混乱的；引起误解的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "garbled",
+          "tran_cn": " 断章取义（garble的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "confusion",
+            "manipulation"
+          ],
+          "tran_cn": "断章取义；[通信]混淆；篡改"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "color"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "colour",
+            "out of context"
+          ],
+          "tran_cn": "断章取义；歪曲；[通信]混淆"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "断章取义；混淆；篡改",
+      "tran_en": "the act of garbling "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "断章取义, 混淆",
+      "tran_en": "to jumble (a story, quotation, etc), esp unintentionally "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "对（事实）歪曲，对（文章等）断章取义，窜改"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "garbles"
+    ],
+    "past": [
+      "garbled"
+    ],
+    "done": [
+      "garbled"
+    ],
+    "ing": [
+      "garbling"
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "word": "donate",
+  "ipa": {
+    "us": "dəʊˈneɪt",
+    "uk": "ˈdoʊneɪt"
+  },
+  "sentences": [
+    {
+      "en": "Besides doing our own job well, we can donate money to them.",
+      "cn": "除了把自己的工作做好以为, 我们可以捐钱给他们."
+    },
+    {
+      "en": "Don't just ask for something while forgetting to donate.",
+      "cn": "不要只顾求索,而忘记付出."
+    },
+    {
+      "en": "Donate some coffins to the temple, equal to the number of deaths.",
+      "cn": "到寺庙里, 捐赠棺材盒给这些死者吧."
+    },
+    {
+      "en": "He frequently donates large sums to charity.",
+      "cn": "他经常向慈善机构大笔捐款。"
+    },
+    {
+      "en": "Many people offered to donate blood and skin for the badly burnt worker.",
+      "cn": "很多人要求为那个严重烧伤的工人献血献皮."
+    },
+    {
+      "en": "More than 100 men hurried to the scene to donate their blood.",
+      "cn": "有100多人赶到现场献血."
+    },
+    {
+      "en": "people who volunteer to donate blood",
+      "cn": "自愿献血者"
+    },
+    {
+      "en": "Pictures of starving children have sent many people scurrying to donate money.",
+      "cn": "看到一张张忍饥挨饿的孩子们的照片，许多人赶忙捐钱。"
+    },
+    {
+      "en": "Sha Sha you might use the same way to donate.",
+      "cn": "莎莎你也可以通过这样的方式来捐款."
+    },
+    {
+      "en": "She is willing to donate money to a worthy cause.",
+      "cn": "她愿为高尚的事业捐款."
+    },
+    {
+      "en": "The person that there is hypoglycemia symptom whether donate blood?",
+      "cn": "有低血糖症状的人能否献血?"
+    },
+    {
+      "en": "The United States corporations donate to charity and other nonprofit purposes some $ 1,600 million annually.",
+      "cn": "美国各大公司每年为慈善事业和其它非牟利事业捐款约十六亿美元."
+    },
+    {
+      "en": "They used to donate large sum of money to the Red Cross every year.",
+      "cn": "他们过去每年都向红十字会捐献大笔的钱."
+    },
+    {
+      "en": "They used to donate to the Red Cross every year.",
+      "cn": "他们每年捐钱给红十字会."
+    },
+    {
+      "en": "This led Zagreb's twin town, Mainz, to donate £70,000-worth of high-quality equipment.",
+      "cn": "这使得萨格勒布的友好城市美因茨捐赠了价值7万英镑的高品质装备。"
+    },
+    {
+      "en": "We are happy to donate to bona fide charitable causes.",
+      "cn": "我们很乐意为真正的慈善事业捐献财物。"
+    },
+    {
+      "en": "What would you say to donate some money to the church?",
+      "cn": "给教堂捐些钱您看怎么样?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "donated",
+          "tran_cn": " 捐赠的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "donation",
+          "tran_cn": " 捐款，捐赠物；捐赠"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "donated",
+          "tran_cn": " 捐赠（donate的过去分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contribution",
+            "endowment",
+            "subscription"
+          ],
+          "tran_cn": "捐赠；[经]捐献"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "allot",
+            "award",
+            "bestow",
+            "contribute",
+            "dole",
+            "extend",
+            "give",
+            "grant",
+            "present"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "give",
+            "make a contribution to"
+          ],
+          "tran_cn": "捐赠；[经]捐献"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "allot",
+            "award",
+            "bestow",
+            "contribute",
+            "give",
+            "grant",
+            "present"
+          ],
+          "tran_cn": "捐赠;给予"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "donate money",
+      "tran_cn": "捐款"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "捐赠；捐献"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "赠送，捐献",
+      "tran_en": "to give something, especially money, to a person or an organization in order to help them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "捐赠;赠送",
+      "tran_en": "to give something, especially money, to a person or an organization in order to help them"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "donates"
+    ],
+    "past": [
+      "donated"
+    ],
+    "done": [
+      "donated"
+    ],
+    "ing": [
+      "donating"
+    ]
+  }
+}

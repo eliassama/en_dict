@@ -1,0 +1,193 @@
+{
+  "word": "defer",
+  "ipa": {
+    "us": "dɪˈfɜː(r)",
+    "uk": "dɪˈfɜːr"
+  },
+  "sentences": [
+    {
+      "en": "Customers often defer payment for as long as possible.",
+      "cn": "顾客常常会尽可能地拖延付款。"
+    },
+    {
+      "en": "Do you always defer to your parents wishes?",
+      "cn": "你总是顺从父母的意志 吗 ?"
+    },
+    {
+      "en": "Doctors are encouraged to defer to experts.",
+      "cn": "鼓励医生听从专家的意见。"
+    },
+    {
+      "en": "I defer to my parents because they are older and wiser.",
+      "cn": "我听从父母,因为他们年长见多识广."
+    },
+    {
+      "en": "I shall defer replying till I hear from home.",
+      "cn": "我将等接到家信以后再给你答复."
+    },
+    {
+      "en": "It was out of date for Youth to defer to Age.",
+      "cn": "要青年对老年恭顺,现在是过时了."
+    },
+    {
+      "en": "Let's defer the decision for a few weeks.",
+      "cn": "咱们延缓几个礼拜再做决定吧."
+    },
+    {
+      "en": "She learnt that he had actually written home to defer his return.",
+      "cn": "她听说他写信给家里,居然要推迟他的归期."
+    },
+    {
+      "en": "The committee deferred their decision .",
+      "cn": "委员会延期作出决定。"
+    },
+    {
+      "en": "They cannot defer their departure any longer.",
+      "cn": "他们再不能推迟动身了."
+    },
+    {
+      "en": "Under the circumstances, we have to defer discussing this subject.",
+      "cn": "在目前情况下, 我们不得不推迟讨论这个问题."
+    },
+    {
+      "en": "We all defer to him in these matters.",
+      "cn": "在这类事情上我们都听他的."
+    },
+    {
+      "en": "We defer questions of this kind to him.",
+      "cn": "我们把这类问题交给他决定."
+    },
+    {
+      "en": "We will defer to whatever the committee decides.",
+      "cn": "我们遵从委员会作出的任何决定."
+    },
+    {
+      "en": "Why, then , should we defer the Declaration?",
+      "cn": "既然如此, 为什么还要推延通过独立宣言?"
+    },
+    {
+      "en": "You could defer the matter to your colleague.",
+      "cn": "你可把这件事委托给同事去办."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deferred",
+          "tran_cn": " 延期的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deference",
+          "tran_cn": " 顺从"
+        },
+        {
+          "word": "deferment",
+          "tran_cn": " 延期；迁延"
+        },
+        {
+          "word": "deferral",
+          "tran_cn": " 延期；迟延；缓役"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "deferred",
+          "tran_cn": " 推迟（defer的过去式及过去分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accept",
+            "acknowledge",
+            "delay",
+            "off",
+            "postpone",
+            "put",
+            "respect",
+            "submit",
+            "yield"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "delay",
+            "to postpone"
+          ],
+          "tran_cn": "推迟；延期；服从"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "respite"
+          ],
+          "tran_cn": "使推迟；使延期"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "(Defer)人名；(法)德费"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "推迟，拖延，听从",
+      "tran_en": "to delay something until a later date"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 遵从， 听从， 服从",
+      "tran_en": "If you defer to someone, you accept their opinion or do what they want you to do, even when you do not agree with it yourself, because you respect them or their authority"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "推迟，拖延；把…委托给",
+      "tran_en": "to delay something until a later date"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "defers"
+    ],
+    "past": [
+      "deferred"
+    ],
+    "done": [
+      "deferred"
+    ],
+    "ing": [
+      "deferring"
+    ],
+    "noun": [
+      "deferment"
+    ]
+  }
+}

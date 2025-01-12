@@ -1,0 +1,184 @@
+{
+  "word": "alignment",
+  "ipa": {
+    "us": "əˈlaɪnmənt",
+    "uk": "əˈlaɪnmənt"
+  },
+  "sentences": [
+    {
+      "en": "A bone in my spine was out of alignment .",
+      "cn": "我的脊椎骨有一节脱位。"
+    },
+    {
+      "en": "A fairly distinct alignment was already evident by midsummer of 1919.",
+      "cn": "到1919年仲夏,阵容已相当明显."
+    },
+    {
+      "en": "A few of the tiles were clearly out of alignment.",
+      "cn": "有几片瓦明显出格了."
+    },
+    {
+      "en": "Any program that demands precise alignment must offer a vernier.",
+      "cn": "任何要求精确对齐的程序必须提供精确滚动的游标工具."
+    },
+    {
+      "en": "Britain formed a close alignment with Egypt in the last century.",
+      "cn": "英国在上个世纪与埃及结成了紧密的联盟."
+    },
+    {
+      "en": "Cheniers have a parallel , gently arcuate alignment reflecting the migratory history of the shoreline.",
+      "cn": "沙脊呈平行的 、 微弓形排列,这能反映滨线迁移的历史."
+    },
+    {
+      "en": "Depolarization will be produced by the departure from perfect alignment of the domains.",
+      "cn": "短的非理想排列将产生退极化."
+    },
+    {
+      "en": "It'should be noted that the right - alignment of control and control group labels may compromise scanability.",
+      "cn": "这里应该注意,控件和控件组若采用右对齐可能会削弱使用者的浏览效果."
+    },
+    {
+      "en": "MYTH: Galactic Alignment Spells Doom.",
+      "cn": "神话: 银河系Alignment意味着灾难."
+    },
+    {
+      "en": "Special precautions must be taken, however, to maintain continuously the proper accelerometer alignment.",
+      "cn": "但是, 必须采取专门的措施使加速度计不断维持正常的取向."
+    },
+    {
+      "en": "The church should have no political alignment.",
+      "cn": "教会不应与政治结盟。"
+    },
+    {
+      "en": "the geometrical alignment of the Sun, Moon, and Earth at the eclipse",
+      "cn": "日蚀或月蚀发生时太阳、月亮和地球成几何直线的排列"
+    },
+    {
+      "en": "The tables are in alignment.",
+      "cn": "桌子摆得很整齐."
+    },
+    {
+      "en": "The troops were in perfect alignment.",
+      "cn": "士兵们排成很直的行列."
+    },
+    {
+      "en": "The visual impression is dominated by the alignment, not by the individual pulses.",
+      "cn": "直观效果是由同相轴而不是零星的脉冲支配的."
+    },
+    {
+      "en": "their military alignment with the US",
+      "cn": "他们与美国的军事结盟"
+    },
+    {
+      "en": "Then one side of each of these triangles is brought into a common alignment.",
+      "cn": "这些三角形的一边会排成一条共同的直线."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "align",
+          "tran_cn": "排列；排成一行"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "align",
+          "tran_cn": "使结盟；使成一行；匹配"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "standardization",
+            "regulation",
+            "calibration",
+            "rank"
+          ],
+          "tran_cn": "队列，成直线；校准；结盟"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "combination",
+            "fellowship",
+            "union"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "alignment accuracy",
+      "tran_cn": "对准精度；调整精度"
+    },
+    {
+      "phrase": "alignment error",
+      "tran_cn": "安装误差；调准误差；校直误差"
+    },
+    {
+      "phrase": "alignment tolerance",
+      "tran_cn": "定位公差；对准公差；组对公差"
+    },
+    {
+      "phrase": "horizontal alignment",
+      "tran_cn": "[工程]水平对齐；平面线形；水平线向"
+    },
+    {
+      "phrase": "in alignment",
+      "tran_cn": "成一直线；排列整齐；校准"
+    },
+    {
+      "phrase": "out of alignment",
+      "tran_cn": "不成一条直线；失准"
+    },
+    {
+      "phrase": "perfect alignment",
+      "tran_cn": "精确对准"
+    },
+    {
+      "phrase": "precise alignment",
+      "tran_cn": "精密准直"
+    },
+    {
+      "phrase": "proper alignment",
+      "tran_cn": "同轴度；同心性"
+    },
+    {
+      "phrase": "vertical alignment",
+      "tran_cn": "垂直对齐；纵面线形；竖向定线"
+    },
+    {
+      "phrase": "wheel alignment",
+      "tran_cn": "n. 前轮定位；前轮校正"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "调准，校正，结盟，联合",
+      "tran_en": "the state of being arranged in a line with something or parallel to something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "alignments"
+    ]
+  }
+}

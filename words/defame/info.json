@@ -1,0 +1,109 @@
+{
+  "word": "defame",
+  "ipa": {
+    "us": "dɪˈfeɪm",
+    "uk": "dɪˈfeɪm"
+  },
+  "sentences": [
+    {
+      "en": "CNN host Kafudi vicious attacks on abusive defame China to insult the Chinese people's remarks.",
+      "cn": "CNN主持人卡弗蒂发表辱骂中国恶毒攻击诋毁侮辱中国人民的言论."
+    },
+    {
+      "en": "Sgt. Norwood complained that the article defamed him.",
+      "cn": "诺维德中士抱怨这篇文章诽谤他。"
+    },
+    {
+      "en": "Their attempt to defame China will get nowhere.",
+      "cn": "这些人利用谣言抹黑中国的企图决不会得逞."
+    },
+    {
+      "en": "To attack the character or reputation of; speak ill of; defame.",
+      "cn": "攻击人格或名誉; 说坏话; 诽谤."
+    },
+    {
+      "en": "We expect politicians to defame each other in an election year.",
+      "cn": "我们预料政客们在选举年会互相诽谤."
+    },
+    {
+      "en": "When you meet somebody who you do not like, do not defame him, it is silence.",
+      "cn": "当别人谈论莫名其妙的八卦的时候, 不添油加醋, 这便是沉默."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "defamatory",
+          "tran_cn": " 诽谤的；中伤的；破坏名誉的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "defamation",
+          "tran_cn": " 诽谤；中伤"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cloud",
+            "dishonor",
+            "impute",
+            "malign",
+            "shame",
+            "slur"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "speak evil of",
+            "stab in the back"
+          ],
+          "tran_cn": "诽谤；中伤"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "诽谤",
+      "tran_en": "to write or say bad or untrue things about someone or something, so that people will have a bad opinion of them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "诽谤，中伤"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "defames"
+    ],
+    "past": [
+      "defamed"
+    ],
+    "done": [
+      "defamed"
+    ],
+    "ing": [
+      "defaming"
+    ]
+  }
+}

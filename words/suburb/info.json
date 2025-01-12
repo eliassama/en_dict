@@ -1,0 +1,154 @@
+{
+  "word": "suburb",
+  "ipa": {
+    "us": "ˈsʌbɜːb",
+    "uk": "ˈsʌbɜːrb"
+  },
+  "sentences": [
+    {
+      "en": "a kid from the suburbs",
+      "cn": "来自郊区的小孩子"
+    },
+    {
+      "en": "a London suburb",
+      "cn": "一个伦敦郊区"
+    },
+    {
+      "en": "a suburb of London",
+      "cn": "伦敦郊区"
+    },
+    {
+      "en": "Anna was born in 1923 in Ardwick, a suburb of Manchester.",
+      "cn": "安娜于1923年出生在曼彻斯特的郊区阿德维克。"
+    },
+    {
+      "en": "Disneyland is in Los Angeles suburb.",
+      "cn": "迪斯尼游乐场在洛杉矶的近郊."
+    },
+    {
+      "en": "Factories are grouped in the southern suburb of the city.",
+      "cn": "工厂都集中在城市的南郊."
+    },
+    {
+      "en": "Fontbonne is a liberal arts college, located in a residential suburb of St. Louis.",
+      "cn": "芳邦大学是一所文科大学，位于圣路易斯市郊的居民区。"
+    },
+    {
+      "en": "He lives in the suburb of Beijing and works in the city.",
+      "cn": "他住在北京郊区,而在城里工作."
+    },
+    {
+      "en": "His ears were still attuned to the sounds of the London suburb.",
+      "cn": "他的耳朵对伦敦郊区的语音仍然一听就能辨别."
+    },
+    {
+      "en": "In another suburb the hour was counted out, though so remotely.",
+      "cn": "在市郊的另一头,声声钟鸣, 依稀缥缈."
+    },
+    {
+      "en": "Margaret resides with her invalid mother in a London suburb.",
+      "cn": "玛格丽特同她病弱的母亲住在伦敦郊区。"
+    },
+    {
+      "en": "She's renting in some grey suburb of Birmingham.",
+      "cn": "她租住在伯明翰某处阴沉沉的郊区."
+    },
+    {
+      "en": "The town is a residential suburb.",
+      "cn": "这个小镇是市郊住宅区."
+    },
+    {
+      "en": "The two roads intersect at the suburb of the city.",
+      "cn": "两条路在城郊交叉."
+    },
+    {
+      "en": "Their ears were still attuned to the sounds of the London suburb.",
+      "cn": "他们依然很熟悉伦敦市郊的喧闹声。"
+    },
+    {
+      "en": "Toward the suburb the houses begin to thin out.",
+      "cn": "靠近市郊的地方房屋渐渐稀少."
+    },
+    {
+      "en": "We can go to the arboretum in the southern suburb.",
+      "cn": "我们可以去南郊的植物园."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "suburbanize",
+          "tran_cn": " 变成市郊"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "suburbanize",
+          "tran_cn": " 郊区化；使成为市郊"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "border",
+            "boundary",
+            "bounds",
+            "confines",
+            "edge",
+            "fringe",
+            "frontier",
+            "limits",
+            "perimeter",
+            "periphery"
+          ],
+          "tran_cn": "边缘,边界,界限"
+        },
+        {
+          "words": [
+            "area",
+            "burbs",
+            "development",
+            "district",
+            "division",
+            "dormitory",
+            "environs",
+            "hamlet",
+            "neighborhood",
+            "outskirts",
+            "purlieu",
+            "residential",
+            "subdivision",
+            "suburban",
+            "suburbia",
+            "surrounding",
+            "vicinage"
+          ],
+          "tran_cn": "郊区,邻近地区"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "郊区，城郊，边缘，附近，周围",
+      "tran_en": "an area where people live which is away from the centre of a town or city"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "suburbs"
+    ]
+  }
+}

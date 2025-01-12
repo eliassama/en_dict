@@ -1,0 +1,151 @@
+{
+  "word": "fort",
+  "ipa": {
+    "us": "fɔːt",
+    "uk": "fɔːrt"
+  },
+  "sentences": [
+    {
+      "en": "Archaeologists have dated the fort to the reign of Emperor Antoninus Pius.",
+      "cn": "考古学家判定这个堡垒建于罗马皇帝安东尼·庇护统治时期。"
+    },
+    {
+      "en": "He made a firm decision to leave Fort Multry by boat.",
+      "cn": "他打定主意乘船离开穆尔特里堡。"
+    },
+    {
+      "en": "Take the metalled path running between the church and the fort.",
+      "cn": "走教堂和城堡之间的碎石小道。"
+    },
+    {
+      "en": "The artillery was deployed to bear on the fort.",
+      "cn": "火炮是对着那个碉堡部署的."
+    },
+    {
+      "en": "The boat anchored off the fort.",
+      "cn": "那艘船停在堡垒外面."
+    },
+    {
+      "en": "The door of the fort was riddled with bullets.",
+      "cn": "那座碉堡的门被子弹穿了不少洞."
+    },
+    {
+      "en": "The fort cannot be defended against an air attack.",
+      "cn": "这座要塞遭到空袭时无法防御."
+    },
+    {
+      "en": "The fort fell into the enemy's hands without a shot being fired.",
+      "cn": "一枪未发堡垒就陷落敌手."
+    },
+    {
+      "en": "The fort flanked on a swamp.",
+      "cn": "堡垒侧面靠着沼泽地."
+    },
+    {
+      "en": "The men in the fort capitulated.",
+      "cn": "堡垒中的守军投降了."
+    },
+    {
+      "en": "The old Dutch fort with its thick high walls looks virtually impregnable.",
+      "cn": "古老的荷兰城堡城墙又厚又高，看起来几乎固若金汤。"
+    },
+    {
+      "en": "The soldiers stormed into the fort.",
+      "cn": "士兵们奋起冲入要塞."
+    },
+    {
+      "en": "The soldiers stormed their way into the fort.",
+      "cn": "士兵们攻入了那座要塞."
+    },
+    {
+      "en": "They directed all the guns against the fort.",
+      "cn": "他们把所有的炮都对准那个要塞."
+    },
+    {
+      "en": "We were within rifle shot of the fort.",
+      "cn": "我们处于这座堡垒的步枪射程之内."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "fortify",
+          "tran_cn": "筑防御工事"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fortify",
+          "tran_cn": "加强；增强；（酒）的酒精含量；设防于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "acropolis",
+            "army",
+            "castle",
+            "citadel",
+            "defense",
+            "donjon",
+            "fastness",
+            "fortress",
+            "garrison",
+            "palladium",
+            "post",
+            "refuge",
+            "safeguard",
+            "shelter",
+            "stronghold",
+            "tower",
+            "turret"
+          ],
+          "tran_cn": "堡垒"
+        },
+        {
+          "words": [
+            "battlement",
+            "fortification"
+          ],
+          "tran_cn": "要塞"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fort lauderdale",
+      "tran_cn": "劳德代尔堡（美国佛罗里达州东南沿海城市）"
+    },
+    {
+      "phrase": "fort worth",
+      "tran_cn": "沃思堡市（美国城市）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "堡垒，要塞，<美>边界贸易站",
+      "tran_en": "a strong building or group of buildings used by soldiers or an army for defending an important place"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "设要塞保卫"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "forts"
+    ]
+  }
+}

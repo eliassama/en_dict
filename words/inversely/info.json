@@ -1,0 +1,163 @@
+{
+  "word": "inversely",
+  "ipa": {
+    "us": "ˌɪn'vɜ:slɪ",
+    "uk": "'ɪnvɜːslɪ"
+  },
+  "sentences": [
+    {
+      "en": "Gravity is inversely proportional to the square of the distance.",
+      "cn": "重力与距离的平方成反比."
+    },
+    {
+      "en": "Law of demand: price and quantity demanded are negative ( inversely ) related.",
+      "cn": "需求定律: 需求量 一般与价格成反方向变动."
+    },
+    {
+      "en": "Pressure varies directly with temperature and inversely with volume.",
+      "cn": "压力随温度成正比例变化,与容积成反比例变化."
+    },
+    {
+      "en": "The amount of force needed is inversely proportional to the rigidity of the material.",
+      "cn": "需要的力度与材料的硬度成反比."
+    },
+    {
+      "en": "The availability of good medical care tends to vary inversely with the need for it.",
+      "cn": "优质医疗服务的提供往往与需要成反比."
+    },
+    {
+      "en": "The energy supply from carbohydrate and fat is inversely related.",
+      "cn": "这两种能源的供应是逆转换的关系."
+    },
+    {
+      "en": "The insulation resistance of a cable is inversely proportional to its length.",
+      "cn": "电缆的绝缘电阻与其长度成反比."
+    },
+    {
+      "en": "The magnitude of the rebound inversely related to ribavirin concentrations.",
+      "cn": "反跳的程度与利巴韦林浓度呈负相关."
+    },
+    {
+      "en": "The overvoltage varies inversely with the current density to some extent.",
+      "cn": "超电压在某种程度上随电流密度成反比地变化."
+    },
+    {
+      "en": "The probability of survival is inversely proportional to the angle of arrival.",
+      "cn": "生存的机会跟着陆角度呈反比."
+    },
+    {
+      "en": "The rate of reannealing is inversely proportion to sequence complexity.",
+      "cn": "再退火速度是和顺序复杂性成反比例."
+    },
+    {
+      "en": "The rate of the fertilizer - N was inversely correlated with its utilization rate.",
+      "cn": "肥料氮的损失率与利用率成反相关."
+    },
+    {
+      "en": "The size of the nebula at this stage is inversely proportional to its mass.",
+      "cn": "这个阶段星云的大小与其质量成反比。"
+    },
+    {
+      "en": "The value of a fraction is inversely proportional to that of the denominator.",
+      "cn": "分数值与分母值成反比例."
+    },
+    {
+      "en": "The velocity of the fluid is inversely proportional to the spacing of the streamlines.",
+      "cn": "流体的流速与流线的间距成反比."
+    },
+    {
+      "en": "We regard health as inversely related to social class.",
+      "cn": "我们认为健康状况与社会地位成相反关系。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inverse",
+          "tran_cn": "相反的；倒转的"
+        },
+        {
+          "word": "inverted",
+          "tran_cn": "倒转的，反向的"
+        },
+        {
+          "word": "invertible",
+          "tran_cn": "可逆的；倒转的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inverse",
+          "tran_cn": "相反；倒转"
+        },
+        {
+          "word": "inversion",
+          "tran_cn": "倒置；反向；倒转"
+        },
+        {
+          "word": "inverter",
+          "tran_cn": "换流器，[电子] 反相器；倒转者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "inverted",
+          "tran_cn": "颠倒（invert的过去分词）；使…反向"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "contrary",
+            "counter",
+            "backward",
+            "conversely"
+          ],
+          "tran_cn": "相反地；倒转地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "otherwise"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inversely proportional",
+      "tran_cn": "反比的；成反比例"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "相反地",
+      "tran_en": "opposite in amount or position to sth else"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "inverse"
+    ]
+  }
+}

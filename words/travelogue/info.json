@@ -1,0 +1,71 @@
+{
+  "word": "travelogue",
+  "ipa": {
+    "us": "ˈtrævəlɒg",
+    "uk": "ˈtrævəˌlɔɡ, -ˌlɑɡ"
+  },
+  "sentences": [
+    {
+      "en": "A good paper is not a travelogue of your search process.",
+      "cn": "好的论言语,不是探索过程的游记."
+    },
+    {
+      "en": "Marco Polo's travelogue mentions that Kublai Khan sent envoys to Malgache.",
+      "cn": "马可波罗游记中提到忽必烈曾派使节到马尔加什."
+    },
+    {
+      "en": "This thick, but readable book, is part travelogue, part scientific inquiry and part investigative journal.",
+      "cn": "这本厚厚的通俗书有几分像游记, 又有几分科学研究和调研刊物的性质."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "traveled",
+          "tran_cn": " 富有旅行经验的；旅客多的；旅客使用的"
+        },
+        {
+          "word": "travelled",
+          "tran_cn": " 有过…旅行的，去过…地方的"
+        },
+        {
+          "word": "travelling",
+          "tran_cn": " 旅行的；移动的；旅行用的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "traveled",
+          "tran_cn": " 旅行（travel的过去分词）"
+        },
+        {
+          "word": "travelled",
+          "tran_cn": " 旅行（等于traveled，travel的过去式和过去分词）"
+        },
+        {
+          "word": "travelling",
+          "tran_cn": " 旅行（travel的现在分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "旅行纪录片，旅行广播节目，游记，关于旅游的讲座",
+      "tran_en": "a film or piece of writing that describes travel in a particular country, or a particular person’s travels"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "travelogues"
+    ]
+  }
+}

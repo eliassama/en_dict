@@ -1,0 +1,75 @@
+{
+  "word": "festoon",
+  "ipa": {
+    "us": "feˈstu:n",
+    "uk": "fɛˈstun"
+  },
+  "sentences": [
+    {
+      "en": "Each pendent twig and leafy festoon was in a blaze.",
+      "cn": "每根悬挂着的细枝和每一串树叶都在燃烧."
+    },
+    {
+      "en": "The temples are festooned with lights.",
+      "cn": "该庙宇装有灯饰。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "festoonery",
+          "tran_cn": " 花彩装饰，彩饰"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bouquet",
+            "deck",
+            "decoration",
+            "embellish",
+            "wreath"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[建]垂花饰，花彩装饰物，彩旗",
+      "tran_en": "a long thin piece of material, flowers etc, used especially for decoration"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "给…结彩，在…饰以花彩，使成花彩形",
+      "tran_en": "to cover something with flowers, long pieces of material etc, especially for decoration"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "festoons"
+    ],
+    "third": [
+      "festoons"
+    ],
+    "past": [
+      "festooned"
+    ],
+    "done": [
+      "festooned"
+    ],
+    "ing": [
+      "festooning"
+    ]
+  }
+}

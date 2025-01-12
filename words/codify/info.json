@@ -1,0 +1,110 @@
+{
+  "word": "codify",
+  "ipa": {
+    "us": "ˈkəʊdɪfaɪ",
+    "uk": "ˈkɑːdɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "So and foremost problem to be settled is how to codify and feasible budgetary targets.",
+      "cn": "因此,如何编制切实可行的预算目标就成为首要解决的问题."
+    },
+    {
+      "en": "The latest draft of the agreement codifies the panel's decision.",
+      "cn": "该协议的最新草案将专家小组的决定编篡成了法规条款。"
+    },
+    {
+      "en": "The noble, Dracon, was asked to codify the laws.",
+      "cn": "贵族德拉古被选为立法者."
+    },
+    {
+      "en": "We will codify a new technique.",
+      "cn": "我们将引进一种新技术."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "code",
+          "tran_cn": " 代码，密码；编码；法典"
+        },
+        {
+          "word": "coder",
+          "tran_cn": " 编码器；编码员"
+        },
+        {
+          "word": "codex",
+          "tran_cn": " 法典；古抄本；药典"
+        },
+        {
+          "word": "codification",
+          "tran_cn": " 编纂，整理；法典编纂；法律汇编"
+        },
+        {
+          "word": "coding",
+          "tran_cn": " 译码"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "coding",
+          "tran_cn": " 把…编码（code的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "code",
+          "tran_cn": " 指定遗传密码"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "code",
+          "tran_cn": " 编码；制成法典"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "编纂；将编成法典；编成法典",
+      "tran_en": "to arrange laws, principles, facts etc in a system"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把（法律）编成法典，编成法典",
+      "tran_en": "If you codify a set of rules, you define them or present them in a clear and ordered way"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "codifies"
+    ],
+    "past": [
+      "codified"
+    ],
+    "done": [
+      "codified"
+    ],
+    "ing": [
+      "codifying"
+    ],
+    "noun": [
+      "codification"
+    ]
+  }
+}

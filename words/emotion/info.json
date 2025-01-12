@@ -1,0 +1,205 @@
+{
+  "word": "emotion",
+  "ipa": {
+    "us": "ɪˈməʊʃn",
+    "uk": "ɪˈmoʊʃn"
+  },
+  "sentences": [
+    {
+      "en": "A tide of emotion rose and clouded his judgement.",
+      "cn": "心头涌起一阵强烈的感情，模糊了他的判断力。"
+    },
+    {
+      "en": "Displays of emotion are regarded with suspicion.",
+      "cn": "情感的流露会招致猜疑。"
+    },
+    {
+      "en": "Happiness was an emotion that Reynolds was having to relearn.",
+      "cn": "雷诺兹已经不知道什么是快乐。"
+    },
+    {
+      "en": "Her voice breaking with emotion, she told him: \"It doesn't seem fair\".",
+      "cn": "她激动得声音颤抖，对他说：“这好像不公平吧。”"
+    },
+    {
+      "en": "Her voice was full of emotion.",
+      "cn": "她的声音充满了激情。"
+    },
+    {
+      "en": "Her voice wobbled with emotion.",
+      "cn": "她激动得声音发颤。"
+    },
+    {
+      "en": "His voice wavered with emotion.",
+      "cn": "他激动得嗓音发抖。"
+    },
+    {
+      "en": "Kim received the news without showing any visible sign of emotion.",
+      "cn": "金接到消息时丝毫不露声色。"
+    },
+    {
+      "en": "Most of those attending the funeral stood silently showing little emotion.",
+      "cn": "出席葬礼的人大多都面无表情地静静站着。"
+    },
+    {
+      "en": "She felt she was being dragged into a whirlpool of emotion.",
+      "cn": "她觉得自己被卷入了感情的旋涡。"
+    },
+    {
+      "en": "She was good at hiding her emotions.",
+      "cn": "她很会掩饰自己的情感。"
+    },
+    {
+      "en": "She was so overcome with emotion that she couldn't go on.",
+      "cn": "她激动得说不下去."
+    },
+    {
+      "en": "the exaltation of emotion above logical reasoning",
+      "cn": "把情感提高到逻辑推理之上"
+    },
+    {
+      "en": "The patriot's voice trembled from the fervo ( u ) r of his emotion.",
+      "cn": "这位爱国者由于感情 激昂 而声音发抖."
+    },
+    {
+      "en": "The stadium was a seething cauldron of emotion.",
+      "cn": "体育场内群情沸腾。"
+    },
+    {
+      "en": "They were caught up in a whirling vortex of emotion.",
+      "cn": "他们陷入了感情旋涡。"
+    },
+    {
+      "en": "True emotion ought not to require overstatement.",
+      "cn": "真实的感情不应当需要过分渲染。"
+    },
+    {
+      "en": "When we feel anger, we bury the emotion and feel guilty instead.",
+      "cn": "当我们感到愤怒时，压抑这种情绪反而会觉得内疚。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "emotional",
+          "tran_cn": " 情绪的；易激动的；感动人的"
+        },
+        {
+          "word": "emotionless",
+          "tran_cn": " 没有情感的；不露情感的"
+        },
+        {
+          "word": "emotive",
+          "tran_cn": " 感情的；情绪的；表现感情的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "emotionally",
+          "tran_cn": " 感情上；情绪上；令人激动地；情绪冲动地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "emotionalism",
+          "tran_cn": " 感情主义；诉诸感情；主情主义"
+        },
+        {
+          "word": "emotionality",
+          "tran_cn": " 情绪性；感动性"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "emote",
+          "tran_cn": " 夸张地表现感情"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mood",
+            "will",
+            "spirit",
+            "affect",
+            "feeling"
+          ],
+          "tran_cn": "[心理]情感；情绪"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "affection",
+            "excitement",
+            "feeling",
+            "passion",
+            "sensitivity",
+            "sentiment"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "breast",
+            "excitement",
+            "experience",
+            "feeling",
+            "sensitivity",
+            "sentiment"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "emotion quotient (eq)",
+      "tran_cn": "情商"
+    },
+    {
+      "phrase": "emotion quotient (EQ)",
+      "tran_cn": "情商"
+    },
+    {
+      "phrase": "intense emotion",
+      "tran_cn": "激情"
+    },
+    {
+      "phrase": "with emotion",
+      "tran_cn": "激动地；感动地"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "情绪，强烈的情感",
+      "tran_en": "a strong human feeling such as love, hate, or anger"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "emotions"
+    ]
+  }
+}

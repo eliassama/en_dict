@@ -1,0 +1,76 @@
+{
+  "word": "stipple",
+  "ipa": {
+    "us": "ˈstɪpl",
+    "uk": "ˈstɪpəl"
+  },
+  "sentences": [
+    {
+      "en": "I use a relatively heavy foot and stipple deeply at around 4200 strokes per minute.",
+      "cn": "我使用的是相对沉重的脚，点画在每分钟约4200中风深刻。"
+    },
+    {
+      "en": "This morning as I write, the stark gnarl and tangle of winter is sugared with snow, deer tracks stipple the backyard and the pale yolk of the sun is oozing through the thick clouds.",
+      "cn": "在我写下这些文字的早晨，我望着窗外突兀的树干；如白砂糖般满天飞舞的冬雪，看着自家后院点点雄鹿留下的足迹，天空中淡黄色的太阳光勉力地从厚实的云层里渗出。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "stippled",
+          "tran_cn": " 上面有点画的；点刻过的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "stippled",
+          "tran_cn": " 点画；点描（stipple的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "点刻, 点画",
+      "tran_en": "the technique of stippling or a picture produced by or using stippling "
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 点画， 点描",
+      "tran_en": "to draw or paint a picture or pattern using short  strokes  or spots instead of lines"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（把油漆、水泥等的表面）弄粗糙"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "加点、绘斑，加粒"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "stipples"
+    ],
+    "past": [
+      "stippled"
+    ],
+    "done": [
+      "stippled"
+    ],
+    "ing": [
+      "stippling"
+    ],
+    "noun": [
+      "stippling"
+    ]
+  }
+}

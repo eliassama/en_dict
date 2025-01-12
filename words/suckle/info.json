@@ -1,0 +1,88 @@
+{
+  "word": "suckle",
+  "ipa": {
+    "us": "ˈsʌkl",
+    "uk": "ˈsʌkəl"
+  },
+  "sentences": [
+    {
+      "en": "a sheep suckling her lamb",
+      "cn": "一只给羊羔喂奶的绵羊"
+    },
+    {
+      "en": "So good, ask you to drink the strong tea that did not suckle!",
+      "cn": "那么好吧, 就请你喝没奶的浓茶吧!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "suckling",
+          "tran_cn": " 尚未断奶的，哺乳的；初出茅庐的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "suckling",
+          "tran_cn": " 乳儿；乳臭未干的小子"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "suckling",
+          "tran_cn": " 哺乳；养育（suckle的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "raise",
+            "mother",
+            "foster",
+            "breed"
+          ],
+          "tran_cn": "给…哺乳；吮吸；养育"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 给…哺乳； 吮吸",
+      "tran_en": "to feed a baby or young animal with milk from the breast"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "给…喂奶"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "suckles"
+    ],
+    "past": [
+      "suckled"
+    ],
+    "done": [
+      "suckled"
+    ],
+    "ing": [
+      "suckling"
+    ]
+  }
+}

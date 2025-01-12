@@ -1,0 +1,170 @@
+{
+  "word": "weapon",
+  "ipa": {
+    "us": "ˈwepən",
+    "uk": "ˈwepən"
+  },
+  "sentences": [
+    {
+      "en": "At a pinch it can be used as a weapon.",
+      "cn": "必要时可以把它当作武器."
+    },
+    {
+      "en": "Discipline was the new coach's secret weapon.",
+      "cn": "严格的训练是新任教练的秘密武器。"
+    },
+    {
+      "en": "Enriched uranium is a key component of a nuclear weapon.",
+      "cn": "浓缩铀是核武器的关键组成部分。"
+    },
+    {
+      "en": "Exactly what can be called an offensive weapon is still a grey area.",
+      "cn": "究竟什么可称作进攻性武器仍然难以界定。"
+    },
+    {
+      "en": "Officers combed the woods for the murder weapon.",
+      "cn": "警察在树林里四处搜寻凶器。"
+    },
+    {
+      "en": "Police frogmen searched the lake for the murder weapon.",
+      "cn": "警方的蛙人搜索这个湖，寻找谋杀凶器。"
+    },
+    {
+      "en": "She was charged with a misdemeanour, that of carrying a concealed weapon.",
+      "cn": "她被指控犯有身上藏有武器的轻罪。"
+    },
+    {
+      "en": "The police nicked me for carrying an offensive weapon.",
+      "cn": "警察以携带攻击性武器为由逮捕了我。"
+    },
+    {
+      "en": "The report outlined possible uses for the new weapon.",
+      "cn": "该报告概述了这种新式武器的可能用途。"
+    },
+    {
+      "en": "The team's secret weapon was their new young defender.",
+      "cn": "这个队的秘密武器就是刚来的年轻防守队员."
+    },
+    {
+      "en": "Their most potent weapon was the Exocet missile.",
+      "cn": "飞鱼导弹是他们最有攻击力的武器。"
+    },
+    {
+      "en": "They all had sticks which they planned to use as weapons.",
+      "cn": "他们都持有棍棒，打算当武器用。"
+    },
+    {
+      "en": "They grappled desperately for control of the weapon.",
+      "cn": "他们疯狂扭打，想把武器抢到手。"
+    },
+    {
+      "en": "They've stooped to using any and every weapon at their disposal.",
+      "cn": "他们已经无耻到把能用的武器都用上了。"
+    },
+    {
+      "en": "This is the weapon that he used to defend himself withal.",
+      "cn": "这就是他用来自卫的武器."
+    },
+    {
+      "en": "This weapon can kill at a range of 200 yards.",
+      "cn": "这种兵器在200码内有杀伤力."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "weaponry",
+          "tran_cn": " 兵器，武器（总称）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "weaponize",
+          "tran_cn": " 使…武器化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "arms",
+            "munition"
+          ],
+          "tran_cn": "武器"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arms",
+            "gun",
+            "munition"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "automatic weapon",
+      "tran_cn": "自动武器"
+    },
+    {
+      "phrase": "biological weapon",
+      "tran_cn": "生物武器，细菌武器"
+    },
+    {
+      "phrase": "chemical weapon",
+      "tran_cn": "化学武器"
+    },
+    {
+      "phrase": "conventional weapon",
+      "tran_cn": "[军]常规武器"
+    },
+    {
+      "phrase": "lethal weapon",
+      "tran_cn": "致命凶器"
+    },
+    {
+      "phrase": "natural weapons",
+      "tran_cn": "天然武器(爪、牙、拳等)"
+    },
+    {
+      "phrase": "nuclear weapon",
+      "tran_cn": "核武器"
+    },
+    {
+      "phrase": "secret weapon",
+      "tran_cn": "秘密武器"
+    },
+    {
+      "phrase": "weapon control system",
+      "tran_cn": "武器管理系统；武器控制系统"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "武器，手段",
+      "tran_en": "something that you use to fight with or attack someone with, such as a knife, bomb, or gun"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "weapons"
+    ]
+  }
+}

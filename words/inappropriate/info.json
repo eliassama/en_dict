@@ -1,0 +1,126 @@
+{
+  "word": "inappropriate",
+  "ipa": {
+    "us": "ˌɪnəˈprəʊpriət",
+    "uk": "ˌɪnəˈproʊpriət"
+  },
+  "sentences": [
+    {
+      "en": "\"I think it is inappropriate.\" — \"I disagree.\"",
+      "cn": "“我认为这不妥。”——“我不这么看。”"
+    },
+    {
+      "en": "A party dress is inappropriate for a hike.",
+      "cn": "社交聚会礼服不适合徒步旅行时穿."
+    },
+    {
+      "en": "Any team using an inappropriate name or logo also excluded.",
+      "cn": "任何参赛队的不适当名字和logo也被禁止."
+    },
+    {
+      "en": "I feel the remark was inappropriate for such a serious issue.",
+      "cn": "我认为对如此严肃的问题来说，该评论不合时宜。"
+    },
+    {
+      "en": "I'm sorry for eavesdropping, but don't you think your conversation is a little inappropriate?",
+      "cn": "抱歉我听到你们的谈话你们不觉得你们的对话有点不合时宜 吗 ?"
+    },
+    {
+      "en": "Idioms that have become accepted on a PC are completely inappropriate on an embedded device.",
+      "cn": "一些适合桌面计算机的术语可能完全不能用在嵌入系统中."
+    },
+    {
+      "en": "It is inappropriate to draw such a parallel.",
+      "cn": "这种比拟是不恰当的."
+    },
+    {
+      "en": "It was felt inappropriate by some that such a serious occasion should include dancing.",
+      "cn": "有些人认为在如此庄重的场合跳舞实在是不妥."
+    },
+    {
+      "en": "It'seems inappropriate for us to intervene at this stage.",
+      "cn": "我们在此阶段介入似不甚妥."
+    },
+    {
+      "en": "Someone took an inappropriate use of words on my part and tried to blow it into a major controversy.",
+      "cn": "有人不适当地引用我的话，想借此把事情闹大。"
+    },
+    {
+      "en": "The chief objection to the essay is its inappropriate use of special jargons.",
+      "cn": "这篇文章的主要缺点是专门术语用得不当."
+    },
+    {
+      "en": "There is no suggestion that clients have been sold inappropriate policies.",
+      "cn": "无迹象表明向客户售出了不适用的保险。"
+    },
+    {
+      "en": "This treatment was singularly inappropriate in her case.",
+      "cn": "就她的情况来说这种治疗方法极不适合."
+    },
+    {
+      "en": "To me this name seems inappropriate.",
+      "cn": "这个术语我觉得不适当."
+    },
+    {
+      "en": "Your short skirt is inappropriate for a formal party.",
+      "cn": "你穿这条短裙去参加正式晚会是不恰当的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "inappropriately",
+          "tran_cn": " 不适当地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inappropriateness",
+          "tran_cn": " 不相称；不适合"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "inadequate",
+            "unhappy",
+            "wrong",
+            "improper"
+          ],
+          "tran_cn": "不适当的；不相称的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be inappropriate for",
+      "tran_cn": "不适当的；不合适的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不恰当的，不适宜的，不合适，不宜，不妥",
+      "tran_en": "not suitable or right for a particular purpose or in a particular situation"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "inappropriately"
+    ],
+    "noun": [
+      "inappropriateness"
+    ]
+  }
+}

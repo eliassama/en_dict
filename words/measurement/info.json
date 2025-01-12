@@ -1,0 +1,313 @@
+{
+  "word": "measurement",
+  "ipa": {
+    "us": "ˈmeʒəmənt",
+    "uk": "ˈmeʒərmənt"
+  },
+  "sentences": [
+    {
+      "en": "accurate measurement of body temperature",
+      "cn": "体温的精确测量"
+    },
+    {
+      "en": "He has made an accurate measurement of my garden.",
+      "cn": "他准确地丈量了我的花园."
+    },
+    {
+      "en": "I can find the size of something by means of measurement.",
+      "cn": "我可以用测量法求得某物的体积."
+    },
+    {
+      "en": "I want you to take my chest measurement.",
+      "cn": "我想请您给我量一下我的胸围尺寸."
+    },
+    {
+      "en": "My waist measurement is 32 inches.",
+      "cn": "我的腰围是三十二寸."
+    },
+    {
+      "en": "Take measurements of the room before you buy any new furniture.",
+      "cn": "买新家具之前要先量好房间的尺寸。"
+    },
+    {
+      "en": "The basic theory of the wake survey measurement is the following.",
+      "cn": "尾流测量的基本理论如下."
+    },
+    {
+      "en": "The exact measurement of this angle is 30 degrees 10 minutes.",
+      "cn": "这个角的正确量度是30°10′."
+    },
+    {
+      "en": "The measurement of alternating potential difference may be perturbed by stray current.",
+      "cn": "交变电位差的测量可能受到游散电流的影响."
+    },
+    {
+      "en": "The measurement of individual intelligence is very difficult.",
+      "cn": "每个人智商的测定是很难的."
+    },
+    {
+      "en": "The measurement of intensity may be appropriate in optics.",
+      "cn": "在光学中可以适当地测量强度."
+    },
+    {
+      "en": "The method of measurement is the same for oral or nasal insertion.",
+      "cn": "经口和经鼻这两种途径插管所测量的方法相同."
+    },
+    {
+      "en": "The wide application of electronic computers in science and technology will free man from the labour of complicated measurement and computation.",
+      "cn": "电子计算机在科学技术方面广泛的应用将使人们从复杂的计量和计算中摆脱出来."
+    },
+    {
+      "en": "The work requires strict measurement.",
+      "cn": "这项工作需要精确的测量."
+    },
+    {
+      "en": "Their measurement are correct to a hair's breadth.",
+      "cn": "他们的测量非常精确,丝毫不差."
+    },
+    {
+      "en": "This hinders an accurate measurement or estimate of distance.",
+      "cn": "这就妨碍了精确的测量或估计距离."
+    },
+    {
+      "en": "This method is suited to the measurement of irregular streams.",
+      "cn": "这种方法适于不均匀流体的测量."
+    },
+    {
+      "en": "What’s your waist measurement?",
+      "cn": "你腰围是多少？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "measurable",
+          "tran_cn": " 可测量的；重要的；重大的"
+        },
+        {
+          "word": "measured",
+          "tran_cn": " 量过的；慎重的；基于标准的；有规则的"
+        },
+        {
+          "word": "measureless",
+          "tran_cn": " 无限的，不可量的"
+        },
+        {
+          "word": "measuring",
+          "tran_cn": " 测量用的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "measurably",
+          "tran_cn": " 可以测定的程度；可视地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "measurability",
+          "tran_cn": " 可测量性"
+        },
+        {
+          "word": "measure",
+          "tran_cn": " 测量；措施；程度；尺寸"
+        },
+        {
+          "word": "measurer",
+          "tran_cn": " [测] 测量器；[测] 测量员"
+        },
+        {
+          "word": "measuring",
+          "tran_cn": " 测量；衡量"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "measured",
+          "tran_cn": " 测量，判断（measure的过去分词）"
+        },
+        {
+          "word": "measuring",
+          "tran_cn": " 测量（measure的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "measure",
+          "tran_cn": " 测量；估量"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "measure",
+          "tran_cn": " 测量；估量；权衡"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "altitude",
+            "capacity",
+            "density",
+            "depth",
+            "dimensions",
+            "height",
+            "latitude",
+            "length",
+            "longitude",
+            "magnitude",
+            "mass",
+            "size",
+            "volume",
+            "weight",
+            "width"
+          ],
+          "tran_cn": "尺寸,大小,长度"
+        },
+        {
+          "words": [
+            "appraisal",
+            "assessment",
+            "calculation",
+            "computation",
+            "estimate",
+            "estimation",
+            "guaging",
+            "measuring",
+            "mensuration",
+            "metage",
+            "survey"
+          ],
+          "tran_cn": "衡量,测量,估量"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dimension"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "accuracy of measurement",
+      "tran_cn": "测量精度"
+    },
+    {
+      "phrase": "accurate measurement",
+      "tran_cn": "精确测量"
+    },
+    {
+      "phrase": "actual measurement",
+      "tran_cn": "实测；实物测量"
+    },
+    {
+      "phrase": "field measurement",
+      "tran_cn": "现场测量；实地量度；野外测量"
+    },
+    {
+      "phrase": "flow measurement",
+      "tran_cn": "流量计量；流量测定"
+    },
+    {
+      "phrase": "level measurement",
+      "tran_cn": "[工程]电平测量；标高测量；水平面量测"
+    },
+    {
+      "phrase": "measurement accuracy",
+      "tran_cn": "量测精度"
+    },
+    {
+      "phrase": "measurement data",
+      "tran_cn": "测量数据；测定资料；计量资料"
+    },
+    {
+      "phrase": "measurement error",
+      "tran_cn": "测量误差；量度误差"
+    },
+    {
+      "phrase": "measurement precision",
+      "tran_cn": "测量精度"
+    },
+    {
+      "phrase": "measurement range",
+      "tran_cn": "量程；测定范围"
+    },
+    {
+      "phrase": "measurement system",
+      "tran_cn": "测量系统"
+    },
+    {
+      "phrase": "measurement unit",
+      "tran_cn": "计量单位，测量单位"
+    },
+    {
+      "phrase": "performance measurement",
+      "tran_cn": "工作状况的测定，绩效衡量；性能测定，性能测量"
+    },
+    {
+      "phrase": "precision measurement",
+      "tran_cn": "精密测量"
+    },
+    {
+      "phrase": "pressure measurement",
+      "tran_cn": "压力测量"
+    },
+    {
+      "phrase": "temperature measurement",
+      "tran_cn": "温度测量，测温；水温测定"
+    },
+    {
+      "phrase": "test and measurement",
+      "tran_cn": "测试；测验与评量"
+    },
+    {
+      "phrase": "uncertainty of measurement",
+      "tran_cn": "测量不确定度"
+    },
+    {
+      "phrase": "velocity measurement",
+      "tran_cn": "速度测量"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "量度，份量，尺寸，测量法，（量得的）尺寸",
+      "tran_en": "the length, height etc of something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "measurements"
+    ]
+  }
+}

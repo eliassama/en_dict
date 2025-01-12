@@ -1,0 +1,101 @@
+{
+  "word": "gainsay",
+  "ipa": {
+    "us": "ˌɡeɪnˈseɪ",
+    "uk": "ˌɡeɪnˈseɪ"
+  },
+  "sentences": [
+    {
+      "en": "And those who dared to gainsay the wisdom of the fathers were shunned allpeople.",
+      "cn": "谁去否认祖先的智慧,谁就会遭到正人君子的冷落."
+    },
+    {
+      "en": "Beyond gainsay it is a genuine Rembrandt.",
+      "cn": "无可否认地,那是真的伦布兰特(的画)."
+    },
+    {
+      "en": "No one dared to gainsay him.",
+      "cn": "没有人敢反驳他。"
+    },
+    {
+      "en": "Nobody can gainsay his claims.",
+      "cn": "没人能够反驳他的说法。"
+    },
+    {
+      "en": "The practical and pragmatic gainsay the Utopian and transcendental.",
+      "cn": "实际的和实用的,否定了空想的和先验的东西."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contradiction",
+            "opposition",
+            "denial"
+          ],
+          "tran_cn": "否认；反对"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contradiction",
+            "controvert",
+            "denial",
+            "negative"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "negative",
+            "deny"
+          ],
+          "tran_cn": "反驳；否定"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "否认；反对"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "否认",
+      "tran_en": "to say that something is not true, or to disagree with someone"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "否认，反驳"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "gainsays"
+    ],
+    "past": [
+      "gainsaid"
+    ],
+    "done": [
+      "gainsaid"
+    ],
+    "ing": [
+      "gainsaying"
+    ]
+  }
+}

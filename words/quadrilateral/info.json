@@ -1,0 +1,132 @@
+{
+  "word": "quadrilateral",
+  "ipa": {
+    "us": "ˌkwɒdrɪˈlætərəl",
+    "uk": "ˌkwɑdrɪˈlætərəl"
+  },
+  "sentences": [
+    {
+      "en": "A kite is a quadrilateral with one line of symmetry.",
+      "cn": "风筝是个有一条对称线的四边形."
+    },
+    {
+      "en": "A new generalized conforming isoparametric element is formulated to arbitrary irregular quadrilateral for plane stress analysis.",
+      "cn": "根据线性边界力状态下的广义协调条件,对任意不规则四边形单元构造出一种广义协调等参元."
+    },
+    {
+      "en": "A new mesh auto - generation algorithm of arbitrary quadrilateral is presented.",
+      "cn": "在继承已有研究成果的基础上,发展一种任意不规则区域全自动四边形网格划分方法."
+    },
+    {
+      "en": "A new quadrilateral thin plate bending element is presented.",
+      "cn": "同时讨论了广义协调元的几何不变性,即单元与其节点号编序的相关性问题."
+    },
+    {
+      "en": "A trapezoid is a quadrilateral with two parallel sides.",
+      "cn": "梯形是具有两平行边的四边形."
+    },
+    {
+      "en": "Based on FEM theory, a program of isoperimetric quadrilateral element is made using MATLAB software.",
+      "cn": "基于有限元理论, 用MATLAB语言编制了四结点等参元计算机程序."
+    },
+    {
+      "en": "Based on geometrical nonlinear finite element theory, a curved quadrilateral isoperimetric element with 8 nodes for initial form analysis of tensile membrane structures is presented.",
+      "cn": "根据几何非线性有限元理论，提出张力膜结构初始形态分析的8结点曲面四边形等参单元。"
+    },
+    {
+      "en": "Based on the geometrical nonlinear finite element (GNFE) theory, a curved quadrilateral isoperimetric element with 8 nodes for initial form analysis of tensile membrane structures is presented.",
+      "cn": "本文根据几何非线性有限元理论，提出张力膜结构初始形态分析的8结点曲面四边形等参单元。"
+    },
+    {
+      "en": "Eight - nodded curvilinear quadrilateral isoparametric shell element is used both in the FEM and in the BEM.",
+      "cn": "在有限元方法和边界元法中均采用了八结点曲面四边形等参单元."
+    },
+    {
+      "en": "Follow quadrilateral rolling, strengthen accuracy and shorten error.",
+      "cn": "采用了四边压痕, 增强精度,缩小误差."
+    },
+    {
+      "en": "Isoparametric element of arbitrary quadrilateral plays an important role in finite element analysis.",
+      "cn": "等参数任意四边形单元在有限元分析中有着重要的作用."
+    },
+    {
+      "en": "It comprises two quadrilateral Building courts, or upper and lower wards, separated by the Round Tower (erected by Henry II), a massive structure Built on a mound and visible for many miles.",
+      "cn": "由两个四方形的庭院构成，院落之间隔着一个巨大的圆塔。圆塔建于人工堆成的小丘上，几哩之外都能看见。"
+    },
+    {
+      "en": "It was also shown that both accuracy and convergence could be ensured by 4 - node quadrilateral element.",
+      "cn": "同时表明,采用四节点四边形单元能够保证数值解的准确性且具有良好的收敛性."
+    },
+    {
+      "en": "Left triangle along the Y axis rotation, along the X axis Quadrilateral rotation.",
+      "cn": "左图中的三角形沿Y轴旋转, 四边形沿着X轴旋转."
+    },
+    {
+      "en": "Paving method has received acceptance , which generates all - quadrilateral meshes in an arbitrary 2 - D region.",
+      "cn": "针对铺路法的不足, 提出了一种基于分层发散思想的有限元网格生成方法."
+    },
+    {
+      "en": "Quadrilateral mesh generation algorithm, you can look good in my opinion!",
+      "cn": "四边形网格的生成算法, 可以看看,我认为不错!"
+    },
+    {
+      "en": "The Quadrilateral Area Coordinate Method ( QACM ) is a powerful new tool for developing 2 - D element models.",
+      "cn": "四边形面积坐标方法 ( QACM ) 是新近提出的构造二 维 有限元模型的工具."
+    },
+    {
+      "en": "The quadrilateral takes eight arguments representing the four points of the quadrilateral.",
+      "cn": "四边形接受八个参数，代表的是这个四边形的四个顶点。"
+    },
+    {
+      "en": "The shear changed the quadrilateral into a parallelogram.",
+      "cn": "四边形被剪成了平行四边形."
+    },
+    {
+      "en": "They learn the Latin root later, or side, and construct such English words as bilateral and quadrilateral.",
+      "cn": "他们又学了拉丁词根later（意思是“边”），并且组成了英语单词bilateral（双边的）和 quadrilateral（四边的）。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "quadrangular",
+          "tran_cn": " 四边形的；四角形的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "dimetric"
+          ],
+          "tran_cn": "[数]四边形的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "quadrilateral element",
+      "tran_cn": "四边形元"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "四边形的",
+      "tran_en": "having or formed by four sides "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "四边形",
+      "tran_en": "a flat shape with four straight sides"
+    }
+  ],
+  "exchange": {}
+}

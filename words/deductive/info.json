@@ -1,0 +1,158 @@
+{
+  "word": "deductive",
+  "ipa": {
+    "us": "dɪˈdʌktɪv",
+    "uk": "dɪˈdʌktɪv"
+  },
+  "sentences": [
+    {
+      "en": "A detective must use DEDUCTIVE REASONING to solve a case.",
+      "cn": "侦探必须用推论来破案."
+    },
+    {
+      "en": "An analysis and discussion is also made on the conceptual proposition, deductive construction and logical implication.",
+      "cn": "分析讨论了元极学的概念命题演绎结构与逻辑特征."
+    },
+    {
+      "en": "At one point in the Metaphysics, Aristotle seems to distinguish between empirical studies and deductive logic.",
+      "cn": "在《形而上学》一书中, 亚里士多德似乎已谈到了经验研究和推理逻辑的区别."
+    },
+    {
+      "en": "Bell was good at deductive reasoning to diagnose disease.",
+      "cn": "比尔善于用用推断来诊疗病情."
+    },
+    {
+      "en": "deductive reasoning",
+      "cn": "演绎推理"
+    },
+    {
+      "en": "General deduction and strong completeness of the formal deductive system L? are further studied.",
+      "cn": "进一步讨论了形式系统L? 中的一般演绎推理及强完备性问题."
+    },
+    {
+      "en": "I call the former approach deductive and the latter approach inductive.",
+      "cn": "我把前者称为演绎方式,把后者称为归纳方式."
+    },
+    {
+      "en": "In summary, the Platonic scenario is dominantly inductive deductive, while the Aristotelian scenario is dominantly inductive - abductive.",
+      "cn": "总结一下, 柏拉图研究用的主要方法是归纳和演译方法, 亚里士多德主要是用归纳和溯因方法."
+    },
+    {
+      "en": "Knowledge database and rational control policy were constructed based on production rule and deductive ratiocinate.",
+      "cn": "基于产生式规则的知识表示方法及基于演绎式推理的推理方式,建立了知识库和推理控制策略."
+    },
+    {
+      "en": "Secondly, the paper analysis three kind action mechanisms by using deductive method separately.",
+      "cn": "其次, 文章采用演绎法分析了这三种机制的作用机理."
+    },
+    {
+      "en": "She didn't seem at all impressed by his deductive powers.",
+      "cn": "她似乎根本不为他的推论能力所动。"
+    },
+    {
+      "en": "The application of law mainly uses deductive inference or syllogism inference.",
+      "cn": "法官适用法律中主要运用演绎推理或三段论推理."
+    },
+    {
+      "en": "The article analyze the problems with comparative - quantitative analysis method and Inductive - deductive methods.",
+      "cn": "文章力求运用比较和数量分析方法及归纳和演绎相结合的方式分析与论证问题."
+    },
+    {
+      "en": "The model for deductive theory is the propositional calculus.",
+      "cn": "演绎推理理论的模型是命题演算."
+    },
+    {
+      "en": "The result calculated by the deductive method is wrong.",
+      "cn": "用演绎法推算的结果是错误的."
+    },
+    {
+      "en": "Then it discusses how to use ERC + to design deductive database and gives an example.",
+      "cn": "探讨了演绎数据库设计的ERC+方法,并给出了应用实例."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deducible",
+          "tran_cn": " 可推论的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deduction",
+          "tran_cn": " 扣除，减除；推论；减除额"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "deduce",
+          "tran_cn": " 推论，推断；演绎出"
+        },
+        {
+          "word": "deduct",
+          "tran_cn": " 扣除，减去；演绎"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "concluded",
+            "inferential"
+          ],
+          "tran_cn": "演绎的；推论的；推断的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "consequent",
+            "derivative"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deductive inference",
+      "tran_cn": "演绎推理"
+    },
+    {
+      "phrase": "deductive logic",
+      "tran_cn": "演绎逻辑"
+    },
+    {
+      "phrase": "deductive method",
+      "tran_cn": "演绎法"
+    },
+    {
+      "phrase": "deductive reasoning",
+      "tran_cn": "演绎推理，演绎推论；演绎法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "推论的，演绎的",
+      "tran_en": "using the knowledge and information you have in order to understand or form an opinion about something"
+    }
+  ],
+  "exchange": {}
+}

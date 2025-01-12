@@ -1,0 +1,251 @@
+{
+  "word": "tag",
+  "ipa": {
+    "us": "tæɡ",
+    "uk": "tæɡ"
+  },
+  "sentences": [
+    {
+      "en": "Ballpark estimates indicate a price tag of $90 million a month.",
+      "cn": "大致的估计费用为每月9,000万美元。"
+    },
+    {
+      "en": "Every article has a price tag on it.",
+      "cn": "商品都标了价格."
+    },
+    {
+      "en": "He decided to tag on an extra paragraph at the end summarizing what he'd said.",
+      "cn": "他决定在结束部分再增加一段文字,总结他说话的内容."
+    },
+    {
+      "en": "His speed earned him the tag of ‘the runner’.",
+      "cn": "他的速度使他赢得了“飞人”的称号。"
+    },
+    {
+      "en": "I can't say it justifies the price tag of £150.",
+      "cn": "我认为它值不了150英镑。"
+    },
+    {
+      "en": "I let him tag along because he had not been too well recently.",
+      "cn": "我让他跟着我，因为最近他身体不舒服。"
+    },
+    {
+      "en": "In Britain, jazz is losing its elitist tag and gaining a much broader audience.",
+      "cn": "在英国，爵士乐不再是精英人物的专利，它正吸引着越来越多的听众。"
+    },
+    {
+      "en": "Note the rising tone in the tag questions to confirm intonation.",
+      "cn": "注意标签问题里确定语调的声调."
+    },
+    {
+      "en": "One may tag this book traditional.",
+      "cn": "人们可以称这本书为传统作品."
+    },
+    {
+      "en": "Please tag your baggage.",
+      "cn": "请在你的行李上贴上标签了。"
+    },
+    {
+      "en": "She peered at the tag to read the price.",
+      "cn": "她细看标签辨认价格."
+    },
+    {
+      "en": "She seems quite happy to tag along with them.",
+      "cn": "她好像很乐意跟着他们。"
+    },
+    {
+      "en": "Sometimes, they've snapped off the security tag and just taken the one shoe.",
+      "cn": "有时候，他们把防盗标签扯掉，顺走那一只鞋。"
+    },
+    {
+      "en": "Staff wore name tags and called inmates by their first names.",
+      "cn": "工作人员戴着姓名标签，对同僚直呼其名。"
+    },
+    {
+      "en": "Tag the bottles now!",
+      "cn": "现在给这些瓶子贴上标签吧!"
+    },
+    {
+      "en": "The price tag on the 34-room white Regency mansion is £17.5 million.",
+      "cn": "那栋有34个房间的摄政时期的白色官邸报价为1,750万英镑。"
+    },
+    {
+      "en": "We started out with a little rag-tag team of 30 people.",
+      "cn": "我们最初只是一支由30人组成的散兵游勇的队伍。"
+    },
+    {
+      "en": "You just search for an artist, song, album , or just a random search tag.",
+      "cn": "你只需要搜索艺术家、歌曲、相册、或者仅仅是一个随机搜索标签。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tagged",
+          "tran_cn": " 标记的；示踪的；加标记的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tagger",
+          "tran_cn": " 薄铁片；垂下物；尾随者；加标签者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "tagged",
+          "tran_cn": " 附以签条（tag的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "name",
+            "ticket",
+            "label",
+            "belonging"
+          ],
+          "tran_cn": "标签；名称；结束语；附属物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "brand",
+            "call",
+            "designate",
+            "follow",
+            "heel",
+            "label",
+            "name",
+            "pursue",
+            "shadow",
+            "trail"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "tread on the heels of"
+          ],
+          "tran_cn": "紧随"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "dog",
+            "shadow",
+            "couple"
+          ],
+          "tran_cn": "尾随，紧随；连接；起浑名；添饰"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "claim tag",
+      "tran_cn": "n. 行李票"
+    },
+    {
+      "phrase": "dog tag",
+      "tran_cn": "狗牌；[计]卡箍标记；身分识别证"
+    },
+    {
+      "phrase": "hang tag",
+      "tran_cn": "挂卡；吊牌；商品上使用保养说明书"
+    },
+    {
+      "phrase": "identification tag",
+      "tran_cn": "美军官兵套在颈上的军籍号码牌"
+    },
+    {
+      "phrase": "luggage tag",
+      "tran_cn": "行李牌"
+    },
+    {
+      "phrase": "name tag",
+      "tran_cn": "胸牌；名称标签"
+    },
+    {
+      "phrase": "price tag",
+      "tran_cn": "价格标签；标价"
+    },
+    {
+      "phrase": "tag along",
+      "tran_cn": "紧跟；尾随"
+    },
+    {
+      "phrase": "tag line",
+      "tran_cn": "n. 时髦用语；收尾语"
+    },
+    {
+      "phrase": "tag question",
+      "tran_cn": "附加疑问句；反意疑问句"
+    },
+    {
+      "phrase": "tag up &I{【棒球】}",
+      "tran_cn": "接杀：在一名外野手接住一个高飞球后在跑向下一垒前跑回，并用一只脚触击一垒"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "标签，附属物，口头禅，称呼",
+      "tran_en": "a small piece of paper, plastic etc attached to something to show what it is, who owns it, what it costs etc"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "给…加上标签，给…挂上标牌",
+      "tran_en": "to attach a tag to something"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "跟在…后面，随从"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "加标签于，附加，起诉，紧跟",
+      "tran_en": "to attach a tag to something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tags"
+    ],
+    "third": [
+      "tags"
+    ],
+    "past": [
+      "tagged"
+    ],
+    "ing": [
+      "tagging"
+    ]
+  }
+}

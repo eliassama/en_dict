@@ -1,0 +1,51 @@
+{
+  "word": "blowhard",
+  "ipa": {
+    "us": "ˈbləʊhɑ:d",
+    "uk": "ˈbloʊhɑrd"
+  },
+  "sentences": [
+    {
+      "en": "He doesn't like to be a blowhard about what he's developed.",
+      "cn": "他不喜欢吹嘘他研制的东西。"
+    },
+    {
+      "en": "I don't want to sit next to that old blowhard.",
+      "cn": "我不想坐在那个爱自吹自擂的老人旁边."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "blower",
+          "tran_cn": " 鼓风机，吹风机；吹制工；<俚>爱吹牛的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "windy",
+            "rodomontade"
+          ],
+          "tran_cn": "吹牛的；唠唠叨叨的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<美，非正>吹牛大王，自吹自擂的人",
+      "tran_en": "If you describe someone as a blowhard, you mean that they express their opinions very forcefully, and usually in a boastful way"
+    }
+  ],
+  "exchange": {}
+}

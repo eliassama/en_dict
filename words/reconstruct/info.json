@@ -1,0 +1,162 @@
+{
+  "word": "reconstruct",
+  "ipa": {
+    "us": "ˌriːkənˈstrʌkt",
+    "uk": "ˌriːkənˈstrʌkt"
+  },
+  "sentences": [
+    {
+      "en": "Elaborate efforts were made to reconstruct what had happened.",
+      "cn": "为重现当时的情景，他们做了大量细致的工作。"
+    },
+    {
+      "en": "Fossils allow us to reconstruct ancient ecology.",
+      "cn": "化石可以让我们知道古时的生态环境。"
+    },
+    {
+      "en": "He began to reconstruct the events of 21 December 1988, when flight 103 disappeared.",
+      "cn": "他开始再现1988年12月21日的103次航班失踪事件。"
+    },
+    {
+      "en": "He had plastic surgery to help reconstruct his badly damaged face.",
+      "cn": "他做了整形手术以修复其严重受伤的面部。"
+    },
+    {
+      "en": "He tried to reconstruct his dreams.",
+      "cn": "他企图把这些梦重新回忆出来."
+    },
+    {
+      "en": "Human fossils unearthed there are helping to reconstruct the earliest stages of human existence.",
+      "cn": "出土的人类化石有助于复原人类生活的最早期阶段."
+    },
+    {
+      "en": "If the whole place were swept away tomorrow, Letitia Dale could reconstruct it.",
+      "cn": "如果明天这里全部被夷为平地, 利蒂霞·戴尔也能够重建它."
+    },
+    {
+      "en": "It is not enough to tinker at the edges; our objective must be to reconstruct the entire system.",
+      "cn": "只在外缘做一些小修小补是不够的，我们的目标必须是重建整个系统。"
+    },
+    {
+      "en": "It is not possible to reconstruct the complete symphony from these manuscript sketches.",
+      "cn": "想要通过这些手写草稿恢复这一交响乐的全貌是不可能的."
+    },
+    {
+      "en": "On earth astronomers use computers to reconstruct the images and display them on television screens.",
+      "cn": "地球上的天文学家运用计算机来重现这些图像,并将它们展示在电视屏幕上."
+    },
+    {
+      "en": "One cannot today even reconstruct the state of mind which would render such gestures possible.",
+      "cn": "即使到了现在,人们也很难设想出,当时究竟是什么心理状态使他采取那样的姿态."
+    },
+    {
+      "en": "Police were reconstructing the movements of the murdered couple.",
+      "cn": "警方正在重现这对被害夫妇的行为活动。"
+    },
+    {
+      "en": "The police managed to piece together the jigsaw and reconstruct the victim's last hours.",
+      "cn": "警方成功地将线索拼在一起,重现了受害人生前最后几个小时的情况."
+    },
+    {
+      "en": "The task ahead is to reconstruct the building.",
+      "cn": "眼前的任务是要重建这栋大楼。"
+    },
+    {
+      "en": "These cells reconstruct the receptors and glands with their normal spacing.",
+      "cn": "这些细胞重建了具有正常间距的感受器和腺体."
+    },
+    {
+      "en": "They have tried to reconstruct the settlement as it would have been in Iron Age times.",
+      "cn": "他们已试着按铁器时代的样子重建这个小村落。"
+    },
+    {
+      "en": "They've decided to reconstruct this building.",
+      "cn": "他们决定重建这栋大楼."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "reconstructed",
+          "tran_cn": " 重建的；改造的"
+        },
+        {
+          "word": "reconstructive",
+          "tran_cn": " 重建的；改造的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reconstruction",
+          "tran_cn": " 再建，重建；改造；复兴"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "reconstructed",
+          "tran_cn": " 重建；改造（reconstruct的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "renew",
+            "reproduce"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "restore",
+            "rebuild"
+          ],
+          "tran_cn": "重建；改造；修复；重现"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "重建；改造；修复；重现",
+      "tran_en": "to produce a complete description or copy of an event by collecting together pieces of information"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "重建，重现，改造，复兴"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "reconstructs"
+    ],
+    "past": [
+      "reconstructed"
+    ],
+    "done": [
+      "reconstructed"
+    ],
+    "ing": [
+      "reconstructing"
+    ]
+  }
+}

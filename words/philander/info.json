@@ -1,0 +1,75 @@
+{
+  "word": "philander",
+  "ipa": {
+    "us": "fɪ'lændə",
+    "uk": "fə'lændə"
+  },
+  "sentences": [
+    {
+      "en": "Prices will rise, Politicians will philander , you too will get old.",
+      "cn": "物价会飞腾; 政客会逢场作戏; 也会变老."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "philanderer",
+          "tran_cn": " 玩弄女性的男人；爱和女人调情的男人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "lovemaking",
+            "flirtation"
+          ],
+          "tran_cn": "玩弄女性；调情；玩弄女性者（等于philanderer）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "toy"
+          ],
+          "tran_cn": "玩弄女性；调情；轻率地对待"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "追逐女人, 玩弄女性, 调情",
+      "tran_en": "(of a man) to flirt with women "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "调戏，玩弄女性"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "philanders"
+    ],
+    "past": [
+      "philandered"
+    ],
+    "done": [
+      "philandered"
+    ],
+    "ing": [
+      "philandering"
+    ]
+  }
+}

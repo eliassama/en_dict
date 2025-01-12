@@ -1,0 +1,167 @@
+{
+  "word": "node",
+  "ipa": {
+    "us": "nəʊd",
+    "uk": "noʊd"
+  },
+  "sentences": [
+    {
+      "en": "A new node architecture of OADM - The B & S OADM is Analyzed.",
+      "cn": "分析了一种新的 OADM 节点结构-广播与选择型光分插复用器."
+    },
+    {
+      "en": "A node that can send and receive packets, and route packets from one node to another.",
+      "cn": "能够收发信息包并能把信息包从一网点传向另一网点的一种网点."
+    },
+    {
+      "en": "An axis defines a node - set relative to the current node.",
+      "cn": "坐标轴是用于定义与当前节点相关的节点集."
+    },
+    {
+      "en": "Cut them off cleanly through the stem just below the node.",
+      "cn": "就从茎节下面，沿茎干把它们全砍掉。"
+    },
+    {
+      "en": "For each child node the specification effort is calculated.",
+      "cn": "对于每个子节点规范努力计算."
+    },
+    {
+      "en": "From the SA node, electrical impulses spread through the heart muscle to trigger the heartbeat.",
+      "cn": "从窦房石结出来的电脉冲传播到心脏肌肉触发心脏跳动."
+    },
+    {
+      "en": "High component offer a reward [ about lymph node ] add cent!",
+      "cn": "高分悬赏 [ 关于淋巴结 ] 追加分!"
+    },
+    {
+      "en": "If there a geavier srrangement white node, processing instruction with a scattered.",
+      "cn": "如果笔划接错处有不白色节不面时, 以打散的指令办理即可."
+    },
+    {
+      "en": "In Solution Explorer, right - click the solution node, then click Properties.",
+      "cn": "在“解决方案资源管理器”中, 右击解决方案节点, 再单击“属性”."
+    },
+    {
+      "en": "Lymph node enlargement occurs early in chronic lymphocytic leukemia.",
+      "cn": "慢性淋巴细胞性白血病,出现淋巴结肿大较早."
+    },
+    {
+      "en": "Node path length can be calculated in accordance with the shortest path!",
+      "cn": "可以根据节点路径长度计算最短路径! -Vc6."
+    },
+    {
+      "en": "Removes every node in the source collection from its parent node.",
+      "cn": "将源集合中的每个节点从其父节点中移除."
+    },
+    {
+      "en": "The unknowns in the equations are the values of the dependent variables at the node.",
+      "cn": "方程中的未知数是结点上因变量的值."
+    },
+    {
+      "en": "X - ray chest film or CT showed multi - node and patchy consolidation.",
+      "cn": "线胸片或ct显示双肺多发结节影和斑片状浸润影."
+    },
+    {
+      "en": "Zero velocities on the cylinder were satisfied at the node points.",
+      "cn": "圆柱上速度为零在节点上满足."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "nodal",
+          "tran_cn": " 节的；结的；节似的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "nodal point",
+            "tumour"
+          ],
+          "tran_cn": "节点；瘤；[数]叉点"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "knob",
+            "knot"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "and node",
+      "tran_cn": "与节点"
+    },
+    {
+      "phrase": "atrioventricular node",
+      "tran_cn": "[解]房室结"
+    },
+    {
+      "phrase": "child node",
+      "tran_cn": "子节点"
+    },
+    {
+      "phrase": "destination node",
+      "tran_cn": "目的节点；目标节点"
+    },
+    {
+      "phrase": "leaf node",
+      "tran_cn": "叶节点"
+    },
+    {
+      "phrase": "lymph node",
+      "tran_cn": "[医]淋巴结"
+    },
+    {
+      "phrase": "network node",
+      "tran_cn": "[计]网络节点"
+    },
+    {
+      "phrase": "node number",
+      "tran_cn": "节数"
+    },
+    {
+      "phrase": "node type",
+      "tran_cn": "节点类型；网点类型"
+    },
+    {
+      "phrase": "or node",
+      "tran_cn": "或节点"
+    },
+    {
+      "phrase": "sinoatrial node",
+      "tran_cn": "[医]窦房结"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "节点，（计算机网络的）节点，[医]结节，植物的节",
+      "tran_en": "the place on the stem of a plant from which a leaf or branch grows"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "nodes"
+    ],
+    "adj": [
+      "nodal"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "word": "include",
+  "ipa": {
+    "us": "ɪnˈkluːd",
+    "uk": "ɪnˈkluːd"
+  },
+  "sentences": [
+    {
+      "en": "A good general diet should include plenty of fresh vegetables.",
+      "cn": "良好的日常饮食应该包含大量的新鲜蔬菜。"
+    },
+    {
+      "en": "Does the price include postage?",
+      "cn": "这个价格包含邮费吗？"
+    },
+    {
+      "en": "His job includes looking after under-21 teams.",
+      "cn": "他的职责包括照管21岁以下球队。"
+    },
+    {
+      "en": "Other amenities, less commonly available, include a library and exercise room.",
+      "cn": "还有一些不太常有的设施，包括图书馆和健身房。"
+    },
+    {
+      "en": "Other changes include more tolerant attitudes to unmarried couples having children.",
+      "cn": "其他变化包括对非婚夫妇生育更为宽容的态度。"
+    },
+    {
+      "en": "Other charges include fraud and illegal appropriation of land.",
+      "cn": "其他指控包括欺诈罪和非法侵占土地罪。"
+    },
+    {
+      "en": "Symptoms of anaemia include weakness, fatigue and iron deficiency.",
+      "cn": "贫血的症状包括虚弱、疲劳和缺铁。"
+    },
+    {
+      "en": "Symptoms of the disease include fever and weight loss.",
+      "cn": "这种疾病的症状包括发烧和体重减轻。"
+    },
+    {
+      "en": "That programme will include live commentary on the England-Ireland game.",
+      "cn": "那个节目将包括英格兰与爱尔兰比赛的实况报道。"
+    },
+    {
+      "en": "The curriculum includes courses in computing.",
+      "cn": "课程内容包括计算机技术。"
+    },
+    {
+      "en": "The new e-books will include a host of Rough Guide titles.",
+      "cn": "新电子书将包括大量的简明指南。"
+    },
+    {
+      "en": "The new road schemes include a link between Chelmsford and the M25.",
+      "cn": "新的道路规划中包括了一条切姆斯福德与M25号高速公路的连接线。"
+    },
+    {
+      "en": "The performance will include the premiere of three new ballets.",
+      "cn": "三段新编芭蕾舞将在演出中首演。"
+    },
+    {
+      "en": "The radio station has to include a substantial proportion of classical music.",
+      "cn": "该电台不得不播放大量的古典音乐。"
+    },
+    {
+      "en": "The symptoms include skin rashes, fever, and painful joints.",
+      "cn": "病症包括皮疹、发烧和关节疼痛。"
+    },
+    {
+      "en": "The tour will include games against the Australian Barbarians.",
+      "cn": "这次巡回赛将包括和澳大利亚野人队的比赛。"
+    },
+    {
+      "en": "The unemployed executives include former sales managers, directors and accountants.",
+      "cn": "被解雇的管理人员包括前销售经理、主管和会计。"
+    },
+    {
+      "en": "This month's offers include a shirt, trousers and bed covers.",
+      "cn": "本月的特价商品包括一款衬衫、裤子和多种床罩。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "included",
+          "tran_cn": " 包括的；[植] 内藏的"
+        },
+        {
+          "word": "inclusive",
+          "tran_cn": " 包括的，包含的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inclusion",
+          "tran_cn": " 包含；内含物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "included",
+          "tran_cn": " 包括（include的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comprehend",
+            "comprise",
+            "consist",
+            "contain",
+            "cover",
+            "embody",
+            "embrace",
+            "encircle",
+            "enclose",
+            "encompass",
+            "involve"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "comprise",
+            "contain",
+            "cover",
+            "enclose"
+          ],
+          "tran_cn": "包括;包含...在内"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "include in",
+      "tran_cn": "包括在…中"
+    },
+    {
+      "phrase": "include someone/thing out",
+      "tran_cn": "(非正式)将…排除在外"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "包括，把…列为…的一部分",
+      "tran_en": "if one thing includes another, the second thing is part of the first"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 包含， 包括； 把…计算在内",
+      "tran_en": "if one thing includes another, the second thing is part of the first"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "includes"
+    ],
+    "past": [
+      "included"
+    ],
+    "done": [
+      "included"
+    ],
+    "ing": [
+      "including"
+    ]
+  }
+}

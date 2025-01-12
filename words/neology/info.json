@@ -1,0 +1,83 @@
+{
+  "word": "neology",
+  "ipa": {
+    "us": "ni:'ɒlədʒɪ",
+    "uk": "ni'ɒlədʒɪ"
+  },
+  "sentences": [
+    {
+      "en": "Neology is the embodiment of economical principle the outcome of self - adjustment in the lexical system.",
+      "cn": "旧词产生新义是经济原则在语言中的体现,是词汇系统内部 自我 调整的结果."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "abbr",
+      "words": [
+        {
+          "word": "ne",
+          "tran_cn": " 不超过…（的）（not exceeding）"
+        }
+      ]
+    },
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ne",
+          "tran_cn": " 旧姓的；原名的；Niger，尼日尔"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "neologism",
+          "tran_cn": " 新词；新义；新词的使用"
+        },
+        {
+          "word": "neologist",
+          "tran_cn": " 新教义信奉者；新语创造者；新语使用者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "new words"
+          ],
+          "tran_cn": "新词；旧词新义（等于neologism）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coinage",
+            "novelty"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "新词（或旧词新义）的使用，新词，旧词新义"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "neologies"
+    ]
+  }
+}

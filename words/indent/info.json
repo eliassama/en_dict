@@ -1,0 +1,186 @@
+{
+  "word": "indent",
+  "ipa": {
+    "us": "ɪnˈdent , ˈɪndent",
+    "uk": "ɪnˈdent , ˈɪndent"
+  },
+  "sentences": [
+    {
+      "en": "A firm order is often called an indent.",
+      "cn": "确定的订单常称作订货单."
+    },
+    {
+      "en": "Bid will be evaluated strictly in accordance with the indent specifications.",
+      "cn": "投标将按照订货单的技术条件严格评估."
+    },
+    {
+      "en": "Defines the hanging indent of the currently selected text.",
+      "cn": "过时)定义当前选定文本的悬挂缩进."
+    },
+    {
+      "en": "Gets or sets the number of spaces in an indent.",
+      "cn": "获取或设置缩进的空格数."
+    },
+    {
+      "en": "Hot Stamping , Indent Marking, Foils , Numbering Heads, Heat Transfer Heat Exchangers.",
+      "cn": "采购产品烫印, 缩进标记, 箔, 号码头, 传热换热器."
+    },
+    {
+      "en": "Indent Code - Indents your code to a generally accepted style.",
+      "cn": "缩进代码 - 缩进您的代码以一种普遍接受的风格."
+    },
+    {
+      "en": "Indent comment at the same level of the code you are documenting.",
+      "cn": "注释缩进和其注释的源代码在同一层次."
+    },
+    {
+      "en": "Indent comment at the same level the code you are documenting.",
+      "cn": "注释缩进禾扣其注释菂笩码在同弌层次."
+    },
+    {
+      "en": "Indent: To begin a line or lines with a blank space.",
+      "cn": "缩排: 字行缩进一固定空格,然后开始的排法."
+    },
+    {
+      "en": "Please make an indent at the begin of each paragraph.",
+      "cn": "请在每段开头空格."
+    },
+    {
+      "en": "Positive values indent the edge , negative values outdent the edge.",
+      "cn": "设置为整数表示缩进,设置为负数表示弹出."
+    },
+    {
+      "en": "The indent agent takes a commission on the value of his purchase.",
+      "cn": "这种订货代理商按所订购的货物价值收取佣金."
+    },
+    {
+      "en": "The mountains indent the horizon.",
+      "cn": "山峦使地平线成锯齿状."
+    },
+    {
+      "en": "You must indent the first line of a new paragraph.",
+      "cn": "新起段落的首行你必须缩格书写."
+    },
+    {
+      "en": "You should always indent for your office requirements well in advance.",
+      "cn": "办公室所需用品你应该及早提出申请."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "indented",
+          "tran_cn": " 犬牙交错的；受契约约束的；缩进排印的"
+        },
+        {
+          "word": "indentured",
+          "tran_cn": " 受契约束缚的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "indentation",
+          "tran_cn": " 压痕，[物] 刻痕；凹陷；缩排；呈锯齿状"
+        },
+        {
+          "word": "indention",
+          "tran_cn": " 缩排；凹痕；锯齿状；定货"
+        },
+        {
+          "word": "indenture",
+          "tran_cn": " 契约；合同"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "indented",
+          "tran_cn": " 缩进；切割成锯齿状（indent的过去分词）"
+        },
+        {
+          "word": "indentured",
+          "tran_cn": " 以契约约束；签订契约（indenture的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "indenture",
+          "tran_cn": " 以契约约束"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "compact",
+            "stipulation"
+          ],
+          "tran_cn": "缩进；[贸易]订货单；凹痕；契约"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cut",
+            "dent",
+            "nick",
+            "notch"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "indent for",
+      "tran_cn": "（英）订货；（英）申请供应"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "订单；订购",
+      "tran_en": "an official order for goods or equipment"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 切割成锯齿状"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "切割…使呈锯齿状，缩进排版"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "indents"
+    ],
+    "past": [
+      "indented"
+    ],
+    "done": [
+      "indented"
+    ],
+    "ing": [
+      "indenting"
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "word": "owing",
+  "ipa": {
+    "us": "ˈəʊɪŋ",
+    "uk": "ˈoʊɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Borrowing $100,000 is one thing. Owing $425,000 is another!",
+      "cn": "借10万美元事儿小，欠42.5万美元这事可就大了。"
+    },
+    {
+      "en": "He could take what was owing for the rent.",
+      "cn": "他可以把自己欠的钱抵作对方的租金。"
+    },
+    {
+      "en": "He paid what was owing.",
+      "cn": "他付清了所有应付的钱."
+    },
+    {
+      "en": "He tends to be romantic owing to lack of experience.",
+      "cn": "由于缺乏经验,他有浪漫主义的倾向."
+    },
+    {
+      "en": "He was out of work owing to a physical injury.",
+      "cn": "他因为受伤而失业了。"
+    },
+    {
+      "en": "his reading was hesitant owing to a stammer.",
+      "cn": "由于口吃他朗读时结结巴巴的。"
+    },
+    {
+      "en": "It was altogether owing it to himself that James won the prize.",
+      "cn": "詹姆斯获奖完全是靠自己的努力."
+    },
+    {
+      "en": "Owing to a previous engagement, I shan't be able to come.",
+      "cn": "因事先另有约会, 我无法前来."
+    },
+    {
+      "en": "Owing to little response, his speech tailed off to a hesitant end.",
+      "cn": "由于得不到多少反应, 他的演说吞吞吐吐地收了场."
+    },
+    {
+      "en": "Owing to the rain, the match was canceled.",
+      "cn": "因为下雨, 比赛取消了."
+    },
+    {
+      "en": "Owing to the state of the ground, the match has been put off.",
+      "cn": "由于场地状况不佳, 比赛推迟了."
+    },
+    {
+      "en": "Results have been delayed owing to a malfunction in the computer.",
+      "cn": "由于电脑发生故障,计算结果推迟了."
+    },
+    {
+      "en": "Some impatience was exhibited owing to the non - arrival of the speaker.",
+      "cn": "由于讲演人未到,听众显得有些不耐烦."
+    },
+    {
+      "en": "The game was cancelled owing to torrential rain.",
+      "cn": "比赛因大雨取消了。"
+    },
+    {
+      "en": "There are still ten dollars owing.",
+      "cn": "还欠10美元."
+    },
+    {
+      "en": "There was still ten dollars owing.",
+      "cn": "还欠十美元."
+    },
+    {
+      "en": "You need to pay the amount owing, plus the interest.",
+      "cn": "你需要付清欠款，外加利息。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "owe",
+          "tran_cn": " 欠钱"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "owe",
+          "tran_cn": " 欠；感激；应给予；应该把……归功于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "unliquidated"
+          ],
+          "tran_cn": "[会计]未付的；欠着的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "indebted",
+            "unpaid"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "owing to",
+      "tran_cn": "由于；因为"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "欠着的，应付的，未付的",
+      "tran_en": "if money is owing, it has not yet been paid to the person who should receive it"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "感激( owe的现在分词 )，应把…归功于，欠…债，（对位高权重者）忠诚"
+    }
+  ],
+  "exchange": {}
+}

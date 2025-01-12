@@ -1,0 +1,78 @@
+{
+  "word": "binomial",
+  "ipa": {
+    "us": "baɪˈnəʊmiəl",
+    "uk": "baɪˈnoʊmiəl"
+  },
+  "sentences": [
+    {
+      "en": "Evaluation of P is simplified if the square root terms are expanded by the binomial theorem.",
+      "cn": "如果按二项式定理展开来计算平方根,P的计算可以简化."
+    },
+    {
+      "en": "He initiated his pupils into the mysteries of the binomial theorem.",
+      "cn": "他给他的学生们讲授二项式定理的奥秘."
+    },
+    {
+      "en": "Pascal published a treatus on binomial coefficient.",
+      "cn": "帕斯克发表了关于二项系数的论文."
+    },
+    {
+      "en": "Pascal's triangle shows the binomial coefficients.",
+      "cn": "巴斯卡的三角显示二项式系数."
+    },
+    {
+      "en": "The binomial coefficients are ubiquitous in Combinational Theory.",
+      "cn": "二项系数在组合论中有普遍的应用."
+    },
+    {
+      "en": "The binomial model is a generally accepted method of valuing options.",
+      "cn": "The二项式模式为一般被接受的估值方法的其中一种."
+    },
+    {
+      "en": "The binomial theorem for positive integral indices.",
+      "cn": "正整指数之二项式定理."
+    },
+    {
+      "en": "Theorem g is called binomial theorem.",
+      "cn": "定理g称为二项式定理."
+    },
+    {
+      "en": "This is nothing but the binomial expansion.",
+      "cn": "这不过是二项展开式."
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "binomial distribution",
+      "tran_cn": "[统]二项分布"
+    },
+    {
+      "phrase": "binomial model",
+      "tran_cn": "二项式模型；二项模式"
+    },
+    {
+      "phrase": "binomial theorem",
+      "tran_cn": "[数]二项式定理"
+    },
+    {
+      "phrase": "negative binomial distribution",
+      "tran_cn": "负二项分布；负二项分配"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "二项式的；二种名称的",
+      "tran_en": "referring to two names or terms "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "二项式，双名词组（由and连接的一对名词，两个名词的前后顺序不变，如knife and fork）",
+      "tran_en": "a mathematical expression that has two parts connected by the sign + or the sign −, for example 3x + 4y or x − 7"
+    }
+  ],
+  "exchange": {}
+}

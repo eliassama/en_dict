@@ -1,0 +1,92 @@
+{
+  "word": "intersperse",
+  "ipa": {
+    "us": "ˌɪntəˈspɜ:s",
+    "uk": "ˌɪntərˈspɜrs"
+  },
+  "sentences": [
+    {
+      "en": "Intersperse exclamation marks in the text.",
+      "cn": "在文章中加进一些感叹号."
+    },
+    {
+      "en": "Originally the intention was to intersperse the historical scenes with modern ones.",
+      "cn": "最初是想用现代景观点缀历史景观。"
+    },
+    {
+      "en": "sunny periods interspersed with showers",
+      "cn": "晴天，间或有阵雨"
+    },
+    {
+      "en": "Taking advantage of abstract line, brilliant color and high - sounding intersperse reveals luxurious feature.",
+      "cn": "抽象的线条, 大胆的颜色和夸张的点缀尽显致奢华."
+    },
+    {
+      "en": "You should intersperse colorful anecdotes about your experience with perceptive queries about the vacancy.",
+      "cn": "讲述自己的经历时应该加入一些有声有色的轶事,中间巧妙穿插对所应聘职位的询问."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interspersion",
+          "tran_cn": " 散布；点缀；布置"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "shed",
+            "lie around"
+          ],
+          "tran_cn": "点缀；散布"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "distribute",
+            "spread"
+          ],
+          "tran_cn": "点缀；散布"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "点缀；散布",
+      "tran_en": "if something is interspersed with a particular kind of thing, it has a lot of them in it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "散布，散置，点缀"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "intersperses"
+    ],
+    "past": [
+      "interspersed"
+    ],
+    "done": [
+      "interspersed"
+    ],
+    "ing": [
+      "interspersing"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "word": "albedo",
+  "ipa": {
+    "us": "æl'bɪdəʊ",
+    "uk": "æl'bɪdoʊ"
+  },
+  "sentences": [
+    {
+      "en": "\"You change the albedo of the Earth, \" he explained.",
+      "cn": "他解释道：“因为你改变了地球的反照率。"
+    },
+    {
+      "en": "A similar example of lowered albedo occurs when sea-ice melts and disappears, causing the darker coloured sea underneath to absorb more heat.",
+      "cn": "当海冰融化消失时，会同样降低反射率，导致深色的海底吸收更多的热量。"
+    },
+    {
+      "en": "Cloudy areas can also be areas of radiation deficit because of their higher albedo.",
+      "cn": "有云区也可能是输射亏损区,因为云有较高的反照率."
+    },
+    {
+      "en": "Different varieties of the same plant can vary in how much light they reflect, a property called albedo, so selecting for higher-albedo crops would enhance the cooling effect from agriculture.",
+      "cn": "同一类植物的不同品种具有不同的反射率，而选择那些反射率更高的品种将能提高农业对控制全球变暖的贡献。"
+    },
+    {
+      "en": "If the stellar spectrum is known, the albedo of the dust can be obtained.",
+      "cn": "如果恒星的光谱已知, 就可得出尘埃的反照率."
+    },
+    {
+      "en": "Not affected by colors or albedo. Any objects can be detected.",
+      "cn": "不受颜色及反射率的影响,可来测全何被测物."
+    },
+    {
+      "en": "These bands must introduce longitudinal asymmetry in the planetary albedo.",
+      "cn": "这些云带必定引起行星反照率的经向不对称性."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "reflectivity",
+            "reflection power"
+          ],
+          "tran_cn": "（行星等的）[核][天]反射率；星体反照率"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（星体）反照率",
+      "tran_en": "the ratio of the intensity of light reflected from an object, such as a planet, to that of the light it receives from the sun "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "albedos"
+    ]
+  }
+}

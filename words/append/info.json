@@ -1,0 +1,154 @@
+{
+  "word": "append",
+  "ipa": {
+    "us": "əˈpend",
+    "uk": "əˈpɛnd"
+  },
+  "sentences": [
+    {
+      "en": "Append access can only be requested in Write - only mode.",
+      "cn": "只能在只写模式中请求追加访问权."
+    },
+    {
+      "en": "Append content to the inside of every matched element.",
+      "cn": "向每个匹配的元素内部追加内容."
+    },
+    {
+      "en": "Append the sprite's new location to my dirty _ rects list.",
+      "cn": "把精灵的新区域加到我的dirty_rects中去."
+    },
+    {
+      "en": "Create a signature to append to your outgoing messages.",
+      "cn": "创建签名以便将其附加到发送的邮件中."
+    },
+    {
+      "en": "Example # 4 shows how to append text to an existing file.",
+      "cn": "示例 # 4说明如何将文本追加到现有文件的末尾."
+    },
+    {
+      "en": "Failed to append to the table -- Out of memory.",
+      "cn": "无法向表格中新增记录 —— 内存不足."
+    },
+    {
+      "en": "I append a list of those shops which sell our products.",
+      "cn": "我附上一张出售我们产品的商店名单."
+    },
+    {
+      "en": "If you get an operand, append it to the output expression.",
+      "cn": "如果你拿到的是运算子, 把它加到输出算式."
+    },
+    {
+      "en": "Note: Use APPEND to avoid deleting the existing content of the file.",
+      "cn": "注意: 使用APPEND避免删除文件的现存内容."
+    },
+    {
+      "en": "Note: Use FILE _ APPEND to avoid deleting the existing content of the file.",
+      "cn": "注意: 使用FILE_APPEND避免删除文件的现存内容."
+    },
+    {
+      "en": "Organisers may amend or append the terms and conditions without prior notification.",
+      "cn": "主办单位有权修改参赛条规而不事先知会."
+    },
+    {
+      "en": "She appended a note at the end of the letter.",
+      "cn": "她在信件尾部附加了一个说明。"
+    },
+    {
+      "en": "Smiley, as requested to do, and I hereunto append the result.",
+      "cn": "这件受人之托的事究竟结果如何, 我来做个交代."
+    },
+    {
+      "en": "The operation was not performed because both overwrite and append were specified.",
+      "cn": "由于指定了改写和附加,未能执行操作."
+    },
+    {
+      "en": "Unable to append backup set to full media.",
+      "cn": "无法将备份集附加到已满的媒体."
+    },
+    {
+      "en": "You can use class to append messages to specific trace categories.",
+      "cn": "可以使用此类将消息追加到特定的跟踪类别."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "appendant",
+          "tran_cn": " 附属的；附加的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "appendage",
+          "tran_cn": " 附加物；下属；[动][解剖] 附器（如植物的枝叶和动物的腿尾）"
+        },
+        {
+          "word": "appendant",
+          "tran_cn": " 附属物；附属品"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "border",
+            "suffix"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "attach",
+            "annex"
+          ],
+          "tran_cn": "附加；贴上；盖章"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "设置数据文件的搜索路径"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "附加；贴上；盖章",
+      "tran_en": "to add something to a piece of writing"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "附加，添加，贴上，签（名）",
+      "tran_en": "to add something to a piece of writing"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "appends"
+    ],
+    "past": [
+      "appended"
+    ],
+    "done": [
+      "appended"
+    ],
+    "ing": [
+      "appending"
+    ]
+  }
+}

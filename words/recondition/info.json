@@ -1,0 +1,79 @@
+{
+  "word": "recondition",
+  "ipa": {
+    "us": "ˌri:kənˈdɪʃn",
+    "uk": "ˌrikənˈdɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "a reconditioned engine",
+      "cn": "翻新的发动机"
+    },
+    {
+      "en": "My car's off the road at the moment while I recondition the engine.",
+      "cn": "我是把车停在路边修理引擎的."
+    },
+    {
+      "en": "The paper introduces the structure, working principle and recondition of firing system of Beijing Cherokee Jeep.",
+      "cn": "本文介绍了北京切诺基吉普车点火系统的结构, 工作原理及检修."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "mend",
+            "refresh",
+            "renew",
+            "renovate",
+            "reproduce",
+            "settlement"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "repair",
+            "doctor",
+            "restore"
+          ],
+          "tran_cn": "修理，修复；重建；更新"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "修理, 使复原, 使正常",
+      "tran_en": "to repair something, especially an old machine, so that it works like a new one"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "修理，修复，修补翻新"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "reconditions"
+    ],
+    "past": [
+      "reconditioned"
+    ],
+    "done": [
+      "reconditioned"
+    ],
+    "ing": [
+      "reconditioning"
+    ]
+  }
+}

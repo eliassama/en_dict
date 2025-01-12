@@ -1,0 +1,191 @@
+{
+  "word": "calculator",
+  "ipa": {
+    "us": "ˈkælkjuleɪtə(r)",
+    "uk": "ˈkælkjuleɪtər"
+  },
+  "sentences": [
+    {
+      "en": "...a pocket calculator.",
+      "cn": "…一个袖珍计算器。"
+    },
+    {
+      "en": "A contact with a lightning calculator inspired him to study mathematics.",
+      "cn": "同快速计算器的一次接触,激励他去研究数学."
+    },
+    {
+      "en": "a pocket calculator",
+      "cn": "一个袖珍计算器"
+    },
+    {
+      "en": "A pocket calculator only works to eight decimal places.",
+      "cn": "袖珍计算器只能计算到小数点后8位数。"
+    },
+    {
+      "en": "a pocket calculator with LCD",
+      "cn": "液晶袖珍计算器"
+    },
+    {
+      "en": "Cross - check your answer by using a calculator.",
+      "cn": "用计算器核对一下你的答案."
+    },
+    {
+      "en": "Cross-check your answers with a calculator.",
+      "cn": "用计算器核对一下你的答案。"
+    },
+    {
+      "en": "Don't forget to bring your calculator that day .",
+      "cn": "那天你可别忘了带计算器。"
+    },
+    {
+      "en": "He is a rapid calculator.",
+      "cn": "他是个算得很快的人."
+    },
+    {
+      "en": "He wonders why the digits on his calculator slope to the right.",
+      "cn": "他不明白为什么他的计算器上面的数字向右倾斜。"
+    },
+    {
+      "en": "I found a surplus store and bought a pocket calculator.",
+      "cn": "我找到一家出售剩余物品的商店,买了一台袖珍计算器."
+    },
+    {
+      "en": "I totaled my expenses with a calculator.",
+      "cn": "我用计算器算出开支的总金额."
+    },
+    {
+      "en": "My bank manager furrowed his brow, fingered his calculator and finally pronounced \"Aha!\"",
+      "cn": "我的银行经理眉头紧锁，拨弄着计算器，最后终于“啊哈!”了一声。"
+    },
+    {
+      "en": "On a calculator, the display or printing of an interim result of a calculation.",
+      "cn": "在计算器上, 显示或打印运算的中间结果."
+    },
+    {
+      "en": "The calculator is a tool, not a crutch; yet it is increasingly being used as a crutch by many children.",
+      "cn": "计算器是工具，不是拐杖，可是现在很多孩子越来越依赖它。"
+    },
+    {
+      "en": "This pocket calculator needs two batteries.",
+      "cn": "这个袖珍计算器需用两节乾电池."
+    },
+    {
+      "en": "We conclude that hand - held electronic calculator sales should be approximately 446,600, 000 units by 1979.",
+      "cn": "我们推测出,1979年袖珍计算器的销售量大约为446,600, 000只."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "calculable",
+          "tran_cn": " 可计算的；能预测的；可靠的"
+        },
+        {
+          "word": "calculated",
+          "tran_cn": " 计算出的；适合的；有计划的"
+        },
+        {
+          "word": "calculating",
+          "tran_cn": " 计算的；深谋远虑的；审慎的"
+        },
+        {
+          "word": "calculative",
+          "tran_cn": " 计算的，善于计算的；精明的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "calculation",
+          "tran_cn": " 计算；估计；计算的结果；深思熟虑"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "calculated",
+          "tran_cn": " 计算；估计；打算（calculate的过去式和过去分词）"
+        },
+        {
+          "word": "calculating",
+          "tran_cn": " 计算（calculate的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "calculate",
+          "tran_cn": " 计算；以为；作打算"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "calculate",
+          "tran_cn": " 计算；预测；认为；打算"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "counter",
+            "numerator"
+          ],
+          "tran_cn": "[计]计算器；计算者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "computer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "electronic calculator",
+      "tran_cn": "电子计算器"
+    },
+    {
+      "phrase": "pocket calculator",
+      "tran_cn": "袖珍计算器；便携式计算器"
+    },
+    {
+      "phrase": "scientific calculator",
+      "tran_cn": "科学用计算器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "计算器",
+      "tran_en": "a small electronic machine that can add, multiply etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "calculators"
+    ]
+  }
+}

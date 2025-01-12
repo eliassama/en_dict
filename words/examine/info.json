@@ -1,0 +1,206 @@
+{
+  "word": "examine",
+  "ipa": {
+    "us": "ɪɡˈzæmɪn",
+    "uk": "ɪɡˈzæmɪn"
+  },
+  "sentences": [
+    {
+      "en": "A team of divers was sent down to examine the wreck.",
+      "cn": "一组潜水员被送到水下检查沉船。"
+    },
+    {
+      "en": "Examine the account well before you pay it.",
+      "cn": "在付款以前仔细核对一下帐目."
+    },
+    {
+      "en": "Examine the painful area carefully in an effort to localize the most tender point.",
+      "cn": "仔细检查痛处，找出最痛的地方来。"
+    },
+    {
+      "en": "He trained his camera on nature, sometimes zooming in to examine single leaves.",
+      "cn": "他把自己的照相机对准了大自然，时而拉近镜头仔细观察一片片的叶子。"
+    },
+    {
+      "en": "He went to the Congo to examine a new volcano.",
+      "cn": "他曾去刚果察看一座新火山."
+    },
+    {
+      "en": "Hegel’s philosophy will be examined in detail in Chapter 4.",
+      "cn": "黑格尔的哲学将在第4章作详细探讨。"
+    },
+    {
+      "en": "I need to examine all possible contingencies.",
+      "cn": "我需要审视一切可能出现的情况。"
+    },
+    {
+      "en": "I was stimulated to examine my deepest thoughts.",
+      "cn": "我深受启发，开始审视自己内心深处的想法。"
+    },
+    {
+      "en": "It is most risky to go and examine an active volcano.",
+      "cn": "去探察活火山是非常危险的."
+    },
+    {
+      "en": "Please examine the insulation of the electric wires in my house.",
+      "cn": "请检查一下我屋子里电线的绝缘情况."
+    },
+    {
+      "en": "She was sent to examine into the matter.",
+      "cn": "她奉派去调查那件事情."
+    },
+    {
+      "en": "The committee will examine the agreement and any problems arising therefrom.",
+      "cn": "委员会将审查这项协议和由此引起的问题。"
+    },
+    {
+      "en": "The doctor examine the patient carefully.",
+      "cn": "医生对这位病人作了仔细检查."
+    },
+    {
+      "en": "The teacher will examine the students in English.",
+      "cn": "老师要考学生的英语了."
+    },
+    {
+      "en": "The teacher will examine the students in music.",
+      "cn": "老师将测验学生们的音乐知识."
+    },
+    {
+      "en": "We examine the wording in detail before deciding on the final text.",
+      "cn": "我们彻底仔细地检查了措词后才最终定稿。"
+    },
+    {
+      "en": "You examine a patient and then you decide whether or not to operate.",
+      "cn": "先为病人作检查，然后再决定是否做手术。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "examination",
+          "tran_cn": " 考试；检查；查问"
+        },
+        {
+          "word": "examinee",
+          "tran_cn": " 应试者；受审查者；受检查者"
+        },
+        {
+          "word": "examiner",
+          "tran_cn": " 检验员；主考人；[专利] 审查员"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "analyze",
+            "audit",
+            "canvass",
+            "censor",
+            "consider",
+            "criticize",
+            "dissect",
+            "inspect",
+            "interrogate",
+            "interview",
+            "look",
+            "observe",
+            "peruse",
+            "probe",
+            "prospect",
+            "question",
+            "quiz",
+            "scan",
+            "study",
+            "survey",
+            "test",
+            "ventilate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "probe",
+            "check for"
+          ],
+          "tran_cn": "检查；调查"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "analyze",
+            "consider",
+            "explore",
+            "inspect",
+            "investigate",
+            "observe",
+            "review",
+            "scrutinize",
+            "study",
+            "test"
+          ],
+          "tran_cn": "检查;细查;考察;考虑;分析"
+        },
+        {
+          "words": [
+            "question",
+            "quiz",
+            "test"
+          ],
+          "tran_cn": "测验;询问"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "examine and approve",
+      "tran_cn": "审批"
+    },
+    {
+      "phrase": "examine and verify",
+      "tran_cn": "审核；审计"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "仔细检查，检查身体，审查，考核，法庭询问",
+      "tran_en": "to look at something carefully and thoroughly because you want to find out more about it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 检查， 仔细观察； 讯问， 审查",
+      "tran_en": "to look at something carefully and thoroughly because you want to find out more about it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "examines"
+    ],
+    "past": [
+      "examined"
+    ],
+    "done": [
+      "examined"
+    ],
+    "ing": [
+      "examining"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "word": "carouse",
+  "ipa": {
+    "us": "kəˈraʊz",
+    "uk": "kəˈraʊz"
+  },
+  "sentences": [
+    {
+      "en": "I am just enjoying carouse.",
+      "cn": "我正在尽情地享受狂欢呢。"
+    },
+    {
+      "en": "No wonder they drink, smoke, fight, carouse and otherwise engage in inappropriate social behavior.",
+      "cn": "难怪他们喝酒、抽烟、打架、狂欢作乐或者做出不当的社会举动。"
+    },
+    {
+      "en": "They told him to stay home with his wife instead of going out and carousing with friends.",
+      "cn": "他们告诉他与他的妻子在一起呆在家里，不要出去和朋友们一起痛饮狂欢。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "carousal",
+          "tran_cn": " 喧闹的酒宴"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "quick one"
+          ],
+          "tran_cn": "喧闹的酒会或宴会；一饮而尽"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "tuck away"
+          ],
+          "tran_cn": "畅饮；欢宴"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": " 狂饮寻乐"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "狂欢作乐",
+      "tran_en": "to drink a lot, be noisy, and have fun"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "痛饮，闹饮欢宴"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "carouses"
+    ],
+    "past": [
+      "caroused"
+    ],
+    "done": [
+      "caroused"
+    ],
+    "ing": [
+      "carousing"
+    ]
+  }
+}

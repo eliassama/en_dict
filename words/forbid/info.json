@@ -1,0 +1,196 @@
+{
+  "word": "forbid",
+  "ipa": {
+    "us": "fəˈbɪd",
+    "uk": "fərˈbɪd"
+  },
+  "sentences": [
+    {
+      "en": "[with clause]God forbid that this should happen to anyone ever again.",
+      "cn": "上帝不容这类事在任何人身上重演。"
+    },
+    {
+      "en": "Forbid to take a picture.",
+      "cn": "禁止拍照."
+    },
+    {
+      "en": "God forbid that he should injure you!",
+      "cn": "他决不会害你的!"
+    },
+    {
+      "en": "God forbid that I should ever have to work with him again.",
+      "cn": "但愿我不必再与他共事."
+    },
+    {
+      "en": "God forbid that I should tell you to harden your hearts.",
+      "cn": "上帝不容我对各位说要心狠手辣."
+    },
+    {
+      "en": "He was forbidden to leave the house, as a punishment.",
+      "cn": "作为惩罚，他被禁止离开家。"
+    },
+    {
+      "en": "Heaven forbid that anything awful should have happened to her.",
+      "cn": "但愿她不会出了大事."
+    },
+    {
+      "en": "Heaven forbid that he should leave because of me!",
+      "cn": "但愿他不会因为我而离开！"
+    },
+    {
+      "en": "High walls forbid all approach.",
+      "cn": "高墙遮断,难以接近."
+    },
+    {
+      "en": "I can't forbid you / your seeing that man again.",
+      "cn": "我无法禁止你再和那个男人来往."
+    },
+    {
+      "en": "I forbid you the use of my tape recorder.",
+      "cn": "我不许你用我的录音机."
+    },
+    {
+      "en": "If you want to go, Ican't forbid you.",
+      "cn": "你想去, 我也拦不住你."
+    },
+    {
+      "en": "If, God forbid, something goes wrong, I don't know what I would do.",
+      "cn": "如果哪儿出点儿岔子，我会不知所措的，但愿这样的事情不会发生。"
+    },
+    {
+      "en": "Lack of space forbids listing the names of all those who contributed.",
+      "cn": "由于篇幅限制，无法列出所有捐款人的姓名。"
+    },
+    {
+      "en": "My feelings in every respect forbid it.",
+      "cn": "我感情上怎么也办不到."
+    },
+    {
+      "en": "The bylaws forbid playing ball in the public garden.",
+      "cn": "地方法规规定任何人不得在公园打球或踢球."
+    },
+    {
+      "en": "They forbid any ships to enter the water.",
+      "cn": "他们禁止任何船舶进入这片水域."
+    },
+    {
+      "en": "They'll forbid you to marry.",
+      "cn": "他们不会准许你结婚。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "forbidden",
+          "tran_cn": " 被禁止的；严禁的，禁用的"
+        },
+        {
+          "word": "forbidding",
+          "tran_cn": " 令人生畏的；严峻的；险恶的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "forbiddance",
+          "tran_cn": " 禁令；禁止"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "forbidding",
+          "tran_cn": " 禁止；不准（forbid的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ban",
+            "bar",
+            "deter",
+            "disallow",
+            "exclude",
+            "inhibit",
+            "negative",
+            "preclude",
+            "prevent",
+            "prohibit",
+            "taboo",
+            "thwart"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "ban",
+            "bar",
+            "deter",
+            "disallow",
+            "prevent",
+            "prohibit",
+            "stonewall",
+            "taboo"
+          ],
+          "tran_cn": "禁止,不许;阻止"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "forbidden fruit",
+      "tran_cn": "禁果"
+    },
+    {
+      "phrase": "God (或 Heaven) forbid",
+      "tran_cn": "上帝（天）不容（表达不希望发生某事的强烈愿望）"
+    },
+    {
+      "phrase": "the forbidden degrees",
+      "tran_cn": "禁止通婚的亲等"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "禁止，妨碍",
+      "tran_en": "to tell someone that they are not allowed to do something, or that something is not allowed"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 禁止； 阻止",
+      "tran_en": "to tell someone that they are not allowed to do something, or that something is not allowed"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "forbids"
+    ],
+    "past": [
+      "forbade"
+    ],
+    "done": [
+      "forbidden"
+    ],
+    "ing": [
+      "forbidding"
+    ]
+  }
+}

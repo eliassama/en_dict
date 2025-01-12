@@ -1,0 +1,201 @@
+{
+  "word": "delegate",
+  "ipa": {
+    "us": "ˈdelɪɡət , ˈdelɪɡeɪt",
+    "uk": "ˈdelɪɡət , ˈdelɪɡeɪt"
+  },
+  "sentences": [
+    {
+      "en": "A composed delegate calls the two delegates it was composed from.",
+      "cn": "组合的委托可调用组成它的那两个委托."
+    },
+    {
+      "en": "A delegate instance may encapsulate either static or instance method.",
+      "cn": "委托实例可以封装静态或实例方法."
+    },
+    {
+      "en": "A good manager knows when to delegate.",
+      "cn": "一个好的经理知道何时该放权。"
+    },
+    {
+      "en": "Always check a delegate for null before invoking it.",
+      "cn": "调用前始终检查委托是否为空."
+    },
+    {
+      "en": "Around 350 delegates attended the conference.",
+      "cn": "大约有350名代表参加了大会。"
+    },
+    {
+      "en": "Delegate and event are two vital elements of C #.",
+      "cn": "介绍C # 言的两个核心元素委托和事件,探讨其语义和内部实现原理."
+    },
+    {
+      "en": "Delegate B : Huh. I work for Teledyne . What company are you with?",
+      "cn": "啊, 我在德立台公司做事. 您在那个公司高就?"
+    },
+    {
+      "en": "Delegate types also provide a binary + operator, which performs delegate concatenation.",
+      "cn": "委托类型也提供二元+运算符, 该运算符执行委托串联."
+    },
+    {
+      "en": "He can and should delegate tactical responsibility.",
+      "cn": "他应负战术上的责任."
+    },
+    {
+      "en": "He plans to delegate more authority to his deputies.",
+      "cn": "他打算把更多的权力交给副手。"
+    },
+    {
+      "en": "He talks of travelling less, and delegating more authority to his deputies.",
+      "cn": "他说要减少旅行，还有要授予他的副手们更多的权力。"
+    },
+    {
+      "en": "Horton's Achilles heel was that he could not delegate.",
+      "cn": "霍顿的软肋在于他不懂得放权。"
+    },
+    {
+      "en": "It may be more cost - effective to delegate or outsource.",
+      "cn": "也许把这项工作委派或外包给别人是更加划算的."
+    },
+    {
+      "en": "It must decide whether to delegate authority to subsidiaries or centralize.",
+      "cn": "它必须决定是委授权力给公司,还是采取集中办法."
+    },
+    {
+      "en": "It takes experience to judge correctly how much power should be delegated.",
+      "cn": "应该下放多少权力需要靠经验来准确判断。"
+    },
+    {
+      "en": "Many employers find it hard to delegate.",
+      "cn": "许多雇主觉得很难下放权力。"
+    },
+    {
+      "en": "Officials have now been delegated to start work on a draft settlement.",
+      "cn": "官员们现已被委派开始准备一份拟定协议。"
+    },
+    {
+      "en": "The voters delegate their authority to these officials.",
+      "cn": "选民把他们的权力授与这些官员."
+    },
+    {
+      "en": "There is, however , one department which they do not delegate - namely, the department of backbiting and scandal.",
+      "cn": "此外, 还有他们不愿意参与的部门, 那就是诽谤造谣的机构."
+    },
+    {
+      "en": "Very Strong ability to organize and delegate work for others.",
+      "cn": "组织及分配工作的能力突出."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "delegating",
+          "tran_cn": " 授权的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "delegacy",
+          "tran_cn": " 代表团；代表的地位；代表制度；代表的派遣"
+        },
+        {
+          "word": "delegating",
+          "tran_cn": " 授权；委派；授权式"
+        },
+        {
+          "word": "delegation",
+          "tran_cn": " 代表团；授权；委托"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "delegating",
+          "tran_cn": " 授权（delegate的ing形式）；选举"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "representation",
+            "deputy",
+            "behalf of",
+            "ambassador"
+          ],
+          "tran_cn": "代表"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agent",
+            "appoint",
+            "assign",
+            "authorize",
+            "charge",
+            "deputy",
+            "entrust",
+            "envoy",
+            "representative"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "chief delegate",
+      "tran_cn": "首席代表"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（会议）代表",
+      "tran_en": "someone who has been elected or chosen to speak, vote, or take decisions for a group"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "授（权），委托，委派（做）",
+      "tran_en": "to choose someone to do a particular job, or to be a representative of a group, organization etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 委派…为代表； 授， 把…委托给",
+      "tran_en": "to choose someone to do a particular job, or to be a representative of a group, organization etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "delegates"
+    ],
+    "third": [
+      "delegates"
+    ],
+    "past": [
+      "delegated"
+    ],
+    "done": [
+      "delegated"
+    ],
+    "ing": [
+      "delegating"
+    ]
+  }
+}

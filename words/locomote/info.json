@@ -1,0 +1,88 @@
+{
+  "word": "locomote",
+  "ipa": {
+    "us": "ˌləʊkə'məʊt",
+    "uk": "ˌlokəˈmot"
+  },
+  "sentences": [
+    {
+      "en": "In simulation, millions of robotic modules assemble to form a large cube robot able to locomote in many types of environments.",
+      "cn": "在仿真方面，数以千计的机器人模块编译成一个可以在多种环境中移动的机器人。"
+    },
+    {
+      "en": "Since plants cannot locomote , the sensation of experiencing pain would be superfluous. Thus, plants differ completely physiologically from mammals.",
+      "cn": "由于植物无法移动，它们不太需要具备感知痛苦的能力，因此，植物与哺乳动物在生理上全然不同。"
+    },
+    {
+      "en": "They locomote down the alley.",
+      "cn": "他们顺着巷子行进。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "locomotive",
+          "tran_cn": " 火车头的；运动的；移动的"
+        },
+        {
+          "word": "locomotor",
+          "tran_cn": " 移动的，运动的；运转的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "locomotion",
+          "tran_cn": " 运动；移动；旅行"
+        },
+        {
+          "word": "locomotive",
+          "tran_cn": " 机车；火车头"
+        },
+        {
+          "word": "locomotor",
+          "tran_cn": " 好旅行的人；有运动力之物；移动发动机"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "put",
+            "to shift"
+          ],
+          "tran_cn": "移动；行动"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "移动，行动"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "locomotes"
+    ],
+    "past": [
+      "locomoted"
+    ],
+    "done": [
+      "locomoted"
+    ],
+    "ing": [
+      "locomoting"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "word": "antiquate",
+  "ipa": {
+    "us": "'æntɪkweɪt",
+    "uk": "ˈæntɪˌkwet"
+  },
+  "sentences": [
+    {
+      "en": "This latest device will antiquate the ice - cube tray.",
+      "cn": "这个最新的器件使小方冰块盘变成废物."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "antiquated",
+          "tran_cn": " 过时的；陈旧的；年老的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "antiquated",
+          "tran_cn": " 使古旧；废弃（antiquate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "ancient",
+            "outdated"
+          ],
+          "tran_cn": "过时的；旧式的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "out of use",
+            "scrap"
+          ],
+          "tran_cn": "废弃；使…过时；使…具有古旧形式或风格"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "过时的；旧式的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使废弃，使古旧",
+      "tran_en": "to make obsolete or old-fashioned "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "antiquates"
+    ],
+    "past": [
+      "antiquated"
+    ],
+    "done": [
+      "antiquated"
+    ],
+    "ing": [
+      "antiquating"
+    ]
+  }
+}

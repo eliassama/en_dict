@@ -1,0 +1,180 @@
+{
+  "word": "drone",
+  "ipa": {
+    "us": "drəʊn",
+    "uk": "droʊn"
+  },
+  "sentences": [
+    {
+      "en": "An airplane droned overhead.",
+      "cn": "一架飞机在头顶上轰鸣。"
+    },
+    {
+      "en": "He can drone on for hours about his pet subjects.",
+      "cn": "他能就他的宠物侃侃而谈几小时."
+    },
+    {
+      "en": "He wouldn't drone when he may live by honest labour.",
+      "cn": "他可凭诚实的劳动生活时,他不愿游手好闲."
+    },
+    {
+      "en": "How many targets does that leave within the drone's range?",
+      "cn": "小飞机的航行范围内还有几个目标?"
+    },
+    {
+      "en": "I hear the drone of an aeroplane as it banks across the bay.",
+      "cn": "飞机倾斜飞过海湾时，我听到它单调的低鸣。"
+    },
+    {
+      "en": "Issues with the Stasis Drone Augmentor I & II modules have been resolved.",
+      "cn": "停滞无人机增强设备I 和 II装备问题都已解决."
+    },
+    {
+      "en": "It intervals the drone of an insect bored the air.",
+      "cn": "不时有只昆虫嗡嗡嗡地打破这阵寂静."
+    },
+    {
+      "en": "It's bad to drone.",
+      "cn": "混日子是不好的."
+    },
+    {
+      "en": "Occasionally could be heard the drone of unmolested'plane.",
+      "cn": "偶尔能听到飞机掠过的声音."
+    },
+    {
+      "en": "Stasis Drone Augmentors I & II have been seeded on the market.",
+      "cn": "停滞无人机增强设备I & II都已在市场中生成."
+    },
+    {
+      "en": "Terror drone's abilities are also well suited for mid - late game combat.",
+      "cn": "恐怖机器人的能力也非常适合 中后期 战斗."
+    },
+    {
+      "en": "The colony whines a centerless loud drone that vibrates the neighborhood.",
+      "cn": "蜂群嗡嗡喧闹的哀鸣振动邻里."
+    },
+    {
+      "en": "the distant drone of traffic",
+      "cn": "远处车辆往来发出的嗡嗡声"
+    },
+    {
+      "en": "The minister's voice was a relentless drone.",
+      "cn": "部长不停地絮叨着."
+    },
+    {
+      "en": "The planes flew overhead with a low drone.",
+      "cn": "飞机发出低沉的轰鸣声掠过头顶."
+    },
+    {
+      "en": "The tonic pitch is played as a drone that runs throughout the performance.",
+      "cn": "主音音高作为一种低沉底音(低音调)奏出,在整个演奏中贯穿始终."
+    },
+    {
+      "en": "Will carriers ( Tempest ) produce more than one drone type?",
+      "cn": "风暴舰 ( 黑暗版航空母舰 ) 能生产一种以上的小飞机 么 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "droning",
+          "tran_cn": " 声音低沉单调的；发嗡嗡声的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "droning",
+          "tran_cn": " 发嗡嗡声；单调低沉地说；闲散度日；单调无聊地进行（drone的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "do-nothing"
+          ],
+          "tran_cn": "雄蜂；嗡嗡的声音；懒惰者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "buzz",
+            "hum",
+            "idler",
+            "loafer",
+            "unemployed"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "goof off",
+            "hell around"
+          ],
+          "tran_cn": "嗡嗡作声；混日子"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "rumble"
+          ],
+          "tran_cn": "低沉地说"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "target drone",
+      "tran_cn": "目标靶机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "雄蜂，嗡嗡声，持续低音，无人驾驶飞机",
+      "tran_en": "a continuous low dull sound"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "嗡嗡叫，嗡嗡响，絮絮叨叨地说",
+      "tran_en": "to make a continuous low dull sound"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "drones"
+    ],
+    "past": [
+      "droned"
+    ],
+    "done": [
+      "droned"
+    ],
+    "ing": [
+      "droning"
+    ]
+  }
+}

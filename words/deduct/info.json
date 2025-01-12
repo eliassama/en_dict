@@ -1,0 +1,168 @@
+{
+  "word": "deduct",
+  "ipa": {
+    "us": "dɪˈdʌkt",
+    "uk": "dɪˈdʌkt"
+  },
+  "sentences": [
+    {
+      "en": "And then , we will deduct it as ROB in the ullage report.",
+      "cn": "好的, 那我们一会在ROB报告中扣除这部分体积."
+    },
+    {
+      "en": "Deduct all of the goodliness things as much as one likes.",
+      "cn": "尽情演绎人间的一切美好事物."
+    },
+    {
+      "en": "Do not deduct the commission from the value of the consignment.",
+      "cn": "不要从货物的价值中扣除佣金."
+    },
+    {
+      "en": "Do not deduct to commission from the value of consignment.",
+      "cn": "我们请求你方从发票中扣除我们的佣金."
+    },
+    {
+      "en": "If you send it through the post office they deduct 100.",
+      "cn": "如果你通过邮局寄钱,他们要扣掉100美元."
+    },
+    {
+      "en": "If you will just sign here, we will arrange for your bank to deduct your payments automatically.",
+      "cn": "麻烦您在这里签一下字，我们将联系您的银行自动扣除您的付款。"
+    },
+    {
+      "en": "Mr. Cao had the rickshaw repaired and didn't deduct the cost from Xiangzi's wages.",
+      "cn": "曹先生把车收拾好,并没扣祥子的工钱."
+    },
+    {
+      "en": "Please don't deduct the commission from the payment for goods directly.",
+      "cn": "请不要从贷款中直接扣除佣金."
+    },
+    {
+      "en": "Sufficient space layer and perfect dimension deduct space philosophy.",
+      "cn": "丰富空间层次,完美尺度演绎空间哲学."
+    },
+    {
+      "en": "The company deducted this payment from his compensation.",
+      "cn": "公司从他的补偿金中扣除了这笔款项。"
+    },
+    {
+      "en": "They will deduct 17 % from our payment ( commission ) for the tax.",
+      "cn": "他们公司将会在给我方的回款 ( 佣金 ) 中,扣除大约17%的税费."
+    },
+    {
+      "en": "To deduct or subtract from a cost or price.",
+      "cn": "减少从费用或价格中扣除或减去."
+    },
+    {
+      "en": "To deduct or withhold ( part of something due ) for an equitable reason.",
+      "cn": "扣除,扣留出于衡平的原因而减去或扣留 ( 到期某物的一部分 )"
+    },
+    {
+      "en": "We send you herewith a cheque, value 90 have deduct the usual trade discount of 2.",
+      "cn": "依贸易惯例,扣除2□折扣后,奉上面额为90英镑支票一张."
+    },
+    {
+      "en": "We will deduct a collection service charge from the proceeds of course.",
+      "cn": "当然,我们要从中扣除取款的手续费."
+    },
+    {
+      "en": "You may deduct such commissions, charges, levies and duties from the Account.",
+      "cn": "阁下可以从户口中扣除该等佣金 、 收费 、 徵费及税项."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deductible",
+          "tran_cn": " 可扣除的；可减免的"
+        },
+        {
+          "word": "deductive",
+          "tran_cn": " 演绎的；推论的；推断的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deduction",
+          "tran_cn": " 扣除，减除；推论；减除额"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "away",
+            "discount",
+            "lessen",
+            "remove",
+            "subtract",
+            "take",
+            "withdraw"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "away",
+            "discount",
+            "remove",
+            "subtract",
+            "take",
+            "withdraw"
+          ],
+          "tran_cn": "扣除,减去"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deduct from",
+      "tran_cn": "扣除"
+    },
+    {
+      "phrase": "deduct money",
+      "tran_cn": "扣钱；扣款"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "扣除，减去",
+      "tran_en": "to take away an amount or part from a total"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 扣除， 减去",
+      "tran_en": "to take away an amount or part from a total"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "deducts"
+    ],
+    "past": [
+      "deducted"
+    ],
+    "done": [
+      "deducted"
+    ],
+    "ing": [
+      "deducting"
+    ]
+  }
+}

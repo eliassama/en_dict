@@ -1,0 +1,89 @@
+{
+  "word": "truancy",
+  "ipa": {
+    "us": "ˈtru:ənsi",
+    "uk": "ˈtruənsɪ"
+  },
+  "sentences": [
+    {
+      "en": "It was a day for impulse and truancy.",
+      "cn": "这是个适于冲动或偷懒的日子."
+    },
+    {
+      "en": "Schools need to reduce levels of truancy.",
+      "cn": "学校需要减少旷课人数。"
+    },
+    {
+      "en": "The next meeting will address the problem of truancy.",
+      "cn": "下次会议将着手解决学生的逃课问题."
+    },
+    {
+      "en": "the school’s truancy rate",
+      "cn": "学校的旷课率"
+    },
+    {
+      "en": "The schools were fighting endlessly to combat truancy.",
+      "cn": "学校在不断地与逃学作斗争."
+    },
+    {
+      "en": "Truancy is common at this school.",
+      "cn": "在这个学校旷课是很普遍的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "truant",
+          "tran_cn": " 旷课的；偷懒的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "truant",
+          "tran_cn": " 旷课者；懒惰的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "truant",
+          "tran_cn": " 逃学；偷懒，逃避责任"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "malpractice",
+            "absenteeism"
+          ],
+          "tran_cn": "旷课，逃学；玩忽职守"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "逃避责任，玩忽职守，逃学，旷课",
+      "tran_en": "when students deliberately stay away from school without permission"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "truancies"
+    ]
+  }
+}

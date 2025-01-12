@@ -1,0 +1,216 @@
+{
+  "word": "measured",
+  "ipa": {
+    "us": "ˈmeʒəd",
+    "uk": "ˈmeʒərd"
+  },
+  "sentences": [
+    {
+      "en": "a measured response to the problem",
+      "cn": "对问题作出的慎重回应"
+    },
+    {
+      "en": "A ship's speed is measured in knots.",
+      "cn": "船速以节测量。"
+    },
+    {
+      "en": "He delivered his words in slow, measured cadences.",
+      "cn": "他讲话缓慢而抑扬顿挫、把握有度。"
+    },
+    {
+      "en": "He measured the rope to see if it was long enough.",
+      "cn": "他量了那根绳子看是否够长."
+    },
+    {
+      "en": "He measured the speed at which ultrasonic waves travel along the bone.",
+      "cn": "他测出了超声波穿过骨头的速度。"
+    },
+    {
+      "en": "Her more measured response will appeal to voters.",
+      "cn": "她那更为慎重的答复会受到选民的欢迎。"
+    },
+    {
+      "en": "I'd already measured out the ingredients.",
+      "cn": "我已经量好了配料。"
+    },
+    {
+      "en": "She replied in a measured tone to his threat.",
+      "cn": "她以很有分寸的语气回答了他的威胁。"
+    },
+    {
+      "en": "She spoke in measured tones .",
+      "cn": "她以不慌不忙的语调说话。"
+    },
+    {
+      "en": "Success should not be measured solely by educational achievement.",
+      "cn": "成功与否不应只用学业成绩来衡量."
+    },
+    {
+      "en": "Suddenly feeling faint, he measured out his length on the floor.",
+      "cn": "他突然感到头晕, 跌倒在地."
+    },
+    {
+      "en": "The Egyptians probably measured their day in twenty-four hours of unequal length.",
+      "cn": "埃及人很有可能用不同长度的24小时来度量日子。"
+    },
+    {
+      "en": "The men spoke in soft, measured tones.",
+      "cn": "这些人说话的语气轻柔而平稳。"
+    },
+    {
+      "en": "The packets are measured to reduce waste.",
+      "cn": "包裹的大小经过测量以减少浪费。"
+    },
+    {
+      "en": "The storm measured 10 on the Beaufort scale .",
+      "cn": "这次风暴按蒲福风级测量为10级。"
+    },
+    {
+      "en": "They measured off a half - acre plot for a house lot.",
+      "cn": "他们划出一块半英亩的地皮来作房屋地基."
+    },
+    {
+      "en": "We measured the dimensions of the kitchen.",
+      "cn": "我们测量了厨房的大小。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "measurable",
+          "tran_cn": " 可测量的；重要的；重大的"
+        },
+        {
+          "word": "measureless",
+          "tran_cn": " 无限的，不可量的"
+        },
+        {
+          "word": "measuring",
+          "tran_cn": " 测量用的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "measurably",
+          "tran_cn": " 可以测定的程度；可视地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "measurability",
+          "tran_cn": " 可测量性"
+        },
+        {
+          "word": "measure",
+          "tran_cn": " 测量；措施；程度；尺寸"
+        },
+        {
+          "word": "measurement",
+          "tran_cn": " 测量；[计量] 度量；尺寸；量度制"
+        },
+        {
+          "word": "measurer",
+          "tran_cn": " [测] 测量器；[测] 测量员"
+        },
+        {
+          "word": "measuring",
+          "tran_cn": " 测量；衡量"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "measuring",
+          "tran_cn": " 测量（measure的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "measure",
+          "tran_cn": " 测量；估量"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "measure",
+          "tran_cn": " 测量；估量；权衡"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "circumspective",
+            "deliberative"
+          ],
+          "tran_cn": "量过的；慎重的；基于标准的；有规则的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "gauged"
+          ],
+          "tran_cn": "测量，判断（measure的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "measured data",
+      "tran_cn": "测量数据"
+    },
+    {
+      "phrase": "measured profile",
+      "tran_cn": "实测断面"
+    },
+    {
+      "phrase": "measured quantity",
+      "tran_cn": "测定量；被测量"
+    },
+    {
+      "phrase": "measured signal",
+      "tran_cn": "被测信号"
+    },
+    {
+      "phrase": "measured value",
+      "tran_cn": "测量值；测定值"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "仔细斟酌的，慎重的，缓慢而又有节奏的",
+      "tran_en": "if you do something in a measured way, you do it in a careful and controlled way, not in an excited or sudden way"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "量( measure的过去式和过去分词 )，测量，衡量，量出"
+    }
+  ],
+  "exchange": {}
+}

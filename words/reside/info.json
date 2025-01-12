@@ -1,0 +1,185 @@
+{
+  "word": "reside",
+  "ipa": {
+    "us": "rɪˈzaɪd",
+    "uk": "rɪˈzaɪd"
+  },
+  "sentences": [
+    {
+      "en": "All single full-time students must reside in university residence halls.",
+      "cn": "所有单身的全日制学生都必须住大学宿舍。"
+    },
+    {
+      "en": "Do you permanently reside in Beijing? How about your parents?",
+      "cn": "你已经在北京定居了 吗 ?你的父母 呢 ?"
+    },
+    {
+      "en": "Documents can reside locally once downloaded and continue to function.",
+      "cn": "文档一旦下载了,就驻留在本地并继续工作."
+    },
+    {
+      "en": "Executive power resides in the President.",
+      "cn": "行政权属于总统。"
+    },
+    {
+      "en": "Happiness does not reside in strength or money.",
+      "cn": "幸福不是由实力或金钱决定的。"
+    },
+    {
+      "en": "He spent most of his time in Rutherglen, where his family resided.",
+      "cn": "他大部分时间都在拉瑟格伦度过，他的家人就在那里居住。"
+    },
+    {
+      "en": "I reside at the mission at St Michael's.",
+      "cn": "我住在圣·米歇尔教堂的传道会里。"
+    },
+    {
+      "en": "I reside in Salt Lake City.",
+      "cn": "我住在盐湖城."
+    },
+    {
+      "en": "I reside, of course, in a well - protected fortress.",
+      "cn": "当然, 我住在一座守卫森严的保垒中."
+    },
+    {
+      "en": "In our example, the 256 - location RAM will reside in the last 256 locations of the memory.",
+      "cn": "在本例中, 256个地址的RAM占用了存贮器的最后256个单元."
+    },
+    {
+      "en": "Jim and Meg reside at the Grand Hotel.",
+      "cn": "吉姆和梅格住在格兰德旅馆."
+    },
+    {
+      "en": "Most of the chlorofluoromethanes reside in the lower stratosphere.",
+      "cn": "大多数氯氟甲烷存留在平流层下部."
+    },
+    {
+      "en": "That city that I reside is the most beautiful.",
+      "cn": "我居住的那个城市极其美丽."
+    },
+    {
+      "en": "That electrically charged particles reside within atoms had been surmised since the time of Faraday.",
+      "cn": "从法拉第的时代起,人们就已推测到,在原子内存在着带电的粒子."
+    },
+    {
+      "en": "The true face of Lushan is lost to my sight , for it is right in this mountain that I reside.",
+      "cn": "不识庐山真面目, 只缘身在此山中."
+    },
+    {
+      "en": "They reside in the upper - right corner of the VI's front panel window.",
+      "cn": "他们的位置在VI前面板窗口的右上角."
+    },
+    {
+      "en": "You will reside there, serving as the building superintendent.",
+      "cn": "你要居住在那里, 作为大楼管理者服务大家."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "resident",
+          "tran_cn": "居住的；住院医师；定居的"
+        },
+        {
+          "word": "residential",
+          "tran_cn": "住宅的；与居住有关的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "residence",
+          "tran_cn": "住宅，住处；居住"
+        },
+        {
+          "word": "resident",
+          "tran_cn": "居民"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abide",
+            "be",
+            "dwell",
+            "inhabit",
+            "inhere",
+            "live",
+            "locate",
+            "lodge",
+            "occupy",
+            "stay"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "dwell",
+            "inhabit",
+            "live",
+            "occupy"
+          ],
+          "tran_cn": "居住"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "occupy",
+            "belong to"
+          ],
+          "tran_cn": "住，居住；属于"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "reside in",
+      "tran_cn": "居住；存在于"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "居住，驻扎；属于",
+      "tran_en": "to live in a particular place"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "住，居住，（官吏）留驻，驻在，（性质）存在，具备，（权力，权利等）属于，归于",
+      "tran_en": "to live in a particular place"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "resides"
+    ],
+    "past": [
+      "resided"
+    ],
+    "done": [
+      "resided"
+    ],
+    "ing": [
+      "residing"
+    ]
+  }
+}

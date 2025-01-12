@@ -1,0 +1,193 @@
+{
+  "word": "surrounding",
+  "ipa": {
+    "us": "səˈraʊndɪŋ",
+    "uk": "səˈraʊndɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Eventually, the water will permeate through the surrounding concrete.",
+      "cn": "最终，水会渗透进周围的混凝土中。"
+    },
+    {
+      "en": "Make sure the tile is flush with the surrounding tiles.",
+      "cn": "要保证每块瓷砖都和它周围的瓷砖在同一平面上。"
+    },
+    {
+      "en": "New housing is starting to encroach upon the surrounding fields.",
+      "cn": "新住宅开始延伸到周围的田地."
+    },
+    {
+      "en": "Once the euphoria surrounding this victory subsides, reality must return.",
+      "cn": "这场胜利的喜悦退去后，人们将不得不回归现实。"
+    },
+    {
+      "en": "Oxford and the surrounding area",
+      "cn": "牛津及其周围地区"
+    },
+    {
+      "en": "The development of the site will have implications for the surrounding countryside.",
+      "cn": "这个地点的开发将会影响周围的乡村。"
+    },
+    {
+      "en": "The hype and fervour surrounding the event positively invited scepticism.",
+      "cn": "围绕这件事的大肆渲染和热情必然会引起人们的怀疑."
+    },
+    {
+      "en": "The mirror was hinged to a surrounding frame.",
+      "cn": "用铰链把镜子和外框连接在一起。"
+    },
+    {
+      "en": "The mystique surrounding the monarchy has gone for ever.",
+      "cn": "王室的神秘性已经一去不复返。"
+    },
+    {
+      "en": "The polluted waste is often dumped, making the surrounding land infertile.",
+      "cn": "被污染的废物经常被随意倒掉，周边土地因此而变得很贫瘠。"
+    },
+    {
+      "en": "The shell surrounding the egg has many important functions.",
+      "cn": "蛋壳有许多重要的功能。"
+    },
+    {
+      "en": "The surrounding countryside is windswept and rocky.",
+      "cn": "这周围的乡村风多石头多。"
+    },
+    {
+      "en": "The surrounding land was enclosed by an eight foot wire fence.",
+      "cn": "周围的土地围有8英尺高的铁丝栅栏。"
+    },
+    {
+      "en": "There's almost a giddiness surrounding the talks in Houston.",
+      "cn": "人们对休斯敦的会谈几乎过于热衷。"
+    },
+    {
+      "en": "They climbed upward along the steep cliffs surrounding the village.",
+      "cn": "他们沿着村庄周围的陡峭悬崖往上爬。"
+    },
+    {
+      "en": "Troops sealed off the surrounding area .",
+      "cn": "军队封锁了周围地区。"
+    },
+    {
+      "en": "We decided to explore the surrounding countryside .",
+      "cn": "我们决定去附近的乡间走走看看。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "surround",
+          "tran_cn": " 环绕立体声的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "surround",
+          "tran_cn": " 围绕物"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "surround",
+          "tran_cn": " 围绕；包围"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "ambient",
+            "circumambient",
+            "circumfluent",
+            "circumjacent",
+            "circumvolutory"
+          ],
+          "tran_cn": "围绕的,环绕的"
+        },
+        {
+          "words": [
+            "abutting",
+            "adjacent",
+            "adjoining",
+            "attached",
+            "close",
+            "close-by",
+            "contiguous",
+            "environmental",
+            "local",
+            "near",
+            "nearby",
+            "next",
+            "next-door",
+            "nigh",
+            "proximate",
+            "regional",
+            "sectional",
+            "to",
+            "touching",
+            "vicinal"
+          ],
+          "tran_cn": "地方的,局部的,相邻的,附近的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "context",
+            "circumstance",
+            "setting",
+            "condition"
+          ],
+          "tran_cn": "环境，周围的事物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "neighboring",
+            "peripheral",
+            "siege"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "surrounding ground",
+      "tran_cn": "周围土地"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "周围的，附近的",
+      "tran_en": "near or around a particular place"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "环境，周围的事物"
+    }
+  ],
+  "exchange": {}
+}

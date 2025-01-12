@@ -1,0 +1,200 @@
+{
+  "word": "contradict",
+  "ipa": {
+    "us": "ˌkɒntrəˈdɪkt",
+    "uk": "ˌkɑːntrəˈdɪkt"
+  },
+  "sentences": [
+    {
+      "en": "Dad just can’t bear to be contradicted.",
+      "cn": "爸爸就是受不了有人反驳他。"
+    },
+    {
+      "en": "Deborah opened her mouth to contradict, but closed it again.",
+      "cn": "黛博拉张口想要反驳，但又把嘴闭上了。"
+    },
+    {
+      "en": "He looked round fiercely, daring them to contradict.",
+      "cn": "他狂野地环顾着四周, 挑战似地看看有谁反驳."
+    },
+    {
+      "en": "His private actions are in direct contradiction to / with ( ie directly contradict ) his publicly expressed opinions.",
+      "cn": "他私下的行为跟公开的言论完全是两码事."
+    },
+    {
+      "en": "I am not in a position either to contradict or affirm this statement.",
+      "cn": "我既不能否定这一说法,又不能肯定这一说法."
+    },
+    {
+      "en": "People in Pisa were angry with Galileo for daring to contradict the great Aristotle.",
+      "cn": "比萨的人们对伽里略极为气恼,因为他竟敢于对抗伟大的亚里士多德."
+    },
+    {
+      "en": "Relativity does not contradict the older mechanics but generalizes it.",
+      "cn": "相对论并不与较老的力学相矛盾,而是使之推广."
+    },
+    {
+      "en": "She waxes righteously indignant if anyone tries to contradict her.",
+      "cn": "如果有人想反驳她,她说起话来就会义愤填膺."
+    },
+    {
+      "en": "The article flatly contradicts their claims.",
+      "cn": "这篇文章断然驳斥他们的说法。"
+    },
+    {
+      "en": "The reports contradict each other.",
+      "cn": "这些报告相互矛盾."
+    },
+    {
+      "en": "The two accounts contradict each other.",
+      "cn": "这两次叙述相矛盾."
+    },
+    {
+      "en": "The two market reports contradict each other.",
+      "cn": "这两份市况报告互相矛盾."
+    },
+    {
+      "en": "The witness statements contradict each other and the facts remain unclear.",
+      "cn": "目击者的说法互相矛盾，真相依然未明。"
+    },
+    {
+      "en": "They contradict each other all the time.",
+      "cn": "他们总是相互抵触."
+    },
+    {
+      "en": "This last equation does not contradict the entropy - of - mixing formula.",
+      "cn": "此式与混合熵公式并不矛盾."
+    },
+    {
+      "en": "You must not contradict mummy.",
+      "cn": "你不应该跟妈妈顶嘴."
+    },
+    {
+      "en": "Young children should never contradict what their parents say.",
+      "cn": "孩子们绝对不应顶撞父母."
+    },
+    {
+      "en": "Your actions contradict your declared moral principles.",
+      "cn": "你的行为违背了你宣称的道德准则."
+    },
+    {
+      "en": "Your actions contradict your principles.",
+      "cn": "你的行为与你的道义相矛盾."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "contradictory",
+          "tran_cn": " 矛盾的；反对的；反驳的；抗辩的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "contradictorily",
+          "tran_cn": " 矛盾地；反驳地；逆"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "contradiction",
+          "tran_cn": " 矛盾；否认；反驳"
+        },
+        {
+          "word": "contradictoriness",
+          "tran_cn": " 矛盾性"
+        },
+        {
+          "word": "contradictory",
+          "tran_cn": " 对立物；矛盾因素"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "clash",
+            "controvert",
+            "counteract",
+            "deny",
+            "differ",
+            "dispute",
+            "negative",
+            "oppose",
+            "refute"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "deny",
+            "talk back"
+          ],
+          "tran_cn": "反驳；否认；发生矛盾"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "deny",
+            "dispute",
+            "oppose"
+          ],
+          "tran_cn": "反驳;反对"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "contradict oneself",
+      "tran_cn": "自相矛盾"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "反驳，相矛盾，违背",
+      "tran_en": "to disagree with something, especially by saying that the opposite is true"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "与（其他事物）相矛盾",
+      "tran_en": "if one statement, story etc contradicts another, the facts in it are different so that both statements cannot be true"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "contradicts"
+    ],
+    "past": [
+      "contradicted"
+    ],
+    "done": [
+      "contradicted"
+    ],
+    "ing": [
+      "contradicting"
+    ]
+  }
+}

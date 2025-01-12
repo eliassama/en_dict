@@ -1,0 +1,134 @@
+{
+  "word": "logger",
+  "ipa": {
+    "us": "ˈlɒgə(r)",
+    "uk": "ˈlɔgə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Aiming at this situation, this paper presents a new type of key - logger.",
+      "cn": "针对该现状, 提出一种新型的键盘记录方法."
+    },
+    {
+      "en": "An injured logger is often far from professional emergency treatment.",
+      "cn": "受伤的伐木者经常远离专业的急救护理."
+    },
+    {
+      "en": "For example, polling, billing, and logger functions must be invoked before the actual program begins.",
+      "cn": "例如投票 、 支付和登录函数必须在实际种程序启动前运行."
+    },
+    {
+      "en": "NT Event Logger Component full source code can be used directly.",
+      "cn": "NT事件记录器组件的全部源代码可以直接使用."
+    },
+    {
+      "en": "Present numeral logger is complex in structure, easy to trouble and price expensive.",
+      "cn": "现在的数字测井仪结构复杂, 易出故障,价格昂贵."
+    },
+    {
+      "en": "Serves also as anti clipboard logger.",
+      "cn": "同时担任反剪贴板记录."
+    },
+    {
+      "en": "The data logger device has been fitted to ship's engine room.",
+      "cn": "数字记录仪装置已安装在船只的机舱里."
+    },
+    {
+      "en": "The data logger is interfaced directly with the minicomputer.",
+      "cn": "数据记录器直接与小型计算机连接."
+    },
+    {
+      "en": "The density logger consists of a radiation source.",
+      "cn": "密度测井仪包括辐射源."
+    },
+    {
+      "en": "The environment Radon logger FD 216 is an instantaneous surveying instrument in situ.",
+      "cn": "FD216型环境氡测量仪是在现场瞬时测量氡的仪器."
+    },
+    {
+      "en": "The man did work that was thought to be manlier. He was a logger.",
+      "cn": "老先生做的是一般认为较适合男性的工作-当一名樵夫."
+    },
+    {
+      "en": "The paper presents setting up gas logger operational curve model by applying mathematics regression analysis method.",
+      "cn": "该文提出应用数学回归分析方法建立气测仪工作曲线模式."
+    },
+    {
+      "en": "The Singleton pattern is used in the design of logger classes.",
+      "cn": "单件模式被用在日志记录类中."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "log",
+          "tran_cn": " 记录；航行日志；园木"
+        },
+        {
+          "word": "logging",
+          "tran_cn": " 记录；伐木工作"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "logging",
+          "tran_cn": " 把…锯成段木；砍伐树木（log的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "log",
+          "tran_cn": " 伐木"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "log",
+          "tran_cn": " 切；伐木；航行"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "woodcutter",
+            "recorder"
+          ],
+          "tran_cn": "（美）樵夫，伐木工；[计]记录器"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data logger",
+      "tran_cn": "数据记录器；巡回检测装置；数据自动测定"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<美>樵夫，伐木工，记录器"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "loggers"
+    ]
+  }
+}

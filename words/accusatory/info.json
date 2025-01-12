@@ -1,0 +1,122 @@
+{
+  "word": "accusatory",
+  "ipa": {
+    "us": "əˈkju:zətəri",
+    "uk": "əˈkjuzətɔri"
+  },
+  "sentences": [
+    {
+      "en": "...the accusatory tone of the questions.",
+      "cn": "...这些问题的非难语气。"
+    },
+    {
+      "en": "The tone was bitter and accusatory.",
+      "cn": "杰克的声音苦涩,带着抱怨."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "accusatorial",
+          "tran_cn": " 责问的；控告者的"
+        },
+        {
+          "word": "accused",
+          "tran_cn": " 被控告的"
+        },
+        {
+          "word": "accusing",
+          "tran_cn": " 指责的；非难的；归咎的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "accusal",
+          "tran_cn": " 谴责；控告；罪名（等于accusation）"
+        },
+        {
+          "word": "accusation",
+          "tran_cn": " 控告，指控；谴责"
+        },
+        {
+          "word": "accused",
+          "tran_cn": " 被告"
+        },
+        {
+          "word": "accuser",
+          "tran_cn": " 原告；控告者；指责者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "accused",
+          "tran_cn": " 指责；控告（accuse的过去式）"
+        },
+        {
+          "word": "accusing",
+          "tran_cn": " 指责；指控（accuse的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "accuse",
+          "tran_cn": " 指责；控告"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "accuse",
+          "tran_cn": " 控告，指控；谴责；归咎于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "objurgatory",
+            "denunciatory"
+          ],
+          "tran_cn": "非难的，指责的；控诉的，控告的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "damning"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "非难的，控诉的，指责的",
+      "tran_en": "an accusatory remark or look from someone shows that they think you have done something wrong"
+    }
+  ],
+  "exchange": {}
+}

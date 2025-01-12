@@ -1,0 +1,180 @@
+{
+  "word": "teller",
+  "ipa": {
+    "us": "ˈtelə(r)",
+    "uk": "ˈtɛlɚ"
+  },
+  "sentences": [
+    {
+      "en": "An anticipatory story is a trap to the teller.",
+      "cn": "对于讲故事的人而言,事先想好的故事是个框框."
+    },
+    {
+      "en": "Every bank pays close attention to the speed and accuracy of its tellers.",
+      "cn": "每家银行都密切关注其出纳员的速度和准确性。"
+    },
+    {
+      "en": "Grandma was a good teller of stories.",
+      "cn": "奶奶很会讲故事."
+    },
+    {
+      "en": "He is an amusing story teller.",
+      "cn": "他讲的故事很使人发笑."
+    },
+    {
+      "en": "He told the teller that he didn't want anything.",
+      "cn": "他告诉出纳,说他什么也不要."
+    },
+    {
+      "en": "He wants me to teller to hand in the item there.",
+      "cn": "他要我到出纳员那儿交款."
+    },
+    {
+      "en": "He was a good story - teller and used to make up tales about farmers and animals.",
+      "cn": "他是个讲故事的好手,常编一些农夫和动物的故事."
+    },
+    {
+      "en": "Mr. Smith takes the biscuit as a story teller.",
+      "cn": "史密斯先生讲故事是无与伦比的."
+    },
+    {
+      "en": "She worked as a teller in a local bank.",
+      "cn": "她在当地一家银行当出纳."
+    },
+    {
+      "en": "Since Henry had become teller the family had acquired a piano.",
+      "cn": "从亨利当出纳员以后,家里买了一架钢琴."
+    },
+    {
+      "en": "The bank started her as a teller.",
+      "cn": "银行起用她当出纳员."
+    },
+    {
+      "en": "The story teller stretched the story out.",
+      "cn": "讲故事的人把故事拖长了."
+    },
+    {
+      "en": "The teller is adding up her receipts.",
+      "cn": "出纳员正把所收的款项加起来."
+    },
+    {
+      "en": "The teller stopped, stunned, and suddenly began to cry.",
+      "cn": "叙述者停住了, 惊呆了, 接着突然大哭起来."
+    },
+    {
+      "en": "The thief waved his gun at the bank teller.",
+      "cn": "那个贼向银行出纳员挥舞他的枪."
+    },
+    {
+      "en": "You didn't go to the fortune - teller, did you?",
+      "cn": "你不相信算命的, 是不是?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "telling",
+          "tran_cn": " 有效的；生动的；显著的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "telling",
+          "tran_cn": " 命令；叙述；吐露真情"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "telling",
+          "tran_cn": " 告诉；讲述（tell的ing形式）；命令"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "tell",
+          "tran_cn": " 讲述；告发，泄密；识别"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "tell",
+          "tran_cn": " 告诉，说；辨别；吩咐；断定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "casher",
+            "treasurer"
+          ],
+          "tran_cn": "（美）出纳员；讲述者；讲故事者；计票员"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accountant",
+            "clerk"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "automated teller machine",
+      "tran_cn": "自动柜员机"
+    },
+    {
+      "phrase": "automatic teller",
+      "tran_cn": "自动出纳机"
+    },
+    {
+      "phrase": "automatic teller machine",
+      "tran_cn": "自动取款机；自动柜员机"
+    },
+    {
+      "phrase": "bank teller",
+      "tran_cn": "n. 银行行员"
+    },
+    {
+      "phrase": "fortune teller",
+      "tran_cn": "算命先生；预言家"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "出纳员，叙述者，银行柜员机，计票人",
+      "tran_en": "someone whose job is to receive and pay out money in a bank"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tellers"
+    ]
+  }
+}

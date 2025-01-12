@@ -1,0 +1,80 @@
+{
+  "word": "ecologist",
+  "ipa": {
+    "us": "iˈkɒlədʒɪst",
+    "uk": "iˈkɑːlədʒɪst"
+  },
+  "sentences": [
+    {
+      "en": "Ecologist who looked for patterns in nature regarded food as an organizing influence in communities.",
+      "cn": "观察自然界的格局的生态学家认为食物对群落具有组织结构的影响."
+    },
+    {
+      "en": "Ecologists argue that the benefits of treating sewage with disinfectants are doubtful.",
+      "cn": "生态学家们认为用消毒剂处理污水的好处是值得怀疑的。"
+    },
+    {
+      "en": "Saturation of a biotope is of special interest to the ecologist.",
+      "cn": "生境小区的饱和对生态学家是特别有意义的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ecologic",
+          "tran_cn": " 生态的；生态学的"
+        },
+        {
+          "word": "ecological",
+          "tran_cn": " 生态的，生态学的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "ecologically",
+          "tran_cn": " 从生态学的观点看"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ecology",
+          "tran_cn": " 生态学；社会生态学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "environmentalist"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "生态学者",
+      "tran_en": "a scientist who studies ecology"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "ecologists"
+    ]
+  }
+}

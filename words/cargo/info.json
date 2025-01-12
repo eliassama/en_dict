@@ -1,0 +1,196 @@
+{
+  "word": "cargo",
+  "ipa": {
+    "us": "ˈkɑːɡəʊ",
+    "uk": "ˈkɑːrɡoʊ"
+  },
+  "sentences": [
+    {
+      "en": "a cargo plane",
+      "cn": "货机"
+    },
+    {
+      "en": "A fishing vessel and a cargo ship collided in rough seas.",
+      "cn": "一艘捕鱼船和一艘货船在波涛汹涌的海上相撞了。"
+    },
+    {
+      "en": "A lot of people discharged the cargo from a ship.",
+      "cn": "许多人从船上卸下货物."
+    },
+    {
+      "en": "An oil tanker spewed its cargo into the sea.",
+      "cn": "一艘油轮将装载的油全都泄入了大海。"
+    },
+    {
+      "en": "Ferries are very powerful and manoeuvrable compared to cargo ships.",
+      "cn": "与货船相比，渡船马力大而且易操纵。"
+    },
+    {
+      "en": "Fire may have breached the cargo tanks and set the oil ablaze.",
+      "cn": "大火当时有可能把货船上的油罐烧漏了，从而引燃原油。"
+    },
+    {
+      "en": "He loaded his vessel with another cargo and set sail.",
+      "cn": "他给自己的船装上另一批货后便启航了。"
+    },
+    {
+      "en": "Last night a cargo ship collided with a tanker carrying crude oil.",
+      "cn": "昨晚一艘货轮与一艘载着原油的油轮相撞."
+    },
+    {
+      "en": "Once the cargo has been shipped, insurance can be covered instantaneously.",
+      "cn": "货物一旦发出, 我会立即投保."
+    },
+    {
+      "en": "The cargo was due to be offloaded in Singapore three days later.",
+      "cn": "货物定于3天后在新加坡卸载。"
+    },
+    {
+      "en": "The freighter carries a few passengers in addition to its cargo.",
+      "cn": "这艘货船除了货物之外还载有一些乘客."
+    },
+    {
+      "en": "The tanker began to spill its cargo of oil.",
+      "cn": "油轮已开始漏油。"
+    },
+    {
+      "en": "The transportation took off with its cargo at midnight.",
+      "cn": "运输机载着货物深夜起飞了."
+    },
+    {
+      "en": "The vessel is fully loaded with cargo for Shanghai.",
+      "cn": "这艘船满载货物驶往上海."
+    },
+    {
+      "en": "This port can handle up to 50000000 tons of cargo every year.",
+      "cn": "这个港口每年可吞吐50000000吨货物."
+    },
+    {
+      "en": "We have to make three loads of the cargo.",
+      "cn": "我们得把货物分成3批装运."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "freight",
+            "load",
+            "shipment"
+          ],
+          "tran_cn": "货物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "freight",
+            "load",
+            "shipment"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "air cargo",
+      "tran_cn": "空运货物"
+    },
+    {
+      "phrase": "bulk cargo",
+      "tran_cn": "散装货"
+    },
+    {
+      "phrase": "cargo agent",
+      "tran_cn": "货运代理人；货运商"
+    },
+    {
+      "phrase": "cargo capacity",
+      "tran_cn": "载货容积；载货能力"
+    },
+    {
+      "phrase": "cargo clauses",
+      "tran_cn": "货物保险条款"
+    },
+    {
+      "phrase": "cargo container",
+      "tran_cn": "货物集装箱"
+    },
+    {
+      "phrase": "cargo handling",
+      "tran_cn": "货物装卸，货物处理"
+    },
+    {
+      "phrase": "cargo hold",
+      "tran_cn": "货舱"
+    },
+    {
+      "phrase": "cargo insurance",
+      "tran_cn": "货物保险"
+    },
+    {
+      "phrase": "cargo plane",
+      "tran_cn": "运输飞机，货运飞机"
+    },
+    {
+      "phrase": "cargo receipt",
+      "tran_cn": "货运收据"
+    },
+    {
+      "phrase": "cargo ship",
+      "tran_cn": "货船"
+    },
+    {
+      "phrase": "cargo space",
+      "tran_cn": "货舱；载货空间"
+    },
+    {
+      "phrase": "cargo terminal",
+      "tran_cn": "货物码头；货运终点站；货运枢纽"
+    },
+    {
+      "phrase": "cargo transport",
+      "tran_cn": "货运；运货船/机"
+    },
+    {
+      "phrase": "cargo transportation insurance",
+      "tran_cn": "货物运输保险；货运保险"
+    },
+    {
+      "phrase": "cargo vessel",
+      "tran_cn": "n. 货轮；载货船"
+    },
+    {
+      "phrase": "container cargo",
+      "tran_cn": "集装箱货物；货柜装货物"
+    },
+    {
+      "phrase": "general cargo",
+      "tran_cn": "一般货物，普通货物；杂货"
+    },
+    {
+      "phrase": "heavy cargo",
+      "tran_cn": "特重货物"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（船或飞机装载的）货物",
+      "tran_en": "the goods that are being carried in a ship or plane"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cargoes"
+    ]
+  }
+}

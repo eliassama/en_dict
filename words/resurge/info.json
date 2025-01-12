@@ -1,0 +1,81 @@
+{
+  "word": "resurge",
+  "ipa": {
+    "us": "rɪ'sɜ:dʒ",
+    "uk": "rɪˈsɚdʒ"
+  },
+  "sentences": [
+    {
+      "en": "The architect leaves washington with the democratic party resurge nt his own party reduced to an ageing and irascible core and the president with one of the lowest approval ratings in history.",
+      "cn": "当美国民主党复兴的时候，这位建筑师离开了白宫，把自己的党派弱化为一个年迈而易怒的核心，连总统的支持率也降到了最低。"
+    },
+    {
+      "en": "The Renaissance again discovered the world, the man and brought about the resurge of politics.",
+      "cn": "文艺复兴重新发现了世界, 也重新发现了人,并带来了政治学的复兴."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "resurgent",
+          "tran_cn": " 复活的；复苏的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "resurgence",
+          "tran_cn": " 复活；再现；再起"
+        },
+        {
+          "word": "resurgent",
+          "tran_cn": " 复活者"
+        },
+        {
+          "word": "resurrection",
+          "tran_cn": " 复活；恢复；复兴"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "come back to life again",
+            "reflourish"
+          ],
+          "tran_cn": "复活；再起"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "复活",
+      "tran_en": "to rise again from or as if from the dead "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "resurges"
+    ],
+    "past": [
+      "resurged"
+    ],
+    "done": [
+      "resurged"
+    ],
+    "ing": [
+      "resurging"
+    ]
+  }
+}

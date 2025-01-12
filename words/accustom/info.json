@@ -1,0 +1,124 @@
+{
+  "word": "accustom",
+  "ipa": {
+    "us": "əˈkʌstəm",
+    "uk": "əˈkʌstəm"
+  },
+  "sentences": [
+    {
+      "en": "Children are quick to accustom themselves to new surroundings.",
+      "cn": "孩子们很快就会适应新环境."
+    },
+    {
+      "en": "He said I must accustom myself to be more at ease when I am with people.",
+      "cn": "他说和别人在一起时我要慢慢做到别太拘束."
+    },
+    {
+      "en": "He would never accustom himself to drinking nothing but cocacola.",
+      "cn": "他将永远无法过那种只喝可口可乐的日子."
+    },
+    {
+      "en": "It took a while for her eyes to accustom themselves to the dark.",
+      "cn": "她的眼睛过了一会儿才适应了黑暗."
+    },
+    {
+      "en": "It's difficult for the young people to accustom to the elderly people's ideas.",
+      "cn": "年轻人难以理解老年人的心理."
+    },
+    {
+      "en": "She tried to accustom herself to the tight bandages.",
+      "cn": "她尝试着使自己习惯那些紧绷的绷带。"
+    },
+    {
+      "en": "The just had to accustom , themselves to the new conditions, and stop complaining.",
+      "cn": "他们必须适应新环境, 并且停止埋怨."
+    },
+    {
+      "en": "We had to accustom ourselves to cold weather.",
+      "cn": "我们必须使自己适应寒冷天气."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "accustomed",
+          "tran_cn": " 习惯的；通常的；独有的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "accustomed",
+          "tran_cn": " 使习惯于（accustom的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acclimate",
+            "addict",
+            "condition",
+            "domesticate",
+            "familiarize",
+            "get",
+            "to",
+            "used"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "addict",
+            "condition",
+            "familiarize",
+            "get",
+            "to",
+            "used"
+          ],
+          "tran_cn": "使习惯"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使习惯（于），使适应",
+      "tran_en": "to make yourself or another person become used to a situation or place"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 使习惯于",
+      "tran_en": "to make yourself or another person become used to a situation or place"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "accustoms"
+    ],
+    "past": [
+      "accustomed"
+    ],
+    "done": [
+      "accustomed"
+    ],
+    "ing": [
+      "accustoming"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "word": "punctuate",
+  "ipa": {
+    "us": "ˈpʌŋktʃueɪt",
+    "uk": "ˈpʌŋktʃuˌet"
+  },
+  "sentences": [
+    {
+      "en": "Be sure to punctuate your sentences with the correct marks in the right places.",
+      "cn": "一定要在你文章句子中的正确地方标上正确的标点符号."
+    },
+    {
+      "en": "OK. I'll punctuate it again.",
+      "cn": "好, 我再给这个句子重新打一下标点."
+    },
+    {
+      "en": "Punctuate person , pay close attention to also.",
+      "cn": "圈点者, 关注也."
+    },
+    {
+      "en": "The children have not yet learned to punctuate correctly.",
+      "cn": "这些小学生尚未学会正确使用标点符号."
+    },
+    {
+      "en": "The pupils have not yet learned to punctuate correctly.",
+      "cn": "小学生尚未学会正确使用标点符号."
+    },
+    {
+      "en": "The silence was occasionally punctuated by laughter.",
+      "cn": "寂静间或被笑声打破。"
+    },
+    {
+      "en": "We have not yet learned to punctuate correctly.",
+      "cn": "我们尚未学会正确使用标点符号."
+    },
+    {
+      "en": "You should punctuate the whole passage with correct marks in order to make its meaning.",
+      "cn": "你应用正确的标点将整段文章点开,以使意思更明了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "punctuation",
+          "tran_cn": " 标点；标点符号"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accentuate",
+            "emphasize",
+            "highlight"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "emphasize",
+            "stress",
+            "highlight"
+          ],
+          "tran_cn": "不时打断；强调；加标点于"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "不时打断；强调；加标点于",
+      "tran_en": "to divide written work into sentences, phrases etc using  comma s  ,  full stop s  etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "加标点符号，不时打断，加强，强调"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "不时打断某事物，使用标点符号"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "punctuates"
+    ],
+    "past": [
+      "punctuated"
+    ],
+    "done": [
+      "punctuated"
+    ],
+    "ing": [
+      "punctuating"
+    ]
+  }
+}

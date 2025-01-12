@@ -1,0 +1,68 @@
+{
+  "word": "choreograph",
+  "ipa": {
+    "us": "ˈkɒriəgrɑ:f",
+    "uk": "ˈkɔriəgræf"
+  },
+  "sentences": [
+    {
+      "en": "The show is very cleverly choreographed.",
+      "cn": "这个节目的舞蹈动作设计得非常好。"
+    },
+    {
+      "en": "The stunt performers have been taking advantage of the lighter weight to choreograph even faster moves.",
+      "cn": "更轻的光剑有助于特技表演者设计比以往更迅捷的打斗动作."
+    },
+    {
+      "en": "This was a show they had helped to choreograph, sometimes in minute detail.",
+      "cn": "这是一场他们设计的表演, 甚至有时具体指导其中的微小细节."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "choreographic",
+          "tran_cn": " 舞台舞蹈的；舞蹈术的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "choreographer",
+          "tran_cn": " 编舞者，舞蹈指导"
+        },
+        {
+          "word": "choreography",
+          "tran_cn": " 编舞；舞蹈艺术；舞艺"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "设计舞蹈动作",
+      "tran_en": "to arrange how dancers should move during a performance"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "choreographs"
+    ],
+    "past": [
+      "choreographed"
+    ],
+    "done": [
+      "choreographed"
+    ],
+    "ing": [
+      "choreographing"
+    ]
+  }
+}

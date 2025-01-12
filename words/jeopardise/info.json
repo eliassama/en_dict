@@ -1,0 +1,59 @@
+{
+  "word": "jeopardise",
+  "ipa": {
+    "us": "'dʒepədaɪz",
+    "uk": "ˈdʒɛpɚˌdaɪz"
+  },
+  "sentences": [
+    {
+      "en": "The fallout of ash over parts of Iceland could jeopardise the safety of drinking water.",
+      "cn": "落到冰岛一些地方的火山灰沉降物可能会威胁饮用水安全."
+    },
+    {
+      "en": "Why would he jeopardise his future by taking unauthorized drugs?",
+      "cn": "他为什么要服用违禁药品,而毁了自己的将来 呢 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "jeopardy",
+          "tran_cn": " 危险；（被告处于被判罪或受处罚的）危险境地"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "jeopardize",
+          "tran_cn": " 危害；使陷危地；使受危困"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "endanger",
+            "imperil"
+          ],
+          "tran_cn": "危及（等于jeopardize）；使…受危险"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "vt",
+      "tran_cn": "危及，损害"
+    }
+  ],
+  "exchange": {}
+}

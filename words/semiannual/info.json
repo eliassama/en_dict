@@ -1,0 +1,80 @@
+{
+  "word": "semiannual",
+  "ipa": {
+    "us": "ˌsemɪ'ænjʊəl",
+    "uk": "ˌsemɪ'ænjʊrl"
+  },
+  "sentences": [
+    {
+      "en": "...the semiannual meeting of the International Monetary Fund.",
+      "cn": "...一年两次的国际货币基金组织会议。"
+    },
+    {
+      "en": "Both make semiannual invest payments called coupon payments.",
+      "cn": "每半年一次的投资支付称为息票."
+    },
+    {
+      "en": "Receipt of semiannual interest on $ 5 at 8 %.",
+      "cn": "收到面值5美元,年息8%的债券的半年利息."
+    },
+    {
+      "en": "Two months later, on March 1, a semiannual interest payment is made to bondholders.",
+      "cn": "在两个月之后的3月1日, 给债券持有者支付半年的利息."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "semicentennial",
+          "tran_cn": " 五十周年纪念的；五十年一度的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "semiannually",
+          "tran_cn": " 每半年"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "semester",
+          "tran_cn": " 学期；半年"
+        },
+        {
+          "word": "semicentennial",
+          "tran_cn": " 五十周年；五十周年纪念"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "bi-annual"
+          ],
+          "tran_cn": "一年两次的；半年一次的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "每半年的，半年的",
+      "tran_en": "A semiannual event happens twice a year"
+    }
+  ],
+  "exchange": {}
+}

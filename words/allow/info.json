@@ -1,0 +1,215 @@
+{
+  "word": "allow",
+  "ipa": {
+    "us": "əˈlaʊ",
+    "uk": "əˈlaʊ"
+  },
+  "sentences": [
+    {
+      "en": "Allow an extra 10-15 min if you prefer lamb well done.",
+      "cn": "如果想让羊羔肉完全熟透还需要再煮10到15分钟。"
+    },
+    {
+      "en": "Allow for some shrinkage in both length and width.",
+      "cn": "长、宽上都预留出一定的缩水量。"
+    },
+    {
+      "en": "Allow the loaves to rise until just about double in size.",
+      "cn": "让面包发酵到刚好是原来的两倍左右。"
+    },
+    {
+      "en": "Don't allow a minor irritation in the workplace to mar your ambitions.",
+      "cn": "不要让工作中的一点烦心事打击了你的雄心抱负。"
+    },
+    {
+      "en": "Free gifts are dispatched separately so please allow 28 days for delivery.",
+      "cn": "赠品会分开发送，所以请预留28天的送货期。"
+    },
+    {
+      "en": "He did not allow his preconceptions to compromise his scientific work.",
+      "cn": "他不允许自己的先入之见破坏自己的科学工作。"
+    },
+    {
+      "en": "He promised to allow justice to run its course unimpeded.",
+      "cn": "他承诺要让司法正义不受阻碍地得到伸张。"
+    },
+    {
+      "en": "How could you allow him to do something like that?",
+      "cn": "你怎么会允许他做那样的事？"
+    },
+    {
+      "en": "Lower the heat and allow the omelet to set on the bottom.",
+      "cn": "关小火让煎蛋的下面凝固。"
+    },
+    {
+      "en": "The film studio grudgingly agreed to allow him to continue working.",
+      "cn": "这家电影公司勉强同意让他继续工作。"
+    },
+    {
+      "en": "The judge allowed the evidence.",
+      "cn": "法官接受了这项证据。"
+    },
+    {
+      "en": "Their wages do, however, allow them a degree of independence.",
+      "cn": "不过，他们的工资确实给了他们一定的独立。"
+    },
+    {
+      "en": "They will not allow your more way-out ideas to pass unchallenged.",
+      "cn": "他们不会放过你这些古怪的念头的。"
+    },
+    {
+      "en": "This licence would not allow him to trade as a plc.",
+      "cn": "这个许可证并不能让他以公开股份有限公司的名义从事贸易。"
+    },
+    {
+      "en": "Warehouse clubs allow members to buy goods at wholesale prices.",
+      "cn": "仓储式会员店允许会员以批发价购买商品。"
+    },
+    {
+      "en": "We don’t allow diving in the pool.",
+      "cn": "泳池内禁止跳水。"
+    },
+    {
+      "en": "You have to allow for a certain amount of error.",
+      "cn": "你必须将一定量的误差考虑在内。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "allowable",
+          "tran_cn": " 许可的；正当的；可承认的；可获宽免"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "allowably",
+          "tran_cn": " 可容许地，不碍事地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "allowance",
+          "tran_cn": " 津贴，零用钱；允许；限额"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "allowance",
+          "tran_cn": " 定量供应"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accede",
+            "acknowledge",
+            "admit",
+            "concede",
+            "consent",
+            "grant",
+            "let",
+            "license",
+            "permit",
+            "recognize",
+            "render",
+            "sanction",
+            "tolerate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "think of",
+            "think about"
+          ],
+          "tran_cn": "容许；考虑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "admit",
+            "consent",
+            "grant",
+            "let",
+            "permit"
+          ],
+          "tran_cn": "允许;同意"
+        },
+        {
+          "words": [
+            "acknowledge",
+            "concede",
+            "recognize"
+          ],
+          "tran_cn": "承认"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "allow for",
+      "tran_cn": "考虑到，虑及"
+    },
+    {
+      "phrase": "allow of",
+      "tran_cn": "容许"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "允许，给予，使有可能，留出，给出，接受，同意",
+      "tran_en": "to let someone do or have something, or let something happen"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 考虑到， 顾及； 体谅"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "允许，准许；承认；允给",
+      "tran_en": "to let someone do or have something, or let something happen"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "allows"
+    ],
+    "past": [
+      "allowed"
+    ],
+    "done": [
+      "allowed"
+    ],
+    "ing": [
+      "allowing"
+    ]
+  }
+}

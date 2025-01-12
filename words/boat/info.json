@@ -1,0 +1,276 @@
+{
+  "word": "boat",
+  "ipa": {
+    "us": "bəʊt",
+    "uk": "boʊt"
+  },
+  "sentences": [
+    {
+      "en": "a boat trip around the islands",
+      "cn": "乘船环岛旅行"
+    },
+    {
+      "en": "a fishing boat",
+      "cn": "渔船"
+    },
+    {
+      "en": "After prepping the boat, they sailed it down to Carloforte.",
+      "cn": "备好船后，他们就驶向了南边的卡洛福泰。"
+    },
+    {
+      "en": "Blake jumped in expertly; the boat dipped slightly under his weight.",
+      "cn": "布莱克很熟练地跳上了船，他的重量使小船微微向下沉了沉。"
+    },
+    {
+      "en": "Driving a boat is not the same as driving a car.",
+      "cn": "驾船和开车不是一回事。"
+    },
+    {
+      "en": "Goldring booked a berth on the first boat he could.",
+      "cn": "戈德林订了他能订到的最早一班船的铺位。"
+    },
+    {
+      "en": "He flashed his light into the boat and saw the fishing-line.",
+      "cn": "他朝船上照去，看见了钓鱼线。"
+    },
+    {
+      "en": "I had to stock the boat up with food.",
+      "cn": "我得在船上备足干粮。"
+    },
+    {
+      "en": "It would be just his luck to miss the last boat.",
+      "cn": "他就这运气，误了最后一班船也毫不出奇。"
+    },
+    {
+      "en": "The boat capsized (=  turned over  ) in heavy seas.",
+      "cn": "船在波涛汹涌的大海上倾覆了。"
+    },
+    {
+      "en": "The boat started to spin around in the water.",
+      "cn": "船开始在水中打旋。"
+    },
+    {
+      "en": "The boat was anchored off the northern coast of the peninsula.",
+      "cn": "这艘船停泊在离该半岛北部海岸不远的地方。"
+    },
+    {
+      "en": "The boat's engine misfired after he tried to start it up.",
+      "cn": "他试着启动船的引擎，但没发动起来。"
+    },
+    {
+      "en": "The island may be reached by boat from the mainland.",
+      "cn": "这个岛屿可以从大陆乘小船到达。"
+    },
+    {
+      "en": "The path serves as an approach to the boat house.",
+      "cn": "这条小路通往船屋。"
+    },
+    {
+      "en": "This boat has a good deck layout making everything easy to operate.",
+      "cn": "这艘船的甲板布局合理，使得所有操控都很方便。"
+    },
+    {
+      "en": "We'd seen the storm brewing when we were out in the boat.",
+      "cn": "我们在外面划船的时候就发现风暴将至。"
+    },
+    {
+      "en": "What are you, fresh off the boat?.",
+      "cn": "你是什么人，初来乍到吧。"
+    },
+    {
+      "en": "When the boat reached Cape Town, we said a temporary goodbye.",
+      "cn": "客轮到达开普敦时，我们暂时分别。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "boating",
+          "tran_cn": " 划船的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "boater",
+          "tran_cn": " 硬草帽；乘船的人"
+        },
+        {
+          "word": "boating",
+          "tran_cn": " 划船"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "boating",
+          "tran_cn": " 划船（boat的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "canoe",
+            "craft",
+            "dinghy",
+            "dugout",
+            "houseboat",
+            "hydrofoil",
+            "hydroplane",
+            "junk",
+            "kayak",
+            "lifeboat",
+            "motorboat",
+            "packet",
+            "pinnace",
+            "pram",
+            "punt",
+            "sailboat",
+            "shell",
+            "skiff",
+            "sloop",
+            "speedboat",
+            "tender",
+            "tub",
+            "tug",
+            "vessel",
+            "watercraft",
+            "yacht",
+            "yawl"
+          ],
+          "tran_cn": "船,船只"
+        },
+        {
+          "words": [
+            "ark",
+            "barge",
+            "carrack",
+            "cutter",
+            "ferry",
+            "galleon",
+            "liner",
+            "merchantman",
+            "schooner",
+            "ship",
+            "slipper",
+            "smack",
+            "steamer",
+            "whaler"
+          ],
+          "tran_cn": "驳船,渔船"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "basin",
+            "hulk",
+            "warship"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "cruise",
+            "drift",
+            "float",
+            "navigate",
+            "oar",
+            "paddle",
+            "row",
+            "sail",
+            "steam",
+            "yacht"
+          ],
+          "tran_cn": "乘船"
+        },
+        {
+          "words": [
+            "barge",
+            "carry",
+            "convey",
+            "ferry",
+            "freight",
+            "send",
+            "ship",
+            "transport"
+          ],
+          "tran_cn": "船运"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to row"
+          ],
+          "tran_cn": "划船"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be in the same boat",
+      "tran_cn": "(非正式)在同一条船上，患难与共"
+    },
+    {
+      "phrase": "in the same boat",
+      "tran_cn": "处境相同：和另一个人或其他人处境相同"
+    },
+    {
+      "phrase": "off the boat",
+      "tran_cn": "(非正式 常 冒犯)刚从外国来的，从外国初来乍到的，人地生疏的，外来的，不懂异国风俗习惯的，无在异国生活经验的"
+    },
+    {
+      "phrase": "push the boat out",
+      "tran_cn": "(英，非正式)挥霍，铺张，讲排场"
+    },
+    {
+      "phrase": "rock the boat",
+      "tran_cn": "(非正式)搅局，捣乱"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "船，客轮",
+      "tran_en": "a vehicle that travels across water"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "小船",
+      "tran_en": "a vehicle that travels across water"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "划船"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "boats"
+    ]
+  }
+}

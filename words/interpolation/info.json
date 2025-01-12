@@ -1,0 +1,195 @@
+{
+  "word": "interpolation",
+  "ipa": {
+    "us": "ɪnˌtɜ:pə'leɪʃn",
+    "uk": "ɪnˌtɚpəˈleʃən"
+  },
+  "sentences": [
+    {
+      "en": "A kind of linear interpolation method on periodic increment is introduced.",
+      "cn": "介绍了一种周期增量直线插补方法."
+    },
+    {
+      "en": "A low complexity design scheme interpolation filter was proposed.",
+      "cn": "提出一种低复杂度内插滤波器的设计方法."
+    },
+    {
+      "en": "Due to the use of interpolation algorithm, is very small rotational distortion.",
+      "cn": "可以任意角度旋转图象,运行速度较快.由于使用了插值算法, 旋转失真非常小."
+    },
+    {
+      "en": "For intermediate doses, the corresponding slant distances can be estimated by interpolation.",
+      "cn": "对于中间的剂量, 可以用内插法把相应的斜距估计出来."
+    },
+    {
+      "en": "Frame repeat method is the most basic non - motion compensation frame interpolation algorithm.",
+      "cn": "帧重复方法是最基本的 非 运动补偿插帧算法."
+    },
+    {
+      "en": "Functions: rendering the original function, Lagrange interpolation, cubic spline interpolation function.",
+      "cn": "功能: 绘制原函数 、 Lagrange插值 、 三次样条插值函数."
+    },
+    {
+      "en": "Interpolation between satellite positions was initially carried out by dead - reckoning procedures.",
+      "cn": "卫星定位值间的内插最初用的是推算航行法."
+    },
+    {
+      "en": "IV. the Error Estimations of Certain Generalized Cubic Spline Interpolation.",
+      "cn": "一类三次广义样条插值的误差估计."
+    },
+    {
+      "en": "New data reserving method and corresponding image interpolation scheme are also included.",
+      "cn": "研究新的数据保留方案;研究相应图像插值方法."
+    },
+    {
+      "en": "Question: using cubic spline interpolation method node function value . Algorithm Description: 1.",
+      "cn": "问题: 用三次样条插值法求节点的函数值."
+    },
+    {
+      "en": "Smooth animation. We can derive intermediate frames by using spherical interpolation.",
+      "cn": "我们可以使用球性插值得到中间帧,以实现平滑的动画."
+    },
+    {
+      "en": "Some interpolation on two dimensional Euler space of triangular domain is studied.",
+      "cn": "主要研究了二维欧氏空间三角域上的插值问题."
+    },
+    {
+      "en": "The circular interpolation is widely used in NC manufacturing of curve contours.",
+      "cn": "在数控轮廓加工中,圆弧插补被广泛的运用."
+    },
+    {
+      "en": "The complexity and the degree of the algebraic expression for the Sbox are symbols of resistance of block ciphers against the interpolation attacks.",
+      "cn": "插入攻击是一种针对代数式次数和复杂程度低的分组密码的攻击方法。"
+    },
+    {
+      "en": "The isoclinics listed with irregular parameters can be found by interpolation.",
+      "cn": "所列参数若为不规则数值的等倾线,则可用插入法来求得."
+    },
+    {
+      "en": "With the channel estimation at pilot tones , an efficient interpolation is necessary.",
+      "cn": "在得到导频处信道估计后, 必须使用一种有效的插值方法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interposition",
+          "tran_cn": " 干涉，介入；插入，放入"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "interpolate",
+          "tran_cn": " 插入；篡改"
+        },
+        {
+          "word": "interpose",
+          "tran_cn": " 干预；插入；调停"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "interpolate",
+          "tran_cn": " 篡改；插入新语句"
+        },
+        {
+          "word": "interpose",
+          "tran_cn": " 提出（异议等）；使插入；使干涉"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "insertion",
+            "manipulation"
+          ],
+          "tran_cn": "插入；篡改；添写"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addition"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bilinear interpolation",
+      "tran_cn": "双线性插值"
+    },
+    {
+      "phrase": "circular interpolation",
+      "tran_cn": "环形内插法"
+    },
+    {
+      "phrase": "cubic interpolation",
+      "tran_cn": "三次插值；三次内插"
+    },
+    {
+      "phrase": "interpolation error",
+      "tran_cn": "内插误差"
+    },
+    {
+      "phrase": "interpolation formula",
+      "tran_cn": "[计]插值公式"
+    },
+    {
+      "phrase": "interpolation method",
+      "tran_cn": "插值法；内插法；插补方法"
+    },
+    {
+      "phrase": "interpolation polynomial",
+      "tran_cn": "插值多项式"
+    },
+    {
+      "phrase": "linear interpolation",
+      "tran_cn": "线性插值；线性内插法；直线切削"
+    },
+    {
+      "phrase": "quadratic interpolation",
+      "tran_cn": "二次插值，二次插值法"
+    },
+    {
+      "phrase": "spatial interpolation",
+      "tran_cn": "空间内插，空间插值"
+    },
+    {
+      "phrase": "spline interpolation",
+      "tran_cn": "样条插值，样条内插；仿样内插法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "窜改，添写，插补"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interpolations"
+    ],
+    "verb": [
+      "interpolate"
+    ]
+  }
+}

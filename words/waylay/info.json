@@ -1,0 +1,80 @@
+{
+  "word": "waylay",
+  "ipa": {
+    "us": "weɪˈleɪ",
+    "uk": "ˈweˌle"
+  },
+  "sentences": [
+    {
+      "en": "\"They know the routes . . . of the trappers; where to waylay them\" (Washington Irving).",
+      "cn": "“他们知道捕猎手走的路线；知道在哪里伏击他们” （华盛顿·欧文）。"
+    },
+    {
+      "en": "Greenpeace managed to assemble enough boats to waylay the ship at sea.",
+      "cn": "绿色和平组织设法聚集起足够数量的小船在海上拦截该船。"
+    },
+    {
+      "en": "She lingered outside the theater to waylay him after the show.",
+      "cn": "她在戏院外面徘徊想在演出之后拦住他说话."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ambush",
+            "attack",
+            "in",
+            "lie",
+            "pirate",
+            "wait"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "ambush",
+            "attack",
+            "in",
+            "lie",
+            "wait"
+          ],
+          "tran_cn": "伏击;拦截"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 埋伏， 伏击"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "拦截，拦路"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "waylays"
+    ],
+    "past": [
+      "waylaid"
+    ],
+    "done": [
+      "waylaid"
+    ],
+    "ing": [
+      "waylaying"
+    ]
+  }
+}

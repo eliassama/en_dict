@@ -1,0 +1,104 @@
+{
+  "word": "sermonize",
+  "ipa": {
+    "us": "ˈsɜ:mənaɪz",
+    "uk": "ˈsɜrmənaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Never try to sermonize her.",
+      "cn": "千万别对她进行说教。"
+    },
+    {
+      "en": "The film attempts neither to dramatize nor sermonize.",
+      "cn": "这部电影既不企图使用戏剧化的手法也不企图进行说教。"
+    },
+    {
+      "en": "Wang Tai never sermonize but his students learn a lot from him.",
+      "cn": "王骀从不说教，可是到他那学东西的人都是满载而归。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sermon",
+          "tran_cn": " 布道；训诫；启示；冗长的讲话"
+        },
+        {
+          "word": "sermonizer",
+          "tran_cn": " 布道者；训诫者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sermon",
+          "tran_cn": " 布道"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sermon",
+          "tran_cn": " 对…布道；对…说教"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "preach"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "preachify"
+          ],
+          "tran_cn": "说教；布道"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "说教；布道",
+      "tran_en": "to give a lot of moral advice to someone when they do not want it – used to show disapproval"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "说教，讲大道理"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "sermonizes"
+    ],
+    "past": [
+      "sermonized"
+    ],
+    "done": [
+      "sermonized"
+    ],
+    "ing": [
+      "sermonizing"
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "word": "sufficient",
+  "ipa": {
+    "us": "səˈfɪʃnt",
+    "uk": "səˈfɪʃnt"
+  },
+  "sentences": [
+    {
+      "en": "A 40 watt bulb would be quite sufficient and would not obtrude.",
+      "cn": "40瓦的灯泡完全够亮了，并且不会晃眼。"
+    },
+    {
+      "en": "A word to the wise is sufficient.",
+      "cn": "有灵犀者一点就通."
+    },
+    {
+      "en": "Although she had various boyfriends, Madeleine was, and remains, fiercely self-sufficient.",
+      "cn": "尽管有过各种各样的男朋友，马德琳过去和现在一直都非常自立。"
+    },
+    {
+      "en": "Another flight would be arranged on Saturday if sufficient demand arose.",
+      "cn": "如果需求量足够大，周六将再安排一趟航班。"
+    },
+    {
+      "en": "Cheap goods are available, but not in sufficient quantities to satisfy demand.",
+      "cn": "有一些廉价的商品，但是数量不足以满足需求。"
+    },
+    {
+      "en": "Drunkenness at work was sufficient grounds for instant dismissal.",
+      "cn": "工作时醉酒足可导致立即被开除."
+    },
+    {
+      "en": "He says they mistakenly believed the standard licenses they held were sufficient.",
+      "cn": "他说他们曾经误以为有正规执照就足够了。"
+    },
+    {
+      "en": "His income is sufficient for his needs.",
+      "cn": "他的收入能满足他的需要."
+    },
+    {
+      "en": "Our village has a grain reserve sufficient for three years.",
+      "cn": "我们村的储备粮够吃三年."
+    },
+    {
+      "en": "The aircraft bumped along erratically without gathering anything like sufficient speed.",
+      "cn": "飞机忽上忽下，飞行很不平稳，根本未达到应有的速度。"
+    },
+    {
+      "en": "The money to build the power station ought to have been sufficient.",
+      "cn": "建设电站的资金本该足够了。"
+    },
+    {
+      "en": "The pension is not sufficient for living expenses.",
+      "cn": "这年金不够应付生活费用."
+    },
+    {
+      "en": "The rain was not sufficient to do any harm.",
+      "cn": "雨量不足对庄稼有害."
+    },
+    {
+      "en": "These people have now become almost self - sufficient in grain crops.",
+      "cn": "这些人的粮食现在已经差不多能自给了."
+    },
+    {
+      "en": "Unauthorized absence is sufficient reason for dismissal.",
+      "cn": "旷工足以成为解雇的理由。"
+    },
+    {
+      "en": "Using traditional methods poor farmers can be virtually self-sufficient.",
+      "cn": "采用传统的方法，贫穷的农民基本上能自给自足。"
+    },
+    {
+      "en": "We can only prosecute if there is sufficient evidence.",
+      "cn": "有了足够的证据，我们才能提出起诉。"
+    },
+    {
+      "en": "We need sufficient time to deal with the problem.",
+      "cn": "我们需要足够的时间来处理这个问题。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sufficiently",
+          "tran_cn": " 充分地；足够地"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "suffice",
+          "tran_cn": " 足够；有能力"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "suffice",
+          "tran_cn": " 使满足；足够…用；合格"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "adequate",
+            "ample",
+            "enough",
+            "plenty",
+            "satisfactory"
+          ],
+          "tran_cn": "足够的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abounding",
+            "accomplished",
+            "adequate",
+            "ample",
+            "effectual",
+            "enough",
+            "plentiful",
+            "plenty",
+            "satisfactory",
+            "tolerable"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "more than sufficient",
+      "tran_cn": "绰绰有余"
+    },
+    {
+      "phrase": "necessary and sufficient condition",
+      "tran_cn": "充要条件；必要且充分的条件"
+    },
+    {
+      "phrase": "self sufficient",
+      "tran_cn": "自给自足的；极为自负的"
+    },
+    {
+      "phrase": "sufficient and necessary condition",
+      "tran_cn": "充要条件；充分必要条件"
+    },
+    {
+      "phrase": "sufficient cause",
+      "tran_cn": "充分理由；充足原因"
+    },
+    {
+      "phrase": "sufficient condition",
+      "tran_cn": "充分条件"
+    },
+    {
+      "phrase": "sufficient for",
+      "tran_cn": "足够的；充分的"
+    },
+    {
+      "phrase": "sufficient for oneself",
+      "tran_cn": "不靠他人，不受他人影响"
+    },
+    {
+      "phrase": "sufficient quantity",
+      "tran_cn": "足够的数量；适宜量"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "足够的，充足的，充分的",
+      "tran_en": "as much as is needed for a particular purpose"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "sufficiently"
+    ]
+  }
+}

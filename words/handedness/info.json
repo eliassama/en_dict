@@ -1,0 +1,81 @@
+{
+  "word": "handedness",
+  "ipa": {
+    "us": "'hændɪdnɪs",
+    "uk": "'hændɪdnɪs"
+  },
+  "sentences": [
+    {
+      "en": "An important factor that the researchers took note of was the participants' handedness.",
+      "cn": "研究人员考察的一个重要因素是参与者的用手习惯。"
+    },
+    {
+      "en": "Do children inherit left - handedness from their parents?",
+      "cn": "孩子会从父母身上遗传左撇子 吗 ?"
+    },
+    {
+      "en": "Left - handedness is defined as any positive axis ( x , y , or z ) pointing away from the viewer.",
+      "cn": "而左手系就定义为任意轴的正向均背向观察者."
+    },
+    {
+      "en": "They have been accused of secrecy and high-handedness in their dealings.",
+      "cn": "他们被指控隐瞒信息和强制交易。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "handed",
+          "tran_cn": " 有手的；用...手的"
+        },
+        {
+          "word": "handless",
+          "tran_cn": " 无手的；笨手笨脚的；赤手空拳的"
+        },
+        {
+          "word": "handy",
+          "tran_cn": " 便利的；手边的，就近的；容易取得的；敏捷的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hand",
+          "tran_cn": " 手，手艺；帮助；指针；插手"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "handed",
+          "tran_cn": " 帮助（hand的过去分词）；递送"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hand",
+          "tran_cn": " 传递，交给；支持；搀扶"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "用右手或左手的习惯，偏手性",
+      "tran_en": "the tendency to use one hand more skilfully or in preference to the other "
+    }
+  ],
+  "exchange": {}
+}

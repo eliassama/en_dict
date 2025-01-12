@@ -1,0 +1,179 @@
+{
+  "word": "endorse",
+  "ipa": {
+    "us": "ɪnˈdɔːs",
+    "uk": "ɪnˈdɔːrs"
+  },
+  "sentences": [
+    {
+      "en": "An importer can endorse the BL and sell the goods even before they arrive.",
+      "cn": "进口商可以在提货单背面签字,在货物到岸之前就可以把货物卖出去."
+    },
+    {
+      "en": "Endorse the overture by director XXX from provincial TB Institute.",
+      "cn": "(讲好省的例子)赞成xxx所长提案."
+    },
+    {
+      "en": "I can endorse their opinion wholeheartedly.",
+      "cn": "我可以全力赞同他们的意见。"
+    },
+    {
+      "en": "I fully endorse what Mr. Johnson has said about school management.",
+      "cn": "我同意约翰逊先生关于学校管理的意见."
+    },
+    {
+      "en": "I fully endorse your opinions on this subject.",
+      "cn": "我完全拥护你对此课题的主张."
+    },
+    {
+      "en": "I wholeheartedly endorse his remarks.",
+      "cn": "我真诚地赞同他的话。"
+    },
+    {
+      "en": "I would like to endorse any choice you make.",
+      "cn": "我愿意认可你做出的任何选择."
+    },
+    {
+      "en": "In 1925 he'encouraged'his admirals to endorse a decision not to build any carriers.",
+      "cn": "一九二五年,他竟然 “ 鼓励”海军将领们作出了一项不建造任何航空母舰的决定."
+    },
+    {
+      "en": "It voted 7 - 2 to endorse its use alongside metformin, another treatment.",
+      "cn": "7-2 的表决结果赞成它与metformin并同使用于另一种治疗."
+    },
+    {
+      "en": "No. Please endorse the check at the back.",
+      "cn": "不会的,请在支票背面签名."
+    },
+    {
+      "en": "The payee of the cheque must endorse the cheque.",
+      "cn": "领款人必须在支票上背书。"
+    },
+    {
+      "en": "The rock star agreed to endorse their product on TV.",
+      "cn": "那个摇滚明星同意在电视上宣传他们的产品."
+    },
+    {
+      "en": "This is an attitude which I endorse.",
+      "cn": "这也是我所珍视的态度."
+    },
+    {
+      "en": "We clearly endorse different ideologies and it would be idle to pretend otherwise.",
+      "cn": "显然我们双方在意识形态上是互不相同的,对此无庸加以掩饰."
+    },
+    {
+      "en": "Will you please endorse the check on and show me your passport?",
+      "cn": "请您在支票背面署上您的名字,同时让我看一下您的护照."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "endorsed",
+          "tran_cn": " 批注的；授让的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "endorsement",
+          "tran_cn": " 认可，支持；背书；签注（文件）"
+        },
+        {
+          "word": "endorser",
+          "tran_cn": " 背书人；转让人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "endorsed",
+          "tran_cn": " 支持，赞同（endorse的过去式）；批注（文件，公文等）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "O.K.",
+            "accept",
+            "affirm",
+            "approve",
+            "autograph",
+            "certify",
+            "confirm",
+            "favor",
+            "guarantee",
+            "insure",
+            "pass",
+            "ratify",
+            "sign",
+            "support",
+            "sympathize",
+            "testify",
+            "validate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "O.K.",
+            "accept",
+            "accredit",
+            "approve",
+            "certify",
+            "confirm",
+            "pass",
+            "ratify",
+            "sign",
+            "support",
+            "validate"
+          ],
+          "tran_cn": "签名;承认"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "赞同，支持，宣传，（在支票背面）签名，（在驾照上）注明违章",
+      "tran_en": "to express formal support or approval for someone or something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 背书； 赞同； 认可",
+      "tran_en": "to express formal support or approval for someone or something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "endorses"
+    ],
+    "past": [
+      "endorsed"
+    ],
+    "done": [
+      "endorsed"
+    ],
+    "ing": [
+      "endorsing"
+    ]
+  }
+}

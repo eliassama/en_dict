@@ -1,0 +1,183 @@
+{
+  "word": "infect",
+  "ipa": {
+    "us": "ɪnˈfekt",
+    "uk": "ɪnˈfekt"
+  },
+  "sentences": [
+    {
+      "en": "A newer anti-HIV drug called pyridinone caused HIV to mutate into a form which could not reproduce or infect new cells.",
+      "cn": "一种叫作吡啶酮的新型抗艾滋病药物能促使艾滋病毒变异，使其不能繁殖，也不会再感染新的细胞。"
+    },
+    {
+      "en": "A single mosquito can infect a large number of people.",
+      "cn": "一只蚊子就可以感染很多人。"
+    },
+    {
+      "en": "Airborne spores infect freshly exposed wood.",
+      "cn": "存在于空气中的孢子,侵染新长出来的林木."
+    },
+    {
+      "en": "Go away, I don't want to infect you with my cold.",
+      "cn": "躲开, 我不愿意把感冒传染给你."
+    },
+    {
+      "en": "He thought they might infect others with their bourgeois ideas.",
+      "cn": "他认为他们可以用他们的资产阶级思想去影响别人。"
+    },
+    {
+      "en": "His urge for revenge would never infect her.",
+      "cn": "他的强烈复仇渴望永远不会影响到她。"
+    },
+    {
+      "en": "I didn't pay any attention to it because I never infect.",
+      "cn": "我对这事毫不注意,因为我从来未受感染."
+    },
+    {
+      "en": "I was been aureate by this to infect in autumn. infatuating with.",
+      "cn": "我被这金色的秋天感染了. 陶醉了. 啊!"
+    },
+    {
+      "en": "It is not possible to infect another person through kissing.",
+      "cn": "接吻不可能把这种病传染给他人。"
+    },
+    {
+      "en": "Let her not infect the whole flock.",
+      "cn": "绝不能让她带坏一帮子人."
+    },
+    {
+      "en": "Lucy’s enthusiasm soon infected the rest of the class.",
+      "cn": "露西的热情很快就感染了班里的其他人。"
+    },
+    {
+      "en": "People with the virus may feel perfectly well, but they can still infect others.",
+      "cn": "带有这种病毒的人可能毫无症状，却仍可能传染他人。"
+    },
+    {
+      "en": "The birds infect the milk.",
+      "cn": "鸟污染了牛奶。"
+    },
+    {
+      "en": "The microscopic worms infect snails , which in turn lay infected eggs.",
+      "cn": "显微镜下的蠕虫传染蜗牛, 产下受传染的蛋."
+    },
+    {
+      "en": "They think of viruses that infect an organization from the outside. They envision hackers breaking into their information vaults.",
+      "cn": "他们考虑来自外部的感染公司的病毒, 他们设想黑客侵入到信息宝库中."
+    },
+    {
+      "en": "What symptom does syphilis have? Through what to infect?",
+      "cn": "梅毒有哪些症状? 都是通过什么传染的?"
+    },
+    {
+      "en": "When you have measles, you must stay at home or you will infect the class.",
+      "cn": "你如果得了麻疹就必须呆在家里,否则会传染全班同学."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "infected",
+          "tran_cn": " 被感染的"
+        },
+        {
+          "word": "infectious",
+          "tran_cn": " 传染的；传染性的；易传染的"
+        },
+        {
+          "word": "infective",
+          "tran_cn": " 有传染性的，感染别人的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "infection",
+          "tran_cn": " 感染；传染；影响；传染病"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "infected",
+          "tran_cn": " 传染（infect的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "communicate",
+            "contaminate",
+            "corrupt",
+            "disease",
+            "influence",
+            "infuse",
+            "poison",
+            "pollute"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "communicate",
+            "contaminate",
+            "corrupt",
+            "disease",
+            "poison",
+            "pollute"
+          ],
+          "tran_cn": "传染;感染;污染"
+        },
+        {
+          "words": [
+            "influence"
+          ],
+          "tran_cn": "受影响"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "传染，使感染（计算机病毒/情感），影响",
+      "tran_en": "to give someone a disease"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 传染， 感染； 影响， 使受影响",
+      "tran_en": "to give someone a disease"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "infects"
+    ],
+    "past": [
+      "infected"
+    ],
+    "done": [
+      "infected"
+    ],
+    "ing": [
+      "infecting"
+    ]
+  }
+}

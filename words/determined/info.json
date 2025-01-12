@@ -1,0 +1,247 @@
+{
+  "word": "determined",
+  "ipa": {
+    "us": "dɪˈtɜːmɪnd",
+    "uk": "dɪˈtɜːrmɪnd"
+  },
+  "sentences": [
+    {
+      "en": "Chandra was determined to become a doctor and her persistence paid off.",
+      "cn": "钱德拉决心做一名医生，她的坚持不懈得到了回报。"
+    },
+    {
+      "en": "Creative people are usually very determined and thrive on overcoming obstacles.",
+      "cn": "富有创造力的人一般都意志非常坚定，能不断克服困难，事业蒸蒸日上。"
+    },
+    {
+      "en": "Gwen is a very determined woman.",
+      "cn": "格温是个意志很坚定的女性。"
+    },
+    {
+      "en": "He is determined to see the Act enforced more stringently.",
+      "cn": "他决意要确保该法令得到更加严格的执行。"
+    },
+    {
+      "en": "I am determined to build on this solid foundation.",
+      "cn": "我决定在这个坚实的基础之上继续努力。"
+    },
+    {
+      "en": "I was determined not to succumb to the virus.",
+      "cn": "我坚决不向病毒屈服。"
+    },
+    {
+      "en": "Jane is determined to hold on to her fortune.",
+      "cn": "简决心要守住自己的财产。"
+    },
+    {
+      "en": "Sandra was determined to become a doctor and her persistence paid off.",
+      "cn": "桑德拉决心成为医生，她的坚持取得了成功。"
+    },
+    {
+      "en": "Science has determined that the risk is very small.",
+      "cn": "科学已经探明其危险性非常小。"
+    },
+    {
+      "en": "She gave him a bright, determined smile which seemed unnatural.",
+      "cn": "她对他开朗、坚定地一笑，但笑得有点不自然。"
+    },
+    {
+      "en": "She was determined not to let the illness take hold again.",
+      "cn": "她决心不让疾病再次击垮自己。"
+    },
+    {
+      "en": "The Bank of England seems determined to wind up the company.",
+      "cn": "英格兰银行似乎决心要关闭这家公司。"
+    },
+    {
+      "en": "The identities of the deceased have now been determined.",
+      "cn": "死者的身份现在已经确定。"
+    },
+    {
+      "en": "The President is determined \"to go the extra mile for peace\".",
+      "cn": "总统决心“为实现和平而加倍努力”。"
+    },
+    {
+      "en": "The Queen was determined to show it was business as usual.",
+      "cn": "女王决定表现出一切正常的样子。"
+    },
+    {
+      "en": "These companies are determined to keep a stranglehold on the banana industry.",
+      "cn": "这些公司决心要垄断香蕉业。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "determinable",
+          "tran_cn": "可决定的"
+        },
+        {
+          "word": "determinant",
+          "tran_cn": "决定性的"
+        },
+        {
+          "word": "determinate",
+          "tran_cn": "确定的；决定的"
+        },
+        {
+          "word": "determinative",
+          "tran_cn": "决定的；限定的"
+        },
+        {
+          "word": "determinist",
+          "tran_cn": "决定论的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "determinedly",
+          "tran_cn": "决然地；断然地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "determinant",
+          "tran_cn": "决定因素；[数] 行列式"
+        },
+        {
+          "word": "determinateness",
+          "tran_cn": "坚决；确定"
+        },
+        {
+          "word": "determination",
+          "tran_cn": "决心；果断"
+        },
+        {
+          "word": "determinative",
+          "tran_cn": "限定词；决定的事物"
+        },
+        {
+          "word": "determiner",
+          "tran_cn": "[语] 限定词；决定因素"
+        },
+        {
+          "word": "determinism",
+          "tran_cn": "[力] 决定论"
+        },
+        {
+          "word": "determinist",
+          "tran_cn": "决定论者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "determine",
+          "tran_cn": "确定；决定；判决，终止"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "determinate",
+          "tran_cn": "确定；弄清楚"
+        },
+        {
+          "word": "determine",
+          "tran_cn": "决定；判决；使…下定决心"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "convinced",
+            "firm",
+            "resolute",
+            "resolved",
+            "serious",
+            "sure"
+          ],
+          "tran_cn": "坚决的;毅然的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "constant",
+            "convinced",
+            "decided",
+            "decisive",
+            "definitive",
+            "emphatic",
+            "firm",
+            "fixed",
+            "insistent",
+            "iron",
+            "resolute",
+            "resolved",
+            "serious",
+            "stony",
+            "sure",
+            "zealous"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "resolved"
+          ],
+          "tran_cn": "决定；断定（determine的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be determined by",
+      "tran_cn": "由…所决定"
+    },
+    {
+      "phrase": "to be determined",
+      "tran_cn": "有待决定的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "决心，决定，坚定的",
+      "tran_en": "having a strong desire to do something, so that you will not let anyone stop you"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "more determined"
+    ],
+    "est": [
+      "most determined"
+    ],
+    "adv": [
+      "determinedly"
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "word": "fate",
+  "ipa": {
+    "us": "feɪt",
+    "uk": "feɪt"
+  },
+  "sentences": [
+    {
+      "en": "By a curious twist of fate, cricket was also my favourite sport.",
+      "cn": "让人感到惊奇的是，板球碰巧也是我最喜欢的运动。"
+    },
+    {
+      "en": "By a strange quirk of fate they had booked into the same hotel.",
+      "cn": "真是天缘奇遇，他们住进了同一家旅馆。"
+    },
+    {
+      "en": "By some freak of fate, she won an enormous sum of money.",
+      "cn": "她不知交了什么好运, 赢了一大笔钱."
+    },
+    {
+      "en": "Custer was an idiot and a brute and he deserved his fate.",
+      "cn": "卡斯特是个白痴，是个残暴的家伙，他罪有应得。"
+    },
+    {
+      "en": "Fate plays cruel tricks sometimes.",
+      "cn": "有时命运的捉弄很残酷。"
+    },
+    {
+      "en": "Her fate intertwined with his.",
+      "cn": "她与他的命运纠缠在一起。"
+    },
+    {
+      "en": "I don't believe in fate.",
+      "cn": "我不相信命运."
+    },
+    {
+      "en": "I wouldn’t wish such a fate on my worst enemy.",
+      "cn": "就算是我不共戴天的仇敌，我也不希望他遭遇这样的命运。"
+    },
+    {
+      "en": "Sir John Smith baronet abandoned his son to his fate.",
+      "cn": "约翰·史密斯爵士遗弃了儿子,任其受命运摆布."
+    },
+    {
+      "en": "The Casino, where she had often danced, had suffered a similar fate.",
+      "cn": "她经常跳舞的赌场遭遇了相似的命运。"
+    },
+    {
+      "en": "The fate line begins close to the wrist.",
+      "cn": "命运线始于接近手腕的地方。"
+    },
+    {
+      "en": "The fate of the three men is unknown.",
+      "cn": "这三个人命运未卜。"
+    },
+    {
+      "en": "The former manager of the company repined against his cruel fate.",
+      "cn": "公司前经理怨叹命运对他太残酷."
+    },
+    {
+      "en": "Their fate is still in the melting pot.",
+      "cn": "他们的命运仍然难以预料。"
+    },
+    {
+      "en": "They held his fate in the palms of their ancient hands.",
+      "cn": "他们这些老人将他的命运掌握在手心里。"
+    },
+    {
+      "en": "They were unaware of the fate that was to befall them.",
+      "cn": "他们并不知道即将降临到他们头上的厄运。"
+    },
+    {
+      "en": "Your future is bound up with the fate of your motherland.",
+      "cn": "你的前途同祖国的命运紧密相联."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fatal",
+          "tran_cn": " 致命的；重大的；毁灭性的；命中注定的"
+        },
+        {
+          "word": "fated",
+          "tran_cn": " 命中注定的，宿命的；受命运支配的"
+        },
+        {
+          "word": "fateful",
+          "tran_cn": " 重大的；决定性的；宿命的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "fatally",
+          "tran_cn": " 致命地；命中注定地；不可避免地"
+        },
+        {
+          "word": "fatefully",
+          "tran_cn": " 宿命地；决定性地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fatalism",
+          "tran_cn": " 宿命论"
+        },
+        {
+          "word": "fatalist",
+          "tran_cn": " 宿命论者"
+        },
+        {
+          "word": "fatality",
+          "tran_cn": " 死亡；宿命；致命性；不幸；灾祸"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "destiny",
+            "doom",
+            "fortune",
+            "lot",
+            "portion"
+          ],
+          "tran_cn": "命运"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "chance",
+            "destine",
+            "destiny",
+            "fortune",
+            "judgment",
+            "lot",
+            "luck"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "predestine",
+            "foreordain"
+          ],
+          "tran_cn": "注定"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a fate worse than death",
+      "tran_cn": "见 death"
+    },
+    {
+      "phrase": "as sure as fate",
+      "tran_cn": "千真万确"
+    },
+    {
+      "phrase": "seal someone's fate",
+      "tran_cn": "使注定遭殃，使无法逃避不快之事"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "命运，天意，遭际",
+      "tran_en": "the things that happen to someone or something, especially unpleasant things that end their existence or end a particular period"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "注定"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "fates"
+    ],
+    "third": [
+      "fates"
+    ],
+    "past": [
+      "fated"
+    ],
+    "done": [
+      "fated"
+    ],
+    "ing": [
+      "fating"
+    ]
+  }
+}

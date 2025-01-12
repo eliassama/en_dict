@@ -1,0 +1,74 @@
+{
+  "word": "succinctness",
+  "ipa": {
+    "us": "sək'sɪŋktnəs",
+    "uk": "sək'sɪŋktnəs"
+  },
+  "sentences": [
+    {
+      "en": "But we've seen little discussion on the relation between verb tenses and succinctness.",
+      "cn": "但有关动词时态与简练的关系的论述不多见."
+    },
+    {
+      "en": "Terseness or succinctness of style or expression.",
+      "cn": "简洁是他的文体的特色。"
+    },
+    {
+      "en": "The consituentfactors of the scientific theoretic beauty areharmoniousness, unity, succinctness, tight logic and symmetry etc.",
+      "cn": "科学理性美的构成要素包括和谐 、 统一 、 简洁 、 逻辑严密和对称等."
+    },
+    {
+      "en": "The design is characterized by logicality, flexibility, systematization and succinctness by case analysis.",
+      "cn": "并通过实例证明设计上具有逻辑性、灵活性、系统性和简洁性等特点。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "succinct",
+          "tran_cn": " 简洁的；简明的；紧身的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "succinctly",
+          "tran_cn": " 简洁地；简便地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "conciseness",
+            "compactness"
+          ],
+          "tran_cn": "简明，简洁"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "简洁，简要，简明"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "succinctly"
+    ],
+    "adj": [
+      "succinct"
+    ]
+  }
+}

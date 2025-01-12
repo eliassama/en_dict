@@ -1,0 +1,257 @@
+{
+  "word": "event",
+  "ipa": {
+    "us": "ɪˈvent",
+    "uk": "ɪˈvent"
+  },
+  "sentences": [
+    {
+      "en": "A wedding is a family event.",
+      "cn": "婚礼是全家人的庆典。"
+    },
+    {
+      "en": "For all its drama, the event was not unexpected.",
+      "cn": "虽然这件事带有戏剧性，但并不意外。"
+    },
+    {
+      "en": "Hammer-throwing for women is not yet a major event.",
+      "cn": "女子链球运动还不是主要的赛事。"
+    },
+    {
+      "en": "If we went to the theatre it was a very big event.",
+      "cn": "我们要是去看场戏，那可是件大事。"
+    },
+    {
+      "en": "in that event, the US would incline toward a lifting of the arms embargo.",
+      "cn": "在那种情况下，美国可能会取消武器禁运。"
+    },
+    {
+      "en": "in the event that an attack is launched, the defenders will have been significantly weakened by air attacks.",
+      "cn": "如果发动攻击，空中打击将使防卫者的防卫能力大大减弱。"
+    },
+    {
+      "en": "It did give me a boost to win such a big event.",
+      "cn": "赢得如此重大的比赛确实使我信心倍增。"
+    },
+    {
+      "en": "Kansas City area churches kicked in $35,000 to support the event.",
+      "cn": "堪萨斯城地区的教会为此事捐助了35,000美元。"
+    },
+    {
+      "en": "Olga Korbut single-handedly turned gymnastics into a major event.",
+      "cn": "奥尔佳·科布特独自一人将体操变成了一项重要赛事。"
+    },
+    {
+      "en": "one of the most important events in the history of mankind",
+      "cn": "人类历史上最重大的事件之一"
+    },
+    {
+      "en": "The champagne-soaked event took over the city's main thoroughfare.",
+      "cn": "该市的大街上到处香槟飘香，盛事热闹非凡。"
+    },
+    {
+      "en": "The conference was an important social event (= an event at which people can meet each other ).",
+      "cn": "那次会议是一次重要的社交活动。"
+    },
+    {
+      "en": "The cross-country section of the three-day event was held here yesterday.",
+      "cn": "3日比赛中的越野项目昨天在这里举行。"
+    },
+    {
+      "en": "The event literally stopped the traffic.",
+      "cn": "这一事件几乎让交通陷于停顿。"
+    },
+    {
+      "en": "The event was dreamed up by Mick Jagger.",
+      "cn": "这事是米克·贾格尔的凭空捏造。"
+    },
+    {
+      "en": "The meeting has the potential to be a watershed event.",
+      "cn": "这次会议有可能成为具有转折性的事件。"
+    },
+    {
+      "en": "This event will counteract such trends.",
+      "cn": "这一事件将会削弱此类趋势。"
+    },
+    {
+      "en": "this will reduce the chance of serious injury in the event of an accident.",
+      "cn": "如果发生意外事故，这会减少重伤的可能性。"
+    },
+    {
+      "en": "Unfortunately, the entire evening was a total non-event.",
+      "cn": "遗憾的是，整个晚上都没什么特别有趣的事。"
+    },
+    {
+      "en": "Watch this space for details of our next event.",
+      "cn": "请继续关注我们对下一事件的详细报道。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "eventful",
+          "tran_cn": " 多事的；重要的；多变故的；重大的"
+        },
+        {
+          "word": "eventual",
+          "tran_cn": " 最后的，结果的；可能的；终于的"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "eventuate",
+          "tran_cn": " 结果为；发生，终于发生"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "circumstance",
+            "episode",
+            "happening",
+            "incident",
+            "occurrence"
+          ],
+          "tran_cn": "事件;情况"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accident",
+            "affair",
+            "consequence",
+            "contingent",
+            "development",
+            "doing",
+            "episode",
+            "experience",
+            "happening",
+            "incident",
+            "occasion",
+            "occurrence",
+            "phenomenon",
+            "result",
+            "thing"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at all events",
+      "tran_cn": "在任何情况下，不管怎样"
+    },
+    {
+      "phrase": "charity event",
+      "tran_cn": "慈善活动；慈善赛；慈善事件"
+    },
+    {
+      "phrase": "event handler",
+      "tran_cn": "事件句柄；事件处理程序"
+    },
+    {
+      "phrase": "event horizon",
+      "tran_cn": "视界，事件视界"
+    },
+    {
+      "phrase": "event log",
+      "tran_cn": "事件日志；事件记录"
+    },
+    {
+      "phrase": "event tree",
+      "tran_cn": "事件树"
+    },
+    {
+      "phrase": "great event",
+      "tran_cn": "大事；重大事件"
+    },
+    {
+      "phrase": "historical event",
+      "tran_cn": "历史事件"
+    },
+    {
+      "phrase": "important event",
+      "tran_cn": "重大事件"
+    },
+    {
+      "phrase": "in any event",
+      "tran_cn": "在任何情况下，不管怎样"
+    },
+    {
+      "phrase": "in that event",
+      "tran_cn": "如果是那样的话；在那种情况下"
+    },
+    {
+      "phrase": "in the event",
+      "tran_cn": "如果发生；万一发生"
+    },
+    {
+      "phrase": "in the event of",
+      "tran_cn": "..发生"
+    },
+    {
+      "phrase": "in the event of ——",
+      "tran_cn": "如果发生…；万一"
+    },
+    {
+      "phrase": "in the event that",
+      "tran_cn": "假若；倘若"
+    },
+    {
+      "phrase": "individual event",
+      "tran_cn": "单项；个人项目；单项赛"
+    },
+    {
+      "phrase": "main event",
+      "tran_cn": "主要事件；拳击比赛秩序册中最主要的一场"
+    },
+    {
+      "phrase": "major event",
+      "tran_cn": "重大事件；主要事件"
+    },
+    {
+      "phrase": "significant event",
+      "tran_cn": "有意义事件"
+    },
+    {
+      "phrase": "social event",
+      "tran_cn": "社会活动"
+    },
+    {
+      "phrase": "special event",
+      "tran_cn": "特殊事件；特殊活动"
+    },
+    {
+      "phrase": "sports event",
+      "tran_cn": "体育赛事"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "事件，活动，比赛项目",
+      "tran_en": "something that happens, especially something important, interesting or unusual"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "events"
+    ]
+  }
+}

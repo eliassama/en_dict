@@ -1,0 +1,70 @@
+{
+  "word": "salvageable",
+  "ipa": {
+    "us": "'sælvɪdʒəbl",
+    "uk": "'sælvədʒəbəl"
+  },
+  "sentences": [
+    {
+      "en": "His corpses should have frozen when he out of range; they should be salvageable.",
+      "cn": "僵尸在赶尸人离开一段距离之后会自动冻结, 得将它们打捞上来."
+    },
+    {
+      "en": "Tank wrecks found on maps are no longer salvageable.",
+      "cn": "地图上自带的坦克残骸将不能被轴心国工兵回收."
+    },
+    {
+      "en": "Their marriage was not salvageable.",
+      "cn": "他们的婚姻已不可挽回."
+    },
+    {
+      "en": "When the gyroscopes give out altogether , Hubble will shut itself down but will remain salvageable.",
+      "cn": "如果所有陀螺仪都失效的话, 哈勃将会自动关闭,但还可以修理."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "salvage",
+          "tran_cn": " 打捞；海上救助；抢救财货；救难的奖金"
+        },
+        {
+          "word": "salvager",
+          "tran_cn": " 拯救者；救援人员"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "salvage",
+          "tran_cn": " 抢救；海上救助"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "repairable"
+          ],
+          "tran_cn": "可抢救的；可打捞的；可挽回的；能利用的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可抢救的，可打捞的，可挽救的，可挽回的"
+    }
+  ],
+  "exchange": {}
+}

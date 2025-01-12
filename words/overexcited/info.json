@@ -1,0 +1,105 @@
+{
+  "word": "overexcited",
+  "ipa": {
+    "us": "ˌəʊvərɪkˈsaɪtɪd",
+    "uk": "ˌoʊvərɪkˈsaɪtɪd"
+  },
+  "sentences": [
+    {
+      "en": "Don't get the children overexcited just before bedtime.",
+      "cn": "临睡前不要让孩子过于兴奋。"
+    },
+    {
+      "en": "He could not go to sleep that night because he was overexcited.",
+      "cn": "那天晚上他不能入睡,因为他过分激动."
+    },
+    {
+      "en": "Some of the boys became overexcited.",
+      "cn": "有些男孩变得兴奋过度了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "overdressed",
+          "tran_cn": " 过分打扮的；穿着过于讲究的"
+        },
+        {
+          "word": "overeager",
+          "tran_cn": " 过于热切的，过于渴望的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "overdress",
+          "tran_cn": " [服装] 外衣"
+        },
+        {
+          "word": "overdrive",
+          "tran_cn": " 超速档；[机] 超速传动"
+        },
+        {
+          "word": "overemphasis",
+          "tran_cn": " 过分强调"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "overdress",
+          "tran_cn": " 穿得过分讲究；穿得过多"
+        },
+        {
+          "word": "overemphasize",
+          "tran_cn": " 过分强调"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "overdress",
+          "tran_cn": " 过度装饰；使穿著过分讲究"
+        },
+        {
+          "word": "overdrive",
+          "tran_cn": " 驱使过度；虐待；工作过度"
+        },
+        {
+          "word": "overemphasize",
+          "tran_cn": " 过分强调"
+        },
+        {
+          "word": "overexpose",
+          "tran_cn": " 使感光过度；使过于暴露"
+        },
+        {
+          "word": "overextend",
+          "tran_cn": " 过分扩展；过分延长；使…承担过多的义务"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "过度兴奋的；兴奋得忘乎所以的",
+      "tran_en": "someone who is overexcited is very excited and not behaving sensibly"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使过于激动（或兴奋），过度刺激( overexcite的过去式和过去分词 )"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,169 @@
+{
+  "word": "interrogation",
+  "ipa": {
+    "us": "ɪnˌterə'ɡeɪʃn",
+    "uk": "ɪnˌterə'ɡeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "...the right to silence in police interrogations.",
+      "cn": "…在警察审问时保持沉默的权利。"
+    },
+    {
+      "en": "He confessed to the crime during his interrogation.",
+      "cn": "在讯问中他供认了犯罪."
+    },
+    {
+      "en": "He persisted with his interrogation.",
+      "cn": "他一直在坚持问此事."
+    },
+    {
+      "en": "He seemed shaken after the interrogation.",
+      "cn": "审讯后他似乎惊惶不已."
+    },
+    {
+      "en": "His superiority in the interrogation room was not based on intellect or physique.",
+      "cn": "他在审问室里的优势并不是以智谋和体力为基础建立的."
+    },
+    {
+      "en": "Jones elected to conduct Hanley's interrogation himself.",
+      "cn": "琼斯决定亲自审问汉利."
+    },
+    {
+      "en": "Police say she was cool and collected during her interrogation.",
+      "cn": "警方说她在审问过程中表现得冷静自若。"
+    },
+    {
+      "en": "She was submitted to interrogation.",
+      "cn": "她受到了传讯."
+    },
+    {
+      "en": "Soon Brown himself came back for consultation and received the usual rapid - fire Kennedy interrogation.",
+      "cn": "不久,布朗本人回国述职,受到肯尼迪惯常用的连珠炮般的询问."
+    },
+    {
+      "en": "The prisoner gave way under interrogation.",
+      "cn": "犯人受审而招供了."
+    },
+    {
+      "en": "The suspect was marched to the police station for interrogation.",
+      "cn": "嫌疑犯被押赴警察局听候讯问."
+    },
+    {
+      "en": "Their very existence was a note of interrogation to the claims of the church.",
+      "cn": "他们的存在本身就是对教会主张的一种怀疑."
+    },
+    {
+      "en": "There was an eddy of surprise and interrogation.",
+      "cn": "人群里激起了惊奇和诘问的喊声."
+    },
+    {
+      "en": "Under interrogation, he refused to say anything at first.",
+      "cn": "一开始审问的时候, 他什么也不说."
+    },
+    {
+      "en": "We sat cross - legged on the matting and the interrogation began.",
+      "cn": "我们 盘腿 坐在“塌塌米”上,审讯便开始了."
+    },
+    {
+      "en": "You'll have to tell us how much interrogation they can stand, Doctor.",
+      "cn": "到时候你得告诉我们, 医生,他们经受得住多少盘问."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interrogative",
+          "tran_cn": " 疑问的；质问的"
+        },
+        {
+          "word": "interrogatory",
+          "tran_cn": " 质问的；疑问的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interrogative",
+          "tran_cn": " 疑问词"
+        },
+        {
+          "word": "interrogator",
+          "tran_cn": " 质问者；询问机"
+        },
+        {
+          "word": "interrogatory",
+          "tran_cn": " 质问；疑问"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "interrogate",
+          "tran_cn": " 审问；质问"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "interrogate",
+          "tran_cn": " 审问；质问；[计] 询问"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "question",
+            "inquest"
+          ],
+          "tran_cn": "讯问；[法]审问；[语]疑问句"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "examination",
+            "hearing",
+            "inquiry"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "讯问，审问，疑问句",
+      "tran_en": "An interrogation is the act of interrogating someone"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interrogations"
+    ],
+    "verb": [
+      "interrogate"
+    ],
+    "noun": [
+      "interrogator"
+    ]
+  }
+}

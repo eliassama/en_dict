@@ -1,0 +1,188 @@
+{
+  "word": "dine",
+  "ipa": {
+    "us": "daɪn",
+    "uk": "daɪn"
+  },
+  "sentences": [
+    {
+      "en": "Crowds were hastening to dine.",
+      "cn": "许多人匆匆地赶去进餐."
+    },
+    {
+      "en": "Do you dine out much?",
+      "cn": "你常常在外面进餐 吗 ?"
+    },
+    {
+      "en": "Does she dine out everywhere as well as at my sister's?",
+      "cn": "她除了到我姐姐家赴宴外,也到其它各处赴宴 吗 ?"
+    },
+    {
+      "en": "Does the Queen really dine off the gold plates?",
+      "cn": "女王真的用金盘子进餐 吗 ?"
+    },
+    {
+      "en": "He was dining with friends at the Ritz.",
+      "cn": "他和朋友在里茨饭店一起进餐。"
+    },
+    {
+      "en": "How long can she dine out on her former success?",
+      "cn": "她靠往日的成功而享名的日子能有多久 呢 ?"
+    },
+    {
+      "en": "How pleasant it is to dine on fine well - cooked fish and fresh vegetables, in such charming surroundings!",
+      "cn": "在这个如此迷人的环境中,能吃上精心烹调的鱼和鲜嫩可口的蔬菜该有多美."
+    },
+    {
+      "en": "I was going off to dine when I saw you. \"",
+      "cn": "我正要去吃午饭就看到了你."
+    },
+    {
+      "en": "I wish I could afford to dine off fresh meat every day.",
+      "cn": "我要是能天天吃到新鲜的肉就好了."
+    },
+    {
+      "en": "I've half a mind to dine first.'",
+      "cn": "我看,还是先吃了饭再说吧. ”"
+    },
+    {
+      "en": "Let's dine out tonight. I'm too tired to cook.",
+      "cn": "我太累了,不想做饭, 今晚咱们到外面吃吧."
+    },
+    {
+      "en": "They drove back, and at 6.15 sat down to dine.",
+      "cn": "他们乘车往回赶, 6点1刻时才坐下来吃饭."
+    },
+    {
+      "en": "They used to enjoy going out to dine.",
+      "cn": "他们以前很喜欢出去吃饭。"
+    },
+    {
+      "en": "We dance on the green, dine at the hermitage, and wander in the woods by moonlight.",
+      "cn": "我们在绿茵上跳舞, 在僻静的住所晚餐, 在月光下漫步于森林中."
+    },
+    {
+      "en": "We usually dine at a nice little restaurant in town when we have visitors.",
+      "cn": "有客人时,我们通常在城里一家舒适的小餐馆里就餐."
+    },
+    {
+      "en": "When do you dine?",
+      "cn": "你们什么时候吃饭?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "diner",
+          "tran_cn": "用餐者；路边小饭店；餐车式简便餐厅"
+        },
+        {
+          "word": "dining",
+          "tran_cn": "吃饭，进餐"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "dining",
+          "tran_cn": "吃饭（dine的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "eat",
+            "feed",
+            "nourish",
+            "sup"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "eat",
+            "sup"
+          ],
+          "tran_cn": "进餐,用餐"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "feed"
+          ],
+          "tran_cn": "宴请"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dine in",
+      "tran_cn": "在家吃饭"
+    },
+    {
+      "phrase": "dine out",
+      "tran_cn": "外出进餐"
+    },
+    {
+      "phrase": "dine together",
+      "tran_cn": "会餐"
+    },
+    {
+      "phrase": "wine and dine",
+      "tran_cn": "吃喝；以好酒好菜款待"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "(Dine)人名；(意、葡)迪内；(英)戴恩；(法)迪纳"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "用餐，吃饭",
+      "tran_en": "to eat dinner"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "进餐",
+      "tran_en": "to eat dinner"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 宴请"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "dines"
+    ],
+    "past": [
+      "dined"
+    ],
+    "done": [
+      "dined"
+    ],
+    "ing": [
+      "dining"
+    ]
+  }
+}

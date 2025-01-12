@@ -1,0 +1,167 @@
+{
+  "word": "cent",
+  "ipa": {
+    "us": "sent",
+    "uk": "sent"
+  },
+  "sentences": [
+    {
+      "en": "\"Prices are down 40 per cent since Christmas,\" he lamented.",
+      "cn": "“圣诞节以来物价降了4成，”他悲叹道。"
+    },
+    {
+      "en": "20 to 40 per cent of the voters are undecided.",
+      "cn": "20%到40%的选民还犹豫不决。"
+    },
+    {
+      "en": "A cup of rice which cost thirty cents a few weeks ago is now being sold for up to one dollar.",
+      "cn": "几周前价值30美分的1杯米如今卖到了1美元。"
+    },
+    {
+      "en": "Bank base rates of 7 per cent are too high.",
+      "cn": "7%的银行基准利率太高了。"
+    },
+    {
+      "en": "Costs have been cut by 30 to 50 per cent.",
+      "cn": "成本降低了30%到50%。"
+    },
+    {
+      "en": "Defence soaks up forty per cent of the budget.",
+      "cn": "国防耗去40%的预算。"
+    },
+    {
+      "en": "He claims a 70 to 80 per cent success rate.",
+      "cn": "他声称成功率有七到八成。"
+    },
+    {
+      "en": "In general, incumbents have a 94 per cent chance of being reelected.",
+      "cn": "通常现任官员有94%的几率会再次当选。"
+    },
+    {
+      "en": "It's 50 per cent wool, 50 per cent acrylic.",
+      "cn": "它含50%的羊毛、50%的丙烯酸纤维。"
+    },
+    {
+      "en": "Most restaurants add a 10 per cent service charge.",
+      "cn": "大多数餐馆加收10％的服务费。"
+    },
+    {
+      "en": "Ninety per cent of lone parent families are headed by mothers.",
+      "cn": "90%的单亲家庭由母亲持家。"
+    },
+    {
+      "en": "Ninety-nine per cent of primary pupils now have hands-on experience of computers.",
+      "cn": "现在，99%的小学生都亲手操作过电脑。"
+    },
+    {
+      "en": "The bank yesterday revealed a 30 per cent nosedive in profits.",
+      "cn": "该银行昨天透露其利润骤降30％。"
+    },
+    {
+      "en": "The economy needs an immediate 2 per cent cut in interest rates.",
+      "cn": "当前经济状况需要立即将利率下调两个百分点."
+    },
+    {
+      "en": "The Gulf has 65 per cent of the world's oil reserves.",
+      "cn": "海湾地区拥有全世界65％的石油储藏。"
+    },
+    {
+      "en": "Today's RPI figure shows inflation running at 10.9 per cent.",
+      "cn": "今天的零售物价指数显示通货膨胀率为10.9％。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "center",
+          "tran_cn": " 中央的，位在正中的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "center",
+          "tran_cn": " 中心，中央；中锋；中心点"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "center",
+          "tran_cn": " 居中，被置于中心"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "center",
+          "tran_cn": " 集中，使聚集在一点；定中心"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "minute",
+            "penny"
+          ],
+          "tran_cn": "分；一分的硬币；森特（等于半音程的百分之一）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "penny",
+            "straw"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "not care a cent",
+      "tran_cn": "毫不在乎"
+    },
+    {
+      "phrase": "not worth a red cent ",
+      "tran_cn": "毫无价值"
+    },
+    {
+      "phrase": "red cent",
+      "tran_cn": "一便士，一分钱"
+    },
+    {
+      "phrase": "without a red cent",
+      "tran_cn": "一分钱都没有了"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "分（美元、欧元等的货币单位）",
+      "tran_en": "1/100th of the standard unit of money in some countries. For example, there are 100 cents in one dollar or in one  euro  : symbol ¢."
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cents"
+    ]
+  }
+}

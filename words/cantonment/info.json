@@ -1,0 +1,79 @@
+{
+  "word": "cantonment",
+  "ipa": {
+    "us": "kænˈtɒnmənt",
+    "uk": "kænˈtɑnmənt"
+  },
+  "sentences": [
+    {
+      "en": "Our people's liberation army is now in the cantonment .",
+      "cn": "我们的人民解决军现在正在宿营地。"
+    },
+    {
+      "en": "Our people's liberation army is now in the cantonment.",
+      "cn": "我们的人民解放军现在正在宿营地."
+    },
+    {
+      "en": "We have kept our fighters in the cantonment for the last five months.",
+      "cn": "过去5个月来,我们把我们的战士驻在营房里."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "canton",
+          "tran_cn": " 行政区，州"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "canton",
+          "tran_cn": " 为…分配营房；把…划分成州，把…划成行政区"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "etape"
+          ],
+          "tran_cn": "宿营地；兵营"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bed",
+            "quarter"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "宿营地，（临时性的）军营，兵营，（印度的）兵站",
+      "tran_en": "a camp where soldiers live"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cantonments"
+    ]
+  }
+}

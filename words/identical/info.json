@@ -1,0 +1,166 @@
+{
+  "word": "identical",
+  "ipa": {
+    "us": "aɪˈdentɪkl",
+    "uk": "aɪˈdentɪkl"
+  },
+  "sentences": [
+    {
+      "en": "A coral reef is built by the accretion of tiny, identical organisms.",
+      "cn": "珊瑚礁是由许多相同的微生物不断堆积而成。"
+    },
+    {
+      "en": "A mother who already has non-identical twins is more likely to conceive another set of twins.",
+      "cn": "生育过非同卵双胞胎的母亲再怀上双胞胎的可能性更大。"
+    },
+    {
+      "en": "a row of identical houses",
+      "cn": "完全一样的一排房子"
+    },
+    {
+      "en": "four identical houses",
+      "cn": "四幢一模一样的房子"
+    },
+    {
+      "en": "I am in the identical predicament with yourself.",
+      "cn": "我和你处于同样的窘境之中."
+    },
+    {
+      "en": "My opinion is identical with his.",
+      "cn": "我的意见与他的观点相同."
+    },
+    {
+      "en": "She wore the identical dress on both occasions.",
+      "cn": "她在两种场合穿的是同一件衣服."
+    },
+    {
+      "en": "Somewhere in the depths of the pine forest an identical sound reverberated.",
+      "cn": "从松林深处传来一声回响。"
+    },
+    {
+      "en": "The bindings of the books were identical.",
+      "cn": "这些书的装帧完全相同."
+    },
+    {
+      "en": "The handwriting on both cheques is identical.",
+      "cn": "两张支票上的笔迹完全相同."
+    },
+    {
+      "en": "The opinions are identical.",
+      "cn": "意见完全一致."
+    },
+    {
+      "en": "Their jackets are identical.",
+      "cn": "他们的上衣完全一样."
+    },
+    {
+      "en": "Their views on this problem are identical.",
+      "cn": "大家对于这个问题的看法是一致的."
+    },
+    {
+      "en": "These are identical prints made from a wood - block.",
+      "cn": "这是用一块木板印出来的完全相同的画."
+    },
+    {
+      "en": "They churn out 3 000 identical toy trains every day.",
+      "cn": "他们每天生产3000辆一式一样的玩具火车."
+    },
+    {
+      "en": "This is the identical knife with which the murder was committed.",
+      "cn": "这就是谋杀时所用的刀子."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "identifiable",
+          "tran_cn": " 可辨认的；可认明的；可证明是同一的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "identically",
+          "tran_cn": " 同一地；相等地"
+        },
+        {
+          "word": "identifiably",
+          "tran_cn": " 可辨认地；可看作是相同地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "identity",
+          "tran_cn": " 身份；同一性，一致；特性；恒等式"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "alike",
+            "duplicate",
+            "exactly",
+            "like",
+            "same"
+          ],
+          "tran_cn": "同一的;完全相同的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "alike",
+            "analogous",
+            "commensurate",
+            "duplicate",
+            "even",
+            "same",
+            "twin"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "identical twin",
+      "tran_cn": "n. 同卵双生，全等双生"
+    },
+    {
+      "phrase": "identical with",
+      "tran_cn": "与…相同"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "同一的，完全同样的，相同的，恒等的，同卵的",
+      "tran_en": "exactly the same, or very similar"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "完全相同的事物"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "identically"
+    ]
+  }
+}

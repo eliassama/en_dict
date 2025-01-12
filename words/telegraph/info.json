@@ -1,0 +1,246 @@
+{
+  "word": "telegraph",
+  "ipa": {
+    "us": "ˈtelɪɡrɑːf",
+    "uk": "ˈtelɪɡræf"
+  },
+  "sentences": [
+    {
+      "en": "A new telegraph line has been set up between the two cities.",
+      "cn": "那两个城市之间架设了一条新的电报线."
+    },
+    {
+      "en": "Developments in South Africa receive extensive coverage in The Sunday Telegraph.",
+      "cn": "《星期日电讯报》全面报道了南非的发展。"
+    },
+    {
+      "en": "He will place an announcement in the personal column of The Daily Telegraph.",
+      "cn": "他将在《每日电讯报》的个人专栏上登一则启事。"
+    },
+    {
+      "en": "I ghosted his weekly rugby column for the Telegraph.",
+      "cn": "我为他代写《电讯报》每周的橄榄球专栏。"
+    },
+    {
+      "en": "I will tell the result by telegraph.",
+      "cn": "我打电报告诉你结果."
+    },
+    {
+      "en": "In modern times, people have communicated by letter, telegraph , and telephone.",
+      "cn": "在现代, 人们用信, 传真, 电话通信."
+    },
+    {
+      "en": "Mather was film critic on the Daily Telegraph for many years.",
+      "cn": "马瑟多年来一直担任《每日电讯报》的影评人。"
+    },
+    {
+      "en": "Once he knew where we were, Lewis telegraphed every few hours.",
+      "cn": "一知道我们在哪里，刘易斯就每隔几小时发一份电报来。"
+    },
+    {
+      "en": "Please send me my address at this telegraph office.",
+      "cn": "“请把我的地址寄到电报局. ”"
+    },
+    {
+      "en": "Send the message on the telegraph.",
+      "cn": "这个消息用电报机发出."
+    },
+    {
+      "en": "Telegraph communication was broken off.",
+      "cn": "电讯中断了."
+    },
+    {
+      "en": "The bush telegraph tells me you're likely to become our new president, John.",
+      "cn": "约翰,我从非官方消息得知,你可能会当选为我们的新校长."
+    },
+    {
+      "en": "The news came by telegraph.",
+      "cn": "消息以电报传来."
+    },
+    {
+      "en": "The telegraph has been cut between the two cities.",
+      "cn": "这两座城市之间的电报业务已经中断."
+    },
+    {
+      "en": "The telegraph ticked out a message.",
+      "cn": "发报机滴滴答答地发出电报."
+    },
+    {
+      "en": "The truck crashed into a telegraph pole.",
+      "cn": "卡车撞到了电线杆上。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "telegraphic",
+          "tran_cn": " 电信的；电报的；电报机的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "telegraphically",
+          "tran_cn": " 通过电报，用电报"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "telegrapher",
+          "tran_cn": " 报务员；电报员"
+        },
+        {
+          "word": "telegraphist",
+          "tran_cn": " 报务员；电信技师"
+        },
+        {
+          "word": "telegraphy",
+          "tran_cn": " 电信；电报学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "Telex",
+            "cable",
+            "news",
+            "radiotelegraph",
+            "signaling",
+            "stock",
+            "system",
+            "teleprinter",
+            "ticker",
+            "wire",
+            "wireless"
+          ],
+          "tran_cn": "电报"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "signify",
+            "telegram"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "by",
+            "cable",
+            "collect",
+            "flash",
+            "press",
+            "radio",
+            "send",
+            "wire"
+          ],
+          "tran_cn": "发电报"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "wire"
+          ],
+          "tran_cn": "[通信]打电报"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "wire transfer",
+            "cable transfer"
+          ],
+          "tran_cn": "电汇；流露出；打电报给…"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "daily telegraph",
+      "tran_cn": "每日电讯报"
+    },
+    {
+      "phrase": "telegraph code",
+      "tran_cn": "电报码"
+    },
+    {
+      "phrase": "telegraph office",
+      "tran_cn": "电报局"
+    },
+    {
+      "phrase": "telegraph pole",
+      "tran_cn": "电线杆"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "电报，电讯，电报机，信号机",
+      "tran_en": "an old-fashioned method of sending messages using radio or electrical signals"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "(打)电报",
+      "tran_en": "an old-fashioned method of sending messages using radio or electrical signals"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "电汇；流露出；打电报给…",
+      "tran_en": "to send a message by telegraph"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用电报发送，打电报向（某人）发指令，电汇，电购"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "打电报，流露出，电汇，用电报通知"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "telegraphs"
+    ],
+    "third": [
+      "telegraphs"
+    ],
+    "past": [
+      "telegraphed"
+    ],
+    "done": [
+      "telegraphed"
+    ],
+    "ing": [
+      "telegraphing"
+    ]
+  }
+}

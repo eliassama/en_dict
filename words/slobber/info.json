@@ -1,0 +1,84 @@
+{
+  "word": "slobber",
+  "ipa": {
+    "us": "ˈslɒbə(r)",
+    "uk": "ˈslɑbə(r)"
+  },
+  "sentences": [
+    {
+      "en": "I don't like watching animals eat, the always slobber over the food so much.",
+      "cn": "我不喜欢看动物吃东西, 它们看见食物总是涎水肆流."
+    },
+    {
+      "en": "I hate dogs that slobber everywhere.",
+      "cn": "我讨厌到处淌口水的狗。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "slaver"
+          ],
+          "tran_cn": "口水；感情用事的话"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "run at the mouth",
+            "drool"
+          ],
+          "tran_cn": "流口水；情不自禁地说"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "lisp"
+          ],
+          "tran_cn": "处事马虎；流口水弄湿；口齿不清地说"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "口水"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "淌口水",
+      "tran_en": "to let  saliva (= the liquid produced by your mouth )  come out of your mouth and run down"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "流口水，垂涎，（说话时）过分伤感，极端感情用事"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "slobbers"
+    ],
+    "past": [
+      "slobbered"
+    ],
+    "done": [
+      "slobbered"
+    ],
+    "ing": [
+      "slobbering"
+    ]
+  }
+}

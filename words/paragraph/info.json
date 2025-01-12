@@ -1,0 +1,149 @@
+{
+  "word": "paragraph",
+  "ipa": {
+    "us": "ˈpærəɡrɑːf",
+    "uk": "ˈpærəɡræf"
+  },
+  "sentences": [
+    {
+      "en": "Each paragraph begins on a new line.",
+      "cn": "每段都另起一行."
+    },
+    {
+      "en": "He condensed the paragraph into one line.",
+      "cn": "他把这一段缩减成一行."
+    },
+    {
+      "en": "Leave two blank spaces at the beginning of each paragraph.",
+      "cn": "每段开头要空两格."
+    },
+    {
+      "en": "Look at the information that precedes the paragraph in question.",
+      "cn": "查看正在讨论的这段文字前面的信息。"
+    },
+    {
+      "en": "The author lifted the paragraph from someone else's work.",
+      "cn": "这一段是作者从别人的作品中抄来的."
+    },
+    {
+      "en": "The author mentioned it in the previous paragraph.",
+      "cn": "作者在前一段里提到这件事."
+    },
+    {
+      "en": "The critic's review of the play was just a paragraph of bile.",
+      "cn": "那位批评家对这部戏剧的评论不过是在发泄怒气。"
+    },
+    {
+      "en": "The editor omitted the third paragraph from the article.",
+      "cn": "编辑删去了这篇文章的第三段."
+    },
+    {
+      "en": "The length of a paragraph depends on the information it conveys.",
+      "cn": "段落的长度取决于它所传达的信息。"
+    },
+    {
+      "en": "The offending paragraph was deleted.",
+      "cn": "令某些人不悦的那段话已经删除。"
+    },
+    {
+      "en": "the opening paragraphs of the novel",
+      "cn": "小说开篇的几个段落"
+    },
+    {
+      "en": "The paragraph is really an essay in little.",
+      "cn": "这一段实际上是一篇小短文."
+    },
+    {
+      "en": "The printer has left out two lines from this paragraph.",
+      "cn": "印刷工人把这一段漏了两行."
+    },
+    {
+      "en": "The substance of their talk is condensed into a paragraph.",
+      "cn": "他们谈话的要旨被压缩成一段话."
+    },
+    {
+      "en": "There's a paragraph on the matter in the paper.",
+      "cn": "报纸对这件事有一短篇报道."
+    },
+    {
+      "en": "This paragraph can be left out.",
+      "cn": "这一段可以删去."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "paragrapher",
+          "tran_cn": " 短评记者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "article",
+            "item",
+            "note",
+            "piece"
+          ],
+          "tran_cn": "短文,短讯,短评"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "column",
+            "excerpt",
+            "part",
+            "passage",
+            "section",
+            "segment",
+            "subdivision"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "clause"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "new paragraph",
+      "tran_cn": "另起一行，新段落"
+    },
+    {
+      "phrase": "opening paragraph",
+      "tran_cn": "开始部分"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "段落",
+      "tran_en": "part of a piece of writing which starts on a new line and contains at least one sentence"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "将…分段"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "paragraphs"
+    ]
+  }
+}

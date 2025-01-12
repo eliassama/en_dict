@@ -1,0 +1,206 @@
+{
+  "word": "backup",
+  "ipa": {
+    "us": "ˈbækʌp",
+    "uk": "ˈbækʌp"
+  },
+  "sentences": [
+    {
+      "en": "a backup power supply",
+      "cn": "备用电源"
+    },
+    {
+      "en": "Did Patton need a backup plan at Gettysburg?",
+      "cn": "巴顿在葛底斯堡之战里有备用方案 吗 ?"
+    },
+    {
+      "en": "Do not use a bit-image method of backup (like a tape streamer), because this will copy the virus.",
+      "cn": "不要使用位元影像的方法（如磁带机）备份，因为这样会将病毒一起拷贝下来。"
+    },
+    {
+      "en": "Every part of the system has a backup.",
+      "cn": "系统的每个部分都有备用元件。"
+    },
+    {
+      "en": "File in the target drived :  BACKUP directory will be erased strike any key when ready.",
+      "cn": "目标驱动器标 d: \\BACKUP目录 内的文件将被删除,准备好后按任意键继续."
+    },
+    {
+      "en": "Have you got a backup plan?",
+      "cn": "你有二手准备 吗 ?"
+    },
+    {
+      "en": "Have you kept a backup of this file?",
+      "cn": "你把这文件备份了 吗 ?"
+    },
+    {
+      "en": "His backup parachute also failed.",
+      "cn": "他的备用降落伞也坏了."
+    },
+    {
+      "en": "Our troops cut the enemy's backup supplies from behind their back.",
+      "cn": "我军从后方斩断了敌人的后勤供给线."
+    },
+    {
+      "en": "Restores to standard disk storage format files previously stored using the BACKUP command.",
+      "cn": "把先前用BACKUP命令做的备份文件恢复到这个磁盘上."
+    },
+    {
+      "en": "She once sang backup for Madonna.",
+      "cn": "她曾经为麦当娜伴唱."
+    },
+    {
+      "en": "Small rectangular backup bars were used to fabricate the web - bottom flange connection.",
+      "cn": "在腹板与下翼缘的施焊中使用小矩形挡板."
+    },
+    {
+      "en": "The hospital has a backup generator in case there is a power failure.",
+      "cn": "医院有备用发电机以防停电."
+    },
+    {
+      "en": "The police had backup from the army.",
+      "cn": "警方得到了军方的增援。"
+    },
+    {
+      "en": "The young state secretary found simple procedures for handling the backup of trains.",
+      "cn": "这位年轻的国务秘书用简单的方法排除了车辆回流的问题."
+    },
+    {
+      "en": "There is no emergency back-up immediately available.",
+      "cn": "没有立即就能获得的后备。"
+    },
+    {
+      "en": "Two backup singers that want to be lead vocalists, solo stars?",
+      "cn": "两位和声歌手渴望成为主唱成为独唱明星?"
+    },
+    {
+      "en": "We can use him as a backup if one of the other players drops out.",
+      "cn": "如果有参赛者退出，我们可以用他作为替补。"
+    },
+    {
+      "en": "When the main system fails, the backup system take over.",
+      "cn": "当主系统不能工作时, 后备系统立即投入工作代替之."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "backstay",
+          "tran_cn": " 后支索；后部支持物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "supporting",
+            "friendly"
+          ],
+          "tran_cn": "支持的；候补的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "holding",
+            "support",
+            "adhesion"
+          ],
+          "tran_cn": "支持；[计]后援；阻塞"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accompaniment",
+            "resort",
+            "utility"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "backup and recovery",
+      "tran_cn": "备份与恢复"
+    },
+    {
+      "phrase": "backup and restore",
+      "tran_cn": "备份与还原"
+    },
+    {
+      "phrase": "backup copy",
+      "tran_cn": "副本；备份件"
+    },
+    {
+      "phrase": "backup device",
+      "tran_cn": "备份设备；备用设备"
+    },
+    {
+      "phrase": "backup file",
+      "tran_cn": "备份文件"
+    },
+    {
+      "phrase": "backup roll",
+      "tran_cn": "支承辊；背辊；压辊"
+    },
+    {
+      "phrase": "backup software",
+      "tran_cn": "文件备份"
+    },
+    {
+      "phrase": "backup storage",
+      "tran_cn": "n. 后备存储器"
+    },
+    {
+      "phrase": "backup system",
+      "tran_cn": "备用系统；后备系统"
+    },
+    {
+      "phrase": "file backup",
+      "tran_cn": "文件备份；档案备份"
+    },
+    {
+      "phrase": "full backup",
+      "tran_cn": "全部备份"
+    },
+    {
+      "phrase": "system backup",
+      "tran_cn": "系统备份；系统后备"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "支持的；候补的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "支持，增援，备份，备用品",
+      "tran_en": "Backup consists of extra equipment, resources, or people that you can get help or support from if necessary"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "做备份"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "backups"
+    ]
+  }
+}

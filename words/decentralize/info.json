@@ -1,0 +1,136 @@
+{
+  "word": "decentralize",
+  "ipa": {
+    "us": "ˌdi:ˈsentrəlaɪz",
+    "uk": "diˈsɛntrəˌlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "And as businesses decentralize and downsize, information systems follow suit.",
+      "cn": "并且随着企业的分散化和小规模化, 信息系统也产生同样的变化."
+    },
+    {
+      "en": "Besides, fund managers should improve the ability to allocate the fund assets and decentralize the investment.",
+      "cn": "此外, 开放式基金要提高基金资产配置能力,注意分散化投资."
+    },
+    {
+      "en": "If you were a manager, would you decentralize authority?",
+      "cn": "如果你是一位管理者, 你愿意实行分权 吗 ?"
+    },
+    {
+      "en": "Many firms are decentralizing their operations.",
+      "cn": "许多公司在分散经营。"
+    },
+    {
+      "en": "The complexity and decentralize of fixed assets management of power network challenge more for the enterprise.",
+      "cn": "电网企业固定资产的复杂性和分散性使得电网企业的固定资产管理更具挑战性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "decentralized",
+          "tran_cn": " 分散的；分散化，分散式；分散管理的；去中心化"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "decentralisation",
+          "tran_cn": " 地方分权；疏散（等于decentralization）"
+        },
+        {
+          "word": "decentralization",
+          "tran_cn": " 分散；非集权化；（人口、工业等的）疏散"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "decentralise",
+          "tran_cn": " （英）分散；分权（等于decentralize）"
+        },
+        {
+          "word": "decentralized",
+          "tran_cn": " 使分散；使分权（decentralize的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "deconcentration",
+            "scatteration",
+            "disgregation"
+          ],
+          "tran_cn": "分散"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "evacuate"
+          ],
+          "tran_cn": "分散集权；疏散"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "evacuate"
+          ],
+          "tran_cn": "使分散；使分权；疏散"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 分散， 权力下放 from central government to regional government)",
+      "tran_en": "to move parts of a government, organization etc from a central place to several different smaller ones"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "地方分权，疏散"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "权力分散，人口疏散，密度分散"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "decentralizes"
+    ],
+    "past": [
+      "decentralized"
+    ],
+    "done": [
+      "decentralized"
+    ],
+    "ing": [
+      "decentralizing"
+    ],
+    "noun": [
+      "decentralization"
+    ]
+  }
+}

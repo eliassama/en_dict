@@ -1,0 +1,78 @@
+{
+  "word": "doff",
+  "ipa": {
+    "us": "dɒf",
+    "uk": "dɑf"
+  },
+  "sentences": [
+    {
+      "en": "Cation - anion exchange resin can crack and disassemble bond - chromatography , doff the bond - large - molecule and dissociate paclitaxel.",
+      "cn": "阴阳 混合离子交换树脂可以使键合态紫杉醇发生裂解, 脱去键合的大分子物质,游离出紫杉醇."
+    },
+    {
+      "en": "The peasants doff their hats.",
+      "cn": "农夫们脱去他们的帽子。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "off",
+            "remove",
+            "take",
+            "undo"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "off",
+            "remove",
+            "take",
+            "undo"
+          ],
+          "tran_cn": "废除;脱下"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "笨的；愚昧无知的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "脱, 废除, 丢弃",
+      "tran_en": "to remove the hat you are wearing as a sign of respect"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<主文>脱去，（尤指）脱帽"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "doffs"
+    ],
+    "past": [
+      "doffed"
+    ],
+    "done": [
+      "doffed"
+    ],
+    "ing": [
+      "doffing"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "word": "fictive",
+  "ipa": {
+    "us": "'fɪktɪv",
+    "uk": "'fɪktɪv"
+  },
+  "sentences": [
+    {
+      "en": "Anna and Max are a teen fictive pair experience together.",
+      "cn": "安娜和马克斯是一对富有创造力的年轻情侣,他们住在一起."
+    },
+    {
+      "en": "the fictive world of James Bond",
+      "cn": "詹姆斯•邦德的虚构世界"
+    },
+    {
+      "en": "The writer has fictive talent.",
+      "cn": "那作家有创作的才能."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fictional",
+          "tran_cn": " 虚构的；小说的"
+        },
+        {
+          "word": "fictitious",
+          "tran_cn": " 虚构的；假想的；编造的；假装的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "fictitiously",
+          "tran_cn": " 虚构地；假地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fiction",
+          "tran_cn": " 小说；虚构，编造；谎言"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "artificial",
+            "supposed",
+            "false",
+            "imaginary"
+          ],
+          "tran_cn": "虚构的；想象上的；虚伪的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "fictitious",
+            "romantic"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "想象的，虚构的",
+      "tran_en": "imaginary and not real"
+    }
+  ],
+  "exchange": {}
+}

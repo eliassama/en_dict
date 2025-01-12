@@ -1,0 +1,69 @@
+{
+  "word": "surcease",
+  "ipa": {
+    "us": "sɜ:'si:s",
+    "uk": "sə'sis"
+  },
+  "sentences": [
+    {
+      "en": "Was coming home to Tara to mean, not blessed surcease, but only more loads to carry?",
+      "cn": "难道回到塔拉并不意味着幸福的休息, 反而是更重的负担 吗 ?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "stop",
+            "stay",
+            "stand",
+            "cessation",
+            "set-back"
+          ],
+          "tran_cn": "停止"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "desist from",
+            "come to a stop"
+          ],
+          "tran_cn": "停止；中止"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "停止",
+      "tran_en": "cessation or intermission "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "中止，停止"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "surceases"
+    ],
+    "past": [
+      "surceased"
+    ],
+    "done": [
+      "surceased"
+    ],
+    "ing": [
+      "surceasing"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "word": "misstate",
+  "ipa": {
+    "us": "mɪs'steɪt",
+    "uk": "mɪsˈstet"
+  },
+  "sentences": [
+    {
+      "en": "Be careful not to misstate your case.",
+      "cn": "小心别把你的情况讲错了."
+    },
+    {
+      "en": "Look at the false police reports that omitted or misstated crucial facts.",
+      "cn": "看看那些失实的警方报告吧，它们忽略或谎报了关键的事实。"
+    },
+    {
+      "en": "The amount was misstated in the table because of an error by regulators.",
+      "cn": "由于校准者的失误，图表里的数目是错误的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "misstatement",
+          "tran_cn": " 虚伪的陈述；误述"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "color"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "misreport"
+          ],
+          "tran_cn": "说错；作虚伪叙述，谎报"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "说错；作虚伪叙述，谎报",
+      "tran_en": "If you misstate something, you state it incorrectly or give false information about it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "说错，作虚伪叙述"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "misstates"
+    ],
+    "past": [
+      "misstated"
+    ],
+    "done": [
+      "misstated"
+    ],
+    "ing": [
+      "misstating"
+    ]
+  }
+}

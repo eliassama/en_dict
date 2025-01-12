@@ -1,0 +1,134 @@
+{
+  "word": "setup",
+  "ipa": {
+    "us": "'setʌp",
+    "uk": "ˈsɛtˌʌp"
+  },
+  "sentences": [
+    {
+      "en": "A problem has been encountered while creating the unattend file. Canceling Setup.",
+      "cn": "创建无人参与文件时遇到问题, 正在取消安装程序."
+    },
+    {
+      "en": "But the setup he is using shows his assumption incorrect.",
+      "cn": "但他使用的方法说明他的假设是不正确的."
+    },
+    {
+      "en": "But you don't know the medical setup. Whatever power you have doesn't mean anything to them.",
+      "cn": "但是你不了解医学界的那一套,随便你有多大的权力,对他们也丝毫不起作用."
+    },
+    {
+      "en": "Follow the onscreen prompts provided by the SETUP program.",
+      "cn": "按照SETUP程序提供的屏幕提示操作."
+    },
+    {
+      "en": "I gradually got rather disillusioned with the whole setup of the university.",
+      "cn": "渐渐地，我对大学的整个体制感到相当失望。"
+    },
+    {
+      "en": "It require change to the setup menu as show below.",
+      "cn": "它需对安装菜单做修改,如下所示."
+    },
+    {
+      "en": "Please make a setup disk and boot from it to install.",
+      "cn": "请制作一张启动盘用启动盘启动安装."
+    },
+    {
+      "en": "Press the setup button to display the setup menu, and move the highlight down to audio.",
+      "cn": "按Setup键显示Setup菜单, 然后移动亮条到Audio选项上."
+    },
+    {
+      "en": "Recopy the component from the distribution disks, using the SETUP program.",
+      "cn": "使用SETUP程序从分发磁盘上重新复制该组件."
+    },
+    {
+      "en": "Setup will save your system files in a hide, compressed file.",
+      "cn": "Setup会把你的系统文件保存在一隐藏的压缩文件中."
+    },
+    {
+      "en": "Somehow they found a less stressful setup than reactor meltdown.",
+      "cn": "他们会无缘无故的搞些没像反应堆灾难那么紧迫的操作."
+    },
+    {
+      "en": "The border files cannot be accessed. Please re - run Setup and try again.",
+      "cn": "无法访问边框文件.请重新运行安装程序,然后再试."
+    },
+    {
+      "en": "The new setup of the world has not formed.",
+      "cn": "新的世界格局尚未形成."
+    },
+    {
+      "en": "The worst part of the setup is the poor instruction manual.",
+      "cn": "安装过程中最糟糕的部分就是差劲的操作手册。"
+    },
+    {
+      "en": "These food markets have more or less the same setup.",
+      "cn": "几个菜市场的格局差不多."
+    },
+    {
+      "en": "We brought up a mechanical setup to apply external tensile strain.",
+      "cn": "我们建构了一种机制来施加外在的伸展应力."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "organization",
+            "adjustment",
+            "machinery",
+            "fabric",
+            "equipment"
+          ],
+          "tran_cn": "设置；机构；组织；调整；计划；装备"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "format",
+            "formation",
+            "machinery"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "call setup",
+      "tran_cn": "呼叫建立；呼叫设定"
+    },
+    {
+      "phrase": "page setup",
+      "tran_cn": "n. 页面设置"
+    },
+    {
+      "phrase": "print setup",
+      "tran_cn": "[计]打印设置"
+    },
+    {
+      "phrase": "setup project",
+      "tran_cn": "安装项目"
+    },
+    {
+      "phrase": "setup time",
+      "tran_cn": "准备时间；建立时间；设置时间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "计划，<口>组织，姿势，<口>故意安排使一方易胜的比赛，体制",
+      "tran_en": "The setup of computer hardware or software is the process of installing it and making it ready to use"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,171 @@
+{
+  "word": "viewer",
+  "ipa": {
+    "us": "ˈvjuːə(r)",
+    "uk": "ˈvjuːər"
+  },
+  "sentences": [
+    {
+      "en": "A multitude of disconnected images and ideas are launched at the viewer.",
+      "cn": "一堆杂乱无章的图像呈现在观众面前."
+    },
+    {
+      "en": "But what really happens is a change in the viewer.",
+      "cn": "不过其实是观察者自身发生了变化."
+    },
+    {
+      "en": "Font viewer view sample text in all available fonts.",
+      "cn": "字体查看器样文在所有可用的字体."
+    },
+    {
+      "en": "I like those TV programs which enlighten the viewer as well as entertain him.",
+      "cn": "我喜欢那些既使观众得到娱乐又使观众受到教育的电视节目."
+    },
+    {
+      "en": "In one ad the viewer scarcely sees the car's exterior.",
+      "cn": "在一则广告中，观众几乎看不到汽车的外观。"
+    },
+    {
+      "en": "Integrated graphical viewer for visual inspection of the layouts.",
+      "cn": "综合图形查看目视检查布局."
+    },
+    {
+      "en": "Physical Memory Viewer, to view memory and output to a file.",
+      "cn": "物理内存查看器, 用于查看内存和输出到文件."
+    },
+    {
+      "en": "Positioned so that the head is turned toward the viewer.",
+      "cn": "头转向观看者的放置成头转向观看者的姿态的."
+    },
+    {
+      "en": "The foreground, nearest the viewer, is painted last.",
+      "cn": "距离观者最近的前景是最后才画的。"
+    },
+    {
+      "en": "The new series has gone down well with viewers.",
+      "cn": "这个新的电视系列片很受观众欢迎。"
+    },
+    {
+      "en": "These images are likely to evoke a strong response in the viewer.",
+      "cn": "这些图像可能会在观众中产生强烈反响."
+    },
+    {
+      "en": "They allow the viewer to see and feel the room self - reference.",
+      "cn": "这房间可以从时空的所有“视角”来观看——不只是某个特殊“视角”或一群有限 “ 视角”."
+    },
+    {
+      "en": "Think about what you want the viewer to see.",
+      "cn": "想想你先之前想看到的效果."
+    },
+    {
+      "en": "This special viewer is simple to use and comes with 70 full-colour slides.",
+      "cn": "这个特别的观片器操作简单，配有70张全彩幻灯片。"
+    },
+    {
+      "en": "To the unsophisticated ( ie naive ) mind of the average viewer.",
+      "cn": "对于一般观众的单纯心理."
+    },
+    {
+      "en": "To view actual AC waveform signature, use Waveform Viewer.",
+      "cn": "若想观看实际的AC电压波形, 可使用波形观察器功能."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "viewable",
+          "tran_cn": " 看得见的；值得一看的"
+        },
+        {
+          "word": "viewing",
+          "tran_cn": " 可见的"
+        },
+        {
+          "word": "viewless",
+          "tran_cn": " 无景色的；无意见的；看不见的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "view",
+          "tran_cn": " 观察；视野；意见；风景"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "viewing",
+          "tran_cn": " 观察；查看（view的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "view",
+          "tran_cn": " 观察；考虑；查看"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "indicator",
+            "observer"
+          ],
+          "tran_cn": "[光]观察者；观看者；电视观众；[仪]指示器"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "observer",
+            "spectator"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "event viewer",
+      "tran_cn": "事件阅览器；事件查看器"
+    },
+    {
+      "phrase": "file viewer",
+      "tran_cn": "文件浏览器；文件查看器"
+    },
+    {
+      "phrase": "image viewer",
+      "tran_cn": "[计算机]图像浏览器；影像检视器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "电视观众，观看者，观察者，阅读器，看片机（把幻灯片等放大观看的装置）",
+      "tran_en": "someone who watches television"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "viewers"
+    ]
+  }
+}

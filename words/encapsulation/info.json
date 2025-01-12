@@ -1,0 +1,126 @@
+{
+  "word": "encapsulation",
+  "ipa": {
+    "us": "ɪnˌkæpsjuˈleɪʃn",
+    "uk": " ɪnˌkæpsjuˈleɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "According to the basic principle of GT and the natural characters of group fixture, providing a kind of coding scheme and the concept of \"information encapsulation based on primitive\".",
+      "cn": "根据成组技术基本原理和成组夹具固有特点，建立了一种简单的零件编码机制，提出了“基于体素的工艺信息封装”。"
+    },
+    {
+      "en": "Answer The interface requires that the encapsulation frame - relay command be configured first.",
+      "cn": "必须要先配置封装类型才可以继续配置本地管理接口."
+    },
+    {
+      "en": "Be responsible for analysis problem - solving of encapsulation injection process.",
+      "cn": "负责注塑工艺问题发现,分析及解决."
+    },
+    {
+      "en": "CMS describes an encapsulation syntax for data protection.",
+      "cn": "CMS提供了一套用于数据保护的数据封装语法."
+    },
+    {
+      "en": "Data encapsulation and multi - tiered design go hand in hand.",
+      "cn": "即,将数据封装和多层设计结合起来."
+    },
+    {
+      "en": "Encapsulation and prospection are the two major sentential relationships observed by J.",
+      "cn": "囊括和预示是辛克莱提出的实现书面语篇连贯的四种句际关系的主要两种."
+    },
+    {
+      "en": "Encapsulation has a similar effect on a collection of operations and properties.",
+      "cn": "封装起了类似的作用,把所需的操作和属性集合起来."
+    },
+    {
+      "en": "Encapsulation is what makes a code object an object.",
+      "cn": "封装能把代码对象转换成对象."
+    },
+    {
+      "en": "Figure 2.1 shows the two different forms of encapsulation.",
+      "cn": "图2.1显示了两种不同的封装形式."
+    },
+    {
+      "en": "However, authentication, encryption and encapsulation can be performed by many different technologies.",
+      "cn": "然而, 利用许多不同的技术,都可以实现身份验证 、 加密和封装."
+    },
+    {
+      "en": "Results The top encapsulation percentage of Evans blue liposome is 25 30 %.",
+      "cn": "结果　伊文思蓝脂质体的包封率最高为2530%."
+    },
+    {
+      "en": "Suppression of encapsulation is by reducing blood cells responsible for encapsulation.",
+      "cn": "通过减少负责包囊作用的血细胞而使包囊作用受到抑制."
+    },
+    {
+      "en": "The fundamental ideas behind classes are data abstraction and encapsulation.",
+      "cn": "类背后蕴涵的基本思想是数据抽象和封装."
+    },
+    {
+      "en": "The Object - Oriented characters, such as encapsulation, inheritance, polymorphism and dynamic binding etc, increase the testing complexity.",
+      "cn": "面向对象 的特征, 如封装性 、 继承性 、 多态和动态绑定等, 这些特征的引入增加了测试的复杂性."
+    },
+    {
+      "en": "The series are made with the Nano Encapsulation technology.",
+      "cn": "全系列采用奈米囊球包裹精油技术."
+    },
+    {
+      "en": "These applications of encapsulation, modularity , and polymorphism are implemented by the patterns.",
+      "cn": "封装、模块化和多态的应用均由模式来实现。"
+    },
+    {
+      "en": "What is encapsulation? Why it is useful?",
+      "cn": "什么是封装? 为什么封装是有用的?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "encapsulate",
+          "tran_cn": " 形成胶囊"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "encapsulate",
+          "tran_cn": " 压缩；将…装入胶囊；将…封进内部"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "capsulation",
+            "casing"
+          ],
+          "tran_cn": "[电子]封装；包装"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "包装，封装，包裹"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "encapsulations"
+    ],
+    "verb": [
+      "encapsulate"
+    ]
+  }
+}

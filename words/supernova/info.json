@@ -1,0 +1,42 @@
+{
+  "word": "supernova",
+  "ipa": {
+    "us": "ˌsu:pəˈnəʊvə",
+    "uk": "ˌsupərˈnoʊvə"
+  },
+  "sentences": [
+    {
+      "en": "At least one supernova occurs per decade in our galaxy.",
+      "cn": "每十年至少有一颗超新星在我们的银河系中出现。"
+    },
+    {
+      "en": "The ejected mass then probably becomes the observed material of a supernova outburst.",
+      "cn": "在这种情况下,抛射物质可能就成为一次超能量爆发中的观测对象."
+    },
+    {
+      "en": "These sources are generally viewed in projection against radio nebulae representing the remnants of supernova outbursts.",
+      "cn": "这类源一般都投影在超星爆发残骸的射电星云上."
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "supernova remnant",
+      "tran_cn": "超新星遗迹，超新星残骸"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（天文）超新星",
+      "tran_en": "a very large exploding star"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "supernovae",
+      "supernovas"
+    ]
+  }
+}

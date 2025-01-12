@@ -1,0 +1,62 @@
+{
+  "word": "overpayment",
+  "ipa": {
+    "us": "ˌəʊvə'peɪmənt",
+    "uk": "ˌoʊvə'peɪmənt"
+  },
+  "sentences": [
+    {
+      "en": "He may apply for tax refund when overpayment is confirmed upon examination.",
+      "cn": "经审核后,确认多缴税款,可以办理退税."
+    },
+    {
+      "en": "Here is your overpayment and I'll give you another receipt.",
+      "cn": "这是您多付的钱,我重新给您一张发票."
+    },
+    {
+      "en": "Overpayment of a tax is refundable at the end of the year.",
+      "cn": "多付出的税金年底可以偿还."
+    },
+    {
+      "en": "The overpayment will be reimbursed to you.",
+      "cn": "多付的款项将退还给你."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "overpay",
+          "tran_cn": " 多付"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "overpay",
+          "tran_cn": " 多付；多给报酬"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "多付的款项"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "超额偿付，超付，多付"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "overpay"
+    ]
+  }
+}

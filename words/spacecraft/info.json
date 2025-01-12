@@ -1,0 +1,139 @@
+{
+  "word": "spacecraft",
+  "ipa": {
+    "us": "ˈspeɪskrɑːft",
+    "uk": "ˈspeɪskræft"
+  },
+  "sentences": [
+    {
+      "en": "...the world's largest and most expensive unmanned spacecraft.",
+      "cn": "…世界上最大、最贵的无人航天器。"
+    },
+    {
+      "en": "Each of the papers in Science reports data from one of the spacecraft.",
+      "cn": "科学杂志上发表的论文分别报告了来自这些太空船的数据。"
+    },
+    {
+      "en": "Gyroscopes are used in navigational instruments for ships, aircraft, and spacecraft.",
+      "cn": "陀螺仪用于船舶 、 飞机和宇宙飞船中的导航设备."
+    },
+    {
+      "en": "I paced in the peaceful spacecraft.",
+      "cn": "我在宁静的宇宙飞船里踱步。"
+    },
+    {
+      "en": "If a spacecraft travels faster than 11 km a second, it escapes the earth's gravitational pull.",
+      "cn": "如果飞行速度超过每秒11公里，宇宙飞船将摆脱地球的引力。"
+    },
+    {
+      "en": "Only half of the spacecraft's six science instruments are still in working order.",
+      "cn": "这艘宇宙飞船的6件科学仪器中只有一半还在正常运转。"
+    },
+    {
+      "en": "Scientists are carefully charting the progress of the spacecraft.",
+      "cn": "科学家密切跟踪航天器的运行."
+    },
+    {
+      "en": "Spacecraft Columbia touched down yesterday.",
+      "cn": "“哥伦比亚”号宇宙飞船昨天着陆。"
+    },
+    {
+      "en": "Spacecraft re - entering the earth's atmosphere are affected by g forces.",
+      "cn": "航天器重返大气层是由于重力的作用."
+    },
+    {
+      "en": "Spacecraft which are re-entering the earth's atmosphere are affected by g forces.",
+      "cn": "重返大气层的航天器受到重力的作用。"
+    },
+    {
+      "en": "The radio blackout ends as the spacecraft slows down.",
+      "cn": "随着航天飞机减慢速度,无线电通信又重新恢复."
+    },
+    {
+      "en": "The reflector is held onto the sides of the spacecraft with a frame.",
+      "cn": "反射器通过支架牢牢地固定在航天器的侧面。"
+    },
+    {
+      "en": "The spacecraft burned up when it re - entered the earth's atmosphere.",
+      "cn": "宇宙飞船重新进入地球大气层时烧毁了."
+    },
+    {
+      "en": "The spacecraft made a successful reentry into the earth's atmosphere.",
+      "cn": "宇宙飞船成功地重返大气层."
+    },
+    {
+      "en": "The spacecraft slowed and began to re-enter the atmosphere.",
+      "cn": "太空船减慢了速度，开始重返大气层。"
+    },
+    {
+      "en": "The two spacecraft rendezvoused successfully.",
+      "cn": "两艘太空船成功地会合."
+    },
+    {
+      "en": "the world's largest and most expensive unmanned spacecraft",
+      "cn": "世界上最大、最贵的无人航天器"
+    },
+    {
+      "en": "There're three astronauts in the spacecraft.",
+      "cn": "在这艘宇宙飞船里有三名宇航员."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "spaceship",
+          "tran_cn": " [航] 宇宙飞船"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "aerospacecraft",
+            "astrovehicle"
+          ],
+          "tran_cn": "宇宙飞船，[航]航天器"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "satellite"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "manned spacecraft",
+      "tran_cn": "载人飞船；人操纵的宇宙飞船"
+    },
+    {
+      "phrase": "unmanned spacecraft",
+      "tran_cn": "无人驾驶飞机；无人宇宙飞船"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[航天]宇宙飞船，航天器",
+      "tran_en": "a vehicle that is able to travel in space"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "spacecraft"
+    ]
+  }
+}

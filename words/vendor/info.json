@@ -1,0 +1,196 @@
+{
+  "word": "vendor",
+  "ipa": {
+    "us": "ˈvendə(r)",
+    "uk": "ˈvendər"
+  },
+  "sentences": [
+    {
+      "en": "'Monsieur the Marquis , vendor of wine.'",
+      "cn": "“ 卖酒的,侯爵 大人. ”"
+    },
+    {
+      "en": "A few militant members of the crowd attacked the vendor.",
+      "cn": "人群中几个好斗的人攻击了那个小贩."
+    },
+    {
+      "en": "As registered proprietor, only the vendor can do so.",
+      "cn": "因为只有产权注册人即卖方方能启用相关条款."
+    },
+    {
+      "en": "Ernest Defarge, wine - vendor of St. Antoine. \"",
+      "cn": "欧内斯特.德伐日, 圣安托万区酒店主. ”"
+    },
+    {
+      "en": "He must inform the vendor immediately.",
+      "cn": "他必须立即通知卖方."
+    },
+    {
+      "en": "If you suspect write - caching to be the problem, contact your hardware vendor.",
+      "cn": "如果您怀疑写缓存的问题, 请联系您的硬件供应商."
+    },
+    {
+      "en": "Is the vendor always held responsible if goods are faulty?",
+      "cn": "如果产品有瑕疵,卖主是否一定要负责到底?"
+    },
+    {
+      "en": "It also critical, different quality requirements can choose what kind of vendor.",
+      "cn": "这一点也很关键, 不同的质量要求可以决定找怎样的供应商."
+    },
+    {
+      "en": "Kevin stopped to buy the evening paper from a news vendor.",
+      "cn": "凯文停下来向报贩买了一份晚报."
+    },
+    {
+      "en": "leading software vendors",
+      "cn": "主要软件销售商"
+    },
+    {
+      "en": "Remember, the estate agent is working for the vendor.",
+      "cn": "记住，房地产代理商是为房地产卖方服务的。"
+    },
+    {
+      "en": "Such modifications may require corresponding changes to be made in Vendor's Service.",
+      "cn": "该修改可能需要贩售商服务也有相对应的变更."
+    },
+    {
+      "en": "the shouts of street vendors",
+      "cn": "街头小贩的吆喝声"
+    },
+    {
+      "en": "The vendor beamed and began tearing off the usual 1 / 100 ticket.",
+      "cn": "彩票推销员微笑着,把通常的1/100一张彩票撕下来."
+    },
+    {
+      "en": "The vendor shall deliver the goods to the vendee by June 15.",
+      "cn": "卖方须在6月15日前将货交给买方."
+    },
+    {
+      "en": "The vendor was a venerable Irishman.",
+      "cn": "小贩是个可敬的爱尔兰老人."
+    },
+    {
+      "en": "Work with QA to resolved customer and vendor quality issue.",
+      "cn": "和质量人员一起解决客户和供应商的质量问题."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vendible",
+          "tran_cn": " 可销售的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vendee",
+          "tran_cn": " 买主；买方"
+        },
+        {
+          "word": "vender",
+          "tran_cn": " 卖主；小贩；自动售货机（等于vendor）"
+        },
+        {
+          "word": "vendible",
+          "tran_cn": " 可销售物；有销路的物品"
+        },
+        {
+          "word": "vendition",
+          "tran_cn": " 销售，贩卖"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "vend",
+          "tran_cn": " 出售"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vend",
+          "tran_cn": " 出售；公开发表"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "peddler",
+            "packman"
+          ],
+          "tran_cn": "卖主；[贸易]小贩；自动售货机"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cheap-jack",
+            "dealer",
+            "door-to-door",
+            "hawker",
+            "huckster",
+            "merchandiser",
+            "merchant",
+            "monger",
+            "peddler",
+            "retailer",
+            "salesman",
+            "seller",
+            "street",
+            "trader",
+            "travelling",
+            "vendor"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "advertiser",
+            "butcher"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "news vendor",
+      "tran_cn": "卖报人"
+    },
+    {
+      "phrase": "street vendor",
+      "tran_cn": "小贩；大排档"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "摊贩，小贩，卖主，[贸易]自动售货机，<正式>供应商",
+      "tran_en": "someone who sells things, especially on the street"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "vendors"
+    ]
+  }
+}

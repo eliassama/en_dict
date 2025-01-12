@@ -1,0 +1,217 @@
+{
+  "word": "towel",
+  "ipa": {
+    "us": "ˈtaʊəl",
+    "uk": "ˈtaʊəl"
+  },
+  "sentences": [
+    {
+      "en": "Have you got a clean towel I could use?",
+      "cn": "你有没有干净毛巾给我用？"
+    },
+    {
+      "en": "He patted his face dry with a towel.",
+      "cn": "他用手巾轻轻地把脸拍干."
+    },
+    {
+      "en": "He vowed he would never throw in the towel.",
+      "cn": "他发誓决不认输."
+    },
+    {
+      "en": "He went on talking, occasionally wiping at his face with a towel.",
+      "cn": "他继续说着, 偶尔用毛巾擦一下脸."
+    },
+    {
+      "en": "He wiped off the remains of the lather with a towel.",
+      "cn": "他用毛巾抹去余下的皂沫。"
+    },
+    {
+      "en": "Help yourself to a clean towel.",
+      "cn": "请随便拿一条干净毛巾用。"
+    },
+    {
+      "en": "I gagged him with a towel.",
+      "cn": "我用一条毛巾堵住他的嘴。"
+    },
+    {
+      "en": "Lainey wiped her hands on the towel.",
+      "cn": "莱内用毛巾把手擦干。"
+    },
+    {
+      "en": "My towel's all sandy!",
+      "cn": "我的毛巾上全是沙子!"
+    },
+    {
+      "en": "Pat it dry with a soft towel.",
+      "cn": "用柔软的毛巾将它拍干。"
+    },
+    {
+      "en": "She blotted water off the table with a towel.",
+      "cn": "她用毛巾擦干桌上的水."
+    },
+    {
+      "en": "She had a towel draped around her neck.",
+      "cn": "她把一条毛巾挂在脖子上。"
+    },
+    {
+      "en": "She spread a towel on the sand and lay on it.",
+      "cn": "她在沙滩上铺了一条毛巾，躺在上面。"
+    },
+    {
+      "en": "She tore off two sections of paper towel and folded them lengthwise.",
+      "cn": "她撕下两格纸巾，然后纵向对折。"
+    },
+    {
+      "en": "She was enveloped in a huge white towel.",
+      "cn": "她裹在一条白色大毛巾里。"
+    },
+    {
+      "en": "Sylvia fetched a towel from the bathroom.",
+      "cn": "西尔维娅去卫生间拿了一条毛巾。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "toweling",
+          "tran_cn": " 毛巾料（等于towelling）"
+        },
+        {
+          "word": "towelling",
+          "tran_cn": " 毛巾布；擦拭"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "towelling",
+          "tran_cn": " 用毛巾擦；鞭打（towel的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "tissue",
+            "washcloth"
+          ],
+          "tran_cn": "[纺]毛巾，手巾；[纸]纸巾"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "napkin"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bath towel",
+      "tran_cn": "浴巾"
+    },
+    {
+      "phrase": "beach towel",
+      "tran_cn": "沙滩毛巾；沙滩浴巾；海滩浴巾"
+    },
+    {
+      "phrase": "face towel",
+      "tran_cn": "毛巾；面巾；小方巾"
+    },
+    {
+      "phrase": "hand towel",
+      "tran_cn": "擦手巾"
+    },
+    {
+      "phrase": "kitchen towel",
+      "tran_cn": "厨房用纸；洗碗布"
+    },
+    {
+      "phrase": "paper towel",
+      "tran_cn": "纸巾"
+    },
+    {
+      "phrase": "sanitary towel",
+      "tran_cn": "月经垫；卫生巾（等于sanitary napkin）"
+    },
+    {
+      "phrase": "tea towel",
+      "tran_cn": "擦拭杯盘用的抹布"
+    },
+    {
+      "phrase": "terry towel",
+      "tran_cn": "毛巾织物"
+    },
+    {
+      "phrase": "throw in the towel",
+      "tran_cn": "认输"
+    },
+    {
+      "phrase": "towel cloth",
+      "tran_cn": "毛巾布"
+    },
+    {
+      "phrase": "towel factory",
+      "tran_cn": "毛巾厂；羊毛衫厂"
+    },
+    {
+      "phrase": "towel gourd",
+      "tran_cn": "丝瓜"
+    },
+    {
+      "phrase": "towel rack",
+      "tran_cn": "n. 毛巾架"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "毛巾，手巾，纸巾",
+      "tran_en": "a piece of cloth that you use for drying your skin or for drying things such as dishes"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "用毛巾擦",
+      "tran_en": "to dry yourself using a towel"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "用毛巾擦干身体"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用毛巾擦"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "towels"
+    ],
+    "third": [
+      "towels"
+    ],
+    "past": [
+      "towelled"
+    ],
+    "done": [
+      "towelled"
+    ],
+    "ing": [
+      "towelling"
+    ]
+  }
+}

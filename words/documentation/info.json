@@ -1,0 +1,162 @@
+{
+  "word": "documentation",
+  "ipa": {
+    "us": "ˌdɒkjumenˈteɪʃn",
+    "uk": "ˌdɑːkjumenˈteɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "And you think the broker's documentation was forged here on my copier?",
+      "cn": "你认为经纪人的文件是在这里我的复印机上伪造的?"
+    },
+    {
+      "en": "Any aspect of production departs from that laid down in their documentation.",
+      "cn": "任何方面不符合规范要求,应终止操作."
+    },
+    {
+      "en": "Applicants must provide supporting documentation .",
+      "cn": "申请人必须提供证明文件。"
+    },
+    {
+      "en": "Be responsible for DCS system spare parts and documentation management.",
+      "cn": "负责DCS系统备件管理及文档整理工作."
+    },
+    {
+      "en": "Britain's trade figures can no longer be extracted from export-and-import documentation at ports.",
+      "cn": "英国的贸易数据现在不能再从各港口的进出口单证中提取了。"
+    },
+    {
+      "en": "Class documentation can also be used for interfaces ( see Chapter 8 ).",
+      "cn": "类文档亦可用于“接口”目的 ( 本书后面会详细解释 )."
+    },
+    {
+      "en": "Further investigation was hindered by the loss of all documentation on the case.",
+      "cn": "由于案件卷宗全部丢失致使进一步的调查受阻。"
+    },
+    {
+      "en": "In Chapter 3, I shall describe some of the documentation that I gathered.",
+      "cn": "在第三章，我会介绍我收集到的一些文献记录。"
+    },
+    {
+      "en": "Online help is just like printed documentation, a reference tool for perpetual intermediates.",
+      "cn": "在线帮助就像是打印的文档, 为永久的中间用户提供参考工具."
+    },
+    {
+      "en": "Passengers must carry proper documentation.",
+      "cn": "旅客必须携带有效证件。"
+    },
+    {
+      "en": "Possibly the biggest problem with documenting code has been maintaining that documentation.",
+      "cn": "对于程序的文档化,最大的问题莫过于对文档的维护."
+    },
+    {
+      "en": "Right then, I'll supply you with our sales documentation, and anything else you require.",
+      "cn": "那么, 我会给你提供我们的销售文献资料, 还有你需要的任何其它东西."
+    },
+    {
+      "en": "Site progress control, construction planning, legend, completion documentation etc.",
+      "cn": "工地进度控管 、 施工计画 、 图说 、 竣工文件制作等."
+    },
+    {
+      "en": "The reader is referred for documentation of the statements made.",
+      "cn": "读者可以参考其中所提及的文献."
+    },
+    {
+      "en": "The shipment came wiht fake documentation.",
+      "cn": "装运发来的货物用的是伪造单据."
+    },
+    {
+      "en": "This procedure is called program documentation.",
+      "cn": "这个过程叫做程序文件."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "documental",
+          "tran_cn": " 文件的，公文的"
+        },
+        {
+          "word": "documentary",
+          "tran_cn": " 记录的；文件的；记实的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "document",
+          "tran_cn": " 文件，公文；[计] 文档；证件"
+        },
+        {
+          "word": "documentary",
+          "tran_cn": " 纪录片"
+        },
+        {
+          "word": "documenter",
+          "tran_cn": " 资料员"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "document",
+          "tran_cn": " 用文件证明"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "album",
+            "proof"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "design documentation",
+      "tran_cn": "设计资料"
+    },
+    {
+      "phrase": "product documentation",
+      "tran_cn": "产品文件"
+    },
+    {
+      "phrase": "project documentation",
+      "tran_cn": "计划文件，项目文档"
+    },
+    {
+      "phrase": "supporting documentation",
+      "tran_cn": "辅助文档（不译证明文件）"
+    },
+    {
+      "phrase": "system documentation",
+      "tran_cn": "系统文献；系统文件编制"
+    },
+    {
+      "phrase": "technical documentation",
+      "tran_cn": "技术文件；技术资料"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "证明某事属实的证据，记录，参考资料，文献的编集，文件分类",
+      "tran_en": "official documents, reports etc that are used to prove that something is true or correct"
+    }
+  ],
+  "exchange": {}
+}

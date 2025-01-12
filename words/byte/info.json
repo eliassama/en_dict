@@ -1,0 +1,93 @@
+{
+  "word": "byte",
+  "ipa": {
+    "us": "baɪt",
+    "uk": "baɪt"
+  },
+  "sentences": [
+    {
+      "en": "A byte composed of three binary element.",
+      "cn": "一种由三个二进制位组成的字节."
+    },
+    {
+      "en": "A byte is the smallest unit of processing in any computer architecture.",
+      "cn": "一字节是电脑结构里的最小作用单位."
+    },
+    {
+      "en": "Alternative spelling of byte.",
+      "cn": "字节byte的另一种拼法."
+    },
+    {
+      "en": "Code bytes - byte representations of the actual machine or MSIL instructions.",
+      "cn": "代码字节 — 实际计算机或MSIL指令的字节表示形式."
+    },
+    {
+      "en": "Converts a byte array from one encoding to another.",
+      "cn": "将字节数组从一种编码转换为另一种."
+    },
+    {
+      "en": "Each character requires one byte of storage space.",
+      "cn": "每个字符需要一个字节的储存空间。"
+    },
+    {
+      "en": "Each instruction can operate on word and byte data.",
+      "cn": "每个指令可以在文字和字节资料库中操作."
+    },
+    {
+      "en": "Error: byte array truncation to a length of { 0 }.",
+      "cn": "错误: 字节数组截断到长度为{0}."
+    },
+    {
+      "en": "In addition, the Memory window can display double - byte characters.",
+      "cn": "另外, “内存”窗口可以显示双字节字符."
+    },
+    {
+      "en": "In char, byte , and short you can see the effect of promotion with the arithmetic operators.",
+      "cn": "在char, byte 和short中,我们可看到算术运算符的“转型”效果."
+    },
+    {
+      "en": "It'seems to be love at first byte for China and computers.",
+      "cn": "这就好像中国和计算机一见钟情一样."
+    },
+    {
+      "en": "Let show a group synthesis byte, determine decimal value?",
+      "cn": "让示个位组合成字节, 确定十进制值?"
+    },
+    {
+      "en": "Mismatch between maintained byte array and pinned byte array.",
+      "cn": "维护的字节数组与固定的字节数组之间不匹配."
+    },
+    {
+      "en": "Notice in the above code the maximum possible hexadecimal values for char, byte, and short.",
+      "cn": "注意在上述代码中,最大的十六进制值只会在char, byte以及short身上出现."
+    },
+    {
+      "en": "So our 19 - byte input stream is encoded to 6 bytes.",
+      "cn": "于是,原来19个字节的输入数据流被编码成了6个字节."
+    },
+    {
+      "en": "Value was either too large or too small for an unsigned byte.",
+      "cn": "值对于无符号的字节太大或太小."
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "double byte",
+      "tran_cn": "双字节，双位元组"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "字节",
+      "tran_en": "a unit for measuring computer information, equal to eight  bit s (=  the smallest unit on which information is stored on a computer  ) "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bytes"
+    ]
+  }
+}

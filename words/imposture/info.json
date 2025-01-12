@@ -1,0 +1,109 @@
+{
+  "word": "imposture",
+  "ipa": {
+    "us": "ɪmˈpɒstʃə(r)",
+    "uk": "ɪmˈpɑstʃə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Soiled by her imposture she remains silent.",
+      "cn": "她背着冒名顶替者的黑锅却一直沉默。"
+    },
+    {
+      "en": "This article observes that imposture in Copyright Law is the infringement of the right of signature of authors.",
+      "cn": "对争议中的冒名行为，笔者认为乃是属于侵害作者署名权的行为。"
+    },
+    {
+      "en": "This new resource discovery algorithm can effectively restrain the imposture and pseudo service of P2P network, improve the reliability and security and decrease network load.",
+      "cn": "仿真试验表明，该算法有效的抑制了P2P网络中恶意节点的欺诈行为，降低了系统的消息负载，保证了请求节点获得服务和资源的可靠性和安全性。"
+    },
+    {
+      "en": "What are an imposition, all a confounded imposture? - and I can prove it.",
+      "cn": "什么 是宗教税,什么是宗教礼节, 都是骗人的,乱七八糟的事,我并且可以证实."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "imposed",
+          "tran_cn": " 强加的；施加的；应用的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "imposition",
+          "tran_cn": " 征收；强加；欺骗；不公平的负担"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "imposed",
+          "tran_cn": " 欺骗（impose的过去分词）；把…强加于"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "impose",
+          "tran_cn": " 利用；欺骗；施加影响"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "impose",
+          "tran_cn": " 强加；征税；以…欺骗"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fraud",
+            "deception"
+          ],
+          "tran_cn": "欺诈，欺骗；冒牌"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deceit",
+            "deception",
+            "delusion",
+            "pretense"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（冒名顶替）欺诈，行骗",
+      "tran_en": "the act or an instance of deceiving others, esp by assuming a false identity "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,202 @@
+{
+  "word": "dismiss",
+  "ipa": {
+    "us": "dɪsˈmɪs",
+    "uk": "dɪsˈmɪs"
+  },
+  "sentences": [
+    {
+      "en": "A doctor is there to treat and to cure, not to dismiss anyone as a hopeless case.",
+      "cn": "医生的职责是治病救人，任何人都不能被看作是无药可救而打发走。"
+    },
+    {
+      "en": "At first she threatened to dismiss me, but later she relented.",
+      "cn": "起初她威胁要解雇我, 但后来她态度软化了."
+    },
+    {
+      "en": "Bethink ere thou dismiss us.",
+      "cn": "在你打发我们走以前再请仔细考虑一下吧."
+    },
+    {
+      "en": "Bryant was unfairly dismissed from his post.",
+      "cn": "布赖恩特被无理免职了。"
+    },
+    {
+      "en": "Employees can be dismissed for sending obscene emails.",
+      "cn": "员工发送淫秽电子邮件会遭到解雇。"
+    },
+    {
+      "en": "He just laughed and dismissed my proposal as unrealistic.",
+      "cn": "他只是笑了笑，认为我的建议不切实际，拒绝考虑。"
+    },
+    {
+      "en": "I think we can safely dismiss their objections.",
+      "cn": "我认为我们对他们的异议完全可以不予理会。"
+    },
+    {
+      "en": "I wouldn't dismiss it out of hand.",
+      "cn": "我不会不假思索地摈弃它。"
+    },
+    {
+      "en": "In consequence of your bad work I am forced to dismiss you.",
+      "cn": "由于你的工作很糟,我不得不把你解雇."
+    },
+    {
+      "en": "In fact he could not dismiss his vision of the two Nachmans.",
+      "cn": "真的,他的脑子里老摆不脱两个纳克曼的影子."
+    },
+    {
+      "en": "It's not feasible to dismiss him.",
+      "cn": "不可开除他."
+    },
+    {
+      "en": "Most orthodox doctors however dismiss this as complete nonsense.",
+      "cn": "但大多数传统的医生认为此说法完全是胡说八道。"
+    },
+    {
+      "en": "Please dismiss all doubts about it.",
+      "cn": "请打消对此事的一切顾虑."
+    },
+    {
+      "en": "She tried to dismiss him from her mind.",
+      "cn": "她试图把他忘掉."
+    },
+    {
+      "en": "The class was dismissed early today.",
+      "cn": "今天这个班级提早放学。"
+    },
+    {
+      "en": "The committee has [ have ] decided to dismiss him.",
+      "cn": "委员会已决定辞退他."
+    },
+    {
+      "en": "The committee has decided to dismiss him.",
+      "cn": "委员会已决定辞退他。"
+    },
+    {
+      "en": "The government has dismissed criticisms that the country’s health policy is a mess.",
+      "cn": "有人认为国家医疗政策一塌糊涂，政府对这种批评持否认态度。"
+    },
+    {
+      "en": "The Prime Minister has the power to dismiss and appoint senior ministers.",
+      "cn": "首相有权任免高级部长。"
+    },
+    {
+      "en": "They were quick to dismiss rumours of an off-screen romance.",
+      "cn": "他们迅速否认了两人在现实生活中是情侣关系的传言。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dismissible",
+          "tran_cn": " 可解雇的"
+        },
+        {
+          "word": "dismissive",
+          "tran_cn": " 表示轻视的；解雇的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dismissal",
+          "tran_cn": " 解雇；免职"
+        },
+        {
+          "word": "dismission",
+          "tran_cn": " 解散；免职"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "away",
+            "depose",
+            "dethrone",
+            "disband",
+            "discharge",
+            "drop",
+            "expel",
+            "fire",
+            "free",
+            "justify",
+            "liberate",
+            "release",
+            "retire",
+            "send",
+            "unseat"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "disband",
+            "break up"
+          ],
+          "tran_cn": "解散"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "away",
+            "discharge",
+            "expel",
+            "send"
+          ],
+          "tran_cn": "让...离开;遣散"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dismiss from",
+      "tran_cn": "解雇；开除"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "不考虑，解雇，解散，不予受理，（使击球员或球队）出局",
+      "tran_en": "to remove someone from their job"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 不再考虑； 解雇， 解散； 驳回",
+      "tran_en": "to remove someone from their job"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "dismisses"
+    ],
+    "past": [
+      "dismissed"
+    ],
+    "done": [
+      "dismissed"
+    ],
+    "ing": [
+      "dismissing"
+    ]
+  }
+}

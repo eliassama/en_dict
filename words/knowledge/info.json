@@ -1,0 +1,334 @@
+{
+  "word": "knowledge",
+  "ipa": {
+    "us": "ˈnɒlɪdʒ",
+    "uk": "ˈnɑːlɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "Evans denied all knowledge of the robbery.",
+      "cn": "埃文斯说他对这次抢劫一无所知。"
+    },
+    {
+      "en": "George dazzled her with his knowledge of the world.",
+      "cn": "乔治的洞察世情令她叹服。"
+    },
+    {
+      "en": "German banks have more insider knowledge than most.",
+      "cn": "德国银行与大多数银行相比知晓更多的内部消息。"
+    },
+    {
+      "en": "He did have a real knowledge of the country.",
+      "cn": "他对该国的确知之甚多。"
+    },
+    {
+      "en": "He did not have much knowledge of American history.",
+      "cn": "他对美国历史所知不多。"
+    },
+    {
+      "en": "He had a real knowledge of animals, birds and flowers.",
+      "cn": "他在花鸟走兽方面知之甚多。"
+    },
+    {
+      "en": "He surprised me with his intimate knowledge of Kierkegaard and Schopenhauer.",
+      "cn": "他对克尔恺郭尔与叔本华的深刻了解让我很吃惊。"
+    },
+    {
+      "en": "His breadth of knowledge filled me with admiration.",
+      "cn": "他学识渊博，令我非常钦佩。"
+    },
+    {
+      "en": "It is unlikely he would have mistaken hocus-pocus for genuine knowledge.",
+      "cn": "他不可能把骗人的把戏错当成真正的知识。"
+    },
+    {
+      "en": "Mankind's knowledge of the universe has increased beyond measure.",
+      "cn": "人类对于宇宙的了解已经大为增加。"
+    },
+    {
+      "en": "Nor does scientific knowledge derive straightforwardly from experiments and observations.",
+      "cn": "科学知识也并非简单地从试验和观察中得来。"
+    },
+    {
+      "en": "She was a woman with extraordinary vibrancy and extraordinary knowledge.",
+      "cn": "她是一位充满活力、博学多识的女子。"
+    },
+    {
+      "en": "Taylor combined great knowledge with an irreverent attitude to history.",
+      "cn": "泰勒知识渊博，而且并不把历史太当回事。"
+    },
+    {
+      "en": "The Law recognises the weakness of claims based on retrospective knowledge.",
+      "cn": "法律基于追溯效力的相关规定认定索赔证据不足。"
+    },
+    {
+      "en": "This technique brings life to instruction and eases assimilation of knowledge.",
+      "cn": "这一方法给教学带来了活力，也使知识的吸收变得容易了。"
+    },
+    {
+      "en": "To the best of my knowledge, Gloria did not make these comments.",
+      "cn": "据我所知，格洛丽亚没这么说过。"
+    },
+    {
+      "en": "With knowledge and wisdom, evil could be vanquished on this earth.",
+      "cn": "拥有了知识和智慧就能够把恶势力从这个世界上铲除。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "knowable",
+          "tran_cn": " 可知的；能认识的；易知的"
+        },
+        {
+          "word": "knowing",
+          "tran_cn": " 博学的；狡猾的；心照不宣的"
+        },
+        {
+          "word": "knowledgeable",
+          "tran_cn": " 知识渊博的，有知识的；有见识的；聪明的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "knower",
+          "tran_cn": " 认识者；理解者"
+        },
+        {
+          "word": "knowing",
+          "tran_cn": " 认知"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "knowing",
+          "tran_cn": " 知道；认识；确信（know的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "acquaintance",
+            "adeptness",
+            "appreciation",
+            "appreciativeness",
+            "conversance",
+            "experience",
+            "expertise",
+            "expertness",
+            "familiarity",
+            "intelligence",
+            "know-how",
+            "proficiency",
+            "recognition",
+            "savoir-faire",
+            "understanding"
+          ],
+          "tran_cn": "了解,经历,体验"
+        },
+        {
+          "words": [
+            "data",
+            "facts",
+            "hearsay",
+            "information",
+            "news",
+            "rumour",
+            "talk",
+            "tidings"
+          ],
+          "tran_cn": "信息,消息,内情"
+        },
+        {
+          "words": [
+            "affirmation",
+            "assuredness",
+            "awareness",
+            "belief",
+            "cognizance",
+            "consciousness",
+            "conviction",
+            "foreknowledge",
+            "foresight",
+            "instinct",
+            "judgment",
+            "opinion",
+            "positiveness"
+          ],
+          "tran_cn": "意识,知觉,确信,深信,信念,信条,预知,先见"
+        },
+        {
+          "words": [
+            "legend",
+            "literature",
+            "lore",
+            "pantology",
+            "principles",
+            "realities",
+            "sciences",
+            "truths",
+            "verities"
+          ],
+          "tran_cn": "真实,真理,学科"
+        },
+        {
+          "words": [
+            "education",
+            "erudition",
+            "instruction",
+            "learning",
+            "memory",
+            "scholarship",
+            "schooling",
+            "tuition"
+          ],
+          "tran_cn": "知识,学识,学问"
+        },
+        {
+          "words": [
+            "acknowledgment",
+            "apprehension",
+            "cognition",
+            "comprehension",
+            "discernment",
+            "enlightenment",
+            "grasp",
+            "insight",
+            "intuition",
+            "perception",
+            "realization",
+            "recognition",
+            "revelation"
+          ],
+          "tran_cn": "认识,了解,展示,揭露,承认"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "background",
+            "equipment",
+            "resource",
+            "technique",
+            "wisdom"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "basic knowledge",
+      "tran_cn": "基础知识，基本知识"
+    },
+    {
+      "phrase": "come to one's knowledge",
+      "tran_cn": "为某人得知"
+    },
+    {
+      "phrase": "domain knowledge",
+      "tran_cn": "领域知识"
+    },
+    {
+      "phrase": "expert knowledge",
+      "tran_cn": "专家知识，专门知识"
+    },
+    {
+      "phrase": "general knowledge",
+      "tran_cn": "常识；各方面的知识"
+    },
+    {
+      "phrase": "human knowledge",
+      "tran_cn": "人的认识"
+    },
+    {
+      "phrase": "in the knowledge that",
+      "tran_cn": "在知道…的情况下"
+    },
+    {
+      "phrase": "knowledge acquisition",
+      "tran_cn": "知识获取；知识习得；知识获得；知识采集"
+    },
+    {
+      "phrase": "knowledge base",
+      "tran_cn": "知识库"
+    },
+    {
+      "phrase": "knowledge economy",
+      "tran_cn": "知识经济"
+    },
+    {
+      "phrase": "knowledge management",
+      "tran_cn": "n. 知识管理"
+    },
+    {
+      "phrase": "knowledge of",
+      "tran_cn": "知识"
+    },
+    {
+      "phrase": "knowledge representation",
+      "tran_cn": "知识表示；知识表达"
+    },
+    {
+      "phrase": "knowledge structure",
+      "tran_cn": "知识结构"
+    },
+    {
+      "phrase": "practical knowledge",
+      "tran_cn": "实践性知识，实用性知识；实务知识"
+    },
+    {
+      "phrase": "professional knowledge",
+      "tran_cn": "专业知识；专门知识"
+    },
+    {
+      "phrase": "scientific knowledge",
+      "tran_cn": "科学知识"
+    },
+    {
+      "phrase": "specialized knowledge",
+      "tran_cn": "专业知识；专门知识"
+    },
+    {
+      "phrase": "tacit knowledge",
+      "tran_cn": "隐性知识；默会知识"
+    },
+    {
+      "phrase": "technical knowledge",
+      "tran_cn": "技术知识"
+    },
+    {
+      "phrase": "theory of knowledge",
+      "tran_cn": "认识论；熟悉论"
+    },
+    {
+      "phrase": "to (the best of) my knowledge",
+      "tran_cn": "我确切知道"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "知识，知晓",
+      "tran_en": "the information, skills, and understanding that you have gained through learning or experience"
+    }
+  ],
+  "exchange": {}
+}

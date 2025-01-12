@@ -1,0 +1,135 @@
+{
+  "word": "lacerate",
+  "ipa": {
+    "us": "ˈlæsəreɪt",
+    "uk": "ˈlæsəˌret"
+  },
+  "sentences": [
+    {
+      "en": "And he kept drifting about to find Becky and lacerate her with the performance.",
+      "cn": "他走来窜去想让贝基看见,以此来激怒她,伤她的心."
+    },
+    {
+      "en": "His fingers were badly lacerated by the broken glass.",
+      "cn": "他的手指被碎玻璃严重割伤。"
+    },
+    {
+      "en": "Its claws lacerated his thighs.",
+      "cn": "它的爪子挠伤了他的大腿。"
+    },
+    {
+      "en": "Lacerate: This ability now deals additional damage based on the attack power of the Druid.",
+      "cn": "割裂: 割裂将受到攻击强度得到伤害加成."
+    },
+    {
+      "en": "The bleed effect of \" Lacerate \" now increases in potency with greater attack power.",
+      "cn": "割裂的流血效果受攻击强度的加成."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "lacerated",
+          "tran_cn": " 撕裂的；受伤的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "laceration",
+          "tran_cn": " 裂伤；撕裂；割破"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "lacerated",
+          "tran_cn": " 撕裂（lacerate的过去式和过去分词）；划破"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "harried"
+          ],
+          "tran_cn": "受折磨的；撕碎的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dismember",
+            "mangle",
+            "mutilate",
+            "wound"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "(the",
+            "feelings)",
+            "hurt",
+            "mangle",
+            "roughly",
+            "tear",
+            "wound"
+          ],
+          "tran_cn": "割破;伤害"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "受折磨的；撕碎的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "割裂",
+      "tran_en": "to cut skin deeply with something sharp"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "撕伤，刮伤，伤害（感情等）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "lacerates"
+    ],
+    "past": [
+      "lacerated"
+    ],
+    "done": [
+      "lacerated"
+    ],
+    "ing": [
+      "lacerating"
+    ],
+    "noun": [
+      "laceration"
+    ]
+  }
+}

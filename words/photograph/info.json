@@ -1,0 +1,210 @@
+{
+  "word": "photograph",
+  "ipa": {
+    "us": "ˈfəʊtəɡrɑːf",
+    "uk": "ˈfəʊtəɡræf"
+  },
+  "sentences": [
+    {
+      "en": "a black and white photograph",
+      "cn": "黑白照片"
+    },
+    {
+      "en": "a colour photograph",
+      "cn": "彩色照片"
+    },
+    {
+      "en": "An outsized photograph hung above her bedroom fireplace.",
+      "cn": "一幅巨大的照片挂在她卧室的壁炉上方。"
+    },
+    {
+      "en": "ate agreed to let me photograph her.",
+      "cn": "凯特同意让我为她拍照。"
+    },
+    {
+      "en": "Betty took a photograph of us.",
+      "cn": "贝蒂给我们照了张相。"
+    },
+    {
+      "en": "Did you see Leo’s photograph (= a photograph of Leo ) in the newspaper?",
+      "cn": "你看到报纸上利奥的照片了吗？"
+    },
+    {
+      "en": "He stood by the tree to be photographed.",
+      "cn": "他站在树旁准备让人拍照。"
+    },
+    {
+      "en": "He tore down the girl's photograph, and crumpled it into a ball.",
+      "cn": "他一把扯下那女孩的照片，将它揉成一团。"
+    },
+    {
+      "en": "Hughes stared up at him in close-up from the photograph.",
+      "cn": "休斯抬起头来凝视他的特写照片。"
+    },
+    {
+      "en": "It wasn't a very flattering photograph.",
+      "cn": "这张相片显得人不是十分漂亮。"
+    },
+    {
+      "en": "Kate agreed to let me photograph her.",
+      "cn": "凯特同意让我为她拍照。"
+    },
+    {
+      "en": "Leaphorn put the photograph on the desk.",
+      "cn": "利普霍恩把照片放在书桌上。"
+    },
+    {
+      "en": "On the wall is a large framed photograph.",
+      "cn": "墙上挂着一张大幅的镶框照片。"
+    },
+    {
+      "en": "Our photograph shows how the plants will turn out.",
+      "cn": "我们的照片展示了植物的生长状况。"
+    },
+    {
+      "en": "She dug out a photograph from under a pile of papers.",
+      "cn": "她从一堆报纸下面抽出一张照片。"
+    },
+    {
+      "en": "The enclosed photograph is unfortunately not good enough to reproduce.",
+      "cn": "遗憾的是，附寄的照片不够清晰，无法复制。"
+    },
+    {
+      "en": "The girl squinted at the photograph.",
+      "cn": "女孩觑着眼看那张照片。"
+    },
+    {
+      "en": "The girl squinted at the photograph. She seemed to be nearsighted.",
+      "cn": "女孩眯起眼睛看照片。她好像近视。"
+    },
+    {
+      "en": "The Guardian's front page carries a photograph of the two foreign ministers.",
+      "cn": "《卫报》的头版刊登了两国外交部长的一张合影。"
+    },
+    {
+      "en": "The photograph is captioned \"People Power\"",
+      "cn": "配图文字为“人民的力量”。"
+    },
+    {
+      "en": "The photograph showed him wearing football togs.",
+      "cn": "照片上他穿着足球衣。"
+    },
+    {
+      "en": "Tim was looking through an old photograph album (= book in which you put photographs ) .",
+      "cn": "蒂姆在翻看一本旧相册。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "photographer",
+          "tran_cn": " 摄影师；照相师"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "picture",
+            "pix"
+          ],
+          "tran_cn": "照片，[摄]相片"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "film",
+            "portrait",
+            "snap",
+            "x-ray"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "take a photo",
+            "to take a picture"
+          ],
+          "tran_cn": "拍照；在照片上显得"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "a",
+            "film",
+            "picture",
+            "snap",
+            "take"
+          ],
+          "tran_cn": "拍摄"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "aerial photograph",
+      "tran_cn": "航空照片；航摄像片"
+    },
+    {
+      "phrase": "photograph album",
+      "tran_cn": "相册，影集"
+    },
+    {
+      "phrase": "take a photograph",
+      "tran_cn": "v. 拍…的照片"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "照片，相片",
+      "tran_en": "a picture obtained by using a camera and film that is sensitive to light"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 拍照",
+      "tran_en": "to take a photograph of someone or something"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "为…拍照，拍照，摄影，成为拍照对象，在照片上显得"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "photographs"
+    ],
+    "third": [
+      "photographs"
+    ],
+    "past": [
+      "photographed"
+    ],
+    "done": [
+      "photographed"
+    ],
+    "ing": [
+      "photographing"
+    ]
+  }
+}

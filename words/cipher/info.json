@@ -1,0 +1,164 @@
+{
+  "word": "cipher",
+  "ipa": {
+    "us": "ˈsaɪfə(r)",
+    "uk": "ˈsaɪfər"
+  },
+  "sentences": [
+    {
+      "en": "a message in cipher",
+      "cn": "密码信"
+    },
+    {
+      "en": "an expert in ciphers",
+      "cn": "密码专家"
+    },
+    {
+      "en": "An improved algorithm of fast correlation attack on stream cipher is proposed.",
+      "cn": "提出一种针对序列密码的改进的快速相关攻击算法."
+    },
+    {
+      "en": "At last they managed to puzzle out the meaning of the cipher.",
+      "cn": "最后他们终于弄清楚这符号是什么意思."
+    },
+    {
+      "en": "He was little more than a cipher who faithfully carried out the Fuehrer's commands.",
+      "cn": "他只不过是个走狗，忠实执行元首的命令。"
+    },
+    {
+      "en": "He's a mere cipher in the company.",
+      "cn": "他在公司里是个无足轻重的小人物."
+    },
+    {
+      "en": "However, block cipher algorithms tend to execute more slowly than stream ciphers.",
+      "cn": "但是, 块密码算法执行起来通常比流密码慢."
+    },
+    {
+      "en": "I couldn't cipher out his motives.",
+      "cn": "我猜不出他的动机."
+    },
+    {
+      "en": "I will not write down his real name even in this bothersome Yiddish - letter cipher.",
+      "cn": "即使是用难以辨认的意弟绪语字母的密码,我也不愿意在这里写下他的真实姓名."
+    },
+    {
+      "en": "It's a telegram in cipher.",
+      "cn": "这是密码电报."
+    },
+    {
+      "en": "messages written in cipher",
+      "cn": "用密码写的信息"
+    },
+    {
+      "en": "Rijndael encryption algorithm is the grouping variable length block cipher.",
+      "cn": "Rijndael加密算法 是分组长度可变的分组密码."
+    },
+    {
+      "en": "The British were constantly increasing their cipher security.",
+      "cn": "英国人不断地加强密码的保密措施."
+    },
+    {
+      "en": "The cipher took me three weeks before I hit it.",
+      "cn": "我费了3个多星期才把这密码解释出来。"
+    },
+    {
+      "en": "The Foreign Office have been pushing us for months to get something on the cipher.",
+      "cn": "好几个月来,外交部一直在催我们要从密码中了解到一些情况."
+    },
+    {
+      "en": "The nature of the cipher is a fascinating theoretical question.",
+      "cn": "表音密码的性质是个令人着迷的理论性问题."
+    },
+    {
+      "en": "To write ( a message, for example ) in code or cipher.",
+      "cn": "译成密码用电码或密码书写 ( 如, 信息 )"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "password",
+            "signal",
+            "nothing"
+          ],
+          "tran_cn": "[计][通信]密码；暗号；[数]零"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "nobody",
+            "nothing",
+            "shorthand"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "figure",
+            "cast"
+          ],
+          "tran_cn": "使用密码；计算；做算术"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cast",
+            "figure"
+          ],
+          "tran_cn": "计算；做算术；将…译成密码"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "block cipher",
+      "tran_cn": "分组密码"
+    },
+    {
+      "phrase": "cipher code",
+      "tran_cn": "密码"
+    },
+    {
+      "phrase": "cipher out",
+      "tran_cn": "v. 算出；（美）想出"
+    },
+    {
+      "phrase": "stream cipher",
+      "tran_cn": "流密码；密文流"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "密码，零，不重要的人，无价值的东西",
+      "tran_en": "a system of secret writing"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使用密码；计算；做算术"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "ciphers"
+    ]
+  }
+}

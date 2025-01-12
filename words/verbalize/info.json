@@ -1,0 +1,129 @@
+{
+  "word": "verbalize",
+  "ipa": {
+    "us": "ˈvɜ:bəlaɪz",
+    "uk": "ˈvɜrbəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "I find it difficult to verbalize.",
+      "cn": "我感到很难用言语表达."
+    },
+    {
+      "en": "The moment he understands his patient, he can understand his own feelings, the emotional disturbance disappears and he can verbalize the patient's crucial process meaningfully for the patient.",
+      "cn": "当他明白病人的那一刻，他能够理解自己的感受， 情绪困扰消失了，同时他可以用语言描述病人至关重要的过程对病人意味着什么。"
+    },
+    {
+      "en": "This depressed patient does not verbalize.",
+      "cn": "这位情绪低落的病人不爱说话."
+    },
+    {
+      "en": "Urge your child to verbalize his feelings.",
+      "cn": "鼓励你的孩子用言语表达自己的情感。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "verb",
+          "tran_cn": " 动词的；有动词性质的；起动词作用的"
+        },
+        {
+          "word": "verbal",
+          "tran_cn": " 口头的；言语的；动词的；照字面的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "verbally",
+          "tran_cn": " 口头地，非书面地；用言辞地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "verb",
+          "tran_cn": " 动词；动词词性；动词性短语或从句"
+        },
+        {
+          "word": "verbal",
+          "tran_cn": " 动词的非谓语形式"
+        },
+        {
+          "word": "verbalism",
+          "tran_cn": " 咬文嚼字；冗词；言语表达；套话"
+        },
+        {
+          "word": "verbalization",
+          "tran_cn": " 以言语表现；冗长；变成动词"
+        },
+        {
+          "word": "verbosity",
+          "tran_cn": " 冗长；赘言；唠叨"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "verbify",
+          "tran_cn": " 使动词化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "voice"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "rabbit on"
+          ],
+          "tran_cn": "累赘；唠叨；以言语表述"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "描述，把…变成动词，用言语表现，说话啰唆",
+      "tran_en": "to express something in words"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "verbalizes"
+    ],
+    "past": [
+      "verbalized"
+    ],
+    "done": [
+      "verbalized"
+    ],
+    "ing": [
+      "verbalizing"
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "word": "vacancy",
+  "ipa": {
+    "us": "ˈveɪkənsi",
+    "uk": "ˈveɪkənsi"
+  },
+  "sentences": [
+    {
+      "en": "A vacancy has occurred in my office.",
+      "cn": "我的办事处有个空额."
+    },
+    {
+      "en": "All the same, I'll let you know if there is a vacancy coming up.",
+      "cn": "不过要是有了空缺, 我就通知你."
+    },
+    {
+      "en": "Clara saw the vacancy of her expression gradually filling with woefulness.",
+      "cn": "克莱拉看到她空洞的表情中渐渐充满了悲痛."
+    },
+    {
+      "en": "I know her vacancy money.",
+      "cn": "我知道也许我们不得不在边界等着."
+    },
+    {
+      "en": "I rang the Colonel and asked him to put my name forward for the vacancy in Zurich.",
+      "cn": "我给上校打电话请他推荐我去填补苏黎世的那个职位空缺。"
+    },
+    {
+      "en": "information about job vacancies ",
+      "cn": "招聘信息"
+    },
+    {
+      "en": "Is the job / vacancy / position still open ( ie available, unfilled )?",
+      "cn": "那工作[空缺/位置]还接受申请 吗 ?"
+    },
+    {
+      "en": "Is the teaching vacancy still open?",
+      "cn": "教员职位还有空缺 吗 ?"
+    },
+    {
+      "en": "Lucy is the best person to fill this secretary vacancy.",
+      "cn": "露西是秘书这个空缺的最佳人选."
+    },
+    {
+      "en": "Mr. A has been named for the vacancy.",
+      "cn": "A先生被指定为继任者."
+    },
+    {
+      "en": "The council is making every effort to fill the vacancies.",
+      "cn": "地方议会正想方设法填补这些职缺。"
+    },
+    {
+      "en": "The vacancy has been filled.",
+      "cn": "空缺已有人补上."
+    },
+    {
+      "en": "The vacancy of her expression made me doubt if she was listening.",
+      "cn": "她茫然的神情让我怀疑她是否在听."
+    },
+    {
+      "en": "The vacancy of his expression made me doubt if he was listening.",
+      "cn": "他那失神的样子使我怀疑他是否在听."
+    },
+    {
+      "en": "There are still two vacancies on the school board.",
+      "cn": "学校董事会还有两个职位空缺。"
+    },
+    {
+      "en": "They have a vacancy for a secretary.",
+      "cn": "他们有个秘书的空缺."
+    },
+    {
+      "en": "This will help to fill a vacancy in our knowledge.",
+      "cn": "这有助于弥补我们知识上的空白."
+    },
+    {
+      "en": "We noticed a look of vacancy on his face.",
+      "cn": "我们觉查到他脸上有一种茫然若失的神情."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vacant",
+          "tran_cn": " 空虚的；空的；空缺的；空闲的；茫然的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "aperture",
+            "breach",
+            "cavity",
+            "chink",
+            "cleft",
+            "crack",
+            "cranny",
+            "crevice",
+            "emptiness",
+            "fissure",
+            "foramen",
+            "gap",
+            "hole",
+            "hollow",
+            "interstice",
+            "mouth",
+            "nothing",
+            "nothingness",
+            "opening",
+            "orifice",
+            "pore",
+            "space",
+            "vacuity",
+            "vacuousness",
+            "void"
+          ],
+          "tran_cn": "空白,空虚,空隙,空间,裂缝,裂口,孔洞"
+        },
+        {
+          "words": [
+            "chance",
+            "job",
+            "office",
+            "opportunity",
+            "position",
+            "rental",
+            "room",
+            "slot"
+          ],
+          "tran_cn": "空缺,空职,职位"
+        },
+        {
+          "words": [
+            "blankness",
+            "fatuity",
+            "inanity",
+            "vacuity"
+          ],
+          "tran_cn": "茫然,发呆"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "absence"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fill a vacancy",
+      "tran_cn": "补缺；填补空白"
+    },
+    {
+      "phrase": "job vacancy",
+      "tran_cn": "职业空缺，岗位空缺"
+    },
+    {
+      "phrase": "no vacancy",
+      "tran_cn": "没有空房；客满"
+    },
+    {
+      "phrase": "vacancy rate",
+      "tran_cn": "空置率，闲置率；职位空缺比率"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "空缺，空虚，空白，空位",
+      "tran_en": "a job that is available for someone to start doing"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "vacancies"
+    ]
+  }
+}

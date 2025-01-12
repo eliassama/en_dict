@@ -1,0 +1,65 @@
+{
+  "word": "inapt",
+  "ipa": {
+    "us": "ɪn'æpt",
+    "uk": "ɪnˈæpt"
+  },
+  "sentences": [
+    {
+      "en": "a very inapt comment",
+      "cn": "很不恰当的评论"
+    },
+    {
+      "en": "He always makes  inapt remarks.",
+      "cn": "他总是说些不适宜的话。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inaptitude",
+          "tran_cn": " 不适当；拙劣"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "inadequate",
+            "unhappy",
+            "wrong",
+            "improper"
+          ],
+          "tran_cn": "不适当的；不熟练的，笨拙的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "extraneous",
+            "unbecoming"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不恰当的，不熟练的",
+      "tran_en": "an inapt phrase, statement etc is not right for a particular situation"
+    }
+  ],
+  "exchange": {}
+}

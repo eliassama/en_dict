@@ -1,0 +1,162 @@
+{
+  "word": "signer",
+  "ipa": {
+    "us": "saɪnə(r)",
+    "uk": "ˈsaɪnɚ"
+  },
+  "sentences": [
+    {
+      "en": "...one of the signers of the treaty.",
+      "cn": "...这项条约的其中一位签署人。"
+    },
+    {
+      "en": "A digital signature is a data digest encrypted with the private key of the signer.",
+      "cn": "数字签名是用签名人的私钥加密的数据摘要."
+    },
+    {
+      "en": "He also has a track record of managing women , notably famous rock signer Annie Lennox.",
+      "cn": "他也有过为女歌星做经理人的记录, 如著名的摇滚歌星安妮·伦诺克斯."
+    },
+    {
+      "en": "The signature private keys of signer are completed by several key generation centers.",
+      "cn": "签名者的签名私钥由多个密钥生成中心共同决定."
+    },
+    {
+      "en": "Tired of shuttlecock the document for signature, the secretary decide to call in all the signer.",
+      "cn": "厌倦了为签字而将文件往返递送, 秘书决定将所有的签字人叫来."
+    },
+    {
+      "en": "Where the ID number of the joint signer is not provided, or is wrong unclear.",
+      "cn": "连署人未填具本人国民身分证统一编号或有错误、不明者."
+    },
+    {
+      "en": "You understand that any authorized signer on your current account can access your credit line.",
+      "cn": "你要知道你目前银行账户的任何授权的签署人都能够获取你的信贷限额。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "signal",
+          "tran_cn": " 显著的；作为信号的"
+        },
+        {
+          "word": "signatory",
+          "tran_cn": " 签署的；签约的"
+        },
+        {
+          "word": "signed",
+          "tran_cn": " 有符号的；已签字的；有正负之分的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sign",
+          "tran_cn": " 迹象；符号；记号；手势"
+        },
+        {
+          "word": "signage",
+          "tran_cn": " 引导标示"
+        },
+        {
+          "word": "signal",
+          "tran_cn": " 信号；暗号；导火线"
+        },
+        {
+          "word": "signalization",
+          "tran_cn": " 信号作用"
+        },
+        {
+          "word": "signatory",
+          "tran_cn": " 签约国；签名人"
+        },
+        {
+          "word": "signature",
+          "tran_cn": " 署名；签名；信号"
+        },
+        {
+          "word": "signing",
+          "tran_cn": " 签署；签字"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "signed",
+          "tran_cn": " 署名；写下；预示；示意（sign的过去分词）"
+        },
+        {
+          "word": "signing",
+          "tran_cn": " 签字；写下；示意（sign的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sign",
+          "tran_cn": " 签署；签名"
+        },
+        {
+          "word": "signal",
+          "tran_cn": " 发信号"
+        },
+        {
+          "word": "signalize",
+          "tran_cn": " 发信号"
+        },
+        {
+          "word": "signify",
+          "tran_cn": " 有重要性；要紧；冒充内行"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sign",
+          "tran_cn": " 签署；示意"
+        },
+        {
+          "word": "signal",
+          "tran_cn": " 标志；用信号通知"
+        },
+        {
+          "word": "signalise",
+          "tran_cn": " 使…显著；用信号通知；庆祝；突出地表明"
+        },
+        {
+          "word": "signalize",
+          "tran_cn": " 使显眼；使著名；向…发信号"
+        },
+        {
+          "word": "signify",
+          "tran_cn": " 表示；意味；预示"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "签名者",
+      "tran_en": "The signer of a document such as a contract is the person who has signed it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "signers"
+    ]
+  }
+}

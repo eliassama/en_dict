@@ -1,0 +1,54 @@
+{
+  "word": "desegregation",
+  "ipa": {
+    "us": "ˌdi:ˌseɡrɪ'ɡeɪʃn",
+    "uk": "ˌdiˌseɡrɪ'ɡeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Desegregation may be harder to enforce in rural areas.",
+      "cn": "要废除农村地区的种族隔离可能会更困难一些。"
+    },
+    {
+      "en": "Lincoln did much work on desegregation in USA.",
+      "cn": "林肯在消除种族歧视上做了很多工作."
+    },
+    {
+      "en": "Soon afterward, the president appointed a federal task force to enforce desegregation along Route 40.",
+      "cn": "不久以后，肯尼迪成立了一个联邦专责小组来解决40号公路上的种族隔离问题。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "desegregate",
+          "tran_cn": " 废止种族隔离"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "desegregate",
+          "tran_cn": " 使…废止种族隔离"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "废除种族隔离"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "desegregate"
+    ]
+  }
+}

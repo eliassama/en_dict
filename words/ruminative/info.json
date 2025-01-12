@@ -1,0 +1,107 @@
+{
+  "word": "ruminative",
+  "ipa": {
+    "us": "ˈru:mɪnətɪv",
+    "uk": "ˈrumɪneɪtɪv"
+  },
+  "sentences": [
+    {
+      "en": "a typically ruminative speech",
+      "cn": "典型的有深度的演说"
+    },
+    {
+      "en": "He was uncharacteristically depressed and ruminative.",
+      "cn": "他异常沮丧，反复琢磨。"
+    },
+    {
+      "en": "in a ruminative mood",
+      "cn": "陷于沉思"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ruminant",
+          "tran_cn": " 反刍的；沉思的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ruminant",
+          "tran_cn": " 反刍动物"
+        },
+        {
+          "word": "rumination",
+          "tran_cn": " 沉思；反刍"
+        },
+        {
+          "word": "ruminator",
+          "tran_cn": " 沉思默想的人；好思考的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "ruminate",
+          "tran_cn": " 沉思，反刍"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "ruminate",
+          "tran_cn": " 反刍；沉思；反复思考"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "reflecting",
+            "contemplative"
+          ],
+          "tran_cn": "默想的，沉思的；爱反复思考的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abstracted",
+            "contemplative",
+            "mental"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "沉思的，默想的，爱反复思考的",
+      "tran_en": "thinking deeply and carefully about something"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "ruminatively"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "word": "elate",
+  "ipa": {
+    "us": "ɪ'leɪt",
+    "uk": "ɪ'leɪt"
+  },
+  "sentences": [
+    {
+      "en": "Don't let your sober face elate you, however;",
+      "cn": "不过，别因为你那张清醒的面孔而得意。"
+    },
+    {
+      "en": "His eye, elate with happiness, was reading eagerly the tearful gaze of Haidee, when suddenly the door opened .",
+      "cn": "当他那洋溢着幸福的眼睛正在急切地探索海黛那一对润湿眼睛里的所表达的意思的时候，房门突然打开了。"
+    },
+    {
+      "en": "The tiding of victory elate the whole nation.",
+      "cn": "胜利的消息使得举国欢悦."
+    },
+    {
+      "en": "When elate on a subject, he could not avoid talking about it.",
+      "cn": "如果他有什么自以为得意的事情, 他总按捺不住;要把它说出来."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "elated",
+          "tran_cn": " 兴高采烈的；得意洋洋的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "elation",
+          "tran_cn": " 兴高采烈，得意洋洋"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "elated",
+          "tran_cn": " 使兴奋（elate的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "proud",
+            "beamish"
+          ],
+          "tran_cn": "得意的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "brighten"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "得意的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 使高兴， 使得意",
+      "tran_en": "to fill with high spirits, exhilaration, pride or optimism "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使高兴，使得意"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "elates"
+    ],
+    "past": [
+      "elated"
+    ],
+    "done": [
+      "elated"
+    ],
+    "ing": [
+      "elating"
+    ]
+  }
+}

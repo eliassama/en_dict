@@ -1,0 +1,211 @@
+{
+  "word": "brew",
+  "ipa": {
+    "us": "bruː",
+    "uk": "bruː"
+  },
+  "sentences": [
+    {
+      "en": "a very potent alcoholic brew",
+      "cn": "烈性酒精饮料"
+    },
+    {
+      "en": "Brew up, Curly. We could all do with a cup of tea.",
+      "cn": "沏茶，柯利，我们每人都要喝一杯。"
+    },
+    {
+      "en": "Every beer on the menu was brewed locally.",
+      "cn": "酒单上的所有啤酒都是本地酿造的。"
+    },
+    {
+      "en": "He sells the beer as soon as he can brew.",
+      "cn": "他的酒一酿好即卖出."
+    },
+    {
+      "en": "I brew my own beer.",
+      "cn": "我自己酿制啤酒。"
+    },
+    {
+      "en": "I'll get Venner to brew some tea.",
+      "cn": "我会让文纳沏些茶。"
+    },
+    {
+      "en": "Let the tea brew and cool a little before you drink it.",
+      "cn": "让茶泡一会,凉一下再喝."
+    },
+    {
+      "en": "Let's brew up some more tea.",
+      "cn": "咱们沏些茶吧."
+    },
+    {
+      "en": "Most cities generate a complex brew of pollutants.",
+      "cn": "多数城市都会产生各种物质混杂的污染物。"
+    },
+    {
+      "en": "She swallowed a mouthful of the hot strong brew, and wiped her eyes.",
+      "cn": "她喝了一口热浓茶，又擦了擦眼睛。"
+    },
+    {
+      "en": "The pharmacist carefully measured out a dose of herbal medicine and told me how to brew it.",
+      "cn": "药剂师仔细地配好一服草药,并告诉我煎药的方法."
+    },
+    {
+      "en": "The policeman dispelled the crowd lest they should brew trouble.",
+      "cn": "警察驱散人群,因恐他们酿祸."
+    },
+    {
+      "en": "The security software he uses is home brew.",
+      "cn": "他用的安全软件是自己编的。"
+    },
+    {
+      "en": "Unfortunately it made such a revolting brew that it was worse than drinking no tea at all.",
+      "cn": "不幸的是，所沏的茶实在难喝，还不如不喝呢。"
+    },
+    {
+      "en": "We always have a brew-up at 11 o'clock.",
+      "cn": "我们总是在11点沏茶。"
+    },
+    {
+      "en": "What's your favourite brew of beer?",
+      "cn": "你爱喝什么啤酒?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "brewage",
+          "tran_cn": " 酿造；酝酿；调制；酿制饮料"
+        },
+        {
+          "word": "brewer",
+          "tran_cn": " 啤酒制造者；阴谋家"
+        },
+        {
+          "word": "brewery",
+          "tran_cn": " 啤酒厂"
+        },
+        {
+          "word": "brewing",
+          "tran_cn": " 酿造；酝酿；计划"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "brewing",
+          "tran_cn": " 酿造；策划阴谋（brew的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "beer",
+            "texture"
+          ],
+          "tran_cn": "啤酒；质地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "beer",
+            "cook",
+            "plan",
+            "plot",
+            "prepare",
+            "scheme"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "impend"
+          ],
+          "tran_cn": "酿酒；被冲泡；即将发生"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "plan",
+            "plot",
+            "scheme"
+          ],
+          "tran_cn": "图谋,策划"
+        },
+        {
+          "words": [
+            "cook",
+            "prepare"
+          ],
+          "tran_cn": "煮"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "brew up",
+      "tran_cn": "(英)沏茶，泡茶"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "茶，咖啡，啤酒，混合物",
+      "tran_en": "a drink that is brewed, especially tea"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "沏（茶），冲（咖啡），酿（啤酒），酝酿",
+      "tran_en": "to make beer"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "冲泡；酝酿，行将发生",
+      "tran_en": "to make beer"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "酿造；冲泡",
+      "tran_en": "to make beer"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "brews"
+    ],
+    "third": [
+      "brews"
+    ],
+    "past": [
+      "brewed"
+    ],
+    "done": [
+      "brewed"
+    ],
+    "ing": [
+      "brewing"
+    ]
+  }
+}

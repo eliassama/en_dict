@@ -1,0 +1,206 @@
+{
+  "word": "cave",
+  "ipa": {
+    "us": "keɪv",
+    "uk": "keɪv"
+  },
+  "sentences": [
+    {
+      "en": "a dark dank cave",
+      "cn": "阴暗潮湿的洞穴"
+    },
+    {
+      "en": "A mouse ran out from the dark orifice of the cave.",
+      "cn": "一只老鼠从黑暗的洞口跑出."
+    },
+    {
+      "en": "A winding path leads to the cave.",
+      "cn": "一条曲折的小道通向山洞."
+    },
+    {
+      "en": "Both boats purred out of the cave mouth and into open water.",
+      "cn": "两艘船隆隆地从洞口开出，进入了开阔的水域。"
+    },
+    {
+      "en": "But in some respects cave dwellers were far cleverer than us.",
+      "cn": "但是在某些方面穴居人要比我们聪明得多。"
+    },
+    {
+      "en": "Len's club would have caved his skull in.",
+      "cn": "伦的棍子就已经把他脑袋打陷下去了。"
+    },
+    {
+      "en": "Most of the mouth of the cave was submerged in the lake.",
+      "cn": "洞口大半都淹没在湖里。"
+    },
+    {
+      "en": "The cave was echoing with shouts.",
+      "cn": "山洞内回荡着叫喊声."
+    },
+    {
+      "en": "the ceiling caved in.",
+      "cn": "天花板塌了。"
+    },
+    {
+      "en": "the dusky light inside the cave",
+      "cn": "洞中昏暗的光线"
+    },
+    {
+      "en": "the entrance to a cave",
+      "cn": "洞穴的入口"
+    },
+    {
+      "en": "The entrance to the cave was infilled by the landowner.",
+      "cn": "山洞的入口被地产的主人给堵上了。"
+    },
+    {
+      "en": "The force of the water washed him back into the cave.",
+      "cn": "大水把他冲回到洞里。"
+    },
+    {
+      "en": "The roof of the cave dropped in on the miners, trapping them.",
+      "cn": "洞穴的顶部坍了下来, 砸在矿工身上."
+    },
+    {
+      "en": "The thieves hid their plunder in the cave.",
+      "cn": "贼把赃物藏在山洞里."
+    },
+    {
+      "en": "There is only a pinpoint of light in the cave.",
+      "cn": "山洞中只能见到一丝光线."
+    },
+    {
+      "en": "There is water in the interior of the cave.",
+      "cn": "在山洞的内部有水."
+    },
+    {
+      "en": "They tried digging in a patch just below the cave.",
+      "cn": "他们试着在洞穴正下方的一块地上挖掘。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cavernous",
+          "tran_cn": " 似巨穴的；洞穴状的；凹状的；瓮声的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cavity",
+          "tran_cn": " 腔；洞，凹处"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cavern",
+            "den",
+            "lair",
+            "shelter"
+          ],
+          "tran_cn": "洞穴,洞窟"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cavern",
+            "couch",
+            "den",
+            "dwelling",
+            "grotto",
+            "habitat",
+            "lair",
+            "opening",
+            "retirement",
+            "shelter",
+            "tunnel"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "yield",
+            "pit"
+          ],
+          "tran_cn": "凹陷，塌落；投降"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cave dwelling",
+      "tran_cn": "窑洞"
+    },
+    {
+      "phrase": "cave in",
+      "tran_cn": "塌落；认输"
+    },
+    {
+      "phrase": "caver in",
+      "tran_cn": "(屋顶等)下陷，坍塌，倒塌；使下陷，使倒塌"
+    },
+    {
+      "phrase": "karst cave",
+      "tran_cn": "岩溶洞"
+    },
+    {
+      "phrase": "keep cave",
+      "tran_cn": "望风"
+    },
+    {
+      "phrase": "limestone cave",
+      "tran_cn": "灰岩洞，石灰岩洞"
+    },
+    {
+      "phrase": "reed flute cave",
+      "tran_cn": "芦笛岩"
+    },
+    {
+      "phrase": "rock cave",
+      "tran_cn": "岩洞"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "山洞，洞穴",
+      "tran_en": "a large natural hole in the side of a cliff or hill, or under the ground"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "山洞",
+      "tran_en": "a large natural hole in the side of a cliff or hill, or under the ground"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使凹陷，使塌落；在…挖洞穴",
+      "tran_en": "to hollow out "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "caves"
+    ]
+  }
+}

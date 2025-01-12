@@ -1,0 +1,64 @@
+{
+  "word": "denationalize",
+  "ipa": {
+    "us": "ˌdi:ˈnæʃnəlaɪz",
+    "uk": "ˌdi'næʃnəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "The government started to denationalize financial institutions.",
+      "cn": "政府开始将金融机构私有化。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "denationalization",
+          "tran_cn": " 剥夺国籍；剥夺公民权利；非国有化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "denationalise",
+          "tran_cn": " 剥夺……的国民权利；使……恢复为私营；开除……的国籍"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使（工业等）非国有化；使变成私营；开除…的国籍",
+      "tran_en": "to sell a business or industry that is owned by the state, so that it is then owned privately"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（工业等）非国有化",
+      "tran_en": "to sell a business or industry that is owned by the state, so that it is then owned privately"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "denationalizes"
+    ],
+    "past": [
+      "denationalized"
+    ],
+    "done": [
+      "denationalized"
+    ],
+    "ing": [
+      "denationalizing"
+    ],
+    "noun": [
+      "denationalization"
+    ]
+  }
+}

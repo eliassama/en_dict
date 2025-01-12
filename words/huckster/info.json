@@ -1,0 +1,80 @@
+{
+  "word": "huckster",
+  "ipa": {
+    "us": "ˈhʌkstə(r)",
+    "uk": "ˈhʌkstɚ"
+  },
+  "sentences": [
+    {
+      "en": "A huckster offered to sell Carnegie the formula for guaranteed success for $20,000.",
+      "cn": "一名骗子推销员提出以两万美元的价格卖给卡内基一张保证成功的秘方。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hucksterize",
+          "tran_cn": " 强制推销"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cheap-jack",
+            "crier"
+          ],
+          "tran_cn": "叫卖的小贩；小商人；吃广告饭的人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "advertiser",
+            "merchant",
+            "seller",
+            "vendor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "price bargain",
+            "bargain with"
+          ],
+          "tran_cn": "叫卖；讨价还价"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "大声叫卖的小贩，大吹大擂的推销商"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "叫卖；讨价还价"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hucksters"
+    ]
+  }
+}

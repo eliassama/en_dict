@@ -1,0 +1,148 @@
+{
+  "word": "blab",
+  "ipa": {
+    "us": "blæb",
+    "uk": "blæb"
+  },
+  "sentences": [
+    {
+      "en": "He blab bed my confidences to every one.",
+      "cn": "他把我告诉他的知心话告诉了每个人."
+    },
+    {
+      "en": "He that is a blab is a scab.",
+      "cn": "多嘴的人是无赖."
+    },
+    {
+      "en": "Her mistake was to blab about their affair.",
+      "cn": "她错在说出了他们的婚外情。"
+    },
+    {
+      "en": "I never pay any attention to blab like that.",
+      "cn": "我从不在意那种无稽之谈."
+    },
+    {
+      "en": "I'll be coming . \" To hell with it! The rudeness of that big blab - mouth!",
+      "cn": "该死的话, 是那么不 客气 的从那吃 红薯 的大口里说出!"
+    },
+    {
+      "en": "She will be sure to blab and it will be all over the town in no time.",
+      "cn": "她肯定会乱说,而全城的人立刻就会知道这件事情."
+    },
+    {
+      "en": "She'll blab it all over the school.",
+      "cn": "她会满学校乱说。"
+    },
+    {
+      "en": "These stories are false, just so much blab.",
+      "cn": "那些故事都是假的, 全是一派胡言."
+    },
+    {
+      "en": "Those stories are false, just so much blab.",
+      "cn": "那些故事是假的, 全是胡扯."
+    },
+    {
+      "en": "Will you promise not to blab to Mom and Dad?",
+      "cn": "你能保证不会向爸妈泄密吗？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "blabber",
+          "tran_cn": " 多嘴的人；泄密者；胡言乱语"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "blabber",
+          "tran_cn": " 胡扯；喋喋不休"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "prater"
+          ],
+          "tran_cn": "泄密者；多嘴的人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "inform",
+            "prattle",
+            "traitor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "maunder"
+          ],
+          "tran_cn": "胡扯"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "leak out",
+            "uncork"
+          ],
+          "tran_cn": "泄漏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "泄漏(秘密), 胡扯",
+      "tran_en": "If someone blabs about something secret, they tell people about it"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "瞎说乱讲，泄露秘密"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "泄漏（秘密）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "blabs"
+    ],
+    "past": [
+      "blabbed"
+    ],
+    "done": [
+      "blabbed"
+    ],
+    "ing": [
+      "blabbing"
+    ]
+  }
+}

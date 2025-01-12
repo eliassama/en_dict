@@ -1,0 +1,190 @@
+{
+  "word": "medication",
+  "ipa": {
+    "us": "ˌmedɪˈkeɪʃn",
+    "uk": "ˌmedɪˈkeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "As a precautionary measure repeat the medication.",
+      "cn": "作为预防性措施，请重复用药。"
+    },
+    {
+      "en": "Check that any medication you're taking carries no risk for your developing baby.",
+      "cn": "仔细检查，确保你所服用的任何药物不会对胎儿造成危险。"
+    },
+    {
+      "en": "He antidoted the poison with quick medication.",
+      "cn": "他迅速地用药物解毒."
+    },
+    {
+      "en": "He was epileptic and refused to take medication for his condition.",
+      "cn": "他患有癫痫，但是拒绝服药治疗。"
+    },
+    {
+      "en": "He was still taking some medication which slowed him down.",
+      "cn": "他仍然在服用能够让他放松下来的药物。"
+    },
+    {
+      "en": "It is better to sleep naturally, without taking medication.",
+      "cn": "最好是不服用药物自然入睡."
+    },
+    {
+      "en": "It is probable that the medication will suppress the symptom without treating the condition.",
+      "cn": "这种药物有可能治标不治本。"
+    },
+    {
+      "en": "It really is best to manage without any medication if you possibly can.",
+      "cn": "如果你不服用任何药物就能挺过去的话，最好不过了。"
+    },
+    {
+      "en": "Many of the elderly are on medication.",
+      "cn": "许多老年人都需按时服药。"
+    },
+    {
+      "en": "Medication is used sparingly.",
+      "cn": "用药很节省。"
+    },
+    {
+      "en": "The doctor prescribed some medication.",
+      "cn": "医生给开了些药."
+    },
+    {
+      "en": "The medication should ease the suffering.",
+      "cn": "这种疗法能减轻痛苦."
+    },
+    {
+      "en": "The quick recovery was truly in response to medication.",
+      "cn": "这次迅速康复确实是对药物治疗的反应."
+    },
+    {
+      "en": "What is the best medication for this condition?",
+      "cn": "这种病用什么药最好?"
+    },
+    {
+      "en": "When somebody comes for treatment I always ask them if they are on any medication.",
+      "cn": "有人来治疗时，我总是会问他们是否在服药。"
+    },
+    {
+      "en": "With medication, life at home goes on as usual.",
+      "cn": "接受药物治疗后，家里的生活还能一切如常。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "medical",
+          "tran_cn": " 医学的；药的；内科的"
+        },
+        {
+          "word": "medicative",
+          "tran_cn": " 有药效的；可治病的；有治疗作用的"
+        },
+        {
+          "word": "medicinal",
+          "tran_cn": " 药的；药用的；治疗的（等于medicinable）；有益的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "medically",
+          "tran_cn": " 医学上地；医药上地"
+        },
+        {
+          "word": "medicinally",
+          "tran_cn": " 用药物，当做药"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "medic",
+          "tran_cn": " 医师；医科学生；苜蓿属植物（等于medick）"
+        },
+        {
+          "word": "medical",
+          "tran_cn": " 医生；体格检查"
+        },
+        {
+          "word": "medicament",
+          "tran_cn": " 药剂；医药"
+        },
+        {
+          "word": "medicine",
+          "tran_cn": " 药；医学；内科；巫术"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "medicament",
+          "tran_cn": " 用药物治疗"
+        },
+        {
+          "word": "medicate",
+          "tran_cn": " 用药治疗；加药品于"
+        },
+        {
+          "word": "medicine",
+          "tran_cn": " 用药物治疗；给…用药"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "drugs",
+            "pharmaceutical"
+          ],
+          "tran_cn": "药物；药物治疗；药物处理"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "application",
+            "medicine",
+            "pill",
+            "preparation",
+            "treatment"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "oral medication",
+      "tran_cn": "内服；口服法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "药物，药剂，药物治疗，药物处理，加入药物",
+      "tran_en": "medicine or drugs given to people who are ill"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "medications"
+    ]
+  }
+}

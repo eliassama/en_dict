@@ -1,0 +1,205 @@
+{
+  "word": "pension",
+  "ipa": {
+    "us": "ˈpenʃn",
+    "uk": "ˈpenʃn"
+  },
+  "sentences": [
+    {
+      "en": "At what age can you start drawing your pension ?",
+      "cn": "从多少岁可以开始领取养老金？"
+    },
+    {
+      "en": "He commuted his pension into a lump sum.",
+      "cn": "他把退休金一次领清,拿了一大笔钱."
+    },
+    {
+      "en": "He is moving ever closer to drawing his pension.",
+      "cn": "他就要领取养老金了。"
+    },
+    {
+      "en": "He lived on an invalidity pension which came as a weekly giro.",
+      "cn": "他靠每周领取的作为病残养老金的直接转账救济支票过日子。"
+    },
+    {
+      "en": "He was offered a generous pension provided he left without a fuss.",
+      "cn": "他如果一声不吭地离开，就会获得一笔丰厚的养老金。"
+    },
+    {
+      "en": "I am in receipt of a pension.",
+      "cn": "我定期领取养老金。"
+    },
+    {
+      "en": "I live on an invalidity pension.",
+      "cn": "我靠伤残养老金过活。"
+    },
+    {
+      "en": "I'm afraid I have quite a disinclination to retire on a pension.",
+      "cn": "恐怕我很不愿意领养老金退休."
+    },
+    {
+      "en": "If you are self-employed, you should think about taking out a private pension .",
+      "cn": "如果你是自由职业者，应该考虑办理私人养老金事宜。"
+    },
+    {
+      "en": "If you should be fired, your health and pension benefits will not be automatically cut off.",
+      "cn": "如果你被解雇，你的医疗和养老保险金不会自动中断。"
+    },
+    {
+      "en": "Many people find it hard to live on a basic state pension .",
+      "cn": "许多人发现仅凭国家基本养老金不能养活自己。"
+    },
+    {
+      "en": "She had just collected her pension from the post office.",
+      "cn": "她刚去邮局取了养老金。"
+    },
+    {
+      "en": "She pays a quarter of her salary into a pension plan.",
+      "cn": "她将每月工资的四分之一用于养老金计划。"
+    },
+    {
+      "en": "She went to the company to draw her pension.",
+      "cn": "她去公司领退休金."
+    },
+    {
+      "en": "Since then he has been drawing a pension.",
+      "cn": "从那时起他一直领退休金."
+    },
+    {
+      "en": "The basic retirement pension will go up by £7.95 a week.",
+      "cn": "基本退休金每周将增加7.95英镑。"
+    },
+    {
+      "en": "The directors will each get a large golden handshake and a pension.",
+      "cn": "所有的经理都会得到丰厚的退职金和养老费."
+    },
+    {
+      "en": "The pension includes an allowance of fifty pounds for traffic expenditures.",
+      "cn": "年金中包括50镑交通费补贴."
+    },
+    {
+      "en": "The pension is not sufficient for living expenses.",
+      "cn": "这年金不够应付生活费用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pensionable",
+          "tran_cn": " 有资格领退休金的；可领退休金的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pensionary",
+          "tran_cn": " 领受退休金（养老金）者；受雇佣者"
+        },
+        {
+          "word": "pensione",
+          "tran_cn": " （意）家庭式旅馆；膳宿公寓；寄宿学校"
+        },
+        {
+          "word": "pensioner",
+          "tran_cn": " 领养老金者；领取抚恤金者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "retirement pay",
+            "subsidy"
+          ],
+          "tran_cn": "退休金，[劳经]抚恤金；津贴；膳宿费"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aid",
+            "allowance",
+            "assistance",
+            "grant",
+            "help",
+            "stipend",
+            "subsidy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "old age pension",
+      "tran_cn": "养老金；退休金"
+    },
+    {
+      "phrase": "old-age pension",
+      "tran_cn": "养老金；退休金"
+    },
+    {
+      "phrase": "pension fund",
+      "tran_cn": "养老基金；退休基金"
+    },
+    {
+      "phrase": "pension insurance",
+      "tran_cn": "养老保险"
+    },
+    {
+      "phrase": "pension plan",
+      "tran_cn": "公积金计划；退休金办法；养老计划"
+    },
+    {
+      "phrase": "pension scheme",
+      "tran_cn": "退休金计划"
+    },
+    {
+      "phrase": "retirement pension",
+      "tran_cn": "退休金，养老金"
+    },
+    {
+      "phrase": "supplementary pension",
+      "tran_cn": "企业年金；辅助退休金"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "养老金",
+      "tran_en": "an amount of money paid regularly by the government or company to someone who does not work any more, for example because they have reached the age when people stop working or because they are ill"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": "养老金，退休金；给予养老金",
+      "tran_en": "an amount of money paid regularly by the government or company to someone who does not work any more, for example because they have reached the age when people stop working or because they are ill"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "发给养老金或抚恤金",
+      "tran_en": "to grant a pension to "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 发给…养老金",
+      "tran_en": "to grant a pension to "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "pensions"
+    ]
+  }
+}

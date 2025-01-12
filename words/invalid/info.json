@@ -1,0 +1,198 @@
+{
+  "word": "invalid",
+  "ipa": {
+    "us": "ɪnˈvælɪd , ˈɪnvəlɪd",
+    "uk": "ɪnˈvælɪd , ˈɪnvəlɪd"
+  },
+  "sentences": [
+    {
+      "en": "A passport that is out of date is invalid.",
+      "cn": "护照过期是无效的."
+    },
+    {
+      "en": "At best Nella would be an invalid; at worst she would die.",
+      "cn": "内拉往好里说会落下残疾，往坏处说可能会生命不保。"
+    },
+    {
+      "en": "Dr. Smith looked in on the invalid the day before yesterday.",
+      "cn": "史密斯大夫前天去看望那个病人."
+    },
+    {
+      "en": "He had to look after his invalid brother.",
+      "cn": "他不得不照看他有病的弟弟."
+    },
+    {
+      "en": "I hate being treated as an invalid.",
+      "cn": "我讨厌被人当作伤病号对待。"
+    },
+    {
+      "en": "I resented being treated as an invalid.",
+      "cn": "我讨厌别人把我当病人看待。"
+    },
+    {
+      "en": "It's an invalid check.",
+      "cn": "这是一张作废的支票。"
+    },
+    {
+      "en": "It's an invalid cheque.",
+      "cn": "这是一张作废的支票."
+    },
+    {
+      "en": "Margaret resides with her invalid mother in a London suburb.",
+      "cn": "玛格丽特同她病弱的母亲住在伦敦郊区。"
+    },
+    {
+      "en": "The disease changed him from an athlete to an invalid.",
+      "cn": "疾病将他从一名运动员变为病号."
+    },
+    {
+      "en": "The invalid found solace in music.",
+      "cn": "那病人从音乐中得到安慰."
+    },
+    {
+      "en": "The invalid received vicarious pleasure from reading travel stories.",
+      "cn": "这个病人从阅读游记中得到共鸣之乐."
+    },
+    {
+      "en": "The trial was stopped and the results declared invalid.",
+      "cn": "审判被中止，判决结果被宣布无效。"
+    },
+    {
+      "en": "We cannot accept liability if you are refused entry because of invalid documents.",
+      "cn": "如果你因证件无效被拒入内，我们不承担责任。"
+    },
+    {
+      "en": "We think that those arguments are rendered invalid by the hard facts on the ground.",
+      "cn": "我们认为那些论点当场即被确凿的事实驳倒了。"
+    },
+    {
+      "en": "Without the right date stamped on it, your ticket will be invalid.",
+      "cn": "票上若没有加盖正确日期就是废票。"
+    },
+    {
+      "en": "Your action has rendered our contract invalid.",
+      "cn": "你们的这种做法导致双方的合同失效."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "invalidation",
+          "tran_cn": " 失效；无效"
+        },
+        {
+          "word": "invalidism",
+          "tran_cn": " 病身；病弱"
+        },
+        {
+          "word": "invalidity",
+          "tran_cn": " 无效，无价值"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "invalidate",
+          "tran_cn": " 使无效；使无价值"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "useless",
+            "disabled",
+            "ineffective"
+          ],
+          "tran_cn": "无效的；有病的；残废的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sick",
+            "patient"
+          ],
+          "tran_cn": "病人；[医]残废者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "debilitated",
+            "frail",
+            "ineffective",
+            "infirm",
+            "sickly",
+            "unhealthy",
+            "validate",
+            "void",
+            "weak"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "invalid data",
+      "tran_cn": "无效数据；不正当数据"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "无效的，不能成立的，有病的，病人用的",
+      "tran_en": "a contract, ticket, claim etc that is invalid is not legally or officially acceptable"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "病人，病号，残废者，伤病军人",
+      "tran_en": "someone who cannot look after themselves because of illness, old age, or injury"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使伤残；使退役"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "变得病弱，因病而奉命退役"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使伤残，使退役，失去健康"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "invalids"
+    ],
+    "third": [
+      "invalids"
+    ],
+    "past": [
+      "invalided"
+    ],
+    "done": [
+      "invalided"
+    ],
+    "ing": [
+      "invaliding"
+    ]
+  }
+}

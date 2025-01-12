@@ -1,0 +1,187 @@
+{
+  "word": "freshen",
+  "ipa": {
+    "us": "ˈfreʃn",
+    "uk": "ˈfrɛʃən"
+  },
+  "sentences": [
+    {
+      "en": "A coat of paint will freshen this room up.",
+      "cn": "刷一层油漆会使房间焕然一新."
+    },
+    {
+      "en": "A thorough brushing helps to freshen up your mouth.",
+      "cn": "彻底刷牙有助于口气清新。"
+    },
+    {
+      "en": "Can I freshen your drink?",
+      "cn": "我再给你添些酒好 吗 ?"
+    },
+    {
+      "en": "Do you mind if I freshen up before I go?",
+      "cn": "你介意我走之前梳洗打扮一下 吗 ?"
+    },
+    {
+      "en": "Go and freshen yourself up before the guests arrive.",
+      "cn": "趁容人没到,你去梳洗一下."
+    },
+    {
+      "en": "he went off to freshen up in the local baths.",
+      "cn": "他去当地的澡堂洗澡，以振作精神。"
+    },
+    {
+      "en": "I took a shower to freshen up.",
+      "cn": "我淋浴以振作一下精神."
+    },
+    {
+      "en": "I will freshen your drink with more soda and ice cubes.",
+      "cn": "我给你的饮料重加一些苏打水和冰块."
+    },
+    {
+      "en": "I'll just freshen ( myself ) up before dinner.",
+      "cn": "晚饭前我要去 梳洗 打扮一番."
+    },
+    {
+      "en": "I'm going to freshen up.",
+      "cn": "我去洗一洗."
+    },
+    {
+      "en": "My room needed a lick of paint to freshen it up.",
+      "cn": "我的房间只要刷一点油漆就能焕然一新。"
+    },
+    {
+      "en": "The rain had freshened the air.",
+      "cn": "下雨使空气变得清新了。"
+    },
+    {
+      "en": "They returned to their hotel to freshen up.",
+      "cn": "他们回旅馆梳洗了一下."
+    },
+    {
+      "en": "They went back to the hotel to freshen themselves up.",
+      "cn": "他们回到旅馆去梳洗打扮一番."
+    },
+    {
+      "en": "Using a mouthwash freshens the breath.",
+      "cn": "使用漱口液可以使口气清新。"
+    },
+    {
+      "en": "We freshen up before going to the party.",
+      "cn": "参加聚会之前清醒一下."
+    },
+    {
+      "en": "We'll stay here until you freshen up your memories!",
+      "cn": "我们会呆在这儿知道你们记起来为止!"
+    },
+    {
+      "en": "Your highball is almost gone. May I freshen your drink?",
+      "cn": "你的威士忌快喝光了, 我再给你一杯好 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fresh",
+          "tran_cn": "新鲜的；清新的；淡水的；无经验的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "fresh",
+          "tran_cn": "刚刚，才；最新地"
+        },
+        {
+          "word": "freshly",
+          "tran_cn": "新近；精神饱满地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fresh",
+          "tran_cn": "开始；新生；泛滥"
+        },
+        {
+          "word": "freshener",
+          "tran_cn": "清凉剂；化妆水；新手"
+        },
+        {
+          "word": "fresher",
+          "tran_cn": "新鲜人；大学一年级新生"
+        },
+        {
+          "word": "freshness",
+          "tran_cn": "新；新鲜；精神饱满"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "air",
+            "brighten",
+            "refresh"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "irrigate"
+          ],
+          "tran_cn": "使清新；使新鲜；使精神焕发"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "freshen up",
+      "tran_cn": "（洗过澡或换过干净衣服后）使自己恢复精力；使自己精神饱满"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使显得新鲜",
+      "tran_en": "to make something look or feel clean, new, attractive, cool etc"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "使恢复精力，增强，淡化，（产后）开始泌乳"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使新鲜，使清爽，使有精神，把（自己）盥洗一番，（使）洁净，使掺酌于，加浓（饮料）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "freshens"
+    ],
+    "past": [
+      "freshened"
+    ],
+    "done": [
+      "freshened"
+    ],
+    "ing": [
+      "freshening"
+    ]
+  }
+}

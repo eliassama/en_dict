@@ -1,0 +1,114 @@
+{
+  "word": "altimeter",
+  "ipa": {
+    "us": "ˈæltɪmi:tə(r)",
+    "uk": "ælˈtɪmətər"
+  },
+  "sentences": [
+    {
+      "en": "A barometric altimeter indicates height above sea level or some other selected elevation.",
+      "cn": "气压高度表用以指示海平面或另外某个被选定高度以上的高度."
+    },
+    {
+      "en": "A method combining pseudorandom modulation of the fiber laser and single-photon counting is proposed to realize a high spatial resolution for the space-borne laser altimeter.",
+      "cn": "为使星载激光高度计实现高空间分辨率，提出了一种联合采用伪随机码调制光纤激光器和单光子计数的测距方法。"
+    },
+    {
+      "en": "A micro altimeter was developed for use in micro air vehicles ( MAVs ).",
+      "cn": "介绍一种适用于微型飞行器的新型微型 高度计 的设计技术."
+    },
+    {
+      "en": "Abstract : Deep - sea sonar altimeter is a depth sounder to equip deep - sea detection devices.",
+      "cn": "深海声纳式高度计是装备在深海探测设备上的回声测深装置."
+    },
+    {
+      "en": "An altimeter is used for measuring height above sea - level.",
+      "cn": "高度计是用来测量海拔高度的."
+    },
+    {
+      "en": "And that is where the altimeter stayed for most of the 14-hour journey.",
+      "cn": "在14个小时旅途中的大部分时间里高度计都停留在那个位置。"
+    },
+    {
+      "en": "Barometric Altimeter and Inertial Measurement Unit presentation.",
+      "cn": "气压高度表和惯性测量单元介绍."
+    },
+    {
+      "en": "Basic Barometric Altimeter simulink model a full source code, has been tested.",
+      "cn": "基本气压高度表仿真模型完整的源代码, 已经过测试."
+    },
+    {
+      "en": "Fixed cistern barometers are used as a standard for checking altimeter.",
+      "cn": "固定槽式气压计可以作为标准件去检验测高计."
+    },
+    {
+      "en": "It is known the pulse radar altimeter assembly in the terrain contour matching system ( TERCOM ).",
+      "cn": "脉冲雷达高度表内嵌的跟踪与 测高 算法在很大程度上决定了地形匹配系统的总体性能."
+    },
+    {
+      "en": "Messenger has begun testing this theory by deploying a laser altimeter to map the shape of craters at the poles - with some encouraging results.",
+      "cn": "信使号探测器已经开始用激光高度计来测量极地火山口德地形而且已经的除了一些让人振奋的结果。"
+    },
+    {
+      "en": "Summary : A design of a digital atmospheric pressure altimeter based on C 51 programming language is presented.",
+      "cn": "给出了一种基于C51的数字式气压高度表的设计方案."
+    },
+    {
+      "en": "The laser altimeter will bounce beams of light off of the surface to measure the heights of mountains and depths of valleys.",
+      "cn": "激光测高仪通过物体表面反射的光束测量山脉的高度和峡谷的深度。"
+    },
+    {
+      "en": "The new probe was built using improved electronics and batteries, and an extra radar altimeter, a device that will fire microwaves at the Arctic and Antarctic ice to reveal its thickness.",
+      "cn": "新的探测器在建造时使用了改进的电子设备和电池组，并且添加了新的的雷达高度计，这是一种发射微波测定两极冰层厚度的装置。"
+    },
+    {
+      "en": "The precision of radio altimeter directly affects the quality of the radio altimeter.",
+      "cn": "高度表调试过程的准确程度直接影响到高度表的质量."
+    },
+    {
+      "en": "The radar altimeter mounted on high speed vehicle demonstrateswideband doppler modulation characteristic.",
+      "cn": "安装在高速运动载体上的雷达高度表,其地面回波被一宽带多普勒信号所调制."
+    },
+    {
+      "en": "The thesis is the further development on the research of 3 D - imaging radar altimeter.",
+      "cn": "本论文是对三维成像雷达高度计系统的进一步深化研究."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "holometer",
+            "altometer"
+          ],
+          "tran_cn": "[测]测高仪，[航]高度计"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "radar altimeter",
+      "tran_cn": "雷达高度计"
+    },
+    {
+      "phrase": "radio altimeter",
+      "tran_cn": "无线电测高度计"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "高度计",
+      "tran_en": "an instrument in an aircraft that tells you how high you are"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "altimeters"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "word": "druggist",
+  "ipa": {
+    "us": "ˈdrʌgɪst",
+    "uk": "ˈdrʌɡɪst"
+  },
+  "sentences": [
+    {
+      "en": "H is an Herb Shop, a native apothecary or Chinese druggist.",
+      "cn": "是中草药铺, 就是天然草药商或是中药商."
+    },
+    {
+      "en": "I bought some medicine at the druggist's on the corner.",
+      "cn": "我在大街拐角的药房买了些药."
+    },
+    {
+      "en": "Lime water may be bought at any druggist's, or easily prepared at home.",
+      "cn": "石灰水可从药店购得, 不过在家里配制也很容易."
+    },
+    {
+      "en": "My aunt is both a physician and a druggist.",
+      "cn": "我的姑妈既是医生又是药剂师."
+    },
+    {
+      "en": "The druggist filled the doctor's prescription.",
+      "cn": "药剂师按这张医生的药方配药."
+    },
+    {
+      "en": "The druggist has recommended me to try this ointment for sunburn.",
+      "cn": "药房老板劝我试用这种药膏治疗晒斑."
+    },
+    {
+      "en": "The druggist measured out a bottle of cough mixture according to the prescription.",
+      "cn": "药剂师根据处方量出一瓶止咳药水."
+    },
+    {
+      "en": "The druggist put in a full stock of drugs.",
+      "cn": "那位药商进了一大批药品."
+    },
+    {
+      "en": "The druggist put up the medicine that the doctor had prescribed.",
+      "cn": "药剂师把医生开的药包装好."
+    },
+    {
+      "en": "The druggist suggested a preparation to relieve the ache.",
+      "cn": "药剂师建议配一种止痛剂."
+    },
+    {
+      "en": "The physician is accused of receiving questionable fund from a druggist.",
+      "cn": "这个医生被控告接受了药商的值得怀疑的资金."
+    },
+    {
+      "en": "The ugly druggist gauged the huge plug in the refugee's rug.",
+      "cn": "丑陋的药剂师丈量了难民毛毯中的宏大插头."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "drug",
+          "tran_cn": " 药；毒品；麻醉药；滞销货"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "drug",
+          "tran_cn": " 吸毒"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "drug",
+          "tran_cn": " 使服麻醉药；使服毒品；掺麻醉药于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "pharmacist",
+            "dispenser"
+          ],
+          "tran_cn": "药剂师；药商；（美）药房老板（兼营化妆品、文具、牙膏、漱口剂、香烟等杂货的）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "pharmacist"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "药商，药剂师，药材商",
+      "tran_en": "someone who is trained to prepare medicines, and works in a shop"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "druggists"
+    ]
+  }
+}

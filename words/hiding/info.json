@@ -1,0 +1,188 @@
+{
+  "word": "hiding",
+  "ipa": {
+    "us": "ˈhaɪdɪŋ",
+    "uk": " ˈhaɪdɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "After the car had passed by they came out of hiding.",
+      "cn": "车子开过后,他们从藏身的地方走了出来."
+    },
+    {
+      "en": "After the trial, she had to go into hiding for several weeks.",
+      "cn": "审讯后她不得不躲藏了几个星期。"
+    },
+    {
+      "en": "Don't come out of your hiding - place until I give you the okay.",
+      "cn": "得到我的同意你才能从躲藏的地方出来."
+    },
+    {
+      "en": "Gray is thought to be in hiding near the France/Italy border.",
+      "cn": "他们认为格雷藏在法国和意大利边境附近。"
+    },
+    {
+      "en": "He kept his head down, hiding his features.",
+      "cn": "他低头掩面。"
+    },
+    {
+      "en": "He rightly assumed that the boy was hiding.",
+      "cn": "他猜对了，那个男孩躲起来了。"
+    },
+    {
+      "en": "He then dismembered her, hiding parts of her body in the cellar.",
+      "cn": "他接着将她肢解，将部分尸体藏在了地窖里。"
+    },
+    {
+      "en": "Most hoarders have favorite hiding places.",
+      "cn": "多数喜好聚藏东西的人都有自己最喜欢的贮藏处。"
+    },
+    {
+      "en": "The enemy infantry was hiding.",
+      "cn": "敌军步兵正在隐蔽。"
+    },
+    {
+      "en": "The police blocked off the street where the gunman was hiding.",
+      "cn": "警察封锁了持枪歹徒躲藏的那条街."
+    },
+    {
+      "en": "The police were able to deduce where the fugitive was hiding.",
+      "cn": "警方成功地推断出那逃亡者躲藏的地方."
+    },
+    {
+      "en": "The seal on the box broke when it fell from its hiding-place.",
+      "cn": "盒子从隐藏处掉落时，封口裂开了。"
+    },
+    {
+      "en": "They flushed them out of their hiding places.",
+      "cn": "他们把他们从藏身之处赶了出来。"
+    },
+    {
+      "en": "Traditional hiding places are easy pickings for experienced burglars.",
+      "cn": "对有经验的入室窃贼来说，人们惯常藏钱的那些地方最容易得手。"
+    },
+    {
+      "en": "We believe she may have played a part in hiding the cash.",
+      "cn": "我们认为她可能参与了藏匿现金。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hidden",
+          "tran_cn": " 隐藏的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hide",
+          "tran_cn": " 躲藏；兽皮；躲藏处"
+        },
+        {
+          "word": "hideaway",
+          "tran_cn": " 潜伏处；隐匿处；退隐处"
+        },
+        {
+          "word": "hideout",
+          "tran_cn": " 隐匿处"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "hidden",
+          "tran_cn": " 隐藏，躲藏（hide的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "hide",
+          "tran_cn": " 隐藏"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hide",
+          "tran_cn": " 隐藏；隐瞒；鞭打"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "strike",
+            "harbouring"
+          ],
+          "tran_cn": "隐匿；躲藏处；殴打"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "concealment",
+            "fortress"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be on a hiding to nothing",
+      "tran_cn": "(英)不可能成功；即使成功也无多大优势"
+    },
+    {
+      "phrase": "go into hiding",
+      "tran_cn": "躲藏起来"
+    },
+    {
+      "phrase": "hiding place",
+      "tran_cn": "躲藏处"
+    },
+    {
+      "phrase": "hiding power",
+      "tran_cn": "遮盖力；复盖能力"
+    },
+    {
+      "phrase": "in hiding",
+      "tran_cn": "隐藏的；在隐藏中"
+    },
+    {
+      "phrase": "information hiding",
+      "tran_cn": "信息隐藏；信息隐蔽"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "躲藏，隐匿，<口>殴打",
+      "tran_en": "when someone stays somewhere in secret, especially because they have done something illegal or are in danger"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hidings"
+    ]
+  }
+}

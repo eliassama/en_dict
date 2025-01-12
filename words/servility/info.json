@@ -1,0 +1,60 @@
+{
+  "word": "servility",
+  "ipa": {
+    "us": "sɜ:'vɪlətɪ",
+    "uk": "sɜ'vɪlətɪ"
+  },
+  "sentences": [
+    {
+      "en": "She's a curious mixture of stubbornness and servility.",
+      "cn": "她既固执又恭顺，令人捉摸不透。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "servile",
+          "tran_cn": " 奴隶的；奴性的；卑屈的；卑屈的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "slavishness"
+          ],
+          "tran_cn": "奴性；奴态；卑屈"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "obedience"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "过分屈从的行为或态度，奴性"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "servile"
+    ]
+  }
+}

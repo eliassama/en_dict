@@ -1,0 +1,162 @@
+{
+  "word": "convection",
+  "ipa": {
+    "us": "kənˈvekʃn",
+    "uk": "kənˈvekʃn"
+  },
+  "sentences": [
+    {
+      "en": "...clouds which lift warm, moist air by convection high into the atmosphere.",
+      "cn": "...云层通过对流把温暖湿润的空气送到高的大气层中。"
+    },
+    {
+      "en": "Besides, the convection heat transfer coefficient inside water - wall tube was determined.",
+      "cn": "从而确定管内的对流换热系数."
+    },
+    {
+      "en": "Convection can be of two types: natural convection and forced convection.",
+      "cn": "对流可分为两类, 即 自然对流和强制对流."
+    },
+    {
+      "en": "Convection is the principal agent of heat transfer in the atmosphere and oceans.",
+      "cn": "对流是大气和海洋中热传输的主要方式."
+    },
+    {
+      "en": "Droplet ignition and extinction in practical combustors are strongly influenced by forced convection and turbulence.",
+      "cn": "在实际燃烧室中,液滴点火和熄火受到强迫对流和紊流的强烈影响."
+    },
+    {
+      "en": "For less active convection, cumuliform clouds grow with less rapidity.",
+      "cn": "当对流不太活跃时, 积云增长不太快."
+    },
+    {
+      "en": "In conduction and convection, energy transfer through a material medium is involved.",
+      "cn": "在传导和对流时, 能量通过某种物质媒介传递."
+    },
+    {
+      "en": "In conduction and convection, heat transfer takes place through matter.",
+      "cn": "在传导和对流, 热传递发生通过问题."
+    },
+    {
+      "en": "In convection, hot currents flow upwards.",
+      "cn": "在对流中热气流向上运动."
+    },
+    {
+      "en": "In this paper , we consider a nonconservative convection - diffusion boundary value problem.",
+      "cn": "考虑一类非守恒形式的对流扩散边值问题."
+    },
+    {
+      "en": "One of the ways to dissipate perspiration is by convection.",
+      "cn": "散发汗水的一种方法是通过对流作用."
+    },
+    {
+      "en": "Spacious rooms, Wangjiang. - South flow of convection air better!",
+      "cn": "房间宽敞, 望江. 南北 对流让空气流通更棒!"
+    },
+    {
+      "en": "The boundary layer thickness is a function of the convection condition, in the melt.",
+      "cn": "边界层厚度是溶体中对流条件的函数."
+    },
+    {
+      "en": "The particle transport consists of outward diffusion and inward convection.",
+      "cn": "粒子输运由向外扩散和向内对流构成."
+    },
+    {
+      "en": "These fires create convection funnels, and throw a lot of particles into the upper atmosphere.",
+      "cn": "这些火焰造成了对流漏斗，把许多微粒抛向上层大气。"
+    },
+    {
+      "en": "Vertical broiling function, with high efficient heating tubes , convection operation.",
+      "cn": "特性:垂直式串烧功能, 配置高效能发热线,对衡式操作."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "convector",
+          "tran_cn": " 对流式暖房器；对流散热器；[建] 换流器"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "convect",
+          "tran_cn": " 对流传热"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "convect",
+          "tran_cn": " 使热空气对流"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "transmission",
+            "convective flow"
+          ],
+          "tran_cn": "[流][气象]对流；传送"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "convection coefficient",
+      "tran_cn": "对流系数，膜层散热系数"
+    },
+    {
+      "phrase": "convection diffusion",
+      "tran_cn": "对俩散"
+    },
+    {
+      "phrase": "convection heat transfer",
+      "tran_cn": "对流传热"
+    },
+    {
+      "phrase": "convection section",
+      "tran_cn": "[工]对流部分"
+    },
+    {
+      "phrase": "convection zone",
+      "tran_cn": "对流区（等于convective zone）"
+    },
+    {
+      "phrase": "forced convection",
+      "tran_cn": "强制对流；人工对流"
+    },
+    {
+      "phrase": "heat convection",
+      "tran_cn": "热对流"
+    },
+    {
+      "phrase": "mantle convection",
+      "tran_cn": "地函对流，地幔对流；地幔对流"
+    },
+    {
+      "phrase": "natural convection",
+      "tran_cn": "自然对流"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "传送，对流，运流",
+      "tran_en": "the movement in a gas or liquid caused by warm gas or liquid rising, and cold gas or liquid sinking"
+    }
+  ],
+  "exchange": {}
+}

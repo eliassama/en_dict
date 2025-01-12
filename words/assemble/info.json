@@ -1,0 +1,246 @@
+{
+  "word": "assemble",
+  "ipa": {
+    "us": "əˈsembl",
+    "uk": "əˈsembl"
+  },
+  "sentences": [
+    {
+      "en": "A large crowd had assembled outside the American embassy.",
+      "cn": "一大群人聚集在美国大使馆外。"
+    },
+    {
+      "en": "All the students were asked to assemble in the main hall.",
+      "cn": "全体学生获通知到大礼堂集合。"
+    },
+    {
+      "en": "Assemble your papers and put them in the file.",
+      "cn": "把你的文件归拢放在这个文件夹内."
+    },
+    {
+      "en": "At last he began to assemble his safety razor.",
+      "cn": "最后他开始安装安全刮脸刀."
+    },
+    {
+      "en": "Greenpeace managed to assemble enough boats to waylay the ship at sea.",
+      "cn": "绿色和平组织设法聚集起足够数量的小船在海上拦截该船。"
+    },
+    {
+      "en": "Groups of its inhabitants assemble to discuss the thing.",
+      "cn": "居民们三五成群地聚在一起,议论这件事情."
+    },
+    {
+      "en": "He looked around at the assembled company (=  all the people who had come there  ) .",
+      "cn": "他环顾四周聚集的人群。"
+    },
+    {
+      "en": "If the fire - alarm goes, staff should assemble outside the building.",
+      "cn": "火警警报响时全体人员应到楼外集合."
+    },
+    {
+      "en": "It is difficult to assemble those sheets into a proper map.",
+      "cn": "很难将这些照片并合成合适的地图."
+    },
+    {
+      "en": "Please assemble this material into thematic groups.",
+      "cn": "请按主题将这些材料整理分类。"
+    },
+    {
+      "en": "She had assembled a collection of her favourite songs.",
+      "cn": "她收集了一些自己最喜欢听的歌。"
+    },
+    {
+      "en": "Some boys like to assemble model airplanes.",
+      "cn": "有些男孩喜欢装配模型飞机."
+    },
+    {
+      "en": "The aircraft will continue to be assembled in France.",
+      "cn": "飞机将继续在法国组装。"
+    },
+    {
+      "en": "The anvil onto which the staples are pressed was not assemble correctly.",
+      "cn": "订书机上的铁砧安装错位."
+    },
+    {
+      "en": "The shed comes in sections that you assemble yourself.",
+      "cn": "这个棚子有几个部分,要由自己组装起来."
+    },
+    {
+      "en": "The shelves are easy to assemble.",
+      "cn": "搁架容易装配。"
+    },
+    {
+      "en": "The sirens are calling the men to assemble.",
+      "cn": "警报声在召令士兵集合."
+    },
+    {
+      "en": "The students assemble for class at 8 o'clock in the morning.",
+      "cn": "学生早上八时聚集在一起上课."
+    },
+    {
+      "en": "The workers who assemble cars work very skilfully.",
+      "cn": "装配汽车的工人们干得很熟练."
+    },
+    {
+      "en": "We'll assemble at the gate at 7 o'clock tomorrow morning.",
+      "cn": "明晨七时在门口会齐."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "assembled",
+          "tran_cn": " 组合的；安装的"
+        },
+        {
+          "word": "assembling",
+          "tran_cn": " 装配的；组合的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assemblage",
+          "tran_cn": " 装配；集合；聚集；集会；集合物；聚集的物或人"
+        },
+        {
+          "word": "assembler",
+          "tran_cn": " 汇编程序；汇编机；装配工"
+        },
+        {
+          "word": "assembling",
+          "tran_cn": " 装配；[计] 汇编"
+        },
+        {
+          "word": "assembly",
+          "tran_cn": " 装配；集会，集合"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "assembled",
+          "tran_cn": " 装配（assemble的过去分词）；集合"
+        },
+        {
+          "word": "assembling",
+          "tran_cn": " 装配（assemble的ing形式）；聚集"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accumulate",
+            "amass",
+            "build",
+            "cluster",
+            "collect",
+            "compile",
+            "congregate",
+            "congress",
+            "convene",
+            "crowd",
+            "fabricate",
+            "gather",
+            "group",
+            "herd",
+            "huddle",
+            "make",
+            "meet",
+            "mobilize",
+            "muster",
+            "resort",
+            "throng",
+            "together"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "concentrate",
+            "collect",
+            "aggregate",
+            "mass",
+            "crowd"
+          ],
+          "tran_cn": "集合，聚集"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cluster",
+            "collect",
+            "congregate",
+            "crowd",
+            "gather",
+            "group",
+            "meet",
+            "together"
+          ],
+          "tran_cn": "集合,聚集"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "assemble language",
+      "tran_cn": "n. 汇编语言"
+    },
+    {
+      "phrase": "assemble line",
+      "tran_cn": "作业的装配线"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "聚集，收集，组装",
+      "tran_en": "if you assemble a large number of people or things, or if they assemble, they are gathered together in one place, often for a particular purpose"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "集合，召集",
+      "tran_en": "if you assemble a large number of people or things, or if they assemble, they are gathered together in one place, often for a particular purpose"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 集合， 聚集， 召集； 装配",
+      "tran_en": "if you assemble a large number of people or things, or if they assemble, they are gathered together in one place, often for a particular purpose"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "assembles"
+    ],
+    "past": [
+      "assembled"
+    ],
+    "done": [
+      "assembled"
+    ],
+    "ing": [
+      "assembling"
+    ]
+  }
+}

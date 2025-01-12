@@ -1,0 +1,273 @@
+{
+  "word": "port",
+  "ipa": {
+    "us": "pɔːt",
+    "uk": "pɔːrt"
+  },
+  "sentences": [
+    {
+      "en": "A variety of heavy industries grew up alongside the port.",
+      "cn": "各种重工业沿着港口逐渐发展起来。"
+    },
+    {
+      "en": "Britain’s largest port",
+      "cn": "英国最大的港口城市"
+    },
+    {
+      "en": "Captain David Clement and 150 commandos stormed the port this morning.",
+      "cn": "戴维·克莱门特上尉和150名突击队员今天早上对港口展开突袭。"
+    },
+    {
+      "en": "Five ambulances are on standby at the port.",
+      "cn": "5辆救护车在港口待命。"
+    },
+    {
+      "en": "He asked for a glass of port after dinner.",
+      "cn": "晚饭后，他要了一杯波尔图葡萄酒。"
+    },
+    {
+      "en": "He described the smell as something between a circus and a sea-port.",
+      "cn": "他形容那种气味介于马戏团和海港的味道之间。"
+    },
+    {
+      "en": "Her official number is carved on the port side of the forecabin.",
+      "cn": "这艘船的注册编号刻在前舱的左舷上。"
+    },
+    {
+      "en": "It is very alcoholic, sometimes near the strength of port.",
+      "cn": "它的酒精浓度很高，有时接近波尔图葡萄酒的浓度。"
+    },
+    {
+      "en": "My favourite tipple is a glass of port.",
+      "cn": "我最喜欢喝的酒是波尔图葡萄酒。"
+    },
+    {
+      "en": "Port-Louis is an attractive little fishing port.",
+      "cn": "路易港是个漂亮的小渔港。"
+    },
+    {
+      "en": "The port is quiet and unspoiled.",
+      "cn": "这个港口宁静、天然。"
+    },
+    {
+      "en": "The ship is outward bound , sailing away from its home port.",
+      "cn": "这艘船是开往外埠的."
+    },
+    {
+      "en": "The trawler had sailed from the port of Zeebrugge.",
+      "cn": "拖网渔船已经驶离了泽布吕赫港。"
+    },
+    {
+      "en": "The whisky was taken to bonded warehouses at Port Dundee.",
+      "cn": "威士忌酒已送到邓迪港的保稅仓库."
+    },
+    {
+      "en": "There's a storm coming; we'd better sail the boat into port.",
+      "cn": "暴风雨要来了, 我们最好把船驶进港里去."
+    },
+    {
+      "en": "They had asked Hong Kong for permission to put into port there.",
+      "cn": "他们请求香港允许他们在那里入港停留。"
+    },
+    {
+      "en": "We’ll have two days ashore while the ship is in port.",
+      "cn": "轮船靠港时，我们能在岸上待两天。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "portage",
+          "tran_cn": " 搬运；运输"
+        },
+        {
+          "word": "portal",
+          "tran_cn": " 大门，入口"
+        },
+        {
+          "word": "porter",
+          "tran_cn": " 门房；服务员；行李搬运工；守门人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "portage",
+          "tran_cn": " 转到陆上运输"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "portage",
+          "tran_cn": " 转到陆上运输；经陆上运输绕过"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "haven",
+            "bunder"
+          ],
+          "tran_cn": "[水运]港口，口岸；（计算机的）[电子][计]端口；[航][船]左舷；舱门"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dock",
+            "harbor",
+            "pier",
+            "wharf"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "any port in a storm",
+      "tran_cn": "(谚)危急时不择好坏的避难场所（或逃避办法）；饥不择食的选择"
+    },
+    {
+      "phrase": "at port arms",
+      "tran_cn": "(军)在斜持枪位置"
+    },
+    {
+      "phrase": "at the port",
+      "tran_cn": "作持枪的姿势"
+    },
+    {
+      "phrase": "container port",
+      "tran_cn": "n. 货柜港口"
+    },
+    {
+      "phrase": "fishing port",
+      "tran_cn": "渔港"
+    },
+    {
+      "phrase": "free port",
+      "tran_cn": "自由港；无税港口"
+    },
+    {
+      "phrase": "in port",
+      "tran_cn": "在港内"
+    },
+    {
+      "phrase": "loading port",
+      "tran_cn": "装货港口"
+    },
+    {
+      "phrase": "output port",
+      "tran_cn": "输出端；出油口"
+    },
+    {
+      "phrase": "parallel port",
+      "tran_cn": "[计]并行端口"
+    },
+    {
+      "phrase": "port area",
+      "tran_cn": "码头区；港口区；喷口面积"
+    },
+    {
+      "phrase": "port authority",
+      "tran_cn": "港务局"
+    },
+    {
+      "phrase": "port city",
+      "tran_cn": "n. 港口城市"
+    },
+    {
+      "phrase": "port number",
+      "tran_cn": "端口号；通道数"
+    },
+    {
+      "phrase": "port of destination",
+      "tran_cn": "目的港"
+    },
+    {
+      "phrase": "port of discharge",
+      "tran_cn": "卸货港"
+    },
+    {
+      "phrase": "port of entry",
+      "tran_cn": "进口港，报关港，入境港"
+    },
+    {
+      "phrase": "port of loading",
+      "tran_cn": "装货港口"
+    },
+    {
+      "phrase": "port of shipment",
+      "tran_cn": "装货港；出发港；起运港"
+    },
+    {
+      "phrase": "port office",
+      "tran_cn": "港务局"
+    },
+    {
+      "phrase": "sea port",
+      "tran_cn": "海港"
+    },
+    {
+      "phrase": "serial port",
+      "tran_cn": "[计]串行端口；序列埠"
+    },
+    {
+      "phrase": "usb port",
+      "tran_cn": "通用串行总线接口；通用序列连接埠"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "左舷的，左侧的"
+    },
+    {
+      "pos": "adv",
+      "tran_cn": "向左舷，向左"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "港口，（事情的）意义，（计算机与其他设备的）接口，（船、飞机等的）左舷",
+      "tran_en": "a place where ships can be loaded and unloaded"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "转向左舷",
+      "tran_en": "to turn or be turned towards the port "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "转向左舷"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "举枪，持枪，左转舵"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "转舵（向左），把（舵）转向左边"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "ports"
+    ]
+  }
+}

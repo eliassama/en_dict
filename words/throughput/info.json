@@ -1,0 +1,106 @@
+{
+  "word": "throughput",
+  "ipa": {
+    "us": "ˈθru:pʊt",
+    "uk": "ˈθruˌpʊt"
+  },
+  "sentences": [
+    {
+      "en": "...technologies which will allow us to get much higher throughput.",
+      "cn": "...能让我们大幅提高产量的技术。"
+    },
+    {
+      "en": "And the key that increases port's throughput is supply of goods.",
+      "cn": "而增加港口吞吐量的要害是货源."
+    },
+    {
+      "en": "FY 09 throughput expected to improve due to higher volume MISC.",
+      "cn": "鉴于马来西亚航运提供了较大的成交量使得09财务年度的吞吐量有望提高."
+    },
+    {
+      "en": "High throughput deposition can be achieved by single - axis round drum carrier.",
+      "cn": "采用精密的单轴圆鼓基板系统,可显著提高批量镀膜的能力."
+    },
+    {
+      "en": "Nanoimprint is a high resolution, high throughput , low cost lithographic method.",
+      "cn": "纳米压印技术是一种高分辨率 、 廉价 、 高效的纳米结构制备技术."
+    },
+    {
+      "en": "Port's throughput capacity is more than breaking up one time 1988.",
+      "cn": "港口通过能力比1988年翻了一番多."
+    },
+    {
+      "en": "Probability distribution of cargo throughput was acquired using throughout probability theory.",
+      "cn": "应用全概理论,得到货物总吞吐量的概率分布."
+    },
+    {
+      "en": "The average daily throughput was 1 , 370 tons of ore.",
+      "cn": "日平均产量为一千三百七十吨矿砂."
+    },
+    {
+      "en": "The cleaner has high efficiency and a high throughput low cost.",
+      "cn": "这种空气净化器还有负荷量大、调节空气湿度的特点."
+    },
+    {
+      "en": "The famous max - flow min - cut theorem determines the maximum throughput of a network.",
+      "cn": "最大流最小割定理决定了网络的最大吞吐量."
+    },
+    {
+      "en": "The simulation results show measurable improvement in both queue length and throughput.",
+      "cn": "仿真结果显示算法在队列长度以及吞吐量方面都取得了不错的效果."
+    },
+    {
+      "en": "The throughput and delay characteristics of multichannel non - persistent CSMA protoco are evaluated.",
+      "cn": "分析了采用多信道方式的 非 坚持CSMA协议信道吞吐率和延迟特性."
+    },
+    {
+      "en": "There's still a reasonable throughput of business.",
+      "cn": "业务量仍然可以。"
+    },
+    {
+      "en": "Throughput of all projects in the workshop including fabrication, welding, machining etc.",
+      "cn": "所有在车间的项目的生产量包括制造, 焊接, 机加工等."
+    },
+    {
+      "en": "Track and optimize machine performance including part quality and machine throughput.",
+      "cn": "跟踪并使机器性能最优化,包括配件的质量和机器的产能."
+    },
+    {
+      "en": "We aim at performing all - atom high - throughput molecular dynamics simulations.",
+      "cn": "我们的目标是执行全原子 高通量 分子动力学的模拟."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "productivity",
+            "production quantity"
+          ],
+          "tran_cn": "生产量，生产能力"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "throughput capacity",
+      "tran_cn": "生产能力，生产量；总处理能力"
+    },
+    {
+      "phrase": "throughput rate",
+      "tran_cn": "吞吐率；生产率"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "生产量，生产能力，吞吐量，流率",
+      "tran_en": "The throughput of an organization or system is the amount of things it can do or deal with in a particular period of time"
+    }
+  ],
+  "exchange": {}
+}

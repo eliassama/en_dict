@@ -1,0 +1,172 @@
+{
+  "word": "invariant",
+  "ipa": {
+    "us": "ɪnˈveəriənt",
+    "uk": "ɪnˈveriənt"
+  },
+  "sentences": [
+    {
+      "en": "A multi - distorted invariant orthogonal moments, Jacobi - Fourier moments ( JFM ), were proposed.",
+      "cn": "提出一种多畸变不变的正交图像矩: 雅可比 - 傅 立叶 矩."
+    },
+    {
+      "en": "a point in space, rather than its coordinates, is an invariant",
+      "cn": ""
+    },
+    {
+      "en": "Approximation and recovery of band - limited functions from shift - invariant operators is studied.",
+      "cn": "给出了有限频带函数利用平移不变算子的逼近与恢复."
+    },
+    {
+      "en": "By the analysis and comparison of target characteristics, invariant moments are chosen as recognition characteristics.",
+      "cn": "通过对目标特征的分析比较，选取不变矩作为识别特征。"
+    },
+    {
+      "en": "Converts the value a type of this converter, using the invariant culture.",
+      "cn": "使用不变区域性将该值转换为此转换器的类型."
+    },
+    {
+      "en": "Crucially, this was true at all frequencies, which means the phenomenon is scale invariant - the other key criterion for self-organised criticality.",
+      "cn": "最重要的是，所有的频率都是这样，意味着这种现象是规模不变的-自我组织临界的另一个重要标准。"
+    },
+    {
+      "en": "For a system, Hamiltonian is invariant under any translation of spatial coordinates.",
+      "cn": "对于一体系, 哈密算符在任何空间坐标变换下是不变的."
+    },
+    {
+      "en": "For example, in an accounting application, consistency would include the invariant that the sum of all asset accounts equal the sum of all liability accounts.",
+      "cn": "例如，在记账应用程序中，一致性可能包括所有资产账户的总和始终等于所有负债账户的总和这个不变式。"
+    },
+    {
+      "en": "Human fingerprints differ are invariant alone stime.",
+      "cn": "人的指纹各不相同,终生不变."
+    },
+    {
+      "en": "In other words, The Hermiticity of a matrix is invariant under unitary transformations.",
+      "cn": "换言之, 矩阵的厄密性在幺正变换下保持不变."
+    },
+    {
+      "en": "Method for invariant feature extraction based on shape boundaries are proposed.",
+      "cn": "提出了一种基于目标边界的不变特征提取方法."
+    },
+    {
+      "en": "Mylifestyle is, as a first approximation, invariant to my income.",
+      "cn": "我的生活方式,如前所述, 不会受到收入的影响."
+    },
+    {
+      "en": "One could consider invariant properties of figures under each of the above types of transformation.",
+      "cn": "可以在上述的每一类型变换下考虑图形的不变性质."
+    },
+    {
+      "en": "Researchers have identified dozens of shift - invariant, the proportions of the moment.",
+      "cn": "查究职员又确不退了数十个移安定 、 比例安定的矩."
+    },
+    {
+      "en": "The invariant space has to be as well a deformation of a classical space, a deformation that makes it noncommutative.",
+      "cn": "这些不变的空间同样也是经典空间的变形，它们通过这种变形成为非对易空间。"
+    },
+    {
+      "en": "The invariant tensor under projective transformations of semi - symmetric metric - recurrent connections is obtained.",
+      "cn": "给出了半对称度量循环联络在射影变换下的不变张量."
+    },
+    {
+      "en": "The scale - invariant features are efficiently identified by a staged filtering approach.",
+      "cn": "尺度不变的特征能够通过采用分阶段滤波的方法来有效地确定."
+    },
+    {
+      "en": "Then an improved method, namely translation invariant de noising was proposed.",
+      "cn": "在此基础上,探讨了对传统的阈值方法的改进, 即平移不变小波变换去噪法."
+    },
+    {
+      "en": "This optimization removes invariant subexpressions from the body of a loop.",
+      "cn": "此优化将不变量子表达式从循环体中移除."
+    },
+    {
+      "en": "To solve the problem of target scaling and rotation during television homing seeking for ground targets, scale-invariant features are applied in the guiding algorithm.",
+      "cn": "为解决自寻的电视导引过程中目标的尺度和旋转变化问题，将尺度不变特征应用到电视制导算法中。"
+    },
+    {
+      "en": "We start with time - invariant filters and basic wavelets.",
+      "cn": "课程从时不变滤波器和基本小波开始."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "invariable",
+          "tran_cn": " 不变的；常数的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "invariably",
+          "tran_cn": " 总是；不变地；一定地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "invariability",
+          "tran_cn": " 不变；不变性；安定性"
+        },
+        {
+          "word": "invariable",
+          "tran_cn": " 常数；不变的东西"
+        },
+        {
+          "word": "invariableness",
+          "tran_cn": " 不变"
+        },
+        {
+          "word": "invariance",
+          "tran_cn": " 不变性；不变式"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "constant",
+            "permanent",
+            "steady",
+            "unchanging"
+          ],
+          "tran_cn": "[计][数]不变的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "invariant system",
+      "tran_cn": "不变系统；不变量系统；无变系"
+    },
+    {
+      "phrase": "time invariant",
+      "tran_cn": "时不变的；时不变"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "无变化的，不变的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "[数] 不变量；[计] 不变式",
+      "tran_en": "an entity, quantity, etc, that is unaltered by a particular transformation of coordinates "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,58 @@
+{
+  "word": "undirected",
+  "ipa": {
+    "us": "'ʌndɪ'rektɪd",
+    "uk": "ˌʌndə'rektɪd"
+  },
+  "sentences": [
+    {
+      "en": "A circ is an undirected graph having only vertices of even nonzero degree.",
+      "cn": "一广义圈是一无向图,其顶点次数都是非零偶数."
+    },
+    {
+      "en": "Broadcast networks can be expressed by a simple connected undirected graph.",
+      "cn": "将广播网络用简单连通的无向图表示."
+    },
+    {
+      "en": "To determine a given undirected network whether it is connected?",
+      "cn": "判断给定的无向网是否是连通的?"
+    },
+    {
+      "en": "Undirected, however, it can wreak havoc in your day - to - day experience.",
+      "cn": "然而, 它也可以间接让你发泄堆积在心中的忿怒."
+    },
+    {
+      "en": "Unenlightened and undirected, I can do so little.",
+      "cn": "但若得不到启蒙和指导，我就差不多无能为力了。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adrift",
+            "aimless",
+            "headless"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "undirected graph",
+      "tran_cn": "无向图"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "未受指导的，无收件人姓名的"
+    }
+  ],
+  "exchange": {}
+}

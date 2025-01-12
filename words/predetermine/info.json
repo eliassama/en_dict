@@ -1,0 +1,107 @@
+{
+  "word": "predetermine",
+  "ipa": {
+    "us": "ˌpri:dɪˈtɜ:mɪn",
+    "uk": "ˌpridɪˈtɜrmɪn"
+  },
+  "sentences": [
+    {
+      "en": "The applications predetermine queue names, messages, and message formats, just like two network applications agree on socket numbers.",
+      "cn": "应用程序预先确定队列名称、消息和消息格式，就像两个网络应用程序就套接字数量达成协议一样。"
+    },
+    {
+      "en": "These factors predetermine to a large extent the outcome ( Jessica Mitford )",
+      "cn": "这些因素在很大程度上预先决定了其结果 ( 杰西卡米特福德 )"
+    },
+    {
+      "en": "We cannot read minds and we cannot predetermine intent.",
+      "cn": "我们不能看透别人的心中所想也不能预先断定别人的目的."
+    },
+    {
+      "en": "What if you could predetermine the genetics of your newborn baby?",
+      "cn": "要是你能预先设定新生宝宝的基因，你会怎么办？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "predetermined",
+          "tran_cn": " 业已决定的；先已决定的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "predetermination",
+          "tran_cn": " 预先决定；原有意图"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "predetermined",
+          "tran_cn": " 已决定的（predetermine的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "program"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "preordain"
+          ],
+          "tran_cn": "预先确定；预先决定；预先查明"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 预先注定； 预先决定",
+      "tran_en": "to determine beforehand "
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "预先裁定，注定"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "predetermines"
+    ],
+    "past": [
+      "predetermined"
+    ],
+    "done": [
+      "predetermined"
+    ],
+    "ing": [
+      "predetermining"
+    ],
+    "adj": [
+      "predetermined"
+    ]
+  }
+}

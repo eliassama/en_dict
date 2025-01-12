@@ -1,0 +1,56 @@
+{
+  "word": "tonicity",
+  "ipa": {
+    "us": "təʊ'nɪsɪtɪ",
+    "uk": "toʊ'nɪsətɪ"
+  },
+  "sentences": [
+    {
+      "en": "The doctor tested my tonicity.",
+      "cn": "医生检查了我的肌肉紧张程度."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tonic",
+          "tran_cn": " 滋补的；声调的；使精神振作的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tonic",
+          "tran_cn": " 补药；主调音或基音"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sthenia",
+            "lustihood"
+          ],
+          "tran_cn": "强壮；肌肉弹性；紧张性；调位强度"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "强壮，肌肉弹性",
+      "tran_en": "the state, condition, or quality of being tonic "
+    }
+  ],
+  "exchange": {}
+}

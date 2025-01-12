@@ -1,0 +1,135 @@
+{
+  "word": "mechanize",
+  "ipa": {
+    "us": "ˈmekənaɪz",
+    "uk": "ˈmɛkəˌnaɪz"
+  },
+  "sentences": [
+    {
+      "en": "If we can mechanize farming we can produce more crops with fewer people.",
+      "cn": "如果我们能使耕种机械化,我们就能用较少的人力生产更多的农产品."
+    },
+    {
+      "en": "Only gradually are technologies being developed to mechanize the task.",
+      "cn": "渐渐地科技才发展到能使这项任务机械化。"
+    },
+    {
+      "en": "The technology condition of gears direct effects on motion of the mechanize system.",
+      "cn": "齿轮的技术状态的好坏直接影响整台设备或整套机械化系统可靠运行."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mechanical",
+          "tran_cn": " 机械的；力学的；呆板的；无意识的；手工操作的"
+        },
+        {
+          "word": "mechanistic",
+          "tran_cn": " 机械论的；机械学的"
+        },
+        {
+          "word": "mechanized",
+          "tran_cn": " 机械化的；呆板的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "mechanically",
+          "tran_cn": " 机械地；呆板地；物理上地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mechanics",
+          "tran_cn": " 力学（用作单数）；结构；技术；机械学（用作单数）"
+        },
+        {
+          "word": "mechanisation",
+          "tran_cn": " 机械化"
+        },
+        {
+          "word": "mechanism",
+          "tran_cn": " 机制；原理，途径；进程；机械装置；技巧"
+        },
+        {
+          "word": "mechanist",
+          "tran_cn": " 机械论者；机械技师"
+        },
+        {
+          "word": "mechanization",
+          "tran_cn": " 机械化；机动化"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "mechanized",
+          "tran_cn": " 使机械化；用机械操作（mechanize的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mechanise",
+          "tran_cn": " 使……用机械装置；使……机械化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "motorise"
+          ],
+          "tran_cn": "使机械化；机动化；用机械装置"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "机械化",
+      "tran_en": "If someone mechanizes a process, they cause it to be done by a machine or machines, when it was previously done by people"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使机械化，用机械装置",
+      "tran_en": "If someone mechanizes a process, they cause it to be done by a machine or machines, when it was previously done by people"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "mechanizes"
+    ],
+    "past": [
+      "mechanized"
+    ],
+    "done": [
+      "mechanized"
+    ],
+    "ing": [
+      "mechanizing"
+    ],
+    "noun": [
+      "mechanization"
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "word": "infinitesimal",
+  "ipa": {
+    "us": "ˌɪnfɪnɪˈtesɪml",
+    "uk": "ˌɪnfɪnɪˈtɛsəməl"
+  },
+  "sentences": [
+    {
+      "en": "A millionth of an inch is an infinitesimal length.",
+      "cn": "一英寸的百万分之一是极小的长度."
+    },
+    {
+      "en": "How important do you think infinitesimal calculus is in life?",
+      "cn": "您觉得微积分在生活中有多重要?"
+    },
+    {
+      "en": "II Limit --- Reasonability of Infinitesimal Calculus.",
+      "cn": "极限 ---- 微积分的合理性."
+    },
+    {
+      "en": "infinitesimal changes in temperature",
+      "cn": "气温极其微小的变化"
+    },
+    {
+      "en": "Infinitesimal strains cannot yet be recorded.",
+      "cn": "我们还不能将这些极小量的应变记录下来."
+    },
+    {
+      "en": "infinitesimal traces of poison",
+      "cn": "微量毒素"
+    },
+    {
+      "en": "Newton says he has abandoned the infinitesimal or infinitely small quantity.",
+      "cn": "牛顿说他已放弃了微元或无穷小量."
+    },
+    {
+      "en": "She spoke with that gentle infinitesimal inflexion of mockery which descended to her from her mother.",
+      "cn": "她说话时,带着她母亲传给她的那种温柔细致的嘲笑语调."
+    },
+    {
+      "en": "The body's annual intake of metallic iron is infinitesimal.",
+      "cn": "人体对金属铁的年摄入量是微不足道的."
+    },
+    {
+      "en": "The chances that the company will have any problems are infinitesimal.",
+      "cn": "那家公司会遇到什么问题的可能性是微乎其微的."
+    },
+    {
+      "en": "The distinguish condition and algorithm procedure for first - order infinitesimal mechanisms are introduced.",
+      "cn": "论述了一阶无穷小位移机构,即可刚化机构的判定条件及计算方法."
+    },
+    {
+      "en": "The person is infinitesimal and helpless.",
+      "cn": "人是渺小而无奈的."
+    },
+    {
+      "en": "Theorem 1 The sum of finite number of infinitesimal is an infinitesimal.",
+      "cn": "定理1有限个无穷小的和也是无穷小."
+    },
+    {
+      "en": "We find optimal stopping rules by using the weak infinitesimal generator of markov process.",
+      "cn": "利用弱无穷小算子,我们找出了最优停时规则."
+    },
+    {
+      "en": "Week 2 Limit of number sequence. Limit of function. infinity and infinitesimal.",
+      "cn": "第2周数列的极限. 函数的极限. 无穷小与无穷大."
+    },
+    {
+      "en": "Week 3 Limit algorithm. two important limits and comparison of infinitesimal.",
+      "cn": "第3周极限运算法则. 两个重要极限.无穷小的比较."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "infinite",
+          "tran_cn": " 无限的，无穷的；无数的；极大的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "infinitely",
+          "tran_cn": " 无限地；极其"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "infinite",
+          "tran_cn": " 无限；[数] 无穷大；无限的东西（如空间，时间）"
+        },
+        {
+          "word": "infiniteness",
+          "tran_cn": " 无限；无限性"
+        },
+        {
+          "word": "infinitude",
+          "tran_cn": " 无限；无穷"
+        },
+        {
+          "word": "infinity",
+          "tran_cn": " 无穷；无限大；无限距"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "itty-bitty",
+            "teeny"
+          ],
+          "tran_cn": "[数]无穷小的；无限小的；极小的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "particle",
+            "mite"
+          ],
+          "tran_cn": "[数]无限小；极微量；极小量"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "microscopic"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "infinitesimal calculus",
+      "tran_cn": "[数]微积分"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "极微小的",
+      "tran_en": "extremely small"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "无限小；极微量；极小量"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "infinitesimally"
+    ]
+  }
+}

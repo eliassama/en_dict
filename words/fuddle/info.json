@@ -1,0 +1,103 @@
+{
+  "word": "fuddle",
+  "ipa": {
+    "us": "'fʌdl",
+    "uk": "'fʌdəl"
+  },
+  "sentences": [
+    {
+      "en": "I felt rather fuddle - headed when I got up this morning.",
+      "cn": "我今天早晨起床时觉得头昏脑胀."
+    },
+    {
+      "en": "My brain's in a fuddle.",
+      "cn": "我的脑子糊里糊涂的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fuddled",
+          "tran_cn": " 喝醉的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "fuddled",
+          "tran_cn": " 灌醉（fuddle的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "disorder",
+            "chaos",
+            "confusion",
+            "turmoil",
+            "involvement"
+          ],
+          "tran_cn": "混乱；酗酒"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "hit the bottle",
+            "lift one's elbow"
+          ],
+          "tran_cn": "酗酒"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cloud",
+            "confuse"
+          ],
+          "tran_cn": "灌醉；使混乱"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "烂醉"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "灌醉，使迷糊，使烂醉，狂饮"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "fuddles"
+    ],
+    "past": [
+      "fuddled"
+    ],
+    "done": [
+      "fuddled"
+    ],
+    "ing": [
+      "fuddling"
+    ]
+  }
+}

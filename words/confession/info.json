@@ -1,0 +1,186 @@
+{
+  "word": "confession",
+  "ipa": {
+    "us": "kənˈfeʃn",
+    "uk": "kənˈfɛʃən"
+  },
+  "sentences": [
+    {
+      "en": "After hours of questioning by police, she made a full confession.",
+      "cn": "经过警察数小时的审问，她才供认了全部罪行。"
+    },
+    {
+      "en": "At 3 a.m. Higgins broke down and made a full confession .",
+      "cn": "凌晨三点，希金斯崩溃了，交代了一切。"
+    },
+    {
+      "en": "Confession cleanses the soul.",
+      "cn": "忏悔净化灵魂。"
+    },
+    {
+      "en": "He claimed that he signed the confession under duress.",
+      "cn": "他说他是被迫在认罪书上签字的."
+    },
+    {
+      "en": "He made a false confession which he later retracted.",
+      "cn": "他作了假供词，后来又翻供。"
+    },
+    {
+      "en": "He signed the confession under duress .",
+      "cn": "他出于被迫在供状上签了字。"
+    },
+    {
+      "en": "He was staunchly opposed to a public confession.",
+      "cn": "他坚决反对公开认罪。"
+    },
+    {
+      "en": "Her confession was simply tantamount to a casual explanation.",
+      "cn": "她的自白简直等于一篇即席说明."
+    },
+    {
+      "en": "His confession was greeted with derisive hoots.",
+      "cn": "他的坦白引起了人们嘲讽的嘘叫。"
+    },
+    {
+      "en": "I have a confession – I like Britney Spears’ music.",
+      "cn": "我得承认，我喜欢布兰妮•斯皮尔斯的音乐。"
+    },
+    {
+      "en": "In his confession the thief incriminated two others who helped him steal.",
+      "cn": "这个盗窃犯在供词中牵连了另外两个协助他偷窃的人."
+    },
+    {
+      "en": "Sanchez’s confession was read out to the court.",
+      "cn": "桑切斯的供词在法庭上宣读了出来。"
+    },
+    {
+      "en": "The court excluded the confession wrongly obtained by the police.",
+      "cn": "法院排除了警方通过不正当方法获得的供词作为证据."
+    },
+    {
+      "en": "The court surprised a confession out of the defendant.",
+      "cn": "法庭冷不防使被告招了供."
+    },
+    {
+      "en": "The police elicited a confession from him.",
+      "cn": "警察诱他招了供."
+    },
+    {
+      "en": "The police stenographer recorded the man's confession word by word.",
+      "cn": "警察局速记员逐字记下了那个人的供词."
+    },
+    {
+      "en": "The police used torture to extort a confession from him.",
+      "cn": "警察对他用刑逼供."
+    },
+    {
+      "en": "The priest heard her confession and granted absolution.",
+      "cn": "神父听了她的告解后给她赦罪."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "confessional",
+          "tran_cn": " 忏悔的；自白的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "confessedly",
+          "tran_cn": " 公开承认地；明白供认地；自称地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "confessional",
+          "tran_cn": " 忏悔室；告解室"
+        },
+        {
+          "word": "confessor",
+          "tran_cn": " 忏悔者；为信教而被迫害的教徒"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "confess",
+          "tran_cn": " 承认；坦白；忏悔；供认"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "confess",
+          "tran_cn": " 承认；坦白；忏悔；供认"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "avowal",
+            "declaration",
+            "disclosure",
+            "divulgence",
+            "revelation",
+            "shrift"
+          ],
+          "tran_cn": "供认,交代,坦白"
+        },
+        {
+          "words": [
+            "acceptance",
+            "acknowledgment",
+            "admission",
+            "allowance",
+            "concession",
+            "leveling",
+            "recognition"
+          ],
+          "tran_cn": "承认"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "profession"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "供词，承认，表白，忏悔",
+      "tran_en": "a statement that you have done something wrong, illegal, or embarras-sing, especially a formal statement"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "confessions"
+    ]
+  }
+}

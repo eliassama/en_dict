@@ -1,0 +1,151 @@
+{
+  "word": "scalar",
+  "ipa": {
+    "us": "ˈskeɪlə(r)",
+    "uk": "ˈskelɚ, -ˌlɑr"
+  },
+  "sentences": [
+    {
+      "en": "An input device that provides a scalar value , e . g . , a thumb wheel, a potentiometer.",
+      "cn": "一种提供标量值的输入设备,如姆指旋转控制器 、 电位计."
+    },
+    {
+      "en": "Business objects are the primary mechanism for representing business entities, enabling everything from a simple basic object with scalar properties to a large complex hierarchy or graph of objects.",
+      "cn": "业务对象是用于表示业务实体的主要机制，支持从具有标量属性的简单基本对象到大型复杂层次结构或对象图的任何实体。"
+    },
+    {
+      "en": "For this reason the inner product is called also the scalar product.",
+      "cn": "为此,内积也叫做纯量积."
+    },
+    {
+      "en": "He played some basic scalar patterns on his guitar.",
+      "cn": "他在自己的吉他上弹了几个音阶."
+    },
+    {
+      "en": "If you stored a scalar value like a number or string, then that is what will come back.",
+      "cn": "如果您存储的是数字或字符串等标量值，那么将返回这些内容。"
+    },
+    {
+      "en": "In PASCAL , a collection of nonreal scalar elements, called members.",
+      "cn": "在PASCAL语言中, 称为成员的非实数标量元素的集合."
+    },
+    {
+      "en": "Kinetic energy is a scalar property of motion.",
+      "cn": "动能是运动的一种标量属性."
+    },
+    {
+      "en": "Scalar formulas do carry over for these matrices.",
+      "cn": "对于这些矩阵,数量间一些公式确实保留下来."
+    },
+    {
+      "en": "Shows the return type of this function: Scalar - valued , Table - valued, or Inline.",
+      "cn": "显示此函数的返回类型: “标量值” 、 “ 表值 ”或“内联”."
+    },
+    {
+      "en": "Simulation results agree well with measurements by HP scalar network analyzer.",
+      "cn": "HP标量网络分析仪的测试结果表明,器件的模式匹配法仿真结果与实测结果吻合很好."
+    },
+    {
+      "en": "Studies scalar multiplication algorithms to speed up the elliptic curve cryptosystem.",
+      "cn": "研究椭圆曲线加密体系中的数乘运算."
+    },
+    {
+      "en": "The criterion of equality of two quaternions is that their scalar parts shall be equal.",
+      "cn": "两个四元数相等的准则是,它们的数量部分相等."
+    },
+    {
+      "en": "The dot product, being the product of three scalars, is a scalar.",
+      "cn": "点积是三个标量的乘积, 所以是个标量."
+    },
+    {
+      "en": "The strain vector is a scalar quantity.",
+      "cn": "应变向量为一纯量."
+    },
+    {
+      "en": "The volume V is given in terms of the scalar triple product.",
+      "cn": "体积V能用数量三乘积表示."
+    },
+    {
+      "en": "We discuss in more detail the application of the coupledmode formalism to scalar waveguide deformations.",
+      "cn": "我们将详细讨论耦合模公式对标量波导畸变的应用."
+    },
+    {
+      "en": "We recognize this expression as just the scalar product.",
+      "cn": "可以认出,此表达式正好就是标积."
+    },
+    {
+      "en": "We will now go through an example of how to create a new scalar DB2 function.",
+      "cn": "现在我们将观察一个关于如何创建新的标量 DB2 函数的例子。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "quantitative",
+            "graduated"
+          ],
+          "tran_cn": "[数]标量的；数量的；梯状的，分等级的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "amount",
+            "quantity of"
+          ],
+          "tran_cn": "[数]标量；数量"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "scalar field",
+      "tran_cn": "标量场；纯量场；数量场"
+    },
+    {
+      "phrase": "scalar multiplication",
+      "tran_cn": "纯量乘法；标量乘法"
+    },
+    {
+      "phrase": "scalar potential",
+      "tran_cn": "标量势；标量位"
+    },
+    {
+      "phrase": "scalar product",
+      "tran_cn": "无向积；数积"
+    },
+    {
+      "phrase": "scalar quantity",
+      "tran_cn": "[计]数量，纯量，标量"
+    },
+    {
+      "phrase": "scalar wave",
+      "tran_cn": "标量波"
+    },
+    {
+      "phrase": "scalar wave equation",
+      "tran_cn": "标量波动方程；纯量波动方程式"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "梯状的，分等级的，数量的，标量的",
+      "tran_en": "having magnitude but not direction "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "[数] 标量；[数] 数量",
+      "tran_en": "a quantity, such as time or temperature, that has magnitude but not direction "
+    }
+  ],
+  "exchange": {}
+}

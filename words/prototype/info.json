@@ -1,0 +1,180 @@
+{
+  "word": "prototype",
+  "ipa": {
+    "us": "ˈprəʊtətaɪp",
+    "uk": "ˈproʊtətaɪp"
+  },
+  "sentences": [
+    {
+      "en": "A component prototype modeling method based on semantics was suggested.",
+      "cn": "提出了一种基于语义的组件化样机建模方法."
+    },
+    {
+      "en": "But how do you come up with the architecture for this evolutionary prototype?",
+      "cn": "但是你将如何为这个进化的原型提出系统的架构呢？"
+    },
+    {
+      "en": "But it may be an alternative when you have to finish a prototype in limited time.",
+      "cn": "但是，当您需要在有限的时间内完成一个原型时，这也许是一种选择。"
+    },
+    {
+      "en": "Chris Retzler has built a prototype of a machine called the wave rotor.",
+      "cn": "克里斯·雷茨勒已制造出了一种叫波转子的机器的样机。"
+    },
+    {
+      "en": "Create a prototype or conduct a pilot of your project.",
+      "cn": "形成该项目的雏形或者试行一下."
+    },
+    {
+      "en": "Do you want me to go ahead with a prototype, then?",
+      "cn": "那么,你是不是要我搞个样品出来?"
+    },
+    {
+      "en": "He flew the prototype to West Raynham to demonstrate it to a group of senior officers.",
+      "cn": "他将原型空运到西雷纳姆，向一批高级军官作演示。"
+    },
+    {
+      "en": "He was the prototype of the elder statesman.",
+      "cn": "他是老一辈政治家的典型。"
+    },
+    {
+      "en": "Here are the results of the tests on the prototype.",
+      "cn": "这是在原型机上测试的结果."
+    },
+    {
+      "en": "How do you test the prototype of the vending machine?",
+      "cn": "你如何测试一个自动售货机的原型?。"
+    },
+    {
+      "en": "Metal - wheeled chariots are the prototype of the tanks of modern warfare.",
+      "cn": "金属轮战车是现代战争中坦克的原型."
+    },
+    {
+      "en": "Research and Development are also very busy? they're testing the new prototype.",
+      "cn": "研究和开发部也很忙,他们在测试新的样车."
+    },
+    {
+      "en": "The company is presently testing a prototype material.",
+      "cn": "公司目前正在测试一种原型材料."
+    },
+    {
+      "en": "The model and the prototype are geometrically similar.",
+      "cn": "模型与原型为几何相似."
+    },
+    {
+      "en": "the prototype of the modern bicycle",
+      "cn": "现代自行车的雏形"
+    },
+    {
+      "en": "This simple device is the prototype of the commercial alternating current generator , or alternator.",
+      "cn": "这个简单装置就是商用交流发电机的原型."
+    },
+    {
+      "en": "VP is the abbreviation for Virtual Prototype. It is a new method of product development.",
+      "cn": "VP是英文Virtual Prototype 的缩写,即虚拟样机,是一种崭新的产品开发技术."
+    },
+    {
+      "en": "Well, we could talk to some selected customers and show them a prototype.",
+      "cn": "唔, 我们可以找几位客户谈谈,给他们看看产品的样品."
+    },
+    {
+      "en": "What is the difference between these prototype declaration?",
+      "cn": "这些原型声明的区别是什么？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prototypal",
+          "tran_cn": " 原型的"
+        },
+        {
+          "word": "prototypical",
+          "tran_cn": " 原型的；典型的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "criterion",
+            "standard",
+            "level",
+            "norms",
+            "type"
+          ],
+          "tran_cn": "[生物]原型；标准，模范"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ancestor",
+            "criterion",
+            "original",
+            "pattern"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "function prototype",
+      "tran_cn": "函数原型"
+    },
+    {
+      "phrase": "prototype development",
+      "tran_cn": "原型开发；原型机研制"
+    },
+    {
+      "phrase": "prototype machine",
+      "tran_cn": "样机；原型电机"
+    },
+    {
+      "phrase": "prototype stage",
+      "tran_cn": "原型阶段"
+    },
+    {
+      "phrase": "prototype system",
+      "tran_cn": "[计]原型系统"
+    },
+    {
+      "phrase": "prototype test",
+      "tran_cn": "原型测试，样机试验"
+    },
+    {
+      "phrase": "prototype testing",
+      "tran_cn": "样机试验；原型试验；实船实验"
+    },
+    {
+      "phrase": "prototype theory",
+      "tran_cn": "原型理论；原型说"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "原型，雏形，蓝本",
+      "tran_en": "the first form that a new design of a car, machine etc has, or a model of it used to test the design before it is produced"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "prototypes"
+    ],
+    "adj": [
+      "prototypical"
+    ]
+  }
+}

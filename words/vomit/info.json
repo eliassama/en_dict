@@ -1,0 +1,194 @@
+{
+  "word": "vomit",
+  "ipa": {
+    "us": "ˈvɒmɪt",
+    "uk": "ˈvɑːmɪt"
+  },
+  "sentences": [
+    {
+      "en": "Any product made from cow's milk made him vomit.",
+      "cn": "任何乳制品都会让他呕吐。"
+    },
+    {
+      "en": "He began to vomit.",
+      "cn": "他开始呕吐."
+    },
+    {
+      "en": "He had swallowed so much sea water he wanted to vomit.",
+      "cn": "他呛了这么多海水，所以想吐。"
+    },
+    {
+      "en": "He was afraid that it might nauseate him and he would vomit and lose his strength.",
+      "cn": "他怕这肉会使他恶心,弄得他呕吐,丧失力气."
+    },
+    {
+      "en": "I knew I was really in trouble when I began vomiting blood.",
+      "cn": "我开始吐血的时候才知道我的麻烦大了。"
+    },
+    {
+      "en": "I was up all night cleaning vomit off an antique quilt.",
+      "cn": "我一整晚没睡都在清理古董被子上的呕吐物."
+    },
+    {
+      "en": "She began to vomit blood a few days before she died.",
+      "cn": "她临死前几天开始吐血。"
+    },
+    {
+      "en": "She was stricken by pain and began to vomit.",
+      "cn": "她感到一阵疼痛,开始呕吐起来."
+    },
+    {
+      "en": "Tall chimneys belch [ vomit ] forth black smoke.",
+      "cn": "高高的烟囱 喷吐 出黑烟."
+    },
+    {
+      "en": "The rank smell of vomit reached me.",
+      "cn": "我闻到了呕吐物的臭气."
+    },
+    {
+      "en": "The smell made her want to vomit.",
+      "cn": "那气味使得她想要吐。"
+    },
+    {
+      "en": "The stink of vomit reached me instantly.",
+      "cn": "我马上就闻到了呕吐物的酸臭味."
+    },
+    {
+      "en": "The taste of blood in her throat made her want to vomit.",
+      "cn": "她嗓子里的血腥味让她直恶心。"
+    },
+    {
+      "en": "The unpleasant smell made her sick and she began to vomit.",
+      "cn": "那难闻的味道令她不适,她开始呕吐起来."
+    },
+    {
+      "en": "They gave her salty water to make her vomit.",
+      "cn": "他们给她喝盐水好让她吐出来."
+    },
+    {
+      "en": "Too much beer makes me vomit.",
+      "cn": "喝太多啤酒会使我呕吐."
+    },
+    {
+      "en": "Trains vomit out crowds of passengers at a terminus.",
+      "cn": "成群的旅客在终点站从列车中挤出来."
+    },
+    {
+      "en": "Zimmer slipped and nearly fell on a pool of vomit.",
+      "cn": "齐默滑了一跤，差点儿摔倒在一滩呕吐物上。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vomitive",
+          "tran_cn": " 呕吐的，使呕吐的"
+        },
+        {
+          "word": "vomitory",
+          "tran_cn": " 呕吐的；使呕吐的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vomiter",
+          "tran_cn": " 呕吐的人"
+        },
+        {
+          "word": "vomitive",
+          "tran_cn": " 催吐剂"
+        },
+        {
+          "word": "vomitory",
+          "tran_cn": " 催吐剂；出入口"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sickness",
+            "emesis"
+          ],
+          "tran_cn": "[医]呕吐；呕吐物；催吐剂"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "heave",
+            "regurgitate",
+            "retch",
+            "spew",
+            "throw",
+            "up"
+          ],
+          "tran_cn": "呕吐;喷出;吐出"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "spit out",
+            "regorge"
+          ],
+          "tran_cn": "吐出；使……呕吐"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "呕吐，呕吐物，催吐剂",
+      "tran_en": "food or other substances that come up from your stomach and through your mouth when you vomit"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 呕吐， 恶心； 喷出",
+      "tran_en": "to bring food or drink up from your stomach out through your mouth, because you are ill"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "呕吐，大量喷出"
+    },
+    {
+      "pos": "vt&vi",
+      "tran_cn": "呕吐；大量喷出",
+      "tran_en": "to bring food or drink up from your stomach out through your mouth, because you are ill"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "vomits"
+    ],
+    "third": [
+      "vomits"
+    ],
+    "past": [
+      "vomited"
+    ],
+    "done": [
+      "vomited"
+    ],
+    "ing": [
+      "vomiting"
+    ]
+  }
+}

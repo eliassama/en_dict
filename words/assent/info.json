@@ -1,0 +1,203 @@
+{
+  "word": "assent",
+  "ipa": {
+    "us": "əˈsent",
+    "uk": "əˈsɛnt"
+  },
+  "sentences": [
+    {
+      "en": "a nod of assent",
+      "cn": "首肯"
+    },
+    {
+      "en": "An intelligible gleam of assent twinkled in his eye.",
+      "cn": "一种会意的赞同的光彩闪现在他的眼睛里."
+    },
+    {
+      "en": "Do you - - does each of you -- accept this great trust [ Tumultuous assent ]?",
+      "cn": "请问大家 -- 请问各位 -- 是否接受这个 重托 呢(台下纷纷答应 )?"
+    },
+    {
+      "en": "He gave his assent to the proposed legislation.",
+      "cn": "他批准了提请审议的法案。"
+    },
+    {
+      "en": "Her only answer was a murmured assent.",
+      "cn": "她什么也没说,只答应了两声."
+    },
+    {
+      "en": "I assented to the request of the American publishers to write this book.",
+      "cn": "我同意了美国出版商们写这本书的请求。"
+    },
+    {
+      "en": "I cannot assent to what you ask.",
+      "cn": "我不能应允你的要求."
+    },
+    {
+      "en": "I couldn't assent to, much less participate in such proceeding.",
+      "cn": "我对于这种举动并不赞成, 哪里还谈得上参与呢."
+    },
+    {
+      "en": "It was in some strange way, a chilling smile, of assent.",
+      "cn": "他这一笑, 是一种令人毛骨悚然的冷笑, 是一种表示默认的冷笑."
+    },
+    {
+      "en": "Melville's disenchanted comment shows that it has never commanded total assent.",
+      "cn": "梅尔维尔清醒的看法却从未得到大家的同意."
+    },
+    {
+      "en": "My assent is given with a hook at the end.",
+      "cn": "我的同意是有保留的."
+    },
+    {
+      "en": "My father will never assent to my spending a holiday abroad before I'm 16.",
+      "cn": "家父决不允许我在16岁前去国外度假."
+    },
+    {
+      "en": "She gave a nod of assent.",
+      "cn": "她点头表示同意."
+    },
+    {
+      "en": "The director has given her assent to the proposals.",
+      "cn": "负责人已表示同意提案。"
+    },
+    {
+      "en": "The new bill passed by Parliament has received Royal Assent.",
+      "cn": "议会所通过的新方案已获国王批准."
+    },
+    {
+      "en": "They had my assent.",
+      "cn": "他们得到我的同意."
+    },
+    {
+      "en": "With a word of assent, Chang Sheng departed.",
+      "cn": "张升答应一声就出去了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "assentient",
+          "tran_cn": " 同意的；赞同的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assentient",
+          "tran_cn": " 同意者；赞同者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agreement",
+            "yes",
+            "Ok",
+            "leave",
+            "Okay"
+          ],
+          "tran_cn": "同意；赞成"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accede",
+            "accept",
+            "accession",
+            "acquiesce",
+            "adhesion",
+            "admission",
+            "agree",
+            "approve",
+            "comply",
+            "concession",
+            "conform",
+            "conformity",
+            "consent",
+            "harmonize",
+            "harmony",
+            "of",
+            "soften",
+            "subscription",
+            "yes"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "accept",
+            "agree",
+            "approve",
+            "comply",
+            "consent",
+            "of"
+          ],
+          "tran_cn": "同意,赞成"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "royal assent",
+      "tran_cn": "（国王对国会决议的）御准"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "同意，赞同：",
+      "tran_en": "approval or agreement from someone who has authority"
+    },
+    {
+      "pos": "n&vi",
+      "tran_cn": " 同意， 赞成",
+      "tran_en": "approval or agreement from someone who has authority"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "同意；赞成",
+      "tran_en": "to agree to a suggestion, idea etc after considering it carefully"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "赞成：赞成，如某建议，赞同"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "assents"
+    ],
+    "third": [
+      "assents"
+    ],
+    "past": [
+      "assented"
+    ],
+    "done": [
+      "assented"
+    ],
+    "ing": [
+      "assenting"
+    ]
+  }
+}

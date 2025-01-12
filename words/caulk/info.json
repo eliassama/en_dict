@@ -1,0 +1,89 @@
+{
+  "word": "caulk",
+  "ipa": {
+    "us": "kɔ:k",
+    "uk": "kɔk"
+  },
+  "sentences": [
+    {
+      "en": "Caulk a pipe joint; caulked the cracks between the boards with mud.",
+      "cn": "堵住水管接头的缝隙; 用泥堵住木板之间的裂缝."
+    },
+    {
+      "en": "Caulk or grouting needed in tub area.",
+      "cn": "需要为汽缸做灌浆或防漏."
+    },
+    {
+      "en": "Fibermax caulk is also used as a patchingmaterial around deteriorating burner blocks.",
+      "cn": "Fibermax填缝材料还可用作维修炉体时的修补材料."
+    },
+    {
+      "en": "Plumbers caulk joints in pipe with lead, string or a caulking compound.",
+      "cn": "管子工用铅 、 绳子或专用填隙材料使管子的接头不漏水."
+    },
+    {
+      "en": "Shipbuilders caulk wooden boats with oakum and tar.",
+      "cn": "造船工匠用麻丝和沥青填塞木船缝隙,使之不渗水."
+    },
+    {
+      "en": "The sailors couldn't find anything to caulk the seam in the boat.",
+      "cn": "水手们找不到任何东西来填塞船上的裂缝."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "caulking",
+          "tran_cn": " 堵缝的；嵌缝的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "caulking",
+          "tran_cn": " [建] 堵缝；压紧"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "caulking",
+          "tran_cn": " [建] 堵缝；凿密（caulk的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 填塞使不漏水",
+      "tran_en": "to fill the holes or cracks in a ship with an oily or sticky substance in order to keep water out"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "堵（船的）缝，泥…的缝，填塞，使不漏水"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "caulks"
+    ],
+    "past": [
+      "caulked"
+    ],
+    "done": [
+      "caulked"
+    ],
+    "ing": [
+      "caulking"
+    ]
+  }
+}

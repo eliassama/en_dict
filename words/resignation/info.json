@@ -1,0 +1,220 @@
+{
+  "word": "resignation",
+  "ipa": {
+    "us": "ˌrezɪgˈneɪʃn",
+    "uk": "ˌrɛzɪɡˈneʃən"
+  },
+  "sentences": [
+    {
+      "en": "Further resignations are expected later this week.",
+      "cn": "本周后半周会有更多人辞职。"
+    },
+    {
+      "en": "He accepted her decision with resignation.",
+      "cn": "他无可奈何地接受了她的决定。"
+    },
+    {
+      "en": "He formally submitted his resignation.",
+      "cn": "他正式提交了辞呈."
+    },
+    {
+      "en": "He gave in his resignation yesterday.",
+      "cn": "他昨天递上了辞呈."
+    },
+    {
+      "en": "He handed in his resignation right after the cabinet meeting.",
+      "cn": "内阁会议一开完,他就提出了辞呈."
+    },
+    {
+      "en": "He has filed his resignation with the manager.",
+      "cn": "他已向经理提出辞呈."
+    },
+    {
+      "en": "He sighed with profound resignation.",
+      "cn": "他极其无奈地叹了一口气。"
+    },
+    {
+      "en": "I submitted my resignation yesterday.",
+      "cn": "我昨天递交了辞呈."
+    },
+    {
+      "en": "Illness forced his resignation.",
+      "cn": "他不得不因病辞职。"
+    },
+    {
+      "en": "In the union office, the mood gradually changed from resignation to rage.",
+      "cn": "在工会办公室，情绪慢慢从顺从转变成愤怒。"
+    },
+    {
+      "en": "Mr Maddison handed over his resignation letter with a heavy heart.",
+      "cn": "麦迪逊先生心情沉重地递上自己的辞呈。"
+    },
+    {
+      "en": "Mr Morgan has offered his resignation and it has been accepted.",
+      "cn": "摩根先生己经递交了辞呈，并已获准。"
+    },
+    {
+      "en": "She bore the pain with resignation.",
+      "cn": "她默默地忍受着痛苦."
+    },
+    {
+      "en": "She gave a sigh of resignation.",
+      "cn": "她无奈地叹了一口气。"
+    },
+    {
+      "en": "She handed in her resignation and was put on three months' gardening leave.",
+      "cn": "她交上辞呈后，却得到了三个月的园艺假。"
+    },
+    {
+      "en": "She quickly tendered her resignation.",
+      "cn": "她很快递交了辞呈。"
+    },
+    {
+      "en": "The Council will meet to decide if it should accept his resignation.",
+      "cn": "委员会将召开会议决定是否接受他的辞呈。"
+    },
+    {
+      "en": "The men trooped into work with resignation.",
+      "cn": "男人们被迫只好一伙伙地开始工作。"
+    },
+    {
+      "en": "This morning, looking harassed and drawn, Lewis tendered his resignation.",
+      "cn": "今天早晨，刘易斯面色憔悴、疲惫不堪地递交了辞呈。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "resigned",
+          "tran_cn": "顺从的；已辞职的；己放弃的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "resignedly",
+          "tran_cn": "听从地；服从地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "resign",
+          "tran_cn": "辞去职务"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "resigned",
+          "tran_cn": "辞职；顺从（resign的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "resign",
+          "tran_cn": "辞职"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "resign",
+          "tran_cn": "辞职；放弃；委托；使听从"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "endurance",
+            "forbearance",
+            "long-suffering",
+            "patience",
+            "resignedness",
+            "tolerance",
+            "toleration"
+          ],
+          "tran_cn": "忍受"
+        },
+        {
+          "words": [
+            "abandonment",
+            "abdication",
+            "demission",
+            "disclamation",
+            "leaving",
+            "notice",
+            "quitting",
+            "rejection",
+            "renouncing",
+            "renunciation",
+            "resigning",
+            "retirement",
+            "termination",
+            "withdrawal"
+          ],
+          "tran_cn": "放弃"
+        },
+        {
+          "words": [
+            "acceptance",
+            "acquiescence",
+            "appeasement",
+            "compliance",
+            "meekness",
+            "obedience",
+            "passiveness",
+            "passivity",
+            "reconciliation",
+            "submission",
+            "submissiveness",
+            "yielding"
+          ],
+          "tran_cn": "默认,屈服,谦和"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "concession"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "辞职，辞职书，顺从，听从",
+      "tran_en": "when someone calmly accepts a situation that cannot be changed, even though it is bad"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "resignations"
+    ]
+  }
+}

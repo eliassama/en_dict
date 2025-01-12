@@ -1,0 +1,64 @@
+{
+  "word": "osculation",
+  "ipa": {
+    "us": "ˌɒskjʊ'leɪʃən",
+    "uk": "ˌɒskjə'leɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "Cooperate with mining engineer very osculation.",
+      "cn": "密切配合采矿工程师的工作."
+    },
+    {
+      "en": "The concept of band osculation is presented by analyzing surface contact types.",
+      "cn": "通过对曲面接触类型分析，提出了带状密切的概念。"
+    },
+    {
+      "en": "To great degree, mastering English well is due to a great deal osculation to this language.",
+      "cn": "掌握好英语很大程度上要归因于大量接触该语言."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "osculate",
+          "tran_cn": " 有共同点；有共通点"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "osculate",
+          "tran_cn": " 接吻；接触；与……有共同特性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contact",
+            "touch"
+          ],
+          "tran_cn": "[数]密切；接吻；接触"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "接吻，密接，接触，（几何）密切",
+      "tran_en": "a point at which two branches of a curve have a common tangent, each branch extending in both directions of the tangent "
+    }
+  ],
+  "exchange": {}
+}

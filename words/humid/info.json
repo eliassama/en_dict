@@ -1,0 +1,163 @@
+{
+  "word": "humid",
+  "ipa": {
+    "us": "ˈhjuːmɪd",
+    "uk": "ˈhjuːmɪd"
+  },
+  "sentences": [
+    {
+      "en": "It was a hot, humid summer day.",
+      "cn": "这是个炎热潮湿的夏日。"
+    },
+    {
+      "en": "It's hot out — very hot, very humid.",
+      "cn": "外面很热——非常炎热而且非常潮湿。"
+    },
+    {
+      "en": "It's too humid today",
+      "cn": ">今天真潮湿！"
+    },
+    {
+      "en": "It's too humid today; it's hard to breathe!",
+      "cn": "今天真闷热, 热得透不过气来!"
+    },
+    {
+      "en": "Overweight and sweating in the humid weather, she stamped from room to room.",
+      "cn": "她很胖，在潮湿的天气里浑身大汗，烦躁地在各个房间之间噔噔地走来走去。"
+    },
+    {
+      "en": "Ridges occur in humid regions along belts of resistant rocks.",
+      "cn": "在潮湿地区,山脊沿着耐蚀的石带发育."
+    },
+    {
+      "en": "Sometimes two crops a year are taken in the humid tropics.",
+      "cn": "在湿润的热带地区有时一年种两季作物."
+    },
+    {
+      "en": "The climate also seemed to her strange and humid.",
+      "cn": "气候也是那样的怪异,潮湿."
+    },
+    {
+      "en": "The moisture in the air makes it humid today.",
+      "cn": "今天空气中水气大,天气很潮湿."
+    },
+    {
+      "en": "The South has hot, humid summers, short winters and long growing season.",
+      "cn": "南部地区夏季湿热, 冬季短,生长季节长."
+    },
+    {
+      "en": "These ferns will grow best in a humid atmosphere.",
+      "cn": "这些蕨类植物在湿热的环境中长得最旺。"
+    },
+    {
+      "en": "These systems appear ecologically well adapted to the humid tropics.",
+      "cn": "这些系统对于潮湿热带地区表现良好的生态适应."
+    },
+    {
+      "en": "This humid heat makes you feel rather sluggish.",
+      "cn": "这种湿热的天气使人感到懒洋洋的."
+    },
+    {
+      "en": "Tokyo is extremely humid in mid-summer.",
+      "cn": "仲夏的东京十分潮湿。"
+    },
+    {
+      "en": "Visitors can expect hot and humid condi-tions.",
+      "cn": "游客会遇到炎热潮湿的天气状况。"
+    },
+    {
+      "en": "Visitors can expect hot and humid conditions.",
+      "cn": "游客会遇到炎热潮湿的天气状况。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "humectant",
+          "tran_cn": " 湿润的；湿润剂的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "humectant",
+          "tran_cn": " [助剂] 湿润剂"
+        },
+        {
+          "word": "humidity",
+          "tran_cn": " [气象] 湿度；湿气"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "humidify",
+          "tran_cn": " 使潮湿；使湿润"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "damp",
+            "moist",
+            "muggy",
+            "wet"
+          ],
+          "tran_cn": "潮湿的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "damp",
+            "dank",
+            "foggy",
+            "moist",
+            "muggy",
+            "sticky",
+            "sultry",
+            "tropical",
+            "wet"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "humid air",
+      "tran_cn": "湿空气"
+    },
+    {
+      "phrase": "humid climate",
+      "tran_cn": "湿润气候；潮湿气候"
+    },
+    {
+      "phrase": "humid heat",
+      "tran_cn": "湿比热；湿润比热"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "潮湿的，湿气重的，湿润的，温湿",
+      "tran_en": "if the weather is humid, you feel uncomfortable because the air is very wet and usually hot"
+    }
+  ],
+  "exchange": {}
+}

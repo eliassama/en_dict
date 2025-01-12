@@ -1,0 +1,265 @@
+{
+  "word": "launch",
+  "ipa": {
+    "us": "lɔːntʃ",
+    "uk": "lɔːntʃ"
+  },
+  "sentences": [
+    {
+      "en": "a new product launch",
+      "cn": "新产品的推出"
+    },
+    {
+      "en": "A series of technical foul-ups delayed the launch of the new product.",
+      "cn": "一系列技术问题延误了新产品的上市。"
+    },
+    {
+      "en": "A test satellite was launched from Cape Canaveral.",
+      "cn": "一颗实验人造卫星从卡纳维拉尔角发射升空。"
+    },
+    {
+      "en": "Are you at the launch of the new ship?",
+      "cn": "新船下水时你在场 吗 ?"
+    },
+    {
+      "en": "he launched into a two-hour sales pitch.",
+      "cn": "他发动了一场两小时的销售宣传。"
+    },
+    {
+      "en": "He would soon launch a second offensive, killing off the peace process.",
+      "cn": "他不久将会再次发动进攻，彻底毁掉整个和平进程。"
+    },
+    {
+      "en": "Journalists report seeing a fire on the pad after the launch.",
+      "cn": "记者们报道说在发射后看到发射台着火了。"
+    },
+    {
+      "en": "she wasn't brave enough to launch out by herself.",
+      "cn": "她没有勇气独自闯荡一番。"
+    },
+    {
+      "en": "The book launched his career as a novelist.",
+      "cn": "这本书开启了他的小说创作生涯。"
+    },
+    {
+      "en": "The Canadian police plan to launch an investigation into the deal.",
+      "cn": "加拿大警方计划对这宗交易进行调查。"
+    },
+    {
+      "en": "The company hopes to launch the new drug by next October.",
+      "cn": "公司希望于明年10月前推出这种新药。"
+    },
+    {
+      "en": "The company proudly announced the launch of its new range of cars.",
+      "cn": "该公司骄傲地宣布其新一系列的轿车已投放市场."
+    },
+    {
+      "en": "The makers are about to launch out a new product.",
+      "cn": "制造商们马上要生产一种新产品."
+    },
+    {
+      "en": "The organization has launched a campaign to raise $150,000.",
+      "cn": "为了筹集15万美元，该组织发起了一场募捐活动。"
+    },
+    {
+      "en": "The original planned launch was called off four minutes before blast-off.",
+      "cn": "原定的发射在点火起飞前4分钟被取消。"
+    },
+    {
+      "en": "The satellite had been inactive since its launch two years ago.",
+      "cn": "该卫星自从两年前发射以来一直没起作用。"
+    },
+    {
+      "en": "The two countries signed an agreement to jointly launch satellites.",
+      "cn": "两国曾签订了联合发射人造卫星的协议。"
+    },
+    {
+      "en": "This Christmas sees the launch of a new games console.",
+      "cn": "这个圣诞节会有一款新型游戏机上市。"
+    },
+    {
+      "en": "This morning's launch of the space shuttle Columbia has been delayed.",
+      "cn": "原定今早“哥伦比亚”号航天飞机的发射已被推迟."
+    },
+    {
+      "en": "This was enough to launch their careers into the stratosphere.",
+      "cn": "这足以让他们的事业平步青云了。"
+    },
+    {
+      "en": "We'll make a trip by launch to White Island.",
+      "cn": "我们将乘汽艇到怀特岛。"
+    },
+    {
+      "en": "William joined forces with businessman Nicholas Court to launch the new vehicle.",
+      "cn": "威廉和企业家尼古拉斯·考特联手推出这款新车。"
+    },
+    {
+      "en": "Wimbledon has been a launch pad for so many players.",
+      "cn": "温布尔登一直是成就众多球手的地方。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "launcher",
+          "tran_cn": " 发射器；发射台；发射者"
+        },
+        {
+          "word": "launching",
+          "tran_cn": " 发射；下水；创设"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "launching",
+          "tran_cn": " 发射；发动；开始从事（launch的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "emission",
+            "shot",
+            "sending",
+            "projection",
+            "loose"
+          ],
+          "tran_cn": "[航]发射；发行，投放市场；下水；汽艇"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "fire",
+            "introduce",
+            "spring",
+            "start"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "proceed",
+            "start in"
+          ],
+          "tran_cn": "开始；下水；起飞"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "release",
+            "send",
+            "project",
+            "drive",
+            "let go"
+          ],
+          "tran_cn": "[航]发射（导弹、火箭等）；发起，发动；使…下水"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "launch a satellite",
+      "tran_cn": "发射卫星"
+    },
+    {
+      "phrase": "launch date",
+      "tran_cn": "下水日期；发行日期；上市日期"
+    },
+    {
+      "phrase": "launch into",
+      "tran_cn": "进入，投入"
+    },
+    {
+      "phrase": "launch into launch out",
+      "tran_cn": "开创，启动（新而难的事）"
+    },
+    {
+      "phrase": "launch on",
+      "tran_cn": "开始；着手"
+    },
+    {
+      "phrase": "launch out",
+      "tran_cn": "出航；开始新的事情"
+    },
+    {
+      "phrase": "launch pad",
+      "tran_cn": "n. 发射台"
+    },
+    {
+      "phrase": "launch site",
+      "tran_cn": "发射场；发射区；活力地带（MSN的功能区之一）"
+    },
+    {
+      "phrase": "launch vehicle",
+      "tran_cn": "运载火箭"
+    },
+    {
+      "phrase": "product launch",
+      "tran_cn": "产品发布"
+    },
+    {
+      "phrase": "quick launch",
+      "tran_cn": "快速启动"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "发射，下水，上市，发起，大型汽艇",
+      "tran_en": "when a new product, book etc is made available or made known"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "开始从事，发起，上市，使（船）下水，发射，猛扑向前",
+      "tran_en": "to start something, usually something big or important"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使下水；发射，投射；发动，发起；投放，推出；使开始从事",
+      "tran_en": "to start something, usually something big or important"
+    },
+    {
+      "pos": "vt&n",
+      "tran_cn": "发射",
+      "tran_en": "to start something, usually something big or important"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "launches"
+    ],
+    "past": [
+      "launched"
+    ],
+    "done": [
+      "launched"
+    ],
+    "ing": [
+      "launching"
+    ]
+  }
+}

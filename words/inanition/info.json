@@ -1,0 +1,79 @@
+{
+  "word": "inanition",
+  "ipa": {
+    "us": "ˌɪnə'nɪʃən",
+    "uk": "ˌɪnə'nɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "Because nutrition has been used up big, inanition is caused.",
+      "cn": "因为营养消耗过大, 营养不足造成."
+    },
+    {
+      "en": "Remedy some inanition on soul a bit.",
+      "cn": "弥补一些些心灵上的空虚."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inane",
+          "tran_cn": " 空洞的，空虚的；愚蠢的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "inanely",
+          "tran_cn": " 空洞地；愚蠢地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inanity",
+          "tran_cn": " 空虚；愚蠢；浅薄"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "blank",
+            "emptiness"
+          ],
+          "tran_cn": "空虚；[医]营养不足；死气沉沉"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "starvation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（尤指缺乏营养造成的）虚乏"
+    }
+  ],
+  "exchange": {}
+}

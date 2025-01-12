@@ -1,0 +1,258 @@
+{
+  "word": "reasoning",
+  "ipa": {
+    "us": "ˈriːznɪŋ , ˈriːzənɪŋ",
+    "uk": "ˈriːznɪŋ , ˈriːzənɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "...the reasoning behind the decision.",
+      "cn": "…该决定背后的论证。"
+    },
+    {
+      "en": "But auctions require \"if he thinks that she thinks that I think that he thinks\" chains of reasoning that tend to have weak links.",
+      "cn": "不过，拍卖要求有“如果他认为她认为我认为他那么认为”的推理链条，而这种链条往往存在薄弱环节。"
+    },
+    {
+      "en": "His reasoning is perfectly sound, but he misses the point.",
+      "cn": "他的推理完全正确，但是未切中肯綮。"
+    },
+    {
+      "en": "It gave a basis for reasoning.",
+      "cn": "这为推理提供了依据."
+    },
+    {
+      "en": "Let me explain my reasoning.",
+      "cn": "让我解释我的推论。"
+    },
+    {
+      "en": "No amount of reasoning could shake him out of his conviction.",
+      "cn": "再怎样跟他讲道理都不能让他放弃自己认准的事。"
+    },
+    {
+      "en": "Only by presenting facts and reasoning things out can we convince people.",
+      "cn": "摆事实、讲道理,才能让人服气."
+    },
+    {
+      "en": "Only by reasoning can we convince people completely.",
+      "cn": "只有以理服人,才能使人心悦诚服."
+    },
+    {
+      "en": "The atmosphere was calm with each side reasoning things out.",
+      "cn": "会谈的气氛是平静的、说理的."
+    },
+    {
+      "en": "the exaltation of emotion above logical reasoning",
+      "cn": "把情感提高到逻辑推理之上"
+    },
+    {
+      "en": "The line of reasoning will only lead you up another blind alley.",
+      "cn": "那种推理方法只会把你引进另一条死胡同."
+    },
+    {
+      "en": "The reasoning seems rational.",
+      "cn": "这论据似乎是合乎情理的."
+    },
+    {
+      "en": "Their reasoning capacity must be developed.",
+      "cn": "他们的推理能力必须加以培养."
+    },
+    {
+      "en": "Their reasoning was based on a set of unstated assumptions.",
+      "cn": "他们的推理是以一系列未说明的假定为基础的。"
+    },
+    {
+      "en": "They found serious holes in his reasoning.",
+      "cn": "他们在他的推理中发现了严重的漏洞."
+    },
+    {
+      "en": "This kind of reasoning is deeply perverse.",
+      "cn": "这种推理是极其有悖常理的."
+    },
+    {
+      "en": "What is the reasoning behind this decision?",
+      "cn": "作出这个决定的依据是什么？"
+    },
+    {
+      "en": "Your clear reasoning is quite correct.",
+      "cn": "你的条理清楚的推论非常正确."
+    },
+    {
+      "en": "Your reasoning is comprehensive but I do not agree with you.",
+      "cn": "你的推理是可以理解的，但我不同意你的观点。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "reasonable",
+          "tran_cn": " 合理的，公道的；通情达理的"
+        },
+        {
+          "word": "reasoned",
+          "tran_cn": " 详尽论述的；理由充分的；合乎逻辑的"
+        },
+        {
+          "word": "reasonless",
+          "tran_cn": " 不合理的；不理智的，无理性的；无推理能力的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "reasonably",
+          "tran_cn": " 合理地；相当地；适度地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reason",
+          "tran_cn": " 理由；理性；动机"
+        },
+        {
+          "word": "reasonableness",
+          "tran_cn": " 合理；妥当"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "reasoned",
+          "tran_cn": " 说服；推断（reason的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "reason",
+          "tran_cn": " 推论；劝说"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "reason",
+          "tran_cn": " 说服；推论；辩论"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "theoretical",
+            "inferential"
+          ],
+          "tran_cn": "推理的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "argument",
+            "inference"
+          ],
+          "tran_cn": "推理；论证；评理"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "argumentation",
+            "deliberation",
+            "dialectic",
+            "discussion",
+            "judgment",
+            "logic",
+            "mental",
+            "thinking"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "urging"
+          ],
+          "tran_cn": "推论；说服（reason的ing形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "analogical reasoning",
+      "tran_cn": "类比推理"
+    },
+    {
+      "phrase": "deductive reasoning",
+      "tran_cn": "演绎推理，演绎推论；演绎法"
+    },
+    {
+      "phrase": "inductive reasoning",
+      "tran_cn": "归纳推理；归纳法"
+    },
+    {
+      "phrase": "logical reasoning",
+      "tran_cn": "逻辑推理"
+    },
+    {
+      "phrase": "moral reasoning",
+      "tran_cn": "道德推理；道德理性"
+    },
+    {
+      "phrase": "reasoning ability",
+      "tran_cn": "推理能力"
+    },
+    {
+      "phrase": "reasoning test",
+      "tran_cn": "推理测验"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "推理的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "推理，论证，运用思考、理解、推想等能力的做法或过程，论究，论断",
+      "tran_en": "a process of thinking carefully about something in order to make a judgment"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "推论；说服（reason的ing形式）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "reasonings"
+    ]
+  }
+}

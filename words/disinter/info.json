@@ -1,0 +1,72 @@
+{
+  "word": "disinter",
+  "ipa": {
+    "us": "ˌdɪsɪnˈtɜ:(r)",
+    "uk": "ˌdɪsɪnˈtə"
+  },
+  "sentences": [
+    {
+      "en": "Only then was it time to disinter the archaic weapons of the tribe.",
+      "cn": "这时才发掘出民族的武器."
+    },
+    {
+      "en": "The bones were disinterred and moved to a burial site.",
+      "cn": "骨头被掘出并移到了一片墓地。"
+    },
+    {
+      "en": "The court granted him permission to disinter the body.",
+      "cn": "法院批准他掘出体."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disinterment",
+          "tran_cn": " 挖掘；掘出物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "communicate",
+            "dig out"
+          ],
+          "tran_cn": "掘出；发掘；显露"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "掘出",
+      "tran_en": "to dig and remove a dead body from a  grave "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "掘出（尸体）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disinters"
+    ],
+    "past": [
+      "disinterred"
+    ],
+    "done": [
+      "disinterred"
+    ],
+    "ing": [
+      "disinterring"
+    ]
+  }
+}

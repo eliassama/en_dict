@@ -1,0 +1,91 @@
+{
+  "word": "instantiate",
+  "ipa": {
+    "us": "ɪns'tænʃɪeɪt",
+    "uk": "ɪns'tænʃɪeɪt"
+  },
+  "sentences": [
+    {
+      "en": "After you instantiate the Validation object you need to add rules to fields.",
+      "cn": "当您实例验证对象需要添加规则领域."
+    },
+    {
+      "en": "An explicit enclosing instance of class'{ 0 }'is needed to instantiate inner class'{ 1 }'",
+      "cn": "需要类 “ {0}”的显式封闭实例来实例化内部类 “ {1}”"
+    },
+    {
+      "en": "Cannot instantiate an object of type'{ 0 }'from its string representation,'{ 1 }'for the'{ 2 }'property.",
+      "cn": "无法将类型为 “ {0}”,属性“{2}”为 “ {1}”的对象从字符串表示形式实例化."
+    },
+    {
+      "en": "Cannot instantiate generator'% 1'for file'% 2 '.",
+      "cn": "无法为文件“%2 ” 实例化生成器“%1 ”."
+    },
+    {
+      "en": "Error object returned when failing to instantiate a template.",
+      "cn": "例示模板失败时,返回的错误对象."
+    },
+    {
+      "en": "In this case, you can instantiate the class, but you cannot access the internal member.",
+      "cn": "在此例中, 您可以实例化类, 但不能访问内部成员."
+    },
+    {
+      "en": "This constructor exists for use by the Policy object instantiate new Permission objects.",
+      "cn": "存在该构造函数是因为Policy对象 要用来实例化新的Permission对象."
+    },
+    {
+      "en": "When you instantiate a delegate, you can associate its instance with any method a compatible signature.",
+      "cn": "当您执行个体化委派时, 可以将其执行个体与任何具有相容签章的方法产生关联."
+    },
+    {
+      "en": "You cannot instantiate a function based on a function template based on a local type.",
+      "cn": "无法在基于局部类型的函数模板基础上实例化函数."
+    },
+    {
+      "en": "You cannot instantiate a generic or template class based on a local or unnamed type.",
+      "cn": "无法实例化基于局部类型或未命名类型的泛型或模板类."
+    },
+    {
+      "en": "You will never instantiate this class directly, but always create an instance of its subclass.",
+      "cn": "永远不要直接实例化这个类，而是创建它的子类的一个实例。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "instantiation",
+          "tran_cn": " 实例化；[计] 例示"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "illustrate",
+            "exemplify"
+          ],
+          "tran_cn": "例示，举例说明"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "例示",
+      "tran_en": "to represent by an instance "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "例示"
+    }
+  ],
+  "exchange": {}
+}

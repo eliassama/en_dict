@@ -1,0 +1,208 @@
+{
+  "word": "construct",
+  "ipa": {
+    "us": "kənˈstrʌkt , ˈkɒnstrʌkt",
+    "uk": "kənˈstrʌkt , ˈkɑːnstrʌkt"
+  },
+  "sentences": [
+    {
+      "en": "Construct a set of rectangular axes and resolve any inclined forces into rectangular components.",
+      "cn": "作一组直角坐标轴,把各力都分解成正交分量."
+    },
+    {
+      "en": "Every citizen has the duty to construct his country.",
+      "cn": "每个公民都有建设祖国的责任."
+    },
+    {
+      "en": "Henry decided he would construct this monument to himself and raise the money for it.",
+      "cn": "亨利决定要为他自己树立这个纪念碑,并为此而筹集资金."
+    },
+    {
+      "en": "How many man - days will be needed to construct this irrigation canal?",
+      "cn": "修这条渠道要多少人工?"
+    },
+    {
+      "en": "I can construct bridges which are very light and strong and very portable.",
+      "cn": "我能建造轻便、坚固、搬运便利的桥梁."
+    },
+    {
+      "en": "It is proverbially easier to destroy than to construct.",
+      "cn": "谁都知道破坏容易建设难."
+    },
+    {
+      "en": "It is required to construct an access bridge over a motorway.",
+      "cn": "要求跨过公路建造一座跨线桥."
+    },
+    {
+      "en": "It is simple to construct in moderate sizes.",
+      "cn": "很容易把它建造成中等尺寸."
+    },
+    {
+      "en": "Now they can construct tunnel systems without hindrance.",
+      "cn": "现在他们可以顺利地建造隧道系统了."
+    },
+    {
+      "en": "One way to construct this line is by least square, weighting all points equally.",
+      "cn": "办法之一是给予所有的点子以相等的权用最小二乘方法来画这条线."
+    },
+    {
+      "en": "The sidereal year is not used to construct a calendar.",
+      "cn": "恒星年不用于编制年历."
+    },
+    {
+      "en": "The variety of airborne is so great that it is difficult to construct tidy classifications.",
+      "cn": "气载的种类是如此之多,以致于很难作出严整的分类."
+    },
+    {
+      "en": "There are a number of ways in which one can construct a triplet code.",
+      "cn": "建立三联体密码可以有几种不同方式."
+    },
+    {
+      "en": "There are plans to construct a new road bridge across the river.",
+      "cn": "有计划要建造一条新的跨河公路桥。"
+    },
+    {
+      "en": "This fact provides us with the clue we need to construct a theory of the atom.",
+      "cn": "这个事实为形成一种原子理论提供了我们需要的线索."
+    },
+    {
+      "en": "We can construct the following sequence of identities.",
+      "cn": "我们能够得到下列一系列恒等式."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "constructible",
+          "tran_cn": " [数] 可构成的"
+        },
+        {
+          "word": "constructive",
+          "tran_cn": " 建设性的；推定的；构造上的；有助益的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "constructively",
+          "tran_cn": " 建设性地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "construction",
+          "tran_cn": " 建设；建筑物；解释；造句"
+        },
+        {
+          "word": "constructiveness",
+          "tran_cn": " 建造性"
+        },
+        {
+          "word": "constructivism",
+          "tran_cn": " 构成主义；构成派"
+        },
+        {
+          "word": "constructivist",
+          "tran_cn": " 构成主义者"
+        },
+        {
+          "word": "constructor",
+          "tran_cn": " 构造函数；构造器；建造者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "concept",
+            "formulation",
+            "idea",
+            "notion"
+          ],
+          "tran_cn": "构想，概念"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "build",
+            "create",
+            "form",
+            "make",
+            "manufacture"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "found",
+            "institute",
+            "frame",
+            "structure",
+            "father"
+          ],
+          "tran_cn": "建造，构造；创立"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "construct validity",
+      "tran_cn": "结构效度；建构效度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "构想，结构体，建筑物",
+      "tran_en": "an idea formed by combining several pieces of information or knowledge"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "建筑，组成，绘制",
+      "tran_en": "to build something such as a house, bridge, road etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "建造",
+      "tran_en": "to build something such as a house, bridge, road etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "constructs"
+    ],
+    "third": [
+      "constructs"
+    ],
+    "past": [
+      "constructed"
+    ],
+    "done": [
+      "constructed"
+    ],
+    "ing": [
+      "constructing"
+    ]
+  }
+}

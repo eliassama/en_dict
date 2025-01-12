@@ -1,0 +1,76 @@
+{
+  "word": "veracious",
+  "ipa": {
+    "us": "və'reɪʃəs",
+    "uk": "vəˈreʃəs"
+  },
+  "sentences": [
+    {
+      "en": "A veracious short - term electricity price forecasting can help a market effective bidding decisions.",
+      "cn": "准确的 短期 电价预测可为市场参与者的竞价策略提供指导,直接影响着参与者的利益."
+    },
+    {
+      "en": "Miss Stackpole was a strictly veracious reporter.",
+      "cn": "斯坦克波尔小姐是一丝不苟、实事求是的记者."
+    },
+    {
+      "en": "With the rapid development of network and communication technologies, there comes an urgent and higher requirement on the verification, which should be more veracious, safe and practicable.",
+      "cn": "随着网络技术与通信技术的飞速发展，现代社会对个人身份识别的准确性、安全性与实用性提出了更高的要求。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "veracity",
+          "tran_cn": " 诚实；精确性；老实；说真实话"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "honest",
+            "actual",
+            "sincere",
+            "true",
+            "real"
+          ],
+          "tran_cn": "诚实的；真实的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aboveboard",
+            "credible",
+            "factual",
+            "faithful"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（指人）诚实的",
+      "tran_en": "habitually truthful or honest "
+    },
+    {
+      "pos": "adv",
+      "tran_cn": "诚实地"
+    }
+  ],
+  "exchange": {}
+}

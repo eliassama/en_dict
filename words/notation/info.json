@@ -1,0 +1,188 @@
+{
+  "word": "notation",
+  "ipa": {
+    "us": "nəʊˈteɪʃn",
+    "uk": "noʊˈteɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "...some other abstract notation system like a computer language.",
+      "cn": "…一些如计算机语言的其它抽象符号系统。"
+    },
+    {
+      "en": "A more convenient notation will now be given.",
+      "cn": "现在将给出一种较为方便的表示法."
+    },
+    {
+      "en": "He made a notation on his engagement calendar.",
+      "cn": "他在约会日程上作了记载."
+    },
+    {
+      "en": "He recognizes enough notation to be able to follow a score.",
+      "cn": "他认得足够多的乐符，看懂乐谱不成问题。"
+    },
+    {
+      "en": "However, this streamlined notation can be confusing as explained below.",
+      "cn": "然而,如下所述, 这种简化了的符号容易引起混乱."
+    },
+    {
+      "en": "Music has a special system of notation.",
+      "cn": "音乐有一套特殊的标记法."
+    },
+    {
+      "en": "Musical notation was conceived for the C major scale and each line and space represents a note in this scale.",
+      "cn": "乐谱为C大音阶而构思，在这个音阶中的每一个线和间都代表一个音符。"
+    },
+    {
+      "en": "Notation for PL changes from one implementation to the next.",
+      "cn": "PL的表示方法将随实现方法的不同而有所改变."
+    },
+    {
+      "en": "Notation may also increase the memory value of a classification scheme.",
+      "cn": "标记符号也可以增进分类体系的助记程度."
+    },
+    {
+      "en": "The advantage of this notation is that it is unambiguous.",
+      "cn": "这种记号的优点在于它不会混淆."
+    },
+    {
+      "en": "The suggestive notation has been chosen purposely.",
+      "cn": "这个有启发性的符号是特意选择的."
+    },
+    {
+      "en": "This delay notation has been adopted.",
+      "cn": "已经采用了这种延时符号."
+    },
+    {
+      "en": "This is a good time to switch to the classical notation.",
+      "cn": "此刻是换用经典符号的好时候."
+    },
+    {
+      "en": "Those are expressly designed to illustrate the vagaries of Leibnizian notation.",
+      "cn": "那些是用来说明莱布尼兹记号的巧妙想法."
+    },
+    {
+      "en": "Using binary notation is in fact just manipulating ones and noughts.",
+      "cn": "使用二进制标号法实际上只运用1和0两个数."
+    },
+    {
+      "en": "We badly need some notation.",
+      "cn": "我们很有必要规定一些记号."
+    },
+    {
+      "en": "We shall find it convenient to adopt the following notation.",
+      "cn": "采用下面的记号是方便的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "notable",
+          "tran_cn": " 值得注意的，显著的；著名的"
+        },
+        {
+          "word": "noted",
+          "tran_cn": " 著名的；显著的；附有乐谱的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "notable",
+          "tran_cn": " 名人，显要人物"
+        },
+        {
+          "word": "note",
+          "tran_cn": " 笔记；音符；票据；注解；纸币；便笺；照会；调子"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "noted",
+          "tran_cn": " 注意；记下（note的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "notate",
+          "tran_cn": " 以符号表示"
+        },
+        {
+          "word": "note",
+          "tran_cn": " 注意；记录；注解"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "symbol",
+            "notes",
+            "sign",
+            "mark"
+          ],
+          "tran_cn": "[计][数]符号；乐谱；注释；记号法"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "item"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "musical notation",
+      "tran_cn": "乐谱；音乐符号"
+    },
+    {
+      "phrase": "numbered musical notation",
+      "tran_cn": "简谱"
+    },
+    {
+      "phrase": "on board notation",
+      "tran_cn": "已装船批注"
+    },
+    {
+      "phrase": "phonetic notation",
+      "tran_cn": "注音"
+    },
+    {
+      "phrase": "scientific notation",
+      "tran_cn": "科学记数法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "记号，标记法",
+      "tran_en": "a system of written marks or signs used to represent something such as music, mathematics, or scientific ideas"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "notations"
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "word": "periodic",
+  "ipa": {
+    "us": "ˌpɪəriˈɒdɪk",
+    "uk": "ˌpɪriˈɑːdɪk"
+  },
+  "sentences": [
+    {
+      "en": "A particular stage in a periodic process or phenomenon.",
+      "cn": "定期重复现象的一次完整运行."
+    },
+    {
+      "en": "Keep air clean and fresh in the ward and conduct periodic sterilization.",
+      "cn": "病室内保持空气清新,定期消毒."
+    },
+    {
+      "en": "Long long ago, we knew the periodic motion of a planet.",
+      "cn": "很久以前, 我们就知道行星的周期运动."
+    },
+    {
+      "en": "Periodic checks are taken to ensure that high standards are maintained.",
+      "cn": "定期检查以确保维持高水准。"
+    },
+    {
+      "en": "periodic home visits by nurses",
+      "cn": "护士的定期上门探访"
+    },
+    {
+      "en": "Periodic local catastrophes reduce populations.",
+      "cn": "周期性的局部地区的灾变降低了种群的数量."
+    },
+    {
+      "en": "Refuses the waterdrop on the plate, achieves the periodic inspection.",
+      "cn": "严禁水滴在平板上, 做到定期检查."
+    },
+    {
+      "en": "Silicon is one of the most studied elements in the periodic table.",
+      "cn": "硅是周期表中最熟悉的元素之一."
+    },
+    {
+      "en": "Some commercial laboratories use periodic nitrate tests as guides.",
+      "cn": "许多商业性的试验室已应用定期的硝态氮分析作为指导."
+    },
+    {
+      "en": "The harmonic oscillator is an exceptionally important example of periodic motion.",
+      "cn": "谐振子在周期运动中是特别重要的."
+    },
+    {
+      "en": "The mathematicians turned to culling periodic solutions.",
+      "cn": "数学家们转而去挑选周期解."
+    },
+    {
+      "en": "The motion is periodic, which means it occurs identically over and over again.",
+      "cn": "这个运动是周期的, 意即运动以同样的形式重复出现."
+    },
+    {
+      "en": "The periodic buckling leaves the fibre in a waved conformation.",
+      "cn": "周期性的弯折在纤维中造成波形构成."
+    },
+    {
+      "en": "These arrangements are subject to periodic review.",
+      "cn": "这些安排须定期检查."
+    },
+    {
+      "en": "We built an model for periodic multi - installment algorithm by linear programming.",
+      "cn": "利用线性规划得到了周期性的多趟调度算法的数学模型."
+    },
+    {
+      "en": "We can elaborate the electronic configuration for the atoms in the periodic chart.",
+      "cn": "我们能够精心安排周期表中原子的电子排布."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "period",
+          "tran_cn": "某一时代的"
+        },
+        {
+          "word": "periodical",
+          "tran_cn": "[数] 周期的；定期的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "periodically",
+          "tran_cn": "定期地；周期性地；偶尔；间歇"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "period",
+          "tran_cn": "周期，期间；时期；月经；课时"
+        },
+        {
+          "word": "periodical",
+          "tran_cn": "期刊；杂志"
+        },
+        {
+          "word": "periodicity",
+          "tran_cn": "[数] 周期性；频率；定期性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "regular",
+            "stated",
+            "time",
+            "cyclical"
+          ],
+          "tran_cn": "周期的；定期的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "intermittent",
+            "occasional",
+            "serial"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "periodic acid",
+      "tran_cn": "过碘酸；高碘酸"
+    },
+    {
+      "phrase": "periodic change",
+      "tran_cn": "周期变化；周期变更"
+    },
+    {
+      "phrase": "periodic cleaning",
+      "tran_cn": "定期清理，定期清洗"
+    },
+    {
+      "phrase": "periodic error",
+      "tran_cn": "周期误差；周期性误差"
+    },
+    {
+      "phrase": "periodic function",
+      "tran_cn": "周期函数"
+    },
+    {
+      "phrase": "periodic inspection",
+      "tran_cn": "定期检修"
+    },
+    {
+      "phrase": "periodic inventory",
+      "tran_cn": "定期盘存"
+    },
+    {
+      "phrase": "periodic law",
+      "tran_cn": "[化]周期律；门捷列夫氏定律"
+    },
+    {
+      "phrase": "periodic maintenance",
+      "tran_cn": "定期维修；定期保养"
+    },
+    {
+      "phrase": "periodic motion",
+      "tran_cn": "周期运动"
+    },
+    {
+      "phrase": "periodic report",
+      "tran_cn": "定期报告"
+    },
+    {
+      "phrase": "periodic review",
+      "tran_cn": "定期检查；按期盘点"
+    },
+    {
+      "phrase": "periodic structure",
+      "tran_cn": "周期性结构；周期组织"
+    },
+    {
+      "phrase": "periodic system",
+      "tran_cn": "周期系，周期系统"
+    },
+    {
+      "phrase": "periodic table",
+      "tran_cn": "周期表"
+    },
+    {
+      "phrase": "periodic table of elements",
+      "tran_cn": "元素周期表"
+    },
+    {
+      "phrase": "periodic time",
+      "tran_cn": "[计]周期，周期时间"
+    },
+    {
+      "phrase": "periodic wave",
+      "tran_cn": "周期波"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "周期的，定期的，回归的，间歇的，时而发生的",
+      "tran_en": "happening a number of times, usually at regular times"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "periodically"
+    ]
+  }
+}

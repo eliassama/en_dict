@@ -1,0 +1,109 @@
+{
+  "word": "reinstate",
+  "ipa": {
+    "us": "ˌri:ɪnˈsteɪt",
+    "uk": "ˌriɪnˈstet"
+  },
+  "sentences": [
+    {
+      "en": "California reinstated the death penalty in 1977.",
+      "cn": "加利福尼亚于1977年恢复了死刑。"
+    },
+    {
+      "en": "His supporters failed in their attempt to reinstate the President in the White House.",
+      "cn": "试图使总统重新入主白宫的努力失败了."
+    },
+    {
+      "en": "Install rebuilding kits according to procedures and reinstate equipment into production environment.",
+      "cn": "根据流程安装改装件并恢复生产."
+    },
+    {
+      "en": "The governor is said to have agreed to reinstate five senior workers who were dismissed.",
+      "cn": "据说州长已同意给5名被解雇的高级雇员复职。"
+    },
+    {
+      "en": "The rules expired in 2002 and Congress is considering whether to reinstate them.",
+      "cn": "那些法规已于2002年过期,国会正在审定是否应该予以恢复."
+    },
+    {
+      "en": "There he proposed to reinstate the ancient Olympic Games.",
+      "cn": "会议上,他提出恢复古代奥林匹克运动会."
+    },
+    {
+      "en": "To reinstate GRUB as the system boot loader it needs to be reinstalled into the MBR.",
+      "cn": "若要恢复为系统引导程序需要重新安装GRUB到到MBR中."
+    },
+    {
+      "en": "Too late, then, to remedy the missed opportunity of Basle II or to reinstate Glass - Steagall.",
+      "cn": "挽回《巴塞尔新资本协议》失去的机会,或恢复《格拉斯 - 斯蒂格尔法案》都太晚了."
+    },
+    {
+      "en": "What they did was to reinstate classical theory.",
+      "cn": "他们所要做的,是恢复古典理论的地位."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reinstatement",
+          "tran_cn": " 恢复；复原；复职"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "restore"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bring around"
+          ],
+          "tran_cn": "使恢复；使复原"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "恢复",
+      "tran_en": "if someone is reinstated, they are officially given back their job after it was taken away"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使复原，使恢复，使恢复健康，使复任"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "reinstates"
+    ],
+    "past": [
+      "reinstated"
+    ],
+    "done": [
+      "reinstated"
+    ],
+    "ing": [
+      "reinstating"
+    ],
+    "noun": [
+      "reinstatement"
+    ]
+  }
+}

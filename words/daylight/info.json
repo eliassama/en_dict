@@ -1,0 +1,214 @@
+{
+  "word": "daylight",
+  "ipa": {
+    "us": "ˈdeɪlaɪt",
+    "uk": "ˈdeɪlaɪt"
+  },
+  "sentences": [
+    {
+      "en": "Daylight came in through its glass roof; this was now the only illumination.",
+      "cn": "日光透过玻璃屋顶照入; 眼下这是室内惟一的照明."
+    },
+    {
+      "en": "Drugs are sold unashamedly in broad daylight.",
+      "cn": "在光天化日之下公然出售毒品。"
+    },
+    {
+      "en": "Faint glimmers of daylight were showing through the treetops.",
+      "cn": "微弱的日光从树梢中透出。"
+    },
+    {
+      "en": "If possible, it’s better to work in natural daylight.",
+      "cn": "如果条件允许的话，最好在自然日光下工作。"
+    },
+    {
+      "en": "It has dawned but is not yet broad daylight.",
+      "cn": "明而未融."
+    },
+    {
+      "en": "It is easier to read by daylight than by lamplight.",
+      "cn": "在日光下读书比在灯光下读书舒适."
+    },
+    {
+      "en": "It was still daylight but all the cars had their headlights on.",
+      "cn": "还是大白天，但所有汽车的前灯都亮起来了。"
+    },
+    {
+      "en": "Quinn returned shortly after daylight yesterday morning.",
+      "cn": "昨天早上天刚亮奎因就回来了。"
+    },
+    {
+      "en": "The machines roar incessantly during the hours of daylight.",
+      "cn": "机器在白天隆隆地响个不停."
+    },
+    {
+      "en": "The park is open to the public during daylight hours .",
+      "cn": "公园白天对公众开放。"
+    },
+    {
+      "en": "The public square is as brightly lit as in daylight.",
+      "cn": "广场上灯火辉煌,如同白昼."
+    },
+    {
+      "en": "They emerged from the church into the bright daylight.",
+      "cn": "他们走出教堂来到明亮的日光下。"
+    },
+    {
+      "en": "They're just ripping the fans off; it's daylight robbery.",
+      "cn": "他们这是在盘剥歌迷，简直是明目张胆的打劫。"
+    },
+    {
+      "en": "Thick chipboard across the window frames blocked out the daylight.",
+      "cn": "装在窗框上的厚厚的胶合板挡住了白天的光线。"
+    },
+    {
+      "en": "This medicine is not to be exposed to daylight.",
+      "cn": "这种药怕见光."
+    },
+    {
+      "en": "Through the aperture he could see daylight.",
+      "cn": "透过缝隙，他能看见日光。"
+    },
+    {
+      "en": "To get there on time we must leave before daylight.",
+      "cn": "为了准时到那里,我们必须在天亮之前离开."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "day",
+          "tran_cn": " 日间的；逐日的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "day",
+          "tran_cn": " 每天；经常在白天地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "day",
+          "tran_cn": " 一天；时期；白昼"
+        },
+        {
+          "word": "dayspring",
+          "tran_cn": " 拂晓；黎明；开端"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "day",
+            "full",
+            "knowledge",
+            "light",
+            "of",
+            "openness",
+            "publicity",
+            "the"
+          ],
+          "tran_cn": "公开"
+        },
+        {
+          "words": [
+            "day",
+            "daylight",
+            "daytime",
+            "hours",
+            "light",
+            "luminosity",
+            "sun"
+          ],
+          "tran_cn": "白天"
+        },
+        {
+          "words": [
+            "gap",
+            "opening",
+            "space"
+          ],
+          "tran_cn": "空隙"
+        },
+        {
+          "words": [
+            "Aurora",
+            "crack",
+            "dawn",
+            "daybreak",
+            "morning",
+            "of"
+          ],
+          "tran_cn": "黎明"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "sunshine"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "broad daylight",
+      "tran_cn": "光天化日；公开地"
+    },
+    {
+      "phrase": "by daylight",
+      "tran_cn": "在白天"
+    },
+    {
+      "phrase": "daylight lamp",
+      "tran_cn": "日光灯"
+    },
+    {
+      "phrase": "daylight saving",
+      "tran_cn": "夏令时（指在夏季把标准时间拨早1小时）"
+    },
+    {
+      "phrase": "daylight saving time",
+      "tran_cn": "夏令时；日光节约时间"
+    },
+    {
+      "phrase": "in broad daylight",
+      "tran_cn": "在大白天；公开地"
+    },
+    {
+      "phrase": "in daylight",
+      "tran_cn": "在阳光中；光天化日之下；在大白天"
+    },
+    {
+      "phrase": "see daylight",
+      "tran_cn": "弄明白，搞懂"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "日光，在光天化日之下",
+      "tran_en": "the light produced by the sun during the day"
+    }
+  ],
+  "exchange": {}
+}

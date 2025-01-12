@@ -1,0 +1,150 @@
+{
+  "word": "customize",
+  "ipa": {
+    "us": "ˈkʌstəmaɪz",
+    "uk": "ˈkʌstəˌmaɪz"
+  },
+  "sentences": [
+    {
+      "en": "a customized car",
+      "cn": "按需要定制的汽车"
+    },
+    {
+      "en": "Adjustable settings allow you to customize the function to fit your needs.",
+      "cn": "可调设定,让你定制功能,以符合您的需求."
+    },
+    {
+      "en": "Customize corresponding testing criteria and procedures for different products.",
+      "cn": "根据不同产品的要求,制定相应的测试标准及流程."
+    },
+    {
+      "en": "Describe how the players can customize the multiplayer experience.",
+      "cn": "描述玩家如何定制自己的多人游戏."
+    },
+    {
+      "en": "Learn how to customize the displaying of the property names and descriptions.",
+      "cn": "这个项目演示了如何定制属性名和描述的显示."
+    },
+    {
+      "en": "This allows applications to customize the library functions available to Lua applications.",
+      "cn": "这使得应用程序可以为lua程序自定义库的可用功能."
+    },
+    {
+      "en": "This series chiller can customize base on the requirement of acidstant.",
+      "cn": "此系列冷水机可订做耐酸碱式."
+    },
+    {
+      "en": "To change system or user locale settings, click Customize.",
+      "cn": "要改变系统或用户区域设置, 请单击“自定义”."
+    },
+    {
+      "en": "Users can customize of specifications the products of the length.",
+      "cn": "用户可定制各种规格,长度的产品."
+    },
+    {
+      "en": "You can customize the behavior of the Asynchronous Server and hence re-brand it by defining your own command set for invoking services.",
+      "cn": "通过定义自己调用服务的命令集，您可以定制自定义异步服务器的行为，通过为调用服务定义自己的命令集从而对它重新标记。"
+    },
+    {
+      "en": "You can customize the name of the Program Shortcuts folder.",
+      "cn": "您可以自定义程序快捷方式文件夹的名称."
+    },
+    {
+      "en": "You can customize the software in several ways.",
+      "cn": "你可用几种方法按需要编制这个软件。"
+    },
+    {
+      "en": "You can customize video profiles video and parameters for output video.",
+      "cn": "您可以自定义视频简介视频和参数视频输出."
+    },
+    {
+      "en": "You can customize your skates, as you like to skate.",
+      "cn": "你可以按照你所从事的轮滑项目,定制你的鞋."
+    },
+    {
+      "en": "You can not customize headers from two places at the same time.",
+      "cn": "不允许从两个地方同时定制标题."
+    },
+    {
+      "en": "You only specify particular functions when you customize in Financial Accounting.",
+      "cn": "你在用户化财务会计的时候,也就具体化“公司”了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "custom",
+          "tran_cn": " 定制的，定做的"
+        },
+        {
+          "word": "customized",
+          "tran_cn": " 定制的；用户化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "custom",
+          "tran_cn": " 习惯；风俗；海关"
+        },
+        {
+          "word": "customized",
+          "tran_cn": " 自定义；客制化；自定义级别"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "customized",
+          "tran_cn": " 定制；按特别订货生产（customize的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "customise",
+          "tran_cn": " 依照顾客具体要求而制造（等于customize）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "定做，按客户具体要求制造",
+      "tran_en": "to change something to make it more suitable for you, or to make it look special or different from things of a similar type"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "定制，定做，按规格改制",
+      "tran_en": "to change something to make it more suitable for you, or to make it look special or different from things of a similar type"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "customizes"
+    ],
+    "past": [
+      "customized"
+    ],
+    "done": [
+      "customized"
+    ],
+    "ing": [
+      "customizing"
+    ],
+    "adj": [
+      "customized"
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "word": "parliament",
+  "ipa": {
+    "us": "ˈpɑːləmənt",
+    "uk": "ˈpɑːrləmənt"
+  },
+  "sentences": [
+    {
+      "en": "A point of order was raised in parliament by Mr Ben Morris.",
+      "cn": "本·莫里斯先生在议会就程序问题提出质询。"
+    },
+    {
+      "en": "A roar of approval resounded through the Ukrainian parliament.",
+      "cn": "一片赞成声在乌克兰议会中回响。"
+    },
+    {
+      "en": "Jacques Arnold has been a member of parliament since 1987.",
+      "cn": "雅克·阿诺德自1987年以来一直是议会议员。"
+    },
+    {
+      "en": "Kaifu threatened to dissolve the Parliament and call an election.",
+      "cn": "卡夫威胁要解散议会并举行选举。"
+    },
+    {
+      "en": "Legislation to that effect created fierce controversy both in Parliament and outside.",
+      "cn": "那类立法在议会内外都引起了激烈的争论。"
+    },
+    {
+      "en": "Members of Parliament are spending the weekend canvassing opinion in their constituencies.",
+      "cn": "国会议员这个周末要向所在选区的选民征求意见。"
+    },
+    {
+      "en": "Most members of Parliament took a hard line on this issue.",
+      "cn": "绝大多数议员在这个问题上都持强硬立场。"
+    },
+    {
+      "en": "Parliament returns to work today after its summer recess.",
+      "cn": "国会在结束夏季休会后今天开始恢复工作。"
+    },
+    {
+      "en": "Politicians say it could lead to a dissolution of parliament.",
+      "cn": "政客们说这可能会导致议会解散。"
+    },
+    {
+      "en": "She is to stand as a Member of the European Parliament.",
+      "cn": "她将竞选欧洲议会议员。"
+    },
+    {
+      "en": "Students tried to form a human chain around the parliament.",
+      "cn": "学生们试图在议会四周围成人墙。"
+    },
+    {
+      "en": "The Estonian parliament has passed a resolution declaring the republic fully independent.",
+      "cn": "爱沙尼亚议会已经通过了宣布共和国完全独立的决议。"
+    },
+    {
+      "en": "The legislation is expected to be passed in the next parliament.",
+      "cn": "预计这项法案将在下一届议会中通过。"
+    },
+    {
+      "en": "The parliament described the decree as interference in the republic's internal affairs.",
+      "cn": "议会形容此法令为对共和国内政的干涉。"
+    },
+    {
+      "en": "The Prime Minister has called an emergency meeting of parliament.",
+      "cn": "首相已召集议会召开紧急会议。"
+    },
+    {
+      "en": "They demanded a free parliament and press.",
+      "cn": "他们要求议会自由和新闻自由。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "parliamentarian",
+          "tran_cn": " 议会的"
+        },
+        {
+          "word": "parliamentary",
+          "tran_cn": " 议会的；国会的；议会制度的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "parliamentarian",
+          "tran_cn": " 国会议员，熟练而又有经验的议员"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "caucus",
+            "colloquium",
+            "colloquy",
+            "conclave",
+            "conference",
+            "consultation",
+            "convention",
+            "convocation",
+            "forum",
+            "huddle",
+            "meeting",
+            "parley",
+            "round",
+            "summit",
+            "table"
+          ],
+          "tran_cn": "会议,会谈"
+        },
+        {
+          "words": [
+            "Commons",
+            "Councilors",
+            "House",
+            "hords",
+            "legislature",
+            "of"
+          ],
+          "tran_cn": "英国议会,"
+        },
+        {
+          "words": [
+            "Assembly",
+            "congress",
+            "diet",
+            "legislature",
+            "senate"
+          ],
+          "tran_cn": "议会,国会,政府机关"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "government"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "european parliament",
+      "tran_cn": "欧洲议会（缩写为EP）"
+    },
+    {
+      "phrase": "house of parliament",
+      "tran_cn": "国会大厦"
+    },
+    {
+      "phrase": "houses of parliament",
+      "tran_cn": "n. 英国的国会大厦"
+    },
+    {
+      "phrase": "member of parliament",
+      "tran_cn": "国会议员；下院议员；下议院议员"
+    },
+    {
+      "phrase": "parliament building",
+      "tran_cn": "国会大厦（加拿大标志建筑）"
+    },
+    {
+      "phrase": "parliament house",
+      "tran_cn": "国会大厦"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "议会，国会",
+      "tran_en": "the group of people who are elected to make a country’s laws and discuss important national affairs"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "parliaments"
+    ]
+  }
+}

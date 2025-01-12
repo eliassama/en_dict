@@ -1,0 +1,97 @@
+{
+  "word": "guesstimate",
+  "ipa": {
+    "us": "ˈgestɪmət",
+    "uk": "ˈɡɛstəmɪt"
+  },
+  "sentences": [
+    {
+      "en": "Can you give a guesstimate of how much it will cost to fix my car?",
+      "cn": "你能估计出修理我的车要花多少钱 吗 ?"
+    },
+    {
+      "en": "Could you give us a guesstimate of the numbers involved?",
+      "cn": "你能给我们大致估计一下相关数字吗？"
+    },
+    {
+      "en": "It turns out that guesstimate was based on misquoting aa 1999 news apeer - reviewed scientific study.",
+      "cn": "但现在我们知道这个预测纯属瞎猜,其来源为1999年的一篇新闻报道,而不是依据经过专家评审的科学研究得出的."
+    },
+    {
+      "en": "There are three types of focusing - guesstimate, rangefinder and autofocus.",
+      "cn": "有三种对焦方式 - 猜估, 用测距仪及自动对焦."
+    },
+    {
+      "en": "There're three types of focusing guesstimate, rangefinder and autofocus.",
+      "cn": "有三种对焦方式——猜估, 用测距仪及自动对焦."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "guess",
+          "tran_cn": " 猜测；推测"
+        },
+        {
+          "word": "guesser",
+          "tran_cn": " 推测者；猜测者"
+        },
+        {
+          "word": "guestimate",
+          "tran_cn": " 推测"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "guess",
+          "tran_cn": " 猜；推测；猜中"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "guess",
+          "tran_cn": " 猜测；认为；推测；猜中"
+        },
+        {
+          "word": "guestimate",
+          "tran_cn": " 推测"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "estimate",
+            "gauge"
+          ],
+          "tran_cn": "瞎猜；估计"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<非正>大概估计，瞎猜的估计",
+      "tran_en": "an attempt to judge a quantity by guessing it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "guesstimates"
+    ]
+  }
+}

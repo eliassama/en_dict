@@ -1,0 +1,44 @@
+{
+  "word": "gregariousness",
+  "ipa": {
+    "us": "ɡrɪ'ɡerɪəsnəs",
+    "uk": "ɡrɪ'ɡerɪrsnəs"
+  },
+  "sentences": [
+    {
+      "en": "Let's talk about dog's behavior from the point of gregariousness.",
+      "cn": "让我们从群居性开始谈犬的行为。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "gregarious",
+          "tran_cn": " 社交的；群居的"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": " 群居； 合群， 爱交友"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "集群性，簇聚性"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "gregariously"
+    ],
+    "adj": [
+      "gregarious"
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "word": "default",
+  "ipa": {
+    "us": "dɪˈfɔːlt",
+    "uk": "dɪˈfɔːlt"
+  },
+  "sentences": [
+    {
+      "en": "A default judgment was issued against the defendant.",
+      "cn": "被告受到了缺席审判."
+    },
+    {
+      "en": "He lost the tennis match by default.",
+      "cn": "他因不出场而输了网球赛."
+    },
+    {
+      "en": "He lost the world title by default.",
+      "cn": "他由于弃权而失去了世界冠军的称号."
+    },
+    {
+      "en": "He was acquitted in default of strong evidence of his guilt.",
+      "cn": "因无确凿证据而判他无罪."
+    },
+    {
+      "en": "His car was repossessed because of default of monthly installment.",
+      "cn": "因为拖欠按月应付的分期付款,他的汽车被收回了."
+    },
+    {
+      "en": "How many times must the new format be specified before it becomes the default?",
+      "cn": "一种新格式在成为默认格式之前应该使用多少次?"
+    },
+    {
+      "en": "In System / 38 graphics, the default result of the intersection of two or more colors.",
+      "cn": "在IBMSystem/38图形技术中, 系统将两种或两两种以上颜色合成后的自然结果."
+    },
+    {
+      "en": "Let's both try not to default on our commitments.",
+      "cn": "让我们双方一起努力,不违反自己的承诺."
+    },
+    {
+      "en": "Mortgage defaults have risen in the last year.",
+      "cn": "按揭借款违约在近一年里呈上升趋势。"
+    },
+    {
+      "en": "the case against us has gone by default.",
+      "cn": "因为缺少诉方这个案子我方获胜。"
+    },
+    {
+      "en": "the company is already &B{in default on} its loans.",
+      "cn": "该公司因其拖欠贷款已经违约。"
+    },
+    {
+      "en": "The company is in default on the loan.",
+      "cn": "这家公司拖欠借款。"
+    },
+    {
+      "en": "The corporation may be charged with default on its contract with the government.",
+      "cn": "该公司可能会被指控违反了与政府签订的合同。"
+    },
+    {
+      "en": "The credit card business is down, and more borrowers are defaulting on loans.",
+      "cn": "信用卡生意正在走下坡路，更多的借贷人不履行还贷责任。"
+    },
+    {
+      "en": "The creditors haven't declared them in default.",
+      "cn": "债权人尚未宣布他们拖欠债款。"
+    },
+    {
+      "en": "The default is usually the setting that most users would probably choose.",
+      "cn": "默认选项通常是大多数用户都会选择的设置。"
+    },
+    {
+      "en": "The defendant made default yesterday.",
+      "cn": "被告昨天未到庭."
+    },
+    {
+      "en": "The other team didn't arrive, so our team won by default.",
+      "cn": "由于对方球队未到, 我队以其弃权而获胜."
+    },
+    {
+      "en": "the risk of default by borrowers",
+      "cn": "借款人不偿还欠款的风险"
+    },
+    {
+      "en": "The same goes for placement of palettes, default tools, frequently used templates, and other useful settings.",
+      "cn": "对于调色板 、 默认工具 、 经常使用的模板设置和其他有用的设置都是同样的道理."
+    },
+    {
+      "en": "They default ed in the badminton tournament.",
+      "cn": "在羽毛球锦标赛中他们没出场."
+    },
+    {
+      "en": "to default on a loan/debt",
+      "cn": "拖欠借款 / 债务"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "defaulter",
+          "tran_cn": " 缺席者；不履行者；违反军规者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "shortage",
+            "deficiency",
+            "need",
+            "drought",
+            "short of"
+          ],
+          "tran_cn": "违约；缺席；缺乏；系统默认值"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "absence",
+            "delinquency",
+            "dishonor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "fall behind",
+            "lag behind"
+          ],
+          "tran_cn": "[会计]拖欠；不履行；不到场"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "walk out on sth.",
+            "unsatisfy"
+          ],
+          "tran_cn": "不履行；不参加（比赛等）；对…处以缺席裁判"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by default",
+      "tran_cn": "由于缺少对手"
+    },
+    {
+      "phrase": "credit default",
+      "tran_cn": "不偿还贷款债务"
+    },
+    {
+      "phrase": "credit default swap",
+      "tran_cn": "信用违约交换"
+    },
+    {
+      "phrase": "default button",
+      "tran_cn": "n. 默认按钮"
+    },
+    {
+      "phrase": "default directory",
+      "tran_cn": "缺省目录"
+    },
+    {
+      "phrase": "default gateway",
+      "tran_cn": "默认网关；缺省网关"
+    },
+    {
+      "phrase": "default interest",
+      "tran_cn": "拖欠利息"
+    },
+    {
+      "phrase": "default option",
+      "tran_cn": "[计]缺省选择"
+    },
+    {
+      "phrase": "default printer",
+      "tran_cn": "n. 默认打印机"
+    },
+    {
+      "phrase": "default rate",
+      "tran_cn": "违约率；拖欠债务率"
+    },
+    {
+      "phrase": "default risk",
+      "tran_cn": "违约风险；拖欠风险"
+    },
+    {
+      "phrase": "default route",
+      "tran_cn": "默认路由；[电脑]一路径表格记录"
+    },
+    {
+      "phrase": "default setting",
+      "tran_cn": "默认设置"
+    },
+    {
+      "phrase": "default user",
+      "tran_cn": "默认用户"
+    },
+    {
+      "phrase": "default value",
+      "tran_cn": "n. 缺省值；省略补充"
+    },
+    {
+      "phrase": "factory default",
+      "tran_cn": "恢复出厂设置；出厂默认值"
+    },
+    {
+      "phrase": "go by default",
+      "tran_cn": "无对手情况下取胜"
+    },
+    {
+      "phrase": "in default",
+      "tran_cn": "拖欠违约，不出庭罪"
+    },
+    {
+      "phrase": "in default of",
+      "tran_cn": "因缺少，在缺乏…时：因为不足、缺少或缺乏"
+    },
+    {
+      "phrase": "judgment by default",
+      "tran_cn": "缺席审判；缺席判决"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "默认的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "违约，默认值，缺省指令",
+      "tran_en": "failure to pay money that you owe at the right time"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "违约，不履行，未支付",
+      "tran_en": "to fail to pay money that you owe at the right time"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 不履行义务， 拖欠",
+      "tran_en": "to fail to pay money that you owe at the right time"
+    },
+    {
+      "pos": "vi&n",
+      "tran_cn": "拖欠，违约；不出庭",
+      "tran_en": "failure to pay money that you owe at the right time"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "defaults"
+    ],
+    "past": [
+      "defaulted"
+    ],
+    "done": [
+      "defaulted"
+    ],
+    "ing": [
+      "defaulting"
+    ]
+  }
+}

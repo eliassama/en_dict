@@ -1,0 +1,97 @@
+{
+  "word": "racketeer",
+  "ipa": {
+    "us": "ˌrækəˈtɪə(r)",
+    "uk": "ˌrækəˈtɪr"
+  },
+  "sentences": [
+    {
+      "en": "Al Capone was a famous racketeer in Chicago.",
+      "cn": "艾勒·凯波尼是芝加哥有名的诈骗钱财的人."
+    },
+    {
+      "en": "He was a famous racketeer in Chicago.",
+      "cn": "他是芝加哥有名的骗子."
+    },
+    {
+      "en": "It could just as well apply to a racketeer or a thief who robs you.",
+      "cn": "这套说辞对骗子和窃贼同样适用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "racketeering",
+          "tran_cn": " 敲诈勒索；诈骗"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "racketeering",
+          "tran_cn": " 敲诈（racketeer的ing形式）；对…进行勒索"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fraud",
+            "sharp"
+          ],
+          "tran_cn": "骗子；[法]敲诈者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "criminal",
+            "gangster",
+            "robber"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "shark up",
+            "black mail"
+          ],
+          "tran_cn": "敲诈"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "干非法勾当者，骗子",
+      "tran_en": "someone who earns money through crime and illegal activities"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "对…进行勒索"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "racketeers"
+    ]
+  }
+}

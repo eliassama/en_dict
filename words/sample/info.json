@@ -1,0 +1,270 @@
+{
+  "word": "sample",
+  "ipa": {
+    "us": "ˈsɑːmpl",
+    "uk": "ˈsæmpl"
+  },
+  "sentences": [
+    {
+      "en": "18% of the adults sampled admitted having had problems with alcohol abuse.",
+      "cn": "在接受抽样调查的成年人中有18%承认有过酗酒问题。"
+    },
+    {
+      "en": "60 percent of the sample answered negatively.",
+      "cn": "抽样调查中60％的接受调查者作出了否定回答。"
+    },
+    {
+      "en": "a chance to sample the local food",
+      "cn": "品尝当地食品的一个机会"
+    },
+    {
+      "en": "A free sample is enclosed with the compliments of the manufacturer.",
+      "cn": "内附厂方敬赠的免费样品."
+    },
+    {
+      "en": "Enclosed please find a set of sample sheets.",
+      "cn": "附上样稿一份,请查收."
+    },
+    {
+      "en": "It comes up to sample.",
+      "cn": "这和样品相符."
+    },
+    {
+      "en": "It would be easy to misinterpret results from such a small sample.",
+      "cn": "从这样小的一份抽样出发容易得出曲解的结论."
+    },
+    {
+      "en": "Results of the sample must be translated.",
+      "cn": "取样检查的结果必须附加说明."
+    },
+    {
+      "en": "She made me sample her cooking.",
+      "cn": "她让我品尝她烧的饭菜."
+    },
+    {
+      "en": "She made us sample her cooking.",
+      "cn": "她让我们品尝她做的饭菜."
+    },
+    {
+      "en": "Show me the original sample, please.",
+      "cn": "请把原样给我看看."
+    },
+    {
+      "en": "The doctor analysed the blood sample for anaemia.",
+      "cn": "医生化验血样看是否贫血."
+    },
+    {
+      "en": "The doctors analyzed the blood sample for anemia.",
+      "cn": "医生们分析了贫血的血样."
+    },
+    {
+      "en": "The sample was selected from the medical records of two general practices.",
+      "cn": "样本选自两个全科诊所的病历档案。"
+    },
+    {
+      "en": "The shipment does not check with the sample.",
+      "cn": "装船的货物与货样不符."
+    },
+    {
+      "en": "These figures were often spuriously computed by selecting particularly favorable sample groups.",
+      "cn": "这些数字往往是用错误的方法计算出来的，所用的都是特别挑选出来的对自己有利的样本组。"
+    },
+    {
+      "en": "They asked me to do some sample drawings.",
+      "cn": "他们请我画些样品图。"
+    },
+    {
+      "en": "They took a blood sample to test for hepatitis.",
+      "cn": "他们取了血样做肝炎化验。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sampler",
+          "tran_cn": " [自] 采样器；取样器；样品检查员"
+        },
+        {
+          "word": "sampling",
+          "tran_cn": " 取样；抽样"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "sampling",
+          "tran_cn": " 取样；抽样（sample的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "example",
+            "pattern"
+          ],
+          "tran_cn": "样品；[图情]样本；例子"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "example",
+            "experiment",
+            "original",
+            "representative",
+            "specimen",
+            "taste",
+            "test",
+            "try"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "experiment",
+            "test",
+            "try"
+          ],
+          "tran_cn": "检查;检验;试验"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "blood sample",
+      "tran_cn": "血液样本；血样；血液样品"
+    },
+    {
+      "phrase": "control sample",
+      "tran_cn": "对照试样"
+    },
+    {
+      "phrase": "core sample",
+      "tran_cn": "矿样；岩芯样本；土芯样本"
+    },
+    {
+      "phrase": "random sample",
+      "tran_cn": "随机样本；随意抽取调查；随机样品"
+    },
+    {
+      "phrase": "representative sample",
+      "tran_cn": "代表性样本"
+    },
+    {
+      "phrase": "sample data",
+      "tran_cn": "样本数据；抽样资料"
+    },
+    {
+      "phrase": "sample design",
+      "tran_cn": "样品设计"
+    },
+    {
+      "phrase": "sample introduction",
+      "tran_cn": "进样；样品导入"
+    },
+    {
+      "phrase": "sample order",
+      "tran_cn": "照样品定货；试购"
+    },
+    {
+      "phrase": "sample preparation",
+      "tran_cn": "样品制备；样品处理；样品加工"
+    },
+    {
+      "phrase": "sample room",
+      "tran_cn": "样品间；样品陈列室"
+    },
+    {
+      "phrase": "sample size",
+      "tran_cn": "样本量；样本大小"
+    },
+    {
+      "phrase": "sample solution",
+      "tran_cn": "样品溶液，试料溶液"
+    },
+    {
+      "phrase": "sample space",
+      "tran_cn": "样本空间；试样空间；取样空间"
+    },
+    {
+      "phrase": "sample survey",
+      "tran_cn": "抽样检查；先行甸；样品鉴定"
+    },
+    {
+      "phrase": "small sample",
+      "tran_cn": "小样本，小试样；小包货样"
+    },
+    {
+      "phrase": "soil sample",
+      "tran_cn": "土壤样本"
+    },
+    {
+      "phrase": "standard sample",
+      "tran_cn": "标准样品"
+    },
+    {
+      "phrase": "test sample",
+      "tran_cn": "试样；试棒"
+    },
+    {
+      "phrase": "water sample",
+      "tran_cn": "水样"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "样品的，作为例子的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "（Sample） （美、英、爱尔兰）桑普尔（人名）",
+      "tran_en": "a small part or amount of something that is examined in order to find out something about the whole"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "取样；尝试；抽样检查",
+      "tran_en": "to taste food or drink in order to see what it is like"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "品尝，体验，抽样调查，取样，品尝，体验；抽样检验；节录（某一曲子，用于新乐曲中）",
+      "tran_en": "to taste food or drink in order to see what it is like"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "samples"
+    ],
+    "third": [
+      "samples"
+    ],
+    "past": [
+      "sampled"
+    ],
+    "done": [
+      "sampled"
+    ],
+    "ing": [
+      "sampling"
+    ]
+  }
+}

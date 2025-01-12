@@ -1,0 +1,147 @@
+{
+  "word": "aggress",
+  "ipa": {
+    "us": "ə'gres",
+    "uk": "ə'gres"
+  },
+  "sentences": [
+    {
+      "en": "Come here, I never aggress.",
+      "cn": "来吧，我从不侵略；"
+    },
+    {
+      "en": "Comehere, I never aggress others.",
+      "cn": "来吧，我从不侵犯他人。"
+    },
+    {
+      "en": "I have pressure. You have pressure. Why did you aggress me?",
+      "cn": "[你有你的压力,我有我的压力, 你为什麽挑衅我 呀 ?"
+    },
+    {
+      "en": "If Laura is accusing me of trying to aggress her or kill her, she's crazy.",
+      "cn": "如果劳拉指责我试图侵犯或者杀死她，那她是疯了。"
+    },
+    {
+      "en": "When translators translate, they usually invade and aggress on the original text, break the balance between the source text and target text and that between the source language and target language.",
+      "cn": "当译者进行翻译时，他们通常会对原文进行攻击和侵犯，打破原文和译文、源语言和目标语言之间的平衡。"
+    },
+    {
+      "en": "While in ghost form you will not be able to start battles aggress or run.",
+      "cn": "处于幽灵状态时,你不能战斗,攻击,或者跑."
+    },
+    {
+      "en": "While in ghost form, you will not be able to start battles, aggress, or run.",
+      "cn": "处于幽灵状态时，你不能战斗，攻击，或者跑。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "aggressive",
+          "tran_cn": " 侵略性的；好斗的；有进取心的；有闯劲的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "aggressively",
+          "tran_cn": " 侵略地；攻击地；有闯劲地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "aggression",
+          "tran_cn": " 侵略；进攻；侵犯；侵害"
+        },
+        {
+          "word": "aggressiveness",
+          "tran_cn": " 攻击性；侵犯；进取精神"
+        },
+        {
+          "word": "aggressor",
+          "tran_cn": " 侵略者；侵略国；挑衅者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "affront",
+            "assault",
+            "attack",
+            "begin",
+            "besiege",
+            "commence",
+            "enkindle",
+            "foment",
+            "incite",
+            "initiate",
+            "instigate",
+            "jump",
+            "offend",
+            "on",
+            "provoke",
+            "start"
+          ],
+          "tran_cn": "开始,攻击,激起"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "have at",
+            "come at"
+          ],
+          "tran_cn": "攻击；侵略"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to infringe on",
+            "encroach on"
+          ],
+          "tran_cn": "侵犯；挑畔"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "攻击，侵犯"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "aggresses"
+    ],
+    "past": [
+      "aggressed"
+    ],
+    "done": [
+      "aggressed"
+    ],
+    "ing": [
+      "aggressing"
+    ]
+  }
+}

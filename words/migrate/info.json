@@ -1,0 +1,194 @@
+{
+  "word": "migrate",
+  "ipa": {
+    "us": "maɪˈɡreɪt",
+    "uk": "ˈmaɪɡreɪt"
+  },
+  "sentences": [
+    {
+      "en": "As parts of the world become uninhabitable, millions of people will try to migrate to more hospitable areas.",
+      "cn": "随着世界的一些地方变得不适人居，数以百万计的人将会试图迁移到环境更加宜人的地区。"
+    },
+    {
+      "en": "Birds usually migrate from north to south.",
+      "cn": "鸟类通常由北向南迁徙。"
+    },
+    {
+      "en": "DDT molecules in water tend to migrate to the surface.",
+      "cn": "在水中滴滴涕分子趋向于向水面移动."
+    },
+    {
+      "en": "Farmers have learned that they have to migrate if they want to survive.",
+      "cn": "农民们已经认识到，想要生存就必须外出打工。"
+    },
+    {
+      "en": "Instinct impels the cuckoo to migrate.",
+      "cn": "本能促使杜鹃迁徒."
+    },
+    {
+      "en": "Large numbers of birds migrate south every winter.",
+      "cn": "每年冬季大量的鸟类迁徙南方."
+    },
+    {
+      "en": "Most birds have to fly long distances to migrate.",
+      "cn": "大多数的鸟类不得不飞行很长的距离进行迁徙。"
+    },
+    {
+      "en": "People migrate to cities like Jakarta in search of work.",
+      "cn": "人们为找工作而迁移到雅加达这类城市里。"
+    },
+    {
+      "en": "Some birds migrate as season changes.",
+      "cn": "有些鸟随季节迁徙."
+    },
+    {
+      "en": "Some birds migrate to warmer countries in ( the ) winter.",
+      "cn": "有些鸟会在冬天移栖到较温暖的地方."
+    },
+    {
+      "en": "Swallows migrate in the winter.",
+      "cn": "燕子在冬天移徙."
+    },
+    {
+      "en": "Swallows migrate south in winter.",
+      "cn": "燕子在冬天迁徙到南方。"
+    },
+    {
+      "en": "The rich people often migrate in winter to Florida.",
+      "cn": "有钱的人常在冬季搬迁到佛罗里达州去."
+    },
+    {
+      "en": "The whales migrate some 6,000 miles to breed and calve in the warm lagoons.",
+      "cn": "鲸会迁移6,000海里左右，到温暖的环礁湖生殖繁衍。"
+    },
+    {
+      "en": "These birds migrate northwards in spring and southwards in fall.",
+      "cn": "这些鸟春天向北迁徙,秋天向南迁徙."
+    },
+    {
+      "en": "Wealthy people often migrate in winter to warmer and sunnier places.",
+      "cn": "富有的人冬天常移往温暖而日照好一点儿的地方去."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "migrant",
+          "tran_cn": " 移居的；流浪的"
+        },
+        {
+          "word": "migratory",
+          "tran_cn": " 迁移的；流浪的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "migrant",
+          "tran_cn": " 候鸟；移居者；随季节迁移的民工"
+        },
+        {
+          "word": "migration",
+          "tran_cn": " 迁移；移民；移动"
+        },
+        {
+          "word": "migrator",
+          "tran_cn": " 移居者；候鸟"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "drift",
+            "nomadize",
+            "pull",
+            "range",
+            "roam",
+            "rove",
+            "stakes",
+            "travel",
+            "up",
+            "wander"
+          ],
+          "tran_cn": "流浪,漫游"
+        },
+        {
+          "words": [
+            "emigrate",
+            "expatriate",
+            "immigrate",
+            "move",
+            "relocate",
+            "resettle",
+            "transfer",
+            "transmigrate"
+          ],
+          "tran_cn": "迁移,移居"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to move",
+            "to shift"
+          ],
+          "tran_cn": "移动；随季节而移居；移往"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "transplant"
+          ],
+          "tran_cn": "使移居；使移植"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "移民，迁徙",
+      "tran_en": "if birds or animals migrate, they travel regularly from one part of the world to another"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "迁移，移往，移动，随季节而移居",
+      "tran_en": "if birds or animals migrate, they travel regularly from one part of the world to another"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使移居，使移植"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "migrates"
+    ],
+    "past": [
+      "migrated"
+    ],
+    "done": [
+      "migrated"
+    ],
+    "ing": [
+      "migrating"
+    ]
+  }
+}

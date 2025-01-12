@@ -1,0 +1,169 @@
+{
+  "word": "trainer",
+  "ipa": {
+    "us": "ˈtreɪnə(r)",
+    "uk": "ˈtreɪnər"
+  },
+  "sentences": [
+    {
+      "en": "a racehorse trainer",
+      "cn": "赛马训练师"
+    },
+    {
+      "en": "He is an animal trainer for the circus.",
+      "cn": "他是马戏团的驯兽师."
+    },
+    {
+      "en": "He was able to serve his apprenticeship as a trainer with Eddie Futch.",
+      "cn": "他当时师从埃迪·富齐学当拳击教练员。"
+    },
+    {
+      "en": "He works out every morning with his personal trainer.",
+      "cn": "每天早上他都和私人教练一起锻炼."
+    },
+    {
+      "en": "Her trainer paced her on a motorcar following her slowly.",
+      "cn": "她的教练骑着一辆摩托慢慢跟随着她为她测步速."
+    },
+    {
+      "en": "Her trainer was even more gloomy about the prospects for British tennis.",
+      "cn": "她的教练对英国网球的前景甚至更为悲观."
+    },
+    {
+      "en": "How long has Yvonne been working as a personal trainer?",
+      "cn": "伊冯做私人教练多久了?"
+    },
+    {
+      "en": "Our trainer had a strong influence on the team.",
+      "cn": "我们的教练对这个队的影响很大."
+    },
+    {
+      "en": "She knew how fast she was running, because her trainer was pacing her on a bicycle.",
+      "cn": "她知道她当时跑得多快, 因为她的教练骑着自行车在为她定步速."
+    },
+    {
+      "en": "She went to the gym with her trainer.",
+      "cn": "她和她的教练一起去了健身房。"
+    },
+    {
+      "en": "She's been working as a personal trainer for two years.",
+      "cn": "她做私人教练有两年了."
+    },
+    {
+      "en": "That trainer knows how to get results from his horses.",
+      "cn": "那个驯马师掌握行之有效的驯马技巧."
+    },
+    {
+      "en": "The football team was disciplined by a professional trainer.",
+      "cn": "这支足球队受过专业教练员的训练。"
+    },
+    {
+      "en": "The horse made a winning start for his new trainer.",
+      "cn": "这匹马为它的新驯马师开了个好头。"
+    },
+    {
+      "en": "The tennis star has parted company with his Austrian trainer.",
+      "cn": "这位网球明星与他的奥地利教练分道扬镳。"
+    },
+    {
+      "en": "The trainer is walking his dogs.",
+      "cn": "那位驯兽人正在遛他的狗."
+    },
+    {
+      "en": "When our trainer stopped speaking, there were a few dutiful cheers.",
+      "cn": "当我们的教练说完的时候, 底下是一些例行的欢乐呼声."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "trained",
+          "tran_cn": " 培训；训练过的，受过培训的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "train",
+          "tran_cn": " 火车；行列；长队；裙裾"
+        },
+        {
+          "word": "trainee",
+          "tran_cn": " 练习生，实习生；受训者；新兵；训练中的动物"
+        },
+        {
+          "word": "training",
+          "tran_cn": " 训练；培养；瞄准；整枝"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "train",
+          "tran_cn": " 培养；训练；瞄准"
+        },
+        {
+          "word": "trained",
+          "tran_cn": " 训练（train的过去分词）"
+        },
+        {
+          "word": "training",
+          "tran_cn": " 训练；教养（train的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "assistant coach",
+            "drillmaster"
+          ],
+          "tran_cn": "助理教练；[劳经]训练员；驯马师；飞行练习器"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "teacher"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "personal trainer",
+      "tran_cn": "私人教练；一对一教学"
+    },
+    {
+      "phrase": "trainer aircraft",
+      "tran_cn": "教练机；教练飞机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "运动鞋，教员，驯兽师",
+      "tran_en": "someone who trains people or animals for sport or work"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "trainers"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "word": "convulse",
+  "ipa": {
+    "us": "kənˈvʌls",
+    "uk": "kənˈvʌls"
+  },
+  "sentences": [
+    {
+      "en": "He sat down, his shoulders convulsing with sobs.",
+      "cn": "他坐下来，因抽泣肩膀剧烈抖动。"
+    },
+    {
+      "en": "Their bodies convulse, in agony , and, pain.",
+      "cn": "他们的什么颤抖着."
+    },
+    {
+      "en": "This event convulse the whole world .",
+      "cn": "这个事件震惊中外。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "convulsive",
+          "tran_cn": " 抽搐的；惊厥的；震动的；起痉挛的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "convulsion",
+          "tran_cn": " [医] 惊厥；动乱；震撼；震动"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "震动, 震撼, 使抽筋",
+      "tran_en": "if your body or a part of it convulses, it moves violently and you are not able to control it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使抽搐，使剧烈震动"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "convulses"
+    ],
+    "past": [
+      "convulsed"
+    ],
+    "done": [
+      "convulsed"
+    ],
+    "ing": [
+      "convulsing"
+    ]
+  }
+}

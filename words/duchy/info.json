@@ -1,0 +1,113 @@
+{
+  "word": "duchy",
+  "ipa": {
+    "us": "ˈdʌtʃi",
+    "uk": "ˈdʌtʃi"
+  },
+  "sentences": [
+    {
+      "en": "...the Duchy of Cornwall.",
+      "cn": "...康沃尔公爵的领地。"
+    },
+    {
+      "en": "A woman holding title a duchy in her own right.",
+      "cn": "凭本身的头衔持有子爵称号的贵妇人."
+    },
+    {
+      "en": "Henry VIII decided to dispark the Duchy parks and turn them more profitably into pasture.",
+      "cn": "亨利八世决定开放若干公爵猎园,把它们改作更加有益的牧场."
+    },
+    {
+      "en": "In 1987 awarded the Grand Duchy of Luxembourg to accept the Order of the Crown.",
+      "cn": "1987年接受卢森堡大公授予的皇冠勋章."
+    },
+    {
+      "en": "The Grand Duchy appeared in the feudal separation period during middle ages in Europe.",
+      "cn": "大公国出现于欧洲中世纪封建割据时期."
+    },
+    {
+      "en": "The region a duchy in 1806 and was absorbed by Prussia in 1866.",
+      "cn": "该地区在1806年成为领地并于1866年被普鲁士接收."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ducal",
+          "tran_cn": " 公爵的；公爵领地的；象公爵的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "duchess",
+          "tran_cn": " 公爵夫人；女公爵；雍容华贵的妇女；小老板娘"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "duchess",
+          "tran_cn": " 热情款待；讨好"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "duchess",
+          "tran_cn": " （澳）盛情款待；讨好"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "principality"
+          ],
+          "tran_cn": "公国；公爵领地；直辖领地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dependency"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "grand duchy",
+      "tran_cn": "n. 大公国"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "公爵的领地，公国，英国王室直辖领地",
+      "tran_en": "the land and property of a  duke  or  duchess "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "duchies"
+    ]
+  }
+}

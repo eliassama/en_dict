@@ -1,0 +1,102 @@
+{
+  "word": "unionist",
+  "ipa": {
+    "us": "ˈju:niənɪst",
+    "uk": "ˈjunjənɪst"
+  },
+  "sentences": [
+    {
+      "en": "As a former unionist, he'll be more sensitive to the demands of the people.",
+      "cn": "作为曾经的工会主义者，他会对民众的要求更加敏感。"
+    },
+    {
+      "en": "I was not a trade unionist.",
+      "cn": "因为我不是工会会员."
+    },
+    {
+      "en": "To begin with the Unionist soldiers fought without any real purpose and their losses were terrible.",
+      "cn": "而起初,北方军的士兵却不知道他们到底为何而战.因此,他们遭受了可怕的失败."
+    },
+    {
+      "en": "Unionist immediately objected ( rejected ) the idea, calling it a betrayal.",
+      "cn": "工会当人立即反对了这一提议, 并称其为一种背叛."
+    },
+    {
+      "en": "Unionist immediately rejected the idea, calling it a betrayal.",
+      "cn": "工会人员立即反对了这个意见, 称这是泄密."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "unionized",
+          "tran_cn": " 组织成工会的；[物][化学] 未电离的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "union",
+          "tran_cn": " 联盟，协会；工会；联合"
+        },
+        {
+          "word": "unionism",
+          "tran_cn": " 工会主义；联合主义；联邦主义"
+        },
+        {
+          "word": "unionization",
+          "tran_cn": " 工会化；联合；结合"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "unionized",
+          "tran_cn": " 使…成立联盟；使…加入工会（unionize的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "unionize",
+          "tran_cn": " 加入工会；成立工会"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "unionize",
+          "tran_cn": " 使……加入工会；使……成立工会"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "trade unionist",
+      "tran_cn": "工会会员；工团主义者"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "工会会员，工会主义者，联合主义者，(U-)联邦主义者"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "unionists"
+    ]
+  }
+}

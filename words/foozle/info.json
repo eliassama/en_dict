@@ -1,0 +1,64 @@
+{
+  "word": "foozle",
+  "ipa": {
+    "us": "'fu:zl",
+    "uk": "'fuzəl"
+  },
+  "sentences": [
+    {
+      "en": "Who made this foozle?",
+      "cn": "谁捅了这个漏子?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chancer"
+          ],
+          "tran_cn": "笨拙的一击；笨拙的行为；笨拙的人"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "fumble"
+          ],
+          "tran_cn": "笨拙地做；打得不好"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "笨拙的行为，笨拙的一击，笨拙的人"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "笨拙地做",
+      "tran_en": "to bungle (a shot) "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "foozles"
+    ],
+    "past": [
+      "foozled"
+    ],
+    "done": [
+      "foozled"
+    ],
+    "ing": [
+      "foozling"
+    ]
+  }
+}

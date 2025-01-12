@@ -1,0 +1,82 @@
+{
+  "word": "inspissate",
+  "ipa": {
+    "us": "ɪn'spɪseɪt",
+    "uk": "ɪn'spɪseɪt"
+  },
+  "sentences": [
+    {
+      "en": "The egg yolk will inspissate.",
+      "cn": "蛋黄将浓缩."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inspissation",
+          "tran_cn": " 浓缩；蒸浓法，浓缩法"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "thicken"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "concentrate",
+            "condense"
+          ],
+          "tran_cn": "浓缩"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "dewater"
+          ],
+          "tran_cn": "使浓缩；使气氛沉重"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "浓缩",
+      "tran_en": "to thicken, as by evaporation "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inspissates"
+    ],
+    "past": [
+      "inspissated"
+    ],
+    "done": [
+      "inspissated"
+    ],
+    "ing": [
+      "inspissating"
+    ]
+  }
+}

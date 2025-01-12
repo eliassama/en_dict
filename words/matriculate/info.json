@@ -1,0 +1,98 @@
+{
+  "word": "matriculate",
+  "ipa": {
+    "us": "məˈtrɪkjuleɪt",
+    "uk": "mə'trɪkjʊleɪt"
+  },
+  "sentences": [
+    {
+      "en": "He matriculated in the English Literature Department at the Tokyo Imperial University.",
+      "cn": "他被东京帝国大学英语文学系录取了。"
+    },
+    {
+      "en": "I had to matriculate if I wanted to do a degree.",
+      "cn": "如果我想攻读学位，必须先被录取入学。"
+    },
+    {
+      "en": "If let her when instructor, she is about to become a professor after, even matriculate council.",
+      "cn": "假如让她当讲师, 以后她就要成为教授, 甚至进大学评议会."
+    },
+    {
+      "en": "In those days, I am firm matriculate, overflow in the library everyday stroll aimlessly.",
+      "cn": "那时, 我刚进大学, 每天在图书馆里漫无目的地闲逛."
+    },
+    {
+      "en": "That's why so many -- 40 percent – matriculate part time.",
+      "cn": "这就是为什么有40%的学生要半工半读."
+    },
+    {
+      "en": "The police arrest 8 person who forge and cadge the fake advice note of matriculate.",
+      "cn": "警察在本月初逮捕了8名伪造和贩卖假录取通知书的人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "matric",
+          "tran_cn": " 大学入学许可"
+        },
+        {
+          "word": "matriculation",
+          "tran_cn": " 入学考试；大学入学许可；录取入学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "enroll"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "被录取者"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 录取",
+      "tran_en": "In some countries, if you matriculate, you register formally as a student at a university, or you satisfy the academic requirements necessary for registration for a course"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "被大学录取"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "录取（学生）入大学"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "matriculates"
+    ],
+    "past": [
+      "matriculated"
+    ],
+    "done": [
+      "matriculated"
+    ],
+    "ing": [
+      "matriculating"
+    ],
+    "noun": [
+      "matriculation"
+    ]
+  }
+}

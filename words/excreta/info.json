@@ -1,0 +1,72 @@
+{
+  "word": "excreta",
+  "ipa": {
+    "us": "ɪkˈskri:tə",
+    "uk": "ɪkˈskritə"
+  },
+  "sentences": [
+    {
+      "en": "If the quality of food eaten is good, then the excreta is comparitively easier to tolerate.",
+      "cn": "如果吃的是优质食物，那么排泄物就相对容易忍受。"
+    },
+    {
+      "en": "Nitrogen turnover from grazing livestock excreta is the key process in the nitrogen cycle of pasture ecosystems.",
+      "cn": "放牧家畜排泄物氮转化是草原生态系统氮循环的关键。"
+    },
+    {
+      "en": "The excreta not because of weightlessness, but will scatter to the installment outside.",
+      "cn": "排泄物就不会因为失重, 而散落到装置以外."
+    },
+    {
+      "en": "The excreta of humans and land animals contain soluble refractory organic matter.",
+      "cn": "人和陆生动物排泄物含有可溶的难处理有机物质。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "excretory",
+          "tran_cn": " 排泄的，分泌的；有排泄功能的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "excretion",
+          "tran_cn": " 排泄，排泄物；分泌，分泌物"
+        },
+        {
+          "word": "excretory",
+          "tran_cn": " 排泄器官"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "feces",
+            "egesta"
+          ],
+          "tran_cn": "[生理]排泄物，分泌物"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "排泄物（如汗、尿、粪等）",
+      "tran_en": "the solid or liquid waste material that people and animals produce and get rid of from their bodies"
+    }
+  ],
+  "exchange": {}
+}

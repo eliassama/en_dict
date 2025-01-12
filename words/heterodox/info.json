@@ -1,0 +1,51 @@
+{
+  "word": "heterodox",
+  "ipa": {
+    "us": "ˈhetərədɒks",
+    "uk": "ˈhetərədɑks"
+  },
+  "sentences": [
+    {
+      "en": "His opinions have always been distinctly heterodox.",
+      "cn": "他的观点时常带有明显的异端色彩."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "heterodoxy",
+          "tran_cn": " 异端，异端邪说"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "unorthodox",
+            "heretical"
+          ],
+          "tran_cn": "异端的；非正统的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "异端的",
+      "tran_en": "heterodox beliefs, practices etc are not approved of by a particular group, especially a religious one"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "heterodoxy"
+    ]
+  }
+}

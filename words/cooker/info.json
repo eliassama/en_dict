@@ -1,0 +1,183 @@
+{
+  "word": "cooker",
+  "ipa": {
+    "us": "ˈkʊkə(r)",
+    "uk": "ˈkʊkər"
+  },
+  "sentences": [
+    {
+      "en": "a gas cooker",
+      "cn": "煤气炉灶"
+    },
+    {
+      "en": "Have you a gas cooker?",
+      "cn": "你有煤气炉 吗 ?"
+    },
+    {
+      "en": "He fitted my new cooker.",
+      "cn": "他为我安装新炊具."
+    },
+    {
+      "en": "Is your cooker gas or electric?",
+      "cn": "你的炊具用煤气还是用电?"
+    },
+    {
+      "en": "Mum has just won a microwave cooker.",
+      "cn": "妈妈刚刚赢得一台微波炉."
+    },
+    {
+      "en": "She plugged in and began to cook with the cooker.",
+      "cn": "她接通电源,然后开始用电炉做饭."
+    },
+    {
+      "en": "She pre - set the cooker to come on at 6.30.",
+      "cn": "她把炊具预先调好在6点30分钟操作."
+    },
+    {
+      "en": "The cooker is giving off a funny smell.",
+      "cn": "锅里冒出一股怪味."
+    },
+    {
+      "en": "The cooker is not yet wired in to the main supply.",
+      "cn": "炊具尚未接通电源."
+    },
+    {
+      "en": "The cooker isn't working because of an electrical fault.",
+      "cn": "这个炊具不能用了,因为出了电气方面的故障."
+    },
+    {
+      "en": "The cooker, heaters and other electrical installations are all in perfect working order.",
+      "cn": "厨房 、 加热器以及其他电器设备都处于完好的工作状态."
+    },
+    {
+      "en": "The slow cooker is very useful for people who go out all day.",
+      "cn": "慢炖锅对于整天都不在家的人来说很有用。"
+    },
+    {
+      "en": "There is an electric cooker in the kitchen.",
+      "cn": "厨房里有个电灶."
+    },
+    {
+      "en": "This giant pressure cooker may lie undisturbed.",
+      "cn": "这只巨大的高压锅可以安然无事地呆在那里."
+    },
+    {
+      "en": "We heated the soup on the cooker.",
+      "cn": "我们在炉子上热汤."
+    },
+    {
+      "en": "What colour is the electric cooker?",
+      "cn": "电灶是什么颜色的?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cooking",
+          "tran_cn": " 烹调用的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cook",
+          "tran_cn": " 厨师，厨子"
+        },
+        {
+          "word": "cookery",
+          "tran_cn": " 烹调术；烹调业"
+        },
+        {
+          "word": "cooking",
+          "tran_cn": " 烹饪"
+        },
+        {
+          "word": "cookware",
+          "tran_cn": " 炊具；厨房用具"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "cooking",
+          "tran_cn": " 烹调；筹划（cook的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "cook",
+          "tran_cn": " 烹调，做菜"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "cook",
+          "tran_cn": " 烹调，煮"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "kitchen utensil",
+            "interpolator"
+          ],
+          "tran_cn": "炊具；烹饪用水果；窜改者"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "electric cooker",
+      "tran_cn": "n. 电炉"
+    },
+    {
+      "phrase": "electric rice cooker",
+      "tran_cn": "n. 电锅"
+    },
+    {
+      "phrase": "gas cooker",
+      "tran_cn": "煤气炉"
+    },
+    {
+      "phrase": "induction cooker",
+      "tran_cn": "n. 电磁炉"
+    },
+    {
+      "phrase": "pressure cooker",
+      "tran_cn": "n. 高压锅；加压蒸汽速煮器"
+    },
+    {
+      "phrase": "rice cooker",
+      "tran_cn": "电饭锅，电饭煲"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "炉灶，灶具"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cookers"
+    ]
+  }
+}

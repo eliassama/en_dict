@@ -1,0 +1,113 @@
+{
+  "word": "defuse",
+  "ipa": {
+    "us": "ˌdi:ˈfju:z",
+    "uk": "diˈfjuz"
+  },
+  "sentences": [
+    {
+      "en": "He tries to defuse the issue in three ways.",
+      "cn": "他试图用三种途径来化解这一困境."
+    },
+    {
+      "en": "In conference calls, conflict can be much more difficult to defuse.",
+      "cn": "缓解电话会议上的冲突可能会困难得多."
+    },
+    {
+      "en": "In Sierra Leone, we helped defuse confrontations and keep peace moving forward.",
+      "cn": "在塞拉利昂, 我们帮助化解了对抗,使和平进程继续向前."
+    },
+    {
+      "en": "Local police are trying to defuse racial tension in the community.",
+      "cn": "当地的警察竭力缓和这个社区种族间的紧张局面。"
+    },
+    {
+      "en": "Or they can try to adjust the terms to defuse some of the criticisms.",
+      "cn": "或者他们可能设法调整条款以减少一些批评."
+    },
+    {
+      "en": "Police have defused a bomb found in a downtown building.",
+      "cn": "警察已拆除了在市中心一幢大楼里发现的一枚炸弹的引信。"
+    },
+    {
+      "en": "The organization helped defuse potentially violent situations.",
+      "cn": "该组织帮忙化解了可能出现的暴力局面。"
+    },
+    {
+      "en": "The two groups will meet next week to try to defuse the crisis.",
+      "cn": "这两个小组下周将会面,试图缓和危机."
+    },
+    {
+      "en": "This may defuse some of the anger.",
+      "cn": "这也许能够消除对方的怒气."
+    },
+    {
+      "en": "We will strengthen financial supervision and control, and forestall and defuse financial risks.",
+      "cn": "加强和改进金融监管, 防范和化解金融风险."
+    },
+    {
+      "en": "You will defuse the past and, little by little, you will leave it all behind.",
+      "cn": "你就会化解过去,然后, 你就会渐渐地把过去的一切不愉快抛却在脑后了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "defusing",
+          "tran_cn": " 拆除；消除；减压"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "defusing",
+          "tran_cn": " 化解；解除；缓和（defuse的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "quell",
+            "assuage"
+          ],
+          "tran_cn": "平息；去掉…的雷管；使除去危险性"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 拆除引信， 使除去危险性；平息",
+      "tran_en": "to improve a difficult or dangerous situation, for example by making people less angry or by dealing with the causes of a problem"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "拆除（爆炸物）的引信，减少…的危险性，使变为无害，平息，缓和"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "defuses"
+    ],
+    "past": [
+      "defused"
+    ],
+    "done": [
+      "defused"
+    ],
+    "ing": [
+      "defusing"
+    ]
+  }
+}

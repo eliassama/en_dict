@@ -1,0 +1,122 @@
+{
+  "word": "obsolescent",
+  "ipa": {
+    "us": "ˌɒbsə'lesnt",
+    "uk": "ˌɒbsə'lesnt"
+  },
+  "sentences": [
+    {
+      "en": "...outmoded, obsolescent equipment.",
+      "cn": "...陈旧过时的设备。"
+    },
+    {
+      "en": "Electronic equipment quickly becomes obsolescent.",
+      "cn": "电子设备淘汰得很快."
+    },
+    {
+      "en": "Extraction technology of manganese and zinc from obsolescent alkaline cell and carbon - zinc battery was studied.",
+      "cn": "研究了废碳锌电池和碱性电池中金属锌和金属锰的回收."
+    },
+    {
+      "en": "Horse carriages are obsolescent.",
+      "cn": "马车已经过时."
+    },
+    {
+      "en": "This type of computer is obsolescent.",
+      "cn": "这类计算机是快要过时的."
+    },
+    {
+      "en": "This word is now obsolescent.",
+      "cn": "这个字现在已废弃不用了."
+    },
+    {
+      "en": "Through man's spirit of ingenuity he has made himself obsolescent as a worker.",
+      "cn": "人的聪明才智使他自己变成了过时落伍的工人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "obsolete",
+          "tran_cn": " 废弃的；老式的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "obsolescence",
+          "tran_cn": " [生物] 退化；荒废"
+        },
+        {
+          "word": "obsolete",
+          "tran_cn": " 废词；陈腐的人"
+        },
+        {
+          "word": "obsoleteness",
+          "tran_cn": " 废弃"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "obsolesce",
+          "tran_cn": " 成为废物；成为过时"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "obsolete",
+          "tran_cn": " 淘汰；废弃"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "dilapidated",
+            "ruined"
+          ],
+          "tran_cn": "荒废的；即将过时的；逐渐被废弃的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "antiquated",
+            "dated"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "逐步废弃的",
+      "tran_en": "becoming obsolete"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "obsolescence"
+    ]
+  }
+}

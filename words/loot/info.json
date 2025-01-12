@@ -1,0 +1,195 @@
+{
+  "word": "loot",
+  "ipa": {
+    "us": "luːt",
+    "uk": "luːt"
+  },
+  "sentences": [
+    {
+      "en": "After a battle Your faithfull companions will equip loot.",
+      "cn": "在一场您娜菲斯福尔同伴将装备掠夺."
+    },
+    {
+      "en": "ERROR: >> Loaded 0 loot definitions. DB table'item _ loot _ template'is empty.",
+      "cn": "这个错误. 看了下这个表. 是空的要怎么解决呢?"
+    },
+    {
+      "en": "He is the stony - hearted expug, committed deep within him, despite all blandishments, to anarchy and loot.",
+      "cn": "他就是那个铁石心肠的前拳击家, 表面上虽然阿谀逢迎, 心底里却尽转着天下大乱, 杀人越货的念头."
+    },
+    {
+      "en": "He liked the stony - hearted expug, committed deep within him, despite all blandishments, to anarchy and loot.",
+      "cn": "他喜欢这个铁石心肠的前拳击家, 表面上虽然阿谀逢迎, 心底里却尽转着天下大乱, 杀人越货的念头."
+    },
+    {
+      "en": "It is loot, isn't it?",
+      "cn": "这是外快, 是 么 ?"
+    },
+    {
+      "en": "It was all the loot taken by soldiers from the captured town.",
+      "cn": "这就是士兵们从被占领的城镇掠夺来的所有东西."
+    },
+    {
+      "en": "It was Arakanese who joined the general scramble for loot.",
+      "cn": "阿拉干参与了对战利品的全面掠夺."
+    },
+    {
+      "en": "Most criminals steal in order to sell their loot for cash on the black market.",
+      "cn": "罪犯盗窃大多是为了把赃物在黑市上卖掉，换取现金。"
+    },
+    {
+      "en": "Shops were looted and burned.",
+      "cn": "商店遭到抢劫和焚毁。"
+    },
+    {
+      "en": "The oil best calculated to lubricate the political machine was the loot that it received.",
+      "cn": "这部政治机器最好的润滑油,是它的非法收入."
+    },
+    {
+      "en": "The thief outwitted the police and got away with his loot.",
+      "cn": "小偷以狡计骗过警察带着赃物逃跑了."
+    },
+    {
+      "en": "The thieves quarreled with one another about how to divide the loot.",
+      "cn": "盗贼们为了如何分脏而彼此争吵起来."
+    },
+    {
+      "en": "The thieves were caught with their loot by the police.",
+      "cn": "警察抓获了小偷及其赃物."
+    },
+    {
+      "en": "There have been reports of youths taking advantage of the general confusion to loot and steal.",
+      "cn": "有报道说一些年轻人乘局势一片混乱之际抢劫盗窃。"
+    },
+    {
+      "en": "There was a rift within the loot, as Albert Tennyson says.",
+      "cn": "正如艾伯特·丁尼生所说的,投机倒把里出现了裂罅."
+    },
+    {
+      "en": "This was the island where buccaneers hid their loot.",
+      "cn": "这是过去海盗们藏赃物的岛屿."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "looter",
+          "tran_cn": " 抢劫者"
+        },
+        {
+          "word": "looting",
+          "tran_cn": " 抢劫；洗劫，趁乱打劫"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "looting",
+          "tran_cn": " 打劫（loot的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "prize",
+            "capture"
+          ],
+          "tran_cn": "战利品；抢劫；掠夺品"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "booty",
+            "burglarize",
+            "despoil",
+            "pillage",
+            "pirate",
+            "plunder",
+            "prey",
+            "raid",
+            "ransack",
+            "rob",
+            "velvet"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "prey upon",
+            "rob of"
+          ],
+          "tran_cn": "洗劫，掠夺；抢劫"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "burglarize",
+            "plunder",
+            "rob"
+          ],
+          "tran_cn": "掠夺;非法取得"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "掠夺物，战利品，（官吏的）赃物，非法收入，抢劫，外快",
+      "tran_en": "goods taken by soldiers from a place where they have won a battle"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "掠夺, 抢劫, 劫掠",
+      "tran_en": "to steal things, especially from shops or homes that have been damaged in a war or  riot "
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "抢劫，掠夺，（官吏）贪污"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "loots"
+    ],
+    "third": [
+      "loots"
+    ],
+    "past": [
+      "looted"
+    ],
+    "done": [
+      "looted"
+    ],
+    "ing": [
+      "looting"
+    ],
+    "noun": [
+      " looting",
+      "looter"
+    ]
+  }
+}

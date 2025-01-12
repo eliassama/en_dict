@@ -1,0 +1,182 @@
+{
+  "word": "skid",
+  "ipa": {
+    "us": "skɪd",
+    "uk": "skɪd"
+  },
+  "sentences": [
+    {
+      "en": "A digital aircraft anti - skid braking controller based on embedded DSP - TMS 320 LF 2407 was introduced.",
+      "cn": "介绍了一种基于嵌入式DSP芯片TMS320LF2407的数字化飞机防滑刹车控制器."
+    },
+    {
+      "en": "After his divorce, Mike bearrived a drunk down on skid row.",
+      "cn": "离婚之后, 迈克尔沦落为贫民街的酒鬼."
+    },
+    {
+      "en": "Bank - To - Turn ( BTT ) and Skid - To - Turn ( STT ) control techniques are widely used in current missile control systems.",
+      "cn": "现代导弹控制技术一般可分为侧滑转弯 ( Skid-to-Turn,STT ) 控制技术和倾斜转弯 ( Bank-to-Tum,BTT ) 控制技术."
+    },
+    {
+      "en": "He became a skid row type of drunkard.",
+      "cn": "他变成了那种贫民区里常见的醉鬼。"
+    },
+    {
+      "en": "He braked suddenly, causing the front wheels to skid.",
+      "cn": "他猛然刹车，使得前车轮打滑了。"
+    },
+    {
+      "en": "He braked suddenly, causing the front wheels to skid.",
+      "cn": "他突然剎车, 使得前轮打了滑."
+    },
+    {
+      "en": "He slammed on the brakes and we went into a long skid (= started to skid ) .",
+      "cn": "他猛力踩下车，我们的车子打滑了很长一段路。"
+    },
+    {
+      "en": "Hot water Fill - The skid is filled with water from the CIP tank.",
+      "cn": "热的水填充 - 橇被装满来自CIP箱的水."
+    },
+    {
+      "en": "I slammed the brakes on and went into a skid.",
+      "cn": "我猛地一踩刹车，结果车子打滑了。"
+    },
+    {
+      "en": "Many highly trained workers ended up on skid row during the recession.",
+      "cn": "很多受过良好训练的工人在经济萧条时都流落到贫民窟."
+    },
+    {
+      "en": "The brakes locked , causing the car to skid.",
+      "cn": "汽车因车轮刹住而打滑."
+    },
+    {
+      "en": "The car has many safety features, including anti - skid braking.",
+      "cn": "这车配有许多特别安全装置, 包括防滑制动器."
+    },
+    {
+      "en": "The car went into a skid.",
+      "cn": "汽车失控滑行."
+    },
+    {
+      "en": "The lorry went into a skid and crashed into the barrier.",
+      "cn": "卡车失控打滑撞到障碍物上."
+    },
+    {
+      "en": "The police examined the skid marks to see how fast the car had been travelling.",
+      "cn": "警察检查了车轮滑行痕迹,以判断汽车当时开得有多快."
+    },
+    {
+      "en": "to be on skid row",
+      "cn": "住在贫民区"
+    },
+    {
+      "en": "Turn the car towards the skid if you lose control of it.",
+      "cn": "如果汽车失去控制，就往打滑的方向转。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "skidder",
+          "tran_cn": " 集材工；集材道横木；集材机"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "spoke",
+            "lock"
+          ],
+          "tran_cn": "打滑；[车辆]刹车；滑轨，[建]滑动垫木"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "slide"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "put on the brakes"
+          ],
+          "tran_cn": "刹住，使减速；滚滑"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hit the skids",
+      "tran_cn": "(非正式)走向衰退；开始堕落"
+    },
+    {
+      "phrase": "on the skids",
+      "tran_cn": "(非正式)（人，职业）陷入困境；失败的"
+    },
+    {
+      "phrase": "put the skids under",
+      "tran_cn": "(非正式)加速衰退（或失败）"
+    },
+    {
+      "phrase": "skid proof",
+      "tran_cn": "防滑"
+    },
+    {
+      "phrase": "skid resistance",
+      "tran_cn": "[化]抗滑，抗滑性"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "滑向一侧，滑道，滚道，制轮器",
+      "tran_en": "a sudden sliding movement of a vehicle that you cannot control"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "刹住，使减速；滚滑"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（通常指车辆）侧滑，打滑，滑行，（住在）贫民区"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "刹住，使减速，滚滑"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "skids"
+    ],
+    "third": [
+      "skids"
+    ],
+    "past": [
+      "skidded"
+    ],
+    "done": [
+      "skidded"
+    ],
+    "ing": [
+      "skidding"
+    ]
+  }
+}

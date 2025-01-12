@@ -1,0 +1,190 @@
+{
+  "word": "alcoholic",
+  "ipa": {
+    "us": "ˌælkəˈhɒlɪk",
+    "uk": "ˌælkəˈhɑːlɪk"
+  },
+  "sentences": [
+    {
+      "en": "a very potent alcoholic brew",
+      "cn": "烈性酒精饮料"
+    },
+    {
+      "en": "alcoholic drinks",
+      "cn": "酒精饮料"
+    },
+    {
+      "en": "Alcoholic drinks act as a poison to a child.",
+      "cn": "酒精饮料对小孩犹如毒药."
+    },
+    {
+      "en": "An alcoholic is not allowed to drive.",
+      "cn": "酗酒者不许开车."
+    },
+    {
+      "en": "Can I have something non-alcoholic?",
+      "cn": "给我来杯软饮料好吗？"
+    },
+    {
+      "en": "He showed great courage by admitting on television that he is an alcoholic.",
+      "cn": "他在电视上承认他是个酒鬼，表现出了极大的勇气。"
+    },
+    {
+      "en": "He showed great courage by admitting that he is an alcoholic.",
+      "cn": "他以极大的勇气承认自己酗酒。"
+    },
+    {
+      "en": "He's not a real alcoholic.",
+      "cn": "他并非货真价实的酒鬼。"
+    },
+    {
+      "en": "It is very alcoholic, sometimes near the strength of port.",
+      "cn": "它的酒精浓度很高，有时接近波尔图葡萄酒的浓度。"
+    },
+    {
+      "en": "laws governing the sale of alcoholic beverages",
+      "cn": "控制酒类销售的法规"
+    },
+    {
+      "en": "Novello says college students will spend $4.2 billion yearly on alcoholic beverages.",
+      "cn": "诺韦洛说大学生每年在酒精饮品上会消费掉42亿美元。"
+    },
+    {
+      "en": "Prohibit the sale of alcoholic beverages.",
+      "cn": "禁止出售含酒精的饮料."
+    },
+    {
+      "en": "regulations governing the sale of alcoholic beverages",
+      "cn": "含酒精饮料的销售管理条例"
+    },
+    {
+      "en": "The alcoholic strength of brandy far exceeds that of wine.",
+      "cn": "白兰地的酒精浓度远远超过葡萄酒."
+    },
+    {
+      "en": "The guests left in an alcoholic haze.",
+      "cn": "客人们醉醺醺地离去了。"
+    },
+    {
+      "en": "Water precipitates camphor from its alcoholic solution.",
+      "cn": "水能把樟脑从其酒精溶液中淀析出来."
+    },
+    {
+      "en": "We do not sell any alcoholic beverages.",
+      "cn": "我们不出售含酒精的饮料."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "alcohol",
+          "tran_cn": " 酒精，乙醇"
+        },
+        {
+          "word": "alcoholism",
+          "tran_cn": " 酗酒；[内科] 酒精中毒"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "alcoholize",
+          "tran_cn": " 醇化；变成酒精；浸渍酒精中"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "spirituous"
+          ],
+          "tran_cn": "[有化]酒精的，含酒精的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "drunkard",
+            "inebriate",
+            "sot",
+            "tippler"
+          ],
+          "tran_cn": "酒鬼"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "drunkard",
+            "inebriate",
+            "slave",
+            "sot",
+            "tippler"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "alcoholic beverage",
+      "tran_cn": "酒精饮料"
+    },
+    {
+      "phrase": "alcoholic extract",
+      "tran_cn": "酒精提出物，酒精萃取物"
+    },
+    {
+      "phrase": "alcoholic fermentation",
+      "tran_cn": "[化]酒精发酵，乙醇发酵"
+    },
+    {
+      "phrase": "alcoholic hepatitis",
+      "tran_cn": "酒精性肝炎"
+    },
+    {
+      "phrase": "alcoholic liquor",
+      "tran_cn": "[医]醇制溶液；含醇液"
+    },
+    {
+      "phrase": "alcoholic solution",
+      "tran_cn": "n. 醇溶液；酒精溶液"
+    },
+    {
+      "phrase": "alcoholic strength",
+      "tran_cn": "酒精度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（含）酒精的，饮酒引起的",
+      "tran_en": "relating to alcohol or containing alcohol"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "酒鬼，嗜酒如命的人",
+      "tran_en": "someone who regularly drinks too much alcohol and has difficulty stopping"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "alcoholics"
+    ]
+  }
+}

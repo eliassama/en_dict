@@ -1,0 +1,73 @@
+{
+  "word": "bistro",
+  "ipa": {
+    "us": "ˈbi:strəʊ",
+    "uk": "ˈbistroʊ"
+  },
+  "sentences": [
+    {
+      "en": "a French bistro",
+      "cn": "一间法式小餐馆"
+    },
+    {
+      "en": "It was a quiet, charming bistro on 56 th Street on the East side.",
+      "cn": "那家幽静可爱的餐馆坐落在市东区第五十六号大街上."
+    },
+    {
+      "en": "The new Bodum collection, BISTRO toaster in all shades of the rainbow.",
+      "cn": "新博达姆出售收集, 餐馆烤面包机在形形色色的彩虹."
+    },
+    {
+      "en": "We ate in the restaurant, as opposed to the bistro.",
+      "cn": "我们是在餐厅吃的饭，而不是在小饭馆。"
+    },
+    {
+      "en": "We've tried to create the ambience of a French bistro.",
+      "cn": "我们想尽量创造出法国小餐馆的气氛."
+    },
+    {
+      "en": "Went to a nearby bistro for some drink.",
+      "cn": "吃完后到附近的酒吧坐坐."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "pothouse",
+            "grogshop"
+          ],
+          "tran_cn": "小酒馆"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cafe",
+            "restaurant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<俗>小酒馆，酒吧，小餐馆",
+      "tran_en": "a small restaurant or bar"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bistros"
+    ]
+  }
+}

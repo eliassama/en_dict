@@ -1,0 +1,99 @@
+{
+  "word": "fantastical",
+  "ipa": {
+    "us": "fæn'tæstɪkl",
+    "uk": "fæn'tæstɪkəl"
+  },
+  "sentences": [
+    {
+      "en": "fantastical creatures with golden wings and lions’ faces",
+      "cn": "金翅狮面的怪兽"
+    },
+    {
+      "en": "His room was tricked out with something fantastical.",
+      "cn": "他的房间用一些奇形怪状的东西装饰起来."
+    },
+    {
+      "en": "The book has many fantastical aspects.",
+      "cn": "这本书有很多方面都十分精彩。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fantastic",
+          "tran_cn": " 奇异的；空想的；极好的；不可思议的"
+        },
+        {
+          "word": "fantasy",
+          "tran_cn": " 虚幻的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "fantastically",
+          "tran_cn": " 想像中地；奇特地；难以置信地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fantastic",
+          "tran_cn": " 古怪的人"
+        },
+        {
+          "word": "fantasy",
+          "tran_cn": " 幻想；白日梦；幻觉"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "fantasy",
+          "tran_cn": " 耽于幻想；奏幻想曲（等于phantasy）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fantasy",
+          "tran_cn": " 空想；想像"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "romantic",
+            "fancied"
+          ],
+          "tran_cn": "空想的；捕风捉影的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "空想的，捕风捉影的",
+      "tran_en": "strange, unreal, and magical"
+    }
+  ],
+  "exchange": {}
+}

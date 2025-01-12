@@ -1,0 +1,204 @@
+{
+  "word": "analyse",
+  "ipa": {
+    "us": "ˈænəlaɪz",
+    "uk": "ˈænəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Analyse a complex sentence into several clauses.",
+      "cn": "把这个复合句分析成几个句子."
+    },
+    {
+      "en": "Analyse the sentence into its constituent parts.",
+      "cn": "把这句子的各个成分加以分析."
+    },
+    {
+      "en": "Analyse the situation before you act.",
+      "cn": "行动前分析一下形势."
+    },
+    {
+      "en": "Analyse this complex sentence into many clauses.",
+      "cn": "将这个复合句分析成许多从句."
+    },
+    {
+      "en": "Analyse water into oxygen and hydrogen.",
+      "cn": "把水分解成氧和氢."
+    },
+    {
+      "en": "He learnt how to analyse many compounds into their elements.",
+      "cn": "他学会把许多化合物分解成元素."
+    },
+    {
+      "en": "Joe had never tried to analyze their relationship.",
+      "cn": "乔从未试图去理清他们的关系。"
+    },
+    {
+      "en": "Only one expert source seemed prepared to analyse the problem afresh, from first principles.",
+      "cn": "只有一位专家似乎已准备要从根本原理着手重新研究这个问题。"
+    },
+    {
+      "en": "She still needs to analyse the data.",
+      "cn": "她仍需要分析这些数据。"
+    },
+    {
+      "en": "The coach tried to analyse the cause of our defeat.",
+      "cn": "教练努力设法分析我们失败的原因."
+    },
+    {
+      "en": "The teacher tried to analyse the cause of our failure.",
+      "cn": "教师设法仔细分析我们失败的原因."
+    },
+    {
+      "en": "This book teaches you how to analyse what is causing the stress in your life.",
+      "cn": "这本书教你分析生活压力形成的原因。"
+    },
+    {
+      "en": "This does not encourage the child to analyse the environment in a formal way.",
+      "cn": "这并不能鼓励孩子有条理地分析周围的环境。"
+    },
+    {
+      "en": "Tong uses the model to analyse the effect of a rectangular obstruction in a channel.",
+      "cn": "董使用“混合”模型研究了管道中有矩形障碍物时所产生的影响."
+    },
+    {
+      "en": "We should analyse what they said and not just agree with everything.",
+      "cn": "对他们的意见要加以分析,不要随声附和."
+    },
+    {
+      "en": "We should develop the students'ability to analyse and solve problems.",
+      "cn": "我们应该培养学生分析问题和解决问题的能力."
+    },
+    {
+      "en": "Who shall analyse those tears, and say whether they were sweet or bitter?",
+      "cn": "谁能够揣摩这些泪珠儿的含意呢?谁能够断定它们是苦是甜 呢 ?"
+    },
+    {
+      "en": "You need to sit down and analyse why you feel so upset.",
+      "cn": "你得坐下来想一想自己为什么会那么生气。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "analytic",
+          "tran_cn": " 分析的；解析的；善于分析的"
+        },
+        {
+          "word": "analytical",
+          "tran_cn": " 分析的；解析的；善于分析的"
+        },
+        {
+          "word": "analyzable",
+          "tran_cn": " 可分析的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "analytically",
+          "tran_cn": " 分析地；解析地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "analyser",
+          "tran_cn": " 分析器，分析仪；分析者"
+        },
+        {
+          "word": "analysis",
+          "tran_cn": " 分析；分解；验定"
+        },
+        {
+          "word": "analyticity",
+          "tran_cn": " 分析性，[数] 解析性"
+        },
+        {
+          "word": "analyzer",
+          "tran_cn": " [计] 分析器；分析者；检偏镜"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "canvass",
+            "specify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "investigate",
+            "review"
+          ],
+          "tran_cn": "分析,调查"
+        },
+        {
+          "words": [
+            "anatomize",
+            "decompose",
+            "dissect",
+            "separate"
+          ],
+          "tran_cn": "分隔,切分"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "study",
+            "break down"
+          ],
+          "tran_cn": "分析；分解；细察"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 分析，分解，化验",
+      "tran_en": "to examine or think about something carefully, in order to understand it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 分析； 分解",
+      "tran_en": "to examine or think about something carefully, in order to understand it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "analyses"
+    ],
+    "past": [
+      "analysed"
+    ],
+    "done": [
+      "analysed"
+    ],
+    "ing": [
+      "analysing"
+    ]
+  }
+}

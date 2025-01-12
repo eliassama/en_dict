@@ -1,0 +1,186 @@
+{
+  "word": "maid",
+  "ipa": {
+    "us": "meɪd",
+    "uk": "meɪd"
+  },
+  "sentences": [
+    {
+      "en": "a kitchen maid",
+      "cn": "厨房女佣人"
+    },
+    {
+      "en": "Alex is too young to be already thinking of herself as an old maid.",
+      "cn": "亚历克丝认为自己是个老姑娘的想法还太早了点。"
+    },
+    {
+      "en": "He tried to tidy up, not wanting the maid to see the disarray.",
+      "cn": "他试图收拾一下，不想让女佣看见那里乱七八糟。"
+    },
+    {
+      "en": "Her hair was craped by her maid.",
+      "cn": "她的头发是她的女仆所卷的."
+    },
+    {
+      "en": "Her maid helped her to dress for the ball.",
+      "cn": "她的女仆帮她穿上参加舞会的晚礼服."
+    },
+    {
+      "en": "Her maid locked the case in the safe.",
+      "cn": "她的女佣把箱子锁进保险柜里。"
+    },
+    {
+      "en": "I have sent my maid away.",
+      "cn": "我已把我的女仆解雇了."
+    },
+    {
+      "en": "I have turned off my maid.",
+      "cn": "我已把女仆辞了."
+    },
+    {
+      "en": "I sent him a long fax, saying I didn't need a maid.",
+      "cn": "我给他发了一份很长的传真，说我不需要女仆。"
+    },
+    {
+      "en": "In these early stories, there was no love interest from Maid Marion, no link to Richard I, no mention of the resistance versus the Norman Conquest.",
+      "cn": "这些早期的故事里，没有少女玛瑞恩的爱情，没有和理查一世的交往，也没有提到抵抗诺曼征服。"
+    },
+    {
+      "en": "Once a week, a maid changes the sheets.",
+      "cn": "女仆每星期换一次床单。"
+    },
+    {
+      "en": "She doubled as the maid and the secretary in the play.",
+      "cn": "她在这出剧里兼饰女佣和秘书."
+    },
+    {
+      "en": "The maid looked at him, a nervous smile on her face.",
+      "cn": "女服务员看着他，脸上带着一丝局促不安的微笑。"
+    },
+    {
+      "en": "The maid plunged the cloth into the pail and cleaned the floor.",
+      "cn": "那个侍女把拖把放进桶里浸湿,用来擦地."
+    },
+    {
+      "en": "The maid went over the room quickly with a duster.",
+      "cn": "那个女仆用掸子很快地给房间掸尘."
+    },
+    {
+      "en": "The maid, casting black looks, hurried out.",
+      "cn": "女仆怒气冲冲地瞪了几眼，匆匆地出去了。"
+    },
+    {
+      "en": "There is a maid to do the housework.",
+      "cn": "有个女仆做家务事。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "maiden",
+          "tran_cn": " 未婚的，处女的；初次的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "maiden",
+          "tran_cn": " 少女；处女"
+        },
+        {
+          "word": "maidservant",
+          "tran_cn": " 女佣，女仆"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "domestic",
+            "helper",
+            "housekeeper",
+            "servant"
+          ],
+          "tran_cn": "仆人,雇工;协助者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adolescent",
+            "domestic",
+            "helper",
+            "housekeeper",
+            "launderer",
+            "maiden",
+            "servant",
+            "waiter",
+            "youth"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "wait upon",
+            "attend on"
+          ],
+          "tran_cn": "侍候；做新娘的女傧相"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "an old maid",
+      "tran_cn": "n. 老处女；[口]谨小慎微的人"
+    },
+    {
+      "phrase": "maid of all work",
+      "tran_cn": "◎女仆，杂役"
+    },
+    {
+      "phrase": "maid of honor",
+      "tran_cn": "女傧相；宫女"
+    },
+    {
+      "phrase": "old maid",
+      "tran_cn": "老处女；谨小慎微的人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "女仆，侍女，少女，处女，未婚女子",
+      "tran_en": "a female servant, especially in a large house or hotel"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "当女仆"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "侍候；做新娘的女傧相"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "maids"
+    ]
+  }
+}

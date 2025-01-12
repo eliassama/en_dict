@@ -1,0 +1,175 @@
+{
+  "word": "burglar",
+  "ipa": {
+    "us": "ˈbɜːɡlə(r)",
+    "uk": "ˈbɜːrɡlər"
+  },
+  "sentences": [
+    {
+      "en": "As soon as I came downstairs the burglar bolted out.",
+      "cn": "我一下楼,窃贼便狂奔而逃."
+    },
+    {
+      "en": "Burglars broke into their home.",
+      "cn": "窃贼闯进了他们家。"
+    },
+    {
+      "en": "Did a burglar break into your house last night?",
+      "cn": "昨晚有个窃贼闯进你家 吗 ?"
+    },
+    {
+      "en": "She playacted the movements of a burglar.",
+      "cn": "他把窃盗的举动戏剧化了."
+    },
+    {
+      "en": "The barking of the dog frightened the burglar away.",
+      "cn": "狗叫声把那个盗贼吓跑了."
+    },
+    {
+      "en": "The burglar alarm is activated by movement.",
+      "cn": "这防盗警报器一动就会响。"
+    },
+    {
+      "en": "The burglar got in through the window.",
+      "cn": "盗贼是从窗户进来的。"
+    },
+    {
+      "en": "The burglar made away with several valuable jewels worth about & 10,000.",
+      "cn": "窃贼偷走了价值约一万英镑的几件珍宝."
+    },
+    {
+      "en": "The burglar made his getaway across the roof.",
+      "cn": "小偷从屋顶上逃跑了."
+    },
+    {
+      "en": "The burglar outwitted the police and got [ ran ] away.",
+      "cn": "那名窃贼以机智 瞒 过警方而开溜."
+    },
+    {
+      "en": "The burglar shone his torch into the dark room.",
+      "cn": "盗贼将手电筒照进黑暗的房间."
+    },
+    {
+      "en": "The man glanced the burglar climbing out of the window.",
+      "cn": "那人瞥见小偷从窗户爬出来."
+    },
+    {
+      "en": "The new security guard is a burglar — that'll put the cat among the pigeons.",
+      "cn": "新来的守卫是小偷——这下子可要鸡犬不宁了."
+    },
+    {
+      "en": "The police were unable to penetrate the wiles of the cat burglar.",
+      "cn": "警方无法识破窃贼的诡计."
+    },
+    {
+      "en": "The policeman took the burglar by surprise as he opened the window.",
+      "cn": "当夜盗开窗时,警察冷不防地捉住了他."
+    },
+    {
+      "en": "This burglar thought old people are easy prey.",
+      "cn": "这个夜贼觉得老人容易下手。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "burglarious",
+          "tran_cn": " 夜盗的，窃盗的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "burglary",
+          "tran_cn": " 盗窃，夜盗；盗窃行为"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "burglary",
+          "tran_cn": " 入室行窃"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "burglarize",
+          "tran_cn": " 夜盗；行窃"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "burglarize",
+          "tran_cn": " 撬窃；行窃"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "housebreaker",
+            "robber",
+            "thief"
+          ],
+          "tran_cn": "夜贼,破门盗窃者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "criminal",
+            "housebreaker",
+            "robber",
+            "thief"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "burglar alarm",
+      "tran_cn": "防窃报警器；防盗自动警铃"
+    },
+    {
+      "phrase": "burglar alarm system",
+      "tran_cn": "防盗警钟系统"
+    },
+    {
+      "phrase": "cat burglar",
+      "tran_cn": "飞贼；身手敏捷的贼"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "窃贼，破门盗窃者",
+      "tran_en": "someone who goes into houses, shops etc to steal things"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "burglars"
+    ]
+  }
+}

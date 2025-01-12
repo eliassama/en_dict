@@ -1,0 +1,90 @@
+{
+  "word": "maltreat",
+  "ipa": {
+    "us": "ˌmælˈtri:t",
+    "uk": "mælˈtrit"
+  },
+  "sentences": [
+    {
+      "en": "Never to maltreat children again!",
+      "cn": "莫再“心罚”孩子!"
+    },
+    {
+      "en": "Only very mean persons maltreat children.",
+      "cn": "只有非常卑鄙的人才虐待儿童."
+    },
+    {
+      "en": "The hostages said they were hungry but had not been maltreated.",
+      "cn": "人质说他们挨了饿，但没有受到虐待。"
+    },
+    {
+      "en": "To be rough or brutal with; maltreat.",
+      "cn": "虐待粗暴或残忍地对待; 虐待."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "maltreatment",
+          "tran_cn": " 虐待；粗暴对待"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abuse",
+            "mistreat",
+            "spite"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abuse",
+            "mistreat"
+          ],
+          "tran_cn": "虐待"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "虐待, 滥用",
+      "tran_en": "to treat a person or animal cruelly"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "虐待，亏待",
+      "tran_en": "to treat a person or animal cruelly"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "maltreats"
+    ],
+    "past": [
+      "maltreated"
+    ],
+    "ing": [
+      "maltreating"
+    ],
+    "noun": [
+      "maltreatment"
+    ]
+  }
+}

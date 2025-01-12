@@ -1,0 +1,100 @@
+{
+  "word": "blazon",
+  "ipa": {
+    "us": "ˈbleɪzn",
+    "uk": "ˈblezən"
+  },
+  "sentences": [
+    {
+      "en": "Combed and wattled gules , and all the rest of the blazon.",
+      "cn": "红色的鸡冠和肉垂, 还有所有的家徽纹章."
+    },
+    {
+      "en": "Contains a heraldic formula or phrase, typically found as part of a blazon , coat of arms, etc.",
+      "cn": "包含一个纹章学的常规或词汇，通常是装饰、或盾形纹章等的一部分。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "blazer",
+          "tran_cn": " 燃烧体；宣布者；颜色鲜明的运动上衣"
+        },
+        {
+          "word": "blazonry",
+          "tran_cn": " 漂亮的装饰；炫示；美观"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "heraldry",
+            "portrayal"
+          ],
+          "tran_cn": "纹章；描绘"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "embellish"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bill",
+            "paint",
+            "hang"
+          ],
+          "tran_cn": "宣布；装饰"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "纹章；描绘",
+      "tran_en": "a conventional description or depiction of heraldic arms "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "宣布；装饰"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "广布，宣布，夸示，装饰"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "blazons"
+    ],
+    "past": [
+      "blazoned"
+    ],
+    "done": [
+      "blazoned"
+    ],
+    "ing": [
+      "blazoning"
+    ]
+  }
+}

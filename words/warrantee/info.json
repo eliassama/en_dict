@@ -1,0 +1,90 @@
+{
+  "word": "warrantee",
+  "ipa": {
+    "us": "ˌwɒrən'ti:",
+    "uk": "ˌwɒrən'ti"
+  },
+  "sentences": [
+    {
+      "en": "Is It'still under warrantee?",
+      "cn": "这是否仍在保养期内?"
+    },
+    {
+      "en": "To deepen the study of engineering guarantee warrantee, and then to quicken the establishment of it, is very significant to improve China's risk management level.",
+      "cn": "加强对工程保证担保的研究，尽快建立工程保证担保制度，这对提高我国建筑企业的风险管理水平有着积极的作用。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "warranted",
+          "tran_cn": " 保证的；担保的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "warrant",
+          "tran_cn": " 根据；证明；正当理由；委任状"
+        },
+        {
+          "word": "warranter",
+          "tran_cn": " 担保人"
+        },
+        {
+          "word": "warrantor",
+          "tran_cn": " 保证人；担保人"
+        },
+        {
+          "word": "warranty",
+          "tran_cn": " 保证；担保；授权；（正当）理由"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "warranted",
+          "tran_cn": " 批准（warrant的过去分词）；授权"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "warrant",
+          "tran_cn": " 保证；担保；批准；辩解"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "warantee",
+            "vouchee"
+          ],
+          "tran_cn": "被保证人；被担保人"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "被保证人，被担保人",
+      "tran_en": "a person to whom a warranty is given "
+    }
+  ],
+  "exchange": {}
+}

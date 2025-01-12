@@ -1,0 +1,184 @@
+{
+  "word": "tolerate",
+  "ipa": {
+    "us": "ˈtɒləreɪt",
+    "uk": "ˈtɑːləreɪt"
+  },
+  "sentences": [
+    {
+      "en": "He can't tolerate dissenting views.",
+      "cn": "他不能容纳不同意见."
+    },
+    {
+      "en": "He can't tolerate penicilin.",
+      "cn": "他对盘尼西林无耐药力."
+    },
+    {
+      "en": "He could not tolerate the extremes of heat in the desert.",
+      "cn": "他忍受不住沙漠的酷热."
+    },
+    {
+      "en": "He does not tolerate anyone who mucks him about.",
+      "cn": "他对耍弄他的人毫不客气。"
+    },
+    {
+      "en": "I can just about tolerate it at the moment.",
+      "cn": "当时我差一点就忍受不了了。"
+    },
+    {
+      "en": "I can't tolerate your bad manners any longer.",
+      "cn": "我再也不能容忍你无礼的行为."
+    },
+    {
+      "en": "Match officials should not tolerate such behaviour but instead enforce the laws of the game.",
+      "cn": "赛事官员不应纵容这种行为，而应严格执行比赛规则。"
+    },
+    {
+      "en": "She can no longer tolerate the position that she's in.",
+      "cn": "她再也受不了自己的处境了."
+    },
+    {
+      "en": "She can tolerate that rude fellow.",
+      "cn": "她能容忍那个粗鲁的家伙."
+    },
+    {
+      "en": "The harass-ment had become too much to tolerate and he decided to move out.",
+      "cn": "骚扰越来越过分，他难以忍受，决定搬走。"
+    },
+    {
+      "en": "The teacher cannot tolerate eating on the class.",
+      "cn": "老师不容许在课堂上吃东西."
+    },
+    {
+      "en": "This plant prefers alkaline soil, though it will readily tolerate some acidity.",
+      "cn": "这种植物在酸性土壤中也能生存, 但碱性土壤更加适宜."
+    },
+    {
+      "en": "This sort of behaviour will not be tolerated.",
+      "cn": "这种行为是不能容许的。"
+    },
+    {
+      "en": "We can't tolerate his mistakes.",
+      "cn": "我们不能容忍他的错误."
+    },
+    {
+      "en": "We cannot tolerate such waste.",
+      "cn": "我们不能容忍这种浪费现象."
+    },
+    {
+      "en": "We have to tolerate each other's little foibles.",
+      "cn": "我们得互相容忍对方的小缺点。"
+    },
+    {
+      "en": "We simply will not tolerate vigilante groups on our streets.",
+      "cn": "我们决不容许有自行惩办犯罪的组织出现在我们的街头。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tolerant",
+          "tran_cn": " 宽容的；容忍的；有耐药力的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "tolerantly",
+          "tran_cn": " 宽容地，容忍地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tolerance",
+          "tran_cn": " 公差；宽容；容忍；公差"
+        },
+        {
+          "word": "toleration",
+          "tran_cn": " 宽容，忍受，默认；耐受性"
+        },
+        {
+          "word": "tolerator",
+          "tran_cn": " 杠杆式比长仪"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abide",
+            "accept",
+            "allow",
+            "bear",
+            "collude",
+            "endure",
+            "have",
+            "permit",
+            "stand",
+            "stomach",
+            "suffer",
+            "sustain",
+            "take"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abide",
+            "accept",
+            "allow",
+            "bear",
+            "endure",
+            "permit",
+            "stand",
+            "suffer"
+          ],
+          "tran_cn": "容忍;容许"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "容许，忍受，有耐受性",
+      "tran_en": "to allow people to do, say, or believe something without criticizing or punishing them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "容忍",
+      "tran_en": "to allow people to do, say, or believe something without criticizing or punishing them"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "tolerates"
+    ],
+    "past": [
+      "tolerated"
+    ],
+    "done": [
+      "tolerated"
+    ],
+    "ing": [
+      "tolerating"
+    ]
+  }
+}

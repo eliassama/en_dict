@@ -1,0 +1,128 @@
+{
+  "word": "acidulous",
+  "ipa": {
+    "us": "əˈsɪdjələs",
+    "uk": "əˈsɪdʒələs"
+  },
+  "sentences": [
+    {
+      "en": "His acidulous remarks towards the mayor put everyone ill at ease.",
+      "cn": "他对市长尖刻的评论使每个人都不自在."
+    },
+    {
+      "en": "The deposit is genetically of hypothermal type . Ore _ forming solutions have abundant acidulous water and mephitic air.",
+      "cn": "成矿溶液属于气成高温热水溶液,且富含大量碳酸或碳酸气."
+    },
+    {
+      "en": "These four bacteriocins showed the highest antibacterial activity under acidulous and neutral conditions.",
+      "cn": "pH稳定性研究表明,在弱酸性或中性条件下,这些细菌素表现出较高的活性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "acidulate",
+          "tran_cn": " 使尖刻；使酸化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "acerbic",
+            "acrid",
+            "acrimonious",
+            "acute",
+            "astringent",
+            "austere",
+            "biting",
+            "bitter",
+            "caustic",
+            "crabbed",
+            "crabby",
+            "cross",
+            "cutting",
+            "derisive",
+            "doubleedged",
+            "edged",
+            "harsh",
+            "ill-tempered",
+            "ironical",
+            "keen",
+            "malicious",
+            "mocking",
+            "mordant",
+            "peevish",
+            "petulant",
+            "piercing",
+            "pricking",
+            "pungent",
+            "sarcastic",
+            "sardonic",
+            "satirical",
+            "scathing",
+            "scornful",
+            "severe",
+            "sharp",
+            "snide",
+            "sour-tempered",
+            "spiteful",
+            "stern",
+            "stinging",
+            "testy",
+            "touchy",
+            "trenchant",
+            "vicious",
+            "virulent",
+            "vitriolic"
+          ],
+          "tran_cn": "严酷的,尖刻的,暴躁的"
+        },
+        {
+          "words": [
+            "acerbic",
+            "acescent",
+            "acid",
+            "acidulated",
+            "acidulent",
+            "bitter",
+            "citric",
+            "harsh",
+            "sour",
+            "sourish",
+            "tart",
+            "vinegarish",
+            "vinegary"
+          ],
+          "tran_cn": "酸的,尖酸的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cynical"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "微酸的，带酸味的，尖酸刻薄的，有讽刺意味的",
+      "tran_en": "rather sour "
+    }
+  ],
+  "exchange": {}
+}

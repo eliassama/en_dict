@@ -1,0 +1,75 @@
+{
+  "word": "brainwash",
+  "ipa": {
+    "us": "ˈbreɪnwɒʃ",
+    "uk": "ˈbreɪnwɑʃ"
+  },
+  "sentences": [
+    {
+      "en": "Don't let advertisements brainwash you.",
+      "cn": "不要受广告的宣传影响."
+    },
+    {
+      "en": "Don't let television commercials brainwash you into buying anything you actually don't need.",
+      "cn": "别让电视广告引诱你购买自己实际不需要的东西."
+    },
+    {
+      "en": "They brainwash people into giving up all their money.",
+      "cn": "他们向人们强行灌输放弃所有钱财的思想。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "brainwashing",
+          "tran_cn": " 洗脑"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "brainwashing",
+          "tran_cn": " 对…洗脑；把思想强行灌输给（brainwash的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "洗脑"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "对人洗脑；以宣传说服",
+      "tran_en": "If you brainwash someone, you force them to believe something by continually telling them that it is true, and preventing them from thinking about it properly"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<贬>对…进行洗脑，把某种思想强加于，通过宣传灌输说服"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "brainwashes"
+    ],
+    "past": [
+      "brainwashed"
+    ],
+    "done": [
+      "brainwashed"
+    ],
+    "ing": [
+      "brainwashing"
+    ],
+    "noun": [
+      "brainwashing"
+    ]
+  }
+}

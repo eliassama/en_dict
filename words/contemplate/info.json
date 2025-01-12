@@ -1,0 +1,195 @@
+{
+  "word": "contemplate",
+  "ipa": {
+    "us": "ˈkɒntəmpleɪt",
+    "uk": "ˈkɑːntəmpleɪt"
+  },
+  "sentences": [
+    {
+      "en": "All day he did nothing but contemplate.",
+      "cn": "他整天除了沉思外没做任何事."
+    },
+    {
+      "en": "Both tests really contemplate a standard of \" reasonableness, \" which no one can define with precision.",
+      "cn": "两个标准均考虑 \" 合情合理 \" 的标准,可没人能够准确地作出界定."
+    },
+    {
+      "en": "Contemplate the problem before making a final decision.",
+      "cn": "做最后决定前,仔细考虑一下这个问题."
+    },
+    {
+      "en": "Every inhabitant of this planet must contemplate that it may no longer be habitable.",
+      "cn": "世界上每个人都必须思考到地球上可能不再适合人住的那一天."
+    },
+    {
+      "en": "He contemplated her with a faint smile.",
+      "cn": "他微微含笑注视着她。"
+    },
+    {
+      "en": "He could not contemplate anything so desperate as desertion.",
+      "cn": "紧急关头他怎么也不会想到抛弃朋友不管."
+    },
+    {
+      "en": "He goes to the park every day to sit and contemplate.",
+      "cn": "他每天去公园,坐在那里沉思默想."
+    },
+    {
+      "en": "He had even contemplated suicide.",
+      "cn": "他甚至想过自杀。"
+    },
+    {
+      "en": "He may try to blast his way out of trouble, playing attacking shots to balls he would not normally contemplate hitting.",
+      "cn": "他可能是想努力摆脱困境，平时不会考虑击打的球也打起了进攻。"
+    },
+    {
+      "en": "I do not contemplate any opposition from him.",
+      "cn": "我想他不至于反对."
+    },
+    {
+      "en": "It afforded a vista pleasant to contemplate.",
+      "cn": "景色赏心悦目."
+    },
+    {
+      "en": "It is perhaps pointless to contemplate what might have been changing.",
+      "cn": "揣测情况可能如何演变也许是件无聊的事情."
+    },
+    {
+      "en": "It terrified me to contemplate the consequence of your action.",
+      "cn": "想到你行动的后果,我就感到害怕."
+    },
+    {
+      "en": "It was fairly easy to contemplate the race issue in the shop.",
+      "cn": "在这店里看到种族问题那是相当容易的."
+    },
+    {
+      "en": "Jack went on vacation to contemplate his future.",
+      "cn": "杰克去度假，仔细思考一下他的未来。"
+    },
+    {
+      "en": "The consequences would be too ghastly to contemplate.",
+      "cn": "后果不堪设想."
+    },
+    {
+      "en": "The possibility of war is too horrifying to contemplate.",
+      "cn": "战争的可能性太可怕了,真不堪细想."
+    },
+    {
+      "en": "What a wonderful scene they contemplate from the heights.",
+      "cn": "从高处看到的风景多么美啊!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "contemplative",
+          "tran_cn": " 沉思的；冥想的；默想的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "contemplation",
+          "tran_cn": " 沉思；注视；意图"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "brood",
+            "canvass",
+            "consider",
+            "deliberate",
+            "entertain",
+            "envisage",
+            "expect",
+            "inspect",
+            "intend",
+            "meditate",
+            "muse",
+            "observe",
+            "plan",
+            "ponder",
+            "reflect",
+            "scrutinize",
+            "speculate",
+            "study",
+            "survey",
+            "think"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "puzzle"
+          ],
+          "tran_cn": "冥思苦想；深思熟虑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "consider",
+            "deliberate",
+            "ponder",
+            "reflect",
+            "study",
+            "think"
+          ],
+          "tran_cn": "思忖,思量"
+        },
+        {
+          "words": [
+            "expect",
+            "intend",
+            "plan"
+          ],
+          "tran_cn": "预期;盘算,计议"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "考虑，沉思，苦思冥想，凝视",
+      "tran_en": "to look at someone or something for a period of time in a way that shows you are thinking"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 盘算， 计议； 思量， 对…周密考虑； 注视， 凝视",
+      "tran_en": "to think about something that you might do in the future"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "contemplates"
+    ],
+    "past": [
+      "contemplated"
+    ],
+    "done": [
+      "contemplated"
+    ],
+    "ing": [
+      "contemplating"
+    ]
+  }
+}

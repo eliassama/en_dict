@@ -1,0 +1,80 @@
+{
+  "word": "tollgate",
+  "ipa": {
+    "us": "'təʊlˌgeɪt",
+    "uk": "'toʊlˌgeɪt"
+  },
+  "sentences": [
+    {
+      "en": "From Shanghai take A 11 Huning Expressway. Exit Anting. It is right before tollgate entering Jiangsu Province.",
+      "cn": "从上海出发走A11沪闵高速. 安亭出口. 就在进入江苏省收费站之前."
+    },
+    {
+      "en": "Is Dongseong Tollgate near your work?",
+      "cn": "东森收费站离你工作的地方很近 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "toll",
+          "tran_cn": " 通行费；代价；钟声"
+        },
+        {
+          "word": "toller",
+          "tran_cn": " 鸣钟人；征收通行税的人；钟"
+        },
+        {
+          "word": "tollhouse",
+          "tran_cn": " 通行税征收处"
+        },
+        {
+          "word": "tollkeeper",
+          "tran_cn": " 通行税征收人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "toll",
+          "tran_cn": " 鸣钟；征税"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "toll",
+          "tran_cn": " 征收；敲钟"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "checkpoint",
+            "road-block"
+          ],
+          "tran_cn": "关卡；征收通行税的关卡"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "征收通行税的关卡，关门"
+    }
+  ],
+  "exchange": {}
+}

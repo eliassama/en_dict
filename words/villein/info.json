@@ -1,0 +1,47 @@
+{
+  "word": "villein",
+  "ipa": {
+    "us": "ˈvɪleɪn",
+    "uk": "ˈvɪlən, -ˌen, vɪˈlen"
+  },
+  "sentences": [
+    {
+      "en": "The legal tenure by which a villein held land.",
+      "cn": "佃农对土地的使用权佃农拥有土地的法律使用权."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "villeinage",
+          "tran_cn": " 隶农制；隶农身分；隶农土地保有条件，隶农身份"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "serf",
+            "ryot"
+          ],
+          "tran_cn": "农奴；佃农"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<史>隶农",
+      "tran_en": "a poor farm worker in the Middle Ages who was given a small piece of land in return for working on the land of a rich lord"
+    }
+  ],
+  "exchange": {}
+}

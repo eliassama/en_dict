@@ -1,0 +1,154 @@
+{
+  "word": "diagonally",
+  "ipa": {
+    "us": "daɪ'æɡənəlɪ",
+    "uk": "daɪ'æɡənəlɪ"
+  },
+  "sentences": [
+    {
+      "en": "A new digital watermarking algorithm based on diagonally dominant matrix is proposed.",
+      "cn": "提出了一种基于对角占优矩阵的数字水印算法."
+    },
+    {
+      "en": "A set is formed by grouping 3 similar pieces horizontally, vertically, or diagonally.",
+      "cn": "一套是由分组3件类似的横向, 纵向, 或对角."
+    },
+    {
+      "en": "Begin at START. You can move horizontally and vertically, but not diagonally.",
+      "cn": "由START开始,你只可以横向、纵向移动, 但不可以交叉走."
+    },
+    {
+      "en": "Butter knife, positioned diagonally at the top of the butter plate.",
+      "cn": "黄油刀, 斜放在黄油碟上."
+    },
+    {
+      "en": "Chien - ju lived in a compound diagonally opposite the Kaos.",
+      "cn": "她的家就在这个公馆的斜对面."
+    },
+    {
+      "en": "Chueh - hsin stole glances at Mei, seated diagonally opposite, and their eyes met several times.",
+      "cn": "觉新正坐在梅的斜对面,他有时偷偷地看她一两眼, 有时梅也把眼光朝他这一面射来, 两人的眼光不期地遇着了."
+    },
+    {
+      "en": "Generalized strictly diagonally dominant matrix play an important role in matrix theory and real applications.",
+      "cn": "广义严格对角占优矩阵在矩阵理论和实际应用中具有重要的作用和意义."
+    },
+    {
+      "en": "In a moment he was seated, diagonally opposite her, brow furrowed.",
+      "cn": "很快他便眉头紧蹙地在她斜对面落座了。"
+    },
+    {
+      "en": "It'should be diagonally opposite.",
+      "cn": "它应该在斜对面."
+    },
+    {
+      "en": "Rising diagonally from the ground to the right of Venus is the band of our Milky Way Galaxy.",
+      "cn": "从地面斜对角向金星的右上方，可以看到我们的银河系的光带。"
+    },
+    {
+      "en": "She lives diagonally across the street from us.",
+      "cn": "她住在街对面,和我们呈对角线."
+    },
+    {
+      "en": "The apartment are stacked in a pattern which is shifted diagonally.",
+      "cn": "公寓都是延斜线上移叠落在一起的."
+    },
+    {
+      "en": "The base of scoin is cut diagonally to expose a large oval of cambium.",
+      "cn": "接穗的基部被切成斜形,暴露出椭圆形的大圈形成层."
+    },
+    {
+      "en": "The path cuts the meadow diagonally.",
+      "cn": "那条路斜穿过草地."
+    },
+    {
+      "en": "Vaulting the stile, he headed diagonally across the paddock.",
+      "cn": "翻身跃过栅栏后，他便朝斜穿围场的方向走去。"
+    },
+    {
+      "en": "When taking, the pawn goes one square diagonally forward.",
+      "cn": "当吃子时, 兵向前斜着走一步."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "diagonal",
+          "tran_cn": " 斜的；对角线的；斜纹的"
+        },
+        {
+          "word": "diagonalizable",
+          "tran_cn": " 对角化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "diagonal",
+          "tran_cn": " 对角线；斜线"
+        },
+        {
+          "word": "diagonalization",
+          "tran_cn": " [数] 对角化；对角线化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "diagonalize",
+          "tran_cn": " 斜向移动；循对角线方向移动"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "diagonalize",
+          "tran_cn": " 与…斜向地成一行；使对角线化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "cornerways",
+            "arrisways"
+          ],
+          "tran_cn": "对角地；斜对地"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "diagonally dominant",
+      "tran_cn": "对角占优；对角优势的"
+    },
+    {
+      "phrase": "diagonally dominant matrix",
+      "tran_cn": "对角主导矩阵"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "对角线地，斜线地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "diagonal"
+    ]
+  }
+}

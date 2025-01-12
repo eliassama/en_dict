@@ -1,0 +1,63 @@
+{
+  "word": "creditworthiness",
+  "ipa": {
+    "us": "'kredɪtwɜ:ðɪnəs",
+    "uk": "'kredɪtwɜðɪnəs"
+  },
+  "sentences": [
+    {
+      "en": "Many companies even maintain their own credit departments that investigate the creditworthiness of each prospective customer.",
+      "cn": "很多公司甚至设置了自己的赊销信用管理部门调查潜在客户的资信."
+    },
+    {
+      "en": "These positions now endanger the creditworthiness of the European banking system.",
+      "cn": "这些状况现在威胁到欧洲银行体系的信用."
+    },
+    {
+      "en": "They now take extra steps to verify the creditworthiness of customers.",
+      "cn": "他们现在又采取额外措施来核实客户的信用度。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "creditworthy",
+          "tran_cn": " 信誉卓著的，有信誉的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "credit",
+          "tran_cn": " 信用，信誉；[金融] 贷款；学分；信任；声望"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "credit",
+          "tran_cn": " 相信，信任；把…归给，归功于；赞颂"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "商誉"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "creditworthy"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "word": "harmfully",
+  "ipa": {
+    "us": "ˈhɑ:mfəli",
+    "uk": "'hɑmfəlɪ"
+  },
+  "sentences": [
+    {
+      "en": "Fear spread through the crowd like a contagion , ie quickly and harmfully.",
+      "cn": "人们心中的恐惧就像瘟疫似的蔓延开来."
+    },
+    {
+      "en": "Frequent excessive consumption can harmfully interfere with the user's well - being.",
+      "cn": "频繁过多地使用就会对使用者造成内在的危害."
+    },
+    {
+      "en": "Next, kind of subsidy harmfully in market fair principle.",
+      "cn": "其次, 这种补贴有害于市场公平原则."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "harmful",
+          "tran_cn": " 有害的；能造成损害的"
+        },
+        {
+          "word": "harmless",
+          "tran_cn": " 无害的；无恶意的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "harmlessly",
+          "tran_cn": " 无害地；无恶意地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "harm",
+          "tran_cn": " 伤害；损害"
+        },
+        {
+          "word": "harmfulness",
+          "tran_cn": " 伤害；有害"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "harm",
+          "tran_cn": " 伤害；危害；损害"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "injuriously",
+            "hurtfully"
+          ],
+          "tran_cn": "有害地；伤害地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "伤害地，有害地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "harmful"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "word": "masked",
+  "ipa": {
+    "us": "mɑ:skt",
+    "uk": "mæskt"
+  },
+  "sentences": [
+    {
+      "en": "A smile masked his disappointment.",
+      "cn": "微笑遮掩了他的失望."
+    },
+    {
+      "en": "But their arrogance and their cultured voices masked guilt and fear.",
+      "cn": "然尔,他们的自高自大和富有教养的声调却掩盖着内疚和恐惧."
+    },
+    {
+      "en": "He went to the masked ball without masking his face.",
+      "cn": "他去参加化装舞会而没戴假面具."
+    },
+    {
+      "en": "Her eyes were masked by huge round sunglasses.",
+      "cn": "她的双眼被一副圆形大墨镜遮住了."
+    },
+    {
+      "en": "His defense, which seems credible on the evidence so far, is that the bank masked its skullduggery so completely that no regulator anywhere in the world could get a handle on it.",
+      "cn": "他的辩词(根据目前证据似乎可信)是:银行把它的偷天换日的做法遮掩得天衣无逢,全世界任何地方的监管人员都无法掌握."
+    },
+    {
+      "en": "Masked gunmen opened fire on the bus.",
+      "cn": "蒙面的持枪歹徒朝公共汽车开了枪。"
+    },
+    {
+      "en": "Masked men held up a security van in South London yesterday.",
+      "cn": "蒙面歹徒昨天在伦敦南部抢劫了一辆护卫车."
+    },
+    {
+      "en": "Masked robbers broke in and made off with $8,000.",
+      "cn": "蒙面抢匪破门而入，偷走了8,000美元。"
+    },
+    {
+      "en": "Masked robbers broke in, tied him up, and made off with $8,000.",
+      "cn": "几个蒙面大盗破门而入，把他捆起来，抢走了8,000美元。"
+    },
+    {
+      "en": "The growth of certain viruses is masked by faster growing ones.",
+      "cn": "某些病毒的生长可以被生长更快的病毒所掩蔽."
+    },
+    {
+      "en": "The thief masked his face with a stocking.",
+      "cn": "那贼用长统袜遮住脸."
+    },
+    {
+      "en": "They masked their true intentions.",
+      "cn": "他们遮盖了他们的真正意图."
+    },
+    {
+      "en": "They were taken captive by masked gunmen.",
+      "cn": "他们被蒙面的持枪歹徒劫持了。"
+    },
+    {
+      "en": "Three masked bandits stuck up a bank yesterday.",
+      "cn": "三个蒙面盗匪昨天抢劫了一家银行."
+    },
+    {
+      "en": "Two alleged collaborators were shot dead by masked activists.",
+      "cn": "两名涉嫌通敌者被蒙面的激进分子击毙。"
+    },
+    {
+      "en": "Two masked men held up a mail van.",
+      "cn": "两个戴面具的人拦路抢劫了一辆邮车."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mask",
+          "tran_cn": " 面具；口罩；掩饰"
+        },
+        {
+          "word": "masker",
+          "tran_cn": " 戴面具的人"
+        },
+        {
+          "word": "masking",
+          "tran_cn": " 掩蔽；隐蔽"
+        },
+        {
+          "word": "masquer",
+          "tran_cn": " 蒙面者；化装舞蹈者；戴假面具的人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "masking",
+          "tran_cn": " 戴面具；掩饰；化装（mask的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "mask",
+          "tran_cn": " 掩饰；戴面具；化装"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mask",
+          "tran_cn": " 掩饰；戴面具；使模糊"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "sheltered"
+          ],
+          "tran_cn": "戴面具的；掩蔽的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "disguised",
+            "invisible"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "fogged"
+          ],
+          "tran_cn": "戴面具；掩饰；使模糊（mask的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "masked ball",
+      "tran_cn": "假面舞会；化装舞会"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "戴面具的，化妆的，隐蔽的，[医]潜伏的，不明的",
+      "tran_en": "wearing a mask"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "伪装，mask的过去式和过去分词"
+    }
+  ],
+  "exchange": {}
+}

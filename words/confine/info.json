@@ -1,0 +1,197 @@
+{
+  "word": "confine",
+  "ipa": {
+    "us": "kənˈfaɪn",
+    "uk": "kənˈfaɪn"
+  },
+  "sentences": [
+    {
+      "en": "Any soldier who leaves his post will be confined to barracks (= made to stay in the barracks ) .",
+      "cn": "任何擅离职守的士兵都要受到在营房里关禁闭的处罚。"
+    },
+    {
+      "en": "Confine the use of insecticides to the evening and do not spray plants that are in flower.",
+      "cn": "只在晚间使用杀虫剂，而且不要对正在开花的植物喷药。"
+    },
+    {
+      "en": "Confine your criticism to matters you understand.",
+      "cn": "发表评论时不要超出自己所了解的事情的范围."
+    },
+    {
+      "en": "Confine yourself to the facts.",
+      "cn": "你只说事实吧."
+    },
+    {
+      "en": "Doctors are trying to confine the disease within the city.",
+      "cn": "医生正试图将此病控制在城内."
+    },
+    {
+      "en": "Doctors confine themselves to prescribing rather than dispensing.",
+      "cn": "医生仅仅是开药而不配药。"
+    },
+    {
+      "en": "Firefighters managed to confine the fire to the living room.",
+      "cn": "消防队员设法把火势控制在起居室内。"
+    },
+    {
+      "en": "He did not confine himself to the one language.",
+      "cn": "他没把自己局限于这一门语言。"
+    },
+    {
+      "en": "He thinks it cruel to confine a lark in a cage.",
+      "cn": "他认为把云雀关在笼子里太残忍了."
+    },
+    {
+      "en": "His contemporaries had begun to confine themselves to specialized investigations.",
+      "cn": "他同时代的人已开始局限于专门问题研究."
+    },
+    {
+      "en": "I can not afford to confine myself to one set of advisers.",
+      "cn": "我不能使自己拘限于只听到一批顾问的意见."
+    },
+    {
+      "en": "I shall confine myself to the subject of geography.",
+      "cn": "我将专攻地理学."
+    },
+    {
+      "en": "Is it cruel to confine a bird in a cage?",
+      "cn": "把鸟关在笼子里残忍不残忍?"
+    },
+    {
+      "en": "It is sad to see a county confine its activities to undignified public bickering.",
+      "cn": "看到整个县都不顾颜面地公开争吵，真让人感到难过。"
+    },
+    {
+      "en": "New England authors did not always confine themselves to their own rules.",
+      "cn": "新英兰的作家并非永远严守他们自己的戒条."
+    },
+    {
+      "en": "Such material can confine water in an artesian aquifer.",
+      "cn": "这样的介质能把水控制在承压含水层中."
+    },
+    {
+      "en": "Vaughan is confined to a wheelchair .",
+      "cn": "沃恩离不开轮椅。"
+    },
+    {
+      "en": "We confine ourselves here to the case where surface tractions are prescribed.",
+      "cn": "在这里我们只研究面力为给定的情况."
+    },
+    {
+      "en": "We confined our study to ten cases.",
+      "cn": "我们把研究限定在十个案例以内。"
+    },
+    {
+      "en": "within the confines of the prison",
+      "cn": "在监狱范围内"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "confined",
+          "tran_cn": " 狭窄的；幽禁的；有限制的；在分娩中的"
+        },
+        {
+          "word": "confining",
+          "tran_cn": " 受限的，限制的；狭窄的，偏狭的；拘束的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "confinement",
+          "tran_cn": " 限制；监禁；分娩"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "confined",
+          "tran_cn": " 限制（confine的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "boundary",
+            "border"
+          ],
+          "tran_cn": "界限，边界"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contain",
+            "enclose",
+            "imprison",
+            "in",
+            "keep",
+            "restrain",
+            "surround"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "block",
+            "set a limit to"
+          ],
+          "tran_cn": "限制；禁闭"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "界限，范围，限制",
+      "tran_en": "limits or borders"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "限制，监禁，关押",
+      "tran_en": "to keep someone or something within the limits of a particular activity or subject"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 限制， 使局限； 使不外出， 禁闭",
+      "tran_en": "to keep someone in a place that they cannot leave, such as a prison"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "confines"
+    ],
+    "past": [
+      "confined"
+    ],
+    "done": [
+      "confined"
+    ],
+    "ing": [
+      "confining"
+    ]
+  }
+}

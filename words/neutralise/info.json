@@ -1,0 +1,122 @@
+{
+  "word": "neutralise",
+  "ipa": {
+    "us": "'nju:trəlaɪz",
+    "uk": "'njutrəˌlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Larger fiscal deficits will not neutralise the impact of these factors.",
+      "cn": "提高财政赤字并不能抵消这些因素的影响."
+    },
+    {
+      "en": "Leucoanthocanin from grape seed extract ( catechin polymers ). A potent antioxidant that helps neutralise harmful free radicals.",
+      "cn": "葡萄籽中萃取的无色花青素 ( 儿茶素聚合物 ) 是具效益性的抗氧化物, 可以帮助中和有害的自由基."
+    },
+    {
+      "en": "The increase in indirect taxation is intended to neutralise the reduction in income tax.",
+      "cn": "增加间接税是为了抵消所得税的减少."
+    },
+    {
+      "en": "Using one drug to neutralise resistance to another looks worthy of further research.",
+      "cn": "用一种抗生素能够让耐药菌获得更好这个现象就值得深入的研究."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "neutral",
+          "tran_cn": " 中立的，中性的；中立国的；非彩色的"
+        },
+        {
+          "word": "neutralized",
+          "tran_cn": " 中立化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "neutral",
+          "tran_cn": " 中立国；中立者；非彩色；齿轮的空档"
+        },
+        {
+          "word": "neutralisation",
+          "tran_cn": " 中和；中立状态"
+        },
+        {
+          "word": "neutralism",
+          "tran_cn": " 中立；中立主义"
+        },
+        {
+          "word": "neutralist",
+          "tran_cn": " 中立主义者"
+        },
+        {
+          "word": "neutrality",
+          "tran_cn": " 中立；中性；中立立场"
+        },
+        {
+          "word": "neutralization",
+          "tran_cn": " [化学] 中和；[化学] 中和作用；中立状态"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "neutralized",
+          "tran_cn": " 中立化（neutralize的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "neutralize",
+          "tran_cn": " 中和；中立化；变无效"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "neutralize",
+          "tran_cn": " 抵销；使…中和；使…无效；使…中立"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "counteract",
+            "invalidate"
+          ],
+          "tran_cn": "中和；使中立；使无效"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "中和；使中立；使无效"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使失效，抵消，中和，使（一个国家）中立化"
+    }
+  ],
+  "exchange": {}
+}

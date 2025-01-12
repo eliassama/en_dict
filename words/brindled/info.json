@@ -1,0 +1,67 @@
+{
+  "word": "brindled",
+  "ipa": {
+    "us": "'brɪndld",
+    "uk": " 'brɪndld"
+  },
+  "sentences": [
+    {
+      "en": "I saw his brindled cow feeding on fish remnants.",
+      "cn": "我看见他的用鱼杂碎喂养的斑纹奶牛。"
+    },
+    {
+      "en": "I saw his brindled cow feeding on fish remnantsHerman Melville.",
+      "cn": "我看见他的用鱼杂碎喂养的斑纹奶牛。"
+    },
+    {
+      "en": "Nothing was stirring except a brindled, grey cat, which crept from the ashes, and saluted me with a querulous mew.",
+      "cn": "除了一只有花纹的灰猫从灰堆上爬起来，冲我不满的喵了一声外，真是万象具静啊。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "brinded",
+          "tran_cn": " 有斑纹的；有虎斑的（等于brindled）"
+        },
+        {
+          "word": "brindle",
+          "tran_cn": " 有斑纹的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "brindle",
+          "tran_cn": " 斑纹；有斑纹的动物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "branded"
+          ],
+          "tran_cn": "有斑的，有斑纹的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "棕底花条纹的",
+      "tran_en": "a brindled animal is brown and has marks or bands of another colour"
+    }
+  ],
+  "exchange": {}
+}

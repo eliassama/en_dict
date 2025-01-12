@@ -1,0 +1,184 @@
+{
+  "word": "elevation",
+  "ipa": {
+    "us": "ˌelɪˈveɪʃn",
+    "uk": "ˌelɪˈveɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "a sudden elevation of blood pressure",
+      "cn": "血压的突然升高"
+    },
+    {
+      "en": "After his elevation to the papacy, he reigned for two years.",
+      "cn": "他升任教皇后在位两年。"
+    },
+    {
+      "en": "All bearings are on immovable supports at the same elevation.",
+      "cn": "全部轴承都位于同样高度不可动的支承上."
+    },
+    {
+      "en": "Along this transect the rise in elevation is gradual.",
+      "cn": "沿着这条植被带海拔上升舒缓."
+    },
+    {
+      "en": "His elevation to sainthood is entirely justified.",
+      "cn": "他荣升为圣徒是有充分理由的。"
+    },
+    {
+      "en": "His elevation to the position of General Manager was announced yesterday.",
+      "cn": "昨天宣布他晋升总经理职位."
+    },
+    {
+      "en": "his elevation to the presidency",
+      "cn": "他提升到校长的职位"
+    },
+    {
+      "en": "It is generally assumed that a reaction does not change in elevation.",
+      "cn": "通常假定反力在垂直切面内不发生变化."
+    },
+    {
+      "en": "Rainsford leaped up on the rail to get greater elevation.",
+      "cn": "伦思孚跳上船栏去,以便在更高处眺望."
+    },
+    {
+      "en": "The center tramway portion depresses below the roadway elevation.",
+      "cn": "中间电车道落低到车行道以下."
+    },
+    {
+      "en": "The city is at an elevation of 2 000 metres.",
+      "cn": "这座城市海拔2000米。"
+    },
+    {
+      "en": "The elevation and configuration of the launch pad also require consideration.",
+      "cn": "提升机和发射台的外形也需要考虑."
+    },
+    {
+      "en": "The elevation or side view is known as a dendrogram.",
+      "cn": "立视图式侧视图又叫树枝状图."
+    },
+    {
+      "en": "the front elevation of a house",
+      "cn": "房子的正面外观"
+    },
+    {
+      "en": "The gun was fired at an elevation of 60 degrees.",
+      "cn": "这座炮以60度仰角开火."
+    },
+    {
+      "en": "The house is at an elevation of 2 , 000 metres.",
+      "cn": "那幢房子位于海拔两千米的高处."
+    },
+    {
+      "en": "There was more good - natured banter about Celias'double elevation'before the evening ended.",
+      "cn": "这天晚上,大家还就西莉亚的 “ 双重提升”开了些善意的玩笑."
+    },
+    {
+      "en": "We're probably at an elevation of about 13,000 feet above sea level.",
+      "cn": "我们可能在大约海拔13,000英尺的高度。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "elevated",
+          "tran_cn": "提高的；高尚的；严肃的；欢欣的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "elevated",
+          "tran_cn": "高架铁路"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "elevated",
+          "tran_cn": "提高；抬起；振奋；提拔（elevate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "elevate",
+          "tran_cn": "提升；举起；振奋情绪等；提升…的职位"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "height",
+            "raise",
+            "increase",
+            "altitude",
+            "rise"
+          ],
+          "tran_cn": "[地理]高地；海拔；提高；崇高；正面图"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accession",
+            "ascent",
+            "consequence",
+            "culture",
+            "dignity",
+            "height",
+            "hill",
+            "mountain"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "boiling point elevation",
+      "tran_cn": "沸点升高"
+    },
+    {
+      "phrase": "elevation angle",
+      "tran_cn": "仰角；倾斜角；升运角"
+    },
+    {
+      "phrase": "elevation difference",
+      "tran_cn": "高差；仰角差"
+    },
+    {
+      "phrase": "ground elevation",
+      "tran_cn": "地面高程；室外地面标高；地面海拔"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "提拔，提升，海拔，高地，升高，〈建〉立视图",
+      "tran_en": "the height of a place, especially its height above sea level"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "elevations"
+    ]
+  }
+}

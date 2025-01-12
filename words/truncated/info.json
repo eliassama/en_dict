@@ -1,0 +1,129 @@
+{
+  "word": "truncated",
+  "ipa": {
+    "us": "'trʌŋkeɪtɪd",
+    "uk": "ˈtrʌŋˌketɪd"
+  },
+  "sentences": [
+    {
+      "en": "He truncated a news item to fit the available space.",
+      "cn": "他删节一则新闻以适合可用的版面."
+    },
+    {
+      "en": "Line | 1 : Class name too long; truncated to | 2.",
+      "cn": "行| 1: 类名过长; 已将其截断为|2."
+    },
+    {
+      "en": "Line | 1 : Control name too long; truncated to | 2.",
+      "cn": "行| 1: 控件名过长; 已将其截断为|2."
+    },
+    {
+      "en": "My article was published in truncated form.",
+      "cn": "我的文章以节录的形式发表了。"
+    },
+    {
+      "en": "NMAKE truncated the name to an eight - character base and a three - character extension.",
+      "cn": "NMAKE将 该名称截断为八个字符的基名和三个字符的扩展名."
+    },
+    {
+      "en": "Note: Any data beyond the new EOS will be truncated and lost.",
+      "cn": "注意: 任何超出新设置的文件末尾[EOS]的数据都将被删除或丢失."
+    },
+    {
+      "en": "Oligocene erosion had truncated the sediments draped over the dome.",
+      "cn": "覆盖于穹丘上的沉积岩为渐新世侵蚀所截削."
+    },
+    {
+      "en": "Sederholm regarded the Svecofennide belt as an older structure truncated by a younger Varelide belt.",
+      "cn": "塞德霍尔姆认为斯维科芬褶皱带本身为一老的构造,被比较年轻的卡累利褶皱带所截断."
+    },
+    {
+      "en": "The correctness of the program, however, is unaffected by the truncated name.",
+      "cn": "但是, 程序的正确性不受截断名称的影响."
+    },
+    {
+      "en": "The Project name is too long. Name has been truncated.",
+      "cn": "工程名太长. 因此名称已被截断."
+    },
+    {
+      "en": "The review body has produced a truncated version of its annual report.",
+      "cn": "该评论机构出版了其年报的删节版本。"
+    },
+    {
+      "en": "The saved Host Name was too long and it has been truncated.",
+      "cn": "保存的主机名太长,已经被截断."
+    },
+    {
+      "en": "The slices are truncated by the pre - Bulawayan erosion surface.",
+      "cn": "岩片受前布拉瓦约侵蚀面切割."
+    },
+    {
+      "en": "The truncated nozzle is found to have a higher thrust.",
+      "cn": "截断的喷管具有较大的推力."
+    },
+    {
+      "en": "With XML, the white space in your document is not truncated.",
+      "cn": "在XML文档中,空白部分不会被解析器自动删除."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "truncate",
+          "tran_cn": " 截短的；被删节的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "truncation",
+          "tran_cn": " 截断；切掉顶端"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "truncate",
+          "tran_cn": " 把…截短；缩短；使成平面"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "abridged"
+          ],
+          "tran_cn": "缩短（truncate的过去分词）；截去…的顶端"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "truncated cone",
+      "tran_cn": "截锥；截头锥；斜截锥"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "切去顶端的，缩短了的，被删节的",
+      "tran_en": "A truncated version of something is one that has been shortened"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "截面的( truncate的过去式和过去分词 )，截头的，缩短了的，截去顶端或末端"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,192 @@
+{
+  "word": "voltage",
+  "ipa": {
+    "us": "ˈvəʊltɪdʒ",
+    "uk": "ˈvoʊltɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "A circuit that protects a computer system from dangerously high voltage surges.",
+      "cn": "一种保护计算机系统免受危险的高电压冲击破坏的电路."
+    },
+    {
+      "en": "Current , resistance and voltage can be measured by the universal meter.",
+      "cn": "万用表可用来测量电流 、 电阻和电压."
+    },
+    {
+      "en": "If manual operation is intended, a certain voltage is applied through U 1.",
+      "cn": "如果要由手控操作,由U1端加上电压."
+    },
+    {
+      "en": "If the input voltage is plus three , it comes out as minus six.",
+      "cn": "如果输入的电压是+3伏, 那么输出的电压便是-6伏."
+    },
+    {
+      "en": "It enables the rotor with constant speed for maintaining steady output voltage.",
+      "cn": "它使转子能以恒定速度转动,保持输出电压稳定."
+    },
+    {
+      "en": "It is fed into the grid at this voltage.",
+      "cn": "它是以这种电压馈入电力网."
+    },
+    {
+      "en": "Make sure the capacitor bank is voltage-free.",
+      "cn": "确信电容器组不带电压。"
+    },
+    {
+      "en": "The \" mark \" or'space \" condition is represented by the voltage between two wires.",
+      "cn": "“ 传号 ” 或 “ 空号 ” 条件是由两条线之间的电压来表示的."
+    },
+    {
+      "en": "The circuit structure is using a fly-back converter voltage.",
+      "cn": "这个转换器是利用返驰式电路架构实现。"
+    },
+    {
+      "en": "The current lags behind the voltage.",
+      "cn": "电流滞后于电压."
+    },
+    {
+      "en": "The demodulator receives its reference voltage from the signal - generator voltage supply.",
+      "cn": "解调器的参考电压由电信号发生器电压电源供给."
+    },
+    {
+      "en": "The higher operating voltage causes a breakdown of carbon products.",
+      "cn": "较高的工作电压引起碳生成物的分离."
+    },
+    {
+      "en": "The systems are getting smaller and using lower voltages.",
+      "cn": "这些系统正变得更小而且使用更低的电压。"
+    },
+    {
+      "en": "The transformer isolates the transistors with regard to d - c bias voltage .",
+      "cn": "变压器可在两个晶体管之间隔离直流 偏压."
+    },
+    {
+      "en": "The units in which we show voltage and current are volt and ampere respectively.",
+      "cn": "我们用以表示电压和电流的单位分别为伏特和安培。"
+    },
+    {
+      "en": "The voltage may provides an analog representation of the temperature difference.",
+      "cn": "电压可以成为温差的模拟表示."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "voltmeter",
+          "tran_cn": " [电] 伏特计，电压计"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "electric tension",
+            "electrical pressure"
+          ],
+          "tran_cn": "[电]电压"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ac voltage",
+      "tran_cn": "交流电压；交羚压"
+    },
+    {
+      "phrase": "applied voltage",
+      "tran_cn": "外加电压"
+    },
+    {
+      "phrase": "arc voltage",
+      "tran_cn": "弧电压"
+    },
+    {
+      "phrase": "breakdown voltage",
+      "tran_cn": "[电]击穿电压"
+    },
+    {
+      "phrase": "constant voltage",
+      "tran_cn": "恒定电压；定压"
+    },
+    {
+      "phrase": "dc voltage",
+      "tran_cn": "直流电压；直羚压"
+    },
+    {
+      "phrase": "input voltage",
+      "tran_cn": "输入电压；工作电压"
+    },
+    {
+      "phrase": "low voltage",
+      "tran_cn": "低电压"
+    },
+    {
+      "phrase": "medium voltage",
+      "tran_cn": "中压"
+    },
+    {
+      "phrase": "output voltage",
+      "tran_cn": "输出电压"
+    },
+    {
+      "phrase": "rated voltage",
+      "tran_cn": "[化]额定电压"
+    },
+    {
+      "phrase": "supply voltage",
+      "tran_cn": "电源电压；供给电压"
+    },
+    {
+      "phrase": "voltage control",
+      "tran_cn": "电压控制"
+    },
+    {
+      "phrase": "voltage drop",
+      "tran_cn": "电压降落"
+    },
+    {
+      "phrase": "voltage regulation",
+      "tran_cn": "稳压；电压调整；电压变动率"
+    },
+    {
+      "phrase": "voltage regulator",
+      "tran_cn": "稳压器；调压器"
+    },
+    {
+      "phrase": "voltage source",
+      "tran_cn": "n. 电压电源"
+    },
+    {
+      "phrase": "voltage stability",
+      "tran_cn": "电压稳定；电压稳定度"
+    },
+    {
+      "phrase": "voltage transformer",
+      "tran_cn": "电压互感器；电压变量器"
+    },
+    {
+      "phrase": "working voltage",
+      "tran_cn": "工作电压；工诅压；操作电压"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "电压，伏特数",
+      "tran_en": "electrical force measured in volts"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "voltages"
+    ]
+  }
+}

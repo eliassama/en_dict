@@ -1,0 +1,169 @@
+{
+  "word": "dictation",
+  "ipa": {
+    "us": "dɪkˈteɪʃn",
+    "uk": "dɪkˈteɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "A dictation was issued to all of the troops.",
+      "cn": "命令下达到各支部队."
+    },
+    {
+      "en": "He had had an arm amputated and relied on her to take down his books from dictation.",
+      "cn": "他的一只胳膊截掉了，只能口授书的内容让她来记录。"
+    },
+    {
+      "en": "I am able to get dictation and trancribe them rapidly into Chinese.",
+      "cn": "我会外文的口授笔记,同时能立即将其改写成汉文."
+    },
+    {
+      "en": "I hate doing French dictations .",
+      "cn": "我讨厌做法语听写。"
+    },
+    {
+      "en": "I hate doing French dictations.",
+      "cn": "我讨厌做法语听写。"
+    },
+    {
+      "en": "I wrote the letter at his dictation.",
+      "cn": "我照他的口述写信."
+    },
+    {
+      "en": "It was by Mr. Moy's dictation.",
+      "cn": "信是莫埃先生口授的."
+    },
+    {
+      "en": "On dictation equipment, a device for removing a recording from the recording medium.",
+      "cn": "在口述记录设备上, 用来除去记录媒体上记录的一种装置."
+    },
+    {
+      "en": "On dictation equipment, a spool on which magnetic tape is wound.",
+      "cn": "在口述记录设备上, 一种卷绕磁带的轴."
+    },
+    {
+      "en": "Only recently, for example, has continuous speech recognition for dictation become available.",
+      "cn": "例如, 口授的连续语音识别直到最近才变得实用."
+    },
+    {
+      "en": "Prepare for lesson 21 & 22's dictation, please bring a red pen.",
+      "cn": "明天听写 第21-22 课的重点词语, 请带红笔."
+    },
+    {
+      "en": "The new secretary takes dictation very well.",
+      "cn": "那位新秘书善于记录口授."
+    },
+    {
+      "en": "The passages for dictation will not be supplied on cassette.",
+      "cn": "听写用的短文不会以磁带形式提供."
+    },
+    {
+      "en": "The pupils wrote at their teacher's dictation.",
+      "cn": "教师口授,学生听写."
+    },
+    {
+      "en": "The teacher gave the pupils dictation.",
+      "cn": "教师让学生听写."
+    },
+    {
+      "en": "The teacher will give us an English dictation today.",
+      "cn": "今天老师要给我们做英语听写."
+    },
+    {
+      "en": "There were no secretaries available to take dictation (= write down what someone is saying ) .",
+      "cn": "身边没有秘书记录口授内容。"
+    },
+    {
+      "en": "There were no secretaries available to take dictation (= write down what someone is saying ).",
+      "cn": "身边没有秘书记录口授内容。"
+    },
+    {
+      "en": "Write the date at the top of the page before dictation starts.",
+      "cn": "在口述开始之前,写日期在页顶部."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dictate",
+          "tran_cn": " 命令；指示"
+        },
+        {
+          "word": "dictator",
+          "tran_cn": " 独裁者；命令者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "dictate",
+          "tran_cn": " 口述；听写"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "dictate",
+          "tran_cn": " 命令；口述；使听写"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "assertion",
+            "dictum",
+            "fiat",
+            "pronouncement",
+            "utterance"
+          ],
+          "tran_cn": "发音,表达"
+        },
+        {
+          "words": [
+            "shorthand",
+            "transcription",
+            "typescript"
+          ],
+          "tran_cn": "听写,抄写"
+        },
+        {
+          "words": [
+            "advice",
+            "behest",
+            "charge",
+            "command",
+            "enjoining",
+            "injunction",
+            "mandate",
+            "order"
+          ],
+          "tran_cn": "命令,支配"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "口述，听写，发号施令",
+      "tran_en": "when you say words for someone to write down"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "dictations"
+    ]
+  }
+}

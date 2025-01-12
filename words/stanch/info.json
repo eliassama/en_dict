@@ -1,0 +1,96 @@
+{
+  "word": "stanch",
+  "ipa": {
+    "us": "stɔ:ntʃ",
+    "uk": "stɔntʃ, stɑntʃ, stæntʃ"
+  },
+  "sentences": [
+    {
+      "en": "Cuttlebone can be used as a medicine to stanch bleeding.",
+      "cn": "海螵蛸可以入药,用来止血."
+    },
+    {
+      "en": "Designed with spiral slide to stanch bleeding, can slightly adjust the compression pressure.",
+      "cn": "压迫止血采用螺旋滑块设计, 可微调压迫压力."
+    },
+    {
+      "en": "I thought it my duty to help stanch these leaks.",
+      "cn": "我认为帮助堵塞漏洞是我的职责."
+    },
+    {
+      "en": "Try, for a moment, to stanch the flow of desire.",
+      "cn": "你可以尝试着在一段时期内止住你的欲望之流。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "stanchly",
+          "tran_cn": " 坚强地；忠实地；可靠地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "faithful",
+            "resisting"
+          ],
+          "tran_cn": "坚固的；忠实的；防水的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "quell",
+            "defuse"
+          ],
+          "tran_cn": "止血；使不漏；平息"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "坚固的；忠实的；防水的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使止血, 止, 止流, 止血",
+      "tran_en": "to stem the flow of (a liquid, esp blood) or (of a liquid) to stop flowing "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "停止流出"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（伤口）止血，止（血），使不漏，使不流失"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "stanches"
+    ],
+    "past": [
+      "stanched"
+    ],
+    "done": [
+      "stanched"
+    ],
+    "ing": [
+      "stanching"
+    ]
+  }
+}

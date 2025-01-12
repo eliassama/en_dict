@@ -1,0 +1,400 @@
+{
+  "word": "seat",
+  "ipa": {
+    "us": "siːt",
+    "uk": "siːt"
+  },
+  "sentences": [
+    {
+      "en": "\"I changed my mind,\" Blanche said, resuming her seat.",
+      "cn": "“我改变主意了，”布兰奇说着回到她的座位上。"
+    },
+    {
+      "en": "\"Take a seat,\" he said in a bored tone.",
+      "cn": "“请坐，”他不耐烦地说道。"
+    },
+    {
+      "en": "a 10,000-seat stadium",
+      "cn": "万人体育场"
+    },
+    {
+      "en": "an inexperienced pilot who had to fly the aircraft by the seat of her pants.",
+      "cn": "一个不得不徒手驾驶飞机的无经验的飞行员"
+    },
+    {
+      "en": "He is to remain in the hot seat as chief executive.",
+      "cn": "他将继续留在公司总经理这个不好坐的位子上。"
+    },
+    {
+      "en": "He ran the business by the seat of his pants.",
+      "cn": "他凭经验和直觉做生意"
+    },
+    {
+      "en": "He rose from his seat and made for the door.",
+      "cn": "他从椅子上起身向门口走去。"
+    },
+    {
+      "en": "He waved toward a chair, and seated himself at the desk.",
+      "cn": "他朝一把椅子一挥手，在桌旁坐了下来。"
+    },
+    {
+      "en": "I got bubblegum on the seat of Nanna's car.",
+      "cn": "我把泡泡糖弄到了娜娜的车座上。"
+    },
+    {
+      "en": "I had a ringside seat for the whole performance.",
+      "cn": "整场表演我都坐在场边前排座位上。"
+    },
+    {
+      "en": "I was in the back seat and Jo was driving.",
+      "cn": "我在后座，乔开车。"
+    },
+    {
+      "en": "It burned clean through the seat of my overalls.",
+      "cn": "它把我工装裤屁股那块烧透了。"
+    },
+    {
+      "en": "It's easy to get a seat at the best shows in town.",
+      "cn": "很容易搞到城里顶级演出的票。"
+    },
+    {
+      "en": "Kate laughed, and sank down again to her seat.",
+      "cn": "凯特笑了，又坐回到她的座位上。"
+    },
+    {
+      "en": "People were shifting in their seats, looking uncomfortable.",
+      "cn": "人们在座位上动来动去，看上去不大自在。"
+    },
+    {
+      "en": "Ramesh had reclined his seat and was lying back smoking.",
+      "cn": "拉梅什把椅背调低，倚在上面吸烟。"
+    },
+    {
+      "en": "She slipped into the driving seat and closed the door.",
+      "cn": "她溜进了驾驶座，关上了门。"
+    },
+    {
+      "en": "Sister Francesca entered the chapel, took her seat, and promptly fell asleep.",
+      "cn": "弗朗西丝卡修女走进小教堂，坐下来，很快就睡着了。"
+    },
+    {
+      "en": "The arena seats 60,000.",
+      "cn": "这个圆形运动场能坐六万人。"
+    },
+    {
+      "en": "The gentleman, despite his advanced years, helped Kathryn back to her seat.",
+      "cn": "这位绅士，尽管年事已高，仍然帮着凯瑟琳回到座位上。"
+    },
+    {
+      "en": "The person can transfer from wheelchair to seat with relative ease.",
+      "cn": "那个人可以比较轻松地从轮椅上移到座位上。"
+    },
+    {
+      "en": "You can pay to be upgraded to a business class seat.",
+      "cn": "你可以付费升级到商务舱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "seating",
+          "tran_cn": " 就座；座位数"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "seating",
+          "tran_cn": " 为…领座；为…提供座位（seat的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "authority",
+            "cathedra",
+            "of",
+            "position",
+            "power",
+            "right",
+            "seat",
+            "situation",
+            "state",
+            "station",
+            "status",
+            "throne"
+          ],
+          "tran_cn": "位置,地位,身分,权力"
+        },
+        {
+          "words": [
+            "capital",
+            "center",
+            "core",
+            "headquarters",
+            "heart",
+            "hub",
+            "locale",
+            "location",
+            "origin",
+            "quarters",
+            "roost",
+            "root",
+            "site",
+            "source",
+            "whereabouts"
+          ],
+          "tran_cn": "位置,场所,起源,来源"
+        },
+        {
+          "words": [
+            "base",
+            "bed",
+            "foot",
+            "footing",
+            "foundation",
+            "pedestal",
+            "stand",
+            "substructure"
+          ],
+          "tran_cn": "基础,地基,基座"
+        },
+        {
+          "words": [
+            "bench",
+            "chair",
+            "couch",
+            "cushion",
+            "hassock",
+            "lounge",
+            "loveseat",
+            "perch",
+            "pew",
+            "pillow",
+            "recliner",
+            "settes",
+            "settle",
+            "sofa",
+            "stool"
+          ],
+          "tran_cn": "椅子,沙发,垫子,枕头"
+        },
+        {
+          "words": [
+            "behind",
+            "bottom",
+            "buttocks",
+            "derriere",
+            "duff",
+            "fundament",
+            "hindquarters",
+            "posterior",
+            "rear",
+            "rump",
+            "tush"
+          ],
+          "tran_cn": "臀部,屁股,后部,末端"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "locate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "anoint",
+            "chair",
+            "establish",
+            "induct",
+            "initiate",
+            "instal",
+            "instate",
+            "invest"
+          ],
+          "tran_cn": "开始,引进,任命"
+        },
+        {
+          "words": [
+            "accommodate",
+            "capacity",
+            "contain",
+            "for",
+            "have",
+            "hold",
+            "room"
+          ],
+          "tran_cn": "接纳,容纳"
+        },
+        {
+          "words": [
+            "conduct",
+            "deposit",
+            "escort",
+            "guide",
+            "lead",
+            "place",
+            "put",
+            "situate",
+            "usher"
+          ],
+          "tran_cn": "放置,引导,护送"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "put in"
+          ],
+          "tran_cn": "使…坐下；可容纳…的；使就职"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "aisle seat",
+      "tran_cn": "n. 靠道座位"
+    },
+    {
+      "phrase": "back seat",
+      "tran_cn": "后座"
+    },
+    {
+      "phrase": "by the seat of (one's) pants&I{【俚语】}",
+      "tran_cn": "不用工具"
+    },
+    {
+      "phrase": "car seat",
+      "tran_cn": "车辆座椅"
+    },
+    {
+      "phrase": "county seat",
+      "tran_cn": "郡政府所在地"
+    },
+    {
+      "phrase": "driver's seat",
+      "tran_cn": "驾驶员的座位"
+    },
+    {
+      "phrase": "front seat",
+      "tran_cn": "前座；车前座；前座椅"
+    },
+    {
+      "phrase": "have a seat",
+      "tran_cn": "坐下；就坐"
+    },
+    {
+      "phrase": "hot seat",
+      "tran_cn": "电椅；尴尬的局面"
+    },
+    {
+      "phrase": "in the driver's seat",
+      "tran_cn": "处于统治地位"
+    },
+    {
+      "phrase": "rear seat",
+      "tran_cn": "后座；后座椅"
+    },
+    {
+      "phrase": "seat back",
+      "tran_cn": "座椅靠背"
+    },
+    {
+      "phrase": "seat belt",
+      "tran_cn": "安全带"
+    },
+    {
+      "phrase": "seat cover",
+      "tran_cn": "座套；盖板；座椅套"
+    },
+    {
+      "phrase": "seat cushion",
+      "tran_cn": "弹性座垫"
+    },
+    {
+      "phrase": "seat ring",
+      "tran_cn": "阀座；阀座环；阀座圈"
+    },
+    {
+      "phrase": "take a back seat",
+      "tran_cn": "处于默默无闻的地位；处于次要地位；退居二线"
+    },
+    {
+      "phrase": "take a seat",
+      "tran_cn": "坐下；就坐"
+    },
+    {
+      "phrase": "take one's seat",
+      "tran_cn": "就座（尤指坐在指定的位置）"
+    },
+    {
+      "phrase": "toilet seat",
+      "tran_cn": "马桶座圈"
+    },
+    {
+      "phrase": "valve seat",
+      "tran_cn": "阀座，气门座"
+    },
+    {
+      "phrase": "window seat",
+      "tran_cn": "n. 窗座；靠窗座位"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "席位，座位，所在地，场所，臀部",
+      "tran_en": "a place where you can sit, especially one in a vehicle or one from which you watch a performance, sports event etc"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使…坐下；可容纳…的；使就职",
+      "tran_en": "If you seat yourself somewhere, you sit down"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使就座，使就职，使获得座位（或席位），可容纳若干座位",
+      "tran_en": "to sit down somewhere"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "seats"
+    ],
+    "third": [
+      "seats"
+    ],
+    "past": [
+      "seated"
+    ],
+    "done": [
+      "seated"
+    ],
+    "ing": [
+      "seating"
+    ]
+  }
+}

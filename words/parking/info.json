@@ -1,0 +1,205 @@
+{
+  "word": "parking",
+  "ipa": {
+    "us": "ˈpɑːkɪŋ",
+    "uk": "ˈpɑːrkɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a £45 parking fine",
+      "cn": "45英镑的违章停车罚款"
+    },
+    {
+      "en": "an apartment with off-street parking",
+      "cn": "有后街街边可停车的公寓"
+    },
+    {
+      "en": "By parking your car here, you could fall foul of the law.",
+      "cn": "你把汽车停在这里可能是违法的."
+    },
+    {
+      "en": "Cars allowed, but parking is limited.",
+      "cn": "车辆准许进入，但是车位有限。"
+    },
+    {
+      "en": "He occasionally infringe the law by parking near a junction.",
+      "cn": "他因偶尔将车停放在交叉口附近而违反规定."
+    },
+    {
+      "en": "I had trouble parking.",
+      "cn": "我停车有困难。"
+    },
+    {
+      "en": "I knew I'd never find a parking space in the Square.",
+      "cn": "我知道在广场上肯定找不到停车位。"
+    },
+    {
+      "en": "I've just got a parking ticket— my first in years.",
+      "cn": "我刚刚收到了一张违法停车罚款通知单——多年来头一遭。"
+    },
+    {
+      "en": "It is murder trying to find a parking place for the car.",
+      "cn": "找个停车的地方比登天还难."
+    },
+    {
+      "en": "No Parking (= used on signs )",
+      "cn": "禁止停车"
+    },
+    {
+      "en": "Suzhou has a ban on parking cars in this busy street.",
+      "cn": "苏州有条禁令,不准在这条热闹的街上停车."
+    },
+    {
+      "en": "Tell that joker to stop using my parking space.",
+      "cn": "告诉那个家伙不要占用我的停车场."
+    },
+    {
+      "en": "The councillors put the problem of downtown parking before the mayor.",
+      "cn": "议员们向市长提出了市内停车的问题."
+    },
+    {
+      "en": "The road was reduced to 18ft in width by adding parking bays.",
+      "cn": "这条路增加了停车区后宽度缩减到了18英尺。"
+    },
+    {
+      "en": "The truck lumbered across the parking lot toward the road.",
+      "cn": "卡车隆隆地驶过停车场准备上路。"
+    },
+    {
+      "en": "There is ample car parking off site.",
+      "cn": "外面有很多地方可以停车。"
+    },
+    {
+      "en": "There is no parking here between 9 a.m. and 6 p.m.",
+      "cn": "上午9时至下午6时此处禁止停车。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "park",
+          "tran_cn": " 公园；[交] 停车场"
+        },
+        {
+          "word": "parker",
+          "tran_cn": " 停放车辆的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "park",
+          "tran_cn": " 停放车辆"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "park",
+          "tran_cn": " 停放；放置；寄存"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "power-off"
+          ],
+          "tran_cn": "[交]停车"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "car parking",
+      "tran_cn": "汽车停车场"
+    },
+    {
+      "phrase": "illegal parking",
+      "tran_cn": "违规停车"
+    },
+    {
+      "phrase": "no parking",
+      "tran_cn": "禁止停车；不准停车"
+    },
+    {
+      "phrase": "parking apron",
+      "tran_cn": "停机坪"
+    },
+    {
+      "phrase": "parking area",
+      "tran_cn": "停车场"
+    },
+    {
+      "phrase": "parking brake",
+      "tran_cn": "停车制动，驻车制动器"
+    },
+    {
+      "phrase": "parking fee",
+      "tran_cn": "停车费；泊车费"
+    },
+    {
+      "phrase": "parking garage",
+      "tran_cn": "停车场（室内）"
+    },
+    {
+      "phrase": "parking lot",
+      "tran_cn": "n. 停车场"
+    },
+    {
+      "phrase": "parking meter",
+      "tran_cn": "停车记时器"
+    },
+    {
+      "phrase": "parking place",
+      "tran_cn": "停车场；停车位"
+    },
+    {
+      "phrase": "parking space",
+      "tran_cn": "停车位"
+    },
+    {
+      "phrase": "parking ticket",
+      "tran_cn": "违规停车罚单"
+    },
+    {
+      "phrase": "underground parking",
+      "tran_cn": "地下停车场"
+    },
+    {
+      "phrase": "underground parking garage",
+      "tran_cn": "地下车库；地下停车场"
+    },
+    {
+      "phrase": "valet parking",
+      "tran_cn": "代客泊车"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "停车的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "（车辆等的）停放，停车场所，停车位",
+      "tran_en": "the act of parking a car or other vehicle"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "停车(park的ing形式)"
+    }
+  ],
+  "exchange": {}
+}

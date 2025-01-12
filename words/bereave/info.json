@@ -1,0 +1,101 @@
+{
+  "word": "bereave",
+  "ipa": {
+    "us": "bɪˈriːv",
+    "uk": "bɪˈriːv"
+  },
+  "sentences": [
+    {
+      "en": "Sin can never quite bereave a saint of his jewel his grace; but it may steal away the key of the cabinet his assurance.",
+      "cn": "罪恶全然无法夺去圣徒的珠宝，就是他所得到恩典；但是罪恶可以偷走珠宝柜的钥匙，那就是确据。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bereaved",
+          "tran_cn": " 丧失的；死了…的"
+        },
+        {
+          "word": "bereft",
+          "tran_cn": " 丧失的；被剥夺的；失去亲人的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bereaved",
+          "tran_cn": " 丧失亲人的人"
+        },
+        {
+          "word": "bereavement",
+          "tran_cn": " 丧友，丧亲；丧失"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bereft",
+          "tran_cn": " 失去…的（bereave的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bereaved",
+          "tran_cn": " 使丧失（bereave的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dispossess"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "剥夺, 使失去",
+      "tran_en": "to deprive (of) something or someone valued, esp through death "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使失去（希望、生命等），（尤指死亡）使丧失（亲人、朋友等），使孤寂，<废>抢走（财物）",
+      "tran_en": "to deprive (of) something or someone valued, esp through death "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "bereaves"
+    ],
+    "past": [
+      " bereft",
+      "bereaved"
+    ],
+    "done": [
+      " bereft",
+      "bereaved"
+    ],
+    "ing": [
+      "bereaving"
+    ]
+  }
+}

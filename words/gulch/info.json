@@ -1,0 +1,103 @@
+{
+  "word": "gulch",
+  "ipa": {
+    "us": "gʌltʃ",
+    "uk": "ɡʌltʃ"
+  },
+  "sentences": [
+    {
+      "en": "...California Gulch.",
+      "cn": "...加州激流峡谷。"
+    },
+    {
+      "en": "A deep gully cut by an intermittent stream ; a dry gulch.",
+      "cn": "旱谷被断断续续的河水断开的山谷;干涸的沟壑."
+    },
+    {
+      "en": "Conqueror - The Conqueror - Raise your reputation values in Warsong Gulch, Arathi Basin and Alterac Valley to Exalted.",
+      "cn": "征服者 -- 战歌峡谷,阿拉希, 奥特兰克山谷崇拜."
+    },
+    {
+      "en": "He's the sheriff at Twin Gulch , Idaho, and I'm his deputy.",
+      "cn": "他是爱达荷州特温加尔奇的治安官, 我是他的副手."
+    },
+    {
+      "en": "Or we can stay close to the ranch in nearby Levengood Gulch.",
+      "cn": "或者我们可以呆在干谷峡谷附近农场的周围."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gully",
+          "tran_cn": " 冲沟；水沟"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "gully",
+          "tran_cn": " 形成沟"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "gully",
+          "tran_cn": " 在…上开沟"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "canyon",
+            "gorge",
+            "gully",
+            "ravine",
+            "valley"
+          ],
+          "tran_cn": "峡谷"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "canyon",
+            "gorge",
+            "gully",
+            "ravine",
+            "valley"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<美>峡谷",
+      "tran_en": "a narrow deep valley formed in the past by flowing water, but usually dry now"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "gulches"
+    ]
+  }
+}

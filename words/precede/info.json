@@ -1,0 +1,189 @@
+{
+  "word": "precede",
+  "ipa": {
+    "us": "prɪˈsiːd",
+    "uk": "prɪˈsiːd"
+  },
+  "sentences": [
+    {
+      "en": "A trickle of flowing mud may precede a larger flow.",
+      "cn": "很小的一股泥石流可能会先于更大的流量."
+    },
+    {
+      "en": "a type of cloud that precedes rain",
+      "cn": "下雨前出现的一种云"
+    },
+    {
+      "en": "Agricultural development simply must precede economic development.",
+      "cn": "农业的发展必须在整个经济发展中处于领先地位."
+    },
+    {
+      "en": "All positional ( unnamed ) parameters must precede any named parameters.",
+      "cn": "所有的位置 ( 未命名 ) 参数必须位于任何命名的参数之前."
+    },
+    {
+      "en": "As mentioned before , vibrations almost always precede a seperation of bodies.",
+      "cn": "如前所述, 振动几乎总是出现在身体分离之前."
+    },
+    {
+      "en": "Attributive adjectives precede the noun.",
+      "cn": "定语形容词位于名词前."
+    },
+    {
+      "en": "Cell damage by disruption of the cell wall and plasmamembrane must precede virus entry.",
+      "cn": "病毒进入植物之前,细胞肯定由于细胞壁和(或)原生质膜的破坏已经受到伤害."
+    },
+    {
+      "en": "Consonants are frequently assimilated to the consonants which they precede.",
+      "cn": "子音常被其后所接之子音所同化((如ads(成为ass)等))."
+    },
+    {
+      "en": "He dissatisfied that I am promoted precede him.",
+      "cn": "他不满我先于他被提升."
+    },
+    {
+      "en": "It is a rule of English that adjectives generally precede the noun they modify: we say \"a good cry\", not \"a cry good\".",
+      "cn": "英语规定形容词通常放在其修饰的名词前：我们说agoodcry，不说acrygood。"
+    },
+    {
+      "en": "It is a rule of English that adjectives generally precede the noun they modify.",
+      "cn": "形容词一般放在所修饰名词的前面是英语中的一条规律。"
+    },
+    {
+      "en": "Line | 1 : All controls must precede menus; cannot load control | 2.",
+      "cn": "行| 1: 所有的控件都必须优先于菜单; 无法加载控件|2."
+    },
+    {
+      "en": "Lunch will be preceded by a short speech from the chairman.",
+      "cn": "午餐开始之前主席会发表一段简短的讲话。"
+    },
+    {
+      "en": "Restlessness, anxiety , confusion, and twitching may also precede convulsions.",
+      "cn": "惊厥前也可出现躁动,烦燥, 错觉, 抽搐等症状."
+    },
+    {
+      "en": "The guard preceded them down the corridor.",
+      "cn": "警卫带领他们穿过了走廊。"
+    },
+    {
+      "en": "The new algorithm precede to ago algorithm by simulation.",
+      "cn": "通过计算机仿真,证实了这种新的算法优于以往的算法."
+    },
+    {
+      "en": "This puts the cart before the horse; elections should follow, not precede, agreement on a constitution.",
+      "cn": "这样做是本末倒置；选举应该在宪法确定之后举行，而不是之前。"
+    },
+    {
+      "en": "Whatever the outcome, we must resolutely precede with our objective.",
+      "cn": "无论结果如何, 我们必须坚定地继续为目标而努力."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "precedent",
+          "tran_cn": "在前的；在先的"
+        },
+        {
+          "word": "preceding",
+          "tran_cn": "在前的；前述的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "precedent",
+          "tran_cn": "先例；前例"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "preceding",
+          "tran_cn": "在...之前（precede的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "antecede",
+            "antedate",
+            "forerun",
+            "head",
+            "lead"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "take over the lead",
+            "keep ahead"
+          ],
+          "tran_cn": "领先，在前面"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "come",
+            "first",
+            "forerun",
+            "head",
+            "lead"
+          ],
+          "tran_cn": "处在前面;领先"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "先于…，领先",
+      "tran_en": "to happen or exist before something or someone, or to come before something else in a series"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 在…之前， 先于",
+      "tran_en": "to happen or exist before something or someone, or to come before something else in a series"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "在…之前发生或出现，先于，在…之上，优于，给…作序，处于…前面的位置"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "precedes"
+    ],
+    "past": [
+      "preceded"
+    ],
+    "done": [
+      "preceded"
+    ],
+    "ing": [
+      "preceding"
+    ]
+  }
+}

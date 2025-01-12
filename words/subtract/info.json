@@ -1,0 +1,183 @@
+{
+  "word": "subtract",
+  "ipa": {
+    "us": "səbˈtrækt",
+    "uk": "səbˈtrækt"
+  },
+  "sentences": [
+    {
+      "en": "Calculator can add and subtract as well as and divide.",
+      "cn": "计算机能够加减,也能够乘除."
+    },
+    {
+      "en": "Children should be able to add and subtract in the third grade.",
+      "cn": "孩子们应该在三年级的时候学会加法和减法."
+    },
+    {
+      "en": "Click the down arrow to subtract points from an attribute.",
+      "cn": "按向下箭头会从特技中减去点数."
+    },
+    {
+      "en": "If you subtract 3 from 5, you get 2.",
+      "cn": "五减去三就得二."
+    },
+    {
+      "en": "If you subtract 3 from 7, you have 4.",
+      "cn": "七减三等于四."
+    },
+    {
+      "en": "If you subtract 30 from 45, you get 15.",
+      "cn": "45 减 30 等于 15"
+    },
+    {
+      "en": "If you subtract 6 from 9, you will have 3.",
+      "cn": "九减六等于三."
+    },
+    {
+      "en": "Mandy subtracted the date of birth from the date of death.",
+      "cn": "曼迪从死亡的日期减去了出生的日期。"
+    },
+    {
+      "en": "Subtract 3 from 7 and you have 4.",
+      "cn": "七减三得四."
+    },
+    {
+      "en": "Subtract four from nine and you have five.",
+      "cn": "九减四得五."
+    },
+    {
+      "en": "SuBtract three from eight and the remainder will Be five.",
+      "cn": "八减三等于五."
+    },
+    {
+      "en": "That is, if you find that a sensor consistently overestimates by a certain value, you can subtract that value before the final value is reported.",
+      "cn": "也就是说，如果您发现某个传感器总是偏高于某个特定数值，那么就可以减去该数值后再报告最终的数值。"
+    },
+    {
+      "en": "The digital computer, in its computation section, can do mainly two things - add or subtract.",
+      "cn": "数字计算机在其运算部分主要能作两项工作 ― ―加或减."
+    },
+    {
+      "en": "The little girl has begun to learn to add and subtract.",
+      "cn": "这小女孩已在学做加减法了."
+    },
+    {
+      "en": "The pupil could add and subtract but hadn't learned to divide.",
+      "cn": "这名小学生能做加法和减法,但还没学会做除法."
+    },
+    {
+      "en": "Their first device could add, subtract, multiply and divide.",
+      "cn": "他们的最初设计是可以计算加法 、 减法 、 乘法和除法."
+    },
+    {
+      "en": "Then the deal is that when you sell the house they subtract -you've got to pay this.",
+      "cn": "那么当你售出房子后，他们会从中减去，这个余额，这就是你要付给他们的。"
+    },
+    {
+      "en": "Thus, if you have staff activities in loops and want to run the above request, you need to ensure that you subtract only events which belong together.",
+      "cn": "因此，如果您在循环中具有人员活动，并且想要运行以上的请求，那么您必须确保您只减去了属于一起的事件。"
+    },
+    {
+      "en": "You have to subtract 25 % tax from the sum you receive.",
+      "cn": "你必须从所得款中扣除25%的税款."
+    },
+    {
+      "en": "You must learn to add and subtract in arithmetic.",
+      "cn": "学算术要学会加法和减法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "subtractive",
+          "tran_cn": " 减去的；负的；有负号的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "subtracter",
+          "tran_cn": " [计] 减法器；扣除者"
+        },
+        {
+          "word": "subtraction",
+          "tran_cn": " [数] 减法；减少；差集"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "away",
+            "deduct",
+            "discount",
+            "lessen",
+            "remove",
+            "take",
+            "withdraw"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "away",
+            "deduct",
+            "discount",
+            "remove",
+            "take",
+            "withdraw"
+          ],
+          "tran_cn": "减去;扣除"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "subtract from",
+      "tran_cn": "减去"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "减去；扣掉",
+      "tran_en": "to take a number or an amount from a larger number or amount"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "减去，扣除",
+      "tran_en": "to take a number or an amount from a larger number or amount"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "subtracts"
+    ],
+    "past": [
+      "subtracted"
+    ],
+    "done": [
+      "subtracted"
+    ],
+    "ing": [
+      "subtracting"
+    ],
+    "noun": [
+      "subtraction"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "word": "feckless",
+  "ipa": {
+    "us": "ˈfekləs",
+    "uk": "ˈfɛklɪs"
+  },
+  "sentences": [
+    {
+      "en": "Alice’s feckless younger brother",
+      "cn": "艾丽斯那个没出息的弟弟"
+    },
+    {
+      "en": "German banks lent hand over fist to feckless foreign borrowers.",
+      "cn": "德国银行曾向财务状况不佳的外国借款人大量放贷."
+    },
+    {
+      "en": "He regarded the young man as feckless and irresponsible.",
+      "cn": "他认为这个年轻人不光无能，还不负责任。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fecklessness",
+          "tran_cn": " 徒劳；低效率；无能；不负责任"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "soft",
+            "useless",
+            "ineffective"
+          ],
+          "tran_cn": "无效的；软弱的；没精神的；不负责任的；无气力的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "没有价值的，没有长远目标的，不负责任的",
+      "tran_en": "lacking determination, and not achieving anything in your life"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "fecklessness"
+    ]
+  }
+}

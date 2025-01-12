@@ -1,0 +1,180 @@
+{
+  "word": "toxic",
+  "ipa": {
+    "us": "ˈtɒksɪk",
+    "uk": "ˈtɑːksɪk"
+  },
+  "sentences": [
+    {
+      "en": "a highly toxic pesticide",
+      "cn": "毒性很强的杀虫剂"
+    },
+    {
+      "en": "a leakage of toxic waste into the sea",
+      "cn": "有毒废物的泄漏入海"
+    },
+    {
+      "en": "A new centre for research on toxic waste was inaugurated today at Imperial College.",
+      "cn": "新建的有毒废物研究中心今天在皇家学院举行落成典礼。"
+    },
+    {
+      "en": "fumes from a toxic waste dump",
+      "cn": "有毒废料堆产生的毒气"
+    },
+    {
+      "en": "In particular, there were numerous \" toxic hotspots \" which needed more stringent controls.",
+      "cn": "特别是, 有无数的 “ 有毒的潜在危险区 ” 需要更严厉的控制."
+    },
+    {
+      "en": "Lead can accumulate in the body until toxic levels are reached.",
+      "cn": "铅会在体内积聚直至造成铅中毒。"
+    },
+    {
+      "en": "Nuclear weapons plants across the country are heavily contaminated with toxic wastes.",
+      "cn": "全国的核武器工厂均受到了有毒废弃物的严重污染。"
+    },
+    {
+      "en": "Of special concern are toxic contaminants in water from underground sources.",
+      "cn": "特别关心的是地下水源中的有毒污染物."
+    },
+    {
+      "en": "Section 301 ( b ) ( 2 ) prescribes BAT effluent limitations for \" nonconventional \" and toxic pollutants.",
+      "cn": "第201条 ( b ) ( 2 ) 中,针对 “ 非常规 ” 和有毒污染物规定了“最佳现有技术”污水限制."
+    },
+    {
+      "en": "The factory had accidentally released a quantity of toxic waste into the sea.",
+      "cn": "这家工厂意外泄漏大量有毒废物到海中."
+    },
+    {
+      "en": "Too much toxic waste is being dumped at sea.",
+      "cn": "太多的有毒废料在向大海里倾倒。"
+    },
+    {
+      "en": "Toxic waste could endanger lives and poison fish.",
+      "cn": "有毒废物可能危及生命，毒死鱼类。"
+    },
+    {
+      "en": "Toxicologists attempt to identify and understand toxic hazards.",
+      "cn": "毒理学家试图找出并了解毒害风险。"
+    },
+    {
+      "en": "Two of the cases involving toxic water pollution are particularly interesting.",
+      "cn": "涉及到有毒水污染的两个案例特别令人感兴趣."
+    },
+    {
+      "en": "Unfortunately these drugs are quite toxic and hinder the body's ability to fight off infection.",
+      "cn": "可惜的是，这些药物毒性很大，会削弱身体对感染的抵抗力。"
+    },
+    {
+      "en": "Up to 10 million tonnes of toxic wastes are produced every year in the UK.",
+      "cn": "英国每年会产生多达1,000万吨的有毒废弃物。"
+    },
+    {
+      "en": "When spilled into the sea, oil can be toxic to marine plants and animals.",
+      "cn": "石油溢入海洋可能危害海洋生物."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "toxicant",
+          "tran_cn": " 有毒的"
+        },
+        {
+          "word": "toxicologic",
+          "tran_cn": " 毒物学的；毒素的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "toxicant",
+          "tran_cn": " 有毒物；[毒物] 毒药"
+        },
+        {
+          "word": "toxicity",
+          "tran_cn": " [毒物] 毒性"
+        },
+        {
+          "word": "toxicologist",
+          "tran_cn": " 毒理学家"
+        },
+        {
+          "word": "toxicology",
+          "tran_cn": " [毒物] 毒物学，[毒物] 毒理学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "deadly",
+            "malignant",
+            "noxious",
+            "poisonous",
+            "venomous"
+          ],
+          "tran_cn": "有毒的;有害的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "highly toxic",
+      "tran_cn": "剧毒；高毒性的"
+    },
+    {
+      "phrase": "toxic agent",
+      "tran_cn": "毒剂；有毒媒介；毒性药物"
+    },
+    {
+      "phrase": "toxic chemicals",
+      "tran_cn": "有毒化学品；有毒化学物质"
+    },
+    {
+      "phrase": "toxic effect",
+      "tran_cn": "毒性作用；毒效"
+    },
+    {
+      "phrase": "toxic gas",
+      "tran_cn": "n. 毒气"
+    },
+    {
+      "phrase": "toxic material",
+      "tran_cn": "有毒物质"
+    },
+    {
+      "phrase": "toxic reaction",
+      "tran_cn": "毒性反应；中毒反应"
+    },
+    {
+      "phrase": "toxic shock syndrome",
+      "tran_cn": "中毒性休克综合症"
+    },
+    {
+      "phrase": "toxic substance",
+      "tran_cn": "有毒物"
+    },
+    {
+      "phrase": "toxic waste",
+      "tran_cn": "有毒废物，毒废料"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有毒的，中毒的，因中毒引起的",
+      "tran_en": "containing poison, or caused by poisonous substances"
+    }
+  ],
+  "exchange": {}
+}

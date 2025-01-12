@@ -1,0 +1,141 @@
+{
+  "word": "erasure",
+  "ipa": {
+    "us": "ɪˈreɪʒə(r)",
+    "uk": "ɪˈreʃɚ"
+  },
+  "sentences": [
+    {
+      "en": "a way to avoid accidental erasure of data from your computer",
+      "cn": "避免无意中删除计算机资料的方法"
+    },
+    {
+      "en": "An RS code is twice powerful at erasure correction than at error correction.",
+      "cn": "里德所罗门码对[抹除]的更正能力是一般错误的两倍."
+    },
+    {
+      "en": "Device erasure occurs by utting the proper erase command sequence.",
+      "cn": "设备檫除由执行发生合适擦掉命令顺序."
+    },
+    {
+      "en": "Erasure code is an important method for providing high availability in data storage.",
+      "cn": "纠删码是提供数据高可用性的重要方法."
+    },
+    {
+      "en": "Hardware implementation for the all - erasure RS decoder is proposed, including the finite field arithmetic operation units.",
+      "cn": "本文并提出纯粹抹除 式 里德所罗门解码器的硬体实现, 包括有限体中的算数运算模组."
+    },
+    {
+      "en": "In the future quantum computer, erasure is necessary for the renewed resources.",
+      "cn": "因此,将来的量子计算机中, 同样需要擦除信息,使资源能够重新利用."
+    },
+    {
+      "en": "In this paper , we discuss the relation between information erasure and heat dissipation in quantum memory.",
+      "cn": "讨论量子寄存器中信息擦除与散热的关系,发现量子态擦除的不可逆性将会导致量子寄存器的热耗散."
+    },
+    {
+      "en": "Report one bad, achievement erasure.",
+      "cn": "汇报一孬, 成绩抹掉."
+    },
+    {
+      "en": "The inspection, modification, replacement or erasure of part of file's contents.",
+      "cn": "检查 、 修改 、 代替或擦去文档内容一部分的过程."
+    },
+    {
+      "en": "The longitudinal component of the electric field increase the write speed and provdies erasure.",
+      "cn": "纵向电场提高了写入速度及擦除速度."
+    },
+    {
+      "en": "The past was erased, the erasure was forgotten, the lie became truth.",
+      "cn": "过去给人擦拭个干净, 擦拭的行为又忘了个干净,于是, 谎言就变成了真理."
+    },
+    {
+      "en": "The self - erasure happens because the new isomer of azobenzene is as stable as the old one.",
+      "cn": "自动清洁现象的发生是由于偶氮苯得异构体远不如其本体稳定."
+    },
+    {
+      "en": "To study the selective erasure and rewriting of the multiplexed holographic storage in photorefractive crystals.",
+      "cn": "研究光折变晶体中多重体全息存储的选择性擦涂和重写技术."
+    },
+    {
+      "en": "We summarize this with the motto binary compatibility ensures migration compatibility — or, more concisely, erasure eases evolution.",
+      "cn": "我们用名词“二进制兼容保证了迁移兼容性-或者更确切的说是, 擦除简化了演化”来概括这个特性."
+    },
+    {
+      "en": "Your writing would be subject to 1984 - style retroactive erasure.",
+      "cn": "你所写的将会遭到1984年的风格反动的删去."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "erasable",
+          "tran_cn": " 可消除的；可抹去的；可删除的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "eraser",
+          "tran_cn": " 擦除器；[计] 清除器"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "erase",
+          "tran_cn": " 被擦去，被抹掉"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "erase",
+          "tran_cn": " 抹去；擦除"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "removing",
+            "elimination"
+          ],
+          "tran_cn": "消除；涂擦的痕迹；消磁"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "destruction"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "擦掉，删去，删掉的词，消音，抹音",
+      "tran_en": "when you erase something, or when something is erased"
+    }
+  ],
+  "exchange": {}
+}

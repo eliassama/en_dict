@@ -1,0 +1,129 @@
+{
+  "word": "inaugurate",
+  "ipa": {
+    "us": "ɪˈnɔːɡjəreɪt",
+    "uk": "ɪˈnɔːɡjəreɪt"
+  },
+  "sentences": [
+    {
+      "en": "As manager of your agency, what skill - building program would you inaugurate if needed?",
+      "cn": "经理的机构, 什么技能建设程序将启动,如果您需要的?"
+    },
+    {
+      "en": "Fig 2 . Open - window envelopes, showing receivers'names & addresses, may inaugurate repeated printout.",
+      "cn": "图 二: 使用开窗式信封来显示收信人的地址和姓名是重复打印的悲剧的开始."
+    },
+    {
+      "en": "He will be inaugurated (as) President in January.",
+      "cn": "他将于一月份就任总统。"
+    },
+    {
+      "en": "The moon landing inaugurated a new era in space exploration.",
+      "cn": "登陆月球开创了太空探索的新纪元。"
+    },
+    {
+      "en": "The Turner Prize was inaugurated in 1984.",
+      "cn": "特纳奖于1984年正式设立。"
+    },
+    {
+      "en": "To begin or inaugurate with a ceremony intended to bring good luck.",
+      "cn": "以某种讨吉利的仪式着手做(某事)"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inaugural",
+          "tran_cn": "开始的；开幕的；就任的，就职的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inaugural",
+          "tran_cn": "就职演讲；开幕辞"
+        },
+        {
+          "word": "inauguration",
+          "tran_cn": "就职典礼；开始，开创；开幕式"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "admit",
+            "begin",
+            "christen",
+            "enthrone",
+            "induct",
+            "initiate",
+            "install",
+            "instate",
+            "introduce",
+            "launch",
+            "nominate",
+            "originate",
+            "start"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "admit",
+            "begin",
+            "initiate",
+            "install",
+            "instate",
+            "introduce",
+            "launch"
+          ],
+          "tran_cn": "使开始;就职"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使就职；开始",
+      "tran_en": "to introduce a new public official or leader at a special ceremony"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "开创，创始，举行开幕典礼，举行就职典礼",
+      "tran_en": "to hold an official ceremony when someone starts doing an important job in government"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inaugurates"
+    ],
+    "past": [
+      "inaugurated"
+    ],
+    "done": [
+      "inaugurated"
+    ],
+    "ing": [
+      "inaugurating"
+    ],
+    "noun": [
+      "inauguration"
+    ]
+  }
+}

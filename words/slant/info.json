@@ -1,0 +1,266 @@
+{
+  "word": "slant",
+  "ipa": {
+    "us": "slɑːnt",
+    "uk": "slænt"
+  },
+  "sentences": [
+    {
+      "en": "Close the window quickly lest the raindrops ( should ) slant in.",
+      "cn": "快关窗户,别让雨点 潲 进来."
+    },
+    {
+      "en": "For intermediate doses, the corresponding slant distances can be estimated by interpolation.",
+      "cn": "对于中间的剂量, 可以用内插法把相应的斜距估计出来."
+    },
+    {
+      "en": "I need to get your slant on the situation.",
+      "cn": "请说说您对于情况的意见."
+    },
+    {
+      "en": "I want to know your slant on the problem.",
+      "cn": "我想知道你对这个问题的看法."
+    },
+    {
+      "en": "It was easier to see the slant of the fish line.",
+      "cn": "钓丝的斜度也比较明显."
+    },
+    {
+      "en": "Our roof has a slight slant.",
+      "cn": "我们的屋顶稍微倾斜."
+    },
+    {
+      "en": "slanting eyes",
+      "cn": "斜眼"
+    },
+    {
+      "en": "The article had an anti-union slant .",
+      "cn": "这篇文章有反工会倾向。"
+    },
+    {
+      "en": "The editorial had an antiunion slant.",
+      "cn": "这篇社论有一种反工会的倾向."
+    },
+    {
+      "en": "The lines are drawn on a slant.",
+      "cn": "这些线条被画成斜线."
+    },
+    {
+      "en": "The local slant - eyes were feeding them spy information.",
+      "cn": "这里的吊眼梢给他们偷送情报."
+    },
+    {
+      "en": "The political slant at Focus can be described as centre-right.",
+      "cn": "《焦点》杂志的政治立场可以称为中间偏右。"
+    },
+    {
+      "en": "The sun’s rays slanted through the trees.",
+      "cn": "阳光透过树木斜照下来。"
+    },
+    {
+      "en": "The two brothers certainly had a different slant on life.",
+      "cn": "这兄弟俩的生活态度当然不同."
+    },
+    {
+      "en": "The wooden floor has a noticeable slant.",
+      "cn": "这木地板可以看得出有些倾斜."
+    },
+    {
+      "en": "They give a slant to every single news item that's put on the air.",
+      "cn": "他们播放的每一则新闻都有所偏向。"
+    },
+    {
+      "en": "This axis may be horizontal or it may slant or plunge.",
+      "cn": "这条轴可能是水平的,也可能是倾伏的."
+    },
+    {
+      "en": "You're slightly above the garden because the house is on a slant.",
+      "cn": "由于房子是倾斜的，所以你的位置稍微高于花园。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "slanted",
+          "tran_cn": " 斜的；有倾向的"
+        },
+        {
+          "word": "slanting",
+          "tran_cn": " 倾斜的"
+        },
+        {
+          "word": "slantwise",
+          "tran_cn": " 倾斜的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "slantingly",
+          "tran_cn": " 歪斜地"
+        },
+        {
+          "word": "slantways",
+          "tran_cn": " 倾斜地"
+        },
+        {
+          "word": "slantwise",
+          "tran_cn": " 倾斜地"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "slanted",
+          "tran_cn": " 使倾斜（slant的过去式和过去分词）"
+        },
+        {
+          "word": "slanting",
+          "tran_cn": " 使倾斜（slant的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "gradient",
+            "raked"
+          ],
+          "tran_cn": "倾斜的；有偏见的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "viewpoint",
+            "perspective",
+            "slope",
+            "outlook",
+            "eye"
+          ],
+          "tran_cn": "倾斜；观点；偏见"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "color",
+            "decline",
+            "descent",
+            "distortion",
+            "incline",
+            "lean",
+            "perspective",
+            "sentiment",
+            "side",
+            "slope",
+            "tilt",
+            "tip",
+            "weight"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "incline",
+            "lean",
+            "slope",
+            "tilt",
+            "tip"
+          ],
+          "tran_cn": "倾斜"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "pitch",
+            "slope",
+            "lean"
+          ],
+          "tran_cn": "倾斜；有倾向"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "slope",
+            "lean"
+          ],
+          "tran_cn": "使倾斜；使倾向于"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "slant range",
+      "tran_cn": "倾斜范围（等于slant distance）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "倾斜的；有偏见的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "倾斜，斜线，斜面，偏向，偏见",
+      "tran_en": "a sloping position or angle"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "(使)倾斜, 歪向",
+      "tran_en": "to slope or make something slope in a particular direction"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "有倾向性地编写或报道"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）倾斜，歪斜"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "slants"
+    ],
+    "past": [
+      "slanted"
+    ],
+    "done": [
+      "slanted"
+    ],
+    "ing": [
+      "slanting"
+    ]
+  }
+}

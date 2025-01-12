@@ -1,0 +1,176 @@
+{
+  "word": "hash",
+  "ipa": {
+    "us": "hæʃ",
+    "uk": "hæʃ"
+  },
+  "sentences": [
+    {
+      "en": "And mind you don't make a hash of it!",
+      "cn": "可不要拆烂污!"
+    },
+    {
+      "en": "At each offset in the file the 32 - bit rolling checksum and its 16 - bit hash are calculated.",
+      "cn": "文件中的每个偏移都会被计算32-bit的滚动校验和及它的16-bit的hash值."
+    },
+    {
+      "en": "Copies the contained elements, hash function, predicate, maximum load factor and allocator.",
+      "cn": "复制所含的元素 、 散列函数 、 谓词 、 最大负载因子和分配器."
+    },
+    {
+      "en": "Hash algorithms are very important functions in computer security.",
+      "cn": "散列算法对计算机安全起着举足轻重的作用."
+    },
+    {
+      "en": "I made a hash o'this cruise, did I?",
+      "cn": "你们说我把这次航行搞得一团糟, 是不是?"
+    },
+    {
+      "en": "JULES -- okay now , tell me about the hash bars?",
+      "cn": "朱尔斯:——那么,那些地下酒吧 呢 ?"
+    },
+    {
+      "en": "Nevertheless, like all hash tables, its performance depends on the distribution of hashes.",
+      "cn": "不仅如此, 像所有的hash表, 其性能依赖于哈希分布."
+    },
+    {
+      "en": "She could choose one who would not make a hash of things.",
+      "cn": "她可以选择一位不会把事情弄糟的人."
+    },
+    {
+      "en": "That remark settled his hash.",
+      "cn": "那句话说得他哑口无言."
+    },
+    {
+      "en": "The teacher asked them to sit down together and hash out their differences.",
+      "cn": "教师要他们坐下讨论讨论以消除分歧."
+    },
+    {
+      "en": "Watson had made a thorough hash of it.",
+      "cn": "沃森把这事儿弄得一团糟。"
+    },
+    {
+      "en": "We sit down to a supper of corned - beef hash or some other modest fare.",
+      "cn": "我们坐下来吃一顿咸牛肉或其他菜式素净的晚饭."
+    },
+    {
+      "en": "What is a croquette but hash that have come to a head?",
+      "cn": "油炸肉酱薯饼是什么,不是化了脓的肉丁烤菜 吗 ?"
+    },
+    {
+      "en": "When you make meatball you must hash ( up ) meat.",
+      "cn": "做肉 丸子 时,你一定要把肉切碎."
+    },
+    {
+      "en": "You've made a terrible hash of that painting.",
+      "cn": "你把这画弄得一团糟."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fiasco",
+            "jumble",
+            "mess",
+            "muddle",
+            "scramble"
+          ],
+          "tran_cn": "混乱;困惑;混浊状态"
+        },
+        {
+          "words": [
+            "assortment",
+            "mix",
+            "mixture"
+          ],
+          "tran_cn": "混杂;混合物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "assortment",
+            "fiasco",
+            "jumble",
+            "jungle",
+            "mess",
+            "mix",
+            "mixture",
+            "muddle",
+            "scramble",
+            "variety"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "make a mess of",
+            "foul up"
+          ],
+          "tran_cn": "搞糟，把…弄乱；切细；推敲"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hash algorithm",
+      "tran_cn": "[计]杂凑算法；散列算法；哈希算法"
+    },
+    {
+      "phrase": "hash code",
+      "tran_cn": "[计]散列码；混列码"
+    },
+    {
+      "phrase": "hash function",
+      "tran_cn": "散列函数；哈希函数"
+    },
+    {
+      "phrase": "hash out",
+      "tran_cn": "消除，经过长时间讨论解决一个问题"
+    },
+    {
+      "phrase": "hash table",
+      "tran_cn": "[计]杂凑表"
+    },
+    {
+      "phrase": "make a hash of",
+      "tran_cn": "(非正式)把…搞得一团糟；笨手笨脚地做"
+    },
+    {
+      "phrase": "settle (someone's) hash&I{【俚语】}",
+      "tran_cn": "沉默或服从"
+    },
+    {
+      "phrase": "settle someone's hash",
+      "tran_cn": "(非正式)彻底制服某人，摆平某人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "剁碎的食物，#号，蔬菜肉丁"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "搞糟，把…弄乱；切细；推敲"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hashes"
+    ]
+  }
+}

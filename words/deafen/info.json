@@ -1,0 +1,129 @@
+{
+  "word": "deafen",
+  "ipa": {
+    "us": "ˈdefn",
+    "uk": "ˈdɛfən"
+  },
+  "sentences": [
+    {
+      "en": "He was deafened by the noise from the gun.",
+      "cn": "枪声把他震聋了。"
+    },
+    {
+      "en": "The noise of the typewriters deafened her.",
+      "cn": "打字机的噪音震得她都要聋了。"
+    },
+    {
+      "en": "This noise will deafen us all!",
+      "cn": "这种喧闹声将使我们什么也听不见!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deaf",
+          "tran_cn": "聋的"
+        },
+        {
+          "word": "deafened",
+          "tran_cn": "变聋的"
+        },
+        {
+          "word": "deafening",
+          "tran_cn": "震耳欲聋的；极喧闹的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deafening",
+          "tran_cn": "隔音"
+        },
+        {
+          "word": "deafness",
+          "tran_cn": "聋；听力不佳"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "deafened",
+          "tran_cn": "耳聋；后天耳聋（deafen的过去分词）"
+        },
+        {
+          "word": "deafening",
+          "tran_cn": "使…聋（deafen的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "deaf",
+            "din",
+            "ears",
+            "make",
+            "noise",
+            "split",
+            "stun",
+            "the",
+            "with"
+          ],
+          "tran_cn": "使变聋"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "flood",
+            "flow"
+          ],
+          "tran_cn": "使聋；淹没"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使聋",
+      "tran_en": "to make someone go deaf"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "变聋"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使聋，使隔音，淹没"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "deafens"
+    ],
+    "past": [
+      "deafened"
+    ],
+    "done": [
+      "deafened"
+    ],
+    "ing": [
+      "deafening"
+    ]
+  }
+}

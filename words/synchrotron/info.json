@@ -1,0 +1,132 @@
+{
+  "word": "synchrotron",
+  "ipa": {
+    "us": "'sɪŋkrəˌtrɒn",
+    "uk": "'sɪŋkrəˌtrɒn"
+  },
+  "sentences": [
+    {
+      "en": "Analysis of zinc in protein bands after electrophoresis separation by synchrotron radiation X - ray fluorescence.",
+      "cn": "同步辐射 X 荧光法测定电泳分离后蛋白条带内的锌."
+    },
+    {
+      "en": "For example, a new synchrotron under construction in Jordan is rapidly becoming a symbol of the potential for teamwork in the Middle East.",
+      "cn": "例如，正在约旦兴建的一个新的同步加速器正在迅速成为中东地区团队合作潜力的象征。"
+    },
+    {
+      "en": "Often used standard light source is synchrotron radiation source and wall stabilized argon arc source.",
+      "cn": "常用的光源标准如同步辐射光源和壁稳亚弧光源等."
+    },
+    {
+      "en": "Research Interests: Application Research of Synchrotron Radiation, Photoelectron Spectromicroscopy Using Synchrotron Radiation.",
+      "cn": "研究兴趣: 同步辐射应用研究、同步辐射光电子能谱显微术."
+    },
+    {
+      "en": "Synchrotron radiation also has commercial application.",
+      "cn": "同步加速器辐射还有一些商业上的应用."
+    },
+    {
+      "en": "The blocks of amber were run past the synchrotron twice.",
+      "cn": "琥珀块被放在同步加速器中两次."
+    },
+    {
+      "en": "The design aims at extracting the visible light from synchrotron radiation without distortion.",
+      "cn": "设计要求从同步光中尽可能不失真地分离出可见光."
+    },
+    {
+      "en": "The synchrotron accelerator was built at Fermilab and the first patients were treated in 1990.",
+      "cn": "该同步加速器在费米实验室建造，首例病人于1990年接受治疗。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "synchronized",
+          "tran_cn": " 同步的；同步化的"
+        },
+        {
+          "word": "synchronizing",
+          "tran_cn": " 同步的"
+        },
+        {
+          "word": "synchronous",
+          "tran_cn": " 同步的；同时的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "synchronously",
+          "tran_cn": " 同步地；同时地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "synchronization",
+          "tran_cn": " [物] 同步；同时性"
+        },
+        {
+          "word": "synchronizer",
+          "tran_cn": " [电] 同步装置；同步闪光装置"
+        },
+        {
+          "word": "synchrony",
+          "tran_cn": " 同步"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "synchronized",
+          "tran_cn": " 使协调（synchronize的过去分词）；同时发生；校准"
+        },
+        {
+          "word": "synchronizing",
+          "tran_cn": " 同步，整步（synchronize的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "synchronize",
+          "tran_cn": " 同步；同时发生"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "synchronize",
+          "tran_cn": " 使……合拍；使……同步"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "synchrotron radiation",
+      "tran_cn": "同步加速器辐射"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "同步加速器",
+      "tran_en": "a type of particle accelerator similar to a betatron but having an electric field of fixed frequency with electrons but not with protons as well as a changing magnetic field"
+    }
+  ],
+  "exchange": {}
+}

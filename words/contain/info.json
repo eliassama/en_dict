@@ -1,0 +1,215 @@
+{
+  "word": "contain",
+  "ipa": {
+    "us": "kənˈteɪn",
+    "uk": "kənˈteɪn"
+  },
+  "sentences": [
+    {
+      "en": "Although most condoms contain spermicide, there are some manufactured without.",
+      "cn": "虽然多数避孕套含有杀精剂，但也有一些是不含的。"
+    },
+    {
+      "en": "Dehydrated meals, soups and sauces contain a lot of salt.",
+      "cn": "脱水后的饭菜、汤和调味料中含有很多盐分。"
+    },
+    {
+      "en": "He was unable to contain his own destructive feelings.",
+      "cn": "他无法抑制自己消极的情绪。"
+    },
+    {
+      "en": "It might contain something of value.",
+      "cn": "它里面也许还有什么值钱的东西。"
+    },
+    {
+      "en": "Jane couldn’t contain her amusement any longer.",
+      "cn": "简忍俊不禁。"
+    },
+    {
+      "en": "Milk, oily fish and egg all contain vitamin D.",
+      "cn": "牛奶、油性鱼类和鸡蛋都含有维生素D."
+    },
+    {
+      "en": "Oranges contain only 35 calories per 100g.",
+      "cn": "每100克橙子仅含35卡的热量。"
+    },
+    {
+      "en": "Our range of herbal teas contain no preservatives, colourings or artificial flavourings.",
+      "cn": "我们这一系列的药草茶不含防腐剂、色素以及人工调味品。"
+    },
+    {
+      "en": "Seven fire brigades were deployed to contain the blaze.",
+      "cn": "7支消防队被派来控制火势。"
+    },
+    {
+      "en": "She bought a travel-bag large enough to contain the film canisters.",
+      "cn": "她买了一只能装得下那些胶卷筒的旅行包。"
+    },
+    {
+      "en": "Some mushrooms contain a deadly poison.",
+      "cn": "有些蘑菇含有致命毒素。"
+    },
+    {
+      "en": "The letter contained information about Boulestin’s legal affairs.",
+      "cn": "这封信里有关于布莱斯坦的法律事务的信息。"
+    },
+    {
+      "en": "The museum contains a number of original artworks.",
+      "cn": "这家博物馆藏有一些原创艺术品。"
+    },
+    {
+      "en": "The offspring contain a mixture of the genetic blueprint of each parent.",
+      "cn": "子女身上遗传了父母双方的基因型板。"
+    },
+    {
+      "en": "The problem was that the exhaust gases contain many toxins.",
+      "cn": "问题在于废气中含有很多毒素。"
+    },
+    {
+      "en": "The thieves stole a purse containing bank-notes.",
+      "cn": "小偷们偷到了一个里面有钞票的钱包。"
+    },
+    {
+      "en": "The two discs also contain two of Britten's lesser-known song-cycles.",
+      "cn": "这两张唱片还包含了布里顿两首不甚知名的声乐套曲。"
+    },
+    {
+      "en": "These reports clearly contain elements of propaganda.",
+      "cn": "这些报告明显带有一些宣传的意味。"
+    },
+    {
+      "en": "This drink doesn't contain any alcohol.",
+      "cn": "这种饮料不含任何酒精。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "contained",
+          "tran_cn": " 泰然自若的，从容的；被控制的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "container",
+          "tran_cn": " 集装箱；容器"
+        },
+        {
+          "word": "containment",
+          "tran_cn": " 包含；牵制；容量；密闭度"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "contained",
+          "tran_cn": " 包含；遏制（contain的过去分词）；容纳"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comprehend",
+            "comprise",
+            "consist",
+            "control",
+            "cover",
+            "curb",
+            "embody",
+            "embrace",
+            "hold",
+            "include",
+            "involve",
+            "of",
+            "restrain",
+            "seat",
+            "siege"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "restrain oneself",
+            "abstain"
+          ],
+          "tran_cn": "含有；自制"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "comprise",
+            "consist",
+            "enclose",
+            "hold",
+            "include",
+            "involve",
+            "of"
+          ],
+          "tran_cn": "包含;容纳"
+        },
+        {
+          "words": [
+            "confine",
+            "control",
+            "curb",
+            "restrain"
+          ],
+          "tran_cn": "控制,遏制"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "said to contain",
+      "tran_cn": "据称内装"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "装有，包含，遏制，控制，克制",
+      "tran_en": "if something such as a bag, box, or place contains something, that thing is inside it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 包含， 容纳； 装有； 控制， 抑制",
+      "tran_en": "if something such as a bag, box, or place contains something, that thing is inside it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "contains"
+    ],
+    "past": [
+      "contained"
+    ],
+    "done": [
+      "contained"
+    ],
+    "ing": [
+      "containing"
+    ]
+  }
+}

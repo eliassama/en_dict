@@ -1,0 +1,150 @@
+{
+  "word": "cancellation",
+  "ipa": {
+    "us": "ˌkænsəˈleɪʃn",
+    "uk": "ˌkænsəˈleʃən"
+  },
+  "sentences": [
+    {
+      "en": "A last - minute cancellation on a rush order for military hardware cost us a staggering $ 1200.",
+      "cn": "有一张军用器械的紧张定单在最后一分钟取消了,使我们损失了1200美元."
+    },
+    {
+      "en": "After cancellation, the factor is still present in the denominator.",
+      "cn": "相消后该因子仍存在于分母中."
+    },
+    {
+      "en": "Bad weather led to the cancellation of the game.",
+      "cn": "天气不好导致比赛取消了。"
+    },
+    {
+      "en": "By the way, will we be able to get a refund on this cancellation?",
+      "cn": "顺便问一下, 我们取消后可拿回定金 吗 ?"
+    },
+    {
+      "en": "Can I use that credit to pay for the extensive cancellation fees?",
+      "cn": "你能给我个保证去支付所有的定金 吗 ?"
+    },
+    {
+      "en": "Can l use that credit to pay for the extensive cancellation fees?",
+      "cn": "那我能用这分来付昂贵的取消费用 么 ?"
+    },
+    {
+      "en": "Heavy seas can cause cancellation of ferry services.",
+      "cn": "海上风浪太大,可能须要取消渡轮服务."
+    },
+    {
+      "en": "I'm afraid he won't be free tomorrow unless there's a cancellation.",
+      "cn": "恐怕他明天没空,除非有个约会被取消了."
+    },
+    {
+      "en": "Once documents are issued, no change or cancellation will be allowed.",
+      "cn": "机票及酒店套票发出后, 将不接受任何更改或取消."
+    },
+    {
+      "en": "Please fill out the tax cancellation return form with your company's stamp.",
+      "cn": "请填写注销税务登记表并加盖公章."
+    },
+    {
+      "en": "Rail passengers are fed up with cancellations and delays.",
+      "cn": "火车乘客厌烦取消班次和误点的问题。"
+    },
+    {
+      "en": "The cancellation of the football match really ticked him off.",
+      "cn": "足球赛的取消真把他给气坏了."
+    },
+    {
+      "en": "The hotel is fully booked, but we will let you know if there are any cancellations.",
+      "cn": "宾馆已经订满，但如果有人取消，我们会通知你的。"
+    },
+    {
+      "en": "The sudden cancellation of Mr Blair's trip was due to his heavy workload.",
+      "cn": "布莱尔先生因为工作繁重而突然取消行程。"
+    },
+    {
+      "en": "There is a cancellation fee of £20.",
+      "cn": "注销费是20英镑。"
+    },
+    {
+      "en": "They were undoubtedly smarting at my harsh reaction to their cancellation of the Cambodian initiative.",
+      "cn": "我对他们取消有关柬埔寨的提议作出的严厉反应无疑使他们感到恼火."
+    },
+    {
+      "en": "They were undoutedly smarting at my harsh reaction to their cancellation fo the Cambodian initiative.",
+      "cn": "我对他们取消有关柬埔寨的倡议作出的严厉反应无疑还在使他们感到恼火."
+    },
+    {
+      "en": "We need at least 24 hours' notice of cancellation.",
+      "cn": "如欲取消，请至少提前24小时告知。"
+    },
+    {
+      "en": "Would you let me know as soon as you have any cancellation?",
+      "cn": "如果有人取消订位,请你尽快告诉我好 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cancel",
+          "tran_cn": " 取消，撤销"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "cancel",
+          "tran_cn": " 取消；相互抵销"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "cancel",
+          "tran_cn": " 取消；删去"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "withdrawal",
+            "revocation"
+          ],
+          "tran_cn": "取消；删除"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cancellation of registration",
+      "tran_cn": "取消登记"
+    },
+    {
+      "phrase": "echo cancellation",
+      "tran_cn": "回波消除"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "取消，撤销，作废",
+      "tran_en": "a decision that an event that was planned will not happen"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cancellations"
+    ]
+  }
+}

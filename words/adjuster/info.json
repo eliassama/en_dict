@@ -1,0 +1,164 @@
+{
+  "word": "adjuster",
+  "ipa": {
+    "us": "ə'dʒʌstə",
+    "uk": "ə'dʒʌstə"
+  },
+  "sentences": [
+    {
+      "en": "...a seat belt adjuster.",
+      "cn": "…一个座椅安全带调节器。"
+    },
+    {
+      "en": "At present, coiler control system mostly adopts general FED adjuster.",
+      "cn": "目前, 卷取机控制系统大多采用常规的PID调节器."
+    },
+    {
+      "en": "Here is the light switch, the temperature adjuster and the wardrobe.",
+      "cn": "这儿是电灯开关 、 温度调节器和衣柜."
+    },
+    {
+      "en": "Install adjuster nut and lock nut.",
+      "cn": "安装调节器螺母和防松螺母."
+    },
+    {
+      "en": "Install guide plate and adjuster cable on anchor pin.",
+      "cn": "将导向板和调整器钢缆安装到锚销上."
+    },
+    {
+      "en": "Lubricate adjuster screw threads and pivot with spray lube.",
+      "cn": "使用喷雾润滑油润滑调整器螺丝螺纹和枢轴."
+    },
+    {
+      "en": "Minute vertical and lateral adjuster is built in the nozzle.",
+      "cn": "喷嘴安装横向和纵向的为调节装置."
+    },
+    {
+      "en": "Pull the adjuster bar from the head restraint.",
+      "cn": "从头部保护装置拔除调节器条."
+    },
+    {
+      "en": "Remove adjuster lever, adjuster screw and spring.",
+      "cn": "拆卸调整器杆, 调整器螺丝和弹簧."
+    },
+    {
+      "en": "Remove screws attaching the adjuster to the grille opening reinforcement ( GOR ).",
+      "cn": "拆卸用以固定调整器至 格栅 口加固板的螺丝."
+    },
+    {
+      "en": "The corrosive thing of rubber film is observed in fuel press adjuster.",
+      "cn": "通过疲劳实验,观察燃油压力调节器中橡胶膜片受腐蚀的情况."
+    },
+    {
+      "en": "The housing bends and kinks as it enters the barrel adjuster.",
+      "cn": "住房弯和纠缠如同它进入木桶调整器."
+    },
+    {
+      "en": "There is a sensor - adjuster on one side to adjust the intensity.",
+      "cn": "在其一侧有可以调整火焰强度的传感调节器."
+    },
+    {
+      "en": "This Electro - Thermostatic Water Cabinet is with stainless steel inner and adjuster.",
+      "cn": "本电热恒温水槽,不锈钢内胆、具有调节器."
+    },
+    {
+      "en": "This is the light switch and that is the temperature adjuster, sir.",
+      "cn": "题:先生, 这是电灯开关,那是温度调节器."
+    },
+    {
+      "en": "Use to unscrew Flame Adjuster Nut & Pump's Stop Nut.",
+      "cn": "用来旋松火焰调节器螺帽 和 泵的限位螺帽."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "adjustable",
+          "tran_cn": " 可调节的"
+        },
+        {
+          "word": "adjusted",
+          "tran_cn": " 调整过的，调节了的"
+        },
+        {
+          "word": "adjustive",
+          "tran_cn": " 调节的；调整的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "adjustment",
+          "tran_cn": " 调整，调节；调节器"
+        },
+        {
+          "word": "adjustor",
+          "tran_cn": " 调节器；调停者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "adjusted",
+          "tran_cn": " 调整；校正（adjust的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "adjust",
+          "tran_cn": " 调整，校准；适应"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "adjust",
+          "tran_cn": " 调整，使…适合；校准"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "conditioner",
+            "setter"
+          ],
+          "tran_cn": "[电][自]调节器；调停者；（保险等）理算员"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "slack adjuster",
+      "tran_cn": "松紧调整器；空隙调整器；拉紧螺钉"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "调停者，调节器",
+      "tran_en": "An adjuster is a device that allows you to alter a piece of equipment's position or setting"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "adjusters"
+    ]
+  }
+}

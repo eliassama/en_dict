@@ -1,0 +1,269 @@
+{
+  "word": "consent",
+  "ipa": {
+    "us": "kənˈsent",
+    "uk": "kənˈsent"
+  },
+  "sentences": [
+    {
+      "en": "A patient can refuse consent for a particular treatment at any time.",
+      "cn": "任何时候病人都可以拒绝同意某一治疗方法。"
+    },
+    {
+      "en": "Alexander signified his consent with a nod.",
+      "cn": "亚历山大点头表示同意."
+    },
+    {
+      "en": "Children under 16 cannot give consent to medical treatment.",
+      "cn": "16岁以下的儿童不得自行同意接受治疗。"
+    },
+    {
+      "en": "divorce by mutual consent",
+      "cn": "双方均同意的离婚"
+    },
+    {
+      "en": "He finally consented to go.",
+      "cn": "他最终同意去。"
+    },
+    {
+      "en": "He has obtained the consent of the dean for going abroad.",
+      "cn": "他出国已经取得系主任的同意."
+    },
+    {
+      "en": "He left the company by mutual consent last September.",
+      "cn": "去年9月，经双方同意，他离开了公司。"
+    },
+    {
+      "en": "He made the decision without my prior knowledge or consent.",
+      "cn": "他瞒着我做出了决定."
+    },
+    {
+      "en": "He took the car without the owner’s consent .",
+      "cn": "他没有得到车主的许可就把车开走了。"
+    },
+    {
+      "en": "He was under the age of consent.",
+      "cn": "他还未到可以与人发生性关系的法定年龄。"
+    },
+    {
+      "en": "Her father reluctantly consented to the marriage.",
+      "cn": "她父亲勉强答应了这桩婚事。"
+    },
+    {
+      "en": "Her parents gave their consent to the marriage.",
+      "cn": "她父母同意了这桩婚事。"
+    },
+    {
+      "en": "Her parents refused their consent to the marriage.",
+      "cn": "她的父母对这桩婚姻持反对态度."
+    },
+    {
+      "en": "Her silence gave implicit consent.",
+      "cn": "她的沉默表示默许."
+    },
+    {
+      "en": "Her smile suggests her consent.",
+      "cn": "她的微笑意味着同意."
+    },
+    {
+      "en": "I agree with you, but yet I can't consent.",
+      "cn": "我同意你的意见, 但是我不能答应."
+    },
+    {
+      "en": "I ought first to have asked your consent.",
+      "cn": "我本应该首先征得你的同意."
+    },
+    {
+      "en": "It is very likely that he will not consent.",
+      "cn": "很可能他不会同意."
+    },
+    {
+      "en": "it was, by common consent, our finest performance.",
+      "cn": "人们公认这是我们最好的一次演出。"
+    },
+    {
+      "en": "Most owners are happy to have their names used for publicity if this is done with their prior consent .",
+      "cn": "大多数所有者都乐意自己的名字用在宣传中，只要事先征得他们的同意就行。"
+    },
+    {
+      "en": "Shakespeare is, by common consent, the greatest English dramatist.",
+      "cn": "莎士比亚被公认是英国最伟大的剧作家."
+    },
+    {
+      "en": "The chairman was elected by common consent (= with most people agreeing ) .",
+      "cn": "主席是大家一致推选出来的。"
+    },
+    {
+      "en": "You can't obtain my consent by force.",
+      "cn": "你不能强迫我同意."
+    },
+    {
+      "en": "Your silence implies tacit consent to these proposals.",
+      "cn": "你的沉默意味着你默许这些提议."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "consensual",
+          "tran_cn": " 交感的；在双方同意下成立的"
+        },
+        {
+          "word": "consentaneous",
+          "tran_cn": " 同意的，一致的"
+        },
+        {
+          "word": "consentient",
+          "tran_cn": " 同意的；无异议的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "consensus",
+          "tran_cn": " 一致；舆论；合意"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agreement",
+            "accordance",
+            "unity",
+            "identity",
+            "yes"
+          ],
+          "tran_cn": "同意；（意见等的）一致；赞成"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accede",
+            "accept",
+            "accession",
+            "acquiesce",
+            "adhesion",
+            "admission",
+            "admit",
+            "agree",
+            "allow",
+            "approve",
+            "assent",
+            "comply",
+            "confess",
+            "courtesy",
+            "favor",
+            "grant",
+            "license",
+            "of",
+            "permission",
+            "permit",
+            "soften",
+            "subscription",
+            "yes"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "accept",
+            "agree",
+            "approve",
+            "assent",
+            "comply",
+            "of",
+            "permit"
+          ],
+          "tran_cn": "同意,赞成,答应"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by common consent",
+      "tran_cn": "经一致同意；公认"
+    },
+    {
+      "phrase": "informed consent",
+      "tran_cn": "知情同意 （尤指病人在完全了解治疗可能带来的危险和益处后对医生表示的同意）"
+    },
+    {
+      "phrase": "mutual consent",
+      "tran_cn": "双方同意"
+    },
+    {
+      "phrase": "written consent",
+      "tran_cn": "书面同意；同意书"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "同意，许可，批文",
+      "tran_en": "agreement about something"
+    },
+    {
+      "pos": "n& vi",
+      "tran_cn": "同意，赞成",
+      "tran_en": "agreement about something"
+    },
+    {
+      "pos": "n&vi",
+      "tran_cn": " 同意， 赞成",
+      "tran_en": "agreement about something"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "同意，允许",
+      "tran_en": "to give your permission for something or agree to do something"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": "(to)同意,赞成,答应",
+      "tran_en": "agreement about something"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 同意",
+      "tran_en": "to give your permission for something or agree to do something"
+    },
+    {
+      "pos": "vi&n",
+      "tran_cn": "同意，允许",
+      "tran_en": "permission to do something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "consents"
+    ],
+    "past": [
+      "consented"
+    ],
+    "done": [
+      "consented"
+    ],
+    "ing": [
+      "consenting"
+    ]
+  }
+}

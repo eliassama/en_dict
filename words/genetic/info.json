@@ -1,0 +1,238 @@
+{
+  "word": "genetic",
+  "ipa": {
+    "us": "dʒəˈnetɪk",
+    "uk": "dʒəˈnetɪk"
+  },
+  "sentences": [
+    {
+      "en": "A generation ago genetic codes were certainly unknown.",
+      "cn": "遗传密码在上一代确实很少有人知道."
+    },
+    {
+      "en": "a genetic predisposition to liver disease",
+      "cn": "易患肝病的遗传体质"
+    },
+    {
+      "en": "Aggression is part of our genetic make - up.",
+      "cn": "好斗是我们遗传个性的一部份."
+    },
+    {
+      "en": "Both of them were afflicted with a rare genetic disease, which struck in their thirties.",
+      "cn": "他们两个都得了一种罕见的遗传病，这种病在他们30多岁时发作。"
+    },
+    {
+      "en": "each person’s genetic make-up",
+      "cn": "每个人的遗传特征"
+    },
+    {
+      "en": "Eye colour shows your genetic inheritance.",
+      "cn": "眼睛的颜色显示你的基因遗传特征。"
+    },
+    {
+      "en": "Genetic abnormalities are more often associated with faults in paternal DNA than in maternal DNA.",
+      "cn": "相对于母本DNA，基因畸变往往更多地与父本DNA上的缺陷相关。"
+    },
+    {
+      "en": "genetic and environmental factors",
+      "cn": "遗传和环境因素"
+    },
+    {
+      "en": "genetic defects",
+      "cn": "遗传性缺陷"
+    },
+    {
+      "en": "Genetic engineers transpose or exchange bits of hereditary material from one organism to the next.",
+      "cn": "遗传工程师将某一生物的小段遗传物质调换到另一生物，或与其互换。"
+    },
+    {
+      "en": "genetic research",
+      "cn": "基因研究"
+    },
+    {
+      "en": "Genetics is also bringing about dramatic changes in our understanding of cancer.",
+      "cn": "遗传学也正使我们对癌症的理解发生巨大的变化。"
+    },
+    {
+      "en": "It's very difficult to treat genetic diseases.",
+      "cn": "遗传性疾病治疗起来很困难."
+    },
+    {
+      "en": "Scientists have found a genetic mutation that appears to be the cause of Huntington's disease.",
+      "cn": "科学家们已经发现了一种可能是引起亨廷顿舞蹈病的基因变异。"
+    },
+    {
+      "en": "Scientists have used genetic engineering to protect tomatoes against the effects of freezing.",
+      "cn": "科学家利用遗传工程保护番茄免受严寒天气的影响。"
+    },
+    {
+      "en": "Scientists provided the key to understanding the genetic code that determines every bodily feature.",
+      "cn": "科学家们找到了破解决定各种身体特征的遗传密码的密钥。"
+    },
+    {
+      "en": "The offspring contain a mixture of the genetic blueprint of each parent.",
+      "cn": "子女身上遗传了父母双方的基因型板。"
+    },
+    {
+      "en": "The whole population is so inbred that no genetic differences remain.",
+      "cn": "整个族群都是同系繁殖，以至于根本不存在基因差异。"
+    },
+    {
+      "en": "These compounds bind with genetic material in the liver.",
+      "cn": "这些化合物在肝脏中与遗传物质实现结合。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "genetical",
+          "tran_cn": " 遗传的；起源的；创始的"
+        },
+        {
+          "word": "genic",
+          "tran_cn": " 基因的；由基因引起的；遗传学的；有关胚胎的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "genetically",
+          "tran_cn": " 从遗传学角度；从基因方面"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "genesis",
+          "tran_cn": " 发生；起源"
+        },
+        {
+          "word": "geneticist",
+          "tran_cn": " 遗传学者"
+        },
+        {
+          "word": "genetics",
+          "tran_cn": " 遗传学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "inherited",
+            "hereditary"
+          ],
+          "tran_cn": "遗传的；基因的；起源的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "genetic algorithm",
+      "tran_cn": "遗传算法"
+    },
+    {
+      "phrase": "genetic analysis",
+      "tran_cn": "遗传分析，成因分析"
+    },
+    {
+      "phrase": "genetic code",
+      "tran_cn": "[生]遗传密码；基因序列"
+    },
+    {
+      "phrase": "genetic disease",
+      "tran_cn": "遗传病；基因疾病"
+    },
+    {
+      "phrase": "genetic distance",
+      "tran_cn": "遗传距离"
+    },
+    {
+      "phrase": "genetic drift",
+      "tran_cn": "遗传漂变，基因漂变"
+    },
+    {
+      "phrase": "genetic engineering",
+      "tran_cn": "遗传工程"
+    },
+    {
+      "phrase": "genetic factor",
+      "tran_cn": "遗传因素"
+    },
+    {
+      "phrase": "genetic information",
+      "tran_cn": "[化]遗传信息"
+    },
+    {
+      "phrase": "genetic linkage",
+      "tran_cn": "遗传连锁；基因连锁"
+    },
+    {
+      "phrase": "genetic map",
+      "tran_cn": "n. 遗传图谱；基因图谱"
+    },
+    {
+      "phrase": "genetic marker",
+      "tran_cn": "遗传标记（等于marker或marker gene）"
+    },
+    {
+      "phrase": "genetic material",
+      "tran_cn": "遗传物质；基因材料"
+    },
+    {
+      "phrase": "genetic polymorphism",
+      "tran_cn": "遗传多态性"
+    },
+    {
+      "phrase": "genetic relationship",
+      "tran_cn": "亲缘关系；语系关系"
+    },
+    {
+      "phrase": "genetic research",
+      "tran_cn": "遗传研究"
+    },
+    {
+      "phrase": "genetic resources",
+      "tran_cn": "遗传资源，基因资源；生成资源"
+    },
+    {
+      "phrase": "genetic testing",
+      "tran_cn": "基因检测；遗传检测；遗传学检验"
+    },
+    {
+      "phrase": "genetic transformation",
+      "tran_cn": "遗传转化"
+    },
+    {
+      "phrase": "genetic variation",
+      "tran_cn": "n. 遗传变异"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "遗传的，基因的，起源的，起因的，演变的",
+      "tran_en": "relating to genes or genetics"
+    },
+    {
+      "pos": "n",
+      "tran_cn": " [-s]遗传学"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "genetically"
+    ]
+  }
+}

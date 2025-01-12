@@ -1,0 +1,198 @@
+{
+  "word": "priest",
+  "ipa": {
+    "us": "priːst",
+    "uk": "priːst"
+  },
+  "sentences": [
+    {
+      "en": "\"But Jesus is here!\" the priest intoned.",
+      "cn": "“但是耶稣在这里！”牧师吟诵道。"
+    },
+    {
+      "en": "At High Mass the priest preached a sermon on the devil.",
+      "cn": "牧师在大弥撒上布道驱邪。"
+    },
+    {
+      "en": "He confessed to a priest that he had sinned.",
+      "cn": "他向神父忏悔他犯了罪."
+    },
+    {
+      "en": "He earned the appellation \"rebel priest.\"",
+      "cn": "他赢得了“反叛牧师”的称号。"
+    },
+    {
+      "en": "He had trained to be a Catholic priest.",
+      "cn": "他受训成为了一名天主教神父。"
+    },
+    {
+      "en": "He was ordained a Catholic priest in 1982.",
+      "cn": "他于1982年被任命为天主教司铎。"
+    },
+    {
+      "en": "She heard the priest's familiar, flat footfall on the staircase.",
+      "cn": "她听到楼梯上传来牧师那熟悉的单调脚步声。"
+    },
+    {
+      "en": "Stavros was training to be a priest.",
+      "cn": "斯塔夫罗斯正受训成为一名牧师。"
+    },
+    {
+      "en": "The poor priest was plied with drink at a dinner party.",
+      "cn": "宴会上不断有人给可怜的牧师灌酒。"
+    },
+    {
+      "en": "The priest anointed her with oil.",
+      "cn": "神父为她傅油。"
+    },
+    {
+      "en": "The priest frowned into the light, his face puzzled.",
+      "cn": "神父在亮光下皱起了眉头，一脸疑惑。"
+    },
+    {
+      "en": "The priest fumbled in the folds of his gown.",
+      "cn": "牧师胡乱整了整长袍上的褶皱。"
+    },
+    {
+      "en": "The priest intoned the final prayer.",
+      "cn": "神父庄重地念了最后的祷文。"
+    },
+    {
+      "en": "The priest made the sign of the cross over him.",
+      "cn": "神父在他上方画了个十字。"
+    },
+    {
+      "en": "The priest's eyes were squeezed shut against the light.",
+      "cn": "牧师紧闭双眼，以避开强光。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "priestlike",
+          "tran_cn": " 僧侣的；似教士的；祭司的"
+        },
+        {
+          "word": "priestly",
+          "tran_cn": " 祭司的；僧侣的；似教士的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "priestess",
+          "tran_cn": " 女祭司；神职人员"
+        },
+        {
+          "word": "priesthood",
+          "tran_cn": " 祭司职；神职；僧职"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cenobite",
+            "conventual",
+            "friar",
+            "monastic",
+            "monk"
+          ],
+          "tran_cn": "僧侣"
+        },
+        {
+          "words": [
+            "God",
+            "abbe",
+            "churchman",
+            "clergyman",
+            "cleric",
+            "clerical",
+            "clerk",
+            "cloth",
+            "ecclesiastic",
+            "man",
+            "minister",
+            "of",
+            "religious",
+            "reverend",
+            "servant",
+            "the",
+            "vicar"
+          ],
+          "tran_cn": "基督教的教士,教士,神父"
+        },
+        {
+          "words": [
+            "chaplain",
+            "deacon",
+            "dean",
+            "father",
+            "padre",
+            "pastor",
+            "presbyter",
+            "rector"
+          ],
+          "tran_cn": "精神领袖;"
+        },
+        {
+          "words": [
+            "archbishop",
+            "bishop",
+            "cardinal",
+            "chief",
+            "high",
+            "pontiff",
+            "pope",
+            "prelate",
+            "priest",
+            "primate"
+          ],
+          "tran_cn": "罗马教皇,主教"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "shepherd",
+            "teacher"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "high priest",
+      "tran_cn": "大祭司；主教；主要人物；领袖"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "神父，牧师，司铎，司祭，领导者，神甫",
+      "tran_en": "someone who is specially trained to perform religious duties and ceremonies in the Christian church"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使成为神职人员；任命…为祭司"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "priests"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "word": "remorseless",
+  "ipa": {
+    "us": "rɪˈmɔ:sləs",
+    "uk": "rɪˈmɔrsləs"
+  },
+  "sentences": [
+    {
+      "en": "a remorseless murderer",
+      "cn": "一个冷酷的杀手"
+    },
+    {
+      "en": "the remorseless increase in crime",
+      "cn": "犯罪的持续增长"
+    },
+    {
+      "en": "the remorseless winter winds",
+      "cn": "持续不断的冬风"
+    },
+    {
+      "en": "Unemployment continued its remorseless rise.",
+      "cn": "失业率持续上升."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "remorselessly",
+          "tran_cn": " 无悔意地；冷酷地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "remorse",
+          "tran_cn": " 懊悔；同情"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "tough",
+            "frozen",
+            "grim"
+          ],
+          "tran_cn": "冷酷的；不知过错的；坚持不懈的；不屈不挠的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "barbaric"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<书>（尤指不愉快的情形）持续恶化的，残酷的，无情的，无同情心的",
+      "tran_en": "cruel, and not caring how much other people are hurt"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "remorselessly"
+    ]
+  }
+}

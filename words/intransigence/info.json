@@ -1,0 +1,67 @@
+{
+  "word": "intransigence",
+  "ipa": {
+    "us": "ɪn'trænsɪdʒəns",
+    "uk": "ɪnˈtrænsədʒəns"
+  },
+  "sentences": [
+    {
+      "en": "He often appeared angry and frustrated by the intransigence of both sides.",
+      "cn": "他似乎常常为双方各不相让而生气沮丧。"
+    },
+    {
+      "en": "Yet for North Korea, intransigence is the norm.",
+      "cn": "不过对朝鲜来说, 决不妥协是其一贯作风."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "intransigent",
+          "tran_cn": " 不妥协的；不让步的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "intransigency",
+          "tran_cn": " 不妥协态度；不让步"
+        },
+        {
+          "word": "intransigent",
+          "tran_cn": " 不妥协的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "disharmony",
+            "dissonance"
+          ],
+          "tran_cn": "不妥协；不让步；不调和"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "不妥协，不让步"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "intransigent"
+    ]
+  }
+}

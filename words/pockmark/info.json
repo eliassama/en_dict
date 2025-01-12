@@ -1,0 +1,67 @@
+{
+  "word": "pockmark",
+  "ipa": {
+    "us": "ˈpɒkmɑ:k",
+    "uk": "ˈpɑkmɑrk"
+  },
+  "sentences": [
+    {
+      "en": "Availability: The color is uneven, flesh and so on dark pouches, pockmark.",
+      "cn": "适用肌肤: 肤色不均 、 黑眼圈 、 痘疤等肌肤."
+    },
+    {
+      "en": "She has a poor complexion and pockmarks on her forehead.",
+      "cn": "她面色不佳，额头上有一些麻子。"
+    },
+    {
+      "en": "Small bodies of water pockmark the flat face of the area.",
+      "cn": "那地区平坦的地面上坑坑洼洼地布满了小水潭."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pocked",
+          "tran_cn": " 满是凹痕的；麻子的"
+        },
+        {
+          "word": "pockmarked",
+          "tran_cn": " 有痘疮的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "pocked",
+          "tran_cn": " 使有麻子（pock的过去式）"
+        },
+        {
+          "word": "pockmarked",
+          "tran_cn": " 使有痘痕；使有凹痕（pockmark的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "痘痕，麻子",
+      "tran_en": "a hollow mark on someone’s skin or on the surface of something"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使留下痘疤；使有凹坑"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "pockmarks"
+    ]
+  }
+}

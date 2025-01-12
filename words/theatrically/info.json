@@ -1,0 +1,58 @@
+{
+  "word": "theatrically",
+  "ipa": {
+    "us": "θɪ'ætrɪklɪ",
+    "uk": "θɪ'ætrɪklɪ"
+  },
+  "sentences": [
+    {
+      "en": "He looked theatrically at his watch.",
+      "cn": "他夸张地看看表。"
+    },
+    {
+      "en": "He theatrically turned his head to watch a butterfly flutter by.",
+      "cn": "他戏剧化的转头看飞过的蝴蝶。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "theatrical",
+          "tran_cn": " 戏剧性的；剧场的，戏剧的；夸张的；做作的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "theater",
+          "tran_cn": " 电影院，戏院，剧场；戏剧；手术室"
+        },
+        {
+          "word": "theatre",
+          "tran_cn": " 电影院，戏院；戏剧；阶梯式讲堂"
+        },
+        {
+          "word": "theatricality",
+          "tran_cn": " 戏剧风格；不自然；夸张"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "戏剧化地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "theatrical"
+    ]
+  }
+}

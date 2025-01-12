@@ -1,0 +1,186 @@
+{
+  "word": "disagree",
+  "ipa": {
+    "us": "ˌdɪsəˈɡriː",
+    "uk": "ˌdɪsəˈɡriː"
+  },
+  "sentences": [
+    {
+      "en": "\"I think it is inappropriate.\" — \"I disagree.\"",
+      "cn": "“我认为这不妥。”——“我不这么看。”"
+    },
+    {
+      "en": "Barr strongly disagreed with Kronfeld’s statement.",
+      "cn": "巴尔强烈反对克龙费尔德的说法。"
+    },
+    {
+      "en": "European farm ministers disagree among themselves.",
+      "cn": "欧洲各国的农业部长之间意见不一致。"
+    },
+    {
+      "en": "Even friends disagree sometimes.",
+      "cn": "即便是朋友有时也有分歧。"
+    },
+    {
+      "en": "He likes to fight it out whenever others disagree with him.",
+      "cn": "当别人与他意见不一致时,他总喜欢争个明白."
+    },
+    {
+      "en": "I disagree with Andrew Russell over his piece on British Rail.",
+      "cn": "我不同意安德鲁·拉塞尔那篇关于英国铁路公司的文章。"
+    },
+    {
+      "en": "I disagree with drug laws in general.",
+      "cn": "总的来说，我反对药品法。"
+    },
+    {
+      "en": "I disagree with you, but don't let's make a thing of it!",
+      "cn": "我不同意你的观点, 但是我们不要把这点看得过重."
+    },
+    {
+      "en": "I strongly disagree with this amoral approach to politics.",
+      "cn": "我强烈反对这种对待政治不辨是非的态度。"
+    },
+    {
+      "en": "I'vemade this argument, and not a few people would disagree with me.",
+      "cn": "我提出了此论点，而这会是相当多的人都不同意的。"
+    },
+    {
+      "en": "Local public housing authorities disagree with this reading of the law.",
+      "cn": "当地的公共住房管理当局不同意对该法律的这种解读。"
+    },
+    {
+      "en": "Orange juice seems to disagree with some babies.",
+      "cn": "橙汁似乎不适合某些婴儿饮用。"
+    },
+    {
+      "en": "Scientists disagree about how the universe was created.",
+      "cn": "科学家对宇宙是怎样形成的有分歧。"
+    },
+    {
+      "en": "She'll probably disagree, though it's worth trying.",
+      "cn": "她很可能不同意, 但不妨去试一下."
+    },
+    {
+      "en": "The statements of several witnesses disagree.",
+      "cn": "几名证人的证词不一致。"
+    },
+    {
+      "en": "They can communicate even when they strongly disagree.",
+      "cn": "即便在有很大分歧时，他们也还是能够交流。"
+    },
+    {
+      "en": "You and I are going to have to agree to disagree then.",
+      "cn": "那你我只能各自保留不同意见了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disagreeable",
+          "tran_cn": " 不愉快的；厌恶的；不为人喜的；难相处的；脾气坏的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "disagreeably",
+          "tran_cn": " 不合口味地；不愉快地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disagreement",
+          "tran_cn": " 不一致；争论；意见不同"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "argue",
+            "clash",
+            "conflict",
+            "differ",
+            "dispute",
+            "dissent",
+            "fight",
+            "quarrel",
+            "spat",
+            "squabble"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "conflict",
+            "differ",
+            "dispute",
+            "quarrel"
+          ],
+          "tran_cn": "不一致,争吵"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "agree to disagree",
+      "tran_cn": "消除分歧，求同存异；同意各自保留不同意见"
+    },
+    {
+      "phrase": "disagree about",
+      "tran_cn": "在…方面意见不统一；对…意见不一"
+    },
+    {
+      "phrase": "disagree on",
+      "tran_cn": "对…持有不同看法"
+    },
+    {
+      "phrase": "disagree with",
+      "tran_cn": "不同意；不一致；不适合"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "不同意，不一致",
+      "tran_en": "to have or express a different opinion from someone else"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "不同意，意见不合",
+      "tran_en": "to have or express a different opinion from someone else"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disagrees"
+    ],
+    "past": [
+      "disagreed"
+    ],
+    "done": [
+      "disagreed"
+    ],
+    "ing": [
+      "disagreeing"
+    ]
+  }
+}

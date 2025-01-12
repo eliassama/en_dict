@@ -1,0 +1,169 @@
+{
+  "word": "alphabet",
+  "ipa": {
+    "us": "ˈælfəbet",
+    "uk": "ˈælfəbet"
+  },
+  "sentences": [
+    {
+      "en": "A precedes B in the alphabet.",
+      "cn": "字母表上A在B的前面."
+    },
+    {
+      "en": "Any finite sequence of symbols from an alphabet A is called a string.",
+      "cn": "由字母表A中的符号所组成的任何有穷序列,被称为符号串."
+    },
+    {
+      "en": "Assign the letters of the alphabet their numerical values — A equals 1, B equals 2, etc.",
+      "cn": "给字母表里的每个字母赋予相应的数值——A等于1，B等于2，等等。"
+    },
+    {
+      "en": "By two and a half he knew the alphabet.",
+      "cn": "两岁半时他已认识全部字母。"
+    },
+    {
+      "en": "He taught himself the alphabet of biology.",
+      "cn": "他自学了生物学的基础知识."
+    },
+    {
+      "en": "Its survival is evident in several of the letters of our alphabet today.",
+      "cn": "我们今天使用的字母表中有几个字母显然是它的残余."
+    },
+    {
+      "en": "Q comes between P and R in the English alphabet.",
+      "cn": "英语字母表中，Q在P和R之间。"
+    },
+    {
+      "en": "The alphabet is usually ascribed to the Phoenicians.",
+      "cn": "人们一般都说字母表是腓尼基人发明的."
+    },
+    {
+      "en": "The alphabet might be more rational if all the vowels came first.",
+      "cn": "如果把所有的元音列在前面，字母表可能会更为合理一些。"
+    },
+    {
+      "en": "The English alphabet has 26 letters.",
+      "cn": "英语共有二十六个字母."
+    },
+    {
+      "en": "the International Phonetic Alphabet",
+      "cn": "国际音标"
+    },
+    {
+      "en": "The letters of the alphabet are very much alike.",
+      "cn": "这些字母很相像."
+    },
+    {
+      "en": "The modern Russian alphabet has 31 letters.",
+      "cn": "现代俄语字母表有31个字母。"
+    },
+    {
+      "en": "There are 26 letters in the English alphabet.",
+      "cn": "英语字母表中有26个字母."
+    },
+    {
+      "en": "There he learned to read the 26 letters of the alphabet.",
+      "cn": "在那儿,他学会了念字母表上的26个字母."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "alphabetic",
+          "tran_cn": " 字母的；照字母次序的"
+        },
+        {
+          "word": "alphabetical",
+          "tran_cn": " 字母的；[计] 依字母顺序的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "alphabetically",
+          "tran_cn": " 照字母顺序排列地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "alphabetization",
+          "tran_cn": " 按照字母顺序排列；拼音化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "alphabetize",
+          "tran_cn": " 依字母顺序排列；用字母表示；拼音化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "ABC's",
+            "basics",
+            "beginnings",
+            "first",
+            "fundamentals",
+            "mere",
+            "principles",
+            "rudiments",
+            "steps"
+          ],
+          "tran_cn": "入门,基础"
+        },
+        {
+          "words": [
+            "characters",
+            "hieroglyphics",
+            "letters",
+            "runes",
+            "signs",
+            "symbols"
+          ],
+          "tran_cn": "字母,标记,符号"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "international phonetic alphabet",
+      "tran_cn": "国际音标；国际语音字母"
+    },
+    {
+      "phrase": "latin alphabet",
+      "tran_cn": "拉丁字母表"
+    },
+    {
+      "phrase": "phonetic alphabet",
+      "tran_cn": "n. [语]音标字母"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（一种语言的）全部字母，字母表",
+      "tran_en": "a set of letters, arranged in a particular order, and used in writing"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "alphabets"
+    ]
+  }
+}

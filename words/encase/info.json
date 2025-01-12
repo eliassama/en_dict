@@ -1,0 +1,95 @@
+{
+  "word": "encase",
+  "ipa": {
+    "us": "ɪnˈkeɪs",
+    "uk": "ɪnˈkeɪs"
+  },
+  "sentences": [
+    {
+      "en": "Accordingly, even if the bag eats encase, salary also cannot under minimum wage standard.",
+      "cn": "因此, 即使是包吃包住, 工资也不能低于最低工资标准."
+    },
+    {
+      "en": "The bag eats encase, is salary OK under minimum wage standard?",
+      "cn": "包吃包住, 工资就可以低于最低工资标准 吗 ?"
+    },
+    {
+      "en": "To is cased ; to is encase.",
+      "cn": "用木箱装."
+    },
+    {
+      "en": "When nuclear fuel is manufactured it is encased in metal cans.",
+      "cn": "核燃料生产出来时被装在金属罐中。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "encased",
+          "tran_cn": " 包装的；被包住的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "encasement",
+          "tran_cn": " [交] 装箱；套；包装"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "encased",
+          "tran_cn": " 盖住；包起；装箱（encase的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "pack",
+            "enclose"
+          ],
+          "tran_cn": "包住；围绕；包装"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "包住；围绕；包装",
+      "tran_en": "to cover or surround something completely"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "包装，围绕，把…装箱",
+      "tran_en": "to cover or surround something completely"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "encases"
+    ],
+    "past": [
+      "encased"
+    ],
+    "done": [
+      "encased"
+    ],
+    "ing": [
+      "encasing"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "word": "substitution",
+  "ipa": {
+    "us": "ˌsʌbstɪ'tjuːʃ(ə)n",
+    "uk": "ˌsʌbstɪ'tuʃ(ə)n"
+  },
+  "sentences": [
+    {
+      "en": "Amines can engage in nucleophile substitution reaction with alky.",
+      "cn": "胺能参加与卤代烷的亲核取代反应."
+    },
+    {
+      "en": "Bridged bicyclooctanes gave no significant bridgehead substitution.",
+      "cn": "桥二环辛烷不给出有意义的桥头取代."
+    },
+    {
+      "en": "Coach Ross made two substitutions in the second half.",
+      "cn": "罗斯教练在下半场两次换人。"
+    },
+    {
+      "en": "For the moment, she could scarcely forgive the substitution.",
+      "cn": "这会儿, 她没法子宽恕这种更替."
+    },
+    {
+      "en": "In my experience a straight substitution of carob for chocolate doesn'twork.",
+      "cn": "根据我的经验，用角豆制品直接代替巧克力行不通。"
+    },
+    {
+      "en": "Many groups can be added by nucleophilic substitution on a diazonium salt.",
+      "cn": "许多基团可通过向得自胶的重氮盐作亲核取代而加以导入."
+    },
+    {
+      "en": "Most direct substitution of groups bound to an aromatic nucleus is limited to diazonium salts.",
+      "cn": "大多数连于芳核能被直接取代的基团仅限于重氮盐."
+    },
+    {
+      "en": "Severe steric effects at the reactive carbon would impede the substitution.",
+      "cn": "大的立体效应阻止在碳上的取代."
+    },
+    {
+      "en": "Substitution, No.3 for No.4.",
+      "cn": "换人,4号下, 3号上."
+    },
+    {
+      "en": "Substitution: Player No. 4 for No. 3.",
+      "cn": "换人: 3号下,4号上."
+    },
+    {
+      "en": "The procedure for solving the Eqs is called back substitution.",
+      "cn": "解方程组的这一步骤叫回代."
+    },
+    {
+      "en": "The substitution of a purine for a pyrimidine, or vice versa is a transversion.",
+      "cn": "嘌呤为嘧啶取代或嘧啶为嘌呤所取代,叫做颠换."
+    },
+    {
+      "en": "The tendency to substitution may be overborne by a contrary tendency.",
+      "cn": "替代的趋势也许会被一种相反的趋势所压倒."
+    },
+    {
+      "en": "The trigonometric terms should be changed by the substitution of the equations involving the double angles.",
+      "cn": "用倍角公式代换三角函数项."
+    },
+    {
+      "en": "We see immediately that after substitution the real part of each term is 0.",
+      "cn": "我们立即看出,在代换之后,每项的实数皆为零."
+    },
+    {
+      "en": "We use saccharin in substitution for sugar.",
+      "cn": "我们用糖精代替糖."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "substitutable",
+          "tran_cn": " 可替换的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "substitutability",
+          "tran_cn": " [计] 可代换性；[计] 可置换性"
+        },
+        {
+          "word": "substitute",
+          "tran_cn": " 代用品；代替者"
+        },
+        {
+          "word": "substituting",
+          "tran_cn": " 取代；代入"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "substituting",
+          "tran_cn": " 代替，取代（substitute的现在分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "substitute",
+          "tran_cn": " 替代"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "substitute",
+          "tran_cn": " 代替"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "lieu",
+            "stead"
+          ],
+          "tran_cn": "代替；[数]置换；代替物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "degree of substitution",
+      "tran_cn": "取代度；饱和度；代换的次数"
+    },
+    {
+      "phrase": "direct substitution",
+      "tran_cn": "直接取代"
+    },
+    {
+      "phrase": "elasticity of substitution",
+      "tran_cn": "替代弹性"
+    },
+    {
+      "phrase": "import substitution",
+      "tran_cn": "进口替代"
+    },
+    {
+      "phrase": "substitution effect",
+      "tran_cn": "替代效应"
+    },
+    {
+      "phrase": "substitution method",
+      "tran_cn": "代入法；替换法"
+    },
+    {
+      "phrase": "substitution reaction",
+      "tran_cn": "取代反应；置换反应"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "代替，代用，替换，<化>取代（作用）",
+      "tran_en": "when someone or something is replaced by someone or something else, or the person or thing being replaced"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "substitutions"
+    ]
+  }
+}

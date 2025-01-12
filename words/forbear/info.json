@@ -1,0 +1,195 @@
+{
+  "word": "forbear",
+  "ipa": {
+    "us": "fɔ:ˈbeə(r)",
+    "uk": "fɔrˈber"
+  },
+  "sentences": [
+    {
+      "en": "Being old and sly , I forbear to call out.",
+      "cn": "我上了年纪,人又机灵, 所以并没声张."
+    },
+    {
+      "en": "He forbear from take any further action.",
+      "cn": "他克制自己不采取任何进一步的行动."
+    },
+    {
+      "en": "I cannot forbear from expressing my opinion about your recent mistakes.",
+      "cn": "对于你最近的一些错误我不能不表示我的意见."
+    },
+    {
+      "en": "I cannot forbear to go into details.",
+      "cn": "我不得不详细说."
+    },
+    {
+      "en": "I could not forbear smiling.",
+      "cn": "我忍不住微笑."
+    },
+    {
+      "en": "I could scarcely forbear from laughing out loud.",
+      "cn": "我忍不住笑出声来."
+    },
+    {
+      "en": "I forbear to go into details.",
+      "cn": "我不欲详述."
+    },
+    {
+      "en": "I forbear to tell his name.",
+      "cn": "我不愿说出他的名字."
+    },
+    {
+      "en": "I forbore to comment on this.",
+      "cn": "我不欲评论它"
+    },
+    {
+      "en": "I wanted to curse him, but I had to forbear.",
+      "cn": "我想骂他, 但是忍住了."
+    },
+    {
+      "en": "She could not forbear crying out.",
+      "cn": "她禁不住叫喊出来."
+    },
+    {
+      "en": "She should try to forbear from saying such cruel things.",
+      "cn": "她应该设法忍住不说这类残酷的事."
+    },
+    {
+      "en": "The wounded man could not forbear to cry out.",
+      "cn": "受伤的人忍不住哭起来."
+    },
+    {
+      "en": "We begged him to forbear.",
+      "cn": "我们恳求他忍耐."
+    },
+    {
+      "en": "We have to forbear our angry feelings.",
+      "cn": "我们得忍住脾气."
+    },
+    {
+      "en": "We should forbear to go into details.",
+      "cn": "我们应避免详述."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "forbearing",
+          "tran_cn": " 宽容的；忍耐的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "forbearance",
+          "tran_cn": " 自制，忍耐；宽容"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "forbearing",
+          "tran_cn": " 克制（forbear的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "father",
+            "root"
+          ],
+          "tran_cn": "祖先"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abstain",
+            "ancestor",
+            "avoid",
+            "refrain"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "resist",
+            "to endure"
+          ],
+          "tran_cn": "忍耐；克制"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abstain",
+            "avoid",
+            "back",
+            "control",
+            "hold",
+            "oneself",
+            "refrain"
+          ],
+          "tran_cn": "节制;抑制自己"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bear and forbear",
+      "tran_cn": "[古语]一忍再忍"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "祖先",
+      "tran_en": "a  forebear "
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 克制； 忍耐",
+      "tran_en": "to not do something you could or would like to do because you think it is wiser not to"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "<正>（尤指为表示礼貌或耐心而）克制，忍耐，容忍"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "forbears"
+    ],
+    "past": [
+      "forbore"
+    ],
+    "done": [
+      "forborne"
+    ],
+    "ing": [
+      "forbearing"
+    ]
+  }
+}

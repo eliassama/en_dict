@@ -1,0 +1,91 @@
+{
+  "word": "disenchant",
+  "ipa": {
+    "us": "ˌdɪsɪn'tʃænt",
+    "uk": "ˌdɪsɛnˈtʃænt"
+  },
+  "sentences": [
+    {
+      "en": "Disenchant - Damages all summoned units in an area.",
+      "cn": "清醒 - 伤害一定区域的所有召唤生物."
+    },
+    {
+      "en": "she is disenchanted with the marriage",
+      "cn": ""
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disenchanted",
+          "tran_cn": " 不再着迷的；不再抱幻想的；感到幻灭的"
+        },
+        {
+          "word": "disenchanting",
+          "tran_cn": " 使不再着迷的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disenchantment",
+          "tran_cn": " 醒悟，清醒；不抱幻想"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "disenchanted",
+          "tran_cn": " 使不再着迷（disenchant的过去分词）"
+        },
+        {
+          "word": "disenchanting",
+          "tran_cn": " 使不再着迷（disenchant的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "disillusion"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "soberize"
+          ],
+          "tran_cn": "使清醒；使不抱幻想"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使不抱幻想， 使清醒",
+      "tran_en": "to make disappointed or disillusioned "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使清醒，使不抱幻想"
+    }
+  ],
+  "exchange": {}
+}

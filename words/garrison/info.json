@@ -1,0 +1,170 @@
+{
+  "word": "garrison",
+  "ipa": {
+    "us": "ˈgærɪsn",
+    "uk": "ˈɡærɪsən"
+  },
+  "sentences": [
+    {
+      "en": "a garrison town",
+      "cn": "有部队驻防的城镇"
+    },
+    {
+      "en": "A garrison was stationed in the town.",
+      "cn": "卫戍部队驻扎该镇."
+    },
+    {
+      "en": "All officers wear grade insignia on the left side of garrison caps.",
+      "cn": "所有的军官都在军便帽的左边戴上阶级徽章."
+    },
+    {
+      "en": "Does your film make a hero of Jim Garrison?",
+      "cn": "您的影片是否将杰姆·加里森塑造成一名英雄人物？"
+    },
+    {
+      "en": "Half the garrison are on duty.",
+      "cn": "有半数卫戍部队在执勤。"
+    },
+    {
+      "en": "Half the garrison is / are on duty.",
+      "cn": "有半数卫戍部队在执勤."
+    },
+    {
+      "en": "The approaches to the garrison have been heavily mined.",
+      "cn": "通往驻防地的道路上地雷密布。"
+    },
+    {
+      "en": "The besiegers hungered the garrison into surrender.",
+      "cn": "围攻者使守军饿得只好投降."
+    },
+    {
+      "en": "The garrison fought off the attackers.",
+      "cn": "驻军击退了袭击者."
+    },
+    {
+      "en": "The garrison musters eighty men.",
+      "cn": "驻军共有八十名."
+    },
+    {
+      "en": "The garrison was alert, but too few.",
+      "cn": "驻防的军队是保持警惕的, 但是人数毕竟太少了."
+    },
+    {
+      "en": "The garrison was called out when news of the enemy’s advance was received.",
+      "cn": "收到敌人推进的情报后，卫戍部队奉命出动。"
+    },
+    {
+      "en": "The garrison was immediately withdrawn.",
+      "cn": "警卫部队被立即撤了回来."
+    },
+    {
+      "en": "The German was moving to stiffen up the garrison in Sicily.",
+      "cn": "德军正在加强西西里守军之力量."
+    },
+    {
+      "en": "The invading army had massacred many of the garrison after capitulation.",
+      "cn": "侵略军在守军投降后仍将多人屠杀了."
+    },
+    {
+      "en": "The Prussian garrison at Charleroi was falling back.",
+      "cn": "普鲁士驻沙勒罗瓦的部队正在撤退。"
+    },
+    {
+      "en": "The troops came to the relief of the besieged garrison.",
+      "cn": "军队来援救被围的守备军."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "battalion",
+            "company",
+            "military",
+            "regiment",
+            "troop",
+            "unit"
+          ],
+          "tran_cn": "军队,军团"
+        },
+        {
+          "words": [
+            "fort",
+            "stronghold"
+          ],
+          "tran_cn": "要塞"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "battalion",
+            "brigade",
+            "company",
+            "fort",
+            "regiment",
+            "stronghold",
+            "troop"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "sentinel"
+          ],
+          "tran_cn": "驻防；守卫"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in garrison",
+      "tran_cn": "驻防的，执行卫戍任务的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "守备部队，卫戍部队，要塞，驻防区，加里森",
+      "tran_en": "a group of soldiers living in a town or fort and defending it"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "驻防；守卫",
+      "tran_en": "to send a group of soldiers to defend or guard a place"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "守卫，驻防"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "garrisons"
+    ],
+    "third": [
+      "garrisons"
+    ],
+    "past": [
+      "garrisoned"
+    ],
+    "done": [
+      "garrisoned"
+    ],
+    "ing": [
+      "garrisoning"
+    ]
+  }
+}

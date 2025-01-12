@@ -1,0 +1,210 @@
+{
+  "word": "adapt",
+  "ipa": {
+    "us": "əˈdæpt",
+    "uk": " əˈdæpt"
+  },
+  "sentences": [
+    {
+      "en": "Although these vegetables adapt well to our temperate climate, they tend to crop poorly.",
+      "cn": "虽然这些蔬菜作物很适应我们这里温和的气候，它们的收成却很差。"
+    },
+    {
+      "en": "Buddhism had to adapt to the new world or perish.",
+      "cn": "佛教必须适应新时代，否则将会消亡。"
+    },
+    {
+      "en": "He is going to adapt his play for television.",
+      "cn": "他想把他的剧本改编成电视剧."
+    },
+    {
+      "en": "It is through our nervous system that we adapt ourselves to our environment and to all external stimuli.",
+      "cn": "我们是通过神经系统使自己适应环境及所有外部刺激的。"
+    },
+    {
+      "en": "Many children buy books after they have been adapted for television.",
+      "cn": "许多小孩子都是在书被改编成电视剧之后才去买的。"
+    },
+    {
+      "en": "She knew how to adapt herself.",
+      "cn": "她懂得如何适应环境."
+    },
+    {
+      "en": "She lacked the ability to adapt easily.",
+      "cn": "她缺少适应能力."
+    },
+    {
+      "en": "Shelves were built to adapt the library for use as an office.",
+      "cn": "为将图书馆改作办公室而做了一些架子。"
+    },
+    {
+      "en": "The ability to adapt is a definite asset in this job.",
+      "cn": "适应能力是做这份工作的绝对有利条件。"
+    },
+    {
+      "en": "The scriptwriter helped him to adapt his novel for the screen.",
+      "cn": "编剧帮助他将其所著小说改编成电影。"
+    },
+    {
+      "en": "The shoes adapt me well.",
+      "cn": "这鞋我穿正好."
+    },
+    {
+      "en": "The world will be different, and we will have to be prepared to adapt to the change.",
+      "cn": "世界会变得不同，我们必须做好准备以适应其变化。"
+    },
+    {
+      "en": "They have had to adapt themselves to a war economy.",
+      "cn": "他们不得不适应战时经济。"
+    },
+    {
+      "en": "We must constantly adapt and innovate to ensure success in a growing market.",
+      "cn": "我们必须不时地适应并创新，以确保在不断扩大的市场中取得成功。"
+    },
+    {
+      "en": "When I adapt something I translate from one meaning to another as faithfully as I can.",
+      "cn": "我改编东西的时候，会尽可能忠实地将意思表达出来。"
+    },
+    {
+      "en": "You should adapt yourself to the new environment.",
+      "cn": "你应该适应新环境."
+    },
+    {
+      "en": "Yulan magnolia can adapt to a variety of soils.",
+      "cn": "玉兰花能适应各种土壤."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "adaptable",
+          "tran_cn": " 适合的；能适应的；可修改的"
+        },
+        {
+          "word": "adaptive",
+          "tran_cn": " 适应的，适合的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "adaptability",
+          "tran_cn": " 适应性；可变性；适合性"
+        },
+        {
+          "word": "adaptation",
+          "tran_cn": " 适应；改编；改编本，改写本"
+        },
+        {
+          "word": "adapter",
+          "tran_cn": " 适配器；改编者；接合器；适应者"
+        },
+        {
+          "word": "adaption",
+          "tran_cn": " 适应；改编本"
+        },
+        {
+          "word": "adaptor",
+          "tran_cn": " [通信] 适配器；（美）改编者；转接器（等于adapter）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acclimate",
+            "accommodate",
+            "adjust",
+            "alter",
+            "arrange",
+            "change",
+            "coordinate",
+            "differentiate",
+            "harmonize",
+            "mobilize",
+            "modify",
+            "qualify",
+            "shape",
+            "vary"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "adjust",
+            "accomodate to",
+            "accommodate to"
+          ],
+          "tran_cn": "适应"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "adjust",
+            "alter",
+            "change",
+            "fit",
+            "make",
+            "modify",
+            "suitable",
+            "vary"
+          ],
+          "tran_cn": "修改;使适应"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "adapt for",
+      "tran_cn": "调整，使适合于；为…改编"
+    },
+    {
+      "phrase": "adapt to something",
+      "tran_cn": "（使）适合；（使）适应"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（使）适应/适合，改编，改造",
+      "tran_en": "to gradually change your behaviour and attitudes in order to be successful in a new situation"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（使）适应",
+      "tran_en": "to gradually change your behaviour and attitudes in order to be successful in a new situation"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "adapts"
+    ],
+    "past": [
+      "adapted"
+    ],
+    "done": [
+      "adapted"
+    ],
+    "ing": [
+      "adapting"
+    ]
+  }
+}

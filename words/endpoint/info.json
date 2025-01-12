@@ -1,0 +1,104 @@
+{
+  "word": "endpoint",
+  "ipa": {
+    "us": "'endpɔɪt",
+    "uk": "'endˌpɔɪnt"
+  },
+  "sentences": [
+    {
+      "en": "A quick and convenient method was used for controlling esterification endpoint.",
+      "cn": "并提出一种快速、简易的反应终点控制方法."
+    },
+    {
+      "en": "An address has not yet been associated with the network endpoint.",
+      "cn": "地址仍未与网络终结点关联."
+    },
+    {
+      "en": "An algorithm for speech endpoint detection based on time - frequency - variance - summation was proposed.",
+      "cn": "提出了一种基于时频方差和的语音端点检测算法."
+    },
+    {
+      "en": "Arrow - shaped line pointing right. Drag an endpoint to change the arrow's direction.",
+      "cn": "指向右的箭头形线条. 拖动端点可更改箭头的方向."
+    },
+    {
+      "en": "But is there an endpoint?",
+      "cn": "但是这是否有一个终点？"
+    },
+    {
+      "en": "Endpoint detection is a very difficult task in the noise environment.",
+      "cn": "在噪声环境下,语音端点检测很困难."
+    },
+    {
+      "en": "For our tutorial, we only have one endpoint.",
+      "cn": "对于本教程，我们仅有一个端点。"
+    },
+    {
+      "en": "Lowry is not an endpoint assay , so samples should be staggered to obtain more accurate estimates.",
+      "cn": "Lowry法 不是一种endpoint分析方法, 所以样品要做梯度稀释,以得到更准确的估值."
+    },
+    {
+      "en": "No endpoint was found.",
+      "cn": "找不到终结点."
+    },
+    {
+      "en": "The accuracy of speech recognition directly depends on accurate endpoint detection.",
+      "cn": "语音端点检测的精确度直接影响语音识别的准确度."
+    },
+    {
+      "en": "The endpoint cannot be created.",
+      "cn": "无法创建终结点."
+    },
+    {
+      "en": "The endpoint format is invalid.",
+      "cn": "终结点格式无效."
+    },
+    {
+      "en": "The endpoint mapper database entry could not be created.",
+      "cn": "无法创建终结点映射表数据库项."
+    },
+    {
+      "en": "The network transport endpoint already has an address associated with it.",
+      "cn": "网络传输终结点已有与其关联的地址."
+    },
+    {
+      "en": "The server endpoint cannot perform the operation.",
+      "cn": "服务器终结点无法运行操作."
+    },
+    {
+      "en": "The use of an average minimizes the endpoint error.",
+      "cn": "这种对端点取平均的做法使测量误差减到最少."
+    },
+    {
+      "en": "Then I glean the service and port in the WSDL implementation that provides an endpoint for this binding.",
+      "cn": "然后，我在 WSDL 实现中收集服务和端口，该实现为这个绑定提供一个端点。"
+    },
+    {
+      "en": "This paper set up soft - sensor model of crude gasoline endpoint.",
+      "cn": "建立了粗汽油干点软测量模型."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bottom",
+            "termination point"
+          ],
+          "tran_cn": "端点；末端，终结点"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "端点，终点"
+    }
+  ],
+  "exchange": {}
+}

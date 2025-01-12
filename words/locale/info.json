@@ -1,0 +1,125 @@
+{
+  "word": "locale",
+  "ipa": {
+    "us": "ləʊˈkɑ:l",
+    "uk": "loʊˈkæl"
+  },
+  "sentences": [
+    {
+      "en": "An amusement park is the perfect locale for a bunch of irrepressible youngsters to have all sorts of adventures.",
+      "cn": "游乐场是一帮精力过剩的年轻人寻求各种惊险刺激的绝佳场所。"
+    },
+    {
+      "en": "Compile, correct and improve process file and locale work file.",
+      "cn": "工艺文件及现场作业文件的编制 、 更改、完善."
+    },
+    {
+      "en": "Digging locale's environment is execrable, so it is unsuitable for operator's fieldwork.",
+      "cn": "挖掘现场环境恶劣, 操作人员不宜在现场工作."
+    },
+    {
+      "en": "Indicates a locale under which to compare strings within the cache.",
+      "cn": "指示在缓存中比较字符串时所用的区域设置."
+    },
+    {
+      "en": "Indicates a locale under which to compare strings within the DataSet.",
+      "cn": "指示在数据集中比较字符串时所用的区域设置."
+    },
+    {
+      "en": "Manage the production locale. assure it is according with the factory rules.",
+      "cn": "管理生产现场, 确保生产现场符合公司及工厂相关规定."
+    },
+    {
+      "en": "Note: These functions depend on the locale settings of the server!",
+      "cn": "注意: 这些函数依赖于服务器的地区设置."
+    },
+    {
+      "en": "Participate in the 5 S locale management and quality improvement project.",
+      "cn": "参与5S现场管理和质量改进项目."
+    },
+    {
+      "en": "people who see the countryside as a locale for recreation",
+      "cn": "把乡间视为娱乐消遣之地的人"
+    },
+    {
+      "en": "The character code, considering the current keyboard states and input locale.",
+      "cn": "字符代码, 考虑到最近的键盘状况和输入场所."
+    },
+    {
+      "en": "The director is looking for a suitable locale for his new film.",
+      "cn": "导演在为新片物色合适的拍摄场地."
+    },
+    {
+      "en": "The LC _ COLLATE specification is the most complicated of all locale categories.",
+      "cn": "COLLATE规则是所有区域设置类别中最复杂的."
+    },
+    {
+      "en": "The retrofit included thermal calculation, cold simulation and hot - state experiment, locale construction.",
+      "cn": "本次改造分为热力计算 、 冷热态试验 、 现场改造几个方面."
+    },
+    {
+      "en": "There are more than twenty domestic and overseas artists doing locale Performance.",
+      "cn": "届时将有20几位国内外艺术家作现场表演."
+    },
+    {
+      "en": "This means that they not account any locale settings when doing conversion.",
+      "cn": "这意味着它们在执行转换时不考虑任何区域设置."
+    },
+    {
+      "en": "To change system or user locale settings, click Customize.",
+      "cn": "要改变系统或用户区域设置, 请单击“自定义”."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "locality",
+          "tran_cn": " 所在；位置；地点"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "site",
+            "ubication"
+          ],
+          "tran_cn": "场所，现场"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "habitat",
+            "seat",
+            "surroundings",
+            "whereabouts"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（事件发生的）场所或地点",
+      "tran_en": "the place where something happens or where the action takes place in a book or a film"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "locales"
+    ]
+  }
+}

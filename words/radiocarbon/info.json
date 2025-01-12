@@ -1,0 +1,104 @@
+{
+  "word": "radiocarbon",
+  "ipa": {
+    "us": "ˌreɪdiəʊˈkɑ:bən",
+    "uk": "ˌreɪdioʊˈkɑrbən"
+  },
+  "sentences": [
+    {
+      "en": "Accelerators also used for radioisotope production, cancer therapy, Biological sterilization, and one form of radiocarbon dating.",
+      "cn": "加速器也用于制造放射性同位素 、 治疗癌症 、 生物消毒及放射性碳定年."
+    },
+    {
+      "en": "All living things contain radiocarbon.",
+      "cn": "所有生物都含有放射性碳."
+    },
+    {
+      "en": "Bacteria and bacterial residue carry additional carbon and would skew the radiocarbon date toward the present.",
+      "cn": "细菌和细菌性残余带来额外的碳,会使现时测定的年代变得不准确."
+    },
+    {
+      "en": "Researchers use radiocarbon to study certain biological processes.",
+      "cn": "研究人员借助放射性碳来研究某些生物过程."
+    },
+    {
+      "en": "The material in this beach has been dated by radiocarbon.",
+      "cn": "这个海滩上的物质经过放射性碳测定."
+    },
+    {
+      "en": "The most frequently used method is radiocarbon dating.",
+      "cn": "最常用的方法是放射性碳定年法。"
+    },
+    {
+      "en": "The reliability of radiocarbon dating depends on the reliability of dating material.",
+      "cn": "14C年龄的可靠性在于测年物质的可靠."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "radioactive",
+          "tran_cn": " [核] 放射性的；有辐射的"
+        },
+        {
+          "word": "radiolarian",
+          "tran_cn": " 放射虫类的"
+        },
+        {
+          "word": "radiological",
+          "tran_cn": " 放射学的；放射线学的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "radioactivity",
+          "tran_cn": " 放射性；[核] 放射能力；[核] 放射现象"
+        },
+        {
+          "word": "radiobiology",
+          "tran_cn": " [生物物理] 放射生物学"
+        },
+        {
+          "word": "radiochemistry",
+          "tran_cn": " [核] 放射化学"
+        },
+        {
+          "word": "radiographer",
+          "tran_cn": " 放射线技师，X光照相师"
+        },
+        {
+          "word": "radiography",
+          "tran_cn": " [核] 放射线照相术；X光线照相术"
+        },
+        {
+          "word": "radioimmunoassay",
+          "tran_cn": " 放射免疫检定法"
+        },
+        {
+          "word": "radiolarian",
+          "tran_cn": " 放射虫"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "radiocarbon dating",
+      "tran_cn": "放射性碳测定年代；碳同位素年龄测定"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "放射性碳，碳的放射性同位元素",
+      "tran_en": "Radiocarbon is a type of carbon that is radioactive, and which therefore breaks up slowly at a regular rate. Its presence in an object can be measured in order to find out how old the object is. "
+    }
+  ],
+  "exchange": {}
+}

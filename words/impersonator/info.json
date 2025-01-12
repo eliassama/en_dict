@@ -1,0 +1,87 @@
+{
+  "word": "impersonator",
+  "ipa": {
+    "us": "ɪmˈpɜ:səneɪtə(r)",
+    "uk": "ɪmˈpɜrsəneɪtə(r)"
+  },
+  "sentences": [
+    {
+      "en": "a female impersonator",
+      "cn": "男扮女装的表演者"
+    },
+    {
+      "en": "Did she happen to mention that she's a female impersonator?",
+      "cn": "她说过自己是个异装模仿艺人 吗 ?"
+    },
+    {
+      "en": "Lin Daiyu is so and her impersonator Chen Xiaoxu re - acted the play in her real life.",
+      "cn": "林黛玉的扮演者陈晓旭,就同她所扮演的角色那样,生命在美丽和短暂之中匆匆谢幕."
+    },
+    {
+      "en": "Nixon's voice actually turned out to be that of impersonator Rich Little.",
+      "cn": "实际上,尼克森的声音是由一位名叫里奇?利特尔的演员模仿的."
+    },
+    {
+      "en": "The Next Best Thing: Who Is the Greatest Celebrity Impersonator?",
+      "cn": "下个最佳: 谁是最著名的演员?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "impersonation",
+          "tran_cn": " 扮演；模仿；装扮"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "impersonate",
+          "tran_cn": " 扮演；模仿；拟人，人格化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "player",
+            "stager"
+          ],
+          "tran_cn": "演员；模拟艺人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "player"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "演员，模拟（名人等的）艺人",
+      "tran_en": "someone who copies the way that other people look, speak, and behave, as part of a performance"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "impersonators"
+    ]
+  }
+}

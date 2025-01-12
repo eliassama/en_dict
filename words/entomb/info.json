@@ -1,0 +1,80 @@
+{
+  "word": "entomb",
+  "ipa": {
+    "us": "ɪnˈtu:m",
+    "uk": "ɛnˈtum"
+  },
+  "sentences": [
+    {
+      "en": "The city was entombed in volcanic lava.",
+      "cn": "那个城市被火山熔岩掩埋了。"
+    },
+    {
+      "en": "Workers are still trying to entomb the reactor in concrete.",
+      "cn": "工人们仍然正在设法用混凝土把反应堆埋起来."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "entombment",
+          "tran_cn": " 埋葬；埋没"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "enshrine",
+            "inter"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bury",
+            "tomb"
+          ],
+          "tran_cn": "埋葬；成为…的坟墓"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "埋葬, 成为的坟墓",
+      "tran_en": "to bury or trap someone in something or under the ground"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "埋葬，成为…的坟墓"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "entombs"
+    ],
+    "past": [
+      "entombed"
+    ],
+    "done": [
+      "entombed"
+    ],
+    "ing": [
+      "entombing"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "word": "smirch",
+  "ipa": {
+    "us": "smɜ:tʃ",
+    "uk": "smətʃ"
+  },
+  "sentences": [
+    {
+      "en": "The compound material of resin matrix may produce serious smirch phenomenon during the minute hole drilling.",
+      "cn": "以树脂为基体的复合材料在微孔加工中会产生严重污斑现象."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "jaup",
+            "tainture"
+          ],
+          "tran_cn": "污点"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cloud",
+            "dishonor",
+            "shame",
+            "smoke"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "soil",
+            "mud",
+            "spot",
+            "dirty"
+          ],
+          "tran_cn": "弄脏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": " 污点"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "弄脏",
+      "tran_en": "to dirty; soil "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<正>弄脏，玷污，污辱"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "smirches"
+    ],
+    "past": [
+      "smirched"
+    ],
+    "done": [
+      "smirched"
+    ],
+    "ing": [
+      "smirching"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "word": "lachrymose",
+  "ipa": {
+    "us": "ˈlækrɪməʊs",
+    "uk": "ˈlækrɪmoʊs"
+  },
+  "sentences": [
+    {
+      "en": "...the tears of lachrymose mourners.",
+      "cn": "...止不住哭泣的送葬者的泪水。"
+    },
+    {
+      "en": "I suppose Catherine fulfilled her project, for the next sentence took up another subject: she waxed lachrymose.",
+      "cn": "我想凯瑟琳结束了这个话题，因为接下来的句子开始了另一话题：她极伤心的哭泣。"
+    },
+    {
+      "en": "Maybe if you moved away from Lake Lachrymose you might feel better.",
+      "cn": "也许搬离这悲哀之湖会让你好受一些."
+    },
+    {
+      "en": "She waxed lachrymose.",
+      "cn": "她伤心起来了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "lachrymal",
+          "tran_cn": " 泪腺的；流泪的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "lachrymal",
+          "tran_cn": " 泪腺"
+        },
+        {
+          "word": "lachrymation",
+          "tran_cn": " 流泪；流涎"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "sad",
+            "lacrimose"
+          ],
+          "tran_cn": "爱哭的，易流泪的；悲哀的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "tearful"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "眼泪的，哭泣的",
+      "tran_en": "often crying"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,204 @@
+{
+  "word": "dodge",
+  "ipa": {
+    "us": "dɒdʒ",
+    "uk": "dɑːdʒ"
+  },
+  "sentences": [
+    {
+      "en": "A dodge behind a tree kept her from being run over.",
+      "cn": "她向树后一闪,才没被车从身上辗过."
+    },
+    {
+      "en": "Dodge is waiting to have a word with you.",
+      "cn": "道奇正等着和你说话."
+    },
+    {
+      "en": "Face your problem boldly instead of trying to dodge them.",
+      "cn": "要勇敢地面对你的问题,不要躲避它们."
+    },
+    {
+      "en": "He is able to dodge out of the way.",
+      "cn": "他能够及时逃避."
+    },
+    {
+      "en": "He made a sudden dodge aside.",
+      "cn": "他迅速闪避到一旁."
+    },
+    {
+      "en": "He ran across the courtyard, dodging a storm of bullets.",
+      "cn": "他跑过院子，躲避雨点般的子弹。"
+    },
+    {
+      "en": "He tried to dodge the reporters'queries.",
+      "cn": "他试图躲闪记者的询问."
+    },
+    {
+      "en": "Of course, if they pull the same dodge again, that's something else.",
+      "cn": "当然, 如果他们再用同样的诡计, 那就又当别论."
+    },
+    {
+      "en": "She was sharp - witted enough to dodge her attacker.",
+      "cn": "她才思敏捷足以避开别人的攻击."
+    },
+    {
+      "en": "The dodge was coopered by the police.",
+      "cn": "诡计被警察粉碎了."
+    },
+    {
+      "en": "The said Edmund Dodge was seen breaking into the house.",
+      "cn": "有人看到这个艾德蒙·道奇闯入那间住宅."
+    },
+    {
+      "en": "The vice president had to dodge flying tomatoes.",
+      "cn": "副总统不得不闪躲飞来的番茄."
+    },
+    {
+      "en": "They're just working some religious dodge or other, I guess.",
+      "cn": "我看,这些人无非又在搞什么宗教的把戏吧."
+    },
+    {
+      "en": "This was not just a tax dodge.",
+      "cn": "这不仅仅是逃税。"
+    },
+    {
+      "en": "To dodge the draft, he tried bribery.",
+      "cn": "为逃避兵役, 他施行贿赂."
+    },
+    {
+      "en": "Whatever you do, work hard at it and don't try to dodge the column.",
+      "cn": "无论做什么事, 都要努力去做,别偷懒."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dodgy",
+          "tran_cn": " 狡猾的，逃避的；善于骗人的；躲闪的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dodger",
+          "tran_cn": " 欺瞒者；躲避者"
+        },
+        {
+          "word": "dodging",
+          "tran_cn": " 避开；音调改变"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "dodging",
+          "tran_cn": " 闪避（dodge的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "subterfuge"
+          ],
+          "tran_cn": "躲闪；托词"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "avoid",
+            "blink",
+            "duck",
+            "elude",
+            "hedge",
+            "parry",
+            "recoil",
+            "shun",
+            "swerve"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "avoid",
+            "duck",
+            "recoil"
+          ],
+          "tran_cn": "躲避,避开"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "avoid",
+            "duck",
+            "evade"
+          ],
+          "tran_cn": "躲避"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "推脱的计策，骗人的伎俩",
+      "tran_en": "something dishonest that is done to avoid a rule or law"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "闪开，躲开，逃避",
+      "tran_en": "to move quickly to avoid someone or something"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "闪身躲开",
+      "tran_en": "to move quickly to avoid someone or something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "回避，逃避",
+      "tran_en": "to deliberately avoid discussing something or doing something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "dodges"
+    ],
+    "third": [
+      "dodges"
+    ],
+    "past": [
+      "dodged"
+    ],
+    "done": [
+      "dodged"
+    ],
+    "ing": [
+      "dodging"
+    ]
+  }
+}

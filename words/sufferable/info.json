@@ -1,0 +1,104 @@
+{
+  "word": "sufferable",
+  "ipa": {
+    "us": "'sʌfərəbəl",
+    "uk": "'sʌfərəbəl"
+  },
+  "sentences": [
+    {
+      "en": "All things are lowly, meek, sufferable and forbear one another in love.",
+      "cn": "凡事谦虚 、 温柔 、 忍耐,用爱心互相宽容."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "suffering",
+          "tran_cn": " 受苦的；患病的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sufferance",
+          "tran_cn": " 容许；忍耐；默许"
+        },
+        {
+          "word": "sufferer",
+          "tran_cn": " 患者；受害者"
+        },
+        {
+          "word": "suffering",
+          "tran_cn": " 受难；苦楚"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "suffering",
+          "tran_cn": " 受苦；蒙受（suffer的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "suffer",
+          "tran_cn": " 遭受，忍受；受痛苦；经验；受损害"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "suffer",
+          "tran_cn": " 遭受；忍受；经历"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "tolerable",
+            "supportable"
+          ],
+          "tran_cn": "可忍耐的；可容忍的；可忍受得了的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bearable",
+            "endurable",
+            "tolerable"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可容忍的，可忍耐的",
+      "tran_en": "able to be tolerated or suffered; endurable "
+    }
+  ],
+  "exchange": {}
+}

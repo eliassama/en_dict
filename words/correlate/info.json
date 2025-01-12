@@ -1,0 +1,220 @@
+{
+  "word": "correlate",
+  "ipa": {
+    "us": "ˈkɒrələt , ˈkɒrəleɪt",
+    "uk": "ˈkɔːrələt , ˈkɔːrəleɪt"
+  },
+  "sentences": [
+    {
+      "en": "Aphid count on plants in fields do not correlate with virus spread in the same fields.",
+      "cn": "田间植株蚜数与同块田内病毒的扩散程度间无相关性."
+    },
+    {
+      "en": "Attempts to correlate specific language functions with particular parts of the brain have not advanced very far.",
+      "cn": "试图把特定的语言功能和大脑特定区域相联系的努力还没有取得很大进展。"
+    },
+    {
+      "en": "Fiber convolutions also correlate negatively with such physical measurements as bundle tenacity.",
+      "cn": "天然转曲对成纱强力可能比对纤维束强力起着更大的直接作用."
+    },
+    {
+      "en": "Form and meaning correlate to each other.",
+      "cn": "形式与意义互有关联."
+    },
+    {
+      "en": "Obesity correlates with increased risk for hypertension and stroke.",
+      "cn": "过度肥胖与高血压和中风的发病风险增加密切相关。"
+    },
+    {
+      "en": "Over 200 trucks were stopped and weighed in order to correlate measured and computed response.",
+      "cn": "200多辆货车曾停下来过磅,以便确定量测的和计算的反应的相互关系."
+    },
+    {
+      "en": "Research workers find it hard to correlate one set with the other.",
+      "cn": "研究工作者们发现两者之间很难找出联系."
+    },
+    {
+      "en": "Research workers find it hard to correlate the two sets of figures.",
+      "cn": "研究人员发现很难使这两组数字互相关连."
+    },
+    {
+      "en": "Researchers cannot correlate the two sets of figures.",
+      "cn": "研究者们看不出这两组数字有什么联系."
+    },
+    {
+      "en": "Results in the natural sciences seldom correlate with those in history or art.",
+      "cn": "自然科学的成果很少与历史或艺术的成果有相互关系."
+    },
+    {
+      "en": "The diameter and the circumference of a circle correlate.",
+      "cn": "圆的直径与圆周有相互关系."
+    },
+    {
+      "en": "The figures do not seem to correlate.",
+      "cn": "这些数字似乎毫不相干。"
+    },
+    {
+      "en": "The political opinions of spouses correlate more closely than their heights.",
+      "cn": "配偶之间政治观点上的相似度要大于他们身高的相似程度。"
+    },
+    {
+      "en": "The results of this experiment don't correlate with the results of earlier ones.",
+      "cn": "这次试验的结果与以往试验的结果毫不相干."
+    },
+    {
+      "en": "These figures seem to correlate.",
+      "cn": "这些数字看来是相关的."
+    },
+    {
+      "en": "These new conservation laws correlate and explain a wide range of physical phenomena.",
+      "cn": "这些新的守恒定律把极其广泛的物理现象相互联系起来,并对它们作出了说明."
+    },
+    {
+      "en": "Try to correlate your knowledge of history with your knowledge of geography.",
+      "cn": "试着把你的历史知识和地理知识联系起来."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "correlated",
+          "tran_cn": "有相互关系的"
+        },
+        {
+          "word": "correlative",
+          "tran_cn": "相关的；有相互关系的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "correlation",
+          "tran_cn": "[数] 相关，关联；相互关系"
+        },
+        {
+          "word": "correlative",
+          "tran_cn": "关联词；相关物"
+        },
+        {
+          "word": "correlativity",
+          "tran_cn": "相关关系；相互关系"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "correlated",
+          "tran_cn": "（使）相关联；（使）相互对照（correlate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "associated"
+          ],
+          "tran_cn": "关联的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "relative"
+          ],
+          "tran_cn": "相关物；相关联的人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "agree",
+            "connect",
+            "correspond",
+            "equate",
+            "in",
+            "link",
+            "parallel",
+            "relate",
+            "tie"
+          ],
+          "tran_cn": "与...相关"
+        },
+        {
+          "words": [
+            "bring",
+            "compare",
+            "contrast",
+            "each",
+            "other",
+            "relate",
+            "to",
+            "together"
+          ],
+          "tran_cn": "使...关联,把...同某事结合起来"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "correlate with",
+      "tran_cn": "找出一一对应的关系；使…与…发生关系"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "关联的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "互相关联的事物",
+      "tran_en": "either of two things that correlate with each other"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（使）互相关联",
+      "tran_en": "if two or more facts, ideas etc correlate or if you correlate them, they are closely connected to each other or one causes the other"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 相关， 关联",
+      "tran_en": "if two or more facts, ideas etc correlate or if you correlate them, they are closely connected to each other or one causes the other"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使相互关联",
+      "tran_en": "if two or more facts, ideas etc correlate or if you correlate them, they are closely connected to each other or one causes the other"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "correlates"
+    ],
+    "past": [
+      "correlated"
+    ],
+    "done": [
+      "correlated"
+    ],
+    "ing": [
+      "correlating"
+    ]
+  }
+}

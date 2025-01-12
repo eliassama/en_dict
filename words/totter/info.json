@@ -1,0 +1,112 @@
+{
+  "word": "totter",
+  "ipa": {
+    "us": "ˈtɒtə(r)",
+    "uk": "ˈtɑtə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Babies and very old people totter as they walk.",
+      "cn": "小孩与老年人走路蹒跚."
+    },
+    {
+      "en": "Just a few more days, till we totter in the road!",
+      "cn": "再过几天, 我们将蹒跚着走上大路!"
+    },
+    {
+      "en": "Lorrimer swayed a little, tottered, and fell.",
+      "cn": "洛里默身体微微摇晃，蹒跚几步后跌倒在地。"
+    },
+    {
+      "en": "Teeter - totter caught up bein a father and a prima donna.",
+      "cn": "当爸和挣钱回家不知顾哪头才好."
+    },
+    {
+      "en": "They adorn it with and gold it with hammer and nails so it will not totter.",
+      "cn": "他们用金银妆饰它,用钉子和锤子钉稳,使它不动摇."
+    },
+    {
+      "en": "To shake or tremble, as from old age; totter.",
+      "cn": "因年老而颤抖; 蹒跚而行."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tottering",
+          "tran_cn": " 蹒跚的；动摇的"
+        },
+        {
+          "word": "tottery",
+          "tran_cn": " 摇摇欲坠的；蹒跚的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "tottering",
+          "tran_cn": " 蹒跚（totter的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "hobble"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "titubate",
+            "barge"
+          ],
+          "tran_cn": "蹒跚；踉跄"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "蹒跚的步子"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "蹒跚, 踉跄, 动摇, 摇摇欲坠",
+      "tran_en": "to walk or move unsteadily from side to side as if you are going to fall over"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "蹒跚，踉跄，摇摇欲坠"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "totters"
+    ],
+    "past": [
+      "tottered"
+    ],
+    "done": [
+      "tottered"
+    ],
+    "ing": [
+      "tottering"
+    ]
+  }
+}

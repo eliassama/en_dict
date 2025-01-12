@@ -1,0 +1,71 @@
+{
+  "word": "approbatory",
+  "ipa": {
+    "us": "ˌæprəʊ'beɪtərɪ",
+    "uk": "ˌəprɒ'betərɪ"
+  },
+  "sentences": [
+    {
+      "en": "Honorary degree Ministry of Education not approbatory.",
+      "cn": "荣誉学位教育部不承认的."
+    },
+    {
+      "en": "The result revealed the approbatory degree of teachers and students in English modular teaching to be quite high in vocational college, but the degree of value for each teaching module is different.",
+      "cn": "调查结果显示，高职学校的教师和学生对英语模块教学的认可程度较高，但对各模块教学的重视程度不一样。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "approbation",
+          "tran_cn": " 认可；赞许；批准"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "approbate",
+          "tran_cn": " 认可；承认；批准"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "sanctified",
+            "admissive"
+          ],
+          "tran_cn": "认可的；赞赏的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "commendatory",
+            "sympathetic"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "认可的，核准的，表示赞许的"
+    }
+  ],
+  "exchange": {}
+}

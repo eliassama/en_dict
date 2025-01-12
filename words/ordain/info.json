@@ -1,0 +1,76 @@
+{
+  "word": "ordain",
+  "ipa": {
+    "us": "ɔ:ˈdeɪn",
+    "uk": "ɔrˈdeɪn"
+  },
+  "sentences": [
+    {
+      "en": "Desmond Tutu was ordained in 1960.",
+      "cn": "德斯蒙德•图图于1960年被任命为牧师。"
+    },
+    {
+      "en": "Does Joel 2:28 permit us ordain women preachers?",
+      "cn": "约珥书2:28允许我们任命女传道 吗 ?"
+    },
+    {
+      "en": "He ordained his own priests, and threatened to ordain bishops.",
+      "cn": "他自行任命了牧师，还扬言要任命主教。"
+    },
+    {
+      "en": "His rule was ordained by heaven.",
+      "cn": "他的统治是天命的。"
+    },
+    {
+      "en": "Nehru ordained that socialism should rule.",
+      "cn": "尼赫鲁下命实行社会主义制度。"
+    },
+    {
+      "en": "The church's ruling body voted to ordain women as priests.",
+      "cn": "该教会的管理机构投票通过接纳女性为牧师。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "require",
+            "order",
+            "command",
+            "fate"
+          ],
+          "tran_cn": "任命某人为牧师；授某人以圣职；（上帝、法律等）命令；注定"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "注定, 规定, 任命(牧师)",
+      "tran_en": "to order that something should happen"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "任命（某人）为牧师，授予（某人）圣职，（上帝、法律等）命令，判定"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "ordains"
+    ],
+    "past": [
+      "ordained"
+    ],
+    "done": [
+      "ordained"
+    ],
+    "ing": [
+      "ordaining"
+    ]
+  }
+}

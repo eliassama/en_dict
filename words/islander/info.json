@@ -1,0 +1,64 @@
+{
+  "word": "islander",
+  "ipa": {
+    "us": "ˈaɪləndə(r)",
+    "uk": "ˈaɪləndɚ"
+  },
+  "sentences": [
+    {
+      "en": "Islander points to inhabitant of an island.",
+      "cn": "岛民是指岛屿上的居民."
+    },
+    {
+      "en": "Sophia wouldn't be such damned fool as to love that South Seas Islander!",
+      "cn": "莎菲不会傻到如此地步去爱上南洋人."
+    },
+    {
+      "en": "The islanders endured centuries of exploitation.",
+      "cn": "岛民们忍受了几个世纪的剥削。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "island",
+          "tran_cn": " 岛的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "island",
+          "tran_cn": " 岛；岛屿；安全岛；岛状物"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "island",
+          "tran_cn": " 孤立；使成岛状"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "岛民，岛上居民",
+      "tran_en": "someone who lives on an island"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "islanders"
+    ]
+  }
+}

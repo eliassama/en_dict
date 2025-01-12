@@ -1,0 +1,202 @@
+{
+  "word": "slur",
+  "ipa": {
+    "us": "slɜ:(r)",
+    "uk": "slɚ"
+  },
+  "sentences": [
+    {
+      "en": "A mark of disgrace or dishonor ; a reproach or slur.",
+      "cn": "耻辱不名誉之痕迹;玷辱; 污点."
+    },
+    {
+      "en": "And then you slur by dropping initial letters and diphthongs.'",
+      "cn": "有时你又把单词开头的辅音和双元音含糊掉."
+    },
+    {
+      "en": "Any suggestion that I accepted bribes would be a monstrous slur.",
+      "cn": "谁说我受贿就是对我恶意中伤."
+    },
+    {
+      "en": "Don't slur my brother's reputation!",
+      "cn": "不要破坏我兄弟的名声!"
+    },
+    {
+      "en": "Flemming is enraged by this slur.",
+      "cn": "弗莱明为这种侮辱所激怒."
+    },
+    {
+      "en": "He took the remarks as a slur on his reputation.",
+      "cn": "他把这些话当作是对他的名誉的中伤."
+    },
+    {
+      "en": "His comments cast a slur on the integrity of his employees.",
+      "cn": "他的评论是对其雇员正直品质的诋毁."
+    },
+    {
+      "en": "His voice sounded slurred.",
+      "cn": "他的声音听起来含混不清。"
+    },
+    {
+      "en": "It is immoral to cast a slur on a person's reputation.",
+      "cn": "中伤别人的名誉是不道德的."
+    },
+    {
+      "en": "Many persons slur these things.",
+      "cn": "许多人总是把这类事说得很含糊."
+    },
+    {
+      "en": "She tried to keep her reputation free from slur.",
+      "cn": "她极力避免名誉受损."
+    },
+    {
+      "en": "That was an awful slur, but it wasn't really surprising.",
+      "cn": "这是无耻的诽谤, 但是实际上也不足为奇."
+    },
+    {
+      "en": "The drug made her speak with a slur.",
+      "cn": "药物使她口齿不清."
+    },
+    {
+      "en": "The newscaster's speech began to slur.",
+      "cn": "新闻广播员的话音变得含糊不清起来。"
+    },
+    {
+      "en": "They regard it as a slur on their own cooking, of cleaning, or furniture.",
+      "cn": "他们认为这是诋毁自家的饭菜, 或整洁, 或家具."
+    },
+    {
+      "en": "This is yet another slur on the integrity of the Metropolitan Police.",
+      "cn": "这是对伦敦市警察局刚正廉明作风的又一次诽谤。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "slurred",
+          "tran_cn": " 发音含糊的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "slurred",
+          "tran_cn": " 略过；含糊不清地说出（slur的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "defame",
+            "insult",
+            "libel",
+            "slander",
+            "slight",
+            "smear",
+            "soil"
+          ],
+          "tran_cn": "侮辱"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accusation",
+            "at",
+            "cloud",
+            "defame",
+            "dishonor",
+            "disregard",
+            "glance",
+            "insult",
+            "libel",
+            "malign",
+            "over",
+            "scan",
+            "shame",
+            "skim",
+            "slander",
+            "slight",
+            "smear",
+            "soil",
+            "stigma"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "drag along",
+            "drag one's feet"
+          ],
+          "tran_cn": "含糊地发音；潦草地写字；拖着脚走"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "at",
+            "glance",
+            "over",
+            "scan",
+            "skim"
+          ],
+          "tran_cn": "略过;匆匆地看"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "诋毁，含糊发音，连唱线",
+      "tran_en": "an unfair criticism that is intended to make people dislike someone or something"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "忽视",
+      "tran_en": "to speak unclearly without separating your words or sounds correctly"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "诽谤，含糊地说，连唱"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "slurs"
+    ],
+    "third": [
+      "slurs"
+    ],
+    "past": [
+      "slurred"
+    ],
+    "done": [
+      "slurred"
+    ],
+    "ing": [
+      "slurring"
+    ]
+  }
+}

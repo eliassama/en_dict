@@ -1,0 +1,84 @@
+{
+  "word": "bruit",
+  "ipa": {
+    "us": "bru:t",
+    "uk": "brut"
+  },
+  "sentences": [
+    {
+      "en": "it was bruited about that the king was dead",
+      "cn": ""
+    },
+    {
+      "en": "Mais soudain un bruIt'sourd qui semblait venir de sous terre fit trembler le sol.",
+      "cn": "突然,一阵沉闷的响声象是从地底下发生,震得地面发抖."
+    },
+    {
+      "en": "Much bruit, little fruit.",
+      "cn": "讲空话,不办实事."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "whisper"
+          ],
+          "tran_cn": "谣传"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "trumpet"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "strow",
+            "strew"
+          ],
+          "tran_cn": "散播"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 散布",
+      "tran_en": "to report; rumour "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "传播（传说或谣言）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "bruits"
+    ],
+    "past": [
+      "bruited"
+    ],
+    "done": [
+      "bruited"
+    ],
+    "ing": [
+      "bruiting"
+    ]
+  }
+}

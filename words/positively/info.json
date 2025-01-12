@@ -1,0 +1,175 @@
+{
+  "word": "positively",
+  "ipa": {
+    "us": "ˈpɒzətɪvli",
+    "uk": "ˈpɑzətɪvli"
+  },
+  "sentences": [
+    {
+      "en": "Cats positively revel in heat, whether natural or man-made.",
+      "cn": "猫确实喜暖，不管是自然的还是人工创造的温暖环境。"
+    },
+    {
+      "en": "Electrons are negatively charged with electricity, protons are positively charged.",
+      "cn": "电子是带负电荷的, 质子是带正电荷的."
+    },
+    {
+      "en": "He responded positively and accepted the fee of £1,000 I had offered.",
+      "cn": "他作出了肯定的答复，并接受了我给的1，000英镑的费用。"
+    },
+    {
+      "en": "He's changed since he came back — he seems positively cheerful.",
+      "cn": "他回来后变了个样，看起来确实很高兴。"
+    },
+    {
+      "en": "Parents are positively encouraged to be at school whenever possible.",
+      "cn": "我们非常鼓励父母无论何时，只要可能就去求学。"
+    },
+    {
+      "en": "She was positively glowing with happiness.",
+      "cn": "她满脸幸福."
+    },
+    {
+      "en": "Some holiday destinations are positively dangerous .",
+      "cn": "有些度假地真的很危险。"
+    },
+    {
+      "en": "That skirt of hers is positively indecent.",
+      "cn": "她的那条裙子太暴露了。"
+    },
+    {
+      "en": "That skirt of hers is positively indecent.",
+      "cn": "她那条裙子实在不雅."
+    },
+    {
+      "en": "The expectant mothers that Amy had encountered positively glowed with pride.",
+      "cn": "埃米遇见的准妈妈们个个洋溢着自豪和喜悦。"
+    },
+    {
+      "en": "The hype and fervour surrounding the event positively invited scepticism.",
+      "cn": "围绕这件事的大肆渲染和热情必然会引起人们的怀疑."
+    },
+    {
+      "en": "The instructions were not just confusing, they were positively misleading.",
+      "cn": "这些指示不单令人迷惑，而且肯定会误导人。"
+    },
+    {
+      "en": "The man looked positively ancient.",
+      "cn": "那个男子看起来实在老得很."
+    },
+    {
+      "en": "There was a positively triumphant note in her voice.",
+      "cn": "她的声音里带有一种极为得意的语气."
+    },
+    {
+      "en": "They are likely to respond positively to the President's request for aid.",
+      "cn": "他们可能会对总统的援助要求作出积极回应。"
+    },
+    {
+      "en": "You really must try to start thinking positively.",
+      "cn": "你真的必须努力开始以一种积极的心态思考问题了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "positive",
+          "tran_cn": "积极的；[数] 正的，[化学][医] 阳性的；确定的，肯定的；实际的，真实的；绝对的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "posit",
+          "tran_cn": "假设；设想"
+        },
+        {
+          "word": "positioner",
+          "tran_cn": "[机] 定位器"
+        },
+        {
+          "word": "positive",
+          "tran_cn": "正数；[摄] 正片"
+        },
+        {
+          "word": "positiveness",
+          "tran_cn": "信心；肯定"
+        },
+        {
+          "word": "positivism",
+          "tran_cn": "实证主义；实证论；积极性；武断"
+        },
+        {
+          "word": "positivity",
+          "tran_cn": "积极性，确实"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "posit",
+          "tran_cn": "安置；假定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "specifically",
+            "definitely",
+            "particularly",
+            "flat",
+            "emphatically"
+          ],
+          "tran_cn": "肯定地；明确地；断然地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "indeed",
+            "simply",
+            "so",
+            "surely",
+            "yes"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "positively related",
+      "tran_cn": "正相关的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "明确地，断然地，肯定地",
+      "tran_en": "used to emphasize that something is true, especially when this seems surprising"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "more positively"
+    ],
+    "est": [
+      "most positively"
+    ]
+  }
+}

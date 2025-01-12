@@ -1,0 +1,82 @@
+{
+  "word": "jink",
+  "ipa": {
+    "us": "dʒɪŋk",
+    "uk": "dʒɪŋk"
+  },
+  "sentences": [
+    {
+      "en": "Good results of the sample calculations of lateral jink and pop - up maneuvers are obtained.",
+      "cn": "通过样例分析给出了紧急转弯和平飞跃升的计算结果."
+    },
+    {
+      "en": "He jinked left, then right, throwing the plane into sudden turns.",
+      "cn": "他突然向左，然后向右，使飞机猛地旋转起来。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "quirk",
+            "zig"
+          ],
+          "tran_cn": "急转；闪避"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "turn aside",
+            "sharp turn"
+          ],
+          "tran_cn": "闪开；急转"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "avoid",
+            "sell",
+            "fox"
+          ],
+          "tran_cn": "躲避；欺骗"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "闪身, 急转, 逃走"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "急转， （尤指）躲闪，闪开"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "jinks"
+    ],
+    "past": [
+      "jinked"
+    ],
+    "done": [
+      "jinked"
+    ],
+    "ing": [
+      "jinking"
+    ]
+  }
+}

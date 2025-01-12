@@ -1,0 +1,165 @@
+{
+  "word": "heterogeneous",
+  "ipa": {
+    "us": "ˌhetərəˈdʒi:niəs",
+    "uk": "ˌhɛtərəˈdʒiniəs, -ˈdʒinjəs"
+  },
+  "sentences": [
+    {
+      "en": "a heterogeneous collection of buildings",
+      "cn": "风格各异的一组建筑"
+    },
+    {
+      "en": "A system composed of two or more phases is heterogeneous.",
+      "cn": "由两相或更多的相组成的体系称为复相体系."
+    },
+    {
+      "en": "Continuous nucleation model is applied to describe heterogeneous nucleation in liquid metal.",
+      "cn": "采用连续形核模型来描述液相中的自发形核."
+    },
+    {
+      "en": "Depressive disorders are a heterogeneous group of conditions that share the common symptom of dysphoric mood.",
+      "cn": "抑郁性疾患包括一组具有心情忧郁这一共同症状的若干情况."
+    },
+    {
+      "en": "He believes that this equation connot be applied to heterogeneous flow.",
+      "cn": "他认为该式不能应用到非均质流型."
+    },
+    {
+      "en": "Heterogeneous bridging groups can raise the glass temperature according to their chemical composition.",
+      "cn": "不同类桥联基团根据它们的化学组成能提高玻璃化温度."
+    },
+    {
+      "en": "In heterogeneous anisotropic materials the heat flow vector and conductivity are more complex.",
+      "cn": "在各向异性的非均质材料中,热流向量和热导率很复杂."
+    },
+    {
+      "en": "Many processes that are essential to the chemical industry use heterogeneous catalysts.",
+      "cn": "很多重要的化学工业过程就是使用多相催化剂的."
+    },
+    {
+      "en": "Microscopic examination of this sludge reveals that it is formed by a heterogeneous population of microorgenisms.",
+      "cn": "微观检验这些污泥,发现它们是由异质微生物群体所构成的."
+    },
+    {
+      "en": "Perforated plates correspond to heterogeneous media.",
+      "cn": "多孔板相当于均匀介质."
+    },
+    {
+      "en": "She looked about at the heterogeneous chairs and tables.",
+      "cn": "她瞅了一眼那形形色色的桌椅."
+    },
+    {
+      "en": "The albumins contain the majority of the cellular enzymes and are thus extremely heterogeneous.",
+      "cn": "清蛋白包含细胞的酶的大多数,因而是极其不均匀的."
+    },
+    {
+      "en": "The heterogeneous catalyst first attracts the salt to its surface and holds it there.",
+      "cn": "多相催化剂先将盐吸附在它的表面并使它固定在那里."
+    },
+    {
+      "en": "The market is generally heterogeneous in what it expects from the banking community.",
+      "cn": "市场对银行界的期望不同."
+    },
+    {
+      "en": "The standards of Web Service solved interoperability puzzles among heterogeneous information systems.",
+      "cn": "Web服务标准的出现有效地解决了异构信息系统之间的互操作问题."
+    },
+    {
+      "en": "There is a heterogeneous mass of papers in the teacher's office.",
+      "cn": "老师的办公室里堆满了大批不同的论文。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "heterocyclic",
+          "tran_cn": " 杂环的；不同环式的"
+        },
+        {
+          "word": "heterogenous",
+          "tran_cn": " 异质的；[生物] 异源的；异种的"
+        },
+        {
+          "word": "heterologous",
+          "tran_cn": " 不同的；不齐的；不等的；异种的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "heterogeneity",
+          "tran_cn": " [生物] 异质性；[化学] 不均匀性；[化学] 多相性"
+        },
+        {
+          "word": "heterograft",
+          "tran_cn": " 异种移植；异种移植物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "uneven",
+            "polyphase"
+          ],
+          "tran_cn": "多相的；[生物]异种的；[物][化学]不均匀的；由不同成分形成的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "heterogeneous catalysis",
+      "tran_cn": "多相催化"
+    },
+    {
+      "phrase": "heterogeneous catalyst",
+      "tran_cn": "非均相催化剂；多相催化；不匀触媒"
+    },
+    {
+      "phrase": "heterogeneous group",
+      "tran_cn": "异类组，异质群体"
+    },
+    {
+      "phrase": "heterogeneous material",
+      "tran_cn": "非均质物质；不均匀材料"
+    },
+    {
+      "phrase": "heterogeneous medium",
+      "tran_cn": "非均匀介质，异质"
+    },
+    {
+      "phrase": "heterogeneous nucleation",
+      "tran_cn": "异相成核"
+    },
+    {
+      "phrase": "heterogeneous reaction",
+      "tran_cn": "[化]多相反应；非均相反应"
+    },
+    {
+      "phrase": "heterogeneous system",
+      "tran_cn": "非均匀系；复相系；非均质系"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "各种各样的，成分混杂的",
+      "tran_en": "consisting of parts or members that are very different from each other"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "heterogeneity"
+    ]
+  }
+}

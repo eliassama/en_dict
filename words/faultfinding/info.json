@@ -1,0 +1,110 @@
+{
+  "word": "faultfinding",
+  "ipa": {
+    "us": "'fɔ:ltˌfaɪndɪŋ",
+    "uk": "'fɔltˌfaɪndɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A counselor tries not to be faultfinding.",
+      "cn": "顾问应当尽量不吹毛求疵."
+    },
+    {
+      "en": "He can't bear with faultfinding people.",
+      "cn": "他不能容忍吹毛求疵的人."
+    },
+    {
+      "en": "He is a faultfinding man.",
+      "cn": "他是一个爱挑剔的人。"
+    },
+    {
+      "en": "The popularity of the www, the increase in types and quantity of products, and faultfinding of customers, etc, all of these accelerate the change of market environment into buyer\"s market.\"",
+      "cn": "万维网的普及，产品种类和数量的增长，顾客的挑剔等都在加速市场环境向买方市场的转变。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fault",
+          "tran_cn": " 故障；[地质] 断层；错误；缺点；毛病；（网球等）发球失误"
+        },
+        {
+          "word": "faultfinder",
+          "tran_cn": " 挑剔；吹毛求疵的人"
+        },
+        {
+          "word": "faulting",
+          "tran_cn": " [地质] 断层作用；断层错动；故障"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "faulting",
+          "tran_cn": " 挑剔；指责；做错（fault的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "fault",
+          "tran_cn": " 弄错；产生断层"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fault",
+          "tran_cn": " （通常用于疑问句或否定句）挑剔"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "critical of"
+          ],
+          "tran_cn": "挑剔；吹毛求疵的行为"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "censorious",
+            "critical",
+            "criticism",
+            "negative"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "喜欢挑剔的，吹毛求疵的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "找茬子，挑剔"
+    }
+  ],
+  "exchange": {}
+}

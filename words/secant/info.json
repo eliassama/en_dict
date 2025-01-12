@@ -1,0 +1,70 @@
+{
+  "word": "secant",
+  "ipa": {
+    "us": "'si:kənt",
+    "uk": "'sikənt"
+  },
+  "sentences": [
+    {
+      "en": "A secant is defined as line passing through two points of the curve.",
+      "cn": "割线的定义是一条通过曲线上两点的直线."
+    },
+    {
+      "en": "The roots are extracted in the root sections by method of bisection or secant.",
+      "cn": "采用二分区间求根法或弦截求根法确定故障点."
+    },
+    {
+      "en": "The slope of secant drawn from the origin through the point is the average function.",
+      "cn": "从原点出发并连接该点所构成的割线的斜率即为曲线的平均函数."
+    },
+    {
+      "en": "The value of the complement of the secant is called the cosecant.",
+      "cn": "正割函数的倒数，称为余割函数。"
+    },
+    {
+      "en": "Then the numerical results show that new algorithm effectively overcomes the shortcomings of secant method, and evidently improves the convergent speed, convergent range and algorithm stability.",
+      "cn": "数值实验结果表明，这种算法不仅有效克服了割线法的缺陷，而且收敛速度、收敛范围和算法的稳定性也得到明显提高。"
+    },
+    {
+      "en": "This paper mainly deals with the secant method used on stiffness matrix.",
+      "cn": "主要说明割线法在刚度矩阵上的应用."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "cross",
+            "incisal"
+          ],
+          "tran_cn": "割的；切的；交叉的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hyperbolic secant",
+      "tran_cn": "双曲正割"
+    },
+    {
+      "phrase": "secant method",
+      "tran_cn": "[化]割线法；正割法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "切的，割的，交叉的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "割线，正割",
+      "tran_en": "(of an angle) a trigonometric function that in a right-angled triangle is the ratio of the length of the hypotenuse to that of the adjacent side; the reciprocal of cosine "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,61 @@
+{
+  "word": "topographically",
+  "ipa": {
+    "us": "",
+    "uk": ""
+  },
+  "sentences": [
+    {
+      "en": "Dubai is a part of the Arabian Desert, but is topographically different from it.",
+      "cn": "迪拜虽然是阿拉伯沙漠的一部分，但从地形上来说，它却不同于阿拉伯沙漠。"
+    },
+    {
+      "en": "Topographically, we may consider the coastal plain to be a terrestrial analog of the continental ITlf.",
+      "cn": "从地形角度讲咱们没去外国疑问把沿岸平原看成是陆地架在陆上的类似构造."
+    },
+    {
+      "en": "Topographically, we may consider the coastal plain to be a terrestrial analog of the continental shelf.",
+      "cn": "从地形角度讲我们可以把沿岸平原看成是大陆架在陆上的类似构造."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "topographic",
+          "tran_cn": " 地形测量的；地志的；地形学上的"
+        },
+        {
+          "word": "topographical",
+          "tran_cn": " 地志的；地形学的（等于topographic）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "topography",
+          "tran_cn": " 地势；地形学；地志"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "从地形上，在地形构造方面"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "topography"
+    ],
+    "adj": [
+      "topographical"
+    ]
+  }
+}

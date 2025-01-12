@@ -1,0 +1,174 @@
+{
+  "word": "rely",
+  "ipa": {
+    "us": "rɪˈlaɪ",
+    "uk": "rɪˈlaɪ"
+  },
+  "sentences": [
+    {
+      "en": "Don't always rely on others to understand and sympathize.",
+      "cn": "不要老是指望别人的理解和同情."
+    },
+    {
+      "en": "I knew I could rely on David.",
+      "cn": "我知道我可以信赖戴维。"
+    },
+    {
+      "en": "I know I can rely on you to sort it out.",
+      "cn": "我相信你会把它解决好的。"
+    },
+    {
+      "en": "I rely too much on convenience food.",
+      "cn": "我太依赖方便食品了。"
+    },
+    {
+      "en": "It would be better to rely on ourselves than on others.",
+      "cn": "与其求人,何如求己."
+    },
+    {
+      "en": "Most poultry farmers have to rely on commercially manufactured feeds.",
+      "cn": "多数饲养家禽的农场主不得不依赖商业化生产的饲料。"
+    },
+    {
+      "en": "The investigation will rely on existing powers to subpoena documents.",
+      "cn": "该调查将凭借现有权力要求将各种相关文件呈堂。"
+    },
+    {
+      "en": "They relied heavily on the advice of their professional advisers.",
+      "cn": "他们非常依赖专业顾问的建议。"
+    },
+    {
+      "en": "We can rely on our children to do such work.",
+      "cn": "这样的工作我们可以放心地让孩子们去做."
+    },
+    {
+      "en": "We rely on his finishing the work today.",
+      "cn": "我们信赖他今天能完工."
+    },
+    {
+      "en": "You can always rely on Jim, he won't fail you.",
+      "cn": "你可以永远信任吉姆, 他不会让你失望的."
+    },
+    {
+      "en": "You can rely on him every time.",
+      "cn": "你无论何时都可以信赖他."
+    },
+    {
+      "en": "You can rely on me for help.",
+      "cn": "你可指望我来帮忙."
+    },
+    {
+      "en": "You can rely upon Jacelin.",
+      "cn": "你可以信赖杰斯林."
+    },
+    {
+      "en": "You can't rely on the weather.",
+      "cn": "天气是靠不住的."
+    },
+    {
+      "en": "You may rely upon my early arrival.",
+      "cn": "你放心好了,我会早到的."
+    },
+    {
+      "en": "You should rely on your own efforts.",
+      "cn": "你应该靠自己的努力."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "reliable",
+          "tran_cn": " 可靠的；可信赖的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "reliably",
+          "tran_cn": " 可靠地；确实地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reliability",
+          "tran_cn": " 可靠性"
+        },
+        {
+          "word": "reliable",
+          "tran_cn": " 可靠的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "confide",
+            "count",
+            "depend",
+            "on",
+            "trust"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "confide",
+            "count",
+            "depend",
+            "on",
+            "trust"
+          ],
+          "tran_cn": "依赖"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "rely on",
+      "tran_cn": "依靠，依赖"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "依靠，信赖",
+      "tran_en": "If you rely on someone or something, you need them and depend on them in order to live or work properly"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 依靠， 依赖； 信赖， 指望",
+      "tran_en": "If you rely on someone or something, you need them and depend on them in order to live or work properly"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "relies"
+    ],
+    "past": [
+      "relied"
+    ],
+    "done": [
+      "relied"
+    ],
+    "ing": [
+      "relying"
+    ]
+  }
+}

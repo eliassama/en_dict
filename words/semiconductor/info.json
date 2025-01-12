@@ -1,0 +1,183 @@
+{
+  "word": "semiconductor",
+  "ipa": {
+    "us": "ˌsemikənˈdʌktə(r)",
+    "uk": "ˈsemikəndʌktər"
+  },
+  "sentences": [
+    {
+      "en": "A further refinement in semiconductor technology is the integrated circuit.",
+      "cn": "在半导体工艺中,集成电路是一次革新."
+    },
+    {
+      "en": "A semiconductor diode array that is programmed by fusing or burning out diode junctions.",
+      "cn": "一种半导体二极管阵列,通过熔断或烧断二极管的结来实现编程过程."
+    },
+    {
+      "en": "A small slice of a semiconductor, usually silicon, that contains miniaturized electronic circuit.",
+      "cn": "一种很小的片状半导体材料, 通常是硅材料, 它含有小型化电子电路."
+    },
+    {
+      "en": "Allegedly, in the fourth quarter of last year, NXP semiconductor company and a big client signed a licensing agreement, the client should be Apple Corp.",
+      "cn": "据称，在去年四季度，NXP半导体公司和一个大客户签署了技术授权协议，这家大客户应该是苹果公司。"
+    },
+    {
+      "en": "An analogy is often used to clarify the mechanism of conduction in a semiconductor.",
+      "cn": "为了弄清半导体中的导电机制,常常采用一种比喻."
+    },
+    {
+      "en": "At this time , the field of semiconductor lasers is dominated by heterojunction devices.",
+      "cn": "目前, 在半导体激光器领域中,异质结激光器已占居支配地位."
+    },
+    {
+      "en": "Discrete semiconductor devices and integrated circuits - Partie 5 - 1 : optoelectronic devices - General.",
+      "cn": "半导体分立器件和集成电路.第 5-1 部分: 光电子器件.总则."
+    },
+    {
+      "en": "Electrons from the metal will have to surmount the potential barrier to enter the semiconductor.",
+      "cn": "金属中的电子必须克服这个势垒层才能进入半导体."
+    },
+    {
+      "en": "In semiconductor receivers transistors take the place of vacuum tubes.",
+      "cn": "在半导体收音机中晶体管代替了真空管."
+    },
+    {
+      "en": "In the Ohmic contacts of LED electrodes, carriers have different transmission mechanisms be- tween metal electrode and semiconductor.",
+      "cn": "在LED电极欧姆接触中，载流子在金属电极和半导体间有不同的传输机制。"
+    },
+    {
+      "en": "Semiconductor devices can perform a variety of control functions in electronic equipment.",
+      "cn": "半导体器件在电子设备中能起各式各样的控制作用."
+    },
+    {
+      "en": "Semiconductor switches actuate reed relays for signal circuits or power relays for other functions.",
+      "cn": "在信号电路中,以半导体开关驱动舌簧继电器;在其它程序动作电路中,以半导体开关驱动功率继电器."
+    },
+    {
+      "en": "The conductor is reluctant to reduce the conductivity of the semiconductor.",
+      "cn": "导演不情愿降低半导体的导电率。"
+    },
+    {
+      "en": "The idea underlying the semiconductor counter is old.",
+      "cn": "半导体计数器的基本原理还是旧的."
+    },
+    {
+      "en": "The load current is handled directly by the controller through semiconductor switching devices.",
+      "cn": "负荷电流由调节器通过半导体开关元件直接控制."
+    },
+    {
+      "en": "Thermistors are semiconductor devices with temperature.",
+      "cn": "热敏电阻是一种半导体元件,它的电阻随温度而变化."
+    },
+    {
+      "en": "These crystals are the basis of the semiconductor chips which run modern computers.",
+      "cn": "现代计算机里使用的半导体芯片都少不了这种结晶体."
+    },
+    {
+      "en": "They can then be printed onto a roll of metal foil that becomes a continuous semiconductor.",
+      "cn": "然后他们可以把这种墨水印刷在一卷金属箔上，从而制成连续的半导体。"
+    },
+    {
+      "en": "What was happening was this: in its pure state of repeating units of one titanium and two oxygen atoms, titanium dioxide is a semiconductor.",
+      "cn": "发生的事是这样的：在纯净的一个钛和两个氧原子组成的重复单位下，二氧化钛是一种半导体。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "semiconducting",
+          "tran_cn": " 半导体的；有半导体特性的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "quasi-conductor"
+          ],
+          "tran_cn": "[电子][物]半导体"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "complementary metal oxide semiconductor",
+      "tran_cn": "互补金属氧化物半导体"
+    },
+    {
+      "phrase": "compound semiconductor",
+      "tran_cn": "化合物半导体；复合半导体"
+    },
+    {
+      "phrase": "metal oxide semiconductor",
+      "tran_cn": "金属氧化物半导体"
+    },
+    {
+      "phrase": "national semiconductor",
+      "tran_cn": "美国国家半导体公司"
+    },
+    {
+      "phrase": "organic semiconductor",
+      "tran_cn": "有机半导体"
+    },
+    {
+      "phrase": "oxide semiconductor",
+      "tran_cn": "氧化物半导体"
+    },
+    {
+      "phrase": "power semiconductor",
+      "tran_cn": "[电]功率半导体元件"
+    },
+    {
+      "phrase": "semiconductor chip",
+      "tran_cn": "半导体芯片"
+    },
+    {
+      "phrase": "semiconductor device",
+      "tran_cn": "半导体器件；半导体装置；半导体掐"
+    },
+    {
+      "phrase": "semiconductor diode",
+      "tran_cn": "半导体二极管"
+    },
+    {
+      "phrase": "semiconductor laser",
+      "tran_cn": "[光]半导体激光（等于diode laser）"
+    },
+    {
+      "phrase": "semiconductor laser diode",
+      "tran_cn": "半导体激光二极管"
+    },
+    {
+      "phrase": "semiconductor physics",
+      "tran_cn": "半导体物理学"
+    },
+    {
+      "phrase": "semiconductor wafer",
+      "tran_cn": "半导体薄片"
+    },
+    {
+      "phrase": "taiwan semiconductor manufacturing",
+      "tran_cn": "台湾积体电路制造股份有限公司"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<物>半导体",
+      "tran_en": "a substance, such as  silicon  , that allows some electric currents to pass through it, and is used in electronic equipment"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "semiconductors"
+    ]
+  }
+}

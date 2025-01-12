@@ -1,0 +1,184 @@
+{
+  "word": "magnet",
+  "ipa": {
+    "us": "ˈmæɡnət",
+    "uk": "ˈmæɡnət"
+  },
+  "sentences": [
+    {
+      "en": "A large electric magnet on a crane lifts the skull craper.",
+      "cn": "装在起重机上的一块大电磁铁提起破碎机."
+    },
+    {
+      "en": "Buckingham Palace is a great magnet for tourists.",
+      "cn": "白金汉宫对旅游者来说是个有巨大吸引力的地方."
+    },
+    {
+      "en": "Certain metals are attracted to a magnet.",
+      "cn": "某些金属受磁石的吸引."
+    },
+    {
+      "en": "Dalian is a magnet for tourists.",
+      "cn": "大连是吸引游客的地方."
+    },
+    {
+      "en": "He picked all the pins up with a magnet.",
+      "cn": "他用磁铁捡起了所有的大头针."
+    },
+    {
+      "en": "His magnet could hold 2,300 pounds.",
+      "cn": "他的电磁铁可以吸起2,300磅的铁."
+    },
+    {
+      "en": "If a magnet loses its magnetism it will no longer attract things.",
+      "cn": "磁石如果失去磁力,就不能再吸东西了."
+    },
+    {
+      "en": "In the 1990s the area became a magnet for new investment.",
+      "cn": "这个地区在20世纪90年代成了新的投资热点。"
+    },
+    {
+      "en": "It's possible to hang a nail from a magnet and then use that nail to pick up another nail.",
+      "cn": "把一颗钉子挂在一个磁体上再用这颗钉子去吸起另一颗钉子是可能的。"
+    },
+    {
+      "en": "Lower interest rates are acting like a magnet, dragging consumers back to the shops.",
+      "cn": "较低利率像磁铁一样吸引顾客又回到了商店。"
+    },
+    {
+      "en": "Polarity is inherent in a magnet.",
+      "cn": "极性是磁铁的固有性质."
+    },
+    {
+      "en": "Prospect Park, with its vast lake, is a magnet for all health freaks.",
+      "cn": "拥有一大片湖区的普罗斯佩克特公园吸引着所有注重健康的人。"
+    },
+    {
+      "en": "The actress was the magnet that drew great audiences.",
+      "cn": "那位女演员曾吸引过许多观众."
+    },
+    {
+      "en": "The earth may be thought of as a gigantic magnet.",
+      "cn": "整个地球可以想像为一块硕大无朋的磁石."
+    },
+    {
+      "en": "The rabbits in our backyard were a magnet that attracted all the children in the neighbourhood.",
+      "cn": "我家后院的兔子像磁铁一样吸引着邻居所有的孩子."
+    },
+    {
+      "en": "You can magnetize a needle by rubbing it with a magnet.",
+      "cn": "你用磁铁擦针能使它磁化."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "magnetized",
+          "tran_cn": " 已磁化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "magnetisation",
+          "tran_cn": " 磁化强度（等于magnetization）"
+        },
+        {
+          "word": "magnetism",
+          "tran_cn": " 磁性，磁力；磁学；吸引力"
+        },
+        {
+          "word": "magnetization",
+          "tran_cn": " 磁化"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "magnetized",
+          "tran_cn": " 磁化（magnetize的过去分词）；吸引"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "magnetize",
+          "tran_cn": " 磁化；受磁"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "magnetise",
+          "tran_cn": " 使……磁化；使……有磁力"
+        },
+        {
+          "word": "magnetize",
+          "tran_cn": " 吸引；使磁化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "aimant",
+            "leading stone"
+          ],
+          "tran_cn": "[材]磁铁；磁体；[电磁]磁石"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bar magnet",
+      "tran_cn": "棒磁铁；条形磁铁"
+    },
+    {
+      "phrase": "magnet steel",
+      "tran_cn": "[电]磁钢；磁性钢"
+    },
+    {
+      "phrase": "magnet wire",
+      "tran_cn": "磁铁线；线圈线"
+    },
+    {
+      "phrase": "permanent magnet",
+      "tran_cn": "永久磁铁"
+    },
+    {
+      "phrase": "permanent magnet generator",
+      "tran_cn": "永磁发电机"
+    },
+    {
+      "phrase": "superconducting magnet",
+      "tran_cn": "超导磁体；超导磁铁"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "磁铁，磁石，有吸引力的人或物，[物]磁体",
+      "tran_en": "a piece of iron or steel that can stick to metal or make other metal objects move towards itself"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "magnets"
+    ]
+  }
+}

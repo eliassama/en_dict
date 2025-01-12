@@ -1,0 +1,190 @@
+{
+  "word": "splice",
+  "ipa": {
+    "us": "splaɪs",
+    "uk": "splaɪs"
+  },
+  "sentences": [
+    {
+      "en": "A comma splice is the use of a comma between two independent clauses.",
+      "cn": "逗号是不可以连接两个独立的单句的."
+    },
+    {
+      "en": "Aligning the ends of two optical fibers with the aim of minimizing splice loss.",
+      "cn": "调整两根光纤末端以减小接合损耗."
+    },
+    {
+      "en": "Broken connector terminal or wire splice in fog lamp circuit.",
+      "cn": "雾灯电路的接头端子或电线熔接处断裂."
+    },
+    {
+      "en": "He can splice together the broken ends of ropes quickly.",
+      "cn": "他能把断了的绳子头快速接起来."
+    },
+    {
+      "en": "He taught me to edit and splice film.",
+      "cn": "他教我电影剪接。"
+    },
+    {
+      "en": "Repair connector terminal or wire splice.",
+      "cn": "维修接头端子或电线熔接处."
+    },
+    {
+      "en": "She made swift marks in soft red pencil to her assistant to splice and file.",
+      "cn": "她把一段段片头递给她的助手拼接时,用软红铅笔匆匆作上记号."
+    },
+    {
+      "en": "Show me how to splice together knitting wool, will you ?",
+      "cn": "教给我接毛线, 好 吗 ?"
+    },
+    {
+      "en": "Splice: Crosswise joint in a web of paper, secured with adhesive.",
+      "cn": "叠接: 用黏结剂把卷筒纸斜斜的黏接的情况."
+    },
+    {
+      "en": "The boy and I will splice them when we are home.",
+      "cn": "回家以后,我要跟孩子把它们接起来."
+    },
+    {
+      "en": "The break was due to an imperfect splice.",
+      "cn": "那个断口是由结合缺陷造成的."
+    },
+    {
+      "en": "The distribution model of bond stress over the splice length is developed.",
+      "cn": "建立了粘结应力沿锚固长度的分布模式."
+    },
+    {
+      "en": "The method provides the ability to estimate the splice loss.",
+      "cn": "这种技术可以估计出焊接的损失."
+    },
+    {
+      "en": "The recording tape's broken; can you splice these two bits together?",
+      "cn": "录音带断了, 你能否把断开的两节粘接起来?"
+    },
+    {
+      "en": "Then, the Hidden Markov Model and utilized to predict the splice sites.",
+      "cn": "其次, 本文将隐Markov模型应用于剪接位点预测."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "splicing",
+          "tran_cn": " 接合的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "splicer",
+          "tran_cn": " 连接工具；接合东西的人"
+        },
+        {
+          "word": "splicing",
+          "tran_cn": " 拼接；[生化] 剪接；剪接作用；驳布位"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "splicing",
+          "tran_cn": " 拼接；使结合（splice的ing形式）；绞接"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "marriage",
+            "wedding",
+            "junction"
+          ],
+          "tran_cn": "接合；结婚"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "attach",
+            "bind",
+            "conjoin",
+            "connect",
+            "intertwine",
+            "join",
+            "tie",
+            "union",
+            "unite"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "attach",
+            "bind",
+            "connect",
+            "join",
+            "tie"
+          ],
+          "tran_cn": "接合;叠接"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get (或 be) spliced",
+      "tran_cn": "(非正式)结婚"
+    },
+    {
+      "phrase": "splice the main brace",
+      "tran_cn": "(英，史)（海军中）加送一杯朗姆酒"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "胶接处，粘接处，铰接处"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "接合",
+      "tran_en": "to join the ends of two pieces of rope, film etc so that they form one continuous piece"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "绞接，捻接（两段绳子），胶接，粘接（胶片、磁带等）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "splices"
+    ],
+    "past": [
+      "spliced"
+    ],
+    "done": [
+      "spliced"
+    ],
+    "ing": [
+      "splicing"
+    ]
+  }
+}

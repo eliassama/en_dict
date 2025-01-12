@@ -1,0 +1,175 @@
+{
+  "word": "voter",
+  "ipa": {
+    "us": "ˈvəʊtə(r)",
+    "uk": "ˈvoʊtə(r)"
+  },
+  "sentences": [
+    {
+      "en": "A voter must necessarily be no younger than eighteen.",
+      "cn": "选民必须在18岁以上."
+    },
+    {
+      "en": "Germany may be the swing voter in such cases.",
+      "cn": "德国在这种情况下可能会举棋不定."
+    },
+    {
+      "en": "House says it's monitoring reports of voter fraund in Iran's Presidential election.",
+      "cn": "白宫称正在关注伊朗总统选举中出现的贿选报道."
+    },
+    {
+      "en": "I just got my voter's certificate today and feel very happy.",
+      "cn": "我今天刚刚拿到选民证,好开心."
+    },
+    {
+      "en": "In Ireland 83% of voters favoured EC membership in 1972.",
+      "cn": "1972年，83%的爱尔兰选民赞成加入欧洲共同体。"
+    },
+    {
+      "en": "In the federal court system, voter lists are used.",
+      "cn": "联邦法院系统用的是选举人名单."
+    },
+    {
+      "en": "Includes terms of reference, membership, ordinance and voter registration.",
+      "cn": "包括职权范围 、 成员 、 条例和选成登记等."
+    },
+    {
+      "en": "One voter in Brasilia summed up the mood — \"Politicians have lost credibility,\" he complained.",
+      "cn": "一位巴西利亚的选民将人们的心情一言概之——“政客们已无信誉可言”，他抱怨道。"
+    },
+    {
+      "en": "State election officials reported a huge voter turnout on Tuesday.",
+      "cn": "佛罗里达州选举官员报告说,星期二大批选民出来投票."
+    },
+    {
+      "en": "The average voter can research this personal history quite easily.",
+      "cn": "普通选民很容易就能够查到的他的个人经历."
+    },
+    {
+      "en": "The election results were nullified because of voter fraud.",
+      "cn": "因为选民舞弊，选举结果无效。"
+    },
+    {
+      "en": "The official distributed written material about the election to every voter.",
+      "cn": "这位官员将选举的书面材料分送给每位选民."
+    },
+    {
+      "en": "The Voter can also group multiple voted receivers around separate remote transmitters.",
+      "cn": "比选器也能够将散布在远端的发射机周围的多台比选接收机集合在一起."
+    },
+    {
+      "en": "The voter marks the candidates in order of preference.",
+      "cn": "投票人按他们的喜好标出候选者."
+    },
+    {
+      "en": "Tory voters",
+      "cn": "保守党选民"
+    },
+    {
+      "en": "Voter turn - out was unusually high, with over two - thirds of those registered voting.",
+      "cn": "投票率也异常高, 有 三分之二 的登记选民参与了投票."
+    },
+    {
+      "en": "Voter turnout was projected at 85 percent, a level not seen in 40 years.",
+      "cn": "据估计,本次投票率达到85%是四十年内最高的一次."
+    },
+    {
+      "en": "Voters overwhelmingly rejected the Far Right in the May elections.",
+      "cn": "在5月的选举中，选民普遍排斥极右政党。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "voting",
+          "tran_cn": " 投票的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vote",
+          "tran_cn": " 投票，选举；选票；得票数"
+        },
+        {
+          "word": "voting",
+          "tran_cn": " 投票；选举"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "voting",
+          "tran_cn": " 投票（vote的ing形式）；选举"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "vote",
+          "tran_cn": " 选举，投票"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vote",
+          "tran_cn": " 提议，使投票；投票决定；公认"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "elector",
+            "chooser"
+          ],
+          "tran_cn": "选举人，投票人；有投票权者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "constituent"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "voter registration",
+      "tran_cn": "选民登记"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "选举人，投票人，选民",
+      "tran_en": "someone who has the right to vote in a political election, or who votes in a particular election"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "voters"
+    ]
+  }
+}

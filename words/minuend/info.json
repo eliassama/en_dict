@@ -1,0 +1,32 @@
+{
+  "word": "minuend",
+  "ipa": {
+    "us": "'mɪnjʊend",
+    "uk": "'mɪnjʊˌend"
+  },
+  "sentences": [
+    {
+      "en": "If the minuend is larger than the subtrahend, the difference will be positive;",
+      "cn": "如果减数大于减数，差异将是积极的；"
+    },
+    {
+      "en": "In a subtraction operation, the number or quantity subtracted from the minuend.",
+      "cn": "在减法运算中, 从被减数减去的那个数或量."
+    },
+    {
+      "en": "When the final borrow is 1, the minuend is reentered into the divided storage register.",
+      "cn": "当最后借位为1时, 将被减数重新存入被除数存贮寄存器."
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "被减数",
+      "tran_en": "the number from which another number, the subtrahend, is to be subtracted "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,73 @@
+{
+  "word": "interregnum",
+  "ipa": {
+    "us": "ˌɪntəˈregnəm",
+    "uk": "ˌɪntɚˈrɛɡnəm"
+  },
+  "sentences": [
+    {
+      "en": "Fear intensified during the interregnum between Herbert Hoover and Franklin D.",
+      "cn": "恐惧在胡佛和罗斯福任期的中间期得到加强."
+    },
+    {
+      "en": "He shared Clifford's concern about the interregnum.",
+      "cn": "他同克利福德对新旧总统的交替期都抱有忧虑."
+    },
+    {
+      "en": "No one in the interregnum seemed to feel final responsibility, and so matters drifted along.",
+      "cn": "在新旧总统交替期间,似乎谁也不愿意承担最后的责任, 于是事情就这样随波逐流下去了."
+    },
+    {
+      "en": "The Special Group itself was infected with interregnum uncertainties.",
+      "cn": "特别小组本身也受到新旧总统交替期间那种无所适从的影响."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interrupted",
+          "tran_cn": " 中断的；被打断的；不规则的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "interrupted",
+          "tran_cn": " 打断；中断（interrupt的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "break",
+            "broken off"
+          ],
+          "tran_cn": "中断；空位期；过渡期；间歇"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（新旧王朝或新旧政府）更迭的政权空白期，过渡期，中断，停顿",
+      "tran_en": "a period of time when a country or organization has no ruler or leader, and they are waiting for a new one"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      " interregna",
+      "interregnums"
+    ]
+  }
+}

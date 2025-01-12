@@ -1,0 +1,112 @@
+{
+  "word": "ambulate",
+  "ipa": {
+    "us": "'æmbjʊleɪt",
+    "uk": "'æmbjʊleɪt"
+  },
+  "sentences": [
+    {
+      "en": "E . g : The patient was allowed to ambulate in the room.",
+      "cn": "允许病人在屋里走动,ambulance原为战士移动医院现为救护车."
+    },
+    {
+      "en": "Oh, change your job, such you ambulate more with respect to can organic ambulate.",
+      "cn": "噢, 改换你的工作, 这样你就能有机会多走动走动."
+    },
+    {
+      "en": "Patients in whom no orthotic was used were encouraged to ambulate immediately following randomization, maintaining \"neutral spinal alignment\" for 8 weeks.",
+      "cn": "随机分组后，不使用矫形器组的病人即刻被鼓励行走，保持脊椎中立位8周。"
+    },
+    {
+      "en": "The patient was allowed to ambulate in his room.",
+      "cn": "病人被允许在屋里走动."
+    },
+    {
+      "en": "The patient was allowed to ambulate in the room.",
+      "cn": "允许病人在屋里走动."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ambulant",
+          "tran_cn": " 走动的，流动的；可走动的"
+        },
+        {
+          "word": "ambulatory",
+          "tran_cn": " 流动的；走动的；非固定的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ambulance",
+          "tran_cn": " [车辆][医] 救护车；战时流动医院"
+        },
+        {
+          "word": "ambulation",
+          "tran_cn": " 移动；步行"
+        },
+        {
+          "word": "ambulator",
+          "tran_cn": " [测] 测距仪；测程轮"
+        },
+        {
+          "word": "ambulatory",
+          "tran_cn": " [建] 回廊"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "walk"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "foot",
+            "pad"
+          ],
+          "tran_cn": "走动；步行；移动"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "走动",
+      "tran_en": "to wander about or move from one place to another "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "ambulates"
+    ],
+    "past": [
+      "ambulated"
+    ],
+    "done": [
+      "ambulated"
+    ],
+    "ing": [
+      "ambulating"
+    ]
+  }
+}

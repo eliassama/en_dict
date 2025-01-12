@@ -1,0 +1,176 @@
+{
+  "word": "decorator",
+  "ipa": {
+    "us": "ˈdekəreɪtə(r)",
+    "uk": "ˈdɛkəˌretɚ"
+  },
+  "sentences": [
+    {
+      "en": "A painter and decorator was painting the walls of the house.",
+      "cn": "一位油漆工兼装璜工正在粉刷房子的墙壁."
+    },
+    {
+      "en": "A painter decorator was painting the wall of the house.",
+      "cn": "—位油漆工兼装璜工正在粉刷房子的墙壁."
+    },
+    {
+      "en": "AKVIS Decorator lets you change the surface of the object.",
+      "cn": "AKVIS装饰让你改变表面的对象."
+    },
+    {
+      "en": "An interior decorator designs and decorates the interior of a room or building.",
+      "cn": "室内装饰家设计,装饰房间或建筑物的内部."
+    },
+    {
+      "en": "Decorator provide a flexible alternative to subclass for extending functionality.",
+      "cn": "装饰模式提供了除子类继承外可供选择的另一种方案."
+    },
+    {
+      "en": "He now works as a painter and decorator.",
+      "cn": "现在他是油漆装潢工."
+    },
+    {
+      "en": "He works as a painter and decorator.",
+      "cn": "他的职业是油漆匠和装潢师傅。"
+    },
+    {
+      "en": "I have fixed up for the decorator to come on Monday.",
+      "cn": "我已安排好让装饰师星期一来."
+    },
+    {
+      "en": "Moira looked around and sniffed. \"This place badly needs a decorator.\"",
+      "cn": "莫伊拉环顾四周，抽了抽鼻子。“这个地方太需要有人来装修一下了。”"
+    },
+    {
+      "en": "My father is a interior decorator, my mother is a waitress.",
+      "cn": "我的爸爸是装修, 妈妈是待应."
+    },
+    {
+      "en": "The decorator appointed the hotel with ultramodern furnishings.",
+      "cn": "这位装修工用极其现代化的陈设装饰这家旅馆."
+    },
+    {
+      "en": "The decorator had the wood paneling painted to imitate marble.",
+      "cn": "油漆工油漆了木质镶板来模仿大理石."
+    },
+    {
+      "en": "The Decorator Pattern provides an alternative to subclassing for extending behavior.",
+      "cn": "装饰者模式提供了一种继承子类来扩展行为的选择."
+    },
+    {
+      "en": "They gave the decorator a free hand in doing their apartment over.",
+      "cn": "他们给装修师全权来翻修他们的房子."
+    },
+    {
+      "en": "You just can't get over my decorator, can you?",
+      "cn": "你看不上我的室内设计, 对 吧 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "decorated",
+          "tran_cn": " 装饰的，修饰的"
+        },
+        {
+          "word": "decorative",
+          "tran_cn": " 装饰性的；装潢用的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "decoratively",
+          "tran_cn": " 装饰地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "decor",
+          "tran_cn": " 装饰，布置"
+        },
+        {
+          "word": "decoration",
+          "tran_cn": " 装饰，装潢；装饰品；奖章"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "decorated",
+          "tran_cn": " 装饰，修饰（decorate的过去式和过去分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "decorate",
+          "tran_cn": " 装饰；布置"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "decorate",
+          "tran_cn": " 装饰；布置；授勋给"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "decker",
+            "trimmer"
+          ],
+          "tran_cn": "装饰者；室内装潢师"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "designer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "interior decorator",
+      "tran_cn": "室内设计家"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "室内装饰师，油漆匠",
+      "tran_en": "someone who paints houses and puts paper on the walls as their job"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "decorators"
+    ]
+  }
+}

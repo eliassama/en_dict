@@ -1,0 +1,123 @@
+{
+  "word": "unnerve",
+  "ipa": {
+    "us": "ˌʌnˈnɜ:v",
+    "uk": "ˌʌnˈnɜrv"
+  },
+  "sentences": [
+    {
+      "en": "He was unnerved by the way Sylvia kept staring at him.",
+      "cn": "西尔维娅一直盯着他看，让他觉得心里发慌。"
+    },
+    {
+      "en": "To unnerve someone , often as a tactic to beat them in a game or deal.",
+      "cn": "常作为一种策略,在比赛或交易中击败之."
+    },
+    {
+      "en": "Unnerve guest users by adding roving eyes that follow mouse movements.",
+      "cn": "给来宾帐户添加“跟随眼睛”这个跟随鼠标移动的工具可以着实吓人一跳."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "unnerved",
+          "tran_cn": " 气馁的；烦恼不安的"
+        },
+        {
+          "word": "unnerving",
+          "tran_cn": " 使人紧张不安的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "unnerving",
+          "tran_cn": " 除神经法"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "unnerved",
+          "tran_cn": " 使失去气力；使焦躁（unnerve的过去分词形式）"
+        },
+        {
+          "word": "unnerving",
+          "tran_cn": " 使失去气力，使丧失勇气，使焦躁（unnerve的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "alarm",
+            "demoralize",
+            "frighten",
+            "scare",
+            "startle",
+            "upset"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "alarm",
+            "frighten",
+            "scare",
+            "startle",
+            "upset"
+          ],
+          "tran_cn": "惊吓,使恐惧"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使失去勇气；使身心交疲；使焦躁；使失常",
+      "tran_en": "to upset or frighten someone so that they lose their confidence or their ability to think clearly"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使失去勇气，使身心交疲，使焦躁，使失常"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "unnerves"
+    ],
+    "past": [
+      "unnerved"
+    ],
+    "done": [
+      "unnerved"
+    ],
+    "ing": [
+      "unnerving"
+    ],
+    "adv": [
+      "unnervingly"
+    ],
+    "adj": [
+      "unnerving"
+    ]
+  }
+}

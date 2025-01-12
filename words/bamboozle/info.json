@@ -1,0 +1,68 @@
+{
+  "word": "bamboozle",
+  "ipa": {
+    "us": "bæmˈbu:zl",
+    "uk": "bæmˈbuzəl"
+  },
+  "sentences": [
+    {
+      "en": "He bamboozled Mercer into defeat.",
+      "cn": "他蒙骗默瑟并击败了他。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "beguile",
+            "cheat",
+            "snow"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "sell",
+            "fox",
+            "kid"
+          ],
+          "tran_cn": "欺骗；使迷惑"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "欺骗, 迷惑",
+      "tran_en": "to deceive, trick, or confuse someone"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<口>欺骗，使迷惑"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "bamboozles"
+    ],
+    "past": [
+      "bamboozled"
+    ],
+    "done": [
+      "bamboozled"
+    ],
+    "ing": [
+      "bamboozling"
+    ]
+  }
+}

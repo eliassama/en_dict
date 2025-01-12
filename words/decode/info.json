@@ -1,0 +1,150 @@
+{
+  "word": "decode",
+  "ipa": {
+    "us": "ˌdi:ˈkəʊd",
+    "uk": "ˌdiˈkoʊd"
+  },
+  "sentences": [
+    {
+      "en": "About 60,000 subscribers have special adapters to receive and decode the signals.",
+      "cn": "大约6万用户拥有特殊的适配器来接收和转换信号。"
+    },
+    {
+      "en": "All he had to do was decode it and pass it over.",
+      "cn": "他需要做的就是将它破译然后转给他人。"
+    },
+    {
+      "en": "But first they have to decode the scanner's algorithm.",
+      "cn": "但是他们首先要破解感应器的运算规则."
+    },
+    {
+      "en": "Can you decode this code telegram?",
+      "cn": "你能译出这封密码电报 吗 ?"
+    },
+    {
+      "en": "Capture and decode data on a network.",
+      "cn": "捕获和解码网络中的数据."
+    },
+    {
+      "en": "DeCODE has one further piece of evidence in its favor.",
+      "cn": "DeCODE拥有另外一项对其有利的证据."
+    },
+    {
+      "en": "Decode the instruction stored in the instruction register.",
+      "cn": "把存贮在指令寄存器内的指令解码."
+    },
+    {
+      "en": "He was frowning and wishing he could decode the notations on the slips.",
+      "cn": "他皱着眉,挖空心思地想认出赌签上的记号."
+    },
+    {
+      "en": "I was able to decode the data from Multinational Inc.",
+      "cn": "我能够破解来自多国公司的数据了."
+    },
+    {
+      "en": "I will attempt to decode It, sir.",
+      "cn": "我正在解码, 长官."
+    },
+    {
+      "en": "It is harder to decode than traditional algorithms and others and cheap.",
+      "cn": "与传统的和其它加密方法相比,增加了破译难度而系统开销并不大."
+    },
+    {
+      "en": "On top of this, Dr Brennan and Dr Amos both used a different method from deCODE's.",
+      "cn": "除此之外, 布伦南和阿莫斯教授均采用了和deCODE公司不同的研究方法."
+    },
+    {
+      "en": "The chief wants you to stay undercover until we decode this information.",
+      "cn": "头要你继续伪装直到我们破解这一信息."
+    },
+    {
+      "en": "The software decodes the information embedded in the satellite broadcasts.",
+      "cn": "这种软件能够解读衞星广播中的信息。"
+    },
+    {
+      "en": "Viterbi algorithm is the most likelihood decode algorithm of convolution code.",
+      "cn": "维特比译码算法是卷积编码的最大似然译码算法."
+    },
+    {
+      "en": "You don't need a Ph.D to decode their work, but they do try to challenge audiences with unconventional material.",
+      "cn": "解读他们的作品并不需要有博士学位，但他们的确在尝试用一些非传统素材来挑战观众的接受度。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "decoder",
+          "tran_cn": " 解码器，译码器；译码员"
+        },
+        {
+          "word": "decoding",
+          "tran_cn": " [通信] 解码；[计][通信] 译码"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "decoding",
+          "tran_cn": " 破译；译解（decode的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "solve",
+            "unravel",
+            "unscramble"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "encode"
+          ],
+          "tran_cn": "[计][通信]译码，解码"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "解码",
+      "tran_en": "to discover the meaning of a message written in a  code (= a set of secret signs or letters ) "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "译（码），解（码），分析及译解电子信号",
+      "tran_en": "to discover the meaning of a message written in a  code (= a set of secret signs or letters ) "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "decodes"
+    ],
+    "past": [
+      "decoded"
+    ],
+    "done": [
+      "decoded"
+    ],
+    "ing": [
+      "decoding"
+    ]
+  }
+}

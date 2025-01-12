@@ -1,0 +1,216 @@
+{
+  "word": "convey",
+  "ipa": {
+    "us": "kənˈveɪ",
+    "uk": "kənˈveɪ"
+  },
+  "sentences": [
+    {
+      "en": "A vibrating membrane in the ear helps to convey sounds to the brain.",
+      "cn": "耳膜的振动帮助声音传送到大脑."
+    },
+    {
+      "en": "Ads convey the message that thin is beautiful.",
+      "cn": "广告传递的信息是: 瘦就是美。"
+    },
+    {
+      "en": "All this information can be conveyed in a simple diagram.",
+      "cn": "所有这些信息可以通过一张简单的图表来表示。"
+    },
+    {
+      "en": "Colours like red convey a sense of energy and strength.",
+      "cn": "红色之类的颜色可给人以充满活力与力量的感觉。"
+    },
+    {
+      "en": "Convey my congratulations to her.",
+      "cn": "请代我向她表示祝贺."
+    },
+    {
+      "en": "Destroyers escorted a convey of merchant ships.",
+      "cn": "驱逐舰护送一支商船队."
+    },
+    {
+      "en": "Don't forget to convey my regards when you see him.",
+      "cn": "你去见着他,别忘了给我捎个好儿."
+    },
+    {
+      "en": "He hammered home the points he wanted to convey.",
+      "cn": "他把所要传达的重点讲得非常透彻."
+    },
+    {
+      "en": "He tried to convey how he felt.",
+      "cn": "他试图表达他的感受."
+    },
+    {
+      "en": "He was sent to convey a message to the UN Secretary General.",
+      "cn": "他被派去向联合国秘书长传达一条信息。"
+    },
+    {
+      "en": "I can't convey my feelings in words.",
+      "cn": "我无法用言语来表达我的情感."
+    },
+    {
+      "en": "In every one of her pictures she conveys a sense of immediacy.",
+      "cn": "她的每一张画都有一种直观性。"
+    },
+    {
+      "en": "It is difficult to convey the sheer complexity of the situation.",
+      "cn": "很难说清楚形势究竟有多复杂."
+    },
+    {
+      "en": "My letter will convey some idea of my mode of life.",
+      "cn": "我的信将使你了解到一些我的生活方式."
+    },
+    {
+      "en": "Please convey my gratitude to her.",
+      "cn": "请向她转达我的谢意."
+    },
+    {
+      "en": "She realized that Johnson was trying to convey to her that he was lonely.",
+      "cn": "她意识到约翰逊是在尽力向她表达他的寂寞."
+    },
+    {
+      "en": "The railway company extended a branch line to Brightlingsea to convey fish direct to Billingsgate.",
+      "cn": "铁路公司修建了一条通往布赖特灵西的支线，以便直接将鱼运送到比林斯门。"
+    },
+    {
+      "en": "The speed at which we talk can also convey a great deal.",
+      "cn": "我们的语速同样能传达许多信息。"
+    },
+    {
+      "en": "The words fail to convey the meaning.",
+      "cn": "词不达意."
+    },
+    {
+      "en": "When I returned home, I tried to convey the wonder of this machine to my husband.",
+      "cn": "回到家之后，我设法让我丈夫知道这台机器的神奇之处。"
+    },
+    {
+      "en": "Your luggage will be conveyed to the hotel by taxi.",
+      "cn": "你的行李将由出租车送到酒店。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "conveyable",
+          "tran_cn": " 可传达的；可搬运的；可转让的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "conveyance",
+          "tran_cn": " 运输；运输工具；财产让与"
+        },
+        {
+          "word": "conveyancer",
+          "tran_cn": " 运输者；传达者；办理不动产等让与事务者"
+        },
+        {
+          "word": "conveyor",
+          "tran_cn": " 输送机，[机] 传送机；传送带；运送者，传播者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "boat",
+            "bring",
+            "carry",
+            "cart",
+            "communicate",
+            "consign",
+            "deliver",
+            "enlighten",
+            "entrust",
+            "hand",
+            "inform",
+            "over",
+            "report",
+            "send",
+            "signal",
+            "signify",
+            "take",
+            "tell",
+            "transfer",
+            "transport",
+            "wheel"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "communicate",
+            "enlighten",
+            "inform",
+            "report",
+            "tell"
+          ],
+          "tran_cn": "传达,表达"
+        },
+        {
+          "words": [
+            "consign",
+            "deliver",
+            "entrust",
+            "hand",
+            "over",
+            "send",
+            "transfer"
+          ],
+          "tran_cn": "传递;转让"
+        },
+        {
+          "words": [
+            "carry",
+            "take",
+            "transport"
+          ],
+          "tran_cn": "运送,搬运,转运"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "表达，传送",
+      "tran_en": "to communicate or express something, with or without using words"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 表达， 传达； 传递； 运送， 输送； 转让",
+      "tran_en": "to communicate or express something, with or without using words"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "conveys"
+    ],
+    "past": [
+      "conveyed"
+    ],
+    "done": [
+      "conveyed"
+    ],
+    "ing": [
+      "conveying"
+    ]
+  }
+}

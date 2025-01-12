@@ -1,0 +1,188 @@
+{
+  "word": "dense",
+  "ipa": {
+    "us": "dens",
+    "uk": "dens"
+  },
+  "sentences": [
+    {
+      "en": "A dense column of smoke rose several miles into the air.",
+      "cn": "一股浓烟升到了几英里的高空。"
+    },
+    {
+      "en": "a dense rurally-based population",
+      "cn": "居住在乡村的密集人口"
+    },
+    {
+      "en": "Black dense smoke rose up.",
+      "cn": "浓浓的黑烟升起。"
+    },
+    {
+      "en": "dense fog/smoke/fumes",
+      "cn": "浓雾 / 烟；浓烈的气体"
+    },
+    {
+      "en": "Dense smoke swirled and billowed, its rank fumes choking her.",
+      "cn": "滚滚浓烟盘旋翻腾，恶臭味呛得她喘不过气来。"
+    },
+    {
+      "en": "He had a dense, ponderous style.",
+      "cn": "他的行文晦涩而生硬。"
+    },
+    {
+      "en": "He's not a bad man, just a bit dense.",
+      "cn": "他人不坏，就是有点儿愚钝。"
+    },
+    {
+      "en": "His prose is vigorous and dense, occasionally to the point of obscurity.",
+      "cn": "他的散文文笔有力、内容庞杂，有时几近晦涩。"
+    },
+    {
+      "en": "Its fur is short, dense and silky.",
+      "cn": "它的毛又短又密，柔软光洁。"
+    },
+    {
+      "en": "Lobell drove on and on through the dense and blowing snow.",
+      "cn": "洛贝尔冒着纷飞的大雪不停地往前开。"
+    },
+    {
+      "en": "Parts of the forest are still dense and inaccessible.",
+      "cn": "森林的一些部分仍然很茂密，人迹罕至。"
+    },
+    {
+      "en": "The area was covered in dense jungle.",
+      "cn": "这个地区丛林密布。"
+    },
+    {
+      "en": "There was dense smoke pouring from all four engines.",
+      "cn": "4个发动机全都在冒浓烟。"
+    },
+    {
+      "en": "They walked through the dense Mozambican bush for thirty six hours.",
+      "cn": "他们花了36个小时穿过茂密的莫桑比克丛林。"
+    },
+    {
+      "en": "This creature's fur is short, dense and silky.",
+      "cn": "这种动物的毛又短又密、丝般柔滑。"
+    },
+    {
+      "en": "Twenty million years ago, Idaho was populated by dense primordial forest.",
+      "cn": "2,000万年前，爱达荷州到处都是茂密的原始森林。"
+    },
+    {
+      "en": "Where Bucharest now stands, there once was a large, dense forest.",
+      "cn": "布加勒斯特的所在地过去曾是一大片茂密的森林。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "densely",
+          "tran_cn": " 浓密地；密集地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "denseness",
+          "tran_cn": " 密集；稠密；浓厚"
+        },
+        {
+          "word": "density",
+          "tran_cn": " 密度"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "close",
+            "compact",
+            "compressed",
+            "crowded",
+            "heavy",
+            "packed",
+            "solid",
+            "thick"
+          ],
+          "tran_cn": "密集的,稠密的"
+        },
+        {
+          "words": [
+            "dull",
+            "stupid"
+          ],
+          "tran_cn": "愚钝的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "close",
+            "compact",
+            "compressed",
+            "crowded",
+            "dull",
+            "dumb",
+            "gross",
+            "heavy",
+            "impenetrable",
+            "obtuse",
+            "solid",
+            "stupid",
+            "thick",
+            "wooden"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dense concrete",
+      "tran_cn": "密实混凝土"
+    },
+    {
+      "phrase": "dense fog",
+      "tran_cn": "浓雾"
+    },
+    {
+      "phrase": "dense packing",
+      "tran_cn": "致密堆积；致密填积"
+    },
+    {
+      "phrase": "dense population",
+      "tran_cn": "稠密的人口"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "密集的，浓的，密度大的，费解的，愚钝的",
+      "tran_en": "made of or containing a lot of things or people that are very close together"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "denser"
+    ],
+    "est": [
+      "densest"
+    ],
+    "adv": [
+      "densely"
+    ]
+  }
+}

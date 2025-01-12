@@ -1,0 +1,133 @@
+{
+  "word": "switchboard",
+  "ipa": {
+    "us": "ˈswɪtʃbɔ:d",
+    "uk": "ˈswɪtʃbɔrd"
+  },
+  "sentences": [
+    {
+      "en": "All rooms are linked to the main switchboard.",
+      "cn": "所有的房间都与主开关连接."
+    },
+    {
+      "en": "Ask the switchboard operator for an outside line.",
+      "cn": "叫(电话)接线员接外线."
+    },
+    {
+      "en": "Barbara will man the telephone switchboard till we get back.",
+      "cn": "我们回来前由巴巴拉管理电话总机."
+    },
+    {
+      "en": "Call the switchboard and ask for extension 410.",
+      "cn": "你先打电话到总机，然后要求转分机410。"
+    },
+    {
+      "en": "From the minute it ended, the White House switchboard was clogged with congratulatory phone calls.",
+      "cn": "从它结束的那一分钟开始, 白宫的电话总机就由于祝贺的电话太多而应接不暇."
+    },
+    {
+      "en": "He asked to be connected to the central switchboard at London University.",
+      "cn": "他要求转接到伦敦大学的电话总机。"
+    },
+    {
+      "en": "He asked to be connected to the central switchboard.",
+      "cn": "他请求接到总机。"
+    },
+    {
+      "en": "He instructed switchboard staff to divert all Laura's calls to him.",
+      "cn": "他让总机接线员将劳拉所有的电话都转给他。"
+    },
+    {
+      "en": "Hundreds of callers jammed the switchboard trying to win the tickets (= there were too many calls for the switchboard to deal with ) .",
+      "cn": "几百个电话打进来想赢取门票，总机应接不暇。"
+    },
+    {
+      "en": "If you want an outside line, you'll have to ask the switchboard.",
+      "cn": "如果你想要外线, 你得叫交换台给你转."
+    },
+    {
+      "en": "In this view, a manager is sometimes likened to a telephone switchboard.",
+      "cn": "根据这个观点, 有时候把管理者比拟为电话总机."
+    },
+    {
+      "en": "O : Tanaka General Enterprises, switchboard. Who [ m ] do you wish to speak to?",
+      "cn": "田中 通用公司总机. 请问您要找谁?"
+    },
+    {
+      "en": "switchboard operators",
+      "cn": "电话总机接线员"
+    },
+    {
+      "en": "The girls on the switchboard are always having to put out calls for him.",
+      "cn": "总机接线员老得通过广播呼叫他接电话."
+    },
+    {
+      "en": "The switchboard is manned twenty - four hours a day.",
+      "cn": "电话总机是一天24小时由人操纵的."
+    },
+    {
+      "en": "The technicians are coming to fix the telephone switchboard.",
+      "cn": "技师们马上就来修理电话交换机."
+    },
+    {
+      "en": "This is switchboard, what can I do for you?",
+      "cn": "这里是电话总机, 我能为你做点什么 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "switching",
+          "tran_cn": " [电] 开关；转换；整流；配电"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "switching",
+          "tran_cn": " 转换（switch的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "distribution panel",
+            "cabinet panel"
+          ],
+          "tran_cn": "[电]配电盘；接线总机"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "switchboard operator",
+      "tran_cn": "接线员"
+    },
+    {
+      "phrase": "telephone switchboard",
+      "tran_cn": "电话交换台，电话交换机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "配电盘，电话交换机",
+      "tran_en": "a system used to connect telephone calls in an office building, hotel etc, or the people who operate the system"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "switchboards"
+    ]
+  }
+}

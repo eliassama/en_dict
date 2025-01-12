@@ -1,0 +1,100 @@
+{
+  "word": "dapple",
+  "ipa": {
+    "us": "'dæpl",
+    "uk": "'dæpəl"
+  },
+  "sentences": [
+    {
+      "en": "A large area of white on the chest of a dapple is permissible.",
+      "cn": "斑纹色腊肠在胸前有大面积的白色斑纹是允许的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dappled",
+          "tran_cn": " 斑纹的；有斑点的；花的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "dappled",
+          "tran_cn": " 起斑纹（dapple的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "brinded",
+            "freaked"
+          ],
+          "tran_cn": "有斑纹的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "marking",
+            "brindle"
+          ],
+          "tran_cn": "斑纹；花马"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "marble",
+            "mottle"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "speck"
+          ],
+          "tran_cn": "使有斑点"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有斑纹的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "斑纹，花马",
+      "tran_en": "mottled or spotted markings "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（使）起斑纹",
+      "tran_en": "to mark something with spots of colour, light, or shade"
+    }
+  ],
+  "exchange": {}
+}

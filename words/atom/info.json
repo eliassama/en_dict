@@ -1,0 +1,194 @@
+{
+  "word": "atom",
+  "ipa": {
+    "us": "ˈætəm",
+    "uk": "ˈætəm"
+  },
+  "sentences": [
+    {
+      "en": "\" That's it,'said Rutherford.'The atom has been split!'",
+      "cn": "‘ 就是它! ’ 卢瑟福叫道, ‘ 原子已经被分裂了!"
+    },
+    {
+      "en": "A methane molecule is composed of one carbon atom attached to four hydrogens.",
+      "cn": "甲烷分子由1个碳原子与4个氢原子构成。"
+    },
+    {
+      "en": "A neutron is simply a neutral particle in the nucleus of an atom.",
+      "cn": "中子就是原子核里不带电的粒子。"
+    },
+    {
+      "en": "After hydrogen, the atom with the simplest structure is that of helium.",
+      "cn": "在氢元素之后, 氦的原子结构最简单."
+    },
+    {
+      "en": "An atom bomb would destroy a city.",
+      "cn": "一颗原子弹能摧毁一座城市。"
+    },
+    {
+      "en": "carbon atoms",
+      "cn": "碳原子"
+    },
+    {
+      "en": "For many years the atom was believed to be indivisible.",
+      "cn": "在过去有很多年原子一直被认为是不可分割的."
+    },
+    {
+      "en": "He could not get up an atom of sympathy for her.",
+      "cn": "他对她激不出一点同情心."
+    },
+    {
+      "en": "He patented the idea that the atom could be split.",
+      "cn": "他获得了“原子可以再分”这一概念的专利权。"
+    },
+    {
+      "en": "Neutrons and protons are bound together in the nucleus of an atom.",
+      "cn": "在原子核里，中子和质子是结合在一起的。"
+    },
+    {
+      "en": "The neutrons and protons form the core of the atom.",
+      "cn": "中子和质子构成了原子核."
+    },
+    {
+      "en": "The nucleus of an atom consists of neutrons, protons and other particles.",
+      "cn": "原子核由中子 、 质子和其他粒子构成."
+    },
+    {
+      "en": "The power of the atom can be used to produce electricity.",
+      "cn": "原子能可以用来发电."
+    },
+    {
+      "en": "the splitting of the atom",
+      "cn": "原子的分裂"
+    },
+    {
+      "en": "The V2 was not an ordinary weapon: it could only be used against cities. Likewise the atom bomb.",
+      "cn": "V2火箭并非普通武器：它只能用于对付城市。原子弹也是这样。"
+    },
+    {
+      "en": "This jump means that the atom has absorbed some energy.",
+      "cn": "这种跳跃意味着原子吸收了某些能量."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "atomic",
+          "tran_cn": " 原子的，原子能的；微粒子的"
+        },
+        {
+          "word": "atomistic",
+          "tran_cn": " 原子的；原子论的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "atomism",
+          "tran_cn": " [物] 原子论"
+        },
+        {
+          "word": "atomization",
+          "tran_cn": " 雾化，[分化] 原子化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "atomize",
+          "tran_cn": " 分裂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "atomise",
+          "tran_cn": " 使分为原子；使雾化（等于atomize）"
+        },
+        {
+          "word": "atomize",
+          "tran_cn": " 使分裂为原子；将…喷成雾状；使遭受原子弹轰炸"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "monad"
+          ],
+          "tran_cn": "原子"
+        },
+        {
+          "words": [
+            "bit",
+            "corpuscle",
+            "iota",
+            "jot",
+            "morsel",
+            "particle",
+            "scintilla",
+            "shred",
+            "smidgen",
+            "trace"
+          ],
+          "tran_cn": "微粒,微量"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "crumb",
+            "molecule",
+            "shade"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "atom bomb",
+      "tran_cn": "原子弹"
+    },
+    {
+      "phrase": "bohr atom",
+      "tran_cn": "玻尔氏原子"
+    },
+    {
+      "phrase": "hydrogen atom",
+      "tran_cn": "氢原子"
+    },
+    {
+      "phrase": "neutral atom",
+      "tran_cn": "中性原子"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "原子",
+      "tran_en": "the smallest part of an  element  that can exist alone or can combine with other substances to form a  molecule "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "atoms"
+    ]
+  }
+}

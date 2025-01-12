@@ -1,0 +1,85 @@
+{
+  "word": "appointee",
+  "ipa": {
+    "us": "əˌpɔɪnˈti:",
+    "uk": "əˌpɔɪnˈti, ˌæpɔɪn-"
+  },
+  "sentences": [
+    {
+      "en": "...Becket, a recent appointee to the Supreme Court.",
+      "cn": "...贝克特，一个最近刚被任命在最高法院工作的人。"
+    },
+    {
+      "en": "I am a New appointee! Please look after much!",
+      "cn": "我是一只新的手! 请把考虑给我!谢谢你!"
+    },
+    {
+      "en": "The appointee will also use our technology platform to assist with data management and control.",
+      "cn": "税务助理需使用德勤的技术平台,协助数据管理与控制."
+    },
+    {
+      "en": "the new appointee to the post",
+      "cn": "新委任此职务者"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "appointed",
+          "tran_cn": " 约定的，指定的"
+        },
+        {
+          "word": "appointive",
+          "tran_cn": " 任命的；委派的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "appointment",
+          "tran_cn": " 任命；约定；任命的职位"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "appointed",
+          "tran_cn": " 任命；指定；约定时间，地点（appoint 的过去分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "nominee",
+            "designee"
+          ],
+          "tran_cn": "被任命者"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "被任命者，被指定者，[法]指定的财产受益人",
+      "tran_en": "An appointee is someone who has been chosen for a particular job or position of responsibility"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "appointees"
+    ]
+  }
+}

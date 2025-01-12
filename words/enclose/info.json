@@ -1,0 +1,198 @@
+{
+  "word": "enclose",
+  "ipa": {
+    "us": "ɪnˈkləʊz",
+    "uk": "ɪnˈkloʊz"
+  },
+  "sentences": [
+    {
+      "en": "an enclosed area",
+      "cn": "有围墙的区域"
+    },
+    {
+      "en": "Before posting a letter, you should enclose it in an envelope.",
+      "cn": "在把信寄出之前你必须把它装入信封内."
+    },
+    {
+      "en": "Enclose the flower in a small muslin bag.",
+      "cn": "把这花用一个小棉袋包起来。"
+    },
+    {
+      "en": "Enclose the pot in a clear polythene bag.",
+      "cn": "将罐子装在透明的塑胶袋中。"
+    },
+    {
+      "en": "Farmers often enclose their land with hedges.",
+      "cn": "农夫们常用树篱将他们的地围起来."
+    },
+    {
+      "en": "I enclose a cheque in settlement of your account.",
+      "cn": "兹附支票一张以结清贵处帐目."
+    },
+    {
+      "en": "I enclose here with a draft for the sum of 100 dollars.",
+      "cn": "兹附上100美元汇票一张."
+    },
+    {
+      "en": "I enclose herewith a cheque for 20 pounds.",
+      "cn": "随信附上二十镑支票一张."
+    },
+    {
+      "en": "I enclose herewith a copy of the policy.",
+      "cn": "我随信附上一份保险单。"
+    },
+    {
+      "en": "I enclose two tickets along with this letter.",
+      "cn": "我随信附上两张票."
+    },
+    {
+      "en": "I'll enclose his letter with mine.",
+      "cn": "我将他的信装入我的信中寄出."
+    },
+    {
+      "en": "If you would like to send a donation to Cobuild, please enclose a cheque with your coupon.",
+      "cn": "如果你想为Cobuild语料库捐款，请随订货单附上支票。"
+    },
+    {
+      "en": "Make sure you enclose all the relevant certificates.",
+      "cn": "要保证把所有相关证书都放在里面。"
+    },
+    {
+      "en": "Please enclose a cheque with your order.",
+      "cn": "请随订单附上支票。"
+    },
+    {
+      "en": "Please enclose a stamped addressed envelope to get your test results.",
+      "cn": "请附姓名地址邮资俱全的信封，以便把化验结果寄给你。"
+    },
+    {
+      "en": "Please enclose an sae for your test results.",
+      "cn": "请附姓名地址邮资俱全的信封，以便邮递化验结果。"
+    },
+    {
+      "en": "Please enclose your remittance, making cheques payable to Thames Valley Technology.",
+      "cn": "请附上汇款，支票收款人为泰晤士河谷科技公司。"
+    },
+    {
+      "en": "Referring to my conversation with you today, I now enclose an order sheet for hosiery as specified.",
+      "cn": "参照今日和你方的谈判记录, 兹随函寄上详细叙述订购卫生衣的订单2份,请查收."
+    },
+    {
+      "en": "The pool area is enclosed by a six-foot wall.",
+      "cn": "游泳区用六英尺高的高墙围了起来。"
+    },
+    {
+      "en": "The rules state that samples must be enclosed in two watertight containers.",
+      "cn": "条例规定样品必须用两个不漏水的容器封装起来。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "enclosed",
+          "tran_cn": " 被附上的；与世隔绝的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "encloser",
+          "tran_cn": " 外壳；罩壳"
+        },
+        {
+          "word": "enclosure",
+          "tran_cn": " 附件；围墙；围场"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "enclosed",
+          "tran_cn": " 附上（enclose的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blanket",
+            "bracket",
+            "cage",
+            "circle",
+            "circumscribe",
+            "contain",
+            "corral",
+            "embed",
+            "encircle",
+            "encompass",
+            "envelop",
+            "fence",
+            "imbed",
+            "in",
+            "include",
+            "picket",
+            "shut",
+            "surround",
+            "web"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "contain",
+            "encircle",
+            "envelop",
+            "fence",
+            "in",
+            "include",
+            "shut",
+            "surround"
+          ],
+          "tran_cn": "围住;圈住"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "围住，封闭，随函附上",
+      "tran_en": "to put something inside an envelope as well as a letter"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 围住， 包住； 把…装入信封， 附上",
+      "tran_en": "to put something inside an envelope as well as a letter"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "encloses"
+    ],
+    "past": [
+      "enclosed"
+    ],
+    "done": [
+      "enclosed"
+    ],
+    "ing": [
+      "enclosing"
+    ]
+  }
+}

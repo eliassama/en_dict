@@ -1,0 +1,93 @@
+{
+  "word": "insensibility",
+  "ipa": {
+    "us": "ɪnˌsensəˈbɪlətɪ",
+    "uk": ""
+  },
+  "sentences": [
+    {
+      "en": "He showed total insensibility to the animal's fate.",
+      "cn": "他对那个动物的命运漠不关心."
+    },
+    {
+      "en": "His insensibility to art indicates that he will never become a real artist.",
+      "cn": "他不会欣赏艺术,他将永远也成为不了一名真正的艺术家."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "insensate",
+          "tran_cn": " 无感觉的；无情的；无生命的"
+        },
+        {
+          "word": "insensible",
+          "tran_cn": " 昏迷的；无知觉的；麻木不仁的"
+        },
+        {
+          "word": "insensitive",
+          "tran_cn": " 感觉迟钝的，对…没有感觉的"
+        },
+        {
+          "word": "insentient",
+          "tran_cn": " 无知觉的；无生命的；无感情的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "insensibly",
+          "tran_cn": " 不知不觉地；徐徐地；极细微地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "insensitivity",
+          "tran_cn": " 感觉迟钝；不灵敏性；昏迷"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "unconcern",
+            "don't mind"
+          ],
+          "tran_cn": "不关心，不在乎；无感觉"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "boredom",
+            "paralysis"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "没有知觉，不在乎，不关心，无感情",
+      "tran_en": "the state of being unconscious"
+    }
+  ],
+  "exchange": {}
+}

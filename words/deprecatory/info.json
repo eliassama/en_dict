@@ -1,0 +1,85 @@
+{
+  "word": "deprecatory",
+  "ipa": {
+    "us": "ˌdeprə'keɪtərɪ",
+    "uk": "ˌdeprə'keɪtərɪ"
+  },
+  "sentences": [
+    {
+      "en": "With a deprecatory grunt , the jackal again complied.",
+      "cn": "豺狗表示抱歉地哼了哼, 照办了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deprecating",
+          "tran_cn": " 不以为然的；不赞成的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deprecation",
+          "tran_cn": " 祈免；贬低；反对"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "deprecating",
+          "tran_cn": " 对…表示不赞成；轻视（deprecate的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "deprecate",
+          "tran_cn": " 反对；抨击；轻视；声明不赞成"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "anti",
+            "disapprobatory"
+          ],
+          "tran_cn": "不赞成的；反对的；恳求的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abusive"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不赞成的，恳求的，反对的",
+      "tran_en": "expressing disapproval; protesting "
+    }
+  ],
+  "exchange": {}
+}

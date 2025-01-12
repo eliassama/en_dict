@@ -1,0 +1,83 @@
+{
+  "word": "culpability",
+  "ipa": {
+    "us": "ˌkʌlpə'bɪlətɪ",
+    "uk": "kʌlpəˈbɪlətɪ"
+  },
+  "sentences": [
+    {
+      "en": "As if the estrangement between them had come of any culpability of hers.",
+      "cn": "姐弟俩疏远的责任竟仿佛落到了她的身上!"
+    },
+    {
+      "en": "Culpability for a crime or lesser breach of regulations that carries a legal penalty.",
+      "cn": "轻罪,过失为一罪行或对法规的轻度违反而应受法律上的处罚."
+    },
+    {
+      "en": "The offence, as now defined in English law, covers a wide spectrum of culpability.",
+      "cn": "英国法律规定, 违法包括很多种过失行为."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "culpable",
+          "tran_cn": " 有罪的；该责备的；不周到的；应受处罚的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "culpably",
+          "tran_cn": " 该罚地；可恶地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "criminality",
+            "sinfulness"
+          ],
+          "tran_cn": "可责；有过失；[法]有罪"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "delinquency",
+            "guilt",
+            "responsibility"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "苛责，有罪"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "culpably"
+    ],
+    "adj": [
+      "culpable"
+    ]
+  }
+}

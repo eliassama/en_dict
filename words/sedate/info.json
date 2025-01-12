@@ -1,0 +1,183 @@
+{
+  "word": "sedate",
+  "ipa": {
+    "us": "sɪˈdeɪt",
+    "uk": "sɪˈdeɪt"
+  },
+  "sentences": [
+    {
+      "en": "a sedate seaside town",
+      "cn": "宁静的海边小镇"
+    },
+    {
+      "en": "After the accident, the doctor gave her some pills to sedate her.",
+      "cn": "事故发生后, 医生让她服了些药片使她镇静下来."
+    },
+    {
+      "en": "Betty is a sedate girl.",
+      "cn": "贝蒂是个恬静的姑娘."
+    },
+    {
+      "en": "He was of a more sedate turn of mind.",
+      "cn": "这个经理是个较为严肃正派的人."
+    },
+    {
+      "en": "Her London life was sedate, almost mundane.",
+      "cn": "她在伦敦的生活平淡无奇，几乎有些枯燥。"
+    },
+    {
+      "en": "I seemed to be reduced to my former calm, sedate way of living.",
+      "cn": "我似乎又恢复了以前那种安定, 宁静的生活方式."
+    },
+    {
+      "en": "It took an extremely large dose just to sedate him in the first place.",
+      "cn": "首先需要给他服用大剂量的镇静剂."
+    },
+    {
+      "en": "It would never do to appear sedate and elderly before Melanie's sweet youthfulness.",
+      "cn": "可千万不能在媚兰那娇嫩的姿色前显得稳重和老气呀!"
+    },
+    {
+      "en": "Miss Arena has a graceful, sedate manner.",
+      "cn": "艾瑞那小姐的仪态优雅文静."
+    },
+    {
+      "en": "She took them to visit her sedate, elderly cousins.",
+      "cn": "她带他们去拜访她那些不苟言笑的表兄表姐们。"
+    },
+    {
+      "en": "The wedding was rather a sedate occasion.",
+      "cn": "婚礼上气氛庄重。"
+    },
+    {
+      "en": "They tried to sedate her.",
+      "cn": "他们想用镇静剂使她静下来."
+    },
+    {
+      "en": "Upon the most sedate consideration, I resolved that it was absolutely necessary to conceal it all.",
+      "cn": "经过了最冷静的考虑之后, 我认为把他完全隐藏起来是绝对必要的."
+    },
+    {
+      "en": "Vandeuvres had sat himself down by the stout man, who still looked very sedate.",
+      "cn": "汪德夫尔已经走到那个矮胖子身边坐下,那个人的样子, 依然是很沉着的."
+    },
+    {
+      "en": "We followed the youngsters at a more sedate pace.",
+      "cn": "我们跟在年轻人后面，步子稍慢一点。"
+    },
+    {
+      "en": "We followed the youngsters at a more sedate pace.",
+      "cn": "我们跟在年轻人后面，步子稍慢一点。"
+    },
+    {
+      "en": "We set off again at a more sedate pace.",
+      "cn": "我们重新上路了，步调更加从容。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sedative",
+          "tran_cn": " 使镇静的；使安静的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sedately",
+          "tran_cn": " 安详地；镇静地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sedateness",
+          "tran_cn": " 安详；镇静"
+        },
+        {
+          "word": "sedation",
+          "tran_cn": " 镇静；镇静作用；镇静状态"
+        },
+        {
+          "word": "sedative",
+          "tran_cn": " [药] 镇静剂；能使安静的东西；止痛药"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "quiet",
+            "composed",
+            "calm",
+            "steady",
+            "tranquil"
+          ],
+          "tran_cn": "安静的；沉着的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "collected",
+            "composed"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "安静的，沉着的，镇静的，静肃的",
+      "tran_en": "calm, serious, and formal"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "给…服镇静剂",
+      "tran_en": "to give someone drugs to make them calm or to make them sleep"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使昏昏入睡，使镇静，给…服镇静剂"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "sedates"
+    ],
+    "past": [
+      "sedated"
+    ],
+    "done": [
+      "sedated"
+    ],
+    "ing": [
+      "sedating"
+    ],
+    "er": [
+      "sedater"
+    ],
+    "est": [
+      "sedatest"
+    ],
+    "adv": [
+      "sedately"
+    ]
+  }
+}

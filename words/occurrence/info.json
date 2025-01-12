@@ -1,0 +1,169 @@
+{
+  "word": "occurrence",
+  "ipa": {
+    "us": "əˈkʌrəns",
+    "uk": "əˈkɜːrəns"
+  },
+  "sentences": [
+    {
+      "en": "A matter of repeated occurrence like this will not astonish people.",
+      "cn": "这样司空见惯的事,不会使人吃惊."
+    },
+    {
+      "en": "Complaints seemed to be an everyday occurrence.",
+      "cn": "似乎每天都有投诉。"
+    },
+    {
+      "en": "During the contest an unlucky occurrence hurt his cause exceedingly.",
+      "cn": "争论中,不幸发生的事极大地损害了他的事业."
+    },
+    {
+      "en": "Evidence is lacking, however , as to their occurrence in other animal phyla.",
+      "cn": "微体在其他动物门的存在, 尚缺乏证据."
+    },
+    {
+      "en": "Flooding in the area is a common occurrence.",
+      "cn": "该地区经常发生水灾。"
+    },
+    {
+      "en": "For a military commander, winning or losing a battle is a common occurrence.",
+      "cn": "胜败乃兵家常事."
+    },
+    {
+      "en": "For months at a time, air raids were a nightly occurrence.",
+      "cn": "一度有几个月，每天晚上都会发生空袭。"
+    },
+    {
+      "en": "Knowledge of the occurrence of chromite deposits is likewise incomplete.",
+      "cn": "对于铬铁矿矿层产状的了解同样是不完整的."
+    },
+    {
+      "en": "Laughter was a rare occurrence in his classroom.",
+      "cn": "他的课堂上难得有笑声。"
+    },
+    {
+      "en": "Ron's example illuminates an everyday occurrence: job rotation tears apart relational ties.",
+      "cn": "罗恩的例子解释了一件每天都发生的事情: 工作变动撕破了关系的纽带."
+    },
+    {
+      "en": "The frequent occurrence of earthquakes in the area means that the buildings must be specially designed to withstand the force.",
+      "cn": "该地区地震频发，这意味着建筑物必须有专门的抗震设计"
+    },
+    {
+      "en": "The greatest occurrence of coronary heart disease is in those over 65.",
+      "cn": "65岁以上者是冠心病的最高发人群。"
+    },
+    {
+      "en": "The man can neither originate varieties, nor prevent their occurrence.",
+      "cn": "人类既不能创造变种, 亦不能阻止变种发生."
+    },
+    {
+      "en": "The occurrence of malodor has obvious seasonal.",
+      "cn": "恶臭的发生具有明显的季节性。"
+    },
+    {
+      "en": "The occurrence of storms delayed our trip.",
+      "cn": "暴风雨延误了我们的旅行."
+    },
+    {
+      "en": "The occurrence of such things is by no means fortuitous.",
+      "cn": "出现这种问题绝不是偶然的."
+    },
+    {
+      "en": "The occurrence of the disease is apparently related to standards of hygiene.",
+      "cn": "这种病的发生率显然与卫生状况相关."
+    },
+    {
+      "en": "Two things account for its occurrence.",
+      "cn": "发生这件事的原因有两个."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "occurrent",
+          "tran_cn": " 正在发生的；偶然发生的"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "occur",
+          "tran_cn": " 发生；出现；存在"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "accident",
+            "action",
+            "adventure",
+            "affair",
+            "case",
+            "casualty",
+            "chance",
+            "circumstance",
+            "deed",
+            "doing",
+            "episode",
+            "event",
+            "experience",
+            "fact",
+            "happening",
+            "happenstance",
+            "incidence",
+            "incident",
+            "matter",
+            "mishap",
+            "occasion",
+            "phenomenon",
+            "proceeding",
+            "transaction",
+            "venture"
+          ],
+          "tran_cn": "发生,事件,机会,事故,惊险活动"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "development",
+            "presence",
+            "thing"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "probability of occurrence",
+      "tran_cn": "发生概率；事件概率"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "发生，出现，遭遇，事件",
+      "tran_en": "something that happens"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "occurrences"
+    ]
+  }
+}

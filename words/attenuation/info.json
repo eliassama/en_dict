@@ -1,0 +1,176 @@
+{
+  "word": "attenuation",
+  "ipa": {
+    "us": "əˌtenjʊ'eɪʃn",
+    "uk": "əˌtenjʊ'eɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "At least, this may explain the local school safe education some attenuation.",
+      "cn": "至少, 这可以说明当地学校的安全教育有些弱化."
+    },
+    {
+      "en": "Atmospheric turbulence and attenuation play an important role in laser's transmission.",
+      "cn": "大气湍流与大气消光会给激光传输带来较大的影响."
+    },
+    {
+      "en": "Attenuation of light is in the form of absorption.",
+      "cn": "光是以吸收的形式衰减."
+    },
+    {
+      "en": "Elastic energy attenuation degree and plastic energy change rate were defined.",
+      "cn": "定义弹性能衰减度和塑性能变化率."
+    },
+    {
+      "en": "Express the factors resulting in the attenuation of acoustic waves.",
+      "cn": "叙述引起音波衰减的因素."
+    },
+    {
+      "en": "It has a rather high transmission frequency and low attenuation.",
+      "cn": "居有较高的传输频率和较低的衰减."
+    },
+    {
+      "en": "Note that the polyethylene cables offer much lower attenuation than PVC cables.",
+      "cn": "请注意,聚乙烯电缆比PVC( 聚氯乙烯)电缆具有低得多的损耗."
+    },
+    {
+      "en": "Requirements of passband ripple, stopband attenuation, and achieve a minimum order.",
+      "cn": "要求通带波纹, 阻带衰减, 并用最小阶数实现."
+    },
+    {
+      "en": "Slow attenuation property of electromagnetic energy is confirmed by experiments.",
+      "cn": "用实验直接验证了瞬态电磁波的慢衰减特性."
+    },
+    {
+      "en": "The attenuation distance and transmittance are connected together, they influence each other.",
+      "cn": "衰减距离attenuation) 和能见度(transmittance)是联系在一起的, 并相互影响."
+    },
+    {
+      "en": "The Color, Multiplier and Attenuation parameters can all be animated over time.",
+      "cn": "颜色, 放大器和减弱器都可以超时绘制."
+    },
+    {
+      "en": "The point of degradation, due to attenuation or distortion, at which a signal becomes unusable.",
+      "cn": "由于衰减或失真使得信号变得不能使用的那个退化点."
+    },
+    {
+      "en": "Ultrasonic attenuation capacity of cellular Al alloy foam were studied.",
+      "cn": "研究了闭孔泡沫铝合金孔结构参数对其超声衰减性能的影响."
+    },
+    {
+      "en": "Ultrasonic transmission attenuation characteristic in muscular tissue is discussed in this paper.",
+      "cn": "探讨超声对肌肉组织超声传输特性."
+    },
+    {
+      "en": "Yet some form of attenuation is mandatory.",
+      "cn": "然而有些衰减形式是必须采用的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "attenuated",
+          "tran_cn": " [生物][物] 衰减的；瘦长的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "attenuator",
+          "tran_cn": " [电子] 衰减器；[生化] 弱化子"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "attenuated",
+          "tran_cn": " 使减弱；使变细；稀释（attenuate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "damping",
+            "dieaway"
+          ],
+          "tran_cn": "[物]衰减；变薄；[化学]稀释"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "diminution"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acoustic attenuation",
+      "tran_cn": "声衰减"
+    },
+    {
+      "phrase": "attenuation coefficient",
+      "tran_cn": "[电]衰减系数"
+    },
+    {
+      "phrase": "attenuation constant",
+      "tran_cn": "衰减常量；减幅常数"
+    },
+    {
+      "phrase": "attenuation curve",
+      "tran_cn": "衰减曲线"
+    },
+    {
+      "phrase": "attenuation factor",
+      "tran_cn": "衰减因数"
+    },
+    {
+      "phrase": "attenuation measurement",
+      "tran_cn": "衰减测量，减弱测定"
+    },
+    {
+      "phrase": "noise attenuation",
+      "tran_cn": "噪声衰减"
+    },
+    {
+      "phrase": "power attenuation",
+      "tran_cn": "功率耗损"
+    },
+    {
+      "phrase": "signal attenuation",
+      "tran_cn": "信号衰减"
+    },
+    {
+      "phrase": "sound attenuation",
+      "tran_cn": "消音，声衰减"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "变薄，弄细，稀薄化，减少"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "attenuate"
+    ]
+  }
+}

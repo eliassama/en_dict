@@ -1,0 +1,139 @@
+{
+  "word": "repository",
+  "ipa": {
+    "us": "rɪˈpɒzətri",
+    "uk": "rɪˈpɑzətɔri"
+  },
+  "sentences": [
+    {
+      "en": "A church in Moscow became a repository for police files.",
+      "cn": "莫斯科的一座教堂成为警察局档案的存放处。"
+    },
+    {
+      "en": "Can deleted but your additions to the repository will lost.",
+      "cn": "可以被删除,但是你加入知识库的细节会丢失."
+    },
+    {
+      "en": "He was a repository of all her secrets.",
+      "cn": "她的一切秘密她都肯告诉他."
+    },
+    {
+      "en": "She was a repository of all his secrets.",
+      "cn": "她是他完全信赖的人."
+    },
+    {
+      "en": "Submitting her changes to the repository is the operation we call \" checkin \"",
+      "cn": "提交她的变更到配置库中的操作就是我们所说的 “ 签入 ”"
+    },
+    {
+      "en": "The book is a repository of curious information.",
+      "cn": "这书里有许多奇事."
+    },
+    {
+      "en": "The cell nucleus is the main repository of genetic information.",
+      "cn": "细胞核是贮藏遗传信息的主要场所."
+    },
+    {
+      "en": "The man is a repository of curious information.",
+      "cn": "这人晓得许多奇事."
+    },
+    {
+      "en": "The man is a repository of out - of - the - way knowledge.",
+      "cn": "这人有满腹 稀奇古怪 的知识."
+    },
+    {
+      "en": "The repository database on disk has barely increased in size.",
+      "cn": "库只是在磁盘空间上增加了点."
+    },
+    {
+      "en": "The repository is the official archive of our work.",
+      "cn": "库是我们的正式的档案."
+    },
+    {
+      "en": "The repository of all important knowledge in a small town was the chief barman of the local pub.",
+      "cn": "小镇上最无所不知的人就是当地酒吧里的服务员领班。"
+    },
+    {
+      "en": "The waste repository was usually the nearest watercourse.",
+      "cn": "废物容纳地点一般是离城市最近的水域."
+    },
+    {
+      "en": "This recognition will provide an important basis for repository siting site area.",
+      "cn": "这一认识,为处置库选址提供了重要依据."
+    },
+    {
+      "en": "With this approach, a repository path is sufficient to describe a location.",
+      "cn": "这种方式下, 库路径就可以充分的表述位置了."
+    },
+    {
+      "en": "Your repository may have similar longevity, or even longer.",
+      "cn": "你的库可能有类似的寿命, 甚至更长."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reposition",
+          "tran_cn": " 复位；贮藏；放回"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "reposit",
+          "tran_cn": " 贮藏；使复位"
+        },
+        {
+          "word": "reposition",
+          "tran_cn": " 使复位；改变…的位置；使变换阵地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "warehouse",
+            "stockroom"
+          ],
+          "tran_cn": "贮藏室，仓库；知识库；智囊团"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "museum",
+            "receiver",
+            "shrine",
+            "storage",
+            "trunk"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "仓库，贮藏室，博物馆，亲信",
+      "tran_en": "a place or container in which large quantities of something are stored"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "repositories"
+    ]
+  }
+}

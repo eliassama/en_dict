@@ -1,0 +1,179 @@
+{
+  "word": "graphics",
+  "ipa": {
+    "us": "ˈgræfɪks",
+    "uk": "ˈɡræfɪks"
+  },
+  "sentences": [
+    {
+      "en": "a plug-in graphics card",
+      "cn": "插入式图形卡"
+    },
+    {
+      "en": "A true GUI includes standard formats for representing text and graphics.",
+      "cn": "真正的图形用户界面包括表示文字和图形的标准格式."
+    },
+    {
+      "en": "Hard copy is computer output on paper, printing or graphics.",
+      "cn": "硬拷贝是出现在纸上 、 印刷上或图表上的电脑输出."
+    },
+    {
+      "en": "I couldn't get the graphics to print correctly.",
+      "cn": "我无法将图表正确地打印出来."
+    },
+    {
+      "en": "In computer graphics , a predetermined pattern of lines, that provides uniform coverage of a display space.",
+      "cn": "在计算机图形学中, 提供显示空间均匀覆盖面的预定扫描线图案."
+    },
+    {
+      "en": "In computer graphics, a light sensitive pick device that is pointed at the display surface.",
+      "cn": "在计算机图形学中, 一种指点显示屏面的光敏信号选图装置."
+    },
+    {
+      "en": "In computer graphics, scrolling restricted to an upward or downward direction.",
+      "cn": "在计算机图形学中, 只限于指向上或向下滚动屏幕图形的过程."
+    },
+    {
+      "en": "In computer graphics, to change a display image, for example, by scaling, rotating, or translating.",
+      "cn": "在计算机图形学中, 改变所显示的图象, 例如转动 、 平移、放大 、 缩小等."
+    },
+    {
+      "en": "In System / 38 graphics, the default result of the intersection of two or more colors.",
+      "cn": "在IBMSystem/38图形技术中, 系统将两种或两两种以上颜色合成后的自然结果."
+    },
+    {
+      "en": "In this in-depth motion graphics tutorial you will learn how to use vector shapes for 3D motion graphics.",
+      "cn": "在这种深入的运动图形教程中，您将学习如何使用矢量图形的3D动态图像。"
+    },
+    {
+      "en": "My job is to lay out the text and graphics on the page.",
+      "cn": "我的工作是设计页面上的正文和图表。"
+    },
+    {
+      "en": "On PC, the game had it all — imaginative storyline and characters, challenging gameplay, superb graphics.",
+      "cn": "个人电脑里的游戏非常完美，从想象力丰富的故事情节及人物到富有挑战性的游戏设计和精美画面，应有尽有。"
+    },
+    {
+      "en": "The articles are noticeably shorter with strong headlines and graphics.",
+      "cn": "这些文章明显短了许多，并且配上了醒目的标题和图表。"
+    },
+    {
+      "en": "The specification of tables of graphics.",
+      "cn": "对图表的说明."
+    },
+    {
+      "en": "They are using state-of-the-art graphics in the film's special effects.",
+      "cn": "他们在电影的特技中使用最新的动画制图法。"
+    },
+    {
+      "en": "Within information graphics, clarify cause and effect.",
+      "cn": "在信息图形中, 要阐明原因与结果."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "graphic",
+          "tran_cn": " 形象的；图表的；绘画似的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "graphically",
+          "tran_cn": " 生动地；活灵活现地；用图表表示；轮廓分明地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "graph",
+          "tran_cn": " 图表；曲线图"
+        },
+        {
+          "word": "graphology",
+          "tran_cn": " 笔迹学；笔迹相法；图表法"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "graph",
+          "tran_cn": " 用曲线图表示"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chartography",
+            "cartography"
+          ],
+          "tran_cn": "[测][数]制图学；制图法；图表算法"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "animated graphics",
+      "tran_cn": "单格动画图形；动画图形，活动图像"
+    },
+    {
+      "phrase": "computer graphics",
+      "tran_cn": "[电]电脑绘图；电脑图形图像"
+    },
+    {
+      "phrase": "engineering graphics",
+      "tran_cn": "工程图学"
+    },
+    {
+      "phrase": "graphics adapter",
+      "tran_cn": "图形适配器（显示卡的另一种名称）；图形介面卡"
+    },
+    {
+      "phrase": "graphics card",
+      "tran_cn": "[计]图形卡；显示卡"
+    },
+    {
+      "phrase": "graphics driver",
+      "tran_cn": "显卡驱动"
+    },
+    {
+      "phrase": "graphics library",
+      "tran_cn": "图形库"
+    },
+    {
+      "phrase": "graphics mode",
+      "tran_cn": "图形方式"
+    },
+    {
+      "phrase": "graphics software",
+      "tran_cn": "图形软件"
+    },
+    {
+      "phrase": "vector graphics",
+      "tran_cn": "向量图形；向量图"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[测]制图学，制图法，图表算法，（商业设计或插图中的）图形，图样",
+      "tran_en": "pictures or images that are designed to represent objects or facts, especially in a computer program"
+    }
+  ],
+  "exchange": {}
+}

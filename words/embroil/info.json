@@ -1,0 +1,64 @@
+{
+  "word": "embroil",
+  "ipa": {
+    "us": "ɪmˈbrɔɪl",
+    "uk": "ɪm'brɔɪl"
+  },
+  "sentences": [
+    {
+      "en": "Any hostilities could result in retaliation and further embroil U.N. troops in fighting.",
+      "cn": "任何敌对活动都可能会招致报复，进而使联合国部队卷入战斗中。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "embroilment",
+          "tran_cn": " 混乱，搅乱；纠纷，争执"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cloud",
+            "confuse"
+          ],
+          "tran_cn": "使卷入；使混乱"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使卷入, 牵连, 使纠缠",
+      "tran_en": "to involve someone or something in a difficult situation"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（自己或他人）卷入纠纷"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "embroils"
+    ],
+    "past": [
+      "embroiled"
+    ],
+    "done": [
+      "embroiled"
+    ],
+    "ing": [
+      "embroiling"
+    ]
+  }
+}

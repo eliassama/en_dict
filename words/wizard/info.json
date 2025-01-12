@@ -1,0 +1,165 @@
+{
+  "word": "wizard",
+  "ipa": {
+    "us": "ˈwɪzəd",
+    "uk": "ˈwɪzərd"
+  },
+  "sentences": [
+    {
+      "en": "a financial wizard",
+      "cn": "金融奇才"
+    },
+    {
+      "en": "Accountant John Talbot is a wizard with numbers.",
+      "cn": "会计师约翰·塔尔博特精通数字。"
+    },
+    {
+      "en": "Captures video, audio, or still images using the Capture Wizard.",
+      "cn": "使用“捕获向导”捕获视频 、 音频或静止图像."
+    },
+    {
+      "en": "Contains shortcuts that the Desktop Cleanup Wizard moved here.",
+      "cn": "包含“桌面清理向导”移动到此的快捷方式."
+    },
+    {
+      "en": "Do you know there's a wizard in Nepal who's growing gravity - resistant trees?",
+      "cn": "你知不知道尼泊尔有位巫师在种植 反 地心引力树木?"
+    },
+    {
+      "en": "He was a wizard with camels.",
+      "cn": "他是位养骆驼的行家."
+    },
+    {
+      "en": "She's a wizard at playing harp.",
+      "cn": "她是弹奏竖琴的奇才."
+    },
+    {
+      "en": "That isn't a wizard wand.",
+      "cn": "那不是一根魔杖."
+    },
+    {
+      "en": "The guy was trying to cast a spell on me, like a wizard.",
+      "cn": "那家伙试图向我下咒, 像巫师一样."
+    },
+    {
+      "en": "The Upsizing Wizard can export table attributes in addition to data.",
+      "cn": "“升迁向导”不仅可以导出数据,而且还可以导出表属性."
+    },
+    {
+      "en": "The wizard clapped a pudgy hand to his vast forehead.",
+      "cn": "巫师用胖乎乎的手拍了一下宽大的前额."
+    },
+    {
+      "en": "This concludes the demo of the Preinstallation Kit Wizard.",
+      "cn": "该操作将结束预安装库向导的演示."
+    },
+    {
+      "en": "This wizard adds a member function to a class, struct, or union.",
+      "cn": "本向导向类 、 结构或联合添加成员函数."
+    },
+    {
+      "en": "This wizard automatically detects and installs new Plug and Play printers.",
+      "cn": "这个向导自动检测并安装新的即插即用打印机."
+    },
+    {
+      "en": "Wizard Wong had glanced at the tape several times.",
+      "cn": "翁“魔术师”已经对磁带瞥了好几眼."
+    },
+    {
+      "en": "You think we can muster up enough wizard power to pull it off.",
+      "cn": "你认为我们能够集合起足够的能量来施法吗?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "wizardly",
+          "tran_cn": " 神奇的，奇异的；男巫的；神汉的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "wizardry",
+          "tran_cn": " 巫术，魔法"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "mediumistic"
+          ],
+          "tran_cn": "男巫的；巫术的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "expert",
+            "genius",
+            "master"
+          ],
+          "tran_cn": "奇才;专家;名家"
+        },
+        {
+          "words": [
+            "conjuror",
+            "sorcerer"
+          ],
+          "tran_cn": "巫师;魔术师"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "brain",
+            "conjuror",
+            "expert",
+            "genius",
+            "magician",
+            "master",
+            "sorcerer"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "wizard of oz",
+      "tran_cn": "绿野仙踪（童话）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "男巫的；巫术的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "男巫，行家，奇才，向导（程序）",
+      "tran_en": "a man who is supposed to have magic powers"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "wizards"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "word": "toddle",
+  "ipa": {
+    "us": "ˈtɒdl",
+    "uk": "ˈtɑdl"
+  },
+  "sentences": [
+    {
+      "en": "...once your baby starts toddling.",
+      "cn": "...一旦你的小孩开始蹒跚学步。"
+    },
+    {
+      "en": "The baby has just learned to toddle.",
+      "cn": "小孩子刚会走道儿."
+    },
+    {
+      "en": "We watched the little boy toddle up purposefully to the refrigerator.",
+      "cn": "我们看著那小男孩特意晃到冰箱前."
+    },
+    {
+      "en": "Why did you let the boy toddle by the river?",
+      "cn": "你为啥让孩子东摇西摆地在河边走?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "toddler",
+          "tran_cn": " 学步的小孩；幼童装"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "walk along",
+            "have a walk"
+          ],
+          "tran_cn": "蹒跚学步；东倒西歪地走；散步"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "东倒西歪的走路；刚学走步的小孩"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "(如小孩)蹒跚学步",
+      "tran_en": "if a small child toddles, it walks with short, unsteady steps"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（幼儿等）东倒西歪地走，蹒跚行走，<口>溜达，散步"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "toddles"
+    ],
+    "past": [
+      "toddled"
+    ],
+    "done": [
+      "toddled"
+    ],
+    "ing": [
+      "toddling"
+    ]
+  }
+}

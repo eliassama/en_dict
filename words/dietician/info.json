@@ -1,0 +1,71 @@
+{
+  "word": "dietician",
+  "ipa": {
+    "us": "ˌdaɪɪ'tɪʃən",
+    "uk": "ˌdaɪəˈtɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "Beth the dietician was a dilemma.",
+      "cn": "饮食学家贝丝进退两难."
+    },
+    {
+      "en": "His wife , a biochemist , was a dietician at a research institute.",
+      "cn": "学生物化学的 老伴儿 在一家研究所里做营养试验."
+    },
+    {
+      "en": "The best advice is to consult your doctor or a dietician.",
+      "cn": "最好的建议是向你的医生或营养师咨询."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dietetic",
+          "tran_cn": " 饮食的；饮食学的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dietetics",
+          "tran_cn": " 营养学；饮食学"
+        },
+        {
+          "word": "dietitian",
+          "tran_cn": " （美）营养学家；饮食学家"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "nutritionist"
+          ],
+          "tran_cn": "营养学家；[医]膳食学家（等于dietitian）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "饮食学家",
+      "tran_en": "someone who is trained to give people advice about what it is healthy for them to eat and drink"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "dieticians"
+    ]
+  }
+}

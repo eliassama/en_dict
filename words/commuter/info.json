@@ -1,0 +1,138 @@
+{
+  "word": "commuter",
+  "ipa": {
+    "us": "kəˈmjuːtə(r)",
+    "uk": "kəˈmjuːtər"
+  },
+  "sentences": [
+    {
+      "en": "Commuter airlines fly to out-of-the-way places. And business travelers are the ones who go to those locations.",
+      "cn": "支线航空公司航班飞往偏僻地区。商务旅客就是会前往那些地区的人。"
+    },
+    {
+      "en": "Commuter car left, the school playground was particularly quiet too.",
+      "cn": "通勤车走后, 学校操场上就显得特别得安静."
+    },
+    {
+      "en": "Fires broke out at three railway stations, halting service on two commuter lines for several hours.",
+      "cn": "三个火车站发生了火灾，两条通勤线路的服务被迫中断数小时。"
+    },
+    {
+      "en": "I asked if she meant to fly to Pensacola a commuter plane.",
+      "cn": "我问她是不是要达成往返飞机飞往朋沙科拉."
+    },
+    {
+      "en": "In Central American cities, it was used in commuter fleets.",
+      "cn": "在中美洲城市, 它被用做上下班的班车."
+    },
+    {
+      "en": "Let's hurry, or we're going to miss the commuter bus.",
+      "cn": "如果咱们不快点儿走, 就要赶不上通勤车了."
+    },
+    {
+      "en": "Major commuter arteries were choked with stalled traffic.",
+      "cn": "主要的交通干线都挤满了堵塞的车辆."
+    },
+    {
+      "en": "Manager Li: This is your timecard attendance at the commuter time everyday.",
+      "cn": "李经理: 这是你的工卡,上下班时要打卡."
+    },
+    {
+      "en": "Passenger traffic on the commuter line has decreased during the summer.",
+      "cn": "夏季,通勤线上的旅客数量有所减少."
+    },
+    {
+      "en": "Police cordoned off the road and diverted commuter traffic.",
+      "cn": "警察封锁了道路并分流交通."
+    },
+    {
+      "en": "She accidentally stepped on his foot on a crowded commuter train.",
+      "cn": "她在拥挤的通勤列车上不小心踩到了他的脚。"
+    },
+    {
+      "en": "Six million commuter travel to work by rail each day.",
+      "cn": "每天有600万乘客(通勤人员)乘火车上班."
+    },
+    {
+      "en": "The average commuter journey there is five hours long.",
+      "cn": "那里的通勤一族平均上下班要花5个小时。"
+    },
+    {
+      "en": "The commuter plane was waiting for takeoff.",
+      "cn": "通勤飞机在等候起飞。"
+    },
+    {
+      "en": "The deal would have reduced competition in the commuter-aircraft market.",
+      "cn": "这项协议原本会减少通勤航班市场的竞争。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "commutation",
+          "tran_cn": " 减刑；交换；经常来往；代偿"
+        },
+        {
+          "word": "commute",
+          "tran_cn": " 通勤（口语）"
+        },
+        {
+          "word": "commuting",
+          "tran_cn": " 乘公交车上下班；经常往来"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "commute",
+          "tran_cn": " 通勤；代偿"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "commute",
+          "tran_cn": " 减刑；交换；用……交换；使……变成"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "driver",
+            "passenger"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "commuter train",
+      "tran_cn": "市郊往返列车"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（远距离）上下班往返的人",
+      "tran_en": "someone who travels a long distance to work every day"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "commuters"
+    ]
+  }
+}

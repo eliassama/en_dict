@@ -1,0 +1,89 @@
+{
+  "word": "sapient",
+  "ipa": {
+    "us": "ˈseɪpiənt",
+    "uk": "ˈsepiənt"
+  },
+  "sentences": [
+    {
+      "en": "If you follow her sapient advice, you will be sure to succeed.",
+      "cn": "假如你遵照她明智的建议，你一定能够成功。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "saponaceous",
+          "tran_cn": " 圆滑的；肥皂似的；口齿伶俐的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sapience",
+          "tran_cn": " 智慧；装聪明"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "intelligent",
+            "clever",
+            "wise",
+            "smart",
+            "bright"
+          ],
+          "tran_cn": "聪明的；伶俐的；装聪明样的；有见识的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "Homo sapiens"
+          ],
+          "tran_cn": "（史前的）智人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "judicious",
+            "wise"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<文>贤明的，睿智的，自以为聪明的",
+      "tran_en": "very wise"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "sapiently"
+    ],
+    "noun": [
+      "sapience"
+    ]
+  }
+}

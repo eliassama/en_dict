@@ -1,0 +1,130 @@
+{
+  "word": "enervate",
+  "ipa": {
+    "us": "ˈenəveɪt",
+    "uk": "ˈenərveɪt"
+  },
+  "sentences": [
+    {
+      "en": "Soft living will enervate the leaders, and those under their command will be changed into beasts.",
+      "cn": "舒适的生命会弱化领导者, 在他们命令之下的会变成了兽."
+    },
+    {
+      "en": "The hot sun enervated her to the point of collapse.",
+      "cn": "热辣辣的太阳把她晒得快要晕过去了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "enervated",
+          "tran_cn": " 衰弱的，无力的"
+        },
+        {
+          "word": "enervating",
+          "tran_cn": " 使人衰弱的；令人萎靡不振的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "energy",
+          "tran_cn": " [物] 能量；精力；活力；精神"
+        },
+        {
+          "word": "enervation",
+          "tran_cn": " 衰弱；虚弱；削弱；神经无力"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "enervated",
+          "tran_cn": " 使衰弱（enervate的过去分词）"
+        },
+        {
+          "word": "enervating",
+          "tran_cn": " 使…丧失力量；使…衰弱（enervate的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "weak",
+            "marasmic"
+          ],
+          "tran_cn": "衰弱的；无力的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "demoralize",
+            "languish"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "debilitate",
+            "devitalize"
+          ],
+          "tran_cn": "使衰弱；使失去活力"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "衰弱的，无力的",
+      "tran_en": "deprived of strength or vitality; weakened "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "削弱",
+      "tran_en": "to make you feel tired and weak"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使衰弱，使失去活力"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "enervates"
+    ],
+    "past": [
+      "enervated"
+    ],
+    "done": [
+      "enervated"
+    ],
+    "ing": [
+      "enervating"
+    ],
+    "noun": [
+      "enervation"
+    ]
+  }
+}

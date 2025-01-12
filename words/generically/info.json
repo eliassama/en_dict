@@ -1,0 +1,103 @@
+{
+  "word": "generically",
+  "ipa": {
+    "us": "dʒə'nerɪklɪ",
+    "uk": "dʒə'nerɪklɪ"
+  },
+  "sentences": [
+    {
+      "en": "Archetypes do not describe any one problem specifically. They describe families of problems generically.",
+      "cn": "这些基模不是特定地描述某一问题,而是叙述一系列的问题."
+    },
+    {
+      "en": "Roche said it was ramping up production of the drug, known generically as oseltamivir.",
+      "cn": "罗氏公司表示正在努力提高该药物即奥赛米韦的产量."
+    },
+    {
+      "en": "The so - called critics are generically mentioned, but not individually mentioned.",
+      "cn": "当所谓的批评提及时总是一笔带过, 从不指名道姓."
+    },
+    {
+      "en": "We market these drugs generically.",
+      "cn": "我们推广的这些药是未经注册的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "generalized",
+          "tran_cn": " 广义的，普遍的；无显著特点的"
+        },
+        {
+          "word": "generic",
+          "tran_cn": " 类的；一般的；属的；非商标的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "generally",
+          "tran_cn": " 通常；普遍地，一般地"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "generalized",
+          "tran_cn": " 推广（generalize的过去分词）；对…进行概括；使…一般化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "generalize",
+          "tran_cn": " 形成概念"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "generalize",
+          "tran_cn": " 概括；推广；使...一般化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "commonly",
+            "currently",
+            "normally"
+          ],
+          "tran_cn": "一般地；属类地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "一般地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "generic"
+    ]
+  }
+}

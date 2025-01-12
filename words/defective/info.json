@@ -1,0 +1,215 @@
+{
+  "word": "defective",
+  "ipa": {
+    "us": "dɪˈfektɪv",
+    "uk": "dɪˈfektɪv"
+  },
+  "sentences": [
+    {
+      "en": "A manufacturer negligently made and marketed a car with defective brakes.",
+      "cn": "某厂家由于疏忽，制造并销售了一款刹车系统存在缺陷的汽车。"
+    },
+    {
+      "en": "Any items found defective or worn should be corrected at this time.",
+      "cn": "此时若发现任何部分有缺陷或损坏;都应及时予以修理."
+    },
+    {
+      "en": "defective products",
+      "cn": "残次品"
+    },
+    {
+      "en": "Evidence is accumulating that a defective gene may be responsible for this disease.",
+      "cn": "越来越多的证据表明该疾病是由一种有缺陷的基因引起的."
+    },
+    {
+      "en": "Girls in an affected family can also be tested to see if they carry the defective gene.",
+      "cn": "染病家庭的女孩们也可以检查一下，看看是否携带这种缺陷基因。"
+    },
+    {
+      "en": "He is defective in moral sense.",
+      "cn": "他不能分辨邪正."
+    },
+    {
+      "en": "Her hearing was found to be slightly defective.",
+      "cn": "经检查，她的听力有点缺陷。"
+    },
+    {
+      "en": "Her sight was becoming defective.",
+      "cn": "她的视力开始出现问题。"
+    },
+    {
+      "en": "Her vision is seriously defective.",
+      "cn": "她的视力有严重缺陷."
+    },
+    {
+      "en": "Retailers can return defective merchandise.",
+      "cn": "零售商可以退回有缺陷的商品。"
+    },
+    {
+      "en": "The buildup of impurities often results in defective plating.",
+      "cn": "杂质的积累经常导致不良的电镀."
+    },
+    {
+      "en": "The disease is caused by a defective gene.",
+      "cn": "这种疾病是由缺陷基因引起的。"
+    },
+    {
+      "en": "The firm had received bad publicity over a defective product.",
+      "cn": "该公司因为一件次品而受到媒体攻击."
+    },
+    {
+      "en": "The good ones are used and defective ones are discarded.",
+      "cn": "合格的就采用,次品就废弃."
+    },
+    {
+      "en": "The idea was correct, the execution defective.",
+      "cn": "这个主张是正确的, 但执行上有缺点."
+    },
+    {
+      "en": "We replace defective tubes.",
+      "cn": "我们更换有毛病的管子."
+    },
+    {
+      "en": "We should try to prevent defective parts slipping through.",
+      "cn": "我们应该设法防止有毛病从部件漏出去."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "defectively",
+          "tran_cn": " 有缺陷地；缺乏地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "defect",
+          "tran_cn": " 缺点，缺陷；不足之处"
+        },
+        {
+          "word": "defection",
+          "tran_cn": " 背叛；缺点；变节；脱党"
+        },
+        {
+          "word": "defectiveness",
+          "tran_cn": " 有缺陷；缺乏"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "defect",
+          "tran_cn": " 变节；叛变"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "commission",
+            "deficient",
+            "deformed",
+            "disrepair",
+            "faulty",
+            "flawed",
+            "impaired",
+            "imperfect",
+            "in",
+            "incomplete",
+            "inoperative",
+            "irregular",
+            "lacking",
+            "marred",
+            "of",
+            "out",
+            "poor",
+            "unsound",
+            "wanting",
+            "weak"
+          ],
+          "tran_cn": "欠缺的"
+        },
+        {
+          "words": [
+            "feeble-minded",
+            "half-witted",
+            "imbecilic",
+            "mentally",
+            "moronic",
+            "retarded",
+            "simple"
+          ],
+          "tran_cn": "身心有缺陷的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cracked",
+            "fallible"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "defective goods",
+      "tran_cn": "次品；不合格品"
+    },
+    {
+      "phrase": "defective index",
+      "tran_cn": "废品率"
+    },
+    {
+      "phrase": "defective material",
+      "tran_cn": "有缺陷的材料"
+    },
+    {
+      "phrase": "defective product",
+      "tran_cn": "有瑕疵的产品；不合格产品"
+    },
+    {
+      "phrase": "defective rate",
+      "tran_cn": "次品率"
+    },
+    {
+      "phrase": "fraction defective",
+      "tran_cn": "[工业管理]不合格率；废品率；不良率"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有缺陷的，有毛病的",
+      "tran_en": "not made properly, or not working properly"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "有缺陷的人；不完全变化词"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "defectively"
+    ],
+    "noun": [
+      "defectiveness"
+    ]
+  }
+}

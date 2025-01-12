@@ -1,0 +1,189 @@
+{
+  "word": "err",
+  "ipa": {
+    "us": "ɜː(r)",
+    "uk": "er"
+  },
+  "sentences": [
+    {
+      "en": "Err, fall, sin if you will, but be upright.",
+      "cn": "你们尽管在歧路徘徊, 失足, 犯错误, 但总应当做个正直的人."
+    },
+    {
+      "en": "He who is suBject to temptations tends to err.",
+      "cn": "不能抗拒诱感的人,往往要犯错误."
+    },
+    {
+      "en": "Hot blood will err sometimes.",
+      "cn": "血气旺盛有时会造成过失的."
+    },
+    {
+      "en": "In this book, we prefer to err in the opposite direction.",
+      "cn": "本书中, 我们宁愿犯相反的错误."
+    },
+    {
+      "en": "It has been borne in upon him that even sages err.",
+      "cn": "他认识到:即使圣贤也会犯错误."
+    },
+    {
+      "en": "It is best to err on the side of prudence.",
+      "cn": "宁可失之过于谨慎."
+    },
+    {
+      "en": "it is better to err on the side of caution.",
+      "cn": "多一些谨慎总是好的。"
+    },
+    {
+      "en": "It is better to err on the side of mercy.",
+      "cn": "宁可失之过于怜悯."
+    },
+    {
+      "en": "It's best to err on the safe side.",
+      "cn": "即使错,最好也错在谨慎上面."
+    },
+    {
+      "en": "It’s always best to err on the side of caution.",
+      "cn": "过于谨慎永远比冒风险强。"
+    },
+    {
+      "en": "She would not err in any way, if she could help it.",
+      "cn": "只要有可能的话,她要避免做错任何动作."
+    },
+    {
+      "en": "They may be wise to err on the side of caution.",
+      "cn": "他们过于谨慎也许是明智的。"
+    },
+    {
+      "en": "To err is human, and nobody likes a perfect person.",
+      "cn": "是人都会犯错，而且谁也不喜欢完人。"
+    },
+    {
+      "en": "To err is human, to forgive divine . -- A . Pope.",
+      "cn": "失误人皆有之, 而宽恕乃超人之举. -- 蒲柏."
+    },
+    {
+      "en": "To err is human, to forgive is divine.",
+      "cn": "犯错是人之常情, 宽恕是超凡的."
+    },
+    {
+      "en": "To err is human, to forgive, divine.",
+      "cn": "犯错误是人之常情, 宽恕是非凡的行为."
+    },
+    {
+      "en": "To err is human.",
+      "cn": "[谚]人皆有过."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "erring",
+          "tran_cn": " 做错的；错误的"
+        },
+        {
+          "word": "errorless",
+          "tran_cn": " 正确的，无错误的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "errancy",
+          "tran_cn": " 错误；错误状态；犯错误的倾向"
+        },
+        {
+          "word": "error",
+          "tran_cn": " 误差；错误；过失"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "erring",
+          "tran_cn": " 犯错误；越轨（err的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "go",
+            "misjudge",
+            "sin",
+            "slip",
+            "wrong"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "go",
+            "misjudge",
+            "sin",
+            "slip",
+            "wrong"
+          ],
+          "tran_cn": "犯错误;犯罪"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "err in",
+      "tran_cn": "弄错，犯错误"
+    },
+    {
+      "phrase": "err on the right side",
+      "tran_cn": "力求稳妥"
+    },
+    {
+      "phrase": "err on the side of",
+      "tran_cn": "（行动上）多表现（某种品质）"
+    },
+    {
+      "phrase": "to err is human",
+      "tran_cn": "人非圣贤孰能无过"
+    },
+    {
+      "phrase": "to err is human, to forgive divine",
+      "tran_cn": "(谚)犯错人皆难免，宽恕则属超凡"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "犯错误，出差错",
+      "tran_en": "to be more careful or safe than is necessary, in order to make sure that nothing bad happens"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "errs"
+    ],
+    "past": [
+      "erred"
+    ],
+    "done": [
+      "erred"
+    ],
+    "ing": [
+      "erring"
+    ]
+  }
+}

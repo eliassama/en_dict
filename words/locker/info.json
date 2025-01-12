@@ -1,0 +1,178 @@
+{
+  "word": "locker",
+  "ipa": {
+    "us": "ˈlɒkə(r)",
+    "uk": "ˈlɑːkər"
+  },
+  "sentences": [
+    {
+      "en": "A man in the gangway suddenly stood up to reach for something in the overhead locker.",
+      "cn": "靠通道坐的一名男子突然起身去拿头顶上方行李舱里的什么东西。"
+    },
+    {
+      "en": "a meat locker",
+      "cn": "肉类冷藏间"
+    },
+    {
+      "en": "Apparently, some asshole put a camera in the locker room.",
+      "cn": "很显然有个混蛋在置物间里放了摄象机."
+    },
+    {
+      "en": "At the swimming pool I put my clothes in a locker.",
+      "cn": "在游泳池我把衣服锁在小柜里."
+    },
+    {
+      "en": "First, we must learn to dress in the average beach locker.",
+      "cn": "首先, 我们必须学会在海滩更衣室换衣服."
+    },
+    {
+      "en": "He moved into the locker room and began to slip out of his scrub suit.",
+      "cn": "他走进更衣室把手术服脱下来."
+    },
+    {
+      "en": "He went to a locker room for his street clothes, and returned.",
+      "cn": "他走到更衣室去换上自己的便服, 然后又走了回来."
+    },
+    {
+      "en": "If you don't know where my locker is, you're in over your heads.",
+      "cn": "如果你们不知道我的柜子在那里你们脑袋进水了."
+    },
+    {
+      "en": "In the postgame locker room, Bryant was still upset.",
+      "cn": "赛后在更衣室里, 科比仍然很郁闷."
+    },
+    {
+      "en": "It was George who first proposed that we dry clothes in that locker.",
+      "cn": "是乔治首先提议我们把衣服挂在那个储物柜里晾干的。"
+    },
+    {
+      "en": "Luggage locker can be rent at the airport.",
+      "cn": "可在机场租用带锁的行李寄存柜."
+    },
+    {
+      "en": "Ted was standing at his locker when I asked him.",
+      "cn": "我去问铁德时,他正站在存放衣帽柜前."
+    },
+    {
+      "en": "The ship and all her crew went to Davy Jones's locker.",
+      "cn": "该船及其全部水手都沉到海底去了."
+    },
+    {
+      "en": "There's a sail locker under the wheel deck.",
+      "cn": "在甲板的轮子下面有个航行用的小橱柜."
+    },
+    {
+      "en": "We were in the sail locker, screaming on our knees over the sails.",
+      "cn": "我们进了风帆柜, 慌慌张张地在风帆堆上爬着."
+    },
+    {
+      "en": "Why don't you just shoot us in the locker room, chief?",
+      "cn": "你怎么不直接在更衣室把我俩给崩了呢上士?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "locked",
+          "tran_cn": " 上锁的；不灵活的；下定决心的"
+        },
+        {
+          "word": "locking",
+          "tran_cn": " 伏窝孵卵的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "lock",
+          "tran_cn": " 锁；水闸；刹车"
+        },
+        {
+          "word": "locking",
+          "tran_cn": " [电子] 锁定；摇摆舞"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "locked",
+          "tran_cn": " 锁上；紧闭；紧抱住（lock的过去分词）"
+        },
+        {
+          "word": "locking",
+          "tran_cn": " 上锁（lock的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "lock",
+          "tran_cn": " 锁；锁住；卡住"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "lock",
+          "tran_cn": " 锁，锁上；隐藏"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "box",
+            "case"
+          ],
+          "tran_cn": "柜，箱；上锁的人；有锁的橱柜；锁扣装置；有锁的存物柜"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bureau",
+            "chest",
+            "closet",
+            "trunk"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "locker room",
+      "tran_cn": "衣帽间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "寄物柜，上锁的人，小橱，冷藏间",
+      "tran_en": "A locker is a small metal or wooden cabinet with a lock, where you can put your personal possessions, for example in a school, place of work, or sports club"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "lockers"
+    ]
+  }
+}

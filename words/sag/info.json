@@ -1,0 +1,197 @@
+{
+  "word": "sag",
+  "ipa": {
+    "us": "sæɡ",
+    "uk": "sæɡ"
+  },
+  "sentences": [
+    {
+      "en": "a sagging roof",
+      "cn": "凹陷的房顶"
+    },
+    {
+      "en": "He is heavily built, but beginning to sag.",
+      "cn": "他体形健壮，但肌肉已经开始松弛。"
+    },
+    {
+      "en": "His cheeks are beginning to sag.",
+      "cn": "他的双颊开始松垂."
+    },
+    {
+      "en": "If higher import barriers deny sales and income to foreign exporters, foreign national incomes may sag.",
+      "cn": "如果较高的进口壁垒使外国出口商失去销售额和收入, 外国的国民收入就会下降."
+    },
+    {
+      "en": "Mike's jovial face seemed to sag.",
+      "cn": "迈克那张高兴的脸似乎一沉."
+    },
+    {
+      "en": "Some of the tension Altman builds up starts to sag.",
+      "cn": "奥尔特曼制造的一些紧张氛围开始缓解。"
+    },
+    {
+      "en": "The beam has begun to sag.",
+      "cn": "横梁开始下垂了."
+    },
+    {
+      "en": "The branch sagged under the weight of the apples.",
+      "cn": "树枝被苹果压弯了。"
+    },
+    {
+      "en": "The cable sag caused by cable dead weight is vertical.",
+      "cn": "由钢索自重引起的垂度是竖向的."
+    },
+    {
+      "en": "The chair seat had a slight sag.",
+      "cn": "椅子的座位略微下陷."
+    },
+    {
+      "en": "The pound continued to sag despite four interventions by the Bank of England.",
+      "cn": "尽管英格兰银行四次出手干预，英镑仍不改颓势。"
+    },
+    {
+      "en": "The shelf was beginning to sag beneath the weight of the books upon it.",
+      "cn": "书架在书的重压下渐渐下弯."
+    },
+    {
+      "en": "The shirt's cuffs won't sag and lose their shape after washing.",
+      "cn": "这件衬衫的袖口洗后照样挺括，不变形。"
+    },
+    {
+      "en": "The skin around my eyes is starting to sag.",
+      "cn": "我眼睛周围的皮肤开始下垂了。"
+    },
+    {
+      "en": "The tent began to sag as the canvas became wet.",
+      "cn": "帐篷因帆布湿了中间有些下坠."
+    },
+    {
+      "en": "The tent began to sag under the weight of the rain.",
+      "cn": "雨水使得帐篷中间开始下坠。"
+    },
+    {
+      "en": "We need to do something about the sag.",
+      "cn": "我们须把下沉的地方修整一下."
+    },
+    {
+      "en": "Your skin starts to sag as you get older.",
+      "cn": "人一老皮肤就松弛了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sagging",
+          "tran_cn": " 下垂"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sagging",
+          "tran_cn": " 下沉；松垂（sag的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "slip",
+            "flab"
+          ],
+          "tran_cn": "松弛；下跌；漂流；萧条"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dangle",
+            "droop",
+            "flop",
+            "hang",
+            "languish",
+            "sink",
+            "slump"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "dangle",
+            "droop",
+            "hang",
+            "sink",
+            "slump"
+          ],
+          "tran_cn": "下垂;下跌"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "slouch"
+          ],
+          "tran_cn": "使下垂"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cable sag",
+      "tran_cn": "绳擞度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "松弛；下跌；漂流；萧条"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "松弛, 下陷, 下垂, (物价)下跌, 漂流",
+      "tran_en": "to hang down or bend in the middle, especially because of the weight of something"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "下垂，消沉，下跌，[航]漂向下风向"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使…下垂"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "sags"
+    ],
+    "past": [
+      "sagged"
+    ],
+    "done": [
+      "sagged"
+    ],
+    "ing": [
+      "sagging"
+    ]
+  }
+}

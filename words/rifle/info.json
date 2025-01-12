@@ -1,0 +1,182 @@
+{
+  "word": "rifle",
+  "ipa": {
+    "us": "ˈraɪfl",
+    "uk": "ˈraɪfl"
+  },
+  "sentences": [
+    {
+      "en": "a rifle with a telescopic sight",
+      "cn": "装有望远瞄准器的步枪"
+    },
+    {
+      "en": "He drew his rifle from its sacking cover.",
+      "cn": "他从麻布枪套里抽出步枪."
+    },
+    {
+      "en": "He fixed a bayonet to the end of his rifle.",
+      "cn": "他在步枪口上安好了刺刀。"
+    },
+    {
+      "en": "He gave a grunt and loosed his grip on the rifle.",
+      "cn": "他闷哼了一声，松开了握着来复枪的手。"
+    },
+    {
+      "en": "He was aiming the rifle at Wade.",
+      "cn": "他将步枪瞄准了韦德。"
+    },
+    {
+      "en": "Pulling his rifle to his shoulder he squinted along the barrel.",
+      "cn": "他把枪顶肩,眯起眼睛瞄准."
+    },
+    {
+      "en": "The guard was killed with a high - powered rifle.",
+      "cn": "那卫兵被杀伤力大的火枪击毙了."
+    },
+    {
+      "en": "The hunter's rifle cracked and the deer fell dead.",
+      "cn": "猎人枪一响,鹿应声倒地死去."
+    },
+    {
+      "en": "The rifle was extremely accurate.",
+      "cn": "这把步枪准头极高。"
+    },
+    {
+      "en": "The soldiers keep a tight hold of the rifle.",
+      "cn": "战士们紧握手中的枪."
+    },
+    {
+      "en": "There was a rattle of rifle-fire.",
+      "cn": "传来一阵步枪发出的嗒嗒声。"
+    },
+    {
+      "en": "They armed him with a rifle.",
+      "cn": "他们发给他一支步枪."
+    },
+    {
+      "en": "They shot him at point blank range with an automatic rifle.",
+      "cn": "他们用一支自动步枪在近距离射程内射中了他。"
+    },
+    {
+      "en": "This rifle only holds one cartridge.",
+      "cn": "这支来复枪只能装一发子弹."
+    },
+    {
+      "en": "Tom was leading, a rifle slung over his back.",
+      "cn": "汤姆走在前面，背上挂着一支步枪。"
+    },
+    {
+      "en": "We immediately barraged the enemy stronghold with a torrent of rifle fire.",
+      "cn": "我们立刻用密集的步枪火力攻击敌人据点."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rifling",
+          "tran_cn": " 膛线；来复线"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "rifling",
+          "tran_cn": " 抢劫；搜索；用步枪射击（rifle的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "musket"
+          ],
+          "tran_cn": "[军]步枪；来复枪"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "despoil",
+            "loot",
+            "pillage",
+            "plunder",
+            "ransack",
+            "rob",
+            "steal"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "steal away",
+            "spirit away"
+          ],
+          "tran_cn": "用步枪射击；抢夺；偷走"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "air rifle",
+      "tran_cn": "气枪"
+    },
+    {
+      "phrase": "assault rifle",
+      "tran_cn": "突击步枪；冲锋枪"
+    },
+    {
+      "phrase": "automatic rifle",
+      "tran_cn": "n. 自动步枪"
+    },
+    {
+      "phrase": "sniper rifle",
+      "tran_cn": "狙击步枪"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "步枪，来福枪",
+      "tran_en": "a long gun which you hold up to your shoulder to shoot"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 抢夺， 偷走"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "快速搜寻，匆忙翻找 ，偷窃，盗取"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rifles"
+    ],
+    "third": [
+      "rifles"
+    ],
+    "past": [
+      "rifled"
+    ],
+    "ing": [
+      "rifling"
+    ]
+  }
+}

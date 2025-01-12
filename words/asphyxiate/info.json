@@ -1,0 +1,107 @@
+{
+  "word": "asphyxiate",
+  "ipa": {
+    "us": "əsˈfɪksieɪt",
+    "uk": "æsˈfɪksiˌet"
+  },
+  "sentences": [
+    {
+      "en": "Three people were asphyxiated in the crush for last week's train.",
+      "cn": "三个人为了赶上周的火车窒息在人群中。"
+    },
+    {
+      "en": "We must trace the source of these noxious gases before they asphyxiate us.",
+      "cn": "在我们被这些有毒气体窒息之前,必须查出其来源."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "asphyxia",
+          "tran_cn": " [医] 窒息"
+        },
+        {
+          "word": "asphyxiation",
+          "tran_cn": " 窒息"
+        },
+        {
+          "word": "asphyxiator",
+          "tran_cn": " 动物窒息器；碳酸气灭火器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "smother",
+            "strangle",
+            "suffocate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "choke",
+            "strangulate"
+          ],
+          "tran_cn": "窒息"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "strangle"
+          ],
+          "tran_cn": "使…窒息"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "窒息",
+      "tran_en": "to prevent someone from breathing normally, usually so that they die, or stop breathing"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "窒息"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使窒息"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "asphyxiates"
+    ],
+    "past": [
+      "asphyxiated"
+    ],
+    "done": [
+      "asphyxiated"
+    ],
+    "ing": [
+      "asphyxiating"
+    ],
+    "noun": [
+      "asphyxiation"
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "word": "negotiation",
+  "ipa": {
+    "us": "nɪˌgəʊʃiˈeɪʃn",
+    "uk": "nɪˌgoʊʃiˈeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "A ceasefire is an essential precondition for negotiation.",
+      "cn": "停火是谈判的必要前提。"
+    },
+    {
+      "en": "After 10 years of negotiation, the Senate ratified the strategic arms reduction treaty.",
+      "cn": "经过10年协商，参议院已经正式批准了《削减战略武器条约》。"
+    },
+    {
+      "en": "After negotiation, they tacked two new clauses on to the end of the contract.",
+      "cn": "通过协商, 他们在合同末尾处又加上了两项新条款."
+    },
+    {
+      "en": "Four years of negotiation ended fruitlessly last December.",
+      "cn": "历时4年的谈判在去年12月无果而终。"
+    },
+    {
+      "en": "The negotiation broke down because one side refused to play the game.",
+      "cn": "因一方拒绝按章办事,谈判破裂了."
+    },
+    {
+      "en": "The negotiation dragged on until July.",
+      "cn": "谈判一直拖到7月份."
+    },
+    {
+      "en": "The negotiation will begin on schedule.",
+      "cn": "谈判按期举行."
+    },
+    {
+      "en": "The trader was obstinate in the negotiation.",
+      "cn": "这个商人在谈判中拗强固执."
+    },
+    {
+      "en": "The way forward in this situation is by diplomacy and negotiation.",
+      "cn": "在这种情況下要取得进展需要讲究点手腕和商谈."
+    },
+    {
+      "en": "There will be a strong incentive to enter into a process of negotiation.",
+      "cn": "将会出现迫切地想要进入谈判阶段的强烈动机。"
+    },
+    {
+      "en": "These proposals represent a realistic starting point for negotiation.",
+      "cn": "这些建议是谈判的现实出发点。"
+    },
+    {
+      "en": "They agreed to try to settle their dispute by negotiation.",
+      "cn": "他们同意通过谈判来努力解决纠纷。"
+    },
+    {
+      "en": "They closed the deal in sugar after a week of negotiation.",
+      "cn": "经过一星期的谈判,他们的食糖生意成交了."
+    },
+    {
+      "en": "Warren said, \"We have had meaningful negotiations and I believe we are very close to a deal.\"",
+      "cn": "沃伦说：“我们已经进行了富有意义的谈判，我相信我们很快就能达成协议。”"
+    },
+    {
+      "en": "We advocate solving international dispute by negotiation, instead of appealing to arms.",
+      "cn": "我们主张通过协商解决国际争端, 而不主张诉诸武力."
+    },
+    {
+      "en": "We consummated an agreement after a year of negotiation.",
+      "cn": "经过一年的谈判,我们达成了协议."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "negotiable",
+          "tran_cn": " 可通过谈判解决的；可协商的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "negotiant",
+          "tran_cn": " 谈判者；磋商者"
+        },
+        {
+          "word": "negotiator",
+          "tran_cn": " 谈判者；磋商者；交涉者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "negotiate",
+          "tran_cn": " 谈判，交涉"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "negotiate",
+          "tran_cn": " 谈判，商议；转让；越过"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "treaty",
+            "alienation"
+          ],
+          "tran_cn": "谈判；转让；顺利的通过"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "settlement"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "business negotiation",
+      "tran_cn": "商务谈判，商业谈判；交易磋商"
+    },
+    {
+      "phrase": "contract negotiation",
+      "tran_cn": "合同谈判"
+    },
+    {
+      "phrase": "negotiation bank",
+      "tran_cn": "[金融]议付银行"
+    },
+    {
+      "phrase": "negotiation credit",
+      "tran_cn": "议付信用证；信用状的协商"
+    },
+    {
+      "phrase": "negotiation skill",
+      "tran_cn": "谈判技巧"
+    },
+    {
+      "phrase": "trade negotiation",
+      "tran_cn": "贸易谈判；贸易洽谈"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "协商，谈判，转让，通过",
+      "tran_en": "official discussions between the repre­sentatives of opposing groups who are trying to reach an agreement, especially in business or politics"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "negotiations"
+    ]
+  }
+}

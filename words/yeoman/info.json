@@ -1,0 +1,88 @@
+{
+  "word": "yeoman",
+  "ipa": {
+    "us": "ˈjəʊmən",
+    "uk": "ˈjoʊmən"
+  },
+  "sentences": [
+    {
+      "en": "A yeoman farmer model of price setting under monopolistic competition.",
+      "cn": "垄断竞争中自耕农定价模式."
+    },
+    {
+      "en": "Her uncle spend two years on a warship as a yeoman.",
+      "cn": "她舅舅在军舰上当了两年文书军士."
+    },
+    {
+      "en": "The medicine you gave me has done me Yeoman's service.",
+      "cn": "你给我的药大起作用."
+    },
+    {
+      "en": "The yeoman could never own and work on their land after the movement.",
+      "cn": "那场运动后,自耕农再也不能拥有并在他们自己的土地上耕耘了."
+    },
+    {
+      "en": "The yeoman never own and work on their land after the movement.",
+      "cn": "再也不能拥有并在他们自己的土地上耕耘了."
+    },
+    {
+      "en": "Visitors to the Tower of London talk to a Yeoman Warder, left, on Tuesday.",
+      "cn": "一群参观伦敦塔的游客周二和伦敦塔守卫(左)交谈."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "yeomanry",
+          "tran_cn": " 自由民；自耕农；（英）义勇骑兵队"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "servant",
+            "dirt farmer"
+          ],
+          "tran_cn": "[农经]自耕农；自由民；仆人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "countryman",
+            "dependent",
+            "farmer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "yeoman service"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<史>自耕农，自由民，义勇骑兵队成员",
+      "tran_en": "a farmer in Britain in the past who owned and worked on his own land"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "yeomen"
+    ]
+  }
+}

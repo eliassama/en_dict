@@ -1,0 +1,188 @@
+{
+  "word": "eruption",
+  "ipa": {
+    "us": "ɪ'rʌpʃ(ə)n",
+    "uk": "ɪ'rʌpʃ(ə)n"
+  },
+  "sentences": [
+    {
+      "en": "A bridge collapsed in Buenos Aires and a volcanic eruption in Jakarta.",
+      "cn": "在布宜诺斯艾利斯有座桥塌了还有雅加达有座火山开始爆发."
+    },
+    {
+      "en": "A few days later, Vesuvius was in violent eruption.",
+      "cn": "几天以后, 维苏威火山猛烈爆发了."
+    },
+    {
+      "en": "A trend of thought ascribes the Bushveld Complex to eruption from more than one center.",
+      "cn": "有一种倾向认为布施维尔德杂岩体是多中心溢出的产物."
+    },
+    {
+      "en": "If a volcanic eruption wipes out all of the plain mice, the island will be repopulated by striped mice.",
+      "cn": "假设一次火山爆发消灭了所有的普通老鼠，那么这个小岛将是斑纹鼠的天下。"
+    },
+    {
+      "en": "In this area the sheets could have originated from a separate center of eruption.",
+      "cn": "这地区的岩席可能发源于另一喷发中心."
+    },
+    {
+      "en": "It'seems that another eruption could be right around the corner.",
+      "cn": "如此看来,火山似乎又快爆发了."
+    },
+    {
+      "en": "Its most recent eruption began in 1992 and ended in 2002.",
+      "cn": "最近一次喷发从1992年持续到了2002年."
+    },
+    {
+      "en": "Our work was like that of geologists who compile the signs of an imminent earthquake or volcanic eruption.",
+      "cn": "我们的工作如同地质学家，我们收集一场即将到来的地震或火山爆发的迹象。"
+    },
+    {
+      "en": "The eruption has left a thin veil of dust in the upper atmosphere.",
+      "cn": "火山爆发在高层大气中留下了一层薄薄的尘土。"
+    },
+    {
+      "en": "The eruption of a volcano is spontaneous.",
+      "cn": "火山的爆发是自发的."
+    },
+    {
+      "en": "The extinct volcano's eruption would mean a cataclysm for the city.",
+      "cn": "死火山又重新喷发,对这座城市来说意味着大难临头."
+    },
+    {
+      "en": "THE INFLUENCE OF DENTAL FACTORS TO ERUPTION OF THE MANDIBULAR THIRD MOLAR.",
+      "cn": "牙齿因素对下颌第三磨牙萌出的影响."
+    },
+    {
+      "en": "The island was convulsed by the eruption.",
+      "cn": "该岛因火山爆发而激烈震动."
+    },
+    {
+      "en": "The last eruption of this volcano lasted over a year, so this cannot be ruled out.",
+      "cn": "该火山上次爆发持续了一年，所以现在也不能排除这个可能性。"
+    },
+    {
+      "en": "The place was recently visited by a serious volcanic eruption.",
+      "cn": "这地方最近发生了一次严重的火山爆发."
+    },
+    {
+      "en": "The skin eruption is of value in suggesting the diagnosis.",
+      "cn": "皮肤疹对揭示诊断是有价值的."
+    },
+    {
+      "en": "The temple was destroyed in the violent eruption of 1470 BC.",
+      "cn": "庙宇在公元前1470年猛烈的火山爆发中摧毁了."
+    },
+    {
+      "en": "Then a lake formed, probably after an eruption blocked some rivers or streams.",
+      "cn": "可能是一次火山喷发之后,一些河流或溪水被堵塞了,形成了湖泊."
+    },
+    {
+      "en": "There is a eruption risk of Tengchong volcano in our country.",
+      "cn": "腾冲火山群是我国目前仍具喷发危险的火山群。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "eruptive",
+          "tran_cn": " 暴发的；喷出的；疹的"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "erupt",
+          "tran_cn": " 爆发；喷出；发疹；长牙"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "erupt",
+          "tran_cn": " 爆发；喷出"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "belching",
+            "discharge",
+            "ebullition",
+            "ejection",
+            "emission",
+            "expulsion",
+            "gushing",
+            "outpouring",
+            "spouting",
+            "spurt",
+            "squirt",
+            "surge"
+          ],
+          "tran_cn": "喷发"
+        },
+        {
+          "words": [
+            "blast",
+            "blowup",
+            "cataclysm",
+            "detonation",
+            "earthquake",
+            "explosion",
+            "fulmination",
+            "outbreak",
+            "outburst",
+            "quake",
+            "temblor",
+            "tremor",
+            "upheaval"
+          ],
+          "tran_cn": "爆发,迸发"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "gust",
+            "torrent"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "volcanic eruption",
+      "tran_cn": "火山喷发"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "喷发，爆发"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "eruptions"
+    ],
+    "verb": [
+      "erupt"
+    ]
+  }
+}

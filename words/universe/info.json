@@ -1,0 +1,220 @@
+{
+  "word": "universe",
+  "ipa": {
+    "us": "ˈjuːnɪvɜːs",
+    "uk": "ˈjuːnɪvɜːrs"
+  },
+  "sentences": [
+    {
+      "en": "Behind his eyes was a whole universe of pain.",
+      "cn": "他眼神中隐藏着无尽的痛楚。"
+    },
+    {
+      "en": "Early astronomers thought that our planet was the centre of the universe.",
+      "cn": "早期的天文学家认为我们的星球是宇宙的中心。"
+    },
+    {
+      "en": "Einstein's equations showed the universe to be expanding.",
+      "cn": "爱因斯坦的方程式表明宇宙正在扩大。"
+    },
+    {
+      "en": "Einstein's equations showed the Universe to be expanding.",
+      "cn": "爱因斯坦的方程式表明宇宙正在膨胀。"
+    },
+    {
+      "en": "Mankind's knowledge of the universe has increased beyond measure.",
+      "cn": "人类对于宇宙的了解已经大为增加。"
+    },
+    {
+      "en": "Our earth is but a part of the universe.",
+      "cn": "我们的地球只是宇宙的一部分."
+    },
+    {
+      "en": "Our world is but a small part of the universe.",
+      "cn": "我们的世界只是宇宙的一小部分."
+    },
+    {
+      "en": "Scientists disagree about how the universe was created.",
+      "cn": "科学家对宇宙是怎样形成的有分歧。"
+    },
+    {
+      "en": "the immensity of the universe",
+      "cn": "宇宙的浩瀚无垠"
+    },
+    {
+      "en": "The immensity of the universe is difficult to grasp.",
+      "cn": "宇宙的浩瀚难以捉摸。"
+    },
+    {
+      "en": "the unalterable laws of the universe",
+      "cn": "不可改变的宇宙法则"
+    },
+    {
+      "en": "The whole universe exists eternally in that one infinite being.",
+      "cn": "整个宇宙在无限的空间中永生。"
+    },
+    {
+      "en": "theories of how the universe began",
+      "cn": "关于宇宙形成的各种理论"
+    },
+    {
+      "en": "They marked out the boundaries of our visual universe.",
+      "cn": "他们标出了我们视觉经验领域的界限。"
+    },
+    {
+      "en": "We cannot yet satisfactorily explain the genesis of the universe.",
+      "cn": "我们仍不能令人满意地解释宇宙的起源."
+    },
+    {
+      "en": "We still don't know how many galaxies there are in the universe.",
+      "cn": "我们还不知道宇宙中有多少个星系."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "universal",
+          "tran_cn": " 普遍的；通用的；宇宙的；全世界的；全体的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "universal",
+          "tran_cn": " 一般概念；普通性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "human",
+            "humanity",
+            "humankind",
+            "man",
+            "mankind",
+            "people",
+            "persons",
+            "race",
+            "society",
+            "the",
+            "womankind"
+          ],
+          "tran_cn": "人类"
+        },
+        {
+          "words": [
+            "corners",
+            "earth",
+            "four",
+            "globe",
+            "land",
+            "of",
+            "sphere",
+            "terra",
+            "the",
+            "whole",
+            "wide",
+            "world"
+          ],
+          "tran_cn": "全世界"
+        },
+        {
+          "words": [
+            "boundlessness",
+            "cooling",
+            "cosmos",
+            "creation",
+            "endlessness",
+            "fires",
+            "firmament",
+            "heavens",
+            "inflinity",
+            "macrocosm",
+            "of",
+            "outerspace",
+            "sky",
+            "space",
+            "whole"
+          ],
+          "tran_cn": "宇宙,太空"
+        },
+        {
+          "words": [
+            "bailiwick",
+            "beat",
+            "circle",
+            "compass",
+            "domain",
+            "field",
+            "neighbourhood",
+            "orbit",
+            "province",
+            "quarter",
+            "range",
+            "realm",
+            "region",
+            "round",
+            "span",
+            "sphere",
+            "territory",
+            "walk",
+            "zone"
+          ],
+          "tran_cn": "范围,领域"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "all",
+            "nature",
+            "world"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "expanding universe",
+      "tran_cn": "膨胀宇宙；扩展宇宙"
+    },
+    {
+      "phrase": "island universe",
+      "tran_cn": "岛宇宙"
+    },
+    {
+      "phrase": "universe of discourse",
+      "tran_cn": "n. 论域；讨论或辩论的范围"
+    },
+    {
+      "phrase": "universe toy company",
+      "tran_cn": "宇宙玩具公司"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "宇宙，经验领域",
+      "tran_en": "all space, including all the stars and planets"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "universes"
+    ]
+  }
+}

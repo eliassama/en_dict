@@ -1,0 +1,195 @@
+{
+  "word": "recommend",
+  "ipa": {
+    "us": "ˌrekəˈmend",
+    "uk": "ˌrekəˈmend"
+  },
+  "sentences": [
+    {
+      "en": "Airlines recommend hard-sided cases for durability.",
+      "cn": "航空公司推荐使用硬边箱，因其经久耐用。"
+    },
+    {
+      "en": "Butchers recommend cooking meat with the fat and trimming it away later.",
+      "cn": "肉贩建议先把肉整个儿煮熟，然后再将肥肉切去。"
+    },
+    {
+      "en": "Can you recommend a classmate who can take up the job?",
+      "cn": "你能不能推荐一位能承担这项工作的同学?"
+    },
+    {
+      "en": "Can you recommend a good hotel?",
+      "cn": "你能推荐一家好的饭店吗？"
+    },
+    {
+      "en": "Can you recommend a good lawyer?",
+      "cn": "你能介绍一位好律师吗？"
+    },
+    {
+      "en": "Can you recommend me a good book?",
+      "cn": "你能给我介绍一本好书 吗 ?"
+    },
+    {
+      "en": "Doctors strongly recommend that fathers should be present at their baby’s birth.",
+      "cn": "医生极力建议孩子出生时父亲应该在场。"
+    },
+    {
+      "en": "He had little but his enthusiasm to recommend him.",
+      "cn": "他拥有的优势只有他的热情。"
+    },
+    {
+      "en": "I can recommend this play to all lovers of good theatre.",
+      "cn": "我把这个剧推荐给所有爱好优秀戏剧的人."
+    },
+    {
+      "en": "I recommend that you avoid processed foods whenever possible.",
+      "cn": "我建议你尽量不要食用加工好的食品。"
+    },
+    {
+      "en": "I recommend the butter chicken - it’s delicious.",
+      "cn": "我推荐黄油焗鸡，非常好吃。"
+    },
+    {
+      "en": "I recommend you not to disobey your officers.",
+      "cn": "我劝你不要不服从你的长官."
+    },
+    {
+      "en": "I've just seen a play that I can highly recommend.",
+      "cn": "我刚看了一场话剧，我强烈推荐。"
+    },
+    {
+      "en": "It is dangerous to exceed the recommended dose .",
+      "cn": "超过建议剂量很危险。"
+    },
+    {
+      "en": "It is dangerous to exceed the recommended dose.",
+      "cn": "超过建议剂量很危险。"
+    },
+    {
+      "en": "La Cucina restaurant has much to recommend it.",
+      "cn": "拉库奇那餐馆有许多值得称道的地方。"
+    },
+    {
+      "en": "La Noblesse restaurant has much to recommend it.",
+      "cn": "“贵族”餐馆有很多值得称道之处。"
+    },
+    {
+      "en": "May we recommend a weekend in Stockholm?",
+      "cn": "我们可以提议在斯德哥尔摩度周末吗？"
+    },
+    {
+      "en": "Most authorities recommend letting the baby nurse whenever it wants.",
+      "cn": "大部分权威人士建议婴儿饿了就随时喂奶。"
+    },
+    {
+      "en": "Sleeping tablets are not recommended in this case.",
+      "cn": "这种情况下不建议使用安眠药。"
+    },
+    {
+      "en": "This restaurant has nothing to recommend except that it's cheap.",
+      "cn": "这家饭馆除了价钱便宜之外,一无可取."
+    },
+    {
+      "en": "We also recommend a full day optional excursion to the Upper Douro.",
+      "cn": "我们还推荐去杜罗河上游的短途自选一日游。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "recommendation",
+          "tran_cn": " 推荐；建议；推荐信"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "advise",
+            "advocate",
+            "counsel",
+            "direct",
+            "favor",
+            "guide",
+            "instruct",
+            "prescribe",
+            "promote",
+            "propose",
+            "proposition",
+            "refer",
+            "suggest",
+            "urge"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "put in a good word",
+            "advise"
+          ],
+          "tran_cn": "推荐；建议"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "advise",
+            "advocate",
+            "direct",
+            "guide",
+            "instruct",
+            "suggest",
+            "urge"
+          ],
+          "tran_cn": "推导;建议;力劝"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "recommend for",
+      "tran_cn": "推荐；由于…而称赞"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "推荐，介绍，劝告，建议，使受欢迎",
+      "tran_en": "to advise someone to do something, especially because you have special knowledge of a situation or subject"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 推荐， 介绍； 建议， 劝告； 使可取， 使受欢迎",
+      "tran_en": "to advise someone to do something, especially because you have special knowledge of a situation or subject"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "recommends"
+    ],
+    "past": [
+      "recommended"
+    ],
+    "done": [
+      "recommended"
+    ],
+    "ing": [
+      "recommending"
+    ]
+  }
+}

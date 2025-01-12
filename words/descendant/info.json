@@ -1,0 +1,202 @@
+{
+  "word": "descendant",
+  "ipa": {
+    "us": "dɪˈsendənt",
+    "uk": "dɪˈsendənt"
+  },
+  "sentences": [
+    {
+      "en": "A descendant of Yan Emperor in ancient mythology of China.",
+      "cn": "中国古代神话中炎帝的后代."
+    },
+    {
+      "en": "a lineal descendant of the company's founder",
+      "cn": "公司创始人的直系后裔"
+    },
+    {
+      "en": "He calls himself a descendant of Asians, which I don't believe.",
+      "cn": "他是称自己是亚裔, 可我觉得不像."
+    },
+    {
+      "en": "He is a descendant of Confucius.",
+      "cn": "他是孔子后裔."
+    },
+    {
+      "en": "He is a direct descendant of the author of this book.",
+      "cn": "他是这本书作者的直系后裔."
+    },
+    {
+      "en": "He is a lineal descendant of the company's founder.",
+      "cn": "他是公司创始人的直系后裔。"
+    },
+    {
+      "en": "He is a worthy descendant of the working class.",
+      "cn": "他是工人阶级的好后代."
+    },
+    {
+      "en": "He is the lineal descendant.",
+      "cn": "他是直系子孙."
+    },
+    {
+      "en": "He was a direct descendant of Napoleon Bonaparte.",
+      "cn": "他是拿破仑·波拿巴的嫡系后裔。"
+    },
+    {
+      "en": "He was an O'Conor and a direct descendant of the last High King of Ireland.",
+      "cn": "他属于奥康纳家族，是爱尔兰最后一位君王的嫡系后裔。"
+    },
+    {
+      "en": "Holgrave confesses that he is a descendant of the Maule family.",
+      "cn": "霍尔格拉夫承认自己是莫尔家族的后裔."
+    },
+    {
+      "en": "I want the triumph of seeing my descendant fairly lord of their estates.",
+      "cn": "我愿意胜利地看见我的后代很堂皇地作他们的产业的主人."
+    },
+    {
+      "en": "If you must use descendant selectors, prefer child selectors, which at least only require evaluation of one additional node, not all the intermediate nodes up to an ancestor.",
+      "cn": "如果您必须使用后代选择器，尽量使用子代选择器，这最少只需评估一个额外的节点，而非中间直至祖先的所有节点。"
+    },
+    {
+      "en": "She is a direct descendant of Queen Victoria.",
+      "cn": "她是维多利亚女王的嫡系后代。"
+    },
+    {
+      "en": "She is a direct descendant of the former King of Wales.",
+      "cn": "她是前威尔士国王的直系后代."
+    },
+    {
+      "en": "The guy claims to be a direct descendant of Mozart.",
+      "cn": "这个男人自称是莫扎特的直系后代."
+    },
+    {
+      "en": "Why does few people know he is the president's descendant?",
+      "cn": "为什么很少有人知道他的 “ 存在”?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "descendent",
+          "tran_cn": " 派生的；降落的；世袭的"
+        },
+        {
+          "word": "descending",
+          "tran_cn": " 下降的；下行的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "descendent",
+          "tran_cn": " 后裔；派生物"
+        },
+        {
+          "word": "descender",
+          "tran_cn": " 下降物；下降者；下行字母"
+        },
+        {
+          "word": "descending",
+          "tran_cn": " 递减；下行"
+        },
+        {
+          "word": "descent",
+          "tran_cn": " 下降；血统；袭击"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "descending",
+          "tran_cn": " 下降（descend的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "descend",
+          "tran_cn": " 下降；下去；下来；遗传；屈尊"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "descend",
+          "tran_cn": " 下去；沿…向下"
+        },
+        {
+          "word": "descent",
+          "tran_cn": " 除去…的气味；使…失去香味"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "falling",
+            "downward"
+          ],
+          "tran_cn": "下降的；祖传的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "child",
+            "issue",
+            "offspring",
+            "posterity",
+            "progeny"
+          ],
+          "tran_cn": "后裔"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "heir",
+            "successor"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "下降的；祖传的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "后代，子孙，派生物，弟子",
+      "tran_en": "someone who is related to a person who lived a long time ago, or to a family, group of people etc that existed in the past"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "descendants"
+    ]
+  }
+}

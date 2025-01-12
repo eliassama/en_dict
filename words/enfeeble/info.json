@@ -1,0 +1,80 @@
+{
+  "word": "enfeeble",
+  "ipa": {
+    "us": "ɪnˈfi:bl",
+    "uk": "ɛnˈfibəl"
+  },
+  "sentences": [
+    {
+      "en": "By undue profoundity we perplex and enfeeble thought.",
+      "cn": "过于认为奥妙,我们思想反而模糊不清."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "enfeeblement",
+          "tran_cn": " 使衰弱；弄弱"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "demoralize",
+            "disable",
+            "languish"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "debilitate",
+            "devitalize"
+          ],
+          "tran_cn": "使衰弱；使无力"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使衰弱",
+      "tran_en": "to make weak; deprive of strength "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使衰弱，使无力"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "enfeebles"
+    ],
+    "past": [
+      "enfeebled"
+    ],
+    "done": [
+      "enfeebled"
+    ],
+    "ing": [
+      "enfeebling"
+    ],
+    "adj": [
+      "enfeebled"
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "word": "suffering",
+  "ipa": {
+    "us": "ˈsʌfərɪŋ",
+    "uk": "ˈsʌfərɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "30 families are suffering 'cause they're out of work.",
+      "cn": "有30户人家因为失业而正在经受煎熬。"
+    },
+    {
+      "en": "He decided Franklin must be suffering from a bad cold.",
+      "cn": "他断定富兰克林一定是得了重感冒。"
+    },
+    {
+      "en": "He remained in a critical condition after suffering heart failure.",
+      "cn": "他发生心力衰竭后病情一直危重。"
+    },
+    {
+      "en": "He was eventually diagnosed as suffering from terminal cancer.",
+      "cn": "他最终被诊断出患了晚期癌症。"
+    },
+    {
+      "en": "He was suffering from shock as well as the after-effects of drugs.",
+      "cn": "他在受着毒品毒副作用影响的同时还出现了休克。"
+    },
+    {
+      "en": "His trial revived memories of French suffering during the war.",
+      "cn": "他的受审重新勾起了在战争中受苦受难的法国人民的回忆。"
+    },
+    {
+      "en": "I have recently been suffering from pain and numbness in my hands.",
+      "cn": "我近来双手一直疼痛麻木。"
+    },
+    {
+      "en": "I think Tessa should plump for Malcolm, her long-suffering admirer.",
+      "cn": "我想特莎应该选择长期默默爱慕她的马尔科姆。"
+    },
+    {
+      "en": "In some stores we were undermanned and customer service was suffering.",
+      "cn": "有些店我们人手不足，对顾客照顾不周。"
+    },
+    {
+      "en": "Larry began suffering severe headaches and violent mood swings.",
+      "cn": "拉里开始出现严重的头痛和剧烈的情绪波动。"
+    },
+    {
+      "en": "She was fitted with a pacemaker after suffering serious heart trouble.",
+      "cn": "她患上严重的心脏病后安装了心脏起搏器。"
+    },
+    {
+      "en": "She was taken to hospital suffering from an irregular heartbeat.",
+      "cn": "她因心律不齐被送往医院。"
+    },
+    {
+      "en": "The boy was suffering from a bowel obstruction and he died.",
+      "cn": "这个男孩因患肠梗阻死去了。"
+    },
+    {
+      "en": "the pain and suffering caused by road accidents",
+      "cn": "交通事故造成的痛苦"
+    },
+    {
+      "en": "the suffering of the refugees after the war",
+      "cn": "战后难民所遭受的苦难"
+    },
+    {
+      "en": "They escaped the blaze but were rushed to hospital suffering from shock.",
+      "cn": "他们逃离了火海，却因休克而被迅速送往医院。"
+    },
+    {
+      "en": "They were taken to hospital suffering from smoke inhalation.",
+      "cn": "他们因吸入大量烟尘被送往医院。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sufferable",
+          "tran_cn": " 可忍耐的；可容忍的；可忍受得了的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sufferer",
+          "tran_cn": " 患者；受害者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "suffer",
+          "tran_cn": " 遭受，忍受；受痛苦；经验；受损害"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "suffer",
+          "tran_cn": " 遭受；忍受；经历"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "stricken",
+            "sickening"
+          ],
+          "tran_cn": "受苦的；患病的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "martyrdom"
+          ],
+          "tran_cn": "受难；苦楚"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agony",
+            "ailing",
+            "anguish",
+            "anxiety",
+            "connivance",
+            "grief",
+            "hell",
+            "misery",
+            "pain",
+            "pang",
+            "penalty",
+            "persecution",
+            "sorrow"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "suffer defeat",
+      "tran_cn": "遭受失败"
+    },
+    {
+      "phrase": "suffer for",
+      "tran_cn": "因…而遭受"
+    },
+    {
+      "phrase": "suffer from",
+      "tran_cn": "忍受，遭受；患…病；受…之苦"
+    },
+    {
+      "phrase": "suffer hunger",
+      "tran_cn": "挨饿"
+    },
+    {
+      "phrase": "suffer loss",
+      "tran_cn": "遭受损失"
+    },
+    {
+      "phrase": "suffer through",
+      "tran_cn": "挨过；熬过"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "受苦的；患病的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "痛苦，受苦",
+      "tran_en": "serious physical or mental pain"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "受苦，患病（suffer的现在分词）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sufferings"
+    ]
+  }
+}

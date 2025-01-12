@@ -1,0 +1,231 @@
+{
+  "word": "generator",
+  "ipa": {
+    "us": "ˈdʒenəreɪtə(r)",
+    "uk": "ˈdʒenəreɪtər"
+  },
+  "sentences": [
+    {
+      "en": "A generator transforms mechanical energy into electricity.",
+      "cn": "发电机将机械能变成电."
+    },
+    {
+      "en": "A special generator transmits electricity to all parts of the factory.",
+      "cn": "一台专门的发电机把电力输送到工厂的各个角落."
+    },
+    {
+      "en": "All the while the giant generator poured out its power.",
+      "cn": "巨大的发电机一刻不停地发出电力."
+    },
+    {
+      "en": "an emergency generator",
+      "cn": "应急发电机"
+    },
+    {
+      "en": "Do they want to know they can use the electric generator?",
+      "cn": "他们想知道他们是否能用发电机?"
+    },
+    {
+      "en": "During by the steam engine drive, the electric generator can generate electricity.",
+      "cn": "由蒸汽机驱动时, 发电机可以发电."
+    },
+    {
+      "en": "Gas generator rocket can pressurize a high - pressure feed system.",
+      "cn": "燃气发生器能使高压输送系统增压."
+    },
+    {
+      "en": "The company has been a very good cash generator.",
+      "cn": "这家公司盈利状况一直相当好。"
+    },
+    {
+      "en": "The demodulator receives its reference voltage from the signal - generator voltage supply.",
+      "cn": "解调器的参考电压由电信号发生器电压电源供给."
+    },
+    {
+      "en": "The generator has started up / broken down.",
+      "cn": "发电机已开动[出现故障]."
+    },
+    {
+      "en": "The giant generator could be back in service.",
+      "cn": "巨大的发电机可以重新使用了."
+    },
+    {
+      "en": "The handdriven generator is equipped with a centrifugal governor.",
+      "cn": "手摇直流发电机装有离心调速装置."
+    },
+    {
+      "en": "The hospital has a backup generator in case there is a power failure.",
+      "cn": "医院有备用发电机以防停电."
+    },
+    {
+      "en": "The shaft of the turbine is coupled to the rotor of the generator.",
+      "cn": "汽轮机的轴与发电机转子相连结."
+    },
+    {
+      "en": "They have a generator when the electricity fails.",
+      "cn": "他们有一台发电机，以备停电时所需。"
+    },
+    {
+      "en": "This is an alternating current generator.",
+      "cn": "这是一台交流发电机."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "generational",
+          "tran_cn": " 一代的；生育的"
+        },
+        {
+          "word": "generative",
+          "tran_cn": " 生殖的；生产的；有生殖力的；有生产力的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "generation",
+          "tran_cn": " 一代；产生；一代人；生殖"
+        },
+        {
+          "word": "genesis",
+          "tran_cn": " 发生；起源"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "generate",
+          "tran_cn": " 使形成；发生；生殖"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "producer",
+            "electrical machine"
+          ],
+          "tran_cn": "[电]发电机；[计][制冷]发生器；生产者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "engine",
+            "inventor",
+            "machine"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "code generator",
+      "tran_cn": "代码生成器；代码生成程序；编码发生器"
+    },
+    {
+      "phrase": "dc generator",
+      "tran_cn": "直流马达，直流发电机"
+    },
+    {
+      "phrase": "diesel generator",
+      "tran_cn": "[电]柴油发电机"
+    },
+    {
+      "phrase": "electric generator",
+      "tran_cn": "发电机"
+    },
+    {
+      "phrase": "function generator",
+      "tran_cn": "信号（函数）发生器"
+    },
+    {
+      "phrase": "gas generator",
+      "tran_cn": "气体发生器"
+    },
+    {
+      "phrase": "generator excitation",
+      "tran_cn": "发电机励磁"
+    },
+    {
+      "phrase": "generator set",
+      "tran_cn": "[工]发电机组"
+    },
+    {
+      "phrase": "induction generator",
+      "tran_cn": "感应发电机；异步发电机"
+    },
+    {
+      "phrase": "ozone generator",
+      "tran_cn": "臭氧发生器"
+    },
+    {
+      "phrase": "plasma generator",
+      "tran_cn": "等离子发生器；等离子发电机；等离子体产生器"
+    },
+    {
+      "phrase": "power generator",
+      "tran_cn": "[工程]电力发电机"
+    },
+    {
+      "phrase": "pulse generator",
+      "tran_cn": "脉冲发生器"
+    },
+    {
+      "phrase": "random number generator",
+      "tran_cn": "随机数发生器；随机数生成程序"
+    },
+    {
+      "phrase": "signal generator",
+      "tran_cn": "信号发生器；讯号产生机"
+    },
+    {
+      "phrase": "steam generator",
+      "tran_cn": "蒸汽发生器；蒸汽锅炉；蒸汽发电机"
+    },
+    {
+      "phrase": "synchronous generator",
+      "tran_cn": "同步发电机"
+    },
+    {
+      "phrase": "turbine generator",
+      "tran_cn": "涡轮发电机（等于turbogenerator）"
+    },
+    {
+      "phrase": "voltage generator",
+      "tran_cn": "电压发生器；发动机电动势"
+    },
+    {
+      "phrase": "wave generator",
+      "tran_cn": "水波产生器，波形信号发生器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "发电机，发生器，电力公司，生产者，创始者，[乐]基础低音",
+      "tran_en": "a machine that produces electricity"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "generators"
+    ]
+  }
+}

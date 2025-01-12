@@ -1,0 +1,202 @@
+{
+  "word": "cramp",
+  "ipa": {
+    "us": "kræmp",
+    "uk": "kræmp"
+  },
+  "sentences": [
+    {
+      "en": "Deep late night, he walks pass dusty stairway, low cramp hallway.",
+      "cn": "深湛的夜, 他穿越白尘覆积的楼梯间, 局促低矮的走廊."
+    },
+    {
+      "en": "Faber had a cramp in his left calf.",
+      "cn": "费伯的左小腿感到麻木."
+    },
+    {
+      "en": "He lost all sensation in his legs through cramp.",
+      "cn": "他的腿部因抽筋而失去知觉."
+    },
+    {
+      "en": "Hillsden was complain-ing of cramp in his calf muscles.",
+      "cn": "希尔斯登说他小腿抽筋。"
+    },
+    {
+      "en": "I hate a cramp, he thought.",
+      "cn": "我恨抽筋, 他想."
+    },
+    {
+      "en": "It'should not cramp on me again unless it gets too cold in the night.",
+      "cn": "它不会再抽筋了,除非夜里太冷."
+    },
+    {
+      "en": "Like more and more women, she believes marriage would cramp her style.",
+      "cn": "像越来越多的女性一样，她认为婚姻会对她形成束缚。"
+    },
+    {
+      "en": "muscle cramps",
+      "cn": "肌肉痉挛"
+    },
+    {
+      "en": "My bedfellows are cough and cramp; we sleep three in a bed.",
+      "cn": "我的同衾者是咳嗽与痉挛, 咱们三个同睡一床."
+    },
+    {
+      "en": "My hand is only cut a little and the cramp is gone from the other.",
+      "cn": "我一只手仅仅割破了一点儿,另一只手的抽筋已经好了."
+    },
+    {
+      "en": "Several players were suffering from cramp.",
+      "cn": "有几名球员抽筋了。"
+    },
+    {
+      "en": "The swimmer suddenly got cramp.",
+      "cn": "这个游泳的人突然抽筋."
+    },
+    {
+      "en": "The swimmer was seized with a cramp and had to be helped out of the water.",
+      "cn": "那个在游泳的人突然抽起筋来,让别人帮着上了岸."
+    },
+    {
+      "en": "The swimmer was seized with cramp in cold water.",
+      "cn": "游泳者在冷水中忽然抽筋了."
+    },
+    {
+      "en": "to get cramp in your leg",
+      "cn": "腿部抽筋"
+    },
+    {
+      "en": "Winston stopped writing, partly because he was suffering from cramp.",
+      "cn": "温斯顿驻了笔,手指也写麻了."
+    },
+    {
+      "en": "You got a cramp in your leg.",
+      "cn": "你的腿已经痉挛了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cramped",
+          "tran_cn": " 狭窄的；难懂的；难辨的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "cramped",
+          "tran_cn": " 用夹钳夹；约束（cramp的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "narrow",
+            "restricted",
+            "mysterious",
+            "confined",
+            "strait"
+          ],
+          "tran_cn": "狭窄的；难解的；受限制的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fit",
+            "spasm"
+          ],
+          "tran_cn": "痉挛，绞痛；[五金][机]铁夹钳"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "box",
+            "confine",
+            "in",
+            "limit",
+            "pain",
+            "restrict",
+            "twinge"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "chain",
+            "block"
+          ],
+          "tran_cn": "束缚，限制；使…抽筋；以铁箍扣紧"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cramp (one's) style",
+      "tran_cn": "限制或防止…自由行动或表述"
+    },
+    {
+      "phrase": "cramp someone's style",
+      "tran_cn": "(非正式)使人不能自由行事"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "狭窄的；难解的；受限制的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "痛性痉挛，抽筋，（腹部）绞痛，夹子，扣钉，（制靴）弓状木",
+      "tran_en": "a severe pain that you get in part of your body when a muscle becomes too tight, making it difficult for you to move that part of your body"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 把…箍紧",
+      "tran_en": "to prevent the development of someone or something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使痉挛，使抽筋，<俚>使扫兴，用夹子夹紧，限制，束缚"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cramps"
+    ],
+    "third": [
+      "cramps"
+    ],
+    "past": [
+      "cramped"
+    ],
+    "done": [
+      "cramped"
+    ],
+    "ing": [
+      "cramping"
+    ]
+  }
+}

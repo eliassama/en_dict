@@ -1,0 +1,191 @@
+{
+  "word": "deny",
+  "ipa": {
+    "us": "dɪˈnaɪ",
+    "uk": "dɪˈnaɪ"
+  },
+  "sentences": [
+    {
+      "en": "Both women vehemently deny the charges against them.",
+      "cn": "两名妇女都激烈地否认了对她们的指控."
+    },
+    {
+      "en": "Don't deny yourself pleasure.",
+      "cn": "不要有乐不享。"
+    },
+    {
+      "en": "Don't imagine you can deny that.",
+      "cn": "你休想低赖."
+    },
+    {
+      "en": "He had the hardihood to deny the fact.",
+      "cn": "他胆敢否认事实."
+    },
+    {
+      "en": "He has the confidence to deny it.",
+      "cn": "他竟有胆量否认它."
+    },
+    {
+      "en": "He tried to deny it. Shame on him!",
+      "cn": "他还想抵赖，真不害臊！"
+    },
+    {
+      "en": "I would not want to deny them a harmless pleasure.",
+      "cn": "我不想剥夺他们这点无伤大雅的乐趣。"
+    },
+    {
+      "en": "It is absurd that they ( should ) deny my request.",
+      "cn": "他们拒绝我的要求是荒唐的."
+    },
+    {
+      "en": "Jack had the hardihood to deny what he has done.",
+      "cn": "杰克厚颜地否认了自己所干的事."
+    },
+    {
+      "en": "She can deny her son nothing.",
+      "cn": "她对儿子是百依百顺(要什么就给什么)."
+    },
+    {
+      "en": "The department denies responsibility for what occurred.",
+      "cn": "这个部门拒绝为所发生的事承担责任。"
+    },
+    {
+      "en": "The government denied the existence of poverty among 16- and 17-year-olds.",
+      "cn": "政府否认十六七岁的青少年当中存在贫困问题。"
+    },
+    {
+      "en": "The White House was swift to deny the rumours.",
+      "cn": "白宫立刻对这些传言予以否认。"
+    },
+    {
+      "en": "They appeared at court yesterday to deny charges of murder.",
+      "cn": "他们昨天出庭，否认谋杀的指控。"
+    },
+    {
+      "en": "They falsify or deny whatever doesn't suit their books.",
+      "cn": "他们篡改或者否定任何不符合他们意见的东西."
+    },
+    {
+      "en": "They totally and categorically deny the charges.",
+      "cn": "他们彻底而又坚决地否认了那些指控。"
+    },
+    {
+      "en": "Who can deny his stature as the world's greatest cellist?",
+      "cn": "谁能否认他是世界上最伟大的大提琴演奏家呢？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deniable",
+          "tran_cn": " 可否认的；可拒绝的；可否定的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "denial",
+          "tran_cn": " 否认；拒绝；节制；背弃"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contradict",
+            "controvert",
+            "disclaim",
+            "dispute",
+            "except",
+            "negative",
+            "prohibit",
+            "rebuff",
+            "refute",
+            "reject",
+            "renounce",
+            "repudiate",
+            "spurn",
+            "veto",
+            "withhold"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "object",
+            "refuse"
+          ],
+          "tran_cn": "否认；拒绝"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "contradict",
+            "dispute",
+            "refute",
+            "reject",
+            "renounce"
+          ],
+          "tran_cn": "否定;拒绝"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deny access",
+      "tran_cn": "拒绝访问；不让进入"
+    },
+    {
+      "phrase": "deny oneself",
+      "tran_cn": "节制；戒除"
+    },
+    {
+      "phrase": "deny something to someone",
+      "tran_cn": "deny someone something 拒绝给予"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "否认，拒绝承认，戒绝(尤因道德或宗教原因)，拒绝给予",
+      "tran_en": "to say that something is not true, or that you do not believe something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 否认， 不承认； 拒绝给予， 拒绝…的要求",
+      "tran_en": "to say that something is not true, or that you do not believe something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "denies"
+    ],
+    "past": [
+      "denied"
+    ],
+    "done": [
+      "denied"
+    ],
+    "ing": [
+      "denying"
+    ]
+  }
+}

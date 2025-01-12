@@ -1,0 +1,122 @@
+{
+  "word": "sizzle",
+  "ipa": {
+    "us": "ˈsɪzl",
+    "uk": "ˈsɪzəl"
+  },
+  "sentences": [
+    {
+      "en": "Sales immediately began to sizzle.",
+      "cn": "销售情况立即出现喜人景象."
+    },
+    {
+      "en": "Technical sizzle go a long way towards accomplishing this, but it's far from the whole story.",
+      "cn": "要做到这一点,巧妙的手段会起很大的作用, 但远远不是故事的全部."
+    },
+    {
+      "en": "The sausages and burgers sizzled on the barbecue.",
+      "cn": "香肠和肉饼在烤架上咝咝作响。"
+    },
+    {
+      "en": "The vegetables dropped into the boiling oil with a sizzle.",
+      "cn": "欻拉一声,把菜倒进了滚油锅里."
+    },
+    {
+      "en": "They used to sizzle each other.",
+      "cn": "他们过去常常互相谩骂."
+    },
+    {
+      "en": "Why you skip it: Your sweat session might not sizzle as many calories as you think.",
+      "cn": "为什么不可取: 出汗所燃烧的卡路里可能不会像你想象的那么多."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sizzling",
+          "tran_cn": " 极热的"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sizzling",
+          "tran_cn": " 发咝咝声（sizzle的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fizzer"
+          ],
+          "tran_cn": "嘶嘶声"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "buzz"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "fizzle"
+          ],
+          "tran_cn": "发嘶嘶声"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "嘶嘶声"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "发嘶嘶声",
+      "tran_en": "If something such as hot oil or fat sizzles, it makes hissing sounds"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "发咝咝声，表现良好，进行顺利"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把…烧得嘶嘶响，烧灼"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "sizzles"
+    ],
+    "past": [
+      "sizzled"
+    ],
+    "done": [
+      "sizzled"
+    ],
+    "ing": [
+      "sizzling"
+    ]
+  }
+}

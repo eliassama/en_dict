@@ -1,0 +1,150 @@
+{
+  "word": "remittance",
+  "ipa": {
+    "us": "rɪˈmɪtns",
+    "uk": "rɪˈmɪtns"
+  },
+  "sentences": [
+    {
+      "en": "A prompt remittance would be appreciated.",
+      "cn": "速寄汇款不胜感激."
+    },
+    {
+      "en": "A remittance must accompany all orders.",
+      "cn": "所有订单均须附汇款."
+    },
+    {
+      "en": "A remittance of a large sum is required.",
+      "cn": "要求一笔大数额的汇款."
+    },
+    {
+      "en": "How much of the remittance do you want to convert into Japanese yen?",
+      "cn": "你要把多少汇款换成日圆?"
+    },
+    {
+      "en": "How much of the remittance do you want to convert into US dollar?",
+      "cn": "您想把多少汇款换成美元?"
+    },
+    {
+      "en": "I find my name on the blackboard. I must have got a remittance.",
+      "cn": "我在黑板上看到我的名字, 肯定有我的汇款."
+    },
+    {
+      "en": "I told you three days ago I was awaiting a remittance.",
+      "cn": "三天以前我就告诉你了,我在等一笔汇款."
+    },
+    {
+      "en": "May I ask the reason for your remittance?",
+      "cn": "可以请问汇款的原因 吗 ?"
+    },
+    {
+      "en": "Please enclose your remittance, making checks payable to Valley Technology Services.",
+      "cn": "请随信附上您的汇款，支票收款方为瓦利科技服务公司。"
+    },
+    {
+      "en": "Please enclose your remittance, making cheques payable to Thames Valley Technology.",
+      "cn": "请附上汇款，支票收款人为泰晤士河谷科技公司。"
+    },
+    {
+      "en": "Please return the completed form with your remittance.",
+      "cn": "请将填好的表格连同汇款寄回。"
+    },
+    {
+      "en": "Remittance and collection belong to the commercial credit.",
+      "cn": "汇付和托收属于商业信用."
+    },
+    {
+      "en": "Remittance was made through a bank.",
+      "cn": "款子是通过银行汇寄的."
+    },
+    {
+      "en": "Sure. Now here is the exchange memo and the application form for remittance.",
+      "cn": "可以. 好,请您填写兑换水单和汇款申请表."
+    },
+    {
+      "en": "We hold the merchandise in readiness to ship upon receipt of your remittance.",
+      "cn": "我们为贵方保留着这些已备齐的订货,待收到贵方汇款后即可装运."
+    },
+    {
+      "en": "What's the cost for 200 dollar'remittance to Boston?",
+      "cn": "往波士顿寄200美元汇款要多少邮费?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "remit",
+          "tran_cn": " 移交的事物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "remit",
+          "tran_cn": " 汇款；缓和"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "remit",
+          "tran_cn": " 宽恕；免除；减轻；传送；使恢复原状"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "consignment",
+            "payment"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bank remittance",
+      "tran_cn": "银行汇款底单"
+    },
+    {
+      "phrase": "inward remittance",
+      "tran_cn": "汇入汇款"
+    },
+    {
+      "phrase": "outward remittance",
+      "tran_cn": "[经]汇出汇款"
+    },
+    {
+      "phrase": "postal remittance",
+      "tran_cn": "[经]邮政划拨"
+    },
+    {
+      "phrase": "remittance slip",
+      "tran_cn": "[经]汇款凭单"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "汇款，汇款额，支付（金额），[法]（案件的）发回，移转",
+      "tran_en": "an amount of money that you send to pay for something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "remittances"
+    ]
+  }
+}

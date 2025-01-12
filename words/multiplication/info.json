@@ -1,0 +1,205 @@
+{
+  "word": "multiplication",
+  "ipa": {
+    "us": "ˌmʌltɪplɪˈkeɪʃn",
+    "uk": "ˌmʌltɪplɪˈkeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "A commonly used microcomputer algorithm for multiplication.",
+      "cn": "微型计算机一种常用的乘法算法."
+    },
+    {
+      "en": "a multiplication of the number of forms to fill out",
+      "cn": "需要填写的表格数量的倍增"
+    },
+    {
+      "en": "Addition, subtraction, multiplication, and division are binary operations.",
+      "cn": "加 、 减 、 乘 、 除都是二元运算."
+    },
+    {
+      "en": "Further multiplication of the virus produced papules on the skin.",
+      "cn": "病毒的进一步增殖使皮肤发生丘疹."
+    },
+    {
+      "en": "He's strong in the multiplication - table.",
+      "cn": "他长于九九乘法表."
+    },
+    {
+      "en": "In each case, the level of cell multiplication attributable to zeatin is shown.",
+      "cn": "每种情况都表明归因于玉米素的细胞繁殖水平."
+    },
+    {
+      "en": "In other words, F respects addition, multiplication and identity element.",
+      "cn": "换言之, F保持加, 乘法和单位元."
+    },
+    {
+      "en": "Increasing gravity is known to speed up the multiplication of cells.",
+      "cn": "我们知道不断增加的引力会加速细胞的分裂。"
+    },
+    {
+      "en": "Our teacher used to drum our multiplication tables into us.",
+      "cn": "我们老师过去老是让我们反覆背诵乘法表."
+    },
+    {
+      "en": "Several Methods: Were used for multiplication.",
+      "cn": "作乘法有几种方法."
+    },
+    {
+      "en": "The multiplication of numbers has made our club building too small.",
+      "cn": "会员的增加使得我们的俱乐部拥挤不堪."
+    },
+    {
+      "en": "The register used to contain a multiplier in multiplication and the quotient in division.",
+      "cn": "在乘法运算中存放乘数,在除法运算中存放商的一种寄存器."
+    },
+    {
+      "en": "The teacher hammered away at the multiplication tables.",
+      "cn": "老师一再朗读乘法表."
+    },
+    {
+      "en": "The teacher hammers away at the multiplication tables.",
+      "cn": "老师反复地念诵乘法表."
+    },
+    {
+      "en": "There will be simple tests in addition, subtraction, multiplication and division.",
+      "cn": "会有对加、减、乘、除运算的简单测试。"
+    },
+    {
+      "en": "There will be simple tests in addition, subtraction, multiplication, and division.",
+      "cn": "将会有加减乘除的简单测试。"
+    },
+    {
+      "en": "We had multiplication tables drilled into us at school.",
+      "cn": "以前我们上学得反复背诵乘法表."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "multiplicate",
+          "tran_cn": "多种的；多重的"
+        },
+        {
+          "word": "multiplicative",
+          "tran_cn": "[数] 乘法的；增加的"
+        },
+        {
+          "word": "multiply",
+          "tran_cn": "多层的；多样的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "multiplicatively",
+          "tran_cn": "用乘法"
+        },
+        {
+          "word": "multiply",
+          "tran_cn": "多样地；复合地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "multiplicative",
+          "tran_cn": "乘法；倍数词"
+        },
+        {
+          "word": "multiplicator",
+          "tran_cn": "[数] 乘数；倍率器；放大器"
+        },
+        {
+          "word": "multiplier",
+          "tran_cn": "[数] 乘数；[电子] 倍增器；增加者；繁殖者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "multiply",
+          "tran_cn": "乘；繁殖；增加"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "multiply",
+          "tran_cn": "乘；使增加；使繁殖；使相乘"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "enhancement",
+            "increase",
+            "gain",
+            "rise"
+          ],
+          "tran_cn": "[数]乘法；增加"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "extension"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "frequency multiplication",
+      "tran_cn": "倍频"
+    },
+    {
+      "phrase": "matrix multiplication",
+      "tran_cn": "矩阵乘法"
+    },
+    {
+      "phrase": "multiplication rate",
+      "tran_cn": "增殖速率；增殖速度"
+    },
+    {
+      "phrase": "multiplication table",
+      "tran_cn": "n. [数]乘法表"
+    },
+    {
+      "phrase": "scalar multiplication",
+      "tran_cn": "纯量乘法；标量乘法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "增加，增殖，倍增，[数]乘法，乘法运算",
+      "tran_en": "a method of calculating in which you add a number to itself a particular number of times"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "multiplications"
+    ]
+  }
+}

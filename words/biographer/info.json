@@ -1,0 +1,87 @@
+{
+  "word": "biographer",
+  "ipa": {
+    "us": "baɪˈɒɡrəfə(r)",
+    "uk": "baɪˈɑːɡrəfər"
+  },
+  "sentences": [
+    {
+      "en": "...Picasso's biographer.",
+      "cn": "…毕加索的传记作者。"
+    },
+    {
+      "en": "A biographer tends to flatter the person he intends to write about in his biography.",
+      "cn": "传记作者常常在传记中美化他的传主."
+    },
+    {
+      "en": "As Frost's official biographer, I mentally filed this information.",
+      "cn": "身为弗洛斯特指定的传记撰写人, 我将这事记在心上."
+    },
+    {
+      "en": "Boswell was the biographer of Dr Johnson.",
+      "cn": "鲍斯威尔是约翰逊博士的传记作者."
+    },
+    {
+      "en": "It was a toss - up who was dirtier, Samuel Johnson or his biographer James Boswell.",
+      "cn": "比比哪位更脏, 塞缪尔?约翰逊与其传记作者詹姆斯?博斯维尔难分伯仲."
+    },
+    {
+      "en": "The biographer will be seized of all pertinent papers and correspondence.",
+      "cn": "这位传记作者将掌握全部有关文件和信件."
+    },
+    {
+      "en": "We can begin to answer the question with a sentence by Irving's biographer.",
+      "cn": "要解答这个问题,首先引用欧文传记作者的一句话."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "biographic",
+          "tran_cn": " 传记的；传记体的"
+        },
+        {
+          "word": "biographical",
+          "tran_cn": " 传记的，传记体的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "biography",
+          "tran_cn": " 传记；档案；个人简介"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "author"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "传记作者",
+      "tran_en": "someone who writes a biography of someone else"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "biographers"
+    ]
+  }
+}

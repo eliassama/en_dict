@@ -1,0 +1,86 @@
+{
+  "word": "tope",
+  "ipa": {
+    "us": "təʊp",
+    "uk": " top"
+  },
+  "sentences": [
+    {
+      "en": "He let himself down slowly by means of a tope.",
+      "cn": "他借助一根绳子慢慢地下来了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "toper",
+          "tran_cn": " 酒徒，豪饮者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "shrine"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "binge drinking",
+            "drink like a fish"
+          ],
+          "tran_cn": "豪饮"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "binge drinking",
+            "drink like a fish"
+          ],
+          "tran_cn": "豪饮"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "佛塔，翅鲨"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "豪饮"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "topes"
+    ],
+    "past": [
+      "toped"
+    ],
+    "done": [
+      "toped"
+    ],
+    "ing": [
+      "toping"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "word": "cursor",
+  "ipa": {
+    "us": "ˈkɜ:sə(r)",
+    "uk": "ˈkɜrsə(r)"
+  },
+  "sentences": [
+    {
+      "en": "But the cursor started clockwise in circles around the board.",
+      "cn": "但是接下来,指针开始在板子上顺时针方向地转起了圈."
+    },
+    {
+      "en": "He moves the cursor, clicks the mouse.",
+      "cn": "他移动光标，点击鼠标。"
+    },
+    {
+      "en": "Movable splitters should always advertise their pliancy with cursor hinting.",
+      "cn": "可移动的分割线应该借助光标暗示显示其受范性."
+    },
+    {
+      "en": "Sometimes charged cursor programs forget to change the appearance of the cursor.",
+      "cn": "有时使用加载光标的程序忘记改变光标的外观."
+    },
+    {
+      "en": "Specifies the cursor position, in screen coordinates, when the message was posted.",
+      "cn": "当消息投递时光标在屏幕坐标的位置."
+    },
+    {
+      "en": "The cursor's color, highlighted and non - highlighted text can also be customized.",
+      "cn": "该光标的颜色, 并突出 非 文也强调定制."
+    },
+    {
+      "en": "The drag cursor must visually identify the source object.",
+      "cn": "拖动光标必须在视觉上表示源对象."
+    },
+    {
+      "en": "There are two basic variants of palette tool behavior: modal tools and charged cursor tools.",
+      "cn": "它们的行为有两种基本类型,即模态工具和加载的光标工具."
+    },
+    {
+      "en": "This status includes attribute information, clause information, typing information, and cursor position.",
+      "cn": "这些状态包括属性信息 、 子串信息 、 录入信息和子串的位置."
+    },
+    {
+      "en": "To pause the slideshow, place your mouse cursor over the picture.",
+      "cn": "暂停幻灯片, 把你的鼠标光标放在图画上."
+    },
+    {
+      "en": "Use cursor hinting to indicate pliancy.",
+      "cn": "运用光标暗示来表达受范性."
+    },
+    {
+      "en": "Use cursor hinting to show the meanings of meta - keys.",
+      "cn": "用光标暗示表明元键的含义."
+    },
+    {
+      "en": "Using cursor hinting to dynamically show the meanings of meta - keys is a good idea.",
+      "cn": "可以采用光标暗示来动态显示元键的用法,这种做法很好."
+    },
+    {
+      "en": "What is used for moving the cursor around the screen?",
+      "cn": "用什么来移动屏幕上的光标?"
+    },
+    {
+      "en": "You can move the cursor by using the mouse.",
+      "cn": "你可以使用鼠标器来移动光标."
+    },
+    {
+      "en": "You can set cursor location in a source window.",
+      "cn": "可以在源窗口中设置光标位置."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "index",
+            "finger"
+          ],
+          "tran_cn": "[计]光标；（计算尺的）游标，指针"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cursor movement",
+      "tran_cn": "光标移动"
+    },
+    {
+      "phrase": "cursor position",
+      "tran_cn": "光标位置"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "光标",
+      "tran_en": "a mark that can be moved around a computer screen to show where you are working"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cursors"
+    ]
+  }
+}

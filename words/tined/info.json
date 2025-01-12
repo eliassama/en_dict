@@ -1,0 +1,80 @@
+{
+  "word": "tined",
+  "ipa": {
+    "us": "taɪnd",
+    "uk": "taɪnd"
+  },
+  "sentences": [
+    {
+      "en": "It becomes clear that the wounds were caused by a single blow from a multiple - tined instrument.",
+      "cn": "它清楚地显示出伤口是叉子造成的."
+    },
+    {
+      "en": "The deer with three tined antlers can be seen in some places.",
+      "cn": "在某些地方可看到有三个叉角的鹿。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tine",
+          "tran_cn": " 齿；尖头"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "tine",
+          "tran_cn": " 被丢失；遭难"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "tine",
+          "tran_cn": " （英）丢失；浪费"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "leading-edge",
+            "dentigerous"
+          ],
+          "tran_cn": "尖端的；有齿的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "spent",
+            "misspent"
+          ],
+          "tran_cn": "失去；浪费（tine的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有齿的，有叉的"
+    }
+  ],
+  "exchange": {}
+}

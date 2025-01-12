@@ -1,0 +1,103 @@
+{
+  "word": "remonstrate",
+  "ipa": {
+    "us": "ˈremənstreɪt",
+    "uk": "rɪˈmɑːnstreɪt"
+  },
+  "sentences": [
+    {
+      "en": "He remonstrated with the referee.",
+      "cn": "他曾向裁判抗议。"
+    },
+    {
+      "en": "He went to the manager to remonstrate.",
+      "cn": "他去向经理提出进谏."
+    },
+    {
+      "en": "She opened her mouth to remonstrate, but became silent.",
+      "cn": "她只是劝了几句就不作声了."
+    },
+    {
+      "en": "So please don't remonstrate; in talking about it you have me at a disadvantage.",
+      "cn": "因此请你不必再反对了, 在这件事上,你已使我处于无法招架的地位."
+    },
+    {
+      "en": "Who would want to remonstrate and argue with them?",
+      "cn": "谁愿意劝告他们,与他们争辩 呢 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "remonstrance",
+          "tran_cn": " 抗议；规劝；谏书"
+        },
+        {
+          "word": "remonstration",
+          "tran_cn": " 抗议；规劝；忠告"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "kick"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "object",
+            "protest against sth"
+          ],
+          "tran_cn": "抗议，反对；进谏；告诫"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "correct",
+            "blame for"
+          ],
+          "tran_cn": "责备，告诫；抗议；表示异议"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "抗议，抱怨，埋怨",
+      "tran_en": "to tell someone that you strongly disapprove of something they have said or done"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "remonstrates"
+    ],
+    "past": [
+      "remonstrated"
+    ],
+    "done": [
+      "remonstrated"
+    ],
+    "ing": [
+      "remonstrating"
+    ]
+  }
+}

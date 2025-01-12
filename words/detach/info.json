@@ -1,0 +1,190 @@
+{
+  "word": "detach",
+  "ipa": {
+    "us": "dɪˈtætʃ",
+    "uk": "dɪˈtætʃ"
+  },
+  "sentences": [
+    {
+      "en": "Detach power steering reservoir from fan shroud and lay aside.",
+      "cn": "将动力转向储液罐同风扇罩分开并放至一边."
+    },
+    {
+      "en": "Detach the arches from the carpet and remove all pendants.",
+      "cn": "把架子连饰物从垫子上拆下."
+    },
+    {
+      "en": "Detach the coupon and return it as soon as possible.",
+      "cn": "将赠券撕下后尽快寄回。"
+    },
+    {
+      "en": "Detach the management and technic which we already done.",
+      "cn": "管理与技术分开,项目部内部高度自治,这个我们已经做了."
+    },
+    {
+      "en": "Detach the white part of the application form and keep it for reference only.",
+      "cn": "取下申请表的白色部分，仅备参考。"
+    },
+    {
+      "en": "Detach the white part of the application form and keep it.",
+      "cn": "把申请表的白色部分撕下存底。"
+    },
+    {
+      "en": "DLL _ THREAD _ DETACH The DLL receives this value when a thread in the process is destroyed.",
+      "cn": "DLL_THREAD_ DETACH当进程中的线程被销毁时,dll接收到这个值."
+    },
+    {
+      "en": "Don't detach the coach from the train.",
+      "cn": "别把这个车箱从火车上拆下来."
+    },
+    {
+      "en": "He decided to detach himself from the human world, and practice Buddhism.",
+      "cn": "他决定超脱尘网, 一意修行."
+    },
+    {
+      "en": "It gave me a good reason to detach myself from the rest of the party.",
+      "cn": "这样我就有充分理由离开其余的人们."
+    },
+    {
+      "en": "It helps them detach themselves from their problems and become more objective.",
+      "cn": "这有助于他们从所面临的问题中跳出来，变得更客观一些。"
+    },
+    {
+      "en": "It is easy to detach the currants from the stems.",
+      "cn": "很容易就能把醋栗从梗上摘下来。"
+    },
+    {
+      "en": "It's impossible to detach oneself from reality.",
+      "cn": "超脱现实是不可能的."
+    },
+    {
+      "en": "Otherwise it must detach units to preserve signal and road communications, protect dumps and convoys.",
+      "cn": "否则必须派遣部队去维持秩序和交通, 保护仓库和运输."
+    },
+    {
+      "en": "Please detach and fill out the application form.",
+      "cn": "请撕下申请表并填好。"
+    },
+    {
+      "en": "They clambered back under the falls to detach the raft from a jagged rock.",
+      "cn": "他们爬回到瀑布下面以便将卡在锯齿状岩石间的小艇拉出来。"
+    },
+    {
+      "en": "We should detach good apples from bad.",
+      "cn": "我们必须把好的苹果与坏的分开。"
+    },
+    {
+      "en": "You can detach the handle of the saucepan by undoing this screw.",
+      "cn": "拧开这螺丝就能把平底锅的长柄取下来."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "detachable",
+          "tran_cn": "可分开的；可拆开的；可分遣的"
+        },
+        {
+          "word": "detached",
+          "tran_cn": "分离的，分开的；超然的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "detachment",
+          "tran_cn": "分离，拆开；超然；分遣；分遣队"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "detached",
+          "tran_cn": "分离"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "assign",
+            "delegate",
+            "disconnect",
+            "disjoin",
+            "draft",
+            "joint",
+            "loosen",
+            "separate",
+            "sever",
+            "shell",
+            "unfasten"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "disconnect",
+            "separate",
+            "unfasten"
+          ],
+          "tran_cn": "分开,拆卸"
+        },
+        {
+          "words": [
+            "assign",
+            "delegate",
+            "draft"
+          ],
+          "tran_cn": "派遣,分遣"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "detach from",
+      "tran_cn": "从…分离；拆卸"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（使）分开，脱离，摆脱，派遣",
+      "tran_en": "to remove sth from sth larger; to become separated from sth"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 拆卸； 使分开， 使分离",
+      "tran_en": "if you detach something, or if it detaches, it becomes separated from the thing it was attached to"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "detaches"
+    ],
+    "past": [
+      "detached"
+    ],
+    "done": [
+      "detached"
+    ],
+    "ing": [
+      "detaching"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "word": "sanitize",
+  "ipa": {
+    "us": "ˈsænɪtaɪz",
+    "uk": "ˈsænɪˌtaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Caregivers should be trained in ways to clean, sanitize and disinfect.",
+      "cn": "护理人员应该接受打扫、清洁和消毒方面的训练。"
+    },
+    {
+      "en": "This device will heat the water to make sure it is hot enough to sanitize dishes.",
+      "cn": "该装置将热量使水净化是辣菜."
+    },
+    {
+      "en": "This is usually fine, unless they forget to sanitize, or check, the incoming data.",
+      "cn": "这通常是没问题的，除非他们忘记清洁或检查输入数据。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sanitary",
+          "tran_cn": " 卫生的，清洁的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sanitary",
+          "tran_cn": " 公共厕所"
+        },
+        {
+          "word": "sanitation",
+          "tran_cn": " [医] 环境卫生；卫生设备；下水道设施"
+        },
+        {
+          "word": "sanitization",
+          "tran_cn": " 卫生处理"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sanitate",
+          "tran_cn": " 使合卫生；装设卫生设备"
+        },
+        {
+          "word": "sanitise",
+          "tran_cn": " 采取卫生措施使其安全；给…消毒（等于sanitize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "censor",
+            "fumigate",
+            "sterilize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "清洁"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使清洁， 进行消毒，审查， 净化"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "sanitizes"
+    ],
+    "past": [
+      "sanitized"
+    ],
+    "done": [
+      "sanitized"
+    ],
+    "ing": [
+      "sanitizing"
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "word": "calculable",
+  "ipa": {
+    "us": "ˈkælkjələbl",
+    "uk": "ˈkælkjələbəl"
+  },
+  "sentences": [
+    {
+      "en": "clear and calculable benefits",
+      "cn": "显而易见、算得出的好处"
+    },
+    {
+      "en": "Clearly, more and more baleful attack are come from lawful calculable website.",
+      "cn": "显而易见, 越来越多的恶意攻击源自合法可信赖的网站."
+    },
+    {
+      "en": "Its inputs might be calculable in string theory.",
+      "cn": "这些东西或许可以从弦论算出来."
+    },
+    {
+      "en": "Some of the consequences of this failure are calculable and some are not.",
+      "cn": "这些失败之处所带来的损失有的可以估量,有的却不能."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "calculated",
+          "tran_cn": " 计算出的；适合的；有计划的"
+        },
+        {
+          "word": "calculating",
+          "tran_cn": " 计算的；深谋远虑的；审慎的"
+        },
+        {
+          "word": "calculative",
+          "tran_cn": " 计算的，善于计算的；精明的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "calculation",
+          "tran_cn": " 计算；估计；计算的结果；深思熟虑"
+        },
+        {
+          "word": "calculator",
+          "tran_cn": " 计算器；计算者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "calculated",
+          "tran_cn": " 计算；估计；打算（calculate的过去式和过去分词）"
+        },
+        {
+          "word": "calculating",
+          "tran_cn": " 计算（calculate的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "calculate",
+          "tran_cn": " 计算；以为；作打算"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "calculate",
+          "tran_cn": " 计算；预测；认为；打算"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "ascertainable",
+            "assessable",
+            "computable",
+            "countable",
+            "determinable",
+            "discoverable",
+            "estimable",
+            "gaugeable",
+            "measurable",
+            "predictable"
+          ],
+          "tran_cn": "可计算的,可查明的"
+        },
+        {
+          "words": [
+            "dependable",
+            "reliable",
+            "trustworthy"
+          ],
+          "tran_cn": "可靠的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appreciable"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可计算的，能预测的",
+      "tran_en": "something that is calculable can be measured by using numbers, or studying the facts available"
+    }
+  ],
+  "exchange": {}
+}

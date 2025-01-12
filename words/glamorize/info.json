@@ -1,0 +1,122 @@
+{
+  "word": "glamorize",
+  "ipa": {
+    "us": "ˈglæməraɪz",
+    "uk": "ˈɡlæməˌraɪz"
+  },
+  "sentences": [
+    {
+      "en": "Television tends to glamorize acts of violence.",
+      "cn": "电视往往渲染暴力."
+    },
+    {
+      "en": "Television tends to glamorize violence.",
+      "cn": "电视往往美化暴力。"
+    },
+    {
+      "en": "TV has been accused of glamorizing crime.",
+      "cn": "有人指责电视美化犯罪。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "glamorous",
+          "tran_cn": " 迷人的，富有魅力的"
+        },
+        {
+          "word": "glamourous",
+          "tran_cn": " 富有魅力的；迷人的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "glamor",
+          "tran_cn": " 魅力；魔法；迷人的美（等于glamour）"
+        },
+        {
+          "word": "glamour",
+          "tran_cn": " 魅力，魔力；迷人的美"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "glamor",
+          "tran_cn": " 迷惑；使有魅力（等于glamour）"
+        },
+        {
+          "word": "glamorise",
+          "tran_cn": " 使有魅力（等于glamorize）"
+        },
+        {
+          "word": "glamour",
+          "tran_cn": " 迷惑，迷住"
+        },
+        {
+          "word": "glamourize",
+          "tran_cn": " 使有魔力；使光荣；渲染"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adorn",
+            "aggrandize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "gussy up",
+            "prettify"
+          ],
+          "tran_cn": "美化；使有魅力"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "美化；使有魅力",
+      "tran_en": "to make something seem more attractive than it really is"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "粉饰，渲染"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "glamorizes"
+    ],
+    "past": [
+      "glamorized"
+    ],
+    "done": [
+      "glamorized"
+    ],
+    "ing": [
+      "glamorizing"
+    ]
+  }
+}

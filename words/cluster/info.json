@@ -1,0 +1,292 @@
+{
+  "word": "cluster",
+  "ipa": {
+    "us": "ˈklʌstə(r)",
+    "uk": "ˈklʌstər"
+  },
+  "sentences": [
+    {
+      "en": "a cluster of stars",
+      "cn": "星团"
+    },
+    {
+      "en": "A cluster of tourists was surrounded in the hill.",
+      "cn": "一群游客被困在了山中."
+    },
+    {
+      "en": "A cluster of vultures crouched on the carcass of a dead buffalo.",
+      "cn": "一群秃鹫蹲伏在一具野牛的尸体上。"
+    },
+    {
+      "en": "a diamond cluster ring",
+      "cn": "群镶钻戒"
+    },
+    {
+      "en": "A generalized model for cluster formation of arsenic atoms has been derived.",
+      "cn": "砷原子生成聚集群团的一般模型已经导出."
+    },
+    {
+      "en": "Businessmen cluster together to get ideas, tips, personal contacts anything to get a step ahead of the computer.",
+      "cn": "商人们聚集在一起寻求创意、建议、人际关系等，以便能比计算机领先一步。"
+    },
+    {
+      "en": "Chinese waiters stood in a cluster, sharing a private joke.",
+      "cn": "华人服务生们站在一起，讲着只有他们自己才懂的笑话。"
+    },
+    {
+      "en": "Do this for all nodes in the cluster.",
+      "cn": "对集群中的所有节点都这样做。"
+    },
+    {
+      "en": "Each atomic cluster is made up of neutrons and protons.",
+      "cn": "原子簇是由中子和质子构成的。"
+    },
+    {
+      "en": "Here's how I'd cluster the story we just skimmed.",
+      "cn": "现在我就把我们刚才浏览的故事组群如下."
+    },
+    {
+      "en": "However, there are some problems in the cluster environment.",
+      "cn": "然而，在集群环境中却存在一些问题。"
+    },
+    {
+      "en": "She held a cluster of flowers in her arms.",
+      "cn": "她抱着一束鲜花."
+    },
+    {
+      "en": "She placed a towel on a cluster of rocks just clear of the tidemark.",
+      "cn": "她把一条毛巾放在刚没过涨潮线的一堆石头上。"
+    },
+    {
+      "en": "The children clustered together in the corner of the room.",
+      "cn": "孩子们聚集在房间的角落里。"
+    },
+    {
+      "en": "The illustration shows a cluster of five roses coloured apricot orange.",
+      "cn": "插图上是一簇杏橙色的玫瑰，一共5朵。"
+    },
+    {
+      "en": "The passengers clustered together in small groups.",
+      "cn": "乘客们聚集成小群体。"
+    },
+    {
+      "en": "The stars in each given cluster presumably were formed almost simultaneously.",
+      "cn": "大体上说,每个给定星团中的恒星差不多是同时形成的."
+    },
+    {
+      "en": "There was a little cluster of admirers around the actress.",
+      "cn": "女演员周围拥着一小群崇拜者."
+    },
+    {
+      "en": "There was a little cluster of admirers round the guest speaker.",
+      "cn": "有一小群仰慕者围着那位特邀嘉宾."
+    },
+    {
+      "en": "This can be done on any server of the cluster.",
+      "cn": "可以在集群的任何服务器中这样做。"
+    },
+    {
+      "en": "Two cars smashed together and a cluster of rubbernecks gathered around.",
+      "cn": "两辆汽车相撞,一群好奇的人围拢起来观看."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "clustered",
+          "tran_cn": "成群的；聚集成群的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "clustering",
+          "tran_cn": "聚集，收集；分类归并"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "clustered",
+          "tran_cn": "聚合（cluster的过去式）"
+        },
+        {
+          "word": "clustering",
+          "tran_cn": "使成群（cluster的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "batch",
+            "bunch",
+            "group",
+            "set"
+          ],
+          "tran_cn": "串;束,簇;群,组"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "assemble",
+            "batch",
+            "bunch",
+            "clump",
+            "collection",
+            "connection",
+            "gather",
+            "group",
+            "huddle",
+            "knot",
+            "lot",
+            "muster",
+            "nest",
+            "resort",
+            "set",
+            "throng",
+            "tuft"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "bush"
+          ],
+          "tran_cn": "群聚；丛生"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "converge"
+          ],
+          "tran_cn": "使聚集；聚集在某人的周围"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a cluster of",
+      "tran_cn": "一群；一组；一串"
+    },
+    {
+      "phrase": "cluster analysis",
+      "tran_cn": "聚类分析；群集分析"
+    },
+    {
+      "phrase": "cluster bomb",
+      "tran_cn": "子母弹；集束炸弹"
+    },
+    {
+      "phrase": "cluster headache",
+      "tran_cn": "丛集性头痛；组合性头痛；头痛群"
+    },
+    {
+      "phrase": "cluster sampling",
+      "tran_cn": "分组取样；类集抽样；巢式抽样法"
+    },
+    {
+      "phrase": "consonant cluster",
+      "tran_cn": "辅音连缀；辅音音丛"
+    },
+    {
+      "phrase": "galaxy cluster",
+      "tran_cn": "星系团"
+    },
+    {
+      "phrase": "gene cluster",
+      "tran_cn": "基因簇，一组相同或者相似的基因"
+    },
+    {
+      "phrase": "globular cluster",
+      "tran_cn": "球状星团"
+    },
+    {
+      "phrase": "hierarchical cluster analysis",
+      "tran_cn": "层序聚类分析"
+    },
+    {
+      "phrase": "instrument cluster",
+      "tran_cn": "仪表组；仪表板"
+    },
+    {
+      "phrase": "open cluster",
+      "tran_cn": "疏散星团，银河星团"
+    },
+    {
+      "phrase": "server cluster",
+      "tran_cn": "[计算机]服务器群集"
+    },
+    {
+      "phrase": "star cluster",
+      "tran_cn": "星团"
+    },
+    {
+      "phrase": "virgo cluster",
+      "tran_cn": "室女座星系团；处女座星系团"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "团，群，簇，〈语音〉辅音从",
+      "tran_en": "a group of things of the same kind that are very close together"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "聚集",
+      "tran_en": "to come together in a small group or groups"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "群集，丛生",
+      "tran_en": "If people cluster together, they gather together in a small group"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 使群集， 集中",
+      "tran_en": "if a group of people or things cluster somewhere, or are clustered somewhere, they form a small group in that place"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "clusters"
+    ],
+    "third": [
+      "clusters"
+    ],
+    "past": [
+      "clustered"
+    ],
+    "done": [
+      "clustered"
+    ],
+    "ing": [
+      "clustering"
+    ]
+  }
+}

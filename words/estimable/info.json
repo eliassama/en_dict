@@ -1,0 +1,129 @@
+{
+  "word": "estimable",
+  "ipa": {
+    "us": "ˈestɪməbl",
+    "uk": "ˈestɪməbl"
+  },
+  "sentences": [
+    {
+      "en": "...the estimable Miss Cartwright.",
+      "cn": "...令人仰慕的卡特赖特小姐。"
+    },
+    {
+      "en": "He was an estimable teacher.",
+      "cn": "他是个值得尊重的老师."
+    },
+    {
+      "en": "Repose of manner is an estimable trait in a horse.",
+      "cn": "神情镇定是一匹马可贵的特质."
+    },
+    {
+      "en": "The estimable beast certainly deserved some consideration.",
+      "cn": "那么,能不能把它卖掉?"
+    },
+    {
+      "en": "Winning is a good thing, but failure sometimes is also estimable.",
+      "cn": "胜利是可贵的, 而失败有时同样可敬!"
+    },
+    {
+      "en": "You should not, of course, stop reading this estimable newspaper.",
+      "cn": "当然, 你不应该抛弃这份宝贝的报纸."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "estimate",
+          "tran_cn": " 估计，估价；判断，看法"
+        },
+        {
+          "word": "estimation",
+          "tran_cn": " 估计；尊重"
+        },
+        {
+          "word": "estimator",
+          "tran_cn": " [统计] 估计量；评价者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "estimate",
+          "tran_cn": " 估计，估价"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "estimate",
+          "tran_cn": " 估计，估量；判断，评价"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "assessable",
+            "calculable",
+            "computable"
+          ],
+          "tran_cn": "可估计的"
+        },
+        {
+          "words": [
+            "admirable",
+            "deserving",
+            "esteemed",
+            "exemplary",
+            "honorable",
+            "meritorious",
+            "noble",
+            "reputable",
+            "respectable",
+            "revered",
+            "valuable",
+            "valued",
+            "worthy"
+          ],
+          "tran_cn": "有价值的,可贵的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aboveboard",
+            "acceptable",
+            "adorable",
+            "appreciable",
+            "commendable",
+            "creditable",
+            "pure"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "值得尊敬的，可估计的，难能可贵",
+      "tran_en": "deserving respect and admiration"
+    }
+  ],
+  "exchange": {}
+}

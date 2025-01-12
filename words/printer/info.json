@@ -1,0 +1,223 @@
+{
+  "word": "printer",
+  "ipa": {
+    "us": "ˈprɪntə(r)",
+    "uk": "ˈprɪntər"
+  },
+  "sentences": [
+    {
+      "en": "a colour printer",
+      "cn": "彩色打印机"
+    },
+    {
+      "en": "a daisy wheel printer",
+      "cn": "菊瓣字轮打印机"
+    },
+    {
+      "en": "A hard copy of the screen display can also be obtained from a printer.",
+      "cn": "屏幕上显示的内容也可以通过打印机打印一份。"
+    },
+    {
+      "en": "a laser printer",
+      "cn": "激光打印机"
+    },
+    {
+      "en": "A printer which does form - feed function automatically.",
+      "cn": "一种具有自动 换页 功能的打印机."
+    },
+    {
+      "en": "Click on the printer icon with the mouse.",
+      "cn": "用鼠标点击打印机图标。"
+    },
+    {
+      "en": "computer consumables such as disks and printer cartridges",
+      "cn": "如磁盘、打印机墨盒之类的电脑耗材"
+    },
+    {
+      "en": "He moved to Leeds and set up as a printer.",
+      "cn": "他搬到利兹干起了印刷业."
+    },
+    {
+      "en": "He was a printer by trade and naturalist by avocation.",
+      "cn": "他从事印刷业，同时是个博物学爱好者。"
+    },
+    {
+      "en": "I hint that the faint saint painted the printer with a pint of paint.",
+      "cn": "我暗示说虚弱的圣徒用了一品脱油漆涂印刷机。"
+    },
+    {
+      "en": "If Mr. Jones can't find a job as a teacher, he can fall back on his skill as a printer.",
+      "cn": "如果琼斯先生找不到当老师的工作, 他可以凭他的技术搞印刷."
+    },
+    {
+      "en": "the interface between computer and printer",
+      "cn": "计算机和打印机之间的接口"
+    },
+    {
+      "en": "The printer can set this additional page in here.",
+      "cn": "这位印刷工把这额外的一页加在这里."
+    },
+    {
+      "en": "The printer has left out two lines from this paragraph.",
+      "cn": "印刷工人把这一段漏了两行."
+    },
+    {
+      "en": "They are articled to a printer.",
+      "cn": "他们在印刷厂当学徒."
+    },
+    {
+      "en": "This automatic printer can print 120 pages a minute.",
+      "cn": "这台自动印刷机每分钟能印一百二十页."
+    },
+    {
+      "en": "Tom is a printer's devil.",
+      "cn": "汤姆是印刷厂的使童."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "printable",
+          "tran_cn": " 印得出的；可出版的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "print",
+          "tran_cn": " 印刷业；印花布；印刷字体；印章；印记"
+        },
+        {
+          "word": "printing",
+          "tran_cn": " 印刷；印刷术"
+        },
+        {
+          "word": "printout",
+          "tran_cn": " [计] 打印输出；打印出的资料；晒相"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "print",
+          "tran_cn": " 印刷；出版；用印刷体写"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "print",
+          "tran_cn": " 印刷；打印；刊载；用印刷体写；在…印花样"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "machineman",
+            "typothetae"
+          ],
+          "tran_cn": "[印刷][摄][计]打印机；印刷工；印花工"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "barcode printer",
+      "tran_cn": "条形码打印机；条码机"
+    },
+    {
+      "phrase": "color printer",
+      "tran_cn": "彩色打印机"
+    },
+    {
+      "phrase": "default printer",
+      "tran_cn": "n. 默认打印机"
+    },
+    {
+      "phrase": "digital printer",
+      "tran_cn": "数位打印机；数字印字机"
+    },
+    {
+      "phrase": "dot matrix printer",
+      "tran_cn": "点阵打印机"
+    },
+    {
+      "phrase": "impact printer",
+      "tran_cn": "击打式印刷机"
+    },
+    {
+      "phrase": "ink jet printer",
+      "tran_cn": "喷墨印刷机"
+    },
+    {
+      "phrase": "ink-jet printer",
+      "tran_cn": "喷墨打印机（通常连接在电脑系统上）"
+    },
+    {
+      "phrase": "inkjet printer",
+      "tran_cn": "喷墨式打印机；喷墨印表机"
+    },
+    {
+      "phrase": "label printer",
+      "tran_cn": "电脑标签机；标记印字机；票据打印机"
+    },
+    {
+      "phrase": "laser printer",
+      "tran_cn": "激光印刷机"
+    },
+    {
+      "phrase": "line printer",
+      "tran_cn": "行式打印机"
+    },
+    {
+      "phrase": "matrix printer",
+      "tran_cn": "矩阵式打印机"
+    },
+    {
+      "phrase": "network printer",
+      "tran_cn": "n. 网络打印机"
+    },
+    {
+      "phrase": "printer driver",
+      "tran_cn": "[计]打印机驱动程序"
+    },
+    {
+      "phrase": "screen printer",
+      "tran_cn": "丝网漏印机；丝网印刷机；屏幕印刷"
+    },
+    {
+      "phrase": "stylus printer",
+      "tran_cn": "n. [计]针式打印机"
+    },
+    {
+      "phrase": "thermal printer",
+      "tran_cn": "热感型印刷机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "打印机，印刷机，印刷商，印刷厂，印刷业从业人员，印花工",
+      "tran_en": "a machine which is connected to a computer and can make a printed record of computer information"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "printers"
+    ]
+  }
+}

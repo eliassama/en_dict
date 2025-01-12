@@ -1,0 +1,56 @@
+{
+  "word": "brigand",
+  "ipa": {
+    "us": "ˈbrɪgənd",
+    "uk": "ˈbrɪɡənd"
+  },
+  "sentences": [
+    {
+      "en": "...a notorious brigand who hijacked trains.",
+      "cn": "...一名臭名昭著的火车劫匪。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bandit",
+            "robber",
+            "thief"
+          ],
+          "tran_cn": "盗贼"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bandit",
+            "pirate",
+            "robber",
+            "thief"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "土匪，强盗",
+      "tran_en": "a thief, especially one of a group that attacks people in mountains or forests"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "brigands"
+    ]
+  }
+}

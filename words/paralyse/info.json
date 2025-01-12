@@ -1,0 +1,86 @@
+{
+  "word": "paralyse",
+  "ipa": {
+    "us": "ˈpærəlaɪz",
+    "uk": "ˈpærəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Her legs were partly paralysed in the crash.",
+      "cn": "在撞车事故中她的双腿部分瘫痪。"
+    },
+    {
+      "en": "Software invalidation has become the main cause of the system paralyse.",
+      "cn": "软件失效已成为系统瘫痪的主要原因."
+    },
+    {
+      "en": "The effect of the drug is to paralyse the nerves in the leg before the operation.",
+      "cn": "手术前向患病的腿部注射这种药物,是为了麻痹腿部神经."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "paralytic",
+          "tran_cn": "麻痹的；瘫痪的；中风的"
+        },
+        {
+          "word": "paralyzed",
+          "tran_cn": "瘫痪的；麻痹的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "paralysis",
+          "tran_cn": "麻痹；无力；停顿"
+        },
+        {
+          "word": "paralytic",
+          "tran_cn": "中风患者；麻痹患者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "paralyzed",
+          "tran_cn": "使麻痹；使无力；使失去勇气（paralyze的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使麻痹，使瘫痪",
+      "tran_en": "if something paralyses you, it makes you lose the ability to move part or all of your body, or to feel it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使瘫痪[麻痹]，使不能正常活动，[电]关闭",
+      "tran_en": "if something paralyses you, it makes you lose the ability to move part or all of your body, or to feel it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "paralyses"
+    ],
+    "past": [
+      "paralysed"
+    ],
+    "done": [
+      "paralysed"
+    ],
+    "ing": [
+      "paralysing"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "word": "latency",
+  "ipa": {
+    "us": "'leɪtənsɪ",
+    "uk": "ˈletnsi"
+  },
+  "sentences": [
+    {
+      "en": "For God sakes , Alvy, even Freud speaks of a latency period!",
+      "cn": "拜托,艾尔维, 即使弗洛伊德都说有性潜伏期!"
+    },
+    {
+      "en": "However , efficient implementation of UPC is dependent on the use of low - latency , low - overhead , high - bandwidth communication systems.",
+      "cn": "UPC的有效实现依赖于低延迟 、 低开销 、 高带宽的通信系统."
+    },
+    {
+      "en": "In order to radically solve latency will only find better material or another ink system.",
+      "cn": "给想从底子上处置把持滞后性不离只有找到更抱负的质料或用另外的不朱路编制了."
+    },
+    {
+      "en": "In PMRG and ATG , P 300 amplitude increased and P 300 latency shortened.",
+      "cn": "而渐进式肌肉放松组和自生训练组P300波幅升高,P300潜伏期缩短."
+    },
+    {
+      "en": "Key restrictions are the asymmetric bandwidth of the communications channel and latency.",
+      "cn": "关键是不对称的带宽限制和延迟的通信通道."
+    },
+    {
+      "en": "Latency afferent inhibition was partially normalized by STN stimulation in the medication - on condition.",
+      "cn": "潜在的传入抑制在给药条件下通过丘脑底核刺激部分恢复正常."
+    },
+    {
+      "en": "Low latency MIDI input for real - time synthesizer feedback.",
+      "cn": "低延迟的MIDI输入 实时 合成器反馈."
+    },
+    {
+      "en": "Methods : VEP examinations was conducted in 40 eyes traumatic neuropathy and recorded amplitude of P 100 latency.",
+      "cn": "方法应用VEP检测临床诊断为外伤性视神经病变40眼,记录P100潜时和振幅的情况."
+    },
+    {
+      "en": "Six studies gave results for malignant brain tumours in that latency group.",
+      "cn": "有六个研究在潜伏期的族群当中发现恶性脑瘤."
+    },
+    {
+      "en": "Software data prefetching is an effective technique for hiding memory latency.",
+      "cn": "软件数据预取是一种有效的隐藏存储延迟的技术."
+    },
+    {
+      "en": "The b - wave latency remained constant after the treatment.",
+      "cn": "b波潜伏期在治疗前后无明显变化."
+    },
+    {
+      "en": "The P 1 wave latency ( WL ) was delayed after injury.",
+      "cn": "峰潜时 ( wavelatency,wl ) 延长."
+    },
+    {
+      "en": "The relation between the latency of H reflex and sex was investigated, too.",
+      "cn": "此外,还研究了H反射潜伏期与性别间关系."
+    },
+    {
+      "en": "This loop consists of 3 instructions also with unknown sum of latency.",
+      "cn": "这个循环由三条指令组成,也不知道潜伏期的和."
+    },
+    {
+      "en": "Would latency between you and the cloud - service provider pose a problem?",
+      "cn": "你和云服务供应商之间的延迟会不会成为问题?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "latent",
+          "tran_cn": " 潜在的；潜伏的；隐藏的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "incubation",
+            "implicit factor"
+          ],
+          "tran_cn": "[心理][生理]潜伏；潜在因素"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "latency time",
+      "tran_cn": "延迟时间，等待时间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "潜伏，潜在因素"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "latent"
+    ]
+  }
+}

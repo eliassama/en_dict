@@ -1,0 +1,76 @@
+{
+  "word": "felicitate",
+  "ipa": {
+    "us": "fɪ'lɪsɪteɪt",
+    "uk": "fɪˈlɪsɪˌtet"
+  },
+  "sentences": [
+    {
+      "en": "Allow me to felicitate you upon the birth of your daughter.",
+      "cn": "恭贺你喜得千金."
+    },
+    {
+      "en": "I felicitate myself on my narrow escape.",
+      "cn": "我庆幸自己死里逃生。"
+    },
+    {
+      "en": "I felicitate you on your memory, sir ( John Fowles )",
+      "cn": "祝贺你有这么好的记忆, 先生 ( 约翰福尔斯 )"
+    },
+    {
+      "en": "Japan should felicitate the opening of branches of Japanese vessel building industries along the Indian docks and port.",
+      "cn": "日本该庆祝印度港口里日本造船分厂的开设。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "felicitation",
+          "tran_cn": " 祝贺；庆祝；庆贺"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "commemorate",
+            "congratulate"
+          ],
+          "tran_cn": "庆贺；庆祝"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "祝贺, 庆祝, 庆贺, 把某人看作有福, 庆幸",
+      "tran_en": "to wish joy to; congratulate "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "向…致贺，为…庆幸"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "felicitates"
+    ],
+    "past": [
+      "felicitated"
+    ],
+    "done": [
+      "felicitated"
+    ],
+    "ing": [
+      "felicitating"
+    ]
+  }
+}

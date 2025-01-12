@@ -1,0 +1,114 @@
+{
+  "word": "optimise",
+  "ipa": {
+    "us": "'ɒptɪmaɪz",
+    "uk": "'ɒptɪmaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Both teams will be using mathematical modelling techniques to optimise and test their designs.",
+      "cn": "两支科研团队都将采用先进的数学建模技术,用以优化和测试其设计程序."
+    },
+    {
+      "en": "Check and optimise parameters of environmental impact regularly.",
+      "cn": "有规律性地检查和优化关于环境影响的参数."
+    },
+    {
+      "en": "Even the positioning of a window to optimise daylight can help save energy.",
+      "cn": "连充分利用日光的窗户都是节能的。"
+    },
+    {
+      "en": "Markowitz formalised these ideas and drew up the mathematical formulae to optimise diversification.",
+      "cn": "马柯维茨整理了这些观点,推导出数学公式,使多样化达到最优."
+    },
+    {
+      "en": "These engines use hydraulics and electronics to optimise valve settings.",
+      "cn": "这些引擎采用液压和电子技术来优化阀门设置."
+    },
+    {
+      "en": "Work within multifunctional groups and provide commercial direction to resolve problems and optimise performance.",
+      "cn": "在多功能组内工作,提供商务指导,解决问题和优化性能."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "optimistic",
+          "tran_cn": " 乐观的；乐观主义的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "optimistically",
+          "tran_cn": " 乐观地；乐天地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "optimism",
+          "tran_cn": " 乐观；乐观主义"
+        },
+        {
+          "word": "optimist",
+          "tran_cn": " 乐观主义者；乐天派"
+        },
+        {
+          "word": "optimization",
+          "tran_cn": " 最佳化，最优化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "optimize",
+          "tran_cn": " 优化；持乐观态度"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "optimize",
+          "tran_cn": " 使最优化，使完善"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "make full use of",
+            "make good use of"
+          ],
+          "tran_cn": "使优化；充分利用"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使优化；充分利用"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使最优化，使尽可能有效"
+    }
+  ],
+  "exchange": {}
+}

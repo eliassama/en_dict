@@ -1,0 +1,91 @@
+{
+  "word": "interment",
+  "ipa": {
+    "us": "ɪnˈtɜ:mənt",
+    "uk": "ɪnˈtɜrmənt"
+  },
+  "sentences": [
+    {
+      "en": "Because of the particularity of its nature, the workers whose jobs interment enjoy low prestige.",
+      "cn": "由于工作性质的特殊性, 从事这行业的职工职业声望低."
+    },
+    {
+      "en": "His brother was taken prisoner during the war and was shut in a unknown interment camp.",
+      "cn": "他的弟弟在战争中被俘,关到某地一所不为人知的俘虏营里."
+    },
+    {
+      "en": "Please avoid walking across interment sections except to visit interment spaces.",
+      "cn": "除访问土葬用地外,请避免步行跨越土葬区."
+    },
+    {
+      "en": "Please limit placements to no more than three per interment space.",
+      "cn": "请限制配售不超过百分之三土葬空间."
+    },
+    {
+      "en": "Pleaseavoid parking in front of an open interment site unless you arepart of a funeral procession.",
+      "cn": "请避免将车停在前边的一处墓葬园,除非您是送葬."
+    },
+    {
+      "en": "The funeral was held Monday afternoon from Reavie Brothers Funeral and interment was in Bethel Cemetery.",
+      "cn": "葬礼于星期一下午在雷维兄弟殡仪馆举行,然后埋葬在圣地墓地中."
+    },
+    {
+      "en": "The interment will be at Hyde Park - the President's New York estate - on Sunday.",
+      "cn": "葬礼将于周日举行，届时总统下葬在他纽约的庄园——海德公园中。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "inter",
+          "tran_cn": " 埋；葬"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "funeral",
+            "obsequies"
+          ],
+          "tran_cn": "葬礼；埋葬"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "burial"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "funeral and interment",
+      "tran_cn": "殡葬"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "埋葬，葬礼",
+      "tran_en": "the act of burying a dead body"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interments"
+    ]
+  }
+}

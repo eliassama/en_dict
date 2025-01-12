@@ -1,0 +1,61 @@
+{
+  "word": "launderette",
+  "ipa": {
+    "us": "lɔ:n'dret",
+    "uk": "lɔn'dret"
+  },
+  "sentences": [
+    {
+      "en": "Shop, library, launderette , computer suite, sports hall.",
+      "cn": "商店，图书馆，自动洗衣店，电脑房，运动馆。"
+    },
+    {
+      "en": "You have not spoken to the owner before. the 1st launderette was purchased 10 years ago.",
+      "cn": "你还没有以前和所有者谈话。10年以前第1自助洗衣店被购买。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "laundry",
+          "tran_cn": " 洗衣店，洗衣房；要洗的衣服；洗熨；洗好的衣服"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "coin-op"
+          ],
+          "tran_cn": "[贸易]自助洗衣店"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "laundry"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（装有投币洗衣机的）自动洗衣店",
+      "tran_en": "a place where you can go to wash your clothes in machines that work when you put coins in them"
+    }
+  ],
+  "exchange": {}
+}

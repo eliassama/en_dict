@@ -1,0 +1,215 @@
+{
+  "word": "repay",
+  "ipa": {
+    "us": "rɪˈpeɪ",
+    "uk": "rɪˈpeɪ"
+  },
+  "sentences": [
+    {
+      "en": "He advanced funds of his own to his company, which was unable to repay him.",
+      "cn": "他把自己的资金预付给他的公司，而公司却不能把钱偿还给他。"
+    },
+    {
+      "en": "He was so good to me that I can never repay the debt I owe him.",
+      "cn": "他对我太好了，我永远也还不清这份人情。"
+    },
+    {
+      "en": "I advanced him some money, which he would repay on our way home.",
+      "cn": "我先借给他一些钱，在我们回家的路上他会还给我的。"
+    },
+    {
+      "en": "I feel honor bound to repay the money I borrowed.",
+      "cn": "我觉得有责任归还我借的钱."
+    },
+    {
+      "en": "I must repay her for her kindness.",
+      "cn": "我必须报答她的恩惠."
+    },
+    {
+      "en": "I owe you a debt of gratitude which I shall never be able to repay.",
+      "cn": "我永远报答不尽你的恩情."
+    },
+    {
+      "en": "I will repay this money as soon as I can.",
+      "cn": "我会尽早还给你这笔钱."
+    },
+    {
+      "en": "I wish I could repay you somehow for your kindness.",
+      "cn": "但愿对你的好意我能有所报答."
+    },
+    {
+      "en": "I’d like to buy them something to repay all their kindness.",
+      "cn": "我想给他们买点东西来报答他们的好意。"
+    },
+    {
+      "en": "If you lend me 2, I'll repay it ( to you ) tomorrow.",
+      "cn": "你要是借给我两英镑, 我明天就还 ( 给你 )."
+    },
+    {
+      "en": "It was very kind. I don't know how I can ever repay you.",
+      "cn": "真是太好了。我都不知道怎么报答你才好。"
+    },
+    {
+      "en": "Just lend me 10 dollars, and I'll repay you tomorrow.",
+      "cn": "借一下十块钱, 明天还给你."
+    },
+    {
+      "en": "The genetic bases of such phenomena might well repay investigation.",
+      "cn": "这种现象的遗传基础或许很值得研究."
+    },
+    {
+      "en": "The land is not fertile enough to repay cultivation.",
+      "cn": "这块土地不够肥沃,不值得耕种."
+    },
+    {
+      "en": "The proceeds from the sale will be used to repay the loan.",
+      "cn": "销售所得将用来偿还贷款."
+    },
+    {
+      "en": "They agreed to repay their creditors over a period of three years.",
+      "cn": "他们同意3年内向债主还清欠款."
+    },
+    {
+      "en": "Your mortgage will be repaid over 25 years.",
+      "cn": "你的按揭贷款将在25年内还清。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "repayable",
+          "tran_cn": "可偿还的；可报复的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "repayment",
+          "tran_cn": "偿还；[金融] 付还"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "atone",
+            "replace",
+            "thank"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "amends",
+            "back",
+            "compensate",
+            "for",
+            "indemnify",
+            "it",
+            "make",
+            "pay",
+            "rebate",
+            "recompense",
+            "refund",
+            "reimburse",
+            "render",
+            "requital",
+            "requite",
+            "restitution",
+            "return",
+            "reward",
+            "settle",
+            "square",
+            "to",
+            "up"
+          ],
+          "tran_cn": "回报"
+        },
+        {
+          "words": [
+            "at",
+            "avenge",
+            "back",
+            "even",
+            "get",
+            "hit",
+            "reciprocate",
+            "revenge",
+            "score",
+            "settle",
+            "the"
+          ],
+          "tran_cn": "报复"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "return",
+            "make the payments"
+          ],
+          "tran_cn": "偿还；报答；报复"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "get back on",
+            "get even with"
+          ],
+          "tran_cn": "回报；报复；付还"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "偿还；报答",
+      "tran_en": "to pay back money that you have borrowed"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "偿还，补偿"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "偿还，付还，报答，酬报",
+      "tran_en": "to do something for someone, or give them something, in return for helping you"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "repays"
+    ],
+    "past": [
+      "repaid"
+    ],
+    "done": [
+      "repaid"
+    ],
+    "ing": [
+      "repaying"
+    ]
+  }
+}

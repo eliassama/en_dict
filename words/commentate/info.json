@@ -1,0 +1,124 @@
+{
+  "word": "commentate",
+  "ipa": {
+    "us": "ˈkɒmənteɪt",
+    "uk": "ˈkɑmənteɪt"
+  },
+  "sentences": [
+    {
+      "en": "A well - known broadcaster has been asked to commentate on the opening ceremony of the national games.",
+      "cn": "一位著名的播音员已被请去实况报道全运会的开幕式."
+    },
+    {
+      "en": "The friend that perhaps looks for an intimate chats, the heart that gives oneself commentate pressure.",
+      "cn": "或者找个知心的朋友聊聊, 给自己的心释压."
+    },
+    {
+      "en": "They are in New Hampshire to commentate on the ice hockey.",
+      "cn": "他们在新罕布什尔州解说冰球比赛。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "comment",
+          "tran_cn": " 评论；意见；批评"
+        },
+        {
+          "word": "commentary",
+          "tran_cn": " 评论；注释；评注；说明"
+        },
+        {
+          "word": "commentator",
+          "tran_cn": " 评论员，解说员；实况播音员；时事评论者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "comment",
+          "tran_cn": " 发表评论；发表意见"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "comment",
+          "tran_cn": " 为…作评语"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "annotate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "pamphleteer"
+          ],
+          "tran_cn": "评论时事；实况报道"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "observe on",
+            "to comment on"
+          ],
+          "tran_cn": "评论；解说；注释"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "评论；解说；注释",
+      "tran_en": "to describe an event such as a sports game on television or radio"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "评论时事，实况报道"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "注释，评注，评论，解说，作评论员"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "commentates"
+    ],
+    "past": [
+      "commentated"
+    ],
+    "done": [
+      "commentated"
+    ],
+    "ing": [
+      "commentating"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "word": "wine",
+  "ipa": {
+    "us": "waɪn",
+    "uk": "waɪn"
+  },
+  "sentences": [
+    {
+      "en": "A glass of red wine keeps you in the pink.",
+      "cn": "一杯红酒有益健康。"
+    },
+    {
+      "en": "a glass of wine",
+      "cn": "一杯葡萄酒"
+    },
+    {
+      "en": "Anyone could have got in and doped the wine.",
+      "cn": "任何人都可能会进来在酒中掺麻醉剂。"
+    },
+    {
+      "en": "Felicity Maxwell stood by the bar and ordered a glass of wine.",
+      "cn": "费利西蒂·马克斯韦尔站在吧台旁，要了一杯红酒。"
+    },
+    {
+      "en": "He went to the refrigerator and removed a bottle of wine.",
+      "cn": "他走到冰箱处拿出一瓶酒。"
+    },
+    {
+      "en": "Isabelle placed a wine cup on the table within his reach.",
+      "cn": "伊莎贝尔把酒杯放在桌上他伸手可及的地方。"
+    },
+    {
+      "en": "It's a pound for a small glass of wine, which is pathetic.",
+      "cn": "一小杯葡萄酒要1英镑，真差劲。"
+    },
+    {
+      "en": "Knox had taken it on himself to choose the wine.",
+      "cn": "诺克斯擅自作主，选了葡萄酒。"
+    },
+    {
+      "en": "Most of the wine was unfit for human consumption.",
+      "cn": "这些酒中大部分都不适于人类饮用。"
+    },
+    {
+      "en": "Overproduction and consequent low market prices for wine caused economic tremors.",
+      "cn": "葡萄酒生产过剩及由此造成的市价低迷引起了经济波动。"
+    },
+    {
+      "en": "She sipped the wine. Everything was hazy now, except for Nick's face.",
+      "cn": "她小口地抿着酒。现在一切都变得模糊起来，除了尼克的脸。"
+    },
+    {
+      "en": "The waiter offered him red wine or white wine with his meal.",
+      "cn": "侍者为他端上佐餐的红葡萄酒或者白葡萄酒。"
+    },
+    {
+      "en": "The wine towns encountered are, on the whole, quiet and modest.",
+      "cn": "所到的酒镇总的来说都是宁静祥和的。"
+    },
+    {
+      "en": "This company is the biggest wine e-tailer in the UK.",
+      "cn": "这家公司是英国最大的网络葡萄酒零售商。"
+    },
+    {
+      "en": "Today's organic wine producer is typically a small, quality-conscious family concern.",
+      "cn": "现今的有机葡萄酒生产商一般是注重品质的小型家族企业."
+    },
+    {
+      "en": "With a nice dark colour, the wine is medium to full bodied.",
+      "cn": "这种葡萄酒色泽深暗悦目，是中等浓郁至浓香型的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "winey",
+          "tran_cn": " 酒的；有酒味的；如葡萄酒的"
+        },
+        {
+          "word": "winy",
+          "tran_cn": " 有酒味的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "winepress",
+          "tran_cn": " 葡萄榨汁用大桶；葡萄榨汁机"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "liquor",
+            "drink",
+            "grape",
+            "vin"
+          ],
+          "tran_cn": "[食品]酒，葡萄酒；紫红色"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "liquor",
+            "knock over a drink"
+          ],
+          "tran_cn": "喝酒"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "good wine needs no bush",
+      "tran_cn": "(谚)酒好客自来"
+    },
+    {
+      "phrase": "wine, women, and song",
+      "tran_cn": "美酒、女人和歌舞（指如谚语所云，男人所要的享乐主义生活方式——美酒、性愉悦和寻欢作乐）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "葡萄酒，果酒，深红色",
+      "tran_en": "an alcoholic drink made from grapes, or a type of this drink"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "喝酒",
+      "tran_en": "to entertain someone well with a meal, wine etc"
+    }
+  ],
+  "exchange": {}
+}

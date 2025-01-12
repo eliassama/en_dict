@@ -1,0 +1,232 @@
+{
+  "word": "abandon",
+  "ipa": {
+    "us": "əˈbændən",
+    "uk": "əˈbændən"
+  },
+  "sentences": [
+    {
+      "en": "After careful deliberation, it was agreed to abandon the project.",
+      "cn": "经过慎重考虑, 大家同意放弃这个项目."
+    },
+    {
+      "en": "Because of the fog they abandoned their idea of driving.",
+      "cn": "因为有雾，他们打消了开车去的念头。"
+    },
+    {
+      "en": "Do not abandon yourself to despair.",
+      "cn": "不要悲观失望."
+    },
+    {
+      "en": "Each side declared that it would never abandon its principle.",
+      "cn": "各方都说绝不放弃自己的原则."
+    },
+    {
+      "en": "He approached life with reckless abandon–I don't think he himself knew what he was going to do next.",
+      "cn": "他以不计后果的放纵态度对待生活–我想他自己都不知道他接下来要做什么。"
+    },
+    {
+      "en": "He has spent money with gay abandon.",
+      "cn": "他肆意挥霍钱财。"
+    },
+    {
+      "en": "How could she abandon her own child?",
+      "cn": "她怎么能抛弃自己的孩子呢？"
+    },
+    {
+      "en": "I decided not to abandon John when he was in such a desperate position.",
+      "cn": "我决定不在约翰走投无路的时候抛弃他。"
+    },
+    {
+      "en": "It would be irresponsible of me not to advise my company to abandon this project.",
+      "cn": "若我不建议公司放弃这个项目，那我就是不负责任。"
+    },
+    {
+      "en": "People were shouting and cheering with abandon.",
+      "cn": "人们兴高采烈,纵情欢呼."
+    },
+    {
+      "en": "The captain gave the order to abandon ship.",
+      "cn": "船长下令弃船。"
+    },
+    {
+      "en": "The game had to be abandoned due to bad weather.",
+      "cn": "由于天气不好，比赛不得不中止。"
+    },
+    {
+      "en": "The girls jumped up and down and waved their arms with abandon.",
+      "cn": "那些女孩子跳上跳下尽情地挥舞着手臂."
+    },
+    {
+      "en": "The market might abandon the stock, and knock down its price.",
+      "cn": "市场可能会抛售该股票，从而令其股价下跌。"
+    },
+    {
+      "en": "The officers and crew prepared to abandon ship in an orderly fashion.",
+      "cn": "全体船员秩序井然地准备弃船。"
+    },
+    {
+      "en": "Their decision to abandon the trip was made because of financial constraints.",
+      "cn": "他们决定放弃这次出游是因为财力有限。"
+    },
+    {
+      "en": "Their permissiveness to-ward their children reflects the wild abandon of their own lives.",
+      "cn": "他们对孩子的放任折射出他们自身生活的放浪形骸。"
+    },
+    {
+      "en": "They abandon themselves to drinking.",
+      "cn": "他们沉湎于饮酒."
+    },
+    {
+      "en": "They abandoned their attempt to recapture the castle.",
+      "cn": "他们放弃了夺回城堡的努力。"
+    },
+    {
+      "en": "We had to abandon the car and walk the rest of the way.",
+      "cn": "我们只好弃车，步行走完剩下的路。"
+    },
+    {
+      "en": "We will never abandon our principles.",
+      "cn": "我们应该坚持原则."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "abandoned",
+          "tran_cn": " 被抛弃的；无约束的；恣意放荡的；寡廉鲜耻的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "abandonment",
+          "tran_cn": " 抛弃；放纵"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "abandoned",
+          "tran_cn": " 抛弃（abandon的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "loose",
+            "mania"
+          ],
+          "tran_cn": "狂热；放任"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abdicate",
+            "cease",
+            "cede",
+            "depart",
+            "desert",
+            "desist",
+            "discard",
+            "discontinue",
+            "drop",
+            "evacuate",
+            "forsake",
+            "freedom",
+            "leave",
+            "quit",
+            "relinquish",
+            "renounce",
+            "resign",
+            "surrender",
+            "withdraw"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cease",
+            "depart",
+            "desert",
+            "discard",
+            "discontinue",
+            "entirely",
+            "evacuate",
+            "forsake",
+            "give",
+            "leave",
+            "quit",
+            "relinquish",
+            "surrender",
+            "undone",
+            "up",
+            "withdraw"
+          ],
+          "tran_cn": "放弃,中止;离开"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "abandon ship",
+      "tran_cn": "弃船"
+    },
+    {
+      "phrase": "with abandon",
+      "tran_cn": "恣意地，放纵地"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "放任，放纵",
+      "tran_en": "if someone does something with abandon, they behave in a careless or uncontrolled way, without thinking or caring about what they are doing"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "抛弃，舍弃，中止，放弃，放纵",
+      "tran_en": "to leave someone, especially someone you are responsible for"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "离弃，丢弃；遗弃，抛弃；完全放弃",
+      "tran_en": "to leave someone, especially someone you are responsible for"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "abandons"
+    ],
+    "past": [
+      "abandoned"
+    ],
+    "done": [
+      "abandoned"
+    ],
+    "ing": [
+      "abandoning"
+    ]
+  }
+}

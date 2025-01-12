@@ -1,0 +1,115 @@
+{
+  "word": "occlude",
+  "ipa": {
+    "us": "əˈklu:d",
+    "uk": "əˈklud"
+  },
+  "sentences": [
+    {
+      "en": "Is the sound system far more complex than the original? Do sounds occlude over large distances?",
+      "cn": "声音系统会比原版复杂 吗 ?声音会因距离而变得闭塞 吗 ?"
+    },
+    {
+      "en": "Push the handle gently until the concavo convex parts of both clutches occlude automatically.",
+      "cn": "用手轻推手柄待两个离合体的凸凹处重合后便会自行咬合."
+    },
+    {
+      "en": "So we have a greater tendency to make thrombi that can occlude the coronary vessels.",
+      "cn": "所以我们有制造血凝块的倾向,这个血凝块会封闭冠状血管."
+    },
+    {
+      "en": "The control group only exposed the right middle cerebral artery, but did not occlude it.",
+      "cn": "对照组仅暴露同侧大脑中动脉, 不予电凝."
+    },
+    {
+      "en": "The main modality of endovascular therapy was to use balloon to occlude the parent artery.",
+      "cn": "血管内治疗主要采用球囊闭塞近端载瘤动脉."
+    },
+    {
+      "en": "The results show that this algorithm has good adaptability in discontinuous and occlude areas.",
+      "cn": "研究结果表明该算法对于视差不连续和遮挡区域都有着良好的适应性."
+    },
+    {
+      "en": "The tourniquet should occlude venous and lymphatic return.",
+      "cn": "止血带应阻断静脉及淋巴回流."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "occlusive",
+          "tran_cn": " 咬合的；闭塞的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "occlusion",
+          "tran_cn": " 闭塞；吸收；锢囚锋"
+        },
+        {
+          "word": "occlusive",
+          "tran_cn": " 闭塞音"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "shut"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "block out",
+            "seal off"
+          ],
+          "tran_cn": "使闭塞；封闭；挡住"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使闭塞",
+      "tran_en": "to block or stop up (a passage or opening); obstruct "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "堵塞，阻隔，吸收（气体）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "occludes"
+    ],
+    "past": [
+      "occluded"
+    ],
+    "done": [
+      "occluded"
+    ],
+    "ing": [
+      "occluding"
+    ],
+    "noun": [
+      "occlusion"
+    ]
+  }
+}

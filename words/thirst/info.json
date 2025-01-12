@@ -1,0 +1,269 @@
+{
+  "word": "thirst",
+  "ipa": {
+    "us": "θɜːst",
+    "uk": "θɜːrst"
+  },
+  "sentences": [
+    {
+      "en": "Coca is well-known for reducing hunger, thirst and fatigue.",
+      "cn": "人们都知道可乐能消饿、止渴和解乏。"
+    },
+    {
+      "en": "Dying of thirst, the desert traveler ground out a request for water.",
+      "cn": "这个沙漠旅行者几乎要渴死了, 嗓音沙哑地说要喝水."
+    },
+    {
+      "en": "Having a bottle of soft drink is not enough to quench my thirst.",
+      "cn": "喝一瓶汽水不够解渴."
+    },
+    {
+      "en": "He felt a raging thirst.",
+      "cn": "他感到口渴难忍。"
+    },
+    {
+      "en": "He had a great thirst for knowledge.",
+      "cn": "他渴求知识."
+    },
+    {
+      "en": "He had an unquenchable thirst for life.",
+      "cn": "他有着极其强烈的求生欲。"
+    },
+    {
+      "en": "He has a strong thirst for knowledge.",
+      "cn": "他有很强的求知欲."
+    },
+    {
+      "en": "He quenched his thirst with a long drink of cold water.",
+      "cn": "他喝了好多冷水解渴。"
+    },
+    {
+      "en": "I had such a thirst.",
+      "cn": "我渴得难受。"
+    },
+    {
+      "en": "I quenched my thirst with a glass of cold beer.",
+      "cn": "我喝了一杯冰啤酒解渴."
+    },
+    {
+      "en": "Ice water is the only thing that really quenches my thirst (= gets rid of it ) .",
+      "cn": "只有冰水才能让我真正解渴。"
+    },
+    {
+      "en": "Maggie woke up with a raging thirst (= an extremely strong thirst ) .",
+      "cn": "玛吉醒来时感到口干舌燥。"
+    },
+    {
+      "en": "Order me a pot of tea, I'm dying of thirst.",
+      "cn": "给我来一壶茶，我快要渴死了。"
+    },
+    {
+      "en": "The horse satisfied its thirst at the river.",
+      "cn": "那马在河中痛饮解渴."
+    },
+    {
+      "en": "They lost their way in the desert and died of thirst.",
+      "cn": "他们在沙漠中迷路而渴死了."
+    },
+    {
+      "en": "This kind of work gives me a thirst.",
+      "cn": "这种工作使我感到口渴."
+    },
+    {
+      "en": "We all thirst for the same things.",
+      "cn": "我们都渴望得到同样的东西。"
+    },
+    {
+      "en": "We had worked up a thirst (= done something that made us thirsty ) ，and so we decided to stop for a beer.",
+      "cn": "我们干得口渴了，因此决定停下来喝杯啤酒。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "thirsty",
+          "tran_cn": " 口渴的，口干的；渴望的，热望的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "thirstily",
+          "tran_cn": " 口渴地；如饥似渴地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dehydration",
+            "desiccation",
+            "dryness"
+          ],
+          "tran_cn": "口渴,焦渴"
+        },
+        {
+          "words": [
+            "appetite",
+            "avidity",
+            "covetousness",
+            "craving",
+            "cupidity",
+            "desire",
+            "eagerness",
+            "fancy",
+            "greed",
+            "greediness",
+            "hankering",
+            "hope",
+            "hunger",
+            "longing",
+            "lust",
+            "lustfulness",
+            "rapaciousness",
+            "rapacity",
+            "ravenousness",
+            "strong",
+            "thirstiness",
+            "voraciousness",
+            "want",
+            "wish",
+            "yearning",
+            "yen"
+          ],
+          "tran_cn": "渴望,热望,欲望,贪心,妄想"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "be",
+            "desiccated",
+            "dry",
+            "feel",
+            "parched",
+            "thirst",
+            "thirsty"
+          ],
+          "tran_cn": "口渴,焦渴"
+        },
+        {
+          "words": [
+            "a",
+            "about",
+            "after",
+            "an",
+            "appetite",
+            "be",
+            "burn",
+            "care",
+            "crave",
+            "desiderate",
+            "desire",
+            "eye",
+            "fancy",
+            "for",
+            "hanker",
+            "hanve",
+            "have",
+            "hope",
+            "hunger",
+            "long",
+            "lust",
+            "mad",
+            "pant",
+            "to",
+            "want",
+            "wish",
+            "yearn",
+            "yen"
+          ],
+          "tran_cn": "渴望得到...,热望,妄想得到..."
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "rare",
+            "aspire"
+          ],
+          "tran_cn": "渴望；口渴"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "die of thirst",
+      "tran_cn": "口渴死"
+    },
+    {
+      "phrase": "have a thirst",
+      "tran_cn": "[口语]想喝杯酒"
+    },
+    {
+      "phrase": "thirst after",
+      "tran_cn": "非常渴望"
+    },
+    {
+      "phrase": "thirst for",
+      "tran_cn": "v. 渴望；热望"
+    },
+    {
+      "phrase": "thirst for knowledge",
+      "tran_cn": "渴望求知，求知欲"
+    },
+    {
+      "phrase": "thirst for revenge",
+      "tran_cn": "渴望复仇"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（口）渴，干渴，渴求",
+      "tran_en": "the feeling of wanting or needing a drink"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "渴望，渴求",
+      "tran_en": "to be thirsty"
+    },
+    {
+      "pos": "vt&n",
+      "tran_cn": "渴；渴望",
+      "tran_en": "the feeling of wanting or needing a drink"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "thirsts"
+    ],
+    "third": [
+      "thirsts"
+    ],
+    "past": [
+      "thirsted"
+    ],
+    "done": [
+      "thirsted"
+    ],
+    "ing": [
+      "thirsting"
+    ]
+  }
+}

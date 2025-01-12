@@ -1,0 +1,185 @@
+{
+  "word": "buyer",
+  "ipa": {
+    "us": "ˈbaɪə(r)",
+    "uk": "ˈbaɪɚ"
+  },
+  "sentences": [
+    {
+      "en": "discounts for first-time buyers",
+      "cn": "为首次购买的顾客提供的折扣"
+    },
+    {
+      "en": "Don't be afraid to haggle: for the moment, it's a buyer's market.",
+      "cn": "别怕还价，现在是买方市场。"
+    },
+    {
+      "en": "Have you found a buyer for your house ?",
+      "cn": "你的房子找到买主了吗？"
+    },
+    {
+      "en": "He demanded payment of the buyer.",
+      "cn": "他要求买方付款."
+    },
+    {
+      "en": "I think the moral of the story is let the buyer beware.",
+      "cn": "我想这个故事的寓意是提醒购物者当心。"
+    },
+    {
+      "en": "I was a buyer for the women's clothing department.",
+      "cn": "我是女装部的进货员。"
+    },
+    {
+      "en": "Is she a prospective buyer?",
+      "cn": "她可能成为我们的顾客 吗 ?"
+    },
+    {
+      "en": "Make the extra effort to impress the buyer and you will be rewarded with a quicker sale.",
+      "cn": "多用心去打动顾客，货物就会更快售出。"
+    },
+    {
+      "en": "She made a gentleman's agreement with her buyer.",
+      "cn": "她和买主立了个君子协定。"
+    },
+    {
+      "en": "The buyer insisted that a guarantee for compensation must be written into the contract.",
+      "cn": "买方坚持要把赔偿保证写进合同里."
+    },
+    {
+      "en": "The buyer was convinced of the salesman's integrity.",
+      "cn": "买主深信销售员的诚实."
+    },
+    {
+      "en": "The law is intended to protect both the buyer and the seller.",
+      "cn": "这项法律旨在保护买卖双方。"
+    },
+    {
+      "en": "The selling broker is then required to assign a portion of the commission to the buyer broker.",
+      "cn": "卖方经纪人须随后将部分佣金分给买方经纪人。"
+    },
+    {
+      "en": "There were several potential buyers.",
+      "cn": "有好几个潜在的买家。"
+    },
+    {
+      "en": "They are also attempting to keep the car buyer as a long-term customer by offering after-sales service.",
+      "cn": "他们也正试图通过提供售后服务来使该汽车采购商成为长期客户。"
+    },
+    {
+      "en": "Who was the buyer of this picture?",
+      "cn": "谁是这幅画的买主?"
+    },
+    {
+      "en": "With no buyer in sight for the company as a whole, the vultures started to circle.",
+      "cn": "由于公司目前找不到买主，趁火打劫者开始围攻。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "buyable",
+          "tran_cn": " 可买的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "buy",
+          "tran_cn": " 购买，买卖；所购的物品"
+        },
+        {
+          "word": "buying",
+          "tran_cn": " 买进"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "buying",
+          "tran_cn": " 购买；获得；收买（buy的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "buy",
+          "tran_cn": " 买，采购"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "buy",
+          "tran_cn": " 购买；获得；贿赂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bargainee",
+            "vendee"
+          ],
+          "tran_cn": "买主；[贸易]采购员"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "consumer",
+            "customer",
+            "patron"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a buyer's market",
+      "tran_cn": "买方市场（指货物或股票充足，买方可以压价的经济状态）"
+    },
+    {
+      "phrase": "buyer behavior",
+      "tran_cn": "买方行为；消费者行为"
+    },
+    {
+      "phrase": "potential buyer",
+      "tran_cn": "准买家；有意的买家；潜在购买者"
+    },
+    {
+      "phrase": "prospective buyer",
+      "tran_cn": "准买家"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "买主，买方，采购员",
+      "tran_en": "someone who buys something expensive such as a house or car"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "buyers"
+    ]
+  }
+}

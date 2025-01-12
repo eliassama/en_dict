@@ -1,0 +1,312 @@
+{
+  "word": "copy",
+  "ipa": {
+    "us": "ˈkɒpi",
+    "uk": "ˈkɑːpi"
+  },
+  "sentences": [
+    {
+      "en": "A copy of the report is available for you to peruse at your leisure.",
+      "cn": "现有一份报告，供你闲暇时细读。"
+    },
+    {
+      "en": "a paradigm for students to copy",
+      "cn": "供学生效法的榜样"
+    },
+    {
+      "en": "Always keep a copy of everything in your own files.",
+      "cn": "要时刻牢记把所有文件都备份。"
+    },
+    {
+      "en": "back-up copies of your files",
+      "cn": "你的文档的备份"
+    },
+    {
+      "en": "Could you copy this letter and send it out, please?",
+      "cn": "你能把这封信复印一份发出去吗？"
+    },
+    {
+      "en": "For a copy of their brochure, write to the above address.",
+      "cn": "欲索取其宣传册，请写信至以上地址。"
+    },
+    {
+      "en": "I autographed a copy of one of my books.",
+      "cn": "我在自己的一本书上签了名。"
+    },
+    {
+      "en": "I bought a copy of \"USA Today\" from a street-corner machine.",
+      "cn": "我从售货机上买了一份《今日美国》。"
+    },
+    {
+      "en": "I enclose herewith a copy of the policy.",
+      "cn": "我随信附上一份保险单。"
+    },
+    {
+      "en": "I sent a copy to the minister for transport.",
+      "cn": "我给交通部长发送了一份副本。"
+    },
+    {
+      "en": "I will send you a copy of the report.",
+      "cn": "我会把这个报告的复印本寄给你。"
+    },
+    {
+      "en": "Please copy down all the words on the blackboard.",
+      "cn": "请把黑板上的字都抄下来."
+    },
+    {
+      "en": "Send them a copy of your CV.",
+      "cn": "给他们寄一份你的简历。"
+    },
+    {
+      "en": "She is a carbon copy of her sister.",
+      "cn": "她跟她姐姐长得一模一样。"
+    },
+    {
+      "en": "The difficulty is to get enough good copy to fill the magazine.",
+      "cn": "困难的是如何为该杂志组到足够多的好材料."
+    },
+    {
+      "en": "The new copiers only copy onto one side of the paper.",
+      "cn": "新复印机只能单面复印。"
+    },
+    {
+      "en": "The second-hand version is a poor copy of the original.",
+      "cn": "盗版版本是对原版的低劣复制。"
+    },
+    {
+      "en": "The teacher asked the students to copy out the text.",
+      "cn": "老师让同学们抄写课文."
+    },
+    {
+      "en": "To copy a file, press F3.",
+      "cn": "拷贝文件按F3键。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "copied",
+          "tran_cn": " 复制的；已复制的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "copying",
+          "tran_cn": " 复制；誊写；仿形切削"
+        },
+        {
+          "word": "copyist",
+          "tran_cn": " 抄写员；抄袭者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "copied",
+          "tran_cn": " 复制，复印（copy的过去分词）"
+        },
+        {
+          "word": "copying",
+          "tran_cn": " 复制；抄写（copy的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "clone",
+            "duplicate",
+            "image",
+            "imitation",
+            "likeness",
+            "picture",
+            "portrait",
+            "resemblance"
+          ],
+          "tran_cn": "复制品"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "double",
+            "dummy",
+            "duplicate",
+            "edition",
+            "emulate",
+            "facsimile",
+            "forgery",
+            "imitate",
+            "issue",
+            "manuscript",
+            "mimic",
+            "mirror",
+            "model",
+            "monkey",
+            "parallel",
+            "parrot",
+            "pirate",
+            "publication",
+            "reduction",
+            "repeat",
+            "replica",
+            "reproduce",
+            "xerox"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to duplicate",
+            "print off"
+          ],
+          "tran_cn": "[印刷][计]复制；复印；抄袭"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "duplicate",
+            "imitate",
+            "repeat",
+            "reproduce"
+          ],
+          "tran_cn": "复制;模仿"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a copy of",
+      "tran_cn": "一份，一本"
+    },
+    {
+      "phrase": "advance copy",
+      "tran_cn": "新书样本"
+    },
+    {
+      "phrase": "backup copy",
+      "tran_cn": "副本；备份件"
+    },
+    {
+      "phrase": "carbon copy",
+      "tran_cn": "复写本，副本"
+    },
+    {
+      "phrase": "certified copy",
+      "tran_cn": "经核证的副本"
+    },
+    {
+      "phrase": "complimentary copy",
+      "tran_cn": "(出版社赠送给作者、读者、书评家等的)赠送本"
+    },
+    {
+      "phrase": "copy down",
+      "tran_cn": "抄下来，记下来"
+    },
+    {
+      "phrase": "copy from",
+      "tran_cn": "vt. 临摹；仿效"
+    },
+    {
+      "phrase": "copy number",
+      "tran_cn": "拷贝数，复写数"
+    },
+    {
+      "phrase": "copy paper",
+      "tran_cn": "复印纸；拷贝纸"
+    },
+    {
+      "phrase": "copy protection",
+      "tran_cn": "复制保护"
+    },
+    {
+      "phrase": "copy right",
+      "tran_cn": "版权；复制权"
+    },
+    {
+      "phrase": "copy with",
+      "tran_cn": "应付"
+    },
+    {
+      "phrase": "duplicate copy",
+      "tran_cn": "副本；复制本"
+    },
+    {
+      "phrase": "file copy",
+      "tran_cn": "档案复制，拷贝文件；存档原件"
+    },
+    {
+      "phrase": "hard copy",
+      "tran_cn": "硬拷贝；复印件"
+    },
+    {
+      "phrase": "master copy",
+      "tran_cn": "原本；原版拷贝；原版磁带"
+    },
+    {
+      "phrase": "original copy",
+      "tran_cn": "原本，正本"
+    },
+    {
+      "phrase": "photo copy",
+      "tran_cn": "图片复印"
+    },
+    {
+      "phrase": "true copy",
+      "tran_cn": "[经]准确副本"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "复制品，一本，原稿，消息，作业本，新闻素材",
+      "tran_en": "something that is made to be exactly like another thing"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "复印，仿造，临摹，抄写，效仿，作弊",
+      "tran_en": "to deliberately make or produce something that is exactly like another thing"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "copies"
+    ],
+    "third": [
+      "copies"
+    ],
+    "past": [
+      "copied"
+    ],
+    "done": [
+      "copied"
+    ],
+    "ing": [
+      "copying"
+    ]
+  }
+}

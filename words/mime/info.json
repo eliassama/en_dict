@@ -1,0 +1,176 @@
+{
+  "word": "mime",
+  "ipa": {
+    "us": "maɪm",
+    "uk": "maɪm"
+  },
+  "sentences": [
+    {
+      "en": "A plugin for the mime type XX was not found.",
+      "cn": "找不到mime类型xx的插入部件."
+    },
+    {
+      "en": "a professional mime artist",
+      "cn": "专业的哑剧表演艺术家"
+    },
+    {
+      "en": "Could not load the plug - in'XX'for the MIME type'XX'.",
+      "cn": "无法装入插入部件'XX'(mime类型'XX')."
+    },
+    {
+      "en": "He can perform an astonishing variety of acts, including mime and juggling.",
+      "cn": "他能表演好几种令人惊叹的把戏，包括哑剧和玩杂耍。"
+    },
+    {
+      "en": "If the file should be downloaded, add a MIME map.",
+      "cn": "如果应下载文件, 请添加MIME映射."
+    },
+    {
+      "en": "In a brilliant mime, he showed how he managed to support the tray.",
+      "cn": "他用精彩的模拟动作显示他是如何顶盆子的."
+    },
+    {
+      "en": "In concerts, the group mime their songs.",
+      "cn": "这个组合在音乐会上假唱。"
+    },
+    {
+      "en": "MIME messages can contain text, images audiovideo, and other application - specific data.",
+      "cn": "mime信息可以包含文本 、 像、频 、 频和其他的应用程序细节数据."
+    },
+    {
+      "en": "MIME messages can contain text, images, audio , video, and other application - specific data.",
+      "cn": "MIME信息可以包含文本 、 像 、 频 、 频和其他的应用程序细节数据."
+    },
+    {
+      "en": "Music, mime and strong visual imagery play a strong part in the productions.",
+      "cn": "音乐、哑剧动作和强烈的视觉影像在表演中产生了强烈的效果。"
+    },
+    {
+      "en": "NotesMIMEEntity Represents a NotesItem of type MIME.",
+      "cn": "描述了MIME文档的容量."
+    },
+    {
+      "en": "Pupils presented a mime and puppet show.",
+      "cn": "学生们奉献了一台哑剧形式的木偶戏。"
+    },
+    {
+      "en": "She frowned and stamped her feet to portray anger, eg in a mime.",
+      "cn": "她又皱眉头又跺脚表示生气(如在哑剧中)."
+    },
+    {
+      "en": "The children learn through role-play, dance and mime.",
+      "cn": "儿童通过角色表演、舞蹈和哑剧来学习。"
+    },
+    {
+      "en": "The performance consisted of dance, music and mime.",
+      "cn": "演出包括舞蹈、音乐和哑剧。"
+    },
+    {
+      "en": "The waiters mime to records playing on the jukebox.",
+      "cn": "侍者们配合自动唱机里播放的唱片对口型假唱。"
+    },
+    {
+      "en": "They will perform a short mime later.",
+      "cn": "稍后他们将表演一个哑剧小品。"
+    },
+    {
+      "en": "This is a cryptographically signed message in MIME format.",
+      "cn": "这是一条mime格式的加密的签名消息."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mimic",
+          "tran_cn": " 模仿的，模拟的；假装的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mimic",
+          "tran_cn": " 效颦者，模仿者；仿制品；小丑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mimic",
+          "tran_cn": " 模仿，摹拟"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dumb show",
+            "panto"
+          ],
+          "tran_cn": "哑剧；小丑；滑稽戏"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "mimic",
+            "monkey",
+            "player",
+            "reproduce"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "笑剧，笑剧演员，笑剧的表演对白，滑稽演员，哑剧，哑剧演员",
+      "tran_en": "the use of movements to express what you want to say without using words, or a play where the actors use only movements"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "模拟，模仿",
+      "tran_en": "to pretend to play or sing a piece of music, without making any sound"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "作模拟表演，演滑稽角色"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "模仿，模拟"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "mimes"
+    ],
+    "third": [
+      "mimes"
+    ],
+    "past": [
+      "mimed"
+    ],
+    "done": [
+      "mimed"
+    ],
+    "ing": [
+      "miming"
+    ]
+  }
+}

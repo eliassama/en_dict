@@ -1,0 +1,107 @@
+{
+  "word": "orchestrate",
+  "ipa": {
+    "us": "ˈɔ:kɪstreɪt",
+    "uk": "ˈɔrkɪstreɪt"
+  },
+  "sentences": [
+    {
+      "en": "a carefully orchestrated promotional campaign",
+      "cn": "精心策划的广告宣传活动"
+    },
+    {
+      "en": "If a number of capacitor segments are employed , AVR would also orchestrate their switching as required.",
+      "cn": "若采用电容器的分段较多, AVR按需要来编排它们的投切."
+    },
+    {
+      "en": "If photographers from outside Reuters orchestrate or set up scenes, it is still a set - up.",
+      "cn": "在新闻采访中,即便是非路透社的记者摆布了新闻现场, 这张照片也将被视为是摆拍的照片."
+    },
+    {
+      "en": "Some suggest that it has even helped to orchestrate some of the anger at Mr Zardari.",
+      "cn": "部分人的建议甚至有助于静心策划一些针对扎尔达里总统的愤怒."
+    },
+    {
+      "en": "The colonel was able to orchestrate a rebellion from inside an army jail.",
+      "cn": "这位上校得以在军队监狱里策动了一场哗变。"
+    },
+    {
+      "en": "The riots were orchestrated by anti-government forces.",
+      "cn": "骚乱是由反政府势力策动的。"
+    },
+    {
+      "en": "When you orchestrate, coordinate and otherwise mess with fate, it's best to fly under the radar.",
+      "cn": "当你协调, 协调和与命运,否则混乱, 最好躲过安全措施."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "orchestral",
+          "tran_cn": " 管弦乐的；管弦乐队的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "orchestra",
+          "tran_cn": " 管弦乐队；乐队演奏处"
+        },
+        {
+          "word": "orchestration",
+          "tran_cn": " 管弦乐编曲；和谐的结合"
+        },
+        {
+          "word": "orchestrator",
+          "tran_cn": " 管弦乐演奏家；管弦乐编曲家"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "harmonize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 给…配管弦乐； 精心安排， 组织",
+      "tran_en": "to organize an important event or a complicated plan, especially secretly"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把（乐曲）编成管弦乐，和谐地安排，精心策划"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "orchestrates"
+    ],
+    "past": [
+      "orchestrated"
+    ],
+    "done": [
+      "orchestrated"
+    ],
+    "ing": [
+      "orchestrating"
+    ],
+    "noun": [
+      "orchestration"
+    ]
+  }
+}

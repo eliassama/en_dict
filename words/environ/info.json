@@ -1,0 +1,119 @@
+{
+  "word": "environ",
+  "ipa": {
+    "us": "ɪn'vaɪərən",
+    "uk": "ɛnˈvaɪrən, -ˈvaɪən"
+  },
+  "sentences": [
+    {
+      "en": "Direction - of - arrival ( DOA ) estimation of narrow - band signals in complex symmetric α - stable ( S α S ) noise environ - ment is studied in this paper.",
+      "cn": "本文研究了对称α稳定 ( SαS ) 噪声环境中窄带信号源的 DOA 估计问题."
+    },
+    {
+      "en": "Il é tait environ onze heures.",
+      "cn": "这时大约十一点钟."
+    },
+    {
+      "en": "The degree of shielding required will depend upon the amount of interference in the environ - ment.",
+      "cn": "所需的屏蔽程度将取决于环境中的干扰情况."
+    },
+    {
+      "en": "The disclosure has various forms a separate environ - IImental report or attach it to the financial statement.",
+      "cn": "其披露形式有着多样性的特点,主要采用在财务报告中附加环境报告和单独提供环境报告二种形式."
+    },
+    {
+      "en": "Trees environ the yard.",
+      "cn": "树木环绕着那个院子."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "environmental",
+          "tran_cn": " 环境的，周围的；有关环境的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "environmentally",
+          "tran_cn": " 有关环境方面"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "environment",
+          "tran_cn": " 环境，外界"
+        },
+        {
+          "word": "environmentalism",
+          "tran_cn": " 环境保护论"
+        },
+        {
+          "word": "environmentalist",
+          "tran_cn": " 环保人士；环境论者；研究环境问题的专家"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "circumscribe",
+            "compass"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "invest",
+            "zone",
+            "case"
+          ],
+          "tran_cn": "环绕；包围；（敌意地或保护性的）围住"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 包围， 围绕",
+      "tran_en": "to encircle or surround "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "包围，环绕，（敌意地或保护性的）围住"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "environs"
+    ],
+    "past": [
+      "environed"
+    ],
+    "done": [
+      "environed"
+    ],
+    "ing": [
+      "environing"
+    ]
+  }
+}

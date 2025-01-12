@@ -1,0 +1,198 @@
+{
+  "word": "explain",
+  "ipa": {
+    "us": "ɪkˈspleɪn",
+    "uk": "ɪkˈspleɪn"
+  },
+  "sentences": [
+    {
+      "en": "\"I'll explain later.\"— 'All right then.'",
+      "cn": "“我以后会作解释的。”——“那好吧。”"
+    },
+    {
+      "en": "\"Tony, I can explain everything,\" she said tensely.",
+      "cn": "“托尼，这一切我都可以解释，”她紧张地说。"
+    },
+    {
+      "en": "Did you get that joke, Ann? I'll explain later.",
+      "cn": "安，听懂那个笑话了吗？我过会儿会解释。"
+    },
+    {
+      "en": "Doctors cannot be bothered to explain what they do.",
+      "cn": "医生们才懒得解释他们所做的事情。"
+    },
+    {
+      "en": "He carefully explained the procedure.",
+      "cn": "他仔细解释了程序。"
+    },
+    {
+      "en": "Her aggressiveness made it difficult for him to explain his own feelings.",
+      "cn": "她咄咄逼人的态度让他难以解释自己的感情。"
+    },
+    {
+      "en": "Hospital discipline was broken. Amy would have to explain herself.",
+      "cn": "破坏了医院的纪律，埃米将不得不为自己辩解。"
+    },
+    {
+      "en": "How would you explain colour to a blind person?",
+      "cn": "你如何向盲人解释颜色？"
+    },
+    {
+      "en": "I'll explain tomorrow morning.",
+      "cn": "明天早上我会解释的。"
+    },
+    {
+      "en": "If you'll bear with me, Frank, just let me try to explain.",
+      "cn": "你要对我有点儿耐心，弗兰克，让我跟你解释。"
+    },
+    {
+      "en": "Let me explain why.",
+      "cn": "让我来解释为什么。"
+    },
+    {
+      "en": "Ministers have shown extreme reluctance to explain their position to the media.",
+      "cn": "部长们极不情愿向媒体解释他们的立场。"
+    },
+    {
+      "en": "Oh, I can't explain it. It's just unreal. Everybody is so happy.",
+      "cn": "啊，我都没法形容。就是太棒了，每个人都很高兴。"
+    },
+    {
+      "en": "Our traveller'sbehaviour on the journey is hard to explain.",
+      "cn": "我们的旅客一路上的行为让人很难解释。"
+    },
+    {
+      "en": "Perhaps the accompanying illustration will explain it.",
+      "cn": "可能所附的图表能对此作出解释。"
+    },
+    {
+      "en": "Several factors have been adduced to explain the fall in the birth rate.",
+      "cn": "有几个因素已被援引来说明出生率降低的原因。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "explainable",
+          "tran_cn": " 可辩解的；可说明的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "explanation",
+          "tran_cn": " 说明，解释；辩解"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "amplify",
+            "annotate",
+            "answer",
+            "clarify",
+            "construe",
+            "decipher",
+            "define",
+            "demonstrate",
+            "enlighten",
+            "expound",
+            "illustrate",
+            "show",
+            "simplify",
+            "solve",
+            "specify",
+            "tell",
+            "unfold",
+            "unravel",
+            "unscramble"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "bring sb to do sth",
+            "go to show"
+          ],
+          "tran_cn": "说明；解释"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "answer",
+            "clarify",
+            "demonstrate",
+            "describe",
+            "illuminate",
+            "illustrate",
+            "interpret",
+            "justify",
+            "portray",
+            "show",
+            "simplify",
+            "solve"
+          ],
+          "tran_cn": "解释;阐明;简化"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "explain away",
+      "tran_cn": "辩白：用解释减少"
+    },
+    {
+      "phrase": "explain clearly",
+      "tran_cn": "阐明，清晰的解释"
+    },
+    {
+      "phrase": "explain oneself",
+      "tran_cn": "把自己的意思解释清楚"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "解释，辩解，说明…的理由",
+      "tran_en": "to tell someone about something in a way that is clear or easy to understand"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 解释， 说明",
+      "tran_en": "to tell someone about something in a way that is clear or easy to understand"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "explains"
+    ],
+    "past": [
+      "explained"
+    ],
+    "done": [
+      "explained"
+    ],
+    "ing": [
+      "explaining"
+    ]
+  }
+}

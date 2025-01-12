@@ -1,0 +1,99 @@
+{
+  "word": "incarcerate",
+  "ipa": {
+    "us": "ɪnˈkɑ:səreɪt",
+    "uk": "ɪnˈkɑrsəreɪt"
+  },
+  "sentences": [
+    {
+      "en": "He spent 10 years incarcerated in prison.",
+      "cn": "他在监狱里关了十年。"
+    },
+    {
+      "en": "It can cost $40,000 to $50,000 to incarcerate a prisoner for a year.",
+      "cn": "监禁一名囚犯一年要花费4万到5万美元。"
+    },
+    {
+      "en": "Why do you incarcerate yourself in the room every afternoon?",
+      "cn": "你为何每天下午将自己关在房间里?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "incarceration",
+          "tran_cn": " 监禁；下狱；禁闭"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "jailed"
+          ],
+          "tran_cn": "监禁的；禁闭的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cage",
+            "imprison",
+            "jail"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "prison",
+            "imprison"
+          ],
+          "tran_cn": "监禁；下狱；禁闭"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 把…关进监狱， 监禁， 禁闭",
+      "tran_en": "to put or keep someone in prison"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "监禁，禁闭，关进监狱，[医]钳闭"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "incarcerates"
+    ],
+    "past": [
+      "incarcerated"
+    ],
+    "done": [
+      "incarcerated"
+    ],
+    "ing": [
+      "incarcerating"
+    ],
+    "noun": [
+      "incarceration"
+    ]
+  }
+}

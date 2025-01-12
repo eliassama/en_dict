@@ -1,0 +1,215 @@
+{
+  "word": "abort",
+  "ipa": {
+    "us": "əˈbɔːt",
+    "uk": "əˈbɔːrt"
+  },
+  "sentences": [
+    {
+      "en": "Bradycardia during intraoperative device testing is no reason to abort the operation.",
+      "cn": "在手术中的装置测试期间出现心搏徐缓,不是放弃这种手术的理由."
+    },
+    {
+      "en": "Brucellosis is a disease that causes fetuses to abort in cattle.",
+      "cn": "普鲁士菌病是一种可以导致牲畜胎儿夭折的疾病."
+    },
+    {
+      "en": "DATA : Not ready reading right nostril. Abort, Retry, Fail?",
+      "cn": "右鼻孔读取尚未就绪. 放弃 、 重试 、 失败?"
+    },
+    {
+      "en": "Date error reading drive A Abort, Retry, Ignore, Fail?",
+      "cn": "A驱动器读取错误,异常结束 、 试 、 顾错误状态继续执行还是系统调用失败继续执行?"
+    },
+    {
+      "en": "Date error writing drive A Abort, Retry, Ignore, Fail?",
+      "cn": "A驱动器写错误,异常结束 、 试 、 顾错误状态继续执行还是系统调用失败继续执行?"
+    },
+    {
+      "en": "Frequently the basal ovule, which is the last one to be fertilized would abort.",
+      "cn": "最后受精的基生胚珠经常败育."
+    },
+    {
+      "en": "How abort your holiday plans? Did you make reservations already?",
+      "cn": "假期准备得如何? 你预约好了吗 ?"
+    },
+    {
+      "en": "Installation of this product requires system administrator privileges. Setup will now abort.",
+      "cn": "安装此软件需要具有系统管理员权限. 现在安装终止退出."
+    },
+    {
+      "en": "Objects created during commit or abort phase of synchronous event are read - only.",
+      "cn": "同步事件的提交或终止阶段创建的对象为只读."
+    },
+    {
+      "en": "One of two keys needed to abort the rocket launch sequence.",
+      "cn": "要停止火箭发射程序必须要有两支钥匙中的一支."
+    },
+    {
+      "en": "Since you don't want to relocate your WC, just abort this dialog.",
+      "cn": "当然你不是想重定位你的工作拷贝, 取消这个对话框就行了."
+    },
+    {
+      "en": "The disease causes pregnant animals to abort.",
+      "cn": "这种疾病会导致怀孕的动物流产。"
+    },
+    {
+      "en": "The doctor had to abort the baby.",
+      "cn": "医生不得不打掉胎儿."
+    },
+    {
+      "en": "The rescue mission had to be aborted.",
+      "cn": "救援任务不得不停止。"
+    },
+    {
+      "en": "There was an error adding the CD, the upgrade will abort.",
+      "cn": "添加光盘时出错将会导致升级中止."
+    },
+    {
+      "en": "Well, well,'said the Rat.'I suppose we should think abort getting home.",
+      "cn": "“好了好了, ” 水鼠说, “ 我想我们应该准备回家了. ”"
+    },
+    {
+      "en": "With this button the user can abort the audio sequence.",
+      "cn": "用户可以用该按钮终止音频序列."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "abortifacient",
+          "tran_cn": " 堕胎的"
+        },
+        {
+          "word": "abortive",
+          "tran_cn": " 失败的；流产的；堕胎的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "abortively",
+          "tran_cn": " 失败地；流产地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "abortifacient",
+          "tran_cn": " [药] 堕胎药"
+        },
+        {
+          "word": "abortion",
+          "tran_cn": " 流产，小产；流产的胎儿"
+        },
+        {
+          "word": "abortionist",
+          "tran_cn": " （尤指非法）为人堕胎者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "arrest",
+            "be",
+            "cease",
+            "check",
+            "checkmate",
+            "circumvent",
+            "contravene",
+            "deficient",
+            "down",
+            "end",
+            "fail",
+            "fall",
+            "frustrate",
+            "hinder",
+            "inhibit",
+            "insufficient",
+            "intercept",
+            "interfere",
+            "not",
+            "nullify",
+            "obstruct",
+            "preclude",
+            "prevent",
+            "put",
+            "quell",
+            "reach",
+            "short",
+            "stop",
+            "terminate",
+            "thwart"
+          ],
+          "tran_cn": "失败,受挫"
+        },
+        {
+          "words": [
+            "miscarry"
+          ],
+          "tran_cn": "流产"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "miscarry",
+            "come to an untimely end"
+          ],
+          "tran_cn": "流产；堕胎；夭折；发育不全"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "discontinue"
+          ],
+          "tran_cn": "使流产；使中止"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "中止计划"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（使）流产，中止（计划等）",
+      "tran_en": "to deliberately end a  pregnancy  when the baby is still too young to live"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "aborts"
+    ],
+    "past": [
+      "aborted"
+    ],
+    "done": [
+      "aborted"
+    ],
+    "ing": [
+      "aborting"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "word": "pettish",
+  "ipa": {
+    "us": "ˈpetɪʃ",
+    "uk": "ˈpɛtɪʃ"
+  },
+  "sentences": [
+    {
+      "en": "a pettish child",
+      "cn": ""
+    },
+    {
+      "en": "I can't act in pettish to you any further.",
+      "cn": "我再也不能对你撒娇了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "pettishly",
+          "tran_cn": " 任性地；易怒地；怒气冲冲地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "petulance",
+          "tran_cn": " 易怒；生气；性急；暴躁"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "passionate",
+            "irascible"
+          ],
+          "tran_cn": "易怒的；闹情绪的；怒气冲冲的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "小题大做的，易怒的",
+      "tran_en": "peevish; petulant "
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "pettishly"
+    ]
+  }
+}

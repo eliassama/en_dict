@@ -1,0 +1,101 @@
+{
+  "word": "assessor",
+  "ipa": {
+    "us": "əˈsesə(r)",
+    "uk": "əˈsɛsɚ"
+  },
+  "sentences": [
+    {
+      "en": "According to the assessor's statement, the fire damage was not severe.",
+      "cn": "根据估价员的估计, 火灾损失并不严重."
+    },
+    {
+      "en": "Both major and minor nonconformities will be followed up by the assessor.",
+      "cn": "审核员应该跟踪严重不合格和一般不合格项的关闭."
+    },
+    {
+      "en": "Certificates referred to an assessor at least takes 4 - 6 weeks to return to us.",
+      "cn": "提交报告的结果我们会在四至六周内得到回复."
+    },
+    {
+      "en": "New Orleans now has one elected tax assessor - instead of seven, each overseeing his own fief.",
+      "cn": "新奥尔良现在有一位民选的税务稽核员, 而非再是七位各管一摊."
+    },
+    {
+      "en": "The assessor asserts that he inserted the deserted desserts in the desert with alert.",
+      "cn": "估价人认定他警惕地把被抛弃的甜点心插入沙漠中."
+    },
+    {
+      "en": "The assessor asserts that he insmerted the deserted desserts in the desert with alert.",
+      "cn": "估价人认定他用警惕把被抛弃的甜点心插入沙漠中."
+    },
+    {
+      "en": "There will be no automatic follow up by the assessor.",
+      "cn": "不需要审核员跟踪关闭."
+    },
+    {
+      "en": "Why to get this child to circle stage act as an assessor along circuit?",
+      "cn": "为什么不领这小孩绕陪审台走一圈 呢 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "assessable",
+          "tran_cn": " 可估价的；可评价的；可征收的；可征税的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assessee",
+          "tran_cn": " 财产价值已被估定之人"
+        },
+        {
+          "word": "assessment",
+          "tran_cn": " 评定；估价"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "assess",
+          "tran_cn": " 评定；估价；对…征税"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "consultant",
+            "adviser"
+          ],
+          "tran_cn": "评审员；确定税款的人；顾问"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "技术顾问，评税员，估价员，陪审法官，助理法官",
+      "tran_en": "someone whose job is to calculate the value of something or the amount of tax someone should pay"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "assessors"
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "word": "duration",
+  "ipa": {
+    "us": "djuˈreɪʃn",
+    "uk": "duˈreɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Courses are of two years' duration.",
+      "cn": "课程为期两年。"
+    },
+    {
+      "en": "Gardeners classify plants accrdiring to their life - duration and frost susceptibility.",
+      "cn": "园艺学家根据植物的生命长短以及对霜害的敏感性去分类."
+    },
+    {
+      "en": "He was prepared to do this for the duration of the campaign.",
+      "cn": "他准备好在选举期间做这件事."
+    },
+    {
+      "en": "His wounds knocked him out of combat for the duration.",
+      "cn": "他的伤病使他在整个期间都无法参赛。"
+    },
+    {
+      "en": "If the outflow falls the average duration of unemployment will correspondingly rise.",
+      "cn": "若流出人数下降,则失业的平均持续期将相应上升."
+    },
+    {
+      "en": "It is difficult to ascertain the exact duration of protection.",
+      "cn": "要弄清确切的予防有效期并不容易."
+    },
+    {
+      "en": "Let's hope the gunmen will hold off for the duration of the cease - fire .",
+      "cn": "但愿持枪歹徒在 停火 期间能约束自己的行动."
+    },
+    {
+      "en": "No vacations for the duration.",
+      "cn": "战争期间概无假期."
+    },
+    {
+      "en": "some stains may be there for the duration.",
+      "cn": "一些污迹可能长期地留在那里。"
+    },
+    {
+      "en": "The course is of three years’ duration.",
+      "cn": "该课程为期三年。"
+    },
+    {
+      "en": "The duration of light was equal to that of darkness.",
+      "cn": "灯光一明一暗,间隔相等."
+    },
+    {
+      "en": "The duration of pain was prolonged.",
+      "cn": "疼痛期延长."
+    },
+    {
+      "en": "The principal issues in dispute concern the duration of the future treaty.",
+      "cn": "有争议的主要问题牵涉到将来条约的期限."
+    },
+    {
+      "en": "The school was used as a hospital for the duration of the war.",
+      "cn": "战争期间这所学校被用作医院。"
+    },
+    {
+      "en": "They were incarcerated for the duration of the war.",
+      "cn": "战争期间，他们被关在狱中。"
+    },
+    {
+      "en": "They were put into detention camps for the duration.",
+      "cn": "他们被关在拘留营里直至战争结束."
+    },
+    {
+      "en": "Yeobright's visit to his mother was to be of short duration.",
+      "cn": "姚伯回来看他母亲,只是短期的勾留."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "durative",
+          "tran_cn": " 持续的，持续性的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "durative",
+          "tran_cn": " 持续性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "period",
+            "term",
+            "time"
+          ],
+          "tran_cn": "期间"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "continuance",
+            "existence",
+            "length",
+            "period",
+            "term",
+            "time",
+            "year"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "activity duration",
+      "tran_cn": "工字续时间；活动持续时间"
+    },
+    {
+      "phrase": "duration of time",
+      "tran_cn": "持续时间"
+    },
+    {
+      "phrase": "duration of work",
+      "tran_cn": "工作期间，工作延续时间；工字续时间"
+    },
+    {
+      "phrase": "exposure duration",
+      "tran_cn": "曝露时间；曝光时间；暴露时间"
+    },
+    {
+      "phrase": "for the duration",
+      "tran_cn": "(非正式)长期地"
+    },
+    {
+      "phrase": "long duration",
+      "tran_cn": "长持续时间"
+    },
+    {
+      "phrase": "period of duration",
+      "tran_cn": "生育期"
+    },
+    {
+      "phrase": "pulse duration",
+      "tran_cn": "脉冲持续时间"
+    },
+    {
+      "phrase": "rainfall duration",
+      "tran_cn": "降雨持续时间，降雨历时"
+    },
+    {
+      "phrase": "short duration",
+      "tran_cn": "短期间，短历时"
+    },
+    {
+      "phrase": "sunshine duration",
+      "tran_cn": "日照时间；日照延时"
+    },
+    {
+      "phrase": "test duration",
+      "tran_cn": "测试时间；试验持续期；试验时间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "持续时间，期间",
+      "tran_en": "the length of time that something continues"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "durations"
+    ]
+  }
+}

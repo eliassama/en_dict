@@ -1,0 +1,210 @@
+{
+  "word": "shutter",
+  "ipa": {
+    "us": "ˈʃʌtə(r)",
+    "uk": "ˈʃʌtər"
+  },
+  "sentences": [
+    {
+      "en": "Check the shutter dial and aperture ring to make sure you have the correct exposure.",
+      "cn": "检查快门速度光圈以确保正确的曝光量."
+    },
+    {
+      "en": "Enables continuous shooting as long as the shutter button is pressed.",
+      "cn": "只要按住快门按钮就能连续拍照."
+    },
+    {
+      "en": "He pressed the shutter when she smiled.",
+      "cn": "她微笑时,他按下快门."
+    },
+    {
+      "en": "He racked his camera and pressed down the shutter release.",
+      "cn": "他将照相机的焦距调好,然后按下快门."
+    },
+    {
+      "en": "He reached up with a hooked pole to roll down the metal shutter.",
+      "cn": "他用带钩的杆子把金属护窗拉了下来。"
+    },
+    {
+      "en": "Here, Bill, wrench the shutter open.",
+      "cn": "喂, 比尔, 把这扇窗板撬开."
+    },
+    {
+      "en": "It is built into the counter, and can be exposed by movement of a shutter.",
+      "cn": "它装在计数器中,移去挡片, 就可以产生照射."
+    },
+    {
+      "en": "Screw in cable release on shutter button.",
+      "cn": "把拉线套紧在扳机上."
+    },
+    {
+      "en": "She opened the shutters and gazed out over village roofs.",
+      "cn": "她打开了百叶窗，朝村里的房顶望去。"
+    },
+    {
+      "en": "Simple and clear, the machine constant, the shutter flash, who can be.",
+      "cn": "简单明了, 机器?定, 快门一闪, 谁都能."
+    },
+    {
+      "en": "The camera has a shutter speed of one - sixtieth of a second.",
+      "cn": "这架照像机的快门速度达六十分之一秒."
+    },
+    {
+      "en": "The percentage depends on the conditions, shutter speed and focal length.",
+      "cn": "二者的比例取决于拍摄时的情况, 快门速度和焦距."
+    },
+    {
+      "en": "The shutter rattled in the wind.",
+      "cn": "百叶窗在风中发出嘎嘎声."
+    },
+    {
+      "en": "The slam of the shutter awoke me.",
+      "cn": "百叶窗砰的一声把我惊醒了."
+    },
+    {
+      "en": "There are a few things you should check before pressing the shutter release.",
+      "cn": "按下快门之前有几个地方要检查一下。"
+    },
+    {
+      "en": "With this type of camera, the shutter speed is fixed.",
+      "cn": "对这类相机而言，快门的速度是固定的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "shut",
+          "tran_cn": "关闭的；围绕的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "shut",
+          "tran_cn": "关闭"
+        },
+        {
+          "word": "shutting",
+          "tran_cn": "闭锁"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "shutting",
+          "tran_cn": "关闭（shut的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "shut",
+          "tran_cn": "关上；停止营业"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "shut",
+          "tran_cn": "关闭；停业；幽禁"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "diaphragm",
+            "jalousie"
+          ],
+          "tran_cn": "[摄]快门；[建]百叶窗；关闭物；[机]遮板"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blind",
+            "shade"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "curtain"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "electronic shutter",
+      "tran_cn": "电子快门；电子开闭器"
+    },
+    {
+      "phrase": "fire shutter",
+      "tran_cn": "防火活门，防火卷帘门；防火闸；防火板；防火百叶窗"
+    },
+    {
+      "phrase": "put up the shutters",
+      "tran_cn": "（商业机构）结束营业，（永久性）停业"
+    },
+    {
+      "phrase": "roller shutter",
+      "tran_cn": "卷闸，卷帘百页"
+    },
+    {
+      "phrase": "rolling shutter",
+      "tran_cn": "滚动式帘子"
+    },
+    {
+      "phrase": "shutter button",
+      "tran_cn": "快门按钮"
+    },
+    {
+      "phrase": "shutter door",
+      "tran_cn": "百叶窗"
+    },
+    {
+      "phrase": "shutter release",
+      "tran_cn": "快门线；快门释放；快门掣；快门启放器"
+    },
+    {
+      "phrase": "shutter speed",
+      "tran_cn": "快门速度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "遮光器，百叶窗，快门",
+      "tran_en": "one of a pair of wooden or metal covers on the outside of a window that can be closed to keep light out or prevent thieves from coming in"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "为…装百叶窗；以百叶窗遮闭"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "shutters"
+    ]
+  }
+}

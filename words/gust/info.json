@@ -1,0 +1,176 @@
+{
+  "word": "gust",
+  "ipa": {
+    "us": "ɡʌst",
+    "uk": "ɡʌst"
+  },
+  "sentences": [
+    {
+      "en": "A gust of breeze moved down the hillside, ruffling the grass.",
+      "cn": "一阵微风吹下山坡，使青草如波浪起伏。"
+    },
+    {
+      "en": "A gust of happiness swept through her.",
+      "cn": "一股幸福的暖流流遍她的全身."
+    },
+    {
+      "en": "A gust of wind blew the front door shut.",
+      "cn": "一阵大风吹来,把前门关上了."
+    },
+    {
+      "en": "A gust of wind caught the parachute.",
+      "cn": "一阵风将降落伞吹远。"
+    },
+    {
+      "en": "A gust of wind drove down the valley.",
+      "cn": "一阵狂风掠过山谷。"
+    },
+    {
+      "en": "A gust of wind fluttered the shavings wood.",
+      "cn": "一阵风把刨花吹得到处乱飞."
+    },
+    {
+      "en": "A gust of wind knocked him off balance and he fell face down in the mud.",
+      "cn": "一阵大风刮得他失去平衡，脸朝下摔在泥里。"
+    },
+    {
+      "en": "A gust of wind made the candles flare.",
+      "cn": "一阵风吹得烛光摇曳."
+    },
+    {
+      "en": "A gust of wind pried loose a section of sheet-metal roofing.",
+      "cn": "一阵狂风把铺在屋顶上的一块金属片掀起来了。"
+    },
+    {
+      "en": "A sudden gust of cold wind made me shiver.",
+      "cn": "一股突然刮来的冷风吹得我打哆嗦."
+    },
+    {
+      "en": "A sudden gust of wind blew his sunshade inside out.",
+      "cn": "一阵狂风把他的遮阳伞给吹翻了."
+    },
+    {
+      "en": "As she went past there was a gust of strong perfume.",
+      "cn": "她走过时有一股浓烈的香水味。"
+    },
+    {
+      "en": "During the night a gust of wind had blown the pot over.",
+      "cn": "夜里一阵劲风将锅吹翻了。"
+    },
+    {
+      "en": "The balloon soared up on a gust of wind.",
+      "cn": "一阵狂风把气球吹向风中."
+    },
+    {
+      "en": "The leaves were caught up by a sudden gust of wind.",
+      "cn": "突然一阵风把树叶吹起."
+    },
+    {
+      "en": "There was a gust of wind and then it began to pour.",
+      "cn": "刮了一阵风,跟着就下起了大雨."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "gustative",
+          "tran_cn": "味觉的；尝味的"
+        },
+        {
+          "word": "gusty",
+          "tran_cn": "阵风的；突发的；阵阵猛急的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gustation",
+          "tran_cn": "味觉；品尝"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "eruption",
+            "flare-up",
+            "outbreak",
+            "outburst"
+          ],
+          "tran_cn": "爆发"
+        },
+        {
+          "words": [
+            "blast",
+            "wind"
+          ],
+          "tran_cn": "风"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blast",
+            "breeze",
+            "eruption",
+            "flare-up",
+            "outbreak",
+            "outburst",
+            "wind"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "gust of wind",
+      "tran_cn": "阵风"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "一阵狂风，风味，突发的一阵，（感情）迸发",
+      "tran_en": "a short, strong, sudden rush of wind"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "一阵阵地劲吹",
+      "tran_en": "if the wind gusts, it blows strongly with sudden short movements"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（风）猛刮"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "gusts"
+    ],
+    "third": [
+      "gusts"
+    ],
+    "past": [
+      "gusted"
+    ],
+    "done": [
+      "gusted"
+    ],
+    "ing": [
+      "gusting"
+    ]
+  }
+}

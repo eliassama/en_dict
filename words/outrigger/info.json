@@ -1,0 +1,66 @@
+{
+  "word": "outrigger",
+  "ipa": {
+    "us": "ˈaʊtrɪgə(r)",
+    "uk": "ˈaʊtˌrɪɡɚ"
+  },
+  "sentences": [
+    {
+      "en": "Make sure outrigger were fully extended and installed on firm pad.",
+      "cn": "确保外伸支架全部伸出并稳固于地面上."
+    },
+    {
+      "en": "Mechanical model for the elastic thick outrigger of roof coal is set up.",
+      "cn": "建立了顶煤弹性深梁力学模型,分析了顶煤应力分布及顶煤破坏形式."
+    },
+    {
+      "en": "The outrigger tripod is available in both a high and low profile version, to fulfill a diverse array of environmental requirements.",
+      "cn": "外伸的三脚架有高型和低型两种配置，以满足不同的环境要求。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "outrigged",
+          "tran_cn": " 装有外伸支架的；[船] 带有舷外装置的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cantilever beam",
+            "cantilever girder"
+          ],
+          "tran_cn": "舷外支架；悬臂梁"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "canoe"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "舷外支架，突出的梁，桁等",
+      "tran_en": "a framework for supporting a pontoon outside and parallel to the hull of a boat to provide stability "
+    }
+  ],
+  "exchange": {}
+}

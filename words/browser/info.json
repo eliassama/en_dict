@@ -1,0 +1,161 @@
+{
+  "word": "browser",
+  "ipa": {
+    "us": "ˈbraʊzə(r)",
+    "uk": "ˈbraʊzɚ"
+  },
+  "sentences": [
+    {
+      "en": "a Web browser",
+      "cn": "网页浏览器"
+    },
+    {
+      "en": "Complies with industry standards for data security, browser compatibility, and accessibility.",
+      "cn": "遵守并执行有关数据安全 、 浏览器兼容性, 以及残疾人使用方便等方面的工业标准."
+    },
+    {
+      "en": "Copy and paste the link below into your web browser.",
+      "cn": "复制并粘贴到您的网页浏览器下面的链接."
+    },
+    {
+      "en": "In your Web browser's cache are the most recent Web files that you have downloaded.",
+      "cn": "网页浏览器的高速缓存区里有你最近下载的网页文件。"
+    },
+    {
+      "en": "Meanwhile, browser deployed software can be as rich as any other application.",
+      "cn": "同时, 浏览器部署软件可以像其他应用程序一样丰富."
+    },
+    {
+      "en": "Netscape 1.0 was written as an alternative browser to NCSA Mosaic.",
+      "cn": "继浏览器NCSAmosaic后,网景1.0推出."
+    },
+    {
+      "en": "Now you should see readable text, split over lines , in your browser.",
+      "cn": "现在你应该在浏览器上, 能够看到可读的文本."
+    },
+    {
+      "en": "Parses template and sends to standard output ( Browser ).",
+      "cn": "解析范本,并传送到标准输出 ( 浏览器 )."
+    },
+    {
+      "en": "Press the \"reload\" button on your web browser to refresh the site and get the most current version.",
+      "cn": "点击网页浏览器上的“刷新”按钮来刷新页面，显示最新的版本。"
+    },
+    {
+      "en": "Select Browse Definition to view external components in the Object Browser.",
+      "cn": "选择“浏览定义”可在“对象浏览器”中查看外部组件."
+    },
+    {
+      "en": "Sorry ! This application only supports Internet Explorer browser right now.",
+      "cn": "这项服务暂时只支援微软探索者浏览器."
+    },
+    {
+      "en": "The response is rendered by the user's Web browser.",
+      "cn": "这个相应会被用户的Web浏览器表示出来."
+    },
+    {
+      "en": "This newly available ability to deliver complex behavior in a browser demands application - quality interaction design.",
+      "cn": "浏览器具备这种可以提供复杂行为的新能力,为此需要交互设计应当像对待普通应用软件一样来对待这些新应用."
+    },
+    {
+      "en": "Use the built - in WAP browser to test the profile.",
+      "cn": "使用手机内 置 的浏览嚣来测试选项."
+    },
+    {
+      "en": "You just to upload the files and access it in your browser.",
+      "cn": "您只必须上载文件和访问它在您的浏览器.这就是创造原创文章的全部."
+    },
+    {
+      "en": "You view a browse information file in the Object Browser.",
+      "cn": "在对象浏览器中查看浏览信息文件."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "browse",
+          "tran_cn": " 浏览；吃草"
+        },
+        {
+          "word": "browsing",
+          "tran_cn": " 浏览"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "browsing",
+          "tran_cn": " 浏览；吃草（browse的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "browse",
+          "tran_cn": " 浏览；吃草；漫不经心地看商品"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "browse",
+          "tran_cn": " 浏览；吃草"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "broswer"
+          ],
+          "tran_cn": "[计]浏览器；吃嫩叶的动物；浏览书本的人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "customer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "offline browser",
+      "tran_cn": "离线浏览器；离线浏览"
+    },
+    {
+      "phrase": "web browser",
+      "tran_cn": "浏览器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "浏览器，逛商店的人",
+      "tran_en": "a computer program that finds information on the Internet and shows it on your computer screen"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "browsers"
+    ]
+  }
+}

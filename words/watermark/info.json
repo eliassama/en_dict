@@ -1,0 +1,128 @@
+{
+  "word": "watermark",
+  "ipa": {
+    "us": "ˈwɔ:təmɑ:k",
+    "uk": "ˈwɔtərmɑrk"
+  },
+  "sentences": [
+    {
+      "en": "Design the detection method of watermark bars of Euros.",
+      "cn": "提出了欧元水印条码的识别方法."
+    },
+    {
+      "en": "Documents with this kind of watermark are difficult to duplicate.",
+      "cn": "带有这种水印的文件很难被复制."
+    },
+    {
+      "en": "Experimentation shows that this watermark algorithm has good concealment and frangibility.",
+      "cn": "试验表明,该水印算法有很好的隐蔽性和脆弱性."
+    },
+    {
+      "en": "In these algorithms, meaningful binary images are adopted as the watermark.",
+      "cn": "上述所提出的算法均采用有意义的二值图像作为水印."
+    },
+    {
+      "en": "Shaded watermark: watermark with opaque rather than tranaparent appearance.",
+      "cn": "暗调水印: 有着遮光而并不是透光现像的水印."
+    },
+    {
+      "en": "She finally released Shepherd Moons, her follow - up to Watermark, in 1991.",
+      "cn": "终于在1991年,恩雅发行了她《水印》的续篇《牧羊人之月》."
+    },
+    {
+      "en": "Simple operation, the technical and professional effectiveness, which is \" easily watermark. \"",
+      "cn": "简单的操作 、 专业的技术与效果, 这就是 “ 轻松水印 ”."
+    },
+    {
+      "en": "Spread Spectrum Watermark complete source code can be used directly.",
+      "cn": "扩频水印完整的源代码可以直接使用."
+    },
+    {
+      "en": "The algorithm is the base of application for presswork watermark.",
+      "cn": "本算法的提出为印刷水印的应用提出了一种有效的解决方案."
+    },
+    {
+      "en": "The card has a digital watermark detectable only by electronic cash dispensers.",
+      "cn": "这种卡上带有只能被电子取款机识别的数码水印。"
+    },
+    {
+      "en": "The information hiding technology mainly includes the steganography and digital watermark technology.",
+      "cn": "信息隐藏技术主要包括信息隐匿技术和数字水印技术."
+    },
+    {
+      "en": "The publication of reference watermark does not compromise the embedding one.",
+      "cn": "参考水印的信息公开不会降低嵌入水印的安全性."
+    },
+    {
+      "en": "The watermark on the banknote is to prevent forgery.",
+      "cn": "钞票上的浮水印是用来防止伪造的."
+    },
+    {
+      "en": "The zero - watermark method is a new digital watermarking method.",
+      "cn": "零水印方法是一种新的数字水印方法."
+    },
+    {
+      "en": "Two blind watermark algorithms based on HVS in DCT domain are proposed.",
+      "cn": "提出了DCT变换域上基于人类视觉特性(HVS)的两种盲水印添加方法."
+    },
+    {
+      "en": "Watermark Layout is in the attachment file for both type paper.",
+      "cn": "水印布局是作为打印纸的附件文件."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "watershed",
+          "tran_cn": " 标志转折点的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "watershed",
+          "tran_cn": " （美）流域；分水岭；集水区；转折点"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "mottle"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "embed watermark",
+      "tran_cn": "嵌入水印；嵌入水印滤镜"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "水印",
+      "tran_en": "a special design put onto paper, especially bank notes, that can only be seen when you hold it up to the light"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "在…上印水印（图案）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "watermarks"
+    ]
+  }
+}

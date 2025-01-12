@@ -1,0 +1,70 @@
+{
+  "word": "smarmy",
+  "ipa": {
+    "us": "ˈsmɑ:mi",
+    "uk": "ˈsmɑrmi"
+  },
+  "sentences": [
+    {
+      "en": "a smarmy car salesman",
+      "cn": "一个逢迎讨好的汽车推销员"
+    },
+    {
+      "en": "I hate his smarmy compliments.",
+      "cn": "我痛恨他拍马屁的恭维."
+    },
+    {
+      "en": "Rick is slightly smarmy and eager to impress.",
+      "cn": "里克有些好奉承，急着要给人留下好印象。"
+    },
+    {
+      "en": "smarmy comments",
+      "cn": "奉承话"
+    },
+    {
+      "en": "The waiters'manners are always so smarmy.",
+      "cn": "那些服务员总是点头哈腰的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "smarm",
+          "tran_cn": " 说奉承话"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "hokey",
+            "unctuous"
+          ],
+          "tran_cn": "爱说奉承话的；虚情假意的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<口>逢迎的，拍马的",
+      "tran_en": "polite in an insincere way – used to show disapproval"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "smarmier"
+    ],
+    "est": [
+      "smarmiest"
+    ]
+  }
+}

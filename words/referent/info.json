@@ -1,0 +1,100 @@
+{
+  "word": "referent",
+  "ipa": {
+    "us": "'refərənt",
+    "uk": "'refərənt"
+  },
+  "sentences": [
+    {
+      "en": "But Austin, who puts forward speech act theory, maintains that language is not only referent, but also performative.",
+      "cn": "言语行为理论始创者奥斯汀提出语言不仅仅具有指称作用, 同样具有施为作用."
+    },
+    {
+      "en": "Conclusion: CT scanning is of remarkable referent value and significance in diagnosing cranium facial osteofibrom hyperplasy.",
+      "cn": "结论: CT对颅面骨骨纤维异常增殖症的诊断具有重要参考价值."
+    },
+    {
+      "en": "Gender of the pronoun should be identical with its referent.",
+      "cn": "英语名词的性属类别涉及到其相应代词的性属选择问题."
+    },
+    {
+      "en": "Here, too, we see how this unverbalized visceral flow is used as a referent.",
+      "cn": "这里我们也可以看见，非语言的内在流动是如何作为指示物被使用的。"
+    },
+    {
+      "en": "The utterance functions of the modifiers include referent and assertion.",
+      "cn": "修饰语的表述功能包括指称和陈述."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "referential",
+          "tran_cn": " 指示的；用作参考的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reference",
+          "tran_cn": " 参考，参照；涉及，提及；参考书目；介绍信；证明书"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "reference",
+          "tran_cn": " 引用"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "reference",
+          "tran_cn": " 引用"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "indicant"
+          ],
+          "tran_cn": "指示物；指示对象"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "original"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "指示物",
+      "tran_en": "the object or idea to which a word or phrase refers "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,201 @@
+{
+  "word": "reserved",
+  "ipa": {
+    "us": "rɪˈzɜ:vd",
+    "uk": "rɪˈzɜrvd"
+  },
+  "sentences": [
+    {
+      "en": "A great future is reserved for you.",
+      "cn": "光明的前程在等待着你."
+    },
+    {
+      "en": "Brian was courtly and reserved.",
+      "cn": "布赖恩温文尔雅，含蓄拘谨。"
+    },
+    {
+      "en": "British men are often seen as being reserved and unemotional.",
+      "cn": "英国男人常被认为是矜持而冷漠的。"
+    },
+    {
+      "en": "Ellen was a shy, reserved girl.",
+      "cn": "埃伦是个腼腆、寡言的姑娘。"
+    },
+    {
+      "en": "Even though I'm quite a reserved person, I like meeting people.",
+      "cn": "我虽然性格极为内敛，但喜欢和人接触。"
+    },
+    {
+      "en": "He is very reserved. He does not say much.",
+      "cn": "他是个拘谨的人,不爱多说话."
+    },
+    {
+      "en": "He was unemotional, quiet, and reserved.",
+      "cn": "他不动感情、安静而矜持。"
+    },
+    {
+      "en": "He was unemotional, quite quiet, and reserved.",
+      "cn": "他感情淡漠，沉默寡言，性格内敛。"
+    },
+    {
+      "en": "Helen was diffident and reserved.",
+      "cn": "海伦比较害羞内向。"
+    },
+    {
+      "en": "I have ticket reserved for today's matinee.",
+      "cn": "预订了今天白天的戏票."
+    },
+    {
+      "en": "Normally, such an outward display of affection is reserved for his mother.",
+      "cn": "通常，只有在母亲面前他的情感才会如此外露。"
+    },
+    {
+      "en": "Seats, or sometimes entire tables, were reserved.",
+      "cn": "一些散座，有时候是整桌，都被预订了。"
+    },
+    {
+      "en": "She seems quite reserved.",
+      "cn": "她似乎很矜持."
+    },
+    {
+      "en": "The judge reserved his decision.",
+      "cn": "那法官延迟了他的判决."
+    },
+    {
+      "en": "The runner reserved some of his energy for the final spring.",
+      "cn": "那个赛跑运动员保留着一些力气以备最后的冲刺."
+    },
+    {
+      "en": "The self-catering flats are usually reserved for postgraduate students.",
+      "cn": "可以自己做饭的公寓一般留给研究生住。"
+    },
+    {
+      "en": "These seats are reserved for teachers.",
+      "cn": "这些座位是留给老师的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "reservedly",
+          "tran_cn": " 客气地；隔阂地；有节制地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reservation",
+          "tran_cn": " 预约，预订；保留"
+        },
+        {
+          "word": "reserve",
+          "tran_cn": " 储备，储存；自然保护区；预备队；[金融] 储备金"
+        },
+        {
+          "word": "reservedness",
+          "tran_cn": " 矜持"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "reserve",
+          "tran_cn": " 预订"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "reserve",
+          "tran_cn": " 储备；保留；预约"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "cold",
+            "saving",
+            "retained"
+          ],
+          "tran_cn": "保留的，预订的；缄默的，冷淡的；包租的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "additional",
+            "aloof",
+            "backward",
+            "destined",
+            "distant",
+            "frigid",
+            "frosty",
+            "in",
+            "inner",
+            "retiring",
+            "timid"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "all right reserved",
+      "tran_cn": "保留一切权力"
+    },
+    {
+      "phrase": "all rights reserved",
+      "tran_cn": "版权所有"
+    },
+    {
+      "phrase": "copyright reserved",
+      "tran_cn": "[法]著作权所有"
+    },
+    {
+      "phrase": "reserved area",
+      "tran_cn": "保留区"
+    },
+    {
+      "phrase": "reserved copy",
+      "tran_cn": "正本；保留本"
+    },
+    {
+      "phrase": "reserved word",
+      "tran_cn": "[计]预定字；[计]保留字；[计]关键词"
+    },
+    {
+      "phrase": "rights reserved",
+      "tran_cn": "保留权利"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "预订的，矜持的，储藏着的",
+      "tran_en": "Someone who is reserved keeps their feelings hidden"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "保留[储备]某物( reserve的过去式)"
+    }
+  ],
+  "exchange": {}
+}

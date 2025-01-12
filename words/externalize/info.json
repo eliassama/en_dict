@@ -1,0 +1,138 @@
+{
+  "word": "externalize",
+  "ipa": {
+    "us": "ɪkˈstɜ:nəlaɪz",
+    "uk": "ɪkˈstɜrnəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Don't externalize whatever indecision or inner conflict you have by doubling ( or tripling ) up on majors.",
+      "cn": "不要让你的优柔寡断或是内心的矛盾在选择专业上犯错误——选择两个专业."
+    },
+    {
+      "en": "There is a tendency to externalize all religions.",
+      "cn": "存在把一切宗教都视为仅具外表形式的倾向."
+    },
+    {
+      "en": "These are people who tend to externalize blame when anything goes wrong at work.",
+      "cn": "这是些工作中一出现问题就往往归诸外因的人。"
+    },
+    {
+      "en": "These are some people who tend to externalize blame when anything goes wrong at work.",
+      "cn": "这是些在工作中出现任何错误时都倾向将指责指向外部的人。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "extern",
+          "tran_cn": " 外面的，外来的"
+        },
+        {
+          "word": "external",
+          "tran_cn": " 外部的；表面的；[药] 外用的；外国的；外面的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "externally",
+          "tran_cn": " 外部地；外表上，外形上"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "extern",
+          "tran_cn": " 走读生；走读医学研究生"
+        },
+        {
+          "word": "external",
+          "tran_cn": " 外部；外观；外面"
+        },
+        {
+          "word": "externalisation",
+          "tran_cn": " 外在化（等于externalization）"
+        },
+        {
+          "word": "externality",
+          "tran_cn": " 外在性；外形；外部事物"
+        },
+        {
+          "word": "externalization",
+          "tran_cn": " 具体化；外表化；客观化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "exteriorize",
+          "tran_cn": " 把…从腹内取出；具体化，使…形象化"
+        },
+        {
+          "word": "externalise",
+          "tran_cn": " 使……形象化，外化（等于externalize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "actualize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "embody",
+            "objectify"
+          ],
+          "tran_cn": "给…以外形；使具体化，使客观化"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使…表面化",
+      "tran_en": "to express inner feelings"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "给…以外形，使客观化，使具体化"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "externalizes"
+    ],
+    "past": [
+      "externalized"
+    ],
+    "done": [
+      "externalized"
+    ],
+    "ing": [
+      "externalizing"
+    ]
+  }
+}

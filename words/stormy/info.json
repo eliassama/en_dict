@@ -1,0 +1,211 @@
+{
+  "word": "stormy",
+  "ipa": {
+    "us": "ˈstɔ:mi",
+    "uk": "ˈstɔrmi"
+  },
+  "sentences": [
+    {
+      "en": "a dark and stormy night",
+      "cn": "黑暗的暴风雨之夜"
+    },
+    {
+      "en": "A stormy applause broke out in the hall.",
+      "cn": "全场响起了暴风雨般的掌声."
+    },
+    {
+      "en": "Fortunately, the stormy waves caused trifling damage to the boat.",
+      "cn": "幸好, 风浪使船只受到的损坏较轻."
+    },
+    {
+      "en": "I'm afraid you're running a risk setting sail in such stormy weather.",
+      "cn": "挑上这么个暴风雨的天气出航,你恐怕太冒险了吧!"
+    },
+    {
+      "en": "Sailors wear oilskins in stormy weather.",
+      "cn": "水手遇到暴风雨天气都穿著防水服."
+    },
+    {
+      "en": "Sinclair Lewis was stormy petrel in his life as in his books.",
+      "cn": "辛克莱·刘易斯在他的生活中也像他的书中一样是个制造麻烦的人."
+    },
+    {
+      "en": "Stormy applause rocked the hall.",
+      "cn": "暴风雨般掌声震动了大厅."
+    },
+    {
+      "en": "The arrow on the barometer was pointing to'stormy \".",
+      "cn": "气压计上的箭头指向 “ 有暴风雨 ”."
+    },
+    {
+      "en": "The audience broke out into a stormy applause.",
+      "cn": "观众中爆发出暴风雨般的掌声."
+    },
+    {
+      "en": "The boat wallowed helplessly in the stormy sea.",
+      "cn": "那艘船在波浪滔滔的大海中无力地颠簸行驶."
+    },
+    {
+      "en": "The letter was read at a stormy meeting.",
+      "cn": "这封信是在一次争吵激烈的会议上念的。"
+    },
+    {
+      "en": "The marriage began in a stormy fashion, but soon settled down.",
+      "cn": "新婚生活非常热烈, 但不久就平静下来了."
+    },
+    {
+      "en": "The sailboat swayed on the stormy sea.",
+      "cn": "帆船在暴风雨的海面上摇晃."
+    },
+    {
+      "en": "The sky was starting to look stormy.",
+      "cn": "开始变天了，看上去暴风雨将至。"
+    },
+    {
+      "en": "Their working relationship was stormy at times.",
+      "cn": "他们在工作中关系有时也闹得很僵。"
+    },
+    {
+      "en": "Very few people ventured to go out on that stormy night.",
+      "cn": "在那个风雨交加的夜晚,很少有人敢出去."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "stormbound",
+          "tran_cn": " 为风暴所阻的，因暴风雨而被困的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "storm",
+          "tran_cn": " 暴风雨；大动荡"
+        },
+        {
+          "word": "storminess",
+          "tran_cn": " 风暴度；磁暴度；猛烈"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "storm",
+          "tran_cn": " 起风暴；横冲直撞；狂怒咆哮"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "storm",
+          "tran_cn": " 猛攻；怒骂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "angry",
+            "boiling",
+            "boisterous",
+            "feverish",
+            "fierce",
+            "fiery",
+            "frantic",
+            "frenetic",
+            "frenzied",
+            "furious",
+            "howling",
+            "impassioned",
+            "inflamed",
+            "intense",
+            "mad",
+            "raging",
+            "ranting",
+            "raving",
+            "rough",
+            "strong",
+            "vehement",
+            "violent",
+            "wrathful",
+            "wrought-up"
+          ],
+          "tran_cn": "激烈的,咆哮的,发怒的,焦躁的,疯狂的"
+        },
+        {
+          "words": [
+            "bad",
+            "bleak",
+            "blusterous",
+            "blustery",
+            "foul",
+            "gray",
+            "gusty",
+            "howling",
+            "inclement",
+            "overcast",
+            "pouring",
+            "raging",
+            "raining",
+            "raw",
+            "roaring",
+            "snowy",
+            "squally",
+            "tempestuous",
+            "threatening",
+            "turbulant",
+            "violent",
+            "wild",
+            "windy",
+            "winely"
+          ],
+          "tran_cn": "狂暴的,"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "chaotic",
+            "choppy",
+            "rainy"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stormy sea",
+      "tran_cn": "波涛汹涌的海面"
+    },
+    {
+      "phrase": "stormy weather",
+      "tran_cn": "暴风雨天气；暴风雪"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有暴风雨的，暴风雨般的，热烈的，激烈的",
+      "tran_en": "with strong winds, heavy rain, and dark clouds"
+    }
+  ],
+  "exchange": {}
+}

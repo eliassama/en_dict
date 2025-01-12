@@ -1,0 +1,47 @@
+{
+  "word": "antiquary",
+  "ipa": {
+    "us": "'æntɪkwərɪ",
+    "uk": "'æntɪkwərɪ"
+  },
+  "sentences": [
+    {
+      "en": "I am afraid the myth was invented in 1754 by the English antiquary William Stukeley.",
+      "cn": "我恐怕这个神话是由英国古董商威廉-斯图克利在1754年发明的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "antiquarian",
+          "tran_cn": " 古文物研究的；古文物的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "antiquarian",
+          "tran_cn": " 古文物研究者；[古] 古文物收藏家"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "研究[收藏，出售]古物的人",
+      "tran_en": "An antiquary is a person who studies the past, or who collects or buys and sells old and valuable objects"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "antiquaries"
+    ]
+  }
+}

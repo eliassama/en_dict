@@ -1,0 +1,94 @@
+{
+  "word": "impale",
+  "ipa": {
+    "us": "ɪmˈpeɪl",
+    "uk": "ɪmˈpeɪl"
+  },
+  "sentences": [
+    {
+      "en": "Do not push me, or I wil impale you on my horns!",
+      "cn": "别推我, 要不我会用我的角顶你."
+    },
+    {
+      "en": "I say my arrow will impale your brain, now it comes.",
+      "cn": "我说过我的箭会刺穿你的脑袋, 现在它来了."
+    },
+    {
+      "en": "Impale ( Arms ) moved to Tier 3, no longer requires Deep Wounds.",
+      "cn": "天赋穿刺 ( 武器 ) 移动到第三行, 不需要重伤作为前置天赋."
+    },
+    {
+      "en": "Researchers observed one bird impale a rodent on a cactus.",
+      "cn": "研究人员观察到一只鸟把一只啮齿动物钉在一棵仙人掌上。"
+    },
+    {
+      "en": "Singing among the savage branches, it impale itself upon the longest, sharpest spine.",
+      "cn": "它把自己钉在最尖最长的刺上,在蓁蓁树枝间婉啭啼鸣."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "impalement",
+          "tran_cn": " 刺穿；围住"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "lance",
+            "prick",
+            "puncture",
+            "stab"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cut through",
+            "transpierce"
+          ],
+          "tran_cn": "刺穿；钉住；使绝望"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 刺入， 刺穿",
+      "tran_en": "if someone or something is impaled, a sharp pointed object goes through them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "钉在尖桩上"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "impales"
+    ],
+    "past": [
+      "impaled"
+    ],
+    "done": [
+      "impaled"
+    ],
+    "ing": [
+      "impaling"
+    ]
+  }
+}

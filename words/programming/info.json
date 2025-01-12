@@ -1,0 +1,236 @@
+{
+  "word": "programming",
+  "ipa": {
+    "us": "ˈprəʊɡræmɪŋ",
+    "uk": "ˈproʊɡræmɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a course in computer programming",
+      "cn": "计算机编程的课程"
+    },
+    {
+      "en": "a high-level programming language",
+      "cn": "高级编程语言"
+    },
+    {
+      "en": "A multipurpose programming language used primarily for command and control applications.",
+      "cn": "一种多用途的编程语言,主要用在指挥和控制应用软件之中."
+    },
+    {
+      "en": "As an approximation he should understand enough computer programming.",
+      "cn": "他大体上要弄懂足够的计算机程序编制."
+    },
+    {
+      "en": "Complex mixtures may be separated by \" temperature - programming \".",
+      "cn": "复杂的混合物可用程序升温 色谱仪 来分离."
+    },
+    {
+      "en": "Fortran is perhaps the most widely used high level programming language.",
+      "cn": "Fortran语言可能是用得最广的高级程序设计语言."
+    },
+    {
+      "en": "Given the circumstances, and the programming of the wasp, it cannot choose otherwise.",
+      "cn": "考虑到黄蜂所处的具体环境和生物学程序的排定, 它无法作出其他的选择."
+    },
+    {
+      "en": "He asked his teacher to expand on the steps of programming.",
+      "cn": "他要老师进一步阐述编制程序的步骤."
+    },
+    {
+      "en": "In assembler programming, a name entry.",
+      "cn": "汇编程序设计中使用的一种名(字)项."
+    },
+    {
+      "en": "In computer programming, a jump instruction.",
+      "cn": "计算机程序设计中的一种跳转指令."
+    },
+    {
+      "en": "In some programming languages, a variable whose value is a character string.",
+      "cn": "在某些程序设计语言中, 一种值为字符串的变量."
+    },
+    {
+      "en": "the basics of computer programming",
+      "cn": "计算机编程概要"
+    },
+    {
+      "en": "The Olympics received hundreds of hours of television programming over the summer.",
+      "cn": "夏季奥运会期间有数百个小时的电视节目对其进行报道。"
+    },
+    {
+      "en": "The process of writing instructions in a programming language.",
+      "cn": "用程序设计语言编写指令的过程."
+    },
+    {
+      "en": "There are some programming errors that need correction.",
+      "cn": "有一些程式错误需要修改."
+    },
+    {
+      "en": "They also do equally well at programming a computer, which is neither visual nor spatial.",
+      "cn": "妇女在计算机编程方面也无异于男性, 这项工作既不涉及视觉能力也不涉及空间能力."
+    },
+    {
+      "en": "We would all be programming in assembly language or even machine language.",
+      "cn": "我们就要用汇编语言,甚至要用机器语言去编写程序."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "program",
+          "tran_cn": " 程序；计划；大纲"
+        },
+        {
+          "word": "programme",
+          "tran_cn": " 计划，规划；节目；程序"
+        },
+        {
+          "word": "programmer",
+          "tran_cn": " 程序员，[计][自] 程序设计员"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "program",
+          "tran_cn": " 编程序；安排节目；设计电脑程式"
+        },
+        {
+          "word": "programme",
+          "tran_cn": " 编程序；制作节目"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "program",
+          "tran_cn": " 用程序指令；为…制订计划；为…安排节目"
+        },
+        {
+          "word": "programme",
+          "tran_cn": " 规划；拟…计划"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "planning",
+            "design",
+            "formulation",
+            "projection"
+          ],
+          "tran_cn": "设计，规划；编制程序，[计]程序编制"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "application programming",
+      "tran_cn": "应用程序设计"
+    },
+    {
+      "phrase": "computer programming",
+      "tran_cn": "计算机编程；计算机程序设计"
+    },
+    {
+      "phrase": "convex programming",
+      "tran_cn": "[计]凸规划"
+    },
+    {
+      "phrase": "dynamic programming",
+      "tran_cn": "动态规划；动态程序设计"
+    },
+    {
+      "phrase": "goal programming",
+      "tran_cn": "目标规划；目标程序设计"
+    },
+    {
+      "phrase": "integer programming",
+      "tran_cn": "[计]整数规划"
+    },
+    {
+      "phrase": "linear programming",
+      "tran_cn": "n. 线性规划"
+    },
+    {
+      "phrase": "linear programming problem",
+      "tran_cn": "线性规划问题"
+    },
+    {
+      "phrase": "mathematical programming",
+      "tran_cn": "数学规划"
+    },
+    {
+      "phrase": "non-linear programming",
+      "tran_cn": "非线性规划"
+    },
+    {
+      "phrase": "nonlinear programming",
+      "tran_cn": "非线性规划"
+    },
+    {
+      "phrase": "object oriented programming",
+      "tran_cn": "面向目标程序设计"
+    },
+    {
+      "phrase": "object-oriented programming",
+      "tran_cn": "[计]面向对象的程序设计"
+    },
+    {
+      "phrase": "programming language",
+      "tran_cn": "编程语言；程序设计语言"
+    },
+    {
+      "phrase": "programming system",
+      "tran_cn": "程式设计系统；程序系统"
+    },
+    {
+      "phrase": "programming technique",
+      "tran_cn": "程序设计技术"
+    },
+    {
+      "phrase": "quadratic programming",
+      "tran_cn": "二次规划"
+    },
+    {
+      "phrase": "stochastic programming",
+      "tran_cn": "随机规划"
+    },
+    {
+      "phrase": "structured programming",
+      "tran_cn": "结构化程序设计"
+    },
+    {
+      "phrase": "visual programming",
+      "tran_cn": "可视编程"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "规划，设计，编程",
+      "tran_en": "the activity of writing programs for computers, or something written by a programmer"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "训练( programme的现在分词 )，培养，预调"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "编程"
+    }
+  ],
+  "exchange": {}
+}

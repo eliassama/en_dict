@@ -1,0 +1,173 @@
+{
+  "word": "negligence",
+  "ipa": {
+    "us": "ˈneɡlɪdʒəns",
+    "uk": "ˈneɡlɪdʒəns"
+  },
+  "sentences": [
+    {
+      "en": "Anything less is criminal negligence.",
+      "cn": "否则就是犯罪."
+    },
+    {
+      "en": "He was sharply reprimanded for his negligence.",
+      "cn": "他因玩忽职责而受到严厉的申斥."
+    },
+    {
+      "en": "His negligence was nothing less than criminal.",
+      "cn": "他的粗心大意无异于犯罪."
+    },
+    {
+      "en": "Many a customer has been lost through negligence of service.",
+      "cn": "由于服务不周失去了许多老主顾."
+    },
+    {
+      "en": "negligence in carrying out safety procedures",
+      "cn": "执行安全程序时的疏忽"
+    },
+    {
+      "en": "Nothing can extenuate her negligence.",
+      "cn": "她的玩忽职守是无法掩饰的。"
+    },
+    {
+      "en": "Perhaps it is only negligence.",
+      "cn": "可能这不过是一种不修边幅而已."
+    },
+    {
+      "en": "The accident was caused by negligence on the part of the driver.",
+      "cn": "事故是由于司机的过失造成的。"
+    },
+    {
+      "en": "The accident was caused by the negligence of the driver.",
+      "cn": "事故是由司机的疏忽造成的."
+    },
+    {
+      "en": "The accident was due to negligence.",
+      "cn": "事故是由于粗心大意引起的."
+    },
+    {
+      "en": "The accident was the result of negligence.",
+      "cn": "这次事故是由于疏忽所致."
+    },
+    {
+      "en": "The bridge’s architect was sued for criminal negligence.",
+      "cn": "那座桥梁的建筑师被控犯有玩忽职守罪。"
+    },
+    {
+      "en": "The company were guilty of gross negligence.",
+      "cn": "该公司犯有严重过失。"
+    },
+    {
+      "en": "The court made a finding of contributory negligence.",
+      "cn": "法庭作出判决认定受害方犯有共同过失."
+    },
+    {
+      "en": "The plaintiff was guilty of contributory negligence for failing to wear a crash helmet.",
+      "cn": "原告因未戴安全头盔而负有连带责任."
+    },
+    {
+      "en": "The soldiers were ordered to appear before a disciplinary council on charges of negligence.",
+      "cn": "士兵们被控玩忽职守，被勒令接受纪律委员会的审查。"
+    },
+    {
+      "en": "They charged him with negligence of duty.",
+      "cn": "他们指责他玩忽职守."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "neglected",
+          "tran_cn": " 被忽视的；未被好好照管的"
+        },
+        {
+          "word": "neglectful",
+          "tran_cn": " 疏忽的；忽略的；不小心的"
+        },
+        {
+          "word": "negligent",
+          "tran_cn": " 疏忽的；粗心大意的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "negligently",
+          "tran_cn": " 疏忽地；粗心大意地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "neglect",
+          "tran_cn": " 疏忽，忽视；怠慢"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "neglected",
+          "tran_cn": " 忽视；疏忽（neglect的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "neglect",
+          "tran_cn": " 疏忽，忽视；忽略"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "omission",
+            "oversight"
+          ],
+          "tran_cn": "疏忽；忽视；粗心大意"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "delinquency",
+            "disregard",
+            "oversight"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "gross negligence",
+      "tran_cn": "重大过失；严重过失；显著的疏忽"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "疏忽，[法]过失，粗心大意",
+      "tran_en": "failure to take enough care over something that you are responsible for"
+    }
+  ],
+  "exchange": {}
+}

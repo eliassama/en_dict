@@ -1,0 +1,191 @@
+{
+  "word": "barter",
+  "ipa": {
+    "us": "ˈbɑːtə(r)",
+    "uk": "ˈbɑːrtər"
+  },
+  "sentences": [
+    {
+      "en": "As business went beyond the barter stage, records had to be kept.",
+      "cn": "当商业超越了以物易物阶段之后, 就需要保存某些资料."
+    },
+    {
+      "en": "Chickens, goats and rabbits were offered for barter at the bazaar.",
+      "cn": "在集市上,鸡 、 山羊和兔子被摆出来作物物交换之用."
+    },
+    {
+      "en": "Is It'still a direct barter trade?",
+      "cn": "这还算是一种直接的易货贸易 吗 ?"
+    },
+    {
+      "en": "Most trade was still done by barter.",
+      "cn": "大部分交易仍采用物物交换的方式."
+    },
+    {
+      "en": "Mr Thomas was forced to barter away his expensive watch.",
+      "cn": "汤玛斯先生被迫以较便宜的价格出售他昂贵的表."
+    },
+    {
+      "en": "Overall, barter is a very inefficient means of organizing transactions.",
+      "cn": "总之，易货贸易是一种效率很低的交易形式。"
+    },
+    {
+      "en": "The business is said to be done on barter basis.",
+      "cn": "这笔交易据说是按易货方式做的."
+    },
+    {
+      "en": "The market-place and street were crowded with those who'd come to barter.",
+      "cn": "市场和街道上挤满了前来做物物交换的人。"
+    },
+    {
+      "en": "They barter grains for cloth.",
+      "cn": "他们用谷物换布."
+    },
+    {
+      "en": "They have arranged food imports on a barter basis.",
+      "cn": "他们以易货贸易的方式安排食品进口."
+    },
+    {
+      "en": "They have been bartering wheat for cotton and timber.",
+      "cn": "他们一直在用小麦交换棉花和木材。"
+    },
+    {
+      "en": "They used to barter for horses with salt.",
+      "cn": "他们过去以食盐交换马匹."
+    },
+    {
+      "en": "Traders came to barter horses.",
+      "cn": "商人们前来用马匹交换其他物品。"
+    },
+    {
+      "en": "Trading was carried out under a barter system.",
+      "cn": "当时的贸易是物物交换。"
+    },
+    {
+      "en": "We cannot barter away our principles.",
+      "cn": "我们不能拿原则作交易."
+    },
+    {
+      "en": "We will never barter away our honor.",
+      "cn": "我们决不拿荣誉作交易."
+    },
+    {
+      "en": "We will never barter away principles.",
+      "cn": "我们决不拿原则做交易."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "barterer",
+          "tran_cn": " 交易商"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "countertrade"
+          ],
+          "tran_cn": "易货贸易；[贸易]物物交换；实物交易"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deal",
+            "exchange",
+            "swap",
+            "trade",
+            "traffic"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "price bargain",
+            "bargain with"
+          ],
+          "tran_cn": "进行易货贸易；[贸易]作物物交换；讨价还价"
+        }
+      ]
+    },
+    {
+      "pos": "vt & vi.",
+      "words": [
+        {
+          "words": [
+            "deal",
+            "exchange",
+            "swap",
+            "trade"
+          ],
+          "tran_cn": "贸易;交换"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "barter away",
+      "tran_cn": "[经]吃亏廉卖；拿…作交易"
+    },
+    {
+      "phrase": "barter trade",
+      "tran_cn": "易货贸易，实物交易"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "物品交换, 实物交易",
+      "tran_en": "Barter is also a noun"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": " 实物交易， 以物易物",
+      "tran_en": "to exchange goods, work, or services for other goods or services rather than for money"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 易货贸易",
+      "tran_en": "to exchange goods, work, or services for other goods or services rather than for money"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "进行易货贸易，[贸易]作物物交换，讨价还价"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "作物物交换，以货换货，拿…进行易货贸易"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "barters"
+    ],
+    "past": [
+      "bartered"
+    ],
+    "done": [
+      "bartered"
+    ],
+    "ing": [
+      "bartering"
+    ]
+  }
+}

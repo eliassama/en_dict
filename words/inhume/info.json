@@ -1,0 +1,64 @@
+{
+  "word": "inhume",
+  "ipa": {
+    "us": "ɪn'hju:m",
+    "uk": "ɪn'hjum"
+  },
+  "sentences": [
+    {
+      "en": "It's time to inhume the quondam and move above to a current tomorrow, \" it says.\"",
+      "cn": "从现在开始，埋葬过去，走向新的明天。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inhumation",
+          "tran_cn": " 土葬；埋葬"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bury",
+            "tomb"
+          ],
+          "tran_cn": "埋葬；土葬"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "埋葬；土葬",
+      "tran_en": "to inter; bury "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "埋葬，把…土葬"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inhumes"
+    ],
+    "past": [
+      "inhumed"
+    ],
+    "done": [
+      "inhumed"
+    ],
+    "ing": [
+      "inhuming"
+    ]
+  }
+}

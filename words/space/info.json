@@ -1,0 +1,313 @@
+{
+  "word": "space",
+  "ipa": {
+    "us": "speɪs",
+    "uk": "speɪs"
+  },
+  "sentences": [
+    {
+      "en": "Cairo has only thirteen square centimetres of green space for each inhabitant.",
+      "cn": "开罗居民的人均绿地面积仅13平方厘米。"
+    },
+    {
+      "en": "creatures from outer space",
+      "cn": "来自外太空的生物"
+    },
+    {
+      "en": "Firms need a breathing space if they are to recover.",
+      "cn": "这些公司需要短暂休整才能恢复元气。"
+    },
+    {
+      "en": "His objective was to kill the space station project altogether.",
+      "cn": "他的目的是使空间站项目全面停止。"
+    },
+    {
+      "en": "How much space is there on each disk?",
+      "cn": "每张磁盘有多大容量？"
+    },
+    {
+      "en": "I knew I'd never find a parking space in the Square.",
+      "cn": "我知道在广场上肯定找不到停车位。"
+    },
+    {
+      "en": "In 1957, the Soviets launched Sputnik 1 into outer space.",
+      "cn": "1957年，苏联人将“斯普特尼克1号”人造卫星送入了外层空间。"
+    },
+    {
+      "en": "Keep your office space looking good, particularly your desk.",
+      "cn": "保持办公环境的整洁，尤其是你的桌子。"
+    },
+    {
+      "en": "Large paintings can enhance the feeling of space in small rooms.",
+      "cn": "大型油画可以增加小房间的宽敞感。"
+    },
+    {
+      "en": "The Ariane space-rocket project has had a shining success.",
+      "cn": "阿里安航天火箭项目取得了辉煌的成功。"
+    },
+    {
+      "en": "The hedge takes up too much space .",
+      "cn": "这树篱占了太多的地方。"
+    },
+    {
+      "en": "The six astronauts on board will spend ten days in space.",
+      "cn": "飞船上的6名宇航员将在太空度过10天。"
+    },
+    {
+      "en": "The space underneath could be used as a storage area.",
+      "cn": "底下的空间可用作储藏区。"
+    },
+    {
+      "en": "The work space is a bare and cavernous warehouse.",
+      "cn": "工作场地是个空荡荡的大仓库。"
+    },
+    {
+      "en": "These zip-top bags are great space-savers if storage is limited.",
+      "cn": "如果可储藏的地方有限，这些拉环式背包能节省很大空间。"
+    },
+    {
+      "en": "They have been visited by creatures from outer space.",
+      "cn": "有外星人拜访了他们。"
+    },
+    {
+      "en": "They'd pulled the registry office down which then left an open space.",
+      "cn": "他们拆掉户籍登记处后，那里留下了一片空地。"
+    },
+    {
+      "en": "Watch this space for details of our next event.",
+      "cn": "请继续关注我们对下一事件的详细报道。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "spaced",
+          "tran_cn": " 隔开的；以规定距离排列的；间隔排列的"
+        },
+        {
+          "word": "spacial",
+          "tran_cn": " 空间的；存在于空间的；占地位的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "spacing",
+          "tran_cn": " 间隔；调节间隔；字距"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "spaced",
+          "tran_cn": " 隔开；空出（space的过去分词）"
+        },
+        {
+          "word": "spacing",
+          "tran_cn": " 分隔（space的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "area",
+            "dimension",
+            "expanse",
+            "extent",
+            "measure"
+          ],
+          "tran_cn": "空间;范围"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "area",
+            "atmosphere",
+            "breadth",
+            "compartment",
+            "daylight",
+            "dimension",
+            "distance",
+            "expanse",
+            "extent",
+            "field",
+            "heaven",
+            "measure",
+            "opening",
+            "region",
+            "room",
+            "storage",
+            "universe",
+            "vacancy",
+            "while",
+            "width",
+            "year"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "keep distance"
+          ],
+          "tran_cn": "留间隔"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "partition off",
+            "fence out"
+          ],
+          "tran_cn": "隔开"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "disk space",
+      "tran_cn": "[计]磁盘空间"
+    },
+    {
+      "phrase": "free space",
+      "tran_cn": "自由空间；空闲空间"
+    },
+    {
+      "phrase": "green space",
+      "tran_cn": "绿地；绿色空间"
+    },
+    {
+      "phrase": "in space",
+      "tran_cn": "在空间；在宇宙空间"
+    },
+    {
+      "phrase": "living space",
+      "tran_cn": "生存空间；居住面积"
+    },
+    {
+      "phrase": "office space",
+      "tran_cn": "办公地点"
+    },
+    {
+      "phrase": "open space",
+      "tran_cn": "空地；休憩用地；露天场所"
+    },
+    {
+      "phrase": "outer space",
+      "tran_cn": "n. 太空；外层空间"
+    },
+    {
+      "phrase": "public space",
+      "tran_cn": "公共空间；银行营业厅"
+    },
+    {
+      "phrase": "space between",
+      "tran_cn": "n. [计]间距"
+    },
+    {
+      "phrase": "space environment",
+      "tran_cn": "空间环境；太空环境；宇宙环境"
+    },
+    {
+      "phrase": "space flight",
+      "tran_cn": "航天；宇宙飞行"
+    },
+    {
+      "phrase": "space model",
+      "tran_cn": "空间模型；立体模型；空间点阵"
+    },
+    {
+      "phrase": "space shuttle",
+      "tran_cn": "航天飞机（往返于地球和太空站之间运载人和物资的）"
+    },
+    {
+      "phrase": "space station",
+      "tran_cn": "空间站，太空站"
+    },
+    {
+      "phrase": "space structure",
+      "tran_cn": "空间结构；立体结构"
+    },
+    {
+      "phrase": "state space",
+      "tran_cn": "状态矢量空间"
+    },
+    {
+      "phrase": "storage space",
+      "tran_cn": "贮存面积，存储空间；贮藏室"
+    },
+    {
+      "phrase": "time and space",
+      "tran_cn": "时间和空间"
+    },
+    {
+      "phrase": "underground space",
+      "tran_cn": "地下空间"
+    },
+    {
+      "phrase": "watch this space",
+      "tran_cn": "(非正式)关注进一步的发展"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "空间，开阔",
+      "tran_en": "the amount of an area, room, container etc that is empty or available to be used"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "太空",
+      "tran_en": "the amount of an area, room, container etc that is empty or available to be used"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "以一定间隔排列"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 把…隔开",
+      "tran_en": "to arrange objects or events so that they have equal spaces or periods of time between them"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "spaces"
+    ],
+    "third": [
+      "spaces"
+    ],
+    "past": [
+      "spaced"
+    ],
+    "done": [
+      "spaced"
+    ],
+    "ing": [
+      "spacing"
+    ]
+  }
+}

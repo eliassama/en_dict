@@ -1,0 +1,192 @@
+{
+  "word": "greeting",
+  "ipa": {
+    "us": "ˈɡriːtɪŋ",
+    "uk": "ˈɡriːtɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "He answered her greeting with a benedicite.",
+      "cn": "他以祝?卮鹚奈屎颉?"
+    },
+    {
+      "en": "He didn't even return my greeting.",
+      "cn": "他甚至不答理我."
+    },
+    {
+      "en": "He raised a hand in greeting.",
+      "cn": "他挥挥手打了个招呼。"
+    },
+    {
+      "en": "He took her hand in greeting and asked solicitously how everything was.",
+      "cn": "他握着她的手表示问候，关切地问她一切是否都好。"
+    },
+    {
+      "en": "He turned his sightless eyes their way and boomed out a greeting.",
+      "cn": "他将失明的双眼转向他们，低声打了个招呼。"
+    },
+    {
+      "en": "Her greeting was cold and strained.",
+      "cn": "她的问候冷淡而勉强."
+    },
+    {
+      "en": "Her greeting was less than enthusiastic.",
+      "cn": "她的问候一点都不热情。"
+    },
+    {
+      "en": "I nodded at him in greeting.",
+      "cn": "我向他点头打招呼."
+    },
+    {
+      "en": "I smiled a polite greeting, but the woman hardly acknowledged me.",
+      "cn": "我客气地笑着打了个招呼，可是那女人没有答理我。"
+    },
+    {
+      "en": "Livy thought Caroline's greeting seemed a little restrained.",
+      "cn": "莉薇觉得卡罗琳的问候似乎有些不冷不热。"
+    },
+    {
+      "en": "Please give my greeting to Miss Macleod.",
+      "cn": "请代我向麦克劳德小姐问候."
+    },
+    {
+      "en": "Please give my greeting to Ms. Macleod.",
+      "cn": "请代我向麦克劳德女士问候."
+    },
+    {
+      "en": "She exchanged a few words of greeting with the guests.",
+      "cn": "她同客人寒喧了几句."
+    },
+    {
+      "en": "She waved a friendly greeting.",
+      "cn": "她友好地挥手致意。"
+    },
+    {
+      "en": "She waved me a greeting.",
+      "cn": "她扬手跟我打招呼."
+    },
+    {
+      "en": "The two cousins exchanged greetings (= greeted each other ) .",
+      "cn": "表兄妹俩互相问候。"
+    },
+    {
+      "en": "There was a tinge of condescension in her greeting.",
+      "cn": "她的问候中带着一丝傲慢。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "greet",
+          "tran_cn": " 欢迎，迎接；致敬，致意；映入眼帘"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "acknowledgement",
+            "address",
+            "aloha",
+            "bob",
+            "bow",
+            "curtsy",
+            "genuflection",
+            "hail",
+            "halloo",
+            "handclasp",
+            "handshake",
+            "hello",
+            "nod",
+            "reception",
+            "salaam",
+            "salutation",
+            "salute",
+            "welcome"
+          ],
+          "tran_cn": "敬礼"
+        },
+        {
+          "words": [
+            "cable",
+            "letter",
+            "message",
+            "missive",
+            "note",
+            "telegram",
+            "tidings"
+          ],
+          "tran_cn": "贺辞"
+        },
+        {
+          "words": [
+            "best",
+            "compliments",
+            "devoirs",
+            "good",
+            "regards",
+            "respects",
+            "wishes"
+          ],
+          "tran_cn": "问候话,欢迎辞"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "admission",
+            "courtesy",
+            "response"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "welcoming"
+          ],
+          "tran_cn": "致敬，欢迎（greet的现在分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "greeting card",
+      "tran_cn": "贺卡"
+    },
+    {
+      "phrase": "season's greeting",
+      "tran_cn": "新年祝福；节日问候"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "问候，祝词",
+      "tran_en": "something you say or do when you meet someone"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "致敬，欢迎（greet的现在分词）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "greetings"
+    ]
+  }
+}

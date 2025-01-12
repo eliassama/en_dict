@@ -1,0 +1,252 @@
+{
+  "word": "translation",
+  "ipa": {
+    "us": "trænzˈleɪʃn",
+    "uk": "trænzˈleɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "A literal translation of the name Tapies is \"walls.\"",
+      "cn": "Tapies这个名字直译过来是“墙”。"
+    },
+    {
+      "en": "an error in translation",
+      "cn": "误译"
+    },
+    {
+      "en": "He believed in the students being taught on the translation method.",
+      "cn": "他觉得用翻译法教学生比较好."
+    },
+    {
+      "en": "He is deep in translation.",
+      "cn": "他在翻译方面有很深的造诣."
+    },
+    {
+      "en": "I read the book in translation, not in the original Norwegian.",
+      "cn": "这本书我读的是译本, 不是挪威文原著."
+    },
+    {
+      "en": "I’ve only read ‘Madame Bovary’ in translation (= not in its original language ) .",
+      "cn": "我只读过《包法利夫人》的翻译本。"
+    },
+    {
+      "en": "It's just a very rough translation.",
+      "cn": "这只是一篇非常粗糙的译稿."
+    },
+    {
+      "en": "Lanny got a French translation of the seven plays.",
+      "cn": "兰尼有这七个戏剧的法文译本."
+    },
+    {
+      "en": "Much of the book’s humour has been lost in translation (= is no longer effective when translated ) .",
+      "cn": "本书的许多幽默元素已在翻译过程中丢失。"
+    },
+    {
+      "en": "Much of the wit is lost in translation.",
+      "cn": "很多诙谐的成分都在翻译中丢失了。"
+    },
+    {
+      "en": "She helped me with the translation.",
+      "cn": "她帮我翻译."
+    },
+    {
+      "en": "She read the letter and gave us a rough translation (= she did not translate everything exactly ) .",
+      "cn": "她看了信，给我们大概翻译了一下。"
+    },
+    {
+      "en": "The editor is giving explanatory notes to the translation.",
+      "cn": "编者在注解译文."
+    },
+    {
+      "en": "The translation does not quite correspond to the original.",
+      "cn": "译文不切原意."
+    },
+    {
+      "en": "This is a translation; the original is in French.",
+      "cn": "这是译文, 原文是法文."
+    },
+    {
+      "en": "Try to catch the elusive charm of the original in translation.",
+      "cn": "翻译时设法把握住原文中难以捉摸的风韵."
+    },
+    {
+      "en": "When a book goes into translation, all those linguistic subtleties get lost.",
+      "cn": "当一部书被翻译成另一种语言后，所有那些语言上的精妙之处就都丢失了。"
+    },
+    {
+      "en": "You can't really appreciate foreign literature in translation.",
+      "cn": "看翻译作品不能真正欣赏到外国文学原著的美妙之处。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "translatable",
+          "tran_cn": " 可译的；能译的；可转移的"
+        },
+        {
+          "word": "translational",
+          "tran_cn": " 平移的，直移的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "translator",
+          "tran_cn": " 译者；翻译器"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "translate",
+          "tran_cn": " 翻译"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "translate",
+          "tran_cn": " 翻译；转化；解释；转变为；调动"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "alteration",
+            "change",
+            "conversion",
+            "metamorphosis",
+            "reconstruction",
+            "remodification",
+            "transfiguration",
+            "transformation",
+            "transmutation"
+          ],
+          "tran_cn": "变化,变形,变更,改造"
+        },
+        {
+          "words": [
+            "deciphering",
+            "decoding",
+            "decryption",
+            "interpretation",
+            "transcription",
+            "transliteration"
+          ],
+          "tran_cn": "翻译"
+        },
+        {
+          "words": [
+            "paraphrase",
+            "rendering",
+            "rendition",
+            "rephrasing",
+            "rewording",
+            "transcript",
+            "version"
+          ],
+          "tran_cn": "译本,意译"
+        },
+        {
+          "words": [
+            "conveyance",
+            "elucidation",
+            "explanation",
+            "removal",
+            "transferal",
+            "transference",
+            "transportation"
+          ],
+          "tran_cn": "运输,传送,说明"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "construction"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "address translation",
+      "tran_cn": "地址转换；位址翻译"
+    },
+    {
+      "phrase": "chinese translation",
+      "tran_cn": "中文翻译；中译本"
+    },
+    {
+      "phrase": "comprehension and translation",
+      "tran_cn": "理解与翻译"
+    },
+    {
+      "phrase": "english translation",
+      "tran_cn": "英语翻译，英译本"
+    },
+    {
+      "phrase": "free translation",
+      "tran_cn": "意译"
+    },
+    {
+      "phrase": "language translation",
+      "tran_cn": "语言翻译（计算机用）"
+    },
+    {
+      "phrase": "liberal translation",
+      "tran_cn": "n. 意译法"
+    },
+    {
+      "phrase": "literal translation",
+      "tran_cn": "直译，直译法；逐字翻译"
+    },
+    {
+      "phrase": "lost in translation",
+      "tran_cn": "迷失东京（电影名称）"
+    },
+    {
+      "phrase": "machine translation",
+      "tran_cn": "机器翻译，计算机翻译；机骗译"
+    },
+    {
+      "phrase": "simultaneous translation",
+      "tran_cn": "同声传译；同步翻译"
+    },
+    {
+      "phrase": "translation group",
+      "tran_cn": "平移群；平动群"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "翻译，译文，转变",
+      "tran_en": "when you translate something, or something that has been translated"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "translations"
+    ]
+  }
+}

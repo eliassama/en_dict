@@ -1,0 +1,187 @@
+{
+  "word": "formalize",
+  "ipa": {
+    "us": "ˈfɔ:məlaɪz",
+    "uk": "ˈfɔrməlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Final arrangements for the takeover have yet to be formalized.",
+      "cn": "这次收购的最后协议还没有正式确定。"
+    },
+    {
+      "en": "Formalize a testing methodology; you'll test everything the same way and you'll get uniform results.",
+      "cn": "固化你的测试方法, 使用相同的方式测试所有的东西,这样你会得到一致的测试结果."
+    },
+    {
+      "en": "Formalize and obtain final acceptance for the project.",
+      "cn": "获得对项目的认同和正式接受."
+    },
+    {
+      "en": "That essentially would formalize existing reporting lines.",
+      "cn": "这与现有报导的说法基本吻合."
+    },
+    {
+      "en": "They decided to formalize their relationship by getting married.",
+      "cn": "他们决定结婚，正式确定关系。"
+    },
+    {
+      "en": "This article tried to formalize the basic theoretic structure for the further research.",
+      "cn": "本文试图为进一步研究构筑基本理论结构."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "formal",
+          "tran_cn": " 正式的；拘谨的；有条理的"
+        },
+        {
+          "word": "formalistic",
+          "tran_cn": " 形式主义的，呆板的"
+        },
+        {
+          "word": "formalized",
+          "tran_cn": " 形式化的；正式的"
+        },
+        {
+          "word": "formative",
+          "tran_cn": " 形成的；造型的；格式化的"
+        },
+        {
+          "word": "former",
+          "tran_cn": " 从前的，前者的；前任的"
+        },
+        {
+          "word": "formless",
+          "tran_cn": " 没有形状的；无定形的；形体不明的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "formally",
+          "tran_cn": " 正式地；形式上"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "form",
+          "tran_cn": " 形式，形状；形态，外形；方式；表格"
+        },
+        {
+          "word": "formal",
+          "tran_cn": " 正式的社交活动；夜礼服"
+        },
+        {
+          "word": "formalism",
+          "tran_cn": " 形式主义；形式体系"
+        },
+        {
+          "word": "formality",
+          "tran_cn": " 礼节；拘谨；仪式；正式手续"
+        },
+        {
+          "word": "formalization",
+          "tran_cn": " 形式化；礼仪化"
+        },
+        {
+          "word": "format",
+          "tran_cn": " 格式；版式；开本"
+        },
+        {
+          "word": "formative",
+          "tran_cn": " 构词要素"
+        },
+        {
+          "word": "formatting",
+          "tran_cn": " 格式化"
+        },
+        {
+          "word": "former",
+          "tran_cn": " 模型，样板；起形成作用的人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "formalized",
+          "tran_cn": " 使正式；使有效（formalize的过去分词）；使定形；拘泥于形式"
+        },
+        {
+          "word": "formatting",
+          "tran_cn": " 规定…的格式（format的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "form",
+          "tran_cn": " 形成，构成；排列"
+        },
+        {
+          "word": "format",
+          "tran_cn": " 设计版式"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "form",
+          "tran_cn": " 构成，组成；排列，组织；产生，塑造"
+        },
+        {
+          "word": "format",
+          "tran_cn": " 使格式化；规定…的格式"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使正式, 形式化",
+      "tran_en": "to make a plan, decision, or idea official, especially by deciding and clearly describing all the details"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "拘泥于形式"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使正式，形式化，拘泥形式"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "formalizes"
+    ],
+    "past": [
+      "formalized"
+    ],
+    "done": [
+      "formalized"
+    ],
+    "ing": [
+      "formalizing"
+    ],
+    "noun": [
+      "formalization"
+    ]
+  }
+}

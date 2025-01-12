@@ -1,0 +1,85 @@
+{
+  "word": "spall",
+  "ipa": {
+    "us": "spɔ:l",
+    "uk": "spɔl"
+  },
+  "sentences": [
+    {
+      "en": "An insulation material which could automatically spall off the equipment at excessive temperatures was introduced.",
+      "cn": "文章介绍了一种能够超温自动脱落的保温材料."
+    },
+    {
+      "en": "However, the alumina layers spall as the temperature increases.",
+      "cn": "但是, 氧化铝层剥落的温度升高."
+    },
+    {
+      "en": "That hole was caused by spall blow - out.",
+      "cn": "那个洞就是被碎片打穿的."
+    },
+    {
+      "en": "The spall that blew out the back caused the water jug to leak.",
+      "cn": "头盔背后爆出的碎片把水桶打的漏水了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "spallation",
+          "tran_cn": " [核] 散裂；分裂；[核] 蜕变；碎裂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "debris",
+            "chip"
+          ],
+          "tran_cn": "碎片；残瓦破片"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "chip"
+          ],
+          "tran_cn": "碎裂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "crumb"
+          ],
+          "tran_cn": "弄碎；使层层剥落"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（尤指岩石的）碎片，裂片",
+      "tran_en": "a splinter or chip of ore, rock, or stone "
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "弄碎，击碎（矿石）"
+    }
+  ],
+  "exchange": {}
+}

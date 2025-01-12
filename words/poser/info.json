@@ -1,0 +1,120 @@
+{
+  "word": "poser",
+  "ipa": {
+    "us": "ˈpəʊzə(r)",
+    "uk": "ˈpoʊzə(r)"
+  },
+  "sentences": [
+    {
+      "en": "A movie star? What a poser!",
+      "cn": "电影明星? 真是耍大牌!"
+    },
+    {
+      "en": "Du Mu is a famous poet and poser in the late Tang Dynasty.",
+      "cn": "杜牧是晚唐时期著名的诗人与散文家."
+    },
+    {
+      "en": "He's such a poser.",
+      "cn": "他太做作。"
+    },
+    {
+      "en": "Here is a little poser for you.",
+      "cn": "考你一道小智力题。"
+    },
+    {
+      "en": "In developing CAPP system, the automatic generation of operation drawings is a key poser technologically.",
+      "cn": "在开发CAPP系统时, 工序图的自动生成是一项关键性技术难题."
+    },
+    {
+      "en": "That's quite a poser!",
+      "cn": "那事真伤脑筋!"
+    },
+    {
+      "en": "The dilemma presented quite a poser.",
+      "cn": "困境给人很大的难题."
+    },
+    {
+      "en": "Who does she think she is A movie star? What a poser!",
+      "cn": "她以为她是谁呀?电影明星? 真是耍大牌!"
+    },
+    {
+      "en": "You meet a lot of posers in this job.",
+      "cn": "做这份工作你会遇到很多装腔作势的人。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pose",
+          "tran_cn": " 姿势，姿态；装模作样"
+        },
+        {
+          "word": "poseur",
+          "tran_cn": " 装模作样的人；装腔作势的人"
+        },
+        {
+          "word": "position",
+          "tran_cn": " 位置，方位；职位，工作；姿态；站位；vt. 安置；把……放在适当位置"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "pose",
+          "tran_cn": " 造成，形成；摆姿势；装模作样；提出…讨论"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "pose",
+          "tran_cn": " 摆姿势；佯装；矫揉造作"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "difficult problem",
+            "conundrum"
+          ],
+          "tran_cn": "难题；装腔作势者；不易处理的事"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "knot"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<非正>难题，困难，棘手的事，<贬>装腔作势的人",
+      "tran_en": "someone who pretends to have a quality or social position they do not really have, usually in order to make people notice or admire them"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "posers"
+    ]
+  }
+}

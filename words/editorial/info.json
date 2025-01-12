@@ -1,0 +1,208 @@
+{
+  "word": "editorial",
+  "ipa": {
+    "us": "ˌedɪˈtɔːriəl",
+    "uk": "ˌedɪˈtɔːriəl"
+  },
+  "sentences": [
+    {
+      "en": "A Wall Street Journal editorial encapsulated the views of many conservatives.",
+      "cn": "《华尔街日报》的一篇社论概述了很多保守派人士的观点。"
+    },
+    {
+      "en": "an editorial assistant",
+      "cn": "编辑助理"
+    },
+    {
+      "en": "He has been on the editorial staff of \"Private Eye\" since 1963.",
+      "cn": "自1963年以来，他一直是《第三只眼》杂志的编辑。"
+    },
+    {
+      "en": "He has said he will fire editorial employees without regard to seniority.",
+      "cn": "他说过不管资历如何，任何编辑人员他都有可能解雇。"
+    },
+    {
+      "en": "He turned to an editorial and began reading it with interest.",
+      "cn": "他翻到里面的一篇论文,津津有味地读起来."
+    },
+    {
+      "en": "I was promoted to editor and then editorial director.",
+      "cn": "我先是被提升为编辑，然后又晋升为编务总监。"
+    },
+    {
+      "en": "In an editorial, The Independent suggests the victory could turn nasty.",
+      "cn": "《独立报》在一篇社论中暗示这场胜利可能会变味。"
+    },
+    {
+      "en": "In an editorial, The New York Times suggests the victory could turn nasty.",
+      "cn": "在一篇社论中，《纽约时报》认为该胜利会转成恶梦。"
+    },
+    {
+      "en": "Last night I read the editorial over again.",
+      "cn": "我昨晚又重读了那篇社论."
+    },
+    {
+      "en": "She is an editorial powerhouse.",
+      "cn": "她是个效率很高的编辑."
+    },
+    {
+      "en": "The chief editorial writer also blames weak leadership for the current crisis.",
+      "cn": "首席社论员也把当前的危机归咎于领导层软弱无力。"
+    },
+    {
+      "en": "The community besieged the newspaper with letters about its recent editorial.",
+      "cn": "公众纷纷来信对报社新近发表的社论提出诘问,弄得报社应接不暇."
+    },
+    {
+      "en": "The editorial had an antiunion slant.",
+      "cn": "这篇社论有一种反工会的倾向."
+    },
+    {
+      "en": "The editorial is entitled \" ... \" .",
+      "cn": "这篇社论的 题目 是《.. . 》."
+    },
+    {
+      "en": "the magazine's editorial staff",
+      "cn": "杂志的全体编辑人员"
+    },
+    {
+      "en": "We now bring you the full text of the Renmin Ribao editorial.",
+      "cn": "现在全文广播《人民日报》社论."
+    },
+    {
+      "en": "Your editorial blithely ignores the hard facts.",
+      "cn": "你的社论全然无视铁一般的事实。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "editorially",
+          "tran_cn": " 以编辑身份地；以社论形式"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "edit",
+          "tran_cn": " 编辑工作"
+        },
+        {
+          "word": "editor",
+          "tran_cn": " 编者，编辑；社论撰写人；编辑装置"
+        },
+        {
+          "word": "editorialist",
+          "tran_cn": " 主笔；撰写社论者"
+        },
+        {
+          "word": "editorship",
+          "tran_cn": " 编辑；校订；编辑或主笔地位"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "editorialize",
+          "tran_cn": " 发表社论；（在报纸等的文章中）加编者按语"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "edit",
+          "tran_cn": " 编辑；校订"
+        },
+        {
+          "word": "editorialize",
+          "tran_cn": " （就某事）发表社论；插入主观评论"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "compilatory"
+          ],
+          "tran_cn": "编辑的；社论的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "article",
+            "column",
+            "commentary",
+            "essay",
+            "opinion",
+            "piece",
+            "think"
+          ],
+          "tran_cn": "社论"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "critique",
+            "writing"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "editorial board",
+      "tran_cn": "编辑委员；编辑部"
+    },
+    {
+      "phrase": "editorial committee",
+      "tran_cn": "编委会"
+    },
+    {
+      "phrase": "editorial office",
+      "tran_cn": "编辑部；编辑室"
+    },
+    {
+      "phrase": "editorial staff",
+      "tran_cn": "编辑人员"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "编辑的，社论的",
+      "tran_en": "relating to the preparation of a newspaper, book, television programme etc for printing or broadcasting"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "社论，评论",
+      "tran_en": "a piece of writing in a newspaper that gives the editor’s opinion about something, rather than reporting facts"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "editorials"
+    ]
+  }
+}

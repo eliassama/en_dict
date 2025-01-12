@@ -1,0 +1,151 @@
+{
+  "word": "forbidden",
+  "ipa": {
+    "us": "fəˈbɪdn",
+    "uk": "fərˈbɪdn"
+  },
+  "sentences": [
+    {
+      "en": "Divorce? It was such a forbidden word.",
+      "cn": "离婚？这个词可不能轻易说出口。"
+    },
+    {
+      "en": "He has expressly forbidden her to go out on her own.",
+      "cn": "他已经明确禁止她独自外出。"
+    },
+    {
+      "en": "It is strictly forbidden to obtain confessions and to give them credence.",
+      "cn": "严禁逼供信."
+    },
+    {
+      "en": "Jockeys are forbidden to bet on the outcome of races.",
+      "cn": "职业赛马骑师禁止对赛马结果下注。"
+    },
+    {
+      "en": "Men fantasise as a substitute for acting out forbidden desires.",
+      "cn": "人类通过幻想宣泄压抑的欲望。"
+    },
+    {
+      "en": "Photography is strictly forbidden in the museum.",
+      "cn": "博物馆内严禁摄影。"
+    },
+    {
+      "en": "Prostitutes were forbidden to solicit on public roads and in public places.",
+      "cn": "禁止妓女在马路上和公共场所公然拉客。"
+    },
+    {
+      "en": "Sex was always a forbidden topic.",
+      "cn": "性在过去一直是个禁忌话题。"
+    },
+    {
+      "en": "She was expressly forbidden to touch my papers.",
+      "cn": "已经明确禁止她动我的文件。"
+    },
+    {
+      "en": "Smoking is forbidden here. Please put your cigarette out.",
+      "cn": "这里禁止吸烟, 请将您的烟熄灭."
+    },
+    {
+      "en": "Smoking was forbidden everywhere.",
+      "cn": "到处都禁止吸烟。"
+    },
+    {
+      "en": "The staff are forbidden to tender for private-sector work.",
+      "cn": "工作人员不得投标承接私营部门的工作。"
+    },
+    {
+      "en": "The war was a forbidden subject.",
+      "cn": "战争曾经是人们避讳的话题。"
+    },
+    {
+      "en": "They were forbidden to unionize.",
+      "cn": "他们被禁止成立工会。"
+    },
+    {
+      "en": "This was a forbidden area for foreigners.",
+      "cn": "这里曾经禁止外国人进入。"
+    },
+    {
+      "en": "We were forbidden, under pain of imprisonment, to use our native language.",
+      "cn": "我们被禁止使用母语，违者将被关进监狱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "forbidding",
+          "tran_cn": " 令人生畏的；严峻的；险恶的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "forbiddance",
+          "tran_cn": " 禁令；禁止"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "forbidding",
+          "tran_cn": " 禁止；不准（forbid的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "forbid",
+          "tran_cn": " 禁止；妨碍，阻止"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "barred",
+            "embargoed"
+          ],
+          "tran_cn": "被禁止的；严禁的，[计]禁用的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "forbidden band",
+      "tran_cn": "[化]禁带"
+    },
+    {
+      "phrase": "forbidden city",
+      "tran_cn": "紫禁城"
+    },
+    {
+      "phrase": "forbidden fruit",
+      "tran_cn": "禁果；非法的欢愉"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不允许的，被禁止的，禁用的",
+      "tran_en": "not allowed, especially because of an official rule"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "禁止( forbid的过去分词)"
+    }
+  ],
+  "exchange": {}
+}

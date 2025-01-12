@@ -1,0 +1,132 @@
+{
+  "word": "underscore",
+  "ipa": {
+    "us": "ˌʌndəˈskɔ:(r)",
+    "uk": "ˌʌndərˈskɔ(r)"
+  },
+  "sentences": [
+    {
+      "en": "A word character is any letter, decimal digit, or punctuation connector such as the underscore.",
+      "cn": "单词字符是任何字母 、 十进制数字或标点连接符(如下划线)."
+    },
+    {
+      "en": "Begin with a letter, and use letters, numbers, and the underscore ( _ ), but no spaces.",
+      "cn": "以字母开头, 并且可以使用字母 、 数字和下划线 ( _ ), 但不能含有空格."
+    },
+    {
+      "en": "Both studies underscore that the animals may be born with spatial cognitive abilities.",
+      "cn": "这两项研究均指出动物刚出生时可能已具备空间认知能力."
+    },
+    {
+      "en": "But I want to underscore that we are back to stay.",
+      "cn": "但我要强调的是,我们不仅重返,而且会留下来."
+    },
+    {
+      "en": "Cigarettepackets will carry a pirate - like skull and cross bones to underscore the public - health hazard.",
+      "cn": "香烟包装将带有如同海盗标志的骷髅头和交叉腿骨图案,以强调香烟对公共卫生的危害."
+    },
+    {
+      "en": "Field names can contain only letters, numbers, or the underscore character.",
+      "cn": "字段名称只能包含字母 、 数字或下划线字符."
+    },
+    {
+      "en": "Fresh figures underscore how last year conservative money managers and investors left money on the table.",
+      "cn": "最新数据显示了去年行为保守的基金管理人和投资者的业绩."
+    },
+    {
+      "en": "Note: The dash { - } and the underscore { _ } may also be used.",
+      "cn": "注意: 还可以使用破折号“ - ”和下划线“_”."
+    },
+    {
+      "en": "Several ominous braids hang from his shoulder -- trophies from fallen prey underscore this hunter's lethality.",
+      "cn": "他的肩膀上挂着一些穗状物——都是从他的猎物那里得到的战利品 —— 是他致命性的有力证据."
+    },
+    {
+      "en": "Surveys of executives'agendas underscore how much can change in a short period.",
+      "cn": "对企业高管日程的调查突显出,短时期内可能发生多大变化."
+    },
+    {
+      "en": "The Labor Department figures underscore the shaky state of the economic recovery.",
+      "cn": "劳工部的数据进一步印证了经济复苏状况的不稳定。"
+    },
+    {
+      "en": "The Labour Department figures underscore the shaky state of the economic recovery.",
+      "cn": "劳工部的数字突出显示了经济复苏的不稳定。"
+    },
+    {
+      "en": "These results underscore the value of rescue medications in averting psychotic relapse.",
+      "cn": "这些结果显示了救护性治疗对避免精神病复发的价值."
+    },
+    {
+      "en": "This light - hearted award helps underscore just how dominant the World No. 1 player was in 2006.",
+      "cn": "这个不那么严肃的奖项更能看出2006年世界头号选手的实力."
+    },
+    {
+      "en": "This parameter specifies the prefix . The prefix is automatically separated from the array key underscore character.",
+      "cn": "函数的作用是:返回字符串键名全为小写或大写的数组说明."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bobbin thread",
+            "bottom-line"
+          ],
+          "tran_cn": "底线，[计]下划线"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accentuate",
+            "emphasize",
+            "highlight"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "emphasize",
+            "stress",
+            "highlight"
+          ],
+          "tran_cn": "强调；划线于…下"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "下划线，底线"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "强调，突出，在（字词、句子等）下画线",
+      "tran_en": "to emphasize the fact that something is important or true"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 强调； 在…之下画线",
+      "tran_en": "to emphasize the fact that something is important or true"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "underscores"
+    ]
+  }
+}

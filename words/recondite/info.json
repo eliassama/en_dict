@@ -1,0 +1,77 @@
+{
+  "word": "recondite",
+  "ipa": {
+    "us": "ˈrekəndaɪt",
+    "uk": "ˈrɛkənˌdaɪt, rɪˈkɑnˌdaɪt"
+  },
+  "sentences": [
+    {
+      "en": "Although the calculation method of the average value is simple but its meaning is recondite.",
+      "cn": "平均值的计算方法虽然十分简单,但是,它的内涵却并不是十分简单."
+    },
+    {
+      "en": "Her poems are modishly experi-mental in style and recondite in subject-matter.",
+      "cn": "她的诗在风格上是时髦的实验派，主题艰深难懂。"
+    },
+    {
+      "en": "Her poems are modishly experimental in style and recondite in subject matter.",
+      "cn": "她的诗在风格上时尚朦胧，在主题上深奥难懂。"
+    },
+    {
+      "en": "Her poems are modishly experimental in style and recondite in subject-matter.",
+      "cn": "她的诗在风格上是时髦的实验派，主题艰深难懂。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reconditeness",
+          "tran_cn": " 无名；深奥难懂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "hidden",
+            "unknown",
+            "abstract",
+            "deep",
+            "latent"
+          ],
+          "tran_cn": "深奥的；隐藏的；默默无闻的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abstruse",
+            "complicated",
+            "deep",
+            "enigmatic",
+            "mysterious"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "深奥的，晦涩的，高深",
+      "tran_en": "recondite facts or subjects are not known about or understood by many people"
+    }
+  ],
+  "exchange": {}
+}

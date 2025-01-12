@@ -1,0 +1,85 @@
+{
+  "word": "hurdling",
+  "ipa": {
+    "us": "ˈhɜ:dlɪŋ",
+    "uk": "ˈhɜrdlɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Davis won the 400 metre hurdles in a new Olympic time of 49.3 sec.",
+      "cn": "戴维斯以49.3秒这一新的奥运会记录在400米跨栏赛跑中夺冠。"
+    },
+    {
+      "en": "Hurdling events are dashes in which competitions must clear a series of ten barriers called hurdles.",
+      "cn": "在跨栏项目中,运动员需要跨过十个栏."
+    },
+    {
+      "en": "Hurdling events are dashes in which competitors must clear a series of ten barriers called hurdles.",
+      "cn": "在跨栏跑项目中运动员需要跨过十个栏."
+    },
+    {
+      "en": "The running and hurdling competitions make up the track events.",
+      "cn": "径赛项目有跑步和障碍两种."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hurdle",
+          "tran_cn": " 障碍；栏；跳栏"
+        },
+        {
+          "word": "hurdler",
+          "tran_cn": " 制造竹篱笆者；跳栏比赛选手"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "hurdle",
+          "tran_cn": " 克服；跳过"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hurdle",
+          "tran_cn": " 克服"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "hurdle race"
+          ],
+          "tran_cn": "跳栏赛跑"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hurdle race",
+      "tran_cn": "n. 障碍竞赛；跳栏赛跑"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "跳栏赛跑",
+      "tran_en": "the sport of racing over hurdles"
+    }
+  ],
+  "exchange": {}
+}

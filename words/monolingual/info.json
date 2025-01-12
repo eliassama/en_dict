@@ -1,0 +1,50 @@
+{
+  "word": "monolingual",
+  "ipa": {
+    "us": "ˌmɒnəˈlɪŋgwəl",
+    "uk": "ˌmɑnəˈlɪŋgwəl"
+  },
+  "sentences": [
+    {
+      "en": "a monolingual dictionary",
+      "cn": "单语词典"
+    },
+    {
+      "en": "But monolingual adults need to be reminded of the past too.",
+      "cn": "但我们也有必要让那些单语的成年人知道新加坡的历史."
+    },
+    {
+      "en": "Computers are monolingual: they need us to make that translation.",
+      "cn": "计算机是语只使用一种语言的设备: 他需要我们来翻译."
+    },
+    {
+      "en": "The current work focuses on the derivation of definition primitives from a monolingual dictionary.",
+      "cn": "文中主要讨论了从单语词典中获取定义原语的方法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "monomorphemic",
+          "tran_cn": " 单语素结构的"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<术>单语的，只用一种语言的",
+      "tran_en": "speaking or using only one language"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "只用一种语言的人"
+    }
+  ],
+  "exchange": {}
+}

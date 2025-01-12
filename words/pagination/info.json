@@ -1,0 +1,92 @@
+{
+  "word": "pagination",
+  "ipa": {
+    "us": "ˌpædʒɪˈneɪʃn",
+    "uk": "ˌpædʒəˈneʃən"
+  },
+  "sentences": [
+    {
+      "en": "It presents the full text on one page, without the pagination links.",
+      "cn": "它将全文呈现在同一页面，而不显示页码链接。"
+    },
+    {
+      "en": "Model data pagination and sorting.",
+      "cn": "模型数据的分页及排序."
+    },
+    {
+      "en": "Number of items to render in the control. The value '0'indicates automatic pagination.",
+      "cn": "要在控件中呈现的项数. 值“0”表示自动分页."
+    },
+    {
+      "en": "Pagination : The numbering of the make - up pages in consecutive order of a book.",
+      "cn": "编页码: 在拼版后的书页加上顺序页码的情况."
+    },
+    {
+      "en": "The value '0'indicates automatic pagination.",
+      "cn": "值“0”表示自动分页."
+    },
+    {
+      "en": "Web pagination technology separated into two types of temporary Recordset and storage procedure.",
+      "cn": "Web分页技术分为临时记录集和存储过程分页."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "page",
+          "tran_cn": " 页；记录；大事件，时期；男侍者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "page",
+          "tran_cn": " 翻书页，浏览"
+        },
+        {
+          "word": "paginate",
+          "tran_cn": " 随意翻阅"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "page",
+          "tran_cn": " 给…标页码"
+        },
+        {
+          "word": "paginate",
+          "tran_cn": " 为…标页数"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "folio"
+          ],
+          "tran_cn": "标记页数；[印刷]页码"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<术>页码，页码标注，编页码，标注页码",
+      "tran_en": "the process of giving a number to each page of a book, magazine etc"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,135 @@
+{
+  "word": "demean",
+  "ipa": {
+    "us": "dɪˈmi:n",
+    "uk": "dɪˈmin"
+  },
+  "sentences": [
+    {
+      "en": "Do you think he would demean himself by accepting a bribe?",
+      "cn": "你以为他会接受贿赂辱没自己 吗 ?"
+    },
+    {
+      "en": "Don't demean yourself by doing anything dishonourable.",
+      "cn": "不要做出任何不光彩的事情而有失自己身份."
+    },
+    {
+      "en": "Don't demean yourself by telling such obvious lies.",
+      "cn": "你不要用这种明显的谎言自贬人格."
+    },
+    {
+      "en": "He felt he would demean himself if he replied to scurrilous letter.",
+      "cn": "他觉得如果他回复那封充满辱骂的信,会自贬身份."
+    },
+    {
+      "en": "I wouldn't demean myself by asking for charity.",
+      "cn": "我决不低三下四地乞求施舍。"
+    },
+    {
+      "en": "I wouldn't demean myself to ask for favours from them.",
+      "cn": "我不会降低身分向他们求情."
+    },
+    {
+      "en": "language that demeans women",
+      "cn": "侮辱女性的语言"
+    },
+    {
+      "en": "One to see one's colleagues demean themselves way.",
+      "cn": "谁也不想看到自己的同事这样放下身段."
+    },
+    {
+      "en": "Some groups say that pornography demeans women and incites rape.",
+      "cn": "一些组织声称色情作品贬低妇女，并引发强奸案。"
+    },
+    {
+      "en": "You must demean yourself properly.",
+      "cn": "你必须举止适宜."
+    },
+    {
+      "en": "You will demean yourself if you agree to the terms of the contract.",
+      "cn": "要是你同意契约的条款,就等于瞧不起自己."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "demeaning",
+          "tran_cn": " 降低身份的；有损人格的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "demeanor",
+          "tran_cn": " 风度；举止；行为"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "demeaning",
+          "tran_cn": " 有损…的人格（demean的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abase",
+            "behave",
+            "dishonor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bear oneself",
+            "deport"
+          ],
+          "tran_cn": "贬低...的身分；举止"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "举止, 贬低身份",
+      "tran_en": "to do something that makes people lose respect for someone or something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使降低身份，使卑下"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "demeans"
+    ],
+    "past": [
+      "demeaned"
+    ],
+    "done": [
+      "demeaned"
+    ],
+    "ing": [
+      "demeaning"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "word": "filly",
+  "ipa": {
+    "us": "ˈfɪli",
+    "uk": "ˈfɪli"
+  },
+  "sentences": [
+    {
+      "en": "Filly female horse that is 4 years old or under.",
+      "cn": "小雌马–一匹四岁或更年青的雌马."
+    },
+    {
+      "en": "The filly has been raced twice this season.",
+      "cn": "这匹小牝马本季度曾两次参赛."
+    },
+    {
+      "en": "What your mare always gives you when you want a filly.",
+      "cn": "当你想要母驹的时候,母马总给你生的东西."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fille",
+          "tran_cn": " （法）少女；女佣；姑娘"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "colt",
+            "female",
+            "mare"
+          ],
+          "tran_cn": "小雌马"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "doll",
+            "mare"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "小雌马",
+      "tran_en": "a young female horse"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "fillies"
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "word": "tack",
+  "ipa": {
+    "us": "tæk",
+    "uk": "tæk"
+  },
+  "sentences": [
+    {
+      "en": "...a box of carpet tacks.",
+      "cn": "…一盒地毯钉。"
+    },
+    {
+      "en": "a complete change of tack",
+      "cn": "方法的完全改变"
+    },
+    {
+      "en": "A handwritten note was tacked to the wall.",
+      "cn": "一张手写便条钉在墙上。"
+    },
+    {
+      "en": "He had tacked this note to her door.",
+      "cn": "他已经把这张便条用图钉钉在了她的门上。"
+    },
+    {
+      "en": "He is hammering a tack into the wall to hang a picture.",
+      "cn": "他正往墙上钉一枚平头钉用来挂画."
+    },
+    {
+      "en": "If that doesn’t work, we’ll try a different tack .",
+      "cn": "如果那样不行，我们将试试别的方法。"
+    },
+    {
+      "en": "If you can't persuade him, try a new tack.",
+      "cn": "如果你不能劝服他, 那就试试新的方法吧."
+    },
+    {
+      "en": "If you cannot persuade him, try a new tack and offer him money.",
+      "cn": "如果你说服不了他, 那就换一种方法,给他钱."
+    },
+    {
+      "en": "In desperation I changed tack.",
+      "cn": "我走投无路，于是改变了策略。"
+    },
+    {
+      "en": "Pull it off, put tack and paper in vest pocket.",
+      "cn": "把它撕下来连大头针一起放进背心口袋里."
+    },
+    {
+      "en": "Tack the cord around the cushion.",
+      "cn": "用粗线沿着垫子边绷一圈。"
+    },
+    {
+      "en": "Tack them together with a 1.5 cm seam.",
+      "cn": "用1.5厘米的针脚将它们暂时缝上。"
+    },
+    {
+      "en": "That line didn't seem to register, so I took another tack.",
+      "cn": "看来这种说法不能引起他的注意, 我就采取另一种策略."
+    },
+    {
+      "en": "The captain ordered a change of tack.",
+      "cn": "船长下令改变航向."
+    },
+    {
+      "en": "The helmsman could tack the boat singlehanded.",
+      "cn": "舵手独自一人就能变换航向。"
+    },
+    {
+      "en": "They tack a truck on to the passenger train.",
+      "cn": "他们在客车屁股上挂一辆敞车,就算货车."
+    },
+    {
+      "en": "This here crew is on a wrong tack, I do believe.",
+      "cn": "我想我们刚才都算是一时糊涂."
+    },
+    {
+      "en": "This report takes a different tack from the 20 that have come before.",
+      "cn": "这份报告和此前的20份报告采取的思路不同。"
+    },
+    {
+      "en": "We were sailing on starboard tack.",
+      "cn": "我们正右舷抢风行驶."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tacky",
+          "tran_cn": "俗气的；发黏的；缺乏教养或风度的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tacker",
+          "tran_cn": "敲平头钉器；敲平头钉的人"
+        },
+        {
+          "word": "tacking",
+          "tran_cn": "定位焊；紧钉；顶风转向"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "tacking",
+          "tran_cn": "固定住；暂时缝上；附加；改变航向（tack的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "food",
+            "diet",
+            "eating"
+          ],
+          "tran_cn": "[五金]大头钉；粗缝；行动方针；食物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "add",
+            "affix",
+            "attach",
+            "clasp",
+            "deflect",
+            "direction",
+            "fasten",
+            "join",
+            "technique",
+            "track"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "add",
+            "affix",
+            "attach",
+            "clasp",
+            "fasten",
+            "join"
+          ],
+          "tran_cn": "钩住;附加"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bar tack",
+      "tran_cn": "讨价还价；打枣（一个工种名称）；加固套结"
+    },
+    {
+      "phrase": "on the port (或 starboard) tack",
+      "tran_cn": "(航海)左（或右）弦抢风"
+    },
+    {
+      "phrase": "sharp as a tack",
+      "tran_cn": "◎漂亮的，时髦的"
+    },
+    {
+      "phrase": "tack on",
+      "tran_cn": "附添；粗缝"
+    },
+    {
+      "phrase": "tack welding",
+      "tran_cn": "点焊，平头焊接"
+    },
+    {
+      "phrase": "take a different tack",
+      "tran_cn": "改变路子"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[航]食物，劣质材料，赝品，方针，方法，航向",
+      "tran_en": "a small nail with a sharp point and a flat top"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "钉住",
+      "tran_en": "to attach something to a wall, board etc, using a tack"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "帆船抢风行驶，用粗线脚缝"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用平头钉钉，附加，增补",
+      "tran_en": "If you tack something to a surface, you pin it there with tacks or thumbtacks"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tacks"
+    ],
+    "third": [
+      "tacks"
+    ],
+    "past": [
+      "tacked"
+    ],
+    "done": [
+      "tacked"
+    ],
+    "ing": [
+      "tacking"
+    ]
+  }
+}

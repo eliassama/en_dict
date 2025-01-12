@@ -1,0 +1,60 @@
+{
+  "word": "overlie",
+  "ipa": {
+    "us": "ˌəʊvəˈlaɪ",
+    "uk": "ˌoʊvərˈlaɪ"
+  },
+  "sentences": [
+    {
+      "en": "Clay overlies chalk in the southern mountains.",
+      "cn": "在南部山脉，黏土层覆在白垩层之上。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "overlying",
+          "tran_cn": " 上覆盖的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "overlying",
+          "tran_cn": " 上覆盖，叠加（overlie的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "躺在…上面；覆在…上面；压在（婴儿、幼仔）身上使之窒息而死",
+      "tran_en": "to lie over something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "躺在…上面"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "overlies"
+    ],
+    "past": [
+      "overlay"
+    ],
+    "done": [
+      "overlain"
+    ],
+    "ing": [
+      "overlying"
+    ]
+  }
+}

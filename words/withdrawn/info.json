@@ -1,0 +1,180 @@
+{
+  "word": "withdrawn",
+  "ipa": {
+    "us": "wɪðˈdrɔ:n",
+    "uk": "wɪðˈdrɔn, wɪθ-"
+  },
+  "sentences": [
+    {
+      "en": "After his wife’s death he became more and more withdrawn.",
+      "cn": "妻子去世后，他变得越来越自闭。"
+    },
+    {
+      "en": "He became very withdrawn and broody.",
+      "cn": "他变得非常沉默抑郁。"
+    },
+    {
+      "en": "He's been very quiet and withdrawn, sort of different, somehow.",
+      "cn": "不知什么缘故，他最近十分沉默，有点异样。"
+    },
+    {
+      "en": "If fighting worsens, the troops might be reinforced, or ingloriously withdrawn.",
+      "cn": "如果战势恶化，军队可能得到增援，或不光彩地撤退。"
+    },
+    {
+      "en": "Interest earned on the account is not taxed until withdrawn.",
+      "cn": "这些钱产生的利息在提取之前不必纳税."
+    },
+    {
+      "en": "Mark was withdrawn and uncontrollable.",
+      "cn": "马克沉默寡言，难以管束。"
+    },
+    {
+      "en": "Only a small fraction of a bank's total deposits will be withdrawn at any one time.",
+      "cn": "任何时候，一家银行的总存款只有少量会被提取。"
+    },
+    {
+      "en": "Our force has been withdrawn from the danger area.",
+      "cn": "我们的军队已从危险地区撤出."
+    },
+    {
+      "en": "Our forces have been withdrawn from the danger area.",
+      "cn": "我们的部队已经撤出危险地带."
+    },
+    {
+      "en": "The book was withdrawn for the offending passages to be deleted.",
+      "cn": "这本书因含有需要删除的问题章节而被撤回。"
+    },
+    {
+      "en": "The garrison was immediately withdrawn.",
+      "cn": "警卫部队被立即撤了回来."
+    },
+    {
+      "en": "The summons was withdrawn.",
+      "cn": "传票被撤回."
+    },
+    {
+      "en": "The troops are being gradually withdrawn.",
+      "cn": "部队正在慢慢地撤退."
+    },
+    {
+      "en": "They could have withdrawn into the mountain fastness of Eryri.",
+      "cn": "他们本可退到山中要塞埃利里去。"
+    },
+    {
+      "en": "They have withdrawn to a safer area.",
+      "cn": "他们已经撤退到更为安全的地带."
+    },
+    {
+      "en": "We have been withdrawn from the danger area.",
+      "cn": "我们已经撤离危险地带."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "withdrawable",
+          "tran_cn": " 可抽出的；可更换的；可拆卸的；能够提取的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "withdrawal",
+          "tran_cn": " 撤退，收回；提款；取消；退股"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "withdraw",
+          "tran_cn": " 撤退；离开"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "withdraw",
+          "tran_cn": " 撤退；收回；撤消；拉开"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "remote",
+            "lonely",
+            "alone"
+          ],
+          "tran_cn": "偏僻的；沉默寡言的；孤独的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abstracted",
+            "friendless",
+            "secluded"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "popped"
+          ],
+          "tran_cn": "取出；撤退（withdraw的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "withdraw cash",
+      "tran_cn": "取现；取钱"
+    },
+    {
+      "phrase": "withdraw from",
+      "tran_cn": "v. 退出；离开"
+    },
+    {
+      "phrase": "withdraw money",
+      "tran_cn": "取钱"
+    },
+    {
+      "phrase": "withdraw troops",
+      "tran_cn": "收兵，撤军"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "孤僻的，离群的，偏僻的",
+      "tran_en": "very shy and quiet, and concerned only about your own thoughts"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "取回，收回( withdraw的过去分词)"
+    }
+  ],
+  "exchange": {}
+}

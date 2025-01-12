@@ -1,0 +1,119 @@
+{
+  "word": "materialise",
+  "ipa": {
+    "us": "mə'tɪərɪəlaɪz",
+    "uk": "məˈtɪrɪəlˌaɪz"
+  },
+  "sentences": [
+    {
+      "en": "It has yet to materialise.",
+      "cn": "但这种说法仍未见端倪."
+    },
+    {
+      "en": "Its design thought and the approach to materialise it are discussed in particular in the paper.",
+      "cn": "重点阐述了加骨气相防锈纸的设计思想与实现方法."
+    },
+    {
+      "en": "Some , such as ExxonMobil, actually advocate a tax ( which is unlikely to materialise ) .",
+      "cn": "公司的评论倾向于“总量管制和排放交易”是一剂错误的 药方."
+    },
+    {
+      "en": "That became one day in three as the monsoon failed to materialise.",
+      "cn": "而今,因季风迟来变成了每三天才一次供水."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "material",
+          "tran_cn": " 重要的；物质的，实质性的；肉体的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "materially",
+          "tran_cn": " 实质地；物质上；极大地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "material",
+          "tran_cn": " 材料，原料；物资；布料"
+        },
+        {
+          "word": "materialism",
+          "tran_cn": " 唯物主义；唯物论；物质主义"
+        },
+        {
+          "word": "materialist",
+          "tran_cn": " 唯物主义者；实利主义者"
+        },
+        {
+          "word": "materiality",
+          "tran_cn": " 物质性，重要性；物质"
+        },
+        {
+          "word": "materialization",
+          "tran_cn": " 物质化；实体化；具体化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "materialize",
+          "tran_cn": " 实现，成形；突然出现"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "materialize",
+          "tran_cn": " 使具体化，使有形；使突然出现；使重物质而轻精神"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "crop up",
+            "break out in",
+            "burst in on"
+          ],
+          "tran_cn": "突然出现（等于materialize）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "物质化（等于materialize）"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "成形，实现"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使具体化，使有形，使突然出现，使重物质而轻精神"
+    }
+  ],
+  "exchange": {}
+}

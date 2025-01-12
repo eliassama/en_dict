@@ -1,0 +1,129 @@
+{
+  "word": "arrogate",
+  "ipa": {
+    "us": "ˈærəgeɪt",
+    "uk": "ˈærəˌɡet"
+  },
+  "sentences": [
+    {
+      "en": "Do not arrogate wrong intentions to your friends.",
+      "cn": "不要硬说你的朋友存心不良."
+    },
+    {
+      "en": "Don't arrogate evil motives to me.",
+      "cn": "不要栽脏给我."
+    },
+    {
+      "en": "Don't arrogate wrong intentions to your colleagues.",
+      "cn": "不要硬说你同事们动机不良."
+    },
+    {
+      "en": "Don't easily arrogate evil motives to others.",
+      "cn": "别轻易地认为他人存心不良."
+    },
+    {
+      "en": "Don't easily arrogate to others.",
+      "cn": "别轻易地硬说别人有坏心眼."
+    },
+    {
+      "en": "Rotation of arrogate to oneself leases a building, what responsibility should assume?",
+      "cn": "擅自转租房屋, 应承担什么责任?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "arrogation",
+          "tran_cn": " 诈称；僭越；霸占"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "pirate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "appropriate",
+            "assume",
+            "commandeer",
+            "take"
+          ],
+          "tran_cn": "冒称,擅取"
+        },
+        {
+          "words": [
+            "accuse",
+            "ascribe",
+            "assign",
+            "attribute",
+            "blame",
+            "charge",
+            "impute",
+            "inculpate",
+            "lay",
+            "to"
+          ],
+          "tran_cn": "指责,归咎"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "grab",
+            "commandeer"
+          ],
+          "tran_cn": "冒称；霸占；没来由地将…归属于"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "arrogate to oneself",
+      "tran_cn": "僭称；僭取"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "冒称",
+      "tran_en": "to claim that you have a particular right, position etc, without having the legal right to it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "冒称，妄取，没来由地把…归属（于）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "arrogates"
+    ],
+    "past": [
+      "arrogated"
+    ],
+    "done": [
+      "arrogated"
+    ],
+    "ing": [
+      "arrogating"
+    ]
+  }
+}

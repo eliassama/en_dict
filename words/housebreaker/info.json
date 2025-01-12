@@ -1,0 +1,93 @@
+{
+  "word": "housebreaker",
+  "ipa": {
+    "us": "'haʊsbreɪkə(r)",
+    "uk": "'haʊsbreɪkə(r)"
+  },
+  "sentences": [
+    {
+      "en": "The stranger was run off as a housebreaker.",
+      "cn": "那陌生人被当作入宅行窃者被轰走了."
+    },
+    {
+      "en": "When he heard a noise, the housebreaker ran out ( of the house ) .",
+      "cn": "入室 行窃者听到响声就跑掉了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "housebreaking",
+          "tran_cn": " 盗取；侵入家宅；拆屋"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "housebreaking",
+          "tran_cn": " 管教；破门而入；拆房（housebreak的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "housebreak",
+          "tran_cn": " 侵入家庭盗取；拆屋"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "housebreak",
+          "tran_cn": " 训练（家犬、家猫等）养成卫生习惯"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "robber",
+            "bandit"
+          ],
+          "tran_cn": "强盗，侵入家宅者；拆屋者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "burglar",
+            "robber"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "侵入家宅者，拆屋者，强盗侵入家宅者，强盗"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "housebreakers"
+    ]
+  }
+}

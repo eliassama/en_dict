@@ -1,0 +1,197 @@
+{
+  "word": "data",
+  "ipa": {
+    "us": "ˈdeɪtə",
+    "uk": "ˈdeɪtə"
+  },
+  "sentences": [
+    {
+      "en": "\"Data\" is the Latin plural form of \"datum\".",
+      "cn": "data在拉丁文中是datum的复数形式。"
+    },
+    {
+      "en": "A single CD-ROM can hold more than 500 megabytes of data.",
+      "cn": "一张只读存储光盘能容纳500兆以上的数据。"
+    },
+    {
+      "en": "All the data is then dumped into the main computer.",
+      "cn": "所有数据随后被转存至主计算机。"
+    },
+    {
+      "en": "Data is transmitted electronically.",
+      "cn": "数据以电子形式传送。"
+    },
+    {
+      "en": "Data recorders also pin-point mechanical faults rapidly, reducing repair times.",
+      "cn": "数据记录仪还能迅速查明机械故障，减少维修次数。"
+    },
+    {
+      "en": "If they value these data, let them pay for them.",
+      "cn": "他们要是看重这些数据，就让他们出钱买。"
+    },
+    {
+      "en": "It can translate data from maps or remote sensing instruments into images.",
+      "cn": "它可以把从地图或遥感设备中得到的数据转化成为图像。"
+    },
+    {
+      "en": "Other recommendations relate to the details of how such data is stored.",
+      "cn": "其他建议涉及此类信息储存方面的一些细节。"
+    },
+    {
+      "en": "The research involves collecting data from two random samples.",
+      "cn": "该项研究需要从两个随机样本里收集资料。"
+    },
+    {
+      "en": "The study was based on data from 2,100 women.",
+      "cn": "这项研究基于从2,100名女性那里收集来的资料。"
+    },
+    {
+      "en": "There are data on the rates of diffusion of molecules.",
+      "cn": "有关于分子扩散速度的数据。"
+    },
+    {
+      "en": "This validation process ensures that the data conforms to acceptable formats.",
+      "cn": "这一确认过程可以保证这些数据符合认可的格式。"
+    },
+    {
+      "en": "We gained a rich supply of data which would normally be inaccessible.",
+      "cn": "我们得到了通常难以获取的大量数据。"
+    },
+    {
+      "en": "We have reviewed the data that we hold for the area.",
+      "cn": "我们已经审核过为该地区保存的数据了。"
+    },
+    {
+      "en": "We were drowning in data but starved of information.",
+      "cn": "我们淹没在大量的数据中却找不到有用的信息。"
+    },
+    {
+      "en": "You can compress huge amounts of data on to a CD-ROM.",
+      "cn": "可以把大量的数据压缩到一张CD-ROM上。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "evidence",
+            "facts",
+            "grounds",
+            "information",
+            "proof"
+          ],
+          "tran_cn": "资料;事实"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "evidence",
+            "fact",
+            "information",
+            "knowledge",
+            "proof",
+            "scholarship"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "clinical data",
+      "tran_cn": "临床资料；临床数据"
+    },
+    {
+      "phrase": "data acquisition",
+      "tran_cn": "数据采集"
+    },
+    {
+      "phrase": "data analysis",
+      "tran_cn": "数据分析"
+    },
+    {
+      "phrase": "data base",
+      "tran_cn": "数据库（等于data bank）；基本数据；储存之资料"
+    },
+    {
+      "phrase": "data collection",
+      "tran_cn": "数据收集；资料收集"
+    },
+    {
+      "phrase": "data management",
+      "tran_cn": "数据管理"
+    },
+    {
+      "phrase": "data mining",
+      "tran_cn": "数据挖掘技术（即指从资料中发掘资讯或知识）"
+    },
+    {
+      "phrase": "data processing",
+      "tran_cn": "数据处理"
+    },
+    {
+      "phrase": "data structure",
+      "tran_cn": "数据结构"
+    },
+    {
+      "phrase": "data transmission",
+      "tran_cn": "数据传输"
+    },
+    {
+      "phrase": "data warehouse",
+      "tran_cn": "数据仓库"
+    },
+    {
+      "phrase": "experimental data",
+      "tran_cn": "实验数据；试验数据"
+    },
+    {
+      "phrase": "for data",
+      "tran_cn": "循环数据"
+    },
+    {
+      "phrase": "logging data",
+      "tran_cn": "记录数据，登录数据；存入数据"
+    },
+    {
+      "phrase": "measured data",
+      "tran_cn": "测量数据"
+    },
+    {
+      "phrase": "monitoring data",
+      "tran_cn": "监测数据"
+    },
+    {
+      "phrase": "personal data",
+      "tran_cn": "个人资料"
+    },
+    {
+      "phrase": "seismic data",
+      "tran_cn": "地震资料；地震数据"
+    },
+    {
+      "phrase": "statistical data",
+      "tran_cn": "统计数据"
+    },
+    {
+      "phrase": "test data",
+      "tran_cn": "测试数据；检查数据"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "数据，资料",
+      "tran_en": "information or facts"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,176 @@
+{
+  "word": "rainfall",
+  "ipa": {
+    "us": "ˈreɪnfɔːl",
+    "uk": "ˈreɪnfɔːl"
+  },
+  "sentences": [
+    {
+      "en": "Hot climate and plentiful rainfall favour the growth of plants.",
+      "cn": "炎热的气候和充足的雨水有助于植物生长."
+    },
+    {
+      "en": "Rainfall had dislodged debris from the slopes of the volcano.",
+      "cn": "雨水冲走了火山坡面上的岩屑。"
+    },
+    {
+      "en": "Rainfall has been above normal this July.",
+      "cn": "今年7月份降雨量高于正常."
+    },
+    {
+      "en": "Rainfall has been below average.",
+      "cn": "降雨量低于平均水平。"
+    },
+    {
+      "en": "Rainfall has been fairly well - distributed this year.",
+      "cn": "今年的雨水很均匀."
+    },
+    {
+      "en": "Rainfall is abundant in the region.",
+      "cn": "该地区降雨丰沛."
+    },
+    {
+      "en": "Rainfall is plentiful in the area.",
+      "cn": "这个地区雨量充足."
+    },
+    {
+      "en": "The amount of rainfall determines the quality of the crop.",
+      "cn": "降雨量决定着收成的好坏."
+    },
+    {
+      "en": "The annual rainfall in this area was less than 50 mm last year.",
+      "cn": "本地区去年的降雨量不足50毫米."
+    },
+    {
+      "en": "The city has received only half its average rainfall of four inches.",
+      "cn": "该市目前的降雨只有往常四英寸平均雨量的一半。"
+    },
+    {
+      "en": "The rainfall average s 800 mm . a year.",
+      "cn": "平均每年降雨量为800毫米."
+    },
+    {
+      "en": "The rainfall averages 1000 mm a year.",
+      "cn": "年平均降雨量为1000毫米."
+    },
+    {
+      "en": "The unusually heavy rainfall was an ill omen for the travellers.",
+      "cn": "异乎寻常的大雨是旅行者的不祥之兆."
+    },
+    {
+      "en": "There has been below average rainfall this month.",
+      "cn": "这个月的降雨低于平均降雨量。"
+    },
+    {
+      "en": "There have been four years of below average rainfall.",
+      "cn": "已经有4年降雨量低于平均值了。"
+    },
+    {
+      "en": "Victoria Falls has had above average levels of rainfall this year.",
+      "cn": "维多利亚瀑布今年的降雨量超过了平均水平。"
+    },
+    {
+      "en": "We’ve had a long period of low rainfall.",
+      "cn": "我们已有很长一段时间雨量偏低。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rainmaking",
+          "tran_cn": " 求雨的；造雨的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "raininess",
+          "tran_cn": " 多雨；雨量强度"
+        },
+        {
+          "word": "rainmaking",
+          "tran_cn": " 求雨；[气象] 人工降雨；翻云覆雨；使受委托人得到政治好处"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "moisture",
+            "precip"
+          ],
+          "tran_cn": "[气象]降雨；降雨量"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "shower"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "abundant rainfall",
+      "tran_cn": "过量降雨"
+    },
+    {
+      "phrase": "lack of rainfall",
+      "tran_cn": "缺雨，少雨"
+    },
+    {
+      "phrase": "moderate rainfall",
+      "tran_cn": "适度降雨量；中等雨量"
+    },
+    {
+      "phrase": "monsoon rainfall",
+      "tran_cn": "季风降雨；季风降水；季风雨量"
+    },
+    {
+      "phrase": "rainfall amount",
+      "tran_cn": "雨量"
+    },
+    {
+      "phrase": "rainfall distribution",
+      "tran_cn": "雨量分布"
+    },
+    {
+      "phrase": "rainfall duration",
+      "tran_cn": "降雨持续时间，降雨历时"
+    },
+    {
+      "phrase": "rainfall intensity",
+      "tran_cn": "降雨强度；降水强度；暴雨强度"
+    },
+    {
+      "phrase": "storm rainfall",
+      "tran_cn": "暴雨；风暴雨；暴雨量"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "降雨量，下雨",
+      "tran_en": "the amount of rain that falls on an area in a particular period of time"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rainfalls"
+    ]
+  }
+}

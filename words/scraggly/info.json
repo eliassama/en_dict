@@ -1,0 +1,83 @@
+{
+  "word": "scraggly",
+  "ipa": {
+    "us": "ˈskrægli",
+    "uk": "ˈskræɡli"
+  },
+  "sentences": [
+    {
+      "en": "his scraggly gray beard",
+      "cn": "他那散乱的灰白胡子"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "scraggy",
+          "tran_cn": " 瘦弱的；凸凹不平的；皮包骨的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "scrag",
+          "tran_cn": " 皮包骨的人或动物；弱不禁风的植物；脖子；羊颈肉（等于scragend）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "scrag",
+          "tran_cn": " 绞死；扼杀；排挤掉…"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "scattered",
+            "serrate"
+          ],
+          "tran_cn": "凸凹不平的；锯齿状的；散乱的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "rough"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "零乱的，锯齿状的，起伏的，凸凹不平的",
+      "tran_en": "growing in a way that looks uneven and in bad condition"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "scragglier"
+    ],
+    "est": [
+      "scraggliest"
+    ]
+  }
+}

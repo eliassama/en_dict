@@ -1,0 +1,144 @@
+{
+  "word": "microprocessor",
+  "ipa": {
+    "us": "ˌmaɪkrəʊˈprəʊsesə(r)",
+    "uk": "ˌmaɪkroʊˈproʊsesə"
+  },
+  "sentences": [
+    {
+      "en": "A Control System of VVVF Elevator with Single Chip Microprocessor and PLC.",
+      "cn": "PWM逆变器 型交流电梯紧急自动疏散系统."
+    },
+    {
+      "en": "A high - power diode laser power supply controlled by microprocessor is presented.",
+      "cn": "介绍了一种利用单片机控制的大功率半导体激光驱动电源."
+    },
+    {
+      "en": "A microprocessor will check for interrupts at the end of every instruction.",
+      "cn": "微处理器将在每一个指令末尾检查有无中断."
+    },
+    {
+      "en": "CHEN Deshu . Principle and technology of microprocessor - based protection. Beijing: China Power Press, 1994.",
+      "cn": "陈德树. 计算机继电保护原理与技术. 北京: 中国电力出版社, 1994."
+    },
+    {
+      "en": "Development of an ultrasonic hyperthermia instruments software based on ARM 32 microprocessor is here introduced.",
+      "cn": "介绍一种基于ARM嵌入式系统的超声热疗仪软件的设计."
+    },
+    {
+      "en": "During the early years of microprocessors, there were few engineers witheducation and experience in the applications of microprocessor technology.",
+      "cn": "在最初几年的微处理器，有几个工程师的教育和经验，在应用的微处理器技术。"
+    },
+    {
+      "en": "Early microprocessor speed and functionality while still not high enough, but can be adopted to solve the multi-processor architecture.",
+      "cn": "早期的微处理器速度和功能虽还不够高，但可以通过多处理器结构来解决。"
+    },
+    {
+      "en": "I've got a typerwriter with a microprocessor.",
+      "cn": "我有一台装有微处理机的打字机。"
+    },
+    {
+      "en": "It is possible to copyright the design of an invention, such as the documents that describe a microprocessor, but not the physical processor itself.",
+      "cn": "所以有这样的可能，即版权保护的是发明的设计，比如描述微处理器的文档，而非处理器产品本身。"
+    },
+    {
+      "en": "Microprocessor controls each function for easy operation.",
+      "cn": "1微电脑控制各功能动作,操作简单方便."
+    },
+    {
+      "en": "Microprocessor distance protection set is one of the most important protections for high - pressure transmission lines.",
+      "cn": "微机距离保护是高压线路的重要保护之一."
+    },
+    {
+      "en": "Our applications take in massive amounts of information and crunch it with the power of the microprocessor.",
+      "cn": "我们的应用程序将接收大量信息并使用微处理器的能力来处理这些信息。"
+    },
+    {
+      "en": "Precise: high - precision microprocessor temperature controller makes temperature control precise and reliable.",
+      "cn": "精确: 高精度微电脑温控仪,控温精确、可靠."
+    },
+    {
+      "en": "Single Chip Microprocessor Control of Elevator Salvation Unit.",
+      "cn": "PC控制电梯 系统中减少PC输入 点数的方法."
+    },
+    {
+      "en": "Speed control of electric gate by one - chip microprocessor.",
+      "cn": "用单片机实现电动大门速度控制."
+    },
+    {
+      "en": "The author takes MCS - 8751 chip microprocessor as control core, introduces hardware framework and software folw.",
+      "cn": "以MCS—8751单片机为控制核心, 介绍了硬件结构和软件流程."
+    },
+    {
+      "en": "The invention of the microprocessor had made it possible for ordinary people like you and me to actually own a computer.",
+      "cn": "微处理器的发明，使普通老百姓（就如你和我）真正拥有一台计算机成为可能。"
+    },
+    {
+      "en": "The main electric circuit uses integration microprocessor and IC, few buffer circuit for stable operation.",
+      "cn": "主要功能电路采用集成度很高的单片机, 外围电路很少,工作更加稳定."
+    },
+    {
+      "en": "The microprocessor and digit controller part is introduced particularly.",
+      "cn": "详细介绍了数字镇流器中的微控制器数字控制部分."
+    },
+    {
+      "en": "The TOSHIBA'S T 6 B 31 ischosen as the microprocessor.",
+      "cn": "在综合技术先进性、产品价格的基础上,采用了TOSHIBA公司的T6B31芯片."
+    },
+    {
+      "en": "The wireless reception circuit which placed elsewhere receive warning signal and single chip microprocessor control alarm.",
+      "cn": "置于他处的无线接收电路接收报警信号,由单片机控制响应报警."
+    },
+    {
+      "en": "This paper describes the principle of microprocessor ultrasonic range finder.",
+      "cn": "主要介绍微电脑超声测距仪的工作原理."
+    },
+    {
+      "en": "Typically, these devices run a 32-bit microprocessor/controller and have more than 2 MB of total memory for the storage of the virtual machine and libraries.",
+      "cn": "典型地，这些设备运行一个 32 位的微处理器／控制器，而且有总量大于 2 MB 的用于虚拟机和库的存储的存储器。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "Merced"
+          ],
+          "tran_cn": "[计]微处理器"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "computer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "microprocessor chip",
+      "tran_cn": "[计]微处理机芯片"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[计]微处理器",
+      "tran_en": "the central  chip  in a computer, which controls most of its operations"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "microprocessors"
+    ]
+  }
+}

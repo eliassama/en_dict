@@ -1,0 +1,59 @@
+{
+  "word": "flashbulb",
+  "ipa": {
+    "us": "ˈflæʃbʌlb",
+    "uk": "ˈflæʃˌbʌlb"
+  },
+  "sentences": [
+    {
+      "en": "A dry - cell powered photographic apparatus that holds and electrically triggers a flashbulb.",
+      "cn": "闪光枪一种装有并以电引发闪光灯泡的用电池供电的照相器材."
+    },
+    {
+      "en": "Actually even so-called 'flashbulb memories'—like where you were when Kennedy was shot—can be quite inaccurate or easily change over time.",
+      "cn": "事实上，即使是闪光灯记忆，就像你在肯尼迪被射杀的现场，也是非常不精确的，非常容易改变的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "flashing",
+          "tran_cn": " 闪烁的；闪光的"
+        },
+        {
+          "word": "flashy",
+          "tran_cn": " 闪光的；瞬间的；俗丽的；暴躁的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "flasher",
+          "tran_cn": " 发出闪光之物；闪光装置"
+        },
+        {
+          "word": "flashing",
+          "tran_cn": " 闪光；防水板；遮雨板"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "闪光灯泡",
+      "tran_en": "A flashbulb is a small bulb that can be attached to a camera. It makes a bright flash of light so that you can take photographs indoors. "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "flashbulbs"
+    ]
+  }
+}

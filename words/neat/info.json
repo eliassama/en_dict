@@ -1,0 +1,179 @@
+{
+  "word": "neat",
+  "ipa": {
+    "us": "niːt",
+    "uk": "niːt"
+  },
+  "sentences": [
+    {
+      "en": "\"Make the punishment fit the crime.\" How neat and tidy it sounded.",
+      "cn": "“罪罚相当”，这听起来多么简洁。"
+    },
+    {
+      "en": "\"Oh, those new apartments are really neat,\" the girl babbled on.",
+      "cn": "那个女孩赞不绝口地说：“噢，那些新公寓真是非常棒。”"
+    },
+    {
+      "en": "Everything in the house was neat and tidy.",
+      "cn": "房子里的每样物品都干净整齐。"
+    },
+    {
+      "en": "He poured himself a brandy and swallowed it neat.",
+      "cn": "他给自己倒了一杯白兰地，没兑水就一饮而尽。"
+    },
+    {
+      "en": "He was praised for his neat and careful work.",
+      "cn": "他因工作认真、利索而受到赞扬."
+    },
+    {
+      "en": "His clothes were always neat and clean.",
+      "cn": "他的衣服总是很整洁。"
+    },
+    {
+      "en": "John is compulsively neat and clean, he's terrified of germs.",
+      "cn": "约翰有洁癖，非常害怕细菌。"
+    },
+    {
+      "en": "neat handwriting",
+      "cn": "工整的笔迹"
+    },
+    {
+      "en": "neat rows of books",
+      "cn": "一排排整齐的书"
+    },
+    {
+      "en": "Neat solutions are not easily found to these issues.",
+      "cn": "很难找到解决这些问题的巧妙办法。"
+    },
+    {
+      "en": "Several men are pushing school desks and chairs into neat rows.",
+      "cn": "几个人正挪动学校的桌椅，将它们排整齐。"
+    },
+    {
+      "en": "She arranged the books in a nice neat pile.",
+      "cn": "她把书摞成整齐的一堆。"
+    },
+    {
+      "en": "Square up the books to make them look neat.",
+      "cn": "把书摆正,使其整齐美观."
+    },
+    {
+      "en": "That’s a really neat idea.",
+      "cn": "那个主意真不错。"
+    },
+    {
+      "en": "The children cooperated with their teachers in keeping the classroom neat.",
+      "cn": "孩子们和老师一起保持教室整洁."
+    },
+    {
+      "en": "The clothes were folded in a neat pile.",
+      "cn": "衣服叠放成整齐的一摞。"
+    },
+    {
+      "en": "The furniture was stiff, uncomfortable, too delicate, and too neat.",
+      "cn": "家具又硬又不舒服，太不结实而且太小巧。"
+    },
+    {
+      "en": "The neighbours' gardens were trim and neat.",
+      "cn": "邻居们的花园整洁美观。"
+    },
+    {
+      "en": "The rest of the room was neat and impersonal.",
+      "cn": "房间的其余部分整洁干净，不带任何的个人色彩。"
+    },
+    {
+      "en": "There were neat piles of kindling wood against the wall.",
+      "cn": "墙边整齐地放着几堆引火柴."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "neatly",
+          "tran_cn": " 整洁地；熟练地；灵巧地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "neatness",
+          "tran_cn": " 干净，整洁"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "neaten",
+          "tran_cn": " 整理；整顿"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "elegant",
+            "flowing",
+            "graceful"
+          ],
+          "tran_cn": "灵巧的；整洁的；优雅的；齐整的；未搀水的；平滑的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adept",
+            "apt",
+            "clean",
+            "clever",
+            "expert",
+            "handy",
+            "masterful",
+            "orderly",
+            "proficient",
+            "shipshape",
+            "skillful",
+            "tidy",
+            "trim",
+            "well-done",
+            "well-kept"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "neat cement",
+      "tran_cn": "净水泥，净水泥浆"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "整洁的，爱整洁的，小巧优雅的，灵巧的，干净利落的，很好的，未掺水的",
+      "tran_en": "tidy and carefully arranged"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "neatly"
+    ],
+    "noun": [
+      "neatness"
+    ]
+  }
+}

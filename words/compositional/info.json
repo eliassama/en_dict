@@ -1,0 +1,146 @@
+{
+  "word": "compositional",
+  "ipa": {
+    "us": "ˌkɒmpə'zɪʃənəl",
+    "uk": "ˌkɒmpə'zɪʃənəl"
+  },
+  "sentences": [
+    {
+      "en": "A compositional freedom, the level clear, bright color, three - dimensional sense of strong character.",
+      "cn": "具有构图自由, 层次清晰, 色彩明快, 立体感强的特点."
+    },
+    {
+      "en": "Based on finite mixture models, we apply Bayesian method to compositional data and ordinal data clustering.",
+      "cn": "本文将基于有限混合模型的贝叶斯聚类方法推广应用到成分数据和有序数据的聚类分析."
+    },
+    {
+      "en": "Cyber environment has promoted the development of Compositional Teaching.",
+      "cn": "网络环境促进了作文教学的发展."
+    },
+    {
+      "en": "Decision inference of the extended decision rules was implemented using fuzzy CRI ( compositional rule of inference ) .",
+      "cn": "用关系合成的模糊推理方法,实现了扩展决策规则集的决策 推理."
+    },
+    {
+      "en": "Early research focused on production, then moved into compositional analyses of New Zealand velvet.",
+      "cn": "早期的研究专注在制造上, 随后转入纽西兰鹿茸的成份分析."
+    },
+    {
+      "en": "Finally, the notes of interval - valued intuitionistic fuzzy compositional operations were defined and their fundamental proper.",
+      "cn": "最后定义了区间直觉模糊合成运算,研究了它们合成运算的基本性质."
+    },
+    {
+      "en": "Howson's assured, bold technique has become gradually more formulaic, emphasizing caricature and strength of compositional structure.",
+      "cn": "豪森确信, 大胆的技法已经渐渐变得更公式化, 他强调的是讽刺夸张以及画面结构的力量."
+    },
+    {
+      "en": "I generally start by making series of simple compositional sketches.",
+      "cn": "我通常是以绘制一系列的草图开始."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "composed",
+          "tran_cn": " 镇静的；沉着的"
+        },
+        {
+          "word": "composing",
+          "tran_cn": " 起镇静作用的"
+        },
+        {
+          "word": "composite",
+          "tran_cn": " 复合的；合成的；菊科的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "composer",
+          "tran_cn": " 作曲家；作家，著作者；设计者"
+        },
+        {
+          "word": "composing",
+          "tran_cn": " 组成；[印刷] 排字"
+        },
+        {
+          "word": "composite",
+          "tran_cn": " 复合材料；合成物；菊科"
+        },
+        {
+          "word": "composition",
+          "tran_cn": " 作文，作曲；[材] 构成；合成物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "composed",
+          "tran_cn": " 组成；作曲（compose的过去分词）；著作"
+        },
+        {
+          "word": "composing",
+          "tran_cn": " 组成；写作（compose的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "compose",
+          "tran_cn": " 组成；作曲；排字"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "compose",
+          "tran_cn": " 构成；写作；使平静；排…的版"
+        },
+        {
+          "word": "composite",
+          "tran_cn": " 使合成；使混合"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "builtup"
+          ],
+          "tran_cn": "组成的；创作的；作曲的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "compositional maturity",
+      "tran_cn": "成分成熟度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "合成的,组成的"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "[计] 组合的"
+    }
+  ],
+  "exchange": {}
+}

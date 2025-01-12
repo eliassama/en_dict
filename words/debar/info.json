@@ -1,0 +1,75 @@
+{
+  "word": "debar",
+  "ipa": {
+    "us": "dɪˈbɑ:(r)",
+    "uk": "diˈbɑr"
+  },
+  "sentences": [
+    {
+      "en": "...the decision to debar particular immigrants.",
+      "cn": "... 禁止特殊移民的决定。"
+    },
+    {
+      "en": "Estimate , debar and repair the failure of network and computers.",
+      "cn": "网络系统、计算机硬件的故障判断、排除和送修."
+    },
+    {
+      "en": "The railroad gates debar people from crossing the tracks.",
+      "cn": "铁道的栅栏阻止行人跨越轨道."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "debarment",
+          "tran_cn": " 排除，阻止"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "eliminate",
+            "stem",
+            "block",
+            "dispute",
+            "prohibit"
+          ],
+          "tran_cn": "阻止；排除；防止"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 阻止",
+      "tran_en": "to officially prevent someone from doing something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "排除，禁止，防止，阻止某人做某事（或加入机构、去某处等）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "debars"
+    ],
+    "past": [
+      "debarred"
+    ],
+    "done": [
+      "debarred"
+    ],
+    "ing": [
+      "debarring"
+    ]
+  }
+}

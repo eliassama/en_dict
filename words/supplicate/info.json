@@ -1,0 +1,112 @@
+{
+  "word": "supplicate",
+  "ipa": {
+    "us": "'sʌplɪkeɪt",
+    "uk": "ˈsʌplɪˌket"
+  },
+  "sentences": [
+    {
+      "en": "A man can scarce allege his own merits with modesty, much less extol them; a man cannot sometimes brook to supplicate or beg; and a number of the like.",
+      "cn": "一个人不能自承有功而免矜夸之嫌，更不用说是不能表扬自己底功绩了；他有时也不能低首下心地去有所恳求；诸如此类的事很多。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "suppliant",
+          "tran_cn": " 恳求的；哀求的"
+        },
+        {
+          "word": "supplicatory",
+          "tran_cn": " 恳求的；祈求的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "suppliant",
+          "tran_cn": " 恳求者；哀求者"
+        },
+        {
+          "word": "supplicant",
+          "tran_cn": " 恳求者，乞求者"
+        },
+        {
+          "word": "supplication",
+          "tran_cn": " 恳求；祈祷"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "entreat",
+            "plead"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "cry on"
+          ],
+          "tran_cn": "哀求；恳请；祈求"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "pray for",
+            "beseech"
+          ],
+          "tran_cn": "恳求，哀求；恳请"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "祈求地，哀求地，恳求地"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "恳求, 哀求, 恳请, 祈祷",
+      "tran_en": "to make a humble request to (someone); plead "
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "祈求，哀求，恳求"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "supplicates"
+    ],
+    "past": [
+      "supplicated"
+    ],
+    "done": [
+      "supplicated"
+    ],
+    "ing": [
+      "supplicating"
+    ]
+  }
+}

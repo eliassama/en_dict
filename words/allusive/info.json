@@ -1,0 +1,88 @@
+{
+  "word": "allusive",
+  "ipa": {
+    "us": "əˈlu:sɪv",
+    "uk": "əˈlusɪv"
+  },
+  "sentences": [
+    {
+      "en": "an allusive style of writing",
+      "cn": "引经据典的写作风格"
+    },
+    {
+      "en": "Her allusive style is difficult to follow.",
+      "cn": "她引经据典的风格晦涩难懂."
+    },
+    {
+      "en": "His new play, Arcadia, is as intricate, elaborate and allusive as anything he has yet written.",
+      "cn": "他的新剧《阿卡迪亚》和他写过的任何作品一样，错综复杂、构思精巧并且富含典故。"
+    },
+    {
+      "en": "Perhaps blue eyelashes are this allusive sign , virginal behavior this fragile allusion.",
+      "cn": "可能,蓝色眼睫就是挑逗,静若处女就是似有若无的撩拨."
+    },
+    {
+      "en": "The young schoolboy can not understand the allusive conversation of intellectual men.",
+      "cn": "这个年轻的学生听不懂文人们引经据典的谈话."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "allusion",
+          "tran_cn": " 暗示；提及"
+        },
+        {
+          "word": "allusiveness",
+          "tran_cn": " 引喻"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "allude",
+          "tran_cn": " 暗指，转弯抹角地说到；略为提及，顺便提到"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "implied"
+          ],
+          "tran_cn": "暗指的；引用典故的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "connotation",
+            "expressive",
+            "significant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "暗指的，影射，间接提到",
+      "tran_en": "Allusive speech, writing, or art is full of indirect references to people or things"
+    }
+  ],
+  "exchange": {}
+}

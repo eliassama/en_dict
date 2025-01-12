@@ -1,0 +1,178 @@
+{
+  "word": "interruption",
+  "ipa": {
+    "us": "ˌɪntəˈrʌpʃn",
+    "uk": "ˌɪntəˈrʌpʃn"
+  },
+  "sentences": [
+    {
+      "en": "An interruption put it quite out of my head.",
+      "cn": "一打岔我就把这事全忘了."
+    },
+    {
+      "en": "An occurrence, external to an operation, that could cause an interruption of the operation.",
+      "cn": "能引起操作中断的操作以外的事件."
+    },
+    {
+      "en": "Annoyed at the interruption, Nim picked up the telephone and answered curtly , \" Yes? \"",
+      "cn": "尼姆为被打扰而感到生气.他抓起电话,没好气地应了声: “ 什么事? ”"
+    },
+    {
+      "en": "Chinese civilization is the only one without interruption in the world.",
+      "cn": "中华文明是人类历史上唯一没有中断的文明。"
+    },
+    {
+      "en": "Chinese civilization is the only one without interruption.",
+      "cn": "中华文明是唯一没有中断的文明。"
+    },
+    {
+      "en": "Constant interruption of his work exasperated him.",
+      "cn": "对他工作不断的干扰使他恼怒."
+    },
+    {
+      "en": "For tasks that execute code in a loop, it is common to check for interruption only once per loop iteration.",
+      "cn": "对于执行一个循环中的代码的任务，通常只需为每一个循环迭代检查一次中断。"
+    },
+    {
+      "en": "He had played only a few hands with moderate luck when there was an interruption.",
+      "cn": "他今天的手气平平,没想到才打了几副牌就来了打搅."
+    },
+    {
+      "en": "He ignored her interruptions.",
+      "cn": "他没有理会她的打岔。"
+    },
+    {
+      "en": "I was able to get on with my work without interruption.",
+      "cn": "我可以不受打扰继续我的工作了。"
+    },
+    {
+      "en": "I was debarrassed of interruption; my half - effaced thought instantly revived.",
+      "cn": "我摆脱了干扰; 我的一半已被磨灭的思想立即活跃起来."
+    },
+    {
+      "en": "LabVIEW introduced under the activex control methods and data transmission interruption skills.",
+      "cn": "介绍了LabVIEW下的activex控件的中断方法和数据传递技巧."
+    },
+    {
+      "en": "Never mind the interruption; proceed with your story.",
+      "cn": "不要理睬别人的插话, 继续讲你的故事."
+    },
+    {
+      "en": "She has kept up physical training for several years without interruption.",
+      "cn": "她坚持锻炼,多年来从未间断."
+    },
+    {
+      "en": "So, any interruption to one of the access path does not affect storage access from the host.",
+      "cn": "因此，其中一条访问路径的中断不会影响从主机发起的存储访问。"
+    },
+    {
+      "en": "The birth of her son was a minor interruption to her career.",
+      "cn": " 她儿子的出生对她的事业造成一个小小的中断。"
+    },
+    {
+      "en": "The men were ordered to keep watch against interruption.",
+      "cn": "跟班们奉命担任警戒,以防发生打岔的事."
+    },
+    {
+      "en": "The moment there was interruption of access itself, we must act.",
+      "cn": "一旦出入权本身受到阻碍, 我们就必须采取行动."
+    },
+    {
+      "en": "There was constant jeering and interruption from the floor.",
+      "cn": "议员席上不断有人在嘲讽和打岔."
+    },
+    {
+      "en": "This interruption is very annoying.",
+      "cn": "这样打岔令人讨厌。"
+    },
+    {
+      "en": "We have always been able to supply these firms with their monthly requirements without interruption.",
+      "cn": "我方始终能供应这些公司每月所需的数量,从无间断."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interrupted",
+          "tran_cn": " 中断的；被打断的；不规则的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "interrupted",
+          "tran_cn": " 打断；中断（interrupt的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "break",
+            "disturbance",
+            "obstacle"
+          ],
+          "tran_cn": "[计]中断；干扰；中断之事"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "break",
+            "disturbance",
+            "interlude",
+            "intermission",
+            "interpreter",
+            "interval",
+            "prevention",
+            "prohibition",
+            "respite",
+            "truce"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "business interruption",
+      "tran_cn": "营业中断险"
+    },
+    {
+      "phrase": "power interruption",
+      "tran_cn": "供电中断，电源中断；从电中断"
+    },
+    {
+      "phrase": "service interruption",
+      "tran_cn": "断电，停电"
+    },
+    {
+      "phrase": "supply interruption",
+      "tran_cn": "供电中断"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "中断，打断，障碍物，打岔的事",
+      "tran_en": "something that temporarily stops an activity or a situation; a time when an activity is stopped"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interruptions"
+    ]
+  }
+}

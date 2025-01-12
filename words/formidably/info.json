@@ -1,0 +1,54 @@
+{
+  "word": "formidably",
+  "ipa": {
+    "us": "fə'mɪdəblɪ",
+    "uk": "fə'mɪdəblɪ"
+  },
+  "sentences": [
+    {
+      "en": "A disruption of the Federal Union, heretofore only menaced, is now formidably attempted.",
+      "cn": "分裂联邦, 以前还只是一种威胁, 现在却已变成令人生畏的行动."
+    },
+    {
+      "en": "Sofia was attractive and formidably intelligent.",
+      "cn": "索菲娅很有魅力，而且才智过人。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "formidable",
+          "tran_cn": " 强大的；可怕的；令人敬畏的；艰难的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "powerfully",
+            "terribly"
+          ],
+          "tran_cn": "强大地；难对付地；可怕地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "可怕地，难对付地，强大地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "formidable"
+    ]
+  }
+}

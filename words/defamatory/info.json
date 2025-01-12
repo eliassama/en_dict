@@ -1,0 +1,85 @@
+{
+  "word": "defamatory",
+  "ipa": {
+    "us": "dɪˈfæmətri",
+    "uk": "dɪˈfæmətɔri"
+  },
+  "sentences": [
+    {
+      "en": "An imputation against a woman's chastity is defamatory.",
+      "cn": "诋毁妇女贞操是破坏妇女名誉的行为."
+    },
+    {
+      "en": "The article was highly defamatory.",
+      "cn": "这篇文章极具诽谤性。"
+    },
+    {
+      "en": "The company claimed that Google was liable as a publisher of defamatory comments.",
+      "cn": "该公司声称,谷歌作为诽谤性评论的发布者应该承担法律责任."
+    },
+    {
+      "en": "The reader said that the report was defamatory.",
+      "cn": "这位读者说这篇报道带有诽谤性."
+    },
+    {
+      "en": "Was there a defamatory statement ? Was there a defamation?",
+      "cn": "这是流言蜚语 吗 ?这是诽谤 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "defamation",
+          "tran_cn": " 诽谤；中伤"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "defame",
+          "tran_cn": " 诽谤；中伤"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "calumniatory",
+            "infamatory"
+          ],
+          "tran_cn": "诽谤的；中伤的；破坏名誉的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abusive",
+            "censorious",
+            "damning"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "诽谤的，中伤的",
+      "tran_en": "Speech or writing that is defamatory is likely to damage someone's good reputation by saying something bad and untrue about them"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,225 @@
+{
+  "word": "tilt",
+  "ipa": {
+    "us": "tɪlt",
+    "uk": "tɪlt"
+  },
+  "sentences": [
+    {
+      "en": "a tank moving at full tilt.",
+      "cn": "全速前进的坦克"
+    },
+    {
+      "en": "As John approached at full tilt he saw a queue of traffic blocking the road.",
+      "cn": "约翰全速接近的时候，看到一大串车辆挡住了道路。"
+    },
+    {
+      "en": "But that tilt was due to a very different cause from this.",
+      "cn": "但是那种倾斜的原因与此大不相同."
+    },
+    {
+      "en": "He likes to tilt his head forward.",
+      "cn": "他喜欢把头往前倾."
+    },
+    {
+      "en": "He was running at full tilt when he slipped and fell down.",
+      "cn": "他正全速奔跑时滑了一下,摔倒了."
+    },
+    {
+      "en": "His car ran full tilt against the tree.",
+      "cn": "他的车以全速撞到了树上."
+    },
+    {
+      "en": "If you tilt the table, the dishes will slide off onto the floor.",
+      "cn": "如果你使桌子倾斜, 碟子就会滑到地板上."
+    },
+    {
+      "en": "It has been predicted that the Earth will tilt on its axis , causing catastrophic famine and disease.",
+      "cn": "有人曾预言地球会导致大荒灾和疾病."
+    },
+    {
+      "en": "Knights used to tilt on horseback.",
+      "cn": "武士们以前在马背上以矛刺击."
+    },
+    {
+      "en": "Larry Layton's trial is going full tilt right now.",
+      "cn": "拉里·莱顿一案的审判工作即将全面展开。"
+    },
+    {
+      "en": "My mother tilted her head and smiled.",
+      "cn": "我妈妈歪着头笑了。"
+    },
+    {
+      "en": "Ned’s mouth tilted upwards slightly at the corners.",
+      "cn": "内德的嘴角微微翘起。"
+    },
+    {
+      "en": "Officials tend to tilt toward secrecy from a parochial view of their responsibilities.",
+      "cn": "官吏出于狭隘的责任观念往往倾向于保密."
+    },
+    {
+      "en": "Some critics were then having a tilt at him.",
+      "cn": "当时有几个评论家正在攻击他."
+    },
+    {
+      "en": "Suddenly the boat tilted to one side.",
+      "cn": "小船突然倾向一侧。"
+    },
+    {
+      "en": "The 3-metre-square slabs are on a tilt.",
+      "cn": "3平方米的厚板倾斜放置着。"
+    },
+    {
+      "en": "The floor has a tilt to it.",
+      "cn": "地板有些倾斜."
+    },
+    {
+      "en": "The table is on / at a slight tilt.",
+      "cn": "这张桌子没放平,有点儿歪."
+    },
+    {
+      "en": "Treatment, though - whether it's chemotherapy or immunotherapy - will tilt the odds in her favour.",
+      "cn": "不过,治疗一下 -- 不管是化学疗法还是免疫疗法 -- 总会使情况对她有利."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tilter",
+          "tran_cn": " 倾斜体"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "slope",
+            "pitch",
+            "clino"
+          ],
+          "tran_cn": "[航][气象]倾斜"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "incline",
+            "lean",
+            "list",
+            "slant",
+            "slope",
+            "tip"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "pitch",
+            "slope",
+            "lean"
+          ],
+          "tran_cn": "[航][气象]倾斜；翘起；以言词或文字抨击"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "slope",
+            "lean"
+          ],
+          "tran_cn": "[航][气象]使倾斜；使翘起"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "(at) full tilt",
+      "tran_cn": "全力地；全速地"
+    },
+    {
+      "phrase": "at full tilt",
+      "tran_cn": "全速地；全力以赴地"
+    },
+    {
+      "phrase": "at full tilt【非正式用语】",
+      "tran_cn": "全速"
+    },
+    {
+      "phrase": "tilt angle",
+      "tran_cn": "倾斜角"
+    },
+    {
+      "phrase": "tilt at windmills",
+      "tran_cn": "同假想的敌人（或坏事）作斗争"
+    },
+    {
+      "phrase": "tilt table",
+      "tran_cn": "倾斜台；摆动升降台"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "倾斜，歪斜，斜坡，坡度，马上刺枪比赛，跳动锤，落锤",
+      "tran_en": "a movement or position in which one side of something is higher than the other"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": " 倾斜， 倾侧",
+      "tran_en": "to move a part of your body, especially your head or chin, upwards or to the side"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "倾斜；翘起；以言词或文字抨击",
+      "tran_en": "to move a part of your body, especially your head or chin, upwards or to the side"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "倾斜，〈美〉有倾向性，偏袒，抨击"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使倾斜，（在马上）拿枪扎，抨击，攻击"
+    },
+    {
+      "pos": "vt&vi",
+      "tran_cn": "(使)倾斜",
+      "tran_en": "to move a part of your body, especially your head or chin, upwards or to the side"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tilts"
+    ],
+    "third": [
+      "tilts"
+    ],
+    "past": [
+      "tilted"
+    ],
+    "done": [
+      "tilted"
+    ],
+    "ing": [
+      "tilting"
+    ]
+  }
+}

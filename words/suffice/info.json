@@ -1,0 +1,200 @@
+{
+  "word": "suffice",
+  "ipa": {
+    "us": "səˈfaɪs",
+    "uk": "səˈfaɪs"
+  },
+  "sentences": [
+    {
+      "en": "A cover letter should never exceed one page; often a far shorter letter will suffice.",
+      "cn": "附信不应超过一页，通常来说，一封相对非常简短的信就足够了。"
+    },
+    {
+      "en": "A light lunch will suffice .",
+      "cn": "简单的午餐就够了。"
+    },
+    {
+      "en": "A light lunch will suffice.",
+      "cn": "简单的午餐就够了。"
+    },
+    {
+      "en": "A single base might in principle suffice for computation.",
+      "cn": "在原理上用一条基线就能满足计算的要求."
+    },
+    {
+      "en": "For the gray area in between, no simple formula would suffice.",
+      "cn": "在这两者之间的灰色地区, 任何简单的方案都是不够的."
+    },
+    {
+      "en": "Generally a brief note or a phone call will suffice.",
+      "cn": "通常写个便条或打个电话就足够了。"
+    },
+    {
+      "en": "Give two instances in point — that will suffice.",
+      "cn": "给两个恰当的例子就够了."
+    },
+    {
+      "en": "Some bread and soup will suffice me.",
+      "cn": "有面包和汤对我来说就足够了."
+    },
+    {
+      "en": "Suffice it that without leisure there is no liberty.",
+      "cn": "无闲暇何来自由--说这一句话就够了."
+    },
+    {
+      "en": "Suffice it to say that the good thing fell down.",
+      "cn": "毋庸说,这件事情垮了."
+    },
+    {
+      "en": "Suffice it to say that the gun was his.",
+      "cn": "只要说那枝枪是他的就够了."
+    },
+    {
+      "en": "suffice it to say that they were not considered suitable for this project.",
+      "cn": "简单地说，他们被认为不适合做这项工程。"
+    },
+    {
+      "en": "Suffice to say, it was more than a couple of years ago!",
+      "cn": "我只想说，那是几年前的事了！"
+    },
+    {
+      "en": "The food didn't suffice for them.",
+      "cn": "食物不够他们吃."
+    },
+    {
+      "en": "The will of the prince does not suffice to make law.",
+      "cn": "君主的意志不足以制定法律."
+    },
+    {
+      "en": "This single item will suffice to typify all the rest.",
+      "cn": "即此一端,可概其余."
+    },
+    {
+      "en": "Two bottles of wine will suffice for lunch.",
+      "cn": "午餐有两瓶葡萄酒就够了."
+    },
+    {
+      "en": "Will ten dollars suffice for the expenses of your journey?",
+      "cn": "10美元够你在路上花 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sufficient",
+          "tran_cn": "足够的；充分的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sufficiently",
+          "tran_cn": "充分地；足够地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "adequate",
+            "answer",
+            "appease",
+            "assuage",
+            "be",
+            "bill",
+            "content",
+            "do",
+            "enough",
+            "fill",
+            "fulfil",
+            "gratify",
+            "please",
+            "quench",
+            "sate",
+            "satiate",
+            "satisfy",
+            "saturate",
+            "serve",
+            "slake",
+            "sufficient",
+            "the",
+            "trick"
+          ],
+          "tran_cn": "充足,使满意,完成,浸透,成功,击中"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "serve",
+            "be in a position"
+          ],
+          "tran_cn": "足够；有能力"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "content",
+            "gratify"
+          ],
+          "tran_cn": "使满足；足够…用；合格"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "suffice (it) to say",
+      "tran_cn": "只要说…就够了，简单地说"
+    },
+    {
+      "phrase": "suffice for",
+      "tran_cn": "满足……的需要"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "足够",
+      "tran_en": "to be enough"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "足够，有能力",
+      "tran_en": "to be enough"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "满足…的需要，使满足"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "suffices"
+    ],
+    "past": [
+      "sufficed"
+    ],
+    "done": [
+      "sufficed"
+    ],
+    "ing": [
+      "sufficing"
+    ]
+  }
+}

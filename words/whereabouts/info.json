@@ -1,0 +1,158 @@
+{
+  "word": "whereabouts",
+  "ipa": {
+    "us": "ˈweərəbaʊts , ˌweərəˈbaʊts",
+    "uk": "ˈwerəbaʊts , ˌwerəˈbaʊts"
+  },
+  "sentences": [
+    {
+      "en": "\"I actually live near Chester.\" — \"Whereabouts?\"",
+      "cn": "“我实际上住在切斯特附近。”——“具体在哪里？”"
+    },
+    {
+      "en": "Do you know her whereabouts?",
+      "cn": "你知道她的下落 吗 ?"
+    },
+    {
+      "en": "He became a person whose whereabouts is [ are ] unknown to me.",
+      "cn": "他的 下落 我不知道."
+    },
+    {
+      "en": "He showed great reluctance to reveal his whereabouts.",
+      "cn": "他极不愿意说出他的行踪。"
+    },
+    {
+      "en": "His present whereabouts is unknown.",
+      "cn": "他去处不明."
+    },
+    {
+      "en": "His whereabouts have been utterly unknown so far.",
+      "cn": "迄今他的下落全然未知."
+    },
+    {
+      "en": "His whereabouts is uncertain.",
+      "cn": "他目前下落不明."
+    },
+    {
+      "en": "I live in a village near to Germaine Greer and know whereabouts she lives.",
+      "cn": "我住在杰曼·格里尔家附近的村子里，知道她具体住在哪儿。"
+    },
+    {
+      "en": "I wonder whereabouts he is.",
+      "cn": "我不知道他在哪一带."
+    },
+    {
+      "en": "information respecting the child's whereabouts",
+      "cn": "关于孩子下落的消息"
+    },
+    {
+      "en": "The police are anxious to hear from anyone who may know the whereabouts of the firearms.",
+      "cn": "警方急盼任何可能知道这批武器下落的人提供线索。"
+    },
+    {
+      "en": "We are currently trying to trace the whereabouts of certain sums of money.",
+      "cn": "我们目前正试图找到某些钱款的下落。"
+    },
+    {
+      "en": "Whereabouts are you living?",
+      "cn": "你的详细住址是哪里？"
+    },
+    {
+      "en": "Whereabouts did I leave my bag?",
+      "cn": "我把书包放在哪里了?"
+    },
+    {
+      "en": "Whereabouts do you live?",
+      "cn": "你住在哪一带？"
+    },
+    {
+      "en": "Whereabouts in Liverpool are you from?",
+      "cn": "你从利物浦什么地方来的？"
+    },
+    {
+      "en": "Whereabouts in Scotland do they live?",
+      "cn": "他们住在苏格兰的什么地方 呢 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "wherewithal",
+          "tran_cn": " 用什么"
+        }
+      ]
+    },
+    {
+      "pos": "conj",
+      "words": [
+        {
+          "word": "wherewithal",
+          "tran_cn": " 用以（等于wherewith）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "wherewithal",
+          "tran_cn": " 必要的资金（或手段）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "area",
+            "environs",
+            "locale",
+            "locality",
+            "location",
+            "neighbourhood",
+            "place",
+            "point",
+            "position",
+            "purlieus",
+            "situation",
+            "spot",
+            "vicinage",
+            "vicinity"
+          ],
+          "tran_cn": "附近"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "habitat",
+            "seat",
+            "site"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "（询问）在哪里"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "行踪，下落",
+      "tran_en": "the place or area where someone or something is"
+    }
+  ],
+  "exchange": {}
+}

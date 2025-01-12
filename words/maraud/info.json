@@ -1,0 +1,117 @@
+{
+  "word": "maraud",
+  "ipa": {
+    "us": "mə'rɔ:d",
+    "uk": "məˈrɔd"
+  },
+  "sentences": [
+    {
+      "en": "Numb with terror, she stared at the departing maraud-ers.",
+      "cn": "她吓得呆若木鸡，眼睁睁地看着劫匪们离去。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "marauding",
+          "tran_cn": " 抢劫的；劫掠的；巡行作案的；潜行捕食的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "marauder",
+          "tran_cn": " 掠夺者；抢劫者；猛虎"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "marauding",
+          "tran_cn": " 抢劫（maraud的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "rapine",
+            "plunderage"
+          ],
+          "tran_cn": "掠夺；袭击"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "pirate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "descend on",
+            "set at"
+          ],
+          "tran_cn": "袭击"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "harry",
+            "hit"
+          ],
+          "tran_cn": "掠夺；袭击"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 抢劫， 掠夺",
+      "tran_en": "to wander or raid in search of plunder "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "抢劫，掠夺"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "marauds"
+    ],
+    "past": [
+      "marauded"
+    ],
+    "done": [
+      "marauded"
+    ],
+    "ing": [
+      "marauding"
+    ]
+  }
+}

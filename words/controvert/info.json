@@ -1,0 +1,133 @@
+{
+  "word": "controvert",
+  "ipa": {
+    "us": "ˌkɒntrəˈvɜːt",
+    "uk": "ˈkɑːntrəvɜːrt"
+  },
+  "sentences": [
+    {
+      "en": "Have taken part in academy controvert competition four times, and named as \"best debate student\" four times and \"best elegant demeanor\" one time.",
+      "cn": "参加院校间辩论赛四次，四次被评为“最佳辩手”及一次“最佳风采奖”；"
+    },
+    {
+      "en": "The statement of the last witness controvert the evidence of the first two.",
+      "cn": "最后一个证人的陈述反驳了前两人的证词。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "controversial",
+          "tran_cn": " 有争议的；有争论的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "controversy",
+          "tran_cn": " 争论；论战；辩论"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "canvass",
+            "debate",
+            "discuss",
+            "issue",
+            "it",
+            "join",
+            "out",
+            "talk",
+            "thresh",
+            "upon"
+          ],
+          "tran_cn": "争论"
+        },
+        {
+          "words": [
+            "against",
+            "altercate",
+            "argue",
+            "challenge",
+            "contest",
+            "contradict",
+            "counter",
+            "deny",
+            "disaffirm",
+            "dispute",
+            "gainsay",
+            "impugn",
+            "oppose",
+            "protest",
+            "rebut",
+            "refute",
+            "traverse",
+            "wrangle"
+          ],
+          "tran_cn": "辩驳,反驳"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "debate",
+            "dispute about",
+            "polemize"
+          ],
+          "tran_cn": "争论；辩论"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "confute",
+            "redargue"
+          ],
+          "tran_cn": "驳斥；就…展开争论"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "议论, 辩论",
+      "tran_en": "to deny, refute, or oppose (some argument or opinion) "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "争论，反驳，否定"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "controverts"
+    ],
+    "past": [
+      "controverted"
+    ],
+    "done": [
+      "controverted"
+    ],
+    "ing": [
+      "controverting"
+    ]
+  }
+}

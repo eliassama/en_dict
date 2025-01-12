@@ -1,0 +1,147 @@
+{
+  "word": "qualifier",
+  "ipa": {
+    "us": "ˈkwɒlɪfaɪə(r)",
+    "uk": "ˈkwɑlɪfaɪə(r)"
+  },
+  "sentences": [
+    {
+      "en": "A valid account name including a domain qualifier is required.",
+      "cn": "必须填写包含域限定符的有效帐户名称."
+    },
+    {
+      "en": "a World Cup qualifier",
+      "cn": "世界杯预选赛"
+    },
+    {
+      "en": "Alias'{ 0 }'is standard alias, it's qualifier can not be changed.",
+      "cn": "别名 “ {0}”是标准别名, 不能更改它的限定符."
+    },
+    {
+      "en": "Cech said: We had to disguise my injury right before the qualifier against Armenia.",
+      "cn": "门神说: 在预选赛上,面对亚美尼亚之前,我必须要隐瞒自己的伤情."
+    },
+    {
+      "en": "Component qualifier not present.",
+      "cn": "组件限制语不存在."
+    },
+    {
+      "en": "Concentrating switching function qualifier. Right - click for expanding switching function.",
+      "cn": "集中开关功能限定符. 右击指定扩展开关功能."
+    },
+    {
+      "en": "Kenya's Robert Kibe was the fastest qualifier for the 800 metres final.",
+      "cn": "肯尼亚的罗伯特·基布是800米决赛入围者中速度最快的选手."
+    },
+    {
+      "en": "Last week Wales lost 5-1 to Romania in a World Cup qualifier.",
+      "cn": "在上周的世界杯预选赛中，威尔士队1比5负于罗马尼亚队。"
+    },
+    {
+      "en": "Party Name, Qualifier and Value are mandatory fields.",
+      "cn": "参与方名称 、 限定符和值均是必需字段."
+    },
+    {
+      "en": "Please fill all fields: Party Name, Qualifier and Value.",
+      "cn": "请填写所有字段: 参与方名称 、 限定符和值."
+    },
+    {
+      "en": "Qualifier of a namespace must be unique in a schema file.",
+      "cn": "命名空间的限定符在架构文件中必须是唯一的."
+    },
+    {
+      "en": "Scotland were ahead in their European championship qualifier in Iceland.",
+      "cn": "苏格兰队在冰岛举行的欧洲杯预选赛中处于领先位置。"
+    },
+    {
+      "en": "Switching function qualifier. Concentrating or expanding can be specified.",
+      "cn": "开关功能限定符. 可指定集中或扩展."
+    },
+    {
+      "en": "The tournament was won by a late qualifier.",
+      "cn": "锦标赛冠军是一位排名较后的选手."
+    },
+    {
+      "en": "This qualifier means there must be at least m repetitions , and at most n.",
+      "cn": "该限定符的意思是至少有m个重复, 至多到n个重复."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "qualified",
+          "tran_cn": " 合格的；有资格的"
+        },
+        {
+          "word": "qualifying",
+          "tran_cn": " 使具有资格的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "qualification",
+          "tran_cn": " 资格；条件；限制；赋予资格"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "qualified",
+          "tran_cn": " 限制（qualify的过去分词）；描述；授权予"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "qualify",
+          "tran_cn": " 取得资格，有资格"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "qualify",
+          "tran_cn": " 限制；使具有资格；证明…合格"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "determinator",
+            "definitive"
+          ],
+          "tran_cn": "[计][语]限定词，限定语；取得资格的人；修饰语"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "合格者，已取得资格的人，[语]修饰语，预选赛，资格赛",
+      "tran_en": "a word or phrase that limits or adds to the meaning of another word or phrase"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "qualifiers"
+    ]
+  }
+}

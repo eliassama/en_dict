@@ -1,0 +1,186 @@
+{
+  "word": "fluctuation",
+  "ipa": {
+    "us": "ˌflʌktʃʊ'eɪʃn",
+    "uk": "ˌflʌktʃʊˈeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "A firm secures a needed commodity and is protected against price fluctuation.",
+      "cn": "公司得到需要的商品,而且不会由于价格变动而受损失."
+    },
+    {
+      "en": "A tick is the smallest price fluctuation permitted in any market.",
+      "cn": "基点是市场允许的最小的变动单位."
+    },
+    {
+      "en": "Early and adequate drainage is essential if fluctuation occurs.",
+      "cn": "有波动感时,应及早地充分引流."
+    },
+    {
+      "en": "Intensity fluctuation of any or all components of a received signal.",
+      "cn": "接收信号的部分或所有成分的强度起伏波动."
+    },
+    {
+      "en": "Meanwhile, the frequency fluctuation cna be reduced by 39.6 %.",
+      "cn": "同时, 频率漂移量减少了39.6%."
+    },
+    {
+      "en": "Prices are subject to fluctuation.",
+      "cn": "价格可能会有波动。"
+    },
+    {
+      "en": "Sometimes temporal fluctuation may take place inthe local velocity.",
+      "cn": "有时,在局部速度中可能出现瞬时脉动."
+    },
+    {
+      "en": "Such grids effectively smooth out the velocity fluctuation above the dense bed.",
+      "cn": "栅格在密相床层上有效地使速度波动平缓起来."
+    },
+    {
+      "en": "The amount of fluctuation is also affected by bed configuration.",
+      "cn": "变化的幅度也受河床形状的影响."
+    },
+    {
+      "en": "The erratic fluctuation of market prices are in consequence of unstable economy.",
+      "cn": "经济波动致使市场物价忽起忽落."
+    },
+    {
+      "en": "The erratic fluctuation of market prices is in consequence of unstable economy.",
+      "cn": "经济波动致使市场物价忽起忽落。"
+    },
+    {
+      "en": "The fluctuation of ocean freight is the embodiment of market risk.",
+      "cn": "运费波动是航运市场风险的集中反映."
+    },
+    {
+      "en": "The method can guarantee the attitude fluctuation with in the allowance range.",
+      "cn": "该方法可以保证机构的姿态变化始终在机构的许可姿态范围内."
+    },
+    {
+      "en": "The relation between event rapidity gap fluctuation and rapidity correlations is derived.",
+      "cn": "本文推导了逐事件快度间隔的起伏与逐事件快度关联的关系."
+    },
+    {
+      "en": "The simplest fluctuation is the conjunction of two molecules to form a complex.",
+      "cn": "最简单的波动是两个分子结合形成缔合体."
+    },
+    {
+      "en": "Using this approach, we can abstract from fluctuation in Aggregate Demand.",
+      "cn": "运用这一方法, 我们可以抽掉总需求中不断变化的因素."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fluctuating",
+          "tran_cn": " 波动的；变动的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "fluctuating",
+          "tran_cn": " 波动（fluctuate的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "fluctuate",
+          "tran_cn": " 波动；涨落；动摇"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fluctuate",
+          "tran_cn": " 使波动；使动摇"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "wave",
+            "undulation"
+          ],
+          "tran_cn": "[海洋]起伏，[电子][物]波动"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "current fluctuation",
+      "tran_cn": "电流起伏，电流波动；日常波动"
+    },
+    {
+      "phrase": "cyclical fluctuation",
+      "tran_cn": "n. 循环变动，周期性波动"
+    },
+    {
+      "phrase": "economic fluctuation",
+      "tran_cn": "经济波动"
+    },
+    {
+      "phrase": "fluctuation range",
+      "tran_cn": "波动幅度"
+    },
+    {
+      "phrase": "fluctuation velocity",
+      "tran_cn": "脉动速度，波动速度；变动速度"
+    },
+    {
+      "phrase": "market fluctuation",
+      "tran_cn": "市场波动；市价涨落"
+    },
+    {
+      "phrase": "price fluctuation",
+      "tran_cn": "[经]价格起伏，物价波动"
+    },
+    {
+      "phrase": "speed fluctuation",
+      "tran_cn": "速度波动；速率变动；速度忽高忽低"
+    },
+    {
+      "phrase": "temperature fluctuation",
+      "tran_cn": "温度波动；温度涨落"
+    },
+    {
+      "phrase": "turbulent fluctuation",
+      "tran_cn": "n. 紊流脉动；紊动"
+    },
+    {
+      "phrase": "voltage fluctuation",
+      "tran_cn": "电压波动；电压升降"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "波动，涨落，起伏，[物]脉动，动摇不定，踌躇，[生]彷徨变异",
+      "tran_en": "a change in a price, amount, level etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "fluctuations"
+    ],
+    "verb": [
+      "fluctuate"
+    ]
+  }
+}

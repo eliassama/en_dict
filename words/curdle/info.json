@@ -1,0 +1,124 @@
+{
+  "word": "curdle",
+  "ipa": {
+    "us": "ˈkɜ:dl",
+    "uk": "ˈkɜrdl"
+  },
+  "sentences": [
+    {
+      "en": "Bacteria cause milk to curdle by fermentation.",
+      "cn": "发酵细菌使牛奶结块变质."
+    },
+    {
+      "en": "Milk may curdle in warm weather.",
+      "cn": "天暖时牛奶会凝结。"
+    },
+    {
+      "en": "The fermentation of milk causes it to curdle.",
+      "cn": "牛奶发酵会凝结起来."
+    },
+    {
+      "en": "The herb has been used for centuries to curdle milk.",
+      "cn": "那种香草几个世纪以来都被用来制作酸乳。"
+    },
+    {
+      "en": "The sauce should not boil or the egg yolk will curdle.",
+      "cn": "调味汁不能煮沸，不然蛋黄会凝结的。"
+    },
+    {
+      "en": "The sight made my blood curdle.",
+      "cn": "那景象使我不寒而栗."
+    },
+    {
+      "en": "Their screams made my blood curdle with terror.",
+      "cn": "他们的尖叫声吓得我浑身冰凉."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "curdling",
+          "tran_cn": " 乳凝；凝化"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "curdling",
+          "tran_cn": " （使）成凝乳；（使）凝结；（使）变质（curdle的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cohere",
+            "thicken"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "set"
+          ],
+          "tran_cn": "凝固"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "set"
+          ],
+          "tran_cn": "使凝结"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "make one's blood curdle",
+      "tran_cn": "使某人充满恐惧"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "凝固",
+      "tran_en": "to become thicker or form curd, or to make a liquid do this"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）凝结"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "curdles"
+    ],
+    "past": [
+      "curdled"
+    ],
+    "done": [
+      "curdled"
+    ],
+    "ing": [
+      "curdling"
+    ]
+  }
+}

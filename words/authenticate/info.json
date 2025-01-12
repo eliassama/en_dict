@@ -1,0 +1,168 @@
+{
+  "word": "authenticate",
+  "ipa": {
+    "us": "ɔ:ˈθentɪkeɪt",
+    "uk": "ɔˈθɛntɪˌket"
+  },
+  "sentences": [
+    {
+      "en": "An expert was needed to authenticate the original Van Gogh painting from his imitation.",
+      "cn": "这幅画是凡·高的真迹还是赝品,需由专家来鉴定."
+    },
+    {
+      "en": "Certificate is used to authenticate the user ID in Internet t.",
+      "cn": "509公钥证书,用以在Internet网上验证用户的身份."
+    },
+    {
+      "en": "Documentaries offered the chance to authenticate the accuracy of the various details in these models.",
+      "cn": "纪录片为核实这些模型中各种细节的准确性提供了机会。"
+    },
+    {
+      "en": "He says he'll have no problem authenticating the stamp.",
+      "cn": "他说他完全可以鉴定这枚邮票。"
+    },
+    {
+      "en": "It can authenticate the possession of originality data that have embedded a secretinformation - watermarks.",
+      "cn": "它通过在原始数据中嵌入秘密信息──水印(watermarks)来证实该数据的所有权归属."
+    },
+    {
+      "en": "L is replaced by the login of an user trying to authenticate.",
+      "cn": "被试图认证的用户的登录名替换."
+    },
+    {
+      "en": "passwords which can authenticate electronic documents",
+      "cn": "能够验证电子文档的密码"
+    },
+    {
+      "en": "The leading ISO 9000 authenticate and procured 85 separately above performances.",
+      "cn": "主导的ISO9000认证,取得了85分以上的成绩."
+    },
+    {
+      "en": "The method can be used to authenticate between CAs in the different PKI trust domains.",
+      "cn": "该方法可应用于不同pki信任域中各CA的 相互认证."
+    },
+    {
+      "en": "The painting has been authenticated by experts.",
+      "cn": "这幅画专家鉴定为真迹。"
+    },
+    {
+      "en": "There was no way to authenticate the recording, but the voice sounded like al - Zarqawi's.",
+      "cn": "目前还不能断定这盘录音带的真伪, 但是听起来象扎卡维的声音."
+    },
+    {
+      "en": "This is the most direct and reliable method to authenticate any products by Qiaolie. com.",
+      "cn": "这是对巧猎网所售所有商品产品验证的最直接可靠的方式."
+    },
+    {
+      "en": "This paper discusses how to authenticate user identification, prevent and control invalid access.",
+      "cn": "文章讨论了如何确认用户的身份,防止和控制非法的存取,综述了当前该领域普遍采用的技术,智能卡的使用 、 生物特征辨识、数字签名技术等."
+    },
+    {
+      "en": "This query displays all server computers able to authenticate to the local domain.",
+      "cn": "此查询显示所有可以身份验证到本地域的服务器计算机."
+    },
+    {
+      "en": "To authenticate his message Jesus performed various miracles and acts of healing.",
+      "cn": "为了验证他的消息,耶稣显示了各种各样的奇迹和治愈疾病的行为."
+    },
+    {
+      "en": "To try to authenticate the device again, click Back. To skip the device, click Next.",
+      "cn": "要再次尝试验证此设备, 请单击“上一步”. 要跳过此设备, 请单击“下一步”."
+    },
+    {
+      "en": "We were not able to authenticate the beta access code you entered below.",
+      "cn": "大意就是你输的邀请码还是内测码或者验证码或者注册码他们无法鉴别."
+    },
+    {
+      "en": "We would have to authenticate your relationship with the boy.",
+      "cn": "我们必须证实一下您和那个孩子的关系."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "authentic",
+          "tran_cn": " 真正的，真实的；可信的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "authentication",
+          "tran_cn": " 证明；鉴定；证实"
+        },
+        {
+          "word": "authenticator",
+          "tran_cn": " 认证者；认证器"
+        },
+        {
+          "word": "authenticity",
+          "tran_cn": " 真实性，确实性；可靠性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "certify",
+            "ratify",
+            "strengthen",
+            "testify",
+            "verify"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "appraise",
+            "to identify"
+          ],
+          "tran_cn": "鉴定；证明…是真实的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "鉴定；证明…是真实的",
+      "tran_en": "to prove that something is true or real"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "证明是真实的、可靠的或有效的，鉴定，使生效",
+      "tran_en": "If you authenticate something, you state officially that it is genuine after examining it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "authenticates"
+    ],
+    "past": [
+      "authenticated"
+    ],
+    "done": [
+      "authenticated"
+    ],
+    "ing": [
+      "authenticating"
+    ],
+    "noun": [
+      "authentication"
+    ]
+  }
+}

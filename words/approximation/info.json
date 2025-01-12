@@ -1,0 +1,182 @@
+{
+  "word": "approximation",
+  "ipa": {
+    "us": "əˌprɒksɪˈmeɪʃn",
+    "uk": "əˌprɑksɪˈmeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "As an approximation he should understand enough computer programming.",
+      "cn": "他大体上要弄懂足够的计算机程序编制."
+    },
+    {
+      "en": "Clearly that's an approximation, but my guess is there'll be a reasonable balance.",
+      "cn": "很明显那是个粗略的估计，但我猜会有一笔不少的余额。"
+    },
+    {
+      "en": "He had coarsened his voice to an approximation of Cockney.",
+      "cn": "他让自己的口音变得粗俗起来，接近伦敦东区的发音。"
+    },
+    {
+      "en": "Its discovery engendered the'sudden freezing \" approximation for relaxing nozzle flows.",
+      "cn": "这一事实的发现导致了松驰喷管流动 “ 突然冻结 ” 的近似概念."
+    },
+    {
+      "en": "Levins chooses another approximation to solve the problem of the combined effects of migration and seletion.",
+      "cn": "莱温斯采用了另一种近似法来解决迁移和选择的联合效应问题."
+    },
+    {
+      "en": "Newton's theory of gravitation is an approximation of a more general theory.",
+      "cn": "牛顿的引力理论只是一种更普遍理论的近似形式."
+    },
+    {
+      "en": "That is a fair approximation of the way in which the next boss is being chosen.",
+      "cn": "那和下一任老板的选任方式相当类似。"
+    },
+    {
+      "en": "That's just an approximation, you understand.",
+      "cn": "你知道那仅仅是近似值。"
+    },
+    {
+      "en": "The adequacy of this approximation is considered later.",
+      "cn": "这种近似方法的适用性将在后面再讨论."
+    },
+    {
+      "en": "The black - disk approximation used so far reproduces the coarse features, but not the finer details.",
+      "cn": "应用至今的黑圆盘近似值虽然再现了概貌, 但不能再现更为详细的细节."
+    },
+    {
+      "en": "The jellium model in a certain approximation leads to the equation.",
+      "cn": "凝胶模型在某种近似下导致下列方程."
+    },
+    {
+      "en": "The remnant n ( t ) is the difference between the actual pilot output and the linear approximation to it.",
+      "cn": "剩余值n ( t ) 是驾驶员的真实输出和它的线性近似之差."
+    },
+    {
+      "en": "The successive approximation converter is of medium speed, and average resolution.",
+      "cn": "逐次逼近式转换器具有中等的速度和分辨率."
+    },
+    {
+      "en": "This is only a crude approximation of the actual conditions in the area.",
+      "cn": "这只是对这一地区实际情况的粗略估计."
+    },
+    {
+      "en": "This is the nearest approximation of cost that they can give us.",
+      "cn": "这是他们能够给我们的最接近的费用估价."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "approximative",
+          "tran_cn": " 近似的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "approximately",
+          "tran_cn": " 大约，近似地；近于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "neighborhood",
+            "proximity"
+          ],
+          "tran_cn": "[数]近似法；接近；近似值"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comparison",
+            "correspondence",
+            "similarity"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "adiabatic approximation",
+      "tran_cn": "绝热近似"
+    },
+    {
+      "phrase": "approximation error",
+      "tran_cn": "近似误差"
+    },
+    {
+      "phrase": "approximation method",
+      "tran_cn": "近似方法；近似法；尝试法"
+    },
+    {
+      "phrase": "approximation theorem",
+      "tran_cn": "逼近定理"
+    },
+    {
+      "phrase": "born approximation",
+      "tran_cn": "玻恩近似；玻饵似"
+    },
+    {
+      "phrase": "degree of approximation",
+      "tran_cn": "近似度，逼近度"
+    },
+    {
+      "phrase": "first approximation",
+      "tran_cn": "第一近似值"
+    },
+    {
+      "phrase": "initial approximation",
+      "tran_cn": "初始近似值；起始方位；初始近似"
+    },
+    {
+      "phrase": "least square approximation",
+      "tran_cn": "最小平方逼近"
+    },
+    {
+      "phrase": "linear approximation",
+      "tran_cn": "线性近似，线性逼近"
+    },
+    {
+      "phrase": "method of approximation",
+      "tran_cn": "近似法"
+    },
+    {
+      "phrase": "quadratic approximation",
+      "tran_cn": "二次逼近"
+    },
+    {
+      "phrase": "successive approximation",
+      "tran_cn": "连续的近似值；连续的学习步骤；逐次近似计算法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "近似（值），类似事物",
+      "tran_en": "a number, amount etc that is not exact, but is almost correct"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "approximations"
+    ]
+  }
+}

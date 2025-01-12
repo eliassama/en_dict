@@ -1,0 +1,201 @@
+{
+  "word": "finite",
+  "ipa": {
+    "us": "ˈfaɪnaɪt",
+    "uk": "ˈfaɪnaɪt"
+  },
+  "sentences": [
+    {
+      "en": "a finite number of possibilities",
+      "cn": "为数有限的可能"
+    },
+    {
+      "en": "Damping wakes possible finite steady - state vibration amplitude at resonance.",
+      "cn": "在共振时,阻尼可能限制稳定振动的振幅."
+    },
+    {
+      "en": "Finite personalities are insubstantial fragments of this engulfing spiritual unity.",
+      "cn": "有限的人格是这种兼容并包的精神统一的非实体的碎片."
+    },
+    {
+      "en": "For finite - dimensional spaces determinants can be brought into play.",
+      "cn": "在有限维空间中可以运用行列式."
+    },
+    {
+      "en": "Human knowledge is finite , ie There are things we do not know.",
+      "cn": "人类的认识是有限的."
+    },
+    {
+      "en": "Human understanding is finite.",
+      "cn": "人的理解力是有限的."
+    },
+    {
+      "en": "Incense can attune the finite to the Infinite .",
+      "cn": "薰香可以使有限调谐至无限。"
+    },
+    {
+      "en": "Only a finite number of situations can arise.",
+      "cn": "只有有限的几种情况可能会发生。"
+    },
+    {
+      "en": "Taylor's exposition based on what we would call finite differences.",
+      "cn": "泰勒的阐述是建立在我们叫作有限差分的基础上的."
+    },
+    {
+      "en": "the earth’s finite resources",
+      "cn": "地球有限的资源"
+    },
+    {
+      "en": "The finite element method does not exhaust the possibilities for variational methods.",
+      "cn": "有限单元法不能排除变分法."
+    },
+    {
+      "en": "The finite size of real particles compounds the difficulty.",
+      "cn": "实际粒子的有限大小增加了困难度."
+    },
+    {
+      "en": "The foregoing examples suggest some advantages of the finite element method.",
+      "cn": "从上述例子可看出有限单元方法的某些优点."
+    },
+    {
+      "en": "The fossil fuels (coal and oil) are finite resources.",
+      "cn": "化石燃料（如煤和石油）属于有限资源。"
+    },
+    {
+      "en": "The world's resources are finite.",
+      "cn": "世界的资源是有限的。"
+    },
+    {
+      "en": "To maintain a logical presentation we start with the simplest finite - difference scheme.",
+      "cn": "为了按逻辑来表达,我们从最简单的有限差分格式开始."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "finiteness",
+          "tran_cn": " [数] 有限性"
+        },
+        {
+          "word": "finitude",
+          "tran_cn": " 有限；界限；限制"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "bounded",
+            "countable",
+            "definable",
+            "delimitated",
+            "delimited",
+            "demarcated",
+            "fixed",
+            "limited",
+            "measurable",
+            "restricted",
+            "terminable"
+          ],
+          "tran_cn": "有限的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "finite automaton",
+      "tran_cn": "有限自动机"
+    },
+    {
+      "phrase": "finite deformation",
+      "tran_cn": "有限变形；有限形变"
+    },
+    {
+      "phrase": "finite difference",
+      "tran_cn": "有限差"
+    },
+    {
+      "phrase": "finite difference equation",
+      "tran_cn": "有限差分方程"
+    },
+    {
+      "phrase": "finite difference method",
+      "tran_cn": "有限差分法"
+    },
+    {
+      "phrase": "finite difference scheme",
+      "tran_cn": "[计]有限差分格式"
+    },
+    {
+      "phrase": "finite element",
+      "tran_cn": "有限元"
+    },
+    {
+      "phrase": "finite element analysis",
+      "tran_cn": "有限元分析"
+    },
+    {
+      "phrase": "finite element method",
+      "tran_cn": "[计]有限元法；[化]有限单元法"
+    },
+    {
+      "phrase": "finite element method (fem)",
+      "tran_cn": "有限元素法"
+    },
+    {
+      "phrase": "finite element method (FEM)",
+      "tran_cn": "有限元素法"
+    },
+    {
+      "phrase": "finite element model",
+      "tran_cn": "有限元模式，有限元模型；有限单元体模式；有限要素模型"
+    },
+    {
+      "phrase": "finite field",
+      "tran_cn": "[计]有限域"
+    },
+    {
+      "phrase": "finite population",
+      "tran_cn": "有限总体；有限人口"
+    },
+    {
+      "phrase": "finite resource",
+      "tran_cn": "有限资源"
+    },
+    {
+      "phrase": "finite set",
+      "tran_cn": "有限集，有限集合"
+    },
+    {
+      "phrase": "finite strain",
+      "tran_cn": "有限应变"
+    },
+    {
+      "phrase": "finite value",
+      "tran_cn": "有限值；有限数值"
+    },
+    {
+      "phrase": "finite verb",
+      "tran_cn": "限定动词，定式动词"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有限的，限定的",
+      "tran_en": "having an end or a limit"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "有限之物"
+    }
+  ],
+  "exchange": {}
+}

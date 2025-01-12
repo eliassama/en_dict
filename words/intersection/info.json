@@ -1,0 +1,169 @@
+{
+  "word": "intersection",
+  "ipa": {
+    "us": "ˌɪntəˈsekʃn",
+    "uk": "ˌɪntərˈsekʃn"
+  },
+  "sentences": [
+    {
+      "en": "As she reached a road intersection, a Ford sedan stopped.",
+      "cn": "她走到交叉路口时, 一辆福特牌轿车停了下来."
+    },
+    {
+      "en": "Bridges are used to avoid the intersection of a railway and a highway.",
+      "cn": "桥用来避免铁路和公路直接交叉."
+    },
+    {
+      "en": "Follow this road and see that intersection there?",
+      "cn": "沿着这条路走,你看到那个十字路口了 吗 ?"
+    },
+    {
+      "en": "In System / 38 graphics, the default result of the intersection of two or more colors.",
+      "cn": "在IBMSystem/38图形技术中, 系统将两种或两两种以上颜色合成后的自然结果."
+    },
+    {
+      "en": "It was blocking the intersection while people were trying to cross the street.",
+      "cn": "当人们都要过十字路口的时候,它堵塞在那儿."
+    },
+    {
+      "en": "Richard took the truck across the intersection heading north.",
+      "cn": "理查德把车开过交叉路口向北驶去."
+    },
+    {
+      "en": "Strike is the trace of the intersection of an obliquelyinclined plane with a horizontal reference plane.",
+      "cn": "走向是倾斜平面与水平参考成交线的迹线."
+    },
+    {
+      "en": "The car stopped at a street intersection.",
+      "cn": "这辆车停在十字路口."
+    },
+    {
+      "en": "The driver hesitated at the intersection, then turned right.",
+      "cn": "司机在交叉路口停了一会, 而后向右驶去."
+    },
+    {
+      "en": "The intersection of the q 1 - and the q 2 surfaces, defines a curve.",
+      "cn": "q1 和q2曲面的交线定义了一条曲线."
+    },
+    {
+      "en": "The main business section is three or four blocks south of the intersection.",
+      "cn": "从交叉路口向南过3个或4个街区就是主要的商业区."
+    },
+    {
+      "en": "The policeman regulated traffic at the intersection.",
+      "cn": "警察在交叉路口指挥交通."
+    },
+    {
+      "en": "The ship stopped at at the intersection of two main canals.",
+      "cn": "这艘船停在两条大运河的交汇处。"
+    },
+    {
+      "en": "The traffic banked up at the intersection.",
+      "cn": "车辆在交叉路口聚积起来."
+    },
+    {
+      "en": "There is a stop sign at an intersection.",
+      "cn": "在交叉路口处有停车标志."
+    },
+    {
+      "en": "We crossed at a busy intersection.",
+      "cn": "我们穿过了一个繁忙的道路交叉口。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "intersectant",
+          "tran_cn": " 交叉的，相交的"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "intersect",
+          "tran_cn": " 相交，交叉"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "intersect",
+          "tran_cn": " 横断，横切；贯穿"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "junction",
+            "chiasm"
+          ],
+          "tran_cn": "交叉；[交]十字路口；交集；交叉点"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "connection",
+            "corner",
+            "crossing",
+            "joint",
+            "union"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "intersection angle",
+      "tran_cn": "转角；交会角"
+    },
+    {
+      "phrase": "intersection curve",
+      "tran_cn": "相交曲线"
+    },
+    {
+      "phrase": "intersection line",
+      "tran_cn": "交叉线；相交线"
+    },
+    {
+      "phrase": "intersection point",
+      "tran_cn": "交点；交叉点"
+    },
+    {
+      "phrase": "point of intersection",
+      "tran_cn": "交点；交叉点"
+    },
+    {
+      "phrase": "road intersection",
+      "tran_cn": "道路交汇处；道路交叉口；道路交叉"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "横断，横切，交叉，相交，交叉点，交叉线，[数]交集",
+      "tran_en": "a place where roads, lines etc cross each other, especially where two roads meet"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "intersections"
+    ]
+  }
+}

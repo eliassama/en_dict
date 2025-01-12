@@ -1,0 +1,208 @@
+{
+  "word": "pointer",
+  "ipa": {
+    "us": "ˈpɔɪntə(r)",
+    "uk": "ˈpɔɪntɚ"
+  },
+  "sentences": [
+    {
+      "en": "A light pointer is often useful with a slide projector.",
+      "cn": "光指示器经常与幻灯片放映机一起使用."
+    },
+    {
+      "en": "By and by Aleck subscribed to a Chicago daily and for the WALL STREET POINTER.",
+      "cn": "不久,艾莱柯订了一份芝加哥的日报和一份《华尔街指数》."
+    },
+    {
+      "en": "His symptoms gave no obvious pointer to a possible diagnosis.",
+      "cn": "他的症状无法作出明确的诊断."
+    },
+    {
+      "en": "I can give him a pointer or two.",
+      "cn": "我可以给他出一两个点子."
+    },
+    {
+      "en": "I was a West Pointer and so I was in the artillery.",
+      "cn": "我从前是西点军校的学生,所以编在炮兵队里."
+    },
+    {
+      "en": "I'll blind you with my laser pointer.",
+      "cn": "我就用我的激光笔照瞎你们的眼睛."
+    },
+    {
+      "en": "Infantry may function as the pointer for aircraft and artillery.",
+      "cn": "步兵可以为飞机、大炮指示目标."
+    },
+    {
+      "en": "Move the mouse pointer to the menu bar.",
+      "cn": "将鼠标光标移向菜单栏."
+    },
+    {
+      "en": "Mr. Smith rapped on the board with his pointer to call the class to order.",
+      "cn": "史密斯先生用教鞭敲着黑板要求全班安静."
+    },
+    {
+      "en": "Position the mouse pointer and click.",
+      "cn": "把光标对准位置并点击。"
+    },
+    {
+      "en": "She tapped on the world map with her pointer.",
+      "cn": "她用教鞭敲了敲世界地图。"
+    },
+    {
+      "en": "Sunday's elections should be a pointer to the public mood.",
+      "cn": "从周日的选举可以看出公众的情绪。"
+    },
+    {
+      "en": "The cage is connected by a spindle to the torque spring and pointer.",
+      "cn": "用销子将其骨架结构与转矩弹簧和指针连接."
+    },
+    {
+      "en": "The pointer was between 35 and 40 pounds.",
+      "cn": "指针位于35和40磅之间。"
+    },
+    {
+      "en": "Warren had been talking along very solemnly, flourishing his pointer.",
+      "cn": "华伦一直很严肃地讲着, 挥动着手里的教鞭."
+    },
+    {
+      "en": "We can use an indicator with a pointer or a continuous recording device.",
+      "cn": "我们可以使用有指南针的指示器,或是连续记录的装置."
+    },
+    {
+      "en": "Where is Pointer? Where is Pointer?",
+      "cn": "指针在哪里? 指针在哪里?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pointed",
+          "tran_cn": " 尖的；突出的；锐利的；率直的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "pointedly",
+          "tran_cn": " 尖锐地；指向地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "point",
+          "tran_cn": " 要点；得分；标点；[机] 尖端"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "pointed",
+          "tran_cn": " 指出；瞄准（point的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "point",
+          "tran_cn": " 表明；指向"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "point",
+          "tran_cn": " 指向；弄尖；加标点于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "connotation",
+            "indicator",
+            "finger",
+            "index"
+          ],
+          "tran_cn": "[仪]指针；[计]指示器；教鞭；暗示"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arrow",
+            "needle",
+            "recommendation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "instruction pointer",
+      "tran_cn": "指令指标"
+    },
+    {
+      "phrase": "laser pointer",
+      "tran_cn": "激光教鞭，激光棒；雷射指示器"
+    },
+    {
+      "phrase": "mouse pointer",
+      "tran_cn": "n. [计]鼠标指针"
+    },
+    {
+      "phrase": "null pointer",
+      "tran_cn": "空指针"
+    },
+    {
+      "phrase": "pointer type",
+      "tran_cn": "指针类型"
+    },
+    {
+      "phrase": "pointer variable",
+      "tran_cn": "[计]指针变量；[计]指示字变量"
+    },
+    {
+      "phrase": "stack pointer",
+      "tran_cn": "栈指针；栈指示器；堆栈指示字"
+    },
+    {
+      "phrase": "wire pointer",
+      "tran_cn": "钢丝压尖机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "建议，线索，教鞭，（测量仪器上的）指针",
+      "tran_en": "a thin piece of metal that points to a number or direction on a piece of equipment, for example on a measuring instrument"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "pointers"
+    ]
+  }
+}

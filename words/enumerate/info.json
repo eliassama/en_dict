@@ -1,0 +1,156 @@
+{
+  "word": "enumerate",
+  "ipa": {
+    "us": "ɪˈnjuːməreɪt",
+    "uk": "ɪˈnuːməreɪt"
+  },
+  "sentences": [
+    {
+      "en": "Enumeration window in two ways, two ways to enumerate the window.",
+      "cn": "枚举窗口两种方法, 枚举窗口两种方法."
+    },
+    {
+      "en": "I enumerate the work that will have to be done.",
+      "cn": "我列举了必须得做的一些工作。"
+    },
+    {
+      "en": "I will not enumerate them.",
+      "cn": "我不想在这里列举她们的名字."
+    },
+    {
+      "en": "It would be tedious to stop to enumerate them.",
+      "cn": "如果停下来逐一列举,那会冗长乏味."
+    },
+    {
+      "en": "Its applications are too varied to enumerate.",
+      "cn": "它的用途不胜枚举."
+    },
+    {
+      "en": "The errors are too many to enumerate.",
+      "cn": "错误太多,不胜枚举."
+    },
+    {
+      "en": "The heroic deeds of the people's soldiers are too numerous to enumerate.",
+      "cn": "人民子弟兵的事迹举不胜举."
+    },
+    {
+      "en": "The names of items are too numerous to enumerate.",
+      "cn": "名目繁多不胜枚举."
+    },
+    {
+      "en": "The process could not enumerate changes at the Subscriber.",
+      "cn": "进程未能枚举在订阅服务器上的更改."
+    },
+    {
+      "en": "The process could not enumerate deletions at the'% 1 '.",
+      "cn": "进程未能枚举在“%1 ” 上的删除."
+    },
+    {
+      "en": "There were many other interesting figures , too many to enumerate.",
+      "cn": "还有好多有趣的人, 简直不胜枚举."
+    },
+    {
+      "en": "This article enumerate some Halogen - based oxidants and their some important applying examples.",
+      "cn": "本文列举了一些含卤族元素的氧化剂对不同种类醇的选择性氧化实例."
+    },
+    {
+      "en": "To begin, we enumerate all possible ways in which the coins can land.",
+      "cn": "首先, 让我们列出硬币落在盘中时所有可能出现的方式."
+    },
+    {
+      "en": "We found more children at the circus than we could enumerate.",
+      "cn": "我们见到数不清的孩子在看马戏."
+    },
+    {
+      "en": "Yet it is too difficult to enumerate Dresier's faults.",
+      "cn": "然而,要罗列德莱塞的缺点真是太不容易了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "enumerable",
+          "tran_cn": " 可列举的；可点数的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "enumeration",
+          "tran_cn": " 列举；[数] 计算；细目"
+        },
+        {
+          "word": "enumerator",
+          "tran_cn": " 人口调查员；计数器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "count",
+            "list",
+            "number",
+            "specify",
+            "tally"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "calculate",
+            "compute",
+            "count",
+            "list",
+            "number",
+            "reckon",
+            "tally"
+          ],
+          "tran_cn": "举出;计算"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "列举；枚举；计算",
+      "tran_en": "to name a list of things one by one"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "列举，枚举，数"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "enumerates"
+    ],
+    "past": [
+      "enumerated"
+    ],
+    "done": [
+      "enumerated"
+    ],
+    "ing": [
+      "enumerating"
+    ],
+    "noun": [
+      "enumeration"
+    ]
+  }
+}

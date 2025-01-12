@@ -1,0 +1,185 @@
+{
+  "word": "synchronise",
+  "ipa": {
+    "us": "'sɪŋkrənaɪz",
+    "uk": "'sɪŋkrəˌnaɪz"
+  },
+  "sentences": [
+    {
+      "en": "It was virtually impossible to synchronise our lives so as to take holidays and weekends together.",
+      "cn": "想让我们的生活步调保持一致好一起去度假和过周末几乎是不可能的事。"
+    },
+    {
+      "en": "Synchronise the arrival of multiple packages with different points of origin.",
+      "cn": "让不同起始点的多个包裹同时到达."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "synchro",
+          "tran_cn": " 同步的"
+        },
+        {
+          "word": "synchromesh",
+          "tran_cn": " 同步齿合的"
+        },
+        {
+          "word": "synchronal",
+          "tran_cn": " 同步的；同时的"
+        },
+        {
+          "word": "synchronic",
+          "tran_cn": " 不考虑历史上变化的；限于一时的；完全同步的"
+        },
+        {
+          "word": "synchronised",
+          "tran_cn": " 同步的"
+        },
+        {
+          "word": "synchronized",
+          "tran_cn": " 同步的；同步化的"
+        },
+        {
+          "word": "synchronizing",
+          "tran_cn": " 同步的"
+        },
+        {
+          "word": "synchronous",
+          "tran_cn": " 同步的；同时的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "synchro",
+          "tran_cn": " 同步机"
+        },
+        {
+          "word": "synchrocyclotron",
+          "tran_cn": " [核] 同步回旋加速器"
+        },
+        {
+          "word": "synchromesh",
+          "tran_cn": " 齿轮的同时咬合装置"
+        },
+        {
+          "word": "synchroneity",
+          "tran_cn": " 同时性；对照性历史年谱（等于synchronism）"
+        },
+        {
+          "word": "synchronicity",
+          "tran_cn": " 同步性，同时发生"
+        },
+        {
+          "word": "synchronisation",
+          "tran_cn": " 同步；同一时刻；同时发生"
+        },
+        {
+          "word": "synchroniser",
+          "tran_cn": " 同合器；同步器"
+        },
+        {
+          "word": "synchronism",
+          "tran_cn": " 同时发生，同步性；对照性历史年谱"
+        },
+        {
+          "word": "synchronization",
+          "tran_cn": " [物] 同步；同时性"
+        },
+        {
+          "word": "synchronizer",
+          "tran_cn": " [电] 同步装置；同步闪光装置"
+        },
+        {
+          "word": "synchronoscope",
+          "tran_cn": " 同步指示器；同步示波器；同期表；同步表"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "synchronised",
+          "tran_cn": " 使同时（synchronise的过去式和过去分词）"
+        },
+        {
+          "word": "synchronized",
+          "tran_cn": " 使协调（synchronize的过去分词）；同时发生；校准"
+        },
+        {
+          "word": "synchronizing",
+          "tran_cn": " 同步，整步（synchronize的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "synchronize",
+          "tran_cn": " 同步；同时发生"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "synchronize",
+          "tran_cn": " 使……合拍；使……同步"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "sync up",
+            "coincide"
+          ],
+          "tran_cn": "同步；同时发生"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "contemporize"
+          ],
+          "tran_cn": "使同步；使同时发生（等于synchronize）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "同步器"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 同步发生， 同速进行"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把（钟表）拨至相同的时间，校准"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）同步，（使）同速进行"
+    }
+  ],
+  "exchange": {}
+}

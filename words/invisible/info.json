@@ -1,0 +1,210 @@
+{
+  "word": "invisible",
+  "ipa": {
+    "us": "ɪnˈvɪzəbl",
+    "uk": "ɪnˈvɪzəbl"
+  },
+  "sentences": [
+    {
+      "en": "Bacteria are invisible to the naked eye.",
+      "cn": "细菌是肉眼看不见的."
+    },
+    {
+      "en": "It was strange, how invisible a clerk could feel.",
+      "cn": "一名办事员会感到如此受人忽视，令人觉得不可思议。"
+    },
+    {
+      "en": "Many stars are invisible without a telescope.",
+      "cn": "许多星辰不用望远镜便看不见."
+    },
+    {
+      "en": "Many stars overhead are invisible to the naked eye.",
+      "cn": "天上的许多星星是肉眼看不到的."
+    },
+    {
+      "en": "Parents fear they might overstep these invisible boundaries.",
+      "cn": "父母担心他们可能会逾越这些无形的界限。"
+    },
+    {
+      "en": "She was invisible in the dusk of the room.",
+      "cn": "她在昏暗的房间里别人看不到她."
+    },
+    {
+      "en": "stars invisible to the naked eye",
+      "cn": "肉眼看不见的星球"
+    },
+    {
+      "en": "The air is full of millions of invisible germs.",
+      "cn": "空气中充满了许多看不见的细菌."
+    },
+    {
+      "en": "The container is invisible until you shine an ultraviolet light on it.",
+      "cn": "那个柜子只有用紫外线照射才可以看见。"
+    },
+    {
+      "en": "The house was surrounded by trees, and invisible from the road.",
+      "cn": "这所房子树木环绕，从路上是看不见的。"
+    },
+    {
+      "en": "The invisible trade surplus was £200 million lower than reported.",
+      "cn": "无形贸易盈余比报道所称的少2亿英镑。"
+    },
+    {
+      "en": "The mends were almost invisible.",
+      "cn": "补好的地方几乎看不出来."
+    },
+    {
+      "en": "The problems of the poor are largely invisible.",
+      "cn": "穷人的问题大多不受重视。"
+    },
+    {
+      "en": "The revenue from tourism is the biggest single item in the country's invisible earnings.",
+      "cn": "旅游业收入是该国无形收益当中最大的一项。"
+    },
+    {
+      "en": "There’s an invisible barrier that keeps women out of top jobs.",
+      "cn": "女性想进入职场高层存在着无形的障碍。"
+    },
+    {
+      "en": "Tourism is Britain's single biggest invisible export.",
+      "cn": "旅游业是英国最大的一项无形输出。"
+    },
+    {
+      "en": "When I called, he was invisible.",
+      "cn": "我去访问时, 他没露面."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "invisibly",
+          "tran_cn": " 看不见地；看不出地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "invisibility",
+          "tran_cn": " 看不见；看不见的东西；难看见"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "impalpable",
+            "imperceptible",
+            "imponderable",
+            "inappreciable",
+            "indiscernible",
+            "intangible",
+            "transparent",
+            "unapparent",
+            "unnoticeable"
+          ],
+          "tran_cn": "不明显的,微不足道的,无形的"
+        },
+        {
+          "words": [
+            "covered-up",
+            "covert",
+            "hush-hush",
+            "secret",
+            "top-secret",
+            "undercover",
+            "undisclosed",
+            "undivulged",
+            "unexposed",
+            "unrevealed"
+          ],
+          "tran_cn": "未显示的,遮掩的,秘密的"
+        },
+        {
+          "words": [
+            "imperceivable",
+            "imperceptible",
+            "indiscernible",
+            "indistinguishable"
+          ],
+          "tran_cn": "看不见的,不能区分的"
+        },
+        {
+          "words": [
+            "camouflaged",
+            "cloaked",
+            "concealed",
+            "disguised",
+            "hidden",
+            "masked",
+            "of",
+            "out",
+            "screened",
+            "shrouded",
+            "sight",
+            "unnoticed",
+            "unperceived",
+            "unseen",
+            "veiled"
+          ],
+          "tran_cn": "隐藏的,不露面的,伪装的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aerial"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "invisible assets",
+      "tran_cn": "无形资产"
+    },
+    {
+      "phrase": "invisible hand",
+      "tran_cn": "看不见的手"
+    },
+    {
+      "phrase": "invisible ink",
+      "tran_cn": "隐形墨水"
+    },
+    {
+      "phrase": "invisible trade",
+      "tran_cn": "无形贸易"
+    },
+    {
+      "phrase": "invisible zipper",
+      "tran_cn": "隐形拉链"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "看不见的，无形的",
+      "tran_en": "something that is invisible cannot be seen"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "invisibly"
+    ],
+    "noun": [
+      "invisibility"
+    ]
+  }
+}

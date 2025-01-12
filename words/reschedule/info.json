@@ -1,0 +1,76 @@
+{
+  "word": "reschedule",
+  "ipa": {
+    "us": "ˌri:ˈʃedju:l",
+    "uk": "ˌriˈskedʒul"
+  },
+  "sentences": [
+    {
+      "en": "Date reschedule cannot be made without both definite reschedule requirement and reschedule fee before the deadline.",
+      "cn": "只有在截止期限之前收到具体的更改要求和更改费之后方能更改日期."
+    },
+    {
+      "en": "I need to reschedule my flight.",
+      "cn": "我要更改航班."
+    },
+    {
+      "en": "Same, I comprehend you this time this of mood, I can accept your reschedule.",
+      "cn": "同样, 我理解你此时此的心情, 我可以接受你的重新安排."
+    },
+    {
+      "en": "Shall we reschedule it for a later date?",
+      "cn": "我们可否重新安排稍晚一点的日期?"
+    },
+    {
+      "en": "Since I'll be away, I'd like to reschedule the meeting.",
+      "cn": "既然我将要离开，我想重新安排一下这次会议的时间。"
+    },
+    {
+      "en": "We had to reschedule the doctor's appointment.",
+      "cn": "我们得重订和这医生的约会."
+    },
+    {
+      "en": "We just missed our flight. Can you help us reschedule it?",
+      "cn": "我们误机了. 能不能帮我们重新签票 呢 ?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "replan"
+          ],
+          "tran_cn": "重新排定日程；重订时间表；重新计划"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "vt",
+      "tran_cn": "重新安排，重新计划",
+      "tran_en": "to arrange for something to happen at a different time from the one that was previously planned"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "reschedules"
+    ],
+    "past": [
+      "rescheduled"
+    ],
+    "done": [
+      "rescheduled"
+    ],
+    "ing": [
+      "rescheduling"
+    ],
+    "noun": [
+      "rescheduling"
+    ]
+  }
+}

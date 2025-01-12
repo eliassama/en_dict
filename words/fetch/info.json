@@ -1,0 +1,205 @@
+{
+  "word": "fetch",
+  "ipa": {
+    "us": "fetʃ",
+    "uk": "fetʃ"
+  },
+  "sentences": [
+    {
+      "en": "Facer has fainted; this bucket of water should fetch him round.",
+      "cn": "费塞昏过去了, 这桶水可以使他苏醒过来."
+    },
+    {
+      "en": "Fetch me a glass of water.",
+      "cn": "去给我拿杯水来。"
+    },
+    {
+      "en": "He sent his driver to fetch him a strawberry shake.",
+      "cn": "他让司机去给他买一杯草莓奶昔。"
+    },
+    {
+      "en": "He went to fetch some books.",
+      "cn": "他去拿一些书来。"
+    },
+    {
+      "en": "How much do you suppose these old books would fetch?",
+      "cn": "你看这些旧书能卖多少钱?"
+    },
+    {
+      "en": "I asked him to fetch me the evening paper.",
+      "cn": "我请他去给我把晚报拿来."
+    },
+    {
+      "en": "I had to fetch water from the well.",
+      "cn": "我得从井里打水。"
+    },
+    {
+      "en": "It's warm enough to fetch out the garden chairs.",
+      "cn": "天气转暖了,该把花园椅搬出来了."
+    },
+    {
+      "en": "Quick! Go and fetch a doctor.",
+      "cn": "快！去请医生来。"
+    },
+    {
+      "en": "Rose is very quiet. Try to fetch her out at the party.",
+      "cn": "露丝很文静, 设法鼓励她在聚会上说说话."
+    },
+    {
+      "en": "Shall I fetch your bag from the next room?",
+      "cn": "我到隔壁房间里把你的包拿来好 吗 ?"
+    },
+    {
+      "en": "Shannon went upstairs to fetch some blankets.",
+      "cn": "香农上楼去拿些毯子。"
+    },
+    {
+      "en": "Should I fetch your slippers?",
+      "cn": "要我去给你拿拖鞋吗？"
+    },
+    {
+      "en": "Sylvia fetched a towel from the bathroom.",
+      "cn": "西尔维娅从浴室拿来一条毛巾。"
+    },
+    {
+      "en": "The painting is expected to fetch at least $20 million.",
+      "cn": "这幅画预计至少能卖两千万美元。"
+    },
+    {
+      "en": "The painting is expected to fetch between two and three million pounds.",
+      "cn": "预计这幅画将售得两三百万英镑。"
+    },
+    {
+      "en": "These goods are obsolete and will not fetch much on the market.",
+      "cn": "这些货品过时了,在市场上卖不了高价."
+    },
+    {
+      "en": "This announcement fetched a huge cheer from the audience.",
+      "cn": "这一宣告博得听众极其热烈的欢呼声。"
+    },
+    {
+      "en": "We fetch up at the wharf exactly on time.",
+      "cn": "我们准时到达码头."
+    },
+    {
+      "en": "Why don't you fetch your new girlfriend over? We'd like to meet her.",
+      "cn": "为什么不把你新结识的女朋友带到家里来 呢 ?我们想见见她."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fetching",
+          "tran_cn": " 迷人的；动人的；吸引人的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "taking",
+            "procurement",
+            "scheme",
+            "fraud"
+          ],
+          "tran_cn": "取得；诡计"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bring"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "take"
+          ],
+          "tran_cn": "拿；取物；卖得"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "absorb",
+            "attract",
+            "engage",
+            "draw",
+            "strike"
+          ],
+          "tran_cn": "取来；接来；到达；吸引"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fetch and carry",
+      "tran_cn": "做杂务，当听差，跑腿"
+    },
+    {
+      "phrase": "fetch in",
+      "tran_cn": "引进，招来"
+    },
+    {
+      "phrase": "fetch information",
+      "tran_cn": "提取信息"
+    },
+    {
+      "phrase": "fetch out",
+      "tran_cn": "拿出；引出；使显出"
+    },
+    {
+      "phrase": "fetch up",
+      "tran_cn": "停顿；停止"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "取得；诡计"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "去拿，卖得，售得，去取",
+      "tran_en": "to make people react in a particular way"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 拿来； 请来， 接去； 售得， 卖得",
+      "tran_en": "to go and get something or someone and bring them back"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "fetches"
+    ],
+    "past": [
+      "fetched"
+    ],
+    "done": [
+      "fetched"
+    ],
+    "ing": [
+      "fetching"
+    ]
+  }
+}

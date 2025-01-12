@@ -1,0 +1,309 @@
+{
+  "word": "description",
+  "ipa": {
+    "us": "dɪˈskrɪpʃn",
+    "uk": "dɪˈskrɪpʃn"
+  },
+  "sentences": [
+    {
+      "en": "a picturesque description of life at sea",
+      "cn": "对海上生活生动的描述"
+    },
+    {
+      "en": "Berlin sounds fascinating from your description.",
+      "cn": "从你的描述来看，柏林是个迷人的城市。"
+    },
+    {
+      "en": "boats of every description /all descriptions",
+      "cn": "各种类型的船"
+    },
+    {
+      "en": "Could you just give us a description of your cat?",
+      "cn": "能否请您向我们描述一下您的猫？"
+    },
+    {
+      "en": "Doctors can get the wrong impression from even an accurate description.",
+      "cn": "即便很精确的病历也可能让医生产生错误的印象。"
+    },
+    {
+      "en": "Events of this description occurred daily.",
+      "cn": "这类事件天天发生。"
+    },
+    {
+      "en": "Her description of the nature and action of poisons is amazingly accurate.",
+      "cn": "他对一些毒药的性质和作用的描述惊人地准确。"
+    },
+    {
+      "en": "His courage beggars description.",
+      "cn": "他的胆量无法用语言来形容。"
+    },
+    {
+      "en": "His description fits perfectly the evidence dug up by Clyde.",
+      "cn": "他的描述和克莱德发现的证据正好吻合。"
+    },
+    {
+      "en": "his face was swollen beyond description.",
+      "cn": "他的脸肿得无法形容。"
+    },
+    {
+      "en": "Plainly, a more objective method of description must be adopted.",
+      "cn": "显而易见，必须采用更为客观的描述方法。"
+    },
+    {
+      "en": "She gave an exact description of the attacker.",
+      "cn": "她对袭击者的特征作了精确的描述。"
+    },
+    {
+      "en": "The book ends on a lengthy description of Hawaii.",
+      "cn": "这本书以对夏威夷的冗长描述为结尾。"
+    },
+    {
+      "en": "The booklet gives a brief description of each place.",
+      "cn": "这本小册子对每一个地方都作了简短的介绍。"
+    },
+    {
+      "en": "The description fits us to a tee.",
+      "cn": "这样的描述再适合我们不过了。"
+    },
+    {
+      "en": "The description was pretty vague.",
+      "cn": "描述相当模糊。"
+    },
+    {
+      "en": "the sheer scale of the Requiem defies description.",
+      "cn": "安魂弥撒的规模大得无法形容。"
+    },
+    {
+      "en": "This description didn't seem to tally with what we saw.",
+      "cn": "这一描述似乎与我们目睹的情况不符。"
+    },
+    {
+      "en": "Two men answer-ing the description of the suspects tried to enter Switzerland.",
+      "cn": "与描述的疑犯样子相符的两名男子试图进入瑞士。"
+    },
+    {
+      "en": "We were in a disaster situation that defies description.",
+      "cn": "我们陷入了难以言表的糟糕处境。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "describable",
+          "tran_cn": " 可记述的；可描写的"
+        },
+        {
+          "word": "described",
+          "tran_cn": " 描述的"
+        },
+        {
+          "word": "descriptive",
+          "tran_cn": " 描写的，叙述的；描写性的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "descriptively",
+          "tran_cn": " 叙述地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "descriptivism",
+          "tran_cn": " 描写主义；描述主义；描述论"
+        },
+        {
+          "word": "descriptor",
+          "tran_cn": " 描述符号"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "described",
+          "tran_cn": " 描述，描写（describe的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "describe",
+          "tran_cn": " 描述，形容；描绘"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "brand",
+            "breed",
+            "brood",
+            "class",
+            "denomination",
+            "feather",
+            "form",
+            "genre",
+            "genus",
+            "kidney",
+            "kind",
+            "manner",
+            "mould",
+            "sort",
+            "species",
+            "stamp",
+            "type",
+            "variety"
+          ],
+          "tran_cn": "种类"
+        },
+        {
+          "words": [
+            "account",
+            "category",
+            "characterization",
+            "chronicle",
+            "commentary",
+            "depiction",
+            "detailing",
+            "elaboration",
+            "explanation",
+            "illumination",
+            "illustrative",
+            "portrayal",
+            "recital",
+            "recitation",
+            "recountal",
+            "relation",
+            "report",
+            "sketch",
+            "specification",
+            "statement"
+          ],
+          "tran_cn": "说明"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "definition",
+            "explication",
+            "exposition",
+            "expression",
+            "invoice",
+            "portrait"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "beyond description",
+      "tran_cn": "极其，无法形容"
+    },
+    {
+      "phrase": "brief description",
+      "tran_cn": "简要说明；简介"
+    },
+    {
+      "phrase": "complete description",
+      "tran_cn": "完整的叙述，圆满的描述"
+    },
+    {
+      "phrase": "defy description",
+      "tran_cn": "（因异乎寻常而）无法形容"
+    },
+    {
+      "phrase": "description of goods",
+      "tran_cn": "货物摘要；货物名称"
+    },
+    {
+      "phrase": "detailed description",
+      "tran_cn": "详细描述；详细说明"
+    },
+    {
+      "phrase": "formal description",
+      "tran_cn": "形式描述"
+    },
+    {
+      "phrase": "full description",
+      "tran_cn": "完整叙述，充分的描述"
+    },
+    {
+      "phrase": "functional description",
+      "tran_cn": "[计]功能性说明"
+    },
+    {
+      "phrase": "general description",
+      "tran_cn": "一般说明，总则"
+    },
+    {
+      "phrase": "give a description of",
+      "tran_cn": "描写，描述；对…进行描述"
+    },
+    {
+      "phrase": "item description",
+      "tran_cn": "项目描述"
+    },
+    {
+      "phrase": "job description",
+      "tran_cn": "工作说明"
+    },
+    {
+      "phrase": "physical description",
+      "tran_cn": "物理描述；外形著录"
+    },
+    {
+      "phrase": "problem description",
+      "tran_cn": "问题描述，问题说明"
+    },
+    {
+      "phrase": "product description",
+      "tran_cn": "产品描述；产品说明；产品介绍"
+    },
+    {
+      "phrase": "short description",
+      "tran_cn": "简短说明；简要说明；短注释"
+    },
+    {
+      "phrase": "technical description",
+      "tran_cn": "技术说明"
+    },
+    {
+      "phrase": "vivid description",
+      "tran_cn": "生动的描述；生动的报导"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "描述，说明，种类，性质",
+      "tran_en": "a piece of writing or speech that gives details about what someone or something is like"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "descriptions"
+    ]
+  }
+}

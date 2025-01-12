@@ -1,0 +1,65 @@
+{
+  "word": "contiguity",
+  "ipa": {
+    "us": "ˌkɒntɪ'ɡju:ətɪ",
+    "uk": "ˌkɒntɪ'ɡjuətɪ"
+  },
+  "sentences": [
+    {
+      "en": "Our apartment building's contiguity to a supermarket is very convenient.",
+      "cn": "我们的公寓和超级市场相邻,购物相当方便."
+    },
+    {
+      "en": "Scientists want to investigate the relation between xerophthalmia occurrence and smut contiguity.",
+      "cn": "科学家们打算探讨干眼症与煤尘接触之间的关系."
+    },
+    {
+      "en": "Taking into consideration of their contiguity to China.",
+      "cn": "考虑到他们与中国相邻."
+    },
+    {
+      "en": "The contiguity of the house and the garage was a convenience in bad weather.",
+      "cn": "房屋与车房的接近在坏天气时是一项便利."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "contiguous",
+          "tran_cn": " 连续的；邻近的；接触的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "touch",
+            "neighbourhood"
+          ],
+          "tran_cn": "邻近，接触"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "接近，一连串的事物，一系列，一大片"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "contiguities"
+    ],
+    "adj": [
+      "contiguous"
+    ]
+  }
+}

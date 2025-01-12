@@ -1,0 +1,82 @@
+{
+  "word": "emaciate",
+  "ipa": {
+    "us": "ɪ'meɪʃɪeɪt",
+    "uk": "ɪˈmeʃiˌet"
+  },
+  "sentences": [
+    {
+      "en": "To cause to become lean, usually by starvation; emaciate.",
+      "cn": "使消瘦通常通过饥饿使变瘦；使消瘦。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "emaciated",
+          "tran_cn": " 瘦弱的；憔悴的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "emaciation",
+          "tran_cn": " 消瘦，瘦弱；憔悴"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "emaciated",
+          "tran_cn": " 憔悴；消瘦下去（emaciate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "debilitate",
+            "devitalize"
+          ],
+          "tran_cn": "使消瘦；使衰弱；使贫瘠"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使憔悴, 使消瘦",
+      "tran_en": "to become or cause to become abnormally thin "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使消瘦，使衰弱"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "emaciates"
+    ],
+    "past": [
+      "emaciated"
+    ],
+    "done": [
+      "emaciated"
+    ],
+    "ing": [
+      "emaciating"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "word": "antedate",
+  "ipa": {
+    "us": "ˌæntiˈdeɪt",
+    "uk": "ˈæntɪˌdet"
+  },
+  "sentences": [
+    {
+      "en": "All this is not to antedate the demise of the empire.",
+      "cn": "这一切不会使帝国提前衰亡."
+    },
+    {
+      "en": "The cold weather antedate ed their departure.",
+      "cn": "寒冷的天气使他们提前离开."
+    },
+    {
+      "en": "The economic troubles antedate the current administration.",
+      "cn": "这些经济问题早在现任政府就职之前就已出现。"
+    },
+    {
+      "en": "The Invoice be antedate to january 1 st.",
+      "cn": "将该发票日期填早到1月1日."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "antecede",
+            "come",
+            "first",
+            "forego",
+            "forerun",
+            "precede",
+            "predate"
+          ],
+          "tran_cn": "先行"
+        },
+        {
+          "words": [
+            "accelerate",
+            "hasten",
+            "hurry",
+            "precipitate",
+            "speed",
+            "up"
+          ],
+          "tran_cn": "加速,使提前发生"
+        },
+        {
+          "words": [
+            "anticipate"
+          ],
+          "tran_cn": "预期"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "比实际提前的日期",
+      "tran_en": "an earlier date "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "先于；前于",
+      "tran_en": "to come from an earlier time in history than something else"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（在历史上）比…为早，先于，早于，（在信、支票等上）填写比实际日期早的日期"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "antedates"
+    ],
+    "past": [
+      "antedated"
+    ],
+    "done": [
+      "antedated"
+    ],
+    "ing": [
+      "antedating"
+    ]
+  }
+}

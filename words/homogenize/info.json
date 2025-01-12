@@ -1,0 +1,118 @@
+{
+  "word": "homogenize",
+  "ipa": {
+    "us": "həʊ'mɒdʒənaɪz",
+    "uk": "həˈmɑdʒəˌnaɪz, ho-"
+  },
+  "sentences": [
+    {
+      "en": "ANHYDROUS is produced from fresh milk which is Separated and disinfected and press homogenize.",
+      "cn": "黄油又称无水奶油是从新鲜牛奶中把乳脂经分离、消毒、压炼、均质等过程提炼而成."
+    },
+    {
+      "en": "Data warehouse ( DW ) can homogenize isomeric data and has a complex analysis function.",
+      "cn": "现有的基于数据库系统的水环境质量评价系统面向的对象单一,分析功能弱."
+    },
+    {
+      "en": "Distributive mixing is empolyed to homogenize the polymer melt . Distributive mixing relis on high polymer strain rates.",
+      "cn": "事实上,从老外的定义可以非常清楚的看到两者的区别."
+    },
+    {
+      "en": "Homogenize the main ingredients.",
+      "cn": "搅匀主要成分."
+    },
+    {
+      "en": "plans to homogenize the various school systems",
+      "cn": "统一各类不同学制的计划"
+    },
+    {
+      "en": "Return the mixture to the blender and puree briefly to homogenize the liquid.",
+      "cn": "又将煮好的混合液体倒入搅拌机中充分搅打至无颗粒."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "homogeneous",
+          "tran_cn": " 均匀的；[数] 齐次的；同种的"
+        },
+        {
+          "word": "homogenized",
+          "tran_cn": " 成为均匀分布的微粒的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "homogenization",
+          "tran_cn": " 均化；[机] 均化作用"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "homogenized",
+          "tran_cn": " 使均匀；使类同；使（牛奶、奶油等中的油脂粒）分布均匀；变均匀（homogenize的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "homogenise",
+          "tran_cn": " （英）使均匀（等于homogenize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "uniformize"
+          ],
+          "tran_cn": "使均匀；使类同"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "均质化",
+      "tran_en": "to change something so that its parts become similar or the same"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "变均匀"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使类同，使…均质"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "homogenizes"
+    ],
+    "past": [
+      "homogenized"
+    ],
+    "done": [
+      "homogenized"
+    ],
+    "ing": [
+      "homogenizing"
+    ]
+  }
+}

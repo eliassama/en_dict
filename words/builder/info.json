@@ -1,0 +1,174 @@
+{
+  "word": "builder",
+  "ipa": {
+    "us": "ˈbɪldə(r)",
+    "uk": "ˈbɪldər"
+  },
+  "sentences": [
+    {
+      "en": "After the big job was finished, the builder cut back the number of men looking for him.",
+      "cn": "那幢大建筑物完工后, 建筑师便裁减了许多人."
+    },
+    {
+      "en": "He got a job as a builder's labourer.",
+      "cn": "他找到了一份建筑工人的工作."
+    },
+    {
+      "en": "If you think that the repair is going to be a difficult job, we'll just have to call in a builder.",
+      "cn": "如果你认为这项修理工作很困难的话, 我们就得去请个建筑工人来了."
+    },
+    {
+      "en": "It is cheaper to have extra building work done when the builder is on site.",
+      "cn": "建筑工在现场干活时，让他额外做工的话工钱会便宜一些。"
+    },
+    {
+      "en": "The builder costed the job at $ 1 , 000.",
+      "cn": "这活儿营造商估价为1000元."
+    },
+    {
+      "en": "The builder failed to fulfil the terms of his obligation.",
+      "cn": "营造商未能履行合同的条款."
+    },
+    {
+      "en": "The builder had a commitment to finish the work on time.",
+      "cn": "那个承建商答应过准时完工."
+    },
+    {
+      "en": "The builder heightened the doorway to accommodate the tall owner.",
+      "cn": "建筑者把门口加高以适应这个高个子房主的需要."
+    },
+    {
+      "en": "The builder looked at me as though I was barking mad.",
+      "cn": "那个建筑工人瞅着我，好像我哪不对劲儿似的。"
+    },
+    {
+      "en": "The builder reckons 15 man - hours for the job.",
+      "cn": "建者估计这个活儿需要15个工时."
+    },
+    {
+      "en": "The builder wedges the wooden partition to the overhead construction.",
+      "cn": "建筑工人把木隔板?a在顶部的结构上."
+    },
+    {
+      "en": "The builders have finished the roof.",
+      "cn": "建筑工人们已经完成了屋顶的建造。"
+    },
+    {
+      "en": "The house is never built for less than the builder counted on.",
+      "cn": "造房子的钱绝不会比造房子的人原先估计的少."
+    },
+    {
+      "en": "The job was costed by builder at about $ 1500.",
+      "cn": "这件活儿施工人员估计要1500美元."
+    },
+    {
+      "en": "This assumption will be justified by the work of the builder.",
+      "cn": "这个假定要由建筑师的工作来保证."
+    },
+    {
+      "en": "We asked our builder to estimate for the repair of the ceiling.",
+      "cn": "我们要求营造商估算一下修理天花板的费用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "built",
+          "tran_cn": " 身段优美的；…建成的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "build",
+          "tran_cn": " 构造；体形；体格"
+        },
+        {
+          "word": "building",
+          "tran_cn": " 建筑；建筑物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "building",
+          "tran_cn": " 建筑；建立；增加（build的ing形式）"
+        },
+        {
+          "word": "built",
+          "tran_cn": " 建造（build的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "build",
+          "tran_cn": " 建筑；建造"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "build",
+          "tran_cn": " 建立；建筑"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "founder",
+            "erector"
+          ],
+          "tran_cn": "建筑者；建立者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "architect",
+            "carpenter",
+            "contractor",
+            "inventor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "query builder",
+      "tran_cn": "查询生成器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "建筑工人(公司)，开发者",
+      "tran_en": "a person or a company that builds or repairs buildings"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "builders"
+    ]
+  }
+}

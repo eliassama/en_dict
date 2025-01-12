@@ -1,0 +1,196 @@
+{
+  "word": "frequent",
+  "ipa": {
+    "us": "'friːkw(ə)nt",
+    "uk": "'frikwənt"
+  },
+  "sentences": [
+    {
+      "en": "a gentle shampoo for frequent washing",
+      "cn": "供经常洗发用的柔性洗发剂"
+    },
+    {
+      "en": "Bordeaux is on the main Paris-Madrid line so there are frequent trains.",
+      "cn": "波尔多位于巴黎到马德里的铁路主干线上，来往列车频繁。"
+    },
+    {
+      "en": "He took frequent junkets with friends to exotic locales.",
+      "cn": "他经常和朋友们到一些具有异国情调的地方公款游玩。"
+    },
+    {
+      "en": "Machinery was often unprotected and accidents were frequent.",
+      "cn": "机器常裸露着，因此事故频仍。"
+    },
+    {
+      "en": "Research is also advanced by frequent conference to exchange experience.",
+      "cn": "经常开会交流经验也促进了研究工作的发展."
+    },
+    {
+      "en": "She gives frequent performances of her work, both at home and abroad.",
+      "cn": "她经常在国内外演出自己的作品。"
+    },
+    {
+      "en": "She is a frequent traveller to Belgium.",
+      "cn": "她经常到比利时去旅行。"
+    },
+    {
+      "en": "She was a frequent visitor to the house.",
+      "cn": "她是家里的常客。"
+    },
+    {
+      "en": "Symptoms included frequent dryness in the mouth.",
+      "cn": "症状包括经常口干舌燥。"
+    },
+    {
+      "en": "The engineer and his son held frequent consultations concerning technical problems.",
+      "cn": "工程师和他的儿子经常就技术问题互相征求意见。"
+    },
+    {
+      "en": "The jet-setting couple made frequent appearances in the gossip columns.",
+      "cn": "这对穿梭于各国的富豪夫妇经常出现在八卦专栏。"
+    },
+    {
+      "en": "The professor has been a frequent target for animal rights extremists.",
+      "cn": "那位教授屡屡受到极端动物保护主义者的抨击。"
+    },
+    {
+      "en": "The sufferer can experience frequent relapses.",
+      "cn": "患者可能会频繁发病。"
+    },
+    {
+      "en": "There was frequent thunder and lightning, and torrential rain.",
+      "cn": "雷电交加，大雨倾盆。"
+    },
+    {
+      "en": "They made frequent checks on his respiration, pulse and blood.",
+      "cn": "他们经常检查他的呼吸 、 脉搏和血液."
+    },
+    {
+      "en": "They move house fairly frequent-ly.",
+      "cn": "他们搬家相当频繁。"
+    },
+    {
+      "en": "Trains rushed past at frequent intervals .",
+      "cn": "火车频频驶过。"
+    },
+    {
+      "en": "Trains rushed past at frequent intervals.",
+      "cn": "火车频频驶过。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "frequently",
+          "tran_cn": " 频繁地，经常地；时常，屡次"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "frequency",
+          "tran_cn": " 频率；频繁"
+        },
+        {
+          "word": "frequenter",
+          "tran_cn": " 常客；常常来访者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "common",
+            "habitual",
+            "many",
+            "prevalent",
+            "recurrent",
+            "regular"
+          ],
+          "tran_cn": "频繁的;惯常的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accustomed",
+            "common",
+            "constant",
+            "continual",
+            "customary",
+            "habitual",
+            "haunt",
+            "infrequent",
+            "many",
+            "prevalent",
+            "rare",
+            "recurrent",
+            "regular",
+            "resort"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "haunt",
+            "often",
+            "visit"
+          ],
+          "tran_cn": "常到;常去"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "frequent flyer",
+      "tran_cn": "飞行常客"
+    },
+    {
+      "phrase": "frequent visitor",
+      "tran_cn": "常客；熟客"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "频繁的",
+      "tran_en": "happening or doing something often"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "常去",
+      "tran_en": "to go to a particular place often"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "frequents"
+    ],
+    "past": [
+      "frequented"
+    ],
+    "done": [
+      "frequented"
+    ],
+    "ing": [
+      "frequenting"
+    ]
+  }
+}

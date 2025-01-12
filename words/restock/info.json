@@ -1,0 +1,85 @@
+{
+  "word": "restock",
+  "ipa": {
+    "us": "ˌri:ˈstɒk",
+    "uk": "ˌriˈstɑk"
+  },
+  "sentences": [
+    {
+      "en": "And if you restock the shelves , they will steal it again.",
+      "cn": "如果你再度存储, 他们会再盗一次."
+    },
+    {
+      "en": "I have to restock the freezer.",
+      "cn": "我得往冰箱里再放点东西。"
+    },
+    {
+      "en": "Manufacturers are testing a system that tracks products leaving the shelves and alerts employees to restock.",
+      "cn": "制造商们正在测试一个系统，它可以追踪离架的货品并提醒雇员补充上货。"
+    },
+    {
+      "en": "Meet with appropriate departments to discuss current material inventories and establish restock levels or just - in - time strategies.",
+      "cn": "与相关部门会谈讨论目前得物料存货,建立再储存水准或及时战略."
+    },
+    {
+      "en": "When the item sells the suppliers can restock it.",
+      "cn": "商品卖出后供货商就会再进货."
+    },
+    {
+      "en": "You can repair the torn sails and restock the ship and supply fresh navigation charts.",
+      "cn": "你可以修复破烂的船再次扬帆继续着你的新鲜海上航行."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "renew"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "make up a loss",
+            "make sth up"
+          ],
+          "tran_cn": "补充货源；补足"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "重新进货，再储存",
+      "tran_en": "If you restock something such as a shelf, refrigerator, or shop, you fill it with food or other goods to replace what you have used or sold"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "重新进货，再储存"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "restocks"
+    ],
+    "past": [
+      "restocked"
+    ],
+    "done": [
+      "restocked"
+    ],
+    "ing": [
+      "restocking"
+    ]
+  }
+}

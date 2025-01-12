@@ -1,0 +1,101 @@
+{
+  "word": "drizzly",
+  "ipa": {
+    "us": "'drɪzlɪ",
+    "uk": "'drɪzlɪ"
+  },
+  "sentences": [
+    {
+      "en": "...a dull, drizzly afternoon.",
+      "cn": "...一个阴沉且下着细雨的午后。"
+    },
+    {
+      "en": "It has been cloudy and drizzly for days on end.",
+      "cn": "近几天一直阴雨连绵."
+    },
+    {
+      "en": "It was dull and slightly drizzly as we left.",
+      "cn": "我们离开时天阴沉沉地飘着小雨。"
+    },
+    {
+      "en": "That region is drizzly in winter.",
+      "cn": "那个地区冬天常下小雨."
+    },
+    {
+      "en": "This section of the country is drizzly in the winter.",
+      "cn": "该国的这一地区在冬天经常细雨蒙蒙."
+    },
+    {
+      "en": "Toward evening, there came a drizzly rain.",
+      "cn": "傍晚那会儿下了一阵小雨."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "drizzle",
+          "tran_cn": " 细雨，毛毛雨"
+        },
+        {
+          "word": "drizzling",
+          "tran_cn": " 细雨；毛毛雨"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "drizzling",
+          "tran_cn": " 下毛毛雨（drizzle的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "drizzle",
+          "tran_cn": " 下毛毛雨"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "drizzle",
+          "tran_cn": " 下毛毛雨"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "damp"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "下毛毛雨的，蒙蒙，濛濛",
+      "tran_en": "When the weather is drizzly, the sky is dull and grey and it rains steadily but not very hard"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "drizzle"
+    ]
+  }
+}

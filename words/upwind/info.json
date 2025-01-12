@@ -1,0 +1,81 @@
+{
+  "word": "upwind",
+  "ipa": {
+    "us": "ˌʌpˈwɪnd",
+    "uk": "ˈʌpˈwɪnd"
+  },
+  "sentences": [
+    {
+      "en": "...big trees at the forest's upwind edge.",
+      "cn": "...森林顶风一侧的大树。"
+    },
+    {
+      "en": "A hyperbolic grid generation method based on upwind scheme has been developed.",
+      "cn": "双曲型网格生成方法是一种十分适合于重叠网格方法应用的网格生成方法."
+    },
+    {
+      "en": "If we're upwind of the animal it may smell our scent.",
+      "cn": "要是我们处于那动物的上风位置,它就能闻到我们的气味."
+    },
+    {
+      "en": "If we're upwind of the wolves they may smell us.",
+      "cn": "如果我们处于狼的上风位置,它们就能闻到我们的气味."
+    },
+    {
+      "en": "Mary has to come about since she is sailing upwind.",
+      "cn": "玛丽因为在逆风航行,所以不得不迎风折驶."
+    },
+    {
+      "en": "The factory is upwind from the town.",
+      "cn": "这个工厂在镇子的上风向."
+    },
+    {
+      "en": "The kites fly upwind. How beautiful the scene is!",
+      "cn": "这些风筝迎风飞翔, 多美的景色 啊 !"
+    },
+    {
+      "en": "The numerical simulation of this model was analyzed through first - order upwind difference scheme and QUICK scheme.",
+      "cn": "通过一阶迎风格式及QUICK格式,求解出该模型的数值解."
+    },
+    {
+      "en": "The resulting formulae of the above perturbation operation are higher - order upwind and central PFV schemes.",
+      "cn": "二阶和四阶中心PFV格式对网格Peclet数的任意值均为正型格式,比常用的二阶中心格式优越."
+    },
+    {
+      "en": "The three wolves moved off upwind in a tight little group.",
+      "cn": "那三只狼紧紧挨着,顶风离去."
+    },
+    {
+      "en": "They may start moving upwind using optomotor stimulation and show positive anemotaxis.",
+      "cn": "它们凭借视觉刺激,可能开始逆风飞行,表现出正趋风性."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contrary wind",
+            "against the wind"
+          ],
+          "tran_cn": "逆风"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "逆风的 ad逆风地",
+      "tran_en": "Upwind is also an adjective"
+    },
+    {
+      "pos": "adv",
+      "tran_cn": "逆风地"
+    }
+  ],
+  "exchange": {}
+}

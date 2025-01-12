@@ -1,0 +1,58 @@
+{
+  "word": "dehumanize",
+  "ipa": {
+    "us": "ˌdi:ˈhju:mənaɪz",
+    "uk": "diˈhjuməˌnaɪz"
+  },
+  "sentences": [
+    {
+      "en": "This seems to contradict the common belief that computers dehumanize the individual.",
+      "cn": "这一点与通常的观念―即计算机毫无人情味,似乎有矛盾."
+    },
+    {
+      "en": "War dehumanizes people.",
+      "cn": "战争使人们丧失人性。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dehumanization",
+          "tran_cn": " 非人化；灭绝人性；人性丧失"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使失掉人性, 使成兽性",
+      "tran_en": "to treat people so badly that they lose their good human qualities"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使失去人性，使非人化"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "dehumanizes"
+    ],
+    "past": [
+      "dehumanized"
+    ],
+    "done": [
+      "dehumanized"
+    ],
+    "ing": [
+      "dehumanizing"
+    ],
+    "noun": [
+      "dehumanization"
+    ]
+  }
+}

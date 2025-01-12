@@ -1,0 +1,92 @@
+{
+  "word": "debasement",
+  "ipa": {
+    "us": "dɪ'beɪsmənt",
+    "uk": "dɪ'beɪsmənt"
+  },
+  "sentences": [
+    {
+      "en": "...the debasement of popular culture.",
+      "cn": "... 大众文化低俗化。"
+    },
+    {
+      "en": "Associating with people like Li Mei - t'ing and Ku Er - chien was such a shameful debasement.",
+      "cn": "与李梅亭顾尔谦等为伍,就是可耻的堕落."
+    },
+    {
+      "en": "The image of Confucius had been become indistinguish in different voice of praise and debasement.",
+      "cn": "孔子的形象也在毁誉褒贬的不同声音中变得扑朔迷离、真假难辨."
+    },
+    {
+      "en": "There will be no debasement of quality.",
+      "cn": "质量绝对不会降低."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "debased",
+          "tran_cn": " 低质量的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "debased",
+          "tran_cn": " 贬低（debase的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "debase",
+          "tran_cn": " 降低；使…贬值；掺杂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "diminution",
+            "abasement"
+          ],
+          "tran_cn": "降低；贬质"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "descent"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "降低，改造",
+      "tran_en": "Debasement is the action of reducing the value or quality of something"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "debase"
+    ]
+  }
+}

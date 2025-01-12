@@ -1,0 +1,189 @@
+{
+  "word": "indication",
+  "ipa": {
+    "us": "ˌɪndɪˈkeɪʃn",
+    "uk": "ˌɪndɪˈkeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Could you give me some indication as to when I am likely to receive a reply?",
+      "cn": "你能给我透露一下什么时候我能收到回复吗？"
+    },
+    {
+      "en": "Did he give you any indication of his feelings?",
+      "cn": "他向你表示了自己的感情了 吗 ?"
+    },
+    {
+      "en": "Electron micrographs give some indication here as is shown in Fig 3.12.",
+      "cn": "电子显微照片给出的一些说明示于图3.12中."
+    },
+    {
+      "en": "He searched Hill's impassive face for some indication that he understood.",
+      "cn": "他盯着希尔毫无表情的面孔，寻找着表明他已明白的些许迹象。"
+    },
+    {
+      "en": "He swore in Spanish, another indication that he was rattled.",
+      "cn": "他用西班牙语破口大骂，这再次表明了他极为烦躁。"
+    },
+    {
+      "en": "His actions for some weeks have given indication of queerness.",
+      "cn": "几个星期以来,他的行为有一些古怪."
+    },
+    {
+      "en": "His behavior gave every indication of an open affectionate heart.",
+      "cn": "他的行为就可以表明,他的心胸是坦荡的."
+    },
+    {
+      "en": "Hurstwood was too clever to give the slightest indication of a change.",
+      "cn": "赫斯渥非常机灵.他一点不动声色,不让人感到和以前有什么不一样."
+    },
+    {
+      "en": "I cannot come to a decision about it now or even give any indication of my own views.",
+      "cn": "现在我无法对此作出决定，甚至就连自己是什么观点也不能作任何暗示。"
+    },
+    {
+      "en": "Indications are that the situation hasn’t improved much.",
+      "cn": "迹象表明局势并没有多大好转。"
+    },
+    {
+      "en": "It also provides indication when direct risk is imminent.",
+      "cn": "危险临近时,它也能发出讯号."
+    },
+    {
+      "en": "Some indication of the range is given in Fig . 1.13 .",
+      "cn": "图 1.13 略示其范围."
+    },
+    {
+      "en": "The indication given by a singal is known as the signal aspect.",
+      "cn": "信号所发出的灯色,称为信号方式."
+    },
+    {
+      "en": "There had been no indication of either breathlessness or any loss of mental faculties right until his death.",
+      "cn": "他去世前并未出现呼吸困难或意识不清的迹象。"
+    },
+    {
+      "en": "There is every indication (= there are very clear signs ) that it is true.",
+      "cn": "很明显这是真的。"
+    },
+    {
+      "en": "There was only the faintest indication of a trail here.",
+      "cn": "踪迹到这儿只有蛛丝马迹可寻."
+    },
+    {
+      "en": "They gave no indication of how the work should be done.",
+      "cn": "他们根本没说明这项工作该怎样做。"
+    },
+    {
+      "en": "Wouldn't a mere indication from my cousin clear up the misunderstanding? \"",
+      "cn": "只要表姐有个表示,这误解不是就弄明白了? ”"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "indicant",
+          "tran_cn": " 指示的；表示的"
+        },
+        {
+          "word": "indicative",
+          "tran_cn": " 象征的；指示的；表示…的"
+        },
+        {
+          "word": "indicatory",
+          "tran_cn": " 表示的；指示的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "indicant",
+          "tran_cn": " 指示物"
+        },
+        {
+          "word": "indicative",
+          "tran_cn": " 陈述语气；陈述语气的动词形式"
+        },
+        {
+          "word": "indicator",
+          "tran_cn": " 指示器；[试剂] 指示剂；[计] 指示符；压力计"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "indicate",
+          "tran_cn": " 表明；指出；预示；象征"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "instruction",
+            "symbol",
+            "breath",
+            "pointing",
+            "evidence"
+          ],
+          "tran_cn": "指示，指出；迹象；象征"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "evidence",
+            "glimmer",
+            "inkling",
+            "intention",
+            "omen",
+            "proof",
+            "reference",
+            "signal",
+            "symptom",
+            "token"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fault indication",
+      "tran_cn": "故障显示"
+    },
+    {
+      "phrase": "give clear indication of",
+      "tran_cn": "注明"
+    },
+    {
+      "phrase": "visual indication",
+      "tran_cn": "目测（指示）；可见指示"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "表明，标示，象征",
+      "tran_en": "a sign, remark, event etc that shows what is happening, what someone is thinking or feeling, or what is true"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "indications"
+    ]
+  }
+}

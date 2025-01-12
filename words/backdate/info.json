@@ -1,0 +1,62 @@
+{
+  "word": "backdate",
+  "ipa": {
+    "us": "ˌbækˈdeɪt",
+    "uk": "ˈbækˌdet"
+  },
+  "sentences": [
+    {
+      "en": "Anyone who has overpaid tax will be able to backdate their claim to last April.",
+      "cn": "超额纳税者申领退款可以从去年4月算起。"
+    },
+    {
+      "en": "Backdate your invoice to April 1 st.",
+      "cn": "你的发票日期应填到4月1日算起."
+    },
+    {
+      "en": "The contract that was signed on Thursday morning was backdated to March 11.",
+      "cn": "星期四上午所签的合同从3月11日起生效。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "remount to",
+            "go back"
+          ],
+          "tran_cn": "回溯，追溯；倒填日期"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "回溯，追溯；倒填日期",
+      "tran_en": "to write an earlier date on a document or cheque than when it was actually written"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "倒填日期，使（付款等）在较早的日期开始生效"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "backdates"
+    ],
+    "past": [
+      "backdated"
+    ],
+    "done": [
+      "backdated"
+    ],
+    "ing": [
+      "backdating"
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "word": "anomaly",
+  "ipa": {
+    "us": "əˈnɒməli",
+    "uk": "əˈnɑməli"
+  },
+  "sentences": [
+    {
+      "en": "A case of reticulate pigmented anomaly of the flexures is reported.",
+      "cn": "[中英文摘要]报告1例皱褶部网状色素异常症."
+    },
+    {
+      "en": "A hare - lipped monkey is an anomaly.",
+      "cn": "豁嘴的猴子是异常的东西."
+    },
+    {
+      "en": "An anomaly exists in the case of an incompressible fluid.",
+      "cn": "不可压缩流体是一种特殊情况."
+    },
+    {
+      "en": "Anomaly detection method is one of the main intrusion detection methods.",
+      "cn": "异常检测是入侵检测的主要分析方法之一."
+    },
+    {
+      "en": "Constructing the normal model is the key of anomaly detection.",
+      "cn": "而对正常行为建模是异常检测技术的关键."
+    },
+    {
+      "en": "Especially during period of heater anomaly, read the following project detailedly please.",
+      "cn": "特别是在加热器异常时, 请详细阅读以下项目."
+    },
+    {
+      "en": "Geo? anomaly synthetic appraisment emphasize particularly on microscopic and partial analysis.",
+      "cn": "地质异常综合评价更多是侧重于微观的、部的分析."
+    },
+    {
+      "en": "However , it can also occur as an isolated anomaly.",
+      "cn": "可能是输尿管穿过肾脏组织“桥”时的路径异常造成的."
+    },
+    {
+      "en": "In those days, a woman professor was still an anomaly.",
+      "cn": "那个时候，女教授仍旧十分稀罕。"
+    },
+    {
+      "en": "It is necessary to delimit the anomaly clearly.",
+      "cn": "清楚地圈定异常是必要的."
+    },
+    {
+      "en": "Objective: To discuss the relationship between hydramnios and fetus anomaly.",
+      "cn": "摘要目的: 探讨羊水过多与胎儿畸形的关系."
+    },
+    {
+      "en": "Purpose : To analyse CT manifestations of gyral malformations of neuronal migrationl anomaly.",
+      "cn": "目的:分析神经元移行异常所引起的脑回发育畸形的ct表现."
+    },
+    {
+      "en": "The blind - ending bifid ureter is a rare congenital anomaly of urinary system.",
+      "cn": "摘要盲枝输尿管裂是一种极为少见的泌尿系统的先天异常."
+    },
+    {
+      "en": "The British public's wariness of opera is an anomaly in Europe.",
+      "cn": "英国公众对歌剧不大轻易接受的态度在欧洲来说很反常。"
+    },
+    {
+      "en": "The source of the anomaly may lie in this region rather than in the highpressure film.",
+      "cn": "反常现象的起源可能在这个区域,而不是在高压油膜区."
+    },
+    {
+      "en": "The space shuttle had stopped transmitting data, a very serious anomaly for the mission.",
+      "cn": "这架航天飞机已经停止了传输数据，这是这次任务中一个十分严重的反常现象。"
+    },
+    {
+      "en": "The world will be due to the evolution of the anomaly!",
+      "cn": "而世界也不会因演化而变味!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "anomalous",
+          "tran_cn": " 异常的；不规则的；不恰当的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "anomalously",
+          "tran_cn": " 反常地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "anomie",
+          "tran_cn": " 社会的反常状态；混乱"
+        }
+      ]
+    },
+    {
+      "pos": "undefined",
+      "words": [
+        {
+          "word": "anomalously",
+          "tran_cn": "不规则地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "abnormality",
+            "deviance"
+          ],
+          "tran_cn": "[气象]异常；不规则；反常事物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abnormality",
+            "eccentricity",
+            "exception",
+            "monster",
+            "paradox"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bouguer anomaly",
+      "tran_cn": "布格异常"
+    },
+    {
+      "phrase": "congenital anomaly",
+      "tran_cn": "先天性异常"
+    },
+    {
+      "phrase": "geochemical anomaly",
+      "tran_cn": "地球化学异常，地化异常"
+    },
+    {
+      "phrase": "gravity anomaly",
+      "tran_cn": "[地物]重力异常"
+    },
+    {
+      "phrase": "height anomaly",
+      "tran_cn": "高程异常，高程偏倚"
+    },
+    {
+      "phrase": "magnetic anomaly",
+      "tran_cn": "磁异常；磁畸"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "异常，反常，不规则，畸形人（物），异常现象",
+      "tran_en": "something that is noticeable because it is different from what is usual"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "anomalies"
+    ]
+  }
+}

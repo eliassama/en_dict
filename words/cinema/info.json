@@ -1,0 +1,179 @@
+{
+  "word": "cinema",
+  "ipa": {
+    "us": "ˈsɪnəmə",
+    "uk": "ˈsɪnəmə"
+  },
+  "sentences": [
+    {
+      "en": "Average weekly cinema attendance in February was 2.41 million.",
+      "cn": "2月份，平均每周的观影人数为241万。"
+    },
+    {
+      "en": "I can't remember the last time we went to the cinema.",
+      "cn": "我记不得上次我们去看电影是什么时候了。"
+    },
+    {
+      "en": "I myself enjoy cinema, poetry, eating out and long walks.",
+      "cn": "我本人喜欢电影、诗歌、外出吃饭和远途散步。"
+    },
+    {
+      "en": "I prefer going to the cinema to watching TV.",
+      "cn": "我更喜欢看电影而不是看电视。"
+    },
+    {
+      "en": "I took Moira to the cinema, where she fell asleep.",
+      "cn": "我带莫伊拉去看电影，她却在影院睡着了。"
+    },
+    {
+      "en": "I used to go to the cinema every week.",
+      "cn": "我过去每周都去看电影。"
+    },
+    {
+      "en": "In Italy, as elsewhere, television has made deep inroads into cinema.",
+      "cn": "在意大利，跟在别处一样，电视严重影响了电影市场，夺走了大批观众。"
+    },
+    {
+      "en": "It’s on at the local cinema.",
+      "cn": "此片正在当地影院上映。"
+    },
+    {
+      "en": "Let's go to the cinema— there's a good film on this week.",
+      "cn": "咱们去看电影吧，本周在上映一部好片子。"
+    },
+    {
+      "en": "Many cinema-goers were stunned by the film's violent and tragic end.",
+      "cn": "许多来看电影的人都被这部影片暴力而悲惨的结局所震惊。"
+    },
+    {
+      "en": "The cinema was freezing.",
+      "cn": "电影院太冷了。"
+    },
+    {
+      "en": "The fans sat enthralled in the darkened cinema.",
+      "cn": "影迷们坐在黑漆漆的电影院里看得如痴如醉。"
+    },
+    {
+      "en": "The film demands attention, and has no equal in cinema history.",
+      "cn": "那部电影众人瞩目，在电影史上无与伦比。"
+    },
+    {
+      "en": "They thought the arrival of television would deal a death blow to mass cinema audiences.",
+      "cn": "他们认为电视的问世将使观众涌向影院的现象不复存在。"
+    },
+    {
+      "en": "We really were afraid, not like in the cinema.",
+      "cn": "我们是真的很害怕，不是像看电影时的那种害怕。"
+    },
+    {
+      "en": "Working with Ford closely, I fell in love with the cinema.",
+      "cn": "与福特的密切合作开始令我爱上了电影。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cinematic",
+          "tran_cn": " 电影的；影片的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cinematographer",
+          "tran_cn": " 放映技师；电影摄影技师"
+        },
+        {
+          "word": "cinematography",
+          "tran_cn": " 电影艺术"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "cinematize",
+          "tran_cn": " 摄成电影"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cine",
+            "film",
+            "motion",
+            "movie",
+            "moving",
+            "photoplay",
+            "picture",
+            "show",
+            "silent",
+            "talking"
+          ],
+          "tran_cn": "电影,影片"
+        },
+        {
+          "words": [
+            "house",
+            "movie",
+            "palace",
+            "theatre"
+          ],
+          "tran_cn": "电影院"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "theater"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at the cinema",
+      "tran_cn": "在电影院"
+    },
+    {
+      "phrase": "go to cinema",
+      "tran_cn": "去看电影"
+    },
+    {
+      "phrase": "go to the cinema",
+      "tran_cn": "去看电影"
+    },
+    {
+      "phrase": "home cinema",
+      "tran_cn": "家庭影院"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "电影院，电影业",
+      "tran_en": "a building in which films are shown"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "电影院",
+      "tran_en": "a building in which films are shown"
+    }
+  ],
+  "exchange": {}
+}

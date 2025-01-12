@@ -1,0 +1,123 @@
+{
+  "word": "retrogress",
+  "ipa": {
+    "us": "ˌretrəʊ'gres",
+    "uk": "ˌretrə'gres"
+  },
+  "sentences": [
+    {
+      "en": "At present the moral belief crisis is the co-existence of expansibility crisis and the retrogress crisis.",
+      "cn": "当前道德信仰危机是发展性危机与倒退性危机并存。"
+    },
+    {
+      "en": "In its absence China would retrogress into division and chaos, and modernization would become impossible.",
+      "cn": "动摇了中国就要倒退到分裂和混乱, 就不可能实现现代化."
+    },
+    {
+      "en": "Practice has shown that China-Japan relations will go ahead steadily once this political foundation is maintained; otherwise the relations will be undermined, become stagnant or even retrogress.",
+      "cn": "实践已经证明，严守和维护这个政治基础，中日关系就能前进，就能持续稳定发展；背离和违反这个政治基础，中日关系就会受损，就会停滞甚至倒退。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "retrograde",
+          "tran_cn": " 倒退的；退化的；次序颠倒的"
+        },
+        {
+          "word": "retrogressive",
+          "tran_cn": " 倒退的；退化的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "retrograde",
+          "tran_cn": " 倒退地；向后地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "retrogression",
+          "tran_cn": " [医] 退化；后退"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "retrograde",
+          "tran_cn": " 逆行；倒退；退步"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "retrograde",
+          "tran_cn": " 使倒退"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "back"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "reverse",
+            "step backward"
+          ],
+          "tran_cn": "倒退，退化"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "退步",
+      "tran_en": "to go back to an earlier, esp worse, condition; degenerate or deteriorate "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "倒退，逆行，退化，[生]退化"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "retrogresses"
+    ],
+    "past": [
+      "retrogressed"
+    ],
+    "done": [
+      "retrogressed"
+    ],
+    "ing": [
+      "retrogressing"
+    ]
+  }
+}

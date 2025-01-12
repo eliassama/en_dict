@@ -1,0 +1,44 @@
+{
+  "word": "upshift",
+  "ipa": {
+    "us": "ˈʌpʃɪft",
+    "uk": "ˈʌpˌʃɪft"
+  },
+  "sentences": [
+    {
+      "en": "SHIFT FROM PARK TO AUTOSTICK, BUT DO NOT UPSHIFT OR DOWNSHIFT.",
+      "cn": "从停车挡换至自动变速挡, 但不要换至其他挡."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "soup",
+            "increase speed"
+          ],
+          "tran_cn": "加速；[公路]换高速档"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "(将)(汽车)调高速挡,(使)加速"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（指给汽车）调高速挡，加速"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "提高，增加"
+    }
+  ],
+  "exchange": {}
+}

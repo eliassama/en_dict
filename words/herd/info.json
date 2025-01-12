@@ -1,0 +1,223 @@
+{
+  "word": "herd",
+  "ipa": {
+    "us": "hɜːd",
+    "uk": "hɜːrd"
+  },
+  "sentences": [
+    {
+      "en": "a herd of bison",
+      "cn": "一群野牛"
+    },
+    {
+      "en": "a herd of cattle",
+      "cn": "一群牛"
+    },
+    {
+      "en": "a herd of deer",
+      "cn": "一群鹿"
+    },
+    {
+      "en": "A herd of elephants lolloped across the plains towards a watering hole.",
+      "cn": "一群大象缓慢而笨拙地穿过平原，朝水潭走去。"
+    },
+    {
+      "en": "A herd of goats was nibbling the turf around the base of the tower.",
+      "cn": "一群山羊在啃塔基四周的草皮。"
+    },
+    {
+      "en": "a herd of wildebeest",
+      "cn": "一群牛羚"
+    },
+    {
+      "en": "Chobe is also renowned for its large herds of elephant and buffalo.",
+      "cn": "乔贝还以其大群的大象和水牛而闻名。"
+    },
+    {
+      "en": "He had no opinions of his own but simply follow the herd.",
+      "cn": "他从无主见,只是人云亦云."
+    },
+    {
+      "en": "He preferred to stick with the common herd.",
+      "cn": "他愿意紧随群众."
+    },
+    {
+      "en": "His herd of 170 dairy cattle and 200 young stock are kept on the land.",
+      "cn": "他那170头奶牛和200头乳牛都在那块地上圈养。"
+    },
+    {
+      "en": "It was Tom’s duty to herd the cows.",
+      "cn": "汤姆的职责是放牛。"
+    },
+    {
+      "en": "She drove the herd of cattle through the wilderness.",
+      "cn": "她赶着牛群穿过荒野."
+    },
+    {
+      "en": "Stefano used a motor cycle to herd the sheep.",
+      "cn": "斯特凡诺骑一辆摩托车放羊。"
+    },
+    {
+      "en": "Stefano used a motorcycle to herd the sheep.",
+      "cn": "斯蒂芬诺骑一辆摩托车驱赶羊群。"
+    },
+    {
+      "en": "The males in the herd protect the females and the young.",
+      "cn": "兽中的雄性动物保护雌性动物和幼崽."
+    },
+    {
+      "en": "The milkman selected the spotted cows, from among a herd of two hundred.",
+      "cn": "牛奶商从一群200头牛中选出有斑点的牛."
+    },
+    {
+      "en": "The prisoners were herded together .",
+      "cn": "犯人们被集合起来。"
+    },
+    {
+      "en": "The prisoners were herded together.",
+      "cn": "犯人们被集合起来。"
+    },
+    {
+      "en": "The young bull horned the old cow out of the herd.",
+      "cn": "小公牛用角把老母牛从牛群中顶了出去."
+    },
+    {
+      "en": "Under the banner of education, we herd our children from ballet to basketball and back again.",
+      "cn": "打着教育的旗号，我们赶鸭子上架似的让孩子从芭蕾到篮球，不停地学这个学那个。"
+    },
+    {
+      "en": "You have to be an individual; it’s no use running with the herd.",
+      "cn": "你必须特立独行，随大溜没有用处。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "herder",
+          "tran_cn": " 牧人；（美俚）监狱看守"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "drove",
+            "menagerie"
+          ],
+          "tran_cn": "兽群，畜群；放牧人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "assemble",
+            "brigade",
+            "collect",
+            "collection",
+            "corral",
+            "drive",
+            "flock",
+            "gather",
+            "join",
+            "multitude",
+            "resort",
+            "shepherd",
+            "together",
+            "unite"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "assemble",
+            "collect",
+            "flock",
+            "gather",
+            "join",
+            "together"
+          ],
+          "tran_cn": "聚集,成群"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "grass",
+            "feed",
+            "range"
+          ],
+          "tran_cn": "放牧；使成群"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a herd of",
+      "tran_cn": "一群（牛、鹿等）"
+    },
+    {
+      "phrase": "herd behavior",
+      "tran_cn": "羊群行为；羊群效应；从众行为；群体恐慌行为"
+    },
+    {
+      "phrase": "herd instinct",
+      "tran_cn": "[心]群居本能，群体心理"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "兽群，牧群，放牧人，<蔑>群众，民众",
+      "tran_en": "a group of animals of one kind that live and feed together"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "放牧",
+      "tran_en": "to make animals move together in a group"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "放牧，（使）向…移动，使成群",
+      "tran_en": "to make animals move together in a group"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "群集，纠结"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "herds"
+    ],
+    "third": [
+      "herds"
+    ],
+    "past": [
+      "herded"
+    ],
+    "done": [
+      "herded"
+    ],
+    "ing": [
+      "herding"
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "word": "enroll",
+  "ipa": {
+    "us": "ɪnˈrəʊl",
+    "uk": "ɪnˈroʊl"
+  },
+  "sentences": [
+    {
+      "en": "All contestants must enroll by Saturday.",
+      "cn": "所有参赛者必须在星期六前登记."
+    },
+    {
+      "en": "And, with the rise of online education, you can even enroll in certified programs that allow you to learn and improve your career during your off-hours.",
+      "cn": "并且，随着在线教育的崛起，你甚至可以参加认证课程，在下班工夫里学习和改善本人的职业生涯。"
+    },
+    {
+      "en": "Enroll in a noontime or an after - work exercise class.",
+      "cn": "参加中午或下班后的锻炼班."
+    },
+    {
+      "en": "Enroll now, we only have 30 seats for you!",
+      "cn": "现在就加入吧,机不可失, 时不再来."
+    },
+    {
+      "en": "I must enroll the children for piano lessons before next week.",
+      "cn": "我必须在本周内给孩子们报名学钢琴课."
+    },
+    {
+      "en": "I should like to enroll all my children in the swimming class.",
+      "cn": "我愿意让我的孩子们都参加游泳班."
+    },
+    {
+      "en": "Please enroll me in the contest.",
+      "cn": "请登记我的名字,我报名参加这次比赛."
+    },
+    {
+      "en": "Right , I'd like to enroll for the Monday course, then, please?",
+      "cn": "好, 那么, 我登记星期一的课程."
+    },
+    {
+      "en": "So Harry, you're going to enroll in this school today, I think ?",
+      "cn": "那么哈里, 今天就是来报名的 吧 ?"
+    },
+    {
+      "en": "So you are planning to enroll in an English language program at the University of Pennsylvania.",
+      "cn": "那么你打算去宾西法尼亚大学的英语班就读了."
+    },
+    {
+      "en": "Student: Yes, I'd like to enroll for the English training course.",
+      "cn": "学生: 是的, 我想注册英语训练课程."
+    },
+    {
+      "en": "The school will enroll new students in August.",
+      "cn": "这所学校将于八月份招收新生."
+    },
+    {
+      "en": "They enroll him as a member of the club.",
+      "cn": "他们吸收他为俱乐部会员."
+    },
+    {
+      "en": "We may enroll another two classes of 20 students each.",
+      "cn": "我们可以再招收两个班,每班20个学生."
+    },
+    {
+      "en": "We shall enroll people to train as teachers.",
+      "cn": "我们要招收一些人来培训为教师."
+    },
+    {
+      "en": "You need to enrol before the end of August.",
+      "cn": "你必须在八月底前注册。"
+    },
+    {
+      "en": "You need to enroll before the end of August.",
+      "cn": "你必须在八月底前注册。"
+    },
+    {
+      "en": "You were sent tHere because HigH scHools wouldn't enroll you anymore.",
+      "cn": "你被送到那,是因为高校不收你."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "enrollment",
+          "tran_cn": " 登记；入伍"
+        },
+        {
+          "word": "enrolment",
+          "tran_cn": " 登记，注册；入学"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "enrolled",
+          "tran_cn": " 登记（入会；卷）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "draft",
+            "enlist",
+            "induct",
+            "list",
+            "record",
+            "recruit",
+            "register",
+            "write"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "a",
+            "ball",
+            "coil",
+            "into",
+            "roll"
+          ],
+          "tran_cn": "卷入"
+        },
+        {
+          "words": [
+            "chronicle",
+            "list",
+            "note",
+            "record"
+          ],
+          "tran_cn": "把...记入名簿"
+        },
+        {
+          "words": [
+            "admit",
+            "enlist",
+            "enter",
+            "join",
+            "matriculate",
+            "register",
+            "sign",
+            "up"
+          ],
+          "tran_cn": "登记"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "participate in",
+            "take part in",
+            "go through"
+          ],
+          "tran_cn": "参加；登记；注册；记入名册"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "register",
+            "book in"
+          ],
+          "tran_cn": "登记；使加入；把...记入名册；使入伍"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "enroll in",
+      "tran_cn": "参加；选课"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "注册，登记，招收",
+      "tran_en": "to officially arrange to join a school, university, or course, or to arrange for someone else to do this"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "入学，加入"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 招收， 吸收"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "enrolls"
+    ],
+    "past": [
+      "enrolled"
+    ],
+    "done": [
+      "enrolled"
+    ],
+    "ing": [
+      "enrolling"
+    ]
+  }
+}

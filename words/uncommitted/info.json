@@ -1,0 +1,107 @@
+{
+  "word": "uncommitted",
+  "ipa": {
+    "us": "ˌʌnkəˈmɪtɪd",
+    "uk": "ˌʌnkəˈmɪtɪd"
+  },
+  "sentences": [
+    {
+      "en": "Don't make a commitment to the uncommitted.",
+      "cn": "不要轻率地对未做承诺的男人做出承诺."
+    },
+    {
+      "en": "For example, can this transaction see uncommitted writes from other transactions?",
+      "cn": "例如, 这个事务能否看到其他事务未提交的写数据?"
+    },
+    {
+      "en": "I was still uncommitted to the venture when we reached Kanpur.",
+      "cn": "我们到达坎普尔时，我仍未拿定主意是否去冒险。"
+    },
+    {
+      "en": "I'm uncommitted tonight. Shall we go for a drink?",
+      "cn": "今晚我有空, 我们去喝一杯好 吗 ?"
+    },
+    {
+      "en": "I'm uncommitted tonight. Shall we go to the movies?",
+      "cn": "今晚我有空, 我们去看电影好 吗 ?"
+    },
+    {
+      "en": "It pays to stay flexible, unattached, and uncommitted.",
+      "cn": "基因宁愿为保持灵活 、 独立和自由付出些代价."
+    },
+    {
+      "en": "Our professional ethic enjoins us to stay uncommitted and report the facts.",
+      "cn": "职业道德要求我们要保持中立,报道事实真相."
+    },
+    {
+      "en": "Read uncommitted - Permits dirty reads but not lost updates.",
+      "cn": "未授权读取-许脏读取,但不允许更新丢失."
+    },
+    {
+      "en": "Read uncommitted — Permits dirty reads but not lost updates.",
+      "cn": "未授权读取-允许脏读取,但不允许更新丢失."
+    },
+    {
+      "en": "Sequential stream cannot be created for uncommitted text or image data.",
+      "cn": "无法为未提交文本或图像数据创建连续流."
+    },
+    {
+      "en": "She will join the club later, but at the moment wants to remain uncommitted.",
+      "cn": "她迟些将加入俱乐部, 但目前仍想保持自由."
+    },
+    {
+      "en": "Some workers remain uncommitted to the project.",
+      "cn": "有些工人仍未对该计画做出承诺."
+    },
+    {
+      "en": "The uncommitted op amp has its noninverting input connected to the GND pin.",
+      "cn": "闲置(我理解,看你的应用场合)的放大器反向输入端要接到地上."
+    },
+    {
+      "en": "Uncommitted output in the response buffer is automatically cleared before the forward.",
+      "cn": "响应缓存中未提交的输出在转发之前自动清空."
+    },
+    {
+      "en": "uncommitted voters",
+      "cn": "未表明态度的选民"
+    },
+    {
+      "en": "Weed out the uncommitted whiners and complainers early.",
+      "cn": "尽早剔除那些抱怨叫苦者."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "independent",
+            "free"
+          ],
+          "tran_cn": "不受约束的；（犯罪）未遂的；未被监禁的；自由的；不负义务的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "outside"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不受（某政策、做法、团体等）约束的，未做承诺的，未遂的，未被监禁的"
+    }
+  ],
+  "exchange": {}
+}

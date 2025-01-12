@@ -1,0 +1,208 @@
+{
+  "word": "sailing",
+  "ipa": {
+    "us": "ˈseɪlɪŋ",
+    "uk": "ˈseɪlɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Bud has invited us to go sailing this weekend.",
+      "cn": "巴德邀请我们这个周末驾船出游。"
+    },
+    {
+      "en": "Experienced seamen will advise you about sailing in this weather.",
+      "cn": "有经验的海员会告诉你在这种天气下的航行情况."
+    },
+    {
+      "en": "He found sailing more pleasurable than skiing.",
+      "cn": "他觉得驾驶帆船比滑雪更好玩。"
+    },
+    {
+      "en": "His favourite childhood pursuits were sailing, swimming and cycling.",
+      "cn": "儿时他最大的爱好是帆船运动、游泳和骑自行车。"
+    },
+    {
+      "en": "His sailing instructor fell overboard and drowned during a lesson.",
+      "cn": "他的航海教练在一次训练课时从船上失足跌入水中，溺水身亡。"
+    },
+    {
+      "en": "I doubt whether Jack could manage a sailing boat.",
+      "cn": "我怀疑杰克会不会驾驶帆船."
+    },
+    {
+      "en": "Pregnancy wasn't all plain sailing and once again there were problems.",
+      "cn": "孕期并非一帆风顺，这不，又出现问题了。"
+    },
+    {
+      "en": "Sailing boats lay at anchor in the narrow waterway.",
+      "cn": "帆船停泊在狭窄的水道上。"
+    },
+    {
+      "en": "Sailing is not exactly cheap.",
+      "cn": "帆船运动根本就不便宜。"
+    },
+    {
+      "en": "The little sailing-boat moved briskly along, heeling over under a nice breeze.",
+      "cn": "小帆船在和风中倾侧着轻快地向前开。"
+    },
+    {
+      "en": "The ship is outward bound , sailing away from its home port.",
+      "cn": "这艘船是开往外埠的."
+    },
+    {
+      "en": "The ships sailing from Florida were landing arms and combatants.",
+      "cn": "由佛罗里达来的船只正在卸武器,并让武装人员上岸."
+    },
+    {
+      "en": "The sunken sailing-boat was a glimmer of white on the bottom.",
+      "cn": "沉没的帆船在海底闪烁着白光。"
+    },
+    {
+      "en": "There was swimming and sailing down on the lake.",
+      "cn": "有人在湖上游泳和扬帆。"
+    },
+    {
+      "en": "They warned him of the dangers of sailing alone.",
+      "cn": "他们警告他说独自航行危险重重。"
+    },
+    {
+      "en": "We'll get the next sailing.",
+      "cn": "我们将坐下一班船。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sail",
+          "tran_cn": " 帆，篷；航行"
+        },
+        {
+          "word": "sailor",
+          "tran_cn": " 水手，海员；乘船者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sail",
+          "tran_cn": " 航行；启航，开船"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sail",
+          "tran_cn": " 航行"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "navigational"
+          ],
+          "tran_cn": "[水运]航行的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "salling",
+            "siling"
+          ],
+          "tran_cn": "航行，[水运]航海；启航；航海术"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "departure",
+            "flying"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "navigating"
+          ],
+          "tran_cn": "[水运]航行，起航（sail的现在分词形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go sailing",
+      "tran_cn": "去航海，去航行；进行帆船运动"
+    },
+    {
+      "phrase": "plain sailing",
+      "tran_cn": "n. 一帆风顺"
+    },
+    {
+      "phrase": "sailing boat",
+      "tran_cn": "帆船"
+    },
+    {
+      "phrase": "sailing date",
+      "tran_cn": "开航日期，启航日期"
+    },
+    {
+      "phrase": "sailing schedule",
+      "tran_cn": "船期表"
+    },
+    {
+      "phrase": "sailing ship",
+      "tran_cn": "帆船"
+    },
+    {
+      "phrase": "sailing vessel",
+      "tran_cn": "帆船"
+    },
+    {
+      "phrase": "smooth sailing",
+      "tran_cn": "一帆风顺"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "航行的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "帆船运动，（乘帆船的）航行，（轮船的）航班",
+      "tran_en": "the sport or activity of travelling in or directing a small boat with sails"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "驾驶( sail的现在分词)，起航，坐船旅行，掠"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sailings"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "word": "fruitlessly",
+  "ipa": {
+    "us": "'fru:tləslɪ",
+    "uk": "'frutləslɪ"
+  },
+  "sentences": [
+    {
+      "en": "Four years of negotiation ended fruitlessly last December.",
+      "cn": "历时4年的谈判在去年12月无果而终。"
+    },
+    {
+      "en": "Others point out that politicians have long been interested mainly in their own well-being, fruitlessly debating a new constitution for the past seven years while paying little attention to governing.",
+      "cn": "还有人指出尼泊尔的政治家们一直更关注于他们自己的幸福以及长达七年徒劳无获的关于新宪法的争吵，而在此期间，却很少把心思放在对国家的管理上。"
+    },
+    {
+      "en": "The donkey became extremely angry and tried hard to kick the tiger but fruitlessly.",
+      "cn": "毛驴很愤怒，尝试着用蹄子踢老虎，但没成功。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fruitless",
+          "tran_cn": " 不成功的，徒劳的；不结果实的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "vainly",
+            "ineffectually"
+          ],
+          "tran_cn": "无益地，徒劳地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "徒劳地，无益地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "fruitless"
+    ]
+  }
+}

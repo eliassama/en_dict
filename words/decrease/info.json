@@ -1,0 +1,197 @@
+{
+  "word": "decrease",
+  "ipa": {
+    "us": "dɪˈkriːs , ˈdiːkriːs",
+    "uk": "dɪˈkriːs , ˈdiːkriːs"
+  },
+  "sentences": [
+    {
+      "en": "Bank base rates have fallen from 10 per cent to 6 per cent — a decrease of 40 per cent.",
+      "cn": "银行的基本利率已从10%降到了6%，降幅高达40%。"
+    },
+    {
+      "en": "Gradually decrease the amount of vitamin C you are taking.",
+      "cn": "逐渐减少维生素C的服用量。"
+    },
+    {
+      "en": "In finish cutting we increase the speed and decrease the feed.",
+      "cn": "精切时,我们增加速度,减少进给量."
+    },
+    {
+      "en": "In Spain and Portugal there has been a decrease in the number of young people out of work.",
+      "cn": "在西班牙和葡萄牙，失业青年人数已经有所下降。"
+    },
+    {
+      "en": "It is necessary to decrease the amount of coal used.",
+      "cn": "必须减缩用煤量."
+    },
+    {
+      "en": "Last year there was a 20 % decrease in his earnings.",
+      "cn": "去年他的收入减少了20%."
+    },
+    {
+      "en": "The birthrate is on the decrease.",
+      "cn": "人口出生率正在下降."
+    },
+    {
+      "en": "The decrease in sales was almost 20 percent.",
+      "cn": "销售量差不多减少了20%."
+    },
+    {
+      "en": "The demand for tea is on the decrease ( each year ).",
+      "cn": "茶叶的需求量 ( 逐年 ) 递减."
+    },
+    {
+      "en": "The number of people who have the disease has decreased significantly in recent years.",
+      "cn": "近年来，这种病的患者人数明显下降。"
+    },
+    {
+      "en": "The population began to decrease.",
+      "cn": "人口开始减少."
+    },
+    {
+      "en": "The prices of polymers and suchlike materials will decrease.",
+      "cn": "聚合物及类似材料的价格会下降。"
+    },
+    {
+      "en": "There has been a decrease in traffic accidents.",
+      "cn": "交通事故减少了."
+    },
+    {
+      "en": "There has been a progressive decrease in population every year in this city.",
+      "cn": "这个城市的人口在逐年递减."
+    },
+    {
+      "en": "There has been a steady decrease of temperature.",
+      "cn": "气温在持续下降。"
+    },
+    {
+      "en": "There has been some decrease in imports.",
+      "cn": "进口货物有所减少."
+    },
+    {
+      "en": "These measures will help decrease the cost of production.",
+      "cn": "这些措施有助于降低生产成本."
+    },
+    {
+      "en": "They are making every effort to decrease the production cost.",
+      "cn": "他们正尽力减少生产成本."
+    },
+    {
+      "en": "They want to decrease their reliance on oil.",
+      "cn": "他们想减少对石油的依赖。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "decreasing",
+          "tran_cn": " 渐减的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "decreasing",
+          "tran_cn": " 减少；缩减（decrease的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "reduction",
+            "loss"
+          ],
+          "tran_cn": "减少，减小；减少量"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "compress",
+            "curtail",
+            "cut",
+            "diminish",
+            "lessen",
+            "reduce",
+            "shorten"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to cut down",
+            "fall off"
+          ],
+          "tran_cn": "减少，减小"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "shorten",
+            "weaken"
+          ],
+          "tran_cn": "减少，减小"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "decrease by",
+      "tran_cn": "减少了…"
+    },
+    {
+      "phrase": "on the decrease",
+      "tran_cn": "在衰减中；在减少中"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "减少",
+      "tran_en": "the process of becoming less, or the amount by which something becomes less"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "减少",
+      "tran_en": "to become less or go down to a lower level, or to make something do this"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": "减少，减少，减少量",
+      "tran_en": "to become less or go down to a lower level, or to make something do this"
+    },
+    {
+      "pos": "vi&n",
+      "tran_cn": "减少，减少",
+      "tran_en": "to become less or go down to a lower level, or to make something do this"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "decreases"
+    ]
+  }
+}

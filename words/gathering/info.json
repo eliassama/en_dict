@@ -1,0 +1,201 @@
+{
+  "word": "gathering",
+  "ipa": {
+    "us": "ˈgæðərɪŋ",
+    "uk": "ˈɡæðərɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a select gathering of 20 or 30 people",
+      "cn": "二三十名特邀人士的聚会"
+    },
+    {
+      "en": "Among the speakers at the gathering was Treasury Secretary Nicholas Brady.",
+      "cn": "与会的发言人中有财政部长尼古拉斯·布莱迪。"
+    },
+    {
+      "en": "Dr Ryan travelled the world gathering material for his book.",
+      "cn": "瑞安博士周游世界为他的书搜集资料。"
+    },
+    {
+      "en": "Gathering up all his courage, he turned to face the enemy.",
+      "cn": "他鼓足勇气, 转身面对敌人."
+    },
+    {
+      "en": "Gathering up his scattered papers, he pushed them into his case.",
+      "cn": "他把散乱的文件收拾起来, 塞进文件夹里."
+    },
+    {
+      "en": "In the gathering gloom it was difficult to see anything distinctly.",
+      "cn": "在越来越暗的情况下,什么东西都看不清."
+    },
+    {
+      "en": "Many of the machines are gathering dust in basements.",
+      "cn": "许多机器尘封在地下室里。"
+    },
+    {
+      "en": "She spent all day yesterday tramping the streets, gathering evidence.",
+      "cn": "她昨天一整天都在街上四处奔走，搜集证据。"
+    },
+    {
+      "en": "The aircraft bumped along erratically without gathering anything like sufficient speed.",
+      "cn": "飞机忽上忽下，飞行很不平稳，根本未达到应有的速度。"
+    },
+    {
+      "en": "The clouds are gathering together and it's going to rain.",
+      "cn": "云在聚集,天要下雨了."
+    },
+    {
+      "en": "The job involves gathering and analysing data.",
+      "cn": "这项工作包括搜集和分析资料。"
+    },
+    {
+      "en": "The lighthouse beam was quite distinct in the gathering dusk.",
+      "cn": "灯塔的光束在渐浓的暮色中清晰可见。"
+    },
+    {
+      "en": "The police are still questioning witnesses and gathering information.",
+      "cn": "警方仍在讯问目击证人以搜集信息."
+    },
+    {
+      "en": "There were ominous dark clouds gathering overhead.",
+      "cn": "不祥的阴霾在头顶上汇聚。"
+    },
+    {
+      "en": "They have their own independence movement which is gathering strength.",
+      "cn": "他们自己发起了独立运动，其力量正逐渐壮大。"
+    },
+    {
+      "en": "We will be exploring different approaches to gathering information.",
+      "cn": "我们将探索收集信息的不同方法。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gather",
+          "tran_cn": "聚集；衣褶；收获量"
+        },
+        {
+          "word": "gatherer",
+          "tran_cn": "采集者，收集器"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "gather",
+          "tran_cn": "聚集；化脓；皱起"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "gather",
+          "tran_cn": "收集；收割；使…聚集；使…皱起"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "club",
+            "crowd",
+            "get-together",
+            "party"
+          ],
+          "tran_cn": "聚集;聚会"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "assembly",
+            "coffee",
+            "collection",
+            "compilation",
+            "congress",
+            "conscription",
+            "convention",
+            "festival",
+            "function",
+            "knot",
+            "reunion",
+            "union"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "aggregating"
+          ],
+          "tran_cn": "[涂料]聚集（gather的ing形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data gathering",
+      "tran_cn": "数据采集；资料搜集"
+    },
+    {
+      "phrase": "gathering line",
+      "tran_cn": "集油管线"
+    },
+    {
+      "phrase": "gathering system",
+      "tran_cn": "收集系统"
+    },
+    {
+      "phrase": "information gathering",
+      "tran_cn": "信息收（搜）集；情报收集"
+    },
+    {
+      "phrase": "intelligence gathering",
+      "tran_cn": "情报收集；情报搜集"
+    },
+    {
+      "phrase": "news-gathering ",
+      "tran_cn": "新闻采集 "
+    },
+    {
+      "phrase": "social gathering",
+      "tran_cn": "联谊会；社会集结"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "聚集，集会，采集，积累",
+      "tran_en": "a meeting of a group of people"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（使）聚集( gather的现在分词)，集合，推断，了解"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "gatherings"
+    ]
+  }
+}

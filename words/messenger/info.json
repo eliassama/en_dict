@@ -1,0 +1,205 @@
+{
+  "word": "messenger",
+  "ipa": {
+    "us": "ˈmesɪndʒə(r)",
+    "uk": "ˈmesɪndʒər"
+  },
+  "sentences": [
+    {
+      "en": "'What have you been, besides a messenger?'",
+      "cn": "“ 你除了送信还干过 什么 ? ”"
+    },
+    {
+      "en": "\" Got your note. W. B. Yeats as a messenger and all that.",
+      "cn": "“ 收到你的字条了, W. B. 叶芝作信使,以及种种一切."
+    },
+    {
+      "en": "A messenger was despatched to take the news to the soldiers.",
+      "cn": "一名通讯员被派去给士兵送消息。"
+    },
+    {
+      "en": "A messenger was dispatched to take the news to the soldiers at the front.",
+      "cn": "一名通讯员被派遣给前线士兵送消息."
+    },
+    {
+      "en": "By the time the messenger reached him, the damage had been done.",
+      "cn": "送信人赶到他那儿时, 损失已经造成了."
+    },
+    {
+      "en": "He dispatched a messenger to tell the king what had happened.",
+      "cn": "他派一使者告诉国王发生了什么事."
+    },
+    {
+      "en": "He gave the instruction for the document to be sent by messenger.",
+      "cn": "他下令由通信员送出文件。"
+    },
+    {
+      "en": "He sent the order by messenger.",
+      "cn": "他通过邮递员发出订单。"
+    },
+    {
+      "en": "He turned away from the messenger to work at his loom again.",
+      "cn": "他撇下那两个捎口信的来者,又去织布."
+    },
+    {
+      "en": "I'll order a special messenger to deliver the document.",
+      "cn": "我会派专人把文件送去."
+    },
+    {
+      "en": "The messenger bent and scratched at his knee where the strapping chafed.",
+      "cn": "送信人弯下腰来，挠着膝部被绑腿磨红的地方。"
+    },
+    {
+      "en": "The messenger boy will run off his legs sooner or later.",
+      "cn": "这个小通讯员迟早会累垮的."
+    },
+    {
+      "en": "The messenger brought your note today.",
+      "cn": "信使今天带来了你的信."
+    },
+    {
+      "en": "The robin is the messenger of spring.",
+      "cn": "知更鸟是报春的使者."
+    },
+    {
+      "en": "There will be a messenger at the airport to collect the photographs from our courier.",
+      "cn": "机场会有一名信使从我们的快递员那儿取走照片。"
+    },
+    {
+      "en": "There will be a messenger at the Airport to collect the photographs from our courier.",
+      "cn": "机场会有一名信使从我们的递送员手中取走照片。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "message",
+          "tran_cn": " 消息；差使；启示；预言；广告词"
+        },
+        {
+          "word": "messaging",
+          "tran_cn": " 消息传送；通知；信息传送"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "messaging",
+          "tran_cn": " 发送；报信（message的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "message",
+          "tran_cn": " 报信，报告；[通信] 报文"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "message",
+          "tran_cn": " 通知"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "emissary",
+            "envoy",
+            "go-between",
+            "herald",
+            "intermediary",
+            "legate",
+            "page",
+            "runner"
+          ],
+          "tran_cn": "使节,使者,帮凶,走狗"
+        },
+        {
+          "words": [
+            "bearer",
+            "carrier",
+            "courier",
+            "delivery",
+            "estafette",
+            "intelligencer",
+            "mail",
+            "mailman",
+            "man",
+            "postman",
+            "postrider",
+            "runner"
+          ],
+          "tran_cn": "送信者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "announcer",
+            "communicant",
+            "mercury",
+            "orderly",
+            "spokesman"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "instant messenger",
+      "tran_cn": "即时通讯"
+    },
+    {
+      "phrase": "messenger rna",
+      "tran_cn": "[生化]信使RNA"
+    },
+    {
+      "phrase": "messenger wire",
+      "tran_cn": "承力吊索；电缆吊线"
+    },
+    {
+      "phrase": "msn messenger",
+      "tran_cn": "微软即时通讯软件"
+    },
+    {
+      "phrase": "second messenger",
+      "tran_cn": "第二信使"
+    },
+    {
+      "phrase": "shoot (或kill) the messenger",
+      "tran_cn": "将怨气发在报坏消息者身上"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "信使，信差，先驱，[军]通信兵，传令兵",
+      "tran_en": "someone whose job is to deliver messages or documents, or someone who takes a message to someone else"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "messengers"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "word": "ponderable",
+  "ipa": {
+    "us": "'pɒndərəbl",
+    "uk": "ˈpɑndərəbəl"
+  },
+  "sentences": [
+    {
+      "en": "All ponderable bodies are constantly in motion in through space.",
+      "cn": "所有有重量的物质都不断地处于运动中，贯穿空间。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ponderous",
+          "tran_cn": " 笨重的；沉闷的；呆板的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "ponderously",
+          "tran_cn": " 笨重地；生硬地"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "ponder",
+          "tran_cn": " 考虑；沉思"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "ponder",
+          "tran_cn": " 仔细考虑；衡量"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "valuable",
+            "worthy"
+          ],
+          "tran_cn": "有重量的；可称量的；有价值的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可衡量的，可估量的，可测量的",
+      "tran_en": "able to be evaluated or estimated; appreciable "
+    }
+  ],
+  "exchange": {}
+}

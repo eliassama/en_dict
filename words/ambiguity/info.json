@@ -1,0 +1,135 @@
+{
+  "word": "ambiguity",
+  "ipa": {
+    "us": "ˌæmbɪˈɡjuːəti",
+    "uk": "ˌæmbɪˈɡjuːəti"
+  },
+  "sentences": [
+    {
+      "en": "Her answer was above all ambiguity.",
+      "cn": "她的回答毫不含糊."
+    },
+    {
+      "en": "In circumstances where there is no ambiguity the subscripts are omitted.",
+      "cn": "在不会引起含糊不清的情况下,下标可以省去."
+    },
+    {
+      "en": "Incorrect choice of words leads to ambiguity for the reader.",
+      "cn": "用词不当道致读者理解不清."
+    },
+    {
+      "en": "It's a work full of paradox and ambiguity.",
+      "cn": "这部作品充满了似是而非及模棱两可之处。"
+    },
+    {
+      "en": "legal ambiguities",
+      "cn": "法律上含混不清的地方"
+    },
+    {
+      "en": "Nationalization is a word which is neither very felicitous nor free from ambiguity.",
+      "cn": "国有化是个既不十分贴切,意义也颇含糊的用语."
+    },
+    {
+      "en": "Signal which prevents accidental operation by spurious signals or avoids possible ambiguity.",
+      "cn": "防止假信号的意外作用或者避免二义性而设置的信号."
+    },
+    {
+      "en": "The author's style suggests a certain ambiguity in his moral view.",
+      "cn": "该作家的风格表明其道德观有点暧昧不明。"
+    },
+    {
+      "en": "The telegram was misunderstood because of its ambiguity.",
+      "cn": "由于电文意义不明确而造成了误解."
+    },
+    {
+      "en": "The wording is likely to lead to ambiguity.",
+      "cn": "这种措词可能会引出歧义."
+    },
+    {
+      "en": "There is considerable ambiguity about what this part of the agreement actually means.",
+      "cn": "协议这一部分的真正含义很不明确。"
+    },
+    {
+      "en": "This ambiguity may seem paradoxical.",
+      "cn": "这种模棱两可的说法似乎自相矛盾."
+    },
+    {
+      "en": "This potential ambiguity in melting behavior is seldom encountered.",
+      "cn": "在熔化过程中这种可能的模糊不清现象是很少见的."
+    },
+    {
+      "en": "This simple example shows that good writers do try to avoid ambiguity.",
+      "cn": "这个简单的例子说明,会写文章的人总是尽量避免歧义."
+    },
+    {
+      "en": "To remove any ambiguity we have to acquire more accurate information.",
+      "cn": "为了消除含糊不清,我们必须取得更加精确的情报."
+    },
+    {
+      "en": "Write clear definitions in order to avoid ambiguity.",
+      "cn": "释义要写清楚以免产生歧义。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "ambiguously",
+          "tran_cn": " 含糊不清地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "vagueness",
+            "opacity"
+          ],
+          "tran_cn": "含糊；不明确；暧昧；模棱两可的话"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "paradox"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ambiguity function",
+      "tran_cn": "模糊度函数；含糊函数"
+    },
+    {
+      "phrase": "lexical ambiguity",
+      "tran_cn": "词法多义性；词法的歧义性"
+    },
+    {
+      "phrase": "role ambiguity",
+      "tran_cn": "角色模糊；角色不明"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "歧义，不明确，模棱两可，暧昧",
+      "tran_en": "the state of being unclear, confusing, or not certain, or things that produce this effect"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "ambiguities"
+    ]
+  }
+}

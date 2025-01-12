@@ -1,0 +1,88 @@
+{
+  "word": "landholder",
+  "ipa": {
+    "us": "'lændhəʊldə(r)",
+    "uk": "'lændhoʊldə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Land was seemingly limitless in extend and, therefore, not highly priced, and almost every colonist wanted to be a landholder.",
+      "cn": "土地似乎广阔无垠，因此价钱不高，而几乎所有的殖民地人都想成为土地拥有者。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "landed",
+          "tran_cn": " 拥有土地的；陆地上的"
+        },
+        {
+          "word": "landholding",
+          "tran_cn": " 土地所有的；占用土地的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "landholding",
+          "tran_cn": " 拥有土地；占有土地"
+        },
+        {
+          "word": "landlady",
+          "tran_cn": " 女房东；女地主；女店主"
+        },
+        {
+          "word": "landlord",
+          "tran_cn": " 房东，老板；地主"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "landed",
+          "tran_cn": " 登陆，登岸（land的过去时和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "Tichu",
+            "lairdship"
+          ],
+          "tran_cn": "地主；土地拥有者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "landlord",
+            "proprietor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "地主，土地拥有者"
+    }
+  ],
+  "exchange": {}
+}

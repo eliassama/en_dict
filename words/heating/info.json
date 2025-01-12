@@ -1,0 +1,201 @@
+{
+  "word": "heating",
+  "ipa": {
+    "us": "ˈhiːtɪŋ",
+    "uk": "ˈhiːtɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "an inefficient heating system",
+      "cn": "效率不佳的暖气系统"
+    },
+    {
+      "en": "Better insulation of your home will help to reduce heating bills.",
+      "cn": "增加房子的隔热性能会有助于减少供暖费用。"
+    },
+    {
+      "en": "He debated heating up the pot first before his friends came.",
+      "cn": "他考虑在朋友们到来之前先把火锅烧热."
+    },
+    {
+      "en": "High electricity bills point to a poor heating system or bad insulation.",
+      "cn": "高额电费开支说明供暖系统不足或建筑隔热材料不良。"
+    },
+    {
+      "en": "I'm cold. Turn the heating up.",
+      "cn": "我觉得冷，把暖气温度调高一点。"
+    },
+    {
+      "en": "If the pressure is too low, the heating system will act up.",
+      "cn": "如果压力太低, 供暖系统就会出毛病."
+    },
+    {
+      "en": "Old people often try to economize on heating, thus endangering their health.",
+      "cn": "老年人常常想方设法节约用暖气，结果损害了他们的健康。"
+    },
+    {
+      "en": "Older people should not skimp on food or heating.",
+      "cn": "老人吃饭和取暖不应吝惜。"
+    },
+    {
+      "en": "Some bright spark turned the heating off last night!",
+      "cn": "某个聪明过头的家伙昨晚把暖气关了。"
+    },
+    {
+      "en": "The heating is on a time switch.",
+      "cn": "暖气靠定时开关自动供热。"
+    },
+    {
+      "en": "The school pays for heating and the maintenance of the buildings.",
+      "cn": "学校负担这些大楼的供热和维修费用。"
+    },
+    {
+      "en": "They will install a heating and lighting system in our house.",
+      "cn": "他们将在我们家装上供热供电系统."
+    },
+    {
+      "en": "We wanted to reduce the cost of heating and air-conditioning.",
+      "cn": "我们想减少供暖与空调的开支。"
+    },
+    {
+      "en": "While the water was heating she decided to shake out the carpet.",
+      "cn": "趁着烧水的时候，她决定将地毯抖抖干净。"
+    },
+    {
+      "en": "Who turned the heating off?",
+      "cn": "谁把暖气关掉了？"
+    },
+    {
+      "en": "With its unique heating element it makes perfect coffee.",
+      "cn": "其独特的电热元件使它能够煮出非常美味的咖啡。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "calefaction",
+            "pyrogenation"
+          ],
+          "tran_cn": "[热]加热；[建]供暖；暖气设备"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "hotting"
+          ],
+          "tran_cn": "[热]加热（heat的现在分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "central heating",
+      "tran_cn": "中央暖气系统；集中采暖"
+    },
+    {
+      "phrase": "district heating",
+      "tran_cn": "集中供热；区域供暖"
+    },
+    {
+      "phrase": "electric heating",
+      "tran_cn": "[电]电热；电力供热，电热供暖"
+    },
+    {
+      "phrase": "floor heating",
+      "tran_cn": "地板供暖"
+    },
+    {
+      "phrase": "gas heating",
+      "tran_cn": "气体加热；燃气供热，煤气供暖"
+    },
+    {
+      "phrase": "heating effect",
+      "tran_cn": "热效应"
+    },
+    {
+      "phrase": "heating efficiency",
+      "tran_cn": "热效率，加热效率"
+    },
+    {
+      "phrase": "heating element",
+      "tran_cn": "[化]加热元件"
+    },
+    {
+      "phrase": "heating equipment",
+      "tran_cn": "加热设备；采暖设备；加热装置"
+    },
+    {
+      "phrase": "heating furnace",
+      "tran_cn": "加热炉；热气炉"
+    },
+    {
+      "phrase": "heating method",
+      "tran_cn": "加热法"
+    },
+    {
+      "phrase": "heating oil",
+      "tran_cn": "民用燃料油，加热油"
+    },
+    {
+      "phrase": "heating pipe",
+      "tran_cn": "[化]加热管，暖气管"
+    },
+    {
+      "phrase": "heating power",
+      "tran_cn": "发热量（能力）"
+    },
+    {
+      "phrase": "heating rate",
+      "tran_cn": "升温速率；加热速度；热耗率"
+    },
+    {
+      "phrase": "heating surface",
+      "tran_cn": "受热面积；加热面积"
+    },
+    {
+      "phrase": "heating system",
+      "tran_cn": "供暖系统，供热系统"
+    },
+    {
+      "phrase": "heating up",
+      "tran_cn": "加热"
+    },
+    {
+      "phrase": "induction heating",
+      "tran_cn": "感应加热"
+    },
+    {
+      "phrase": "steam heating",
+      "tran_cn": "[化]蒸汽加热"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "加热的；供热的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "供暖，供暖系统/设备",
+      "tran_en": "a system for making a room or building warm"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "[热] 加热（heat的现在分词）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "heatings"
+    ]
+  }
+}

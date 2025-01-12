@@ -1,0 +1,216 @@
+{
+  "word": "fatal",
+  "ipa": {
+    "us": "ˈfeɪtl",
+    "uk": "ˈfeɪtl"
+  },
+  "sentences": [
+    {
+      "en": "Cystic fibrosis is the commonest fatal here-ditary disease.",
+      "cn": "囊性纤维化是最常见的致命遗传疾病。"
+    },
+    {
+      "en": "Her children's death is a fatal blow on her.",
+      "cn": "孩子们的死对她是致命的打击."
+    },
+    {
+      "en": "I made the fatal mistake of letting her talk.",
+      "cn": "我让她讲话是犯了严重的错误."
+    },
+    {
+      "en": "If it is not treated correctly, the condition can prove fatal (= be fatal ) .",
+      "cn": "如果治疗不当，这种病可能会致命。"
+    },
+    {
+      "en": "In 1742 he suffered a fatal attack of smallpox.",
+      "cn": "1742年,他染上了致命的天花."
+    },
+    {
+      "en": "It is impossible to say who struck the fatal blow.",
+      "cn": "很难判断是谁给了致命的一击。"
+    },
+    {
+      "en": "It would be fatal to bring in outsider.",
+      "cn": "把外人引进来可能招致灾难."
+    },
+    {
+      "en": "One moment of inattention when driving could be fatal.",
+      "cn": "开车时稍一疏忽就可能出人命."
+    },
+    {
+      "en": "potentially fatal diseases",
+      "cn": "潜在致命的疾病"
+    },
+    {
+      "en": "Statistically, ninety-eight percent of all acute sunstroke cases are fatal.",
+      "cn": "据统计，急性中暑病例中有98%是致命的。"
+    },
+    {
+      "en": "Success is not final, failure is not fatal: it is the courage to continue that counts.--Winston Churchill",
+      "cn": "成功不是终点，失败也并非末日，最重要的是继续前进的勇气。"
+    },
+    {
+      "en": "The bite of a mad dog is fatal.",
+      "cn": "被疯狗咬伤会致死的."
+    },
+    {
+      "en": "The disease is potentially fatal.",
+      "cn": "这种疾病可能会致命."
+    },
+    {
+      "en": "The enemy got a fatal blow in the battle.",
+      "cn": "敌人在战斗中受到致命的打击."
+    },
+    {
+      "en": "The wound may be fatal.",
+      "cn": "伤势危急."
+    },
+    {
+      "en": "This fatal miscalculation lost them the final victory.",
+      "cn": "这个致命的错误估计使他们未能夺得最后胜利."
+    },
+    {
+      "en": "Two of the knife thrusts were fatal.",
+      "cn": "有两处刀伤是致命的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fated",
+          "tran_cn": " 命中注定的，宿命的；受命运支配的"
+        },
+        {
+          "word": "fateful",
+          "tran_cn": " 重大的；决定性的；宿命的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "fatally",
+          "tran_cn": " 致命地；命中注定地；不可避免地"
+        },
+        {
+          "word": "fatefully",
+          "tran_cn": " 宿命地；决定性地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fatalism",
+          "tran_cn": " 宿命论"
+        },
+        {
+          "word": "fatalist",
+          "tran_cn": " 宿命论者"
+        },
+        {
+          "word": "fatality",
+          "tran_cn": " 死亡；宿命；致命性；不幸；灾祸"
+        },
+        {
+          "word": "fate",
+          "tran_cn": " 命运"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fate",
+          "tran_cn": " 注定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "deadly",
+            "destructive",
+            "disastrous",
+            "fateful",
+            "killing",
+            "mortal"
+          ],
+          "tran_cn": "致命的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deadly",
+            "destined",
+            "destructive",
+            "disastrous",
+            "fated",
+            "fateful",
+            "important",
+            "killing",
+            "malignant",
+            "mortal",
+            "pernicious",
+            "serious",
+            "significant",
+            "terminal",
+            "violent"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fatal accident",
+      "tran_cn": "死亡事故"
+    },
+    {
+      "phrase": "fatal attraction",
+      "tran_cn": "致命的吸引力（电影名称）；致命的诱惑（电影名称）"
+    },
+    {
+      "phrase": "fatal disease",
+      "tran_cn": "绝症；不治之症"
+    },
+    {
+      "phrase": "fatal error",
+      "tran_cn": "致命错误，不可恢复的错误"
+    },
+    {
+      "phrase": "fatal illness",
+      "tran_cn": "绝症"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "致命的，灾难性的，后果极严重的",
+      "tran_en": "resulting in someone’s death"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "(Fatal)人名；(葡、芬)法塔尔"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "fatally"
+    ]
+  }
+}

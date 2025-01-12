@@ -1,0 +1,167 @@
+{
+  "word": "maybe",
+  "ipa": {
+    "us": "ˈmeɪbi",
+    "uk": "ˈmeɪbi"
+  },
+  "sentences": [
+    {
+      "en": "‘Do you think he’ll come back?’ ‘Maybe.’",
+      "cn": "“你认为他会回来吗？”“也许会吧。”"
+    },
+    {
+      "en": "\"Is she coming back?\" — \"Maybe. No one hears from her.\"",
+      "cn": "“她快回来了吗？”——“也许吧。都还没信儿呢。”"
+    },
+    {
+      "en": "\"Maybe we could celebrate tonight.\" — \"What did you have in mind?\"",
+      "cn": "“也许今晚我们可以庆祝一下。”——“你有何打算？”"
+    },
+    {
+      "en": "He had maybe a thousand tapes, all neatly labelled and catalogued.",
+      "cn": "他大约有1,000盒磁带，都整齐地贴着标签并分了类。"
+    },
+    {
+      "en": "He said he’d finish the work soon – maybe tomorrow.",
+      "cn": "他说他很快就会完成那项工作——也许是明天。"
+    },
+    {
+      "en": "I think I can play maybe for a couple more years.",
+      "cn": "我想也许我还能再打两年球。"
+    },
+    {
+      "en": "Maybe he's trying to cool off out there in the rain.",
+      "cn": "可能他是想在雨里凉快一下。"
+    },
+    {
+      "en": "Maybe I eat too much and that's what makes me dozy.",
+      "cn": "也许我吃得太多了，所以昏昏欲睡。"
+    },
+    {
+      "en": "Maybe if we could go someplace together, just you and I.",
+      "cn": "也许我们可以一起去某个地方，就我和你。"
+    },
+    {
+      "en": "Maybe if you tell me a little about her?",
+      "cn": "也许你可以跟我讲一点关于她的事情？"
+    },
+    {
+      "en": "Maybe it’s all just a big misunderstanding.",
+      "cn": "也许这只是一个很大的误会。"
+    },
+    {
+      "en": "Maybe there is jealousy, but I think the envy is more powerful.",
+      "cn": "也许是羡慕，但我认为更多的是嫉妒。"
+    },
+    {
+      "en": "Maybe they’re right, but maybe not .",
+      "cn": "也许他们是对的，但也许不是。"
+    },
+    {
+      "en": "Maybe this guy isn't so squeaky clean after all.",
+      "cn": "也许这个人说到底品行并非那么完美。"
+    },
+    {
+      "en": "Maybe you had visions of being surrounded by happy, smiling children.",
+      "cn": "也许你曾幻想过被快乐嬉笑的孩子所包围的情景。"
+    },
+    {
+      "en": "Maybe you'd better tell me what this is all about.",
+      "cn": "也许你应该告诉我这究竟是怎么回事。"
+    },
+    {
+      "en": "People are still hanging out drinking beer, maybe shooting some pool.",
+      "cn": "人们仍聚在那里喝啤酒，可能还会打会儿台球。"
+    },
+    {
+      "en": "The men were maybe a hundred feet away and coming closer.",
+      "cn": "那些人大约有100英尺远，正在向这里靠近。"
+    },
+    {
+      "en": "Well, maybe it would be easier to start with a smaller problem.",
+      "cn": "那么，也许从小问题入手会更容易些。"
+    },
+    {
+      "en": "well, that's as maybe but it's not the way the BBC works.",
+      "cn": "唔，就算那样，但这并不是英国广播公司的运作方式。"
+    },
+    {
+      "en": "You have talent, maybe even genius.",
+      "cn": "你很有才能，甚至可以说有天赋。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "aux",
+      "words": [
+        {
+          "word": "may",
+          "tran_cn": " 可能，可以；愿意"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "conceivably",
+            "perchance",
+            "perhaps",
+            "possibly"
+          ],
+          "tran_cn": "大概,或许"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "possibility",
+            "probability",
+            "feasibility",
+            "potential",
+            "chance"
+          ],
+          "tran_cn": "可能性；不确定性"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "conceivably",
+            "perchance",
+            "perhaps",
+            "possibly"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "that's as maybe",
+      "tran_cn": "就算那样，即便如此"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "也许，可能，大概",
+      "tran_en": "used to say that something may happen or may be true but you are not certain"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "可能性；不确定性"
+    }
+  ],
+  "exchange": {}
+}

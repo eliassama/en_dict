@@ -1,0 +1,205 @@
+{
+  "word": "aviation",
+  "ipa": {
+    "us": "ˌeɪviˈeɪʃn",
+    "uk": "ˌeɪviˈeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "...the aviation industry.",
+      "cn": "…航空工业。"
+    },
+    {
+      "en": "Aviation was lamentably weak and primitive.",
+      "cn": "航空设施极其薄弱简陋."
+    },
+    {
+      "en": "civil/military aviation",
+      "cn": "民用 / 军用航空"
+    },
+    {
+      "en": "He devoted all his life to China's aviation.",
+      "cn": "他的一生都奉献给了中国的航空事业。"
+    },
+    {
+      "en": "It's believed the affair was potentially harmful to British aviation.",
+      "cn": "据信该事件可能对英国航空业造成不利影响。"
+    },
+    {
+      "en": "Pilots in the early days of aviation flew by the seat of their pants.",
+      "cn": "在人类从事航空的初期,飞行员全凭直觉飞行."
+    },
+    {
+      "en": "Pilots of large aircraft are masters of aviation.",
+      "cn": "大型飞行器的驾驶员是航空学方面的专家."
+    },
+    {
+      "en": "Ten years ago, they began to develop the aviation ( industry ).",
+      "cn": "十年前, 他们开始发展航空工业."
+    },
+    {
+      "en": "Ten years ago, they began to develop the aviation industry.",
+      "cn": "十年前，他们开始发展航空工业。"
+    },
+    {
+      "en": "The airline's biggest headache is the increase in the price of aviation fuel.",
+      "cn": "令航空公司最头痛的事就是航空燃料价格的上涨。"
+    },
+    {
+      "en": "The civil aviation minister ordered all the planes to be grounded.",
+      "cn": "民航部长下令所有飞机不得起飞。"
+    },
+    {
+      "en": "The Gossamer Conder, a human - powered airplane, flew into aviation history on Aug. 23,1977.",
+      "cn": "1977年8月23日, “飘忽秃鹰”式人力飞机载入了航空史册."
+    },
+    {
+      "en": "The man had genius and had made his mark in the aviation world.",
+      "cn": "这人很有天赋，在航空界非常出名。"
+    },
+    {
+      "en": "The Wright brothers pioneered in early aviation.",
+      "cn": "莱特兄弟是早期航空的先驱."
+    },
+    {
+      "en": "They pioneered in early aviation.",
+      "cn": "他们曾作为早期航空的先驱."
+    },
+    {
+      "en": "Time and time again in the history of aviation, \" the impossible \" has been done.",
+      "cn": "在航空史上, 这样 “ 不可能 ” 的事一再发生."
+    },
+    {
+      "en": "To overcome these obstacles has always been and continues to be a major challenge to aviation.",
+      "cn": "怎样克服这些障碍,过去经常是,而且现在仍然是航空界的重要难题."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "aviator",
+          "tran_cn": " 飞行员"
+        },
+        {
+          "word": "aviatress",
+          "tran_cn": " 女飞行家"
+        },
+        {
+          "word": "aviatrix",
+          "tran_cn": " 女飞行员；女驾驶员"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "aviate",
+          "tran_cn": " 飞行；驾驶飞机"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "aviate",
+          "tran_cn": " 用飞机飞行"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "flight",
+            "flying"
+          ],
+          "tran_cn": "航空,飞行术"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aeronautics"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "aviation accident",
+      "tran_cn": "航空事故；飞机失事；飞行事故"
+    },
+    {
+      "phrase": "aviation authority",
+      "tran_cn": "民航当局"
+    },
+    {
+      "phrase": "aviation fuel",
+      "tran_cn": "航空燃料"
+    },
+    {
+      "phrase": "aviation industry",
+      "tran_cn": "航空工业；飞机制造业"
+    },
+    {
+      "phrase": "aviation insurance",
+      "tran_cn": "航空保险"
+    },
+    {
+      "phrase": "aviation kerosene",
+      "tran_cn": "喷气机用煤油，航空煤油"
+    },
+    {
+      "phrase": "aviation medicine",
+      "tran_cn": "n. 航空医学；空间医学"
+    },
+    {
+      "phrase": "aviation safety",
+      "tran_cn": "航空安全，飞行安全"
+    },
+    {
+      "phrase": "civil aviation",
+      "tran_cn": "民用航空"
+    },
+    {
+      "phrase": "commercial aviation",
+      "tran_cn": "商用航空事业"
+    },
+    {
+      "phrase": "federal aviation administration",
+      "tran_cn": "[运输工程]联邦航空管理局"
+    },
+    {
+      "phrase": "general aviation",
+      "tran_cn": "通用航空；专用航空；普通航空业"
+    },
+    {
+      "phrase": "international civil aviation organization",
+      "tran_cn": "国际民航组织"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "航空，飞机制造业",
+      "tran_en": "the science or practice of flying in aircraft"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "aviations"
+    ]
+  }
+}

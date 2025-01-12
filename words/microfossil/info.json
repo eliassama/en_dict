@@ -1,0 +1,47 @@
+{
+  "word": "microfossil",
+  "ipa": {
+    "us": "ˌmaɪkrəʊ'fɒsl",
+    "uk": "ˌmaɪkroʊ'fɒsəl"
+  },
+  "sentences": [
+    {
+      "en": "This achievement provides the microfossil materials for the study of the lower ordovician in Northern Guizhou.",
+      "cn": "这一成果对于贵州北部下奥陶统的研究，提供了微体化石资料。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "micropaleontology",
+          "tran_cn": " 微体古生物学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "nannofossil",
+            "ultramicrofossil"
+          ],
+          "tran_cn": "[古生]微化石；微体化石"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "微体化石，微化石",
+      "tran_en": "a fossil generally less than 0.5 millimetre in size, such as a protozoan, bacterium, or pollen grain "
+    }
+  ],
+  "exchange": {}
+}

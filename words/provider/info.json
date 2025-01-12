@@ -1,0 +1,176 @@
+{
+  "word": "provider",
+  "ipa": {
+    "us": "prəˈvaɪdə(r)",
+    "uk": "prəˈvaɪdɚ"
+  },
+  "sentences": [
+    {
+      "en": "A clinician must balance these provider - centered goals with patient - centered goals.",
+      "cn": "临床医师必须明确供史者与患者本人的侧重点."
+    },
+    {
+      "en": "A cryptographic service provider could not be found for this algorithm.",
+      "cn": "未能找到此算法的加密服务提供程序."
+    },
+    {
+      "en": "an Internet service provider",
+      "cn": "因特网服务供应商"
+    },
+    {
+      "en": "Call your current phone provider to ensure that your account is active.",
+      "cn": "目前的手机打电话给您的供应商,以确保您的帐户启用."
+    },
+    {
+      "en": "Good security provider by using biometric feature as key.",
+      "cn": "良好的安全供应商使用生物功能的关键."
+    },
+    {
+      "en": "He also co - financed Bredbandsbolaget ( B 2 ) , a provider of broadband and phone services.",
+      "cn": "他也联合融资给宽带和电话服务提供商 B2 公司."
+    },
+    {
+      "en": "In this case relay your email through your service provider's mail server.",
+      "cn": "在这种情况下,请通过你的邮件服务提供商转发你的邮件."
+    },
+    {
+      "en": "Inactive Service Number - The service line must be active with a phone provider.",
+      "cn": "已停用的服务数量,服务项目,必须积极与手机供应商."
+    },
+    {
+      "en": "Provider. Space. Their Ads. Your Ads . Upload. Scripting . Pre - Scripts. Your URL. Misc.",
+      "cn": "提供者. 空间. 他们的广告. 你的广告.上载. 写稿. 预手稿. 你的URL. 杂项."
+    },
+    {
+      "en": "Returns the type description provider for the component or type.",
+      "cn": "返回组件或类型的类型说明提供程序."
+    },
+    {
+      "en": "Scroll to SMTP Secure Login, leave unless required by your Email provider.",
+      "cn": "滚动smtp的安全登录, 休假除非需要你的电子邮件提供商."
+    },
+    {
+      "en": "Some see themselves as the provider of ideas, while others view their role as essen-tially managerial.",
+      "cn": "有些人自认为是出谋划策的人，其他人则认为他们主要是起管理方面的作用。"
+    },
+    {
+      "en": "The problem originated from an over - leveraged consumer sector , the traditional capital provider.",
+      "cn": "问题的根源在于过度杠杆化的消费者, 传统的资金供给者."
+    },
+    {
+      "en": "The specified security provider could not be validated. Access was denied.",
+      "cn": "无法验证指定的安全性供应商.拒绝访问."
+    },
+    {
+      "en": "This list should contain an entry for the CLR provider, as follows.",
+      "cn": "此列表应包含与CLR提供 程序对应的项, 如下所示."
+    },
+    {
+      "en": "Would latency between you and the cloud - service provider pose a problem?",
+      "cn": "你和云服务供应商之间的延迟会不会成为问题?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "provision",
+          "tran_cn": " 规定；条款；准备；[经] 供应品"
+        },
+        {
+          "word": "provisioner",
+          "tran_cn": " 粮食供应者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "provide",
+          "tran_cn": " 规定；抚养；作准备"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "provide",
+          "tran_cn": " 提供；规定；准备；装备"
+        },
+        {
+          "word": "provision",
+          "tran_cn": " 供给…食物及必需品"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "supplier"
+          ],
+          "tran_cn": "供应者；养家者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "service"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "content provider",
+      "tran_cn": "内容提供者；内容供应商"
+    },
+    {
+      "phrase": "data provider",
+      "tran_cn": "资料提供者；数据提供程序；数据供应商"
+    },
+    {
+      "phrase": "health care provider",
+      "tran_cn": "医疗服务人员"
+    },
+    {
+      "phrase": "information provider",
+      "tran_cn": "信息供应者；资讯供应商"
+    },
+    {
+      "phrase": "internet content provider",
+      "tran_cn": "网路内容提供者；因特网信息提供商"
+    },
+    {
+      "phrase": "internet service provider",
+      "tran_cn": "互联网服务提供商"
+    },
+    {
+      "phrase": "solution provider",
+      "tran_cn": "方案供应商；解决方案提供者"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "供应者，提供者，（尤指）维持家庭生计者",
+      "tran_en": "a company or person that provides a service"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "providers"
+    ]
+  }
+}

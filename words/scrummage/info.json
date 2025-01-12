@@ -1,0 +1,71 @@
+{
+  "word": "scrummage",
+  "ipa": {
+    "us": "ˈskrʌmɪdʒ",
+    "uk": "ˈskrʌmɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "The term scrum originated in the game of rugby as short for scrummage or scrimmage.",
+      "cn": "专业术语 scrum 起源于橄榄球运动，是 scrummage 或者 scrimmage 的简称。"
+    },
+    {
+      "en": "The term scrum originated in the game of rugby as short for scrummage or scrimmage.",
+      "cn": "术语 scrum 来源于橄榄球活动，是 scrummage 或者 Scrimmage 的缩写。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "scrum",
+          "tran_cn": " 扭打，混乱；并列争球"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "scrum",
+          "tran_cn": " 参加并列争球"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "scrum",
+          "tran_cn": " 抛（球）开始并列争球"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "scrimmage"
+          ],
+          "tran_cn": "并列争球"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "争球"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "排成争球队形，参与争球"
+    }
+  ],
+  "exchange": {}
+}

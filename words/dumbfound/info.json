@@ -1,0 +1,63 @@
+{
+  "word": "dumbfound",
+  "ipa": {
+    "us": "dʌmˈfaʊnd",
+    "uk": "ˈdʌmˌfaʊnd"
+  },
+  "sentences": [
+    {
+      "en": "This suggestion dumbfounded Joe.",
+      "cn": "这个建议使乔伊惊呆了。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "confuse",
+            "overwhelm",
+            "shame",
+            "surprise"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "stupefy"
+          ],
+          "tran_cn": "使惊呆；使人惊愕失声"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使人哑然失声，使发楞",
+      "tran_en": "If someone or something dumbfounds you, they surprise you very much"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "dumbfounds"
+    ],
+    "past": [
+      "dumbfounded"
+    ],
+    "done": [
+      "dumbfounded"
+    ],
+    "ing": [
+      "dumbfounding"
+    ]
+  }
+}

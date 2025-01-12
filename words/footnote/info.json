@@ -1,0 +1,123 @@
+{
+  "word": "footnote",
+  "ipa": {
+    "us": "ˈfʊtnəʊt",
+    "uk": "ˈfʊtnoʊt"
+  },
+  "sentences": [
+    {
+      "en": "A footnote is made at the bottom of the page.",
+      "cn": "注脚列在书页下端."
+    },
+    {
+      "en": "As a footnote, I should add that there was one point on which his bravado was more than justified.",
+      "cn": "我补充一句，他有时表现得过分逞强。"
+    },
+    {
+      "en": "I noticed that the author of our textbook frequently referred by footnote to these library books.",
+      "cn": "我还注意到，从图书馆借来的这些书，恰是课本的著者经常在脚注中提到的。"
+    },
+    {
+      "en": "I'm afraid that his name will now become a footnote in history.",
+      "cn": "恐怕他的名字现在会成为历史的注脚。"
+    },
+    {
+      "en": "Index not allowed in footnote, endnote, header , footer, or comment.",
+      "cn": "脚注 、 尾注 、 页眉 、 页脚或批注中不允许有索引."
+    },
+    {
+      "en": "Table not allowed in footnote endnote , header, footer, annotation, or text box.",
+      "cn": "不能在脚注、尾注 、 页眉 、 页脚 、 批注或文本框中使用表格."
+    },
+    {
+      "en": "Table not allowed in footnote, endnote, header, footer, comment, or text box.",
+      "cn": "脚注 、 尾注 、 页眉 、 页脚 、 批注或文本框中不允许有目录."
+    },
+    {
+      "en": "That biography is an illuminating footnote to our times.",
+      "cn": "那篇传记对我们这个时代是个很有启发性的补充说明."
+    },
+    {
+      "en": "The asterisk refers the reader to a footnote.",
+      "cn": "星号是让读者参看脚注."
+    },
+    {
+      "en": "The asterisk refers to a footnote.",
+      "cn": "星号表示参看附注."
+    },
+    {
+      "en": "The explanation in the footnote - fied the difficult sentence.",
+      "cn": "注脚的解释使这一难句容易明了."
+    },
+    {
+      "en": "The insertion point cannot reside just before a footnote marker.",
+      "cn": "插入点不能在紧临脚注标记的前面."
+    },
+    {
+      "en": "There was an interesting footnote to the story.",
+      "cn": "那则故事有个有趣的注脚。"
+    },
+    {
+      "en": "Today, my foremost concern should be to research the folklore of my home country so that I can finish the footnote to my report.",
+      "cn": "今天，我最主要关心的应该是研究祖国的民间传说，那样我就可以完成我的报告的脚注了。"
+    },
+    {
+      "en": "Type the text you want for the custom footnote or endnote mark.",
+      "cn": "您必须为自定义的脚注或尾注标记键入一些文本."
+    },
+    {
+      "en": "You entered multiple destinations for a page, line, footnote , endnote, or comment.",
+      "cn": "您为页 、 行 、 脚注 、 尾注或批注输入了多项目标."
+    },
+    {
+      "en": "You entered multiple destinations for a page, line, footnote, endnote, or annotation.",
+      "cn": "您输入了多个页 、 行 、 脚注 、 尾注或批注目标."
+    },
+    {
+      "en": "You must type some text for a custom footnote or endnote mark.",
+      "cn": "您必须键入一些文字来自定义脚注或尾注标签."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "additional remarks"
+          ],
+          "tran_cn": "脚注；补充说明"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "annotate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "脚注，补充说明",
+      "tran_en": "a note at the bottom of the page in a book, which gives more information about something"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "给…作脚注；在脚注里评议"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "footnotes"
+    ]
+  }
+}

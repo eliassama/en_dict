@@ -1,0 +1,143 @@
+{
+  "word": "consecutive",
+  "ipa": {
+    "us": "kənˈsekjətɪv",
+    "uk": "kənˈsekjətɪv"
+  },
+  "sentences": [
+    {
+      "en": "Between 1940 and 1943 he had a string of 62 consecutive victories.",
+      "cn": "他在1940年至1943年间连续62次获胜。"
+    },
+    {
+      "en": "Can they win the title for the third consecutive season?",
+      "cn": "他们能连续第三个赛季赢得冠军称号吗？"
+    },
+    {
+      "en": "He was reelected for four consecutive terms.",
+      "cn": "他连着四任当选."
+    },
+    {
+      "en": "High - street sales have fallen for the fifth consecutive month.",
+      "cn": "主商业街区销量已经连续5个月下降了."
+    },
+    {
+      "en": "In System / 32, consecutive numbering of statements at the end of run, if requested.",
+      "cn": "在IBMSystem/32中, 在运行结束时按请求对语句作连续编号."
+    },
+    {
+      "en": "It had rained for four consecutive days.",
+      "cn": "雨接连下了四天。"
+    },
+    {
+      "en": "It has rained for four consecutive days.",
+      "cn": "已连续下了四天雨."
+    },
+    {
+      "en": "It rained four consecutive days.",
+      "cn": "连续下了四天雨."
+    },
+    {
+      "en": "She was absent for nine consecutive days.",
+      "cn": "她一连缺席了九天。"
+    },
+    {
+      "en": "She was within sight of Navratilova'srecord of seventy-four consecutive wins.",
+      "cn": "她已经逼近了纳夫拉蒂洛娃74连胜的纪录。"
+    },
+    {
+      "en": "The Chairman and Vice - Chairmen of the Standing Committee shall serve no more than two consecutive terms.",
+      "cn": "委员长、副委员长连续任职不得超过两届."
+    },
+    {
+      "en": "The consecutive swings were becoming smaller and smaller as the candelabrum was slowly coming to rest.",
+      "cn": "随着烛架慢慢地将要停下来,连续的摆动越来越小了."
+    },
+    {
+      "en": "The Cup was won for the third consecutive year by the Toronto Maple Leafs.",
+      "cn": "多伦多枫叶队连续第三年捧杯。"
+    },
+    {
+      "en": "The manufacturing economy contracted in October for the sixth consecutive month.",
+      "cn": "10月，制造业经济已经连续第6个月出现萎缩状况。"
+    },
+    {
+      "en": "The numbers 7, 8, 9 are consecutive.",
+      "cn": "7 、 8 、 9这三个数字是连续的."
+    },
+    {
+      "en": "The streets of New York City are numbered in consecutive order.",
+      "cn": "纽约市街是按序编号的."
+    },
+    {
+      "en": "These were his consecutive fancies.",
+      "cn": "这些是他连绵不断的幻想."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "consecutively",
+          "tran_cn": " 连续地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "continuous",
+            "following",
+            "successive"
+          ],
+          "tran_cn": "连续的;始终一贯的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "continuous",
+            "following",
+            "serial",
+            "successive"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "consecutive days",
+      "tran_cn": "连续营业日；连续作业日"
+    },
+    {
+      "phrase": "consecutive interpreting",
+      "tran_cn": "交替传译"
+    },
+    {
+      "phrase": "consecutive reaction",
+      "tran_cn": "连锁反应"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "连续的，不间断的",
+      "tran_en": "consecutive numbers or periods of time follow one after the other without any interruptions"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "consecutively"
+    ]
+  }
+}

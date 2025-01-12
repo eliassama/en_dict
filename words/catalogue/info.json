@@ -1,0 +1,245 @@
+{
+  "word": "catalogue",
+  "ipa": {
+    "us": "ˈkætəlɒɡ",
+    "uk": "ˈkætəlɔːɡ"
+  },
+  "sentences": [
+    {
+      "en": "a mail order catalog",
+      "cn": "邮购商品目录"
+    },
+    {
+      "en": "A really good catalogue can also whet customers' appetites for merchandise.",
+      "cn": "一份真正好的商品目录也可以激起顾客购买的欲望。"
+    },
+    {
+      "en": "an online catalogue",
+      "cn": "网上目录"
+    },
+    {
+      "en": "Help the boy to look up the book in the catalogue.",
+      "cn": "请帮助这孩子在目录里找找这本书."
+    },
+    {
+      "en": "His story is a catalogue of misfortune.",
+      "cn": "他的经历充满着接二连三的不幸。"
+    },
+    {
+      "en": "I saw some slacks I like in the Sears catalogue.",
+      "cn": "我在西尔斯商品目录看中了几条便裤."
+    },
+    {
+      "en": "If traipsing around shops does not appeal to you, perhaps using a catalogue will.",
+      "cn": "如果不愿逛商店逛得腰酸腿疼，也许您会愿意使用商品目录。"
+    },
+    {
+      "en": "It is necessary to draw readers'attention to the catalogue.",
+      "cn": "必须提醒读者去注意目录."
+    },
+    {
+      "en": "Send for your free catalogue today.",
+      "cn": "今天寄信索要你们的免费目录。"
+    },
+    {
+      "en": "The catalogue is full of testimonials from satisfied customers.",
+      "cn": "这份商品目录满篇皆是称心顾客的赞辞。"
+    },
+    {
+      "en": "The catalogue is under revision.",
+      "cn": "目录册正在修订之中."
+    },
+    {
+      "en": "The catalogue records describes and indexes the resources of a library.",
+      "cn": "目录将图书馆资料加以记载、描述并编入索引."
+    },
+    {
+      "en": "The company reissued its catalogue with a new price list.",
+      "cn": "这个公司重新发行了带有新价格表的商品目录."
+    },
+    {
+      "en": "The librarian entered a new book in the catalogue.",
+      "cn": "图书管理员把一本新书编入目录."
+    },
+    {
+      "en": "The manuscripts have never been systematically catalogued.",
+      "cn": "一直没有系统地为这些手稿编过目录。"
+    },
+    {
+      "en": "The principal finding aid they offer users -- the card catalogue -- is largely ineffectual.",
+      "cn": "他们提供给读者的主要查找途径 -- 卡片目录 -- 大部分已经失效."
+    },
+    {
+      "en": "Their full catalogue costs $5, redeemable against a first order.",
+      "cn": "他们的完整目录售价5美元，第一次订购时可返还这5美元。"
+    },
+    {
+      "en": "You could even order windows from a catalogue — a sort of mail order stained glass service.",
+      "cn": "你甚至可以根据目录订购窗户——可以说是一种邮购彩色玻璃的业务。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "catalogued",
+          "tran_cn": " 编目的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cataloger",
+          "tran_cn": " 编制目录的人"
+        },
+        {
+          "word": "cataloguer",
+          "tran_cn": " [劳经] 编目员"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "catalogued",
+          "tran_cn": " 把…编目分类（catalogue的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "brochure",
+            "bulletin",
+            "circular",
+            "flyer",
+            "folder",
+            "handbill",
+            "leaflet",
+            "pamphlet",
+            "throwaway"
+          ],
+          "tran_cn": "传单,小册子"
+        },
+        {
+          "words": [
+            "beadroll",
+            "calendar",
+            "classification",
+            "directory",
+            "docket",
+            "enumeration",
+            "file",
+            "index",
+            "inventory",
+            "laundry",
+            "list",
+            "record",
+            "register",
+            "roll",
+            "schedule",
+            "table"
+          ],
+          "tran_cn": "目录,一览表"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agenda",
+            "album",
+            "bibliography",
+            "handbook",
+            "specify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "alphabetize",
+            "arrange",
+            "assort",
+            "calendar",
+            "categorize",
+            "chronicle",
+            "classify",
+            "docket",
+            "enrol",
+            "group",
+            "list",
+            "rank",
+            "schedule",
+            "sort",
+            "tabulate"
+          ],
+          "tran_cn": "归类,编列目录"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "card catalogue",
+      "tran_cn": "卡片目录"
+    },
+    {
+      "phrase": "illustrated catalogue",
+      "tran_cn": "图解目录；图示型录"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "目录（簿），一连串（坏事）",
+      "tran_en": "a complete list of things that you can look at, buy, or use, for example in a library or at an art show"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": "目录；编目",
+      "tran_en": "a complete list of things that you can look at, buy, or use, for example in a library or at an art show"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "列入目录，列举，美式拼写 catalog",
+      "tran_en": "to make a complete list of all the things in a group"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 编目录； 记载",
+      "tran_en": "to make a complete list of all the things in a group"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "catalogues"
+    ],
+    "third": [
+      "catalogues"
+    ],
+    "past": [
+      "catalogued"
+    ],
+    "done": [
+      "catalogued"
+    ],
+    "ing": [
+      "cataloguing"
+    ]
+  }
+}

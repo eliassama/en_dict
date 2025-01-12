@@ -1,0 +1,88 @@
+{
+  "word": "monopolise",
+  "ipa": {
+    "us": "mə'nɒpəlaɪz",
+    "uk": "mə'nɒpəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "The large cities are of course do not have a monopolise on architectural or historical monuments.",
+      "cn": "当然大城市并不占尽建筑风采或名胜古迹之风雅."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "monopolistic",
+          "tran_cn": " 垄断的；独占性的；专利的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "monopolisation",
+          "tran_cn": " 独占；垄断"
+        },
+        {
+          "word": "monopolist",
+          "tran_cn": " 垄断者；独占者；专利者"
+        },
+        {
+          "word": "monopolization",
+          "tran_cn": " 垄断；专卖；独占"
+        },
+        {
+          "word": "monopolizer",
+          "tran_cn": " 垄断者；独占的人"
+        },
+        {
+          "word": "monopoly",
+          "tran_cn": " 垄断；垄断者；专卖权"
+        },
+        {
+          "word": "monopsony",
+          "tran_cn": " [贸易] 买主独家垄断，买主垄断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "monopolize",
+          "tran_cn": " 垄断；独占；拥有…的专卖权"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "corner",
+            "forestall"
+          ],
+          "tran_cn": "垄断，获得专卖权（等于monopolize）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "垄断，获得专卖权（等于monopolize）"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "垄断， 独占，专卖， 专营"
+    }
+  ],
+  "exchange": {}
+}

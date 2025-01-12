@@ -1,0 +1,202 @@
+{
+  "word": "grounding",
+  "ipa": {
+    "us": "ˈɡraʊndɪŋ",
+    "uk": " ˈɡraʊndɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a good grounding in grammar",
+      "cn": "扎实的语法基本功训练"
+    },
+    {
+      "en": "A sound knowledge of physics is fully as important as good grounding in chemistry.",
+      "cn": "完备的物理知识同化学中良好的基础训练一样重要."
+    },
+    {
+      "en": "All applicants for the job should have a basic grounding in computer skills.",
+      "cn": "所有申请这份工作的人都应具备基本的电脑操作能力."
+    },
+    {
+      "en": "Communication Power grounding system commonly used in the United earth grounding.",
+      "cn": "通信电源接地系统通常采用联合地线的接地方式."
+    },
+    {
+      "en": "Do not defeat the safety purpose of the grounding type plug.",
+      "cn": "不要忽视接地型插头的安全作用."
+    },
+    {
+      "en": "He has a good grounding in Chinese.",
+      "cn": "他的汉语底子厚."
+    },
+    {
+      "en": "Illusion is a crutch for those with no grounding in reality.",
+      "cn": "在现实无法立足者,才会寻求幻影支撑."
+    },
+    {
+      "en": "In fact, such a thought had never had any grounding, even in Drouet's desires.",
+      "cn": "事实上, 和杜洛埃厮守一辈子的想法是毫无根据的, 甚至杜洛埃本人也没这种打算."
+    },
+    {
+      "en": "Objective : To probe into the grounding for diagnosis and delivery methods fetal macrosomia.",
+      "cn": "探讨巨大儿诊断依据和分娩方式."
+    },
+    {
+      "en": "Plastics cover, completely enclosed, without screws, requires no earth grounding.",
+      "cn": "全塑外壳, 完全密封, 无外加螺钉, 无需接地线路."
+    },
+    {
+      "en": "The BAC shaft grounding system comes in 5 standard versions.",
+      "cn": "BAC的轴承接地系统源自5个标准版本."
+    },
+    {
+      "en": "The degree provides a thorough grounding in both mathematics and statistics.",
+      "cn": "该学位课程将为数学和统计学打下扎实的基础。"
+    },
+    {
+      "en": "The other three grounding stations have been disabled.",
+      "cn": "另外三个接地站也被切断了电源."
+    },
+    {
+      "en": "They believe the soul is immortal, grounding this belief on the Divine nature of the human spirit.",
+      "cn": "基于对人类精神神圣性的信仰，他们认为灵魂是永恒的。"
+    },
+    {
+      "en": "Those rods are channeled into four main grounding stations.",
+      "cn": "这些针将电引入四个主要的地下站."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ground",
+          "tran_cn": " 土地的；地面上的；磨碎的；磨过的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ground",
+          "tran_cn": " 地面；土地；范围；战场"
+        },
+        {
+          "word": "grounder",
+          "tran_cn": " 滚地球"
+        },
+        {
+          "word": "groundwork",
+          "tran_cn": " 基础；地基，根基"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "ground",
+          "tran_cn": " 研磨（grind的过去分词）；压迫"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "ground",
+          "tran_cn": " 着陆；搁浅"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "ground",
+          "tran_cn": " 使接触地面；打基础；使搁浅"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "elements",
+            "basis",
+            "foundation",
+            "base",
+            "bed"
+          ],
+          "tran_cn": "[电]接地；基础；搁浅；（染色的）底色"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "basis",
+            "education"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "stranding"
+          ],
+          "tran_cn": "[电]接地（ground的ing形式）；搁浅"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "grounding electrode",
+      "tran_cn": "接地电极"
+    },
+    {
+      "phrase": "grounding resistance",
+      "tran_cn": "接地电阻，地阻"
+    },
+    {
+      "phrase": "grounding system",
+      "tran_cn": "接地系统"
+    },
+    {
+      "phrase": "grounding transformer",
+      "tran_cn": "[电]接地变压器"
+    },
+    {
+      "phrase": "grounding wire",
+      "tran_cn": "接地线"
+    },
+    {
+      "phrase": "neutral grounding",
+      "tran_cn": "中性接地；中点接地"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[电]接地，通地，搁浅，基础训练，底子，底色",
+      "tran_en": "a training in the basic parts of a subject or skill"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "[电]接地(ground的ing形式)，搁浅"
+    }
+  ],
+  "exchange": {}
+}

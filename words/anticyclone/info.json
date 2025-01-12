@@ -1,0 +1,59 @@
+{
+  "word": "anticyclone",
+  "ipa": {
+    "us": "ˌæntiˈsaɪkləʊn",
+    "uk": "ˌæntiˈsaɪkloʊn"
+  },
+  "sentences": [
+    {
+      "en": "Second is anticyclone this happens when winds form a wind system around a high.",
+      "cn": "第二种是反气旋，当围绕高压中心形成风系统时出现反气旋。"
+    },
+    {
+      "en": "The anticyclone weather situations are more favorable than the cyclonic ones.",
+      "cn": "反气旋天气情况比气旋天气情况更有利些."
+    },
+    {
+      "en": "When the air pressure in a region is higher than its surrounding it is called an anticyclone or an area of high pressure .",
+      "cn": "当地区的大气压力比其周边高时，便称之为反气旋或高气压。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "anticyclonic",
+          "tran_cn": " [气象] 反气旋的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "high pressure",
+            "hyperbar"
+          ],
+          "tran_cn": "[气象]反气旋，反旋风；高气压"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "反气旋",
+      "tran_en": "an area of high air pressure that causes calm weather in the place it is moving over"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "anticyclones"
+    ]
+  }
+}

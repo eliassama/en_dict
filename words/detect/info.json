@@ -1,0 +1,176 @@
+{
+  "word": "detect",
+  "ipa": {
+    "us": "dɪˈtekt",
+    "uk": "dɪˈtekt"
+  },
+  "sentences": [
+    {
+      "en": "...a sensitive piece of equipment used to detect radiation.",
+      "cn": "…一台探测辐射的敏感仪器。"
+    },
+    {
+      "en": "An observant doctor can often detect depression from expression, posture, and movement.",
+      "cn": "善于观察的医生常常能从人的表情、姿势以及动作诊察出抑郁症。"
+    },
+    {
+      "en": "Arnold could detect a certain sadness in the old man's face.",
+      "cn": "阿诺德能觉察到老人脸上的一丝悲伤。"
+    },
+    {
+      "en": "He conjectured that some individuals may be able to detect major calamities.",
+      "cn": "他猜测说有些人也许能够察觉重大灾难。"
+    },
+    {
+      "en": "I can detect signs of improvement in your thinking.",
+      "cn": "我可以察觉出你思考问题方面的进步."
+    },
+    {
+      "en": "I could detect no triumph in his eye.",
+      "cn": "我不能在他的眼里看出胜利的喜悦."
+    },
+    {
+      "en": "I detect an undercurrent of resentment towards the new proposals.",
+      "cn": "我察觉到对新提案有一股潜在的不满情绪。"
+    },
+    {
+      "en": "It is the business of the police to prevent and detect crime and of the law courts to punish crime.",
+      "cn": "防止及侦察犯罪是警察的职务而惩罚犯罪是法庭的职责."
+    },
+    {
+      "en": "Many forms of cancer can be cured if detected early.",
+      "cn": "如果发现得早，许多种癌症都可以治愈。"
+    },
+    {
+      "en": "Radar is used to detect objects in the air or at sea.",
+      "cn": "雷达被用来探测空中或海上的目标."
+    },
+    {
+      "en": "The new test should enable doctors to detect the disease early.",
+      "cn": "新的检测手段应该能够使医生们尽早查出这种疾病。"
+    },
+    {
+      "en": "The probe is sensitive enough to detect the presence of a single microbe.",
+      "cn": "这个探针的灵敏度很高,足以测出任何微生物的存在."
+    },
+    {
+      "en": "The tests are designed to detect the disease early.",
+      "cn": "这些检查旨在早期查出疾病。"
+    },
+    {
+      "en": "Their instruments can detect the slightest vibration.",
+      "cn": "他们的仪器能探测出极微弱的震动."
+    },
+    {
+      "en": "They would be able to detect him from this printed description.",
+      "cn": "他们能根据报上所说的外貌特征把他认出来."
+    },
+    {
+      "en": "To detect shorter wavelengths, astronomers must put instruments above the earth's atmosphere.",
+      "cn": "要探测到更短的波长, 天文学家们就必须把仪器送到地球大气层以外去."
+    },
+    {
+      "en": "We are trying to detect and understand how the climates change.",
+      "cn": "我们正努力探寻并理解气候是如何变化的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "detectable",
+          "tran_cn": " 可检测的；可发觉的"
+        },
+        {
+          "word": "detective",
+          "tran_cn": " 侦探的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "detection",
+          "tran_cn": " 侦查，探测；发觉，发现；察觉"
+        },
+        {
+          "word": "detective",
+          "tran_cn": " 侦探"
+        },
+        {
+          "word": "detector",
+          "tran_cn": " 检测器；发现者；侦察器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appreciate",
+            "catch",
+            "discern",
+            "discover",
+            "distinguish",
+            "find",
+            "perceive",
+            "recognize",
+            "spy"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "catch",
+            "discover",
+            "locate",
+            "perceive",
+            "recognize",
+            "spy"
+          ],
+          "tran_cn": "发现,察觉;查出"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "发现，查明，测出",
+      "tran_en": "to notice or discover something, especially something that is not easy to see, hear etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "发现，察觉，查明",
+      "tran_en": "to notice or discover something, especially something that is not easy to see, hear etc"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "detects"
+    ],
+    "past": [
+      "detected"
+    ],
+    "done": [
+      "detected"
+    ],
+    "ing": [
+      "detecting"
+    ],
+    "adj": [
+      "detectable"
+    ]
+  }
+}

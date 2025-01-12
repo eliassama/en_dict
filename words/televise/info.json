@@ -1,0 +1,123 @@
+{
+  "word": "televise",
+  "ipa": {
+    "us": "ˈtelɪvaɪz",
+    "uk": "ˈtɛləˌvaɪz"
+  },
+  "sentences": [
+    {
+      "en": "I do not follow Argentina's basketball because they do not televise the games here.",
+      "cn": "我不很了解阿根廷篮球因为这里不转播."
+    },
+    {
+      "en": "I'm sure they will try to televise as many games as they can ( in China ).",
+      "cn": "我肯定中国会尽他们可能转播比赛的."
+    },
+    {
+      "en": "The BBC plans to televise all Shakespeare's plays.",
+      "cn": "英国广播公司计画播放莎士比亚的全部戏剧."
+    },
+    {
+      "en": "The game was televised live on ABC.",
+      "cn": "这场比赛由美国广播公司进行电视现场直播。"
+    },
+    {
+      "en": "to televise a novel",
+      "cn": "电视播送小说"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "televangelist",
+          "tran_cn": " 电视福音传道人；电视布道者"
+        },
+        {
+          "word": "television",
+          "tran_cn": " 电视，电视机；电视业"
+        },
+        {
+          "word": "telex",
+          "tran_cn": " 电传；电传机；用户直通电报"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "telex",
+          "tran_cn": " 发电传；拍发直通电报"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "telex",
+          "tran_cn": " 用电传拍发；用直通电报拍发"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "air",
+            "broadcast",
+            "telecast"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt & vi.",
+      "words": [
+        {
+          "words": [
+            "broadcast",
+            "telecast"
+          ],
+          "tran_cn": "广播;播送"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "用电视播放",
+      "tran_en": "to broadcast something on television"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "电视播放"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "由电视播送，摄制成电视节目，实况播送，（用电视机）收看"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "televises"
+    ],
+    "past": [
+      "televised"
+    ],
+    "done": [
+      "televised"
+    ],
+    "ing": [
+      "televising"
+    ]
+  }
+}

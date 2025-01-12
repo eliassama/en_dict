@@ -1,0 +1,234 @@
+{
+  "word": "server",
+  "ipa": {
+    "us": "ˈsɜ:və(r)",
+    "uk": "ˈsɜrvə(r)"
+  },
+  "sentences": [
+    {
+      "en": "After load balancing server, visitors increase from 25 to 100.",
+      "cn": "经测试,系统采用负载平衡服务器后, 客户访问数由原来的25提高到100."
+    },
+    {
+      "en": "All data is stored on a central file server.",
+      "cn": "所有数据资料都储存在中央文件服务器里。"
+    },
+    {
+      "en": "An active object that is an asynchronous request to the Message Server.",
+      "cn": "操做对象:某个激活的对象,担任对消息服务器的同步请求做响应."
+    },
+    {
+      "en": "Check the SMTP server configuration and correct any anomalies.",
+      "cn": "检查SMTP服务器配置及服务是否有任何异常."
+    },
+    {
+      "en": "How to install FTP Server for File Transfer service?",
+      "cn": "如何安装FTP服务来提供文件传输服务?"
+    },
+    {
+      "en": "If yes, what are the server specifications?",
+      "cn": "如果是，服务器的规范是什么？"
+    },
+    {
+      "en": "In contrast, the Universal Server architecture lets IS \" have it your way. \"",
+      "cn": "与之相反, 万能服务器的体系结构让IS “ 按自己方式拥有它 ”."
+    },
+    {
+      "en": "My server is having problems this morning.",
+      "cn": "我的服务器今天早上出了问题."
+    },
+    {
+      "en": "Replace my domain name section [ server - linux . info ] with your domain name.",
+      "cn": "取代我的网域名称的第 [ server -linux.info ] 与您的网域名称."
+    },
+    {
+      "en": "See how the ASP file will be returned from the server.",
+      "cn": "看看从服务器返回的ASP文件 里有些什么."
+    },
+    {
+      "en": "Server : Are you ready to order?",
+      "cn": "可以点菜了 吗 ?"
+    },
+    {
+      "en": "Server : May I take your order?",
+      "cn": "要点菜 吗 ?"
+    },
+    {
+      "en": "Server : Would you like your meat rare, medium or well done?",
+      "cn": "肉要烧成嫩的 、 不老不嫩的还是熟透的?"
+    },
+    {
+      "en": "Server: Please help yourself to the salad bar. It's behind you.",
+      "cn": "色拉台有色拉,请随便用. 就在你们身后."
+    },
+    {
+      "en": "This can be done on any server of the cluster.",
+      "cn": "可以在集群的任何服务器中这样做。"
+    },
+    {
+      "en": "This DNS server is not enlisted in the specified directory partition.",
+      "cn": "DS没被列入指定的目录分区."
+    },
+    {
+      "en": "Well, only the server can do that.",
+      "cn": "嗯，只有服务器能做这项工作。"
+    },
+    {
+      "en": "You can customise the behavior of the Asynchronous Server and hence re - brand it by defining your own command set for invoking services.",
+      "cn": "通过定义自己调用服务的命令集,您可以定制自定义异步服务器的行为,通过为调用服务定义自己的命令集从而对它重新标记."
+    },
+    {
+      "en": "You can customize the behavior of the Asynchronous Server and hence re-brand it by defining your own command set for invoking services.",
+      "cn": "通过定义自己调用服务的命令集，您可以定制自定义异步服务器的行为，通过为调用服务定义自己的命令集从而对它重新标记。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "serve",
+          "tran_cn": " 发球，轮到发球"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "serve",
+          "tran_cn": " 服役，服务；适合，足够；发球；招待，侍候"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "serve",
+          "tran_cn": " 招待，供应；为…服务；对…有用；可作…用"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "Weblogic",
+            "Serer"
+          ],
+          "tran_cn": "[计]服务器；发球员；服伺者；上菜用具"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "tray",
+            "waiter"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "access server",
+      "tran_cn": "访问服务器；接入服务器"
+    },
+    {
+      "phrase": "application server",
+      "tran_cn": "应用服务器；数据库服务器"
+    },
+    {
+      "phrase": "client server",
+      "tran_cn": "客户服务器"
+    },
+    {
+      "phrase": "database server",
+      "tran_cn": "数据库服务器；资料库伺服器"
+    },
+    {
+      "phrase": "dns server",
+      "tran_cn": "域名服务器；名称伺服器"
+    },
+    {
+      "phrase": "file server",
+      "tran_cn": "文件服务器"
+    },
+    {
+      "phrase": "ftp server",
+      "tran_cn": "[电]ftp服务器端程序；[电]用来执行服务器端程序的主机"
+    },
+    {
+      "phrase": "mail server",
+      "tran_cn": "电子邮件服务器"
+    },
+    {
+      "phrase": "media server",
+      "tran_cn": "媒体服务器"
+    },
+    {
+      "phrase": "name server",
+      "tran_cn": "名称服务器；名服务程序"
+    },
+    {
+      "phrase": "proxy server",
+      "tran_cn": "代理服务系统"
+    },
+    {
+      "phrase": "server application",
+      "tran_cn": "n. 服务器应用程序"
+    },
+    {
+      "phrase": "server explorer",
+      "tran_cn": "服务器资源管理器；服务器总管"
+    },
+    {
+      "phrase": "server software",
+      "tran_cn": "服务器软件"
+    },
+    {
+      "phrase": "smtp server",
+      "tran_cn": "外寄邮件伺服器；发送邮件服务器"
+    },
+    {
+      "phrase": "sql server",
+      "tran_cn": "数据库"
+    },
+    {
+      "phrase": "terminal server",
+      "tran_cn": "终端服务器"
+    },
+    {
+      "phrase": "video server",
+      "tran_cn": "视频服务器"
+    },
+    {
+      "phrase": "virtual server",
+      "tran_cn": "虚拟服务器；虚拟伺服器；虚拟主机"
+    },
+    {
+      "phrase": "web server",
+      "tran_cn": "[计]网络服务器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "服务器 ，侍者，上菜用具，发球者",
+      "tran_en": "one of the computers on a network that provides a special service"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "servers"
+    ]
+  }
+}

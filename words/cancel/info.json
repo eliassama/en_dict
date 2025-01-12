@@ -1,0 +1,202 @@
+{
+  "word": "cancel",
+  "ipa": {
+    "us": "ˈkænsl",
+    "uk": "ˈkænsl"
+  },
+  "sentences": [
+    {
+      "en": "He had to cancel some engagements because of tiredness.",
+      "cn": "他太累了，不得不取消一些约会。"
+    },
+    {
+      "en": "He wonders if the different influences might not cancel each other out.",
+      "cn": "他在想，各种影响能不能相互抵消。"
+    },
+    {
+      "en": "Her decision to cancel the concert is bound to disappoint her fans.",
+      "cn": "她决定取消这场音乐会，肯定会使她的歌迷失望。"
+    },
+    {
+      "en": "I’m afraid I’ll have to cancel our meeting tomorrow.",
+      "cn": "恐怕我得取消我们明天的会议。"
+    },
+    {
+      "en": "I'm sorry, I'll have to cancel lunch today because I'm up to my ears in paper work.",
+      "cn": "很遗憾, 今天我只得不吃午饭了,因为我有很多文书工作要做."
+    },
+    {
+      "en": "If you cancel your flight, you will forfeit your deposit.",
+      "cn": "乘客取消航班订位，定金概不退还。"
+    },
+    {
+      "en": "In a department store when a gift voucher is exchanged it's stamped with the details of the store to cancel it.",
+      "cn": "在百货公司里，凡是已经兑换的礼券都会在上面盖上将其注销的商店的详细信息。"
+    },
+    {
+      "en": "In this case it is necessary to cancel the party planned for June 16 th.",
+      "cn": "既然如此,那就必须取消原定于6月16日举行的聚会."
+    },
+    {
+      "en": "It is vitally important to cancel the order immediately.",
+      "cn": "马上取消这批订货是至关重要的."
+    },
+    {
+      "en": "Our flight was cancelled.",
+      "cn": "我们的航班取消了。"
+    },
+    {
+      "en": "She made it clear that under no circumstances would she cancel the trip.",
+      "cn": "她明确表示，无论如何她都不会取消旅行。"
+    },
+    {
+      "en": "The band was forced to cancel a string of live dates.",
+      "cn": "乐队被迫取消了一系列的现场表演。"
+    },
+    {
+      "en": "The pros and cons cancel out.",
+      "cn": "正反两种意见抵消."
+    },
+    {
+      "en": "This provided a pretext for the authorities to cancel the elections.",
+      "cn": "这给当局取消此次选举提供了借口。"
+    },
+    {
+      "en": "To cancel the airport would mean a loss of face for the present governor.",
+      "cn": "撤销机场对现任州长来说将是件丢脸的事情。"
+    },
+    {
+      "en": "We'll have to cancel the cricket match, it's raining cats and dogs.",
+      "cn": "雨下得太大了, 我们将只得取消板球比赛了."
+    },
+    {
+      "en": "You have 14 days in which you can cancel the contract and get your money back.",
+      "cn": "你可在14天之内取消合同，收回钱款。"
+    },
+    {
+      "en": "You’ll just have to ring John and cancel.",
+      "cn": "你只能打电话给约翰取消了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cancellation",
+          "tran_cn": " 取消；删除"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "withdrawal",
+            "revocation"
+          ],
+          "tran_cn": "[计]取消，撤销"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abolish",
+            "annul",
+            "erase",
+            "obliterate",
+            "out",
+            "repeal",
+            "retract",
+            "revoke",
+            "wipe"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "call it off",
+            "declare off"
+          ],
+          "tran_cn": "[计]取消；相互抵销"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "delete",
+            "erase",
+            "obliterate",
+            "out",
+            "repeal",
+            "wipe"
+          ],
+          "tran_cn": "删去;勾销;取消"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cancel after verification",
+      "tran_cn": "核销"
+    },
+    {
+      "phrase": "cancel button",
+      "tran_cn": "取消按钮"
+    },
+    {
+      "phrase": "cancel out",
+      "tran_cn": "取消；抵销"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "取消，撤销"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "取消，终止，废除，注销",
+      "tran_en": "to decide that something that was officially planned will not happen"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "相互抵消",
+      "tran_en": "to decide that something that was officially planned will not happen"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 取消， 作废； 抵消， 对消； 删去， 划掉",
+      "tran_en": "to decide that something that was officially planned will not happen"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "cancels"
+    ],
+    "past": [
+      "cancelled"
+    ],
+    "done": [
+      "cancelled"
+    ],
+    "ing": [
+      "cancelling"
+    ]
+  }
+}

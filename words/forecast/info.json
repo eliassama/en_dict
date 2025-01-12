@@ -1,0 +1,238 @@
+{
+  "word": "forecast",
+  "ipa": {
+    "us": "ˈfɔːkɑːst",
+    "uk": "ˈfɔːrkæst"
+  },
+  "sentences": [
+    {
+      "en": "a long-range weather forecast",
+      "cn": "远期天气预报"
+    },
+    {
+      "en": "a short-range weather forecast",
+      "cn": "短期天气预报"
+    },
+    {
+      "en": "City analysts forecast huge profits this year.",
+      "cn": "伦敦金融分析家预测今年的利润非常丰厚。"
+    },
+    {
+      "en": "Cooler weather is forecast for the weekend.",
+      "cn": "预报本周末天气较凉。"
+    },
+    {
+      "en": "Experts have forecast an upturn in the stock market.",
+      "cn": "专家已预测股票市场价格有上升趋势."
+    },
+    {
+      "en": "Many traders forecast a continuation of the market's recent bearish trend.",
+      "cn": "很多交易商都预测最近市场的下跌趋势还将延续。"
+    },
+    {
+      "en": "Our forecast for 1990 was on the right lines.",
+      "cn": "我们有关1990年的预测大体是正确的。"
+    },
+    {
+      "en": "Rain was forecast for the weekend.",
+      "cn": "预报周末有雨。"
+    },
+    {
+      "en": "the company’s annual sales forecast",
+      "cn": "公司的年度销量预测"
+    },
+    {
+      "en": "The forecast is for changeable weather.",
+      "cn": "预报针对的是变化无常的天气。"
+    },
+    {
+      "en": "The forecast said there would be sunny intervals and showers.",
+      "cn": "预报间晴，有阵雨。"
+    },
+    {
+      "en": "The study also forecast an explosion in the diet soft-drink market.",
+      "cn": "该研究还预测低糖软饮料市场将迅猛增长。"
+    },
+    {
+      "en": "The weather forecast is better for today.",
+      "cn": "天气预报说今天天气要好一些。"
+    },
+    {
+      "en": "The weather forecast is for showers and overcast skies.",
+      "cn": "天气预报上说多云并伴有阵雨。"
+    },
+    {
+      "en": "The weather forecast is good for tomorrow.",
+      "cn": "天气预报说明天是晴天。"
+    },
+    {
+      "en": "There was considerable scepticism about the Chancellor's forecast of a booming economy.",
+      "cn": "有相当多的人对财政大臣作出的经济会迅猛发展的预测表示怀疑。"
+    },
+    {
+      "en": "Thundery weather is forecast.",
+      "cn": "天气预报说会有雷雨。"
+    },
+    {
+      "en": "Who can forecast what a baby will do next?",
+      "cn": "谁能预测出婴儿要做 什么 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "forecaster",
+          "tran_cn": " 预报员"
+        },
+        {
+          "word": "forecasting",
+          "tran_cn": " 预测"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "forecasting",
+          "tran_cn": " 预言；作预告（forecast的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "foretelling",
+            "omen",
+            "prediction",
+            "prognostication",
+            "promise",
+            "prophecy"
+          ],
+          "tran_cn": "预报;预测;预知"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "divine",
+            "expectation",
+            "foreboding",
+            "omen",
+            "prediction",
+            "promise",
+            "prophecy",
+            "speculation"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "anticipate",
+            "foresee",
+            "foretell",
+            "forewarn",
+            "predict",
+            "prophesy",
+            "tell",
+            "warn"
+          ],
+          "tran_cn": "预报;预测"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "demand forecast",
+      "tran_cn": "需求预测"
+    },
+    {
+      "phrase": "financial forecast",
+      "tran_cn": "财务预测"
+    },
+    {
+      "phrase": "forecast period",
+      "tran_cn": "预测期，预报期；预测阶段"
+    },
+    {
+      "phrase": "hydrological forecast",
+      "tran_cn": "水文预报；水文预告"
+    },
+    {
+      "phrase": "requirement forecast",
+      "tran_cn": "要求预测"
+    },
+    {
+      "phrase": "sales forecast",
+      "tran_cn": "销售预测"
+    },
+    {
+      "phrase": "weather forecast",
+      "tran_cn": "天气预测，天气预报"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "预报",
+      "tran_en": "a description of what is likely to happen in the future, based on the information that you have now"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": " 预测， 预报， 预示",
+      "tran_en": "a description of what is likely to happen in the future, based on the information that you have now"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "预测",
+      "tran_en": "to make a statement saying what is likely to happen in the future, based on the information that you have now"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": " 预测， 预报",
+      "tran_en": "a description of what is likely to happen in the future, based on the information that you have now"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 预告， 预测",
+      "tran_en": "to make a statement saying what is likely to happen in the future, based on the information that you have now"
+    },
+    {
+      "pos": "vt&n",
+      "tran_cn": "预测，预报",
+      "tran_en": "a description of what is likely to happen in the future, based on the information that you have now"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "forecasts"
+    ],
+    "third": [
+      "forecasts"
+    ],
+    "past": [
+      "forecasted"
+    ],
+    "done": [
+      "forecasted"
+    ],
+    "ing": [
+      "forecasting"
+    ]
+  }
+}

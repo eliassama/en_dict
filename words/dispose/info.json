@@ -1,0 +1,255 @@
+{
+  "word": "dispose",
+  "ipa": {
+    "us": "dɪˈspəʊz",
+    "uk": "dɪˈspoʊz"
+  },
+  "sentences": [
+    {
+      "en": "a despot who disposed of all his enemies, real or imagined.",
+      "cn": "暴君杀死了他所有的敌人，无论是真的还是想象的"
+    },
+    {
+      "en": "an incinerator built to dispose of toxic waste",
+      "cn": "为处理有毒废料建造的一座焚化炉"
+    },
+    {
+      "en": "Chinese vases are disposed around the gallery.",
+      "cn": "中国花瓶摆放在展馆四周。"
+    },
+    {
+      "en": "disposed of the problem quickly.",
+      "cn": "很快地解决了这个问题"
+    },
+    {
+      "en": "He alleged that they had hired an assassin to dispose of him.",
+      "cn": "他宣称他们已雇了刺客来除掉他。"
+    },
+    {
+      "en": "His criminal record does not dispose me to trust him.",
+      "cn": "他有前科,我不能轻易相信他."
+    },
+    {
+      "en": "His criminal records do not dispose me to trust him.",
+      "cn": "他的前科迫使我无法信任他."
+    },
+    {
+      "en": "How could he dispose of the goods produced by the eight factories?",
+      "cn": "八个厂的货销不去又怎样?"
+    },
+    {
+      "en": "I was very loath to dispose of them for a trifle.",
+      "cn": "我极不愿意得到一点点钱,就把它们让给了别人."
+    },
+    {
+      "en": "It has been traditional for them to dispose of their waste to municipal sewers.",
+      "cn": "一般毛纺废水直接排入城市下水道."
+    },
+    {
+      "en": "Just fold up the nappy and dispose of it in the normal manner.",
+      "cn": "把尿布叠起，像平常扔东西一样扔掉即可。"
+    },
+    {
+      "en": "Madeline could always dispose herself so as to make room for a gentleman.",
+      "cn": "马德琳向来能够自行挪动一下,腾出地方来让一位先生坐下."
+    },
+    {
+      "en": "Please think about to implement the IDisposable interface and write method body for the Dispose method.",
+      "cn": "可以考虑实现IDisposable接口并为Dispose方法写好清理资源的方法体."
+    },
+    {
+      "en": "the difficulties of disposing of nuclear waste",
+      "cn": "处理核废料的困难"
+    },
+    {
+      "en": "The low salary did not dispose him to accept the positon.",
+      "cn": "微薄的待遇使他不愿接受这项工作."
+    },
+    {
+      "en": "The suspect was taken unawares, without the chance to dispose of the evidence.",
+      "cn": "嫌疑人被弄了个措手不及，根本来不及销毁证据。"
+    },
+    {
+      "en": "These goods are difficult to dispose of.",
+      "cn": "这些货不好脱手."
+    },
+    {
+      "en": "We must dispose of too many essential features of the investigated phenomenon.",
+      "cn": "我们不得不排除所研究现象的许多基本特征."
+    },
+    {
+      "en": "We will have to dispose of the mice in the attic.",
+      "cn": "我们必须消灭阁楼里的老鼠."
+    },
+    {
+      "en": "Widows have the right to dispose of property they inherit, without interference from anyone.",
+      "cn": "丧偶妇女有权处分继承的财产, 任何人不得不干涉."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disposable",
+          "tran_cn": " 可任意处理的；可自由使用的；用完即可丢弃的"
+        },
+        {
+          "word": "disposed",
+          "tran_cn": " 有…倾向的；打算做…的；有某种健康状态的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disposal",
+          "tran_cn": " 处理；支配；清理；安排"
+        },
+        {
+          "word": "disposition",
+          "tran_cn": " 处置；[心理] 性情；[军] 部署；倾向"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "disposed",
+          "tran_cn": " 处理；配置；使适应（dispose的过去分词）；使有倾向"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "make",
+            "temperament"
+          ],
+          "tran_cn": "处置；性情"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "collocate",
+            "coordinate",
+            "prevail"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "prepare",
+            "ready"
+          ],
+          "tran_cn": "办妥,准备好"
+        },
+        {
+          "words": [
+            "align",
+            "arrange",
+            "categorize",
+            "marshal",
+            "regulate",
+            "systematize"
+          ],
+          "tran_cn": "安排,处理"
+        },
+        {
+          "words": [
+            "bias",
+            "incline",
+            "induce",
+            "predispose",
+            "tempt"
+          ],
+          "tran_cn": "诱导"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "manage",
+            "place in",
+            "cope with"
+          ],
+          "tran_cn": "处理；安排；（能够）决定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "schedule",
+            "budget",
+            "settle",
+            "place in",
+            "cope with"
+          ],
+          "tran_cn": "处理；处置；安排"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dispose of",
+      "tran_cn": "杀死，破坏"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "处置；性情"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "排列，安排，使倾向于",
+      "tran_en": "to arrange things or put them in their places"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 去掉； 处理， 解决",
+      "tran_en": "to deal with or settle "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "排列，布置；使倾向于，使易于",
+      "tran_en": "to deal with or settle "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disposes"
+    ],
+    "past": [
+      "disposed"
+    ],
+    "done": [
+      "disposed"
+    ],
+    "ing": [
+      "disposing"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "word": "nullify",
+  "ipa": {
+    "us": "ˈnʌlɪfaɪ",
+    "uk": "ˈnʌləˌfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "A proposal offered nullify or substitute for a previous one.",
+      "cn": "一项用来替代先前提案的提议."
+    },
+    {
+      "en": "Do you think you will get to the Finals ( and nullify all of this conversation )?",
+      "cn": "如果你们打进总决赛,你是否觉得所有的争议都可以被 消除 了?"
+    },
+    {
+      "en": "He has no right to nullify laws.",
+      "cn": "他无权废除法律."
+    },
+    {
+      "en": "He may be able to nullify that disadvantage by offering a wider variety of produce.",
+      "cn": "他也许能通过供应更为多样化的农产品来抵消那一劣势。"
+    },
+    {
+      "en": "How can we nullify the enemy's propaganda?",
+      "cn": "怎样才能抵销敌人的宣传?"
+    },
+    {
+      "en": "If voted into law, it will nullify the CRB's decision.",
+      "cn": "如果这项提案被投票选入法律, 它将使crb的决定无效."
+    },
+    {
+      "en": "Recent inflation could nullify the economic growth of the last several years.",
+      "cn": "最近的通货膨胀可能会抵消过去数年的经济增长。"
+    },
+    {
+      "en": "Removal of this anode for any purpose will NULLIFY THE WARRANTY.",
+      "cn": "无论因何原因拆卸这种阳极棒,都使得本热水器的质量保证无效."
+    },
+    {
+      "en": "The election results were nullified because of voter fraud.",
+      "cn": "由于选票造假，选举结果被宣布无效。"
+    },
+    {
+      "en": "These surface charges partially nullify the effect of the charges on the metal plates.",
+      "cn": "这些表面电荷部分地抵消金属极板上电荷的作用."
+    },
+    {
+      "en": "This, of course, would nullify the effect of the move and merely accelerate inflation.",
+      "cn": "这毫无疑问会使该举措完全失效，而仅仅只是加速通货膨胀。"
+    },
+    {
+      "en": "What if some did not have faith? Will their lack of faith nullify God's faithfulness?",
+      "cn": "既便有不信的,这有何妨 呢 .难道他们的不信,就废掉神的信 么 ."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "null",
+          "tran_cn": " 无效的，无价值的；等于零的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "null",
+          "tran_cn": " 零，[数] 空"
+        },
+        {
+          "word": "nullification",
+          "tran_cn": " 无效；废弃；取消；（美）州对联邦法令的拒绝执行或承认"
+        },
+        {
+          "word": "nullifier",
+          "tran_cn": " 废弃者；使无效者；取消者"
+        },
+        {
+          "word": "nullity",
+          "tran_cn": " 无效；无价值的事物或人；[数] 零度；退化阶数"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abort",
+            "annul",
+            "negative"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "recall",
+            "invalidate"
+          ],
+          "tran_cn": "使无效，作废；取消"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使无效，作废；取消",
+      "tran_en": "to make something lose its effect or value"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使抵消，使无效",
+      "tran_en": "to officially state that something has no legal force"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "nullifies"
+    ],
+    "past": [
+      "nullified"
+    ],
+    "done": [
+      "nullified"
+    ],
+    "ing": [
+      "nullifying"
+    ]
+  }
+}

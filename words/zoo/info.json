@@ -1,0 +1,182 @@
+{
+  "word": "zoo",
+  "ipa": {
+    "us": "zuː",
+    "uk": "zuː"
+  },
+  "sentences": [
+    {
+      "en": "After that we went to the zoo.",
+      "cn": "之后我们一起去了动物园。"
+    },
+    {
+      "en": "Four rescue plans are vying to save the zoo.",
+      "cn": "4个拯救动物园的方案正争得不可开交。"
+    },
+    {
+      "en": "Have we got to the zoo yet?",
+      "cn": "我们到动物园了 吗 ?"
+    },
+    {
+      "en": "He couldn't take that job at the zoo because of his epilepsy.",
+      "cn": "他因患有癫痫而无法接受动物园的那份工作."
+    },
+    {
+      "en": "He then adds the usual caveat: \"But, as a zoo director, I understand that it is absolutely essential that we keep them there.",
+      "cn": "接着他补充一贯的说明：“但是，作为一个动物园园长，我明白我们将它们放在那里是绝对必要的。”"
+    },
+    {
+      "en": "His sister works at Beijing Zoo.",
+      "cn": "他的姐姐在北京动物园工作."
+    },
+    {
+      "en": "I agree that the demise of London zoo would be terrible.",
+      "cn": "我也认为如果伦敦动物园不复存在的话那真是太糟糕了。"
+    },
+    {
+      "en": "I have a soft spot for London Zoo.",
+      "cn": "我特别喜欢伦敦动物园。"
+    },
+    {
+      "en": "I like to go to zoo.",
+      "cn": "我喜欢去动物园。"
+    },
+    {
+      "en": "Lionesses bearing cubs in the zoo is nothing new now.",
+      "cn": "狮子在动物园繁殖早已屡见不鲜了."
+    },
+    {
+      "en": "On Sunday I go to the zoo.",
+      "cn": "星期日的时候我去了动物园。"
+    },
+    {
+      "en": "The children are mad keen to go to the zoo.",
+      "cn": "孩子们非常想去动物园."
+    },
+    {
+      "en": "The parrots in the zoo are popping all the time.",
+      "cn": "动物园里的鹦鹉一直在生小鹦鹉。"
+    },
+    {
+      "en": "The road to the zoo turns off here.",
+      "cn": "通向动物园的路由这儿拐弯。"
+    },
+    {
+      "en": "The zoo has a lot of rare animals in it.",
+      "cn": "这个动物园有许多珍奇的动物."
+    },
+    {
+      "en": "The zoo was budgeting for 850,000 visitors this year.",
+      "cn": "动物园在编制预算时预计今年游客会达85万。"
+    },
+    {
+      "en": "There are many animals in a zoo.",
+      "cn": "动物园里有许多动物."
+    },
+    {
+      "en": "There's a zoo round here? That's dandy for my kids.",
+      "cn": "这附近有个动物园？我的孩子们一定会很高兴的。"
+    },
+    {
+      "en": "They taxied to the zoo.",
+      "cn": "他们乘出租车去动物园。"
+    },
+    {
+      "en": "To me the only justification for a zoo is educational.",
+      "cn": "对我来说，动物园存在的唯一正当理由是其教育作用。"
+    },
+    {
+      "en": "Two gorillas have escaped from the zoo.",
+      "cn": "两只大猩猩从动物园逃走了."
+    },
+    {
+      "en": "We linked up with them at the gate of the zoo.",
+      "cn": "我们在动物园门口与他们会合."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "zoological",
+          "tran_cn": " 动物学的；关于动物的"
+        },
+        {
+          "word": "zoonotic",
+          "tran_cn": " 动物传染病的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "zoology",
+          "tran_cn": " 动物学；动物区系"
+        },
+        {
+          "word": "zoomorphism",
+          "tran_cn": " 动物形象；神像兽形化"
+        },
+        {
+          "word": "zoonosis",
+          "tran_cn": " 动物病；[动] 动物传染病"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "animal",
+            "enclosure",
+            "menagerie"
+          ],
+          "tran_cn": "动物园"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "menagerie"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "beijing zoo",
+      "tran_cn": "北京动物园"
+    },
+    {
+      "phrase": "shanghai zoo",
+      "tran_cn": "上海动物园"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "动物园",
+      "tran_en": "a place, usually in a city, where animals of many kinds are kept so that people can go to look at them"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "动物园",
+      "tran_en": "a place, usually in a city, where animals of many kinds are kept so that people can go to look at them"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "zoos"
+    ]
+  }
+}

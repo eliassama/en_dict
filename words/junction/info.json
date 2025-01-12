@@ -1,0 +1,192 @@
+{
+  "word": "junction",
+  "ipa": {
+    "us": "ˈdʒʌŋkʃn",
+    "uk": "ˈdʒʌŋkʃn"
+  },
+  "sentences": [
+    {
+      "en": "A liquid junction is the interface between two miscible electrolyte solutions.",
+      "cn": "液体接界是两个可混溶液的电解质溶液之间的界面."
+    },
+    {
+      "en": "Another car shot out of a junction and smashed into the back of them.",
+      "cn": "另一辆车从交叉路口飞驰而出，撞到了他们汽车的尾部。"
+    },
+    {
+      "en": "At this junction Maston could not repress his emotion.",
+      "cn": "到了这个阶段,梅斯顿再也克制不住自己的感情了."
+    },
+    {
+      "en": "Follow the road to a junction and turn left.",
+      "cn": "沿着这条路到交叉路口，然后左转。"
+    },
+    {
+      "en": "He knew how the traffic congested at the junction of Seventh Avenue and Forty - second Street.",
+      "cn": "他知道在第7街和第42街交叉处交通是多么拥挤."
+    },
+    {
+      "en": "He occasionally infringe the law by parking near a junction.",
+      "cn": "他因偶尔将车停放在交叉口附近而违反规定."
+    },
+    {
+      "en": "He was killed at a road junction by a van driver who went through a red light.",
+      "cn": "他在交叉路口被一辆闯红灯的小货车撞死了。"
+    },
+    {
+      "en": "It was near the junction of City Road and Old Street.",
+      "cn": "那是在城市路与老街的交叉路口附近。"
+    },
+    {
+      "en": "Junction 5 on the M40 ",
+      "cn": "40号高速公路上的第5交叉口"
+    },
+    {
+      "en": "Leave the M1 at junction 25.",
+      "cn": "在25号交叉路口驶离1号高速公路。"
+    },
+    {
+      "en": "Let the junction of the three fracture lines have a virtual displacement.",
+      "cn": "令三条折断线的相交处有一虚位移."
+    },
+    {
+      "en": "The cars collided at the junction.",
+      "cn": "汽车在交叉路口相撞."
+    },
+    {
+      "en": "The gas station is at the junction of two highways.",
+      "cn": "这个加油站位于两条公路的会合处."
+    },
+    {
+      "en": "the junction of Abbot Road and Mill Street",
+      "cn": "阿伯特路与米尔街的交叉口"
+    },
+    {
+      "en": "The power station stands at the junction of two rivers.",
+      "cn": "发电站在两条河流的汇合处."
+    },
+    {
+      "en": "There's a bridge at the junction of the two rivers.",
+      "cn": "两河的汇合处有座桥."
+    },
+    {
+      "en": "You must give way when you come to this junction.",
+      "cn": "你到了这个路口必须让路."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "juncture",
+          "tran_cn": "接缝；连接；接合"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "connection",
+            "coupling",
+            "hookup",
+            "joining",
+            "linking",
+            "meeting",
+            "tie-up",
+            "union"
+          ],
+          "tran_cn": "连接;结合"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coalition",
+            "coherence",
+            "conjunction",
+            "conjuncture",
+            "connection",
+            "corner",
+            "coupling",
+            "crossing",
+            "hookup",
+            "joining",
+            "joint",
+            "meeting",
+            "seam",
+            "terminal",
+            "tie-up",
+            "union"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cold junction",
+      "tran_cn": "冷接点"
+    },
+    {
+      "phrase": "gap junction",
+      "tran_cn": "缝隙连接；间隙连接"
+    },
+    {
+      "phrase": "josephson junction",
+      "tran_cn": "[物]约瑟夫逊结"
+    },
+    {
+      "phrase": "junction box",
+      "tran_cn": "[电]接线盒；分线盒"
+    },
+    {
+      "phrase": "junction point",
+      "tran_cn": "结点；连测点"
+    },
+    {
+      "phrase": "junction temperature",
+      "tran_cn": "结温；接点温度；接面溫度"
+    },
+    {
+      "phrase": "junction transistor",
+      "tran_cn": "面结型晶体管；结式晶体管"
+    },
+    {
+      "phrase": "road junction",
+      "tran_cn": "三叉路"
+    },
+    {
+      "phrase": "tight junction",
+      "tran_cn": "紧密连接；紧密接头"
+    },
+    {
+      "phrase": "triple junction",
+      "tran_cn": "三联点；三重接头；三向连接构造"
+    },
+    {
+      "phrase": "waveguide junction",
+      "tran_cn": "波导接头"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "连接，接合，会合点，接合点，（公路或铁路的）交叉路口，（电缆等的）主结点",
+      "tran_en": "a place where one road, track etc joins another"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "junctions"
+    ]
+  }
+}

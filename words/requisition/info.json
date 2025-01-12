@@ -1,0 +1,190 @@
+{
+  "word": "requisition",
+  "ipa": {
+    "us": "ˌrekwɪˈzɪʃn",
+    "uk": "ˌrɛkwɪˈzɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "...a requisition for a replacement photocopier.",
+      "cn": "...一份更换复印机的授权书。"
+    },
+    {
+      "en": "Complete Test Requisition Form firstly before any test application.",
+      "cn": "申请测试需要填写《委托测试申请表》."
+    },
+    {
+      "en": "Ensure adequate of supplies , materials , and requisition for general supplies.",
+      "cn": "确保有足够的用品, 并申请所需采购的物品."
+    },
+    {
+      "en": "Get purchase requisition from each department and release purchase order after approval.",
+      "cn": "接收各部门的采购需求,经批准后下发采购订单."
+    },
+    {
+      "en": "He and his books were in frequent requisition as to property confiscated and made national.",
+      "cn": "他和他的册籍屡屡被调去检查收归国有的财产."
+    },
+    {
+      "en": "Inspect orders, invoices and requisitions; fill stock requisition orders.",
+      "cn": "检查定单, 发票及采购申请; 填制库存需求定单."
+    },
+    {
+      "en": "It took a moonlight requisition to get the medicine we needed.",
+      "cn": "趁着夜色偷袭,我们获得了所需要的药品."
+    },
+    {
+      "en": "Secondly, the controversial decision to expand the land requisition by the scope.",
+      "cn": "其次, 建议扩大征地争议裁决的受案范围."
+    },
+    {
+      "en": "The army requisition all the truck to carry supplies.",
+      "cn": "军队征用了所有卡车,目的是为了运输车需品."
+    },
+    {
+      "en": "The authorities often requisition land for highways.",
+      "cn": "当局常因筑路之需而征用土地."
+    },
+    {
+      "en": "The building was requisitioned as a military hospital for the duration of the war.",
+      "cn": "这座大楼在战争期间被征用为军用医院。"
+    },
+    {
+      "en": "The commercial requisition of land should be compensated in marketing price.",
+      "cn": "商业性征地必须按市场价格补偿."
+    },
+    {
+      "en": "The soldiers made a requisition on the village for horses.",
+      "cn": "士兵们在村子里征用马匹."
+    },
+    {
+      "en": "They will allocate funds to you if you requisition it.",
+      "cn": "如果你提出书面申请,他们就会拨给你资金."
+    },
+    {
+      "en": "To analyze and understand the purchasing requisition and technical requirements.",
+      "cn": "分析、理解采购需求及技术要求."
+    },
+    {
+      "en": "To ensure requisition of goods necessary to the functioning of the kitchen.",
+      "cn": "根据沿线食品需求数量,保证供应."
+    },
+    {
+      "en": "We obtained petrol by requisition.",
+      "cn": "我们通过征用获得了汽油."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "requisite",
+          "tran_cn": " 必备的，必不可少的；需要的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "requisite",
+          "tran_cn": " 必需品"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "do",
+            "desire",
+            "need",
+            "demand"
+          ],
+          "tran_cn": "征用；要求；[法]申请书；引渡要求"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "petition",
+            "request",
+            "requirement"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "commandeer",
+            "expropriate"
+          ],
+          "tran_cn": "征用；申请领取"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "purchase requisition",
+      "tran_cn": "请购单"
+    },
+    {
+      "phrase": "purchasing requisition",
+      "tran_cn": "采购申请，进货申请书；请购单"
+    },
+    {
+      "phrase": "requisition form",
+      "tran_cn": "请购单"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "征用，（财产或材料的正式）征用令，申请书",
+      "tran_en": "A requisition is a written document which allows a person or organization to obtain goods"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": " 正式要求； 征用",
+      "tran_en": "if someone in authority, especially the army, requisitions a building, vehicle, or food, they officially demand to have it during an  emergency  such as a war"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "征用；申请领取",
+      "tran_en": "if someone in authority, especially the army, requisitions a building, vehicle, or food, they officially demand to have it during an  emergency  such as a war"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "征用，征发"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "requisitions"
+    ],
+    "third": [
+      "requisitions"
+    ],
+    "past": [
+      "requisitioned"
+    ],
+    "done": [
+      "requisitioned"
+    ],
+    "ing": [
+      "requisitioning"
+    ]
+  }
+}

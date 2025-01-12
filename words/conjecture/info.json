@@ -1,0 +1,201 @@
+{
+  "word": "conjecture",
+  "ipa": {
+    "us": "kənˈdʒektʃə(r)",
+    "uk": "kənˈdʒɛktʃɚ"
+  },
+  "sentences": [
+    {
+      "en": "But this is a matter only for conjecture , things having gone otherwise that he forecast.",
+      "cn": "可是这只是猜测而已, 事情跟他的预料恰恰相反."
+    },
+    {
+      "en": "He conjectured that some individuals may be able to detect major calamities.",
+      "cn": "他推测有些人也许能察觉到重大灾难。"
+    },
+    {
+      "en": "I was right in my conjecture [ guess ] .",
+      "cn": "我 猜中 了."
+    },
+    {
+      "en": "It is a baseless conjecture.",
+      "cn": "这是毫无根据的猜想."
+    },
+    {
+      "en": "It's just as I conjecture.",
+      "cn": "这正是我所猜测的."
+    },
+    {
+      "en": "No conjecture can be offered on the subject.",
+      "cn": "关于这个问题不可臆测."
+    },
+    {
+      "en": "Now that their breakup had reached this stage, was this conjecture still worth verifying?",
+      "cn": "彼此决裂到这个田地, 这猜想还值得证实 么 ?"
+    },
+    {
+      "en": "She didn't know the facts; what she said was pure conjecture.",
+      "cn": "她并不知道实情, 她所说的纯属猜测."
+    },
+    {
+      "en": "That was a conjecture, not a fact.",
+      "cn": "那只是猜测，不是事实。"
+    },
+    {
+      "en": "The attitudes of others were matters of conjecture although there were plenty of rumours about how individuals had behaved.",
+      "cn": "尽管对个人的表现存在很多谣传，但他人的看法还只是一些猜测。"
+    },
+    {
+      "en": "The rumor raised much conjecture.",
+      "cn": "谣言引起很多猜测."
+    },
+    {
+      "en": "The rumour raised a storm of conjecture.",
+      "cn": "这谣言引起了一阵猜测."
+    },
+    {
+      "en": "There has been some conjecture about a possible merger.",
+      "cn": "有人猜测公司可能会合并。"
+    },
+    {
+      "en": "This conjecture is not supported by any real evidence.",
+      "cn": "这种推测未被任何确切的证据所证实."
+    },
+    {
+      "en": "This conjecture is not well founded.",
+      "cn": "这种推测缺乏根据."
+    },
+    {
+      "en": "Two mathematicians claimed to have proved the conjecture.",
+      "cn": "两位数学家声称已经证实了该猜想."
+    },
+    {
+      "en": "What made you conjecture that?",
+      "cn": "是什麽促使你推测出这样的结论?"
+    },
+    {
+      "en": "What she said was pure conjecture .",
+      "cn": "她所说的纯属猜测。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "conjectural",
+          "tran_cn": " 推测的；好推测的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "speculation",
+            "theory",
+            "perhaps",
+            "guess",
+            "projection"
+          ],
+          "tran_cn": "推测；猜想"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "conceive",
+            "conception",
+            "conclusion",
+            "guess",
+            "prediction",
+            "speculate",
+            "speculation",
+            "suppose",
+            "suspicion",
+            "thesis",
+            "thinking"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "guess",
+            "speculate"
+          ],
+          "tran_cn": "推测；揣摩"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "guess",
+            "suppose"
+          ],
+          "tran_cn": "估量;猜测"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "goldbach conjecture",
+      "tran_cn": "哥德巴赫猜想（任何比2大的偶数都是两质数的和）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "推测，猜想，设想，揣度，想像，计划",
+      "tran_en": "when you form ideas or opinions without having very much information to base them on"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "推测；揣摩",
+      "tran_en": "to form an idea or opinion without having much information to base it on"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": " 推测， 臆测",
+      "tran_en": "when you form ideas or opinions without having very much information to base them on"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "推测，猜想，估量，揣摩，设想"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "conjectures"
+    ],
+    "third": [
+      "conjectures"
+    ],
+    "past": [
+      "conjectured"
+    ],
+    "done": [
+      "conjectured"
+    ],
+    "ing": [
+      "conjecturing"
+    ],
+    "adj": [
+      "conjectural"
+    ]
+  }
+}

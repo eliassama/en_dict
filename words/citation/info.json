@@ -1,0 +1,159 @@
+{
+  "word": "citation",
+  "ipa": {
+    "us": "saɪˈteɪʃn",
+    "uk": "saɪˈteʃən"
+  },
+  "sentences": [
+    {
+      "en": "...a 50-minute manifesto with citations from the Koran.",
+      "cn": "…一段长达50分钟、带有《古兰经》引文的宣言。"
+    },
+    {
+      "en": "a citation for bravery",
+      "cn": "因勇敢而受到的嘉奖"
+    },
+    {
+      "en": "Citation form is described at the bottom of this page.",
+      "cn": "引用资料的格式会在本页下方说明."
+    },
+    {
+      "en": "Each award carries a formal citation and offers public recognition.",
+      "cn": "南洋校友奖将于校友回校日颁发."
+    },
+    {
+      "en": "Has your club received the Presidential Citation in the past?",
+      "cn": "你的社曾经得过社长奖 吗 ?"
+    },
+    {
+      "en": "He had to sign the proposition for the citation.",
+      "cn": "他只好在受奖申请书上签了字."
+    },
+    {
+      "en": "His citation says he showed outstanding and exemplary courage.",
+      "cn": "颁给他的嘉奖令称他表现出非凡的勇气，堪为表率。"
+    },
+    {
+      "en": "I know of you from the ISI paper citation system.",
+      "cn": "我是从ISI科学论文引证系统知道您."
+    },
+    {
+      "en": "Lao Yu's citation has ignited the infinite spite of his favorite's appetite.",
+      "cn": "老俞的引用点燃了他宠物胃口的无限怨恨."
+    },
+    {
+      "en": "SCI - Science Citation Index, ISTP - Index to Scientific and Technical Proceedings , EI - Engineering Index.",
+      "cn": "三系统指“科学引文索引” 、 “科学技术会议录索引”和“工程索引”."
+    },
+    {
+      "en": "Some methods of the citation of class situation are introduced.",
+      "cn": "介绍了课堂情境创设的一些方法."
+    },
+    {
+      "en": "The court could issue a citation and fine Ms. Robbins.",
+      "cn": "法庭可能会发传票，对罗宾斯女士处以罚款。"
+    },
+    {
+      "en": "The essay begins with a citation from ‘Hamlet’.",
+      "cn": "这篇文章开头引用了《哈姆雷特》中的一句话。"
+    },
+    {
+      "en": "The pape proposes a project of citation analysis system of post - graduate dissertations.",
+      "cn": "本文提出了研究生学位论文引文分析系统的设计方案."
+    },
+    {
+      "en": "This examples uses the CITE element to render a citation in italic.",
+      "cn": "下面的例子使用了CITE元素将引文以斜体显示."
+    },
+    {
+      "en": "What kind of citation you are going to get?",
+      "cn": "你会得到哪一种表扬 呢 ?"
+    },
+    {
+      "en": "You must acknowledge the author using the correct citation and reference.",
+      "cn": "你必须用正确的引用和参考方式注明原作者."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "cite",
+          "tran_cn": " 引用；传讯；想起；表彰"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "subpoena",
+            "summons"
+          ],
+          "tran_cn": "传票"
+        },
+        {
+          "words": [
+            "quotation"
+          ],
+          "tran_cn": "引用;引证"
+        },
+        {
+          "words": [
+            "decoration",
+            "honorable",
+            "medal",
+            "mention"
+          ],
+          "tran_cn": "褒扬"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accusation",
+            "decoration",
+            "glory",
+            "medal",
+            "quotation",
+            "reference",
+            "selection",
+            "subpoena",
+            "summons",
+            "ticket"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "citation index",
+      "tran_cn": "引文索引；引证索引"
+    },
+    {
+      "phrase": "science citation index",
+      "tran_cn": "科学文献索引"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "引用，引述，嘉奖，〈法律〉传唤",
+      "tran_en": "a line taken from a book, speech etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "citations"
+    ]
+  }
+}

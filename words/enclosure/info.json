@@ -1,0 +1,180 @@
+{
+  "word": "enclosure",
+  "ipa": {
+    "us": "ɪnˈkləʊʒə(r)",
+    "uk": "ɪnˈkloʊʒər"
+  },
+  "sentences": [
+    {
+      "en": "A cage is an enclosure for birds.",
+      "cn": "笼子是养鸟的地方."
+    },
+    {
+      "en": "I received your enclosure with gratitude.",
+      "cn": "附件收到,十分感谢."
+    },
+    {
+      "en": "the bear enclosure at the zoo",
+      "cn": "动物园中的熊园"
+    },
+    {
+      "en": "The dogs have greater freedom too, for they are allowed to wander outside their enclosure.",
+      "cn": "那些狗也有了较大的自由, 因为允许它们在栅栏外面到处跑跑."
+    },
+    {
+      "en": "The dogs have greater freedom, too, for they are allowed to wander outside their enclosure.",
+      "cn": "狗也有较多的自由，因为允许它们在围栏外边随便走动。"
+    },
+    {
+      "en": "the enclosure of arable land for pasture",
+      "cn": "将耕地圈起来用作牧场"
+    },
+    {
+      "en": "the enclosure of common land in the seventeenth century",
+      "cn": "17世纪对公用地的圈占"
+    },
+    {
+      "en": "The enclosure of public land meant that ordinary people couldn't use it.",
+      "cn": "公共土地的圈围意味着普通人将不能使用它."
+    },
+    {
+      "en": "The enclosure will reach you twice a year, don't refuse it.",
+      "cn": "信中附款,你每年将收到两次, 望勿拒绝."
+    },
+    {
+      "en": "The essential components of a microcomputerare often contained within single enclosure.",
+      "cn": "微型计算机的基本部件常组装在同一箱体中."
+    },
+    {
+      "en": "The house was confined by an enclosure.",
+      "cn": "这房子用篱笆围了起来."
+    },
+    {
+      "en": "The supporting case is the outer enclosure of the gyro component.",
+      "cn": "支承壳体是陀螺组件的外壳."
+    },
+    {
+      "en": "There is a public enclosure of a racecourse.",
+      "cn": "那儿有个作赛马场的公共圈地."
+    },
+    {
+      "en": "Thereupon she made hay of the weighing - in enclosure.",
+      "cn": "这样一来,她可把这个骑师休息场给扰乱了."
+    },
+    {
+      "en": "This enclosure was so vast that the outermost wall could hardly be seen.",
+      "cn": "这块围场如此之大，几乎看不见最远端的围墙。"
+    },
+    {
+      "en": "This is used to indicate the temperature of the enclosure.",
+      "cn": "这个用来指示壳体的温度."
+    },
+    {
+      "en": "We were led to a fenced enclosure.",
+      "cn": "我们被带到一处用篱笆围住的场地."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "enclosed",
+          "tran_cn": " 被附上的；与世隔绝的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "enclosed",
+          "tran_cn": " 附上（enclose的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "enclose",
+          "tran_cn": " 围绕；装入；放入封套"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "barricade",
+            "barrier",
+            "boarding",
+            "fence",
+            "fencing",
+            "hedge",
+            "paling",
+            "palisade",
+            "railing"
+          ],
+          "tran_cn": "围墙,围栏"
+        },
+        {
+          "words": [
+            "arena",
+            "corral",
+            "court",
+            "fold",
+            "paddock",
+            "pen",
+            "pound",
+            "precincts",
+            "sty"
+          ],
+          "tran_cn": "圈占地,圈用地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cage",
+            "surroundings",
+            "wall"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "enclosure movement",
+      "tran_cn": "（英国历史上的）圈地运动"
+    },
+    {
+      "phrase": "enclosure structure",
+      "tran_cn": "密围式搭建物；密围式构筑物"
+    },
+    {
+      "phrase": "shower enclosure",
+      "tran_cn": "浴室隔板；淋浴房；淋浴间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "围场，圈地，（信）附件",
+      "tran_en": "an area surrounded by a wall or fence, and used for a particular purpose"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "enclosures"
+    ]
+  }
+}

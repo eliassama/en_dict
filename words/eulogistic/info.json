@@ -1,0 +1,50 @@
+{
+  "word": "eulogistic",
+  "ipa": {
+    "us": "ˌju:lə'dʒɪstɪk",
+    "uk": "ˌjuləˈdʒɪstɪk"
+  },
+  "sentences": [
+    {
+      "en": "This is a formal eulogistic composition.",
+      "cn": "这是一篇正式的颂扬性文章。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "eulogy",
+          "tran_cn": " 悼词；颂词；颂扬；赞词"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "eulogise",
+          "tran_cn": " （英）颂扬；赞扬（等于eulogize）"
+        },
+        {
+          "word": "eulogize",
+          "tran_cn": " 颂扬；称赞"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "作颂词的，赞颂的"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "eulogize"
+    ]
+  }
+}

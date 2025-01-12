@@ -1,0 +1,76 @@
+{
+  "word": "waspish",
+  "ipa": {
+    "us": "ˈwɒspɪʃ",
+    "uk": "ˈwɑspɪʃ"
+  },
+  "sentences": [
+    {
+      "en": "Beware her waspish wit.",
+      "cn": "提防她的刻毒的妙语。"
+    },
+    {
+      "en": "waspish remarks",
+      "cn": "恶毒的话语"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "wasp",
+          "tran_cn": " 黄蜂；[昆] 胡蜂；易怒的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "wasp",
+          "tran_cn": " 黄蜂似的直扑"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "bitter",
+            "passionate"
+          ],
+          "tran_cn": "尖刻的；易怒的；如黄蜂的；腰细的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "caustic",
+            "excitable"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "黄蜂的，腰细的，脾气暴躁的，坏心肠的",
+      "tran_en": "A waspish remark or sense of humour is sharp and critical"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "waspishly"
+    ]
+  }
+}

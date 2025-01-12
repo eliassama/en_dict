@@ -1,0 +1,67 @@
+{
+  "word": "RSVP",
+  "ipa": {
+    "us": "ˌɑ:resvi:'pi:",
+    "uk": "ˌɑresvi'pi"
+  },
+  "sentences": [
+    {
+      "en": "At present the solution for Internet QoS mainly includes: Intserv, RSVP, Diffserv and MPLS.",
+      "cn": "目前,解决Internet服务质量(QoS)问题的方法主要有: Intserv 、 RSVP 、 Diffserv、MPLS等."
+    },
+    {
+      "en": "Billy: What's the RSVP date?",
+      "cn": "比利: 回复的日期是哪一天?"
+    },
+    {
+      "en": "E - NNI RSVP - TE is a major part of control plane protocol stack in ASON network.",
+      "cn": "E -NNIRSVP-TE 信令协议是自动交换光网(ASON)网络控制平面协议栈的重要组成部分."
+    },
+    {
+      "en": "If the written invitation bears the initials RSVP ( Repondez s'il vous plait ), it must be answered.",
+      "cn": "如请贴上印有rsvp ( 请赐复 ) 字样, 则非答复不可."
+    },
+    {
+      "en": "If you want people to reply to an invitation, put ( RSVP ) at the bottom.",
+      "cn": "如果想让人回复邀请函, 就要在邀请函底下注明尽快回复字样 ( RSVP )."
+    },
+    {
+      "en": "Its reliability and survivability have a direct impact on the reliability of ASON.",
+      "cn": "RSVP-TE的可靠性和生存性机制直接影响到ASON的 可靠性."
+    },
+    {
+      "en": "Please rsvp to reserve seats. One invitation for two persons only.",
+      "cn": "座位有限,敬请回复留座并凭邀请卡入座, 一柬仅限两人."
+    },
+    {
+      "en": "Please specify your dinner choice when you RSVP.",
+      "cn": "请尽快选择您的用餐内容."
+    },
+    {
+      "en": "The Bi - RSVP provides resource reservation for ACK packets to improve TCP performance.",
+      "cn": "该协议通过为反向ACK数据包提供资源预留以提高TCP性能."
+    },
+    {
+      "en": "The nature and advantages of RSVP.",
+      "cn": "参加[退休义工计画]的本质和好处."
+    },
+    {
+      "en": "Usually there is an RSVP card in the invitation.",
+      "cn": "通常请帖内付一回柬."
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "abbr",
+      "tran_cn": "Reply,if you please 请回复"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "请赐复"
+    }
+  ],
+  "exchange": {}
+}

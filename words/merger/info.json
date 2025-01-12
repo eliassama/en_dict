@@ -1,0 +1,197 @@
+{
+  "word": "merger",
+  "ipa": {
+    "us": "ˈmɜːdʒə(r)",
+    "uk": "ˈmɜːrdʒər"
+  },
+  "sentences": [
+    {
+      "en": "a merger between the two banks",
+      "cn": "两家银行的合并"
+    },
+    {
+      "en": "Any conceivable merger would involve a foreign company.",
+      "cn": "可能的合并伙伴应当是一家外国公司."
+    },
+    {
+      "en": "Both companies were keen on a merger.",
+      "cn": "两家公司都很想合并。"
+    },
+    {
+      "en": "Firm diversification is increasingly achieved by the means of takeover and merger.",
+      "cn": "通过接管和兼并,厂商经营范围日益多样化."
+    },
+    {
+      "en": "His justification for the merger was just hot air.",
+      "cn": "他提出的合并理由只是空话连篇。"
+    },
+    {
+      "en": "Members are concerned that a merger might mean higher costs, in which case they would oppose it.",
+      "cn": "成员们担心合并会导致成本提高，若是那样的话，他们将提出反对。"
+    },
+    {
+      "en": "merger negotiations",
+      "cn": "合并谈判"
+    },
+    {
+      "en": "Such a merger would be the largest in US banking history, giving the two banks combined assets of some $146 billion.",
+      "cn": "这将是美国银行业历史上最大的一次合并，使两家银行的总资产达到1,460亿美元左右。"
+    },
+    {
+      "en": "The managing director denied that the merger was a done deal, and said they were still in negotiations.",
+      "cn": "总经理否认合并已经敲定, 声称此事仍在商讨中."
+    },
+    {
+      "en": "The merger puts the firm in a position to triple its earnings.",
+      "cn": "合并可使公司利润增长两倍。"
+    },
+    {
+      "en": "The two businesses contracted a merger.",
+      "cn": "这两家公司签约合并为一家."
+    },
+    {
+      "en": "The two companies are considering merger as a possibility.",
+      "cn": "这两家公司在考虑合并的可能性."
+    },
+    {
+      "en": "There are rumors of a merger involving several major railroad companies.",
+      "cn": "据说几家主要的铁路公司要合并了."
+    },
+    {
+      "en": "There are rumours of an impending merger.",
+      "cn": "有谣传说是快要合并了."
+    },
+    {
+      "en": "Today, we are witnessing a genuine convergence - even a merger - of astronomy and physics.",
+      "cn": "现在我们看到,天文学和物理学互相接近甚至溶合在一起了."
+    },
+    {
+      "en": "Tom and I saw great benefits for both companies in a merger.",
+      "cn": "汤姆和我都预见到两家公司合并所获得的重大利益."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "merged",
+          "tran_cn": " 合并的；结了婚的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "merging",
+          "tran_cn": " 合并；[计][数] 归并"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "merged",
+          "tran_cn": " 合并；融合（merge的过去分词）"
+        },
+        {
+          "word": "merging",
+          "tran_cn": " 合并；融合（merge的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "merge",
+          "tran_cn": " 合并；融合"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "merge",
+          "tran_cn": " 合并；使合并；吞没"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "absorption",
+            "marriage",
+            "consolidation",
+            "coalition"
+          ],
+          "tran_cn": "（企业等的）[经]合并；并购；吸收（如刑法中重罪吸收轻罪）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coalition",
+            "combination",
+            "conjunction",
+            "conjuncture",
+            "connection",
+            "fusion",
+            "mixture",
+            "union",
+            "wedding"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acquisition and merger",
+      "tran_cn": "兼并"
+    },
+    {
+      "phrase": "business merger",
+      "tran_cn": "企业合并，企业并购"
+    },
+    {
+      "phrase": "horizontal merger",
+      "tran_cn": "横向兼并；同业合并"
+    },
+    {
+      "phrase": "merger agreement",
+      "tran_cn": "合并协议"
+    },
+    {
+      "phrase": "merger and acquisition",
+      "tran_cn": "收购兼并；兼并与收购"
+    },
+    {
+      "phrase": "reverse merger",
+      "tran_cn": "反向合并"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（两个公司的）合并，联合体，吸收",
+      "tran_en": "the joining together of two or more companies or organizations to form one larger one"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "mergers"
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "word": "insurrection",
+  "ipa": {
+    "us": "ˌɪnsəˈrekʃn",
+    "uk": "ˌɪnsəˈrɛkʃən"
+  },
+  "sentences": [
+    {
+      "en": "Barabbas had been thrown into prison for an insurrection in the city, and for murder.",
+      "cn": "19这巴拉巴是因在城里作乱杀人,下在监里的."
+    },
+    {
+      "en": "Barabbas had been thrown into prison for insurrection in the city, and for murder.",
+      "cn": "这巴拉巴是因在城里作乱杀人下在监里的."
+    },
+    {
+      "en": "I had to do it, because insurrection must have its discipline.",
+      "cn": "我应当这样做，因为起义应当有它的纪律。"
+    },
+    {
+      "en": "The necessary tactics of insurrection are to drown small numbers in a vast obscurity, to multiply every combatant by the possibilities, which that obscurity contains.",
+      "cn": "把一小部分淹没在广大的黑暗中，用这黑暗所创造的条件来加强每个战士的战斗力，这是起义必要的战略。"
+    },
+    {
+      "en": "They were plotting to stage an armed insurrection if negotiations with the government should fail.",
+      "cn": "他们正在策划如果与政府的谈判失败就发动武装叛乱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "insurgent",
+          "tran_cn": " 叛乱的；起义的"
+        },
+        {
+          "word": "insurrectional",
+          "tran_cn": " 叛乱的；起义的；暴动的"
+        },
+        {
+          "word": "insurrectionary",
+          "tran_cn": " 暴动的；起义的，造反的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "insurgence",
+          "tran_cn": " 暴动；起义；造反；叛乱"
+        },
+        {
+          "word": "insurgency",
+          "tran_cn": " 叛乱；暴动；叛乱状态"
+        },
+        {
+          "word": "insurgent",
+          "tran_cn": " 叛乱者；起义者"
+        },
+        {
+          "word": "insurrectionary",
+          "tran_cn": " 暴动者，起义者"
+        },
+        {
+          "word": "insurrectionist",
+          "tran_cn": " 起义者；造反者；暴动者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mutiny",
+            "rebellion",
+            "revolt",
+            "riot",
+            "sedition",
+            "uprising"
+          ],
+          "tran_cn": "叛乱;造反"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "disturbance",
+            "faction",
+            "mutiny",
+            "rebellion",
+            "revolt",
+            "riot",
+            "sedition",
+            "uprising"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "造反，暴动，叛乱",
+      "tran_en": "an attempt by a large group of people within a country to take control using force and violence"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "insurrections"
+    ],
+    "adj": [
+      "insurrectionary"
+    ]
+  }
+}

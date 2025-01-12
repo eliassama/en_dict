@@ -1,0 +1,88 @@
+{
+  "word": "bemuse",
+  "ipa": {
+    "us": "bɪ'mju:z",
+    "uk": "bɪˈmjuz"
+  },
+  "sentences": [
+    {
+      "en": "The sheer quantity of detail would bemuse even the most clear-headed author.",
+      "cn": "光是这么多的细节就会让哪怕是头脑最清醒的作者感到困惑。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bemused",
+          "tran_cn": " 困惑的；发呆的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bemusement",
+          "tran_cn": " 困惑"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bemused",
+          "tran_cn": " 使发呆（bemuse的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "confuse",
+            "bedaze"
+          ],
+          "tran_cn": "使发呆；使茫然；使困惑"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使昏头昏脑， 使迷惑",
+      "tran_en": "If something bemuses you, it puzzles or confuses you"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使困惑"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "bemuses"
+    ],
+    "past": [
+      "bemused"
+    ],
+    "done": [
+      "bemused"
+    ],
+    "ing": [
+      "bemusing"
+    ],
+    "adv": [
+      "bemusedly"
+    ],
+    "adj": [
+      "bemused"
+    ]
+  }
+}

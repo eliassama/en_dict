@@ -1,0 +1,174 @@
+{
+  "word": "violation",
+  "ipa": {
+    "us": "ˌvaɪə'leɪʃ(ə)n",
+    "uk": "ˌvaɪə'leɪʃ(ə)n"
+  },
+  "sentences": [
+    {
+      "en": "All acts in violation of the Constitution and the law must be investigated.",
+      "cn": "一切违反宪法和法律的行为,必须予以追究."
+    },
+    {
+      "en": "He didn't want to be picked up this afternoon for a traffic violation in Las Vegas.",
+      "cn": "他不愿这一下午因为在拉斯维加斯违反交通规则而被扣留."
+    },
+    {
+      "en": "He roared that was a violation of the rules.",
+      "cn": "他大声说,那是违反规则的."
+    },
+    {
+      "en": "He was fined 200 dollars for violation of traffic regulation.",
+      "cn": "他因违反交通规则被罚款200美元."
+    },
+    {
+      "en": "He was in violation of his contract.",
+      "cn": "他违反了自己所签订的合同。"
+    },
+    {
+      "en": "His possession of classified documents in his home was, at the very least, a violation of Navy security regulations.",
+      "cn": "他把机密文件藏在家中，至少是违反了海军安全条例。"
+    },
+    {
+      "en": "human rights violations",
+      "cn": "违反人权"
+    },
+    {
+      "en": "Refugee workers said such action was a violation of medical ethics.",
+      "cn": "难民工作者说那种行为是对医德的亵渎。"
+    },
+    {
+      "en": "She accused the press photographers of violating her privacy.",
+      "cn": "她指责新闻摄影记者侵犯了她的隐私。"
+    },
+    {
+      "en": "The action is an open violation of the Vienna Convention.",
+      "cn": "该行为公然违背了《维也纳公约》。"
+    },
+    {
+      "en": "The attack on civilians is a flagrant violation of the peace agreement.",
+      "cn": "袭击平民的举动公然违背了和平协定."
+    },
+    {
+      "en": "The driver was fined for a speeding violation.",
+      "cn": "这位司机因超速行车而被罚款."
+    },
+    {
+      "en": "The judge called the decision \"a flagrant violation of international law\"",
+      "cn": "法官称这一决定是“对国际法的公然违背”。"
+    },
+    {
+      "en": "The upper limit for party violation in this strong interaction was quoted by Tanner.",
+      "cn": "潭纳给出了在这种强相互作用中宇称破坏的上限."
+    },
+    {
+      "en": "The widespread floating of exchange rates was in direct violation of the rules of the IMF.",
+      "cn": "大辐度的汇率波动是直接违反国际货币基金的规定的."
+    },
+    {
+      "en": "They blockaded the Suez Canal in violation of international agreement.",
+      "cn": "他们违反国际公约封锁了苏伊士运河."
+    },
+    {
+      "en": "This is a flagrant violation of human rights.",
+      "cn": "这是对人权的公然侵犯."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "violable",
+          "tran_cn": " 易受侵犯的；可亵渎的；可违反的"
+        },
+        {
+          "word": "violative",
+          "tran_cn": " 违犯的；违背的；违反的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "violator",
+          "tran_cn": " 违背者；违反者；妨碍者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "violate",
+          "tran_cn": " 违反；侵犯，妨碍；亵渎"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "intervention",
+            "prevention",
+            "infringement",
+            "breach"
+          ],
+          "tran_cn": "违反；妨碍，侵害；违背；强奸"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "break",
+            "commission",
+            "delinquency",
+            "entrenchment",
+            "invasion",
+            "offense"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "access violation",
+      "tran_cn": "访问破坏；访问违例"
+    },
+    {
+      "phrase": "in violation of",
+      "tran_cn": "adj. 违反（违背）"
+    },
+    {
+      "phrase": "violation of laws",
+      "tran_cn": "违法；违章"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "违反，妨碍，侵犯，违犯，违背，[体]违例，犯规，强奸，亵渎，污辱",
+      "tran_en": "an action that breaks a law, agreement, principle etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "violations"
+    ],
+    "verb": [
+      "violate"
+    ],
+    "noun": [
+      "violator"
+    ]
+  }
+}

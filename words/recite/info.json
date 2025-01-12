@@ -1,0 +1,191 @@
+{
+  "word": "recite",
+  "ipa": {
+    "us": "rɪˈsaɪt",
+    "uk": "rɪˈsaɪt"
+  },
+  "sentences": [
+    {
+      "en": "Can you recite the names of all the capital cities of Europe?",
+      "cn": "你能列举出欧洲各国首都的名字 吗 ?"
+    },
+    {
+      "en": "Can you recite the poem?",
+      "cn": "你能背诵这首诗 吗 ?"
+    },
+    {
+      "en": "Come up to the front and recite the poem.",
+      "cn": "到前面来,背这首诗."
+    },
+    {
+      "en": "Each child had to recite a poem to the class.",
+      "cn": "每个孩子都得在班上背诵一首诗。"
+    },
+    {
+      "en": "For example the player could recite a spell that triggers some event.",
+      "cn": "例如,玩家可以背出一段符咒来触发什么事件."
+    },
+    {
+      "en": "He can recite that poem from memory.",
+      "cn": "他能凭记忆背诵那首诗."
+    },
+    {
+      "en": "He can recite the names of all the capital cities of Europe.",
+      "cn": "他能列举欧洲各国首都的名称."
+    },
+    {
+      "en": "He can recite the poem fluently.",
+      "cn": "他把那首诗念得琅琅上口."
+    },
+    {
+      "en": "He can't recite the paragraph, but can do the one that precedes.",
+      "cn": "他不能背诵这一段, 但能背前面的一段."
+    },
+    {
+      "en": "He could recite seventy long stories without dropping a word.",
+      "cn": "他可以一字不漏地背诵70篇长故事."
+    },
+    {
+      "en": "He is going to recite a poem.",
+      "cn": "他将要朗诵一首诗."
+    },
+    {
+      "en": "I do not doubt ( but ) that he can recite it.",
+      "cn": "我相信他能把它背下来."
+    },
+    {
+      "en": "I repeated them until I could recite seventy stories without dropping a word.",
+      "cn": "我反复背诵,直到我能一词不漏地背出70篇故事来."
+    },
+    {
+      "en": "It was my turn to recite.",
+      "cn": "轮到我背书了."
+    },
+    {
+      "en": "It's your turn to recite, Mr. Kaplan.",
+      "cn": "卡普兰先生, 该轮到你背诵了."
+    },
+    {
+      "en": "She recited a poem that she had learnt at school.",
+      "cn": "她背诵了一首学校里学的诗。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "recitative",
+          "tran_cn": " 吟诵的；背诵的；叙述的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "recital",
+          "tran_cn": " 朗诵，吟诵；独奏会；背诵；独唱会"
+        },
+        {
+          "word": "recitation",
+          "tran_cn": " 背诵；朗诵；详述；背诵的诗"
+        },
+        {
+          "word": "recitative",
+          "tran_cn": " 朗诵调；宣叙调"
+        },
+        {
+          "word": "reciter",
+          "tran_cn": " 朗诵者；背诵者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deliver",
+            "narrate",
+            "recount",
+            "rehearse",
+            "relate",
+            "repeat",
+            "report",
+            "review",
+            "say",
+            "state",
+            "tell"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "say over",
+            "learn sth by memory"
+          ],
+          "tran_cn": "背诵；叙述"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "narrate",
+            "recount",
+            "rehearse",
+            "relate",
+            "repeat",
+            "review",
+            "tell"
+          ],
+          "tran_cn": "背诵;叙述;重复"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 背诵， 朗诵； 列举， 一一说出",
+      "tran_en": "to say a poem, piece of literature etc that you have learned, for people to listen to"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "背诵，叙述"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "详述，列举，吟诵"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "背诵，叙述，列举"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "recites"
+    ],
+    "past": [
+      "recited"
+    ],
+    "done": [
+      "recited"
+    ],
+    "ing": [
+      "reciting"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "word": "brusqueness",
+  "ipa": {
+    "us": "bruːsknəs;",
+    "uk": "brʊsknəs"
+  },
+  "sentences": [
+    {
+      "en": "He was better at teaching artillery than natural philosophy, and was disliked by some cadets for his brusqueness, lack of sympathy and eccentric behavior.",
+      "cn": "与自然哲学相较，他更擅长教授炮兵战术原则，因为他的直率，缺乏同情以及古怪的行为，一些学员并不喜欢他。"
+    },
+    {
+      "en": "Her brusqueness offends many people.",
+      "cn": "她的粗暴无礼冒犯很多人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "brusque",
+          "tran_cn": " 唐突的；直率的；无礼的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "brusquely",
+          "tran_cn": " 唐突地；直率地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "freedom",
+            "imperence"
+          ],
+          "tran_cn": "无礼；唐突；直率"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "无礼，唐突，直率"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "brusquely"
+    ],
+    "adj": [
+      "brusque"
+    ]
+  }
+}

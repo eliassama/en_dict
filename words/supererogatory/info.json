@@ -1,0 +1,69 @@
+{
+  "word": "supererogatory",
+  "ipa": {
+    "us": "ˌsu:pərə'rɒgətərɪ",
+    "uk": "ˌsupərə'rɒgəˌtoʊrɪ"
+  },
+  "sentences": [
+    {
+      "en": "It was supererogatory for her to gloat ( Mary McCarthy )",
+      "cn": "她也在一旁幸灾乐祸地看得出神,真是多余 ( 玛丽麦卡锡 )"
+    },
+    {
+      "en": "It was supererogatory of her to gloat.",
+      "cn": "她没必要幸灾乐祸."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "supererogation",
+          "tran_cn": " 额外工作，份外工作"
+        },
+        {
+          "word": "superfluity",
+          "tran_cn": " 奢侈品；额外；过剩"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "additional",
+            "added",
+            "extra",
+            "excess",
+            "spare"
+          ],
+          "tran_cn": "额外的，多余的；职责以外的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "needless"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "额外的，超出职务的",
+      "tran_en": "performed to an extent exceeding that required or expected "
+    }
+  ],
+  "exchange": {}
+}

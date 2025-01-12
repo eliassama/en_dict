@@ -1,0 +1,228 @@
+{
+  "word": "surgery",
+  "ipa": {
+    "us": "ˈsɜːdʒəri",
+    "uk": "ˈsɜːrdʒəri"
+  },
+  "sentences": [
+    {
+      "en": "Dr. Hanson is in surgery.",
+      "cn": "汉森医生在手术室。"
+    },
+    {
+      "en": "He had plastic surgery to help reconstruct his badly damaged face.",
+      "cn": "他做了整形手术以修复其严重受伤的面部。"
+    },
+    {
+      "en": "He has been left hideously disfigured by plastic surgery.",
+      "cn": "整形外科手术导致他完全毁容了。"
+    },
+    {
+      "en": "He has received extensive corrective surgery to his skull.",
+      "cn": "他的头骨做过大面积的矫形手术。"
+    },
+    {
+      "en": "He needed surgery to cure a troublesome back injury.",
+      "cn": "他需要做手术来治好烦人的背伤。"
+    },
+    {
+      "en": "His doctor had told him to prepare himself for surgery.",
+      "cn": "他的医生已经告诉他做好动手术的准备。"
+    },
+    {
+      "en": "I have doubts about the advisability of surgery in this case.",
+      "cn": "关于该病例做手术的可行性，我持有疑问。"
+    },
+    {
+      "en": "I was already prepped for surgery so I went straight into theatre.",
+      "cn": "我已经做好了接受外科手术的准备，于是就直接进入了手术室。"
+    },
+    {
+      "en": "If the cortisone doesn't take, I may have to have surgery.",
+      "cn": "如果可的松无效，我恐怕只能动手术了。"
+    },
+    {
+      "en": "major/minor surgery",
+      "cn": "大 / 小手术"
+    },
+    {
+      "en": "Many people find the idea of any kind of invasive surgery unbearable.",
+      "cn": "很多人认为任何开刀手术都不堪忍受。"
+    },
+    {
+      "en": "Once the damage is done, even modern surgery can't undo it entirely.",
+      "cn": "伤害一旦造成，即使是现代外科手术也无法将其完全消除。"
+    },
+    {
+      "en": "Only 12 weeks ago he underwent major heart transplant surgery.",
+      "cn": "12个星期前他才刚刚接受了风险很高的心脏移植手术。"
+    },
+    {
+      "en": "Ophthalmic surgeons are now performing laser surgery to correct myopia.",
+      "cn": "眼科医生现在采用激光手术来矫正近视。"
+    },
+    {
+      "en": "She even had plastic surgery to change the shape of her nose.",
+      "cn": "为改变鼻子的形状，她甚至接受了整形手术。"
+    },
+    {
+      "en": "Shockingly, this useless and dangerous surgery did not end until the 1930s.",
+      "cn": "令人震惊的是，这种既无效又危险的手术直到20世纪30年代才被废止。"
+    },
+    {
+      "en": "This type of surgery could even be used to extract cancerous growths.",
+      "cn": "这种外科手术甚至可以用来切除癌性肿瘤。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "surgical",
+          "tran_cn": " 外科的；手术上的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "surgically",
+          "tran_cn": " 如外科手术般地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "surgeon",
+          "tran_cn": " 外科医生"
+        },
+        {
+          "word": "surgical",
+          "tran_cn": " 外科手术；外科病房"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "operation"
+          ],
+          "tran_cn": "手术"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "operation"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "brain surgery",
+      "tran_cn": "脑外科；脑部手术"
+    },
+    {
+      "phrase": "bypass surgery",
+      "tran_cn": "绕道手术；心脏搭桥手术"
+    },
+    {
+      "phrase": "cardiac surgery",
+      "tran_cn": "心脏外科，心外科；心脏手术"
+    },
+    {
+      "phrase": "cardiovascular surgery",
+      "tran_cn": "心血管外科"
+    },
+    {
+      "phrase": "cosmetic surgery",
+      "tran_cn": "整容手术；整容外科"
+    },
+    {
+      "phrase": "dental surgery",
+      "tran_cn": "牙科；口腔外科"
+    },
+    {
+      "phrase": "department of surgery",
+      "tran_cn": "外科病区；外科部；外科学系"
+    },
+    {
+      "phrase": "emergency surgery",
+      "tran_cn": "急诊外科"
+    },
+    {
+      "phrase": "general surgery",
+      "tran_cn": "普通外科，普外科"
+    },
+    {
+      "phrase": "heart surgery",
+      "tran_cn": "心脏手术"
+    },
+    {
+      "phrase": "laser surgery",
+      "tran_cn": "激光手术"
+    },
+    {
+      "phrase": "minor surgery",
+      "tran_cn": "（耳鼻喉科门诊）小手术；小手术；小外科"
+    },
+    {
+      "phrase": "open heart surgery",
+      "tran_cn": "心脏直视手术；开心手术"
+    },
+    {
+      "phrase": "oral surgery",
+      "tran_cn": "n. 口腔外科"
+    },
+    {
+      "phrase": "orthopedic surgery",
+      "tran_cn": "矫形外科"
+    },
+    {
+      "phrase": "plastic surgery",
+      "tran_cn": "[医]整形外科"
+    },
+    {
+      "phrase": "plastic surgery hospital",
+      "tran_cn": "整形外科医院"
+    },
+    {
+      "phrase": "reconstructive surgery",
+      "tran_cn": "重建外科；置换外科"
+    },
+    {
+      "phrase": "thoracic surgery",
+      "tran_cn": "胸外科"
+    },
+    {
+      "phrase": "trauma surgery",
+      "tran_cn": "创伤外科"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "外科学，外科手术，手术室，诊所，诊断时间",
+      "tran_en": "medical treatment in which a surgeon cuts open your body to repair or remove something inside"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "surgeries"
+    ]
+  }
+}

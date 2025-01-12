@@ -1,0 +1,85 @@
+{
+  "word": "anomie",
+  "ipa": {
+    "us": "ˈænəmi",
+    "uk": "ˈænəmi"
+  },
+  "sentences": [
+    {
+      "en": "Industrial class conflict was a symptom of anomie.",
+      "cn": "工业阶级矛盾就是一种反常的症象."
+    },
+    {
+      "en": "The moral management is a new concept derived from the social management. But which it faces is still the old problems of moral anomie and reconstruction of social order.",
+      "cn": "道德治理是由社会治理衍生的新概念，但面对的依然是社会道德秩序失范与重建的老问题。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "anomic",
+          "tran_cn": " 社会道德沦丧的；没有目的的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "anomalously",
+          "tran_cn": " 反常地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "anomaly",
+          "tran_cn": " 异常；不规则；反常事物"
+        },
+        {
+          "word": "anomy",
+          "tran_cn": " 社会混乱状态；失范症（等于anomie）"
+        }
+      ]
+    },
+    {
+      "pos": "undefined",
+      "words": [
+        {
+          "word": "anomalously",
+          "tran_cn": "不规则地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chaos",
+            "disorder",
+            "confusion",
+            "involvement",
+            "mix"
+          ],
+          "tran_cn": "社会的反常状态；混乱"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "社会的反常状态，混乱",
+      "tran_en": "lack of social or moral standards in an individual or society "
+    }
+  ],
+  "exchange": {}
+}

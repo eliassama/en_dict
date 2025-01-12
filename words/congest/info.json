@@ -1,0 +1,94 @@
+{
+  "word": "congest",
+  "ipa": {
+    "us": "kən'dʒest",
+    "uk": "kənˈdʒɛst"
+  },
+  "sentences": [
+    {
+      "en": "Finally , spatial temporal speed figure was introduced to help find the headstream of congest.",
+      "cn": "介绍了用时空速度变化图寻找拥挤源头以及选择交通控制措施的方法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "congestive",
+          "tran_cn": " 充血的，充血性的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "congestion",
+          "tran_cn": " 拥挤；拥塞；充血"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "plug"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "crowd"
+          ],
+          "tran_cn": "充血；拥挤"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "engorge"
+          ],
+          "tran_cn": "使充血；充塞"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使充满, 使拥塞, [医]使充血",
+      "tran_en": "to crowd or become crowded to excess; overfill "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "充满，拥挤"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "congests"
+    ],
+    "past": [
+      "congested"
+    ],
+    "done": [
+      "congested"
+    ],
+    "ing": [
+      "congesting"
+    ]
+  }
+}

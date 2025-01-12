@@ -1,0 +1,116 @@
+{
+  "word": "frizz",
+  "ipa": {
+    "us": "frɪz",
+    "uk": "frɪz"
+  },
+  "sentences": [
+    {
+      "en": "Her hair was caught all to one side in a great bloom of frizz.",
+      "cn": "她将全部头发梳向一边成大发鬈,像花一般."
+    },
+    {
+      "en": "Her hair was in a frizz.",
+      "cn": "她是卷发."
+    },
+    {
+      "en": "Manic brushing will only cause frizz.",
+      "cn": "胡乱梳头只会使头发鬈得厉害。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "frizzly",
+          "tran_cn": " 头发卷曲的；满是卷结的"
+        },
+        {
+          "word": "frizzy",
+          "tran_cn": " 卷曲的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "frizzle",
+          "tran_cn": " 卷发；吱吱响声"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "frizzle",
+          "tran_cn": " 炸得吱吱响；卷曲"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "frizzle",
+          "tran_cn": " 使卷缩；使卷曲"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "curly hair",
+            "wavy hair"
+          ],
+          "tran_cn": "吱吱响声；卷发；皱缩（等于friz）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "crisp"
+          ],
+          "tran_cn": "卷曲；炸得吱吱响"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "鬈发；鬈毛"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<非正>使（头发）卷曲"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "frizzes"
+    ],
+    "past": [
+      "frizzed"
+    ],
+    "done": [
+      "frizzed"
+    ],
+    "ing": [
+      "frizzing"
+    ],
+    "adj": [
+      "frizzy"
+    ]
+  }
+}

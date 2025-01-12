@@ -1,0 +1,115 @@
+{
+  "word": "reverential",
+  "ipa": {
+    "us": "ˌrevəˈrenʃl",
+    "uk": "ˌrɛvəˈrɛnʃəl"
+  },
+  "sentences": [
+    {
+      "en": "\"That's the old foresters\" garden,' she said in reverential tones.",
+      "cn": "“那是老护林人的花园，”她用充满敬意的语气说。"
+    },
+    {
+      "en": "He spoke in reverential tones.",
+      "cn": "他说话时语气恭敬。"
+    },
+    {
+      "en": "His name was always mentioned in almost reverential tones.",
+      "cn": "人们每次提起他的名字，语调中几乎总是充满了敬意。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "reverend",
+          "tran_cn": " 教士的；可尊敬的"
+        },
+        {
+          "word": "reverent",
+          "tran_cn": " 虔诚的；恭敬的；尊敬的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "reverentially",
+          "tran_cn": " 虔诚地；谨慎地"
+        },
+        {
+          "word": "reverently",
+          "tran_cn": " 虔诚地，恭敬地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reverence",
+          "tran_cn": " 崇敬；尊严；敬礼"
+        },
+        {
+          "word": "reverend",
+          "tran_cn": " 教士"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "revere",
+          "tran_cn": " 敬畏；尊敬；崇敬"
+        },
+        {
+          "word": "reverence",
+          "tran_cn": " 敬畏；尊敬"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "religious",
+            "good",
+            "worthy"
+          ],
+          "tran_cn": "虔诚的；表示尊敬的；可尊敬的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "fearful",
+            "respectful"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可敬的",
+      "tran_en": "showing a lot of respect and admiration"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "reverentially"
+    ]
+  }
+}

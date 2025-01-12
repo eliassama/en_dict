@@ -1,0 +1,75 @@
+{
+  "word": "irruption",
+  "ipa": {
+    "us": "ɪ'rʌpʃn",
+    "uk": "ɪ'rʌpʃn"
+  },
+  "sentences": [
+    {
+      "en": "The authors used the Analytic Hierarchy Process ( AHP ) in the researches of coal seam floor water - irruption.",
+      "cn": "将系统工程中的层次 分析法 引入煤层底板突水的研究中."
+    },
+    {
+      "en": "The whole body made a disorderly irruption into Mr. Bounderby's dining - room.",
+      "cn": "这一大堆人莽莽撞撞地拥进了庞得贝先生的餐厅."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "irruptive",
+          "tran_cn": " 突入的；爆发的；急剧增加的"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "irrupt",
+          "tran_cn": " 突然冲入，闯进"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "intrusion",
+            "penetration"
+          ],
+          "tran_cn": "闯入，侵入；激剧繁殖"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "entrenchment",
+            "invasion"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "侵入，急速增加"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "irrupt"
+    ]
+  }
+}

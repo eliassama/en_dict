@@ -1,0 +1,49 @@
+{
+  "word": "coterminous",
+  "ipa": {
+    "us": "kəʊˈtɜ:mɪnəs",
+    "uk": "koʊˈtɜrmɪnəs"
+  },
+  "sentences": [
+    {
+      "en": "China and thailand is coterminous.",
+      "cn": "中国和泰国是毗连的。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "adjacent",
+            "conjoint"
+          ],
+          "tran_cn": "相连的；毗连的（等于conterminous）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coexistent",
+            "simultaneous"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<正>（国家或地区）享有共同边界，毗连，接壤，（事物或看法）几乎一致",
+      "tran_en": "having the same pattern or features"
+    }
+  ],
+  "exchange": {}
+}

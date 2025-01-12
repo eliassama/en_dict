@@ -1,0 +1,177 @@
+{
+  "word": "species",
+  "ipa": {
+    "us": "ˈspiːʃiːz",
+    "uk": "ˈspiːʃiːz"
+  },
+  "sentences": [
+    {
+      "en": "a hitherto unknown species of moth",
+      "cn": "迄今仍属未知种类的蛾"
+    },
+    {
+      "en": "a rare species of beetle",
+      "cn": "一种稀有甲虫"
+    },
+    {
+      "en": "a species of insect previously unknown to science",
+      "cn": "科学上以前尚未了解的一种昆虫"
+    },
+    {
+      "en": "Given patience, successful breeding of this species can be achieved.",
+      "cn": "只要有耐心，是能成功培育出这一品种的。"
+    },
+    {
+      "en": "Hybridising the two species will reduce the red to orange.",
+      "cn": "将这两个物种杂交后颜色会由红色淡化成橙色。"
+    },
+    {
+      "en": "Most species live off aquatic snails.",
+      "cn": "绝大多数种类以吃螺为生。"
+    },
+    {
+      "en": "pandas and other endangered species",
+      "cn": "熊猫以及其他濒危物种"
+    },
+    {
+      "en": "Pandas are an endangered species.",
+      "cn": "大熊猫是一种濒危物种。"
+    },
+    {
+      "en": "Seven species of birds of prey have been observed.",
+      "cn": "已有七种猛禽被观察到。"
+    },
+    {
+      "en": "Several other sub-species of gull are found in the region.",
+      "cn": "在该地区还发现了海鸥的其他亚种。"
+    },
+    {
+      "en": "Some animal and plant species cannot accommodate to the rapidly changing cond-itions.",
+      "cn": "某些种类的动植物不能适应迅速变化的环境。"
+    },
+    {
+      "en": "some of the rare species that inhabit the area",
+      "cn": "生活在这个地区的一些罕见物种"
+    },
+    {
+      "en": "The area now attracts over 60 species of breeding birds.",
+      "cn": "这一地区现在吸引了60多种鸟类到此繁育后代。"
+    },
+    {
+      "en": "The book described the adaptation of desert species to the hot conditions.",
+      "cn": "这本书描绘了沙漠物种对炎热环境的适应."
+    },
+    {
+      "en": "The disease can spread from one mammalian species to another.",
+      "cn": "这种疾病能够在不同的哺乳类物种之间传播。"
+    },
+    {
+      "en": "the evolution of the human species",
+      "cn": "人类的进化"
+    },
+    {
+      "en": "The male of the species is almost indistinguishable from the female.",
+      "cn": "这个物种的雄性和雌性几乎无法分辨。"
+    },
+    {
+      "en": "There are over 35 000 species of orchid distributed throughout the world.",
+      "cn": "有35,000多种兰花分布在世界各地."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "speciation",
+          "tran_cn": " [进化] 物种形成"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "speciate",
+          "tran_cn": " （通过进化）形成物种"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "class",
+            "group",
+            "kind",
+            "sort",
+            "type",
+            "variety"
+          ],
+          "tran_cn": "种类"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "category",
+            "class",
+            "description",
+            "feather",
+            "form",
+            "group",
+            "kind",
+            "sort",
+            "type",
+            "variety"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "species abundance",
+      "tran_cn": "物种丰度"
+    },
+    {
+      "phrase": "species composition",
+      "tran_cn": "物种组成；种类成分"
+    },
+    {
+      "phrase": "species diversity",
+      "tran_cn": "物种多样性；歧异度"
+    },
+    {
+      "phrase": "species group",
+      "tran_cn": "种群；种组"
+    },
+    {
+      "phrase": "species richness",
+      "tran_cn": "物种丰富度；种繁富度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "物种上的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "物种，种类，类型，[逻辑] 个体",
+      "tran_en": "a group of animals or plants whose members are similar and can breed together to produce young animals or plants"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "species"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "word": "demobilize",
+  "ipa": {
+    "us": "dɪˈməʊbəlaɪz",
+    "uk": "dɪˈmoʊbəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Both sides have agreed to demobilize 70% of their armies.",
+      "cn": "双方都同意各自遣散70%的军队。"
+    },
+    {
+      "en": "programmes to help demobilized soldiers fit into civilian life",
+      "cn": "帮助复员军人适应平民生活的方案"
+    },
+    {
+      "en": "Would it be all right to demobilize all our troops now?",
+      "cn": "现在我们把兵统统裁掉好不好?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "demob",
+          "tran_cn": " 复员；遣散"
+        },
+        {
+          "word": "demobilisation",
+          "tran_cn": " 出场，遣散"
+        },
+        {
+          "word": "demobilization",
+          "tran_cn": " 复员；遣散（demobilize的名词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "demobilise",
+          "tran_cn": " 遣散军队；实行复员（等于demobilize）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "demob",
+          "tran_cn": " 遣散；使复员"
+        },
+        {
+          "word": "demobilise",
+          "tran_cn": " 使…复员；遣散"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "deactivate",
+            "muster out"
+          ],
+          "tran_cn": "遣散；使复员；使退伍（demobilise）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "复员",
+      "tran_en": "to send home the members of an army, navy etc, especially at the end of a war"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 遣散； 使复员",
+      "tran_en": "to send home the members of an army, navy etc, especially at the end of a war"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "<正>使复原，遣散，使退伍"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "demobilizes"
+    ],
+    "past": [
+      "demobilized"
+    ],
+    "done": [
+      "demobilized"
+    ],
+    "ing": [
+      "demobilizing"
+    ],
+    "noun": [
+      "demobilization"
+    ]
+  }
+}

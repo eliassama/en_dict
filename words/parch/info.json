@@ -1,0 +1,97 @@
+{
+  "word": "parch",
+  "ipa": {
+    "us": "pɑ:tʃ",
+    "uk": "pɑrtʃ"
+  },
+  "sentences": [
+    {
+      "en": "The water extraction of Perilla frutescens and parch Perilla frutescens implied expectorant effects at low concentration.",
+      "cn": "紫苏子和炒紫苏子水提物的小剂量组均有良好的祛痰作用."
+    },
+    {
+      "en": "These grains may parch , but they will not pop.",
+      "cn": "这些谷物也许能烘焙，但他们不能爆破。"
+    },
+    {
+      "en": "These grains may parch, but they will not pop.",
+      "cn": "这些谷类只能被烤干，却不可能爆开。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "parched",
+          "tran_cn": " 焦的；炎热的；炒过的；干透的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "parched",
+          "tran_cn": " 烘干；使极渴（parch的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "roast",
+            "scorch"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to roast",
+            "bake"
+          ],
+          "tran_cn": "烤，烘；使干透"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "烤(干), 烘(干)",
+      "tran_en": "if the sun or wind parches something, it makes it very dry"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（某人）极口渴"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）焦干， （使）干透"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "parches"
+    ],
+    "past": [
+      "parched"
+    ],
+    "done": [
+      "parched"
+    ],
+    "ing": [
+      "parching"
+    ]
+  }
+}

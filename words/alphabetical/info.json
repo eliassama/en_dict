@@ -1,0 +1,165 @@
+{
+  "word": "alphabetical",
+  "ipa": {
+    "us": "ˌælfəˈbetɪkl",
+    "uk": "ˌælfəˈbetɪkl"
+  },
+  "sentences": [
+    {
+      "en": "He wrote the words in alphabetical order.",
+      "cn": "他按字母的先后把单词写下."
+    },
+    {
+      "en": "I'll enter the names in alphabetical order.",
+      "cn": "我将按字母顺序把名字记上."
+    },
+    {
+      "en": "Music shops should arrange their recordings in simple alphabetical order, rather than by category.",
+      "cn": "音像店应当按照简单的字母顺序而不是依类别来摆放唱片。"
+    },
+    {
+      "en": "Please arrange these books in alphabetical order.",
+      "cn": "请把这些书按字母顺序整理一下."
+    },
+    {
+      "en": "Put these words in alphabetical order.",
+      "cn": "把这些字按字母表顺序排列起来."
+    },
+    {
+      "en": "The author index has entries arranged in alphabetical order of author's surnames.",
+      "cn": "著者索引中有按著者姓氏字母顺序排列的著录."
+    },
+    {
+      "en": "The books were shelved in alphabetical order.",
+      "cn": "书按字母顺序排放在书架上."
+    },
+    {
+      "en": "The cards were ranged in alphabetical order.",
+      "cn": "卡片以字母顺序排列."
+    },
+    {
+      "en": "The files are arranged in alphabetical order .",
+      "cn": "这些文件按字母顺序排列。"
+    },
+    {
+      "en": "The library has a catalogue of its books, arranged in alphabetical order.",
+      "cn": "图书馆有一份藏书的目录, 依字母次序编排."
+    },
+    {
+      "en": "The names are listed in alphabetical order .",
+      "cn": "姓名是按字母顺序排列的。"
+    },
+    {
+      "en": "The names on the list are in alphabetical order .",
+      "cn": "名单上的名字是按字母顺序排列的。"
+    },
+    {
+      "en": "Their herbs and spices are arranged in alphabetical order.",
+      "cn": "他们的香草和调味料按字母顺序摆放。"
+    },
+    {
+      "en": "Their sequence in naming follows alphabetical order.",
+      "cn": "它们的命名顺序是按字母次序."
+    },
+    {
+      "en": "There is no need to maintain a strict alphabetical sequence.",
+      "cn": "不必保持严格的字顺."
+    },
+    {
+      "en": "You must arrange these books in alphabetical order.",
+      "cn": "你要把这些书按字母顺序排好."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "alphabetic",
+          "tran_cn": " 字母的；照字母次序的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "alphabetically",
+          "tran_cn": " 照字母顺序排列地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "alpha",
+          "tran_cn": " 希腊字母的第一个字母；开端；最初"
+        },
+        {
+          "word": "alphabet",
+          "tran_cn": " 字母表，字母系统；入门，初步"
+        },
+        {
+          "word": "alphabetization",
+          "tran_cn": " 按照字母顺序排列；拼音化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "alphabetize",
+          "tran_cn": " 依字母顺序排列；用字母表示；拼音化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "abecedarian"
+          ],
+          "tran_cn": "字母的；[计]依字母顺序的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "organic"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "alphabetical index",
+      "tran_cn": "字顺索引"
+    },
+    {
+      "phrase": "alphabetical order",
+      "tran_cn": "字母顺序；字顺排列法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "按字母顺序的，字母（表）的",
+      "tran_en": "relating to the alphabet"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "alphabetically"
+    ]
+  }
+}

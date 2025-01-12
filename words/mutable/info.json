@@ -1,0 +1,120 @@
+{
+  "word": "mutable",
+  "ipa": {
+    "us": "ˈmju:təbl",
+    "uk": "ˈmjutəbəl"
+  },
+  "sentences": [
+    {
+      "en": "Beating remorseful and loud the mutable sands of the sea - shore.",
+      "cn": "似懊悔着大声拍打海岸上善变的白沙."
+    },
+    {
+      "en": "Daily experience teaches people that the exchange ratios of the market are mutable.",
+      "cn": "曰常的经验吿诉大家,市场的交换率是不断地变动的."
+    },
+    {
+      "en": "Extremely mutable sites are called'hot spots '.",
+      "cn": "极端可突变的位置称为 “ 热点 ”."
+    },
+    {
+      "en": "Gemini a Mutable Sign and Libra a Cardinal Sign.",
+      "cn": "双子是变动星座,天秤是本位星座."
+    },
+    {
+      "en": "It is also possible to create tuples which contain mutable objects, such as lists.",
+      "cn": "也可以通过包含可变对象来创建元组, 例如链表."
+    },
+    {
+      "en": "Lists are mutable, but what exactly does that mean ?",
+      "cn": "列表是可变的, 但是如何正确的改变 呢 ?"
+    },
+    {
+      "en": "MORAL , adj . Conforming to a local and mutable standard of right.",
+      "cn": "与当地变化无常的是非标准保持一致,就是合乎道德的."
+    },
+    {
+      "en": "Note : great care must be exercised if mutable objects are as map keys.",
+      "cn": "注重假如使用可变对象作为map的key时,应相当小心."
+    },
+    {
+      "en": "Remember what should be remember, and forget what should be forgetten. alterwhat is changeable, and accept what is mutable.",
+      "cn": "记住应该记住的, 忘记应该忘记的. 改变能够改变的, 接受不能改变的."
+    },
+    {
+      "en": "Remember what you should remember, forget what you should forget, alter what is changeable , accept what is mutable.",
+      "cn": "记住该记住的, 忘记该忘记的, 改变可以改变的, 接受变幻无常的."
+    },
+    {
+      "en": "The air element of gemini brings communication, intellect and speed. your mutable motivation brings adaptability.",
+      "cn": "风向星座的特质让双子座具有出色的沟通能力 、 智慧和速度.同时,你的多变让你更善于适应."
+    },
+    {
+      "en": "The Air element of Gemini brings communication, intellect and speed. Your mutable motivation brings adaptability.",
+      "cn": "风象星座的特质让双子座具有出色的沟通能力 、 智慧和速度.同时,你的多变让你更善于适应."
+    },
+    {
+      "en": "The Three Concurrency Goblins are all spawned from the same pit of evil: shared access to mutable state.",
+      "cn": "三个并发哥布林都产生于同样的邪恶陷阱：共享可更改状态的访问权。"
+    },
+    {
+      "en": "This makes it almost impossible to share mutable state between actors ( threads ).",
+      "cn": "这就使得actors ( threads ) 几乎不可能共享可变状态."
+    },
+    {
+      "en": "Urban lifestyle retreats are in high demand and they are much more than mutable trends.",
+      "cn": "城市的生活方式，退有很高的需求，他们更比变动趋势。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mutability",
+          "tran_cn": " 易变性；性情不定；突变性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "mobile",
+            "variable",
+            "liquid",
+            "unstable"
+          ],
+          "tran_cn": "易变的，不定的；性情不定的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aimless"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "易变的，性情不定的",
+      "tran_en": "able or likely to change"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "mutability"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "word": "inference",
+  "ipa": {
+    "us": "ˈɪnfərəns",
+    "uk": "ˈɪnfərəns"
+  },
+  "sentences": [
+    {
+      "en": "Again the inference is that translational diffusion is not the important rate - determining process.",
+      "cn": "结论仍然是,可平移扩散不是重要的速度决定步骤."
+    },
+    {
+      "en": "From his manner, we drew the inference that he was satisfied with the exam.",
+      "cn": "我们从他的态度来推断,他对这次测验很满意."
+    },
+    {
+      "en": "In logic, demonstration is an inference which seeks to show that its conclusion must be true.",
+      "cn": "在逻辑学中, 论证是寻求表明结论必须是真实的一种推理."
+    },
+    {
+      "en": "Induction is often used for any inference whose premises do not entail its c onclusions.",
+      "cn": "归纳这个词常被用来指任何前提并不导出其结论的推理."
+    },
+    {
+      "en": "Inference from evidence could not be challenged.",
+      "cn": "证据中推理出的结论不能被推翻."
+    },
+    {
+      "en": "Is this inference too presumptuous?",
+      "cn": "这种推论是否太抽象了?"
+    },
+    {
+      "en": "Our conclusions were arrived at by inference, not by direct evidence.",
+      "cn": "我们的结论是推断出来的, 而不是靠直接的证据."
+    },
+    {
+      "en": "She'd begun spending a lot of money, and the obvious inference was that she'd stolen it.",
+      "cn": "她花起钱来大手大脚了, 事情很明显,钱是偷来的."
+    },
+    {
+      "en": "Statistics also divided into the main description of statistics and statistical inference.",
+      "cn": "统计学主要又分为描述统计学和推断统计学."
+    },
+    {
+      "en": "Surface quality grades are predicted by means of the parallel inference method.",
+      "cn": "并行推理是提高实时诊断速度和可靠性的有效途径."
+    },
+    {
+      "en": "The careful observation and inference was his daily work.",
+      "cn": "他的日常工作便是仔细的观察和诊断."
+    },
+    {
+      "en": "The inference I've drawn from his lateness is he overslept.",
+      "cn": "从他来晚我得出的结论是他睡过头了."
+    },
+    {
+      "en": "There were two inferences to be drawn from her letter.",
+      "cn": "从她的来信可以得到两种推论。"
+    },
+    {
+      "en": "What inference do you draw from these facts?",
+      "cn": "从这些事实你推断出什么结论?"
+    },
+    {
+      "en": "You are understood the law of your country by the inference.",
+      "cn": "你被推测懂得你们本国的法律."
+    },
+    {
+      "en": "You seemed to know about this book, and by inference I thought you had read it.",
+      "cn": "你好像了解这本书, 因此我推断你已读过它了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inferential",
+          "tran_cn": " 推理的；推论的；根据推理的"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "infer",
+          "tran_cn": " 推断；作出推论"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "infer",
+          "tran_cn": " 推断；推论"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "conclusion",
+            "reasoning",
+            "consequence"
+          ],
+          "tran_cn": "推理；推论；[数]推断"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "conclusion",
+            "connotation",
+            "consequence",
+            "logic",
+            "speculation",
+            "suspicion",
+            "theory",
+            "understanding"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bayesian inference",
+      "tran_cn": "贝叶斯推理"
+    },
+    {
+      "phrase": "by inference",
+      "tran_cn": "根据推理"
+    },
+    {
+      "phrase": "deductive inference",
+      "tran_cn": "演绎推理"
+    },
+    {
+      "phrase": "inductive inference",
+      "tran_cn": "归纳推理"
+    },
+    {
+      "phrase": "inference engine",
+      "tran_cn": "[计]推理机"
+    },
+    {
+      "phrase": "inference method",
+      "tran_cn": "n. 推理方法"
+    },
+    {
+      "phrase": "inference rule",
+      "tran_cn": "推理规则"
+    },
+    {
+      "phrase": "statistical inference",
+      "tran_cn": "[统]统计推断"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "\"n",
+      "tran_cn": "推论, 推断 \"",
+      "tran_en": "something that you think is true, based on information that you have"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "推理，推断，推论",
+      "tran_en": "something that you think is true, based on information that you have"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "inferences"
+    ]
+  }
+}

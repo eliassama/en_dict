@@ -1,0 +1,203 @@
+{
+  "word": "depart",
+  "ipa": {
+    "us": "dɪˈpɑːt",
+    "uk": "dɪˈpɑːrt"
+  },
+  "sentences": [
+    {
+      "en": "Before you depart, let me give you a word of advice.",
+      "cn": "在你走之前, 我给你一句忠告."
+    },
+    {
+      "en": "By the time they were ready to depart, school had begun.",
+      "cn": "在他们准备离开的时候, 功课已经开始了."
+    },
+    {
+      "en": "Dorothy departed for Germany last week.",
+      "cn": "上周多萝西出发去德国了。"
+    },
+    {
+      "en": "Flights by Air Europe depart Gatwick on Tuesdays.",
+      "cn": "欧洲航空公司的航班每逢周二从盖特威克机场起飞。"
+    },
+    {
+      "en": "Flights for Rome depart from Terminal 3.",
+      "cn": "飞往罗马的班机从3号航站楼出发。"
+    },
+    {
+      "en": "He prepared to depart, when suddenly the man tugged at his sleeve.",
+      "cn": "正当他准备离开时, 这个汉子突然拉住了他的衣袖."
+    },
+    {
+      "en": "Lipton is planning to depart from the company he founded.",
+      "cn": "利普顿打算离开他创立的那家公司。"
+    },
+    {
+      "en": "My connecting plane didn't depart for another six hours.",
+      "cn": "我搭乘的联运航班又过了6个小时才起飞。"
+    },
+    {
+      "en": "The seagulls fly off, the waves roll away and we depart.",
+      "cn": "海鸥飞去, 波涛滚滚地流开,我们也分别了."
+    },
+    {
+      "en": "The shopkeeper was surprised to find him depart at such speed.",
+      "cn": "店老板见他告辞得如此匆忙,很是惊讶."
+    },
+    {
+      "en": "The train will depart at 7:30 a.m.",
+      "cn": "早七点半发车."
+    },
+    {
+      "en": "The train will depart from Shanghai.",
+      "cn": "火车将离开上海."
+    },
+    {
+      "en": "We cannot depart from our regular practice in such cases.",
+      "cn": "在这种情况下,我们不能背离一般的作法."
+    },
+    {
+      "en": "We do depart for Wales on the morrow.",
+      "cn": "我们明天确实要前往威尔士。"
+    },
+    {
+      "en": "We must needs depart.",
+      "cn": "我们必须离开。"
+    },
+    {
+      "en": "With great indifference he saw his old crops depart for Coldstream.",
+      "cn": "他带着漫不经心的神情瞧着他的老部队离开那儿向科尔斯特里姆进发."
+    },
+    {
+      "en": "You mustn't depart from the instructions you've received.",
+      "cn": "你绝不可违背你接到的指示."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "departed",
+          "tran_cn": " 过去的；死去的；以往的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "departed",
+          "tran_cn": " 死者"
+        },
+        {
+          "word": "departure",
+          "tran_cn": " 离开；出发；违背"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "departed",
+          "tran_cn": " 离去；去世（depart的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "away",
+            "exit",
+            "go",
+            "leave",
+            "withdraw"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "abandon",
+            "away",
+            "decease",
+            "die",
+            "embark",
+            "evacuate",
+            "exit",
+            "go",
+            "leave",
+            "pass",
+            "perish",
+            "quit"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "away",
+            "decease",
+            "die",
+            "pass",
+            "perish"
+          ],
+          "tran_cn": "死,去世"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "depart for",
+      "tran_cn": "开往…；去往…；动身去…"
+    },
+    {
+      "phrase": "depart from",
+      "tran_cn": "离开；开出；从……出发"
+    },
+    {
+      "phrase": "depart this life",
+      "tran_cn": "(古)死去"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "逝世的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "离开，出发，去世，离职",
+      "tran_en": "to leave, especially when you are starting a journey"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 离开， 起程， 出发",
+      "tran_en": "to leave, especially when you are starting a journey"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "departs"
+    ],
+    "past": [
+      "departed"
+    ],
+    "done": [
+      "departed"
+    ],
+    "ing": [
+      "departing"
+    ]
+  }
+}

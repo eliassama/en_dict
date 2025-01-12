@@ -1,0 +1,80 @@
+{
+  "word": "perspicuous",
+  "ipa": {
+    "us": "pə'spɪkjʊəs",
+    "uk": "pə'spɪkjʊrs"
+  },
+  "sentences": [
+    {
+      "en": "Simple and succinct, this program has perspicuous interface and extensive application.",
+      "cn": "该程序应用简单, 界面明了,适用范围广."
+    },
+    {
+      "en": "Such solutions were more manageable, more perspicuous, and more readily used for calculation.",
+      "cn": "这样的解,在计算中是更易于掌握的, 更明白的, 并且是更易于使用的."
+    },
+    {
+      "en": "The most perspicuous physical characteristic of the porosity of a soil rock matrix is its continuity.",
+      "cn": "岩土格架的孔隙率的最清晰的物理特性是它的连续性."
+    },
+    {
+      "en": "This program has perspicuous interface and extensive application.",
+      "cn": "该程序界面明了，适用范围广。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "perspicuously",
+          "tran_cn": " 显明地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "perspicuousness",
+          "tran_cn": " 清楚；明白"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "transparent",
+            "coherent"
+          ],
+          "tran_cn": "明了的；清晰明白的；易懂的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comprehensible",
+            "patent"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "说话清楚的，明白易懂的",
+      "tran_en": "(of speech or writing) easily understood; lucid "
+    }
+  ],
+  "exchange": {}
+}

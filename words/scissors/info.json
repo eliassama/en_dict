@@ -1,0 +1,127 @@
+{
+  "word": "scissors",
+  "ipa": {
+    "us": "ˈsɪzəz",
+    "uk": "ˈsɪzərz"
+  },
+  "sentences": [
+    {
+      "en": "a pair of nail scissors",
+      "cn": "一把指甲剪"
+    },
+    {
+      "en": "a pair of scissors",
+      "cn": "一把剪刀"
+    },
+    {
+      "en": "Cut the lobster shells into small pieces with heavy-duty scissors.",
+      "cn": "用粗剪将龙虾壳剪成小片。"
+    },
+    {
+      "en": "Have you finished using my scissors?",
+      "cn": "你用完我的剪刀了 吗 ?"
+    },
+    {
+      "en": "He told me to get some scissors.",
+      "cn": "他让我去拿把剪刀。"
+    },
+    {
+      "en": "He took a pair of scissors and cut her hair.",
+      "cn": "他拿起一把剪刀给她剪发."
+    },
+    {
+      "en": "It's a penknife, scissors, corkscrew all rolled into one.",
+      "cn": "这集小折刀 、 剪刀和螺丝起子于一身."
+    },
+    {
+      "en": "Mishka got some nail scissors and started carefully trimming his fingernails.",
+      "cn": "米什卡找到个指甲剪，开始仔细地修剪指甲。"
+    },
+    {
+      "en": "She picked up a pair of scissors from the windowsill.",
+      "cn": "她从窗台上拿起一把剪刀。"
+    },
+    {
+      "en": "She took a pair of scissors and cut the string.",
+      "cn": "她拿了一把剪刀把绳剪断."
+    },
+    {
+      "en": "That's not the right way to hold a pair of scissors.",
+      "cn": "那样拿剪子不对。"
+    },
+    {
+      "en": "The scissors slashed his finger open.",
+      "cn": "剪刀将他的手指划开了一道伤口."
+    },
+    {
+      "en": "The woman stabbed at her attacker with a pair of scissors.",
+      "cn": "那个妇人手持剪刀向攻击者刺去."
+    },
+    {
+      "en": "These scissors are awfully heavy.",
+      "cn": "这把剪刀太沉了。"
+    },
+    {
+      "en": "We cut paper and cloth with scissors.",
+      "cn": "我们用剪刀裁纸和布."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "scissor",
+          "tran_cn": " 剪刀"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "scissor",
+          "tran_cn": " 用剪刀剪；删去"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "forfex",
+            "cutting tools"
+          ],
+          "tran_cn": "[五金]剪刀；剪式跳法"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "scissors and paste"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "剪刀，两腿前后错跃",
+      "tran_en": "a tool for cutting paper, cloth etc, made of two sharp blades fastened together in the middle, with holes for your finger and thumb"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "剪开( scissor的第三人称单数)，作剪式移动（尤指腿）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "scissors"
+    ],
+    "adj": [
+      "scissor"
+    ]
+  }
+}

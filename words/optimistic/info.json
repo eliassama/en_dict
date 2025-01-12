@@ -1,0 +1,181 @@
+{
+  "word": "optimistic",
+  "ipa": {
+    "us": "ˌɒptɪˈmɪstɪk",
+    "uk": "ˌɑːptɪˈmɪstɪk"
+  },
+  "sentences": [
+    {
+      "en": "Andrew took a more optimistic view.",
+      "cn": "安德鲁抱有更为乐观的想法。"
+    },
+    {
+      "en": "Even in our awful tribulation we were quite optimistic.",
+      "cn": "即使在极端痛苦时，我们仍十分乐观。"
+    },
+    {
+      "en": "He is an optimistic young fellow.",
+      "cn": "他是位乐观的年轻人."
+    },
+    {
+      "en": "He is known for his optimistic can-do attitude.",
+      "cn": "他因乐观敢闯而闻名。"
+    },
+    {
+      "en": "I have this image of you as always being cheerful and optimistic.",
+      "cn": "你留给我的印象总是快活和乐观."
+    },
+    {
+      "en": "I know he is too optimistic but I don't want to depress him.",
+      "cn": "我知道他太过乐观了，但我不想令他灰心丧气。"
+    },
+    {
+      "en": "Michael was in a jovial and optimistic mood.",
+      "cn": "迈克尔情绪愉快乐观。"
+    },
+    {
+      "en": "My estimate of the situation is not so optimistic.",
+      "cn": "我对形势的估计不那么乐观."
+    },
+    {
+      "en": "She felt light-hearted and optimistic.",
+      "cn": "她感到无忧无虑，很乐观。"
+    },
+    {
+      "en": "She is not optimistic about the outcome.",
+      "cn": "她对结果并不乐观."
+    },
+    {
+      "en": "She's not very optimistic about the outcome of the talks.",
+      "cn": "她对会谈的结果不太乐观。"
+    },
+    {
+      "en": "The book ended on an optimistic note.",
+      "cn": "该书的结尾寓意乐观."
+    },
+    {
+      "en": "The President says she is optimistic that an agreement can be worked out soon.",
+      "cn": "总统说她对很快达成协议持乐观态度。"
+    },
+    {
+      "en": "The rumpus has made all the optimistic statements about unity and harmony ring a little hollow.",
+      "cn": "这一番吵闹使得所有关于团结和谐的乐观言论听起来都显得有几分空洞。"
+    },
+    {
+      "en": "They are guardedly optimistic that the market is on the road to recovery.",
+      "cn": "他们对市场正在复苏的说法保持谨慎的乐观态度。"
+    },
+    {
+      "en": "They are not optimistic about a settlement of the eleven year conflict.",
+      "cn": "他们不是很有信心能和平解决这场长达11年的纷争。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "optimistically",
+          "tran_cn": " 乐观地；乐天地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "optimism",
+          "tran_cn": " 乐观；乐观主义"
+        },
+        {
+          "word": "optimist",
+          "tran_cn": " 乐观主义者；乐天派"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "optimise",
+          "tran_cn": " 表示乐观"
+        },
+        {
+          "word": "optimize",
+          "tran_cn": " 优化；持乐观态度"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "optimise",
+          "tran_cn": " 使优化；充分利用"
+        },
+        {
+          "word": "optimize",
+          "tran_cn": " 使最优化，使完善"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "bright",
+            "carefree",
+            "cheerful",
+            "glad",
+            "happy",
+            "jaunty",
+            "lighthearted",
+            "pleasant",
+            "radiant"
+          ],
+          "tran_cn": "高兴的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "anticipative",
+            "flushed",
+            "hopeful",
+            "rosy",
+            "sanguine"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cautiously optimistic",
+      "tran_cn": "审慎乐观"
+    },
+    {
+      "phrase": "optimistic estimate",
+      "tran_cn": "乐观估计；最乐观时间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "乐观的",
+      "tran_en": "believing that good things will happen in the future"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "optimistically"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "word": "erroneous",
+  "ipa": {
+    "us": "ɪˈrəʊniəs",
+    "uk": "ɪˈroʊniəs"
+  },
+  "sentences": [
+    {
+      "en": "Both of these positions are erroneous.",
+      "cn": "这两个意见都大错特错."
+    },
+    {
+      "en": "Errors in the inventory results may lead to erroneous subsequent decisions.",
+      "cn": "清查结果中的误差可能导致之后错误的决定."
+    },
+    {
+      "en": "Errors in the inventory results may lead to erroneous subsequent dicisions.",
+      "cn": "清查结果中的误差可能导致错误的决定."
+    },
+    {
+      "en": "Exposure to the air will lead to erroneous results.",
+      "cn": "若把样品暴露在空气中,测定结果会有很大误差."
+    },
+    {
+      "en": "He has an erroneous opinion about the problem.",
+      "cn": "他对那个问题有错误的看法."
+    },
+    {
+      "en": "His economic predictions are based on some erroneous assumptions.",
+      "cn": "他的经济预测是基于错误假设之上的。"
+    },
+    {
+      "en": "I thought my answer was correct, but it was erroneous.",
+      "cn": "我原以为我的答案是对的, 可结果却是错的."
+    },
+    {
+      "en": "In no circumstances should erroneous ideas be allowed to spread unchecked.",
+      "cn": "决不允许错误思想到处泛滥."
+    },
+    {
+      "en": "It's erroneous to assume that the press always prints the truth.",
+      "cn": "认为新闻报导总是发表真相,这是错误的."
+    },
+    {
+      "en": "No erroneous ideas should be allowed to spread unchecked.",
+      "cn": "不能听任错误思想自由泛滥."
+    },
+    {
+      "en": "Proper measures were taken as soon as the erroneous ideas cropped up.",
+      "cn": "错误思想一冒头,就及时采取了措施."
+    },
+    {
+      "en": "Secular disequilibrium of uranium can lead to erroneous results.",
+      "cn": "铀的永久不平衡会导致错误的结果."
+    },
+    {
+      "en": "Some people have the erroneous notion that one can contract AIDS by giving blood.",
+      "cn": "一些人错误地认为献血会让人感染艾滋病。"
+    },
+    {
+      "en": "The use of negative numbers led to erroneous conclusions.",
+      "cn": "负数的使用导致谬误的结论."
+    },
+    {
+      "en": "They have arrived at some erroneous conclusions.",
+      "cn": "他们得出了一些错误的结论。"
+    },
+    {
+      "en": "You ought to examine yourself honestly and find out the source of your erroneous views.",
+      "cn": "你应该老老实实地反躬自省,找出你这些错误观点的根源."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "erroneously",
+          "tran_cn": " 错误地；不正确"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "erroneousness",
+          "tran_cn": " 不正确）；错误（有误差"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "false",
+            "incorrect",
+            "mistaken",
+            "untrue",
+            "wrong"
+          ],
+          "tran_cn": "错误的;不真实的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aberrant",
+            "fallacious",
+            "false",
+            "incorrect",
+            "mistaken",
+            "off",
+            "out",
+            "perverse",
+            "untrue",
+            "wrong"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "错误的",
+      "tran_en": "erroneous ideas or information are wrong and based on facts that are not correct"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "erroneously"
+    ]
+  }
+}

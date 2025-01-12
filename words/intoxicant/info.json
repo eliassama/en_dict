@@ -1,0 +1,119 @@
+{
+  "word": "intoxicant",
+  "ipa": {
+    "us": "ɪnˈtɒksɪkənt",
+    "uk": "ɪnˈtɑksɪkənt"
+  },
+  "sentences": [
+    {
+      "en": "In a word, a man in a crowd behaves as though he had swallowed a large dose of some powerful intoxicant.",
+      "cn": "总之，群体中个人的表现就像注射了大剂量的麻醉药一样。"
+    },
+    {
+      "en": "It should be sweet, very intoxicant.",
+      "cn": "它应该是甜甜的，很醉人的。"
+    },
+    {
+      "en": "Now evening what evening, in the air has filled the intoxicant happiness.",
+      "cn": "今夕何夕，空气里都充满了醉人的甜蜜。"
+    },
+    {
+      "en": "The tear is intoxicant, Because it is the love crystallization.",
+      "cn": "有这样类似的一段:我告诉自己不许哭,不要哭,可我还是忍不住."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "intoxicated",
+          "tran_cn": " 喝醉的；极度兴奋的"
+        },
+        {
+          "word": "intoxicating",
+          "tran_cn": " 醉人的；令人陶醉的；使兴奋的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "intoxication",
+          "tran_cn": " [内科] 中毒；陶醉；喝醉"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "intoxicated",
+          "tran_cn": " 沉醉；中毒（intoxicate的过去分词）"
+        },
+        {
+          "word": "intoxicating",
+          "tran_cn": " 使陶醉；醉酒；使中毒（intoxicate的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "intoxicate",
+          "tran_cn": " 醉"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "intoxicate",
+          "tran_cn": " 使陶醉；使喝醉；使中毒"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "rorty"
+          ],
+          "tran_cn": "使醉的，醉人的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "alcohol",
+            "beverage",
+            "stimulant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "使醉的，醉人的",
+      "tran_en": "causing intoxication "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "致醉物质，酒类饮料"
+    }
+  ],
+  "exchange": {}
+}

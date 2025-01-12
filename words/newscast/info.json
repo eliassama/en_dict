@@ -1,0 +1,99 @@
+{
+  "word": "newscast",
+  "ipa": {
+    "us": "ˈnju:zkɑ:st",
+    "uk": "ˈnuzkæst"
+  },
+  "sentences": [
+    {
+      "en": "A recording of a newscast, talk show or other oral presentation originally generated via the radio.",
+      "cn": "新闻广播 、 脱口秀或其口说演出,其原透过无线广播所产生."
+    },
+    {
+      "en": "An anchor coordinates a newscast in which several correspondents give reports.",
+      "cn": "新闻节目主播在新闻节目中综合整理若干记者的报导."
+    },
+    {
+      "en": "At Bay TV, my manager promoted me to producer in charge of the entire newscast.",
+      "cn": "在海湾电视台, 经理晋升我为整个新闻台的制片人."
+    },
+    {
+      "en": "Foreign Newscast is on Page 16.",
+      "cn": "国外新闻在第16版。"
+    },
+    {
+      "en": "Radio and television anchors usually appear on more than one newscast per day.",
+      "cn": "广播电视的主播通常要在每天的新闻节目中多次出现。"
+    },
+    {
+      "en": "The 24 hour newscast was known for reporting developing news around the globe.",
+      "cn": "这个24小时新闻广播节目以同步报道国际新闻而知名."
+    },
+    {
+      "en": "The producer has to consider the impact of the newscast as a whole, not just each individual story.",
+      "cn": "制作人必须考虑新闻节目的整体效应，而非仅注意每一个单条新闻。"
+    },
+    {
+      "en": "To narrate or coordinate ( a newscast ).",
+      "cn": "主持叙述或协调 ( 新闻广播节目 )"
+    },
+    {
+      "en": "We have a problem in our six oclock newscast. We have sound bites of four candidates and we better squeeze in all four. Which means well have to cut some other story out of the show.",
+      "cn": "这句话的意思是：\"我们六点钟的新闻节目有个问题。我们有四个候选人的片段，最好把四个片段都挤进去。不过，这就意味着我们得减少一些其他内容。\""
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "newsless",
+          "tran_cn": " 没有新闻的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "newscaster",
+          "tran_cn": " 新闻广播员；新闻评论广播员"
+        },
+        {
+          "word": "newsmonger",
+          "tran_cn": " 饶舌者；爱传播新闻的人"
+        },
+        {
+          "word": "newspapering",
+          "tran_cn": " 报业；新闻业"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "news broadcast"
+          ],
+          "tran_cn": "新闻广播"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<美>新闻广播",
+      "tran_en": "a news programme on radio or television"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "newscasts"
+    ]
+  }
+}

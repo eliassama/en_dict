@@ -1,0 +1,211 @@
+{
+  "word": "classify",
+  "ipa": {
+    "us": "ˈklæsɪfaɪ",
+    "uk": "ˈklæsɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "Families are classified according to the father’s occupation.",
+      "cn": "各个家庭按父亲的职业分类。"
+    },
+    {
+      "en": "Gardeners classify plants accrdiring to their life - duration and frost susceptibility.",
+      "cn": "园艺学家根据植物的生命长短以及对霜害的敏感性去分类."
+    },
+    {
+      "en": "He carefully began to classify the results of his examinations.",
+      "cn": "他开始细心地为他的检验结果分类."
+    },
+    {
+      "en": "How would you classify these pottery shards -- are they prehistoric?",
+      "cn": "你怎么给这些陶瓷碎片 归类?它们是史前时期的 吗 ?"
+    },
+    {
+      "en": "In their original description these types are morphologically distinct enough to classify them as subspecies.",
+      "cn": "在他们最早的论述中,这些类型在形态上是截然不同的,完全可以把它们分成亚种."
+    },
+    {
+      "en": "It is entirely proper to classify Kant as a transcendental idealist.",
+      "cn": "把康德化为先驱的唯心主义者是完全正确的."
+    },
+    {
+      "en": "It is entirly proper to classify Kant as a transcendental idealist.",
+      "cn": "把康德化为先驻的唯心主义者是完全正确的."
+    },
+    {
+      "en": "It is further helpful to classify aneurysms into saccular and fusiform.",
+      "cn": "更为实用的是把动脉瘤分成囊形和梭形两类."
+    },
+    {
+      "en": "It is necessary initially to classify the headaches into certain types.",
+      "cn": "首先，必须将头痛分为几个类型。"
+    },
+    {
+      "en": "It is useful to classify all these particles into two groups.",
+      "cn": "把所有粒子分成两大类是适当的."
+    },
+    {
+      "en": "Kohlberg would classify them as having an individualistic morality.",
+      "cn": "Kohlberg把他们归类为:拥有个人的道德价值观."
+    },
+    {
+      "en": "Language helps us to classify and put things in categories.",
+      "cn": "语言有助于将各类问题区别分类."
+    },
+    {
+      "en": "Men in the post office classify mail according to places it is to go.",
+      "cn": "邮局里的人员将信件按寄送地点分类."
+    },
+    {
+      "en": "To perform the Quality rating to classify the Supplier level.",
+      "cn": "实施质量分级,按供应商水平分类."
+    },
+    {
+      "en": "We usually classify types of character as good or bad.",
+      "cn": "我们通常把(人的)性格之类型分为善与恶."
+    },
+    {
+      "en": "We will classify these subjects under three topics.",
+      "cn": "我们将把这些问题分成三个主题."
+    },
+    {
+      "en": "We’d classify Drabble’s novels under ‘Romance’.",
+      "cn": "我们把德拉布尔的小说归类为“言情小说”。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "class",
+          "tran_cn": " 极好的"
+        },
+        {
+          "word": "classifiable",
+          "tran_cn": " 可分类的"
+        },
+        {
+          "word": "classificatory",
+          "tran_cn": " 类别的；分类上的"
+        },
+        {
+          "word": "classified",
+          "tran_cn": " 分类的；类别的；机密的"
+        },
+        {
+          "word": "classy",
+          "tran_cn": " 优等的；上等的；漂亮的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "class",
+          "tran_cn": " 阶级；班级；种类"
+        },
+        {
+          "word": "classification",
+          "tran_cn": " 分类；类别，等级"
+        },
+        {
+          "word": "classified",
+          "tran_cn": " 分类广告"
+        },
+        {
+          "word": "classifier",
+          "tran_cn": " [测][遥感] 分类器；分类者；分类词"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "classified",
+          "tran_cn": " 把…分类（classify的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "class",
+          "tran_cn": " 分类；把…分等级"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arrange",
+            "assort",
+            "catalog",
+            "catalogue",
+            "categorize",
+            "coordinate",
+            "grade",
+            "group",
+            "organize",
+            "sort"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "categorize",
+            "group",
+            "organize",
+            "sort"
+          ],
+          "tran_cn": "分类;分等级"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "classify as",
+      "tran_cn": "把…分类为…"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "将…分类",
+      "tran_en": "to decide what group something belongs to"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把……分类",
+      "tran_en": "to decide what group something belongs to"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "classifies"
+    ],
+    "past": [
+      "classified"
+    ],
+    "done": [
+      "classified"
+    ],
+    "ing": [
+      "classifying"
+    ]
+  }
+}

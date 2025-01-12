@@ -1,0 +1,210 @@
+{
+  "word": "generate",
+  "ipa": {
+    "us": "ˈdʒenəreɪt",
+    "uk": "ˈdʒenəreɪt"
+  },
+  "sentences": [
+    {
+      "en": "A dynamo is used to generate electricity.",
+      "cn": "发电机用于发电."
+    },
+    {
+      "en": "A good rule of thumb is that a broker must generate sales of ten times his salary if his employer is to make a profit.",
+      "cn": "根据经验来看，如果雇主要获得利润，那么其代理商必须卖出相当于其工资10倍的销售额。"
+    },
+    {
+      "en": "a useful technique for generating new ideas",
+      "cn": "能产生新创意的有用技术"
+    },
+    {
+      "en": "During by the steam engine drive, the electric generator can generate electricity.",
+      "cn": "由蒸汽机驱动时, 发电机可以发电."
+    },
+    {
+      "en": "Harnessing the wind to generate electricity dates back to 1890.",
+      "cn": "利用风来发电可以追溯到1890年."
+    },
+    {
+      "en": "I generate my own electricity, and send out impulses to trigger contraction.",
+      "cn": "我给自己发电, 发出兴奋波,引起收缩."
+    },
+    {
+      "en": "In the 19 th century waterpower was widely utilized to generate electricity.",
+      "cn": "在19世纪人们大规模使用水力来发电."
+    },
+    {
+      "en": "Most cities generate a complex brew of pollutants.",
+      "cn": "多数城市都会产生各种物质混杂的污染物。"
+    },
+    {
+      "en": "New business we'll generate should far exceed what's lost.",
+      "cn": "我们新招揽的生意会远远超过丢失的那部分."
+    },
+    {
+      "en": "The company, New England Electric, burns coal to generate power.",
+      "cn": "新英格兰电力公司用煤发电。"
+    },
+    {
+      "en": "The new counting cell positions are used to generate additional pole counts.",
+      "cn": "计数单元的新位置就用来形成新补充的极点数."
+    },
+    {
+      "en": "The program would generate a lot of new jobs.",
+      "cn": "这个项目将创造许多新的就业岗位。"
+    },
+    {
+      "en": "The project generated enormous interest.",
+      "cn": "这个项目引起了人们极大的兴趣。"
+    },
+    {
+      "en": "The resulting distortions in the wavefront generate the fringe contours.",
+      "cn": "波阵面上发生的畸变生成了条纹线."
+    },
+    {
+      "en": "These nerve centres generate rhythmic movements; or to be more specific, rhythmic stomach movements.",
+      "cn": "这些神经中心产生有节奏的运动，或者更确切地说，是有节奏的肠胃蠕动。"
+    },
+    {
+      "en": "to generate electricity/heat/power",
+      "cn": "发电；产生热 / 动力"
+    },
+    {
+      "en": "We can generate electric power by splitting atoms.",
+      "cn": "我们可以利用原子核裂变发电."
+    },
+    {
+      "en": "We had to have an actor who could generate real empathy. Plus he had to carry the audience through a lot of plot.",
+      "cn": "我们得找一名能真正入戏的男演员，而且他还得能让观众跟上复杂的剧情中。"
+    },
+    {
+      "en": "We need someone to generate new ideas.",
+      "cn": "我们需要有人出新主意。"
+    },
+    {
+      "en": "Wind turbines generate electricity for the local community.",
+      "cn": "风力机为当地社区发电。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "generational",
+          "tran_cn": " 一代的；生育的"
+        },
+        {
+          "word": "generative",
+          "tran_cn": " 生殖的；生产的；有生殖力的；有生产力的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "generation",
+          "tran_cn": " 一代；产生；一代人；生殖"
+        },
+        {
+          "word": "generator",
+          "tran_cn": " 发电机；发生器；生产者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "generalize",
+          "tran_cn": " 形成概念"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "generalize",
+          "tran_cn": " 概括；推广；使...一般化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "about",
+            "bring",
+            "cause",
+            "create",
+            "electrify",
+            "engender",
+            "occasion",
+            "originate",
+            "produce",
+            "propagate",
+            "reproduce"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "about",
+            "bring",
+            "cause",
+            "create",
+            "originate",
+            "produce"
+          ],
+          "tran_cn": "产生;引起"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "generate electricity",
+      "tran_cn": "发电"
+    },
+    {
+      "phrase": "generate profit",
+      "tran_cn": "创利，产生利润"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "产生",
+      "tran_en": "to produce or cause something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "形成，造成，产生物理反应，产生（后代），引起",
+      "tran_en": "to produce heat, electricity, or another form of energy"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "generates"
+    ],
+    "past": [
+      "generated"
+    ],
+    "done": [
+      "generated"
+    ],
+    "ing": [
+      "generating"
+    ]
+  }
+}

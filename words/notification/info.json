@@ -1,0 +1,146 @@
+{
+  "word": "notification",
+  "ipa": {
+    "us": "ˌnəʊtɪfɪˈkeɪʃn",
+    "uk": "ˌnoʊtɪfɪˈkeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Can you give us some notification?",
+      "cn": "请给我们发个通知好 吗 ?"
+    },
+    {
+      "en": "CORBA has one - way operations, Event Service, and Notification Service.",
+      "cn": "CORBA有 单向 的操作, 事件服务, 和通知服务."
+    },
+    {
+      "en": "Find the Network Manager icon in the notification area.",
+      "cn": "在通知区域找到网络管理器图标."
+    },
+    {
+      "en": "In addition, it can log the error and send an email notification.",
+      "cn": "此外, 该软件可以记录应用软件的错误并且发生一封通知电子邮件."
+    },
+    {
+      "en": "Initiate , take alarm and action and required Agency notification.",
+      "cn": "发出报警采取行动并通知有关方面."
+    },
+    {
+      "en": "Names of the dead and injured are being withheld pending notification of relatives.",
+      "cn": "在正式通知亲属前，伤亡人员名单暂时保密。"
+    },
+    {
+      "en": "None of the four people killed was identified pending ( the ) notification of relatives.",
+      "cn": "四个 被害者 身份尚未确定,正待亲人前来辨认."
+    },
+    {
+      "en": "Organisers may amend or append the terms and conditions without prior notification.",
+      "cn": "主办单位有权修改参赛条规而不事先知会."
+    },
+    {
+      "en": "Payments should be sent with the written notification.",
+      "cn": "支付款应该随书面通知寄出。"
+    },
+    {
+      "en": "Please go through the procedures listed in the notification.",
+      "cn": "请按通知所列手续办理."
+    },
+    {
+      "en": "Summons is a written notification that one is required to appear in court.",
+      "cn": "传票是一种要求某人出庭的书面通知."
+    },
+    {
+      "en": "That he suggests to released the notification.",
+      "cn": "他建议发出通知."
+    },
+    {
+      "en": "We received no notification prior to today's date , ie before today.",
+      "cn": "我们在今日之前未获通知."
+    },
+    {
+      "en": "What is your preferred notification method for Cyberway announcements?",
+      "cn": "赛百威资料首选的通告您的方法是?"
+    },
+    {
+      "en": "What notification will you give before introducing lead free products?",
+      "cn": "在向客人推荐无铅化产品前有什么样的相关的注意事项?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "notice",
+          "tran_cn": " 通知，布告；注意；公告"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "notice",
+          "tran_cn": " 引起注意"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "notice",
+          "tran_cn": " 通知；注意到；留心"
+        },
+        {
+          "word": "notify",
+          "tran_cn": " 通告，通知；公布"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "advice",
+            "information",
+            "announcement"
+          ],
+          "tran_cn": "[管理]通知；通告；[法]告示"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "precaution"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "delivery status notification",
+      "tran_cn": "投递状态通知"
+    },
+    {
+      "phrase": "notification message",
+      "tran_cn": "通知消息；告知信息"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "通知，通知单，布告，公布",
+      "tran_en": "official information about something"
+    }
+  ],
+  "exchange": {}
+}

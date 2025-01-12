@@ -1,0 +1,103 @@
+{
+  "word": "connotative",
+  "ipa": {
+    "us": "kə'nəʊtətɪv",
+    "uk": "kə'noʊtətɪv"
+  },
+  "sentences": [
+    {
+      "en": "How does it deal with the denotative meaning and connotative meaning?",
+      "cn": "又是怎么理解引申意和内涵意 呢 ?"
+    },
+    {
+      "en": "However, they are sufficiently different from each that the Go authors elected to give them a new name and discard any connotative baggage that the other terms might have.",
+      "cn": "然而，它们彼此相当不同，因此Go作者决定给它一个新的名字并 放弃其它术语可能隐含的意义。"
+    },
+    {
+      "en": "Romantic fanciful thoughts and connotative and elegant idiosyncrasy unfold rich an tender feeling.",
+      "cn": "浪漫的遐思,含蓄典雅的特质,呈现着丰富而细腻的感情."
+    },
+    {
+      "en": "The abundance content and connotative meaning of Tarkovsky's movie view is very helpful for us.",
+      "cn": "塔尔科夫斯基电影观所包含的丰富内容和深刻内涵必将为我们提供有益的借鉴和启示."
+    },
+    {
+      "en": "The main rhythm of future evaluative work is promoting connotative construction based on the work of.",
+      "cn": "以评促建,推进高职高专院校内涵建设将成为今后整个评估工作的主旋律."
+    },
+    {
+      "en": "The most common tools for mapping semantically connotative URIs to internally structured ones simply perform replacements based on regular expressions.",
+      "cn": "将语义含糊的 URI 映射为反映内部结构的 URI 的工具常常仅仅根据正则表达式执行替换。"
+    },
+    {
+      "en": "The obvious characteristics of vector data: position obvious, properties connotative.",
+      "cn": "矢量结构的显著特点: 定位明显, 属性隐含."
+    },
+    {
+      "en": "There are two aspects of word meaning: referential meaning and connotative meaning.",
+      "cn": "词语意义分为两个层面,所指意义和内涵意义."
+    },
+    {
+      "en": "Yet, it should be stressed that the connotative value tends to differ in languages compared.",
+      "cn": "还应该是强调隐含的价值趋向于不同的语言进行比较。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "connotation",
+          "tran_cn": " 内涵；含蓄；暗示，隐含意义；储蓄的东西（词、语等）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "connote",
+          "tran_cn": " 意味着；含言外之意"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "implicit",
+            "intensional"
+          ],
+          "tran_cn": "内涵的；隐含的；含蓄的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "significant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "connotative meaning",
+      "tran_cn": "内涵意义；涵义"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "含蓄的，<逻>内涵的"
+    }
+  ],
+  "exchange": {}
+}

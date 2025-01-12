@@ -1,0 +1,214 @@
+{
+  "word": "zip",
+  "ipa": {
+    "us": "zɪp",
+    "uk": "zɪp"
+  },
+  "sentences": [
+    {
+      "en": "‘I’ll see you tomorrow,’ said John, zipping his jacket.",
+      "cn": "“明天见。”约翰边说边拉上外套的拉链。"
+    },
+    {
+      "en": "Better zip your jacket; it's cold outside.",
+      "cn": "最好还是把你上衣的拉链拉上, 外面很冷."
+    },
+    {
+      "en": "Experienced snowboarders can zip downhill amazingly fast.",
+      "cn": "有经验的滑雪板运动员能够以极快的速度滑下山。"
+    },
+    {
+      "en": "He pulled the zip of his leather jacket down slightly.",
+      "cn": "他稍稍往下拉了拉皮夹克的拉链。"
+    },
+    {
+      "en": "If your zip sticks, it might be because a thread has caught.",
+      "cn": "如果你的拉链拉不动, 那有可能是因为有根线卡住了."
+    },
+    {
+      "en": "Many people inadvertently transpose digits of the ZIP code.",
+      "cn": "很多人疏忽之下会颠倒邮政编码中数字的顺序。"
+    },
+    {
+      "en": "My jeans wouldn't zip up.",
+      "cn": "我的牛仔裤拉不上了。"
+    },
+    {
+      "en": "The helicopter can zip along at about 150 kilometres an hour.",
+      "cn": "该直升机能以每小时150公里左右的速度疾进。"
+    },
+    {
+      "en": "The zip fastener had long since been wrenched out of them.",
+      "cn": "拉练早已取走了."
+    },
+    {
+      "en": "The zip on my skirt had broken.",
+      "cn": "我裙子上的拉链坏了。"
+    },
+    {
+      "en": "The zip sticked because it was caught by a thread.",
+      "cn": "拉链被线卡住了,拉不动."
+    },
+    {
+      "en": "These zip-top bags are great space-savers if storage is limited.",
+      "cn": "如果可储藏的地方有限，这些拉环式背包能节省很大空间。"
+    },
+    {
+      "en": "Tommy Tune gives the choreography his usual class and zip.",
+      "cn": "汤米·图恩在编排的舞蹈中注入其一贯的优雅和活力。"
+    },
+    {
+      "en": "When you download the font it may be in a compressed format, such as a zip file.",
+      "cn": "下载的字体可能为压缩格式，如压缩文件包。"
+    },
+    {
+      "en": "Zip disks could be used to store the equivalent of three music CDs.",
+      "cn": "压缩盘可以用来储存相当于3张音乐光碟容量的内容。"
+    },
+    {
+      "en": "Zip drives help people to organise their important information.",
+      "cn": "压缩磁盘驱动器有助于人们管理重要信息。"
+    },
+    {
+      "en": "Zip up, or you'll catch a cold.",
+      "cn": "把拉链拉上, 否则你会感冒."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "zippy",
+          "tran_cn": " 敏捷的；活泼的；喜悦的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "zipper",
+          "tran_cn": " 拉链"
+        },
+        {
+          "word": "zippy",
+          "tran_cn": " 齐皮士；齐皮派成员"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "zipper",
+          "tran_cn": " 拉上拉链"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "zipper",
+          "tran_cn": " 用拉链扣上"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "drive",
+            "energy",
+            "get-up-and-go",
+            "life",
+            "liveliness",
+            "pep",
+            "spirit",
+            "strength",
+            "vigor",
+            "vim",
+            "vitality",
+            "zest",
+            "zing"
+          ],
+          "tran_cn": "精力,活力,风味"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "barrel",
+            "bolt",
+            "dart",
+            "dash",
+            "fly",
+            "hurry",
+            "jet",
+            "rush",
+            "speed",
+            "streak",
+            "tear",
+            "zoom"
+          ],
+          "tran_cn": "飞奔"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "zip code",
+      "tran_cn": "n. 邮政编码"
+    },
+    {
+      "phrase": "zip file",
+      "tran_cn": "压缩文件"
+    },
+    {
+      "phrase": "zip up",
+      "tran_cn": "拉上拉链；增添滋味；增加兴趣或生命力"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "拉链，活力",
+      "tran_en": "two lines of small metal or plastic pieces that slide together to fasten a piece of clothing"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "拉上",
+      "tran_en": "to fasten something using a zip"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用拉链拉上或扣上",
+      "tran_en": "to fasten something using a zip"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "zips"
+    ],
+    "third": [
+      "zips"
+    ],
+    "past": [
+      "zipped"
+    ],
+    "done": [
+      "zipped"
+    ],
+    "ing": [
+      "zipping"
+    ]
+  }
+}

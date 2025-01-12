@@ -1,0 +1,50 @@
+{
+  "word": "diphthong",
+  "ipa": {
+    "us": "ˈdɪfθɒŋ",
+    "uk": "ˈdɪfθɔŋ"
+  },
+  "sentences": [
+    {
+      "en": "The [ju:] diphthong. This combines the y, y, uh-y, Y consonant sound with the oo, closed oo.",
+      "cn": "是一个复合元音，由辅音y, y, uh-y 连接oo构成，发woo时口型紧缩。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "diphthongize",
+          "tran_cn": " 变为双元音"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "diphthongize",
+          "tran_cn": " 使双重元音化；读作双元音"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "双元音",
+      "tran_en": "a vowel sound made by pronouncing two vowels quickly one after the other. For example, the vowel sound in ‘main’ is a diphthong."
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "diphthongs"
+    ],
+    "adj": [
+      "diphthongal"
+    ]
+  }
+}

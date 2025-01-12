@@ -1,0 +1,75 @@
+{
+  "word": "exhume",
+  "ipa": {
+    "us": "eksˈhjuːm , ɪɡˈzjuːm",
+    "uk": "ɪɡˈzuːm"
+  },
+  "sentences": [
+    {
+      "en": "Cherish, enrich and exhume yourselves, and the world will identify with your value at last.",
+      "cn": "珍惜你自己, 不断充实,发掘自己, 最后世界才会认同你的价值."
+    },
+    {
+      "en": "His remains have been exhumed from a cemetery in Queens.",
+      "cn": "他的遗体已被从昆士郡的一个墓地里挖了出来。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "exhumation",
+          "tran_cn": " 发掘；尸体发掘；掘尸"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "unearth",
+            "disentomb"
+          ],
+          "tran_cn": "发掘；掘出"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "(Exhume)人名；(法)埃克叙姆"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "掘出, 发掘",
+      "tran_en": "to remove a dead body from the ground, especially in order to check the cause of death"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "挖出，发掘出"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "exhumes"
+    ],
+    "past": [
+      "exhumed"
+    ],
+    "done": [
+      "exhumed"
+    ],
+    "ing": [
+      "exhuming"
+    ],
+    "noun": [
+      "exhumation"
+    ]
+  }
+}

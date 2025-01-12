@@ -1,0 +1,93 @@
+{
+  "word": "quittance",
+  "ipa": {
+    "us": "'kwɪtəns",
+    "uk": "'kwɪtəns"
+  },
+  "sentences": [
+    {
+      "en": "Omittance is no quittance.",
+      "cn": "不催帐并不就是销帐."
+    },
+    {
+      "en": "Our works are finished at the moment , and it best quittance our efforts.",
+      "cn": "我想说的是,我们的作品它来源于古代, 但它不是单纯的挪用古代符号."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "quit",
+          "tran_cn": " 摆脱了…的；已经了结的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "quit",
+          "tran_cn": " 离开；[计] 退出"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "quit",
+          "tran_cn": " 离开；辞职；停止"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "quit",
+          "tran_cn": " 离开；放弃；停止；使…解除"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "compensation",
+            "payment",
+            "consideration",
+            "reward",
+            "offset"
+          ],
+          "tran_cn": "[会计]收据；免除，赦免；报酬，补偿"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "receipt",
+            "settlement"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "免除，解除，赦免，赔偿",
+      "tran_en": "release from debt or other obligation "
+    }
+  ],
+  "exchange": {}
+}

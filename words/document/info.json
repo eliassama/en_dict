@@ -1,0 +1,252 @@
+{
+  "word": "document",
+  "ipa": {
+    "us": "ˈdɒkjumənt , ˈdɒkjument",
+    "uk": "ˈdɑːkjumənt , ˈdɑːkjument"
+  },
+  "sentences": [
+    {
+      "en": "A bill of exchange is a legally recognized document.",
+      "cn": "汇票是合法票据."
+    },
+    {
+      "en": "Footnotes have been appended to the document.",
+      "cn": "该文件附加了脚注。"
+    },
+    {
+      "en": "He asked me to make ten copies of the document.",
+      "cn": "他叫我把这份文件复印十份."
+    },
+    {
+      "en": "He had been sitting on the document for at least two months.",
+      "cn": "他已经将这份文件压了至少两个月。"
+    },
+    {
+      "en": "He rummaged around the post room and found the document.",
+      "cn": "他翻遍了收发室，找到了那份文件。"
+    },
+    {
+      "en": "He says the new document will guar-antee fairness for blacks in Georgia.",
+      "cn": "他说这个新文件将保证佐治亚州的黑人受到公平对待。"
+    },
+    {
+      "en": "I invite every citizen to carefully study the document.",
+      "cn": "我请每位市民都仔细研读该文件。"
+    },
+    {
+      "en": "It was an abbreviated document without detailed proposals.",
+      "cn": "这是一份省去了建议细节的文件简本。"
+    },
+    {
+      "en": "Press Exit to return to your document.",
+      "cn": "按“退出”返回文档。"
+    },
+    {
+      "en": "She produces legal documents for a downtown Seattle law firm.",
+      "cn": "她为西雅图市区的一家法律事务所撰写法律文件。"
+    },
+    {
+      "en": "The doctoring of the document has become a live political issue.",
+      "cn": "对文件的篡改伪造已成为当下让人关注的政治问题。"
+    },
+    {
+      "en": "The document is expressed in terms that are readily understood and agreed.",
+      "cn": "文件用语浅显易懂，让人易于接受。"
+    },
+    {
+      "en": "The document provided a springboard for a lot of useful discussion.",
+      "cn": "这份文件引发出许多有益的讨论。"
+    },
+    {
+      "en": "The document was duly signed by the inspector.",
+      "cn": "这份文件已由检查员签妥。"
+    },
+    {
+      "en": "To close your document, press CTRL+W on your keyboard.",
+      "cn": "关闭文件时要同时按键盘上的CTRL键和W键。"
+    },
+    {
+      "en": "travel documents",
+      "cn": "旅行证件"
+    },
+    {
+      "en": "You can individualize a document by adding comments in the margins.",
+      "cn": "你可以在页边空白处添加评论使文件变得富有个性。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "documental",
+          "tran_cn": " 文件的，公文的"
+        },
+        {
+          "word": "documentary",
+          "tran_cn": " 记录的；文件的；记实的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "documentary",
+          "tran_cn": " 纪录片"
+        },
+        {
+          "word": "documentation",
+          "tran_cn": " 文件材料"
+        },
+        {
+          "word": "documenter",
+          "tran_cn": " 资料员"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "file",
+            "paper"
+          ],
+          "tran_cn": "文件，公文；[计]文档；[管理]证件"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "certificate",
+            "paper",
+            "writing"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bidding document",
+      "tran_cn": "标书"
+    },
+    {
+      "phrase": "design document",
+      "tran_cn": "设计文件"
+    },
+    {
+      "phrase": "document control",
+      "tran_cn": "文件控制；文档控制"
+    },
+    {
+      "phrase": "document delivery",
+      "tran_cn": "文档传递"
+    },
+    {
+      "phrase": "document management",
+      "tran_cn": "文件管理；资料管理"
+    },
+    {
+      "phrase": "document processing",
+      "tran_cn": "文件处理；材料审查"
+    },
+    {
+      "phrase": "document retrieval",
+      "tran_cn": "[计]文档检索"
+    },
+    {
+      "phrase": "electronic document",
+      "tran_cn": "电子文件"
+    },
+    {
+      "phrase": "html document",
+      "tran_cn": "HTML文件"
+    },
+    {
+      "phrase": "identity document",
+      "tran_cn": "身份证件；身分证明文件"
+    },
+    {
+      "phrase": "new document",
+      "tran_cn": "n. 新建文档"
+    },
+    {
+      "phrase": "official document",
+      "tran_cn": "官方文件，公文"
+    },
+    {
+      "phrase": "original document",
+      "tran_cn": "原始文件；[计]源文献；正本单据"
+    },
+    {
+      "phrase": "related document",
+      "tran_cn": "相关文件；有关单证"
+    },
+    {
+      "phrase": "relevant document",
+      "tran_cn": "相关文件；关联文件"
+    },
+    {
+      "phrase": "shipping document",
+      "tran_cn": "船务文件"
+    },
+    {
+      "phrase": "source document",
+      "tran_cn": "源文档"
+    },
+    {
+      "phrase": "tender document",
+      "tran_cn": "投标文件；提供证件"
+    },
+    {
+      "phrase": "transport document",
+      "tran_cn": "运输单据"
+    },
+    {
+      "phrase": "travel document",
+      "tran_cn": "旅行证件"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "文件，（计算机）文档",
+      "tran_en": "a piece of paper that has official information on it"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "记录，用文件证明",
+      "tran_en": "to write about something, film it, or take photographs of it, in order to record information about it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 用文件等证明",
+      "tran_en": "to write about something, film it, or take photographs of it, in order to record information about it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "documents"
+    ],
+    "third": [
+      "documents"
+    ],
+    "past": [
+      "documented"
+    ],
+    "done": [
+      "documented"
+    ],
+    "ing": [
+      "documenting"
+    ]
+  }
+}

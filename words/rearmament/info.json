@@ -1,0 +1,51 @@
+{
+  "word": "rearmament",
+  "ipa": {
+    "us": "rɪ'ɑ:məmənt",
+    "uk": "rɪ'ɑməmənt"
+  },
+  "sentences": [
+    {
+      "en": "Follow-through on rearmament, nuclear and otherwise, would work against Russia's economic and strategic interests.",
+      "cn": "重整军备、核以及其他将与俄罗斯的经济和战略利益背道而驰。"
+    },
+    {
+      "en": "He also wants a \"large-scale rearmament\" of the Army and Navy beginning in 2011.",
+      "cn": "他还准备从2011年起，对陆军和海军进行“大规模重新装备”。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "rearm",
+          "tran_cn": " 重新武装，重整军备"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rearm",
+          "tran_cn": " 使重整军备，使重新武装"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "重整军备，改良装备",
+      "tran_en": "Rearmament is the process of building up a new stock of military weapons"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "rearm"
+    ]
+  }
+}

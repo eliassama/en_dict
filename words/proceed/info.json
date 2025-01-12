@@ -1,0 +1,228 @@
+{
+  "word": "proceed",
+  "ipa": {
+    "us": "prəˈsiːd",
+    "uk": "proʊˈsiːd"
+  },
+  "sentences": [
+    {
+      "en": "Before proceeding further, we must define our terms.",
+      "cn": "我们必须先定义术语，然后再往下展开。"
+    },
+    {
+      "en": "Do you really want to proceed against her?",
+      "cn": "你真的想起诉她 吗 ?"
+    },
+    {
+      "en": "He was allowed to proceed to an MA.",
+      "cn": "他获准攻读文学硕士学位."
+    },
+    {
+      "en": "He would stride on stage then proceed to coax the sweetest possible sounds out of his violin.",
+      "cn": "他会大步走上舞台，然后轻轻地拉他的小提琴，奏出美妙动听的曲调。"
+    },
+    {
+      "en": "His lectures always proceed from the close to the distant and from the elementary to the profound.",
+      "cn": "他讲课总是由近及远,由浅入深."
+    },
+    {
+      "en": "How did you expect us to proceed on such a perilous expedition, through unknown terrain.",
+      "cn": "你怎么能指望我们如此冒险地穿越未知的地域，继续这一探险？"
+    },
+    {
+      "en": "Let's proceed with our work.",
+      "cn": "我们接着干吧."
+    },
+    {
+      "en": "Mistakes proceed from inadvertence.",
+      "cn": "错误出自粗心大意."
+    },
+    {
+      "en": "Never mind the interruption; proceed with your story.",
+      "cn": "不要理睬别人的插话, 继续讲你的故事."
+    },
+    {
+      "en": "The proceeds of the concert went to charity.",
+      "cn": "音乐会的收入给了慈善机构。"
+    },
+    {
+      "en": "The teacher should encourage the child to proceed as far as he can, and when he is stuck, ask for help.",
+      "cn": "老师应该鼓励孩子尽量自己去做，遇到困难时，寻求帮助。"
+    },
+    {
+      "en": "They had to take the finely balanced decision to let the visit proceed.",
+      "cn": "他们不得不在经过仔细权衡后作出让访问继续下去的决定。"
+    },
+    {
+      "en": "They will proceed to build another laboratory building.",
+      "cn": "他们将着手建造另一座实验大楼."
+    },
+    {
+      "en": "We now proceed to the next item on the agenda.",
+      "cn": "我们现在着手讨论下一项议题."
+    },
+    {
+      "en": "We're not sure whether we still want to proceed with the sale.",
+      "cn": "我们不确定是否还要继续减价促销。"
+    },
+    {
+      "en": "Wrong opinions often proceed from lack of information.",
+      "cn": "错误的看法往往产生于不了解情况."
+    },
+    {
+      "en": "You should proceed with the utmost caution.",
+      "cn": "你应该小心行事。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "process",
+          "tran_cn": " 经过特殊加工（或处理）的"
+        },
+        {
+          "word": "processional",
+          "tran_cn": " 游行的；列队行进的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "proceeding",
+          "tran_cn": " 进行；程序；诉讼；事项"
+        },
+        {
+          "word": "process",
+          "tran_cn": " 过程，进行；方法，步骤；作用；程序；推移"
+        },
+        {
+          "word": "procession",
+          "tran_cn": " 队伍，行列；一列，一排；列队行进"
+        },
+        {
+          "word": "processional",
+          "tran_cn": " 游行圣歌"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "proceeding",
+          "tran_cn": " 开始；继续做；行进（proceed的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "process",
+          "tran_cn": " 列队前进"
+        },
+        {
+          "word": "procession",
+          "tran_cn": " 列队行进"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "process",
+          "tran_cn": " 处理；加工"
+        },
+        {
+          "word": "procession",
+          "tran_cn": " 沿著……行进"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acquisition",
+            "advance",
+            "ahead",
+            "forward",
+            "go",
+            "head",
+            "progress",
+            "travel"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "advance",
+            "ahead",
+            "forward",
+            "go",
+            "progress"
+          ],
+          "tran_cn": "继续进行;进展"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "proceed against",
+      "tran_cn": "起诉；控诉；提起诉讼"
+    },
+    {
+      "phrase": "proceed from",
+      "tran_cn": "从...出发"
+    },
+    {
+      "phrase": "proceed with",
+      "tran_cn": "继续进行"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "收入，获利",
+      "tran_en": "The proceeds of an event or activity are the money that has been obtained from it"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "进行；继续进行",
+      "tran_en": "to continue to do something that has already been planned or started"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "进行，前进，（沿特定路线）行进，（尤指打断后）继续说",
+      "tran_en": "to continue to do something that has already been planned or started"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "proceeds"
+    ],
+    "past": [
+      "proceeded"
+    ],
+    "done": [
+      "proceeded"
+    ],
+    "ing": [
+      "proceeding"
+    ]
+  }
+}

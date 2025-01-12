@@ -1,0 +1,104 @@
+{
+  "word": "heckle",
+  "ipa": {
+    "us": "ˈhekl",
+    "uk": "ˈhɛkəl"
+  },
+  "sentences": [
+    {
+      "en": "A small group of youths stayed behind to heckle and shout abuse.",
+      "cn": "一小群小青年没走，在起哄、叫骂。"
+    },
+    {
+      "en": "He went to heckle at their meetings.",
+      "cn": "他去他们的会议起哄."
+    },
+    {
+      "en": "The offending comment was in fact a heckle from an audience member.",
+      "cn": "这番冒犯性的话实际上是一名观众的诘难。"
+    },
+    {
+      "en": "The reporter wanted to heckle the candidate with those embarrassing questions.",
+      "cn": "记者想用那些让人难为情的问题来刁难这位候选人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "heckler",
+          "tran_cn": " 激烈质问者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "hatchel"
+          ],
+          "tran_cn": "麻梳"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "needle"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cross examination"
+          ],
+          "tran_cn": "诘问；激烈质问；以麻梳梳理"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "麻梳"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "以麻梳梳理, 激烈质问, 诘问, 集中质问"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "责问演说者，诘问，以麻梳梳理"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "heckles"
+    ],
+    "past": [
+      "heckled"
+    ],
+    "done": [
+      "heckled"
+    ],
+    "ing": [
+      "heckling"
+    ],
+    "noun": [
+      " heckling",
+      "heckler"
+    ]
+  }
+}

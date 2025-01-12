@@ -1,0 +1,72 @@
+{
+  "word": "reappraise",
+  "ipa": {
+    "us": "ˌri:əˈpreɪz",
+    "uk": "ˌriəˈprez"
+  },
+  "sentences": [
+    {
+      "en": "It is the inevitable outcome that complies with new natural view to reappraise natural value.",
+      "cn": "重估自然价值是顺应新的自然图景的必然产物."
+    },
+    {
+      "en": "People began to reappraise their values.",
+      "cn": "人们开始重新审视他们的价值观。"
+    },
+    {
+      "en": "This research will help people to reappraise the smoke fatalness.",
+      "cn": "该研究可帮助人们重新认识烟气的危险性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reappraisal",
+          "tran_cn": " 重新评价；重新估计"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "transvalue",
+            "revaluate"
+          ],
+          "tran_cn": "重新评估；重新评价"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "重新评估；重新评价",
+      "tran_en": "to examine something again in order to consider whether you should change it or your opinion of it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "重新评估，重新评价"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "reappraises"
+    ],
+    "past": [
+      "reappraised"
+    ],
+    "done": [
+      "reappraised"
+    ],
+    "ing": [
+      "reappraising"
+    ]
+  }
+}

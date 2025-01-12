@@ -1,0 +1,147 @@
+{
+  "word": "resonator",
+  "ipa": {
+    "us": "ˈrezəneɪtə(r)",
+    "uk": "ˈrɛzəˌnetɚ"
+  },
+  "sentences": [
+    {
+      "en": "A GaAs FET Oscillator stabilized by a dielectric resonator with a feedback loop has been developed.",
+      "cn": "本文介绍了一种环路反馈式场效应管介质稳频振荡器."
+    },
+    {
+      "en": "A high temperature open resonator measuring system for low loss radome materials is introduced.",
+      "cn": "介绍了一种测量低损耗天线罩材料的开腔高温自动测量系统."
+    },
+    {
+      "en": "A novel laser trimming method is developed for microwave ceramic dielectric resonator.",
+      "cn": "提出一种采用激光微调微波陶瓷介质谐振器的方法."
+    },
+    {
+      "en": "A novel spiral inductor resonator bandpass filter based on LTCC is proposed in this paper.",
+      "cn": "本文提出一种新型的基于低温共烧陶瓷技术(TCC) 螺旋电感带通滤波器."
+    },
+    {
+      "en": "Here we designed a miniature coaxial - cavity using stepped impedance resonator ( SIR ) as resonator element.",
+      "cn": "作者利用阶跃阻抗谐振器 ( SIR ) 作为谐振单元设计了一款小型化腔体梳状滤波器."
+    },
+    {
+      "en": "Playing out the sound through the guitar resonator is enhanced.",
+      "cn": "弹奏出来的声音会通过吉他的共鸣箱得到增强."
+    },
+    {
+      "en": "Quartz crystal, crystal oscillator, ceramic resonator, ceramic filter, saw filter, ceramic discriminator.",
+      "cn": "石英谐振器, 石英震荡器, 陶瓷谐振器, 陶瓷滤波器,声表面滤波器, 鉴频器."
+    },
+    {
+      "en": "Reaearch on mode selection theory of coupled resonator and single, double wave plate longitudinal - mode splitting theory.",
+      "cn": "研究耦合腔激光器的选模原理以及单 、 双波片纵模分裂原理."
+    },
+    {
+      "en": "Resonator in thermoacoustic engine system is always used to adjust the frequency.",
+      "cn": "在热声发动机系统中,谐振管用来调节系统的超振频率."
+    },
+    {
+      "en": "So in the resonator design process crystal blank, presents more challenging problems.",
+      "cn": "所以在实际的生产设计过程中, 提出了更高的要求."
+    },
+    {
+      "en": "Some form of resonator may be used to dissipate energy in an oscillating feed system.",
+      "cn": "某些形式的谐振器可用来耗散供应系统内的振荡能量."
+    },
+    {
+      "en": "The ceramic componets are made of high stability piezoelectric ceramics that functions as a mechanical resonator.",
+      "cn": "陶瓷元件由高稳定性压电陶瓷制成,其功能表现和机械谐振器一致."
+    },
+    {
+      "en": "The resonator ( astigmatic ) can be compensated by inserting a suitable thickness Brewster plate in the cavity.",
+      "cn": "在腔内插入一定厚度的布儒斯特片可以部分消除腔的像散."
+    },
+    {
+      "en": "This paper provides a thin - film resistor loaded microstrip ring resonator for the sub - structure of equalizer.",
+      "cn": "文章提出了一种薄膜电阻加载的微带环形谐振器均衡器子结构."
+    },
+    {
+      "en": "Under this condition , the input energy is entirely compensated for the loss of resonator.",
+      "cn": "在此条件下, 耦合进入谐振腔的能量完全用于补偿谐振腔能量的损耗."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "resonant",
+          "tran_cn": " 洪亮的，共振的；共鸣的"
+        },
+        {
+          "word": "resonating",
+          "tran_cn": " 产生共鸣的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "resonance",
+          "tran_cn": " [力] 共振；共鸣；反响"
+        },
+        {
+          "word": "resonating",
+          "tran_cn": " 感通"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "resonating",
+          "tran_cn": " 产生共鸣；回响（resonate 的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "resonate",
+          "tran_cn": " 共鸣；共振"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "resonate",
+          "tran_cn": " 共鸣；共振"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "cavity resonator",
+      "tran_cn": "谐振腔；空腔谐振器"
+    },
+    {
+      "phrase": "crystal resonator",
+      "tran_cn": "晶体谐振器；水晶振子"
+    },
+    {
+      "phrase": "helmholtz resonator",
+      "tran_cn": "亥姆霍兹共振器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "共鸣器，共振器，共振腔",
+      "tran_en": "a piece of equipment that makes the sound of a musical instrument louder"
+    }
+  ],
+  "exchange": {}
+}

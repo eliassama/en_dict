@@ -1,0 +1,105 @@
+{
+  "word": "deputation",
+  "ipa": {
+    "us": "ˌdepjuˈteɪʃn",
+    "uk": "ˌdɛpjəˈteʃən"
+  },
+  "sentences": [
+    {
+      "en": "A deputation of elders from the village arrived headed by its chief.",
+      "cn": "村子里的年老者代表团在村长的带领下到了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deputy",
+          "tran_cn": " 副的；代理的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deputy",
+          "tran_cn": " 代理人，代表"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "deputise",
+          "tran_cn": " 担任代表"
+        },
+        {
+          "word": "deputize",
+          "tran_cn": " 代理；代表"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "depute",
+          "tran_cn": " 委任；授权给；指定…为代理人"
+        },
+        {
+          "word": "deputise",
+          "tran_cn": " 委...为代表"
+        },
+        {
+          "word": "deputize",
+          "tran_cn": " 指定…为代理；授权…为代表"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "representation",
+            "mission",
+            "delegation",
+            "ambassador",
+            "behalf of"
+          ],
+          "tran_cn": "代表团，代表；委任代理"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "delegation",
+            "embassy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "代表团",
+      "tran_en": "a small group of people who are sent to talk to someone in authority, as representatives of a larger group"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "deputations"
+    ]
+  }
+}

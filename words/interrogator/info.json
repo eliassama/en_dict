@@ -1,0 +1,96 @@
+{
+  "word": "interrogator",
+  "ipa": {
+    "us": "ɪn'terəɡeɪtə(r)",
+    "uk": "ɪnˈtɛrəɡetɚ"
+  },
+  "sentences": [
+    {
+      "en": "No, I was not mad, but my interrogator was furious.",
+      "cn": "不, 我没疯, 只是质问我的人怒不可遏."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interrogative",
+          "tran_cn": " 疑问的；质问的"
+        },
+        {
+          "word": "interrogatory",
+          "tran_cn": " 质问的；疑问的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interrogation",
+          "tran_cn": " 讯问；审问；[语] 疑问句"
+        },
+        {
+          "word": "interrogative",
+          "tran_cn": " 疑问词"
+        },
+        {
+          "word": "interrogatory",
+          "tran_cn": " 质问；疑问"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "interrogate",
+          "tran_cn": " 审问；质问"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "interrogate",
+          "tran_cn": " 审问；质问；[计] 询问"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "querist",
+            "questioner"
+          ],
+          "tran_cn": "质问者；[电讯][计]询问机"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "讯问者，审问者，质问者，询问器",
+      "tran_en": "a person who interrogates "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interrogators"
+    ],
+    "verb": [
+      "interrogate"
+    ],
+    "noun": [
+      "interrogation"
+    ]
+  }
+}

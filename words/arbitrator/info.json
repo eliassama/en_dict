@@ -1,0 +1,172 @@
+{
+  "word": "arbitrator",
+  "ipa": {
+    "us": "ˈɑːbɪtreɪtə(r)",
+    "uk": "ˈɑːrbɪtreɪtər"
+  },
+  "sentences": [
+    {
+      "en": "An Arbitrator is a neutral person who resolves disputes between parties.",
+      "cn": "仲裁员是解决双方当事人争议的持中立态度的人."
+    },
+    {
+      "en": "He is also an arbitrator of Changzhou Arbitration Committee.",
+      "cn": "常州仲裁委员会仲裁员."
+    },
+    {
+      "en": "I want to consult a professional arbitrator about this matter.",
+      "cn": "我想找个专业的仲裁人咨询一下."
+    },
+    {
+      "en": "If negotiations are deadlocked , an arbitrator must be called in.",
+      "cn": "如果谈判陷入僵局，就必须请一位仲裁人。"
+    },
+    {
+      "en": "If negotiations are deadlocked, an arbitrator must be called in.",
+      "cn": "如果谈判陷入僵局, 就必须请一位仲裁人."
+    },
+    {
+      "en": "The arbitrator issued a final decision regarding the meaning of the contractual terms.",
+      "cn": "仲裁员签发了有关合同条款含义的最后裁决."
+    },
+    {
+      "en": "The arbitrator's authority derived from the consent of the disputants.",
+      "cn": "仲裁者的职权来自争议双方的认可和授权."
+    },
+    {
+      "en": "The arbitrator's award was set aside appeal.",
+      "cn": "上诉时仲裁决变为无效."
+    },
+    {
+      "en": "The arbitrator's decision on the dispute is final and binding on the both parlies.",
+      "cn": "仲裁人对争执所做的裁决为最后裁决，对双方均具有约束力。"
+    },
+    {
+      "en": "The award rendered by: the arbitrator (s) shall be final and binding upon both parties.",
+      "cn": "仲裁人所作的裁定应是决定性的，并对双方有约束力。"
+    },
+    {
+      "en": "The company should put its claims up for review by an arbitrator.",
+      "cn": "公司应该将其要求交由仲裁者审核。"
+    },
+    {
+      "en": "The dispute shall be submitted for arbitration a mutually - nominated arbitrator.",
+      "cn": "这次纠纷将由双方共同指定的仲裁员提交仲裁."
+    },
+    {
+      "en": "The dispute shall be submitted for arbitration by a mutually nominated arbitrator.",
+      "cn": "这起纠纷应由一位双方共同指定的仲裁人提交仲裁."
+    },
+    {
+      "en": "The identifier of arbitrator should be lowest priority in the network first.",
+      "cn": "系统首先设定仲裁者在网络中的标识符的优先级是最低的,因此,凡是从生产者发送到仲裁者的消息的优先级低于从仲裁者发送的消息."
+    },
+    {
+      "en": "The judge served as an arbitrator in the dispute.",
+      "cn": "法官在纠纷中担当了仲裁人的角色."
+    },
+    {
+      "en": "The third arbitrator will act as the presiding arbitrator.",
+      "cn": "第三名仲裁员担任首席仲裁员."
+    },
+    {
+      "en": "This case will be hold by an impartial arbitrator.",
+      "cn": "本案将由公正仲裁员审核."
+    },
+    {
+      "en": "We would recommend on the ground of economy a joint arbitrator.",
+      "cn": "出于节省费用的考虑,我方愿意推荐一位共同仲裁人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "arbitral",
+          "tran_cn": " 仲裁的；仲裁人的"
+        },
+        {
+          "word": "arbitrational",
+          "tran_cn": " 关于仲裁的"
+        },
+        {
+          "word": "arbitrative",
+          "tran_cn": " 有权仲裁的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "arbitrament",
+          "tran_cn": " 仲裁；仲裁结论；裁决权"
+        },
+        {
+          "word": "arbitration",
+          "tran_cn": " 公断，仲裁"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "arbitrate",
+          "tran_cn": " 仲裁；公断"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "moderator",
+            "daysman"
+          ],
+          "tran_cn": "公断人，[法]仲裁人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adviser",
+            "justice",
+            "referee",
+            "spokesman",
+            "umpire"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "presiding arbitrator",
+      "tran_cn": "仲裁庭庭长"
+    },
+    {
+      "phrase": "sole arbitrator",
+      "tran_cn": "独任仲裁员"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "仲裁人，公断人，仲裁员"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "arbitrators"
+    ]
+  }
+}

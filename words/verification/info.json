@@ -1,0 +1,182 @@
+{
+  "word": "verification",
+  "ipa": {
+    "us": " ˌverɪfɪˈkeɪʃn",
+    "uk": " ˌverɪfɪˈkeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "All charges against her are dropped pending the verification of her story.",
+      "cn": "在她的事情核实之前，所有针对她的指控都已撤回。"
+    },
+    {
+      "en": "Applicant is required to bring along the original documents for verification.",
+      "cn": "本署会要求申请人带同文件正本以便核实."
+    },
+    {
+      "en": "For more information about verification, see Managed Execution Process.",
+      "cn": "有关验证的更多信息, 请参见托管执行过程."
+    },
+    {
+      "en": "Its common useis in conjunction with selective gas chemisorption for verification of metal surface area.",
+      "cn": "它通常是和选择性气体化学吸附结合起来使用,以确定金属表面积."
+    },
+    {
+      "en": "Its experimental verification requires that probabilities be measured.",
+      "cn": "它的实验验证需要确定几率."
+    },
+    {
+      "en": "Prepare - Research what you want to sell using Completed Listings. Have credit card and bank information ready for verification.",
+      "cn": "准备-通过调查已经发布的广告确认你究竟要卖什么，拥有供查证的信用卡和银行信息。"
+    },
+    {
+      "en": "Scientific method, however, is concerned with verification.",
+      "cn": "但是, 科学方法是和证实联系在一起的."
+    },
+    {
+      "en": "The credit card is then accepted, subject to verification of the signature.",
+      "cn": "信用卡随后被接受, 但要核查签名."
+    },
+    {
+      "en": "The four stages of creative thought are preparation, incubation, illumination, and verification.",
+      "cn": "创造性思考的四个阶段是准备 、 沉思 、 启迪 、 求证."
+    },
+    {
+      "en": "The General Dynamics-led team will provide training for hardware and software, and also furnish independent verification and validation of sensors and systems.",
+      "cn": "通用动力公司领导的团队将提供硬件和软件训练，也将提供传感器和系统的独立查证和确认。"
+    },
+    {
+      "en": "The object's advent is the significance's verification.",
+      "cn": "该客体的出现是其意义的证实."
+    },
+    {
+      "en": "The Soviets are demanding certain guarantees about verification before signing the treaty.",
+      "cn": "苏联人要求得到有关核实的某些保证后才签约."
+    },
+    {
+      "en": "This document should be approved by examination, and verification.",
+      "cn": "这份文件要经过核审后才能确定."
+    },
+    {
+      "en": "This method is reasonable and quite satisfactory in the preliminary experimental verification.",
+      "cn": "初步实验验证很令人满意."
+    },
+    {
+      "en": "Troubles and troubleshooting in verification of HGB analyzers were introduced.",
+      "cn": "介绍了血红蛋白仪在检定中常见故障及故障排除方法."
+    },
+    {
+      "en": "Verification ( eg Checking that weapons have been removed ) could be an obstacle to an arms agreement.",
+      "cn": "裁减军备协议难以达成,结在于如何证实 ( 如检查武器确已销毁 )."
+    },
+    {
+      "en": "Verification was cancelled. Rerun Data collection and then click Verify again.",
+      "cn": "验证已被取消.请重新运行数据收集,然后再次单击“验证”."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "verifier",
+          "tran_cn": " 检验者；核实者；校对机"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "verify",
+          "tran_cn": " 核实；查证"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "confirmation",
+            "validation"
+          ],
+          "tran_cn": "确认，查证；[审计]核实"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "proof"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cancel after verification",
+      "tran_cn": "核销"
+    },
+    {
+      "phrase": "data verification",
+      "tran_cn": "数据验证，数据校验"
+    },
+    {
+      "phrase": "design verification",
+      "tran_cn": "设计验证"
+    },
+    {
+      "phrase": "experimental verification",
+      "tran_cn": "实验验证；实验性鉴定"
+    },
+    {
+      "phrase": "formal verification",
+      "tran_cn": "形式验证，形式证明"
+    },
+    {
+      "phrase": "verification and validation",
+      "tran_cn": "[计]检验和确认"
+    },
+    {
+      "phrase": "verification certificate",
+      "tran_cn": "存货核实证明书；检定证书；验单"
+    },
+    {
+      "phrase": "verification code",
+      "tran_cn": "验证码"
+    },
+    {
+      "phrase": "verification procedure",
+      "tran_cn": "查证程序；核查程序"
+    },
+    {
+      "phrase": "verification process",
+      "tran_cn": "验实过程，验证过程"
+    },
+    {
+      "phrase": "verification test",
+      "tran_cn": "验证试验；证实测验"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "证明，证实，<哲>（指通过经验）证明（某命题正确），核实"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "verify"
+    ],
+    "adj": [
+      "verifiable"
+    ]
+  }
+}

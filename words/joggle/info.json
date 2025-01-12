@@ -1,0 +1,82 @@
+{
+  "word": "joggle",
+  "ipa": {
+    "us": "ˈdʒɒgl",
+    "uk": "ˈdʒɑgl"
+  },
+  "sentences": [
+    {
+      "en": "\" Oh, don't, Sid. Don't joggle me. \"",
+      "cn": "“ 啊, 希德, 不要这样,不要推我. ”"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "shake",
+            "meshing"
+          ],
+          "tran_cn": "[建]啮合；轻摇，摇动；[木]榫接"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "wave",
+            "tooth",
+            "rock",
+            "engage"
+          ],
+          "tran_cn": "[建]啮合；摇动，摇曳；摇曳"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "rock",
+            "mesh",
+            "shake"
+          ],
+          "tran_cn": "[建]啮合；摇动，摇曳；轻摇"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "啮合；轻摇，摇动；榫接",
+      "tran_en": "the act of joggling "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "轻摇，摇动，摇曳，啮合",
+      "tran_en": "to shake or move up and down slightly, or to make something move in this way"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "joggles"
+    ],
+    "past": [
+      "joggled"
+    ],
+    "done": [
+      "joggled"
+    ],
+    "ing": [
+      "joggling"
+    ]
+  }
+}

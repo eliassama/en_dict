@@ -1,0 +1,219 @@
+{
+  "word": "torque",
+  "ipa": {
+    "us": "tɔ:k",
+    "uk": "tɔrk"
+  },
+  "sentences": [
+    {
+      "en": "Because of the perturbation, Mars experiences some torque.",
+      "cn": "因为有微扰, 火星就受到一些转矩的作用."
+    },
+    {
+      "en": "Find the required length of key based on the torque value of the gross shaft.",
+      "cn": "根据整根轴的扭矩值求需要的键长."
+    },
+    {
+      "en": "In rotation, force becomes torque, mass becomes moment of inertia, and acceleration becomes angular acceleration.",
+      "cn": "在旋转时，力变成力矩，质量变成转动惯量，加速度变成角加速度。"
+    },
+    {
+      "en": "Instead you should move a Rigidbody by applying forces and torque to it.",
+      "cn": "正确地方法应该是通过施加力或者扭矩来移动刚体。"
+    },
+    {
+      "en": "Qualitatively, a torque is a \" twist \".",
+      "cn": "定性地说, 转矩就是扭转."
+    },
+    {
+      "en": "The cage is connected by a spindle to the torque spring and pointer.",
+      "cn": "用销子将其骨架结构与转矩弹簧和指针连接."
+    },
+    {
+      "en": "The counterrotation reduces the net friction torque.",
+      "cn": "反向旋转减少了净摩擦力."
+    },
+    {
+      "en": "The error torques include mass unbalances, compliances, bias torque, etc.",
+      "cn": "误差力矩包括质量不平衡, 柔性, 偏置力短, 等等."
+    },
+    {
+      "en": "The fluid cavity should be smooth, continuous, and symmetrical to minimize fluid torque.",
+      "cn": "为了减省液体力矩,液体腔应该是光滑的, 连续的和对称的."
+    },
+    {
+      "en": "The measuring unit of torque wrench is pound - inch or kilogram - centimeter.",
+      "cn": "力矩扳手的计量单位为镑 - 寸或者公斤 - 厘米."
+    },
+    {
+      "en": "The pendulum - torque type of erector is extensively employed on gyro verticals.",
+      "cn": "陀螺垂直器上广泛地采用由摆和力矩马达组成的修正装置."
+    },
+    {
+      "en": "The Tesla’s rapid acceleration comes from the ability of an electric motor to deliver its maximum amount of torque at whatever speed the motor is turning.",
+      "cn": "特斯拉之所以拥有如此优异的加速性能，其原因在于电动马达无论在什么速度下都可以为车辆提供最大的扭矩。"
+    },
+    {
+      "en": "The tilting of the gyro continues until the erection torque balances the torque producing the precession.",
+      "cn": "陀螺继续倾斜直至修正力矩与产生进动的力矩平衡."
+    },
+    {
+      "en": "The torque applied to the whole assembly was measured at D.",
+      "cn": "整个组件所受的转矩可在D上测出."
+    },
+    {
+      "en": "The torque of the couple is intimately associated with a couple.",
+      "cn": "力偶矩与力偶密切相关."
+    },
+    {
+      "en": "The transmission of an automobile engine is often called a \" torque converter \".",
+      "cn": "汽车发动机是由 “ 转矩转换器 ” 来传送功率的."
+    },
+    {
+      "en": "To preserve the same twist, the torque should also be the same.",
+      "cn": "为保持相当的扭转, 扭矩也应该具有相同的比例."
+    },
+    {
+      "en": "Torque is a measure of the ability of an applied force to produce a twist.",
+      "cn": "力矩是作用力产生扭转能力的量度."
+    },
+    {
+      "en": "Tyres and wheels - valves - dimensions, designation, valve pressure ratings by use and torque for clamp - in valves.",
+      "cn": "轮胎和车轮。阀门。尺寸名称与符号使用中阀门压力等级和夹紧阀门扭矩。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "torsion",
+          "tran_cn": "扭转，扭曲；转矩，[力] 扭力"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "torgue",
+            "turning moment"
+          ],
+          "tran_cn": "转矩，[力]扭矩；项圈，金属领圈"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "necklace"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "brake torque",
+      "tran_cn": "制动转矩"
+    },
+    {
+      "phrase": "braking torque",
+      "tran_cn": "制动力矩；制动转矩；制动扭矩"
+    },
+    {
+      "phrase": "driving torque",
+      "tran_cn": "驱动转矩；传动转矩；传动力矩"
+    },
+    {
+      "phrase": "dynamic torque",
+      "tran_cn": "动态扭矩"
+    },
+    {
+      "phrase": "electromagnetic torque",
+      "tran_cn": "电磁转矩"
+    },
+    {
+      "phrase": "engine torque",
+      "tran_cn": "发动机扭矩；引擎转矩"
+    },
+    {
+      "phrase": "friction torque",
+      "tran_cn": "摩擦力矩；摩擦转矩；摩擦扭矩"
+    },
+    {
+      "phrase": "hydraulic torque converter",
+      "tran_cn": "液压扭矩变换器"
+    },
+    {
+      "phrase": "load torque",
+      "tran_cn": "n. 负载转距，负荷扭矩"
+    },
+    {
+      "phrase": "motor torque",
+      "tran_cn": "电机扭矩，马达转矩；电动机转矩"
+    },
+    {
+      "phrase": "output torque",
+      "tran_cn": "输出转矩；输出力矩；输出扭矩"
+    },
+    {
+      "phrase": "starting torque",
+      "tran_cn": "起动转矩，起动扭矩"
+    },
+    {
+      "phrase": "tightening torque",
+      "tran_cn": "[化]拧紧力矩，拉紧转矩"
+    },
+    {
+      "phrase": "torque control",
+      "tran_cn": "转矩控制，力矩调节"
+    },
+    {
+      "phrase": "torque converter",
+      "tran_cn": "液力变矩器；转矩变换器"
+    },
+    {
+      "phrase": "torque motor",
+      "tran_cn": "力矩马达；陀螺修正马达；罗盘矫正电动机"
+    },
+    {
+      "phrase": "torque output",
+      "tran_cn": "扭力输出"
+    },
+    {
+      "phrase": "torque ripple",
+      "tran_cn": "转矩波动"
+    },
+    {
+      "phrase": "torque sensor",
+      "tran_cn": "扭矩传感器"
+    },
+    {
+      "phrase": "torque wrench",
+      "tran_cn": "扭力扳手；转矩扳手；定力矩扳手"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（尤指机器的）扭转力，转（力）矩，<史>（古高卢人、布立吞人戴的）金属项圈，金属颈环",
+      "tran_en": "the force or power that makes something turn around a central point, especially in an engine"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "(向轴、螺栓、圆轮等)施以扭动力；(使)沿轴转动；使(绕轴等)扭转；施加转矩"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "torques"
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "word": "admittance",
+  "ipa": {
+    "us": "ədˈmɪtns",
+    "uk": "ædˈmɪtns"
+  },
+  "sentences": [
+    {
+      "en": "As the theater was full, we were unable to gain admittance.",
+      "cn": "由于电影院客满, 我们没能获得入场许可."
+    },
+    {
+      "en": "As the theatre was full I was unable to gain admittance.",
+      "cn": "由于剧院已满座,我无法入场."
+    },
+    {
+      "en": "Construction Site. No Admittance.",
+      "cn": "施工重地, 闲人免进."
+    },
+    {
+      "en": "Finally, generalized impedance - admittance mapptor is studied by the mapping theory.",
+      "cn": "最后, 应用映射理论研究了广义阻抗、导纳映射器."
+    },
+    {
+      "en": "Finally, the intrinsic circuit element parameters were determined using the admittance parameter expressions.",
+      "cn": "最后利用网络导纳参数的表达式,确定了本征电路元件参数."
+    },
+    {
+      "en": "Gaining admittance to the club was no easy matter.",
+      "cn": "获准进入那家俱乐部并非易事。"
+    },
+    {
+      "en": "He was angry at being denied admittance.",
+      "cn": "他因被拒绝进入而发怒."
+    },
+    {
+      "en": "Hundreds of people were unable to gain admittance to the hall.",
+      "cn": "数以百计的人未能获准进入大厅。"
+    },
+    {
+      "en": "No admittance except on business.",
+      "cn": "闲人免进."
+    },
+    {
+      "en": "Objective: into the practic value of frequency field of admittance differential cephalogran.",
+      "cn": "目的: 探讨频域脑导纳图的实用价值."
+    },
+    {
+      "en": "Storage Room, No Admittance!",
+      "cn": "库房重地, 闲人免进!"
+    },
+    {
+      "en": "The admittance to the Museum of Natural History is 5 dollars.",
+      "cn": "那所自然博物馆门票为5美元."
+    },
+    {
+      "en": "There is no admittance without a pass.",
+      "cn": "无通行证者不得入内."
+    },
+    {
+      "en": "They were refused admittance.",
+      "cn": "他们被拒绝进入."
+    },
+    {
+      "en": "Using C ++ language, constructs an admittance matrix modify program.",
+      "cn": "使用C++语言, 构建了导纳矩阵修改程序."
+    },
+    {
+      "en": "We had not been able to gain admittance to the flat.",
+      "cn": "我们未能获准进入公寓。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "admittable",
+          "tran_cn": " 具有进入的资格的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "admissibility",
+          "tran_cn": " 可容许；有入场的资格"
+        },
+        {
+          "word": "admission",
+          "tran_cn": " 承认；入场费；进入许可；坦白；录用"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "admit",
+          "tran_cn": " 承认；容许"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "admit",
+          "tran_cn": " 承认；准许进入；可容纳"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "door",
+            "access",
+            "exit",
+            "channel",
+            "route"
+          ],
+          "tran_cn": "进入；入场权；通道"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "admission",
+            "entry",
+            "passport"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "admittance matrix",
+      "tran_cn": "导纳矩阵"
+    },
+    {
+      "phrase": "no admittance",
+      "tran_cn": "闲人免进；禁止入内"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "准许进入，进入权",
+      "tran_en": "permission to enter a place"
+    }
+  ],
+  "exchange": {}
+}

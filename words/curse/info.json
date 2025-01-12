@@ -1,0 +1,211 @@
+{
+  "word": "curse",
+  "ipa": {
+    "us": "kɜːs",
+    "uk": "kɜːrs"
+  },
+  "sentences": [
+    {
+      "en": "Afterwards, they might curse and beat you, and cut off your income.",
+      "cn": "然后他也许打你骂你, 或者停止了你的供给."
+    },
+    {
+      "en": "Gilbert was cursing under his breath.",
+      "cn": "吉尔伯特在低声咒骂。"
+    },
+    {
+      "en": "He believed that someone had put a curse on the house.",
+      "cn": "他相信有人对这房子下了诅咒。"
+    },
+    {
+      "en": "He has felt an influence dwelling always upon him like a curse.",
+      "cn": "他已经感觉到有个像是诅咒的势力始终在他身边徘徊."
+    },
+    {
+      "en": "He muttered a curse at the other driver.",
+      "cn": "他低声咒骂另一位开车的人。"
+    },
+    {
+      "en": "He muttered a curse under his breath.",
+      "cn": "他低声骂了一句。"
+    },
+    {
+      "en": "He shot her an angry look and a curse.",
+      "cn": "他生气地看了她一眼，骂了一句。"
+    },
+    {
+      "en": "He's been the object of a voodoo curse.",
+      "cn": "他受到伏都教的诅咒."
+    },
+    {
+      "en": "Her beauty proved a curse.",
+      "cn": "她的美貌成了祸根."
+    },
+    {
+      "en": "His wealth proved a curse to him.",
+      "cn": "他的财富成了祸根."
+    },
+    {
+      "en": "Joanna heard him bump into the table and curse again.",
+      "cn": "乔安娜听见他撞到了桌子上，又骂骂咧咧的。"
+    },
+    {
+      "en": "Maybe there is a curse on my family.",
+      "cn": "可能我的家族受到了诅咒."
+    },
+    {
+      "en": "Summer colds are a terrible curse.",
+      "cn": "夏季感冒是极其糟糕的事。"
+    },
+    {
+      "en": "The Fore knew kuru as a curse cast by sorcerers.",
+      "cn": "弗尔族人认为,库鲁是由男巫发出的诅咒."
+    },
+    {
+      "en": "The rabbits are a curse in this part of the country.",
+      "cn": "兔子在这一带农村是一种祸害."
+    },
+    {
+      "en": "They began to curse and shout in a babble of languages.",
+      "cn": "他们开始用不同的语言叽里咕噜地谩骂吵嚷起来。"
+    },
+    {
+      "en": "They shifted and blinked and muttered, now a curse, now a comment.",
+      "cn": "他们倒换着双脚,眨着眼睛,嘀咕着, 有时咒骂, 有时议论."
+    },
+    {
+      "en": "What a curse those bollworms are!",
+      "cn": "这些棉铃虫真可恶!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cursed",
+          "tran_cn": " 被诅咒的"
+        },
+        {
+          "word": "curst",
+          "tran_cn": " 被诅咒的；爱吵架的（等于cursed）"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "cursed",
+          "tran_cn": " 诅咒（curse的过去分词）"
+        },
+        {
+          "word": "curst",
+          "tran_cn": " 诅咒；使受灾祸（curse的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "affliction",
+            "anathema",
+            "bane",
+            "burden",
+            "imprecation",
+            "trouble"
+          ],
+          "tran_cn": "咒骂;祸害;祸根"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "affliction",
+            "burden",
+            "cancer",
+            "damn",
+            "diatribe",
+            "epithet",
+            "grief",
+            "impute",
+            "swear",
+            "thunder",
+            "trouble"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "swear at",
+            "Curse of Lola"
+          ],
+          "tran_cn": "诅咒；咒骂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "swear"
+          ],
+          "tran_cn": "诅咒,咒骂"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be cursed with",
+      "tran_cn": "深受…之害；因…而遭殃"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "咒骂，咒语，祸端",
+      "tran_en": "a word or sentence used to ask God or a magical power to do something bad to someone or something"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": "诅咒,咒骂",
+      "tran_en": "to swear"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "诅咒，念咒语",
+      "tran_en": "to swear"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "curses"
+    ],
+    "third": [
+      "curses"
+    ],
+    "past": [
+      "cursed"
+    ],
+    "done": [
+      "cursed"
+    ],
+    "ing": [
+      "cursing"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "word": "deduce",
+  "ipa": {
+    "us": "dɪˈdjuːs",
+    "uk": "dɪˈduːs"
+  },
+  "sentences": [
+    {
+      "en": "Alison cleverly deduced that I was the author of the letter.",
+      "cn": "艾莉森聪明地推断出我是这封信的作者。"
+    },
+    {
+      "en": "Beyond the obviousfacts, I can deduce nothing else.",
+      "cn": "除了这些显而易见的情况以外, 我推断不出别的什么."
+    },
+    {
+      "en": "Can we deduce from your silence that you do not approve?",
+      "cn": "你保持沉默，我们是否可以据此而推断出你不赞成？"
+    },
+    {
+      "en": "Can you deduce other structure formations based on the peptide bond structure?",
+      "cn": "你可以推论其它结构的形成是基于胜肽键结构 吗 ?"
+    },
+    {
+      "en": "From the molecular formula alone , we can deduce the \" degrees of unsaturation \" in the molecule.",
+      "cn": "仅从分子式, 我们就能推断分子中的 “ 不饱和度 ”."
+    },
+    {
+      "en": "He expected to deduce new ones by mathematical means.",
+      "cn": "他期望用数学方法得出一些推论."
+    },
+    {
+      "en": "Here we will deduce the general equations of dynamics using generalized coordinates.",
+      "cn": "下面推导以广义坐标表示的动力学普遍方程的形式."
+    },
+    {
+      "en": "I imagine that you may deduce an apt moral from my tale.",
+      "cn": "我觉得你也许能从我的际遇中引出恰当的教训."
+    },
+    {
+      "en": "Let us deduce a life with the movie of colorful.",
+      "cn": "让我们用电影来演绎生活多彩."
+    },
+    {
+      "en": "Many experts deduce that there are aliens in other planets.",
+      "cn": "许多专家都推断在其他的星球上存在着太空人."
+    },
+    {
+      "en": "One can only deduce that the military are watching the situation.",
+      "cn": "我们只能推断,军队正在观望事态发展."
+    },
+    {
+      "en": "The police were able to deduce where the fugitive was hiding.",
+      "cn": "警方成功地推断出那逃亡者躲藏的地方."
+    },
+    {
+      "en": "The reason for the British bias towards airships at this stage is not hard to deduce.",
+      "cn": "弄清英国人在这个阶段如此热衷于建造飞艇的原因并不难."
+    },
+    {
+      "en": "We can deduce a conclusion from the premise.",
+      "cn": "我们可以从这个前提推出结论."
+    },
+    {
+      "en": "We will now deduce the properties of a single element.",
+      "cn": "现在我们推导单个无素的性质."
+    },
+    {
+      "en": "What do you deduce from these facts?",
+      "cn": "从这些事实你能推断出什么?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deducible",
+          "tran_cn": " 可推论的"
+        },
+        {
+          "word": "deductive",
+          "tran_cn": " 演绎的；推论的；推断的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deduction",
+          "tran_cn": " 扣除，减除；推论；减除额"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "diagnose",
+            "think"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "a",
+            "assume",
+            "conclude",
+            "figure",
+            "gather",
+            "glean",
+            "guess",
+            "have",
+            "hunch",
+            "infer",
+            "judge",
+            "presume",
+            "reason",
+            "reckon",
+            "suppose",
+            "surmise",
+            "understand"
+          ],
+          "tran_cn": "演绎,推断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "understand",
+            "reason",
+            "conclude"
+          ],
+          "tran_cn": "推论，推断；[数][计]演绎出"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deduce from",
+      "tran_cn": "推断；从…得出结论"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "推断，演绎",
+      "tran_en": "to use the knowledge and information you have in order to understand something or form an opinion about it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 推论， 推断， 演绎",
+      "tran_en": "to use the knowledge and information you have in order to understand something or form an opinion about it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "deduces"
+    ],
+    "past": [
+      "deduced"
+    ],
+    "done": [
+      "deduced"
+    ],
+    "ing": [
+      "deducing"
+    ],
+    "adj": [
+      "deducible"
+    ]
+  }
+}

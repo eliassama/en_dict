@@ -1,0 +1,174 @@
+{
+  "word": "computerize",
+  "ipa": {
+    "us": "kəmˈpju:təraɪz",
+    "uk": "kəm'pjutəraɪz"
+  },
+  "sentences": [
+    {
+      "en": "{\"COLLOINEXA\":[\"computerized information\"]}",
+      "cn": "计算机储存的信息"
+    },
+    {
+      "en": "a computerized database",
+      "cn": "计算机化的数据库"
+    },
+    {
+      "en": "a computerized system for compiling the weekly charts of record sales",
+      "cn": "编制每周唱片销售榜的计算机化系统"
+    },
+    {
+      "en": "a scheme to computerize the library service",
+      "cn": "使图书馆服务计算机化的方案"
+    },
+    {
+      "en": "Many hospitals say they simply can't afford to computerize.",
+      "cn": "很多医院说他们根本没资金实现计算机化。"
+    },
+    {
+      "en": "The firm decided to computerize its wages department.",
+      "cn": "公司决定用电脑管理发薪部门的工作."
+    },
+    {
+      "en": "The firm has decided to computerize its wages department.",
+      "cn": "公司已决定在工资科实行电脑操作."
+    },
+    {
+      "en": "With on the job training the workers train on the new computerize machines.",
+      "cn": "在职训练是在电脑化设备前训练职工."
+    },
+    {
+      "en": "You are going to computerize the entire production line?",
+      "cn": "你是说将生产线设备电脑化?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "computable",
+          "tran_cn": " 可计算的"
+        },
+        {
+          "word": "computational",
+          "tran_cn": " 计算的"
+        },
+        {
+          "word": "computerised",
+          "tran_cn": " 电脑化的；计算化的"
+        },
+        {
+          "word": "computerized",
+          "tran_cn": " 电脑的；电脑化的；用电脑处理的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "computation",
+          "tran_cn": " 估计，计算"
+        },
+        {
+          "word": "compute",
+          "tran_cn": " 计算；估计；推断"
+        },
+        {
+          "word": "computer",
+          "tran_cn": " 计算机；电脑；电子计算机"
+        },
+        {
+          "word": "computerization",
+          "tran_cn": " 电脑化；电子计算机化工作"
+        },
+        {
+          "word": "computing",
+          "tran_cn": " 计算；处理；从事电脑工作"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "computerised",
+          "tran_cn": " 使电脑化（computerise的过去分词形式）；用电脑处理"
+        },
+        {
+          "word": "computerized",
+          "tran_cn": " 用电子计算机控制（computerize的过去分词）"
+        },
+        {
+          "word": "computing",
+          "tran_cn": " 计算（compute的现在分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "compute",
+          "tran_cn": " 计算；估算；推断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "compute",
+          "tran_cn": " 计算；估算；用计算机计算"
+        },
+        {
+          "word": "computerise",
+          "tran_cn": " （英）用计算机处理；给…装备计算机（等于computerize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cybernate"
+          ],
+          "tran_cn": "使电脑化；使计算机化；用电脑处理"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使计算机化，用计算机储存"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 使计算机化； 用计算机做； 用计算机储存",
+      "tran_en": "to use a computer to control the way something is done, to store information etc"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "computerizes"
+    ],
+    "past": [
+      "computerized"
+    ],
+    "done": [
+      "computerized"
+    ],
+    "ing": [
+      "computerizing"
+    ],
+    "noun": [
+      "computerization"
+    ]
+  }
+}

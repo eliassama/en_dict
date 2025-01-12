@@ -1,0 +1,114 @@
+{
+  "word": "congeal",
+  "ipa": {
+    "us": "kənˈdʒi:l",
+    "uk": "kənˈdʒil"
+  },
+  "sentences": [
+    {
+      "en": "Gear lubricants may congeal and channel in cold weather.",
+      "cn": "天气冷时齿轮润滑油可能凝结而形成凹槽."
+    },
+    {
+      "en": "The blood had started to congeal.",
+      "cn": "血液已经开始凝结。"
+    },
+    {
+      "en": "The fat had slowly congealed in the pan.",
+      "cn": "油已经在平底锅里慢慢地凝结了。"
+    },
+    {
+      "en": "Water can congeal to be ice, sweat can congeal to be resplendence.",
+      "cn": "人生格言水凝固成冰, 汗水凝固成辉煌!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "congealer",
+          "tran_cn": " 冷藏器"
+        },
+        {
+          "word": "congealment",
+          "tran_cn": " 冻结；凝结"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cake",
+            "chill",
+            "clot",
+            "cohere",
+            "freeze",
+            "solidify",
+            "stiffen",
+            "thicken",
+            "unite"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "concrete",
+            "set"
+          ],
+          "tran_cn": "凝结；凝固"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "clot",
+            "freeze",
+            "solidify",
+            "stiffen",
+            "thicken"
+          ],
+          "tran_cn": "冻结"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "(使)冻结, (使)凝结",
+      "tran_en": "if a liquid such as blood congeals, it becomes thick or solid"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "使凝结，冻结，（指血）凝结"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "congeals"
+    ],
+    "past": [
+      "congealed"
+    ],
+    "done": [
+      "congealed"
+    ],
+    "ing": [
+      "congealing"
+    ]
+  }
+}

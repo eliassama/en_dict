@@ -1,0 +1,82 @@
+{
+  "word": "cozen",
+  "ipa": {
+    "us": "'kʌzn",
+    "uk": "ˈkʌzən"
+  },
+  "sentences": [
+    {
+      "en": "Call me cousin, but cozen me not.",
+      "cn": "可以亲我但不要骗我."
+    },
+    {
+      "en": "The pretty child could cozen anything out of his old grandfather.",
+      "cn": "那可爱的小孩能从他老祖父那儿骗取任何东西."
+    },
+    {
+      "en": "What devil was 't that thus hath cozen'd you at hoodman-blind?",
+      "cn": "是什么魔鬼如此欺骗了你这个瞎眼的女人？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cozenage",
+          "tran_cn": " 欺骗；哄骗；瞒骗"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "defraud"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "kid",
+            "pull a fast one"
+          ],
+          "tran_cn": "瞒；欺骗"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "sell",
+            "fox"
+          ],
+          "tran_cn": "瞒；欺骗"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "欺骗, 瞒",
+      "tran_en": "to trick or deceive someone"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<文>欺骗，骗取，诈骗"
+    }
+  ],
+  "exchange": {}
+}

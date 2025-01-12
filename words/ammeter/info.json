@@ -1,0 +1,105 @@
+{
+  "word": "ammeter",
+  "ipa": {
+    "us": "ˈæmi:tə(r)",
+    "uk": "ˈæmˌmitɚ"
+  },
+  "sentences": [
+    {
+      "en": "A shunt ammeter can be modeled as a voltmeter with a resistor across the input.",
+      "cn": "分流型安培计可以看成是在其输入端跨接了电阻器的电压表。"
+    },
+    {
+      "en": "A voltammeter is consisted of a voltmeter and an ammeter.",
+      "cn": "伏安计是由伏特表和安培表组成的."
+    },
+    {
+      "en": "All the current flowing in the circuit must pass through the ammeter.",
+      "cn": "所有流过电路的电流必须流过电流表."
+    },
+    {
+      "en": "Also, the resistor limits the AC gain of the feedback ammeter.",
+      "cn": "此外, 该电阻器还限制回馈安培表的交流增益."
+    },
+    {
+      "en": "Ammeter, voltmeter, bridge and similar common methods are typical equipment types.",
+      "cn": "电流表 、 电压表 、 电桥以及类似的常见仪器都属于常用的设备."
+    },
+    {
+      "en": "B - Intelligent Power Measurement voltmeter, ammeter, and more detailed kinetic measurement table code!",
+      "cn": "智能电力测量电压表, 电流表, 多动能测量表程序代码详细!"
+    },
+    {
+      "en": "B - Intelligent Power Measurement voltmeter, ammeter, and more kinetic energy measurement table code?",
+      "cn": "智能电力测量电压表, 电流表, 多动能测量表程序代码?"
+    },
+    {
+      "en": "Be able to operate multimeter , pressure - gauge , ammeter, and other related measuring equipment.",
+      "cn": "能够使用万用表, 电表等其他测量仪器."
+    },
+    {
+      "en": "Do not use ammeter in circuits with more than 32 V present.",
+      "cn": "不得在电压不要超过32V的电路上测试电流."
+    },
+    {
+      "en": "He was very attentive to the ammeter.",
+      "cn": "他十分经心在意地望着电流计."
+    },
+    {
+      "en": "If the component or material breaks down, all the voltage would be applied to the ammeter's input, possibly destroying it.",
+      "cn": "如果元件或材料发生击穿，全部电压都会加到安培计的输入端，从而可能将其损坏。"
+    },
+    {
+      "en": "Make sure that the dc ammeter indication increases approximately 5 amperes.",
+      "cn": "确保直流电流表指示升高大约5安培."
+    },
+    {
+      "en": "The effects of input capacitance on current measurements using a shunt type ammeter (Figure 2-49) are similar to those for voltage measurements.",
+      "cn": "使用分流型安培计（图2-49）时，输入电容对电流测量的影响与电压测量时类似。"
+    },
+    {
+      "en": "The framework and realization of a multi - user ammeter system is introduced.",
+      "cn": "介绍了一种 多用户 用电抄表系统的结构与实现."
+    },
+    {
+      "en": "The measuring range ammeter can be made by user's.",
+      "cn": "电流表量程由用户指定."
+    },
+    {
+      "en": "The most basic instruments include an ammeter, voltmeter, and ohmmeter . 2.",
+      "cn": "最基本的仪器包括安培表, 电压表和电阻表."
+    },
+    {
+      "en": "They are widely used in Camera, ammeter , flashlight and other devices.",
+      "cn": "工业包装广泛适用于摄像机 、 电表、照相机 、 手电筒、智能安防系统等."
+    },
+    {
+      "en": "What does that ammeter read?",
+      "cn": "那个电表上的度数是 多少 ?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "amperometer",
+            "rheometer"
+          ],
+          "tran_cn": "[电]安培计；电流计"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "电表，电流表",
+      "tran_en": "a piece of equipment used to measure the strength of an electric current"
+    }
+  ],
+  "exchange": {}
+}

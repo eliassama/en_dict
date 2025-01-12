@@ -1,0 +1,152 @@
+{
+  "word": "pronunciation",
+  "ipa": {
+    "us": "prəˌnʌnsiˈeɪʃn",
+    "uk": "prəˌnʌnsiˈeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "a guide to English pronunciation",
+      "cn": "英语发音指南"
+    },
+    {
+      "en": "Bad pronunciation is a liability in being a narrator.",
+      "cn": "不良的发音是做解说员的不利条件."
+    },
+    {
+      "en": "His English is not bad, but his pronunciation isn't too good.",
+      "cn": "他的英语学得不错, 只是发音还不太好."
+    },
+    {
+      "en": "His pronunciation is quite distinct.",
+      "cn": "他的发音非常清楚."
+    },
+    {
+      "en": "His pronunciation is simply terrible.",
+      "cn": "他的发音简直坏透了."
+    },
+    {
+      "en": "I thought a phonetic spelling might aid in pronunciation.",
+      "cn": "我想语音拼写可能有助于发音。"
+    },
+    {
+      "en": "My brother's English pronunciation is simply terrible.",
+      "cn": "我兄弟的英语发音实在糟透了."
+    },
+    {
+      "en": "Please correct my pronunciation.",
+      "cn": "请纠正我的发音."
+    },
+    {
+      "en": "regional variations in pronunciation",
+      "cn": "发音的地区差异"
+    },
+    {
+      "en": "She gave the word its French pronunciation.",
+      "cn": "她读出了该词的法语发音。"
+    },
+    {
+      "en": "The teacher checks for pronunciation and intonation.",
+      "cn": "老师在检查发音和语调."
+    },
+    {
+      "en": "The tongue is one of the organs for pronunciation.",
+      "cn": "舌是发音器官之一."
+    },
+    {
+      "en": "The wrong pronunciation of the word is sanctioned by public usage.",
+      "cn": "人们接受了这个字的错误读法,因为大家都这样念."
+    },
+    {
+      "en": "You must amend your pronunciation.",
+      "cn": "你必须改正你的发音."
+    },
+    {
+      "en": "You're going to have to forgive my pronunciation.",
+      "cn": "你得原谅我的发音。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pronounceable",
+          "tran_cn": " 读得出的；可发音的；可断言的"
+        },
+        {
+          "word": "pronounced",
+          "tran_cn": " 显著的；断然的；讲出来的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "pronounced",
+          "tran_cn": " 发音；宣告；断言（pronounce的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "pronounce",
+          "tran_cn": " 发音；作出判断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "pronounce",
+          "tran_cn": " 发音；宣判；断言"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "accent",
+            "articulation",
+            "attack",
+            "diction",
+            "enunciation",
+            "intonation",
+            "phonation",
+            "presentation",
+            "vocalization",
+            "voice",
+            "voicing"
+          ],
+          "tran_cn": "发音"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "correct pronunciation",
+      "tran_cn": "正音；正确发音"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "发音",
+      "tran_en": "the way in which a language or a particular word is pronounced"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "pronunciations"
+    ]
+  }
+}

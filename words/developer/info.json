@@ -1,0 +1,168 @@
+{
+  "word": "developer",
+  "ipa": {
+    "us": "dɪˈveləpə(r)",
+    "uk": "dɪˈveləpər"
+  },
+  "sentences": [
+    {
+      "en": "a Florida property developer",
+      "cn": "佛罗里达州的一家房地产开发公司"
+    },
+    {
+      "en": "As a software developer, you are your own worst enemy.",
+      "cn": "作为一名软件开发者, 我们最大的敌人不是别人,而是自己."
+    },
+    {
+      "en": "Developer , Fixer no liquid can also cause the film to the right.",
+      "cn": "不退影液的淡度不不合也能致使软片发黄."
+    },
+    {
+      "en": "He was a very late developer.",
+      "cn": "他发育相当晚。"
+    },
+    {
+      "en": "How can developer take advantage of new window 95 feature?",
+      "cn": "开发者们如何能利用Windows95新特征?"
+    },
+    {
+      "en": "John Bardeen was also co-developer of the theory of superconductivity.",
+      "cn": "约翰·巴丁也是超导电性理论的创立者之一。"
+    },
+    {
+      "en": "Or the developer will not increase the price cut?",
+      "cn": "或者开发商的降价幅度还会不会加大?"
+    },
+    {
+      "en": "Properties can check values or formats as the application developer assigns them.",
+      "cn": "当程序员在给属性赋值时,属性能检查或初始化值."
+    },
+    {
+      "en": "Readability refers to how easily the developer can comprehend the source code.",
+      "cn": "可读性是指程序源代码被人理解的难易程度."
+    },
+    {
+      "en": "Some of them may have related content as web developer review.",
+      "cn": "其中包含一些相关的内容,如网站开发者评论."
+    },
+    {
+      "en": "The developer must seek planning permission prior to commencement of work.",
+      "cn": "开发商必须在开始施工之前取得建筑许可."
+    },
+    {
+      "en": "The exposed silver halide is then converted to metallic silver by an agent in the developer.",
+      "cn": "在显影液中某种试剂的作用下,已感光的卤化银可转变成金属银."
+    },
+    {
+      "en": "The feature find in these configuration reflect the different needs of developer.",
+      "cn": "这些配置中的特征反映了开发者们的不同需要."
+    },
+    {
+      "en": "They made a deal to sell the land to a property developer.",
+      "cn": "他们双方达成协议,将这块土地卖给了地产开发商."
+    },
+    {
+      "en": "This gives the developer a link to information stored in corporate databases.",
+      "cn": "这为开发人员提供了得到存储在公司数据库中信息的一条通路."
+    },
+    {
+      "en": "Tom is a real estate developer.",
+      "cn": "汤姆是位房地产开发商."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "developed",
+          "tran_cn": " 发达的（国家或地区）；成熟的"
+        },
+        {
+          "word": "developing",
+          "tran_cn": " 发展中的"
+        },
+        {
+          "word": "developmental",
+          "tran_cn": " 发展的；启发的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "developing",
+          "tran_cn": " [摄] 显影"
+        },
+        {
+          "word": "development",
+          "tran_cn": " 发展；开发；发育；住宅小区（专指由同一开发商开发的）；[摄] 显影"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "developing",
+          "tran_cn": " 发展（develop的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "develop",
+          "tran_cn": " 发育；生长；进化；显露"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "develop",
+          "tran_cn": " 开发；进步；使成长；使显影"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "eikonogen",
+            "developing agent"
+          ],
+          "tran_cn": "开发者；[摄][试剂]显影剂"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "application developer",
+      "tran_cn": "应用程序开发员；应用发展人员"
+    },
+    {
+      "phrase": "real estate developer",
+      "tran_cn": "房地产开发商"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（产品等的）开发者，（房地产）开发商，显色剂",
+      "tran_en": "a person or company that makes money by buying land and then building houses, factories etc on it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "developers"
+    ]
+  }
+}

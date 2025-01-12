@@ -1,0 +1,182 @@
+{
+  "word": "quarry",
+  "ipa": {
+    "us": "ˈkwɒri",
+    "uk": "ˈkwɑːri"
+  },
+  "sentences": [
+    {
+      "en": "a slate quarry",
+      "cn": "板岩采石场"
+    },
+    {
+      "en": "Briefly, the hunter and his quarry glared at each other.",
+      "cn": "一时间，猎手和他的猎物四目相对。"
+    },
+    {
+      "en": "Each quarry on an average employs about 120 workers.",
+      "cn": "每座矿山平均雇佣120个工人."
+    },
+    {
+      "en": "Each sentence seems a quarry of rich meditations.",
+      "cn": "每一句话似乎都给人以许多冥思默想."
+    },
+    {
+      "en": "Even then she was certain the quarry stirred with life.",
+      "cn": "甚至在那时,她就肯定地认为,这个采石场里充满生气."
+    },
+    {
+      "en": "Good, thought Huck, they will bury it in the old quarry.",
+      "cn": "好吧, 哈克心里想, 他们会把宝箱埋在石坑里."
+    },
+    {
+      "en": "I'm waiting with my net set; somehow I'll catch my quarry.",
+      "cn": "我正张网以待, 无论如何会捕捉到猎物的."
+    },
+    {
+      "en": "Quarry tiles are a popular kitchen flooring.",
+      "cn": "缸砖是一种流行的厨房地面材料。"
+    },
+    {
+      "en": "The dogs soon flushed the quarry.",
+      "cn": "不久,狗惊起猎物."
+    },
+    {
+      "en": "The hawk descend in a vertical stoop on its quarry.",
+      "cn": "鹰向它的猎物直冲而下."
+    },
+    {
+      "en": "The hounds are getting close to their quarry.",
+      "cn": "猎狗正在接近猎物."
+    },
+    {
+      "en": "The large limestone caves are also quarried for cement.",
+      "cn": "这些大石灰岩洞也用来开采水泥原料。"
+    },
+    {
+      "en": "The policeman watched his quarry go into a bar.",
+      "cn": "警察看着他在追捕的人走进一家酒吧."
+    },
+    {
+      "en": "the site of a disused quarry",
+      "cn": "废弃的采石场"
+    },
+    {
+      "en": "The temple of Bel - Marduk was being used by builders as a quarry.",
+      "cn": "柏儿 ― 马杜克庙被建筑工人们用来作采石的场所."
+    },
+    {
+      "en": "The true dips are commonly observed in quarry faces, cuttings and cliffs etc.",
+      "cn": "在采场面, 断面和断崖等面上人们常看到真倾角."
+    },
+    {
+      "en": "The ultimate solution would appear to be transporting it back to the quarry.",
+      "cn": "看来最终的办法是将其送回矿坑内."
+    },
+    {
+      "en": "We watched the workmen quarry out a hyge block of marble.",
+      "cn": "我们看到劳工们挖出一大块大理石."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "quarrier",
+          "tran_cn": " 凿石匠；采石工人"
+        },
+        {
+          "word": "quarrying",
+          "tran_cn": " 采石"
+        },
+        {
+          "word": "quarryman",
+          "tran_cn": " 凿石匠；采石工"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "quarrying",
+          "tran_cn": " 采石（quarry的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "source",
+            "provenience"
+          ],
+          "tran_cn": "[矿业]采石场；猎物；来源"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "dig up",
+            "scoop out"
+          ],
+          "tran_cn": "挖出；努力挖掘"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "limestone quarry",
+      "tran_cn": "石灰石采矿场"
+    },
+    {
+      "phrase": "quarry bay",
+      "tran_cn": "鲗鱼涌"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "采石场，猎物，正方形，菱形，来源",
+      "tran_en": "a place where large amounts of stone or sand are dug out of the ground"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "费力地找",
+      "tran_en": "to dig stone or sand from a quarry"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "费力地找"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "挖出，努力挖掘"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "quarries"
+    ],
+    "third": [
+      "quarries"
+    ],
+    "past": [
+      "quarried"
+    ],
+    "done": [
+      "quarried"
+    ],
+    "ing": [
+      "quarrying"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "word": "unreachable",
+  "ipa": {
+    "us": "'ʌn'ri:tʃəbl",
+    "uk": "'ʌn'ritʃəbəl"
+  },
+  "sentences": [
+    {
+      "en": "A gateway timeout occurred. The server is unreachable. Retry the request.",
+      "cn": "发生了网关超时.服务器不能达到(连通). 再次尝试."
+    },
+    {
+      "en": "And invariably they get somewhere interesting that would have been unreachable via conversation and hand waving.",
+      "cn": "不可避免地,他们会得到仅仅通过谈话或挥手得不到的有趣东西."
+    },
+    {
+      "en": "ERROR: An unknown error occurred while checking for circular references and unreachable steps.",
+      "cn": "错误: 检查循环引用及不能实现的步骤时发生未知错误."
+    },
+    {
+      "en": "ERROR: Unable to allocate memory while checking for circular references and unreachable steps.",
+      "cn": "错误: 检查循环引用及不能实现的步骤时无法分配内存."
+    },
+    {
+      "en": "First, as many in the audience will agree, high technology is not necessarily unreachable and distant.",
+      "cn": "首先, 相信在座大部分朋友也会同意, 先进科技并不一定是遥不可及、难以触摸的事物."
+    },
+    {
+      "en": "How can one accept villages hidden deep and unreachable?",
+      "cn": "他怎么可能允许由村民藏在幽暗的深处?"
+    },
+    {
+      "en": "In my mind, love was something behind a tinted window, part apparition, part shadow, definitely unreachable.",
+      "cn": "在我看来, 爱情就象那有色玻璃后的某些东西, 半是幽灵, 半是阴影, 总之可望不可及."
+    },
+    {
+      "en": "Microsoft's main Web site and the download page were often unreachable.",
+      "cn": "微软的主要网站和下载页经常是不能到达的."
+    },
+    {
+      "en": "Objects that are not in the graph are unreachable from the application's roots.",
+      "cn": "不在该图表中的对象将无法从应用程序的根中访问."
+    },
+    {
+      "en": "Objects that are unmarked at the end of the mark phase are unreachable by the application (dead) because there's no path from the root set through any series of references to find them.",
+      "cn": "标记阶段最后也没有标记的对象是应用程序不可获得的对象（死对象），因为不存在从根集经过任何引用序列找到这些对象的路径。"
+    },
+    {
+      "en": "Russell said he couldn't get answers about his own treatment, and the man who once spent so much time offering care and advice was unreachable.",
+      "cn": "拉塞尔说他不能从自己的治疗中得出答案，并且这个曾经花费许多时间提供关心和建议的人是遥不可及的。"
+    },
+    {
+      "en": "The perfect love became unreachable dream.",
+      "cn": "完美的爱情成了遥不可及的梦."
+    },
+    {
+      "en": "The server may be down or unreachable.",
+      "cn": "服务器已关闭或不能到达."
+    },
+    {
+      "en": "The server may be down or unreachable. Try connecting again later.",
+      "cn": "服务器已关闭或不能到达. 请在以后重新连接."
+    },
+    {
+      "en": "They a goal is identified as unreachable and lead to a decline in motivation.",
+      "cn": "这些症状在目标被确定为遥不可及时出现,进而使得追求目标的动力减退."
+    },
+    {
+      "en": "This error occurs whenever part of an expression in your code is unreachable.",
+      "cn": "每当无法访问代码中某个表达式的一部分时,便会发生此错误."
+    },
+    {
+      "en": "To try when your arms are too weary to reach the unreachable star.",
+      "cn": "当你双臂疲惫不堪时,仍尝试要攀摘那无法碰触到的星星."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "unobtainable"
+          ],
+          "tran_cn": "不能得到的；不能达到的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "inaccessible"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不能达到的，及不到的，取不到的，不能得到的"
+    }
+  ],
+  "exchange": {}
+}

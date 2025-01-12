@@ -1,0 +1,97 @@
+{
+  "word": "enrapture",
+  "ipa": {
+    "us": "ɪnˈræptʃə(r)",
+    "uk": "ɪnˈræptʃər"
+  },
+  "sentences": [
+    {
+      "en": "...an enraptured audience.",
+      "cn": "...一场观众如痴如醉。"
+    },
+    {
+      "en": "The 20,000-strong audience listened, enraptured.",
+      "cn": "两万多名观众听得入了迷。"
+    },
+    {
+      "en": "The place at once enraptured me.",
+      "cn": "这个地方立刻把我迷住了。"
+    },
+    {
+      "en": "The starred delights will enrapture my soul to insanity.",
+      "cn": "闪耀之星的高兴会使我狂喜甚至灵魂上的疯狂。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "enraptured",
+          "tran_cn": " 狂喜的；著迷的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "enraptured",
+          "tran_cn": " 狂喜（enrapture的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "delight",
+            "thrill"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "transport",
+            "overjoy"
+          ],
+          "tran_cn": "使狂喜；使著迷"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使狂喜",
+      "tran_en": "If something or someone enraptures you, you think they are wonderful or fascinating"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使狂喜"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "enraptures"
+    ],
+    "past": [
+      "enraptured"
+    ],
+    "done": [
+      "enraptured"
+    ],
+    "ing": [
+      "enrapturing"
+    ]
+  }
+}

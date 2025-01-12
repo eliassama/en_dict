@@ -1,0 +1,82 @@
+{
+  "word": "exonerate",
+  "ipa": {
+    "us": "ɪgˈzɒnəreɪt",
+    "uk": "ɪgˈzɑnəreɪt"
+  },
+  "sentences": [
+    {
+      "en": "Nothing can exonerate her from that.",
+      "cn": "任何解释都难辞其咎."
+    },
+    {
+      "en": "The official report basically exonerated everyone.",
+      "cn": "该官方报告基本洗脱了所有人的干系。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "exonerative",
+          "tran_cn": " 免罪的；释罪的；免除的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "exoneration",
+          "tran_cn": " 免除；免罪"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "absolve",
+            "acquit",
+            "justify",
+            "pardon"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使免罪",
+      "tran_en": "to state officially that someone who has been blamed for something is not guilty"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使免罪，免除"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "exonerates"
+    ],
+    "past": [
+      "exonerated"
+    ],
+    "done": [
+      "exonerated"
+    ],
+    "ing": [
+      "exonerating"
+    ],
+    "noun": [
+      "exoneration"
+    ]
+  }
+}

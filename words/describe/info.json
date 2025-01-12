@@ -1,0 +1,212 @@
+{
+  "word": "describe",
+  "ipa": {
+    "us": "dɪˈskraɪb",
+    "uk": "dɪˈskraɪb"
+  },
+  "sentences": [
+    {
+      "en": "Another approach to the problem is described in Chapter 3.",
+      "cn": "这个问题的另一种解决方法在第三章有所阐述。"
+    },
+    {
+      "en": "Can you describe him to me?",
+      "cn": "你能向我描述一下他的样子吗？"
+    },
+    {
+      "en": "Can you describe it to me?",
+      "cn": "你能把它描述给我听 吗 ?"
+    },
+    {
+      "en": "Can you describe what you saw to [ for ] me?",
+      "cn": "你能将你看见的东西描述 给 我听 吗 ?"
+    },
+    {
+      "en": "Can you describe your son?",
+      "cn": "你能描述一下你儿子 吗 ?"
+    },
+    {
+      "en": "Even his closest allies describe him as forceful, aggressive and determined.",
+      "cn": "即使他最亲密的盟友也认为他强硬决断、咄咄逼人，不达目的誓不罢休。"
+    },
+    {
+      "en": "Globalisation is a catch-all to describe increased international trade.",
+      "cn": "“全球化”是个泛称，用以描述增进了的国际贸易。"
+    },
+    {
+      "en": "I cannot describe it, I can't find the words.",
+      "cn": "我描述不上来，我找不到合适的字眼。"
+    },
+    {
+      "en": "I hesitate to describe him as really clever.",
+      "cn": "我不愿说他真的聪明."
+    },
+    {
+      "en": "It is very difficult to describe my joy in words.",
+      "cn": "我的快乐难以用语言来形容."
+    },
+    {
+      "en": "It's hard to find enough superlatives to describe this book.",
+      "cn": "用再多的盛赞之辞也难以描述这本书。"
+    },
+    {
+      "en": "Later, she would describe his magnetism as irresistible.",
+      "cn": "她过后说起时会形容他的魅力难以抵挡。"
+    },
+    {
+      "en": "Official handouts describe the Emperor as \"particularly noted as a scholar\".",
+      "cn": "官方印发的材料将皇帝描述为“尤以学识渊博而著称”。"
+    },
+    {
+      "en": "Researchers describe it as an enabling technology.",
+      "cn": "研究者们将其描述成一种实现性技术。"
+    },
+    {
+      "en": "The police asked her to describe the man.",
+      "cn": "警察叫她描述一下那名男子。"
+    },
+    {
+      "en": "The slim booklets describe a range of services and facilities.",
+      "cn": "这些薄薄的小册子介绍了一系列服务和设施。"
+    },
+    {
+      "en": "Who'd like to describe what happened just now?",
+      "cn": "谁来描述一下刚才所发生的情形?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "describable",
+          "tran_cn": " 可记述的；可描写的"
+        },
+        {
+          "word": "described",
+          "tran_cn": " 描述的"
+        },
+        {
+          "word": "descriptive",
+          "tran_cn": " 描写的，叙述的；描写性的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "descriptively",
+          "tran_cn": " 叙述地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "description",
+          "tran_cn": " 描述，描写；类型；说明书"
+        },
+        {
+          "word": "descriptivism",
+          "tran_cn": " 描写主义；描述主义；描述论"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "described",
+          "tran_cn": " 描述，描写（describe的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "characterize",
+            "define",
+            "depict",
+            "explain",
+            "express",
+            "formulate",
+            "narrate",
+            "paint",
+            "picture",
+            "portray",
+            "qualify",
+            "report",
+            "represent",
+            "specify",
+            "tell"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "characterize",
+            "define",
+            "delineate",
+            "depict",
+            "paint",
+            "picture",
+            "portray",
+            "represent",
+            "tell"
+          ],
+          "tran_cn": "描绘,叙述;形容"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "describe as",
+      "tran_cn": "v. 描述为"
+    },
+    {
+      "phrase": "describe with",
+      "tran_cn": "用…描述"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "描述，把…称为，做…运动，形成…形状，认为，描画",
+      "tran_en": "to say what something or someone is like by giving details about them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 形容； 描写； 画出",
+      "tran_en": "to say what something or someone is like by giving details about them"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "describes"
+    ],
+    "past": [
+      "described"
+    ],
+    "done": [
+      "described"
+    ],
+    "ing": [
+      "describing"
+    ],
+    "adj": [
+      "describable"
+    ]
+  }
+}

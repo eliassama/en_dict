@@ -1,0 +1,95 @@
+{
+  "word": "filibuster",
+  "ipa": {
+    "us": "ˈfɪlɪbʌstə(r)",
+    "uk": "ˈfɪləˌbʌstɚ"
+  },
+  "sentences": [
+    {
+      "en": "A group of senators plans to filibuster a measure that would permit drilling in Alaska.",
+      "cn": "参议员们试图阻挠一项允许在阿拉斯加州钻探石油的议案获得通过。"
+    },
+    {
+      "en": "Opponents of the bill tried to filibuster its final stages.",
+      "cn": "反对者发表长篇大论，试图阻挠议案的最终通过。"
+    },
+    {
+      "en": "Senator Seymour has threatened a filibuster to block the bill.",
+      "cn": "参议员西摩威胁说要发表长篇演说来阻挠议案通过。"
+    },
+    {
+      "en": "They simply threatened to filibuster until the Senate adjourns.",
+      "cn": "他们仅威胁说要发动抗争直到参议院休会."
+    },
+    {
+      "en": "We could not prolong a filibuster indefinitely.",
+      "cn": "我们不能无限期地延长抗争."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "filibusterer",
+          "tran_cn": " （美）阻挠议事的议员；暴民；海盗"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "corsair",
+            "sea wolf"
+          ],
+          "tran_cn": "海盗；暴兵，掠夺兵；阻挠议事的议员；阻挠议事的行动"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "impede",
+            "pirate",
+            "speech"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "prey upon",
+            "pillage"
+          ],
+          "tran_cn": "掠夺；阻饶议事"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[史]掠夺兵，暴兵，海盗，阻挠议事的议员，会议妨碍行为"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "阻碍议案通过"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "filibusters"
+    ]
+  }
+}

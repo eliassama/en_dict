@@ -1,0 +1,256 @@
+{
+  "word": "windy",
+  "ipa": {
+    "us": "ˈwɪndi",
+    "uk": "ˈwɪndi"
+  },
+  "sentences": [
+    {
+      "en": "a cold, windy day",
+      "cn": "一个寒冷的大风天"
+    },
+    {
+      "en": "a windy hillside",
+      "cn": "当风的山坡"
+    },
+    {
+      "en": "He keeps up his long - distance running whether it's windy or snowy.",
+      "cn": "刮风也罢,下雪也罢,他都坚持 长跑."
+    },
+    {
+      "en": "It is windy today.",
+      "cn": "今天风大."
+    },
+    {
+      "en": "It isn't half windy today!",
+      "cn": "今天风很大!"
+    },
+    {
+      "en": "It was a windy and moonless night.",
+      "cn": "那晚风大,月也黑."
+    },
+    {
+      "en": "It was a windy night.",
+      "cn": "那是个有风的夜晚."
+    },
+    {
+      "en": "It was so windy my umbrella turned inside out.",
+      "cn": "风很大,把我的伞吹翻了."
+    },
+    {
+      "en": "It was so windy that the branches were scraping against the window panes.",
+      "cn": "风很大,树枝在玻璃窗上拂来拂去."
+    },
+    {
+      "en": "It was very wet and windy the day I drove over the hill to Milland.",
+      "cn": "那天风雨交加，我开车翻过小山去米兰德。"
+    },
+    {
+      "en": "It was windy and Jake felt cold.",
+      "cn": "风很大，杰克觉得很冷。"
+    },
+    {
+      "en": "It's been very windy these last few days.",
+      "cn": "这几天净刮大风."
+    },
+    {
+      "en": "It’s too windy for a picnic.",
+      "cn": "风太大，不适合野餐。"
+    },
+    {
+      "en": "It's very windy and dusty here in winter.",
+      "cn": "这里冬天风沙很大."
+    },
+    {
+      "en": "One spring it was very windy and dusty here.",
+      "cn": "有一年春天这里风沙很大."
+    },
+    {
+      "en": "The night was windy and flew on black wings.",
+      "cn": "夜晚风很大,就象鼓着漆黑的翅膀."
+    },
+    {
+      "en": "The north of China, unlike the south, is windy in spring.",
+      "cn": "北方不比南方, 春天老刮风."
+    },
+    {
+      "en": "The touchdown happened a little late because of cloudy and windy weather.",
+      "cn": "由于多云和大风天气等原因，降落较预期有些推迟。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "winded",
+          "tran_cn": "喘气的；通风的；有风的"
+        },
+        {
+          "word": "windless",
+          "tran_cn": "无风的；平稳的"
+        },
+        {
+          "word": "windward",
+          "tran_cn": "上风的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "windward",
+          "tran_cn": "迎风"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "wind",
+          "tran_cn": "风；呼吸；气味；卷绕"
+        },
+        {
+          "word": "windage",
+          "tran_cn": "偏差（子弹因风而生的）；[电] 游隙（炮筒内径和炮弹间的空隙）；[军] 风力影响，风力修正量"
+        },
+        {
+          "word": "windiness",
+          "tran_cn": "招风；多风；有风"
+        },
+        {
+          "word": "windward",
+          "tran_cn": "上风面"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "winded",
+          "tran_cn": "缠绕；上发条；蜿蜒（wind的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "wind",
+          "tran_cn": "缠绕；上发条；吹响号角"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "wind",
+          "tran_cn": "缠绕；上发条；使弯曲；吹号角；绕住或缠住某人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "empty",
+            "meaningless",
+            "senseless",
+            "unsubstantial",
+            "useless",
+            "worthless"
+          ],
+          "tran_cn": "不现实的,无意义的"
+        },
+        {
+          "words": [
+            "effusive",
+            "fluent",
+            "glib",
+            "long-tongued",
+            "long-winded",
+            "mouthy",
+            "prolix",
+            "talkative",
+            "verbose",
+            "voluble",
+            "wordy"
+          ],
+          "tran_cn": "冗长的,健谈的,夸张的"
+        },
+        {
+          "words": [
+            "blowing",
+            "blowy",
+            "blusterous",
+            "blustery",
+            "breezy",
+            "cyclonic",
+            "drafty",
+            "gusting",
+            "gusty",
+            "stormy",
+            "tempestuous",
+            "turbulent",
+            "violent",
+            "wind-whipped",
+            "windswept"
+          ],
+          "tran_cn": "有风的,暴风雨的,"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "gabby"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "the Windy City",
+      "tran_cn": "风城（芝加哥的别称）"
+    },
+    {
+      "phrase": "windy city",
+      "tran_cn": "风之城（美国城市芝加哥的别称）"
+    },
+    {
+      "phrase": "windy day",
+      "tran_cn": "有风的日子；刮风的天气"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "多风的，受大风吹的",
+      "tran_en": "(of weather, etc.) with a lot of wind"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "多风的",
+      "tran_en": "if it is windy, there is a lot of wind"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "windier"
+    ],
+    "est": [
+      "windiest"
+    ]
+  }
+}

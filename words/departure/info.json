@@ -1,0 +1,267 @@
+{
+  "word": "departure",
+  "ipa": {
+    "us": "dɪˈpɑːtʃə(r)",
+    "uk": "dɪˈpɑːrtʃər"
+  },
+  "sentences": [
+    {
+      "en": "...the president's departure for Helsinki.",
+      "cn": "…总统前往赫尔辛基。"
+    },
+    {
+      "en": "a departure from the norm",
+      "cn": "一反常态"
+    },
+    {
+      "en": "D-day for my departure was set for 29th June.",
+      "cn": "我定在6月29日启程。"
+    },
+    {
+      "en": "Do you know what lies behind her sudden departure for London?",
+      "cn": "你知道她突然去伦敦的原因 吗 ?"
+    },
+    {
+      "en": "Everyone was a bit puzzled by her sudden departure.",
+      "cn": "每个人都对她的突然离开有点儿困惑不解."
+    },
+    {
+      "en": "Guests are requested to vacate their rooms by noon on the day of departure.",
+      "cn": "房客务请在离开之日的中午以前腾出房间。"
+    },
+    {
+      "en": "Her row with the MD probably hastened her departure.",
+      "cn": "她与总裁的争吵很可能加速了她的离去."
+    },
+    {
+      "en": "His departure, in fact, went almost unremarked.",
+      "cn": "他的离开实际上几乎没人注意。"
+    },
+    {
+      "en": "His sudden departure threw the office into chaos.",
+      "cn": "他的突然离去使这个部门陷入一片混乱。"
+    },
+    {
+      "en": "I saw Simon shortly before his departure for Russia.",
+      "cn": "西蒙去俄罗斯前不久我见过他。"
+    },
+    {
+      "en": "Just phone in your order three or more days prior to departure.",
+      "cn": "在出发的三天之前打电话预订即可。"
+    },
+    {
+      "en": "The approximate date of his departure is next month.",
+      "cn": "他大约在下个月动身."
+    },
+    {
+      "en": "There are several departures for New York every day.",
+      "cn": "每天有好几个班次去纽约。"
+    },
+    {
+      "en": "There was a fury of activity on the morning of their departure.",
+      "cn": "他们离开的那个早上,群情激昂."
+    },
+    {
+      "en": "They checked in their luggage and found seats in the departure lounge.",
+      "cn": "他们办完行李托运，到候机室找了座位坐下。"
+    },
+    {
+      "en": "This would inevitably involve his departure from the post of Prime Minister.",
+      "cn": "这将不可避免地导致他辞去首相一职。"
+    },
+    {
+      "en": "Trevor Steven entreated them to delay their departure.",
+      "cn": "特雷弗·史蒂文恳求他们晚点走。"
+    },
+    {
+      "en": "Within ninety minutes the ship was ready for departure.",
+      "cn": "90分钟之内轮船准备出发。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "depart",
+          "tran_cn": " 逝世的"
+        },
+        {
+          "word": "departed",
+          "tran_cn": " 过去的；死去的；以往的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "departed",
+          "tran_cn": " 死者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "departed",
+          "tran_cn": " 离去；去世（depart的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "depart",
+          "tran_cn": " 离开；出发，起程；违反；去世"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "aberration",
+            "branching",
+            "declination",
+            "deviation",
+            "difference",
+            "digression",
+            "divergence",
+            "off",
+            "straying",
+            "swerving",
+            "veering",
+            "wandering"
+          ],
+          "tran_cn": "偏移,发射,飞出"
+        },
+        {
+          "words": [
+            "adieu",
+            "along",
+            "away",
+            "embarkation",
+            "exit",
+            "exodus",
+            "going",
+            "leave",
+            "leavetaking",
+            "leaving",
+            "off",
+            "or",
+            "out",
+            "parting",
+            "running",
+            "sailing",
+            "setting",
+            "starting",
+            "take-off",
+            "withdrawal"
+          ],
+          "tran_cn": "出发,启程"
+        },
+        {
+          "words": [
+            "away",
+            "death",
+            "decease",
+            "demise",
+            "dying",
+            "on",
+            "or",
+            "passing"
+          ],
+          "tran_cn": "去世"
+        },
+        {
+          "words": [
+            "away",
+            "flight",
+            "off",
+            "retreat",
+            "running",
+            "splitting",
+            "taking"
+          ],
+          "tran_cn": "离开"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "exception",
+            "novelty"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a new departure",
+      "tran_cn": "新政策；新方针；新发展"
+    },
+    {
+      "phrase": "airport of departure",
+      "tran_cn": "始发站；始发站机场；启运机场"
+    },
+    {
+      "phrase": "angle of departure",
+      "tran_cn": "发射角；起飞角，离去角"
+    },
+    {
+      "phrase": "departure date",
+      "tran_cn": "启程日期；离开日期"
+    },
+    {
+      "phrase": "departure from",
+      "tran_cn": "离开；违反，违背"
+    },
+    {
+      "phrase": "departure gate",
+      "tran_cn": "登机口"
+    },
+    {
+      "phrase": "departure lounge",
+      "tran_cn": "候机室；启程处"
+    },
+    {
+      "phrase": "departure point",
+      "tran_cn": "出发点；起程点；起航点"
+    },
+    {
+      "phrase": "departure time",
+      "tran_cn": "出发时间；撤离时刻；起飞时刻"
+    },
+    {
+      "phrase": "point of departure",
+      "tran_cn": "出发地"
+    },
+    {
+      "phrase": "port of departure",
+      "tran_cn": "启运港；出发港"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "离开，启程，离开的飞机（或火车等），离职，违背",
+      "tran_en": "an act of leaving a place, especially at the start of a journey"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "departures"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "word": "creature",
+  "ipa": {
+    "us": "ˈkriːtʃə(r)",
+    "uk": "ˈkriːtʃər"
+  },
+  "sentences": [
+    {
+      "en": "all the living creatures in the sea",
+      "cn": "海洋中所有的生物"
+    },
+    {
+      "en": "He is a reclusive, timorous creature.",
+      "cn": "他是个离群索居、胆小羞怯的家伙。"
+    },
+    {
+      "en": "How could anyone find pleasure in hunting and killing this beautiful creature?",
+      "cn": "怎么会有人以猎杀这种美丽的动物为乐呢？"
+    },
+    {
+      "en": "I am not a vain creature.",
+      "cn": "我不是个爱慕虚荣的人。"
+    },
+    {
+      "en": "She bloomed into an utterly beautiful creature.",
+      "cn": "她出落得亭亭玉立。"
+    },
+    {
+      "en": "She was a creature of the emotions, rather than reason.",
+      "cn": "她是个感性的人，不太理性。"
+    },
+    {
+      "en": "She's charming, a sweet creature.",
+      "cn": "她很迷人，是个可人儿。"
+    },
+    {
+      "en": "Sometimes a creature uses a pair of antennae to swim.",
+      "cn": "有时某些动物使用其一对触须来游泳."
+    },
+    {
+      "en": "The creature continued to grow and fatten.",
+      "cn": "这个家伙继续长大、变肥。"
+    },
+    {
+      "en": "The creature went into its death throes.",
+      "cn": "这小生命到了临终疼痛阶段。"
+    },
+    {
+      "en": "They appreciate all the creature comforts of home.",
+      "cn": "他们喜欢家里的舒适环境。"
+    },
+    {
+      "en": "This creature had the largest eyes in the whole animal kingdom.",
+      "cn": "这种动物在整个动物界中眼睛最大."
+    },
+    {
+      "en": "This creature's fur is short, dense and silky.",
+      "cn": "这种动物的毛又短又密、丝般柔滑。"
+    },
+    {
+      "en": "This creature's tail will regenerate if it is cut off.",
+      "cn": "这种动物的尾巴如果被割掉,会再生出来."
+    },
+    {
+      "en": "This interesting and charming creature is unique to Borneo.",
+      "cn": "这种有趣迷人的动物是婆罗洲独有的。"
+    },
+    {
+      "en": "What distinguishes homo sapiens from every other living creature is the mind.",
+      "cn": "智人和其他生物的区别在于大脑。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "creative",
+          "tran_cn": " 创造性的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "creatively",
+          "tran_cn": " 创造性地；有创造力地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "creation",
+          "tran_cn": " 创造，创作；创作物，产物"
+        },
+        {
+          "word": "creationism",
+          "tran_cn": " 特别创造说；创造宇宙说"
+        },
+        {
+          "word": "creativeness",
+          "tran_cn": " 创造性；才思"
+        },
+        {
+          "word": "creativity",
+          "tran_cn": " 创造力；创造性"
+        },
+        {
+          "word": "creator",
+          "tran_cn": " 创造者；创建者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "create",
+          "tran_cn": " 创造，创作；造成"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "being",
+            "earthling",
+            "human",
+            "man",
+            "mortal",
+            "person",
+            "person-age",
+            "soul"
+          ],
+          "tran_cn": "人类"
+        },
+        {
+          "words": [
+            "animal",
+            "beast",
+            "brute",
+            "invertebrate",
+            "mammal",
+            "mammalian",
+            "quadruped",
+            "reptile",
+            "vertebrate"
+          ],
+          "tran_cn": "动物"
+        },
+        {
+          "words": [
+            "chamberlain",
+            "dependent",
+            "flunky",
+            "hanger-on",
+            "hireling",
+            "lackey",
+            "liegeman",
+            "minion",
+            "page",
+            "parasite",
+            "puppet",
+            "serf",
+            "slave",
+            "vassal"
+          ],
+          "tran_cn": "奴才,走狗"
+        },
+        {
+          "words": [
+            "brute",
+            "cur",
+            "miscreant",
+            "monster",
+            "ogre",
+            "rascal",
+            "scoundrel",
+            "wretch"
+          ],
+          "tran_cn": "恶棍,坏蛋"
+        },
+        {
+          "words": [
+            "being",
+            "entity",
+            "living",
+            "something",
+            "thing"
+          ],
+          "tran_cn": "生物,创造物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "existence",
+            "organism"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "creature comfort",
+      "tran_cn": "n. 物质享受（尤指食物）"
+    },
+    {
+      "phrase": "creature of habit",
+      "tran_cn": "信守常规者；例行公事者"
+    },
+    {
+      "phrase": "fellow creature",
+      "tran_cn": "同类动物；人类"
+    },
+    {
+      "phrase": "living creature",
+      "tran_cn": "生物；生命单位"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "生物，动物，（具有某种特征的）人，傀儡",
+      "tran_en": "anything that is living, such as an animal, fish, or insect, but not a plant"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "creatures"
+    ]
+  }
+}

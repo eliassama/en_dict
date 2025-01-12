@@ -1,0 +1,185 @@
+{
+  "word": "require",
+  "ipa": {
+    "us": "rɪˈkwaɪə(r)",
+    "uk": "rɪˈkwaɪər"
+  },
+  "sentences": [
+    {
+      "en": "Bitmapped maps require huge storage space.",
+      "cn": "位图贴图需要巨大的存储空间。"
+    },
+    {
+      "en": "Buyers might require further assurances before parting with their cash.",
+      "cn": "买方在付现之前可能要求提供进一步的担保。"
+    },
+    {
+      "en": "Campbell’s broken leg will probably require surgery.",
+      "cn": "坎贝尔的一条腿骨折，可能需要手术。"
+    },
+    {
+      "en": "Do you require full or half board?",
+      "cn": "你要全食宿还是半食宿？"
+    },
+    {
+      "en": "Good customer relations require courtesy, professionalism and effective response.",
+      "cn": "良好的客户关系需要做到礼貌、专业，并提供有效的回复。"
+    },
+    {
+      "en": "If you require further information, you should consult the registrar.",
+      "cn": "如果需要进一步了解信息，请咨询教务主任。"
+    },
+    {
+      "en": "In time these new excavations will require conservation.",
+      "cn": "这些刚发掘出来的物品需要及时保护。"
+    },
+    {
+      "en": "Larger drawings tend to require two or three exposures to cover them.",
+      "cn": "较大的图画往往需要两三张胶片才能拍下来。"
+    },
+    {
+      "en": "Most house plants require regular watering.",
+      "cn": "大多数室内盆栽植物需要定期浇水。"
+    },
+    {
+      "en": "Most mechanical devices require oil as a lubricant.",
+      "cn": "绝大多数机械装置都需要用油作为润滑剂。"
+    },
+    {
+      "en": "My job is so repetitive, it does not require much conscious thought.",
+      "cn": "我的工作重复性很强, 不需要很多有意识的思考."
+    },
+    {
+      "en": "Resolving the dispute will require a mood of conciliation on both sides.",
+      "cn": "解决这一争端需要双方都有和解的意愿。"
+    },
+    {
+      "en": "The bill failed to get the required number of votes.",
+      "cn": "法案没有得到规定的票数。"
+    },
+    {
+      "en": "The symphony does require a largish group of players.",
+      "cn": "这首交响曲确实需要为数不少的一组演奏者。"
+    },
+    {
+      "en": "These pets require a lot of care and attention.",
+      "cn": "这些宠物需要悉心照顾。"
+    },
+    {
+      "en": "True emotion ought not to require overstatement.",
+      "cn": "真实的感情不应当需要过分渲染。"
+    },
+    {
+      "en": "We should require that every student is immunized against hepatitis B.",
+      "cn": "我们应要求每个学生都注射乙肝疫苗。"
+    },
+    {
+      "en": "What’s required is a complete reorganization of the system.",
+      "cn": "需要做的是彻底整顿整个系统。"
+    },
+    {
+      "en": "You may have free passage across our territory whenever you require it.",
+      "cn": "无论你什么时候需要，都可以自由穿过我们的领地。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "required",
+          "tran_cn": " 必需的；（美）必修的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "requirement",
+          "tran_cn": " 要求；必要条件；必需品"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "required",
+          "tran_cn": " 需要（require的过去式及过去分词形式）；要求"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bind",
+            "claim",
+            "command",
+            "compel",
+            "demand",
+            "force",
+            "have",
+            "lack",
+            "necessitate",
+            "need",
+            "obligate",
+            "oblige",
+            "order",
+            "specify",
+            "take",
+            "want"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "command",
+            "demand",
+            "necessitate",
+            "need",
+            "order",
+            "want"
+          ],
+          "tran_cn": "需要"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "需要，要求，规定",
+      "tran_en": "to need something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 需要； 要求； 命令",
+      "tran_en": "to need something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "requires"
+    ],
+    "past": [
+      "required"
+    ],
+    "done": [
+      "required"
+    ],
+    "ing": [
+      "requiring"
+    ]
+  }
+}

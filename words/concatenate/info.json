@@ -1,0 +1,98 @@
+{
+  "word": "concatenate",
+  "ipa": {
+    "us": "kɒn'kætɪneɪt",
+    "uk": "kɑnˈkæt(ə)ˌneɪt"
+  },
+  "sentences": [
+    {
+      "en": "Exchange and allocating is the intermediate agency of concatenate production and consumption.",
+      "cn": "交换和分配是连结生产和消费的中间媒介."
+    },
+    {
+      "en": "For the no-arguments case, we take the sequence [0 1] and concatenate it to an expression.",
+      "cn": "对于没有参数的情况，我们获取序列 [0 1] 并将它连到一个表达式。"
+    },
+    {
+      "en": "Having a few among them is concatenate world each commerce of big haven advocate course.",
+      "cn": "其中有一些是连结世界各大港口的贸易主航线。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "concatenation",
+          "tran_cn": " 串联，连结"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "conjunctional",
+            "syndetic"
+          ],
+          "tran_cn": "[植]连结的；连锁的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "conjoin"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "link"
+          ],
+          "tran_cn": "连结；使连锁"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "连接的，联系在一起的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "连接",
+      "tran_en": "to link or join together, esp in a chain or series "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把 （一系列事件、事情等）联系起来"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "concatenates"
+    ],
+    "past": [
+      "concatenated"
+    ],
+    "done": [
+      "concatenated"
+    ],
+    "ing": [
+      "concatenating"
+    ]
+  }
+}

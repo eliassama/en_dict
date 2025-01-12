@@ -1,0 +1,76 @@
+{
+  "word": "subclass",
+  "ipa": {
+    "us": "'sʌbˌklɑ:s",
+    "uk": "'sʌbˌklɑs"
+  },
+  "sentences": [
+    {
+      "en": "Baijiang soil can he classified into alfisol class, cold alfisol subclass and albic cold luvisols class.",
+      "cn": "据此将白浆土划归淋溶土纲, 冷性淋溶亚纲,漂白冷性淋溶土土类."
+    },
+    {
+      "en": "Decorator provide a flexible alternative to subclass for extending functionality.",
+      "cn": "装饰模式提供了除子类继承外可供选择的另一种方案."
+    },
+    {
+      "en": "Dialog design and subclass of design, can be to interface development.",
+      "cn": "对话框的设计及子类化设计, 可用于界面开发."
+    },
+    {
+      "en": "Extend an existing View class or subclass with your own class.",
+      "cn": "从现有控件类或其子类扩展你自己的类."
+    },
+    {
+      "en": "Note that every LayoutParams subclass has its own syntax for setting values.",
+      "cn": "注意每个LayoutParams资料有其自己设置属性值的语法."
+    },
+    {
+      "en": "Objective To evaluate the clinical implications of IgG subclass in autoimmune hemolytic anemia ( AIHA ).",
+      "cn": "目的　研究温抗体型自身免疫性溶血性贫血IgG亚型及其临床意义."
+    },
+    {
+      "en": "The exciting factors of governing mineralization are divided into internal reduction subclass and environment reduction subclass.",
+      "cn": "热液铀矿床还原型“成矿激发因素”,按还原剂的来源分为两个亚类:内在还原亚类和环境还原亚类."
+    },
+    {
+      "en": "The subclass function then passes the message to the original window procedure.",
+      "cn": "子类化函数然后把该消息传递给原始窗口过程."
+    },
+    {
+      "en": "This paper addresses the mechanism of oil - based filleddefoamers, which are an important subclass of aqueousdefoamers.",
+      "cn": "本文着重研究油基填充消泡剂的机理, 它是含水消泡剂的一种重要的子类."
+    },
+    {
+      "en": "Type of event subclass. This data column is not populated for all event classes.",
+      "cn": "事件子类类型.对于所有事件类,此数据列均不填充."
+    },
+    {
+      "en": "You also have to answer questions like: do you allow clients to subclass from this type?",
+      "cn": "你也同时必须回答这个问题: 你是否允许客户继承这个类?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "subset"
+          ],
+          "tran_cn": "[生物]亚纲；子集"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "亚纲，子集，子类",
+      "tran_en": "a principal subdivision of a class "
+    }
+  ],
+  "exchange": {}
+}

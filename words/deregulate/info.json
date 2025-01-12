@@ -1,0 +1,58 @@
+{
+  "word": "deregulate",
+  "ipa": {
+    "us": "ˌdiːˈreɡjuleɪt",
+    "uk": "ˌdiːˈreɡjuleɪt"
+  },
+  "sentences": [
+    {
+      "en": "industries that have been deregulated",
+      "cn": "解除管制的行业"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deregulation",
+          "tran_cn": " 违反规定，反常；撤消管制规定"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "撤销对…的管制，解除控制",
+      "tran_en": "to remove government rules and controls from some types of business activity"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 撤销管制",
+      "tran_en": "to remove government rules and controls from some types of business activity"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "deregulates"
+    ],
+    "past": [
+      "deregulated"
+    ],
+    "done": [
+      "deregulated"
+    ],
+    "ing": [
+      "deregulating"
+    ],
+    "noun": [
+      "deregulation"
+    ],
+    "adj": [
+      "deregulatory"
+    ]
+  }
+}

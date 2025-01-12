@@ -1,0 +1,122 @@
+{
+  "word": "repudiation",
+  "ipa": {
+    "us": "rɪˌpju:dɪ'eɪʃn",
+    "uk": "rɪˌpjudiˈeʃən"
+  },
+  "sentences": [
+    {
+      "en": "Certainly, or the esteem blue army somewhat is obviously biased by competition total repudiation Mancheng.",
+      "cn": "当然, 以一场比赛全盘否定曼城又或推崇蓝军显然有些偏颇."
+    },
+    {
+      "en": "Datas non - repudiation is very important in the secure communication.",
+      "cn": "在安全数据的通讯中,数据发送和接收的 非 否认十分重要."
+    },
+    {
+      "en": "In general, the basic requirements for electronic commerce security include privacy, integrity, authenticity and non - repudiation.",
+      "cn": "一般情况下, 为电子商务安全的基本要求,包括保密性, 完整性, 真实性和不可抵赖性."
+    },
+    {
+      "en": "It has the properties of fairness, non - repudiation, secrecy, termination, etc.",
+      "cn": "其基本性质有:公平性 、 不可否认性 、 可终止性 、 实用性 、 高效性、机密性等."
+    },
+    {
+      "en": "Non - repudiation and accountability for e - banking transactions.",
+      "cn": "电子银行交易的不可否认与可追查责任特性."
+    },
+    {
+      "en": "Non - repudiation protocol is a special network protocol which provides non - repudiation service.",
+      "cn": "不可否认协议正是专门为了提供不可否认服务而设计的网络协议."
+    },
+    {
+      "en": "Non repudiation consists of the sender's non repudiation and receipt's non repudiation.",
+      "cn": "不可抵赖分为发送方的不可抵赖和接收方的不可抵赖."
+    },
+    {
+      "en": "Non repudiation is one of the important questions of development of electronic business system.",
+      "cn": "不可抵赖性是开发电子商务系统必须要解决的问题之一."
+    },
+    {
+      "en": "Principle 5 : Banks should use transaction authentication Methods: That promote non - repudiation and establish accountability fore - banking transactions.",
+      "cn": "原则 5: 各银行应运用交易验证方法,提升交易的不可否认性,并确立电子银行业务交易责任."
+    },
+    {
+      "en": "The non - repudiation and fairness betweenand receiver is essential in - commerce and information security field.",
+      "cn": "电子商务协议的 非 否认性与公平性问题已成为 电子商务 和信息安全领域研究的热点."
+    },
+    {
+      "en": "The realization of - business confidentiality, integrity, authenticity can not be forged and non - repudiation.",
+      "cn": "即实现 电子商务 的保密性 、 完整性 、 可鉴别性、不可伪造性和不可抵赖性."
+    },
+    {
+      "en": "There are some goals of Certified E - mail Protocol : confidentiality non - repudiation and fairness.",
+      "cn": "挂号 电子邮件 协议需要具备保密性、不可否认性及公平性."
+    },
+    {
+      "en": "This paper discusses types of non - repudiation evidence , elements non - repudiation evidence and validity non - repudiation evidence.",
+      "cn": "本文讨论了电子证据的种类, 构成成分及其有效性."
+    },
+    {
+      "en": "This plan strengthened the E - mail security because both addressor and addressee have Non - repudiation.",
+      "cn": "该方案具有发信人、收信人双方不可否认性,增强了 电子邮件 的安全性."
+    },
+    {
+      "en": "This protocol of the revenue and it offers the non - repudiation, justice and the anonymity.",
+      "cn": "同时方案具有不可否认性 、 公平性和较好的匿名性,并能有效防止用户和商家的欺诈."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "repudiate",
+          "tran_cn": " 拒绝；否定；批判；与…断绝关系；拒付"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contradiction",
+            "denial",
+            "rejection"
+          ],
+          "tran_cn": "否认，拒绝；抛弃，断绝关系"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "denial",
+            "no"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "拒绝，否认，断绝关系，抛弃"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "repudiations"
+    ],
+    "verb": [
+      "repudiate"
+    ]
+  }
+}

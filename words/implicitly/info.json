@@ -1,0 +1,121 @@
+{
+  "word": "implicitly",
+  "ipa": {
+    "us": "ɪm'plɪsɪtlɪ",
+    "uk": "ɪmˈplɪsɪtlɪ"
+  },
+  "sentences": [
+    {
+      "en": "Because struct s are implicitly sealed, they cannot be inherited.",
+      "cn": "由于结构是隐式密封的, 因此它们不能被继承."
+    },
+    {
+      "en": "Ensure that implicitly associated labels for form controls are properly positioned.",
+      "cn": "请确保表单控件的隐式关联标签放置正确."
+    },
+    {
+      "en": "Hence, traffic information about the charged road sections is implicitly collected.",
+      "cn": "因此, 有关收费路段的交通信息是含蓄地收集."
+    },
+    {
+      "en": "I can trust Mr. Somerville implicitly, I suppose?",
+      "cn": "我想, 我可以毫无保留地信任萨莫维尔先生 吧 ?"
+    },
+    {
+      "en": "I implicitly trust him.",
+      "cn": "我坚决信任他."
+    },
+    {
+      "en": "I trust him implicitly.",
+      "cn": "我绝对信任他。"
+    },
+    {
+      "en": "It does influence the calculated probabilities implicitly.",
+      "cn": "它无疑影响着计算的概率."
+    },
+    {
+      "en": "Long - string variables, for instance, are implicitly pointers, as are class variables.",
+      "cn": "例如, 长串变量就是隐式指针, 类变量也是."
+    },
+    {
+      "en": "Many verbs and many words of other kinds are implicitly causal.",
+      "cn": "许多动词和许多其他类词都蕴涵着因果关系."
+    },
+    {
+      "en": "She trusted the doctor implicitly.",
+      "cn": "她暗地很信任这位医生."
+    },
+    {
+      "en": "The hierarchy implicitly defines the multicast overlay data paths.",
+      "cn": "这个分层结构隐式的定义了覆盖层组播的数据转发路径."
+    },
+    {
+      "en": "There was something in the mind of Robert Kincaid that understood all of this, implicitly.",
+      "cn": "而罗伯特.金凯的头脑中有某种东西对这一切心领神会."
+    },
+    {
+      "en": "This short - circuiting implicitly gives the highest priority to the leftmost alternative.",
+      "cn": "这种短路行为隐式地给予最左边的选项以最高优先级."
+    },
+    {
+      "en": "Where forward markets exist, rates of interest in real terms are always implicitly established.",
+      "cn": "在有期货市场存在的地方, 实质上的利率常常已在暗中建立."
+    },
+    {
+      "en": "You promised to obey me implicitly.",
+      "cn": "你答应过要照我说的去做的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "implicative",
+          "tran_cn": " 含蓄的；连带的"
+        },
+        {
+          "word": "implicit",
+          "tran_cn": " 含蓄的；暗示的；盲从的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "furtively",
+            "clandestinely"
+          ],
+          "tran_cn": "含蓄地；暗中地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "simply"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "含蓄地，暗示地，无疑问地，无保留地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "implicit"
+    ]
+  }
+}

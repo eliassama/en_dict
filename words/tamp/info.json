@@ -1,0 +1,98 @@
+{
+  "word": "tamp",
+  "ipa": {
+    "us": "tæmp",
+    "uk": "tæmp"
+  },
+  "sentences": [
+    {
+      "en": "Administrative measures to tamp down lending to overheated sectors such as real estate were also enacted.",
+      "cn": "此外,还颁布了限制房地产等过热行业贷款的行政措施."
+    },
+    {
+      "en": "Don't forget to tamp the hole well. Tamping is as important as the hole depth.",
+      "cn": "别忘了填井, 填井和井深一样重要."
+    },
+    {
+      "en": "Tamp the coffee grinds in the container to make espresso.",
+      "cn": "在容器中捣实咖啡粉来煮浓咖啡."
+    },
+    {
+      "en": "The old man tamped down the tobacco with his thumb.",
+      "cn": "老人用大拇指把烟叶压实。"
+    },
+    {
+      "en": "Then I tamp down the soil with the back of a rake.",
+      "cn": "然后我用耙子的背将土壤拍实。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tamper",
+          "tran_cn": " 填塞者；捣棒"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "tamper",
+          "tran_cn": " 篡改；干预；损害；削弱；玩弄；贿赂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "tamper",
+          "tran_cn": " 篡改"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "stuff up",
+            "obturate"
+          ],
+          "tran_cn": "夯实，砸实；填塞"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "填塞, 夯实",
+      "tran_en": "to press or push something down by lightly hitting it several times"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "捣固，填充，（用炮泥）封炮眼口，夯实"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "tamps"
+    ],
+    "past": [
+      "tamped"
+    ],
+    "done": [
+      "tamped"
+    ],
+    "ing": [
+      "tamping"
+    ]
+  }
+}

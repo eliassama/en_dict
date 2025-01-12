@@ -1,0 +1,190 @@
+{
+  "word": "separable",
+  "ipa": {
+    "us": "ˈsepərəbl",
+    "uk": "ˈsɛpərəbəl, ˈsɛprə-"
+  },
+  "sentences": [
+    {
+      "en": "All terms and conditions of this Agreement are separable.",
+      "cn": "本协议所有的条款和协议是独立可分的."
+    },
+    {
+      "en": "Character is not separable from physical form but is governed by it.",
+      "cn": "性格和外表是分不开的，而且观其形知其性。"
+    },
+    {
+      "en": "Company's administration and internal control can't be separable.",
+      "cn": "公司治理与内部控制二者密不可分."
+    },
+    {
+      "en": "For inter prediction, the 2 - D interpolation is conducted through separable 1 - D filtering.",
+      "cn": "对于内部预测我们使用两次一维的过滤器来实现二维的过滤."
+    },
+    {
+      "en": "One should see the processes of growth in distinct and somewhat separable stages.",
+      "cn": "生长的过程应当看成是有差别的、多少可以分开的几个阶段所构成的."
+    },
+    {
+      "en": "Separable colorants are removable with neutral detergents.",
+      "cn": "色素中含有可剥离色素,应采用中性洗涤剂."
+    },
+    {
+      "en": "Separable steaming barrel and steaming plate, promising convenient use.",
+      "cn": "蒸笼与蒸盘采用分离式结构,使用更方便."
+    },
+    {
+      "en": "The lower part of the lamp is separable from the upper part.",
+      "cn": "那盏灯的下半部和上半部是可分离的."
+    },
+    {
+      "en": "The lower part of the pipe is separable from the upper part.",
+      "cn": "管子的下部可与上部分开."
+    },
+    {
+      "en": "The moral question is not entirely separable from the financial one.",
+      "cn": "道德问题和财政问题不能截然分开。"
+    },
+    {
+      "en": "Their cups are separable for easy assembling.",
+      "cn": "外圈可分离,组装容易."
+    },
+    {
+      "en": "There is no individually separable motion or power in the universe.",
+      "cn": "宇宙内不存在独立可分离的运动或力."
+    },
+    {
+      "en": "These concepts are separable.",
+      "cn": "这些概念是可以分离的."
+    },
+    {
+      "en": "This type of bearings is separable, which can only carry axial load.",
+      "cn": "是可分离型轴承, 只能承受轴向载荷."
+    },
+    {
+      "en": "We hold that the separable verbs are single valence verbs.",
+      "cn": "我们认为离合词是一价动词."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "separate",
+          "tran_cn": " 单独的；分开的"
+        },
+        {
+          "word": "separatist",
+          "tran_cn": " 分离主义者的"
+        },
+        {
+          "word": "separative",
+          "tran_cn": " 分离性的；倾向分离的；区别性的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "separably",
+          "tran_cn": " 可区分地；可分离地"
+        },
+        {
+          "word": "separately",
+          "tran_cn": " 分别地；分离地；个别地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "separability",
+          "tran_cn": " [数] 可分性，分离性"
+        },
+        {
+          "word": "separate",
+          "tran_cn": " 分开；抽印本"
+        },
+        {
+          "word": "separateness",
+          "tran_cn": " 分离；单独；分开"
+        },
+        {
+          "word": "separation",
+          "tran_cn": " 分离，分开；间隔，距离；[法] 分居；缺口"
+        },
+        {
+          "word": "separatism",
+          "tran_cn": " 分离主义"
+        },
+        {
+          "word": "separatist",
+          "tran_cn": " 分离主义者；独立派"
+        },
+        {
+          "word": "separator",
+          "tran_cn": " 分离器；[计] 分隔符"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "separate",
+          "tran_cn": " 分开；隔开；分居"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "separate",
+          "tran_cn": " 使分离；使分开；使分居"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "dissociable",
+            "demountable"
+          ],
+          "tran_cn": "[数]可分离的；可分隔的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "divisible"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可分离的，可分的",
+      "tran_en": "two things that are separable can be separated or considered separately"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "separability"
+    ]
+  }
+}

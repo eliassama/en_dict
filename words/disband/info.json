@@ -1,0 +1,127 @@
+{
+  "word": "disband",
+  "ipa": {
+    "us": "dɪsˈbænd",
+    "uk": "dɪsˈbænd"
+  },
+  "sentences": [
+    {
+      "en": "All the armed groups will be disbanded.",
+      "cn": "所有武装团体将被解散。"
+    },
+    {
+      "en": "And then the bank shall disband upon approval of the People's Bank of China.",
+      "cn": "经中国人民银行批准后解散."
+    },
+    {
+      "en": "Disband: This will disband the entire guild.",
+      "cn": "解散: 这个功能会解散整个公会."
+    },
+    {
+      "en": "In July he issued a decree ordering all unofficial armed groups in the country to disband.",
+      "cn": "他于7月份下令解散国内所有的非正式武装组织。"
+    },
+    {
+      "en": "The official trades union council voted to disband itself and re-form as a confederation.",
+      "cn": "这个官方的工会委员会投票决定解体然后重新组成联盟。"
+    },
+    {
+      "en": "When she was made to disband the force, some of its aggrieved members turned against her.",
+      "cn": "后来她被迫解散该小组, 一些愤愤不平的前组员转而反对她."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disbandment",
+          "tran_cn": " 解散；遣散"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "break",
+            "dismiss",
+            "disperse",
+            "dissolve",
+            "scatter",
+            "separate",
+            "split",
+            "up"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "dismiss",
+            "break up"
+          ],
+          "tran_cn": "解散"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "break",
+            "dismiss",
+            "disperse",
+            "dissolve",
+            "scatter",
+            "separate",
+            "split",
+            "up"
+          ],
+          "tran_cn": "解散"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "解散, 裁减",
+      "tran_en": "to stop existing as an organization, or to make something do this"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "解散，遣散"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（使）解散，散伙，解体，遣散"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disbands"
+    ],
+    "past": [
+      "disbanded"
+    ],
+    "done": [
+      "disbanded"
+    ],
+    "ing": [
+      "disbanding"
+    ],
+    "noun": [
+      "disbandment"
+    ]
+  }
+}

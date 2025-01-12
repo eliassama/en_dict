@@ -1,0 +1,175 @@
+{
+  "word": "plea",
+  "ipa": {
+    "us": "pliː",
+    "uk": "pliː"
+  },
+  "sentences": [
+    {
+      "en": "A judge accepted her plea that she was guilty of manslaughter, not murder.",
+      "cn": "她申诉说自己并非蓄意谋杀，而是过失杀人，法官接受了她的申诉。"
+    },
+    {
+      "en": "A plea bargain was offered by the state assuring her that she would not go to prison.",
+      "cn": "州方提出了一份认罪辩诉协议，保证她不会入狱。"
+    },
+    {
+      "en": "a plea for clemency",
+      "cn": "乞求开恩"
+    },
+    {
+      "en": "Caldwell made a plea for donations.",
+      "cn": "考德威尔恳求捐款。"
+    },
+    {
+      "en": "He entered a plea of \" not guilty \" to the charges filed against him.",
+      "cn": "他针对对他的指控提出 “ 无罪 ” 的抗辩."
+    },
+    {
+      "en": "He fences his doctrines with the specious plea that statesmen mustlive as the world lives.",
+      "cn": "他用似是而非的遁词为他的教义作辩护,说政治家必须象世人那样活着."
+    },
+    {
+      "en": "Her plea of guilty to manslaughter through provocation was rejected.",
+      "cn": "她因受到挑衅而过失杀人的有罪答辩被驳回。"
+    },
+    {
+      "en": "Her plea was that she did not see the signal.",
+      "cn": "她的辩解是说她没看见信号."
+    },
+    {
+      "en": "In making that plea he will breathe in vain.",
+      "cn": "他做那种恳求是白费口舌的."
+    },
+    {
+      "en": "More and more criminals will agree to plea-bargain.",
+      "cn": "越来越多的罪犯会同意接受认罪辩诉协议。"
+    },
+    {
+      "en": "No plea can be set up on the ground of ignorance.",
+      "cn": "以无知为理由而提出的抗辩是不能成立的."
+    },
+    {
+      "en": "Now the train stopped, and she was listening to his plea.",
+      "cn": "火车已经停了下来, 而她却还在听他哀求."
+    },
+    {
+      "en": "She made an impassioned plea for help.",
+      "cn": "她恳切地求助。"
+    },
+    {
+      "en": "The director of the charity made an impassioned plea for help.",
+      "cn": "慈善机构的负责人强烈请求帮助."
+    },
+    {
+      "en": "The manager will make a special plea to draft the player into his squad as a replacement.",
+      "cn": "主教练将特别要求抽调这位运动员到他的队里做替补。"
+    },
+    {
+      "en": "The naughty boy left the classroom on the plea of a headache.",
+      "cn": "那淘气的男孩借口头疼,离开了教室."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pleading",
+          "tran_cn": " 恳求的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pleading",
+          "tran_cn": " 恳求；答辩；辩论，诉状"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "pleading",
+          "tran_cn": " 辩护（plead的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "appeal",
+            "asking",
+            "petition",
+            "request"
+          ],
+          "tran_cn": "请求,恳求"
+        },
+        {
+          "words": [
+            "defense",
+            "excuse"
+          ],
+          "tran_cn": "辩护;答辩"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "apology",
+            "appeal",
+            "asking",
+            "color",
+            "conjuration",
+            "contention",
+            "defense",
+            "entreaty",
+            "excuse",
+            "invitation",
+            "petition",
+            "profession",
+            "request",
+            "supplication"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "plea bargaining",
+      "tran_cn": "n. [法]认罪求情协议"
+    },
+    {
+      "phrase": "plea for",
+      "tran_cn": "恳求，请求"
+    },
+    {
+      "phrase": "plea of tender",
+      "tran_cn": "(律)提存抗辩"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "恳求，请求，（被告或被告律师的）抗辩，答辩，借口，托辞，请愿",
+      "tran_en": "a request that is urgent or full of emotion"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "pleas"
+    ]
+  }
+}

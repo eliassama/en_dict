@@ -1,0 +1,182 @@
+{
+  "word": "borrow",
+  "ipa": {
+    "us": "ˈbɒrəʊ",
+    "uk": "ˈbɔːroʊ"
+  },
+  "sentences": [
+    {
+      "en": "\"Why don't you borrow your sister's car?\" said Cassandra stiffly.",
+      "cn": "“你为什么不借用你姐姐的车呢？”卡桑德拉生硬地说道。"
+    },
+    {
+      "en": "Can I borrow a pen please? .",
+      "cn": "我可以借支笔吗？"
+    },
+    {
+      "en": "Can I borrow a pencil? — Yes, help yourself.",
+      "cn": "我能借用一支铅笔 吗 ?——可以, 自己拿吧."
+    },
+    {
+      "en": "Can I borrow two books at a time?",
+      "cn": "我可以一次借两本书 吗 ?"
+    },
+    {
+      "en": "Can I borrow your pen for a minute?",
+      "cn": "我可以借你的笔用一下吗？"
+    },
+    {
+      "en": "Can I borrow your umbrella?",
+      "cn": "借你的伞用一下行吗？"
+    },
+    {
+      "en": "He wouldn't let me borrow his clothes.",
+      "cn": "他不愿我借他的衣服。"
+    },
+    {
+      "en": "Investors can borrow an amount equal to the property's purchase price.",
+      "cn": "投资者可以获得与房产购买价格相等的借款额。"
+    },
+    {
+      "en": "Is it okay with you if I borrow this book?",
+      "cn": "我借这本书你不在意吧?"
+    },
+    {
+      "en": "Most people here cannot borrow from banks because they lack collateral.",
+      "cn": "由于拿不出东西作为抵押，这里大部分人无法从银行贷款。"
+    },
+    {
+      "en": "Of course he would be ashamed to borrow often.",
+      "cn": "当然,常常向人借钱他自己也会惭愧的."
+    },
+    {
+      "en": "She permitted me to borrow the book.",
+      "cn": "她允许我借那本书."
+    },
+    {
+      "en": "She used to borrow money from her friends.",
+      "cn": "她常向她的朋友们借钱."
+    },
+    {
+      "en": "The axe go to the wood where it borrow its helve.",
+      "cn": "斧头伐木不畏缩,尽管斧柄木头做."
+    },
+    {
+      "en": "They borrowed heavily (=  borrowed a lot of money  ) from the bank to start their new business.",
+      "cn": "他们向银行贷了巨款来创办新公司。"
+    },
+    {
+      "en": "We can not borrow money during the present credIt'squeeze.",
+      "cn": "在银根紧的时候,我们借不出钱来."
+    },
+    {
+      "en": "You can borrow this dictionary from the library.",
+      "cn": "你可以从图书馆借到这本字典."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "borrower",
+          "tran_cn": " 剽窃者，借用人"
+        },
+        {
+          "word": "borrowing",
+          "tran_cn": " 借款；借用"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "borrowing",
+          "tran_cn": " 借入；采用（borrow的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "take",
+            "touch"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "take"
+          ],
+          "tran_cn": "借用;采用"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ability to borrow",
+      "tran_cn": "借款能力；借债能力"
+    },
+    {
+      "phrase": "be (living) on borrowed time",
+      "tran_cn": "生命意外延长的时间；比预期稍长的有限时间"
+    },
+    {
+      "phrase": "borrow from",
+      "tran_cn": "向……借"
+    },
+    {
+      "phrase": "borrow ideas from",
+      "tran_cn": "借鉴"
+    },
+    {
+      "phrase": "borrow money",
+      "tran_cn": "借钱；借债"
+    },
+    {
+      "phrase": "borrow trouble",
+      "tran_cn": "自找麻烦：采取一个可能会产生负面效果的不必要的行动"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "(Borrow)人名；(英)博罗"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "借，贷，借用，引用",
+      "tran_en": "to use something that belongs to someone else and that you must give back to them later"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 借， 借入； 采用",
+      "tran_en": "to use something that belongs to someone else and that you must give back to them later"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "borrows"
+    ],
+    "past": [
+      "borrowed"
+    ],
+    "done": [
+      "borrowed"
+    ],
+    "ing": [
+      "borrowing"
+    ]
+  }
+}

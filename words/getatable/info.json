@@ -1,0 +1,97 @@
+{
+  "word": "getatable",
+  "ipa": {
+    "us": "get'ætəbl",
+    "uk": "get'ætəbəl"
+  },
+  "sentences": [
+    {
+      "en": "Both oil and coal are there but not in getatable locations.",
+      "cn": "那里蕴藏着油和煤,但其地点很难进入."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "gettable",
+          "tran_cn": " 能得到的；可以获得的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "get",
+          "tran_cn": " 生殖；幼兽"
+        },
+        {
+          "word": "getting",
+          "tran_cn": " 获得；采煤，采掘"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "getting",
+          "tran_cn": " 获得；了解（get的现在分词）；抓住"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "get",
+          "tran_cn": " 成为；变得；到达"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "get",
+          "tran_cn": " 使得；获得；受到；变成"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "approachable",
+            "reachable"
+          ],
+          "tran_cn": "可接近的；可获得的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "approachable"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可接近的"
+    }
+  ],
+  "exchange": {}
+}

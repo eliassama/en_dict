@@ -1,0 +1,59 @@
+{
+  "word": "groveler",
+  "ipa": {
+    "us": "'grɒvlə",
+    "uk": "'grɒvlə"
+  },
+  "sentences": [
+    {
+      "en": "The Single Instance Storage Groveler service has been stopped.",
+      "cn": "单实例存储文件签名比较服务已经被停止."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "groveling",
+          "tran_cn": " 匍匐的；卑躬屈节的"
+        },
+        {
+          "word": "grovelling",
+          "tran_cn": " 奴颜婢膝的；卑下的；卑躬屈节的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "groveling",
+          "tran_cn": " （在卑屈、恐惧等时）匍匐；卑躬屈膝（grovel的ing形式）"
+        },
+        {
+          "word": "grovelling",
+          "tran_cn": " 趴在地上；匍匐（grovel的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "grovel",
+          "tran_cn": " 匍匐；卑躬屈膝；趴"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "卑恭屈节的人"
+    }
+  ],
+  "exchange": {}
+}

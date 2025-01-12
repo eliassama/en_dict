@@ -1,0 +1,84 @@
+{
+  "word": "aviate",
+  "ipa": {
+    "us": "'eɪvɪeɪt",
+    "uk": "'eɪvɪeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Aviate your plane in the times of WWII.",
+      "cn": "在二战时期驾驶你的飞机遨游。"
+    },
+    {
+      "en": "There is long-distance medical system in the boat, aviate board has near one thousand square meters , can help many model copters rise and drop.",
+      "cn": "飞行甲板面积近千平方米，可供多种型号的直升机起降；"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "aviation",
+          "tran_cn": " 航空；飞行术；飞机制造业"
+        },
+        {
+          "word": "aviator",
+          "tran_cn": " 飞行员"
+        },
+        {
+          "word": "aviatress",
+          "tran_cn": " 女飞行家"
+        },
+        {
+          "word": "aviatrix",
+          "tran_cn": " 女飞行员；女驾驶员"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "wing",
+            "to fly"
+          ],
+          "tran_cn": "飞行；驾驶飞机"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "驾驶飞机",
+      "tran_en": "to pilot or fly in an aircraft "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "驾驶飞机，乘坐飞机"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "驾驶（飞机）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "aviates"
+    ],
+    "past": [
+      "aviated"
+    ],
+    "done": [
+      "aviated"
+    ],
+    "ing": [
+      "aviating"
+    ]
+  }
+}

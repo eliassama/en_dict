@@ -1,0 +1,83 @@
+{
+  "word": "hospitalize",
+  "ipa": {
+    "us": "ˈhɒspɪtəlaɪz",
+    "uk": "ˈhɑspɪtəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Most people do not have to be hospitalized for asthma or pneumonia.",
+      "cn": "多数人不必因哮喘或肺炎住院。"
+    },
+    {
+      "en": "Smith's parents have had to hospitalize her four times with bronchitis since they moved into the trailer a year ago and they say they are sure the trailer is to blame for her illnesses.",
+      "cn": "自打他们一年前搬进拖车里住，小史密斯就有四因为患有支气管炎被送进医院，史密斯夫妇称，他们的居住环境是孩子发病的主要原因。"
+    },
+    {
+      "en": "The employee must hospitalize in the appointed hospital by the employer.",
+      "cn": "受聘方须在聘方指定的医院就医,在非指定医院就医费用自理."
+    },
+    {
+      "en": "When patients with SARS hospitalize massively, the department of nursing administration should take some measures to deploy timely, add and adjust nursing resource flexibly.",
+      "cn": "大规模收治SARS病人时医院护理部采取及时计划部署，灵活调整补充人力；"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hospital",
+          "tran_cn": " 医院"
+        },
+        {
+          "word": "hospitalisation",
+          "tran_cn": " 住院治疗（等于hospitalization）"
+        },
+        {
+          "word": "hospitalization",
+          "tran_cn": " 住院治疗；医院收容；住院保险（等于hospitalization insurance）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hospitalise",
+          "tran_cn": " 使住院；把…送进医院治疗"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "就医",
+      "tran_en": "if someone is hospitalized, they are taken into a hospital for treatment"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把…送入医院治疗，就医"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "hospitalizes"
+    ],
+    "past": [
+      "hospitalized"
+    ],
+    "done": [
+      "hospitalized"
+    ],
+    "ing": [
+      "hospitalizing"
+    ],
+    "noun": [
+      "hospitalization"
+    ]
+  }
+}

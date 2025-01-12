@@ -1,0 +1,131 @@
+{
+  "word": "benignant",
+  "ipa": {
+    "us": "bɪ'nɪɡnənt",
+    "uk": "bɪ'nɪɡnənt"
+  },
+  "sentences": [
+    {
+      "en": "General Pecken roused himself after a moment with an unctuous and benignant smile.",
+      "cn": "过了一会,佩克姆将军装出一副和蔼可亲的神情微微一笑,又活跃起来了."
+    },
+    {
+      "en": "Results Of the 23 patients, 14 cases were malignancy, 9 cases were benignant.",
+      "cn": "结果23例小肠梗阻患者中, 恶性病变14例, 良性病变9例."
+    },
+    {
+      "en": "There is a benignant simplicity about the execution of this work.",
+      "cn": "这幅画的构思与运笔柔和而简朴."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "benevolent",
+          "tran_cn": " 仁慈的；慈善的；亲切的"
+        },
+        {
+          "word": "benign",
+          "tran_cn": " 良性的；和蔼的，亲切的；吉利的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "benevolently",
+          "tran_cn": " 仁慈地；慷慨地"
+        },
+        {
+          "word": "benignantly",
+          "tran_cn": " 有益地；亲切地；仁慈地"
+        },
+        {
+          "word": "benignly",
+          "tran_cn": " 亲切地；仁慈地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "benefit",
+          "tran_cn": " 利益，好处；救济金"
+        },
+        {
+          "word": "benevolence",
+          "tran_cn": " 仁慈；善行"
+        },
+        {
+          "word": "benignancy",
+          "tran_cn": " 仁慈；良性；亲切"
+        },
+        {
+          "word": "benignity",
+          "tran_cn": " 仁慈；善举"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "benefit",
+          "tran_cn": " 受益，得益"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "benefit",
+          "tran_cn": " 有益于，对…有益"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "beneficial",
+            "helpful",
+            "useful",
+            "nice",
+            "advantageous"
+          ],
+          "tran_cn": "良性的；仁慈的；有益的；和蔼的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accommodating",
+            "benevolent",
+            "merciful"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "仁慈的，有益的，和蔼的",
+      "tran_en": "kind; gracious, as a king to his subjects "
+    }
+  ],
+  "exchange": {}
+}

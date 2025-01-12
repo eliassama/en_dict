@@ -1,0 +1,77 @@
+{
+  "word": "miscellany",
+  "ipa": {
+    "us": "mɪˈseləni",
+    "uk": "ˈmɪsəleɪni"
+  },
+  "sentences": [
+    {
+      "en": "...glass cases filled with a miscellany of objects.",
+      "cn": "...一些装满杂七杂八东西的玻璃盒子。"
+    },
+    {
+      "en": "A miscellany, an assortment, or a catalog, as of complaints, comments, or ideas.",
+      "cn": "杂集,集锦或目录, 如抱怨, 评论或观点的杂集."
+    },
+    {
+      "en": "The show was a miscellany of song and dance.",
+      "cn": "那场演出是又有歌曲又有舞蹈的混合表演."
+    },
+    {
+      "en": "The top drawer held a miscellany of foreign coins and banknotes.",
+      "cn": "最上层的抽屉装着各式各样的外国硬币和钞票。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "miscellaneous",
+          "tran_cn": " 混杂的，各种各样的；多方面的，多才多艺的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mixture",
+            "hybrid",
+            "compound"
+          ],
+          "tran_cn": "杂录，杂集；混杂；混合物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "anthology",
+            "compilation",
+            "variety"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "混合物，大杂烩，文学著作汇编",
+      "tran_en": "a group of different things"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "miscellanies"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "word": "notate",
+  "ipa": {
+    "us": "'nəʊteɪt",
+    "uk": "'noʊteɪt"
+  },
+  "sentences": [
+    {
+      "en": "The question is when and how to notate them.",
+      "cn": "问题是何时以及你如何以符号来表示它们。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "notation",
+          "tran_cn": " 符号；乐谱；注释；记号法"
+        },
+        {
+          "word": "note",
+          "tran_cn": " 笔记；音符；票据；注解；纸币；便笺；照会；调子"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "note",
+          "tran_cn": " 注意；记录；注解"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "annotate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 以符号表示"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "以符号表示，把…写成记号（或标志）",
+      "tran_en": "to write (esp music) in notation "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "notates"
+    ],
+    "past": [
+      "notated"
+    ],
+    "done": [
+      "notated"
+    ],
+    "ing": [
+      "notating"
+    ]
+  }
+}

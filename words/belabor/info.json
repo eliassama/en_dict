@@ -1,0 +1,74 @@
+{
+  "word": "belabor",
+  "ipa": {
+    "us": "bɪ'leɪbə",
+    "uk": "bɪˈlebɚ"
+  },
+  "sentences": [
+    {
+      "en": "Don't belabor the point.",
+      "cn": "别再罗嗦这事儿了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "belabour",
+          "tran_cn": " 痛打；不断辱骂和嘲弄"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "labor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "attack",
+            "light into"
+          ],
+          "tran_cn": "痛打；抨击；过度说明；反复讨论"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 过分冗长地做或说； 痛打"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "毒打一顿，责骂，就…作过度的说明，向…唠叨"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "belabors"
+    ],
+    "past": [
+      "belabored"
+    ],
+    "done": [
+      "belabored"
+    ],
+    "ing": [
+      "belaboring"
+    ]
+  }
+}

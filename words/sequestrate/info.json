@@ -1,0 +1,94 @@
+{
+  "word": "sequestrate",
+  "ipa": {
+    "us": "ˈsi:kwəstreɪt",
+    "uk": "ˈsikwɪˌstret, ˈsɛkwɪ-, sɪˈkwɛsˌtret"
+  },
+  "sentences": [
+    {
+      "en": "He tried to prevent union money from being sequestrated by the courts.",
+      "cn": "他试图阻止法院扣押工会的钱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sequestered",
+          "tran_cn": " 隐退的；偏僻的；幽静的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sequestration",
+          "tran_cn": " 隔离；扣押；退隐"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "sequestered",
+          "tran_cn": " 扣押（sequester的过去分词）；使…隐退；使…分开"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sequester",
+          "tran_cn": " 使隔绝；使隐退；没收，扣押"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "expropriate",
+            "impound"
+          ],
+          "tran_cn": "没收；扣押"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "扣押, 没收",
+      "tran_en": "to take property away from the person it belongs to because they have not paid their debts"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "没收，接收，扣押（债务人的房产等）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "sequestrates"
+    ],
+    "past": [
+      "sequestrated"
+    ],
+    "done": [
+      "sequestrated"
+    ],
+    "ing": [
+      "sequestrating"
+    ],
+    "noun": [
+      "sequestration"
+    ]
+  }
+}

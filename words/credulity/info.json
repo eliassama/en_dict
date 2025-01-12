@@ -1,0 +1,77 @@
+{
+  "word": "credulity",
+  "ipa": {
+    "us": "krɪˈdju:ləti",
+    "uk": "krɪˈduləti"
+  },
+  "sentences": [
+    {
+      "en": "Advertisers were accused of exploiting consumers’ credulity.",
+      "cn": "广告商被指责利用了客户对他们的轻信。"
+    },
+    {
+      "en": "At this point in his career, Davis making $ 65 million credulity, even if he's motivated.",
+      "cn": "在戴维斯的职业生涯的这个点上, 即便他再次能被激活, 赚的钱是令人难以相信的6500万美元."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "credulous",
+          "tran_cn": " 轻信的；因轻信而产生的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "credulously",
+          "tran_cn": " 轻信地；易被瞒地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "credulousness",
+          "tran_cn": " 老实；轻信"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "believe",
+            "blind",
+            "credulousness",
+            "faith",
+            "gullibility",
+            "gullibleness",
+            "naivety",
+            "to",
+            "unsuspiciousness",
+            "will"
+          ],
+          "tran_cn": "轻信"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "轻信，易受骗",
+      "tran_en": "willingness or ability to believe that something is true"
+    }
+  ],
+  "exchange": {}
+}

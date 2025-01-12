@@ -1,0 +1,127 @@
+{
+  "word": "wavelet",
+  "ipa": {
+    "us": "ˈweɪvlət",
+    "uk": "ˈwevlɪt"
+  },
+  "sentences": [
+    {
+      "en": "A wavelet based adaptive regularization scheme for blind image restoration is presented.",
+      "cn": "提出了一种将小波变换和自适应正则化方法相结合的盲图像复原算法."
+    },
+    {
+      "en": "An edge detection Algorithm based on lifting wavelet and morphology was proposed.",
+      "cn": "摘要提出了一种基于小波提升和形态学的图像边缘检测方法."
+    },
+    {
+      "en": "By applying wavelet analysis method to image edge detection, multi scale operator of wavelet analysis functions well for noise resisting ability and picture edge reserving.",
+      "cn": "将小波分析方法应用于图像边缘检测领域，小波分析的多尺度算子在抗噪声和保留图像边缘的能力上有比较好的效果。"
+    },
+    {
+      "en": "Finally, the eventual forecasted results are obtained through wavelet restructure.",
+      "cn": "最后, 通过小波重构得到真正的日负荷预测结果."
+    },
+    {
+      "en": "Finally, the fused image is obtained by taking inverse wavelet transform.",
+      "cn": "最后, 通过小波反演变换重构多光谱图像."
+    },
+    {
+      "en": "In this experiments, continuous and discrete wavelet transforms are applied.",
+      "cn": "在实验中, 采用了连续小波变换和离散的小波变换."
+    },
+    {
+      "en": "It introduces two main parts round wavelet transform application in harmonic detection.",
+      "cn": "从两个方面介绍了小波变换在谐波检测中的应用."
+    },
+    {
+      "en": "It is then subject to such mathematical indignities as wavelet decomposition, multi-resolution Fourier analysis, polyphase filtering and discrete cosine transformation.",
+      "cn": "接下来它还要经过一些数学处理程序，比如小波分解，多重分辨率傅立叶分析，多相过滤，离散余弦变换等。"
+    },
+    {
+      "en": "Method for pre - filter design in multi - wavelet image coding is proposed.",
+      "cn": "本文研究多小波图像编码中前 置 滤波器的设计."
+    },
+    {
+      "en": "Methodof recognising noise sources with continuous wavelet is also discussed.",
+      "cn": "探讨了采用连续小波识别压缩机噪声源的方法."
+    },
+    {
+      "en": "Speckle noise can be eliminated by nonlinear filter designed by wavelet transform.",
+      "cn": "小波非线性滤波器还可消除散斑噪声."
+    },
+    {
+      "en": "The intrinsic relationshap between the wavelet analysis and resonance cleavage is discussed.",
+      "cn": "讨论小波分析和共振解调技术之间的内在联系与应用."
+    },
+    {
+      "en": "The wavelet soft - threshold denoising method can reduce the interference effectively.",
+      "cn": "采用软阈值小波降噪法可有效减小干扰."
+    },
+    {
+      "en": "This article is to investigate biorthogonal matrix - valued wavelet packets in higher dimensions.",
+      "cn": "摘要研究高维矩阵值双正交小波包的构造及性质."
+    },
+    {
+      "en": "This is the same sound as led to the previous image, but Fischer has chosen a different type of wavelet to perform the transform and has played around with the result to produce a floral effect.",
+      "cn": "这是上幅图中同样的声音信号形成的声图，但是菲舍尔用了另外一种不同形式的小波进行变换，而且在声图上玩了一些花样，得到了这样花朵锦簇的效果。"
+    },
+    {
+      "en": "This is the same sound transformed by a different type of wavelet.",
+      "cn": "这是用上幅图中同样的声音信号经过另外一种形式的小波变换而形成的声图。"
+    },
+    {
+      "en": "This paper is to discuss the wavelet transform during processing.",
+      "cn": "目的:探讨在医学影像技术中小波变换的应用."
+    },
+    {
+      "en": "Transient signal analysis is the basis of fault detection and transient signal protection in electric power system. wavelet transform provides a cogent math tool for transient signal analysis.",
+      "cn": "暂态信号分析是电力系统故障诊断和暂态保护的基础和依据，小波变换为暂态信号分析提供了强有力的数学工具。"
+    },
+    {
+      "en": "Wavelet sample code: source code integrity, and can be used directly.",
+      "cn": "小波的代码示例: )源代码的完整性, 并可以直接使用."
+    },
+    {
+      "en": "Wavelet transform is a very useful tool of signal processing.",
+      "cn": "小波变换是用于信号多尺度表示的非常有用的工具."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "microwave"
+          ],
+          "tran_cn": "微波，小浪"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ripple"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "小浪，微波",
+      "tran_en": "Wavelets are small waves on the surface of a sea or lake"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "wavelets"
+    ]
+  }
+}

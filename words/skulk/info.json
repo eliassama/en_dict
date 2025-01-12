@@ -1,0 +1,105 @@
+{
+  "word": "skulk",
+  "ipa": {
+    "us": "skʌlk",
+    "uk": "skʌlk"
+  },
+  "sentences": [
+    {
+      "en": "It's a hard thing to skulk and starve in the heather.",
+      "cn": "躲在树林里的挨饿不是一件好受的事."
+    },
+    {
+      "en": "This spell is used frequently as people skulk about the castle or the Forbidden Forest.",
+      "cn": "这道魔咒经常被用于帮助那些在城堡或禁林中偷偷游逛的家伙."
+    },
+    {
+      "en": "You, meanwhile, will be skulking in the safety of the car.",
+      "cn": "与此同时，你会安全地藏在汽车里。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "skulker",
+          "tran_cn": " 偷懒的人；偷偷隐躲起来的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "shirker"
+          ],
+          "tran_cn": "躲藏者；逃避责任者；潜行的人或动物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "creep",
+            "hide",
+            "lurk",
+            "prowl",
+            "slink",
+            "sneak",
+            "soldier",
+            "steal"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "creep",
+            "hide",
+            "lurk",
+            "prowl",
+            "slink",
+            "sneak",
+            "steal"
+          ],
+          "tran_cn": "躲闪;逃避;潜伏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "偷偷隐躲, 偷懒"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "<贬>潜伏，偷偷摸摸地走动，鬼鬼祟祟地活动"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "skulks"
+    ],
+    "past": [
+      "skulked"
+    ],
+    "done": [
+      "skulked"
+    ],
+    "ing": [
+      "skulking"
+    ]
+  }
+}

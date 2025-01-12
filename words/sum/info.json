@@ -1,0 +1,305 @@
+{
+  "word": "sum",
+  "ipa": {
+    "us": "sʌm",
+    "uk": "sʌm"
+  },
+  "sentences": [
+    {
+      "en": "an epithet that sums up my feelings.",
+      "cn": "简洁地表达了我思想感情的形容词"
+    },
+    {
+      "en": "Columbia Pictures paid him a six-figure sum for the film rights.",
+      "cn": "哥伦比亚影业公司付给他一笔6位数的电影版权费。"
+    },
+    {
+      "en": "Even the relatively modest sum of £50,000 now seems beyond his reach.",
+      "cn": "现在即使是相对来说并不算多的5万英镑对他来说也是遥不可及的。"
+    },
+    {
+      "en": "For his first book he received the princely sum of $ 400.",
+      "cn": "他写第一本书得到了400元“巨款”."
+    },
+    {
+      "en": "He owes me a large sum of money .",
+      "cn": "他欠我一大笔钱。"
+    },
+    {
+      "en": "He owes me a large sum of money.",
+      "cn": "他欠我一大笔钱。"
+    },
+    {
+      "en": "He was paid an undisclosed sum.",
+      "cn": "他得到了一笔数目不详的钱。"
+    },
+    {
+      "en": "I was good at sums at school.",
+      "cn": "我上学时擅长算术。"
+    },
+    {
+      "en": "In sum, the two countries are now true economic partners.",
+      "cn": "总而言之，两国目前是真正的经济合作伙伴。"
+    },
+    {
+      "en": "It is a situation, in sum, devoid of logic.",
+      "cn": "总之，该情况毫无逻辑。"
+    },
+    {
+      "en": "It'll cost them the princely sum of seventy-five pounds.",
+      "cn": "这将花费他们75英镑巨款。"
+    },
+    {
+      "en": "Nothing about this sum has come to light.",
+      "cn": "关于这笔钱人们一无所知。"
+    },
+    {
+      "en": "sum up the day's news; concluded the lecture by summing up.",
+      "cn": "概括了当天的新闻；以扼要的重述结束了报告"
+    },
+    {
+      "en": "That small room contained the sum total of the family's possessions.",
+      "cn": "那个小房间放着这家人的全部家当。"
+    },
+    {
+      "en": "The doctor was prepared to do the operation for a large sum.",
+      "cn": "医生做这个手术需要收取高额费用。"
+    },
+    {
+      "en": "The guests had each paid £250, no trifling sum.",
+      "cn": "客人每位付了250英镑，可不是一笔小数目。"
+    },
+    {
+      "en": "The sum of all the angles of a triangle is 180 degrees.",
+      "cn": "三角形内角总和为180度。"
+    },
+    {
+      "en": "The sum of evidence points to the crime resting on them.",
+      "cn": "所有证据都表明该犯罪乃他们所为."
+    },
+    {
+      "en": "this interpretation does little, in sum, to add to our understanding.",
+      "cn": "总而言之，这个解释没有增进我们的理解。"
+    },
+    {
+      "en": "We have already seen the sum total of his attributes.",
+      "cn": "我们已经见识了他所有的那点儿品质。"
+    },
+    {
+      "en": "You owe a certain person a sum of money.",
+      "cn": "你欠某人一笔钱。"
+    },
+    {
+      "en": "You will have to pay the sum of the two sets of costs.",
+      "cn": "你得支付那两笔费用的总和。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sumless",
+          "tran_cn": " 无数的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "summarisation",
+          "tran_cn": " 综述；概括"
+        },
+        {
+          "word": "summation",
+          "tran_cn": " 和；[生理] 总和；合计"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "summarize",
+          "tran_cn": " 作总结；作概括"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "summarise",
+          "tran_cn": " 概括（等于summarize）；相加"
+        },
+        {
+          "word": "summarize",
+          "tran_cn": " 总结；概述"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "amount",
+            "entirety",
+            "quantity",
+            "total",
+            "whole"
+          ],
+          "tran_cn": "总数;全部"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "all",
+            "amount",
+            "entirety",
+            "lot",
+            "number",
+            "payment",
+            "quantity",
+            "total",
+            "whole"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "recapitulate",
+            "gather up"
+          ],
+          "tran_cn": "概括"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "summarize",
+            "tally up"
+          ],
+          "tran_cn": "总结；合计"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a large sum of",
+      "tran_cn": "一大笔；大量的"
+    },
+    {
+      "phrase": "check sum",
+      "tran_cn": "校验和"
+    },
+    {
+      "phrase": "dim sum",
+      "tran_cn": "（汉）点心"
+    },
+    {
+      "phrase": "direct sum",
+      "tran_cn": "[数]直和"
+    },
+    {
+      "phrase": "in sum",
+      "tran_cn": "简言之；总而言之"
+    },
+    {
+      "phrase": "lump sum",
+      "tran_cn": "总额；汇总"
+    },
+    {
+      "phrase": "lump sum payment",
+      "tran_cn": "整笔付款；一次总算，一次总付"
+    },
+    {
+      "phrase": "lump sum price",
+      "tran_cn": "混合价格；总括价格；整笔计价格"
+    },
+    {
+      "phrase": "sum insured",
+      "tran_cn": "保险金额；投保金额"
+    },
+    {
+      "phrase": "sum of money",
+      "tran_cn": "款项"
+    },
+    {
+      "phrase": "sum of squares",
+      "tran_cn": "平方和；统计表"
+    },
+    {
+      "phrase": "sum rule",
+      "tran_cn": "求和规则"
+    },
+    {
+      "phrase": "sum total",
+      "tran_cn": "总数；总计；主旨"
+    },
+    {
+      "phrase": "sum up",
+      "tran_cn": "扼要地描述或简洁地评价"
+    },
+    {
+      "phrase": "the sum and substance",
+      "tran_cn": "要旨"
+    },
+    {
+      "phrase": "total sum",
+      "tran_cn": "总数，总金额"
+    },
+    {
+      "phrase": "vector sum",
+      "tran_cn": "向量和；矢量和"
+    },
+    {
+      "phrase": "weighted sum",
+      "tran_cn": "加权和"
+    },
+    {
+      "phrase": "zero sum",
+      "tran_cn": "零和的"
+    },
+    {
+      "phrase": "zero sum game",
+      "tran_cn": "零和竞赛，零和博弈；零和对策"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "总数，金额，算术",
+      "tran_en": "an amount of money"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "概括"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 共计"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sums"
+    ]
+  }
+}

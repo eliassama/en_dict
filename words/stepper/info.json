@@ -1,0 +1,129 @@
+{
+  "word": "stepper",
+  "ipa": {
+    "us": "'stepə",
+    "uk": "'stepə"
+  },
+  "sentences": [
+    {
+      "en": "Highprecision close loop orientation control is achieved with stepper motor position feedback.",
+      "cn": "通过位置反馈,可以实现步进电机的高精度闭环定位控制."
+    },
+    {
+      "en": "It is possible to drive unipolar stepper motors with bipolar drivers.",
+      "cn": "使用多极驱动器可以驱动单极步进马达."
+    },
+    {
+      "en": "Made by L 298 chip stepper motor driver circuit.",
+      "cn": "采用L298芯片做成步进电机驱动电路."
+    },
+    {
+      "en": "MCU controlled stepper motor driver chips: A 3972, achieving 64 segments.",
+      "cn": "用单片机控制步进电机驱动芯片: A3972, 实现64细分."
+    },
+    {
+      "en": "Mount the stepper motors to the feed mechanism of machine tool.",
+      "cn": "安装步进电动机供给车床的机械装置."
+    },
+    {
+      "en": "Stepper motor control is simple, accurate positioning and so on.",
+      "cn": "步进电机具有控制简便 、 定位准确等特点."
+    },
+    {
+      "en": "Stepper motor driver circuit using mainly driven ULN 2803 chip.",
+      "cn": "驱动步进电机电路主要利用ULN2803作为驱动芯片."
+    },
+    {
+      "en": "Stepper motor drivers head the list of output devices.",
+      "cn": "步进马达驱动器在输出设备中排在首位."
+    },
+    {
+      "en": "Stepper motor import high reliability, driven, anti - oil capacity, fuel consumption Province.",
+      "cn": "进口步进电机可靠性高, 驱动力大, 抗 油污能力强, 耗油省."
+    },
+    {
+      "en": "Stepper motor is of varying load mechanism, high precision and reliability.",
+      "cn": "步进电机变负荷机构, 精度高,可靠性好."
+    },
+    {
+      "en": "Stepper motors are rated by the torque they produce.",
+      "cn": "步进马达依靠自身产生的扭矩达到额定."
+    },
+    {
+      "en": "Study on Stepper Motor Arc Stud Welding Gun and Control System.",
+      "cn": "步进式电弧螺柱焊枪及控制系统的研究."
+    },
+    {
+      "en": "The stepper driver guarantees stepper running high - efficiency and lower power loss.",
+      "cn": "步进电机驱动器保证步进电机高效率、低功耗运行."
+    },
+    {
+      "en": "Then there had been the pleasurable excitement of choosing a showy grey stepper for May's brougham.",
+      "cn": "后来为了给梅的马车选一匹体面的灰色快马,他愉快地激动了一阵."
+    },
+    {
+      "en": "This process is a breakdown of stepper motor driver chip drives A 3972.",
+      "cn": "这段程序是步进电机的细分驱动程序,驱动芯片是A3972."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "step",
+          "tran_cn": " 步，脚步；步骤；步伐；梯级"
+        },
+        {
+          "word": "stepchild",
+          "tran_cn": " 妻与前夫所生的孩子；夫与前妻所生子女；受到冷落的人或物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "step",
+          "tran_cn": " 踏，踩；走"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "step",
+          "tran_cn": " 走，迈步"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dancer"
+          ],
+          "tran_cn": "跳舞者；花很多时间参加社交活动的学生；以特殊姿态行走的人或动物；分档器"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stepper motor",
+      "tran_cn": "步进马达，步进电机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "以特殊姿态行走的人或动物，跳舞者",
+      "tran_en": "a person who or animal that steps, esp a horse or a dancer "
+    }
+  ],
+  "exchange": {}
+}

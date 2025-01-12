@@ -1,0 +1,222 @@
+{
+  "word": "interchange",
+  "ipa": {
+    "us": "ˈɪntətʃeɪndʒ , ˌɪntəˈtʃeɪndʒ",
+    "uk": "ˈɪntərtʃeɪndʒ , ˌɪntərˈtʃeɪndʒ"
+  },
+  "sentences": [
+    {
+      "en": "a continuous interchange of ideas",
+      "cn": "不断的思想交流"
+    },
+    {
+      "en": "All of these values should already be set for you when you imported the project interchange file for this article.",
+      "cn": "在您导入本文中的项目交换文件时，所有这些值都应该已经设置好了。"
+    },
+    {
+      "en": "Any interchange will be governed by the conservation of energy.",
+      "cn": "任何交换过程都要服从能量守恒."
+    },
+    {
+      "en": "Continued interchange of genes will counteract the effects of selection.",
+      "cn": "连续的基因交换将抵消选择的效果."
+    },
+    {
+      "en": "For identical data difference interchange coefficients will be obtained.",
+      "cn": "对同一数据来说,将得到了不同的交换系数."
+    },
+    {
+      "en": "In fact, you can bring the results into SQL queries again if you so wish because DB2 can interchange the languages with DB2.",
+      "cn": "实际上，如果您愿意，也可以使用 SQL 查询得到同样的结果，因为在 DB2 中这两种语言可以互换。"
+    },
+    {
+      "en": "Keywords: supply chain management, inter - organizational systems, electronic data interchange, automotive industry.",
+      "cn": "关键字: 供给连锁管理, 国际组织化系统, 电子资料交换系统, 机动工业."
+    },
+    {
+      "en": "Save and export the project by using the project interchange mechanism.",
+      "cn": "通过使用项目交换机理来保存和导出项目。"
+    },
+    {
+      "en": "She likes to interchange her furnishings at home with the stock in her shop.",
+      "cn": "她想要把家里的家具与店里的存货调换一下。"
+    },
+    {
+      "en": "Terminal change to Tseung Kwan O MTR Station Public Transport Interchange.",
+      "cn": "总站迁往将军澳地铁站公共交通交汇处."
+    },
+    {
+      "en": "The discussion went over the ground already covered in the interchange of telegrams.",
+      "cn": "讨论转入往来电报中所涉及的问题."
+    },
+    {
+      "en": "The interchange of ideas aids an understanding of family dynamics.",
+      "cn": "思想的交流有助于理解家庭动态。"
+    },
+    {
+      "en": "The interchange of ideas illumines the debate.",
+      "cn": "思想的交锋使辩论熠熠生辉。"
+    },
+    {
+      "en": "The modification required is to interchange the offending column with a suitable column to the right.",
+      "cn": "需要调整的是把这引起麻烦的一列与其右边适当一列交换."
+    },
+    {
+      "en": "There is much interchange of foods between different regions.",
+      "cn": "在各个地区间食物能得以广泛地交流."
+    },
+    {
+      "en": "This is the subway interchange station.",
+      "cn": "这是地铁中转换乘站."
+    },
+    {
+      "en": "What made the meeting exciting was the interchange of ideas from different disciplines.",
+      "cn": "会议上令人兴奋的是来自不同学科的思想交流。"
+    },
+    {
+      "en": "Your task is to interchange words so that the sentence makes sense.",
+      "cn": "你们要做的就是调换单词的位置以使句子意义通顺。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interchangeable",
+          "tran_cn": " 可互换的；可交换的；可交替的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "interchangeably",
+          "tran_cn": " [数] 可交换地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interchangeableness",
+          "tran_cn": " 可互换性"
+        },
+        {
+          "word": "intercommunication",
+          "tran_cn": " 相互联系，相互沟通；互相联络"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "crossing-over",
+            "mutual exchange"
+          ],
+          "tran_cn": "[计][遗]互换；立体交叉道"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "change",
+            "exchange",
+            "substitute",
+            "switch",
+            "trade"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "exchange for",
+            "give for"
+          ],
+          "tran_cn": "[计]交换；相互交换"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "exchange for",
+            "give for"
+          ],
+          "tran_cn": "（指两人等）交换；[计][遗]互换"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data interchange",
+      "tran_cn": "数据交换"
+    },
+    {
+      "phrase": "electronic data interchange",
+      "tran_cn": "电子数据交换"
+    },
+    {
+      "phrase": "information interchange",
+      "tran_cn": "信息交换"
+    },
+    {
+      "phrase": "interchange station",
+      "tran_cn": "联运车辆交接站，交汇站；接驳点"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "交换，交替，互通式立体交叉，道路立体枢纽",
+      "tran_en": "an exchange, especially of ideas or thoughts"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（指两人等）交换；互换",
+      "tran_en": "to put each of two things in the place of the other, or to be exchanged in this way（"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "交换，相互交换"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "互换，交换，交替（位置等），使更叠发生，交替发生"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interchanges"
+    ],
+    "third": [
+      "interchanges"
+    ],
+    "past": [
+      "interchanged"
+    ],
+    "done": [
+      "interchanged"
+    ],
+    "ing": [
+      "interchanging"
+    ]
+  }
+}

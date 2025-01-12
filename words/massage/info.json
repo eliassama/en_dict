@@ -1,0 +1,195 @@
+{
+  "word": "massage",
+  "ipa": {
+    "us": "ˈmæsɑːʒ",
+    "uk": "məˈsɑːʒ"
+  },
+  "sentences": [
+    {
+      "en": "A brisk massage restores the body's vigour.",
+      "cn": "轻快的按摩能恢复体力."
+    },
+    {
+      "en": "A good massage always relaxes me.",
+      "cn": "有效的按摩总是使我放松."
+    },
+    {
+      "en": "A massage relaxed tired muscles.",
+      "cn": "按摩放松了疲劳的肌肉."
+    },
+    {
+      "en": "Alex asked me if I wanted a massage.",
+      "cn": "亚力克斯问我是否想做按摩。"
+    },
+    {
+      "en": "Alex massaged Helena’s aching back.",
+      "cn": "亚历克斯给海伦娜疼痛的背部做了推拿。"
+    },
+    {
+      "en": "He is really quite skilled in doing massage.",
+      "cn": "他的按摩技术确实不错."
+    },
+    {
+      "en": "Joan gave me a gentle neck massage .",
+      "cn": "琼轻轻地给我做了个颈部按摩。"
+    },
+    {
+      "en": "Let me massage your back for you.",
+      "cn": "我来给你按摩后背."
+    },
+    {
+      "en": "Massage helps ease the pain.",
+      "cn": "按摩有助于缓解疼痛。"
+    },
+    {
+      "en": "Massage is a wonderful antidote to stress.",
+      "cn": "按摩是舒缓压力的一剂妙方。"
+    },
+    {
+      "en": "Massage is used to relax muscles, relieve stress and improve the circulation.",
+      "cn": "按摩可以使肌肉放松，缓解压力和促进血液循环。"
+    },
+    {
+      "en": "Massage isn't a long-term cure for stress.",
+      "cn": "按摩对缓解压力并非长期有效。"
+    },
+    {
+      "en": "Massage it lightly with your fingertips.",
+      "cn": "用指尖轻轻按摩."
+    },
+    {
+      "en": "Massage the shampoo into the scalp.",
+      "cn": "通过按摩让洗发香波渗入头皮。"
+    },
+    {
+      "en": "Massage will help the pain.",
+      "cn": "按摩能减轻疼痛。"
+    },
+    {
+      "en": "Montgomery offered me a massage.",
+      "cn": "蒙哥马利主动为我推拿."
+    },
+    {
+      "en": "She was given artificial respiration and cardiac massage.",
+      "cn": "有人给她做了人工呼吸和心脏按压。"
+    },
+    {
+      "en": "They managed to revive the injured driver with cardiac massage.",
+      "cn": "他们通过心脏按压使受伤的司机苏醒了过来."
+    },
+    {
+      "en": "Why don’t you have a massage ?",
+      "cn": "你为什么不按摩一下？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "massager",
+          "tran_cn": " 按摩器；按摩师"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cheirapsis",
+            "rubdown"
+          ],
+          "tran_cn": "[临床]按摩；揉"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "knead",
+            "rub",
+            "stroke"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "knead",
+            "rub",
+            "stroke"
+          ],
+          "tran_cn": "按摩;磨擦"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "foot massage",
+      "tran_cn": "足部按摩；脚底按摩"
+    },
+    {
+      "phrase": "massage chair",
+      "tran_cn": "按摩椅"
+    },
+    {
+      "phrase": "massage oil",
+      "tran_cn": "按摩油"
+    },
+    {
+      "phrase": "massage parlor",
+      "tran_cn": "n. 按摩院；（挂按摩院招牌的）妓院"
+    },
+    {
+      "phrase": "massage someone's ego"
+    },
+    {
+      "phrase": "therapeutic massage",
+      "tran_cn": "保健按摩"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "按摩，推拿",
+      "tran_en": "the action of pressing and rubbing someone’s body with your hands, to help them relax or to reduce pain in their muscles or joints"
+    },
+    {
+      "pos": "n& vi",
+      "tran_cn": "按摩",
+      "tran_en": "the action of pressing and rubbing someone’s body with your hands, to help them relax or to reduce pain in their muscles or joints"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "按摩；推拿,用…揉擦（皮肤、头发等）,美化（事实）；虚报（数量）；粉饰",
+      "tran_en": "to press and rub someone’s body with your hands, to help them relax or to reduce pain in their muscles"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "massages"
+    ],
+    "third": [
+      "massages"
+    ],
+    "past": [
+      "massaged"
+    ],
+    "done": [
+      "massaged"
+    ],
+    "ing": [
+      "massaging"
+    ]
+  }
+}

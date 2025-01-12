@@ -1,0 +1,215 @@
+{
+  "word": "drought",
+  "ipa": {
+    "us": "draʊt",
+    "uk": "draʊt"
+  },
+  "sentences": [
+    {
+      "en": "...a country where drought and famines have killed up to two million people during the last eighteen years.",
+      "cn": "…过去18年来干旱和饥荒致死达两百万人的一个国家。"
+    },
+    {
+      "en": "And now the drought in Sudan.",
+      "cn": "现在苏丹也有旱情。"
+    },
+    {
+      "en": "Experts believe that the coming drought will be extensive.",
+      "cn": "专家们认为即将发生的旱灾将侵袭大片地区。"
+    },
+    {
+      "en": "Hundreds of sheep perished that year because of drought.",
+      "cn": "那年由于干旱,几百头羊突然死去."
+    },
+    {
+      "en": "In fact many food crops failed because of the drought.",
+      "cn": "实际上，因为干旱，很多粮食作物歉收。"
+    },
+    {
+      "en": "Money and food were sent to the impoverished drought victims.",
+      "cn": "给贫困的灾民送去了救济金和粮食."
+    },
+    {
+      "en": "soil parched by drought",
+      "cn": "旱灾造成的焦干的土壤"
+    },
+    {
+      "en": "The drought did a lot of harm to the crops.",
+      "cn": "干旱给庄稼带来许多危害."
+    },
+    {
+      "en": "The drought has severely disrupted agricultural production.",
+      "cn": "旱灾已严重影响了农业生产。"
+    },
+    {
+      "en": "The ground is as hard as stone after the drought.",
+      "cn": "长期干旱后土地硬得就像石头一样."
+    },
+    {
+      "en": "The path was dry and slithery from the drought.",
+      "cn": "小路因干旱变得又干又滑。"
+    },
+    {
+      "en": "The paucity of fruit was caused by the drought.",
+      "cn": "水果缺乏是由于干旱造成的."
+    },
+    {
+      "en": "The plants are growing in again, despite the drought.",
+      "cn": "尽管干旱, 植物又长出来了."
+    },
+    {
+      "en": "True, the drought is serious, but it can't scare us.",
+      "cn": "旱情诚然是严重的, 但它吓不倒我们."
+    },
+    {
+      "en": "two years of severe drought",
+      "cn": "两年的严重旱灾"
+    },
+    {
+      "en": "Water allotments to farmers were cut back in the drought.",
+      "cn": "在干旱时期配给农民的水量减少。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dried",
+          "tran_cn": " 干燥的；弄干了的"
+        },
+        {
+          "word": "dry",
+          "tran_cn": " 干的；口渴的；枯燥无味的；禁酒的"
+        },
+        {
+          "word": "dryish",
+          "tran_cn": " 稍干的；略近干涩的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "drily",
+          "tran_cn": " 干燥地；冷淡地；讽刺地"
+        },
+        {
+          "word": "dryly",
+          "tran_cn": " 干燥地；冷淡地；枯燥无味地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dry",
+          "tran_cn": " 干涸"
+        },
+        {
+          "word": "dryer",
+          "tran_cn": " 烘干机；[助剂] 干燥剂"
+        },
+        {
+          "word": "dryness",
+          "tran_cn": " 干燥；冷淡；干燥无味"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "dried",
+          "tran_cn": " 使干（原形是dry）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "dry",
+          "tran_cn": " 变干"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "dry",
+          "tran_cn": " 把…弄干"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "aridity",
+            "dehydration",
+            "droughtiness",
+            "dry",
+            "spell",
+            "waterlessness"
+          ],
+          "tran_cn": "干旱"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "barrenness",
+            "dearth",
+            "deficiency",
+            "depletion",
+            "insufficiency",
+            "lack",
+            "paucity",
+            "scantiness",
+            "scarceness",
+            "scarcity",
+            "shortage",
+            "want"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "drought control",
+      "tran_cn": "抗旱；防旱"
+    },
+    {
+      "phrase": "drought relief",
+      "tran_cn": "干旱救灾"
+    },
+    {
+      "phrase": "drought resistance",
+      "tran_cn": "耐旱性，抗旱性"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "久旱，旱灾",
+      "tran_en": "a long period of dry weather when there is not enough water for plants and animals to live"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "droughts"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "word": "proscribe",
+  "ipa": {
+    "us": "prəˈskraɪb",
+    "uk": "proʊˈskraɪb"
+  },
+  "sentences": [
+    {
+      "en": "The Act proscribes discrimination on the grounds of race.",
+      "cn": "这项法令禁止种族歧视。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "proscription",
+          "tran_cn": " 禁止；放逐；剥夺人权"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "inhibit"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bar",
+            "inhibit"
+          ],
+          "tran_cn": "剥夺……的公权；禁止"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 禁止",
+      "tran_en": "to officially say that something is not allowed to exist or be done"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "正式宣布（某事物）有危险或被禁止"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "proscribes"
+    ],
+    "past": [
+      "proscribed"
+    ],
+    "done": [
+      "proscribed"
+    ],
+    "ing": [
+      "proscribing"
+    ],
+    "noun": [
+      "proscription"
+    ]
+  }
+}

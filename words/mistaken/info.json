@@ -1,0 +1,175 @@
+{
+  "word": "mistaken",
+  "ipa": {
+    "us": "mɪˈsteɪkən",
+    "uk": "mɪˈsteɪkən"
+  },
+  "sentences": [
+    {
+      "en": "At first, he thought he had mistaken the address.",
+      "cn": "一开始他以为地址搞错了."
+    },
+    {
+      "en": "He seems to be mistaken in the new treatment.",
+      "cn": "他似乎对新疗法有误解."
+    },
+    {
+      "en": "He seems to have mistaken a minus for a plus.",
+      "cn": "他似乎把负号误作正号了."
+    },
+    {
+      "en": "He was mistaken for an enemy scout and badly wounded.",
+      "cn": "他被误认为是敌人的侦察兵,受了重伤."
+    },
+    {
+      "en": "He was shot in what seems to have been a case of mistaken identity .",
+      "cn": "他像是被人认错了而遭到枪击的。"
+    },
+    {
+      "en": "How could she have been mistaken about a thing like that?",
+      "cn": "像那样的事情她竟然会搞错?"
+    },
+    {
+      "en": "I had a mistaken view of what was happening.",
+      "cn": "我对当时发生的事情曾有一种错误的认识。"
+    },
+    {
+      "en": "I see I was mistaken about you.",
+      "cn": "我明白我以前错怪你了。"
+    },
+    {
+      "en": "I thought he said 12 o’clock, but I might have been mistaken.",
+      "cn": "我以为他说的是12点，但我有可能弄错了。"
+    },
+    {
+      "en": "If you thought she intended to be rude, you were mistaken.",
+      "cn": "假如你以为她故意粗鲁, 那就错了."
+    },
+    {
+      "en": "It can’t have been my car. You must be mistaken.",
+      "cn": "那不可能是我的车，你一定弄错了。"
+    },
+    {
+      "en": "It is unlikely he would have mistaken hocus-pocus for genuine knowledge.",
+      "cn": "他不可能把骗人的把戏错当成真正的知识。"
+    },
+    {
+      "en": "Let me read that over. I must have mistaken the name.",
+      "cn": "让我再读一遍, 我准是把名字搞错了."
+    },
+    {
+      "en": "Marijuana has few withdrawal effects, and this has given rise to the mistaken belief that it is not addictive.",
+      "cn": "大麻几乎没有脱瘾症状，这就让人们错误地认为它不会致瘾。"
+    },
+    {
+      "en": "O how mistaken you are!",
+      "cn": "哎呀，你可大错特错了！"
+    },
+    {
+      "en": "The teacher has a mistaken opinion of this pupil.",
+      "cn": "老师对这学生看法不正确."
+    },
+    {
+      "en": "We bought the rug in Turkey, if I’m not mistaken .",
+      "cn": "如果我没弄错的话，我们是在土耳其买的这块地毯。"
+    },
+    {
+      "en": "You are completely mistaken about Jane.",
+      "cn": "你对简的看法完全错了。"
+    },
+    {
+      "en": "You couldn't be more mistaken, Alex. You've utterly misread the situation.",
+      "cn": "亚历克斯，你真是大错特错，你对局势的判断根本不对。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mistakable",
+          "tran_cn": " 易弄错的，易误解的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "mistakenly",
+          "tran_cn": " 错误地；曲解地，被误解地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mistake",
+          "tran_cn": " 错误；误会；过失"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "mistake",
+          "tran_cn": " 弄错；误解"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mistake",
+          "tran_cn": " 弄错；误解"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "false",
+            "wrong",
+            "incorrect",
+            "improper",
+            "inaccurate"
+          ],
+          "tran_cn": "错误的；弄错的；被误解的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be mistaken for",
+      "tran_cn": "被误认为…；被误解为"
+    },
+    {
+      "phrase": "mistaken identity",
+      "tran_cn": "认错人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "搞错的，不正确的",
+      "tran_en": "a mistaken belief etc is not correct"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "弄错（mistake的过去分词）"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "mistakenly"
+    ]
+  }
+}

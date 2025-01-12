@@ -1,0 +1,96 @@
+{
+  "word": "suborn",
+  "ipa": {
+    "us": "səˈbɔ:n",
+    "uk": "səˈbɔrn"
+  },
+  "sentences": [
+    {
+      "en": "an attempt to suborn a witness",
+      "cn": "收买证人的企图"
+    },
+    {
+      "en": "Drug traders may try to suborn departing persons.",
+      "cn": "毒品商有可能试着唆使出国者."
+    },
+    {
+      "en": "He was charged with conspiracy to suborn witnesses.",
+      "cn": "他被指控阴谋收买证人作伪证."
+    },
+    {
+      "en": "The president tried to suborn false witnesses.",
+      "cn": "总统试图收买虚假证人."
+    },
+    {
+      "en": "The siloviki have shown they can squash opposition, suborn the courts and stay in charge.",
+      "cn": "“西罗维基”集团表明了他们能够压制反对意见, 收买法庭和掌控一切."
+    },
+    {
+      "en": "to suborn a witness",
+      "cn": "收买证人"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "subornation",
+          "tran_cn": " 收买"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "oil"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "set on",
+            "instigate"
+          ],
+          "tran_cn": "唆使；收买；使作伪证"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "唆使",
+      "tran_en": "to persuade someone to tell lies in a court of law or to do something else that is illegal, especially for money"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "行贿，教唆[买通]…作伪证",
+      "tran_en": "to persuade someone to tell lies in a court of law or to do something else that is illegal, especially for money"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "suborns"
+    ],
+    "past": [
+      "suborned"
+    ],
+    "done": [
+      "suborned"
+    ],
+    "ing": [
+      "suborning"
+    ]
+  }
+}

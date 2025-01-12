@@ -1,0 +1,244 @@
+{
+  "word": "halt",
+  "ipa": {
+    "us": "hɔːlt",
+    "uk": "hɔːlt"
+  },
+  "sentences": [
+    {
+      "en": "A barrage would halt the flow upstream and lift the water level.",
+      "cn": "一道拦河坝将会在上游拦住水流，抬升水位。"
+    },
+    {
+      "en": "A black Mercedes screeched to a halt beside the helicopter.",
+      "cn": "一辆黑色的梅赛德斯轿车在直升机旁嘎的一声刹住了。"
+    },
+    {
+      "en": "He came to a halt at a crossroads fifty yards further on.",
+      "cn": "他在往前50码远的十字路口停了下来。"
+    },
+    {
+      "en": "he decided to &B{call a halt} to all further discussion.",
+      "cn": "他决定要求中止进一步的讨论。"
+    },
+    {
+      "en": "He slammed on the brakes and the car juddered to a halt.",
+      "cn": "他猛踩刹车，汽车在剧烈震动中停下来。"
+    },
+    {
+      "en": "He slammed on the brakes and the car shuddered to a halt.",
+      "cn": "他猛踩刹车,车颤抖着停住了."
+    },
+    {
+      "en": "Heavy snowfalls brought traffic to a halt (= made it stop moving ).",
+      "cn": "大雪使得交通陷于停顿。"
+    },
+    {
+      "en": "Her political career came to a halt in December 1988.",
+      "cn": "她的政治生涯于1988年12月画上了句号。"
+    },
+    {
+      "en": "It's about time we called a halt to all this senseless arguing.",
+      "cn": "现在正是我们停止一切无谓争论的时候了."
+    },
+    {
+      "en": "Operating systems can be brought to a halt by a Trojan Horse.",
+      "cn": "操作系统可能会因为木马病毒的攻击而中止。"
+    },
+    {
+      "en": "Safety concerns have led them to halt work on the dam.",
+      "cn": "出于安全方面的顾虑，他们已经停止水坝的施工。"
+    },
+    {
+      "en": "She braked to a halt and switched off.",
+      "cn": "她刹车停下，然后将车熄火。"
+    },
+    {
+      "en": "The battle sputtered to a halt in mid-October.",
+      "cn": "战斗于10月中旬渐渐停了下来。"
+    },
+    {
+      "en": "The colonel ordered \"Halt!\"",
+      "cn": "上校命令道：“立定！”"
+    },
+    {
+      "en": "The elevator creaked to a halt at the ground floor.",
+      "cn": "电梯嘎吱一声停在了一层。"
+    },
+    {
+      "en": "The government has failed to halt economic decline.",
+      "cn": "政府没能阻止经济衰退。"
+    },
+    {
+      "en": "The parade halted by a busy corner.",
+      "cn": "游行队伍在一个热闹的拐角处停下了。"
+    },
+    {
+      "en": "The Pope called for a halt to the shedding of innocent blood.",
+      "cn": "教皇呼吁不要滥杀无辜。"
+    },
+    {
+      "en": "The President has called for a halt to the wave of emigration.",
+      "cn": "总统呼吁遏制移民国外的热潮。"
+    },
+    {
+      "en": "The train pulled to a halt at the platform.",
+      "cn": "火车在站台边停下。"
+    },
+    {
+      "en": "The World Championship was brought to a temporary halt (= was stopped from continuing ).",
+      "cn": "世界锦标赛暂停举行。"
+    },
+    {
+      "en": "When the children's play got too noisy, their mother called a halt.",
+      "cn": "当孩子们的游戏过于吵闹时, 他们的母亲叫他们停下来."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "halting",
+          "tran_cn": " 犹豫的；蹒跚的；跛的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "haltingly",
+          "tran_cn": " 迟疑不决地；犹豫地"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "halting",
+          "tran_cn": " 停止；蹒跚；犹豫（halt的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "break",
+            "stop",
+            "rest",
+            "stay",
+            "stand"
+          ],
+          "tran_cn": "停止；立定；休息"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arrest",
+            "cease",
+            "check",
+            "end",
+            "quit",
+            "stop"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "desist from",
+            "come to a stop"
+          ],
+          "tran_cn": "停止；立定；踌躇，犹豫"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "put a stop to"
+          ],
+          "tran_cn": "使停止；使立定"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "call a halt",
+      "tran_cn": "要求停止；命令停止"
+    },
+    {
+      "phrase": "come to a halt",
+      "tran_cn": "停止前进；停下来"
+    },
+    {
+      "phrase": "grind to a halt",
+      "tran_cn": "慢慢停止"
+    },
+    {
+      "phrase": "halt on",
+      "tran_cn": "出错暂停"
+    },
+    {
+      "phrase": "system halt",
+      "tran_cn": "系统中止；系统停止；系统挂起；死机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "停止，中止，暂停，小火车站",
+      "tran_en": "a stop or pause"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "(途中)暂停，停止，终止",
+      "tran_en": "a stop or pause"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "停止；立定",
+      "tran_en": "to prevent someone or something from continuing - used especially in news reports"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "停止，立定，犹豫"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使停止，使中断，阻止，使立定",
+      "tran_en": "to prevent someone or something from continuing - used especially in news reports"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "halts"
+    ],
+    "past": [
+      "halted"
+    ],
+    "done": [
+      "halted"
+    ],
+    "ing": [
+      "halting"
+    ]
+  }
+}

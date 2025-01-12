@@ -1,0 +1,106 @@
+{
+  "word": "sewerage",
+  "ipa": {
+    "us": "ˈsu:ərɪdʒ",
+    "uk": "ˈsuərɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "...without access to any services such as water or sewerage.",
+      "cn": "...不能享受任何如供水或污水处理的服务。"
+    },
+    {
+      "en": "Ash and elm trees lined the streets , all of which had a sewerage system.",
+      "cn": "道路两旁种有青槐和榆树, 并有相当完整的排水系统."
+    },
+    {
+      "en": "It is supposed to be washed down the gutter and into the city's vast sewerage system.",
+      "cn": "它应该是被沿排水沟冲入城市庞大的排水系统。"
+    },
+    {
+      "en": "One heavy storm can cause ageing urban sewerage systems to overflow.",
+      "cn": "一场大暴雨就使城市下水道脏水外溢."
+    },
+    {
+      "en": "Sewerage systems are either'separate'or'combined '.",
+      "cn": "排水系统有 “ 分流制 ” 和 “ 合流制”."
+    },
+    {
+      "en": "Sludge disposal facilities should be installed for the need of sewerage treatment.",
+      "cn": "同时配套建设完善污泥处置系统."
+    },
+    {
+      "en": "The acid waste waters are discharged into a sump or the sewerage system.",
+      "cn": "酸性废水被送往销毁池或阴沟系统."
+    },
+    {
+      "en": "The pollutants that affect water come mainly from industries, farm, and sewerage systems.",
+      "cn": "水的污染源主要来自工业 、 农场以及排水系统."
+    },
+    {
+      "en": "The temporary sewerage pump was installed to pump the sewerage water drain to reduce the overflow.",
+      "cn": "当局已经安装临时的排污泵在该处以减少污水的溢出."
+    },
+    {
+      "en": "Unfortunately, the sewerage was not the only issue.",
+      "cn": "不幸的是, 污水并不是唯一的问题."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sewer",
+          "tran_cn": " 下水道；阴沟；裁缝师"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sewer",
+          "tran_cn": " 清洗污水管"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sewer",
+          "tran_cn": " 为…铺设污水管道；用下水道排除…的污水"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "wastewater",
+            "polluted water"
+          ],
+          "tran_cn": "污水；排水设备"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sewerage system",
+      "tran_cn": "排水系统；污水工程系统"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "污物处理（系统）",
+      "tran_en": "the system by which waste material and used water are carried away in sewers and then treated to stop it being harmful"
+    }
+  ],
+  "exchange": {}
+}

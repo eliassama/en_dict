@@ -1,0 +1,92 @@
+{
+  "word": "caret",
+  "ipa": {
+    "us": "ˈkærət",
+    "uk": "'kærət"
+  },
+  "sentences": [
+    {
+      "en": "A set that begins with a caret (^) matches any character not included in the set.",
+      "cn": "以脱字符号 (^) 为开头的集合将匹配集合中不包括的所有字符。"
+    },
+    {
+      "en": "Cancels the current selection moving the caret to the anchor point.",
+      "cn": "将插入符号移动到定位点处,取消当前所选内容."
+    },
+    {
+      "en": "Inserts a line break at the current caret position.",
+      "cn": "在当前插入符号位置插入一条分隔线."
+    },
+    {
+      "en": "Mode m: Make the caret (^) and dollar sign ($)match at the start and end of each line, for example, after and before line breaks embedded in the source string.",
+      "cn": "模式 m：使插入符号 (^) 和美元符号 ($) 在每一行的开始和结尾相匹配，例如，在源字符串中嵌入前后换行符。"
+    },
+    {
+      "en": "Move the caret down one line, extending the column selection.",
+      "cn": "将插入符号下移一行, 扩展列的选定范围."
+    },
+    {
+      "en": "Move the caret to the end of the line, extending the selection.",
+      "cn": "将插入符号移动到行尾, 扩展选定范围."
+    },
+    {
+      "en": "Move the caret to the last line in view, extending the selection.",
+      "cn": "将插入符号移动到视图的最后一行, 扩展选定范围."
+    },
+    {
+      "en": "Move the caret to the matching brace, extending the selection.",
+      "cn": "将插入符号移动到匹配的括号处, 扩展选定范围."
+    },
+    {
+      "en": "Move the caret to the start of the document, extending the selection.",
+      "cn": "将插入符号移动到文档开头, 扩展选定范围."
+    },
+    {
+      "en": "Move the caret up one line, extending the selection.",
+      "cn": "将插入符号上移一行, 扩展选定范围."
+    },
+    {
+      "en": "Move the caret up one page, extending the selection.",
+      "cn": "将插入符号上移一页, 扩展选定范围."
+    },
+    {
+      "en": "Moves the caret down one page, extending the selection.",
+      "cn": "将插入符号向下移动一页, 扩展所选内容."
+    },
+    {
+      "en": "Moves the caret to the end of the document, extending the selection.",
+      "cn": "将插入符号移动到文档结尾, 扩展所选内容."
+    },
+    {
+      "en": "Moves the caret to the end of the line, extending the selection.",
+      "cn": "将插入符号移动到行尾, 扩展所选内容."
+    },
+    {
+      "en": "Moves the caret to the last line in view, extending the selection.",
+      "cn": "将插入符号移动到视图的最后一行, 扩展所选内容."
+    },
+    {
+      "en": "Moves the caret to the start of the line, extending the selection.",
+      "cn": "将插入符号移动到行首, 扩展所选内容."
+    },
+    {
+      "en": "Moves the caret up one page, extending the selection.",
+      "cn": "将插入符号向上移动一页, 扩展所选内容."
+    },
+    {
+      "en": "When a DocumentCommand executes, it starts by updating the Position corresponding to the caret (the vertical bar cursor bar).",
+      "cn": "当执行 DocumentCommand 时，首先会更新与插入符号（垂直的光标条）相应的 Position。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "脱字号，补字号，补字符号",
+      "tran_en": "a symbol "
+    }
+  ],
+  "exchange": {}
+}

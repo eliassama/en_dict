@@ -1,0 +1,218 @@
+{
+  "word": "certify",
+  "ipa": {
+    "us": "ˈsɜːtɪfaɪ",
+    "uk": "ˈsɜːrtɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "Ask the manager to certify this check.",
+      "cn": "请银行经理来确认这张支票."
+    },
+    {
+      "en": "BSI certify and test full range of lift safety components.",
+      "cn": "BSI认证和测试各种升降机的安全部件."
+    },
+    {
+      "en": "By submitting this form, I certify that all information is accurate.",
+      "cn": "提交这份表格, 我保证所有信息都是正确的."
+    },
+    {
+      "en": "Can you certify for his ability as a teacher?",
+      "cn": "你可以保证他能胜任老师的工作 吗 ?"
+    },
+    {
+      "en": "Certify and recertify operators according to specifications.",
+      "cn": "按照要求认证以及重新认证员工."
+    },
+    {
+      "en": "Could you clarify me to certify your age?",
+      "cn": "可否出示能证下一年纪的文档?"
+    },
+    {
+      "en": "Draw up unit worldwide EMI & EMS certify & standards introduce and approval.",
+      "cn": "产品EMI电磁干扰 & EMS电磁 耐受度各国认证规划与法规介绍."
+    },
+    {
+      "en": "I certify on my honour that he is innocent.",
+      "cn": "我用人格担保他是清白无辜的."
+    },
+    {
+      "en": "I certify on my honour that she is innocent.",
+      "cn": "我用人格担保她是清白无辜的."
+    },
+    {
+      "en": "I certify that the above provided information is true and accurate.",
+      "cn": "本人申明:上述提供的资料是真实和准确的."
+    },
+    {
+      "en": "I have carefully reviewed the above information and certify that are correct and complete.",
+      "cn": "以上资料业由本人填写,且经详细检查,在此保证正确无误."
+    },
+    {
+      "en": "I hearby certify theand validity of provided information.",
+      "cn": "我保证所填写的所有信息真实有效."
+    },
+    {
+      "en": "She was certified as a teacher in 1990.",
+      "cn": "她于1990年获得教师资格证书。"
+    },
+    {
+      "en": "The accounts were certified by an auditor.",
+      "cn": "这些账目经审计员核实过。"
+    },
+    {
+      "en": "The park's staff helps visitor to identify and certify diamonds.",
+      "cn": "公园的工作人员会帮助游客鉴别和验证钻石."
+    },
+    {
+      "en": "We can certify for him competence as an editor.",
+      "cn": "我们可以保证他能胜任编辑工作."
+    },
+    {
+      "en": "We can certify for his honesty.",
+      "cn": "我们可以保证他的诚实."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "certifiable",
+          "tran_cn": " 可证明的；可确认的；可保证的"
+        },
+        {
+          "word": "certificated",
+          "tran_cn": " 具有证明文件的；立有证据的；业经证明的"
+        },
+        {
+          "word": "certified",
+          "tran_cn": " 被证明的；有保证的；具有证明文件的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "certificate",
+          "tran_cn": " 证书；执照，文凭"
+        },
+        {
+          "word": "certification",
+          "tran_cn": " 证明，保证；检定"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "certified",
+          "tran_cn": " 证明，证实；颁发合格证书（certify的过去分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "certificate",
+          "tran_cn": " 发给证明书；以证书形式授权给…；用证书批准"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "affirm",
+            "attest",
+            "back",
+            "confirm",
+            "endorse",
+            "guarantee",
+            "insure",
+            "license",
+            "prove",
+            "ratify",
+            "testify",
+            "vouch"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "attest",
+            "authenticate",
+            "certify",
+            "confirm",
+            "corroborate",
+            "depose",
+            "document",
+            "evidence",
+            "substantiate",
+            "support",
+            "testify",
+            "to",
+            "validate",
+            "verify",
+            "warrant"
+          ],
+          "tran_cn": "证明,证实,确认"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "affirm",
+            "confirm",
+            "guarantee",
+            "testify",
+            "vouch"
+          ],
+          "tran_cn": "证明;保证"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（出具）证明，给…颁发结业证书",
+      "tran_en": "to state that something is correct or true, especially after some kind of test"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 证明， 证实； 发证书给",
+      "tran_en": "to state that something is correct or true, especially after some kind of test"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "certifies"
+    ],
+    "past": [
+      "certified"
+    ],
+    "done": [
+      "certified"
+    ],
+    "ing": [
+      "certifying"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "word": "incredulity",
+  "ipa": {
+    "us": "ˌɪnkrəˈdjuːləti",
+    "uk": "ˌɪnkrəˈduːləti"
+  },
+  "sentences": [
+    {
+      "en": "When she told her family she was gay, they reacted with a mixture of shock and incredulity.",
+      "cn": "当她告诉家人她是同性恋时，他们的反应是既震惊又不相信。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "incredulous",
+          "tran_cn": " 怀疑的；不轻信的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "incredulously",
+          "tran_cn": " 不相信地，怀疑地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "incredibility",
+          "tran_cn": " 不能相信；不可信的事物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "doubt",
+            "challenge",
+            "suspicion"
+          ],
+          "tran_cn": "怀疑；不轻信，不易相信"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "distrust",
+            "rejection",
+            "suspicion"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "怀疑",
+      "tran_en": "a feeling that you cannot believe something"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "incredulously"
+    ],
+    "adj": [
+      "incredulous"
+    ]
+  }
+}

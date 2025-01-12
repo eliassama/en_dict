@@ -1,0 +1,210 @@
+{
+  "word": "procession",
+  "ipa": {
+    "us": "prəˈseʃn",
+    "uk": "prəˈseʃn"
+  },
+  "sentences": [
+    {
+      "en": "A funeral procession filled the street.",
+      "cn": "送葬队伍挤满了街道."
+    },
+    {
+      "en": "And a long - drawn procession of formidable names it was!",
+      "cn": "这一长串鼎鼎大名真吓人 啊 !"
+    },
+    {
+      "en": "It was a seamless procession of wonderful electronic music.",
+      "cn": "这是一曲优美流畅的电子乐曲。"
+    },
+    {
+      "en": "It was a very imposing procession of pretty faces and fine clothes.",
+      "cn": "这是一支由漂亮的脸蛋和华丽的衣着组成的队伍,十分壮观."
+    },
+    {
+      "en": "Musicians played at the front and rear of the procession.",
+      "cn": "乐师们在队前和队尾表演。"
+    },
+    {
+      "en": "Soldiers escorted the royal procession and drummers gave warning of its approach.",
+      "cn": "士兵为皇家队伍护驾,鼓手为其鸣锣开道."
+    },
+    {
+      "en": "The grand procession moves slowly out of the temple.",
+      "cn": "这支庄严的队伍缓缓地走出庙堂."
+    },
+    {
+      "en": "The parson, heading the procession, had just turned right towards the churchyard.",
+      "cn": "走在行进队伍最前面的教区牧师刚刚向右转弯，朝着教堂墓地走去。"
+    },
+    {
+      "en": "The procession made its way down the hill.",
+      "cn": "队伍走下山了。"
+    },
+    {
+      "en": "The procession moved at a slow and stately speed.",
+      "cn": "队伍以缓缓而庄严的速度行进."
+    },
+    {
+      "en": "The procession moved into the church.",
+      "cn": "人们排着队走进教堂。"
+    },
+    {
+      "en": "The students entered the school in procession.",
+      "cn": "学生们排队进入学校."
+    },
+    {
+      "en": "Their cars headed the funeral procession.",
+      "cn": "他们的车队在葬礼队伍的最前面."
+    },
+    {
+      "en": "Their grief turned to hysteria when the funeral procession arrived at the cemetery.",
+      "cn": "当送葬队走到墓地时，他们更加悲恸欲绝。"
+    },
+    {
+      "en": "They marched in procession to the Capitol building.",
+      "cn": "他们列队向国会大厦行进。"
+    },
+    {
+      "en": "Thou-sands of local people lined the streets and clapped as the procession went by.",
+      "cn": "数以千计的当地居民站在街道两旁，为由此经过的队伍鼓掌。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "process",
+          "tran_cn": " 经过特殊加工（或处理）的"
+        },
+        {
+          "word": "processible",
+          "tran_cn": " 适合加工的；可处理的"
+        },
+        {
+          "word": "processional",
+          "tran_cn": " 游行的；列队行进的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "proceeding",
+          "tran_cn": " 进行；程序；诉讼；事项"
+        },
+        {
+          "word": "process",
+          "tran_cn": " 过程，进行；方法，步骤；作用；程序；推移"
+        },
+        {
+          "word": "processional",
+          "tran_cn": " 游行圣歌"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "proceeding",
+          "tran_cn": " 开始；继续做；行进（proceed的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "proceed",
+          "tran_cn": " 开始；继续进行；发生；行进"
+        },
+        {
+          "word": "process",
+          "tran_cn": " 列队前进"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "process",
+          "tran_cn": " 处理；加工"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cycle",
+            "sequence",
+            "series"
+          ],
+          "tran_cn": "列队"
+        },
+        {
+          "words": [
+            "caravan",
+            "cavalcade",
+            "column",
+            "cortege",
+            "file",
+            "line",
+            "march",
+            "motorcade",
+            "pageant",
+            "parade",
+            "past",
+            "string",
+            "train"
+          ],
+          "tran_cn": "进行,行列,队伍"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "file"
+          ],
+          "tran_cn": "列队行进"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "funeral procession",
+      "tran_cn": "送葬"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "队伍，行列，一列，一排，列队行进",
+      "tran_en": "a line of people or vehicles moving slowly as part of a ceremony"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "列队行进"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "沿著……行进"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "processions"
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "word": "evasive",
+  "ipa": {
+    "us": "ɪˈveɪsɪv",
+    "uk": "ɪˈveɪsɪv"
+  },
+  "sentences": [
+    {
+      "en": "an evasive reply",
+      "cn": "模棱两可的答复"
+    },
+    {
+      "en": "As for a political settlement in Laos, the North Vietnamese leaders remained evasive.",
+      "cn": "在老挝问题的政治解决方面, 北越领导人的态度仍然捉摸不定."
+    },
+    {
+      "en": "As language, these passive statements are weak; as statements, they are evasive and vague.",
+      "cn": "作为语言, 这些被动句是软弱无力的; 作为说明, 它们又是含糊不可捉摸的."
+    },
+    {
+      "en": "At least four high-flying warplanes had to take evasive action.",
+      "cn": "至少有4架高空飞行战斗机不得不采取避让行动。"
+    },
+    {
+      "en": "But many doctors woefully evasive in talking with their patients.",
+      "cn": "但相当多的医生在和病人谈话时规避地厉害."
+    },
+    {
+      "en": "Daily requests led to evasive answers.",
+      "cn": "每天的不断的催促得到的是闪烁其词的答复."
+    },
+    {
+      "en": "He was evasive and noncommittal.",
+      "cn": "他闪闪烁烁,不肯说明确."
+    },
+    {
+      "en": "He was evasive, to the point of secretiveness.",
+      "cn": "他含糊其辞，让人觉得有意隐瞒。"
+    },
+    {
+      "en": "His eyes gleamed with a smart, evasive light.",
+      "cn": "他那对眼睛闪耀着一种灵活的难以捉摸的光芒."
+    },
+    {
+      "en": "If the bullets start coming this way, take evasive action.",
+      "cn": "如果子弹朝这边打来, 就采取规避动作."
+    },
+    {
+      "en": "Karen seems open and straight forward, Amy hostile and evasive.",
+      "cn": "卡伦落落大方,直言快语;而埃米却是心存芥蒂, 言辞含糊."
+    },
+    {
+      "en": "On November 11 M Maisky brought to me Stalin's chilling and evasive reply to this message.",
+      "cn": "11月11日,麦斯基先生把斯大林对这封电报的冷淡的措词闪烁的复电交给了我."
+    },
+    {
+      "en": "She gave an evasive answer.",
+      "cn": "她给了个模棱两可的回答."
+    },
+    {
+      "en": "The German Foreign Office was evasive.",
+      "cn": "德国外交部推三托四."
+    },
+    {
+      "en": "The pilot took evasive action to avoid a collision with the enemy aircraft.",
+      "cn": "驾驶员采取规避动作以免与敌机相撞."
+    },
+    {
+      "en": "Yossarian was the best man in the group at evasive action, but had no idea why.",
+      "cn": "整个大队里,约索林的规避动作做得最好, 可是他自己也不知道这是什么原因."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "evasively",
+          "tran_cn": " 逃避地；推诿地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "evasion",
+          "tran_cn": " 逃避；回避；借口"
+        },
+        {
+          "word": "evasiveness",
+          "tran_cn": " 逃避，推诿；模棱两可"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "evade",
+          "tran_cn": " 逃避；规避；逃脱"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "evade",
+          "tran_cn": " 逃避；规避；逃脱"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "ambiguous",
+            "amphibolic",
+            "deceitful",
+            "dissembling",
+            "dodging",
+            "elusive",
+            "equivocal",
+            "equivocating",
+            "hedging",
+            "misleading",
+            "prevaricative",
+            "shifty",
+            "shuffling",
+            "slippery",
+            "tricky"
+          ],
+          "tran_cn": "逃避的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "fishy",
+            "roundabout"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "evasive action",
+      "tran_cn": "躲避动作；闪避动作"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "回避的，含糊其词的",
+      "tran_en": "not willing to answer questions directly"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "evasively"
+    ],
+    "noun": [
+      "evasiveness"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "word": "hyphen",
+  "ipa": {
+    "us": "ˈhaɪfn",
+    "uk": "ˈhaɪfn"
+  },
+  "sentences": [
+    {
+      "en": "A hyphen is an acceptable alternative to a comma.",
+      "cn": "连字符可以接受用来替代逗号."
+    },
+    {
+      "en": "Because she included the hyphen (-), nothing else is required; because 1=1 is always true, she will be able to log in successfully.",
+      "cn": "由于她包含了连字号（-），所以任何其他东西都不需要；由于 1=1 总是为真，所以她将能够成功登录。"
+    },
+    {
+      "en": "Discretionary hyphen: Hyphen inserted by keyboard and which overrides the hyphenation program in use.",
+      "cn": "决断式连字: 用键盘加上连字号的情况,它可以取代连字程式所用的连字法."
+    },
+    {
+      "en": "Shall we put a comma, a question mark, a semi - colon or a hyphen here?",
+      "cn": "这儿该用逗号 、 问号、破折号 、 分号还是连字符号?"
+    },
+    {
+      "en": "Stump line: The last line of a page ending with a hyphen . Consider undesirable.",
+      "cn": "断行: 英文排字的不善情况. 指在书页的最后一行,要作分字."
+    },
+    {
+      "en": "The dash is longer than the hyphen.",
+      "cn": "破折号比连字符稍长点."
+    },
+    {
+      "en": "The following expressions match all lowercase letters and the hyphen.",
+      "cn": "下面的表达式匹配所有小写字母和连字符."
+    },
+    {
+      "en": "This is actually three bits of information , joined together by a double hyphen.",
+      "cn": "这实际上是用双划线组成的三块信息."
+    },
+    {
+      "en": "Those two words need to be connected a hyphen.",
+      "cn": "那两个字要用连字符号连起来."
+    },
+    {
+      "en": "To divide or connect ( syllables, word elements , or names ) a hyphen.",
+      "cn": "( 关于词语 ) 用连字符的方法组合的."
+    },
+    {
+      "en": "To divide or connect ( syllables, word elements, or names ) with a hyphen.",
+      "cn": "以连字号连接用连字号分离或连接 ( 音节 、 词素或名字 )"
+    },
+    {
+      "en": "Used to take the place of hyphen in many occasions when finer typography is required.",
+      "cn": "很多时,配合精细的排字要求,就用它来代替连字号."
+    },
+    {
+      "en": "When you described depression as a \"disease\" you might have spelled the word with a hyphen.",
+      "cn": "当你形容为“疾病”你可能有一个连字符的拼写单词抑郁症。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hyphenated",
+          "tran_cn": " 带有连字符号的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hyphenate",
+          "tran_cn": " 归化的美国公民"
+        },
+        {
+          "word": "hyphenation",
+          "tran_cn": " 用连字符号连接；断字"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "hyphenated",
+          "tran_cn": " 用连字符连接（hyphenate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hyphenate",
+          "tran_cn": " 用连字符号连接"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "连字符，连（字）号",
+      "tran_en": "a short written or printed line (-) that joins words or  syllables "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "以连字号连接"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "hyphens"
+    ]
+  }
+}

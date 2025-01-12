@@ -1,0 +1,130 @@
+{
+  "word": "disallow",
+  "ipa": {
+    "us": "ˌdɪsəˈlaʊ",
+    "uk": "ˌdɪsəˈlaʊ"
+  },
+  "sentences": [
+    {
+      "en": "Disallow clients from any access to hidden files.",
+      "cn": "禁止所有客户访问隐藏文件."
+    },
+    {
+      "en": "Disallow cyclic references between assemblies.",
+      "cn": "不允许在程序集中循环引用."
+    },
+    {
+      "en": "Have no special circumstance at school 7:30 - 16:30 disallow to open the cellular phone.",
+      "cn": "在学校同学之间绝对不允许有任何金钱来往."
+    },
+    {
+      "en": "I believe oneself, I am obstinate disallow me to stay back!",
+      "cn": "我相信我自己, 倔强不允许我退后!"
+    },
+    {
+      "en": "I believe that God is something disallow.",
+      "cn": "我相信上天是不允许的."
+    },
+    {
+      "en": "Ignore to meet and when what circumstance, I definitely disallow oneself to have disappointed a little.",
+      "cn": "无论什么时候,不管遇到什么情况, 我决不允许自己有一点点灰心."
+    },
+    {
+      "en": "Life, by its very nature, disallow this.",
+      "cn": "生命, 究其本质, 却并不允许预言."
+    },
+    {
+      "en": "Manchester United had a goal disallowed.",
+      "cn": "曼联队的一个入球被判无效。"
+    },
+    {
+      "en": "Never hit a kid and disallow his ability to cry.",
+      "cn": "不要打小孩,又阻止他哭."
+    },
+    {
+      "en": "The court have announce the award to disallow the claim.",
+      "cn": "仲裁庭已宣布裁决,拒绝诉讼."
+    },
+    {
+      "en": "The Internal Revenue Service sought to disallow the payments.",
+      "cn": "国内收入署试图驳回这些缴纳款。"
+    },
+    {
+      "en": "The policy adopted in this book is to disallow Leibnizian notation within the text.",
+      "cn": "本书采用的办法是在正文中不用莱布尼兹记号."
+    },
+    {
+      "en": "This forum hases beened limited by the managing person to disallow the hair sticks.",
+      "cn": "本论坛已经被管理员限制了不允许发贴."
+    },
+    {
+      "en": "To disallow an interrupt.",
+      "cn": "不允许中断."
+    },
+    {
+      "en": "Whether the column should disallow editing of its bound field.",
+      "cn": "列是否应该禁止对其绑定字段的编辑."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disallowable",
+          "tran_cn": " 可拒绝的，可否决的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "forbid",
+            "inhibit",
+            "prohibit",
+            "withhold"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "wave sth. away",
+            "set aside"
+          ],
+          "tran_cn": "驳回，不接受；不准许"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "vt",
+      "tran_cn": "不接受，不准，驳回",
+      "tran_en": "to officially refuse to accept something, because a rule has been broken"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disallows"
+    ],
+    "past": [
+      "disallowed"
+    ],
+    "done": [
+      "disallowed"
+    ],
+    "ing": [
+      "disallowing"
+    ]
+  }
+}

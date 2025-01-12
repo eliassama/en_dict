@@ -1,0 +1,92 @@
+{
+  "word": "foreclose",
+  "ipa": {
+    "us": "fɔ:ˈkləʊz",
+    "uk": "fɔrˈkloʊz"
+  },
+  "sentences": [
+    {
+      "en": "His business is foreclose.",
+      "cn": "他的生意失败了."
+    },
+    {
+      "en": "Inevitably, many lenders will foreclose on thehomeowner.",
+      "cn": "不可避免地, 许多贷款者会强行收回借款人的房产."
+    },
+    {
+      "en": "Note the importance of the issue to lending institutions foreclose, take title, and resell the property.",
+      "cn": "注意贷款惯例问题的重要性,其中包括取消赎回权, 享有所有权以及重新出售财产问题."
+    },
+    {
+      "en": "The bank foreclosed on the mortgage for his previous home.",
+      "cn": "银行取消了他先前住房的抵押赎回权。"
+    },
+    {
+      "en": "The building society will be forced to foreclose.",
+      "cn": "建筑工会被迫取消赎回权."
+    },
+    {
+      "en": "They tried to foreclose the possibility of his meeting with the chairman.",
+      "cn": "他们设法排除他与董事长会面的可能性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "foreclosure",
+          "tran_cn": " 丧失抵押品赎回权"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "eliminate",
+            "stem",
+            "block",
+            "dispute",
+            "prohibit"
+          ],
+          "tran_cn": "阻止；排除；取消抵押品赎回权"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "阻止；排除；取消抵押品赎回权",
+      "tran_en": "if a bank forecloses, it takes away someone’s property because they have failed to pay back the money that they borrowed from the bank to buy it"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "取消赎回权",
+      "tran_en": "if a bank forecloses, it takes away someone’s property because they have failed to pay back the money that they borrowed from the bank to buy it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "取消（抵押品）赎回权，取消（抵押人的）赎回抵押品的权利，排除，阻止"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "forecloses"
+    ],
+    "past": [
+      "foreclosed"
+    ],
+    "done": [
+      "foreclosed"
+    ],
+    "ing": [
+      "foreclosing"
+    ]
+  }
+}

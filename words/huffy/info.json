@@ -1,0 +1,106 @@
+{
+  "word": "huffy",
+  "ipa": {
+    "us": "ˈhʌfi",
+    "uk": "ˈhʌfi"
+  },
+  "sentences": [
+    {
+      "en": "He did not seem seriously angry. He only acted as if he were huffy.",
+      "cn": "他并不像是真生气, 他只是装出一副恼怒的样子."
+    },
+    {
+      "en": "I, in my turn, became embarrassed and huffy and told her to take the money back.",
+      "cn": "这下轮到我既尴尬又气愤了，我告诉她把钱拿回去。"
+    },
+    {
+      "en": "Some customers get huffy when you ask them for their ID.",
+      "cn": "有些顾客如果被要求出示身份证明，就会发火。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "huffish",
+          "tran_cn": " 发怒的；傲慢的；不高兴的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "huffily",
+          "tran_cn": " 发怒地；暴躁的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "huff",
+          "tran_cn": " 发怒"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "huff",
+          "tran_cn": " 吹气；发怒；恫吓"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "huff",
+          "tran_cn": " 把…吹胀；激怒；蔑视"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "fierce",
+            "cranky"
+          ],
+          "tran_cn": "怒冲冲的；暴躁的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "angry"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<非正>怒冲冲的，气鼓鼓的",
+      "tran_en": "in a bad  mood (= the way that you feel )  , especially because someone has offended you"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "huffily"
+    ]
+  }
+}

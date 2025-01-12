@@ -1,0 +1,183 @@
+{
+  "word": "patron",
+  "ipa": {
+    "us": "ˈpeɪtrən",
+    "uk": "ˈpeɪtrən"
+  },
+  "sentences": [
+    {
+      "en": "a wealthy patron",
+      "cn": "富有的赞助人"
+    },
+    {
+      "en": "Catherine the Great was a patron of the arts and sciences.",
+      "cn": "叶卡捷琳娜大帝资助发展艺术和科学。"
+    },
+    {
+      "en": "Chiswick church is dedicated to St Nicholas, patron saint of sailors.",
+      "cn": "奇西克教堂为水手的守护神圣尼古拉而建。"
+    },
+    {
+      "en": "Frederick the Great was the patron of many artists.",
+      "cn": "腓特烈大帝是许多艺术家的赞助人。"
+    },
+    {
+      "en": "He inscribed those poems to [ for ] his patron.",
+      "cn": "他将这些诗 献给 他的赞助人."
+    },
+    {
+      "en": "I have found out who my patron is.",
+      "cn": "我已经明白了我的恩主究竟是谁."
+    },
+    {
+      "en": "It's my patron saint's day, and I'm standing the racket.",
+      "cn": "今天是我的守护神日, 我是负责给钱的."
+    },
+    {
+      "en": "She is a patron of small businesses and trades.",
+      "cn": "她是几个小企业和小手工艺者的资助人。"
+    },
+    {
+      "en": "St Patrick, Ireland's patron saint",
+      "cn": "圣帕特里克，爱尔兰的主保圣人"
+    },
+    {
+      "en": "St. George is the Patron Saint of England.",
+      "cn": "圣乔治是英格兰的守护神."
+    },
+    {
+      "en": "The Emperor is a renowned patron of learning.",
+      "cn": "这位皇帝是一位有名的崇尚学术的君王."
+    },
+    {
+      "en": "The patron of the bar was ejected for creating a disturbance.",
+      "cn": "酒吧客人因制造骚乱而被驱离."
+    },
+    {
+      "en": "The word \" pattern \" is derived from the same root as the word patron.",
+      "cn": "\" 模式 \" 这个词与保护神这个词来自同一词根."
+    },
+    {
+      "en": "They were also given their own temple and patron divinity or hero, whose priests they elected.",
+      "cn": "各个德莫同样也有自己的神庙及守护神或英雄, 并选出侍奉他们的神职人员."
+    },
+    {
+      "en": "To my patron I will be scrupulously true.",
+      "cn": "我对我的恩人,必须毫不含糊地表示忠诚."
+    },
+    {
+      "en": "Under the title of Nomios he was regarded by herdsmen as their patron god.",
+      "cn": "牧人视阿波罗为保护神,并称他为诺弥奥斯."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "patronage",
+          "tran_cn": "赞助；光顾；任免权"
+        },
+        {
+          "word": "patroness",
+          "tran_cn": "女主顾；女资助人；女保护人"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "patronise",
+          "tran_cn": "（英）保护（等于patronize）"
+        },
+        {
+          "word": "patronize",
+          "tran_cn": "惠顾；资助；保护"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "advocate",
+            "angel",
+            "backer",
+            "benefactor",
+            "benefactress",
+            "booster",
+            "boss",
+            "champion",
+            "employer",
+            "financer",
+            "guardian",
+            "helper",
+            "master",
+            "patroness",
+            "philanthropist",
+            "promoter",
+            "seconder",
+            "sponsor",
+            "supporter",
+            "sustainer",
+            "sympathizer",
+            "upholder"
+          ],
+          "tran_cn": "赞助人,出资者,保证人,保护人,庇护人,恩人,支持者,老板,所有者"
+        },
+        {
+          "words": [
+            "attendant",
+            "audience",
+            "buyer",
+            "client",
+            "customer",
+            "frequenter",
+            "purchaser",
+            "regular",
+            "shopper",
+            "spectator",
+            "subscriber",
+            "visitor"
+          ],
+          "tran_cn": "顾客,主顾,常客,听众,观众,出席者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adherent",
+            "consumer",
+            "contributor"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "patron saint",
+      "tran_cn": "n. 守护神；保护圣徒"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "赞助人，资助人，顾客，老主顾，保护人，[宗]守护神",
+      "tran_en": "someone who supports the activities of an organization, for example by giving money"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "patrons"
+    ]
+  }
+}

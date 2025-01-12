@@ -1,0 +1,74 @@
+{
+  "word": "agronomist",
+  "ipa": {
+    "us": "əˈgrɒnəmɪst",
+    "uk": "əˈgrɑnəmɪst"
+  },
+  "sentences": [
+    {
+      "en": "The agronomist suggested growing rice on the dried river bed.",
+      "cn": "那位农学家建议在干涸的河床上种水稻."
+    },
+    {
+      "en": "This factor can be fine tuned by the agronomist or farmer working at a specific site.",
+      "cn": "这可通过在某一特定地点工作的农学家或农民来精细地调整."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "agronomic",
+          "tran_cn": " 农事的；农艺学的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "agronomy",
+          "tran_cn": " 农学；农艺学；农业经济学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agriculturalist"
+          ],
+          "tran_cn": "农学家"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "farmer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "农（艺）学家",
+      "tran_en": "An agronomist is someone who studies the growing and harvesting of crops"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "agronomists"
+    ]
+  }
+}

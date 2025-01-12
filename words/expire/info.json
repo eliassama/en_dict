@@ -1,0 +1,203 @@
+{
+  "word": "expire",
+  "ipa": {
+    "us": "ɪkˈspaɪə(r)",
+    "uk": "ɪkˈspaɪər"
+  },
+  "sentences": [
+    {
+      "en": "He ran over the lists of homeleases which were about to expire.",
+      "cn": "他翻阅了房屋租赁契约快要到期的清单."
+    },
+    {
+      "en": "His term of office as president will expire next year.",
+      "cn": "他的总统任期明年将届满."
+    },
+    {
+      "en": "My lease will expire on September 30 th of this year.",
+      "cn": "我的租约今年九月三十日到期."
+    },
+    {
+      "en": "My passport expires next week.",
+      "cn": "我的护照下周就到期了。"
+    },
+    {
+      "en": "My season ticket will expire this week.",
+      "cn": "我的月票到这周为止."
+    },
+    {
+      "en": "My subscription to the magazine will soon expire, I will renew it.",
+      "cn": "我订阅的杂志快到期了, 我将续订."
+    },
+    {
+      "en": "Once their markers expire, they could be stuck there forever?",
+      "cn": "一旦他们的传导器无效了他们就可能永远留在那儿?"
+    },
+    {
+      "en": "Ophelia expires in Act IV of Hamlet.",
+      "cn": "奥菲莉娅在《哈姆雷特》第四幕中死去。"
+    },
+    {
+      "en": "Our trade agreement with China will expire next year.",
+      "cn": "我国同中国的贸易协定明年期满."
+    },
+    {
+      "en": "Our trade agreement with Holland will expire at the end of this year.",
+      "cn": "我国同荷兰的贸易协定今年年底期满."
+    },
+    {
+      "en": "players whose contracts expire this summer",
+      "cn": "合约于今年夏天到期的运动员"
+    },
+    {
+      "en": "The chairman’s term of office has already expired.",
+      "cn": "主席任期已满。"
+    },
+    {
+      "en": "The coalition could break down before the five years expire .",
+      "cn": "此次联合可能在五年期限结束之前就破裂。"
+    },
+    {
+      "en": "The flowers expire fragrance.",
+      "cn": "鲜花散发芳香."
+    },
+    {
+      "en": "The French company's concession would expire in 1904.",
+      "cn": "法国公司的特许权将于1904年满期."
+    },
+    {
+      "en": "We expire used air from our lungs.",
+      "cn": "我们从肺里呼出废气."
+    },
+    {
+      "en": "When does the lease expire?",
+      "cn": "租约什麽时候期满?"
+    },
+    {
+      "en": "When does your driving licence expire?",
+      "cn": "你的驾照什么时候到期？"
+    },
+    {
+      "en": "When does your driving licence expire?",
+      "cn": "你的驾驶执照何时到期?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "expiratory",
+          "tran_cn": " [生理] 呼气的；吐气的"
+        },
+        {
+          "word": "expired",
+          "tran_cn": " 过期的；失效的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "expiration",
+          "tran_cn": " 呼气；终结；届期"
+        },
+        {
+          "word": "expiry",
+          "tran_cn": " 满期，逾期；呼气；终结"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "expired",
+          "tran_cn": " 期满（expire的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "away",
+            "cease",
+            "die",
+            "disappear",
+            "end",
+            "pass",
+            "perish",
+            "vanish"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "die",
+            "drop",
+            "determine",
+            "finish",
+            "pass"
+          ],
+          "tran_cn": "期满；终止；死亡；呼气"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "breathe out",
+            "exsufflate"
+          ],
+          "tran_cn": "呼出（空气）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "失效，到期 ，届满，逝世",
+      "tran_en": "if a period of time when someone has a particular position of authority expires, it ends"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 期满， 终止； 断气， 死亡",
+      "tran_en": "if a period of time when someone has a particular position of authority expires, it ends"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "呼气"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "expires"
+    ],
+    "past": [
+      "expired"
+    ],
+    "done": [
+      "expired"
+    ],
+    "ing": [
+      "expiring"
+    ],
+    "adj": [
+      "expired"
+    ]
+  }
+}

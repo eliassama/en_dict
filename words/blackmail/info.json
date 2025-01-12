@@ -1,0 +1,158 @@
+{
+  "word": "blackmail",
+  "ipa": {
+    "us": "ˈblækmeɪl",
+    "uk": "ˈblækmeɪl"
+  },
+  "sentences": [
+    {
+      "en": "But surely Miss Springer would never accepted blackmail money?",
+      "cn": "可是斯普林杰小姐决不会要这种不义之财 吧 ?"
+    },
+    {
+      "en": "I thought he was trying to blackmail me into saying whatever he wanted.",
+      "cn": "我认为他想敲诈我，让我说出他想知道的一切。"
+    },
+    {
+      "en": "If someone tried to blackmail me I would tell the police.",
+      "cn": "如果有人企图敲诈我,我就向警察告发."
+    },
+    {
+      "en": "It looks like the pictures were being used for blackmail.",
+      "cn": "这些照片好像被用于敲诈勒索。"
+    },
+    {
+      "en": "It was a form of blackmail.",
+      "cn": "那是一种讹诈."
+    },
+    {
+      "en": "It's blackmail, pure and simple.",
+      "cn": "这纯粹是敲诈。"
+    },
+    {
+      "en": "Opponents accused him of blackmail and extortion.",
+      "cn": "对方指控他敲诈勒索。"
+    },
+    {
+      "en": "She demanded ＄ 1000 blackmail from him.",
+      "cn": "她向他敲诈了1000美元."
+    },
+    {
+      "en": "She had already tried emotional blackmail (=  tried to make him feel guilty  ) to stop him leaving.",
+      "cn": "她试过以情相迫，不让他离开。"
+    },
+    {
+      "en": "She started off by accusing him of blackmail but he more or less ignored her.",
+      "cn": "她先是指控他勒索，但他几乎不理睬她。"
+    },
+    {
+      "en": "She was a prime target for blackmail, don't you see?",
+      "cn": "她是敲诈的主要目标。你难道看不出来吗？"
+    },
+    {
+      "en": "Supposing he tried to blackmail you?",
+      "cn": "要是他想要敲诈你 呢 ?"
+    },
+    {
+      "en": "That was a terrible case of blackmail in the paper today.",
+      "cn": "今天报上登的那宗勒索案真可怕。"
+    },
+    {
+      "en": "The tactics employed can range from overt bullying to subtle emotional blackmail.",
+      "cn": "从公然威吓到微妙的情感胁迫，各种战术都用上了。"
+    },
+    {
+      "en": "Then you blackmail her into keeping on doing it with you.",
+      "cn": "从那以后,你一直要挟她,逼着她继续同你干那种事."
+    },
+    {
+      "en": "You came here to blackmail us.",
+      "cn": "你来这儿的目的是向我们敲诈勒索."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "blackmailer",
+          "tran_cn": " 勒索者；敲诈者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "extortion",
+            "chantage"
+          ],
+          "tran_cn": "勒索，[法]敲诈；勒索所得之款"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "exaction"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "shake down",
+            "shark up"
+          ],
+          "tran_cn": "勒索，[法]敲诈"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "勒索，敲诈，胁迫",
+      "tran_en": "when someone tries to get money from you or make you do what they want by threatening to tell other people your secrets"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": " 敲诈， 勒索， 要挟， 讹诈",
+      "tran_en": "when someone tries to get money from you or make you do what they want by threatening to tell other people your secrets"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "勒索，敲诈，要挟",
+      "tran_en": "to use blackmail against someone"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": " 敲诈， 勒索",
+      "tran_en": "when someone tries to get money from you or make you do what they want by threatening to tell other people your secrets"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "blackmails"
+    ],
+    "past": [
+      "blackmailed"
+    ],
+    "done": [
+      "blackmailed"
+    ],
+    "ing": [
+      "blackmailing"
+    ]
+  }
+}

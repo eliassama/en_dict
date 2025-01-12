@@ -1,0 +1,192 @@
+{
+  "word": "withhold",
+  "ipa": {
+    "us": "wɪðˈhəʊld",
+    "uk": "wɪðˈhoʊld"
+  },
+  "sentences": [
+    {
+      "en": "I couldn't withhold giving some loose to my indignation.",
+      "cn": "我忍不住要发泄一点我的愤怒."
+    },
+    {
+      "en": "I may withhold the truth at times, but I stop short of actually telling lies.",
+      "cn": "我有时候可能不说真话, 但事实上我不至于到说谎的地步."
+    },
+    {
+      "en": "I withheld payment until they had completed the work.",
+      "cn": "我扣着钱，直到他们完工。"
+    },
+    {
+      "en": "Ian was accused of withholding vital information from the police.",
+      "cn": "伊恩被控向警方隐瞒重要信息。"
+    },
+    {
+      "en": "It was improper of the broker to withhold the information from the stock exchange.",
+      "cn": "股票经纪人对交易所隐瞒信息的行为是不正当的."
+    },
+    {
+      "en": "It's never wise to withhold evidence.",
+      "cn": "藏匿证据绝非明智之举。"
+    },
+    {
+      "en": "Most antelopes can withhold their young for weeks, even months.",
+      "cn": "绝大部分羚羊能把分娩期推迟几个星期, 甚至几个月."
+    },
+    {
+      "en": "Most antelopes, for example, can withhold their young for weeks, even months.",
+      "cn": "例如, 绝大部分羚羊能把分娩期推迟几个星期, 甚至几个月."
+    },
+    {
+      "en": "Mr Bush says legislators should withhold judgement until they have heard it.",
+      "cn": "布什表示立法者应在听取这个报告后再做判决."
+    },
+    {
+      "en": "Nixon and Rogers implored them to withhold the sanction.",
+      "cn": "尼克松和罗杰斯规劝他们不要把事情做绝."
+    },
+    {
+      "en": "Police withheld the dead boy's name yesterday until relatives could be told.",
+      "cn": "警察昨天拒绝在通知亲属前透露死去男孩的名字。"
+    },
+    {
+      "en": "The captain decided to withhold the terrible news even from his officers.",
+      "cn": "船长决定哪怕是对高级船员也要封锁这个可怕的消息。"
+    },
+    {
+      "en": "The dam was too weak to withhold the pressure of the rising water.",
+      "cn": "水坝不够牢固,抵挡不住水上涨的压力."
+    },
+    {
+      "en": "They neither give nor withhold from their excess.",
+      "cn": "他们既不捐献也不吝啬他们多余的东西."
+    },
+    {
+      "en": "This section is not authority to withhold information from Congress.",
+      "cn": "本条不得作为拒绝向国会提供情促的根据."
+    },
+    {
+      "en": "To deduct or withhold ( part of something due ) for an equitable reason.",
+      "cn": "扣除,扣留出于衡平的原因而减去或扣留 ( 到期某物的一部分 )"
+    },
+    {
+      "en": "You are no friend if you withhold from me the truth.",
+      "cn": "如果你不告诉我真相,你就不够朋友."
+    },
+    {
+      "en": "You have the right to withhold your custom if you so wish.",
+      "cn": "如果你这么不想来，你可以不再光顾。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "withholder",
+          "tran_cn": " 抑制因素"
+        },
+        {
+          "word": "withholding",
+          "tran_cn": " 扣缴税款"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "withholding",
+          "tran_cn": " 克制；阻挡（withhold的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abstain",
+            "deny",
+            "disallow",
+            "disclaim",
+            "keep",
+            "preserve",
+            "refuse",
+            "reserve",
+            "save"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "refrain from",
+            "forbear from"
+          ],
+          "tran_cn": "忍住；克制"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "keep",
+            "preserve",
+            "reserve",
+            "save"
+          ],
+          "tran_cn": "保留;保存"
+        },
+        {
+          "words": [
+            "deny",
+            "disallow",
+            "refuse"
+          ],
+          "tran_cn": "阻挡;不许"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "withhold information",
+      "tran_cn": "隐瞒消息"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "拒绝给，扣留",
+      "tran_en": "to refuse to give someone something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 拒绝， 不给； 抑制， 阻止； 隐瞒",
+      "tran_en": "to refuse to give someone something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "withholds"
+    ],
+    "past": [
+      "withheld"
+    ],
+    "done": [
+      "withheld"
+    ],
+    "ing": [
+      "withholding"
+    ]
+  }
+}

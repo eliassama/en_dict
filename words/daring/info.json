@@ -1,0 +1,205 @@
+{
+  "word": "daring",
+  "ipa": {
+    "us": "ˈdeərɪŋ",
+    "uk": "ˈderɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "\"Daring Adventures\" from '86 is a far more cohesive and successful album.",
+      "cn": "1986年发行的《勇于冒险》是一张风格更为统一也更为成功的专辑。"
+    },
+    {
+      "en": "a daring rescue attempt",
+      "cn": "大胆的营救行动"
+    },
+    {
+      "en": "A daring robbery took place yesterday.",
+      "cn": "昨天发生了一宗大胆的抢劫案."
+    },
+    {
+      "en": "a daring walk in space",
+      "cn": "勇敢的太空漫步"
+    },
+    {
+      "en": "Bergit was probably more daring than I was.",
+      "cn": "伯吉特可能比我更敢于冒险。"
+    },
+    {
+      "en": "He encouraged her to speak her mind , to be flippant and daring.",
+      "cn": "他鼓励她有什么说什么, 随便说,不拘束."
+    },
+    {
+      "en": "He performed many daring exploits.",
+      "cn": "他有过很多英勇事迹."
+    },
+    {
+      "en": "He showed great daring.",
+      "cn": "他显得很有胆量."
+    },
+    {
+      "en": "He was awarded a medal for his daring deeds.",
+      "cn": "他因勇敢的行为而获得奖牌."
+    },
+    {
+      "en": "His daring escape from prison gained him a certain notoriety.",
+      "cn": "他大胆的越狱使他臭名昭著."
+    },
+    {
+      "en": "His daring may have cost him his life.",
+      "cn": "他的冒险可能让他断送了性命。"
+    },
+    {
+      "en": "His daring rescue saved the lives of the youngsters.",
+      "cn": "他的大胆营救保住了那些年轻人的性命。"
+    },
+    {
+      "en": "It was a daring attempt but he carried it off.",
+      "cn": "那是个大胆的尝试,而他成功了."
+    },
+    {
+      "en": "The daring climbers laugh at danger.",
+      "cn": "勇敢无畏的登山者在危险面前泰然自若."
+    },
+    {
+      "en": "The daring rescue was one for the book.",
+      "cn": "这次大胆的营救行动实在了不起."
+    },
+    {
+      "en": "This was not by any means a daring expedition into the outback, it was a very unambitious exploration.",
+      "cn": "这绝不是什么冒险深入内地的远征，只是一次平淡无奇的探险而已。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "daringly",
+          "tran_cn": " 大胆地；毅然地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dare",
+          "tran_cn": " 挑战；挑动"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "dare",
+          "tran_cn": " 敢；胆敢"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "dare",
+          "tran_cn": " 敢冒；不惧"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "adventurous",
+            "audacious",
+            "bold",
+            "daredevil",
+            "fearless",
+            "foolhardy",
+            "reckless"
+          ],
+          "tran_cn": "大胆的;蛮横的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "courage",
+            "nerve",
+            "heart"
+          ],
+          "tran_cn": "胆量，勇气"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adventurous",
+            "audacious",
+            "backbone",
+            "bold",
+            "bravery",
+            "courageous",
+            "fearless",
+            "foolhardy",
+            "game",
+            "hardy",
+            "manly",
+            "nerve",
+            "presumptuous",
+            "prowess",
+            "valiant"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dare to be",
+      "tran_cn": "敢于做"
+    },
+    {
+      "phrase": "how dare you",
+      "tran_cn": "你敢；胆子真大啊"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "胆大的，勇敢的",
+      "tran_en": "involving a lot of risk or danger, or brave enough to do risky things"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "胆量，勇气",
+      "tran_en": "courage that makes you willing to take risks"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "敢，向…挑战（dare的现在分词）"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "more daring"
+    ],
+    "est": [
+      "most daring"
+    ],
+    "adv": [
+      "daringly"
+    ]
+  }
+}

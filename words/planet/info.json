@@ -1,0 +1,152 @@
+{
+  "word": "planet",
+  "ipa": {
+    "us": "ˈplænɪt",
+    "uk": "ˈplænɪt"
+  },
+  "sentences": [
+    {
+      "en": "Early astronomers thought that our planet was the centre of the universe.",
+      "cn": "早期的天文学家认为我们的星球是宇宙的中心。"
+    },
+    {
+      "en": "How many moons has the planet Jupiter?",
+      "cn": "木星有几个卫星?"
+    },
+    {
+      "en": "Long long ago, we knew the periodic motion of a planet.",
+      "cn": "很久以前, 我们就知道行星的周期运动."
+    },
+    {
+      "en": "Small meteorites have left impact craters all over the planet's surface.",
+      "cn": "这个行星的表面布满了小块陨石留下的撞击坑."
+    },
+    {
+      "en": "The blue whale is the largest living thing on the planet.",
+      "cn": "蓝鲸是地球上体型最大的生物。"
+    },
+    {
+      "en": "The gases that may be warming the planet will have their main effect many years hence.",
+      "cn": "可能正导致地球变暖的那些气体，其主要影响将在多年后显现。"
+    },
+    {
+      "en": "The name Vulcan was given to the undiscovered planet.",
+      "cn": "一颗不为人知的行星被命名为“祝融”。"
+    },
+    {
+      "en": "The new planet is about ten times the size of the earth.",
+      "cn": "新发现的行星大约是地球的10倍那么大。"
+    },
+    {
+      "en": "The newly discovered world followed an orbital path unlike that of any other planet.",
+      "cn": "新发现的这个天体具有不同于任何其他行星的运行轨道。"
+    },
+    {
+      "en": "The picture shows six of the nine planets in the solar system.",
+      "cn": "这张图片展示太阳系9个行星中的6个行星。"
+    },
+    {
+      "en": "the planet Earth",
+      "cn": "地球这颗行星"
+    },
+    {
+      "en": "The planet is probably in orbit around a small star.",
+      "cn": "这颗行星可能正环绕着一颗小恒星运行。"
+    },
+    {
+      "en": "The planet Jupiter may have no solid surface at all.",
+      "cn": "木星表面可能根本就不是固体的。"
+    },
+    {
+      "en": "The planet Mars will be visible to the naked eye all week.",
+      "cn": "整周都可以用肉眼观察到火星。"
+    },
+    {
+      "en": "The search party was teleported down to the planet's surface.",
+      "cn": "搜索队被传送到那个星球的表面。"
+    },
+    {
+      "en": "The URL for the Lonely Planet travel centre is http://www.lonelyplanet.com.",
+      "cn": "“孤独星球旅游中心”的网址是http：//www.lonelyplanet.com。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "planetary",
+          "tran_cn": " 行星的"
+        },
+        {
+          "word": "planetesimal",
+          "tran_cn": " 星子的；星子组成的；小行星体的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "planetesimal",
+          "tran_cn": " 小行星体；星子"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "giant planet",
+      "tran_cn": "巨行星"
+    },
+    {
+      "phrase": "minor planet",
+      "tran_cn": "[天]小行星"
+    },
+    {
+      "phrase": "planet carrier",
+      "tran_cn": "行星架；行星齿轮架"
+    },
+    {
+      "phrase": "planet earth",
+      "tran_cn": "行星地球（电视节目）"
+    },
+    {
+      "phrase": "planet gear",
+      "tran_cn": "行星齿轮"
+    },
+    {
+      "phrase": "planet wheel",
+      "tran_cn": "行星齿轮"
+    },
+    {
+      "phrase": "planet x",
+      "tran_cn": "未知行星；冥外行星"
+    },
+    {
+      "phrase": "red planet",
+      "tran_cn": "[口]火星"
+    },
+    {
+      "phrase": "secondary planet",
+      "tran_cn": "[天]卫星"
+    },
+    {
+      "phrase": "what planet are you on?",
+      "tran_cn": "(英， 非正式)［用以表示某人脱离了现实］你在哪颗行星上?"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "行星，地球",
+      "tran_en": "A planet is a large, round object in space that moves around a star. The Earth is a planet. "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "planets"
+    ]
+  }
+}

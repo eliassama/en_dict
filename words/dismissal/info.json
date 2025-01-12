@@ -1,0 +1,179 @@
+{
+  "word": "dismissal",
+  "ipa": {
+    "us": "dɪsˈmɪsl",
+    "uk": "dɪsˈmɪsəl"
+  },
+  "sentences": [
+    {
+      "en": "After the dismissal of the cook we had to make our meals ourselves.",
+      "cn": "打发厨师走后我们只得自已做饭."
+    },
+    {
+      "en": "Demands for his dismissal have gathered momentum in recent weeks.",
+      "cn": "最近几周，要求将他解职的呼声越来越高。"
+    },
+    {
+      "en": "Drunkenness at work was sufficient grounds for instant dismissal.",
+      "cn": "工作时醉酒足可导致立即被开除."
+    },
+    {
+      "en": "He looked blank when he was informed of his dismissal.",
+      "cn": "当被告知自己被解雇时,他显得茫然."
+    },
+    {
+      "en": "He recriminated against his employers for dismissal.",
+      "cn": "他反诉他的雇主开除他."
+    },
+    {
+      "en": "He sat there while I made the case for his dismissal.",
+      "cn": "他坐在那儿，听我陈述解雇他的理由。"
+    },
+    {
+      "en": "He told the tribunal his career had \"taken a nosedive\" since his dismissal last year.",
+      "cn": "他告诉仲裁委员会，自去年被解雇以来，他的职业生涯就陷入了低谷。"
+    },
+    {
+      "en": "He was blue over his dismissal.",
+      "cn": "他因被解雇而情绪低落."
+    },
+    {
+      "en": "His former chauffeur is claiming unfair dismissal on the grounds of racial discrimination.",
+      "cn": "他的前任司机声称自己因为种族歧视而遭到了不公平解雇。"
+    },
+    {
+      "en": "No dismissals have been announced yet.",
+      "cn": "尚未宣布有人被解雇。"
+    },
+    {
+      "en": "One of her employees sued her for wrongful dismissal.",
+      "cn": "有一名雇员起诉她非法解聘。"
+    },
+    {
+      "en": "She decided to sue her employer for wrongful dismissal.",
+      "cn": "她决定起诉雇主非法解雇她。"
+    },
+    {
+      "en": "She was awarded £5,000 in compensation for unfair dismissal.",
+      "cn": "她获判5,000英镑，作为遭到无理解雇的补偿。"
+    },
+    {
+      "en": "The dispute was touched off by the dismissal of a workman for insubordination.",
+      "cn": "这次争端是由解雇一名不服从命令的工人引起的."
+    },
+    {
+      "en": "The servant accepted his dismissal without any complaint.",
+      "cn": "那仆人毫无怨言地接受解雇."
+    },
+    {
+      "en": "The woman claims she was the victim of constructive dismissal after being demoted.",
+      "cn": "这位女士称她被降职后被迫离职，属于推定解雇。"
+    },
+    {
+      "en": "Wilson was claiming compensation for unfair dismissal .",
+      "cn": "威尔逊正在就无理解雇要求赔偿。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dismissible",
+          "tran_cn": " 可解雇的"
+        },
+        {
+          "word": "dismissive",
+          "tran_cn": " 表示轻视的；解雇的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dismission",
+          "tran_cn": " 解散；免职"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "dismiss",
+          "tran_cn": " 解散"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "dismiss",
+          "tran_cn": " 解散；解雇；开除；让...离开"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "discharge",
+            "displacement",
+            "eviction",
+            "expulsion",
+            "layoff",
+            "ousting",
+            "removal",
+            "sack"
+          ],
+          "tran_cn": "免职,开除"
+        },
+        {
+          "words": [
+            "adjournment",
+            "dissolution",
+            "end",
+            "release"
+          ],
+          "tran_cn": "打发"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "denial",
+            "deprivation",
+            "rejection"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "unfair dismissal",
+      "tran_cn": "不公平解雇"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "解雇，开除，不予考虑，不予理会",
+      "tran_en": "when someone is removed from their job"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "dismissals"
+    ]
+  }
+}

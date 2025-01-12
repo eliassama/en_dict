@@ -1,0 +1,205 @@
+{
+  "word": "infer",
+  "ipa": {
+    "us": "ɪnˈfɜː(r)",
+    "uk": "ɪnˈfɜːr"
+  },
+  "sentences": [
+    {
+      "en": "A lot can be inferred from these statistics.",
+      "cn": "根据这些统计资料可以推断出很多事情。"
+    },
+    {
+      "en": "Am I to infer ( from your remarks ) that you think I'm not telling the truth?",
+      "cn": "( 从你的话中 ) 看来你认为我没说实话?"
+    },
+    {
+      "en": "Enough information is available to infer that membranes serve in coordination.",
+      "cn": "现有足够的资料表明,膜起着协调作用."
+    },
+    {
+      "en": "From the evidence, we can infer that the victim knew her killer.",
+      "cn": "根据证据我们可以推断出受害者认识凶手。"
+    },
+    {
+      "en": "From the way he behaved I should infer that the man was drunk.",
+      "cn": "从他的举止我可以推断他醉了."
+    },
+    {
+      "en": "From this study we can reasonably infer that this behaviour is inherited.",
+      "cn": "根据这项研究我们可以合理地推断出这种行为是遗传的."
+    },
+    {
+      "en": "From your smile I infer that you're pleased.",
+      "cn": "从你的笑容,我断定你很高兴."
+    },
+    {
+      "en": "He can logically infer that if the battery is dead then the horn will not sound.",
+      "cn": "他可以符合逻辑地推测,如果蓄电池用完了,喇叭也就不会响了."
+    },
+    {
+      "en": "I infer that my proposal has been accepted.",
+      "cn": "我推测我的建议已被接受."
+    },
+    {
+      "en": "I inferred from what she said that you have not been well.",
+      "cn": "我从她的话里推断出你身体一直不大好。"
+    },
+    {
+      "en": "Let us attempt to infer some useful generalizations as we go.",
+      "cn": "当我们这样作时,力图推断出某些有益的一般性结论."
+    },
+    {
+      "en": "People usually infer an unknown fact from a known fact.",
+      "cn": "人们通常从已知的事实中推断未知的事实."
+    },
+    {
+      "en": "Rate meters infer a readout from a continuous stream.",
+      "cn": "速率统量计是从连续不断的流注中推出指示数据."
+    },
+    {
+      "en": "Rather, we infer that planetary systems must be quite common.",
+      "cn": "相反, 我们的结论是行星系统的存在一定相当普遍."
+    },
+    {
+      "en": "The Court is reluctant to infer preemption merely from the presence of comprehensive federal regulations.",
+      "cn": "法院不愿意仅仅由于存在内容全面的联邦法规就从中推论出先占权."
+    },
+    {
+      "en": "We may infer that this process, continued during centuries, would improve and modify any breed.",
+      "cn": "我们可以推想,这个方法, 如果继续到数百年之久, 必定会使任何品种得到改良."
+    },
+    {
+      "en": "What am I to infer from your remarks?",
+      "cn": "你说的话究竟是什么意思 呢 ?"
+    },
+    {
+      "en": "What do you infer from the voting figures?",
+      "cn": "你从选举数字中可以推出什么结论 呢 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inferential",
+          "tran_cn": " 推理的；推论的；根据推理的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inference",
+          "tran_cn": " 推理；推论；推断"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "allude",
+            "assume",
+            "calculate",
+            "conclude",
+            "construe",
+            "couch",
+            "deduce",
+            "derive",
+            "expect",
+            "gather",
+            "hint",
+            "imagine",
+            "imply",
+            "indicate",
+            "presume",
+            "reason",
+            "reckon",
+            "suggest",
+            "suppose",
+            "surmise",
+            "take",
+            "think"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "conclude",
+            "deduce from"
+          ],
+          "tran_cn": "推断；作出推论"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "assume",
+            "calculate",
+            "conclude",
+            "deduce",
+            "derive",
+            "expect",
+            "gather",
+            "imagine",
+            "presume",
+            "reason",
+            "reckon",
+            "suppose"
+          ],
+          "tran_cn": "推理;推断;推测"
+        },
+        {
+          "words": [
+            "hint",
+            "imply",
+            "indicate",
+            "suggest"
+          ],
+          "tran_cn": "暗示"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "推断，推理，暗示",
+      "tran_en": "to form an opinion that something is probably true because of information that you have"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 推论， 推断； 猜想",
+      "tran_en": "to form an opinion that something is probably true because of information that you have"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "infers"
+    ],
+    "past": [
+      "inferred"
+    ],
+    "done": [
+      "inferred"
+    ],
+    "ing": [
+      "inferring"
+    ]
+  }
+}

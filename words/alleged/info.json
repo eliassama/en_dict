@@ -1,0 +1,170 @@
+{
+  "word": "alleged",
+  "ipa": {
+    "us": "əˈledʒd",
+    "uk": "əˈledʒd"
+  },
+  "sentences": [
+    {
+      "en": "alleged irregularities in the election campaign",
+      "cn": "被指称竞选运动中的不正当行为"
+    },
+    {
+      "en": "Bryant is alleged to have used colourful language.",
+      "cn": "据称布赖恩特言语粗鲁。"
+    },
+    {
+      "en": "He alleged that they had hired an assassin to dispose of him.",
+      "cn": "他宣称他们已雇了刺客来除掉他。"
+    },
+    {
+      "en": "He is currently standing trial for alleged malpractices.",
+      "cn": "他被指控营私舞弊，正在受审。"
+    },
+    {
+      "en": "He was alleged to have used abusive language.",
+      "cn": "他被指称使用过侮辱性语言。"
+    },
+    {
+      "en": "He was also alleged to have conducted black magic ceremonies.",
+      "cn": "据称他还做了法。"
+    },
+    {
+      "en": "He was jailed for five years as an alleged British spy.",
+      "cn": "他被指控为英国间谍，入狱关押了5年。"
+    },
+    {
+      "en": "It was alleged that he had taken bribes while in office.",
+      "cn": "他被指称在任时收受贿赂。"
+    },
+    {
+      "en": "It was alleged that the restaurant discriminated against black customers.",
+      "cn": "据称该饭馆歧视黑人顾客。"
+    },
+    {
+      "en": "The accused is alleged to be a member of a right-wing gang.",
+      "cn": "据称被告是某右翼组织的成员。"
+    },
+    {
+      "en": "The Honduran press published reports of eighteen cases of alleged baby snatching.",
+      "cn": "洪都拉斯媒体报道了18起涉嫌偷拐婴儿的案件。"
+    },
+    {
+      "en": "There were fierce attacks on the BBC for alleged political bias.",
+      "cn": "英国广播公司因被指具有政治偏见而遭到猛烈抨击。"
+    },
+    {
+      "en": "They have begun a hunger strike in protest at the alleged beating.",
+      "cn": "他们已经开始了绝食以抗议所指称的打人事件。"
+    },
+    {
+      "en": "This sentence is totally disproportionate to the alleged offence.",
+      "cn": "从所犯罪行来看，这一量刑完全不合理。"
+    },
+    {
+      "en": "Two alleged collaborators were shot dead by masked activists.",
+      "cn": "两名涉嫌通敌者被蒙面的激进分子击毙。"
+    },
+    {
+      "en": "We were alleged to have brought goods into the country illegally.",
+      "cn": "我们被指控非法携带货物入境."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "allegedly",
+          "tran_cn": " 依其申述"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "allegation",
+          "tran_cn": " 主张，断言；辩解"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "allege",
+          "tran_cn": " 宣称，断言；提出…作为理由"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "doubtful",
+            "dubious",
+            "insinuated",
+            "presumed",
+            "purported",
+            "so-called",
+            "suspect",
+            "suspicious"
+          ],
+          "tran_cn": "可疑的,所谓的"
+        },
+        {
+          "words": [
+            "accused",
+            "affirmed",
+            "announced",
+            "asserted",
+            "asseverated",
+            "attested",
+            "averred",
+            "charged",
+            "claimed",
+            "declared",
+            "incriminated",
+            "indicted"
+          ],
+          "tran_cn": "断言的,宣称的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "claimed"
+          ],
+          "tran_cn": "宣称（allege的过去式和过去分词）；断言"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "声称的，被断言的，涉嫌的",
+      "tran_en": "an alleged crime, fact etc is one that someone says has happened or is true, although it has not been proved"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "断言，指称，宣称（allege的过去式和过去分词）"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "allegedly"
+    ],
+    "verb": [
+      "allege"
+    ]
+  }
+}

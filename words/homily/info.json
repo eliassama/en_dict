@@ -1,0 +1,76 @@
+{
+  "word": "homily",
+  "ipa": {
+    "us": "ˈhɒməli",
+    "uk": "ˈhɑməli"
+  },
+  "sentences": [
+    {
+      "en": "...a receptive audience for his homily on moral values.",
+      "cn": "...乐于倾听他关于道德价值观说教的观众。"
+    },
+    {
+      "en": "Palm Sunday, recap Fr Mark's homily, short and quite simple but impressed in my head.",
+      "cn": "圣枝主日, 重温神父马克讲道, 短期和深刻的印象很简单,但在我的脑袋."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "homiletic",
+          "tran_cn": " 说教的；教训的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "homiletics",
+          "tran_cn": " 讲道术，说教术"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "preachment",
+            "precept"
+          ],
+          "tran_cn": "说教；训诫"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "speech",
+            "thesis"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（长篇）说教，讲道，宣道",
+      "tran_en": "advice about how to behave that is often unwanted"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "homilies"
+    ]
+  }
+}

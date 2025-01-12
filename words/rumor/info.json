@@ -1,0 +1,188 @@
+{
+  "word": "rumor",
+  "ipa": {
+    "us": "ˈruːmə",
+    "uk": "ˈruːmə(r)"
+  },
+  "sentences": [
+    {
+      "en": "A rumor of a shortage stampeded people into laying in supplies.",
+      "cn": "缺货的谣言驱使人们囤积生活用品."
+    },
+    {
+      "en": "A rumor was soon handed around that he had been thrown into prison.",
+      "cn": "他被监禁的谣言不久就传开了."
+    },
+    {
+      "en": "A rumor was soon handed round that he had been thrown into prison.",
+      "cn": "他被监禁的谣言不久就传开了。"
+    },
+    {
+      "en": "A rumor went through the town.",
+      "cn": "谣言传遍全镇."
+    },
+    {
+      "en": "Have you heard the rumor floating around that the shop is going to close?",
+      "cn": "你听到谣传说那家店要关门了 吗 ?"
+    },
+    {
+      "en": "However, traders tended to discount the rumor.",
+      "cn": "然而，商人往往不相信这一谣传。"
+    },
+    {
+      "en": "In fact the rumor is without foundation.",
+      "cn": "事实上，这个谣传没有根据。"
+    },
+    {
+      "en": "Rumor has it that he is having an affair with his secretary.",
+      "cn": "谣传他和他的秘书有暧昧关系."
+    },
+    {
+      "en": "Rumor has it that you have grandson.",
+      "cn": "听说你有孙子了."
+    },
+    {
+      "en": "Rumor machine, stand by for a bulletin, Tanya thought.",
+      "cn": "坦妮亚心里在想, 谣言机器就要发通告了."
+    },
+    {
+      "en": "That’s twice what the unreliable rumor says.",
+      "cn": "这是那些不可靠的流言所说的两倍。"
+    },
+    {
+      "en": "The rumor emanated from Chicago.",
+      "cn": "谣言来自芝加哥."
+    },
+    {
+      "en": "The rumor has been traced back to a bad man.",
+      "cn": "那谣言经追查是个坏人造的."
+    },
+    {
+      "en": "The rumor has taken air.",
+      "cn": "谣言流传开了."
+    },
+    {
+      "en": "The rumor is false, so far as I can discover.",
+      "cn": "就我所看到的实情来说,那谣言是不真实的."
+    },
+    {
+      "en": "The rumor raised much conjecture.",
+      "cn": "谣言引起很多猜测."
+    },
+    {
+      "en": "The rumor rocked the whole city.",
+      "cn": "谣言使整个城市惊慌不安。"
+    },
+    {
+      "en": "There was a rumor of a flying saucer having been seen.",
+      "cn": "谣传有人看到飞碟."
+    },
+    {
+      "en": "When did you hear the rumor? - The day before yesterday.",
+      "cn": "你是什么时候听到这个谣言的？前天。"
+    },
+    {
+      "en": "When the boys saw her, they would said it again and again, and more boys and girls believed the rumor.",
+      "cn": "当男孩们看见她时，他们一次又一次说这件事，一些男孩和女孩相信了谣言。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rumormonger",
+          "tran_cn": " 造谣者；散布谣言者"
+        },
+        {
+          "word": "rumour",
+          "tran_cn": " 谣言"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rumour",
+          "tran_cn": " 传闻"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fame",
+            "hearsay"
+          ],
+          "tran_cn": "谣言；传闻"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dirt",
+            "hearsay",
+            "talk",
+            "tattle"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "broadcast",
+            "circulate",
+            "gossip",
+            "spread",
+            "word"
+          ],
+          "tran_cn": "散布;传播"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<美>传闻，[古]名誉，咕哝，[古]喧嚷"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "谣传；传说"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "谣传，传说"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rumors"
+    ],
+    "third": [
+      "rumors"
+    ],
+    "past": [
+      "rumored"
+    ],
+    "done": [
+      "rumored"
+    ],
+    "ing": [
+      "rumoring"
+    ]
+  }
+}

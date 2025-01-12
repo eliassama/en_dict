@@ -1,0 +1,131 @@
+{
+  "word": "smog",
+  "ipa": {
+    "us": "smɒɡ",
+    "uk": "smɑːɡ"
+  },
+  "sentences": [
+    {
+      "en": "attempts to reduce smog caused by traffic fumes",
+      "cn": "旨在降低车辆尾气造成的烟雾的措施"
+    },
+    {
+      "en": "Black smog reduced visibility to about fifty yards.",
+      "cn": "黑色的烟雾使能见度降到大约五十码左右."
+    },
+    {
+      "en": "Cars cause pollution, both smog and acid rain.",
+      "cn": "汽车造成的污染既有烟雾也有酸雨。"
+    },
+    {
+      "en": "Industry, it turned out, accounted for only ten percent of the smog in the city.",
+      "cn": "后来发现, 工业污染仅占该市空气污染的10%."
+    },
+    {
+      "en": "Smog clouded the whole city.",
+      "cn": "烟雾笼罩全城."
+    },
+    {
+      "en": "Smog has thickened the air.",
+      "cn": "烟雾使天空阴霾."
+    },
+    {
+      "en": "Smog hung in the sky ( over the city ).",
+      "cn": "( 城市 ) 上空烟雾弥漫."
+    },
+    {
+      "en": "Smog is a mixture of smoke and fog.",
+      "cn": "烟雾是烟和雾的混合物."
+    },
+    {
+      "en": "The air is polluted with the smother of traffic and industrial smog.",
+      "cn": "空气被令人窒息的车辆废气和工业烟雾污染了."
+    },
+    {
+      "en": "The river appeared as if enveloped in smog.",
+      "cn": "那条河好像笼罩在烟雾之中."
+    },
+    {
+      "en": "The sky over the city was overspread with a heavy smog.",
+      "cn": "城市上空罩上了一层烟雾."
+    },
+    {
+      "en": "The term photochemical oxidants refers to the secondary pollutants formed in photochemical smog.",
+      "cn": "光化学氧化剂这一词是指在光化学烟雾中生成的次生污染物."
+    },
+    {
+      "en": "This smog would blanket the cities for days.",
+      "cn": "这些烟雾笼罩在城市上空,数日不散."
+    },
+    {
+      "en": "This system is approved in California for local smog - station installation.",
+      "cn": "这种系统已通过了加利福尼亚州城市烟雾站的鉴定."
+    },
+    {
+      "en": "We were prevented by heavy smog from seeing anything.",
+      "cn": "浓雾使我们看不到任何东西."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "smoggy",
+          "tran_cn": " 烟雾弥漫的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cloudiness",
+            "fog",
+            "haziness",
+            "smoke"
+          ],
+          "tran_cn": "烟雾"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "atmosphere",
+            "cloud",
+            "cloudiness",
+            "fog",
+            "haziness",
+            "smoke",
+            "vapor"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "photochemical smog",
+      "tran_cn": "n. 光化雾"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "烟雾",
+      "tran_en": "dirty air that looks like a mixture of smoke and  fog  , caused by smoke from cars and factories in cities"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "smogs"
+    ]
+  }
+}

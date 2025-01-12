@@ -1,0 +1,108 @@
+{
+  "word": "infest",
+  "ipa": {
+    "us": "ɪnˈfest",
+    "uk": "ɪnˈfɛst"
+  },
+  "sentences": [
+    {
+      "en": "...pests like aphids which infest cereal crops.",
+      "cn": "…像蚜虫那样大肆侵害谷类作物的害虫。"
+    },
+    {
+      "en": "A lame cat is better than a swift horse when rats infest the palace.",
+      "cn": "宫殿有鼠患,瘸猫比快马强."
+    },
+    {
+      "en": "Mosquitoes and insects infest the damp area.",
+      "cn": "潮湿之地蚊虫孳生."
+    },
+    {
+      "en": "Several animals in sea water can infest wood.",
+      "cn": "海水中有好多动物能侵害木材."
+    },
+    {
+      "en": "They set gigantic drone robots loose over the planet and then infest it with organic monsters.",
+      "cn": "五面怪安插巨型机器人于塞伯坦星上,以作骚扰."
+    },
+    {
+      "en": "Vermin infest their youth, and fortunes must be spent for curative powders.",
+      "cn": "害虫侵扰他们的青春和财富必须为治疗粉花."
+    },
+    {
+      "en": "Watch out for fleas and ticks that may infest your pet.",
+      "cn": "密切注意是否有跳蚤在宠物身上.温热的天气给跳蚤提供了很好的生存环境."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "infestation",
+          "tran_cn": " 感染；侵扰"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "beset",
+            "overrun",
+            "plague"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "beset",
+            "crawl",
+            "overrun",
+            "plague",
+            "with"
+          ],
+          "tran_cn": "侵扰"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "骚扰；寄生于；大批出没；大批滋生",
+      "tran_en": "if insects, rats etc infest a place, there are a lot of them and they usually cause damage"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "大批出没，成群出现，在…上寄生，寄生于，骚扰",
+      "tran_en": "if insects, rats etc infest a place, there are a lot of them and they usually cause damage"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "infests"
+    ],
+    "past": [
+      "infested"
+    ],
+    "done": [
+      "infested"
+    ],
+    "ing": [
+      "infesting"
+    ],
+    "noun": [
+      "infestation"
+    ]
+  }
+}

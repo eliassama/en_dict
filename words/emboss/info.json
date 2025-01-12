@@ -1,0 +1,75 @@
+{
+  "word": "emboss",
+  "ipa": {
+    "us": "ɪmˈbɒs",
+    "uk": "ɪmˈbɔs"
+  },
+  "sentences": [
+    {
+      "en": "For the bullet hole part it's really simple, we use an Emboss with these settings.",
+      "cn": "子弹孔部分的样式设置很简单, 我们在这里用了浮雕的效果."
+    },
+    {
+      "en": "Sticking and stitching tongue emboss Sticking and stitching vamp.",
+      "cn": "贴车舌面烙印商标:贴车后套商标."
+    },
+    {
+      "en": "Use the image below for the values of the Bevel and Emboss.",
+      "cn": "用这个底层的图片为斜面与浮雕设置值."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "embossment",
+          "tran_cn": " 浮雕；凸起"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "paint",
+            "hang"
+          ],
+          "tran_cn": "使凸出；在……上作浮雕图案；装饰"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "饰以浮饰, 使浮雕出来",
+      "tran_en": "to mould or carve (a decoration or design) on (a surface) so that it is raised above the surface in low relief "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "装饰，浮雕（图案），压印浮凸字体（或图案），凹凸印"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "embosses"
+    ],
+    "past": [
+      "embossed"
+    ],
+    "done": [
+      "embossed"
+    ],
+    "ing": [
+      "embossing"
+    ],
+    "adj": [
+      "embossed"
+    ]
+  }
+}

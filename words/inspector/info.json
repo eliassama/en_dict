@@ -1,0 +1,177 @@
+{
+  "word": "inspector",
+  "ipa": {
+    "us": "ɪnˈspektə(r)",
+    "uk": "ɪnˈspɛktɚ"
+  },
+  "sentences": [
+    {
+      "en": "\"I don't understand,\" the Inspector mumbled, passing a hand through his hair.",
+      "cn": "“我不明白，”巡官一边嘟囔道，一边用手捋了一下头发。"
+    },
+    {
+      "en": "a Health and Safety inspector",
+      "cn": "健康安全督察员"
+    },
+    {
+      "en": "Back at the station the Chief Inspector returned the call.",
+      "cn": "探长回到警察局后回了电话。"
+    },
+    {
+      "en": "Has Inspector Fayard put you in the picture?",
+      "cn": "法亚尔督察把情况都告诉你了吗？"
+    },
+    {
+      "en": "I can deal direct with your Inspector Kimble.",
+      "cn": "我可以跟你们的金布尔巡官当面交谈。"
+    },
+    {
+      "en": "I got on the phone to Inspector Joplin at Scotland Yard.",
+      "cn": "我与伦敦警察厅的乔普林巡官通过电话了。"
+    },
+    {
+      "en": "Inspector Banbury came up to see her, but she sent him away.",
+      "cn": "班伯里巡官过来看她，却被她打发走了。"
+    },
+    {
+      "en": "Inspector Blake",
+      "cn": "督察布莱克"
+    },
+    {
+      "en": "Last week gunmen attacked Mogadishu airport killing a police inspector.",
+      "cn": "上周持枪歹徒袭击了摩加迪沙机场，杀死了一名警察巡官。"
+    },
+    {
+      "en": "She might expose his crooked business deals to her tax inspector brother.",
+      "cn": "她可能会向当税务稽查员的哥哥揭发他那些不正当的交易。"
+    },
+    {
+      "en": "Standards of discipline at the school were strongly criticized in the inspector’s report.",
+      "cn": "督察员在报告里狠狠地批评了这所学校的纪律水准。"
+    },
+    {
+      "en": "The Chief Inspector disliked being overburdened with insignificant detail.",
+      "cn": "总督察讨厌在细枝末节上没完没了地纠缠。"
+    },
+    {
+      "en": "The document was duly signed by the inspector.",
+      "cn": "这份文件已由检查员签妥。"
+    },
+    {
+      "en": "The inspector dutifully recorded the date in a large red book.",
+      "cn": "检查员很尽职地在一本大红册子上记下了日期。"
+    },
+    {
+      "en": "The Inspector opened the packet of cigarettes.",
+      "cn": "检查员撕开了那包香烟。"
+    },
+    {
+      "en": "The Inspector took out a handker-chief and mopped his brow.",
+      "cn": "检察员掏出手帕，擦了擦眉头。"
+    },
+    {
+      "en": "The story is told through the eyes of Inspector Simon Potter.",
+      "cn": "这个故事是从西蒙·波特巡官的视角讲述的。"
+    },
+    {
+      "en": "ticket inspectors",
+      "cn": "查票员"
+    },
+    {
+      "en": "You can go home afterwards and watch Inspector Morse in colour.",
+      "cn": "之后你就可以回家，看彩色版的电视连续剧《摩斯警长》。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inspection",
+          "tran_cn": " 视察，检查"
+        },
+        {
+          "word": "inspectorate",
+          "tran_cn": " 检查员；视察团；检查员的辖区"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "inspect",
+          "tran_cn": " 进行检查；进行视察"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "inspect",
+          "tran_cn": " 检查；视察；检阅"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "supervisor",
+            "looker"
+          ],
+          "tran_cn": "[经管][交]检查员；巡视员"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "censor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inspector general",
+      "tran_cn": "n. 监察长；检查长"
+    },
+    {
+      "phrase": "police inspector",
+      "tran_cn": "警察分局局；派出所所长"
+    },
+    {
+      "phrase": "quality inspector",
+      "tran_cn": "质量检验员"
+    },
+    {
+      "phrase": "school inspector",
+      "tran_cn": "n. 督学"
+    },
+    {
+      "phrase": "ticket inspector",
+      "tran_cn": "n. 查票员；收票员"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "检查员，（英国公共汽车或火车上的）查票员，（警察）巡官，检阅官",
+      "tran_en": "an official whose job is to check that something is satisfactory and that rules are being obeyed"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "inspectors"
+    ]
+  }
+}

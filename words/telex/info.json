@@ -1,0 +1,158 @@
+{
+  "word": "telex",
+  "ipa": {
+    "us": "ˈteleks",
+    "uk": "ˈtɛlˌɛks"
+  },
+  "sentences": [
+    {
+      "en": "Ah , by letter or by telex?",
+      "cn": "用信还是电传?"
+    },
+    {
+      "en": "He rushed in with an urgent telex from Hong Kong.",
+      "cn": "他手里拿着一份香港发来的紧急电传冲了进来."
+    },
+    {
+      "en": "He sent a telex to the British High Commission in Delhi.",
+      "cn": "他给德里的英国高级专员公署发了份电传。"
+    },
+    {
+      "en": "Here's the telex . You may read it.",
+      "cn": "请你看看电文."
+    },
+    {
+      "en": "How do you go about repairing this telex machine?",
+      "cn": "你怎样着手修理这架电传机?"
+    },
+    {
+      "en": "I had to send an urgent telex.",
+      "cn": "我得发一份紧急电传."
+    },
+    {
+      "en": "I shall send you the information by telex.",
+      "cn": "我将用电传把这一信息给你传来."
+    },
+    {
+      "en": "It needs qualified office personnel and good telephone and telex communications.",
+      "cn": "它需要有称职的公务人员,良好的电话、电传通讯设施."
+    },
+    {
+      "en": "KuwaIt'stock Exchange: POB 222235 , Kuwait City ; telex 44015 ; f . 1893.",
+      "cn": "科威特证券交易所: 科威特城; 1893年成立."
+    },
+    {
+      "en": "No , but as we haven't responded, I suspect it must have been by telex.",
+      "cn": "因为我们没回, 我想是用电传发的."
+    },
+    {
+      "en": "Please notify us of L / C number by telex immediately.",
+      "cn": "请立即电传通知我方信用证号码."
+    },
+    {
+      "en": "The telegraphic ( cable, telex ) address of the guest house is 6080.",
+      "cn": "招待所的电报 ( 海底电报 、 用户电报 ) 挂号是6080."
+    },
+    {
+      "en": "The telex chattered all day and night with news bulletins.",
+      "cn": "电传机没日没夜“嗒嗒嗒”地接收新闻稿。"
+    },
+    {
+      "en": "This is a list of our products. If interested, please telex.",
+      "cn": "这是敝公司的商品目录. 有意请电传."
+    },
+    {
+      "en": "Yesterday evening I received a telex from my head office.",
+      "cn": "昨晚我收到总部发来的电传."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "teletypewriter",
+          "tran_cn": "电传打字机"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "televise",
+          "tran_cn": "电视播放"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "televise",
+          "tran_cn": "用电视播放"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "telegram"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "telex release",
+      "tran_cn": "电放；电放费；电报放货"
+    },
+    {
+      "phrase": "tested telex",
+      "tran_cn": "加押电传"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "用户直通电报，电传，电传收发机",
+      "tran_en": "a message sent or received by telex"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "用电传拍发；用直通电报拍发",
+      "tran_en": "If you telex a message to someone, you send it to them by telex"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "发电传"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用直通电报拍发"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "telexes"
+    ],
+    "third": [
+      "telexes"
+    ],
+    "past": [
+      "telexed"
+    ],
+    "done": [
+      "telexed"
+    ],
+    "ing": [
+      "telexing"
+    ]
+  }
+}

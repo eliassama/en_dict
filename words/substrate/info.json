@@ -1,0 +1,136 @@
+{
+  "word": "substrate",
+  "ipa": {
+    "us": "ˈsʌbstreɪt",
+    "uk": "ˈsʌbˌstret"
+  },
+  "sentences": [
+    {
+      "en": "A circuit whose elements are films of a few molecules thick, formed on aninsulating substrate.",
+      "cn": "一种电路,它的元件是在绝缘基片上形成的几个分子厚的膜."
+    },
+    {
+      "en": "A highly localized, specialized piece of substrate is densely overgrown.",
+      "cn": "菌体稠密地长满了一小块高度局限的特化的基质上."
+    },
+    {
+      "en": "A planar film of refractive index nf is sandwiched between a substrate and a cover material.",
+      "cn": "折射率为nf的平面薄膜夹在折射率较低的衬底和覆盖层之间."
+    },
+    {
+      "en": "After reflow, carefully remove substrate with components and allow to cool.",
+      "cn": "回流后, 仔细拿开带组件的基板,并使之冷却."
+    },
+    {
+      "en": "As chemical precursors stream onto the surface of a rolling metal or plastic substrate, they react with one another to form a network of nanoparticles.",
+      "cn": "各化学母质流向滚动中的金属或塑料基片的表面，他们互相作用，形成一层纳米级微粒网状结构。"
+    },
+    {
+      "en": "Fundamentally, these paradigms can be (and are) built on top of a substrate of threads and locks, but they create higher level abstractions that push much of that complexity down.",
+      "cn": "从根本上讲，这些范例可以（且是）构建于线程和锁的基底之上，但是它们创建降低复杂度的更高的抽象级别。"
+    },
+    {
+      "en": "Glutamine rather than ammonia may be the preferential substrate.",
+      "cn": "谷酰胺可能是比氨还要合适的底物."
+    },
+    {
+      "en": "Many bacteria can thrive upon very simple substrate.",
+      "cn": "很多细菌在很简单的基质中也能很好地繁殖."
+    },
+    {
+      "en": "Pigments that retard to the corrosion in the substrate.",
+      "cn": "能够延缓基材腐蚀的一种颜料."
+    },
+    {
+      "en": "Succinate was the most effective substrate in following oxygen consumption.",
+      "cn": "琥珀酸盐在以后的氧消耗中是最有效的基质."
+    },
+    {
+      "en": "The crown - rust fungus has changed continuously in response to the living substrate provided by man.",
+      "cn": "冠锈菌随着人们所提供的生活基物而不断变化."
+    },
+    {
+      "en": "The effect of substrate temperature on the accumulation of disorder is substantial.",
+      "cn": "衬底温度对于无序区积累的影响是很显著的."
+    },
+    {
+      "en": "The element employs a bifilar wound wire grid on an insulating substrate.",
+      "cn": "元件系用双股绕线网缠绕在一块绝缘基板上."
+    },
+    {
+      "en": "The first requirement for any adhesive bond is that the adhesive most wet the substrate.",
+      "cn": "对所有粘结剂粘结的首先要求,就是必须能浸润基材."
+    },
+    {
+      "en": "The gardener talked about the proper substrate for acid - loving plants.",
+      "cn": "园艺师讨论了适合喜酸性植物的土层."
+    },
+    {
+      "en": "The rate of substrate change is dependent of substrate concentration.",
+      "cn": "被酶作用物变化速率取决于被酶作用物的浓度."
+    },
+    {
+      "en": "This means that a file system would serve as a reasonable substrate for a synchronization database.",
+      "cn": "这意味着文件系统作为同步数据库的底层支持是合情合理的。"
+    },
+    {
+      "en": "We shall consider the case of a flat substrate first.",
+      "cn": "我们首先考虑平面基底的情况."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "substratum",
+          "tran_cn": " 基础；根据；下层"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "matrix",
+            "ground substance"
+          ],
+          "tran_cn": "基质；基片；底层（等于substratum）；酶作用物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ceramic substrate",
+      "tran_cn": "陶瓷；陶瓷基片；陶瓷衬底"
+    },
+    {
+      "phrase": "glass substrate",
+      "tran_cn": "玻璃衬底"
+    },
+    {
+      "phrase": "silicon substrate",
+      "tran_cn": "硅衬底"
+    },
+    {
+      "phrase": "substrate bias",
+      "tran_cn": "衬底偏置"
+    },
+    {
+      "phrase": "substrate material",
+      "tran_cn": "基材"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "底物，底层，基底，基层",
+      "tran_en": "the substance upon which an enzyme acts "
+    }
+  ],
+  "exchange": {}
+}

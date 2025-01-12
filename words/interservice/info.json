@@ -1,0 +1,23 @@
+{
+  "word": "interservice",
+  "ipa": {
+    "us": "ˌɪntə'sɜ:vɪs",
+    "uk": "ˌɪntə'sɜvɪs"
+  },
+  "sentences": [
+    {
+      "en": "Because of interservice communication, one public API-layer update method can invoke another public API-layer update method.",
+      "cn": "由于执行服务之间的通信，一个公共 API 层更新方法可以调用另一个公共 API 层更新方法。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "各军种间的"
+    }
+  ],
+  "exchange": {}
+}

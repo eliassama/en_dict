@@ -1,0 +1,86 @@
+{
+  "word": "substratum",
+  "ipa": {
+    "us": "ˈsʌbstrɑ:təm",
+    "uk": "ˈsʌbstreɪtəm"
+  },
+  "sentences": [
+    {
+      "en": "a social substratum",
+      "cn": "社会底层"
+    },
+    {
+      "en": "a substratum of rock",
+      "cn": "底层岩石"
+    },
+    {
+      "en": "His re-creation of the city is credible, with a substratum of fact to bolster the fiction.",
+      "cn": "他对该城历史的再现是可信的，虚构的小说情节隐念着一些事实作为支撑。"
+    },
+    {
+      "en": "The best nutrition supply was basic substratum mixed with rapeseed cake liquid.",
+      "cn": "营养供给以基本基质加菜籽饼水液为佳."
+    },
+    {
+      "en": "The story has a substratum of truth.",
+      "cn": "这故事有事实的基础."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "substrate",
+          "tran_cn": " 基质；基片；底层（等于substratum）；酶作用物"
+        },
+        {
+          "word": "substructure",
+          "tran_cn": " 基础；信念；底部构造"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "foundation",
+            "elements",
+            "basis",
+            "base",
+            "bed"
+          ],
+          "tran_cn": "基础；根据；下层"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bed",
+            "layer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "底层，下层",
+      "tran_en": "a layer that lies beneath another layer, especially in the earth"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "substrata"
+    ]
+  }
+}

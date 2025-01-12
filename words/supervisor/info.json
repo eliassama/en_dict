@@ -1,0 +1,217 @@
+{
+  "word": "supervisor",
+  "ipa": {
+    "us": "ˈsuːpəvaɪzə(r)",
+    "uk": "ˈsuːpərvaɪzər"
+  },
+  "sentences": [
+    {
+      "en": "...a full-time job as a supervisor at a factory.",
+      "cn": "…在一家工厂担任监督员的一项全职工作。"
+    },
+    {
+      "en": "Ann really fancies her chances of promotion to the vacant job of chief supervisor.",
+      "cn": "安过分自信她会被提升到还空缺的主管人的职位."
+    },
+    {
+      "en": "Each student has a supervisor to advise on the writing of the dissertation.",
+      "cn": "每个学生都有导师指导他们写论文。"
+    },
+    {
+      "en": "Have you decided yet who's going to be the day shift supervisor?",
+      "cn": "你决定提升谁做白天班的主管了 吗 ?"
+    },
+    {
+      "en": "He said I was too flighty to be a good supervisor.",
+      "cn": "他说我太轻浮不能成为一名好的管理员."
+    },
+    {
+      "en": "He said that he needed to get his supervisor to authorize my refund.",
+      "cn": "他说必须让主管人员批准我的退款."
+    },
+    {
+      "en": "His supervisor recommended that he be promoted to junior programmer.",
+      "cn": "他的上司推荐他晋升为初级程序员."
+    },
+    {
+      "en": "I have a meeting with my supervisor about my research topic.",
+      "cn": "我要就我的研究课题同导师见一次面。"
+    },
+    {
+      "en": "Soon after, Joe was promoted to senior supervisor.",
+      "cn": "不久, 乔被升为高级总管."
+    },
+    {
+      "en": "Sylvia does not get on with the supervisor and the danger is that he will trump up some charge to discredit her.",
+      "cn": "西尔维亚与主管人相处得不好,因而害怕他会捏造一些罪名使她名誉扫地."
+    },
+    {
+      "en": "The maintenance supervisor would dispatch a crew to repair the damage.",
+      "cn": "维修管理人将派一组人去修理损坏的地方."
+    },
+    {
+      "en": "The malcontent is gunning for his supervisor.",
+      "cn": "那个心怀不满的人在伺机加害他的上司."
+    },
+    {
+      "en": "The supervisor recommended me for a promotion.",
+      "cn": "导师推荐我晋升."
+    },
+    {
+      "en": "The supervisor said that the new potato peeling machine would come tomorrow.",
+      "cn": "管理员说新的马铃薯剥皮机明天就送来了."
+    },
+    {
+      "en": "The workers always fool around when the supervisor steps out.",
+      "cn": "当工头一走开,工人就到处游荡."
+    },
+    {
+      "en": "The'supervisor \" gleefully clapped and shouted.",
+      "cn": "那个 “ 监工 ” 兴高采烈地拍着手叫着."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "supervised",
+          "tran_cn": " 有监督的"
+        },
+        {
+          "word": "supervisory",
+          "tran_cn": " 监督的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "supervising",
+          "tran_cn": " [自] 监控"
+        },
+        {
+          "word": "supervision",
+          "tran_cn": " 监督，管理"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "supervised",
+          "tran_cn": " 监督（supervise的过去式和过去分词）；指导"
+        },
+        {
+          "word": "supervising",
+          "tran_cn": " 监督；管理；指导（supervise的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "supervise",
+          "tran_cn": " 监督，管理；指导"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "supervise",
+          "tran_cn": " 监督，管理；指导"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "administrator",
+            "conductor"
+          ],
+          "tran_cn": "监督人，[管理]管理人；检查员"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "administrator",
+            "conductor",
+            "director",
+            "foreman",
+            "governor",
+            "leader",
+            "manager",
+            "superintendent"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "accounting supervisor",
+      "tran_cn": "会计主管；财务主管"
+    },
+    {
+      "phrase": "operation supervisor",
+      "tran_cn": "操作管理程序，操作主管人"
+    },
+    {
+      "phrase": "production supervisor",
+      "tran_cn": "生产主管"
+    },
+    {
+      "phrase": "project supervisor",
+      "tran_cn": "项目主管"
+    },
+    {
+      "phrase": "purchasing supervisor",
+      "tran_cn": "采购主管"
+    },
+    {
+      "phrase": "safety supervisor",
+      "tran_cn": "安全监督员；安全督导员"
+    },
+    {
+      "phrase": "sales supervisor",
+      "tran_cn": "销售主管；销售监管；销售主任"
+    },
+    {
+      "phrase": "supervisor mode",
+      "tran_cn": "管态，管理方式；监督模态"
+    },
+    {
+      "phrase": "warehouse supervisor",
+      "tran_cn": "仓库主管；仓库管理人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "管理者，监督者，指导者",
+      "tran_en": "someone who supervises a person or activity"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "supervisors"
+    ],
+    "adj": [
+      "supervisory"
+    ]
+  }
+}

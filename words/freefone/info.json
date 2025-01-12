@@ -1,0 +1,36 @@
+{
+  "word": "freefone",
+  "ipa": {
+    "us": "",
+    "uk": "'friːfəun"
+  },
+  "sentences": [
+    {
+      "en": "Ring the operator and ask for Freefone 8921.",
+      "cn": "接通接线生,然后要免费通话8921号."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "toll-free number"
+          ],
+          "tran_cn": "免费电话；话费总付电话"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "话费总付电话，免费电话",
+      "tran_en": "A Freefone telephone number is one which you can dial without having to pay for the call"
+    }
+  ],
+  "exchange": {}
+}

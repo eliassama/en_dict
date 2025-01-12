@@ -1,0 +1,275 @@
+{
+  "word": "boot",
+  "ipa": {
+    "us": "buːt",
+    "uk": "buːt"
+  },
+  "sentences": [
+    {
+      "en": "a pair of boots",
+      "cn": "一双靴子"
+    },
+    {
+      "en": "As we drew near, I saw that the boot lid was up.",
+      "cn": "我们靠近时,我看见汽车行李箱的盖子翘了起来."
+    },
+    {
+      "en": "Canberra's cabbies go in boots and all for a fair deal.",
+      "cn": "堪培拉的出租车司机一心只为做上一笔公道的生意。"
+    },
+    {
+      "en": "Go over to your PC and boot it up.",
+      "cn": "去启动你的个人电脑。"
+    },
+    {
+      "en": "Harris got a rope from the car boot.",
+      "cn": "哈里斯从汽车行李箱里拿出一条绳子。"
+    },
+    {
+      "en": "He is making money and receiving free advertising to boot!",
+      "cn": "他既挣了钱，又做了免费的广告！"
+    },
+    {
+      "en": "hiking boots",
+      "cn": "远足靴"
+    },
+    {
+      "en": "His girl gave him the boot.",
+      "cn": "他被女友抛弃了。"
+    },
+    {
+      "en": "I can boot up from a floppy disk, but that's all.",
+      "cn": "我可以用一张软盘来启动，但其他的就无能为力了。"
+    },
+    {
+      "en": "I helped her stow her bags in the boot of the car.",
+      "cn": "我帮她将包放进汽车行李箱里。"
+    },
+    {
+      "en": "Our real bete noire is the car boot sale.",
+      "cn": "我们最烦那些用汽车后备箱摆摊卖旧货的。"
+    },
+    {
+      "en": "Put the luggage in the boot.",
+      "cn": "把行李放在汽车行李箱里."
+    },
+    {
+      "en": "Stick the boot in, pal!",
+      "cn": "朋友, 用靴子踢!"
+    },
+    {
+      "en": "The officer stamped his boot. \"Don't be insolent with me, mademoiselle.\"",
+      "cn": "军官跺跺靴子：“小姐，别对我无礼。”"
+    },
+    {
+      "en": "The outline of Italy suggests a boot.",
+      "cn": "意大利的轮廓像只长统靴."
+    },
+    {
+      "en": "They have to be thin, attractive and well-dressed to boot.",
+      "cn": "她们必须得既苗条又迷人，而且一定要打扮漂亮。"
+    },
+    {
+      "en": "What he needs is a good boot up the backside!",
+      "cn": "他需要的是在他屁股上狠狠踢一脚."
+    },
+    {
+      "en": "you can bet your boots that the patrol has raised the alarm.",
+      "cn": "巡逻兵肯定已经发出警报了。"
+    },
+    {
+      "en": "Your boot lace is untied.",
+      "cn": "你靴子上的鞋带松了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "booted",
+          "tran_cn": " 穿靴的"
+        },
+        {
+          "word": "bootless",
+          "tran_cn": " 无用的；无益的；无利可图的；没穿鞋的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bootlegging",
+          "tran_cn": " 穿靴筒；非法制造私酒"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "booted",
+          "tran_cn": " 踢（boot的过去式和过去分词）；使穿靴"
+        },
+        {
+          "word": "bootlegging",
+          "tran_cn": " 非法制造；秘密得到（bootleg的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "kick"
+          ],
+          "tran_cn": "靴子；踢；汽车行李箱"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "kick",
+            "shoe"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "aim",
+            "kick"
+          ],
+          "tran_cn": "引导；踢；解雇；使穿靴"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "boot camp",
+      "tran_cn": "n. ［美口］海军训练新兵之营地"
+    },
+    {
+      "phrase": "boot device",
+      "tran_cn": "启动设备；引导设备"
+    },
+    {
+      "phrase": "boot loader",
+      "tran_cn": "引导装载程序"
+    },
+    {
+      "phrase": "boot menu",
+      "tran_cn": "启动菜单；引导菜单；开机选单"
+    },
+    {
+      "phrase": "boot record",
+      "tran_cn": "引导记录"
+    },
+    {
+      "phrase": "boot sector",
+      "tran_cn": "n. 引导扇区；启动磁区"
+    },
+    {
+      "phrase": "boot up",
+      "tran_cn": "启动"
+    },
+    {
+      "phrase": "boots and all",
+      "tran_cn": "(澳/新西兰，非正式)不受约束地；全心全意地"
+    },
+    {
+      "phrase": "die with one's boots on",
+      "tran_cn": "战死；工作时死去"
+    },
+    {
+      "phrase": "disk boot failure",
+      "tran_cn": "系统引导失败；磁盘自举失败"
+    },
+    {
+      "phrase": "get the boot",
+      "tran_cn": "(非正式)被解雇"
+    },
+    {
+      "phrase": "give someone the boot",
+      "tran_cn": "(非正式)解雇"
+    },
+    {
+      "phrase": "old boot",
+      "tran_cn": "(非正式)老丑妇"
+    },
+    {
+      "phrase": "put the boot in",
+      "tran_cn": "[主英国俚语]"
+    },
+    {
+      "phrase": "put the boot in (或 into someone)",
+      "tran_cn": "(英，非正式)（在对方倒地后）狠狠踢上一脚"
+    },
+    {
+      "phrase": "rain boot",
+      "tran_cn": "n. 雨鞋"
+    },
+    {
+      "phrase": "remote boot",
+      "tran_cn": "远程自举；远程引导"
+    },
+    {
+      "phrase": "rubber boot",
+      "tran_cn": "胶靴；橡皮罩；橡胶套"
+    },
+    {
+      "phrase": "the boot (或 北美",
+      "tran_cn": "情况变得与原来相反"
+    },
+    {
+      "phrase": "to boot",
+      "tran_cn": "并且；加之"
+    },
+    {
+      "phrase": "with one's heart in one's boots",
+      "tran_cn": "极为悲观消沉"
+    },
+    {
+      "phrase": "you (can) bet your boots",
+      "tran_cn": "(非正式)准保没错，有把握"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "靴子，猛踢，（汽车）行李箱",
+      "tran_en": "a type of shoe that covers your whole foot and the lower part of your leg"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "猛踢，装入操作系统",
+      "tran_en": "to kick someone or something hard"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "boots"
+    ],
+    "third": [
+      "boots"
+    ],
+    "past": [
+      "booted"
+    ],
+    "ing": [
+      "booting"
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "word": "modeling",
+  "ipa": {
+    "us": "'mɒdlɪŋ",
+    "uk": "'mɒdəlɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A component prototype modeling method based on semantics was suggested.",
+      "cn": "提出了一种基于语义的组件化样机建模方法."
+    },
+    {
+      "en": "By accurately modeling the yield we can predict the cost and availability of future circuits.",
+      "cn": "依靠正确的模型化成品率,我们就能够对将来电路的成本和实用性作出预测."
+    },
+    {
+      "en": "Current sources are most useful in modeling the behavior of transistors.",
+      "cn": "电流源在模拟晶体管特性时极其有用."
+    },
+    {
+      "en": "Exact modeling of gear teeth is based on meshing theory.",
+      "cn": "摘要根据齿轮啮合原理,建立了轮齿的精确齿形."
+    },
+    {
+      "en": "He's modeling a unicorn in wax.",
+      "cn": "他在用蜡制作独角兽."
+    },
+    {
+      "en": "He's modeling the girl's head in clay.",
+      "cn": "他在用粘土制作女孩的头部塑像."
+    },
+    {
+      "en": "I've been modeling for this lingerie company for three years now.",
+      "cn": "到现在为止我已经为这个设计女式内衣的公司做了3年的模特了."
+    },
+    {
+      "en": "Modeling travel behavior constitutes the basis of planning and managing transportation systems.",
+      "cn": "研究交通行为是科学规划与管理交通系统的基础."
+    },
+    {
+      "en": "New Development on Numerical Modeling in building Services Engineering.",
+      "cn": "建筑设备数值模拟技术最新进展“,”"
+    },
+    {
+      "en": "She earns a living by modeling clothes.",
+      "cn": "她做时装模特以谋生."
+    },
+    {
+      "en": "She'd like to be a film actress, but at present she's modeling.",
+      "cn": "她想当电影演员, 但现在她在做模特儿."
+    },
+    {
+      "en": "Spline included for the hair, eyelashes modeling and the hand.",
+      "cn": "我用曲线的方法创建头发 、 眼睫毛和手."
+    },
+    {
+      "en": "This method has been applied in practical 3 d modeling tasks.",
+      "cn": "该方法已应用于实际三维建模工作中."
+    },
+    {
+      "en": "This set of dough modeling creatures is delicate, and vivid.",
+      "cn": "这套面塑人物真是做工精巧, 栩栩如生."
+    },
+    {
+      "en": "What modeling program are you using ( include version number )?",
+      "cn": "您现在用的是哪种建模程序 ( 包括版本号 )?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "model",
+          "tran_cn": " 模范的；作模型用的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "model",
+          "tran_cn": " 模型；典型；模范；模特儿；样式"
+        },
+        {
+          "word": "modeler",
+          "tran_cn": " 塑造者；制造模型者（model的名词形式）"
+        },
+        {
+          "word": "modelling",
+          "tran_cn": " 模化；立体感；模特儿职业（等于modeling）"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "modelling",
+          "tran_cn": " 模仿（model的ing形式）；做模型"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "model",
+          "tran_cn": " 做模型；做模特儿"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "model",
+          "tran_cn": " 模拟；塑造；模仿"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "stereoscopic impression",
+            "third dimension"
+          ],
+          "tran_cn": "[自]建模，造型；立体感"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "behavior modeling",
+      "tran_cn": "行为建模；行为模拟；行为模仿"
+    },
+    {
+      "phrase": "computer modeling",
+      "tran_cn": "计算机模拟；计算机建模；计算机模拟技术"
+    },
+    {
+      "phrase": "data modeling",
+      "tran_cn": "数据建模"
+    },
+    {
+      "phrase": "geometric modeling",
+      "tran_cn": "几何造型；几何建模；图形表示法；形状记述法"
+    },
+    {
+      "phrase": "mathematical modeling",
+      "tran_cn": "数学建模；数学模拟"
+    },
+    {
+      "phrase": "modeling algorithm",
+      "tran_cn": "建模算法"
+    },
+    {
+      "phrase": "modeling language",
+      "tran_cn": "模型化语言"
+    },
+    {
+      "phrase": "numerical modeling",
+      "tran_cn": "n. 数值模拟"
+    },
+    {
+      "phrase": "profile modeling",
+      "tran_cn": "仿形；靠模"
+    },
+    {
+      "phrase": "stochastic modeling",
+      "tran_cn": "随机模型"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "制造模型的，模特儿的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "造型（术），（图画等的）立体感，模特儿职业",
+      "tran_en": "the act or an instance of making a model "
+    }
+  ],
+  "exchange": {}
+}

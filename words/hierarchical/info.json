@@ -1,0 +1,173 @@
+{
+  "word": "hierarchical",
+  "ipa": {
+    "us": "ˌhaɪəˈrɑ:kɪkl",
+    "uk": "ˌhaɪəˈrɑrkɪkl"
+  },
+  "sentences": [
+    {
+      "en": "...the traditional hierarchical system of military organization.",
+      "cn": "…军事组织内的传统等级制度。"
+    },
+    {
+      "en": "A dodowa line production generally issue encountered special paper effervescent and hierarchical.",
+      "cn": "很多瓦线生产面临的普遍问题是在加工特殊面纸时遇到的起泡和分层问题."
+    },
+    {
+      "en": "All items are set up in an easy to use hierarchical format.",
+      "cn": "所有菜品项目均按层次设置."
+    },
+    {
+      "en": "Civil services are organized in hierarchical structures of offices.",
+      "cn": "文官是按照职位的等级制结构组织起来的."
+    },
+    {
+      "en": "Hierarchical road map considering the uneven feature of terrain and its establishment.",
+      "cn": "顾及地形起伏信息的三维层次道路图模型及其构建方法."
+    },
+    {
+      "en": "In a hierarchical manner , supergroups and subgroups create individuals.",
+      "cn": "超群和子群以分层的方式形成特殊的个体."
+    },
+    {
+      "en": "In her hierarchical set of values honesty comes first.",
+      "cn": "在她分层次的价值体系中,诚实居于首要地位."
+    },
+    {
+      "en": "In order to improve its scalability, a hierarchical VPLS model is introduced.",
+      "cn": "为了提高VPLS的扩展性, 文中提出了分层VPLS模型."
+    },
+    {
+      "en": "Like DAP, LDAP was designed to extract information from hierarchical directories.",
+      "cn": "像DAP那样, LDAP被设计以从层次结构的目录中提取信息."
+    },
+    {
+      "en": "Path planning method based on hierarchical fuzzy controller is pot forward.",
+      "cn": "并在此基础上提出了基于分层模糊控制的路径规划方法."
+    },
+    {
+      "en": "The appellation stuck , and the age of the sequential hierarchical menu began.",
+      "cn": "其名称也从中而来, 于是顺序层次关系菜单时代开始了."
+    },
+    {
+      "en": "The clustering method combines the density and the hierarchical clustering methods.",
+      "cn": "这种算法结合密度聚类和层次聚类两种思想."
+    },
+    {
+      "en": "The hierarchical relationship between two templates can be expressed.",
+      "cn": "两个模板间的层次关系是可以表达的."
+    },
+    {
+      "en": "Unfortunately, hierarchical trees are one of the most inappropriately used controls in the toolbox.",
+      "cn": "遗憾的是, 层次树也是工具箱中最容易被错误使用的控件之一."
+    },
+    {
+      "en": "Use this control to display a hierarchical list of directories.",
+      "cn": "使用此控件以显示目录的分层列表."
+    },
+    {
+      "en": "Who wields power is not important, provided that the hierarchical structure remains always the same.",
+      "cn": "由谁掌握权力并不重要, 只要等级结构保持不变."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hierarchal",
+          "tran_cn": " 体系的（等级制的）"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "hierarchically",
+          "tran_cn": " 分层次，分等级地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hierarchy",
+          "tran_cn": " 层级；等级制度"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "layered",
+            "decked"
+          ],
+          "tran_cn": "分层的；等级体系的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "progressive"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hierarchical cluster analysis",
+      "tran_cn": "层序聚类分析"
+    },
+    {
+      "phrase": "hierarchical clustering",
+      "tran_cn": "分级群聚"
+    },
+    {
+      "phrase": "hierarchical control",
+      "tran_cn": "分级控制；阶层控制"
+    },
+    {
+      "phrase": "hierarchical design",
+      "tran_cn": "分层设计"
+    },
+    {
+      "phrase": "hierarchical model",
+      "tran_cn": "分层模型；层级模型"
+    },
+    {
+      "phrase": "hierarchical network",
+      "tran_cn": "[计]分级网络；阶层式网路"
+    },
+    {
+      "phrase": "hierarchical organization",
+      "tran_cn": "等级结构，分层结构；层次组织"
+    },
+    {
+      "phrase": "hierarchical planning",
+      "tran_cn": "分级规划；递阶规划"
+    },
+    {
+      "phrase": "hierarchical structure",
+      "tran_cn": "分级结构，层级结构"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "按等级划分的，等级（制度）的，分层的",
+      "tran_en": "if a system, organization etc is hierarchical, people or things are divided into levels of importance"
+    }
+  ],
+  "exchange": {}
+}

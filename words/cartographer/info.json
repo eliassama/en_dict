@@ -1,0 +1,109 @@
+{
+  "word": "cartographer",
+  "ipa": {
+    "us": "kɑ:ˈtɒgrəfə(r)",
+    "uk": "kɑrˈtɑgrəfə(r)"
+  },
+  "sentences": [
+    {
+      "en": "A cartographer is a person whose job is drawing maps.",
+      "cn": "绘制地图者的工作是画地图。"
+    },
+    {
+      "en": "According to enthusiasts' website Encyclopedia Titanica (ET), Dean worked for the government as a cartographer during World War II and then for an engineering company.",
+      "cn": "据爱心人士创建的网站“泰坦尼克号百科全书”(Encyclopedia Titanica，简称为ET)记载，迪安曾于二战期间在政府中担任制图师一职，之后为一家工程公司工作。"
+    },
+    {
+      "en": "Cartographer is a simple, efficient object relational mapper engine.",
+      "cn": "这是个简单 、 效的对象-关系映射工具."
+    },
+    {
+      "en": "Flemish cartographer who developed the Mercator projection ( 1568 ).",
+      "cn": "麦卡托,格哈杜斯1512-1594佛兰芝地图的绘制者,发明了麦卡托投影法 ( 1568年 )"
+    },
+    {
+      "en": "Subjective judgments based on frequency graphs vary greatly from cartographer to cartographer.",
+      "cn": "根据频率图所作的主观判断,因编图人员不同而变化甚大."
+    },
+    {
+      "en": "Suppose you're a cartographer or geographic information system (GIS) professional, working on behalf of one, or an advanced hobbyist and want to bring in multiple datasets from a variety of sources.",
+      "cn": "假设您是一名制图师或地理信息系统（GIS）专业人士，或是一名资深的爱好者，想要将不同来源的数据集中在一起。"
+    },
+    {
+      "en": "This is my survey of a tumultuous landscape, done with all the uncertainty of a cartographer who does not know exactly where the boundaries of revolt begin and end.",
+      "cn": "这就是我对这片动荡之地的调查，在调查中制图师完全不能确定起义发生和结束的界限范围。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cartographic",
+          "tran_cn": " 地图的；制图的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "carte",
+          "tran_cn": " （法）菜单；地图；（苏）纸牌"
+        },
+        {
+          "word": "cartography",
+          "tran_cn": " 地图制作，制图；制图学，绘图法"
+        },
+        {
+          "word": "carton",
+          "tran_cn": " 纸板箱；靶心白点"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "carton",
+          "tran_cn": " 制作纸箱"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "carton",
+          "tran_cn": " 用盒包装"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mapmaker"
+          ],
+          "tran_cn": "[测]制图师；地图制作者"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "制图者",
+      "tran_en": "A cartographer is a person whose job is drawing maps"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cartographers"
+    ]
+  }
+}

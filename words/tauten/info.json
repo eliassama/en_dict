@@ -1,0 +1,122 @@
+{
+  "word": "tauten",
+  "ipa": {
+    "us": "ˈtɔ:tn",
+    "uk": "ˈtɔtn"
+  },
+  "sentences": [
+    {
+      "en": "I suddenly felt the fishing line tauten.",
+      "cn": "我突然感到鱼竿的绳子拉紧了。"
+    },
+    {
+      "en": "Some of them squat with horse stance, with their teeth clenched, tauten the rope;",
+      "cn": "有的蹲住马步，咬紧牙关，拉紧绳子；"
+    },
+    {
+      "en": "Therefore , the final tightening is nothing but to tauten the out end of the Zong Sha.",
+      "cn": "再用其余的长度紧紧地套绕在粽子上."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "taut",
+          "tran_cn": " 拉紧的；紧张的；整洁的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "tautly",
+          "tran_cn": " 绷紧地；紧张地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tautness",
+          "tran_cn": " 拉紧；紧固度"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "taut",
+          "tran_cn": " 使纠缠；使缠结"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "tighten"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "strain",
+            "tense"
+          ],
+          "tran_cn": "拉紧"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "strain",
+            "tighten up"
+          ],
+          "tran_cn": "拉紧；使绷紧"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 拉紧， 绷紧",
+      "tran_en": "to make something stretch tight, or to become stretched tight"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使某物）变紧，拉紧，绷紧，紧张"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "tautens"
+    ],
+    "past": [
+      "tautened"
+    ],
+    "done": [
+      "tautened"
+    ],
+    "ing": [
+      "tautening"
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "word": "apology",
+  "ipa": {
+    "us": "əˈpɒlədʒi",
+    "uk": "əˈpɑːlədʒi"
+  },
+  "sentences": [
+    {
+      "en": "Certainly I do not come now to make his apology.",
+      "cn": "我现在当然不是来为他辩解."
+    },
+    {
+      "en": "Edward can’t be here today, but he sends his apologies .",
+      "cn": "爱德华今天来不了，他向大家表示歉意。"
+    },
+    {
+      "en": "He demanded an apology from me for calling him a crook.",
+      "cn": "我骂他骗子,他要我向他认错."
+    },
+    {
+      "en": "He intruded himself into the conversation without a word of apology.",
+      "cn": "他连招呼都不打就插进来讲话."
+    },
+    {
+      "en": "He is a poor apology for an actor.",
+      "cn": "他是一名滥竽充数的演员."
+    },
+    {
+      "en": "He offered a sincere apology for his behaviour.",
+      "cn": "他主动对自己的行为诚恳地道了歉."
+    },
+    {
+      "en": "He took the vacant seat with an air of apology.",
+      "cn": "回过来谦逊地坐上那只空凳子."
+    },
+    {
+      "en": "His apology was sincere.",
+      "cn": "他的歉意是出自内心的."
+    },
+    {
+      "en": "I make no apology for saying to you.",
+      "cn": "我对你说话的时候用不着告罪."
+    },
+    {
+      "en": "It was lassitude's apology to energy.",
+      "cn": "这是无精打采的人面对精力充沛的人找的托辞."
+    },
+    {
+      "en": "Please excuse this wretched apology for a meal.",
+      "cn": "请包涵这顿不像样的饭菜."
+    },
+    {
+      "en": "She blushed a shy apology.",
+      "cn": "她羞愧地表示了歉意."
+    },
+    {
+      "en": "She prefaced her talk with an apology / by apologizing for being late.",
+      "cn": "她先为迟到表示歉意,然后开始讲话."
+    },
+    {
+      "en": "The minister had to issue a formal public apology for his remarks.",
+      "cn": "部长不得不为他的言论作出正式的公开道歉。"
+    },
+    {
+      "en": "There needs no apology.",
+      "cn": "无辩解的必要."
+    },
+    {
+      "en": "We received a letter of apology.",
+      "cn": "我们收到了一封致歉信。"
+    },
+    {
+      "en": "With an apology for my intrusion, I was about to withdraw.",
+      "cn": "我为自己的唐突表示歉意, 我想退出."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "apologetic",
+          "tran_cn": " 道歉的；赔罪的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "apologetically",
+          "tran_cn": " 道歉地，认错地；辩解地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "apologist",
+          "tran_cn": " 辩护者；护教论者；辨惑学专家（等于apologete）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "apologise",
+          "tran_cn": " 道歉（等于apologize）"
+        },
+        {
+          "word": "apologize",
+          "tran_cn": " 道歉；辩解；赔不是"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "apologize",
+          "tran_cn": " 道歉；谢罪；辩白"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "excuse"
+          ],
+          "tran_cn": "原谅"
+        },
+        {
+          "words": [
+            "amends",
+            "penance",
+            "penitence",
+            "plea",
+            "prostration",
+            "regrets",
+            "remorse",
+            "repentance",
+            "self-accusation",
+            "self-condemnation",
+            "self-reproach"
+          ],
+          "tran_cn": "后悔,自责"
+        },
+        {
+          "words": [
+            "apologia",
+            "defence",
+            "justification",
+            "plea",
+            "vindication"
+          ],
+          "tran_cn": "辩护,辩解"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "defense"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a poor apology",
+      "tran_cn": "有名无实"
+    },
+    {
+      "phrase": "an apology for something",
+      "tran_cn": "不像样的代替品，勉强充作某物的东西，滥竽充数的样品[用于贬义]"
+    },
+    {
+      "phrase": "make an apology",
+      "tran_cn": "道歉"
+    },
+    {
+      "phrase": "with apologies to",
+      "tran_cn": "[用于作者或艺术家姓名之前，表示本人作品中有模仿或改编自其作品之处]模仿之处，敬请谅鉴"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "道歉，认错，辩解",
+      "tran_en": "something that you say or write to show that you are sorry for doing something wrong"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "apologies"
+    ]
+  }
+}

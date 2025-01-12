@@ -1,0 +1,159 @@
+{
+  "word": "fission",
+  "ipa": {
+    "us": "ˈfɪʃn",
+    "uk": "ˈfɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "All commercial nuclear power is provided by fission at the present time.",
+      "cn": "目前所有的商用核动力都是通过核裂变产生的."
+    },
+    {
+      "en": "Essentially, all the neutrons and part of the gamma rays are emitted in the actual fission process .",
+      "cn": "从根本上说，所有的中子和一部分射线都是在裂变实际的过程中放射出来的。"
+    },
+    {
+      "en": "Fission bombs use highly enriched fuel.",
+      "cn": "裂变原子弹使用高度浓缩燃料."
+    },
+    {
+      "en": "How it causes the body's atomic structure to undergo fission.",
+      "cn": "它是如何导致人体原子结构分裂的?"
+    },
+    {
+      "en": "Indirect ionization by neutrons can also result from fission of plutonium or uranium isotopes.",
+      "cn": "通过使钚或铀同位素裂变,中于也能产生间接的电离作用."
+    },
+    {
+      "en": "Niels Bohr and John Wheeler published a theory of the dynamic process of fission.",
+      "cn": "尼恩、波尔和惠勒以惊人的速度发表了裂变的动力过程的理论."
+    },
+    {
+      "en": "Nuclear fission is more promising, but nuclear fuel is also finite.",
+      "cn": "核裂变发电更有前途, 但核燃料也是有限的."
+    },
+    {
+      "en": "Nuclear fission would have been a dramatic discovery at any time.",
+      "cn": "在任何时候,原子核裂变都会成为引人注目的发现."
+    },
+    {
+      "en": "The amount of material produced during fission is insignificant.",
+      "cn": "裂变时产生的物质数量是不够的."
+    },
+    {
+      "en": "The average fission width can be obtained from a statistical argument.",
+      "cn": "能够从统计理论得到裂变宽度."
+    },
+    {
+      "en": "The discovery of fission was a seed dropped on fertile ground.",
+      "cn": "裂变的发现犹如种子落入沃土."
+    },
+    {
+      "en": "The fission of the cell could be inhibited with certain chemicals.",
+      "cn": "细胞的裂变可以通过某些化学药品加以抑制."
+    },
+    {
+      "en": "The fission products formed are highly radioactive.",
+      "cn": "所生成的裂变产物具有很强的放射性."
+    },
+    {
+      "en": "The laboratory has designed, tested and evaluated a lightweight, low - yield fission device.",
+      "cn": "该试验室设计, 试验和鉴定了一种轻巧 、 低当量的裂变装置."
+    },
+    {
+      "en": "The teacher explained the principles of nuclear fission to the class.",
+      "cn": "老师给这个班的学生解释核裂变的原理."
+    },
+    {
+      "en": "When atoms split, the process is called \" fission \".",
+      "cn": "原子分裂时, 其过程被称为 “ 裂变 ”."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fissile",
+          "tran_cn": "分裂性的；易分裂的"
+        },
+        {
+          "word": "fissionable",
+          "tran_cn": "可分裂的；可作核裂变的"
+        },
+        {
+          "word": "fissiparous",
+          "tran_cn": "分裂生殖的；有分裂倾向的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fissionable",
+          "tran_cn": "可裂变物质"
+        },
+        {
+          "word": "fissiparity",
+          "tran_cn": "分裂裂殖（等于fissiparism）"
+        },
+        {
+          "word": "fissure",
+          "tran_cn": "裂缝；裂沟（尤指岩石上的）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "fissure",
+          "tran_cn": "裂开；分裂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fissure",
+          "tran_cn": "裂开；分裂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fragmentation",
+            "disruption"
+          ],
+          "tran_cn": "[核]裂变；[生物]分裂；分体；[细胞]分裂生殖法"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "nuclear fission",
+      "tran_cn": "[物]核裂变；原子核分裂"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<物>（原子的）分裂，裂变，<生>分裂生殖",
+      "tran_en": "the division of cells into new cells as a method of reproducing cells"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "fissions"
+    ]
+  }
+}

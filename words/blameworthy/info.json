@@ -1,0 +1,114 @@
+{
+  "word": "blameworthy",
+  "ipa": {
+    "us": "ˈbleɪmwɜ:ði",
+    "uk": "ˈbleɪmwɜrði"
+  },
+  "sentences": [
+    {
+      "en": "blameworthy conduct",
+      "cn": "应受谴责的行为"
+    },
+    {
+      "en": "The article is long, but not otherwise blameworthy.",
+      "cn": "这篇文章就是长, 其他倒没什么不好."
+    },
+    {
+      "en": "To feel blameworthy desire for ( that which is another's ).",
+      "cn": "非分地妄想 ( 别人的所有物 )"
+    },
+    {
+      "en": "You may see yourself as useless, incompetent and blameworthy.",
+      "cn": "你也许会认为自己无用、不称职、应该受到指责。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "blamable",
+          "tran_cn": " 可责备的；有过失的"
+        },
+        {
+          "word": "blameable",
+          "tran_cn": " 有过失的；该责备的"
+        },
+        {
+          "word": "blamed",
+          "tran_cn": " 混蛋的，该死的"
+        },
+        {
+          "word": "blameful",
+          "tran_cn": " 应受责备的；该受谴责的"
+        },
+        {
+          "word": "blameless",
+          "tran_cn": " 清白的；无可责备的；无过失的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "blame",
+          "tran_cn": " 责备；责任；过失"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "blamed",
+          "tran_cn": " 谴责"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "blame",
+          "tran_cn": " 责备；归咎于"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "reprovable",
+            "condemnable"
+          ],
+          "tran_cn": "应受谴责的；该受责备的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "criminal",
+            "guilty"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "该受指责的， （对坏事）负有责任的",
+      "tran_en": "deserving blame or disapproval"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,181 @@
+{
+  "word": "flock",
+  "ipa": {
+    "us": "flɒk",
+    "uk": "flɑːk"
+  },
+  "sentences": [
+    {
+      "en": "A few sheep have been lost from the flock.",
+      "cn": "羊群里少了几只羊."
+    },
+    {
+      "en": "A flock of birds comes over, and the hunting starts.",
+      "cn": "一群鸟飞过来, 打猎开始了."
+    },
+    {
+      "en": "A flock of birds flew towards us slowly from far away.",
+      "cn": "一群鸟儿从远处朝我们缓缓飞来。"
+    },
+    {
+      "en": "A flock of birds was already warbling a cheerful morning chorus.",
+      "cn": "一群鸟儿已经齐声唱起了欢快的晨曲。"
+    },
+    {
+      "en": "A flock of crows wheeled overhead.",
+      "cn": "一群乌鸦在头顶上盘旋。"
+    },
+    {
+      "en": "A flock of customers were waiting for the store to open.",
+      "cn": "一群顾客在等候着商店开门."
+    },
+    {
+      "en": "A flock of sea gulls are hovering over the deck.",
+      "cn": "一群海鸥在甲板上空飞翔."
+    },
+    {
+      "en": "a flock of seagulls",
+      "cn": "一群海鸥"
+    },
+    {
+      "en": "a flock of sheep",
+      "cn": "一群羊"
+    },
+    {
+      "en": "a small flock of laying hens",
+      "cn": "一小群下蛋的母鸡"
+    },
+    {
+      "en": "Have you ever observed that birds of a feather flock together? In other words, people who are similar become friends or do things together.",
+      "cn": "你观察过吗“物以类聚，人以群分”？换句话说，性格相似的人总是会成为朋友，或者在一起做事情。"
+    },
+    {
+      "en": "People have been flocking to the exhibition.",
+      "cn": "看展览的人络绎不绝。"
+    },
+    {
+      "en": "The criticisms will not stop people flocking to see the film.",
+      "cn": "这些批评阻止不了涌向看这部影片的人潮。"
+    },
+    {
+      "en": "The flock of birds scattered when a shot was fired.",
+      "cn": "枪响鸟散."
+    },
+    {
+      "en": "The priest warned his flock against breaking God's law.",
+      "cn": "牧师警告他的教友不要违背上帝的训诫."
+    },
+    {
+      "en": "The public has flocked to the show.",
+      "cn": "公众蜂拥而去看那场演出。"
+    },
+    {
+      "en": "The shepherd re - collect his flock.",
+      "cn": "牧人重新聚集起他的羊群."
+    },
+    {
+      "en": "The shepherd tended a flock.",
+      "cn": "这个牧羊人照管羊群."
+    },
+    {
+      "en": "They kept a small flock of sheep.",
+      "cn": "他们养了一小群羊。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cluster",
+            "gang",
+            "bunch",
+            "qun"
+          ],
+          "tran_cn": "群；棉束（等于floc）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bunch",
+            "crowd",
+            "group",
+            "mob",
+            "multitude",
+            "pack",
+            "throng"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "concentrate",
+            "collect",
+            "mass",
+            "crowd"
+          ],
+          "tran_cn": "聚集；成群而行"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a flock of",
+      "tran_cn": "一群（鸟，羊等）"
+    },
+    {
+      "phrase": "a flock of sheep",
+      "tran_cn": "一群羊"
+    },
+    {
+      "phrase": "flocks and herds",
+      "tran_cn": "牛羊"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "兽群，鸟群，一大群人，教徒，软棉填料  ",
+      "tran_en": "a group of sheep, goats, or birds"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "群聚，蜂拥而至",
+      "tran_en": "to go or gather together somewhere in large numbers"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "聚集",
+      "tran_en": "If people flock to a particular place or event, a very large number of them go there, usually because it is pleasant or interesting"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "flocks"
+    ],
+    "third": [
+      "flocks"
+    ],
+    "past": [
+      "flocked"
+    ],
+    "done": [
+      "flocked"
+    ],
+    "ing": [
+      "flocking"
+    ]
+  }
+}

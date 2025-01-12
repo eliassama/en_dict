@@ -1,0 +1,78 @@
+{
+  "word": "bleep",
+  "ipa": {
+    "us": "bli:p",
+    "uk": "blip"
+  },
+  "sentences": [
+    {
+      "en": "Please bleep the doctor on duty immediately.",
+      "cn": "请立刻用传呼机召值班医生."
+    },
+    {
+      "en": "Suddenly his computer made a loud noise:'BLEEP, BLEEP.'",
+      "cn": "突然,他的电脑发出一阵很大的噪音: “ 哗,哗, 哗. ”"
+    },
+    {
+      "en": "The computer gave a regular bleep.",
+      "cn": "计算机发出有一定节律的哔哔声."
+    },
+    {
+      "en": "The microwave will bleep when your meal is ready.",
+      "cn": "烹调结束时，微波炉会发出哔哔的声音。"
+    },
+    {
+      "en": "The timer on the cooker started to bleep.",
+      "cn": "炉灶上的定时器哔哔地响了起来。"
+    },
+    {
+      "en": "When we turned the boat about, the signal began to bleep again constantly.",
+      "cn": "当我们把船调头的时候，信号器又不停地发出哔哔声。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "beeps"
+          ],
+          "tran_cn": "哔哔声"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "哔哔声",
+      "tran_en": "a short high sound made by a piece of electronic equipment"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "发出哔哔声",
+      "tran_en": "to make a high electronic sound"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "发出哔哔声"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "bleeps"
+    ],
+    "past": [
+      "bleeped"
+    ],
+    "done": [
+      "bleeped"
+    ],
+    "ing": [
+      "bleeping"
+    ]
+  }
+}

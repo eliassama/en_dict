@@ -1,0 +1,116 @@
+{
+  "word": "extemporize",
+  "ipa": {
+    "us": "ɪkˈstempəraɪz",
+    "uk": "ɪkˈstɛmpəˌraɪz"
+  },
+  "sentences": [
+    {
+      "en": "He completely departed from the text and extemporized in a very energetic fashion.",
+      "cn": "他完全脱了稿并以一种精力非常充沛的样子即席演说。"
+    },
+    {
+      "en": "He had to extemporize because he had forgotten to bring his notes.",
+      "cn": "他因为忘了带讲稿,只好即席发言."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "extemporaneous",
+          "tran_cn": " 即席的，临时的；无准备的；不用讲稿的；善于即席讲话的"
+        },
+        {
+          "word": "extemporary",
+          "tran_cn": " 无准备的；即席的；临时的（等于extemporaneous）"
+        },
+        {
+          "word": "extempore",
+          "tran_cn": " 当场的，即席的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "extemporaneously",
+          "tran_cn": " 无准备地，临时作成的"
+        },
+        {
+          "word": "extempore",
+          "tran_cn": " 无准备地；即兴地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "extempore",
+          "tran_cn": " 即席之作"
+        },
+        {
+          "word": "extemporization",
+          "tran_cn": " 即席演说；即兴之作"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "improvise",
+            "wing"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "improvise"
+          ],
+          "tran_cn": "即兴演奏或演说；临时凑合"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "即席演说, 即兴演奏, 当场作成",
+      "tran_en": "to speak or perform without preparation or practice"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "即兴创作，即席演奏"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "extemporizes"
+    ],
+    "past": [
+      "extemporized"
+    ],
+    "done": [
+      "extemporized"
+    ],
+    "ing": [
+      "extemporizing"
+    ],
+    "noun": [
+      "extemporization"
+    ]
+  }
+}

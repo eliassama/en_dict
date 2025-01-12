@@ -1,0 +1,172 @@
+{
+  "word": "chromosome",
+  "ipa": {
+    "us": "ˈkrəʊməsəʊm",
+    "uk": "ˈkroʊməsoʊm"
+  },
+  "sentences": [
+    {
+      "en": "A locus is the'location'of a gene along a chromosome.",
+      "cn": "位点是基因在染色体的位置."
+    },
+    {
+      "en": "Aneuploid describes chromosome numbers which are not multiples of the haploid number ( n ).",
+      "cn": "非整倍体所描述是单倍体数目 ( n ) 并非成倍增加."
+    },
+    {
+      "en": "At this point each chromosome consist of a pair of chromatids and the two associated chromosomes are termed a tetrad.",
+      "cn": "此时每条染色体由一对染色单体构成,这两条联合的染色体称为四分体."
+    },
+    {
+      "en": "Chromosome breaks may also lead to inversions and translocations.",
+      "cn": "染色体破裂也可能引起倒位与易位."
+    },
+    {
+      "en": "Chromosome material with exhibits of such behaviour is called heterochromatin.",
+      "cn": "表现这种现象的染色体物质叫做异染色质."
+    },
+    {
+      "en": "Do we have a chromosome like that?",
+      "cn": "那么我们真的有那么一条染色体么？"
+    },
+    {
+      "en": "Each cell of our bodies contains 46 chromosomes.",
+      "cn": "我们体内的每个细胞都有46条染色体。"
+    },
+    {
+      "en": "It is almost certain that the two genes are linked on the same chromosome.",
+      "cn": "那么可以认为这两个基因必定连锁在同一染色体上."
+    },
+    {
+      "en": "Normal chromosome pairing between most species and N . tabacum is rare.",
+      "cn": "大多数的种与红花间的正常染色配对是少见的."
+    },
+    {
+      "en": "Phage chromosome is inserted into the continuity of the bacterial chromosome.",
+      "cn": "噬菌体染色体被插入细菌染色体中."
+    },
+    {
+      "en": "Several copies of specific chromosome are present.",
+      "cn": "特殊染色体存在着几个拷贝."
+    },
+    {
+      "en": "She is part of the chromosome of Kolkata.",
+      "cn": "她就是加尔各答染色体的一部分。"
+    },
+    {
+      "en": "The distances are additive along the length of the chromosome .",
+      "cn": "其距离值就是沿着染色体长度方向的累加。"
+    },
+    {
+      "en": "The distances are additive along the length of the chromosome.",
+      "cn": "其距离值就是沿着染色体长度方向的累加."
+    },
+    {
+      "en": "The only way to prove these ideas was to construct an artificial chromosome with those genes in them, and we had to do this in a cassette-based fashion.",
+      "cn": "证明这些想法的唯一途径就是用这些基因人工构建一个的染色体，而且我们必须用基于表达框的方式来达到这一目的。"
+    },
+    {
+      "en": "The x - chromosome has many genes for which there are no paired genes on the Y - chromosome.",
+      "cn": "x染色体有许多在Y染色体上不能配对的基因."
+    },
+    {
+      "en": "The Y chromosome is starting to yield other intriguing tales as well.",
+      "cn": "Y染色体开始讲出另一些令人神往的故事."
+    },
+    {
+      "en": "These cells often have a variable chromosome number ( aneuploid ).",
+      "cn": "这些细胞的染色体数目不等, ( 称为“非倍数染色体”. )"
+    },
+    {
+      "en": "These chromosome aberrations are all stable, compatible with cell viability.",
+      "cn": "这些染色体畸变都是稳定的, 不影响细胞生活力的."
+    },
+    {
+      "en": "Translocation occurs when a fragment of one chromosome becomes attached to a non - homologous chromosome.",
+      "cn": "一段染色体跟 非 同源染色体连在一起时就发生易位."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "chromosomal",
+          "tran_cn": " 染色体的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "chromogen",
+          "tran_cn": " [生化] 色原；发色体，色原体"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "monosomy",
+            "karyosome"
+          ],
+          "tran_cn": "[染料][遗][细胞]染色体（形容词chromosomal，副词chromosomally）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "chromosome aberration",
+      "tran_cn": "[医]染色体畸变"
+    },
+    {
+      "phrase": "chromosome doubling",
+      "tran_cn": "染色体加倍；染色体复制；染色体配对"
+    },
+    {
+      "phrase": "chromosome pairing",
+      "tran_cn": "染色体配对，染色体接合"
+    },
+    {
+      "phrase": "chromosome translocation",
+      "tran_cn": "染色体易位"
+    },
+    {
+      "phrase": "homologous chromosome",
+      "tran_cn": "同源染色体"
+    },
+    {
+      "phrase": "sex chromosome",
+      "tran_cn": "性染色体"
+    },
+    {
+      "phrase": "x chromosome",
+      "tran_cn": "n. [生]X染色体（性染色体的一种）"
+    },
+    {
+      "phrase": "y chromosome",
+      "tran_cn": "n. [生]Y染色体"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<生>染色体",
+      "tran_en": "a part of every living cell that is shaped like a thread and contains the  gene s  that control the size, shape etc that a plant or animal has"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "chromosomes"
+    ],
+    "adj": [
+      "chromosomal"
+    ]
+  }
+}

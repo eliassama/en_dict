@@ -1,0 +1,211 @@
+{
+  "word": "voyage",
+  "ipa": {
+    "us": "ˈvɔɪɪdʒ",
+    "uk": "ˈvɔɪɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "\"Now give me some account of your voyage.\" — \"Very good, sir.\"",
+      "cn": "“现在给我讲述一下你的航程吧。”——“非常乐意，先生。”"
+    },
+    {
+      "en": "a voyage in space",
+      "cn": "航天"
+    },
+    {
+      "en": "Goodbye! Bon voyage!",
+      "cn": "再见！一路顺风！"
+    },
+    {
+      "en": "He made his will preparatory to his voyage.",
+      "cn": "他在出航前立下了遗嘱"
+    },
+    {
+      "en": "I don’t want to make the voyage single-handed.",
+      "cn": "我不想独自航行。"
+    },
+    {
+      "en": "It is a prosperous voyage to the ship.",
+      "cn": "这是那艘船的一次成功的航行."
+    },
+    {
+      "en": "Life is compared to a voyage.",
+      "cn": "人生好比航海."
+    },
+    {
+      "en": "On this account we should be more cautious on this voyage.",
+      "cn": "以此,我们应该在这次航行中格外小心谨慎."
+    },
+    {
+      "en": "The captain needs a select crew for this dangerous voyage.",
+      "cn": "船长需要一批精选的水手来作此危险的航行."
+    },
+    {
+      "en": "The comparison of her life to a sea voyage simplifies her experience.",
+      "cn": "把她的人生比作一次海上航行不足以说明她丰富的经历。"
+    },
+    {
+      "en": "The December weather favoured our voyage.",
+      "cn": "12月的天气使我们的航行顺利."
+    },
+    {
+      "en": "the quincentenary of Columbus's voyage to America",
+      "cn": "哥伦布航海到达美洲的500周年纪念日"
+    },
+    {
+      "en": "The seamen equipped a ship for a voyage.",
+      "cn": "水手们装备船只准备出航."
+    },
+    {
+      "en": "the Titanic’s maiden voyage",
+      "cn": "“泰坦尼克”号的首航"
+    },
+    {
+      "en": "the Titanic’s maiden voyage ",
+      "cn": "“泰坦尼克”号的首航"
+    },
+    {
+      "en": "The voyage from England to India used to take six months.",
+      "cn": "过去从英格兰到印度要航行六个月。"
+    },
+    {
+      "en": "The voyage is nearly over.",
+      "cn": "航行即将结束。"
+    },
+    {
+      "en": "These are the voyages of the starship Enterprise.",
+      "cn": "这些就是“企业”号星舰几次航行的经历。"
+    },
+    {
+      "en": "This voyage was his first taste of freedom.",
+      "cn": "这次航行使他初次体验到了自由的滋味。"
+    },
+    {
+      "en": "We set out on this voyage of exploration with an open mind.",
+      "cn": "我们以开放的心态开始了这次探索之旅。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "voyager",
+          "tran_cn": " 航海者，航行者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "navigation",
+            "salling"
+          ],
+          "tran_cn": "航行；[水运][航]航程；旅行记"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "tour",
+            "trek",
+            "trip"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "cruise",
+            "journey",
+            "navigate",
+            "sail",
+            "travel"
+          ],
+          "tran_cn": "航海,航行"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "wing",
+            "cross"
+          ],
+          "tran_cn": "飞过；渡过"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bon voyage",
+      "tran_cn": "一路平安"
+    },
+    {
+      "phrase": "maiden voyage",
+      "tran_cn": "n. 初航，首航，处女航"
+    },
+    {
+      "phrase": "sea voyage",
+      "tran_cn": "远航，航海"
+    },
+    {
+      "phrase": "voyage charter",
+      "tran_cn": "程租船；计程包船；航程佣船"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "航行，航海，航天",
+      "tran_en": "a long journey in a ship or spacecraft"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": " 旅行， 航行， 飞行",
+      "tran_en": "a long journey in a ship or spacecraft"
+    },
+    {
+      "pos": "n&vi",
+      "tran_cn": "航海，航空",
+      "tran_en": "a long journey in a ship or spacecraft"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "旅行，（尤指）航海旅行",
+      "tran_en": "to travel to a place, especially by ship"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "voyages"
+    ],
+    "third": [
+      "voyages"
+    ],
+    "past": [
+      "voyaged"
+    ],
+    "done": [
+      "voyaged"
+    ],
+    "ing": [
+      "voyaging"
+    ]
+  }
+}

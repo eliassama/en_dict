@@ -1,0 +1,217 @@
+{
+  "word": "drainage",
+  "ipa": {
+    "us": "ˈdreɪnɪdʒ",
+    "uk": "ˈdreɪnɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "A handful of pebbles in the bottom of a flowerpot will help drainage.",
+      "cn": "在花盆底下放一把鹅卵石能够帮助排水。"
+    },
+    {
+      "en": "a plan to improve the town’s drainage system",
+      "cn": "改善城里排水系统的计划"
+    },
+    {
+      "en": "After twenty - four hours free drainage, there was little difference in moisture content.",
+      "cn": "24小时不排水, 湿度则几乎没什么不同."
+    },
+    {
+      "en": "Bad drainage caused the land to be flooded.",
+      "cn": "排水不利容易使土地淹水."
+    },
+    {
+      "en": "Drainage is certainly indicated because of the probability of bile leakage.",
+      "cn": "由于有胆漏的可能性,引流肯定是需要的."
+    },
+    {
+      "en": "Drainage was to the north and individual channels bifurcate in that direction.",
+      "cn": "整个水系向北排水,各个河道朝该方向分叉."
+    },
+    {
+      "en": "Drainage water analyses may not indicate the composition of soil solutions accurately.",
+      "cn": "排水分析不能正确地反映土壤溶液的组成."
+    },
+    {
+      "en": "It has been impossible to anticipate the amount of bile drainage.",
+      "cn": "预计胆汁的引流量是不可能的."
+    },
+    {
+      "en": "It is advisable to mix coarse grit into heavy soil to improve drainage.",
+      "cn": "建议将粗砂掺到黏重的土壤里，以提高排水性能。"
+    },
+    {
+      "en": "It is wise to start infilling with a layer of gravel for drainage.",
+      "cn": "先铺上一层利于排水的砾石是个明智的做法。"
+    },
+    {
+      "en": "Keep the drainage channel clear.",
+      "cn": "保持下水道畅通。"
+    },
+    {
+      "en": "Line the pots with pebbles to ensure good drainage.",
+      "cn": "在罐子里铺一层鹅卵石，以确保排水良好。"
+    },
+    {
+      "en": "The defect in the drainage must be remedied.",
+      "cn": "这排水系统的缺陷该设法补救."
+    },
+    {
+      "en": "The drainage of the city is not good, some of the pipes are broken.",
+      "cn": "这个城市的排水系统不好, 有些排水管都破裂了."
+    },
+    {
+      "en": "The drainage system has collapsed because of too much rain.",
+      "cn": "由于降雨过多，排水系统已经彻底瘫痪了。"
+    },
+    {
+      "en": "The endless variations of drainage pattern make descriptive characteristics difficult.",
+      "cn": "水系型式的无限变化给描述特征带来了困难."
+    },
+    {
+      "en": "This is a drainage area.",
+      "cn": "这里是排水区."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "drain",
+          "tran_cn": "排水；下水道，排水管；消耗"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "drain",
+          "tran_cn": "排水；流干"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "drain",
+          "tran_cn": "喝光，耗尽；使流出；排掉水"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sewage",
+            "waste",
+            "water"
+          ],
+          "tran_cn": "废水,污水"
+        },
+        {
+          "words": [
+            "guttering"
+          ],
+          "tran_cn": "排水系统,下水道"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acid mine drainage",
+      "tran_cn": "酸性矿水排水；排泄酸性矿水"
+    },
+    {
+      "phrase": "drainage area",
+      "tran_cn": "排水面积"
+    },
+    {
+      "phrase": "drainage basin",
+      "tran_cn": "（美）[地]（河流的）流域；流域盆地"
+    },
+    {
+      "phrase": "drainage channel",
+      "tran_cn": "排水沟，下水道"
+    },
+    {
+      "phrase": "drainage ditch",
+      "tran_cn": "n. 排水沟"
+    },
+    {
+      "phrase": "drainage hole",
+      "tran_cn": "排泄孔；疏水孔"
+    },
+    {
+      "phrase": "drainage layer",
+      "tran_cn": "排水层"
+    },
+    {
+      "phrase": "drainage network",
+      "tran_cn": "河网；排水网"
+    },
+    {
+      "phrase": "drainage outlet",
+      "tran_cn": "排水出口"
+    },
+    {
+      "phrase": "drainage pipe",
+      "tran_cn": "排污管；放泄管"
+    },
+    {
+      "phrase": "drainage pipeline",
+      "tran_cn": "排水管道"
+    },
+    {
+      "phrase": "drainage pump",
+      "tran_cn": "排水泵；排泄泵"
+    },
+    {
+      "phrase": "drainage rate",
+      "tran_cn": "滤水速度，排水速度；排水比率"
+    },
+    {
+      "phrase": "drainage system",
+      "tran_cn": "排水系统，渠道系统；水系；引流装置"
+    },
+    {
+      "phrase": "drainage tube",
+      "tran_cn": "引流管；排水管"
+    },
+    {
+      "phrase": "drainage works",
+      "tran_cn": "排水工程；渠务工程；排水工作"
+    },
+    {
+      "phrase": "gas drainage",
+      "tran_cn": "排瓦斯设备，瓦斯抽放"
+    },
+    {
+      "phrase": "gravity drainage",
+      "tran_cn": "重力排水；重力泄油"
+    },
+    {
+      "phrase": "surface drainage",
+      "tran_cn": "路面排水，地表水系"
+    },
+    {
+      "phrase": "water drainage",
+      "tran_cn": "排水"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "排水，放水，排水系统",
+      "tran_en": "the process or system by which water or waste liquid flows away"
+    }
+  ],
+  "exchange": {}
+}

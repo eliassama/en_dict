@@ -1,0 +1,145 @@
+{
+  "word": "heir",
+  "ipa": {
+    "us": "eə(r)",
+    "uk": "er"
+  },
+  "sentences": [
+    {
+      "en": "Diana seemed a strong young girl who could be counted upon to produce an heir.",
+      "cn": "戴安娜看起来是个年轻健壮的女孩，应该能生下继承人。"
+    },
+    {
+      "en": "He claims to be the rightful heir.",
+      "cn": "他要求做合法的继承人."
+    },
+    {
+      "en": "He recognized John as his lawful heir.",
+      "cn": "他确认约翰为他的合法继承人."
+    },
+    {
+      "en": "He takes as heir.",
+      "cn": "他以继承人身分获得财产."
+    },
+    {
+      "en": "He wanted to beget an heir.",
+      "cn": "他想生个子嗣。"
+    },
+    {
+      "en": "He was seen as Mr Olsen's heir apparent.",
+      "cn": "他被视为奥尔森先生理所当然的继任者。"
+    },
+    {
+      "en": "He was the legal heir to the throne.",
+      "cn": "他是王位的合法继承人."
+    },
+    {
+      "en": "His heir sold the painting to the London art dealer Agnews.",
+      "cn": "他的继承人把这幅画卖给了伦敦艺术品经销商阿格纽斯。"
+    },
+    {
+      "en": "In the UK, it is customary for the next heir to the throne to be regent.",
+      "cn": "在英国, 通常由下一位王位继承人摄政."
+    },
+    {
+      "en": "John was the sole heir to a vast estate.",
+      "cn": "约翰是一大笔遗产的唯一继承人。"
+    },
+    {
+      "en": "Jonson was his political heir as leader of the party.",
+      "cn": "琼森是他的政治接班人，他将担任该党派的领袖。"
+    },
+    {
+      "en": "Nash did not live a cloistered existence nor was he spared the shocks that flesh is heir to.",
+      "cn": "纳什并非过着与世隔绝的生活,他同样也不能逃脱人生难免的种种打击."
+    },
+    {
+      "en": "The Earl of Arundel's heir was restored to his inheritance and granted the lordship of Chirk.",
+      "cn": "阿伦德尔伯爵的继承人重新取得了继承权,并获封为切克勳爵."
+    },
+    {
+      "en": "The King's eldest son is the heir to the throne.",
+      "cn": "国王的长子是王位的继承人."
+    },
+    {
+      "en": "to be heir to a large fortune",
+      "cn": "是大笔财产的继承人"
+    },
+    {
+      "en": "We don't recognised him to be the lawful heir.",
+      "cn": "我们不承认他为合法继承人."
+    },
+    {
+      "en": "Who was the true heir to the throne?",
+      "cn": "谁是真正的王位继承人?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "heiress",
+          "tran_cn": " 女继承人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "brood",
+            "children",
+            "descendant",
+            "issue",
+            "offspring",
+            "posterity",
+            "progeny",
+            "scion",
+            "seed",
+            "spawn"
+          ],
+          "tran_cn": "后嗣,子孙后代"
+        },
+        {
+          "words": [
+            "beneficiary",
+            "co-heir",
+            "co-heiress",
+            "devisee",
+            "follower",
+            "heiress",
+            "heritor",
+            "inheritor",
+            "legatee",
+            "receiver",
+            "recipient",
+            "successor"
+          ],
+          "tran_cn": "继承人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "heir apparent",
+      "tran_cn": "[律]法定继承人，有确定继承权的人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "继承人，后嗣，嗣子",
+      "tran_en": "the person who has the legal right to receive the property or title of another person when they die"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "heirs"
+    ]
+  }
+}

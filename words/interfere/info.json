@@ -1,0 +1,201 @@
+{
+  "word": "interfere",
+  "ipa": {
+    "us": "ˌɪntəˈfɪə(r)",
+    "uk": "ˌɪntərˈfɪr"
+  },
+  "sentences": [
+    {
+      "en": "Anxiety can interfere with children’s performance at school.",
+      "cn": "焦虑会影响孩子在学校的表现。"
+    },
+    {
+      "en": "Don't interfere in other's private concerns.",
+      "cn": "不要干涉别人的私事。"
+    },
+    {
+      "en": "Don't interfere in what doesn't concern you.",
+      "cn": "不要管与自己无关的事。"
+    },
+    {
+      "en": "Don't interfere with him.",
+      "cn": "不要打扰他."
+    },
+    {
+      "en": "Don't interfere with the machine!",
+      "cn": "不要乱动这台机器!"
+    },
+    {
+      "en": "Family frictions can interfere with a child's schoolwork.",
+      "cn": "家庭中的争吵会影响孩子的学业."
+    },
+    {
+      "en": "He does not want to interfere in the internal affairs of another country.",
+      "cn": "他不想干涉别国内政。"
+    },
+    {
+      "en": "He knew when to leave well alone and when to interfere.",
+      "cn": "他知道什么时候该适可而止，什么时候该插手干预。"
+    },
+    {
+      "en": "I never interfere in his business.",
+      "cn": "我从不干预他的事."
+    },
+    {
+      "en": "If we interfere, it may do more harm than good.",
+      "cn": "如果我们干预的话, 可能弊多利少."
+    },
+    {
+      "en": "It is not within my province to interfere.",
+      "cn": "这不是我所应当干涉的."
+    },
+    {
+      "en": "It will seriously interfere with the progress of the work.",
+      "cn": "它将严重干扰工作的进展."
+    },
+    {
+      "en": "My daughter-in-law said that I was interfering, but I was only trying to help.",
+      "cn": "我的儿媳说我多管闲事，但我只是想帮忙。"
+    },
+    {
+      "en": "She never allows her private affairs to interfere with production.",
+      "cn": "她从不为个人事情耽误生产."
+    },
+    {
+      "en": "The hearing-impaired say digital phones interfere with hearing aids.",
+      "cn": "听觉障碍者反映数字电话会对助听器造成干扰。"
+    },
+    {
+      "en": "When others interfere in the affair, it always makes troubles.",
+      "cn": "别人一卷入这一事件, 棘手的事情就来了."
+    },
+    {
+      "en": "When others interfere, it always makes trouble.",
+      "cn": "别人一干涉, 麻烦就来了."
+    },
+    {
+      "en": "Why shouldn't we interfere?",
+      "cn": "怎么管不着?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interfering",
+          "tran_cn": " 干涉的；多管闲事的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interference",
+          "tran_cn": " 干扰，冲突；干涉"
+        },
+        {
+          "word": "interferometer",
+          "tran_cn": " [光] 干涉仪；干涉计"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "interfering",
+          "tran_cn": " 妨碍（interfer的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arbitrate",
+            "encroach",
+            "intercede",
+            "interrupt",
+            "intervene",
+            "intrude",
+            "meddle",
+            "mediate",
+            "referee",
+            "umpire"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "influence in",
+            "meddle in"
+          ],
+          "tran_cn": "干涉；妨碍；打扰"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "impact",
+            "collide with"
+          ],
+          "tran_cn": "冲突；介入"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "interfere in",
+      "tran_cn": "vt. 干涉，干预"
+    },
+    {
+      "phrase": "interfere with",
+      "tran_cn": "干扰，干涉；妨碍；触动或弄坏；乱动；与……抵触"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "干涉，妨碍",
+      "tran_en": "to deliberately get involved in a situation where you are not wanted or needed"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "干涉，妨碍",
+      "tran_en": "to deliberately get involved in a situation where you are not wanted or needed"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 干涉， 干预， 妨碍",
+      "tran_en": "to deliberately get involved in a situation where you are not wanted or needed"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "interferes"
+    ],
+    "past": [
+      "interfered"
+    ],
+    "done": [
+      "interfered"
+    ],
+    "ing": [
+      "interfering"
+    ]
+  }
+}

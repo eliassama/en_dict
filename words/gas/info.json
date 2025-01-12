@@ -1,0 +1,312 @@
+{
+  "word": "gas",
+  "ipa": {
+    "us": "ɡæs",
+    "uk": "ɡæs"
+  },
+  "sentences": [
+    {
+      "en": "a cloud of toxic gas",
+      "cn": "一团毒气"
+    },
+    {
+      "en": "As the lungs exhale this waste, gas is expelled into the atmosphere.",
+      "cn": "肺呼出这些废气被排到空气中。"
+    },
+    {
+      "en": "British Gas shares ended the day 1p up at 287p.",
+      "cn": "英国天然气公司股价上涨1便士，以287便士收盘。"
+    },
+    {
+      "en": "Can you light the gas for me?",
+      "cn": "你帮我点燃煤气好吗？"
+    },
+    {
+      "en": "gas up a car; gassed up before the trip.",
+      "cn": "给小汽车加油；在出发之前把油加好"
+    },
+    {
+      "en": "His meager allotment of gas had to be saved for emergencies.",
+      "cn": "他分到的那一点点煤气必须留着急用。"
+    },
+    {
+      "en": "hydrogen gas",
+      "cn": "氢气"
+    },
+    {
+      "en": "I probably spend over 200 a month on gas.",
+      "cn": "我一个月大概要花200多美元汽油钱。"
+    },
+    {
+      "en": "Methane gas does collect in the mines around here.",
+      "cn": "周围的矿井里的确有沼气聚积。"
+    },
+    {
+      "en": "Mount Unzen has been spewing out volcanic ash, gas, and rock today.",
+      "cn": "云仙山今天一直在向外喷涌火山灰、气体和火山岩。"
+    },
+    {
+      "en": "Oryx is a Dallas-based oil and gas exploration and production concern.",
+      "cn": "奥瑞克斯是一家设在达拉斯的石油和天然气勘探生产公司。"
+    },
+    {
+      "en": "Ozone is a highly reactive form of oxygen gas.",
+      "cn": "臭氧是一种非常活跃的氧气形态。"
+    },
+    {
+      "en": "Rows of stalls are given over to restaurants running off gas cylinders.",
+      "cn": "数排摊位都让位给了使用煤气罐的饭店。"
+    },
+    {
+      "en": "Sara also pays a share of the gas, electricity and phone bills.",
+      "cn": "萨拉也分摊燃气费、电费和电话费。"
+    },
+    {
+      "en": "Sid'samazing wealth comes from holdings in oil, gas, land and property.",
+      "cn": "锡德惊人的财富来自他在石油、天然气和房地产领域持有的股份。"
+    },
+    {
+      "en": "The compressed gas is cooled and condenses into a liquid.",
+      "cn": "压缩气体经冷却凝结成液态。"
+    },
+    {
+      "en": "The heated gas is piped through a coil surrounded by water.",
+      "cn": "受热气体通过水中的盘管输送。"
+    },
+    {
+      "en": "The water was heated by a naked gas flame.",
+      "cn": "水是用燃气明火加热的。"
+    },
+    {
+      "en": "They say gas guzzlers are contributing to air pollution.",
+      "cn": "他们说高耗油汽车是造成空气污染的原因之一。"
+    },
+    {
+      "en": "You might try the gas station down the street.",
+      "cn": "你可以到街那头的加油站试试。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "gaseous",
+          "tran_cn": " 气态的，气体的；无实质的"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "gasify",
+          "tran_cn": " 气化，成为气体"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "gasify",
+          "tran_cn": " 使气化，使成为气体"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fume",
+            "vapor"
+          ],
+          "tran_cn": "气体"
+        },
+        {
+          "words": [
+            "gasoline",
+            "petroleum"
+          ],
+          "tran_cn": "汽油;石油"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "air",
+            "fume",
+            "gasoline",
+            "petrol",
+            "petroleum",
+            "pretense",
+            "smoke",
+            "steam",
+            "vapor"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to fill the tank",
+            "Pump It"
+          ],
+          "tran_cn": "加油；放出气体；空谈"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "oil",
+            "to fill the tank"
+          ],
+          "tran_cn": "加油；毒（死）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "coal gas",
+      "tran_cn": "煤气；煤炭气"
+    },
+    {
+      "phrase": "exhaust gas",
+      "tran_cn": "废气"
+    },
+    {
+      "phrase": "flue gas",
+      "tran_cn": "烟道气；废气"
+    },
+    {
+      "phrase": "gas chromatography",
+      "tran_cn": "[化]气相色谱分析"
+    },
+    {
+      "phrase": "gas field",
+      "tran_cn": "天然气田"
+    },
+    {
+      "phrase": "gas flow",
+      "tran_cn": "气流；气流量"
+    },
+    {
+      "phrase": "gas phase",
+      "tran_cn": "气相，气态"
+    },
+    {
+      "phrase": "gas pipeline",
+      "tran_cn": "n. 天然气管线，煤气管线；气体管道"
+    },
+    {
+      "phrase": "gas pressure",
+      "tran_cn": "气压；气体压力；煤气压力"
+    },
+    {
+      "phrase": "gas production",
+      "tran_cn": "煤气生产；生成气体"
+    },
+    {
+      "phrase": "gas reservoir",
+      "tran_cn": "气藏；气田；煤气存储器；天然气储层"
+    },
+    {
+      "phrase": "gas station",
+      "tran_cn": "加油站"
+    },
+    {
+      "phrase": "gas turbine",
+      "tran_cn": "燃气轮机；燃气涡轮"
+    },
+    {
+      "phrase": "gas up",
+      "tran_cn": "加油：给一辆车提供油"
+    },
+    {
+      "phrase": "gas well",
+      "tran_cn": "气井；[采矿]天然气井"
+    },
+    {
+      "phrase": "greenhouse gas",
+      "tran_cn": "n. 二氧化碳、甲烷等导致温室效应的气体"
+    },
+    {
+      "phrase": "natural gas",
+      "tran_cn": "天然气"
+    },
+    {
+      "phrase": "oil and gas",
+      "tran_cn": "油和天然气；油和煤气"
+    },
+    {
+      "phrase": "oil gas",
+      "tran_cn": "石油气；油煤气"
+    },
+    {
+      "phrase": "run out of gas",
+      "tran_cn": "(北美，非正式)没有能量；缺少动力"
+    },
+    {
+      "phrase": "step on the gas",
+      "tran_cn": "(北美，非正式)踩油门加速"
+    },
+    {
+      "phrase": "tail gas",
+      "tran_cn": "尾气；废气"
+    },
+    {
+      "phrase": "waste gas",
+      "tran_cn": "废气"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "气体，[矿业] 瓦斯，汽油，毒气",
+      "tran_en": "a substance such as air, which is not solid or liquid, and usually cannot be seen"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "加油；毒（死）"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "加油，放出气体，空谈"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "加油，毒（死）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "gases"
+    ],
+    "third": [
+      "gasses"
+    ],
+    "past": [
+      "gassed"
+    ],
+    "done": [
+      "gassed"
+    ],
+    "ing": [
+      "gassing"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "word": "denominate",
+  "ipa": {
+    "us": "dɪˈnɒmɪneɪt",
+    "uk": "dɪˈnɑmɪneɪt"
+  },
+  "sentences": [
+    {
+      "en": "After liberation the scholastic circles denominate this crop of common vegetable - fruit as Doushu in Chinese language.",
+      "cn": "建国后,学界把该常见蔬莱 - 水果作物定名为豆薯."
+    },
+    {
+      "en": "So after that, I decided to use this word to denominate my band.",
+      "cn": "因此在那之后我决定用这个词命名乐队。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "denomination",
+          "tran_cn": " 面额；名称；教派"
+        },
+        {
+          "word": "denominator",
+          "tran_cn": " [数] 分母；命名者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "christen",
+            "nominate",
+            "specify",
+            "style"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "christen",
+            "refer to as"
+          ],
+          "tran_cn": "为…命名；把…称作…"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有特定名称的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "命名",
+      "tran_en": "to give a specific name to; designate "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "命名，称呼"
+    }
+  ],
+  "exchange": {}
+}

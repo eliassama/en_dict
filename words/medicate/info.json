@@ -1,0 +1,144 @@
+{
+  "word": "medicate",
+  "ipa": {
+    "us": "ˈmedɪkeɪt",
+    "uk": "'medɪkeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Medicate the water amoxycillin or phenoxymethyl penicillin for 4 - 5 days over the period of risk.",
+      "cn": "易感期饮水投放羟氨苄青霉素或苯氧基甲基青霉素,连续 4-5 天."
+    },
+    {
+      "en": "They started out a lot of talk about Medicate and Medicare.",
+      "cn": "接着他们开始谈论了很多药物治疗和医疗保健方案."
+    },
+    {
+      "en": "Unfortunately, these attempts to self-medicate only make things worse.",
+      "cn": "不幸地是，这些”自我治愈“的做法只让情况恶化。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "medical",
+          "tran_cn": " 医学的；药的；内科的"
+        },
+        {
+          "word": "medicative",
+          "tran_cn": " 有药效的；可治病的；有治疗作用的"
+        },
+        {
+          "word": "medicinal",
+          "tran_cn": " 药的；药用的；治疗的（等于medicinable）；有益的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "medically",
+          "tran_cn": " 医学上地；医药上地"
+        },
+        {
+          "word": "medicinally",
+          "tran_cn": " 用药物，当做药"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "medical",
+          "tran_cn": " 医生；体格检查"
+        },
+        {
+          "word": "medicament",
+          "tran_cn": " 药剂；医药"
+        },
+        {
+          "word": "medication",
+          "tran_cn": " 药物；药物治疗；药物处理"
+        },
+        {
+          "word": "medicine",
+          "tran_cn": " 药；医学；内科；巫术"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "medicament",
+          "tran_cn": " 用药物治疗"
+        },
+        {
+          "word": "medicine",
+          "tran_cn": " 用药物治疗；给…用药"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bathe"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "attend",
+            "cure",
+            "doctor",
+            "dose",
+            "drug",
+            "embrocate",
+            "heal",
+            "nurse",
+            "palliate",
+            "remedy",
+            "salve",
+            "treat"
+          ],
+          "tran_cn": "治疗,护理"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "用药医治，加入药物",
+      "tran_en": "to cover or impregnate (a wound, etc) with an ointment, cream, etc "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "medicates"
+    ],
+    "past": [
+      "medicated"
+    ],
+    "done": [
+      "medicated"
+    ],
+    "ing": [
+      "medicating"
+    ]
+  }
+}

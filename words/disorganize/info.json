@@ -1,0 +1,93 @@
+{
+  "word": "disorganize",
+  "ipa": {
+    "us": "dɪs'ɔ:gənaɪz",
+    "uk": "dɪsˈɔrɡəˌnaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Endosperm , cells disorganize gradually along with embryo development.",
+      "cn": "随胚的发育和生长,胚乳细胞逐渐解体."
+    },
+    {
+      "en": "To disorganize the defence.",
+      "cn": "破坏防守."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disorganized",
+          "tran_cn": " 紊乱的；无组织的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disorganization",
+          "tran_cn": " 解体；混乱；组织的破坏；瓦解"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "disorganise",
+          "tran_cn": " 瓦解；扰乱（等于disorganize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dislocate",
+            "disrupt",
+            "muss"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "perturb",
+            "upset"
+          ],
+          "tran_cn": "扰乱；瓦解；使…混乱；破坏组织"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "组织混乱的，无系统的，杂乱无章的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "计划混乱"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 扰乱， 使混乱"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "打乱…的步骤或安排"
+    }
+  ],
+  "exchange": {}
+}

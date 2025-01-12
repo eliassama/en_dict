@@ -1,0 +1,92 @@
+{
+  "word": "elocution",
+  "ipa": {
+    "us": "ˌeləˈkju:ʃn",
+    "uk": "ˌɛləˈkjuʃən"
+  },
+  "sentences": [
+    {
+      "en": "When I was 11 my mother sent me to elocution lessons.",
+      "cn": "在我11岁的时候，妈妈让我去上演说技巧课。"
+    },
+    {
+      "en": "With every advantage of lungs and elocution, the effect is singularly vapid.",
+      "cn": "然而,扯着嗓子、抑扬顿挫地朗诵, 其结果却是令听者兴味索然."
+    },
+    {
+      "en": "With every advantage of lungs and elocution, the effect is vapid.",
+      "cn": "然而,扯着嗓子 、 扬顿挫地朗诵,其结果却是令听者兴味索然."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "elocutionary",
+          "tran_cn": " 演说术的；雄辩术的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "elocutionist",
+          "tran_cn": " 演说家；雄辩家；朗诵者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "elocute",
+          "tran_cn": " 朗诵；作慷慨激昂的演说"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "elocute",
+          "tran_cn": " 朗读出；慷慨激昂地讲出"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "eloquence"
+          ],
+          "tran_cn": "朗诵法；演说法；雄辩术"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "eloquence"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "演说艺术，朗诵法（指姿态，风度，口才等），发声法",
+      "tran_en": "Elocution is how clearly someone speaks or sings"
+    }
+  ],
+  "exchange": {}
+}

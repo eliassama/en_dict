@@ -1,0 +1,102 @@
+{
+  "word": "legitimize",
+  "ipa": {
+    "us": "lɪˈdʒɪtəmaɪz",
+    "uk": "ləˈdʒɪtəˌmaɪz"
+  },
+  "sentences": [
+    {
+      "en": "A quota increase of 500.000 bpd will serve merely to legitimize existing cheating.",
+      "cn": "配额的增加不过是把已经隐瞒的部分合法化罢了."
+    },
+    {
+      "en": "Acceptance by the UN would effectively legitimize the regime.",
+      "cn": "联合国的认可实际上就使这个政权合法化了。"
+    },
+    {
+      "en": "Is that why you brought me here, to legitimize you to the world?",
+      "cn": "这就是你要带我下来的原因帮你合法化这一切?"
+    },
+    {
+      "en": "It would reverse the emerging global consensus for whale conservation and inexplicably legitimize commercial whaling.",
+      "cn": "它将倒转国际间日渐形成的对于鲸鱼保护的共识并难以理解地使商业捕鲸合法化."
+    },
+    {
+      "en": "Nowadays, the army tries to legitimize its existence by offering emergency and auxiliary at sporting events.",
+      "cn": "现在, 瑞士的军队试图通过排除紧急事件、辅助运动会等服务来保持其合法性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "legitimate",
+          "tran_cn": " 合法的；正当的；合理的；正统的"
+        },
+        {
+          "word": "legitimatize",
+          "tran_cn": " 合法的；正当的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "legitimacy",
+          "tran_cn": " 合法；合理；正统"
+        },
+        {
+          "word": "legitimation",
+          "tran_cn": " 合法化；承认为嫡出"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "legitimate",
+          "tran_cn": " 使合法；认为正当（等于legitimize）"
+        },
+        {
+          "word": "legitimatize",
+          "tran_cn": " 使合法化（等于legitimize）"
+        },
+        {
+          "word": "legitimise",
+          "tran_cn": " 使合法化（等于legitimize）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使…合法；立为嫡嗣",
+      "tran_en": "to make something official or legal"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使合法化，宣布合法化，官方[正式]认可，授予…权力，（对非婚生子）给予合法地位，证明…有理",
+      "tran_en": "to make something official or legal"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "legitimizes"
+    ],
+    "past": [
+      "legitimized"
+    ],
+    "done": [
+      "legitimized"
+    ],
+    "ing": [
+      "legitimizing"
+    ]
+  }
+}

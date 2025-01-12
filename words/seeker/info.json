@@ -1,0 +1,131 @@
+{
+  "word": "seeker",
+  "ipa": {
+    "us": "ˈsi:kə(r)",
+    "uk": "ˈsikɚ"
+  },
+  "sentences": [
+    {
+      "en": "He qualified his friend as an ambitious self - seeker .",
+      "cn": "他把他的朋友说成是野心勃勃的 利己主义 者."
+    },
+    {
+      "en": "He was a New England seer and seeker.",
+      "cn": "他是新英格兰的先知,又是探索者."
+    },
+    {
+      "en": "He's a self - seeker. He's always on the make.",
+      "cn": "这个人才奸哪, 总想占便宜."
+    },
+    {
+      "en": "I am a seeker after truth.",
+      "cn": "我追求真理。"
+    },
+    {
+      "en": "It matches a knowledge seeker with the best source of knowledge.",
+      "cn": "它将知识寻找者与最佳的知识源匹配起来."
+    },
+    {
+      "en": "James Potter won a Seeker award for Gryffindor in 1973.",
+      "cn": "詹姆·波特为格兰芬多赢得了一项关于找球手的奖项在1973年."
+    },
+    {
+      "en": "Job - Seeker Tip: Looking for a job is also a competition.",
+      "cn": "求职小贴士: 找工作也是一项竞争."
+    },
+    {
+      "en": "That chap is just a self - seeker.",
+      "cn": "那个人才奸哪."
+    },
+    {
+      "en": "The active radar seeker has an acquisition range of up to 40 km.",
+      "cn": "主动雷达导引头收索范围可达40千米."
+    },
+    {
+      "en": "The reader combines these two meanings to light on the seeker's question.",
+      "cn": "解读者根据这2个意义的结合来给予求问者问题的指导."
+    },
+    {
+      "en": "The UAV's radar seeker constantly search for hostile radar signal.",
+      "cn": "UAV的雷达搜索头通过搜索敌方雷达信号."
+    },
+    {
+      "en": "This paper discusses the direction finding characteristic of passive monopulse seeker.",
+      "cn": "主要讨论被动单脉冲导引头对旁瓣目标的识别."
+    },
+    {
+      "en": "This paper discusses the two - position detecting scheme for flexible gyro - based north seeker.",
+      "cn": "讨论了挠性陀螺寻北仪二位置寻北方案."
+    },
+    {
+      "en": "Three Chasers, two Beaters, one Keeper and a Seeker.",
+      "cn": "三个追球手, 两个击球手还有守门员和找球手."
+    },
+    {
+      "en": "What if I am a refugee or asylum seeker?",
+      "cn": "如果我是难民或政治避难者,该 怎么办 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "seek",
+          "tran_cn": " 寻找；探索；搜索"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "seek",
+          "tran_cn": " 寻求；寻找；探索；搜索"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "quester"
+          ],
+          "tran_cn": "探求者；搜查人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "candidate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "job seeker",
+      "tran_cn": "求职者"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "搜索者，探求者，搜查人，自动导引的弹头",
+      "tran_en": "someone who is trying to find or get something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "seekers"
+    ]
+  }
+}

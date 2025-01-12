@@ -1,0 +1,243 @@
+{
+  "word": "atomic",
+  "ipa": {
+    "us": "əˈtɒmɪk",
+    "uk": "əˈtɑːmɪk"
+  },
+  "sentences": [
+    {
+      "en": "an atomic submarine",
+      "cn": "核潜艇"
+    },
+    {
+      "en": "At dawn on July 16, 1945, the atomic bomb was set off.",
+      "cn": "1945年7月16日拂晓, 这枚原子弹被引爆."
+    },
+    {
+      "en": "Atomic energy has been discovered for many years, but so far it has not been widely used in industry or in our daily life.",
+      "cn": "原子能已发现多年, 但至今仍未广泛用于工业或日常生活方面."
+    },
+    {
+      "en": "Atomic energy powers the submarine.",
+      "cn": "原子能供给该潜艇动力(该潜艇由原子能推动)."
+    },
+    {
+      "en": "atomic energy/power",
+      "cn": "原子能 / 动力"
+    },
+    {
+      "en": "atomic power",
+      "cn": "核动力"
+    },
+    {
+      "en": "atomic structure",
+      "cn": "原子结构"
+    },
+    {
+      "en": "Each atomic cluster is made up of neutrons and protons.",
+      "cn": "原子簇是由中子和质子构成的。"
+    },
+    {
+      "en": "Electron spin is essential in understanding many atomic phenomena.",
+      "cn": "电子自旋对于理解许多原子现象是很重要的."
+    },
+    {
+      "en": "He comprehends atomic energy.",
+      "cn": "他非常懂得原子能."
+    },
+    {
+      "en": "Only the President could authorize the use of the atomic bomb.",
+      "cn": "只有总统才能授权使用原子弹。"
+    },
+    {
+      "en": "Since the advent of atomic power, there have been great changes in industry.",
+      "cn": "自从原子能问世以来, 工业领域起了很大变化."
+    },
+    {
+      "en": "the atomic bomb",
+      "cn": "原子弹"
+    },
+    {
+      "en": "The atomic particles resist being accelerated past the velocity of light.",
+      "cn": "这些原子粒子无法被加快到超过光速."
+    },
+    {
+      "en": "The atomic reactor generates enormous amounts of thermal energy.",
+      "cn": "原子反应堆发出大量的热能."
+    },
+    {
+      "en": "The atomic theory is important.",
+      "cn": "原子理论很重要."
+    },
+    {
+      "en": "They provided the weapons that won the war and birthed the Atomic Age.",
+      "cn": "他们提供了赢得这场战争的武器并产生了原子时代."
+    },
+    {
+      "en": "This is a kind of atomic spectrum.",
+      "cn": "这是一种原子光谱."
+    },
+    {
+      "en": "We should accelerate our research in atomic power generation and speed up the building of atomic power plants.",
+      "cn": "我们要加快原子能发电的研究,加速原子能电站的建设."
+    },
+    {
+      "en": "We should take part in the peaceful uses of atomic energy.",
+      "cn": "我们应该参与原子能的和平应用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "atomistic",
+          "tran_cn": " 原子的；原子论的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "atom",
+          "tran_cn": " 原子"
+        },
+        {
+          "word": "atomism",
+          "tran_cn": " [物] 原子论"
+        },
+        {
+          "word": "atomization",
+          "tran_cn": " 雾化，[分化] 原子化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "atomize",
+          "tran_cn": " 分裂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "atomise",
+          "tran_cn": " 使分为原子；使雾化（等于atomize）"
+        },
+        {
+          "word": "atomize",
+          "tran_cn": " 使分裂为原子；将…喷成雾状；使遭受原子弹轰炸"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "nuclear",
+            "corpuscular"
+          ],
+          "tran_cn": "原子的，原子能的；微粒子的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "atomic absorption",
+      "tran_cn": "原子吸收；原子吸收作用"
+    },
+    {
+      "phrase": "atomic absorption spectrometry",
+      "tran_cn": "原子吸收光谱测定法"
+    },
+    {
+      "phrase": "atomic absorption spectrophotometer",
+      "tran_cn": "原子吸收分光光度计"
+    },
+    {
+      "phrase": "atomic absorption spectrophotometry",
+      "tran_cn": "[化]原子吸收分光光度法"
+    },
+    {
+      "phrase": "atomic absorption spectroscopy",
+      "tran_cn": "原子吸收光谱；原子吸收光谱测试法"
+    },
+    {
+      "phrase": "atomic bomb",
+      "tran_cn": "原子弹"
+    },
+    {
+      "phrase": "atomic clock",
+      "tran_cn": "原子钟"
+    },
+    {
+      "phrase": "atomic emission",
+      "tran_cn": "原子发射"
+    },
+    {
+      "phrase": "atomic emission spectrometry",
+      "tran_cn": "原子发射光谱法；原子发射光谱学"
+    },
+    {
+      "phrase": "atomic energy",
+      "tran_cn": "原子能，核能"
+    },
+    {
+      "phrase": "atomic hydrogen",
+      "tran_cn": "原子氢"
+    },
+    {
+      "phrase": "atomic mass",
+      "tran_cn": "原子质量；原子量"
+    },
+    {
+      "phrase": "atomic nucleus",
+      "tran_cn": "n. [化]原子核"
+    },
+    {
+      "phrase": "atomic number",
+      "tran_cn": "原子序数（指元素在周期表中按次序排列的序号）"
+    },
+    {
+      "phrase": "atomic oxygen",
+      "tran_cn": "原子氧"
+    },
+    {
+      "phrase": "atomic physics",
+      "tran_cn": "n. 原子物理学"
+    },
+    {
+      "phrase": "atomic power",
+      "tran_cn": "原子能；原子动力；核动力"
+    },
+    {
+      "phrase": "atomic scale",
+      "tran_cn": "原子标度，原子尺度"
+    },
+    {
+      "phrase": "atomic structure",
+      "tran_cn": "原子结构"
+    },
+    {
+      "phrase": "atomic weight",
+      "tran_cn": "原子量"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "原子的，原子能的",
+      "tran_en": "relating to the energy produced by splitting atoms or the weapons that use this energy"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,194 @@
+{
+  "word": "validation",
+  "ipa": {
+    "us": "ˌvælɪ'deɪʃn",
+    "uk": "ˌvælɪ'deɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Automatic Data Validation - To ensure the data encoded adheres to industry specifications.",
+      "cn": "自动数据验证 - 确保数据的编码,坚持以工业规格."
+    },
+    {
+      "en": "Critical process parameters should be controlled and monitored during process validation studies.",
+      "cn": "51在工艺验证研究时应当控制并监测关键的工艺参数."
+    },
+    {
+      "en": "Electronic records are used but there was no software validation.",
+      "cn": "使用电子记录但软件未经验证."
+    },
+    {
+      "en": "Here, expert validation counterbalances the ability of living artists to expand supply.",
+      "cn": "在这里, 专家的认可制衡着在世艺术家扩大供应量的能力."
+    },
+    {
+      "en": "However, the primary way to improve validation controls is to provide rich feedback to users.",
+      "cn": "不过, 改进确认控件的主要方法是为用户提供丰富的反馈."
+    },
+    {
+      "en": "I think the film is a validation of our lifestyle.",
+      "cn": "我认为这部电影肯定了我们的生活方式。"
+    },
+    {
+      "en": "If the values do not match, you will receive a validation error.",
+      "cn": "如果这些值不匹配, 您将收到验证错误."
+    },
+    {
+      "en": "In the next tip in this series, we'll examine the other side of validation: exception handling.",
+      "cn": "在本系列的下一篇技巧文章中，我们将研究验证的另一方面：异常处理。"
+    },
+    {
+      "en": "In this example, the validation fails.",
+      "cn": "在这个示例中，验证失败。"
+    },
+    {
+      "en": "No data validation is done on the input file.",
+      "cn": "是不是数据有可能是错误的,那么就要剔除?"
+    },
+    {
+      "en": "Please return the completed form to the Parish Administration Office for validation.",
+      "cn": "填妥表格后,请交回堂区办事处查收,方为有效."
+    },
+    {
+      "en": "Some thought must be given to the method of validation.",
+      "cn": "一些想法必须通过验证法加以证实。"
+    },
+    {
+      "en": "The model separates the validation logic from the component or control.",
+      "cn": "该模型可以将验证逻辑与组件或控件分隔开."
+    },
+    {
+      "en": "They seek harmony validation, and affection in their relationships with others.",
+      "cn": "他们会在与他人的关系中寻求和谐 、 安全与关爱."
+    },
+    {
+      "en": "This validation process ensures that the data conforms to acceptable formats.",
+      "cn": "这一确认过程可以保证这些数据符合认可的格式。"
+    },
+    {
+      "en": "Validation server controls are also provided to assess user input.",
+      "cn": "还提供验证服务器控件以判断用户输入."
+    },
+    {
+      "en": "You cannot apply data validation to cells in a PivotTable report.",
+      "cn": "不能对数据透视表中的单元格应用数据有效性验证."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "valid",
+          "tran_cn": " 有效的，有根据的；正当的"
+        },
+        {
+          "word": "validated",
+          "tran_cn": " 经过验证的"
+        },
+        {
+          "word": "validating",
+          "tran_cn": " 确认的；有效的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "validating",
+          "tran_cn": " 确认"
+        },
+        {
+          "word": "validity",
+          "tran_cn": " [计] 有效性；正确；正确性"
+        },
+        {
+          "word": "validness",
+          "tran_cn": " 有效；正确"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "validated",
+          "tran_cn": " 确认（validate的过去式及过去分词形式）；使生效"
+        },
+        {
+          "word": "validating",
+          "tran_cn": " 验证（validate的ing形式）；确认"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "validate",
+          "tran_cn": " 证实，验证；确认；使生效"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "verification",
+            "confirmation",
+            "authorization"
+          ],
+          "tran_cn": "[数]确认；批准；生效"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "proof",
+            "signature"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cross validation",
+      "tran_cn": "交叉验证，交叉确认；交互效度分析"
+    },
+    {
+      "phrase": "data validation",
+      "tran_cn": "数据有效性"
+    },
+    {
+      "phrase": "validation test",
+      "tran_cn": "确认试验；证实测定"
+    },
+    {
+      "phrase": "verification and validation",
+      "tran_cn": "[计]检验和确认"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "确认，有效，校验"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "validations"
+    ],
+    "verb": [
+      "validate"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "word": "foreordain",
+  "ipa": {
+    "us": "'fɔ:rɔ:'deɪn",
+    "uk": "ˌfoʊrɔ'deɪn"
+  },
+  "sentences": [
+    {
+      "en": "To appoint , decree , or ordain in advance foreordain .",
+      "cn": "预定预先决定，判决或颁布；预先注定。"
+    },
+    {
+      "en": "To foreordain or elect by divine will or decree.",
+      "cn": "命中注定通过神意或神谕来预先注定或选择."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "foreordination",
+          "tran_cn": " 宿命；预定；注定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "destine"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "fate",
+            "predestine"
+          ],
+          "tran_cn": "注定；预定命运"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预先, 注定, 预定命运",
+      "tran_en": "to determine (events, results, etc) in the future "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<正>预先注定"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "foreordains"
+    ],
+    "past": [
+      "foreordained"
+    ],
+    "done": [
+      "foreordained"
+    ],
+    "ing": [
+      "foreordaining"
+    ]
+  }
+}

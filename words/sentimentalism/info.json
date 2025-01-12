@@ -1,0 +1,117 @@
+{
+  "word": "sentimentalism",
+  "ipa": {
+    "us": "ˌsentɪ'mentəlɪzəm",
+    "uk": "ˌsɛntəˈmɛntlˌɪzəm"
+  },
+  "sentences": [
+    {
+      "en": "Sickly sentimentalism about sacrifice for others!",
+      "cn": "歌颂为他人牺牲的病态温情主义!"
+    },
+    {
+      "en": "That is a novel reeking with sentimentalism.",
+      "cn": "那是一本充满着感伤主义的小说."
+    },
+    {
+      "en": "This is a novel reeking with sentimentalism.",
+      "cn": "这是一本充满着感伤主义的小说."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sentient",
+          "tran_cn": " 有感情的；有感觉力的；意识到的"
+        },
+        {
+          "word": "sentimental",
+          "tran_cn": " 感伤的；感情脆弱的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sentimentally",
+          "tran_cn": " 富情感地；多情地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sentient",
+          "tran_cn": " 有知觉的人"
+        },
+        {
+          "word": "sentiment",
+          "tran_cn": " 感情，情绪；情操；观点；多愁善感"
+        },
+        {
+          "word": "sentimentalist",
+          "tran_cn": " 感伤主义者；多愁善感的人"
+        },
+        {
+          "word": "sentimentality",
+          "tran_cn": " 多愁善感"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sentimentalize",
+          "tran_cn": " 感伤；流于感伤"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sentimentalize",
+          "tran_cn": " 使感伤；为…而伤感"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "emotionalism"
+          ],
+          "tran_cn": "感情主义；沉于情感"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "sentiment"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "感情主义，沉于情感",
+      "tran_en": "the state or quality of being sentimental "
+    }
+  ],
+  "exchange": {}
+}

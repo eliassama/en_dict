@@ -1,0 +1,147 @@
+{
+  "word": "visually",
+  "ipa": {
+    "us": "ˈvɪzjʊəli",
+    "uk": "ˈvɪʒwəli"
+  },
+  "sentences": [
+    {
+      "en": "a visually handicapped child",
+      "cn": "弱视儿童"
+    },
+    {
+      "en": "As you create your interfaces, you should constantly be looking to simplify visually.",
+      "cn": "创作界面时, 你必须不断地在视觉方面将其简化."
+    },
+    {
+      "en": "Chairs should be visually attractive as well as comfortable.",
+      "cn": "椅子既要美观也要舒适。"
+    },
+    {
+      "en": "Drop candidates must visually indicate their receptivity.",
+      "cn": "拖放候选对象必须在视觉上显示其接受能力."
+    },
+    {
+      "en": "He explained the journey visually by use of pictures.",
+      "cn": "他运用图片形象地讲述了这次旅行."
+    },
+    {
+      "en": "His style is slick and visually exciting.",
+      "cn": "他的演技娴熟，赏心悦目。"
+    },
+    {
+      "en": "Our findings relate to physically rather than the visually handicapped pupils.",
+      "cn": "我们的研究结果是关于肢体残疾的学生,而不是视力有障碍的学生."
+    },
+    {
+      "en": "Shadows work pretty well, but all those grids and shadows can get in the way visually.",
+      "cn": "阴影能起到很好的作用, 但阴影和网格在视觉上会互相影响."
+    },
+    {
+      "en": "That is a visually stunning piece of cinema.",
+      "cn": "那是一部视觉效果令人惊叹的电影。"
+    },
+    {
+      "en": "The drag cursor must visually identify the source object.",
+      "cn": "拖动光标必须在视觉上表示源对象."
+    },
+    {
+      "en": "The infestation of avocado root rot disease is not visually detectable.",
+      "cn": "鳄梨树根腐病的感染用视觉是无法探测出来的."
+    },
+    {
+      "en": "There are 1.7 million blind and visually impaired people in Britain.",
+      "cn": "英国有170万失明和视力受损人口。"
+    },
+    {
+      "en": "They are visually very similar to modal dialog boxes, but they are functionally very different.",
+      "cn": "它们在视觉上与模态对话框非常相似, 但功能不同."
+    },
+    {
+      "en": "Visually communicate function and behavior.",
+      "cn": "将功能与行为视觉化."
+    },
+    {
+      "en": "Visually differentiate modeless dialogs from modal dialogs.",
+      "cn": "视觉上区分非模态对话框与模态对话框."
+    },
+    {
+      "en": "Visually the chair is very pleasing, but it's uncomfortable.",
+      "cn": "这椅子看上去很可爱, 但它并不舒服."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "visualized",
+          "tran_cn": " 直观的；直视的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "visualization",
+          "tran_cn": " 形象化；清楚地呈现在心"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "visualized",
+          "tran_cn": " 使形象化；想像（visualize的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "visualize",
+          "tran_cn": " 显现"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "visualize",
+          "tran_cn": " 形象，形象化；想像，设想"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "externally",
+            "visibly"
+          ],
+          "tran_cn": "形象化地；外表上；看得见地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "视觉上，外表上，看得见地，形象化地",
+      "tran_en": "in appearance"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "visual"
+    ]
+  }
+}

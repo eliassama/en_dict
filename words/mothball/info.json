@@ -1,0 +1,73 @@
+{
+  "word": "mothball",
+  "ipa": {
+    "us": "ˈmɒθbɔ:l",
+    "uk": "ˈmɔθbɔl"
+  },
+  "sentences": [
+    {
+      "en": "Our country population is numerous, per capita has farmland amount low, and mothball resource lack.",
+      "cn": "我国人口众多, 人均占有耕地数量低, 且后备资源缺乏."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "supernumerary"
+          ],
+          "tran_cn": "后备的；封存的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "camphor ball",
+            "naphthalene ball"
+          ],
+          "tran_cn": "樟脑丸，[轻]卫生球"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in mothballs",
+      "tran_cn": "处于保存良好备用状态的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "卫生球，樟脑球",
+      "tran_en": "a small ball made of a strong-smelling chemical, used for keeping moths away from clothes"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "封存"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "mothballs"
+    ],
+    "third": [
+      "mothballs"
+    ],
+    "past": [
+      "mothballed"
+    ],
+    "done": [
+      "mothballed"
+    ],
+    "ing": [
+      "mothballing"
+    ]
+  }
+}

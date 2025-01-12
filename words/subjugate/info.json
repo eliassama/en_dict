@@ -1,0 +1,123 @@
+{
+  "word": "subjugate",
+  "ipa": {
+    "us": "ˈsʌbdʒugeɪt",
+    "uk": "ˈsʌbdʒəˌɡet"
+  },
+  "sentences": [
+    {
+      "en": "Imperialism has not been able to subjugate China.",
+      "cn": "帝国主义不能征服中国."
+    },
+    {
+      "en": "It'shows mankind's subjectivist wish to subjugate robots to his mastery.",
+      "cn": "它表明了人类想主宰机器人的主观愿望."
+    },
+    {
+      "en": "The native population was subjugated and exploited.",
+      "cn": "土著人被征服，并遭受剥削。"
+    },
+    {
+      "en": "Their costly and futile attempt to subjugate the Afghans lasted just 10 years.",
+      "cn": "他们大动干戈想要控制阿富汗地区，但只持续了10年就无果而终了。"
+    },
+    {
+      "en": "You'd better manage to subjugate him. Otherwise it will be all over with you.",
+      "cn": "你得设法让他俯首帖耳, 否则的话你就完了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "subject",
+          "tran_cn": " 服从的；易患…的；受制于…的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "subject",
+          "tran_cn": " 主题；科目；[语] 主语；国民"
+        },
+        {
+          "word": "subjection",
+          "tran_cn": " 隶属；服从；征服"
+        },
+        {
+          "word": "subjugation",
+          "tran_cn": " 征服；镇压；克制"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "subject",
+          "tran_cn": " 使…隶属；使屈从于…"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "occupy",
+            "oppress",
+            "slave"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "submit",
+            "master"
+          ],
+          "tran_cn": "征服；使服从；克制"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "征服；使服从；克制",
+      "tran_en": "to defeat a person or group and make them obey you"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "征服，降伏",
+      "tran_en": "to defeat a person or group and make them obey you"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "subjugates"
+    ],
+    "past": [
+      "subjugated"
+    ],
+    "done": [
+      "subjugated"
+    ],
+    "ing": [
+      "subjugating"
+    ],
+    "noun": [
+      "subjugation"
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "word": "derivation",
+  "ipa": {
+    "us": "ˌderɪˈveɪʃn",
+    "uk": "ˌdɛrəˈveʃən"
+  },
+  "sentences": [
+    {
+      "en": "A similar but somewhat more involved derivation can be used to establish the shearing strains.",
+      "cn": "与此类似但稍微复杂的推导可以得出剪应变."
+    },
+    {
+      "en": "a word of Greek derivation",
+      "cn": "由希腊语派生的词"
+    },
+    {
+      "en": "Abstract: A concise derivation of energy formula of diatomic molecules is proposed.",
+      "cn": "文摘: 对非刚性双原子分子的能量表达式给出一种简明的推导."
+    },
+    {
+      "en": "Calculation shows that the theoretical derivation and numerical results are correct.",
+      "cn": "计算表明,本文的理论推导是正确的,数值结果是可靠的."
+    },
+    {
+      "en": "De Wiest criticized Jacob's derivation and exposition.",
+      "cn": "德维斯特批评了雅各布的推导,且提出了略为不同的解释."
+    },
+    {
+      "en": "It might seem surprising that any mathematical derivation based on the kinetic theory could be simple.",
+      "cn": "令人惊奇的是,基于分子运动论的数学推导都是简单的."
+    },
+    {
+      "en": "Most system testers approach this derivation based on their intuition and experiences.",
+      "cn": "大部分的系统测试者是基于他们的直觉和经验实践着这种做法."
+    },
+    {
+      "en": "Our derivation lacks rigour in this regard.",
+      "cn": "我们的推导在这方面是不严格的."
+    },
+    {
+      "en": "Previous chapters have dealt with the derivation of systems of difference equations.",
+      "cn": "前面几章已经论述了差分方程组的推导."
+    },
+    {
+      "en": "So Yongping copper ore deposit possessed the derivation characteristics of metallization.",
+      "cn": "永平铜矿床具明显的衍生成矿特点."
+    },
+    {
+      "en": "The custom is of Scottish derivation.",
+      "cn": "这风俗起源于苏格兰."
+    },
+    {
+      "en": "The derivation of its name is obscure.",
+      "cn": "其名字的由来鲜为人知。"
+    },
+    {
+      "en": "The word is of old French derivation.",
+      "cn": "该词源于古法语。"
+    },
+    {
+      "en": "This derivation is only valid if no chain scission accompanies crosslinking.",
+      "cn": "这一关系式仅适用于交联时不伴有断链发生的情况."
+    },
+    {
+      "en": "Under a nonvirtual derivation, both kinds of access would be ambiguous.",
+      "cn": "在非虚派生情况下, 两种访问都可能是二义性的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "derivable",
+          "tran_cn": "可诱导的；可推论的；可引出的"
+        },
+        {
+          "word": "derivational",
+          "tran_cn": "得来的；诱导的"
+        },
+        {
+          "word": "derivative",
+          "tran_cn": "派生的；引出的"
+        },
+        {
+          "word": "derived",
+          "tran_cn": "导出的；衍生的，派生的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "derivative",
+          "tran_cn": "[化学] 衍生物，派生物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "derived",
+          "tran_cn": "得到；推断（derive的过去分词）；由…而来"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "derive",
+          "tran_cn": "起源"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "derive",
+          "tran_cn": "源于；得自"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "history",
+            "story"
+          ],
+          "tran_cn": "引出；来历；词源"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blood",
+            "origin",
+            "source"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "theoretical derivation",
+      "tran_cn": "理论推导"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "起源，由来，词源",
+      "tran_en": "the origin of something, especially a word"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "derivations"
+    ]
+  }
+}

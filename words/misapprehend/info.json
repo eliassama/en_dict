@@ -1,0 +1,83 @@
+{
+  "word": "misapprehend",
+  "ipa": {
+    "us": "'mɪsˌæprɪ'hend",
+    "uk": "ˌmɪsæprɪ'hend"
+  },
+  "sentences": [
+    {
+      "en": "The misapprehend about Ludicrous Conceit of the King of Yelang catch scholar's attention recently.",
+      "cn": "近年来，“夜郎自大”所体现的对于夜郎君主的误解开始引起学者们的广泛关注。"
+    },
+    {
+      "en": "You misapprehend me, father;",
+      "cn": "那你是误解我了，父亲；"
+    },
+    {
+      "en": "You quite misapprehend my parents.",
+      "cn": "你完全误解了我的父母。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "misapprehension",
+          "tran_cn": " 误解；误会"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "misunderstand"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to misunderstand",
+            "to mistake"
+          ],
+          "tran_cn": "误会，误解"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "误会，误解",
+      "tran_en": "to misunderstand "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "误解（词语），误会（人）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "misapprehends"
+    ],
+    "past": [
+      "misapprehended"
+    ],
+    "done": [
+      "misapprehended"
+    ],
+    "ing": [
+      "misapprehending"
+    ]
+  }
+}

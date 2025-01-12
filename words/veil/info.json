@@ -1,0 +1,233 @@
+{
+  "word": "veil",
+  "ipa": {
+    "us": "veɪl",
+    "uk": "veɪl"
+  },
+  "sentences": [
+    {
+      "en": "A black kerchief modestly veiled her hair.",
+      "cn": "一条黑色头巾端庄地裹着她的头发。"
+    },
+    {
+      "en": "a bridal veil",
+      "cn": "新娘的面纱"
+    },
+    {
+      "en": "A fine rain was beginning to veil the hills.",
+      "cn": "蒙蒙细雨渐渐笼罩了群山。"
+    },
+    {
+      "en": "He could hardly veil his contempt at my ignorance.",
+      "cn": "他掩盖不住对我无知的轻蔑之情."
+    },
+    {
+      "en": "He recognized the coast of England through a veil of mist.",
+      "cn": "透过薄雾他认出了那是英格兰的海岸线。"
+    },
+    {
+      "en": "He retreated behind a veil of cigarette smoke.",
+      "cn": "他隐藏在一层香烟烟雾之后。"
+    },
+    {
+      "en": "It would dishonour my family if I didn't wear the veil.",
+      "cn": "如果我不戴面纱就会有辱门楣。"
+    },
+    {
+      "en": "Mist, creeping over the lake , cast a veil over everything.",
+      "cn": "水上已经起了淡淡的雾, 一切都在朦胧中."
+    },
+    {
+      "en": "Please veil your face.",
+      "cn": "请用面纱遮住脸."
+    },
+    {
+      "en": "She dropped her veil.",
+      "cn": "她摘下面纱."
+    },
+    {
+      "en": "She lifted her veil with both hands.",
+      "cn": "她用双手揭开面纱。"
+    },
+    {
+      "en": "She raised her veil.",
+      "cn": "她掀起面罩."
+    },
+    {
+      "en": "She swathes her face in a veil of decorative muslin.",
+      "cn": "她用装饰性的薄纱遮住了脸。"
+    },
+    {
+      "en": "She's got long fair hair but she's got a veil over it.",
+      "cn": "她有一头金色的长发，但她用头巾包住了。"
+    },
+    {
+      "en": "The chilling facts behind this veil of silence were slow to emerge.",
+      "cn": "沉默背后的骇人真相慢慢显露出来。"
+    },
+    {
+      "en": "The clamour to draw a veil over the minister's extra-marital activities reeks of hypocrisy.",
+      "cn": "想要掩饰部长婚外情的喧嚣叫嚷之声让人倍感虚伪。"
+    },
+    {
+      "en": "The eruption has left a thin veil of dust in the upper atmosphere.",
+      "cn": "火山爆发在高层大气中留下了一层薄薄的尘土。"
+    },
+    {
+      "en": "The land is draped in a veil of mist.",
+      "cn": "烟雾笼罩着大地."
+    },
+    {
+      "en": "The veil she was wearing obscured her features.",
+      "cn": "她戴的面纱遮掩了她的面容."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "veiled",
+          "tran_cn": "隐藏的；含蓄的；蒙上面纱的；不清楚的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "veiling",
+          "tran_cn": "面纱；面纱布料；罩以面纱"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "veiled",
+          "tran_cn": "戴面纱（veil的过去式和过去分词）"
+        },
+        {
+          "word": "veiling",
+          "tran_cn": "用面纱遮掩；带面纱（veil的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "yashmak",
+            "facemask"
+          ],
+          "tran_cn": "面纱；[服装]面罩；遮蔽物；托词"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blanket",
+            "camouflage",
+            "cloak",
+            "cloud",
+            "conceal",
+            "cover",
+            "covering",
+            "curtain",
+            "disguise",
+            "eclipse",
+            "hide",
+            "hood",
+            "mask",
+            "obscure",
+            "pretense",
+            "screen",
+            "shade",
+            "shroud",
+            "varnish"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "camouflage",
+            "cloak",
+            "conceal",
+            "cover",
+            "disguise",
+            "eclipse",
+            "hide",
+            "mask",
+            "obscure",
+            "screen"
+          ],
+          "tran_cn": "掩饰;遮盖"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "beyond the veil",
+      "tran_cn": "死后未知世界"
+    },
+    {
+      "phrase": "draw a veil over",
+      "tran_cn": "避而不谈；隐瞒"
+    },
+    {
+      "phrase": "take the veil",
+      "tran_cn": "当修女"
+    },
+    {
+      "phrase": "under the veil of",
+      "tran_cn": "以…为借口"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "面纱，掩饰，覆盖物，托词",
+      "tran_en": "a thin piece of material that women wear to cover their faces at formal occasions or for religious reasons"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "以面纱遮掩；遮盖",
+      "tran_en": "to cover something with a veil"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用面纱遮盖，掩饰，用帷幕分隔，隐匿",
+      "tran_en": "to cover something with a veil"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "veils"
+    ],
+    "third": [
+      "veils"
+    ],
+    "past": [
+      "veiled"
+    ],
+    "done": [
+      "veiled"
+    ],
+    "ing": [
+      "veiling"
+    ]
+  }
+}

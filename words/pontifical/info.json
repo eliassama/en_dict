@@ -1,0 +1,55 @@
+{
+  "word": "pontifical",
+  "ipa": {
+    "us": "pɒnˈtɪfɪkl",
+    "uk": "pɑnˈtɪfɪkl"
+  },
+  "sentences": [
+    {
+      "en": "Under John Paul the Curia acquired a string of new “pontifical councils”, quasi-ministries that deal with everything from health workers to canon law.",
+      "cn": "在约翰保罗时代教廷获得一系列新的“主教理事会” ，准部委处理一切从卫生工作者到教会法的事务。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pontific",
+          "tran_cn": " 自以为是的；武断的（等于pontifical）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pontiff",
+          "tran_cn": " 主教，教皇；罗马教宗"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "episcopal"
+          ],
+          "tran_cn": "罗马教宗的；主教的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "教皇的，大祭司的，傲慢的，武断的",
+      "tran_en": "relating to the Pope"
+    }
+  ],
+  "exchange": {}
+}

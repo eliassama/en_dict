@@ -1,0 +1,135 @@
+{
+  "word": "modal",
+  "ipa": {
+    "us": " ˈməʊdl",
+    "uk": " ˈmoʊdl"
+  },
+  "sentences": [
+    {
+      "en": "A dynamical angular rigidity measuring method is given based on modal analysis.",
+      "cn": "针对挠性接头角刚度的测量,提出了一种基于模态分析的动态角刚度测量方法."
+    },
+    {
+      "en": "Besides, other transport means have all been adopted, including multi - modal transportation.",
+      "cn": "而且其他运输方法也会被采用, 包括国际多 式 联运."
+    },
+    {
+      "en": "Displays a Form and specifies if the Form is modal or modeless.",
+      "cn": "显示窗体并指定该窗体是模式的还是无模式的."
+    },
+    {
+      "en": "Modal verbs generally take the bare infinitive.",
+      "cn": "情态动词通常用不带to的不定式."
+    },
+    {
+      "en": "Modeless dialogs are less common than their modal siblings.",
+      "cn": "另一种对话框称为“非模态对话框”,它不如同胞姐妹模态对话框那么常见."
+    },
+    {
+      "en": "Property dialog boxes can be either modal or modeless.",
+      "cn": "属性对话框可以是模态的,也可以是非模态的."
+    },
+    {
+      "en": "Shows the form as a modal dialog box with the specified owner.",
+      "cn": "将窗体显示为具有指定所有者的模式对话框."
+    },
+    {
+      "en": "The book contains an excellent discussion of modal logic.",
+      "cn": "这本书包含了有关模态逻辑的精彩探讨."
+    },
+    {
+      "en": "The damage quantification approach based on second - order modal division method is derived.",
+      "cn": "给出了用模态应变能变化率来评定结构损伤程度的高精度算法."
+    },
+    {
+      "en": "The designers, unlike wizards, are non-modal and hence allow you the flexibility to simultaneously work on designing different database objects.",
+      "cn": "与向导不同的是，设计程序是非模态的，因此允许您灵活地同时设计不同的数据库对象。"
+    },
+    {
+      "en": "The determination of the choice of travel mode is known as modal split.",
+      "cn": "交通方式选择的确定就叫做交通方式划分."
+    },
+    {
+      "en": "The modal value is 15 because it occurs more often than any other value.",
+      "cn": "众数值是15,它出现的次数最多."
+    },
+    {
+      "en": "The results confirmed his hypothesis on the use of modal verbs.",
+      "cn": "结果证实了他的关于情态动词用法的假设."
+    },
+    {
+      "en": "There are two basic variants of palette tool behavior: modal tools and charged cursor tools.",
+      "cn": "它们的行为有两种基本类型,即模态工具和加载的光标工具."
+    },
+    {
+      "en": "They are visually very similar to modal dialog boxes, but they are functionally very different.",
+      "cn": "它们在视觉上与模态对话框非常相似, 但功能不同."
+    },
+    {
+      "en": "Visually differentiate modeless dialogs from modal dialogs.",
+      "cn": "视觉上区分非模态对话框与模态对话框."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "modality",
+          "tran_cn": " 形式，形态；程序；物理疗法；主要的感觉"
+        },
+        {
+          "word": "mode",
+          "tran_cn": " 模式；方式；风格；时尚"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "latitudinarian"
+          ],
+          "tran_cn": "[数]模式的；情态的；形式的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "modal analysis",
+      "tran_cn": "模态分析；众数分析；实际分析"
+    },
+    {
+      "phrase": "modal frequency",
+      "tran_cn": "模态频率；众数频率"
+    },
+    {
+      "phrase": "modal logic",
+      "tran_cn": "模态逻辑；情态逻辑"
+    },
+    {
+      "phrase": "modal verb",
+      "tran_cn": "情态动词"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "形式的，情态的，模式的，语气的",
+      "tran_en": "modal meanings are concerned with the attitude of the speaker to the hearer or to what is being said"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "<语法>情态动词"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "modals"
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "word": "loaf",
+  "ipa": {
+    "us": "ləʊf",
+    "uk": "loʊf"
+  },
+  "sentences": [
+    {
+      "en": "a loaf of bread",
+      "cn": "一条面包"
+    },
+    {
+      "en": "a loaf of bread ",
+      "cn": "一条面包"
+    },
+    {
+      "en": "a loaf of sliced bread",
+      "cn": "一条切片面包"
+    },
+    {
+      "en": "Cut the dough in half and shape each half into a loaf.",
+      "cn": "将生面团一切为二，再分别揉成长条形。"
+    },
+    {
+      "en": "Don't loaf about while there's so much to be done.",
+      "cn": "还有这么多事情要干,别胡混了!"
+    },
+    {
+      "en": "Going to be a useful boy , so long as you use your loaf.",
+      "cn": "只要运用你的头脑,就会成为有用的年轻人."
+    },
+    {
+      "en": "He slices off a thick piece from the loaf.",
+      "cn": "他从面包上切下了厚厚的一片."
+    },
+    {
+      "en": "I need a loaf of bread.",
+      "cn": "我需要一条面包."
+    },
+    {
+      "en": "Is it right to loaf around when so much work needs to be done?",
+      "cn": "有这么多工作要干,游手好闲对 吗 ?"
+    },
+    {
+      "en": "Or what man of you, if his son asks him for a loaf, will give him a stone?",
+      "cn": "再说,你们中间谁的儿子要个面包, 能给他一块石头 吗 ?"
+    },
+    {
+      "en": "Pick up a quart of milk or a loaf of bread.",
+      "cn": "拿1夸脱牛奶或一条面包。"
+    },
+    {
+      "en": "Spread the inside of the loaf with olive paste or pesto sauce for extra flavour.",
+      "cn": "在面包里面涂些橄榄酱或香蒜酱会更好吃。"
+    },
+    {
+      "en": "That small loaf won't go far among this large family!",
+      "cn": "那一小条面包全家人吃不了多久的."
+    },
+    {
+      "en": "The cost of a loaf of bread has increased five-fold.",
+      "cn": "一条面包的价钱增长了4倍。"
+    },
+    {
+      "en": "The proposal could put 3p on a loaf of bread.",
+      "cn": "这项提议会使每个面包的成本增加3便士。"
+    },
+    {
+      "en": "There were always a lot of men loafing in the shop.",
+      "cn": "总有许多人在商店里闲逛。"
+    },
+    {
+      "en": "Weigh that loaf of bread on the balance , please.",
+      "cn": "把那块面包放在秤上称一称."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "loafer",
+          "tran_cn": " 游手好闲的人；拖鞋"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bar",
+            "piece",
+            "block",
+            "mass"
+          ],
+          "tran_cn": "条，一条面包；块；游荡"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "around",
+            "idle",
+            "lie",
+            "loiter",
+            "lounge"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "louse around",
+            "potter about"
+          ],
+          "tran_cn": "游荡；游手好闲；虚度光阴"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "louse around",
+            "potter about"
+          ],
+          "tran_cn": "游荡；游手好闲；虚度光阴"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "half a loaf is better than no bread",
+      "tran_cn": "(谚)有总比没有好（或： 聊胜于无）"
+    },
+    {
+      "phrase": "loaf of bread",
+      "tran_cn": "长面包，面包片"
+    },
+    {
+      "phrase": "meat loaf",
+      "tran_cn": "肉糜卷；肉馅糕"
+    },
+    {
+      "phrase": "use one's loaf",
+      "tran_cn": "(英，非正式)动动脑"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "一条（面包）",
+      "tran_en": "bread that is shaped and baked in one piece and can be cut into slices"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "游荡",
+      "tran_en": "to spend time somewhere and not do very much"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 游荡， 闲逛",
+      "tran_en": "to spend time somewhere and not do very much"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "loaves"
+    ],
+    "third": [
+      "loafs"
+    ],
+    "past": [
+      "loafed"
+    ],
+    "done": [
+      "loafed"
+    ],
+    "ing": [
+      "loafing"
+    ]
+  }
+}

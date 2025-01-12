@@ -1,0 +1,168 @@
+{
+  "word": "wager",
+  "ipa": {
+    "us": "ˈweɪdʒə(r)",
+    "uk": "ˈwedʒɚ"
+  },
+  "sentences": [
+    {
+      "en": "A wager is a fool's argument.",
+      "cn": "傻瓜一争论就打赌."
+    },
+    {
+      "en": "At the age of fifteen, for a wager, he was disguised as a girl.",
+      "cn": "十五岁时, 作为赌注, 他被打扮成个女孩."
+    },
+    {
+      "en": "I am ready to wager a package of cigarettes that he will come.",
+      "cn": "我敢打赌一盒香烟,他一定来."
+    },
+    {
+      "en": "I had naturally forgotten the joking wager.",
+      "cn": "我当然已忘掉那次玩笑式的打赌."
+    },
+    {
+      "en": "I made a wager that our team would win.",
+      "cn": "我打赌我们的队会赢."
+    },
+    {
+      "en": "I wager ten dollars on it.",
+      "cn": "我对那件事下赌注十美元."
+    },
+    {
+      "en": "I wager that It'shall be so.",
+      "cn": "我保证(它)会这样."
+    },
+    {
+      "en": "I'll wager she'll still make the same impact when she's 70.",
+      "cn": "我敢打赌，她就算到了70岁，影响力也会不减当年。"
+    },
+    {
+      "en": "I'll wager you $ 100 that he is there.",
+      "cn": "我愿与你打赌一百元,他准在那儿."
+    },
+    {
+      "en": "I'll wager you do well for yourself in London.",
+      "cn": "我担保你在伦敦一定混得不错."
+    },
+    {
+      "en": "I'm ready to wager ( you ) ( a pound ) that our team will win the game.",
+      "cn": "我准备 ( 跟你 ) 打赌 ( 一英镑 ) 我们这一队会赢这场比赛."
+    },
+    {
+      "en": "Let my nephew and Goldthred swagger about their wager as they list.",
+      "cn": "让我外甥和戈德斯雷德去信口开河地打赌,随他们的便吧."
+    },
+    {
+      "en": "She was willing to wager that he didn't own the apartment he lived in.",
+      "cn": "她愿意打赌他居住的公寓并不属于他。"
+    },
+    {
+      "en": "There have been various wagers on certain candidates since the senator announced his retirement.",
+      "cn": "自从那位参议员宣布引退之后，对某些候选人的打赌猜测纷纷出现。"
+    },
+    {
+      "en": "They laid a wager on the result of the race.",
+      "cn": "他们以竞赛的结果打赌."
+    },
+    {
+      "en": "Would you care to place a small wager of $ 5 on it?",
+      "cn": "你愿不愿就此事打个五元的小赌?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bet",
+            "gamble",
+            "hazard",
+            "stake"
+          ],
+          "tran_cn": "赌博"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bet",
+            "gamble",
+            "hazard",
+            "play",
+            "stake"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "lay",
+            "stake",
+            "make a bet"
+          ],
+          "tran_cn": "打赌"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "back",
+            "ante"
+          ],
+          "tran_cn": "下赌注"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "赌金，赌注，赌物，赌博",
+      "tran_en": "an agreement in which you win or lose money according to the result of something such as a race"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "押注，打赌",
+      "tran_en": "to agree to win or lose an amount of money on the result of something such as a race"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "保证，担保，下赌注"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "打赌，担保，保证"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "wagers"
+    ],
+    "third": [
+      "wagers"
+    ],
+    "past": [
+      "wagered"
+    ],
+    "done": [
+      "wagered"
+    ],
+    "ing": [
+      "wagering"
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "word": "flaw",
+  "ipa": {
+    "us": "flɔː",
+    "uk": "flɔː"
+  },
+  "sentences": [
+    {
+      "en": "A design flaw (= a mistake or weakness in the way something was made ) caused the engine to explode.",
+      "cn": "一个设计缺陷导致了引擎爆炸。"
+    },
+    {
+      "en": "Beautiful scenery does not make up for the flaws of this film.",
+      "cn": "美丽的风光弥补不了此影片的不足。"
+    },
+    {
+      "en": "Can you spot the flaw in their argument?",
+      "cn": "你能指出他们论点中的谬误 吗 ?"
+    },
+    {
+      "en": "I can't quite put my finger on the flaw in her argument.",
+      "cn": "我看不出她的论点有何不妥."
+    },
+    {
+      "en": "It was a large diamond, but it had a flaw.",
+      "cn": "这是颗大钻石, 但它有一点瑕疵."
+    },
+    {
+      "en": "Jealousy is Othello’s major flaw.",
+      "cn": "嫉妒是奥赛罗的主要弱点。"
+    },
+    {
+      "en": "Location accurate to 5 feet of actual pipe flaw.",
+      "cn": "定位可精确到实际管道泄漏的5英尺范围内."
+    },
+    {
+      "en": "Pride was the greatest flaw in his personality.",
+      "cn": "傲慢是他品格上的最大缺陷."
+    },
+    {
+      "en": "The bubble is a flaw in the glass.",
+      "cn": "这个小气泡是这只玻璃杯的缺点."
+    },
+    {
+      "en": "The flaw in this stamp makes it less valuable.",
+      "cn": "这张邮票因为有点缺陷,不那么值钱."
+    },
+    {
+      "en": "The old man could hardly stand on his feet in the flaw.",
+      "cn": "老人在这阵狂风中几乎站不住了."
+    },
+    {
+      "en": "The only flaw in his character seems to be a short temper.",
+      "cn": "他性格中的唯一缺点好像就是脾气急。"
+    },
+    {
+      "en": "The only flaw is the slightly slow response times when you press the buttons.",
+      "cn": "唯一的缺陷就是按键时反应略显迟缓。"
+    },
+    {
+      "en": "The vase is not worthy since there are some flaw on it.",
+      "cn": "这个花瓶因为有点缺陷,不那么值钱了."
+    },
+    {
+      "en": "This arbitrary use of power wasn't merely a character flaw.",
+      "cn": "这种专横独断并不是(他)性格上的瑕疵."
+    },
+    {
+      "en": "This type of success was almost without flaw, as he saw it.",
+      "cn": "在他看来,这种成就简直是无懈可击."
+    },
+    {
+      "en": "Unfortunately, I found that your work had a tiny flaw.",
+      "cn": "很不幸，我发现你的作品有一处微小的瑕疵。"
+    },
+    {
+      "en": "Why do you have the fond hope of finding a flaw in my reasoning?",
+      "cn": "干嘛你老爱在我讲的道理中挑毛病?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "flawless",
+          "tran_cn": " 完美的；无瑕疵的；无裂缝的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "flawlessly",
+          "tran_cn": " 完美无瑕地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "checking",
+            "defect",
+            "deficiency",
+            "vice",
+            "fault"
+          ],
+          "tran_cn": "瑕疵，裂纹；缺点；一阵狂风"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blemish",
+            "crack",
+            "damage",
+            "defect",
+            "fault",
+            "weakness"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "crack",
+            "fracture"
+          ],
+          "tran_cn": "使无效；使破裂，使有缺陷"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "flaw detection",
+      "tran_cn": "探伤检验；缺陷检验"
+    },
+    {
+      "phrase": "flaw detector",
+      "tran_cn": "探伤仪；裂痕探测仪"
+    },
+    {
+      "phrase": "flaw echo",
+      "tran_cn": "缺陷回波；缺陷的回波信号；缺陷回声"
+    },
+    {
+      "phrase": "nondestructive flaw detection",
+      "tran_cn": "无损探伤"
+    },
+    {
+      "phrase": "security flaw",
+      "tran_cn": "安全漏洞；安全性缺陷"
+    },
+    {
+      "phrase": "ultrasonic flaw detector",
+      "tran_cn": "[工]超声波探伤仪"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "错误，缺点，瑕疵",
+      "tran_en": "a mistake, mark, or weakness that makes something imperfect"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 生裂缝； 变得有缺陷",
+      "tran_en": "to make or become blemished, defective, or imperfect "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "flaws"
+    ]
+  }
+}

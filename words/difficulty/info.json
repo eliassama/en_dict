@@ -1,0 +1,209 @@
+{
+  "word": "difficulty",
+  "ipa": {
+    "us": "ˈdɪfɪkəlti",
+    "uk": "ˈdɪfɪkəlti"
+  },
+  "sentences": [
+    {
+      "en": "About one in six couples has difficulty conceiving.",
+      "cn": "大约1/6的夫妻有受孕困难。"
+    },
+    {
+      "en": "Aron couldn't speak Polish. I made myself understood with difficulty.",
+      "cn": "阿伦不会说波兰语，我为了让他明白我的话很是费了一番力气。"
+    },
+    {
+      "en": "Belinda was having difficulty bonding with the baby.",
+      "cn": "贝琳达难以与孩子建立起亲密的关系。"
+    },
+    {
+      "en": "Companies are having difficulty in raising capital.",
+      "cn": "各公司融资困难。"
+    },
+    {
+      "en": "Difficulties can arise when there is more than one defendant.",
+      "cn": "如果被告不止一个，可能就会产生难题。"
+    },
+    {
+      "en": "He was going red in the face and breathing with difficulty.",
+      "cn": "他涨红了脸，费力地喘着气。"
+    },
+    {
+      "en": "He's a real genius but he has difficulty verbalizing his ideas.",
+      "cn": "他确实是个天才，可是难以用语言表达他的思想。"
+    },
+    {
+      "en": "I had some difficulty at first recalling why we were there.",
+      "cn": "刚开始回想我们为什么会在那儿时我有些费劲。"
+    },
+    {
+      "en": "If you have any difficulties, give me a call.",
+      "cn": "如果你遇到困难，就给我打电话。"
+    },
+    {
+      "en": "Many men still have difficulty accepting a woman as a business partner.",
+      "cn": "许多男性仍然无法接受女性商业伙伴。"
+    },
+    {
+      "en": "Rumours spread about banks being in difficulty.",
+      "cn": "有传闻称银行现在处境艰难。"
+    },
+    {
+      "en": "She soon got into difficulty with debt.",
+      "cn": "她很快就因债务陷入了困境。"
+    },
+    {
+      "en": "Something gave me the strength to overcome the difficulty.",
+      "cn": "有些事给了我克服困难的勇气。"
+    },
+    {
+      "en": "The detective-constable picked out the words with difficulty.",
+      "cn": "探警费力地辨认出这些文字。"
+    },
+    {
+      "en": "The first difficulty is that, old-fashioned or not, it is very good.",
+      "cn": "首要的难题是，过时也好，不过时也罢，它很不错。"
+    },
+    {
+      "en": "The injured man mounted his horse with difficulty.",
+      "cn": "受伤的男子艰难地上了马。"
+    },
+    {
+      "en": "The tests vary in difficulty.",
+      "cn": "测试的难度有所不同。"
+    },
+    {
+      "en": "They had great difficulty in finding a replacement.",
+      "cn": "他们找接替的人费了很大劲"
+    },
+    {
+      "en": "They showed great perseverance in the face of difficulty.",
+      "cn": "他们面对困难表现了坚强的毅力。"
+    },
+    {
+      "en": "Twins often have difficulty expressing themselves verbally.",
+      "cn": "双胞胎往往有言语表达方面的困难。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "difficult",
+          "tran_cn": " 困难的；不随和的；执拗的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "annoyance",
+            "emergency",
+            "hardship",
+            "misfortune",
+            "obstacle",
+            "obstruction",
+            "predicament",
+            "trouble"
+          ],
+          "tran_cn": "困难,艰难;困境"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "crossing",
+            "delicacy",
+            "embarrassment",
+            "grief",
+            "hitch",
+            "hurdle",
+            "knot",
+            "mishap",
+            "misunderstanding",
+            "penalty",
+            "pest",
+            "weight"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "degree of difficulty",
+      "tran_cn": "难度系数，难度"
+    },
+    {
+      "phrase": "difficulty in breathing",
+      "tran_cn": "呼吸困难"
+    },
+    {
+      "phrase": "difficulty level",
+      "tran_cn": "难度水平，难易度"
+    },
+    {
+      "phrase": "financial difficulty",
+      "tran_cn": "财政困难；资金困难"
+    },
+    {
+      "phrase": "have difficulty",
+      "tran_cn": "有困难"
+    },
+    {
+      "phrase": "have difficulty in",
+      "tran_cn": "对…有困难；在某方面有困难"
+    },
+    {
+      "phrase": "have difficulty with",
+      "tran_cn": "与…有分歧，相处不好；感到困难"
+    },
+    {
+      "phrase": "in difficulty",
+      "tran_cn": "处境困难"
+    },
+    {
+      "phrase": "learning difficulty",
+      "tran_cn": "学习困难"
+    },
+    {
+      "phrase": "technical difficulty",
+      "tran_cn": "技术性的困难"
+    },
+    {
+      "phrase": "with difficulty",
+      "tran_cn": "困难地；吃力地"
+    },
+    {
+      "phrase": "without difficulty",
+      "tran_cn": "容易地；毫不费力地"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "困难；难事；困境",
+      "tran_en": "if you have difficulty doing something, it is difficult for you to do"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "难题，困难（程度），辛苦",
+      "tran_en": "if you have difficulty doing something, it is difficult for you to do"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "difficulties"
+    ]
+  }
+}

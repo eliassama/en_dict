@@ -1,0 +1,187 @@
+{
+  "word": "invent",
+  "ipa": {
+    "us": "ɪnˈvent",
+    "uk": "ɪnˈvent"
+  },
+  "sentences": [
+    {
+      "en": "Alexander Graham Bell invented the telephone in 1876.",
+      "cn": "亚历山大 · 格雷厄姆 · 贝尔于1876年发明了电话。"
+    },
+    {
+      "en": "Don't ask George what his excuse is, he can invent any number.",
+      "cn": "别问乔治的理由是什么, 他可以虚构很多借口."
+    },
+    {
+      "en": "He can always invent a new game to divert the children.",
+      "cn": "他总能想出新的游戏来供孩子们娱乐."
+    },
+    {
+      "en": "He had to invent himself almost completely.",
+      "cn": "他不得不自我塑造,简直是从头干起."
+    },
+    {
+      "en": "He is a knowing fellow, and he will invent something to comfort her.",
+      "cn": "他是个老于世故的人, 会想出办法来安慰她的."
+    },
+    {
+      "en": "I stood still, trying to invent a plausible excuse.",
+      "cn": "我站着不动，试图编个说得过去的借口。"
+    },
+    {
+      "en": "Modern biographers do not invent such stories.",
+      "cn": "现代传记作家不胡编这样的故事."
+    },
+    {
+      "en": "Or maybe someone will invent an engine that uses water or sunlight.",
+      "cn": "或者可能会有人发明一种用水或阳光的发动机."
+    },
+    {
+      "en": "Our company insists on self - create, invent products without stopping , build core power.",
+      "cn": "公司坚持自主创新, 不断研发, 打造核心竞争力."
+    },
+    {
+      "en": "Roy cast his job aside in order to invent a new machine.",
+      "cn": "罗伊为了发明新机器而抛弃工作."
+    },
+    {
+      "en": "The most admirable are ones who invent their own success.",
+      "cn": "最值得尊敬的是那些“发明”了自己的成功的人."
+    },
+    {
+      "en": "Then I began to invent graphic stories without dialogue.",
+      "cn": "以后,我又想出画不带对话的图画故事."
+    },
+    {
+      "en": "They invented a very convincing alibi.",
+      "cn": "他们编造了很有说服力的不在犯罪现场的证据。"
+    },
+    {
+      "en": "To accomplish this result it was only necessary to invent a township.",
+      "cn": "要达到这个目的,所需要的就是创立乡区."
+    },
+    {
+      "en": "We have to invent a new method for sneaking prisoners out without being noticed by the guards.",
+      "cn": "我们必须想出新的办法使囚犯们偷偷溜出去而不被看守发现."
+    },
+    {
+      "en": "We must invent an extension of the idea of triangulation.",
+      "cn": "我们必须把三角法这个观念加以引伸."
+    },
+    {
+      "en": "What festivals of atonement, what sacred games shall we have to invent?",
+      "cn": "我们该发明什么赎罪的庆典, 什么神圣的把戏?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inventive",
+          "tran_cn": " 发明的；有发明才能的；独出心裁的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "inventively",
+          "tran_cn": " 有创造力地；率先的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "invention",
+          "tran_cn": " 发明；发明物；虚构；发明才能"
+        },
+        {
+          "word": "inventiveness",
+          "tran_cn": " 创造性；发明的才能"
+        },
+        {
+          "word": "inventor",
+          "tran_cn": " 发明家；[专利] 发明人；创造者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coin",
+            "conceive",
+            "concoct",
+            "contrive",
+            "create",
+            "develop",
+            "devise",
+            "fabricate",
+            "fantasize",
+            "improvise",
+            "make",
+            "manufacture",
+            "originate",
+            "patent",
+            "romance",
+            "start",
+            "up"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "concoct",
+            "contrive",
+            "develop",
+            "devise",
+            "make",
+            "originate",
+            "up"
+          ],
+          "tran_cn": "发明;创造"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "发明，编造",
+      "tran_en": "to make, design, or think of a new type of thing"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 发明， 创造； 捏造， 虚构",
+      "tran_en": "to make, design, or think of a new type of thing"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "invents"
+    ],
+    "past": [
+      "invented"
+    ],
+    "done": [
+      "invented"
+    ],
+    "ing": [
+      "inventing"
+    ]
+  }
+}

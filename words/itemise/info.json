@@ -1,0 +1,46 @@
+{
+  "word": "itemise",
+  "ipa": {
+    "us": "aɪtə'mi:z",
+    "uk": "aɪtə'miz"
+  },
+  "sentences": [
+    {
+      "en": "Itemise your gear and mark major items with your name and post code.",
+      "cn": "详细登记你的个人物品，在重要物品上标明你的姓名和邮编。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "itemization",
+          "tran_cn": " 逐条记载；详细登录"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "itemize",
+          "tran_cn": " 逐条列记"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "详细列明（等于itemize）"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "列出清单"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,216 @@
+{
+  "word": "commit",
+  "ipa": {
+    "us": "kəˈmɪt",
+    "uk": "kəˈmɪt"
+  },
+  "sentences": [
+    {
+      "en": "Asked if he was a candidate, he refused to commit himself.",
+      "cn": "当问到他是不是候选人时, 他不置可否."
+    },
+    {
+      "en": "Don't commit yourself. It'll let us in for trouble.",
+      "cn": "别随便表态, 这会使我们陷入麻烦的."
+    },
+    {
+      "en": "He [ She ] is not allowed to commit any outrages.",
+      "cn": "不能任其胡作非为."
+    },
+    {
+      "en": "He brooded on whether she should commIt'suicide.",
+      "cn": "他想她是不是死于自杀."
+    },
+    {
+      "en": "He couldn't commit himself on any issue.",
+      "cn": "他不愿在任何问题上表态."
+    },
+    {
+      "en": "He has clearly committed his government to continuing down the path of economic reform.",
+      "cn": "他明确地作出保证，他的政府会继续在经济改革的道路上走下去。"
+    },
+    {
+      "en": "I'll repeat that so you can commit it to memory.",
+      "cn": "我会重复一下，好让你们记住。"
+    },
+    {
+      "en": "It makes me sick that people commit offences and never get punished.",
+      "cn": "一些人屡屡犯罪却从未受到惩戒，这真让我气愤。"
+    },
+    {
+      "en": "Nobody was prepared to commit themselves.",
+      "cn": "谁都不愿作出承诺。"
+    },
+    {
+      "en": "Seven men, all from Bristol, admitted conspiracy to commit arson.",
+      "cn": "7个人都来自布里斯托尔，他们承认了合谋纵火。"
+    },
+    {
+      "en": "She didn't want to commit herself one way or the other.",
+      "cn": "不管怎样，她都不想明确表态。"
+    },
+    {
+      "en": "They are sitting on the fence and refusing to commit themselves.",
+      "cn": "他们保持中立，拒绝表态。"
+    },
+    {
+      "en": "to commit a sin",
+      "cn": "犯罪"
+    },
+    {
+      "en": "to commit an offense",
+      "cn": "犯罪"
+    },
+    {
+      "en": "to commit suicide",
+      "cn": "自杀"
+    },
+    {
+      "en": "Will the President be able to hold to this commit-ment?",
+      "cn": "总统能恪守此承诺吗？"
+    },
+    {
+      "en": "Women commit fewer crimes than men.",
+      "cn": "女性犯罪比男性少。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "committed",
+          "tran_cn": " 坚定的；效忠的；承担义务的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "commission",
+          "tran_cn": " 委员会；佣金；犯；委任；委任状"
+        },
+        {
+          "word": "commissioner",
+          "tran_cn": " 理事；委员；行政长官；总裁"
+        },
+        {
+          "word": "commitment",
+          "tran_cn": " 承诺，保证；委托；承担义务；献身"
+        },
+        {
+          "word": "committal",
+          "tran_cn": " 委托；承担义务；赞助；收监；献身（等于commitment）"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "committed",
+          "tran_cn": " 承诺；委托；干坏事；付诸（commit的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "commission",
+          "tran_cn": " 委任；使服役；委托制作"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "commend",
+            "commission",
+            "consecrate",
+            "do",
+            "entrust",
+            "perform",
+            "perpetrate",
+            "pledge",
+            "promise"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "entrust",
+            "pledge",
+            "promise"
+          ],
+          "tran_cn": "使作出保证;交托"
+        },
+        {
+          "words": [
+            "do",
+            "perform"
+          ],
+          "tran_cn": "犯"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "commit a crime",
+      "tran_cn": "犯罪；犯下罪行"
+    },
+    {
+      "phrase": "commit crime",
+      "tran_cn": "犯罪；干坏事"
+    },
+    {
+      "phrase": "commit murder",
+      "tran_cn": "谋杀"
+    },
+    {
+      "phrase": "commit oneself",
+      "tran_cn": "承诺，答应负责"
+    },
+    {
+      "phrase": "commit suicide",
+      "tran_cn": "自杀"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "犯罪，承诺，忠于(某人)，明确表态，自杀，调配，把…正式送进(医院、监狱等)，把…写下来/记住",
+      "tran_en": "to do something wrong or illegal"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 犯， 干； 把…托付给； 提交； 使承担义务， 使承诺； 把…置于； 调拨…供使用， 拨出",
+      "tran_en": "to do something wrong or illegal"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "commits"
+    ],
+    "past": [
+      "committed"
+    ],
+    "done": [
+      "committed"
+    ],
+    "ing": [
+      "committing"
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "word": "admission",
+  "ipa": {
+    "us": "ədˈmɪʃn",
+    "uk": "ədˈmɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "By her own admission, she was responsible for the accident.",
+      "cn": "她自己承认, 事故应该由她负责."
+    },
+    {
+      "en": "By his own admission, he evaded taxes as a Florida real-estate speculator.",
+      "cn": "他亲口承认自己在佛罗里达从事房地产投机生意时逃过税。"
+    },
+    {
+      "en": "Candidates must satisfy the general conditions for admission.",
+      "cn": "候选人必须满足参选的总体条件。"
+    },
+    {
+      "en": "Cases of plant poisoning severe enough to warrant hospital admission are rare.",
+      "cn": "植物中毒严重至必须住院治疗的病例很少见."
+    },
+    {
+      "en": "Gates open at 10.30am and admission is free.",
+      "cn": "早上10：30开门，免费入场。"
+    },
+    {
+      "en": "He made an admission that he was the thief.",
+      "cn": "他承认他是贼."
+    },
+    {
+      "en": "Hospital admission is not necessary in most cases.",
+      "cn": "大多数情况下，病人无须住院。"
+    },
+    {
+      "en": "No admission after 10 pm.",
+      "cn": "晚上10点以后免进。"
+    },
+    {
+      "en": "No oral test will be required for admission to that university.",
+      "cn": "上那所大学不必经过口试."
+    },
+    {
+      "en": "Open daily; admission £1.10 with concessions for children and OAPs.",
+      "cn": "每天开放；门票1.10英镑，儿童和退休人士可享受票价优惠。"
+    },
+    {
+      "en": "Poland and Czechoslovakia have vigorously pursued admission to the European Community.",
+      "cn": "波兰和捷克斯洛伐克已经积极寻求加入欧共体。"
+    },
+    {
+      "en": "Reese, by his own admission , lacks the necessary experience.",
+      "cn": "里斯自己也承认缺乏必要的经验。"
+    },
+    {
+      "en": "The admission price is $8 for adults.",
+      "cn": "成人门票8美元。"
+    },
+    {
+      "en": "The art gallery waives admission charges on Sundays.",
+      "cn": "美术馆周日免收门票。"
+    },
+    {
+      "en": "The Museum has no admission charge .",
+      "cn": "那家博物馆不收门票。"
+    },
+    {
+      "en": "The nurses at the admission desk asked her for particulars.",
+      "cn": "住院接待处的护士询问了她的详细情况。"
+    },
+    {
+      "en": "Udinese have knocked 10% off admission prices.",
+      "cn": "乌迪内斯队将入场费降低了10%。"
+    },
+    {
+      "en": "Were you just trying to trap her into making some admission?",
+      "cn": "你刚才是想诱使她供认吗？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "admissible",
+          "tran_cn": " 可容许的；可采纳的；可接受的"
+        },
+        {
+          "word": "admissive",
+          "tran_cn": " 认可的；容许的"
+        },
+        {
+          "word": "admittable",
+          "tran_cn": " 具有进入的资格的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "admissibility",
+          "tran_cn": " 可容许；有入场的资格"
+        },
+        {
+          "word": "admittance",
+          "tran_cn": " 进入；入场权；通道"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "admit",
+          "tran_cn": " 承认；容许"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "admit",
+          "tran_cn": " 承认；准许进入；可容纳"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "accedence",
+            "acquiescence",
+            "admittance",
+            "admitting",
+            "agreement",
+            "allowance",
+            "approval",
+            "assent",
+            "concession",
+            "concurrence",
+            "consent",
+            "granting",
+            "recognition"
+          ],
+          "tran_cn": "允许,同意"
+        },
+        {
+          "words": [
+            "acceptance",
+            "access",
+            "acknowledgment",
+            "admittance",
+            "embracement",
+            "entrance",
+            "entree",
+            "entry",
+            "greeting",
+            "inclusion",
+            "incorporation",
+            "introduction",
+            "reception",
+            "recognition",
+            "welcome"
+          ],
+          "tran_cn": "入口,接待处"
+        },
+        {
+          "words": [
+            "acknowledgment",
+            "admission",
+            "confession",
+            "declaration",
+            "disclosure",
+            "divulgence",
+            "exposure",
+            "expression",
+            "known",
+            "letting",
+            "making",
+            "on",
+            "owning",
+            "profession",
+            "revelation",
+            "up",
+            "utterance"
+          ],
+          "tran_cn": "承认,表达,揭示"
+        },
+        {
+          "words": [
+            "appointment",
+            "assignment",
+            "commissioning",
+            "designation",
+            "inauguration",
+            "induction",
+            "initiation",
+            "installation",
+            "investiture",
+            "nomination"
+          ],
+          "tran_cn": "设置,就职"
+        },
+        {
+          "words": [
+            "bill",
+            "charge",
+            "cost",
+            "cover",
+            "credentials",
+            "entrance",
+            "fee",
+            "gate",
+            "minimum",
+            "pass",
+            "receipts",
+            "tariff",
+            "ticket"
+          ],
+          "tran_cn": "门票费,票据"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "license",
+            "membership",
+            "passport"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "admission charge",
+      "tran_cn": "入场费"
+    },
+    {
+      "phrase": "admission criteria",
+      "tran_cn": "录取标准"
+    },
+    {
+      "phrase": "admission fee",
+      "tran_cn": "入场费；入会费；门票费"
+    },
+    {
+      "phrase": "admission free",
+      "tran_cn": "免费入场"
+    },
+    {
+      "phrase": "admission is free",
+      "tran_cn": "不收门票；免费入场"
+    },
+    {
+      "phrase": "admission of liability",
+      "tran_cn": "承认负有责任"
+    },
+    {
+      "phrase": "admission of sth",
+      "tran_cn": "承认"
+    },
+    {
+      "phrase": "admission office",
+      "tran_cn": "招生办，住院处；入院处"
+    },
+    {
+      "phrase": "admission ticket",
+      "tran_cn": "门票；准考证；入场券"
+    },
+    {
+      "phrase": "air admission",
+      "tran_cn": "进气；空气进入"
+    },
+    {
+      "phrase": "call admission control",
+      "tran_cn": "呼叫允许控制"
+    },
+    {
+      "phrase": "free admission",
+      "tran_cn": "赠送券；免费入场券"
+    },
+    {
+      "phrase": "letter of admission",
+      "tran_cn": "录取通知书，入学通知书"
+    },
+    {
+      "phrase": "no admission",
+      "tran_cn": "禁止入内"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "进入，准许加入，承认，入场费，入院治疗，坦白",
+      "tran_en": "a statement in which you admit that something is true or that you have done something wrong"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "admissions"
+    ]
+  }
+}

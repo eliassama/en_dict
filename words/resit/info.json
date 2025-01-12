@@ -1,0 +1,73 @@
+{
+  "word": "resit",
+  "ipa": {
+    "us": "ˈriːsɪt , ˌriːˈsɪt",
+    "uk": "ˈriːsɪt , ˌriːˈsɪt"
+  },
+  "sentences": [
+    {
+      "en": "She flunked Math and will have to resit it next term.",
+      "cn": "她数学没及格,下学期得补考."
+    },
+    {
+      "en": "She has to resit her maths exam next term.",
+      "cn": "她下学期得补考数学."
+    },
+    {
+      "en": "Those who fail can resit the exam in 60 days.",
+      "cn": "考试不及格的人可以在60天后重考。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "make-up examination",
+            "supplementary examination"
+          ],
+          "tran_cn": "补考；重考"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "reexamine"
+          ],
+          "tran_cn": "（英）重考；补考"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "<英>（尤指考试不及格后）再参加（考试），（考试不及格后）再考，重考"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": " 重修， 补考",
+      "tran_en": "to take an examination again, because you failed it or did not do well enough"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "resits"
+    ],
+    "past": [
+      "resat"
+    ],
+    "done": [
+      "resat"
+    ],
+    "ing": [
+      "resitting"
+    ]
+  }
+}

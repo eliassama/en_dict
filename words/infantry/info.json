@@ -1,0 +1,132 @@
+{
+  "word": "infantry",
+  "ipa": {
+    "us": "ˈɪnfəntri",
+    "uk": "ˈɪnfəntri"
+  },
+  "sentences": [
+    {
+      "en": "an infantry regiment",
+      "cn": "步兵团"
+    },
+    {
+      "en": "Artillery fire supported the infantry attack.",
+      "cn": "炮火掩护步兵进攻."
+    },
+    {
+      "en": "Everyone I knew was either in the cavalry or the infantry.",
+      "cn": "我认识的人要么在骑兵队,要么是步兵."
+    },
+    {
+      "en": "He saw service as an infantry officer.",
+      "cn": "他当过步兵军官."
+    },
+    {
+      "en": "He signed on for nine years in the infantry.",
+      "cn": "他签署了志愿书要在步兵服役九年."
+    },
+    {
+      "en": "Our infantry was protected by a curtain of artillery fire.",
+      "cn": "我们的步兵在炮兵火力掩护之下."
+    },
+    {
+      "en": "The artillery has more firepower than the infantry.",
+      "cn": "炮兵火力比步兵大."
+    },
+    {
+      "en": "The Belgians fell back as the infantry came under fire.",
+      "cn": "步兵团受到火力攻击时比利时人向后撤退。"
+    },
+    {
+      "en": "The enemy infantry was hiding.",
+      "cn": "敌军步兵正在隐蔽。"
+    },
+    {
+      "en": "The infantry divisions mopped up remaining centres of resistance.",
+      "cn": "陆军各师肃清了残余的抵抗据点。"
+    },
+    {
+      "en": "The infantry went in.",
+      "cn": "步兵进攻了."
+    },
+    {
+      "en": "The infantry were advancing to attack the ridge.",
+      "cn": "步兵部队正在向前挺进攻打山脊。"
+    },
+    {
+      "en": "The infantry were equipped with flame throwers.",
+      "cn": "步兵都装备有喷火器."
+    },
+    {
+      "en": "The infantry would use hit and run tactics to slow attacking forces.",
+      "cn": "步兵团可能会使用打了就跑的战术来阻滞进攻部队。"
+    },
+    {
+      "en": "The transport corps is ancillary to the infantry.",
+      "cn": "运输队是步兵的辅助部队."
+    },
+    {
+      "en": "We have less infantry than the enemy.",
+      "cn": "我们的步兵比敌人少."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "infantryman",
+          "tran_cn": " 步兵"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "army",
+            "foot",
+            "soldiers"
+          ],
+          "tran_cn": "部队;步兵团"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "army"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "infantry division",
+      "tran_cn": "步兵师，陆军师；机步师"
+    },
+    {
+      "phrase": "light infantry",
+      "tran_cn": "轻步兵"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "步兵，步兵部队",
+      "tran_en": "soldiers who fight on foot"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "infantries"
+    ]
+  }
+}

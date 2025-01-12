@@ -1,0 +1,59 @@
+{
+  "word": "striate",
+  "ipa": {
+    "us": "'straɪeɪt",
+    "uk": "ˈstraɪˌet"
+  },
+  "sentences": [
+    {
+      "en": "Major Topics: Striate Cortex Receptive Field Organization , Cytoarchitecture, Modular Organization, Imaging.",
+      "cn": "主要题目: 纹状皮质接收区组成, 细胞结构,模型组成, 成像."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stria",
+          "tran_cn": " [地质] 条痕；条纹；细槽"
+        },
+        {
+          "word": "striation",
+          "tran_cn": " 条纹；流束；大气结构切面纹"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "streaky",
+            "lineate"
+          ],
+          "tran_cn": "有条纹的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有条纹的，有细槽的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 加条纹",
+      "tran_en": "to mark with striae "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "加条纹"
+    }
+  ],
+  "exchange": {}
+}

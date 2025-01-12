@@ -1,0 +1,187 @@
+{
+  "word": "cache",
+  "ipa": {
+    "us": "kæʃ",
+    "uk": "kæʃ"
+  },
+  "sentences": [
+    {
+      "en": "a large arms cache",
+      "cn": "隐藏的大批武器"
+    },
+    {
+      "en": "A normal proxy can tunnel encrypted data, but it cannot cache it.",
+      "cn": "正常可以.加密数据, 但不能缓存它."
+    },
+    {
+      "en": "But my Dad used to be the sheriff and that had a certain cache.",
+      "cn": "但是我爸爸曾经是这里的治安官,那也算有点权力."
+    },
+    {
+      "en": "Files are placed in the cache until the cache is full.",
+      "cn": "直至高速缓存被充满之前,文件始终驻留在高速缓存中."
+    },
+    {
+      "en": "In your Web browser's cache are the most recent Web files that you have downloaded.",
+      "cn": "网页浏览器的高速缓存区里有你最近下载的网页文件。"
+    },
+    {
+      "en": "Intelligent Disk Cache system which protects your hard disk from high - speed download.",
+      "cn": "智能磁盘高速缓存系统,保护您的硬盘从超高速下载."
+    },
+    {
+      "en": "It also acceptable to cache versioned data since each version is immutable.",
+      "cn": "既然每个版本的数据是不可变的,那么混存版本化数据也是可以接受的."
+    },
+    {
+      "en": "Method Two : Repair Local Area Connection, to clear the DNS cache purposes.",
+      "cn": "方法 二: 修复本地连接, 达到清除DNS缓存的目的."
+    },
+    {
+      "en": "Police discovered a cache of weapons in the room.",
+      "cn": "警方在房间里发现了一批隐藏的武器."
+    },
+    {
+      "en": "Setup found a compressed volume or a disk - cache utility on your computer.",
+      "cn": "安装程序在计算机上发现压缩卷或磁盘缓存实用程序."
+    },
+    {
+      "en": "The data needed is found in the cache.",
+      "cn": "在高速缓冲存储器中找到所需数据."
+    },
+    {
+      "en": "The database state cache was already initialized in the extended stored procedure.",
+      "cn": "扩展存储过程中的数据库状态高速缓存已初始化."
+    },
+    {
+      "en": "The DNS cache can significantly improve DNS query performance throughout your organization.",
+      "cn": "DNS缓存可显著地增强遍及您的组织机构的DNS查询性能."
+    },
+    {
+      "en": "The external cache ( or B - Cache ) mixes the two together.",
+      "cn": "而外部高速缓存 ( B - Cache ) 将两者混合."
+    },
+    {
+      "en": "The maximum size of the client cache, in bytes.",
+      "cn": "客户端的缓存最大数, 单位是字节."
+    },
+    {
+      "en": "This store is known as the Address Resolution Protocol ( ARP ) cache.",
+      "cn": "这个存储器叫作地址分辨协议 ( arp ) 高速缓存."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "covert"
+          ],
+          "tran_cn": "[计]电脑高速缓冲存储器；贮存物；隐藏处"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bury",
+            "conceal",
+            "cover",
+            "covert",
+            "hide",
+            "resource",
+            "storage",
+            "store"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "harbor",
+            "hide out"
+          ],
+          "tran_cn": "躲藏"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bury",
+            "conceal",
+            "cover",
+            "hide",
+            "store"
+          ],
+          "tran_cn": "贮藏;隐藏"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cache file",
+      "tran_cn": "缓存文件"
+    },
+    {
+      "phrase": "cache management",
+      "tran_cn": "高速缓冲存储器管理"
+    },
+    {
+      "phrase": "cache memory",
+      "tran_cn": "高速缓冲存储器；快取记忆体"
+    },
+    {
+      "phrase": "disk cache",
+      "tran_cn": "磁盘高速缓存"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "藏物处，隐藏处，藏匿的珍宝，<电脑>快速缓冲贮存区",
+      "tran_en": "a number of things that have been hidden, especially weapons, or the place where they have been hidden"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "隐藏；窖藏",
+      "tran_en": "to hide something in a secret place, especially weapons"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "躲藏"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "贮藏"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "caches"
+    ],
+    "third": [
+      "caches"
+    ],
+    "past": [
+      "cached"
+    ],
+    "done": [
+      "cached"
+    ],
+    "ing": [
+      "caching"
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "word": "auction",
+  "ipa": {
+    "us": "ˈɔːkʃn",
+    "uk": "ˈɔːkʃn"
+  },
+  "sentences": [
+    {
+      "en": "an auction of paintings",
+      "cn": "绘画拍卖会"
+    },
+    {
+      "en": "Britain's two main auction houses, Sotheby's and Christies, have been involved in valuing the works.",
+      "cn": "英国最大的两家拍卖行，苏富比和佳士得参与了对这些作品的估价。"
+    },
+    {
+      "en": "Eight drawings by French artist Jean Cocteau will be auctioned next week.",
+      "cn": "法国艺术家让·科克托的8幅画作将在下周拍卖。"
+    },
+    {
+      "en": "Gene clerked at the auction.",
+      "cn": "吉恩在拍卖会上作文书工作。"
+    },
+    {
+      "en": "If you can buy only one case at auction, it should be vintage port.",
+      "cn": "如果你在拍卖会上只能买一样东西，那就应该是上等的波尔图葡萄酒。"
+    },
+    {
+      "en": "Lord Salisbury bought the picture at auction in London some years ago.",
+      "cn": "几年前，索尔兹伯里勋爵在伦敦拍得了这幅画。"
+    },
+    {
+      "en": "Many of the cars you will see at auction are repossessions.",
+      "cn": "你将在拍卖会上见到的许多车辆都是被收回物品。"
+    },
+    {
+      "en": "The airline plans to auction its international routes to former competitors.",
+      "cn": "这家航空公司打算把他们的国际线路拍卖给以前的竞争对手。"
+    },
+    {
+      "en": "The painting is expected to fetch up to $400,000 at auction.",
+      "cn": "这幅画预计在拍卖会上能卖到40万美元。"
+    },
+    {
+      "en": "The sale is a big coup for the auction house.",
+      "cn": "这笔交易是该拍卖行的一大成功之举。"
+    },
+    {
+      "en": "They bought a new minibus with the proceeds from the auction.",
+      "cn": "他们用拍卖得来的钱买了一辆新面包车."
+    },
+    {
+      "en": "They've put the contents of their house up for auction.",
+      "cn": "他们把房子里的东西全都拿去拍卖了."
+    },
+    {
+      "en": "Thirteen per cent of Christie's coin and banknote auction went unsold.",
+      "cn": "佳士得13%的硬币和纸币拍卖流拍。"
+    },
+    {
+      "en": "Trading was very light ahead of yesterday's auction.",
+      "cn": "昨天拍卖之前的成交量很小。"
+    },
+    {
+      "en": "Watch this space for notice of our next auction.",
+      "cn": "请在这地方看我们下次拍卖的预告."
+    },
+    {
+      "en": "We bought these items at an auction.",
+      "cn": "这些物件是我们在一次拍卖时买的."
+    },
+    {
+      "en": "We'll auction them for charity.",
+      "cn": "我们将为它们举办慈善拍卖。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "auctioneer",
+          "tran_cn": " 拍卖商"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "auctioneer",
+          "tran_cn": " 拍卖"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "public sale",
+            "vendue"
+          ],
+          "tran_cn": "[贸易]拍卖"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "sale"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "be on sale"
+          ],
+          "tran_cn": "[贸易]拍卖；竞卖"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at auction",
+      "tran_cn": "拍卖"
+    },
+    {
+      "phrase": "auction house",
+      "tran_cn": "拍卖行"
+    },
+    {
+      "phrase": "auction market",
+      "tran_cn": "拍卖市场"
+    },
+    {
+      "phrase": "auction off",
+      "tran_cn": "v. 拍卖掉；竞卖"
+    },
+    {
+      "phrase": "auction price",
+      "tran_cn": "（法）拍卖价格"
+    },
+    {
+      "phrase": "auction sale",
+      "tran_cn": "拍卖"
+    },
+    {
+      "phrase": "dutch auction",
+      "tran_cn": "荷兰式拍卖；喊价逐步减低的拍卖"
+    },
+    {
+      "phrase": "on the auction block",
+      "tran_cn": "见 block 条 on the block"
+    },
+    {
+      "phrase": "public auction",
+      "tran_cn": "[经]公开拍卖"
+    },
+    {
+      "phrase": "reverse auction",
+      "tran_cn": "反向拍卖；逆向拍卖"
+    },
+    {
+      "phrase": "sale by auction",
+      "tran_cn": "拍卖"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "拍卖(会)",
+      "tran_en": "a public meeting where land, buildings, paintings etc are sold to the person who offers the most money for them"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": " 拍卖",
+      "tran_en": "a public meeting where land, buildings, paintings etc are sold to the person who offers the most money for them"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": " 拍卖",
+      "tran_en": "a public meeting where land, buildings, paintings etc are sold to the person who offers the most money for them"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "拍卖",
+      "tran_en": "to sell something at an auction"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "auctions"
+    ],
+    "third": [
+      "auctions"
+    ],
+    "past": [
+      "auctioned"
+    ],
+    "done": [
+      "auctioned"
+    ],
+    "ing": [
+      "auctioning"
+    ]
+  }
+}

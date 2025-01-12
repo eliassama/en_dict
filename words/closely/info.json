@@ -1,0 +1,206 @@
+{
+  "word": "closely",
+  "ipa": {
+    "us": "ˈkləʊsli",
+    "uk": "ˈkloʊsli"
+  },
+  "sentences": [
+    {
+      "en": "Details of the program are a closely-guarded secret .",
+      "cn": "该项目的细节是严格保密的。"
+    },
+    {
+      "en": "He closely guarded her identity.",
+      "cn": "他对她的身份守口如瓶。"
+    },
+    {
+      "en": "He had worked closely with the President during his governorship.",
+      "cn": "他在任州长期间与总统紧密合作。"
+    },
+    {
+      "en": "He held her closely, burying his head against her shoulder.",
+      "cn": "他紧紧地抱住她，把头靠在她的肩上。"
+    },
+    {
+      "en": "Human rights groups have been closely watching the case.",
+      "cn": "人权组织一直在密切关注此案。"
+    },
+    {
+      "en": "lightning, followed closely by thunder",
+      "cn": "闪电，紧跟着是雷鸣"
+    },
+    {
+      "en": "My social life and business life are closely tied.",
+      "cn": "我的社交生活和工作联系紧密。"
+    },
+    {
+      "en": "She looked at him closely to see if his evasiveness was intentional.",
+      "cn": "她端详着他，想要知道他是否故意回避。"
+    },
+    {
+      "en": "Tenants should check their tenancy agreements closely.",
+      "cn": "租户应该认真核对租赁合同。"
+    },
+    {
+      "en": "The detective watched him closely , waiting for a reply.",
+      "cn": "侦探紧盯着他看，等着他回答。"
+    },
+    {
+      "en": "The detention raised two distinct but closely linked questions.",
+      "cn": "这一拘留行为引发了两个互为独立但又密切相关的问题。"
+    },
+    {
+      "en": "The letter consists of six closely typed pages.",
+      "cn": "那封信有密密麻麻打印出来的6页。"
+    },
+    {
+      "en": "The philosophical problems of chance and of free will are closely related.",
+      "cn": "或然性和自由意志这两个哲学问题是紧密相关的。"
+    },
+    {
+      "en": "The political opinions of spouses correlate more closely than their heights.",
+      "cn": "配偶之间政治观点上的相似度要大于他们身高的相似程度。"
+    },
+    {
+      "en": "The successful applicant will be working closely with our international staff.",
+      "cn": "被录用者将与我们的国际员工紧密合作。"
+    },
+    {
+      "en": "They crowded more closely around the stretcher.",
+      "cn": "他们在担架旁围得更紧了。"
+    },
+    {
+      "en": "We were so closely packed in the elevator I could hardly move.",
+      "cn": "电梯里人挨着人，我几乎动弹不得。"
+    },
+    {
+      "en": "We work closely with the careers officers in schools.",
+      "cn": "我们与学校的就业顾问密切合作。"
+    },
+    {
+      "en": "Wherever they went they were closely followed by security men.",
+      "cn": "不管上哪儿，保安人员都紧跟在他们身后。"
+    },
+    {
+      "en": "Working with Ford closely, I fell in love with the cinema.",
+      "cn": "与福特的密切合作开始令我爱上了电影。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "close",
+          "tran_cn": " 紧密的；亲密的；亲近的"
+        },
+        {
+          "word": "closed",
+          "tran_cn": " 关着的；不公开的"
+        },
+        {
+          "word": "closer",
+          "tran_cn": " 靠近的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "close",
+          "tran_cn": " 紧密地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "close",
+          "tran_cn": " 结束"
+        },
+        {
+          "word": "closeness",
+          "tran_cn": " 亲密；接近；密闭；严密"
+        },
+        {
+          "word": "closer",
+          "tran_cn": " [自] 闭合器；最后的节目"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "closed",
+          "tran_cn": " 关；结束；接近（close的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "close",
+          "tran_cn": " 关；结束；关闭"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "close",
+          "tran_cn": " 关；结束；使靠近"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "hard",
+            "cheek by jowl"
+          ],
+          "tran_cn": "紧密地；接近地；严密地；亲近地"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be closely related with",
+      "tran_cn": "与...有密切联系"
+    },
+    {
+      "phrase": "closely packed",
+      "tran_cn": "密堆积的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "严密地，在很大程度上，紧密相关的",
+      "tran_en": "very carefully"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "more closely"
+    ],
+    "est": [
+      "most closely"
+    ],
+    "noun": [
+      "closeness"
+    ],
+    "adj": [
+      "close"
+    ]
+  }
+}

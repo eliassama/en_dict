@@ -1,0 +1,192 @@
+{
+  "word": "associative",
+  "ipa": {
+    "us": "əˈsəʊʃiətɪv",
+    "uk": "əˈsoʊʃiətɪv"
+  },
+  "sentences": [
+    {
+      "en": "Algorithm of bidirectional associative memory ( BAM ) is depicted.",
+      "cn": "分析了双向 互联 想记忆网络的算法结构."
+    },
+    {
+      "en": "And this seems very associative with TV animation.",
+      "cn": "这似乎非常联想与电视动画."
+    },
+    {
+      "en": "Associative memory is a basic function of human brain.",
+      "cn": "联想记忆是人脑的一项重要功能."
+    },
+    {
+      "en": "Describe the differences between an associative container and a sequential container.",
+      "cn": "描述关联容器和顺序容器的差别."
+    },
+    {
+      "en": "Elements in an associative container are ordered by key rather than sequentially.",
+      "cn": "关联容器中的元素不是顺序排列,而是按键(key)排序的."
+    },
+    {
+      "en": "Grasp Property and the Associative Property of Addition.",
+      "cn": "掌握加法交换律和加法结合律,培养学生初步的归纳推理能力."
+    },
+    {
+      "en": "Multiplication and addition are associative operations.",
+      "cn": "乘法和加法是结合性运算."
+    },
+    {
+      "en": "The associative containers share many operations with the sequential containers.",
+      "cn": "关联容器共享了顺序容器的许多操作."
+    },
+    {
+      "en": "The associative guilt was ingrained in his soul.",
+      "cn": "由此产生的内疚感在他灵魂深处挥之不去。"
+    },
+    {
+      "en": "the brain’s ability to form associative links between different things",
+      "cn": "大脑通过联想把不同事物联系起来的能力"
+    },
+    {
+      "en": "The elements in an associative container are ordered and accessed by key.",
+      "cn": "关联容器的元素按键排序和访问."
+    },
+    {
+      "en": "The library also defines several associative containers.",
+      "cn": "标准库还定义了几种关联容器."
+    },
+    {
+      "en": "The problem is that the key in an associative container is const.",
+      "cn": "关联容器的键是const对象."
+    },
+    {
+      "en": "The real picture is more horrific and stronger but one must conjure up all the associative thoughts and emotions it evokes.",
+      "cn": "真实的画面更恐怖也更震撼，但是它带来的种种感受和情绪需要你自己去联想。"
+    },
+    {
+      "en": "This is the Associative Property of Multiplication. Read after me, please.",
+      "cn": "师:这就是乘法结合律, 请跟着老师读."
+    },
+    {
+      "en": "Two criteria reducibility of presentations of finite dimensional associative algebras are presented.",
+      "cn": "给出有限维结合代数上表示可约性的两个判别法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "associable",
+          "tran_cn": " 可联想的；交感性的"
+        },
+        {
+          "word": "associate",
+          "tran_cn": " 副的；联合的"
+        },
+        {
+          "word": "associated",
+          "tran_cn": " 关联的；联合的"
+        },
+        {
+          "word": "associational",
+          "tran_cn": " 联想的；协会的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "associability",
+          "tran_cn": " 可联想性；交感性"
+        },
+        {
+          "word": "associate",
+          "tran_cn": " 同事，伙伴；关联的事物"
+        },
+        {
+          "word": "association",
+          "tran_cn": " 协会，联盟，社团；联合；联想"
+        },
+        {
+          "word": "associationism",
+          "tran_cn": " 联想心理学；观念联合论"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "associated",
+          "tran_cn": " 联系（associate的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "associate",
+          "tran_cn": " 交往；结交"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "associate",
+          "tran_cn": " 联想；使联合；使发生联系"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "linked",
+            "combined",
+            "joint"
+          ],
+          "tran_cn": "联想的；联合的；组合的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "relative"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "associative law",
+      "tran_cn": "[数学]结合律"
+    },
+    {
+      "phrase": "associative learning",
+      "tran_cn": "联想学习；联结式学习"
+    },
+    {
+      "phrase": "associative memory",
+      "tran_cn": "[心理]联想记忆；[信息]（计算机的）联合存储器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "联合的，联想的，结合的",
+      "tran_en": "reminding you of something else"
+    }
+  ],
+  "exchange": {}
+}

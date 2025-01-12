@@ -1,0 +1,190 @@
+{
+  "word": "manipulation",
+  "ipa": {
+    "us": "məˌnɪpjʊ'leɪʃn",
+    "uk": "məˌnɪpjʊˈleʃən"
+  },
+  "sentences": [
+    {
+      "en": "A permanent cure will only be effected by acupuncture, chiropractic or manipulation.",
+      "cn": "只有针灸、脊椎指压治疗或者推拿术才能实现彻底治愈。"
+    },
+    {
+      "en": "As discussed, the key to successful direct manipulation is rich visual feedback.",
+      "cn": "我们讨论过, 成功的直接操作的关键是丰富的视觉反馈."
+    },
+    {
+      "en": "During this manipulation, the explanation of the chemistry involved can be given.",
+      "cn": "操作的时候可以解释其中涉及的化学(原理)."
+    },
+    {
+      "en": "Forgiving interactions and Undo encourage users to try direct manipulation without trepidation.",
+      "cn": "温顺宽厚的交互方式已经允许撤销都会鼓励使用者毫无畏惧地尝试直接操作."
+    },
+    {
+      "en": "Green house operators have considerable opportunity for precise manipulation of nutrients.",
+      "cn": "温室管理员有很多机会来准确控制养分."
+    },
+    {
+      "en": "His clever manipulation of the stock markets makes him lots of money.",
+      "cn": "他在股票交易中买卖精明,赚了很多钱."
+    },
+    {
+      "en": "Man would have to assist in the maintenance of species populations by habitat manipulation.",
+      "cn": "人类仍将通过居住地管理来帮助保持种群体."
+    },
+    {
+      "en": "Plant growth will be highly sensitive to the manipulation of this variable.",
+      "cn": "植物生长对于这一变量的施用表现出很高的敏感度."
+    },
+    {
+      "en": "Provide direct manipulation and graphical input.",
+      "cn": "提供直接的操作和图形输入."
+    },
+    {
+      "en": "Rich visual feedback is the key to successful direct manipulation.",
+      "cn": "丰富的视觉交互是直接操作成功的关键."
+    },
+    {
+      "en": "Some people can put back a twisted joint by careful manipulation.",
+      "cn": "有些人小心推拿就能把扭脱的关节矫正过来."
+    },
+    {
+      "en": "Some people can put back a twisted joint, like the shoulder, by careful manipulation.",
+      "cn": "有的人会巧用推拿术使扭伤的关节, 例如肩膀复位."
+    },
+    {
+      "en": "Such manipulation can sometimes distort complex waveforms, obscuring identification of events.",
+      "cn": "这种作法有时会使复杂的波形畸变, 模糊了同相轴的识辨标志."
+    },
+    {
+      "en": "The position of barycentre on plane directly impacts the stabilization and manipulation of plane.",
+      "cn": "飞机重心位置直接影响飞机的稳定和操纵特性。"
+    },
+    {
+      "en": "They make a lot of money by clever manipulation of the Stock Market.",
+      "cn": "他们巧妙地操纵股票市场而大赚其钱。"
+    },
+    {
+      "en": "With direct manipulation, we can point to what we want.",
+      "cn": "用直接操作, 我们可以指出想要什么."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "manipulable",
+          "tran_cn": " 可操纵自如的；可以操作的"
+        },
+        {
+          "word": "manipulative",
+          "tran_cn": " 巧妙处理的；操纵的，用手控制的"
+        },
+        {
+          "word": "manned",
+          "tran_cn": " 有人驾驶的；有人操纵的；配备齐船员的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "manipulability",
+          "tran_cn": " 可操纵性"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "manned",
+          "tran_cn": " 给…配备人员（man的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "manipulate",
+          "tran_cn": " 操纵；操作；巧妙地处理；篡改"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "operation",
+            "transactions",
+            "management",
+            "settlement",
+            "disposal",
+            "treatment"
+          ],
+          "tran_cn": "操纵；操作；处理；篡改"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "operation",
+            "strategy",
+            "treatment"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data manipulation",
+      "tran_cn": "数据操作"
+    },
+    {
+      "phrase": "direct manipulation",
+      "tran_cn": "直接操作，直接操纵"
+    },
+    {
+      "phrase": "file manipulation",
+      "tran_cn": "n. 文件处理"
+    },
+    {
+      "phrase": "graph manipulation",
+      "tran_cn": "图形处理"
+    },
+    {
+      "phrase": "image manipulation",
+      "tran_cn": "图像处理，图象处理"
+    },
+    {
+      "phrase": "market manipulation",
+      "tran_cn": "市场操纵，操纵市场；“造市”"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（熟练的）操作，操纵，控制，（对账目等的）伪造"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "manipulations"
+    ],
+    "verb": [
+      "manipulate"
+    ]
+  }
+}

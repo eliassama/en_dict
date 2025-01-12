@@ -1,0 +1,66 @@
+{
+  "word": "penurious",
+  "ipa": {
+    "us": "pəˈnjʊəriəs",
+    "uk": "pəˈnʊriəs"
+  },
+  "sentences": [
+    {
+      "en": "One penurious year, my parents used a Swiss cheese plant.",
+      "cn": "在经济拮据的一年, 我父母曾用绳状藤来代替圣诞树."
+    },
+    {
+      "en": "One penurious year, my parents used Swiss cheese plant.",
+      "cn": "经济拮据的一年, 我父母曾用绳状藤来代替圣诞树."
+    },
+    {
+      "en": "Raised on a hog farm in Hunan Province, she laughs off the penurious ways of her parents and grandparents.",
+      "cn": "她笑着说起在湖南养猪的父母的吝啬的生活方式。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "penury",
+          "tran_cn": " 贫困；贫穷"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "tight",
+            "lacking"
+          ],
+          "tran_cn": "吝啬的；缺乏的；贫困的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "greedy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "贫穷的，赤贫的，吝啬的",
+      "tran_en": "niggardly with money "
+    }
+  ],
+  "exchange": {}
+}

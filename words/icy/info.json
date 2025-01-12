@@ -1,0 +1,180 @@
+{
+  "word": "icy",
+  "ipa": {
+    "us": "ˈaɪsi",
+    "uk": "ˈaɪsi"
+  },
+  "sentences": [
+    {
+      "en": "an icy mountain road",
+      "cn": "冰封的山路"
+    },
+    {
+      "en": "an icy wind",
+      "cn": "刺骨寒风"
+    },
+    {
+      "en": "An icy wind swept through the streets.",
+      "cn": "一阵寒风扫过街道。"
+    },
+    {
+      "en": "He braced himself for the icy plunge into the black water.",
+      "cn": "他做好了准备要跳进冰冷的脏水里。"
+    },
+    {
+      "en": "He hesitated before diving into the icy water.",
+      "cn": "在跳进冰水之前他犹豫了一阵."
+    },
+    {
+      "en": "His response was icy.",
+      "cn": "他反应冷淡。"
+    },
+    {
+      "en": "I found it hard to keep my balance on the icy path.",
+      "cn": "我觉得在冰滑小道上走路要保持身体平衡是相当困难的."
+    },
+    {
+      "en": "It'seems quite warm today by contrast with yesterday's icy wind.",
+      "cn": "与昨天凛冽的寒风一比,今天可算相当暖和了."
+    },
+    {
+      "en": "Motorists have been warned to beware of icy roads.",
+      "cn": "已经提醒开车的人当心冰封的路面。"
+    },
+    {
+      "en": "Several pedestrians had come to grief on the icy pavement.",
+      "cn": "几个行人在结冰的人行道上滑倒了."
+    },
+    {
+      "en": "She fell headlong into the icy pool.",
+      "cn": "她倒栽葱掉进了冰冷的水池中。"
+    },
+    {
+      "en": "She fixed her questioner with an icy glare.",
+      "cn": "她冷冷地盯着审问者."
+    },
+    {
+      "en": "The bath water was icy cold.",
+      "cn": "洗澡水冰冷刺骨。"
+    },
+    {
+      "en": "The icy coldness of the water revived her.",
+      "cn": "水刺骨的寒冷使她苏醒过来."
+    },
+    {
+      "en": "They were forcing her head under the icy waters, drowning her.",
+      "cn": "他们用力把她的头按到冰冷的水中，想淹死她。"
+    },
+    {
+      "en": "They were getting drenched by icy water.",
+      "cn": "他们被冰冷的水浇透了。"
+    },
+    {
+      "en": "Two cars skidded on the icy pavement.",
+      "cn": "两辆汽车在结冰的路面上打滑。"
+    },
+    {
+      "en": "With characteristic rashness and valor, Peter plunged into the icy water.",
+      "cn": "以他惯有的冲动和勇气，彼得一头扎进了冰冷的水中。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "icily",
+          "tran_cn": "冷冰冰地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ice",
+          "tran_cn": "冰；冰淇淋；矜持；（俚）钻石；vt. 冰镇；结冰；vi. 结冰；adj. 冰的"
+        },
+        {
+          "word": "icer",
+          "tran_cn": "冷藏工人；给冷藏货车装冰的机器"
+        },
+        {
+          "word": "iciness",
+          "tran_cn": "冰冷，如冰；冰冷的性质"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "ice",
+          "tran_cn": "结冰"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "ice",
+          "tran_cn": "冰镇；结冰"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "cold",
+            "ice-cold"
+          ],
+          "tran_cn": "冰冷的；冷淡的；结满冰的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "alienated",
+            "apathetic",
+            "arctic",
+            "chill",
+            "cold",
+            "frigid",
+            "frosty",
+            "glacial",
+            "slippery",
+            "stony"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "寒冷的，冰冷的，结冰的，冷冰冰的，不友好的",
+      "tran_en": "extremely cold"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "icier"
+    ],
+    "est": [
+      "iciest"
+    ],
+    "noun": [
+      "iciness"
+    ]
+  }
+}

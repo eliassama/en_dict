@@ -1,0 +1,106 @@
+{
+  "word": "expurgate",
+  "ipa": {
+    "us": "ˈekspəgeɪt",
+    "uk": "ˈekspərgeɪt"
+  },
+  "sentences": [
+    {
+      "en": "He heavily expurgated the work in its second edition.",
+      "cn": "在第二版中，他大幅删减了该作品。"
+    },
+    {
+      "en": "He is capabled of bring out an expurgate edit 0 ion of wordsworth.",
+      "cn": "他几乎做的出出版华兹华斯作品的删改本(洁本)."
+    },
+    {
+      "en": "To expurgate ( a book, for example ) prudishly.",
+      "cn": "删节谦逊地删节 ( 如一本书 )"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "expurgated",
+          "tran_cn": " 经过删除的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "expurgation",
+          "tran_cn": " 消去；廓清；删去"
+        },
+        {
+          "word": "expurgator",
+          "tran_cn": " 修订者；削除者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "expurgated",
+          "tran_cn": " 删除（expurgate的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "censor",
+            "emend"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cancel",
+            "delete from"
+          ],
+          "tran_cn": "删除，删去"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "删除",
+      "tran_en": "If someone expurgates a piece of writing, they remove parts of it before it is published because they think those parts will offend or shock people"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "删除（书等中的）令人反感的成分，修订，删去（不当处）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "expurgates"
+    ],
+    "past": [
+      "expurgated"
+    ],
+    "done": [
+      "expurgated"
+    ],
+    "ing": [
+      "expurgating"
+    ]
+  }
+}

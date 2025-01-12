@@ -1,0 +1,79 @@
+{
+  "word": "sedition",
+  "ipa": {
+    "us": "sɪˈdɪʃn",
+    "uk": "sɪˈdɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "Anyone fomenting on advocating the leaving of Fort William Henry will be hung for sedition.",
+      "cn": "任何散布离开威廉城言论的人将被判煽动罪而处以绞刑!"
+    },
+    {
+      "en": "He was brought to trial on charges of sedition.",
+      "cn": "他以煽动闹事罪被送法院审理."
+    },
+    {
+      "en": "Openly he professed loyalty, but in secret he was fanning the flame of sedition.",
+      "cn": "他表面上伪装忠诚, 暗地里却在煽动闹事."
+    },
+    {
+      "en": "They sowed sedition broadcast over the country.",
+      "cn": "他们在全国广为散布煽动性言论."
+    },
+    {
+      "en": "Trade Union leaders were charged with sedition.",
+      "cn": "工会领导人被控犯有煽动罪。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "seditious",
+          "tran_cn": " 煽动性的；扰乱治安的；参与煽动的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "insurrection",
+            "emeute"
+          ],
+          "tran_cn": "暴动；煽动性的言论或行为；妨害治安"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "disturbance",
+            "insurrection"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "煽动行为或言论，煽动叛乱",
+      "tran_en": "speech, writing, or actions intended to encourage people to disobey a government"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "seditious"
+    ]
+  }
+}

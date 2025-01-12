@@ -1,0 +1,196 @@
+{
+  "word": "haunt",
+  "ipa": {
+    "us": "hɔːnt",
+    "uk": "hɔːnt"
+  },
+  "sentences": [
+    {
+      "en": "As a girl, she used to haunt the local cinema.",
+      "cn": "她还是姑娘的时候常去当地的电影院."
+    },
+    {
+      "en": "As a girl, she used to haunt the local theater.",
+      "cn": "小时候, 她常去当地那家剧院看戏."
+    },
+    {
+      "en": "His ghost is said to haunt some of the rooms, banging a toy drum.",
+      "cn": "据说他的鬼魂经常敲着玩具鼓出没在其中的一些房间里。"
+    },
+    {
+      "en": "If you don t help me, I ll haunt you after my death.",
+      "cn": "如果你不帮助我, 我死后变鬼来缠你."
+    },
+    {
+      "en": "People say ghosts haunt that old house.",
+      "cn": "据说那座老宅子有鬼魂出没."
+    },
+    {
+      "en": "The area was a haunt of criminals.",
+      "cn": "这个地区是罪犯经常出没的地方."
+    },
+    {
+      "en": "The Channel Islands are a favourite summer haunt for UK and French yachtsmen alike.",
+      "cn": "海峡群岛是英国和法国的帆船运动爱好者夏日最爱去的地方。"
+    },
+    {
+      "en": "The college library is a favorite haunt.",
+      "cn": "大学图书馆是人们喜欢的地方."
+    },
+    {
+      "en": "The ghost has been laid and will not return to haunt you again.",
+      "cn": "那鬼魂已经驱除,不会再来缠着你了."
+    },
+    {
+      "en": "The place is the haunt of off-duty policemen.",
+      "cn": "这里是不当班的警察经常光顾的地方。"
+    },
+    {
+      "en": "The pub is said to be haunted by the ghost of a former landlord.",
+      "cn": "据说这个酒吧里经常有一位前任房主的鬼魂出没。"
+    },
+    {
+      "en": "The special haunt of the kittens was the old barn.",
+      "cn": "猫特别喜欢到那个旧仓库去."
+    },
+    {
+      "en": "The stigma of being a bankrupt is likely to haunt him for the rest of his life.",
+      "cn": "破产的耻辱可能会让他余生不得安宁。"
+    },
+    {
+      "en": "The Wanglang Preserve in western Sichuan is the haunt of the giant panda.",
+      "cn": "川西的王朗自然保护区是大熊猫出没的地方."
+    },
+    {
+      "en": "They say ghosts haunt this house.",
+      "cn": "据说这所房子里常闹鬼."
+    },
+    {
+      "en": "This is one of the cafes I used to haunt.",
+      "cn": "这是我以前常去的一家咖啡馆."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "haunted",
+          "tran_cn": "闹鬼的；反复出现的；受到困扰的"
+        },
+        {
+          "word": "haunting",
+          "tran_cn": "不易忘怀的，萦绕于心头的；给人以强烈感受的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "haunted",
+          "tran_cn": "常去；缠住；使担忧（haunt的过去式和过去分词）"
+        },
+        {
+          "word": "haunting",
+          "tran_cn": "常去；缠住某人；萦绕在…心中（haunt的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "habitat",
+            "purlieu"
+          ],
+          "tran_cn": "栖息地；常去的地方"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "around",
+            "frequent",
+            "habitat",
+            "hang",
+            "harass",
+            "nest",
+            "obsess",
+            "plague",
+            "resort",
+            "torment"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "obsess",
+            "torment"
+          ],
+          "tran_cn": "使困扰"
+        },
+        {
+          "words": [
+            "around",
+            "frequent",
+            "hang",
+            "often",
+            "visit"
+          ],
+          "tran_cn": "常到,常去"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "〈方〉鬼或其它超自然物体，常去的地方",
+      "tran_en": "a place that someone likes to go to often"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（鬼魂）经常出没",
+      "tran_en": "if the soul of a dead person haunts a place, it appears there often"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "尤指鬼魂重回或常去"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "时常萦绕心头，使困窘，常去，以鬼魂形式出现，时常出现在，弥漫",
+      "tran_en": "if the soul of a dead person haunts a place, it appears there often"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "haunts"
+    ],
+    "third": [
+      "haunts"
+    ],
+    "past": [
+      "haunted"
+    ],
+    "done": [
+      "haunted"
+    ],
+    "ing": [
+      "haunting"
+    ]
+  }
+}

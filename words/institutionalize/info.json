@@ -1,0 +1,98 @@
+{
+  "word": "institutionalize",
+  "ipa": {
+    "us": "ˌɪnstɪˈtjuːʃənəlaɪz",
+    "uk": "ˌɪnstɪˈtuːʃənəlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "the struggle to institutionalize equality for women",
+      "cn": "使妇女平等制度化的斗争"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "institutional",
+          "tran_cn": " 制度的；制度上的；学会的"
+        },
+        {
+          "word": "institutionalised",
+          "tran_cn": " 制度化的"
+        },
+        {
+          "word": "institutionalized",
+          "tran_cn": " 使成惯例的；有组织的；遭受收容机构所产生的不良影响的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "institute",
+          "tran_cn": " 学会，协会；学院"
+        },
+        {
+          "word": "institution",
+          "tran_cn": " 制度；建立；（社会或宗教等）公共机构；习俗"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "institutionalised",
+          "tran_cn": " 制度化（institutionalise的过去分词）"
+        },
+        {
+          "word": "institutionalized",
+          "tran_cn": " 使成为惯例（institutionalize的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "institute",
+          "tran_cn": " 开始（调查）；制定；创立；提起（诉讼）"
+        },
+        {
+          "word": "institutionalise",
+          "tran_cn": " 使…制度化（等于institutionalize）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使制度化",
+      "tran_en": "to make something a normal, accepted part of a social system or organization"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使…制度化，使成为惯例，把（某人）置于公共机构下"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "institutionalizes"
+    ],
+    "past": [
+      "institutionalized"
+    ],
+    "ing": [
+      "institutionalizing"
+    ],
+    "noun": [
+      "institutionalization"
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "word": "inventory",
+  "ipa": {
+    "us": "ˈɪnvəntri",
+    "uk": "ˈɪnvəntɔːri"
+  },
+  "sentences": [
+    {
+      "en": "...one inventory of twelve sails for each yacht.",
+      "cn": "…为每艘游艇配备12张帆的存货。"
+    },
+    {
+      "en": "an inventory of the museum's contents",
+      "cn": "博物馆馆藏清单"
+    },
+    {
+      "en": "Before starting, he made an inventory of everything that was to stay.",
+      "cn": "开始之前，他把所有要留下的东西列了详细的清单。"
+    },
+    {
+      "en": "Errors in the inventory results may lead to erroneous subsequent dicisions.",
+      "cn": "清查结果中的误差可能导致错误的决定."
+    },
+    {
+      "en": "I was teed off because the chief had me type his inventory.",
+      "cn": "我因主任要我用打字机打他的目录而不高兴."
+    },
+    {
+      "en": "Inventory may also be viewed from a larger picture.",
+      "cn": "存贮问题也可以从更广阔的视野来加以研究."
+    },
+    {
+      "en": "Multistage sampling in forest inventory is not restricted to fixed - area sampling units.",
+      "cn": "森林资源清查中,多阶抽样并不局限于固定面积的抽样单元."
+    },
+    {
+      "en": "So , as we begin, let us take inventory.",
+      "cn": "当我们开始的时候, 让我们看看我们的实际情况."
+    },
+    {
+      "en": "Some stores inventory their stock once a month.",
+      "cn": "有些商店每月盘货一次."
+    },
+    {
+      "en": "Some stores inventory their stock once a week.",
+      "cn": "有些商店每周清点存货一次."
+    },
+    {
+      "en": "The inventory showed that the store was overstocked.",
+      "cn": "清单显示商店存货过多."
+    },
+    {
+      "en": "The inventory situation was righting itself.",
+      "cn": "库存局面正在恢复正常."
+    },
+    {
+      "en": "They are just happy to sell their inventory any which way they can.",
+      "cn": "只要存货能脱手，无论采取什么方式他们都愿意。"
+    },
+    {
+      "en": "They're likely to hold big fire sales to liquidate their inventory.",
+      "cn": "他们可能会举行清仓大甩卖。"
+    },
+    {
+      "en": "This is a detailed inventory of all the jobs to be done.",
+      "cn": "这是一张待办事项的详表."
+    },
+    {
+      "en": "We will need to call on our supplier to get more inventory.",
+      "cn": "我们必须请供应商送来更多存货."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "collection",
+            "list",
+            "stock"
+          ],
+          "tran_cn": "存货;珍藏;名册"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "catalogue",
+            "collection",
+            "invoice",
+            "list",
+            "stock"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cycle inventory",
+      "tran_cn": "循环盘存"
+    },
+    {
+      "phrase": "ending inventory",
+      "tran_cn": "[经]期末存货；[经]期末盘存"
+    },
+    {
+      "phrase": "excess inventory",
+      "tran_cn": "过量库存；积压商品"
+    },
+    {
+      "phrase": "forest inventory",
+      "tran_cn": "森林调查"
+    },
+    {
+      "phrase": "inventory accounting",
+      "tran_cn": "存货会计；存货核算"
+    },
+    {
+      "phrase": "inventory adjustment",
+      "tran_cn": "存货调整"
+    },
+    {
+      "phrase": "inventory analysis",
+      "tran_cn": "库存分析；存储分析；盘查分析"
+    },
+    {
+      "phrase": "inventory control",
+      "tran_cn": "存货控制；存货管理"
+    },
+    {
+      "phrase": "inventory cost",
+      "tran_cn": "存货成本"
+    },
+    {
+      "phrase": "inventory level",
+      "tran_cn": "库存量；存货水准"
+    },
+    {
+      "phrase": "inventory list",
+      "tran_cn": "盘存清单；财产目录"
+    },
+    {
+      "phrase": "inventory management",
+      "tran_cn": "存货管理"
+    },
+    {
+      "phrase": "inventory report",
+      "tran_cn": "存货报告单"
+    },
+    {
+      "phrase": "inventory system",
+      "tran_cn": "库存系统；盘存制度；存储系统"
+    },
+    {
+      "phrase": "inventory turnover",
+      "tran_cn": "存货周转"
+    },
+    {
+      "phrase": "inventory valuation",
+      "tran_cn": "存货估价"
+    },
+    {
+      "phrase": "perpetual inventory",
+      "tran_cn": "[经]永续盘存"
+    },
+    {
+      "phrase": "personality inventory",
+      "tran_cn": "人格量表；人格调查表"
+    },
+    {
+      "phrase": "physical inventory",
+      "tran_cn": "实际库存；实地盘存；盘点数量"
+    },
+    {
+      "phrase": "take inventory",
+      "tran_cn": "实地清点盘存；编制...清单"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "存货清单，财产目录，财产目录的编制，存货总值，清查",
+      "tran_en": "a list of all the things in a place"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "编制…的目录，开列…的清单，盘存，总结"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "inventories"
+    ],
+    "third": [
+      "inventories"
+    ],
+    "past": [
+      "inventoried"
+    ],
+    "done": [
+      "inventoried"
+    ],
+    "ing": [
+      "inventorying"
+    ]
+  }
+}

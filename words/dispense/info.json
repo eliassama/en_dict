@@ -1,0 +1,188 @@
+{
+  "word": "dispense",
+  "ipa": {
+    "us": "dɪˈspens",
+    "uk": "dɪˈspens"
+  },
+  "sentences": [
+    {
+      "en": "a country that has dispensed with tariff barriers.",
+      "cn": "已废除关税障碍的国家"
+    },
+    {
+      "en": "A lazy student can dispense with the original and use the English text as a trot.",
+      "cn": "懒学生可以把原文抛在一边而用英文直译本."
+    },
+    {
+      "en": "a machine for dispensing cash",
+      "cn": "取款机"
+    },
+    {
+      "en": "Can we dispense with the formalities?",
+      "cn": "咱们能免去这些礼节 吗 ?"
+    },
+    {
+      "en": "Druggists must dispense medicines with the greatest care.",
+      "cn": "药剂师必须极其小心地配制药品."
+    },
+    {
+      "en": "For two weeks, the cash machine was unable to dispense money.",
+      "cn": "该自动取款机已有两个星期不能提供现金。"
+    },
+    {
+      "en": "He is not yet well enough to dispense with the doctor's services.",
+      "cn": "他尚未痊愈,仍需医生照看."
+    },
+    {
+      "en": "He is not yet well enough to dispense with the pills.",
+      "cn": "他尚未痊愈,仍需吃药."
+    },
+    {
+      "en": "He supposed, though, he would dispense with Dodo soon.",
+      "cn": "可是他觉得他不久会把多多抛弃的."
+    },
+    {
+      "en": "Indeed, agencies enjoy considerably wider power to dispense with formal proof than the courts do.",
+      "cn": "事实上, 行政机关较之法院享有更多更广泛的权力省却正式的举证."
+    },
+    {
+      "en": "It is so warm today that I can dispense with an overcoat.",
+      "cn": "今天天气很暖和,我可以不用穿大衣."
+    },
+    {
+      "en": "It's all part of a conspiracy to dispense with the town centre all together and move everything out to Meadowhall.",
+      "cn": "彻底抛开市中心而把所有东西都搬到梅多霍尔购物中心,这完全是一场阴谋的一部分."
+    },
+    {
+      "en": "Let's dispense with the formalities.",
+      "cn": "让我们免去那些礼节吧"
+    },
+    {
+      "en": "Lydgate did not dispense drugs.",
+      "cn": "利德盖特不出售药品."
+    },
+    {
+      "en": "Most, if not all fungi can dispense with inorganic sources.",
+      "cn": "即使不是全部亦是大多数真菌可省去无机氮源."
+    },
+    {
+      "en": "They enable the composer to dispense with traditional instruments.",
+      "cn": "它们使作曲家可以不使用传统的乐器."
+    },
+    {
+      "en": "We cannot dispense with the idea of the speed of light.",
+      "cn": "我们不能废弃光速这个概念."
+    },
+    {
+      "en": "You can't dispense with a stove in winter here.",
+      "cn": "这里的冬天你不得不用炉子."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dispensability",
+          "tran_cn": " 可分配；可特别恕免；可宽恕"
+        },
+        {
+          "word": "dispensation",
+          "tran_cn": " 分配；免除；豁免；天命"
+        },
+        {
+          "word": "dispenser",
+          "tran_cn": " 药剂师；施与者；分配者；自动售货机"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "administer",
+            "allot",
+            "deal",
+            "distribute",
+            "dole",
+            "give",
+            "grant",
+            "issue",
+            "out"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "get free of",
+            "exempt from"
+          ],
+          "tran_cn": "免除，豁免"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "allocate",
+            "allot",
+            "deal",
+            "distribute",
+            "dole",
+            "give",
+            "grant",
+            "issue",
+            "mete",
+            "out"
+          ],
+          "tran_cn": "分配,分发;施给"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dispense with",
+      "tran_cn": "摒弃；废除"
+    },
+    {
+      "phrase": "dispense with someone's services"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "分配，实施，提供，配（药）",
+      "tran_en": "to give something to people, especially in fixed amounts"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 分配， 分发； 配， 发",
+      "tran_en": "to give something to people, especially in fixed amounts"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "dispenses"
+    ],
+    "past": [
+      "dispensed"
+    ],
+    "done": [
+      "dispensed"
+    ],
+    "ing": [
+      "dispensing"
+    ]
+  }
+}

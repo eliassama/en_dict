@@ -1,0 +1,236 @@
+{
+  "word": "speaker",
+  "ipa": {
+    "us": "ˈspiːkə(r)",
+    "uk": "ˈspiːkər"
+  },
+  "sentences": [
+    {
+      "en": "Bruce Wyatt will be the guest speaker at next month's meeting.",
+      "cn": "布鲁斯·怀亚特将成为下月会议的特邀发言人。"
+    },
+    {
+      "en": "Clapping drowned the speaker's words for a moment.",
+      "cn": "鼓掌声一度淹没了发言人的声音。"
+    },
+    {
+      "en": "Everyone felt that the speaker's remarks hit close to home.",
+      "cn": "大家都感觉到发言人的话击中了要害."
+    },
+    {
+      "en": "He inclined towards the speaker to hear more clearly.",
+      "cn": "他把身体倾向发言人,以便听得更清楚些."
+    },
+    {
+      "en": "He is a fluent speaker of Hebrew.",
+      "cn": "他说一口流利的希伯来语。"
+    },
+    {
+      "en": "He is a very witty speaker.",
+      "cn": "他说话妙语连珠。"
+    },
+    {
+      "en": "I should like to echo the words of the previous speaker.",
+      "cn": "我想重复前面一位发言者的话."
+    },
+    {
+      "en": "Mr. Speaker, our message to the president is simple.",
+      "cn": "议长先生，我们向总统表达的意思非常简单。"
+    },
+    {
+      "en": "Pay attention to the body language of the speaker.",
+      "cn": "注意说话者的肢体语言。"
+    },
+    {
+      "en": "She's a very capable speaker.",
+      "cn": "她能说会道。"
+    },
+    {
+      "en": "Some English words are difficult for speakers of other languages. ＃",
+      "cn": "一些英语单词对说其他语言的人来说是很难的。"
+    },
+    {
+      "en": "The keynote speaker (= main or most important speaker ) was Robert Venturi, the architect.",
+      "cn": "主要发言人是建筑师罗伯特·文图里。"
+    },
+    {
+      "en": "The shakes of the speaker's hands betrayed his nervousness.",
+      "cn": "发言者双手颤抖,可见他很紧张."
+    },
+    {
+      "en": "The speaker strung together a series of jokes.",
+      "cn": "演说者讲了一连串的笑话。"
+    },
+    {
+      "en": "The speaker was received with a mixture of applause and hisses.",
+      "cn": "那演说者同时得到喝彩声和嘘声."
+    },
+    {
+      "en": "There was a little cluster of admirers round the guest speaker.",
+      "cn": "有一小群仰慕者围着那位特邀嘉宾."
+    },
+    {
+      "en": "They've found out where the other speaker plugs in.",
+      "cn": "他们已找到另外那个扬声器的连接点了。"
+    },
+    {
+      "en": "We mustn't catch the speaker up by so many questions.",
+      "cn": "我们不该用这么多问题来打断发言人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "speakable",
+          "tran_cn": " 可说出口的；可以交谈的"
+        },
+        {
+          "word": "speaking",
+          "tran_cn": " 演讲的；富于表情的，雄辩的"
+        },
+        {
+          "word": "spoken",
+          "tran_cn": " 口语的，口头的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "speakership",
+          "tran_cn": " 议长的职位"
+        },
+        {
+          "word": "speaking",
+          "tran_cn": " 说话；演讲"
+        },
+        {
+          "word": "spoke",
+          "tran_cn": " 轮辐；刹车；扶梯棍"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "speaking",
+          "tran_cn": " 讲（speak的ing形式）"
+        },
+        {
+          "word": "spoke",
+          "tran_cn": " 说话（speak的过去分词）；为…装轮辐"
+        },
+        {
+          "word": "spoken",
+          "tran_cn": " 说（speak的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "speak",
+          "tran_cn": " 说话；演讲；表明；陈述"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "speak",
+          "tran_cn": " 讲话；发言；讲演"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "loudspeaker"
+          ],
+          "tran_cn": "扩音器"
+        },
+        {
+          "words": [
+            "ace",
+            "declaimer",
+            "devotee",
+            "haranguer",
+            "keynoter",
+            "orator",
+            "scholar",
+            "speechmaker",
+            "spellbinder",
+            "virtuoso"
+          ],
+          "tran_cn": "演说家,讲演者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "administrator",
+            "chairman",
+            "president",
+            "spokesman"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "guest speaker",
+      "tran_cn": "特邀发言人，客席讲者；嘉宾演讲人"
+    },
+    {
+      "phrase": "keynote speaker",
+      "tran_cn": "主讲人；大会发言人；主讲嘉宾"
+    },
+    {
+      "phrase": "loud speaker",
+      "tran_cn": "扩音器，扬声器；增高话音"
+    },
+    {
+      "phrase": "native speaker",
+      "tran_cn": "说母语的人，说本族语的人"
+    },
+    {
+      "phrase": "public speaker",
+      "tran_cn": "演讲者；发言人"
+    },
+    {
+      "phrase": "speaker phone",
+      "tran_cn": "n. 免提电话；对讲电话"
+    },
+    {
+      "phrase": "speaker system",
+      "tran_cn": "扬声器系统"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "说话者，演讲者，发言人，讲某种语言的人，扬声器",
+      "tran_en": "someone who makes a formal speech to a group of people"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "speakers"
+    ]
+  }
+}

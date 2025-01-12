@@ -1,0 +1,348 @@
+{
+  "word": "test",
+  "ipa": {
+    "us": "test",
+    "uk": "test"
+  },
+  "sentences": [
+    {
+      "en": "A pH test measures the acidity or alkalinity of a substance.",
+      "cn": "pH值测试可检测物质的酸碱度。"
+    },
+    {
+      "en": "A positive pregnancy test soon confirmed her intuitive feelings.",
+      "cn": "阳性孕检结果很快证实了她的直觉。"
+    },
+    {
+      "en": "Boxing is a test of skill and technique, rather than brute strength.",
+      "cn": "拳击考验的是技能和技术，不是蛮力。"
+    },
+    {
+      "en": "Did you get a good mark in the test?",
+      "cn": "你这次测验成绩好吗？"
+    },
+    {
+      "en": "He suggested a link between class size and test results of seven-year-olds.",
+      "cn": "他认为7岁大的学生的测试分数和班级的规模有关系。"
+    },
+    {
+      "en": "He was once described as a fussily accurate test pilot.",
+      "cn": "他一度被称为过分讲究精准的试飞员。"
+    },
+    {
+      "en": "Out of a total of 2,602 pupils only 922 passed the test.",
+      "cn": "所有2,602名学生中，只有922名通过了测试。"
+    },
+    {
+      "en": "So far 57 have taken the test and all have been negative.",
+      "cn": "到目前为止，参加测试的有57人，测试结果均呈阴性。"
+    },
+    {
+      "en": "Sooner or later, life will put the relationship to the test.",
+      "cn": "总有一天，生活会考验这种关系是否牢固。"
+    },
+    {
+      "en": "Such a motion is considered a test of backbench opinion.",
+      "cn": "这样的动议被视为对后座议员立场的考验。"
+    },
+    {
+      "en": "The ability to work collaboratively is a true test of leadership.",
+      "cn": "与人合作的能力是对领导能力的一种真正检验。"
+    },
+    {
+      "en": "The athlete received a two-year suspension following a positive drug test.",
+      "cn": "该运动员因尿检结果呈阳性而被停赛两年。"
+    },
+    {
+      "en": "The children have to sit a tough selection test.",
+      "cn": "孩子们必须参加一次严格的选拔测试。"
+    },
+    {
+      "en": "The Liverpool team are now putting their theory to the test.",
+      "cn": "利物浦队此时正在验证他们的理论。"
+    },
+    {
+      "en": "The success of wind power represents a litmus test for renewable energy.",
+      "cn": "风能作为动力的成功是对可再生能源一次立见分晓的检验。"
+    },
+    {
+      "en": "The vote was seen as a test run for elections to come.",
+      "cn": "这次投票被看作是即将到来的选举的预演。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tested",
+          "tran_cn": " 经受过考验的；经验定的"
+        },
+        {
+          "word": "testing",
+          "tran_cn": " 试验的；棘手的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "testee",
+          "tran_cn": " 应考人，测验对象"
+        },
+        {
+          "word": "tester",
+          "tran_cn": " 天盖；检验器；试验员"
+        },
+        {
+          "word": "testing",
+          "tran_cn": " [试验] 测试"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "tested",
+          "tran_cn": " 考验（test的过去分词）；测验"
+        },
+        {
+          "word": "testing",
+          "tran_cn": " 测验；考查；受考验（test的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "monitoring",
+            "experiment",
+            "proof",
+            "try"
+          ],
+          "tran_cn": "[化验]试验；检验"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bout",
+            "criterion",
+            "cross-examine",
+            "crucible",
+            "examination",
+            "examine",
+            "experiment",
+            "experimental",
+            "grill",
+            "inquiry",
+            "interrogate",
+            "interview",
+            "ordeal",
+            "probation",
+            "proof",
+            "prove",
+            "query",
+            "question",
+            "quiz",
+            "sample",
+            "taste",
+            "trial",
+            "try",
+            "verify",
+            "workout"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "try out",
+            "try on"
+          ],
+          "tran_cn": "[化验]试验；测试"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cross-examine",
+            "examine",
+            "grill",
+            "interrogate",
+            "query",
+            "question",
+            "quiz"
+          ],
+          "tran_cn": "考验"
+        },
+        {
+          "words": [
+            "experiment",
+            "prove",
+            "try",
+            "verify"
+          ],
+          "tran_cn": "试验;检验"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fatigue test",
+      "tran_cn": "疲劳试验；耐久试验"
+    },
+    {
+      "phrase": "field test",
+      "tran_cn": "现场试验；实地操作试验"
+    },
+    {
+      "phrase": "laboratory test",
+      "tran_cn": "实验试验"
+    },
+    {
+      "phrase": "load test",
+      "tran_cn": "负荷试验；加载试验"
+    },
+    {
+      "phrase": "model test",
+      "tran_cn": "模型试验"
+    },
+    {
+      "phrase": "nuclear test",
+      "tran_cn": "核试验"
+    },
+    {
+      "phrase": "on test",
+      "tran_cn": "进行测试"
+    },
+    {
+      "phrase": "orthogonal test",
+      "tran_cn": "正交试验"
+    },
+    {
+      "phrase": "performance test",
+      "tran_cn": "特性试验"
+    },
+    {
+      "phrase": "pressure test",
+      "tran_cn": "试压；气压试验"
+    },
+    {
+      "phrase": "put someone/thing to the test",
+      "tran_cn": "使经受考验；检验；试验"
+    },
+    {
+      "phrase": "simulation test",
+      "tran_cn": "模拟测试"
+    },
+    {
+      "phrase": "stand the test of time",
+      "tran_cn": "经得起时间的考验（或检验等）"
+    },
+    {
+      "phrase": "tensile test",
+      "tran_cn": "[化]拉力试验；抗拉试验"
+    },
+    {
+      "phrase": "test center",
+      "tran_cn": "考试中心；试验中心"
+    },
+    {
+      "phrase": "test data",
+      "tran_cn": "测试数据；检查数据"
+    },
+    {
+      "phrase": "test equipment",
+      "tran_cn": "测试设备；试验设备；检测设备"
+    },
+    {
+      "phrase": "test for",
+      "tran_cn": "探测；对…进行测验"
+    },
+    {
+      "phrase": "test method",
+      "tran_cn": "检测方法，检测方法"
+    },
+    {
+      "phrase": "test on",
+      "tran_cn": "在…身上做实验；在…做实验；对…进行测试"
+    },
+    {
+      "phrase": "test paper",
+      "tran_cn": "试纸；测验试卷；供检定笔迹的文件"
+    },
+    {
+      "phrase": "test result",
+      "tran_cn": "试验结果"
+    },
+    {
+      "phrase": "test the water",
+      "tran_cn": "试探，摸底"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "试验，考验，测验，化验",
+      "tran_en": "a set of questions, exercises, or practical activities to measure someone’s skill, ability, or knowledge"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": " 试验， 测试； 检验",
+      "tran_en": "a set of questions, exercises, or practical activities to measure someone’s skill, ability, or knowledge"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": " 测试， 考查， 试验",
+      "tran_en": "a set of questions, exercises, or practical activities to measure someone’s skill, ability, or knowledge"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "试验；测试",
+      "tran_en": "to examine a substance or thing in order to find out its qualities or what it contains"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "受试验，受测验，受考验，测得结果"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "测验，考查，考验，勘探"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tests"
+    ],
+    "third": [
+      "tests"
+    ],
+    "past": [
+      "tested"
+    ],
+    "done": [
+      "tested"
+    ],
+    "ing": [
+      "testing"
+    ]
+  }
+}

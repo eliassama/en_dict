@@ -1,0 +1,100 @@
+{
+  "word": "intermit",
+  "ipa": {
+    "us": "'ɪntə'mɪt",
+    "uk": "'ɪntə'mɪt"
+  },
+  "sentences": [
+    {
+      "en": "Doubt seems hepatitis case not diagnose or before eliminating, should intermit works formerly.",
+      "cn": "疑似肝炎病例未确诊或排除前, 应暂时停止原工作."
+    },
+    {
+      "en": "If any cases happened as following, AIG Industrial Group of Companies is entitled to intermit or cease LLCS to user at anytime, and does not take any duty for users or any third party.",
+      "cn": "如发生下列任何一种情形，艾志工业技术集团公司有权随时中断或终止向用户提供碟簧选型网上系统使用权，而无需对用户或任何第三方承担任何责任。"
+    },
+    {
+      "en": "Place servers at different site to avoid intermit of serve and the lost data when the suddenness had token place.",
+      "cn": "将不同服务器放置在不同地点，避免发生意外时服务完全中断、重要数据丢失。"
+    },
+    {
+      "en": "The software control classify main program , intermit subprogram and time-lapse subprogram.",
+      "cn": "软件控制程序包括主程序，以及中断子程序和延时子程序。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "intermittent",
+          "tran_cn": " 间歇的，断断续续的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "intermission",
+          "tran_cn": " 幕间休息；暂停；中断"
+        },
+        {
+          "word": "intermittence",
+          "tran_cn": " 时断时续，间歇性；周期性"
+        },
+        {
+          "word": "intermitter",
+          "tran_cn": " 间歇抽油装置；间歇调节器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "black out",
+            "cut off"
+          ],
+          "tran_cn": "中断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "disrupt"
+          ],
+          "tran_cn": "使中断"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "中断",
+      "tran_en": "to suspend (activity) or (of activity) to be suspended temporarily or at intervals "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "intermits"
+    ],
+    "past": [
+      "intermitted"
+    ],
+    "done": [
+      "intermitted"
+    ],
+    "ing": [
+      "intermitting"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "word": "translator",
+  "ipa": {
+    "us": "trænzˈleɪtə(r)",
+    "uk": "trænzˈleɪtər"
+  },
+  "sentences": [
+    {
+      "en": "A translator shouldn't intrude his own opinions into what he's translating.",
+      "cn": "译者不应该擅自把自己的意思加进译文中。"
+    },
+    {
+      "en": "He was placed in Xin Hua News Agency as a translator.",
+      "cn": "他被安排在新华通讯社当翻译."
+    },
+    {
+      "en": "Her love of languages inclined her towards a career as a translator.",
+      "cn": "她对语言的热爱使她倾向于从事翻译工作."
+    },
+    {
+      "en": "His love of languages inclined him towards a career as a translator.",
+      "cn": "他对语言的热爱促使他从事翻译工作."
+    },
+    {
+      "en": "I think the translator missed some of the subtleties of the original.",
+      "cn": "我认为译者漏掉了原著中一些微妙之处."
+    },
+    {
+      "en": "PL is usually imbedded is a translator writing system.",
+      "cn": "我们通常把PL嵌在编写翻译程序的系统中."
+    },
+    {
+      "en": "She was aas a translator, she turned it down.",
+      "cn": "有人请她去作翻译, 她拒绝了."
+    },
+    {
+      "en": "She works as a translator of technical texts.",
+      "cn": "她的工作是科技翻译。"
+    },
+    {
+      "en": "The author discovered that the translator had foisted several passages into his book.",
+      "cn": "作者发现译者偷偷在他的原著中插入了几段."
+    },
+    {
+      "en": "The pre - eminent translator of the Spanish language has never been to Spain.",
+      "cn": "这位出色的西班牙语翻译家却从没到过西班牙."
+    },
+    {
+      "en": "The translator has done a good job of rendering this difficult poem into his native language.",
+      "cn": "把这首非常难懂的诗歌译成本国语言,译者做了一件大好事."
+    },
+    {
+      "en": "The WML translator delivers existing WML ( WAP ) applications to non - WML devices.",
+      "cn": "WML转换器将现有WML ( WAP ) 应用程序送到 非 WML设备."
+    },
+    {
+      "en": "To work as a translator, you need fluency in at least one foreign language.",
+      "cn": "想当一名翻译的话，你至少需要熟练掌握一门外语。"
+    },
+    {
+      "en": "Tung now departed from the role of translator to agree with his General.",
+      "cn": "董现在越出了他的翻译的职责,来表示赞同司令员的意见."
+    },
+    {
+      "en": "We do not know why the translator made that mistake.",
+      "cn": "我们不知道那名翻译员为何会犯下这个错误."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "translatable",
+          "tran_cn": " 可译的；能译的；可转移的"
+        },
+        {
+          "word": "translatory",
+          "tran_cn": " 平移的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "translation",
+          "tran_cn": " 翻译；译文；转化；调任"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "translate",
+          "tran_cn": " 翻译"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "translate",
+          "tran_cn": " 翻译；转化；解释；转变为；调动"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "interpreter"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "code translator",
+      "tran_cn": "解码器；译码器"
+    },
+    {
+      "phrase": "language translator",
+      "tran_cn": "[计]语言翻译程序"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "翻译，译员",
+      "tran_en": "someone who changes writing into a different language"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "translators"
+    ]
+  }
+}

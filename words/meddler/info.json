@@ -1,0 +1,101 @@
+{
+  "word": "meddler",
+  "ipa": {
+    "us": "ˈmedlə(r)",
+    "uk": "ˈmedlər"
+  },
+  "sentences": [
+    {
+      "en": "\" I know you, you scoundrel! I have heard of you before. You are Holmes, the meddler. \"",
+      "cn": "“ 我知道你, 这个恶棍. 我以前听过你. 你是福尔摩斯, 爱管闲事的人. ”"
+    },
+    {
+      "en": "I know you, you scoundrel! I have heard of you before. You are Holmes, the meddler.",
+      "cn": "我知道你，这个恶棍。我以前听过你。你是福尔摩斯，爱管闲事的人。"
+    },
+    {
+      "en": "You are Holmes, the meddler.",
+      "cn": "你是福尔摩斯，爱管闲事的人。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "meddlesome",
+          "tran_cn": " 爱管闲事的；好干涉的"
+        },
+        {
+          "word": "meddling",
+          "tran_cn": " 干预的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "meddling",
+          "tran_cn": " 干预；瞎管"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "meddling",
+          "tran_cn": " 干预；瞎弄（meddle的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "meddle",
+          "tran_cn": " 管闲事，干预他人之事"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "intervener",
+            "pragmatist"
+          ],
+          "tran_cn": "干涉者；爱管闲事的人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adviser",
+            "busybody"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "爱管闲事的人，干涉者"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "meddlers"
+    ]
+  }
+}

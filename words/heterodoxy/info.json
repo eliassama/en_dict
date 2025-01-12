@@ -1,0 +1,61 @@
+{
+  "word": "heterodoxy",
+  "ipa": {
+    "us": "'hetərəˌdɒksi:",
+    "uk": "'hetərəˌdɑksi"
+  },
+  "sentences": [
+    {
+      "en": "Despite his heterodoxy, faults, and weaknesses, Clare was a man with a conscience.",
+      "cn": "尽管克莱尔相信异端学说，身上有种种缺点和弱点，他仍然是一个具有是非感的人。"
+    },
+    {
+      "en": "Despite his heterodoxy, faults, and weaknesses, he was a man with a conscience.",
+      "cn": "虽然克莱不顾世俗, 有许多缺点, 许多毛病, 但是他却是个有良心的人."
+    },
+    {
+      "en": "He was already beginning to display quiet symptoms of heterodoxy.",
+      "cn": "当时,他已开始暗暗流露出叛离正统的迹象."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "heterodox",
+          "tran_cn": " 异端的；非正统的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "heresy",
+            "deviationism"
+          ],
+          "tran_cn": "异端，异端邪说"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "非正统，异端"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "heterodoxies"
+    ],
+    "adj": [
+      "heterodox"
+    ]
+  }
+}

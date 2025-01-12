@@ -1,0 +1,202 @@
+{
+  "word": "interrupt",
+  "ipa": {
+    "us": "ˌɪntəˈrʌpt",
+    "uk": "ˌɪntəˈrʌpt"
+  },
+  "sentences": [
+    {
+      "en": "\"If I may interrupt for a moment,\" Kenneth said.",
+      "cn": "“能打搅一下吗，”肯尼思说。"
+    },
+    {
+      "en": "Can I interrupt you just for a minute?",
+      "cn": "我能不能打断你们一下？"
+    },
+    {
+      "en": "Can't you see I'm talking? Don't interrupt.",
+      "cn": "没看见我在说话吗？别插嘴。"
+    },
+    {
+      "en": "Children must learn not to interrupt.",
+      "cn": "儿童应学会不要打断别人的讲话."
+    },
+    {
+      "en": "Don't interrupt; just hear me out.",
+      "cn": "别打岔, 听我说完."
+    },
+    {
+      "en": "I don't interrupt him in his work.",
+      "cn": "我不 想 打扰他的工作."
+    },
+    {
+      "en": "I don't mean to interrupt. Please go on.",
+      "cn": "我并不想打断你, 请你继续说."
+    },
+    {
+      "en": "I'm sorry to interrupt your meditation.",
+      "cn": "很抱歉,我打断了你的沉思."
+    },
+    {
+      "en": "It is not polite to interrupt when someone is talking.",
+      "cn": "在别人讲话时插嘴是不礼貌的."
+    },
+    {
+      "en": "My studies were interrupted by the war.",
+      "cn": "我的学业由于战争而中断。"
+    },
+    {
+      "en": "Sorry to interrupt, but I need to ask you to come downstairs.",
+      "cn": "很抱歉打扰了，我得请你下楼来。"
+    },
+    {
+      "en": "Sorry to interrupt, but there's someone to see you.",
+      "cn": "对不起打扰一下，有人要见你。"
+    },
+    {
+      "en": "Taller plants interrupt the views from the house.",
+      "cn": "稍高些的植物遮挡了房内的视线。"
+    },
+    {
+      "en": "Turkin tapped him on the shoulder. \"Sorry to interrupt, Colonel.\"",
+      "cn": "图尔金拍拍他的肩膀。“不好意思打断您一下，上校。”"
+    },
+    {
+      "en": "We interrupt our programmes for a newsflash.",
+      "cn": "我们中断节目，插播一条重要新闻。"
+    },
+    {
+      "en": "Will you stop interrupting me!",
+      "cn": "别打断我的话！"
+    },
+    {
+      "en": "You kids shouldn't interrupt!",
+      "cn": "小孩子家别插嘴!"
+    },
+    {
+      "en": "You'd better not interrupt him. He is sleeping.",
+      "cn": "你最好别打扰他, 他在睡觉."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "break",
+            "broken off"
+          ],
+          "tran_cn": "中断"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "arrest",
+            "break",
+            "disrupt",
+            "disturb",
+            "hinder",
+            "impede",
+            "in",
+            "interfere",
+            "intervene",
+            "intrude",
+            "meddle",
+            "relieve",
+            "silence",
+            "stop",
+            "suspend"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "cut in on",
+            "to break in on"
+          ],
+          "tran_cn": "打断；打扰"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "break",
+            "hinder",
+            "in",
+            "interfere",
+            "intrude",
+            "stop"
+          ],
+          "tran_cn": "打断;中止;干涉"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "external interrupt",
+      "tran_cn": "外部中断"
+    },
+    {
+      "phrase": "interrupt controller",
+      "tran_cn": "中断控制器"
+    },
+    {
+      "phrase": "interrupt handling",
+      "tran_cn": "中断处置"
+    },
+    {
+      "phrase": "interrupt request",
+      "tran_cn": "中断请求"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "中断"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "插嘴，打断，中止，遮挡",
+      "tran_en": "to stop someone from continuing what they are saying or doing by suddenly speaking to them, making a noise etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 打断， 打扰； 中止， 阻碍， 间断",
+      "tran_en": "to stop someone from continuing what they are saying or doing by suddenly speaking to them, making a noise etc"
+    },
+    {
+      "pos": "vt&vi",
+      "tran_cn": "打断（讲话或动作）;打扰；中断",
+      "tran_en": "to stop someone from continuing what they are saying or doing by suddenly speaking to them, making a noise etc"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "interrupts"
+    ],
+    "past": [
+      "interrupted"
+    ],
+    "done": [
+      "interrupted"
+    ],
+    "ing": [
+      "interrupting"
+    ]
+  }
+}

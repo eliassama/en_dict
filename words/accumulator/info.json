@@ -1,0 +1,168 @@
+{
+  "word": "accumulator",
+  "ipa": {
+    "us": "əˈkju:mjəleɪtə(r)",
+    "uk": "əˈkjumjəˌletɚ"
+  },
+  "sentences": [
+    {
+      "en": "Applies an accumulator function over a sequence.",
+      "cn": "对序列应用累加器函数."
+    },
+    {
+      "en": "Assembling automobile and their his machinery uses an accumulator cell.",
+      "cn": "组装汽车及其他机械用蓄电池."
+    },
+    {
+      "en": "Design condition and debugging data of heat accumulator are introduced.",
+      "cn": "介绍了蓄热器的设计条件和调试数据."
+    },
+    {
+      "en": "Development content includes accumulator and fuel cell dynamoelectric technology.",
+      "cn": "开发内容包括蓄电池和燃料电池电动技术."
+    },
+    {
+      "en": "Disuse the ampere of power source and accumulator cell [ the armrest moves ].",
+      "cn": "不用安电源及蓄电池 [ 靠手动 ]."
+    },
+    {
+      "en": "Here is our accumulator which has that nitrogen overpressure which upon loss of pressure in the core would automatically insert coolant into the core should there be a break.",
+      "cn": "这是我们的蓄电池，那已经氮过度增压,面临着在核心里压力的损失,那会自动的加入冷却剂到,核心去，然后就会产生一个破裂。"
+    },
+    {
+      "en": "In this design, the energy recovery system uses a hydraulic accumulator.",
+      "cn": "在本设计中, 系统采用的是液压蓄能器."
+    },
+    {
+      "en": "Intermittent clutch or accumulator seal performance.",
+      "cn": "间歇离合器或贮积器封口性能."
+    },
+    {
+      "en": "Load the data to accumulator or adder according to the instruction.",
+      "cn": "将在存贮器数据寄存器的数据,根据指令载入加法器或累加器."
+    },
+    {
+      "en": "Mary, the car does not work. i think the; accumulator is out of energy.",
+      "cn": "玛丽, 车子发不动了. 我想是 电瓶 没电了."
+    },
+    {
+      "en": "Please note that cut off the accumulator power supply before installing.",
+      "cn": "安装前,必须先断开蓄电池的电源."
+    },
+    {
+      "en": "The accumulator must operate within the prescribed extreme operating temperatures.",
+      "cn": "储能器只允许在低于推荐操作温度下的环境中工作."
+    },
+    {
+      "en": "The specified seed value is as the initial accumulator value.",
+      "cn": "将指定的种子值用作累加器初始值."
+    },
+    {
+      "en": "This moves the carry into bit position of the accumulator.",
+      "cn": "把进位移到累加器的位元."
+    },
+    {
+      "en": "This paper designed an extended multiplication - accumulator unit, DSPMAC, to achieve calculation accelerating.",
+      "cn": "本文设计了扩展的乘累加单元(DSPMAC), 用于运算速度的提高."
+    },
+    {
+      "en": "To form the results of an operation in an accumulator.",
+      "cn": "在累加器中形成运算结果."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "accumulated",
+          "tran_cn": " 累积的；累计的；达到"
+        },
+        {
+          "word": "accumulative",
+          "tran_cn": " 累计的；累积的；积聚而成的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "accumulation",
+          "tran_cn": " 积聚，累积；堆积物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "accumulated",
+          "tran_cn": " 累积（accumulate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "accumulate",
+          "tran_cn": " 累积；积聚"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "accumulate",
+          "tran_cn": " 积攒"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "secondary cell",
+            "storage battery"
+          ],
+          "tran_cn": "[电]蓄电池；[计]累加器；积聚者"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "accumulator cell",
+      "tran_cn": "蓄电池"
+    },
+    {
+      "phrase": "energy accumulator",
+      "tran_cn": "蓄能器"
+    },
+    {
+      "phrase": "heat accumulator",
+      "tran_cn": "蓄热体；回热器"
+    },
+    {
+      "phrase": "hydraulic accumulator",
+      "tran_cn": "水力蓄力器"
+    },
+    {
+      "phrase": "piston accumulator",
+      "tran_cn": "活塞式蓄能器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<英>蓄电池，积聚者，蓄势器，收集器，蓄电池组",
+      "tran_en": "a rechargeable device for storing electrical energy in the form of chemical energy, consisting of one or more separate secondary cells "
+    }
+  ],
+  "exchange": {}
+}

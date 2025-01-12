@@ -1,0 +1,171 @@
+{
+  "word": "synthesizer",
+  "ipa": {
+    "us": "ˈsɪnθəsaɪzə(r)",
+    "uk": "ˈsɪnθɪˌsaɪzɚ"
+  },
+  "sentences": [
+    {
+      "en": "A fully differential charge pump for a frequency synthesizer is proposed.",
+      "cn": "提出了一种应用于频率综合器的全差分电荷泵电路."
+    },
+    {
+      "en": "And another has turned it into a synthesizer.",
+      "cn": "还有人让计算器变成了合成器."
+    },
+    {
+      "en": "Chaos phenomenon of sampling phase - detector digital synthesizer loop is studied.",
+      "cn": "研究三角形取样鉴相数字合成器锁相环中的混沌现象."
+    },
+    {
+      "en": "Complex Wave Synthesizer complete source code can be used directly.",
+      "cn": "波合成完整的源代码可以直接使用."
+    },
+    {
+      "en": "Frequency synthesizer is the hardcore of a electronic system.",
+      "cn": "频率合成器是电子系统的核心部件."
+    },
+    {
+      "en": "High quality voice synthesizer. Versatile 10 sec instant voice ROM.",
+      "cn": "高质量的语音合成器. 多功能10秒即时语音光盘."
+    },
+    {
+      "en": "I won't try to pronounce their names because my speech synthesizer makes a mess of them.",
+      "cn": "我就不说它们的名字了,因为我的语音合成器会把它们弄乱的."
+    },
+    {
+      "en": "Impulse test. This procedure for the AD 9850 ( DDS ) Direct Digital Frequency Synthesizer C language source code.",
+      "cn": "脉冲发生测试. 此程序为AD9850 ( DDS ) 直接数字频率合成器C语言源码."
+    },
+    {
+      "en": "In this paper, a fractional - N frequency synthesizer based on high - order single - bit Σ� � modulator is introduced.",
+      "cn": "本文介绍了高阶 单比特 Σ△调制器在小数分频频率综合器中的应用."
+    },
+    {
+      "en": "Low latency MIDI input for real - time synthesizer feedback.",
+      "cn": "低延迟的MIDI输入 实时 合成器反馈."
+    },
+    {
+      "en": "MIDIMIDI is short for Musical Instrument Digital Interface, a standard specification developed by music synthesizer manufacturers.",
+      "cn": "MIDI是 乐器数字接口的缩写.它是由音乐合成器制造商开发的标准规范."
+    },
+    {
+      "en": "Now he can only communicate through a voice synthesizer.",
+      "cn": "如今他只能通过声音合成器来进行交流。"
+    },
+    {
+      "en": "PLL frequency synthesizer with DDS reference will adapt to local oscillator of modern radio.",
+      "cn": "采用DDS输出作为参考的PLL频率合成器非常适合用做现代电台的本振."
+    },
+    {
+      "en": "The highest frequency synthesizer JiHe 26.5 can reach.",
+      "cn": "这种合成器的最高频率可达26.5吉赫."
+    },
+    {
+      "en": "The key building blocks in the frequency synthesizer are - controlled oscillator ( VCO ) and high frequency divider circuit.",
+      "cn": "压 控振荡器 与除频器是频率合成器电路中,主要的电路之一."
+    },
+    {
+      "en": "Voice Synthesizer - KITT can mimic anyone's voice with this.",
+      "cn": "语音合成 - 基特可以模仿任何人的声音与此有关."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "synthetic",
+          "tran_cn": " 综合的；合成的，人造的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "synthetically",
+          "tran_cn": " 综合地；合成地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "synthesis",
+          "tran_cn": " 综合，[化学] 合成；综合体"
+        },
+        {
+          "word": "synthesist",
+          "tran_cn": " 合成法使用者；综合者"
+        },
+        {
+          "word": "synthetic",
+          "tran_cn": " 合成物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "synthesise",
+          "tran_cn": " 合成，接合"
+        },
+        {
+          "word": "synthesize",
+          "tran_cn": " 合成；综合"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "synthesise",
+          "tran_cn": " 综合地处理；人工合成"
+        },
+        {
+          "word": "synthesize",
+          "tran_cn": " 合成；综合"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "hybrider"
+          ],
+          "tran_cn": "[电子]合成器；合成者"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "frequency synthesizer",
+      "tran_cn": "[电子]频率合成器"
+    },
+    {
+      "phrase": "voice synthesizer",
+      "tran_cn": "语音合成器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "合成者，合成物，合成器，综合器",
+      "tran_en": "an electronic instrument that produces the sounds of various musical instruments"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "synthesizers"
+    ]
+  }
+}

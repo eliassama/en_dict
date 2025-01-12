@@ -1,0 +1,90 @@
+{
+  "word": "tumid",
+  "ipa": {
+    "us": "'tju:mɪd",
+    "uk": "ˈtumɪd, ˈtju-"
+  },
+  "sentences": [
+    {
+      "en": "My eyelid has been tumid since yesterday.",
+      "cn": "从昨天起，我的眼皮就肿了。"
+    },
+    {
+      "en": "Schoolboy how pouch of purify black, tumid ?",
+      "cn": "男生怎样去除黑色、肿胀的眼袋？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tumescent",
+          "tran_cn": " 肿起的；稍许肿胀的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tumefaction",
+          "tran_cn": " 肿胀，肿大"
+        },
+        {
+          "word": "tumescence",
+          "tran_cn": " 肿大，肿胀；[临床] 肿大部分"
+        },
+        {
+          "word": "tumidity",
+          "tran_cn": " 肿胀；肿大"
+        },
+        {
+          "word": "tumidness",
+          "tran_cn": " 肿胀；突出"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "tumefy",
+          "tran_cn": " 肿胀"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "tumefy",
+          "tran_cn": " 使肿胀"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "swollen",
+            "turgid"
+          ],
+          "tran_cn": "[临床]肿胀的；浮夸的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "肿大的，肿胀的，浮夸的",
+      "tran_en": "(of an organ or part) enlarged or swollen "
+    }
+  ],
+  "exchange": {}
+}

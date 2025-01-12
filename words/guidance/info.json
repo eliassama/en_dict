@@ -1,0 +1,228 @@
+{
+  "word": "guidance",
+  "ipa": {
+    "us": "ˈɡaɪdns",
+    "uk": "ˈɡaɪdns"
+  },
+  "sentences": [
+    {
+      "en": "a marriage guidance counsellor",
+      "cn": "婚姻指导顾问"
+    },
+    {
+      "en": "a missile with a sophisticated electronic guidance system",
+      "cn": "有精密电子制导系统的导弹"
+    },
+    {
+      "en": "Adam sought guidance from the Almighty.",
+      "cn": "亚当寻求上帝的指引。"
+    },
+    {
+      "en": "Children need discipline, but they need guidance even more.",
+      "cn": "孩子要管, 但更要引导."
+    },
+    {
+      "en": "Children need moral guidance.",
+      "cn": "儿童需要道德上的引导。"
+    },
+    {
+      "en": "guidance for teachers on how to use video in the classroom",
+      "cn": "对教师提供的课堂录像教学指导"
+    },
+    {
+      "en": "I was looking forward to working under her expert guidance.",
+      "cn": "我期待着能在她的专业指导下工作。"
+    },
+    {
+      "en": "I went down on my knees and prayed for guidance.",
+      "cn": "我跪了下来，祈求得到指引。"
+    },
+    {
+      "en": "I went to a counselor for guidance on my career.",
+      "cn": "我去找了一位顾问给我作职业指导。"
+    },
+    {
+      "en": "It is hoped you will give us guidance.",
+      "cn": "请你多加指导."
+    },
+    {
+      "en": "She often turns to the book for guidance.",
+      "cn": "她经常参考那本书."
+    },
+    {
+      "en": "Students may decide to seek tutorial guidance.",
+      "cn": "学生可以决定寻求导师指导。"
+    },
+    {
+      "en": "The airplane has a sophisticated electronic guidance system.",
+      "cn": "这架飞机有一套尖端的电子导航系统."
+    },
+    {
+      "en": "The couple have sought help from marriage guidance counsellors.",
+      "cn": "这对夫妇已经向婚姻指导顾问寻求帮助。"
+    },
+    {
+      "en": "The guidance systems didn't work and the missile couldn't hit its target.",
+      "cn": "导航系统失灵，导弹未能命中目标。"
+    },
+    {
+      "en": "The nation looks to them for guidance.",
+      "cn": "全国民众期待他们能够指引方向。"
+    },
+    {
+      "en": "The sayings of Confucius offer guidance on this matter.",
+      "cn": "孔子的教诲为此事提供了指引。"
+    },
+    {
+      "en": "We respectfully request your guidance.",
+      "cn": "敬祈指导."
+    },
+    {
+      "en": "You are cordially invited to come and give guidance.",
+      "cn": "务请光临指导."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "guided",
+          "tran_cn": " 有指导的；有向导的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "guide",
+          "tran_cn": " 指南；向导；入门书"
+        },
+        {
+          "word": "guidebook",
+          "tran_cn": " 旅行指南；指导手册"
+        },
+        {
+          "word": "guideline",
+          "tran_cn": " 指导方针"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "guided",
+          "tran_cn": " 指导（guide的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "guide",
+          "tran_cn": " 担任向导"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "guide",
+          "tran_cn": " 引导；带领；操纵"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "direction",
+            "aiming",
+            "lead",
+            "steering"
+          ],
+          "tran_cn": "指导，引导；领导"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "direction",
+            "government",
+            "leadership",
+            "recommendation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "career guidance",
+      "tran_cn": "就业指导；就业辅导"
+    },
+    {
+      "phrase": "careers guidance",
+      "tran_cn": "就业指导；择业辅导"
+    },
+    {
+      "phrase": "guidance counselor",
+      "tran_cn": "咨询顾问"
+    },
+    {
+      "phrase": "guidance system",
+      "tran_cn": "[空][海]制导系统"
+    },
+    {
+      "phrase": "inertial guidance",
+      "tran_cn": "惯性引导"
+    },
+    {
+      "phrase": "operational guidance",
+      "tran_cn": "操作指南；运行管理"
+    },
+    {
+      "phrase": "parental guidance",
+      "tran_cn": "部分不适合儿童观看的；父母的指导"
+    },
+    {
+      "phrase": "traffic guidance",
+      "tran_cn": "交通指南；航路指示"
+    },
+    {
+      "phrase": "under the guidance of",
+      "tran_cn": "在…的指引下"
+    },
+    {
+      "phrase": "vocational guidance",
+      "tran_cn": "就业指导"
+    },
+    {
+      "phrase": "window guidance",
+      "tran_cn": "窗口指导（日本银行的一种信贷分配方式）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "指导，导航",
+      "tran_en": "help and advice that is given to someone about their work, education, or personal life"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "guidances"
+    ]
+  }
+}

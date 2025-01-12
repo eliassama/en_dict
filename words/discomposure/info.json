@@ -1,0 +1,74 @@
+{
+  "word": "discomposure",
+  "ipa": {
+    "us": "ˌdɪskəm'pəʊʒə(r)",
+    "uk": "ˌdɪskəm'poʊʒə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Selden received this thrust without discomposure.",
+      "cn": "听到这样尖刻的讥讽赛尔登并未感到不安."
+    },
+    {
+      "en": "THE discomposure of spirits which this extraordinary visit threw Elizabeth into, could not be easily overcome; nor could she, for many hours, learn to think of it less than incessantly.",
+      "cn": "这不速之客去了以后，伊丽莎白很是心神不安，而且很不容易恢复宁静。 她接连好几个钟头不断地思索着这件事。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "discomposed",
+          "tran_cn": " 不安的；失去平衡的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "discompose",
+          "tran_cn": " 使烦恼；使不安；使混乱"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "tension",
+            "unrest"
+          ],
+          "tran_cn": "不安；心乱；狼狈"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "embarrassment"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "心乱，不安"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "discompose"
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "word": "validate",
+  "ipa": {
+    "us": "ˈvælɪdeɪt",
+    "uk": "ˈvælɪdeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Additional studies and tests have tended to validate this conclusion.",
+      "cn": "进一步的研究和试验曾有助于确认这个结论."
+    },
+    {
+      "en": "Click OK to download the complete message and validate the signature.",
+      "cn": "请点击确定以下载整个消息以验证签名."
+    },
+    {
+      "en": "In order to validate the agreement, both parties sign it.",
+      "cn": "为使协议有效, 双方在上面签了字."
+    },
+    {
+      "en": "Many scientists plan to wait until the results of the study are validated by future research.",
+      "cn": "许多科学家计划等到调查结果被今后的研究证实了以后再作定论。"
+    },
+    {
+      "en": "Please wait while we connect and validate the information you have provided.",
+      "cn": "请稍候,我们正在连接和验证您提供的信息."
+    },
+    {
+      "en": "Simulation results for the application in inverted pendulum validate this control algorithm.",
+      "cn": "在倒立摆系统中应用的仿真结果验证了该方法的有效性."
+    },
+    {
+      "en": "The Academy Awards appear to validate his career.",
+      "cn": "奥斯卡金像奖似乎是对他事业的肯定。"
+    },
+    {
+      "en": "The experimental results validate the analysis conclusions of the converter.",
+      "cn": "通过充电机样机实验,验证了对变换器拓扑的分析结论."
+    },
+    {
+      "en": "The experimental results validate the theoretical simulation very well.",
+      "cn": "实验结果与理论模拟相一致."
+    },
+    {
+      "en": "The Supreme Court has validated the lower court’s interpretation of the law.",
+      "cn": "最高法院已经认可下级法院对这条法规的阐释。"
+    },
+    {
+      "en": "The ticket has to be stamped by the airline to validate it.",
+      "cn": "须经航空公司盖章,该机票才能生效."
+    },
+    {
+      "en": "They wanted to validate their rules instead of just playing by them.",
+      "cn": "他们想证实这些原则,而不是盲目地根据原则交易."
+    },
+    {
+      "en": "This discovery seems to validate the claims of popular astrology.",
+      "cn": "这个发现似乎能印证流行占星术的一些说法。"
+    },
+    {
+      "en": "This passport has to be signed before the official can validate it.",
+      "cn": "这个护照必须先行签署,官方才能确认其有效."
+    },
+    {
+      "en": "to validate a theory",
+      "cn": "证实理论"
+    },
+    {
+      "en": "To validate your e - mail address, click on the link below.",
+      "cn": "若要验证您的电子邮件地址, 请单击下面的链接."
+    },
+    {
+      "en": "You need an official signature to validate the order.",
+      "cn": "你要有正式的签字,这张汇票才能生效."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "valid",
+          "tran_cn": " 有效的，有根据的；正当的"
+        },
+        {
+          "word": "validated",
+          "tran_cn": " 经过验证的"
+        },
+        {
+          "word": "validating",
+          "tran_cn": " 确认的；有效的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "validating",
+          "tran_cn": " 确认"
+        },
+        {
+          "word": "validation",
+          "tran_cn": " 确认；批准；生效"
+        },
+        {
+          "word": "validity",
+          "tran_cn": " [计] 有效性；正确；正确性"
+        },
+        {
+          "word": "validness",
+          "tran_cn": " 有效；正确"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "validated",
+          "tran_cn": " 确认（validate的过去式及过去分词形式）；使生效"
+        },
+        {
+          "word": "validating",
+          "tran_cn": " 验证（validate的ing形式）；确认"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "back",
+            "certify",
+            "endorse",
+            "license",
+            "ratify",
+            "strengthen",
+            "testify",
+            "verify"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "favor",
+            "implement",
+            "make sure",
+            "sustain"
+          ],
+          "tran_cn": "证实，验证；确认；使生效"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "证实，验证；确认；使生效",
+      "tran_en": "to prove that something is true or correct, or to make a document or agreement officially and legally acceptable"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使合法化，使有法律效力，使生效，批准，确认，证实",
+      "tran_en": "to prove that something is true or correct, or to make a document or agreement officially and legally acceptable"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "validates"
+    ],
+    "past": [
+      "validated"
+    ],
+    "done": [
+      "validated"
+    ],
+    "ing": [
+      "validating"
+    ],
+    "noun": [
+      "validation"
+    ]
+  }
+}

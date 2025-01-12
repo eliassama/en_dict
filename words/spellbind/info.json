@@ -1,0 +1,102 @@
+{
+  "word": "spellbind",
+  "ipa": {
+    "us": "'spelbaɪnd",
+    "uk": "'spelˌbaɪnd"
+  },
+  "sentences": [
+    {
+      "en": "Many people are spellbound by football.",
+      "cn": "许多人为足球而着迷。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "spellbinding",
+          "tran_cn": " 引人入胜的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "spellbinder",
+          "tran_cn": " 能吸引听众的演说家；使人入迷的小说"
+        },
+        {
+          "word": "spelling",
+          "tran_cn": " 拼写；拼字；拼法"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "spellbinding",
+          "tran_cn": " 吸引（spellbind的ing形式）"
+        },
+        {
+          "word": "spelling",
+          "tran_cn": " 拼写；意味着（spell的ing形式）；迷住"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "hypnotize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "possess",
+            "captivate"
+          ],
+          "tran_cn": "迷住；用妖术迷惑"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "用妖术迷惑, 迷住",
+      "tran_en": "to cause to be spellbound; entrance or enthral "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用符咒迷惑，迷住，使入迷",
+      "tran_en": "to cause to be spellbound; entrance or enthral "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "spellbinds"
+    ],
+    "past": [
+      "spellbound"
+    ],
+    "done": [
+      "spellbound"
+    ],
+    "ing": [
+      "spellbinding"
+    ]
+  }
+}

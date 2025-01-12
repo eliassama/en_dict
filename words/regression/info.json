@@ -1,0 +1,231 @@
+{
+  "word": "regression",
+  "ipa": {
+    "us": "rɪˈgreʃn",
+    "uk": "rɪˈɡrɛʃən"
+  },
+  "sentences": [
+    {
+      "en": "Characteristic defects are of two main types; regression and syneresis.",
+      "cn": "特征缺陷主要有两类: 即退化和脱水收缩."
+    },
+    {
+      "en": "Data were analyzed using variance and multiple regression analysis.",
+      "cn": "数据分析采用方差分析、多元回归分析."
+    },
+    {
+      "en": "He calculated the'regression'of offspring.",
+      "cn": "他推算出后代的 “ 回归 ”."
+    },
+    {
+      "en": "In linear regression, the least squares estimation is heavily innuenced with outlyers.",
+      "cn": "在线性回归中, 常用最小二乘估计求线性方程的回归系数."
+    },
+    {
+      "en": "Objective To research the NIPALS regression in the function of eliminating collinearities.",
+      "cn": "目的探讨PLS回归理论在消除多元共线性中的作用."
+    },
+    {
+      "en": "The concepts of marine transgression and regression are considered to be fundamental.",
+      "cn": "海进和海退概念被认为是基本的概念."
+    },
+    {
+      "en": "The effect of colinearity is to make the regression coefficients unreliable.",
+      "cn": "共线性的影响是使回归系数不可靠."
+    },
+    {
+      "en": "The kernel regression method now is the most popular non - parametric estimation method.",
+      "cn": "核回归方法是比较常用的一种 非 参数估计方法."
+    },
+    {
+      "en": "The problem of construction of smoothing curve is actually regression problem.",
+      "cn": "几何逆向工程中的光顺曲线重构问题本质上属于回归问题."
+    },
+    {
+      "en": "The spontaneous regression of established tumors is a rare.",
+      "cn": "长成的肿瘤自发地消退是罕见的."
+    },
+    {
+      "en": "The statistical inference includes ANOVA, Chi - square test, multiple regression, and logistic regression.",
+      "cn": "统计推断用方差分析检验, 卡方检验, 多元线性回归分析和多因素非条件Logistic回归分析法."
+    },
+    {
+      "en": "This paper first briefly introduces regression test selection ( RTS ).",
+      "cn": "本文围绕回归测试选择这个主题,首先介绍了 回归测试 选择技术的研究进展."
+    },
+    {
+      "en": "This was the result from the large - scale regression in the Late Ordovician.",
+      "cn": "这是晚奥陶世晚期大规模海退的结果."
+    },
+    {
+      "en": "We analyze the data using nonparametric tests and regression analysis.",
+      "cn": "我们分析数据使用非参数检验和回归分析."
+    },
+    {
+      "en": "With this regression equation, we forecast the suitable cooking conditions species respectively.",
+      "cn": "通过对回归方程的预测得到了较适宜的制浆条件."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "regressive",
+          "tran_cn": " 回归的；后退的；退化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "regress",
+          "tran_cn": " 回归；退回"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "regress",
+          "tran_cn": " 逆行，倒退；复归"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "regress",
+          "tran_cn": " 使…倒退"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "recovery",
+            "degradation",
+            "returning",
+            "rehabilitation",
+            "deterioration"
+          ],
+          "tran_cn": "[统计][数]回归；退化；逆行；复原"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "loss",
+            "reaction",
+            "retirement"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "analysis of regression",
+      "tran_cn": "回归分析"
+    },
+    {
+      "phrase": "linear regression",
+      "tran_cn": "线性回归"
+    },
+    {
+      "phrase": "linear regression analysis",
+      "tran_cn": "线性回归分析，直线回归分析"
+    },
+    {
+      "phrase": "logistic regression",
+      "tran_cn": "逻辑回归；罗吉斯回归"
+    },
+    {
+      "phrase": "multiple linear regression",
+      "tran_cn": "多元线性回归；复直线回归"
+    },
+    {
+      "phrase": "multiple regression",
+      "tran_cn": "多次回归"
+    },
+    {
+      "phrase": "multiple regression analysis",
+      "tran_cn": "多重回归分析"
+    },
+    {
+      "phrase": "polynomial regression",
+      "tran_cn": "[计]多项式回归"
+    },
+    {
+      "phrase": "regression analysis",
+      "tran_cn": "回归分析；还原分析"
+    },
+    {
+      "phrase": "regression coefficient",
+      "tran_cn": "回归系数；消长系数"
+    },
+    {
+      "phrase": "regression curve",
+      "tran_cn": "回归曲线"
+    },
+    {
+      "phrase": "regression equation",
+      "tran_cn": "回归方程"
+    },
+    {
+      "phrase": "regression estimate",
+      "tran_cn": "回归估计"
+    },
+    {
+      "phrase": "regression function",
+      "tran_cn": "回归函数"
+    },
+    {
+      "phrase": "regression model",
+      "tran_cn": "回归模型"
+    },
+    {
+      "phrase": "regression test",
+      "tran_cn": "n. 回归测试"
+    },
+    {
+      "phrase": "regression testing",
+      "tran_cn": "回归测试；回复测试"
+    },
+    {
+      "phrase": "statistical regression",
+      "tran_cn": "统计回归（现象）"
+    },
+    {
+      "phrase": "stepwise regression",
+      "tran_cn": "逐步回归"
+    },
+    {
+      "phrase": "stepwise regression analysis",
+      "tran_cn": "逐步回归分析"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "衰退，（尤指因催眠或精神疾患，或为逃避目前忧虑）回到从前，回归，（统计学） 回归",
+      "tran_en": "the act of returning to an earlier condition that is worse or less developed"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "regressions"
+    ]
+  }
+}

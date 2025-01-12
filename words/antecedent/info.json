@@ -1,0 +1,185 @@
+{
+  "word": "antecedent",
+  "ipa": {
+    "us": "ˌæntɪˈsi:dnt",
+    "uk": "ˌæntɪˈsidnt"
+  },
+  "sentences": [
+    {
+      "en": "A pronoun must refer to one and only one antecedent to avoid vagueness or ambiguity.",
+      "cn": "代名词必须有一个，也只能有一个先行词，以免造成模糊或模棱两可。"
+    },
+    {
+      "en": "But it cannot account for the case when the pronouns any nearby prior antecedent.",
+      "cn": "但是它却不能用来解释代词前无明显先行词的情况."
+    },
+    {
+      "en": "Did you notice any sign antecedent to the accident?",
+      "cn": "这事故之前,你注意到什么迹象了 吗 ?"
+    },
+    {
+      "en": "Events antecedent to the war failed to serve as a warning of the threat.",
+      "cn": "先于战争的一些事件未能警告人们有关战争的威胁."
+    },
+    {
+      "en": "historical antecedents",
+      "cn": "历史先例"
+    },
+    {
+      "en": "It was permissible to take account of antecedent legislation.",
+      "cn": "允许考虑先前的法律。"
+    },
+    {
+      "en": "Phrenology was an antecedent of modern nEuroscience.",
+      "cn": "颅相学是现代神经系统科学的前身."
+    },
+    {
+      "en": "Physical processes flow inevitably from their antecedent conditions.",
+      "cn": "物理过程的出现必然有其前提."
+    },
+    {
+      "en": "Put simply law of causality states that every material effect must have an adequate antecedent cause.",
+      "cn": "简单地说,因果法则就是任何物质结果都必须有充分的前因."
+    },
+    {
+      "en": "Some patients state that lesions develop at the site of antecedent trauma.",
+      "cn": "一些患者指出，病灶出现在先前的创伤部位。"
+    },
+    {
+      "en": "Something out mind always has antecedent.",
+      "cn": "意想不到的事情总是有其前因的."
+    },
+    {
+      "en": "That was antecedent to this event.",
+      "cn": "那是在这件事之前."
+    },
+    {
+      "en": "That's an antecedent standard. Moral desert.",
+      "cn": "道德应得，那是一个先行标准。"
+    },
+    {
+      "en": "The decision not to invite Joe was antecedent to his illness.",
+      "cn": "不邀请乔的决定是在他生病之前决定的."
+    },
+    {
+      "en": "The managerial nature of the word has further antecedent to French speakers.",
+      "cn": "对于说法语的人来说,这个具管理意味的词还有更早的前身."
+    },
+    {
+      "en": "The name antecedent to his birth.",
+      "cn": "名字在他出生前就取好了."
+    },
+    {
+      "en": "The user can then explore the lattice by using specified criteria, such as support and confidence bounds, or by placing restrictions on the antecedent sequence.",
+      "cn": "用户然后可以使用指定的条件（比如支持和置信界限），或在先前的序列上设置限制来分析该格子。"
+    },
+    {
+      "en": "The word \" man \" is the antecedent of \" who \" in \" the man who spoke \".",
+      "cn": "\" man \" 这个字是\"theman who spoke \" 中 \" who \" 的先行词."
+    },
+    {
+      "en": "This is an antecedent of the war.",
+      "cn": "这是战争的前因."
+    },
+    {
+      "en": "We provide a Chinese layout analysis method with antecedent non _ text regions for this characteristic.",
+      "cn": "针对这种特点,本文提出了一种非文本块优先的中文版面分析方法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "antecedently",
+          "tran_cn": " 在前，在先"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "antecedence",
+          "tran_cn": " 先行；居先；在先"
+        },
+        {
+          "word": "antecedency",
+          "tran_cn": " 先行，在前；逆行"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "anterior",
+            "foregoing",
+            "forerunning",
+            "former",
+            "precedent",
+            "preceding",
+            "preexistent",
+            "prevenient"
+          ],
+          "tran_cn": "先行的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "ancestor",
+            "forerunner",
+            "harbinger",
+            "precursor",
+            "predecessor",
+            "vaunt-courier"
+          ],
+          "tran_cn": "先驱,预言家"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ago",
+            "leader",
+            "parent",
+            "preliminary"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "a&n",
+      "tran_cn": "先行的；祖先；履历",
+      "tran_en": "an event, organization, or thing that is similar to the one you have mentioned but existed earlier"
+    },
+    {
+      "pos": "adj",
+      "tran_cn": "在前的，在先的，先行的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "经历，<数>（比例）前项，<逻>前件，祖先",
+      "tran_en": "an event, organization, or thing that is similar to the one you have mentioned but existed earlier"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "antecedents"
+    ]
+  }
+}

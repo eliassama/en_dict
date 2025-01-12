@@ -1,0 +1,74 @@
+{
+  "word": "fugacious",
+  "ipa": {
+    "us": "fju:'geɪʃəs",
+    "uk": "fju'geɪʃəs"
+  },
+  "sentences": [
+    {
+      "en": "We apperceive joy and cheers, apperceive variance of fugacious years during the life long journey.",
+      "cn": "生生不息中，我们悟到的是生命绽放的喜悦，岁月无常的变迁；"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fugitive",
+          "tran_cn": " 逃亡的；无常的；易变的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fugacity",
+          "tran_cn": " 无常；易逃逸；不安定"
+        },
+        {
+          "word": "fugitive",
+          "tran_cn": " 逃亡者；难捕捉之物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "uncertain",
+            "brief",
+            "little",
+            "passing",
+            "transient"
+          ],
+          "tran_cn": "无常的；短暂的；易逃逸的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "mushroom"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "短暂的，易逃逸的，难捕捉的，无常的",
+      "tran_en": "passing quickly away; transitory; fleeting "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,170 @@
+{
+  "word": "assay",
+  "ipa": {
+    "us": "əˈseɪ",
+    "uk": "ˈæsˌe, æˈse"
+  },
+  "sentences": [
+    {
+      "en": "After assay, we have known the composition of the ore.",
+      "cn": "我们将对他带来的矿石做实验鉴定."
+    },
+    {
+      "en": "After chemical assay, we have known the composition of the ore.",
+      "cn": "经过化学分析, 我们知道了矿石的构成."
+    },
+    {
+      "en": "Can be used to assay SOD activity by means of pyrogallol oxidation?",
+      "cn": "邻苯三酚自氧化法适于测定sod活性 吗 ?"
+    },
+    {
+      "en": "Conclusion: Chelex - 100 assay was simple and conventional in extraction of bacteria DNA.",
+      "cn": "结论: Chelex -100 法抽提细菌基因组DNA适用于对大样本牙周炎患者作细菌学检测分析."
+    },
+    {
+      "en": "Each quantitative analytical procedure should be designed to minimize assay variation.",
+      "cn": "高等每个定量分析方法时都应当要减少其分析误差."
+    },
+    {
+      "en": "Is 3 half - and - half assay second liver entirely what does negative show?",
+      "cn": "乙肝三对半化验全部为阴性说明什么?"
+    },
+    {
+      "en": "Methods Manner plate assay, contact hemolysis and supernatant assay were used.",
+      "cn": "方法平板检测法, 接触溶血法,上清检测法."
+    },
+    {
+      "en": "Objective : To develop an HPLC method for assay of ambroxol hydrochloride.",
+      "cn": "目的: 建立盐酸氨溴索的HPLC含量测定方法."
+    },
+    {
+      "en": "OBJECTIVE To select a better assay method for � � - glucan.",
+      "cn": "摘要目的筛选β - 葡聚糖含量测定的最佳方法."
+    },
+    {
+      "en": "Objective: to establish a method for assay matrine in Yutaijinzhu cleaning solution.",
+      "cn": "目的: 建立玉台净注洗液中苦参碱含量测定方法."
+    },
+    {
+      "en": "The assay methods of lipase activity were studied in this paper.",
+      "cn": "对检测脂肪酶活力的实验方法迸行了研究."
+    },
+    {
+      "en": "The assay result of that material is rich in iron.",
+      "cn": "化验结果表明那种物质含铁量丰富."
+    },
+    {
+      "en": "The most chemically satisfying approach may seem to require the use of the assay system.",
+      "cn": "化学上最理想的探讨途径,似乎需要应用一些鉴定系统."
+    },
+    {
+      "en": "The pepsin contents of gastric juice were determined by JacalinHRP ELISA assay.",
+      "cn": "方法:采用HRP标记 jacalin,通过elisa法检测各种胃病患者胃液中的胃蛋白酶."
+    },
+    {
+      "en": "Tissue culture is the most important tool used in virus assay.",
+      "cn": "组织培养是用于病毒试验的最重要的手段."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assayer",
+          "tran_cn": " 试金者，尝试者；分析专家"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "proof",
+            "experiment",
+            "try"
+          ],
+          "tran_cn": "[临床]化验；试验"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "appraise"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to identify",
+            "to evaluate"
+          ],
+          "tran_cn": "鉴定；经检验证明内含成分"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "analyse",
+            "sample",
+            "essay"
+          ],
+          "tran_cn": "[药]分析；[临床]化验；尝试"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "colorimetric assay",
+      "tran_cn": "比色测定"
+    },
+    {
+      "phrase": "enzyme linked immunosorbent assay",
+      "tran_cn": "酶联免疫吸附测定，酶标法"
+    },
+    {
+      "phrase": "enzyme-linked immunosorbent assay",
+      "tran_cn": "酶联免疫吸附试验"
+    },
+    {
+      "phrase": "fire assay",
+      "tran_cn": "炉火试金；火法化验"
+    },
+    {
+      "phrase": "microbiological assay",
+      "tran_cn": "微生物鉴定"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "化验，试验，<古>尝试，试金",
+      "tran_en": "An assay is a test of a substance to find out what chemicals it contains. It is usually carried out to find out how pure a substance is. "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "分析；化验；尝试",
+      "tran_en": "to test a substance, especially a metal, to see how pure it is or what it is made of"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "assays"
+    ]
+  }
+}

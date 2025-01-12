@@ -1,0 +1,188 @@
+{
+  "word": "expedition",
+  "ipa": {
+    "us": "ˌekspəˈdɪʃn",
+    "uk": "ˌekspəˈdɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "an expedition to the North Pole",
+      "cn": "北极探险"
+    },
+    {
+      "en": "another Qomolangma expedition",
+      "cn": "又一次珠穆朗玛峰探险"
+    },
+    {
+      "en": "He's still hesitating about joining the expedition.",
+      "cn": "他对于参加这次探险队仍犹豫不决."
+    },
+    {
+      "en": "His lecture was illustrated with slides taken during the expedition.",
+      "cn": "他在讲演中使用了探险时拍摄到的幻灯片。"
+    },
+    {
+      "en": "Lee had to fight hard for his place on the expedition.",
+      "cn": "李不得不为在考察队中获得一席之地而苦苦争取。"
+    },
+    {
+      "en": "She led an expedition into the interior.",
+      "cn": "她带领一支考察队到内陆地区."
+    },
+    {
+      "en": "She prophesied a bad ending for the expedition.",
+      "cn": "她预言这次探险结局不会好。"
+    },
+    {
+      "en": "the commander of the expedition",
+      "cn": "探险队队长"
+    },
+    {
+      "en": "The cost of the expedition was defrayed by the college.",
+      "cn": "远征队的费用由校方支付."
+    },
+    {
+      "en": "The expedition through the jungle was fraught with difficulty and danger.",
+      "cn": "穿越森林的探险充满着艰辛和危险."
+    },
+    {
+      "en": "The expedition was bedevilled by bad weather.",
+      "cn": "探险队深受恶劣天气的困扰。"
+    },
+    {
+      "en": "The scientists will go on an expedition to the South Pole.",
+      "cn": "这些科学家们将要去南极考察."
+    },
+    {
+      "en": "The South Pole expedition proved to be staggeringly successful.",
+      "cn": "这次南极探险结果非常成功。"
+    },
+    {
+      "en": "They carried out the captain's orders with all possible expedition.",
+      "cn": "他们毫不迟疑地迅速执行船长的命令."
+    },
+    {
+      "en": "They're going to make an expedition to the South Pole.",
+      "cn": "他们要去南极探险."
+    },
+    {
+      "en": "We must fit the expedition out with the best equipment.",
+      "cn": "我们必须向探险队提供最好的装备."
+    },
+    {
+      "en": "Who will be responsible for the expedition's supplies?",
+      "cn": "谁将负责探险队的物资供应?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "expedite",
+          "tran_cn": " 畅通的；迅速的；方便的"
+        },
+        {
+          "word": "expeditionary",
+          "tran_cn": " 远征的；探险的；讨伐的；考察的"
+        },
+        {
+          "word": "expeditious",
+          "tran_cn": " 迅速的；敏捷的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "expeditiously",
+          "tran_cn": " 迅速地；敏捷地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "expeditiousness",
+          "tran_cn": " 敏捷；迅速"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "expedite",
+          "tran_cn": " 加快；促进；发出"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "haste",
+            "hurry",
+            "promptness",
+            "speed",
+            "swiftness"
+          ],
+          "tran_cn": "迅速;敏捷"
+        },
+        {
+          "words": [
+            "journey",
+            "pilgrimage",
+            "trek",
+            "trip"
+          ],
+          "tran_cn": "远征;旅行"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "celerity",
+            "haste",
+            "hurry",
+            "journey",
+            "pilgrimage",
+            "promptness",
+            "ride",
+            "speed",
+            "swiftness",
+            "trek",
+            "trip"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fishing expedition",
+      "tran_cn": "审前盘问；非法调查"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "探险（队），远征，短途旅行",
+      "tran_en": "a long and carefully organized journey, especially to a dangerous or unfamiliar place, or the people that make this journey"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "expeditions"
+    ]
+  }
+}

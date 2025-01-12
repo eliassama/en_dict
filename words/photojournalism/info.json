@@ -1,0 +1,59 @@
+{
+  "word": "photojournalism",
+  "ipa": {
+    "us": "ˌfəʊtəʊˈdʒɜːnəlɪzəm",
+    "uk": "ˌfoʊtoʊˈdʒɜːrnəlɪzəm"
+  },
+  "sentences": [
+    {
+      "en": "...some of the finest photojournalism of the Civil Rights era.",
+      "cn": "...一些民权运动时期最为优秀的摄影新闻。"
+    },
+    {
+      "en": "This is amazing animal love. Unbelievable bit of photojournalism. Real life events.",
+      "cn": "令人惊讶的动物之情. 难以置信的照片记录, 真实生活事件."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "photogenic",
+          "tran_cn": " 上照的；适于摄影的；由光导致的"
+        },
+        {
+          "word": "photographic",
+          "tran_cn": " 摄影的；逼真的；（尤指记忆）详细准确的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "photographer",
+          "tran_cn": " 摄影师；照相师"
+        },
+        {
+          "word": "photography",
+          "tran_cn": " 摄影；摄影术"
+        },
+        {
+          "word": "photojournalist",
+          "tran_cn": " 新闻摄影记者"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "摄影新闻工作",
+      "tran_en": "the job or activity of reporting news stories in newspapers and magazines using mainly photographs instead of words"
+    }
+  ],
+  "exchange": {}
+}

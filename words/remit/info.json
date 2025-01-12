@@ -1,0 +1,177 @@
+{
+  "word": "remit",
+  "ipa": {
+    "us": "ˈriːmɪt , rɪˈmɪt",
+    "uk": "ˈriːmɪt , rɪˈmɪt"
+  },
+  "sentences": [
+    {
+      "en": "Enclosed is our bill; please remit.",
+      "cn": "随函寄上账单, 请寄款."
+    },
+    {
+      "en": "God would not remit your sins.",
+      "cn": "上帝不会宽恕你的罪恶."
+    },
+    {
+      "en": "Her pain began to remit.",
+      "cn": "她的疼痛开始缓和了."
+    },
+    {
+      "en": "His enthusiasm begins to remit.",
+      "cn": "他的热情开始减低了."
+    },
+    {
+      "en": "I promised to remit the balance by the weekend.",
+      "cn": "我答应周末前将余款汇去."
+    },
+    {
+      "en": "I remit money to my family every month.",
+      "cn": "我每月给家里汇款."
+    },
+    {
+      "en": "Please remit payment by cheque.",
+      "cn": "请用支票汇付货款。"
+    },
+    {
+      "en": "Please remit promptly by money order.",
+      "cn": "请速将款项用汇票汇来."
+    },
+    {
+      "en": "Such decisions are outside the remit of this committee.",
+      "cn": "这样的决定超出了委员会的职权范围。"
+    },
+    {
+      "en": "That issue is not within the remit of the working group.",
+      "cn": "那个问题不在工作组的职权范围之内。"
+    },
+    {
+      "en": "The drought began to remit.",
+      "cn": "旱情开始缓和."
+    },
+    {
+      "en": "The storm began to remit.",
+      "cn": "暴风雨开始减弱了."
+    },
+    {
+      "en": "They remit goods by train.",
+      "cn": "他们用铁路运货."
+    },
+    {
+      "en": "We didn't remit our efforts until we attained our end.",
+      "cn": "在达成目标之前我们未曾松劲."
+    },
+    {
+      "en": "We have accordingly instructed the Shanghai Bank to remit that amount by telegraphic transfer to you.",
+      "cn": "兹托上海银行电汇上述款项给贵公司."
+    },
+    {
+      "en": "You will have to remit this problem to a higher authority.",
+      "cn": "你得把这个问题提交给上一级."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "remiss",
+          "tran_cn": " 怠慢的；迟缓的；不小心的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "remission",
+          "tran_cn": " 缓解；宽恕；豁免"
+        },
+        {
+          "word": "remittal",
+          "tran_cn": " 减轻；赦免"
+        },
+        {
+          "word": "remittance",
+          "tran_cn": " 汇款；汇寄之款；汇款额"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "alleviate",
+            "forward",
+            "forwards",
+            "loosen",
+            "or"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "cash transfer",
+            "tone down"
+          ],
+          "tran_cn": "汇款；缓和"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "discharge",
+            "forgive",
+            "moderate"
+          ],
+          "tran_cn": "宽恕；免除；减轻；传送；使恢复原状"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "remit money",
+      "tran_cn": "划拨款项"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "职权范围，控制范围，影响范围"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "汇款，免除，赦免",
+      "tran_en": "to free someone from a debt or punishment"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "remits"
+    ],
+    "third": [
+      "remits"
+    ],
+    "past": [
+      "remitted"
+    ],
+    "done": [
+      "remitted"
+    ],
+    "ing": [
+      "remitting"
+    ]
+  }
+}

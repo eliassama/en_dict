@@ -1,0 +1,204 @@
+{
+  "word": "gulf",
+  "ipa": {
+    "us": "ɡʌlf",
+    "uk": "ɡʌlf"
+  },
+  "sentences": [
+    {
+      "en": "A yawning North-South gulf has opened up with both sides digging in.",
+      "cn": "双方都坚持自己的立场，南北之间出现了一条鸿沟。"
+    },
+    {
+      "en": "He saw the phosphorescence of the Gulf weed in the water.",
+      "cn": "他看见马尾藻在水中发出的磷光."
+    },
+    {
+      "en": "Hurricane Andrew was last night heading into the Gulf of Mexico.",
+      "cn": "昨晚，飓风“安德鲁”进入了墨西哥湾。"
+    },
+    {
+      "en": "Iraq has been drained of its strength by the Gulf War.",
+      "cn": "海湾战争使伊拉克大伤元气."
+    },
+    {
+      "en": "It'snot just that a gulf exists in living standards— there's a psychological ravine.",
+      "cn": "不仅仅是生活水平上存在巨大差异，心理上也有鸿沟。"
+    },
+    {
+      "en": "The gulf between the two leaders cannot be bridged.",
+      "cn": "两位领导人之间的鸿沟难以跨越."
+    },
+    {
+      "en": "The gulf between them yawned wider than ever.",
+      "cn": "他们之间的隔阂比以往任何时候都要深。"
+    },
+    {
+      "en": "The Gulf has 65 per cent of the world's oil reserves.",
+      "cn": "海湾地区拥有全世界65％的石油储藏。"
+    },
+    {
+      "en": "the Gulf of Mexico",
+      "cn": "墨西哥湾"
+    },
+    {
+      "en": "The problems of Israel, Lebanon, and the Gulf were tightly interlocked.",
+      "cn": "以色列、黎巴嫩与海湾的问题一环扣一环。"
+    },
+    {
+      "en": "The river flows southeastward to the gulf.",
+      "cn": "这条河朝着东南流向海湾."
+    },
+    {
+      "en": "The spill could wipe out the Gulf's turtle population.",
+      "cn": "这次原油泄漏可能会使波斯湾的海龟灭绝。"
+    },
+    {
+      "en": "The tremor was centred in the Gulf of Sirte.",
+      "cn": "微震的震中位于苏尔特湾。"
+    },
+    {
+      "en": "There is a gulf between the two cities.",
+      "cn": "这两座城市间有个海湾."
+    },
+    {
+      "en": "These issues were brought into sharp focus by the Gulf crisis.",
+      "cn": "海湾危机让这些问题备受关注。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bay"
+          ],
+          "tran_cn": "海湾"
+        },
+        {
+          "words": [
+            "break",
+            "chasm",
+            "cleft",
+            "crack",
+            "crevice",
+            "cut",
+            "gap",
+            "hole",
+            "opening",
+            "pit",
+            "rift",
+            "separation"
+          ],
+          "tran_cn": "裂缝;分歧"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bay",
+            "break",
+            "chasm",
+            "cleft",
+            "crack",
+            "crevice",
+            "cut",
+            "depth",
+            "gap",
+            "gape",
+            "gully",
+            "hole",
+            "opening",
+            "pit",
+            "rift",
+            "separation"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "engulf",
+            "swallow"
+          ],
+          "tran_cn": "吞没"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a great gulf fixed",
+      "tran_cn": "鸿沟"
+    },
+    {
+      "phrase": "arabian gulf",
+      "tran_cn": "阿拉伯湾"
+    },
+    {
+      "phrase": "beibu gulf",
+      "tran_cn": "n. 北部湾（旧称东京湾，是中国雷州半岛、海南岛和广西壮族自治区及越南之间的海湾）"
+    },
+    {
+      "phrase": "gulf coast",
+      "tran_cn": "墨西哥湾岸区"
+    },
+    {
+      "phrase": "gulf cooperation council",
+      "tran_cn": "海湾合作委员会"
+    },
+    {
+      "phrase": "gulf of aden",
+      "tran_cn": "亚丁湾（阿拉伯半岛和非洲之角之间的海湾）"
+    },
+    {
+      "phrase": "gulf of guinea",
+      "tran_cn": "几内亚湾"
+    },
+    {
+      "phrase": "gulf of mexico",
+      "tran_cn": "墨西哥湾（位于北美东南部边缘）"
+    },
+    {
+      "phrase": "gulf state",
+      "tran_cn": "海湾国家"
+    },
+    {
+      "phrase": "gulf stream",
+      "tran_cn": "墨西哥湾流"
+    },
+    {
+      "phrase": "gulf war",
+      "tran_cn": "海湾战争"
+    },
+    {
+      "phrase": "persian gulf",
+      "tran_cn": "波斯湾（简称海湾，在伊朗和阿拉伯半岛之间）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "海湾，分歧，波斯湾，（地面的）裂口",
+      "tran_en": "a large area of sea partly enclosed by land"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "吞没"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "gulfs"
+    ]
+  }
+}

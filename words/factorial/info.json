@@ -1,0 +1,133 @@
+{
+  "word": "factorial",
+  "ipa": {
+    "us": "fækˈtɔ:riəl",
+    "uk": "fækˈtɔriəl, -ˈtor-"
+  },
+  "sentences": [
+    {
+      "en": "By means of Factorial Moments ( FM ) , the long range co relations embed in gait are investigated.",
+      "cn": "作为实例,采用阶乘矩研究步态涨落问题."
+    },
+    {
+      "en": "Clearly, the difference operator or operator is the convenient tool for the polynomial of factorial powers.",
+      "cn": "显然, 差分算子及其逆算子是阶乘幂多项式的方便工具."
+    },
+    {
+      "en": "Data were analyzed by ANOVA factorial tests.",
+      "cn": "数据用方差分析阶乘测试法分析."
+    },
+    {
+      "en": "Despite our best efforts, dislocations will occur, which serves to underline the multi - factorial nature of THA.",
+      "cn": "有时,尽管我们做出了最大努力, 脱位仍可能会发生, 这可能与我们强调的多因素不稳定有关."
+    },
+    {
+      "en": "Factorial designs involves two or more independent variables, called factors, in a single design.",
+      "cn": "因素设计包含两个或两个以上的自变量, 在单一设计中被成为因素."
+    },
+    {
+      "en": "Finally, the anomalous scaling property of 3 - dimensional second - order factorial moments is obtained from self - affine analysis.",
+      "cn": "最后用三维自仿射分析得到了三维 二阶 阶乘矩的反常标度性."
+    },
+    {
+      "en": "For fractional factorial designs, indicates which effects are aliased with one another.",
+      "cn": "在部分配置法设计中, 表明效果间的叠加关系."
+    },
+    {
+      "en": "Here is an implementation of a factorial calculator, where we use a conventional technique of calling a second, nested method to do the work.",
+      "cn": "这里是一个阶乘计算器的实现，我们会使用一种常规的方法，通过调用第二个，嵌套的方法来完成计算。"
+    },
+    {
+      "en": "Now, let's return to the factorial function.",
+      "cn": "现在，让我们回到阶乘函数上来。"
+    },
+    {
+      "en": "Objective To explore statistical approaches to analyzing factorial designed repeated measurement data.",
+      "cn": "摘要目的探讨析因设计重复测量资料的统计分析方法."
+    },
+    {
+      "en": "Otherwise, a recursive function is used to calculate the factorial.",
+      "cn": "否则, 使用递归函数计算阶乘."
+    },
+    {
+      "en": "Prof. McCullough : The mechanism is certainly multi - factorial.",
+      "cn": "该机制肯定是多方面的."
+    },
+    {
+      "en": "Table 1 The extrudate's experimental results of the factorial experiment.",
+      "cn": "表1复因子实验设计之反应性状表."
+    },
+    {
+      "en": "The extension Multi - factorial Evaluation method is utilized to assess the Urban Economy Sustainable Development.",
+      "cn": "将多指标可拓综合评价方法应用于城市经济可持续发展水平评价."
+    },
+    {
+      "en": "The modeling of microcircuit process equipment is investigated using fractional factorial experimental design and data transformation.",
+      "cn": "利用部分要因试验设计与数据转换表征微电路工艺设备)."
+    },
+    {
+      "en": "The paper studies the determinants of capital structure basis on the factorial analysis.",
+      "cn": "运用因子分析方法研究了影响资本结构的主要因素."
+    },
+    {
+      "en": "The test case consists of some simple command argument processing followed by a loop that calculates the factorial of the specified values (if any).",
+      "cn": "测试用例包含几个简单的命令参数处理，然后是一个循环，它计算指定值（如果有的话）的阶乘。"
+    },
+    {
+      "en": "This functionality works well as a recursive application, as shown in the sample factorial function in  Listing 4.",
+      "cn": "这个功能作为递归应用程序工作良好，如  清单 4中的样本阶乘函数所示。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "factoring",
+          "tran_cn": " [数] 因子分解，[数] 因式分解；保付代理"
+        },
+        {
+          "word": "factorization",
+          "tran_cn": " [数] 因子分解；[数] 因式分解"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "factoring",
+          "tran_cn": " 把…因素包括进去（factor的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "factorial analysis",
+      "tran_cn": "因子分析，因素分析"
+    },
+    {
+      "phrase": "factorial design",
+      "tran_cn": "析因设计；因子设计"
+    },
+    {
+      "phrase": "factorial experiment",
+      "tran_cn": "析因实验；因子试验"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "因子的，阶乘的",
+      "tran_en": "of or involving factorials or factors "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "阶乘积，阶乘",
+      "tran_en": "the result when you multiply a whole number by all the numbers below it"
+    }
+  ],
+  "exchange": {}
+}

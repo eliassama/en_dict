@@ -1,0 +1,197 @@
+{
+  "word": "confirmation",
+  "ipa": {
+    "us": "ˌkɒnfəˈmeɪʃn",
+    "uk": "ˌkɑːnfərˈmeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Confirmation can be obtained by detecting extensive necrosis through careful digital palpation.",
+      "cn": "通过仔细的手指触诊,能从检查出的广泛坏死而获得确诊."
+    },
+    {
+      "en": "Do your users a favor and never create another confirmation dialog box.",
+      "cn": "请为你的用户做点好事,不要再创建另外的确认对话框了."
+    },
+    {
+      "en": "He nodded, as if her reaction was all the confirmation he needed.",
+      "cn": "他点了点头, 似乎她的反应就是他所需要的证词."
+    },
+    {
+      "en": "Here, graphically displayed, was confirmation of the entire story.",
+      "cn": "通过这里形象的展示证实了整件事的真实性。"
+    },
+    {
+      "en": "Most hotels require confirmation from a prospective guest in writing.",
+      "cn": "大多数宾馆都要求预订房间的客人写书面确认函。"
+    },
+    {
+      "en": "Nixon talked about his accomplishments, asking for confirmation and reassurance.",
+      "cn": "尼克松谈到了他取得的成就, 征求认可和鼓励."
+    },
+    {
+      "en": "Ralph looked for confirmation round the ring of faces.",
+      "cn": "拉尔夫环顾着四周,看着一张张面孔,寻求大家的赞同."
+    },
+    {
+      "en": "She glanced over at James for confirmation.",
+      "cn": "她扫了詹姆斯一眼，想得到他的确认。"
+    },
+    {
+      "en": "So, why does It'still issue the confirmation message?",
+      "cn": "既然这样, 它为什么还要发起确认信息?"
+    },
+    {
+      "en": "The bankers had definite confirmation today that Tsinan's been evacuated. \"",
+      "cn": "退出济南的消息,今天银行界里已经证实了. ”"
+    },
+    {
+      "en": "The police are seeking independent confirmation of certain details of the story.",
+      "cn": "警方正在寻找案件某些细节的独立证据."
+    },
+    {
+      "en": "There has still been no official confirmation of the report.",
+      "cn": "这则报道仍未得到官方证实。"
+    },
+    {
+      "en": "Travel arrangements are subject to confirmation by State Tourist Organisations.",
+      "cn": "旅行安排有待州旅游组织的确认。"
+    },
+    {
+      "en": "We are waiting for confirmation of the news.",
+      "cn": "我们正在等待证实那个消息."
+    },
+    {
+      "en": "We need confirmation in writing before we can send your order out.",
+      "cn": "给你们发送订购的货物之前,我们需要书面确认."
+    },
+    {
+      "en": "We would appreciate confirmation of your refusal of our invitation to take part.",
+      "cn": "若您确认拒绝我们的邀请不能参加，我们将感激不尽。"
+    },
+    {
+      "en": "Written confirmation came three days later.",
+      "cn": "三天后获得了书面确认."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "confirmable",
+          "tran_cn": "可证实的；可确定的"
+        },
+        {
+          "word": "confirmatory",
+          "tran_cn": "证实的；确定的"
+        },
+        {
+          "word": "confirmed",
+          "tran_cn": "确认的；保兑的；坚定的；惯常的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "confirmed",
+          "tran_cn": "确证；使坚定（confirm的过去分词）；批准"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "confirm",
+          "tran_cn": "确认；确定；证实；批准；使巩固"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "verification",
+            "authentication",
+            "certification",
+            "demonstration",
+            "evidence"
+          ],
+          "tran_cn": "[审计]确认；证实；证明；批准"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acceptance",
+            "determination",
+            "inspiration",
+            "institution",
+            "proof",
+            "settlement"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "booking confirmation",
+      "tran_cn": "订舱确认"
+    },
+    {
+      "phrase": "confirmation in writing",
+      "tran_cn": "以书面形式确认"
+    },
+    {
+      "phrase": "confirmation letter",
+      "tran_cn": "确认信函"
+    },
+    {
+      "phrase": "confirmation of order",
+      "tran_cn": "订货承诺书；确认订单"
+    },
+    {
+      "phrase": "delivery confirmation",
+      "tran_cn": "确认发送"
+    },
+    {
+      "phrase": "order confirmation",
+      "tran_cn": "确认定单"
+    },
+    {
+      "phrase": "sales confirmation",
+      "tran_cn": "售货确认书，销售确认书"
+    },
+    {
+      "phrase": "subject to final confirmation",
+      "tran_cn": "以最后确认为准"
+    },
+    {
+      "phrase": "written confirmation",
+      "tran_cn": "书面证明"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "证实，确认书，〈宗〉坚振礼",
+      "tran_en": "a statement, document etc that says that something is definitely true"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "confirmations"
+    ]
+  }
+}

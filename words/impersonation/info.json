@@ -1,0 +1,130 @@
+{
+  "word": "impersonation",
+  "ipa": {
+    "us": "ɪmˌpɜ:sə'neɪʃn",
+    "uk": "ɪmˌpɜsə'neɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Client Impersonation is only available for Extended Stored Procedures.",
+      "cn": "客户端模拟仅可用于扩展的存储过程."
+    },
+    {
+      "en": "Convinced of his own righteousness, he was the perfect impersonation of a man of rectitude.",
+      "cn": "他确信自己很正直，可以完美地扮演刚正不阿的人。"
+    },
+    {
+      "en": "Either a required impersonation level was not provided, or the provided impersonation level is invalid.",
+      "cn": "指定的模拟级别无效, 或所提供的模拟级别无效."
+    },
+    {
+      "en": "Game brief introduction: The pirate of impersonation fearlessness, the detection enchant of the treasure hide!",
+      "cn": "游戏简介: 扮演无畏的海盗, 发现迷失的宝藏!"
+    },
+    {
+      "en": "Gets impersonation level of the user described by this identity.",
+      "cn": "获取由该标识描述的身份验证服务."
+    },
+    {
+      "en": "How do I use programmatic impersonation?",
+      "cn": "如何使用可编程的模拟?"
+    },
+    {
+      "en": "I do an impersonation.",
+      "cn": "做模仿表演."
+    },
+    {
+      "en": "In fact, any low - quality paper to change image noise impersonation.",
+      "cn": "事实上, 任何矮质度的纸弛都可以堵住保持图像噪声举行模仿."
+    },
+    {
+      "en": "In fact, any low quality paper to change image noise for impersonation.",
+      "cn": "事实上, 任何矮质度的纸张都可以堵住保持图像噪声举行模仿."
+    },
+    {
+      "en": "Remove impersonation parameters and use current user context instead.",
+      "cn": "删除模拟参数并使用当前用户上下文."
+    },
+    {
+      "en": "Researches show that the protocol can not resist the key compromise impersonation attack.",
+      "cn": "研究结果发现,该协议不能抵抗密钥泄露伪装攻击."
+    },
+    {
+      "en": "Rule 5 - Jagex Staff Impersonation.",
+      "cn": "规定5-Jagex职员模仿."
+    },
+    {
+      "en": "SAKA protocol does not achieve key - compromise impersonation.",
+      "cn": "SAKA协议不具有密钥泄露安全性."
+    },
+    {
+      "en": "The latter approach provides better performance because it avoids impersonation altogether.",
+      "cn": "后一种方法提供的性能更佳,因为它完全避免了模拟."
+    },
+    {
+      "en": "This is the recommended impersonation level for WMI calls.",
+      "cn": "这是为WMI调用推荐的模拟级别."
+    },
+    {
+      "en": "When should I use programmatic impersonation?",
+      "cn": "何时需要使用可编程的模拟?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "impersonator",
+          "tran_cn": " 演员；模拟艺人"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "impersonate",
+          "tran_cn": " 扮演；模仿；拟人，人格化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "simulation",
+            "imitation"
+          ],
+          "tran_cn": "扮演；模仿；装扮"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acting"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "扮演"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "impersonate"
+    ]
+  }
+}

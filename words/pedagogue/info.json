@@ -1,0 +1,106 @@
+{
+  "word": "pedagogue",
+  "ipa": {
+    "us": "ˈpedəgɒg",
+    "uk": "ˈpedəgɑg"
+  },
+  "sentences": [
+    {
+      "en": "De Gaulle was a born pedagogue who used the public platform and the television screen to great effect.",
+      "cn": "戴高乐生来喜欢教育人，他充分利用了公共讲坛和电视荧屏。"
+    },
+    {
+      "en": "De Gaulle was a born pedagogue.",
+      "cn": "戴高乐生来喜欢教育人。"
+    },
+    {
+      "en": "My friend, because our conservative pedagogue gives me only time, hit'passing '.",
+      "cn": "我的朋友, 因为我们的保守的文学教师当时只给我打 ‘ 及格 ’."
+    },
+    {
+      "en": "Nothing is more tiresome than a superannuated pedagogue.",
+      "cn": "老朽无能的学究最令人讨厌不过。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pedagogic",
+          "tran_cn": " 教师的（等于pedagogical）；教育学的；教授法的"
+        },
+        {
+          "word": "pedantic",
+          "tran_cn": " 迂腐的；学究式的；卖弄学问的；假装学者的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "pedantically",
+          "tran_cn": " 卖弄学问地；学究式地，迂腐地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pedagogics",
+          "tran_cn": " 教育学；教学法；教师职业"
+        },
+        {
+          "word": "pedant",
+          "tran_cn": " 学究；书呆子；卖弄学问的人；空谈家"
+        },
+        {
+          "word": "pedantry",
+          "tran_cn": " 迂腐；卖弄学问；假装学者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "teacher",
+            "professor",
+            "master"
+          ],
+          "tran_cn": "教师，教员；卖弄学问者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "professor",
+            "teacher"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "教师，卖弄学问的教师",
+      "tran_en": "a teacher, especially one who thinks they know a lot and is strict in the way they teach"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "pedagogues"
+    ]
+  }
+}

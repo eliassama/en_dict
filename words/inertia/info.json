@@ -1,0 +1,193 @@
+{
+  "word": "inertia",
+  "ipa": {
+    "us": "ɪˈnɜːʃə",
+    "uk": "ɪˈnɜːrʃə"
+  },
+  "sentences": [
+    {
+      "en": "Are these trends not comparable with Newton's law of inertia?",
+      "cn": "这些趋势难道和牛顿的惯性定律不是很相仿 吗 ?"
+    },
+    {
+      "en": "At first, appearances were kept up through sheer inertia.",
+      "cn": "起先, 纯粹是以呆板的形式来装点门面."
+    },
+    {
+      "en": "Galileo and Descartes replaced that with the idea of inertia.",
+      "cn": "伽利略和笛卡尔用惯性的概念将其取代。"
+    },
+    {
+      "en": "I can't seem to throw off this feeling of inertia.",
+      "cn": "我好像无法摆脱这种无力的感觉。"
+    },
+    {
+      "en": "I get a feeling of inertia on a hot summer day.",
+      "cn": "在盛夏我有一种懒洋洋的感觉."
+    },
+    {
+      "en": "I'm unable to throw off this feeling of inertia.",
+      "cn": "我无法摆脱这种懒散的感觉."
+    },
+    {
+      "en": "Inertia carried the car to the pavement.",
+      "cn": "惯性使汽车驶到了人行道上."
+    },
+    {
+      "en": "Inertia carried the plane onto the ground.",
+      "cn": "飞机靠惯性着陆."
+    },
+    {
+      "en": "Inertia carried the train past the station.",
+      "cn": "惯性使火车驶过了车站."
+    },
+    {
+      "en": "Inertia scalars are defined in terms of quantities called inertia vectors.",
+      "cn": "我们将用惯性矢量来定义惯性标量."
+    },
+    {
+      "en": "Momentum may be thought of as a quantitative expression of inertia.",
+      "cn": "动量可以被理解为惯性的定量表示."
+    },
+    {
+      "en": "political inertia",
+      "cn": "政治上的保守"
+    },
+    {
+      "en": "The inertia term governing the motion of the fluid might be neglected.",
+      "cn": "支配流体运动的惯性项可略去不计."
+    },
+    {
+      "en": "The inertia terms and those relating to conduction in the X direction were also negligible.",
+      "cn": "惯性项和那些与X方向的导热有关的项也被略去."
+    },
+    {
+      "en": "The particle motion is dominated by inertia and gravity effects.",
+      "cn": "粒子的运动是由惯性和重力作用决定的."
+    },
+    {
+      "en": "This might help you overcome inertia.",
+      "cn": "这可能有助于你克服惰性。"
+    },
+    {
+      "en": "We had a feeling of inertia in the afternoon.",
+      "cn": "下午我们感觉很懒."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inertial",
+          "tran_cn": "惯性的；不活泼的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "idleness",
+            "immobility",
+            "inaction",
+            "inactivity",
+            "inertness",
+            "motionlessness",
+            "passivity",
+            "quiescence",
+            "stagnation",
+            "stasis",
+            "stillness",
+            "unemployment"
+          ],
+          "tran_cn": "不活跃,停滞"
+        },
+        {
+          "words": [
+            "dullness",
+            "faineance",
+            "heaviness",
+            "indolence",
+            "inertion",
+            "languor",
+            "lassitude",
+            "laziness",
+            "lethargy",
+            "lifelessness",
+            "listlessness",
+            "passivity",
+            "sloth",
+            "sluggishness",
+            "torpor"
+          ],
+          "tran_cn": "懒惰,倦怠,迟钝"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "paralysis"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "force of inertia",
+      "tran_cn": "惯性力"
+    },
+    {
+      "phrase": "inertia effect",
+      "tran_cn": "惯性效应；惯性效果"
+    },
+    {
+      "phrase": "inertia force",
+      "tran_cn": "惯性力"
+    },
+    {
+      "phrase": "inertia load",
+      "tran_cn": "[机械]惯性负载"
+    },
+    {
+      "phrase": "inertia moment",
+      "tran_cn": "惯性力矩，惯性矩；惰性力矩"
+    },
+    {
+      "phrase": "inertia tensor",
+      "tran_cn": "[物]惯性张量"
+    },
+    {
+      "phrase": "moment of inertia",
+      "tran_cn": "惯性矩，转动惯量"
+    },
+    {
+      "phrase": "rotary inertia",
+      "tran_cn": "转动惯量"
+    },
+    {
+      "phrase": "rotational inertia",
+      "tran_cn": "转动惯量；转动惯性；惯性矩"
+    },
+    {
+      "phrase": "thermal inertia",
+      "tran_cn": "热惰性；热惯性（温升速率的倒数）；热惯量"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<物>惯性，惰性，迟钝，不活动",
+      "tran_en": "the force that keeps an object in the same position or keeps it moving until it is moved or stopped by another force"
+    }
+  ],
+  "exchange": {}
+}

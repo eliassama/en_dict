@@ -1,0 +1,108 @@
+{
+  "word": "purposeless",
+  "ipa": {
+    "us": "ˈpɜ:pəsləs",
+    "uk": "ˈpɜrpəsləs"
+  },
+  "sentences": [
+    {
+      "en": "He came alive to me, delivered suddenly from the womb of his purposeless splendor.",
+      "cn": "盖茨比在我眼中有了生命, 忽然之间从他那子宫般的毫无目的的豪华里分娩了出来."
+    },
+    {
+      "en": "hours of purposeless activity",
+      "cn": "几小时漫无目的的活动"
+    },
+    {
+      "en": "Therefore I tended to run away from myself, leading a purposeless life.",
+      "cn": "所以,我总是自我逃避, 漫无目的的生活."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "purposeful",
+          "tran_cn": " 有目的的；有决心的"
+        },
+        {
+          "word": "purposive",
+          "tran_cn": " 有目的的；故意的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "purposefully",
+          "tran_cn": " 有目的地；自觉地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "purpose",
+          "tran_cn": " 目的；用途；意志"
+        },
+        {
+          "word": "purposefulness",
+          "tran_cn": " 目的性；意志坚强"
+        },
+        {
+          "word": "purposelessness",
+          "tran_cn": " 无目的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "purpose",
+          "tran_cn": " 决心；企图；打算"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "meaningless",
+            "objectless"
+          ],
+          "tran_cn": "无目的的；无益的；缺乏决心的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adrift",
+            "aimless",
+            "bootless",
+            "null"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "无目的的，无意义的",
+      "tran_en": "not having a clear aim or purpose"
+    }
+  ],
+  "exchange": {}
+}

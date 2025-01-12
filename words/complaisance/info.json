@@ -1,0 +1,63 @@
+{
+  "word": "complaisance",
+  "ipa": {
+    "us": "kəm'pleɪzəns",
+    "uk": "kəmˈplesəns, -zəns"
+  },
+  "sentences": [
+    {
+      "en": "She speaks with complaisance.",
+      "cn": "她说话彬彬有礼."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "complaisant",
+          "tran_cn": " 彬彬有礼的；顺从的；殷勤的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "hospitality",
+            "refined and courteous urbane"
+          ],
+          "tran_cn": "殷勤；彬彬有礼；柔顺"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "courtesy",
+            "facility"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "讨好，殷勤",
+      "tran_en": "willingness to do what pleases other people"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "complaisant"
+    ]
+  }
+}

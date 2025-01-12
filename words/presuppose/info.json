@@ -1,0 +1,109 @@
+{
+  "word": "presuppose",
+  "ipa": {
+    "us": "ˌpri:səˈpəʊz",
+    "uk": "ˌprisəˈpoʊz"
+  },
+  "sentences": [
+    {
+      "en": "Don't presuppose my guilt.",
+      "cn": "不要先假定我有罪."
+    },
+    {
+      "en": "I don't presuppose that, I know it a bit, I've seen it.",
+      "cn": "俺不是在冒充神棍, 我知道一点点, 我也看到了一点点."
+    },
+    {
+      "en": "I presuppose that you have done your work.",
+      "cn": "我预料你已经做了你的工作了."
+    },
+    {
+      "en": "It's dangerous to presuppose that a person is guilty.",
+      "cn": "先假定某人有罪是危险的."
+    },
+    {
+      "en": "Let us presuppose that he wants money.",
+      "cn": "我们不妨假定他缺钱."
+    },
+    {
+      "en": "Let us presuppose that he wins the game.",
+      "cn": "让我们先假定他赢得这场比赛."
+    },
+    {
+      "en": "Presuppose everyone else is a part of you, just like one of your own dream characters.",
+      "cn": "假设其余所有人都是你的一部分, 就像你的梦中人物一样."
+    },
+    {
+      "en": "Teachers sometimes presuppose a fairly high level of knowledge by the students.",
+      "cn": "教师有时候假定学生的知识水平相当高。"
+    },
+    {
+      "en": "The idea of heaven presupposes the existence of God.",
+      "cn": "天堂的说法首先认定了上帝的存在。"
+    },
+    {
+      "en": "These pleas presuppose execution of the will by the testator.",
+      "cn": "这些呼吁假定执行的意愿,由立遗嘱人."
+    },
+    {
+      "en": "To say that x instantiates a property P is hence to presuppose that x exists.",
+      "cn": "为了说那x,用具体例子说明性质P是因此,x存在假定那."
+    },
+    {
+      "en": "We cannot presuppose the truth of his statements.",
+      "cn": "我们不能预先假定他的话属实."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "presupposition",
+          "tran_cn": " 假定；预想；臆测"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "expect",
+            "to suppose"
+          ],
+          "tran_cn": "假定；预料；以…为先决条件"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "假定；预料；以…为先决条件",
+      "tran_en": "to depend on something that is believed to exist or to be true"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "预先假定， 假设，以…为先决条件， 意味着",
+      "tran_en": "to depend on something that is believed to exist or to be true"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "presupposes"
+    ],
+    "past": [
+      "presupposed"
+    ],
+    "done": [
+      "presupposed"
+    ],
+    "ing": [
+      "presupposing"
+    ]
+  }
+}

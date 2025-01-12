@@ -1,0 +1,233 @@
+{
+  "word": "echo",
+  "ipa": {
+    "us": "ˈekəʊ",
+    "uk": "ˈekoʊ"
+  },
+  "sentences": [
+    {
+      "en": "‘He's gone! ’ Viv echoed.",
+      "cn": "“他去了！”维夫重复道。"
+    },
+    {
+      "en": "‘You bet,’ she said, echoing his words.",
+      "cn": "“当然啦。她重复着他的话。"
+    },
+    {
+      "en": "He could hear eerie noises echoing through the corridors.",
+      "cn": "他听见恐怖的声响在走廊里回荡。"
+    },
+    {
+      "en": "He is an echo of his master.",
+      "cn": "他是主人的应声虫."
+    },
+    {
+      "en": "Her scream was followed by a loud echo.",
+      "cn": "她的尖叫声过后是响亮的回声。"
+    },
+    {
+      "en": "I hear an echo of the thinking that got us into this mess in the first place.",
+      "cn": "我听到有人重提那个最先使我们陷入这一困境的想法。"
+    },
+    {
+      "en": "I should like to echo the words of the previous speaker.",
+      "cn": "我想重复前面一位发言者的话."
+    },
+    {
+      "en": "It was almost literally an echo , in fact.",
+      "cn": "差不多就是真正的“回声”."
+    },
+    {
+      "en": "Many phrases in the last two chapters echo earlier passages.",
+      "cn": "最后两章中的很多说法是对前面段落的呼应。"
+    },
+    {
+      "en": "Pinks and beiges were chosen to echo the colours of the ceiling.",
+      "cn": "选用了粉红色和米色，以跟从天花板的颜色。"
+    },
+    {
+      "en": "Political attacks work only if they find an echo with voters.",
+      "cn": "政治攻击只有在选民中引起共鸣才会有作用。"
+    },
+    {
+      "en": "She shouted on the mountaintop and listened for the echo.",
+      "cn": "她在山顶上大声喊着,然后聆听着回声."
+    },
+    {
+      "en": "The bat judges distances by a kind of echo - location.",
+      "cn": "蝙蝠用一种回声测定法来判断距离."
+    },
+    {
+      "en": "The echo resounded back to us.",
+      "cn": "回声传回到我们的耳中."
+    },
+    {
+      "en": "The old fable continues to echo down the centuries.",
+      "cn": "这则古老的寓言流传了数个世纪。"
+    },
+    {
+      "en": "The sound of an engine echoed back from the thick forest.",
+      "cn": "从茂密的森林里传来引擎的回声。"
+    },
+    {
+      "en": "The valleys echo the sounds of the mountains.",
+      "cn": "山鸣谷应."
+    },
+    {
+      "en": "Their views often echo each other.",
+      "cn": "他们常常你唱我和。"
+    },
+    {
+      "en": "There was an echo on the line and I couldn't hear clearly.",
+      "cn": "电话里有回音，我听不清楚。"
+    },
+    {
+      "en": "Why do you always have to echo back my opinions like this?",
+      "cn": "你为什么总是这样非附和我的意见不可 呢 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "echoing",
+          "tran_cn": " 呼应；回音；反照现象"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "echoing",
+          "tran_cn": " 回响，呼应（echo的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "aftersound",
+            "bounceback"
+          ],
+          "tran_cn": "回音；效仿"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "duplicate",
+            "imitate",
+            "mirror",
+            "parrot",
+            "quote",
+            "reaction",
+            "repeat",
+            "reproduce",
+            "resemble",
+            "reverberate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "duplicate",
+            "imitate",
+            "repeat"
+          ],
+          "tran_cn": "重复;仿效"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "applaud (或 cheer) someone to the echo",
+      "tran_cn": "为某人大声叫好，为某人喝彩"
+    },
+    {
+      "phrase": "echo cancellation",
+      "tran_cn": "回波消除"
+    },
+    {
+      "phrase": "echo chamber",
+      "tran_cn": "回音室"
+    },
+    {
+      "phrase": "echo effect",
+      "tran_cn": "回声效应；回音效果"
+    },
+    {
+      "phrase": "echo sounder",
+      "tran_cn": "回声测深器"
+    },
+    {
+      "phrase": "echo wall",
+      "tran_cn": "回音壁"
+    },
+    {
+      "phrase": "flaw echo",
+      "tran_cn": "缺陷回波；缺陷的回波信号；缺陷回声"
+    },
+    {
+      "phrase": "radar echo",
+      "tran_cn": "雷达回波"
+    },
+    {
+      "phrase": "ultrasonic echo",
+      "tran_cn": "超声回波；超声回声"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "回声，重复，附和，再现",
+      "tran_en": "a sound that you hear again after a loud noise, because it was made near something such as a wall"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "回声，反响",
+      "tran_en": "if a sound echoes, you hear it again because it was made near something such as a wall or hill"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "回响，发出回声，重复，附和，模仿，持续影响",
+      "tran_en": "to repeat what someone else has just said"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "产生回声， 产生回响",
+      "tran_en": "if a sound echoes, you hear it again because it was made near something such as a wall or hill"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "echoes"
+    ],
+    "third": [
+      "echoes"
+    ],
+    "past": [
+      "echoed"
+    ],
+    "done": [
+      "echoed"
+    ],
+    "ing": [
+      "echoing"
+    ]
+  }
+}

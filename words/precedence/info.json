@@ -1,0 +1,154 @@
+{
+  "word": "precedence",
+  "ipa": {
+    "us": "ˈpresɪdəns",
+    "uk": "ˈprɛsɪdəns, prɪˈsidns"
+  },
+  "sentences": [
+    {
+      "en": "Do you give precedence as well to the one who files first for a patent?",
+      "cn": "你们对首先申请专利的人也给予优先权 吗 ?"
+    },
+    {
+      "en": "Financial measures take precedence over other matters.",
+      "cn": "财政措施比其他事情重要."
+    },
+    {
+      "en": "Guests were seated in order of precedence .",
+      "cn": "宾客们按席次就座。"
+    },
+    {
+      "en": "Items encapsulated in parenthesis are evaluated first and have the highest precedence.",
+      "cn": "先给包含在括号中的项目赋值,它拥有最高的优先权."
+    },
+    {
+      "en": "National defence must take precedence over all other questions.",
+      "cn": "国防问题必须优先考虑."
+    },
+    {
+      "en": "Precedence involves assigning a priority level to a call.",
+      "cn": "优先就是确定呼叫的优先权等级."
+    },
+    {
+      "en": "Radiologic diagnosis will be given precedence.",
+      "cn": "将给予放射学诊断以优先."
+    },
+    {
+      "en": "Safety must be given precedence .",
+      "cn": "安全必须放在第一位。"
+    },
+    {
+      "en": "She had to learn that her wishes did not take precedence over other people's needs.",
+      "cn": "她必须懂得，自己的愿望不能先于别人的需要。"
+    },
+    {
+      "en": "The French kings claimed precedence over those of Spain.",
+      "cn": "法国国王提出比西班牙国王享有优先权."
+    },
+    {
+      "en": "The guests were seated strictly in order of precedence.",
+      "cn": "客人严格按照地位高低就座."
+    },
+    {
+      "en": "The needs of the community must take precedence over ( ie must be met before ) individual requirements.",
+      "cn": "公众的利益高于个人的利益."
+    },
+    {
+      "en": "The royal couple left, followed by the rest of the company in order of precedence.",
+      "cn": "国王和王后伉俪走在前面, 其余陪伴的人员按先后顺序跟在后面."
+    },
+    {
+      "en": "The Trademark Office, of course, gives precedence to the person who files first.",
+      "cn": "商标局对申请在先的自然予以优先."
+    },
+    {
+      "en": "These are questions which take precedence of all others.",
+      "cn": "这些都是应该优先考虑的问题."
+    },
+    {
+      "en": "This task must be given precedence over all others.",
+      "cn": "这一工作必须先做,其他一切后做."
+    },
+    {
+      "en": "Very often the picture takes precedence over the point.",
+      "cn": "画面常常僭越观点."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "precedent",
+          "tran_cn": " 在前的；在先的"
+        },
+        {
+          "word": "precedented",
+          "tran_cn": " 有先例的"
+        },
+        {
+          "word": "precedential",
+          "tran_cn": " 有先例的；优先的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "precedent",
+          "tran_cn": " 先例；前例"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "priority",
+            "preference to sth"
+          ],
+          "tran_cn": "[计]优先；居先"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "importance",
+            "preference",
+            "priority"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "operator precedence",
+      "tran_cn": "算符优先；[计]操作优先"
+    },
+    {
+      "phrase": "order of precedence",
+      "tran_cn": "优先顺序"
+    },
+    {
+      "phrase": "take precedence over",
+      "tran_cn": "优先于；地位高于；比…重要"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "领先，优先权，地位先后，级别高低，位次",
+      "tran_en": "when someone or something is considered to be more impor-tant than someone or something else, and therefore comes first or must be dealt with first"
+    }
+  ],
+  "exchange": {}
+}

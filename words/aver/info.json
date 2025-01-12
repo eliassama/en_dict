@@ -1,0 +1,111 @@
+{
+  "word": "aver",
+  "ipa": {
+    "us": "əˈvɜ:(r)",
+    "uk": "əˈvə"
+  },
+  "sentences": [
+    {
+      "en": "A kindly aver will never make a good horse.",
+      "cn": "天生负重之马成不了良骑."
+    },
+    {
+      "en": "As he already knew French, he gained an advantage aver the rest of the class.",
+      "cn": "因为他已经接法语, 所以他比班上其他人占优势."
+    },
+    {
+      "en": "C: Yes the traditional Chinese painting has a history of aver 2500 years.",
+      "cn": "员: 是的,中国国画已经有2500多年的历史了."
+    },
+    {
+      "en": "I aver it will not rain tomorrow.",
+      "cn": "我断言明天不会下雨."
+    },
+    {
+      "en": "I aver that I have spoken the truth.",
+      "cn": "我断言,我说了真话."
+    },
+    {
+      "en": "In spite of all you say, I still aver that his report is true.",
+      "cn": "不管你怎么说, 我还是断言他的报告是真实的."
+    },
+    {
+      "en": "In this conflict of emotions all I dare aver is that it has been my faithful study to collect, my duty from a just appreciation of every circumstance by which it might be affected.",
+      "cn": "怀着这种矛盾心情，我唯一敢断言的是，通过正确估计可能产生影响的各种情况来克尽吾职，乃是我忠贞不渝的努力目标。 我唯一敢祈望的是，如果我在执行这项任务时因陶醉于往事。"
+    },
+    {
+      "en": "The longest rope was 100 m long and aver a 50 m deep gorge.",
+      "cn": "最长的的绳子有100米长,可跨越50米深的山谷."
+    },
+    {
+      "en": "The restaurant was filled to overflowing, and they despaired of aver finding a seat.",
+      "cn": "雅座都已客满.张素素他们很觉得失望."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "averment",
+          "tran_cn": " 断言，坚称"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "plead",
+            "propose",
+            "vouch"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "maintain",
+            "submit",
+            "advocate",
+            "declare"
+          ],
+          "tran_cn": "断言，极力声明；主张"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "断言, 主张",
+      "tran_en": "to say something firmly and strongly because you are sure that it is true"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<正>断言，证实，<律>证明…属实，作为事实提出"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "avers"
+    ],
+    "past": [
+      "averred"
+    ],
+    "done": [
+      "averred"
+    ],
+    "ing": [
+      "averring"
+    ]
+  }
+}

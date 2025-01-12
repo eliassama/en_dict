@@ -1,0 +1,209 @@
+{
+  "word": "electron",
+  "ipa": {
+    "us": "ɪˈlektrɒn",
+    "uk": "ɪˈlektrɑːn"
+  },
+  "sentences": [
+    {
+      "en": "A free radical is a molecular fragment having an unpaired electron.",
+      "cn": "自由基是一种具有未配对电子的分子碎体."
+    },
+    {
+      "en": "A new technological marvel was invented at Cambridge University in England, the scanning electron microscope.",
+      "cn": "一项科技新奇迹在英国剑桥大学诞生了——这就是扫描电子显微镜。"
+    },
+    {
+      "en": "An axial electron pair meets at right angles with 3 neighboring pairs.",
+      "cn": "轴向电子对与三个相邻的电子对相交成直角."
+    },
+    {
+      "en": "An electron has a negative charge, a proton has a positive charge.",
+      "cn": "电子带负电荷, 质子带正电荷."
+    },
+    {
+      "en": "An electron in the innermost orbit has the least energy.",
+      "cn": "最里面的轨道上的电子能量最低."
+    },
+    {
+      "en": "Electron microscopy has revolutionized the study of crystal imperfections.",
+      "cn": "电子显微学已经革新了对晶体不完整性的研究."
+    },
+    {
+      "en": "Electron spin is essential in understanding many atomic phenomena.",
+      "cn": "电子自旋对于理解许多原子现象是很重要的."
+    },
+    {
+      "en": "Freedom, gravity, ego, and electron are constructs.",
+      "cn": "自由, 万有引力, 自我中心以及电子都是概念."
+    },
+    {
+      "en": "In aerobic systems, oxygen is the terminal electron acceptor and is reduced.",
+      "cn": "在需氧体系中, 氧是末端电子接受体并且被还原."
+    },
+    {
+      "en": "In aprotic acids, it is some other electron - deficient element.",
+      "cn": "在无质子的酸中, 它是另一种缺电子元素."
+    },
+    {
+      "en": "Magnetic coils focus the electron beams into fine spots.",
+      "cn": "磁线圈把电子束聚焦成微小的点。"
+    },
+    {
+      "en": "Most things are balanced - with equal numbers of electrons and protons.",
+      "cn": "大部分物体都是电荷平衡的——含等量的电子和质子。"
+    },
+    {
+      "en": "The electron clouds are clearly visible as blurs surrounding the invisible nuclei.",
+      "cn": "电子云就象环绕着看不见的核的一片云雾."
+    },
+    {
+      "en": "The electron microscope uses a beam of electrons to produce images at high magnifications.",
+      "cn": "电子显微镜利用电子束形成高倍影像。"
+    },
+    {
+      "en": "The schroedinger equation for the one - electron atom is exactly soluble.",
+      "cn": "单电子原子的薛定谔方程是可精确求解的."
+    },
+    {
+      "en": "The structure of molecules can be seen under an electron microscope.",
+      "cn": "分子的结构可在电子显微镜下观察到."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "electronic",
+          "tran_cn": " 电子的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "electronically",
+          "tran_cn": " 电子地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "electronics",
+          "tran_cn": " 电子学；电子工业"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "elektron"
+          ],
+          "tran_cn": "[物]电子"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "auger electron",
+      "tran_cn": "俄歇电子"
+    },
+    {
+      "phrase": "electron beam",
+      "tran_cn": "电子束"
+    },
+    {
+      "phrase": "electron beam welding",
+      "tran_cn": "电子束焊接"
+    },
+    {
+      "phrase": "electron density",
+      "tran_cn": "电子密度；电子浓度"
+    },
+    {
+      "phrase": "electron diffraction",
+      "tran_cn": "电子衍射"
+    },
+    {
+      "phrase": "electron gun",
+      "tran_cn": "电子枪"
+    },
+    {
+      "phrase": "electron microscope",
+      "tran_cn": "电子显微镜"
+    },
+    {
+      "phrase": "electron microscopy",
+      "tran_cn": "电子显微镜学，电子显微镜"
+    },
+    {
+      "phrase": "electron probe",
+      "tran_cn": "电子探针"
+    },
+    {
+      "phrase": "electron spectroscopy",
+      "tran_cn": "电子能谱学；电子频谱"
+    },
+    {
+      "phrase": "electron spin",
+      "tran_cn": "电子自旋"
+    },
+    {
+      "phrase": "electron spin resonance",
+      "tran_cn": "[物]电子自旋共振；顺磁共振"
+    },
+    {
+      "phrase": "electron technology",
+      "tran_cn": "电子技术"
+    },
+    {
+      "phrase": "electron transfer",
+      "tran_cn": "电子转移；电子传递"
+    },
+    {
+      "phrase": "electron transport",
+      "tran_cn": "电子传送，电子转移"
+    },
+    {
+      "phrase": "free electron",
+      "tran_cn": "自由电子"
+    },
+    {
+      "phrase": "scanning electron microscope",
+      "tran_cn": "扫描电子显微镜"
+    },
+    {
+      "phrase": "scanning electron microscopy",
+      "tran_cn": "扫描电子显微镜检查法"
+    },
+    {
+      "phrase": "transmission electron microscope",
+      "tran_cn": "透射式电子显微镜"
+    },
+    {
+      "phrase": "transmission electron microscopy",
+      "tran_cn": "透射电子显微镜法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "电子",
+      "tran_en": "a very small piece of matter with a negative electrical charge that moves around the nucleus(= central part ) of an atom"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "electrons"
+    ]
+  }
+}

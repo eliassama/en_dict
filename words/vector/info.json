@@ -1,0 +1,198 @@
+{
+  "word": "vector",
+  "ipa": {
+    "us": "ˈvektə(r)",
+    "uk": "ˈvɛktɚ"
+  },
+  "sentences": [
+    {
+      "en": "Acceleration and velocity are both vectors.",
+      "cn": "加速度和速度都是矢量。"
+    },
+    {
+      "en": "An axial vector may itself enter into a vector product.",
+      "cn": "轴矢量自身可参与矢积."
+    },
+    {
+      "en": "Every vector can be resolved into covariant or into contravariant components.",
+      "cn": "每个矢量都可以分解成协变分量或逆变分量."
+    },
+    {
+      "en": "For arrays this template is called a dope vector or information vector.",
+      "cn": "我们把这个属性单元称为数组的内情向量或信息向量."
+    },
+    {
+      "en": "If the wheel is rotating counterclockwise, its angular - momentum vector is directed eastward.",
+      "cn": "如果轮子是逆时针方向旋转, 其角动量矢量的方向朝东."
+    },
+    {
+      "en": "Isospin is a vector quantity.",
+      "cn": "同位旋是矢量."
+    },
+    {
+      "en": "It is interesting and enlightening to consider the derivative of a vector.",
+      "cn": "这对研究矢量的导数来说是重要的,而且富有启发性."
+    },
+    {
+      "en": "Multiplies every component of this vector by the same component of scale.",
+      "cn": "由缩放的相同的组件对应乘以这个矢量的每个组件。"
+    },
+    {
+      "en": "Neither vector nor reservoir has been discovered and proved.",
+      "cn": "媒介和贮主至今都没曾得到发现和证实."
+    },
+    {
+      "en": "Now, how do we get this unit vector?",
+      "cn": "那我们怎么得到这单位矢量呢？"
+    },
+    {
+      "en": "That is transitory or semipersistent in its vector.",
+      "cn": "在它的介体中是属于中间的或半持久的."
+    },
+    {
+      "en": "The direction of the electric field vector is indicated in each picture.",
+      "cn": "每张照片上都标出了电场矢量的方向."
+    },
+    {
+      "en": "The radius vector of each solid is always a positive length.",
+      "cn": "每个立体的矢径总是正值长度."
+    },
+    {
+      "en": "The vector Z is known as the state vector of the system.",
+      "cn": "向量Z称为系统的状态向量."
+    },
+    {
+      "en": "These are inserted into a cloning vector.",
+      "cn": "它们被插入克隆载体."
+    },
+    {
+      "en": "This new tutorial will change the way you use vector graphics.",
+      "cn": "这个新的教程将改变你使用矢量图形的方式。"
+    },
+    {
+      "en": "Vector differences may also be found by the method of rectangular resolution.",
+      "cn": "矢量差也可用正交分解求得."
+    },
+    {
+      "en": "Vector is a useless survival, or offshoot from quaternions.",
+      "cn": "向量是无用的幸存物或四元数的无价值的支流."
+    },
+    {
+      "en": "Vector products arise frequently in this book in a number of contexts.",
+      "cn": "在本书的许多场合中经常要出现矢量积."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "carrier",
+            "lane"
+          ],
+          "tran_cn": "矢量；带菌者；航线"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "displacement vector",
+      "tran_cn": "位移矢量；位移向量"
+    },
+    {
+      "phrase": "expression vector",
+      "tran_cn": "表达载体"
+    },
+    {
+      "phrase": "force vector",
+      "tran_cn": "力向量；力矢量"
+    },
+    {
+      "phrase": "gradient vector",
+      "tran_cn": "梯度向量"
+    },
+    {
+      "phrase": "input vector",
+      "tran_cn": "输入矢量；输入向量"
+    },
+    {
+      "phrase": "normal vector",
+      "tran_cn": "法向量；法向向量；法向矢量"
+    },
+    {
+      "phrase": "position vector",
+      "tran_cn": "位矢，位置向量"
+    },
+    {
+      "phrase": "state vector",
+      "tran_cn": "状态向量"
+    },
+    {
+      "phrase": "test vector",
+      "tran_cn": "测试向量"
+    },
+    {
+      "phrase": "unit vector",
+      "tran_cn": "单位向量；单位矢量"
+    },
+    {
+      "phrase": "vector analysis",
+      "tran_cn": "矢量分析"
+    },
+    {
+      "phrase": "vector field",
+      "tran_cn": "矢量场；向量场"
+    },
+    {
+      "phrase": "vector function",
+      "tran_cn": "向量函数；矢量函数"
+    },
+    {
+      "phrase": "vector graphics",
+      "tran_cn": "向量图形；向量图"
+    },
+    {
+      "phrase": "vector potential",
+      "tran_cn": "矢势；向量势"
+    },
+    {
+      "phrase": "vector quantity",
+      "tran_cn": "矢量；向量"
+    },
+    {
+      "phrase": "vector space",
+      "tran_cn": "n. [数]向量空间"
+    },
+    {
+      "phrase": "velocity vector",
+      "tran_cn": "[物理]速度矢量"
+    },
+    {
+      "phrase": "wave vector",
+      "tran_cn": "波矢；波矢量"
+    },
+    {
+      "phrase": "weight vector",
+      "tran_cn": "权向量"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "矢量，航向，[生]带菌者，[天]矢径",
+      "tran_en": "a quantity such as force that has a direction as well as size"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "用无线电导航"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "vectors"
+    ]
+  }
+}

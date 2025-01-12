@@ -1,0 +1,189 @@
+{
+  "word": "stranger",
+  "ipa": {
+    "us": "ˈstreɪndʒə(r)",
+    "uk": "ˈstreɪndʒər"
+  },
+  "sentences": [
+    {
+      "en": "Children must not talk to strangers.",
+      "cn": "小孩子千万不要同陌生人说话。"
+    },
+    {
+      "en": "He is no stranger to controversy.",
+      "cn": "他是个颇具争议的人物。"
+    },
+    {
+      "en": "He is no stranger to property.",
+      "cn": "对于财产他绝非外行."
+    },
+    {
+      "en": "He looked at the stranger with distrust.",
+      "cn": "他怀疑地打量着那个陌生人."
+    },
+    {
+      "en": "I'm a stranger to Spanish.",
+      "cn": "我不懂西班牙文."
+    },
+    {
+      "en": "If a stranger stops you, just wind the window down a fraction.",
+      "cn": "如果有陌生人拦你的车，把车窗摇下一点点就行。"
+    },
+    {
+      "en": "It's hard for a stranger to make friends in this town.",
+      "cn": "外地人在这个城里很难交朋友."
+    },
+    {
+      "en": "No one knew the antecedents of the mysterious stranger.",
+      "cn": "谁也不知道那个神秘陌生人的身世."
+    },
+    {
+      "en": "She could not overcome her distrust of the stranger.",
+      "cn": "她无法消除对那位陌生人的怀疑."
+    },
+    {
+      "en": "She is not a stranger to misfortune.",
+      "cn": "她对不幸的经历并不陌生."
+    },
+    {
+      "en": "Sorry, I don't know where the bank is. I'm a stranger here myself.",
+      "cn": "对不起，我不知道银行在哪儿。我不是本地人。"
+    },
+    {
+      "en": "The child made off when he saw a stranger.",
+      "cn": "那小孩看见生人便急忙跑掉了."
+    },
+    {
+      "en": "The dog jumped on the stranger.",
+      "cn": "这条狗突然向陌生人猛扑过去."
+    },
+    {
+      "en": "The soldiers had orders to permit no stranger through.",
+      "cn": "士兵们接到命令不许任何陌生人通过."
+    },
+    {
+      "en": "The stranger asked me to direct him to the station.",
+      "cn": "这位陌生人要我指示他去火车站的方向."
+    },
+    {
+      "en": "The stranger's question surprised me so that I temporarily lost my tongue.",
+      "cn": "那陌生人的询问使我大吃一惊,一时之间连话都说不出来了."
+    },
+    {
+      "en": "You're quite a stranger -- it's ten years since I last saw you.",
+      "cn": "你真是稀客-我们有十年不见面了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "strange",
+          "tran_cn": " 奇怪的；陌生的；外行的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "strange",
+          "tran_cn": " 奇怪地；陌生地，冷淡地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "strangeness",
+          "tran_cn": " 陌生；冷淡；[高能] 奇异性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "alien",
+            "another",
+            "crasher",
+            "crowd",
+            "emigrant",
+            "face",
+            "foreigner",
+            "gate-crasher",
+            "greenhorn",
+            "guest",
+            "immigrant",
+            "in",
+            "incomer",
+            "interloper",
+            "just",
+            "kid",
+            "new",
+            "outlander",
+            "outlier",
+            "outsider",
+            "tenderfoot",
+            "the",
+            "town",
+            "trespasser",
+            "undesirable",
+            "visitor"
+          ],
+          "tran_cn": "移民,外国人,访问者,生手,入侵者,讨厌的人"
+        },
+        {
+          "words": [
+            "non-acquaintance",
+            "person",
+            "unknown"
+          ],
+          "tran_cn": "陌生人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "refugee"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hello, stranger!",
+      "tran_cn": "(幽默)嘿，稀客！（用于与很长时间没有见面的人打招呼）"
+    },
+    {
+      "phrase": "perfect stranger",
+      "tran_cn": "完全不认识的人"
+    },
+    {
+      "phrase": "stranger than fiction",
+      "tran_cn": "奇幻人生（电影名称）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "陌生人，新来者",
+      "tran_en": "someone that you do not know"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "strangers"
+    ]
+  }
+}

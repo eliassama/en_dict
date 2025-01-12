@@ -1,0 +1,191 @@
+{
+  "word": "keeper",
+  "ipa": {
+    "us": "ˈkiːpə(r)",
+    "uk": "ˈkiːpər"
+  },
+  "sentences": [
+    {
+      "en": "'You deceive yourself, monsieur,'returned the keeper of the wine - shop.",
+      "cn": "“ 你认错人了, 先生, ” 酒店老板回答."
+    },
+    {
+      "en": "\"I don't know where he is,\" Hughes replied. \"I'm not his keeper.\"",
+      "cn": "“我不知道他在哪儿，”休斯回答说。“我又不是他的保姆。”"
+    },
+    {
+      "en": "a beekeeper",
+      "cn": "养蜂人"
+    },
+    {
+      "en": "a lighthouse keeper",
+      "cn": "灯塔管理员"
+    },
+    {
+      "en": "Anglers are required to obtain prior authorization from the park keeper.",
+      "cn": "垂钓者必须事先得到公园管理者的许可."
+    },
+    {
+      "en": "Bob is head lion keeper at the zoo.",
+      "cn": "鲍勃是动物园养狮主管。"
+    },
+    {
+      "en": "He found a job as a keeper.",
+      "cn": "他找到了一份当饲养员的工作."
+    },
+    {
+      "en": "He is also acknowledged as an excellent goal-keeper.",
+      "cn": "他也被公认为是一名出色的守门员。"
+    },
+    {
+      "en": "He might lose his job as keeper.",
+      "cn": "他也许会丢掉他当监护人的职位吧."
+    },
+    {
+      "en": "He reloaded and nodded to the game-keeper.",
+      "cn": "他给枪重新装上子弹，然后朝猎场看守人点了点头。"
+    },
+    {
+      "en": "I told the door - keeper to deny me to all callers.",
+      "cn": "我关照传达室不接见任何客人."
+    },
+    {
+      "en": "In soccer, only the goal - keeper may play the ball with his hands.",
+      "cn": "在足球运动中只有守门员可以用手触球."
+    },
+    {
+      "en": "The bee - keeper Old Liang showed me around.",
+      "cn": "养蜂员老梁领我走进“大厦”."
+    },
+    {
+      "en": "The gate - keeper demanded my business.",
+      "cn": "看门人问我有什么事."
+    },
+    {
+      "en": "The inn - keeper smiled and immediately went out.",
+      "cn": "客栈老板微微一笑便出去了."
+    },
+    {
+      "en": "the keeper of geology at the museum",
+      "cn": "博物馆地质资料的保管人"
+    },
+    {
+      "en": "The lock keeper closed the lock gate.",
+      "cn": "船闸管理员关上了闸门."
+    },
+    {
+      "en": "We saw the Park Keeper telling a bunch of older boys to get off the swings.",
+      "cn": "我们看到公园管理员让一些大男孩从秋千上下来。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "kept",
+          "tran_cn": " 受人资助控制的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "keep",
+          "tran_cn": " 保持；生计；生活费"
+        },
+        {
+          "word": "keeping",
+          "tran_cn": " 保管；一致；协调；遵守"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "keeping",
+          "tran_cn": " 保持；遵守（keep的ing形式）"
+        },
+        {
+          "word": "kept",
+          "tran_cn": " 保持；维持；保管（keep的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "keep",
+          "tran_cn": " 保持；继续不断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "keep",
+          "tran_cn": " 保持；经营；遵守；饲养"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "supervisor",
+            "guardian",
+            "administrator"
+          ],
+          "tran_cn": "监护人；饲养员；看守人；管理人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "custodian",
+            "owner",
+            "proprietor",
+            "steward"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "goal keeper",
+      "tran_cn": "守门员"
+    },
+    {
+      "phrase": "house keeper",
+      "tran_cn": "客房服务员；内务处理程序"
+    },
+    {
+      "phrase": "warehouse keeper",
+      "tran_cn": "仓库管理员"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "看守人，负责人，饲养员",
+      "tran_en": "someone who looks after animals"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "keepers"
+    ]
+  }
+}

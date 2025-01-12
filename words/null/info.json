@@ -1,0 +1,214 @@
+{
+  "word": "null",
+  "ipa": {
+    "us": "nʌl",
+    "uk": "nʌl"
+  },
+  "sentences": [
+    {
+      "en": "A null - balance system is provided by balancing the magnetic forces by electrostatic forces.",
+      "cn": "零位平衡系统是靠静电力来平衡磁力而造成的."
+    },
+    {
+      "en": "A spokeswoman said the agreement had been declared null and void.",
+      "cn": "女发言人称该协议已宣布无效。"
+    },
+    {
+      "en": "The agreement will be considered null and void.",
+      "cn": "该协议将被视作无效。"
+    },
+    {
+      "en": "The contract was declared null and void.",
+      "cn": "该合同被宣布无效。"
+    },
+    {
+      "en": "The court ruled that the claim was null and void.",
+      "cn": "法庭裁决此项要求无效."
+    },
+    {
+      "en": "The device provides extreme sensitivity through a small range around the null point.",
+      "cn": "此装置在零点附近很小一段范围内具有极高的灵敏度."
+    },
+    {
+      "en": "The null result of the Michelson - Morley experiment suggests that the effects of the ether are undetectable.",
+      "cn": "迈克耳 孙- 莫雷实验的否定结果使人想到,以太的效应是不能检查到的."
+    },
+    {
+      "en": "The null result was directly related to a central postulate of the theory.",
+      "cn": "零结果都直接与理论的中心假设相联系."
+    },
+    {
+      "en": "The null subset corresponds to the term 1.",
+      "cn": "空集则对应于常数项1."
+    },
+    {
+      "en": "The operator O is the null operator.",
+      "cn": "算符O是零算符."
+    },
+    {
+      "en": "The term null hypothesis arose from earlier agricultural and medical applic ation of statistics.",
+      "cn": "无效假设这个概念产生于早期的统计学在农业和医学方面的应用中."
+    },
+    {
+      "en": "This check is null and void.",
+      "cn": "本支票无效."
+    },
+    {
+      "en": "This contract is null and void.",
+      "cn": "此合同无效."
+    },
+    {
+      "en": "This null - balance system is usually more accurate than the direct - readout bridge.",
+      "cn": "这种调零系统通常比直读电桥更精确."
+    },
+    {
+      "en": "When the galvanometer reads zero the circuit is in the null - balance position.",
+      "cn": "当检流计的读数为零时,电路处于零平衡位置."
+    },
+    {
+      "en": "Whenever we reject the null hypothesis, the conclusion we do accept is called the alternative hypothesis.",
+      "cn": "无论何时,拒绝无效假设时, 我们所接受的结论叫做备择假设."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "nullification",
+          "tran_cn": " 无效；废弃；取消；（美）州对联邦法令的拒绝执行或承认"
+        },
+        {
+          "word": "nullifier",
+          "tran_cn": " 废弃者；使无效者；取消者"
+        },
+        {
+          "word": "nullity",
+          "tran_cn": " 无效；无价值的事物或人；[数] 零度；退化阶数"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "nullify",
+          "tran_cn": " 使无效，作废；取消"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "bare",
+            "blank",
+            "clear",
+            "empty",
+            "foolish",
+            "hollow",
+            "inane",
+            "inexistent",
+            "nonexistent",
+            "senseless",
+            "unprofitable",
+            "vacuous"
+          ],
+          "tran_cn": "不存在的,空的,愚蠢的"
+        },
+        {
+          "words": [
+            "binding",
+            "futile",
+            "good-for-nothing",
+            "immaterial",
+            "inconsequential",
+            "ineffectual",
+            "inefficacious",
+            "inoperative",
+            "insignificant",
+            "inutile",
+            "invalid",
+            "no-good",
+            "not",
+            "nugatory",
+            "piddling",
+            "purposeless",
+            "trifling",
+            "trivial",
+            "unavailing",
+            "unsubstantial",
+            "useless",
+            "valueless",
+            "worthless"
+          ],
+          "tran_cn": "没用的"
+        },
+        {
+          "words": [
+            "annihilated",
+            "destroyed",
+            "dissolved",
+            "effaced",
+            "eliminated",
+            "expunged",
+            "exterminated",
+            "extinguished",
+            "extirpated",
+            "obliterated"
+          ],
+          "tran_cn": "被删除的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "nothing",
+            "nought"
+          ],
+          "tran_cn": "零，[数]空"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "null and void",
+      "tran_cn": "无效的"
+    },
+    {
+      "phrase": "null hypothesis",
+      "tran_cn": "零假设；虚假设；解消假设"
+    },
+    {
+      "phrase": "null pointer",
+      "tran_cn": "空指针"
+    },
+    {
+      "phrase": "null space",
+      "tran_cn": "零空间"
+    },
+    {
+      "phrase": "null string",
+      "tran_cn": "空行；空串"
+    },
+    {
+      "phrase": "null value",
+      "tran_cn": "空值"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<术>零值的，等于零的，（协议） 无法律效力，失效的",
+      "tran_en": "an agreement, contract etc that is null and void has no legal force"
+    }
+  ],
+  "exchange": {}
+}

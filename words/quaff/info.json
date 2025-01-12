@@ -1,0 +1,90 @@
+{
+  "word": "quaff",
+  "ipa": {
+    "us": "kwɒf",
+    "uk": "kwæf"
+  },
+  "sentences": [
+    {
+      "en": "His quaff , did a cup again then.",
+      "cn": "他一饮而尽, 接着又干了一杯."
+    },
+    {
+      "en": "I went down to the bar to quaff a brew.",
+      "cn": "我去酒吧喝啤酒去了."
+    },
+    {
+      "en": "Wedding guests quaffed champagne.",
+      "cn": "婚礼上宾客开怀畅饮香槟酒。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "drink",
+            "guzzle",
+            "imbibe",
+            "sip"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "get a bag on",
+            "drink hard"
+          ],
+          "tran_cn": "狂饮，痛饮"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "drink",
+            "guzzle",
+            "imbibe",
+            "sip"
+          ],
+          "tran_cn": "饮"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "一口气喝干, 大口地喝",
+      "tran_en": "to drink a lot of something quickly"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "<文>痛饮，畅饮，大口大口将…喝干，一饮而尽"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "quaffs"
+    ],
+    "past": [
+      "quaffed"
+    ],
+    "done": [
+      "quaffed"
+    ],
+    "ing": [
+      "quaffing"
+    ]
+  }
+}

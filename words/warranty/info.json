@@ -1,0 +1,203 @@
+{
+  "word": "warranty",
+  "ipa": {
+    "us": "ˈwɒrənti",
+    "uk": "ˈwɔːrənti"
+  },
+  "sentences": [
+    {
+      "en": "a three-year warranty",
+      "cn": "三年的保修期"
+    },
+    {
+      "en": "Corrosion is not covered by the warranty.",
+      "cn": "腐蚀不在保修范围之内."
+    },
+    {
+      "en": "Do you have a warranty?",
+      "cn": "你有保修单 吗 ?"
+    },
+    {
+      "en": "Do you have an extended warranty?",
+      "cn": "你们有长期的质量保证吗？"
+    },
+    {
+      "en": "How long is the warranty period?",
+      "cn": "保固期有多久 呢 ?"
+    },
+    {
+      "en": "If the warranty is limited, the terms may entitle you to a replacement or refund.",
+      "cn": "如果保修有限制，根据条款你也许可以要求退换或者退款。"
+    },
+    {
+      "en": "The purchaser of this automobile is protected by the manufacturer's warranty.",
+      "cn": "这辆汽车的买主可以得到厂方保单."
+    },
+    {
+      "en": "The television comes with a full two-year warranty.",
+      "cn": "这台电视机有整两年的保修期。"
+    },
+    {
+      "en": "The warranty lapsed two months ago.",
+      "cn": "那项保证两个月前失效了."
+    },
+    {
+      "en": "This product comes with lifetime warranty.",
+      "cn": "这件产品有永久保证."
+    },
+    {
+      "en": "This product comes with one year warranty.",
+      "cn": "这产品有一年的保固期."
+    },
+    {
+      "en": "This TV set is still under warranty.",
+      "cn": "这部电视机仍在保修期中."
+    },
+    {
+      "en": "This warranty is good for one year after the date of the purchase of the product.",
+      "cn": "本保证书自购置此产品之日起有效期为一年."
+    },
+    {
+      "en": "We have a one year warranty.",
+      "cn": "我们有一年的保修期."
+    },
+    {
+      "en": "What warranty have you for doing this?",
+      "cn": "你这样做有什麽根据?"
+    },
+    {
+      "en": "Yes, I have a one - year warranty.",
+      "cn": "是的, 我有一年的保修单."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "warranted",
+          "tran_cn": " 保证的；担保的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "warrant",
+          "tran_cn": " 根据；证明；正当理由；委任状"
+        },
+        {
+          "word": "warrantee",
+          "tran_cn": " 被保证人；被担保人"
+        },
+        {
+          "word": "warranter",
+          "tran_cn": " 担保人"
+        },
+        {
+          "word": "warrantor",
+          "tran_cn": " 保证人；担保人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "warranted",
+          "tran_cn": " 批准（warrant的过去分词）；授权"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "warrant",
+          "tran_cn": " 保证；担保；批准；辩解"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "assurance",
+            "guarantee",
+            "certification",
+            "commitment",
+            "security"
+          ],
+          "tran_cn": "[贸易]保证；[法]担保；授权；（正当）理由"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "engagement",
+            "insurance",
+            "security"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "breach of warranty",
+      "tran_cn": "违反保证；违背诺言"
+    },
+    {
+      "phrase": "extended warranty",
+      "tran_cn": "保修保险，延长保修；延长的保证期"
+    },
+    {
+      "phrase": "implied warranty",
+      "tran_cn": "[经]默认保证；[经]默示担保"
+    },
+    {
+      "phrase": "limited warranty",
+      "tran_cn": "有限质量保证；有限保固"
+    },
+    {
+      "phrase": "product warranty",
+      "tran_cn": "产品保证"
+    },
+    {
+      "phrase": "under warranty",
+      "tran_cn": "在保修期内"
+    },
+    {
+      "phrase": "warranty card",
+      "tran_cn": "保修卡；保证卡；联保单"
+    },
+    {
+      "phrase": "warranty claim",
+      "tran_cn": "担保请求权"
+    },
+    {
+      "phrase": "warranty period",
+      "tran_cn": "保修期；保证期间"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "保修单",
+      "tran_en": "a written agreement in which a company selling something promises to repair it if it breaks within a particular period of time"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "warranties"
+    ]
+  }
+}

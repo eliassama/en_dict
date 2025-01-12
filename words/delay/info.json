@@ -1,0 +1,300 @@
+{
+  "word": "delay",
+  "ipa": {
+    "us": "dɪˈleɪ",
+    "uk": "dɪˈleɪ"
+  },
+  "sentences": [
+    {
+      "en": "A host of problems may delay the opening of the Channel Tunnel.",
+      "cn": "可能推迟英吉利海峡隧道开通的问题一大筐。"
+    },
+    {
+      "en": "Bertha was exasperated at the delay.",
+      "cn": "延误让伯莎十分恼怒。"
+    },
+    {
+      "en": "Can you delay him in some way?",
+      "cn": "你能想办法拖住他一会儿吗？"
+    },
+    {
+      "en": "Don’t delay – send off for the information now.",
+      "cn": "别犹豫——即刻去函索取信息。"
+    },
+    {
+      "en": "He delayed his decision on whether to call an election.",
+      "cn": "在是否宣布举行选举一事上，他推迟作出决定。"
+    },
+    {
+      "en": "He hates delay and procrastination in all its forms.",
+      "cn": "他讨厌任何形式的拖延和耽搁。"
+    },
+    {
+      "en": "I couldn't judge whether the delay was good or bad.",
+      "cn": "我不能断定这样延迟是好还是坏."
+    },
+    {
+      "en": "Logistical problems may be causing the delay.",
+      "cn": "可能是物流问题造成了延误。"
+    },
+    {
+      "en": "My delay in going abroad is due to my illness.",
+      "cn": "我推迟出国是因为我生病了."
+    },
+    {
+      "en": "Sorry for the delay, Mr Weaver.",
+      "cn": "韦弗先生，很抱歉耽搁了一些时间。"
+    },
+    {
+      "en": "The announcer apologised for the delay.",
+      "cn": "播报员就晚点表示歉意。"
+    },
+    {
+      "en": "The blizzard forced them to delay their summit bid.",
+      "cn": "暴风雪迫使他们推迟登顶."
+    },
+    {
+      "en": "The delay is partly explicable by the road works.",
+      "cn": "延误的部份原因是道路施工."
+    },
+    {
+      "en": "The flight was badly delayed because of fog.",
+      "cn": "该航班因雾而长时间延误。"
+    },
+    {
+      "en": "The laws led to confusion, muddle and years of delay.",
+      "cn": "这些法律导致了困惑、混乱和数年的耽搁。"
+    },
+    {
+      "en": "The time delay would be smaller by eight orders of magnitude.",
+      "cn": "如果按8个数量级来看，延时量会显得小一些。"
+    },
+    {
+      "en": "There can be no excuse for any further delay .",
+      "cn": "没有理由继续拖延。"
+    },
+    {
+      "en": "They claimed that such a delay wouldn't hurt anyone.",
+      "cn": "他们声称这样的延期对谁都不会造成损害。"
+    },
+    {
+      "en": "Trevor Steven entreated them to delay their departure.",
+      "cn": "特雷弗·史蒂文恳求他们晚点走。"
+    },
+    {
+      "en": "We'll send you a quote without delay.",
+      "cn": "我们会立刻送一份报价给你。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "delayed",
+          "tran_cn": " 延时的；定时的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "delayer",
+          "tran_cn": " 缓燃剂，延缓剂；延迟器"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "delayed",
+          "tran_cn": " 延迟（delay的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "raincheck",
+            "postponement"
+          ],
+          "tran_cn": "延期；耽搁；被耽搁或推迟的时间"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "block",
+            "dally",
+            "detain",
+            "dillydally",
+            "drag",
+            "hold",
+            "impede",
+            "linger",
+            "loiter",
+            "obstruct",
+            "off",
+            "postpone",
+            "put",
+            "restrain",
+            "retard",
+            "shelf",
+            "stay",
+            "suspend",
+            "table",
+            "up",
+            "wait"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "wait",
+            "hold over"
+          ],
+          "tran_cn": "延期；耽搁"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "detain",
+            "hold",
+            "off",
+            "postpone",
+            "put",
+            "up"
+          ],
+          "tran_cn": "使延期;耽搁"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "admit of no delay",
+      "tran_cn": "刻不容缓，毫不迟延地，立刻"
+    },
+    {
+      "phrase": "delay circuit",
+      "tran_cn": "延迟电路"
+    },
+    {
+      "phrase": "delay in payment",
+      "tran_cn": "延期支付"
+    },
+    {
+      "phrase": "delay line",
+      "tran_cn": "延迟线"
+    },
+    {
+      "phrase": "delay payment",
+      "tran_cn": "延付；延期付款；延期支付"
+    },
+    {
+      "phrase": "delay period",
+      "tran_cn": "燃烧滞后期，延迟周期"
+    },
+    {
+      "phrase": "delay senility",
+      "tran_cn": "延缓衰老"
+    },
+    {
+      "phrase": "delay spread",
+      "tran_cn": "延迟扩展"
+    },
+    {
+      "phrase": "delay time",
+      "tran_cn": "延迟时间，推迟时间"
+    },
+    {
+      "phrase": "group delay",
+      "tran_cn": "群延迟"
+    },
+    {
+      "phrase": "long delay",
+      "tran_cn": "长时延迟；长时间的推迟"
+    },
+    {
+      "phrase": "packet delay",
+      "tran_cn": "包延迟；封包延迟；分组延迟"
+    },
+    {
+      "phrase": "phase delay",
+      "tran_cn": "[电]相位延迟"
+    },
+    {
+      "phrase": "propagation delay",
+      "tran_cn": "传播延迟"
+    },
+    {
+      "phrase": "short delay",
+      "tran_cn": "n. 短暂停留；瞬间延发"
+    },
+    {
+      "phrase": "time delay",
+      "tran_cn": "延时，延迟"
+    },
+    {
+      "phrase": "transmission delay",
+      "tran_cn": "[计]传输延迟"
+    },
+    {
+      "phrase": "undue delay",
+      "tran_cn": "不当延误；不应有的延误"
+    },
+    {
+      "phrase": "without delay",
+      "tran_cn": "立即；毫不迟延地"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "延期，耽误",
+      "tran_en": "when someone or something has to wait, or the length of the waiting time"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": " 推迟； 耽误",
+      "tran_en": "when someone or something has to wait, or the length of the waiting time"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "推迟，耽误，磨蹭，使迟到",
+      "tran_en": "to wait until a later time to do something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "delays"
+    ],
+    "past": [
+      "delayed"
+    ],
+    "done": [
+      "delayed"
+    ],
+    "ing": [
+      "delaying"
+    ]
+  }
+}

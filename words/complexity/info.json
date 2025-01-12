@@ -1,0 +1,166 @@
+{
+  "word": "complexity",
+  "ipa": {
+    "us": "kəmˈpleksəti",
+    "uk": "kəmˈpleksəti"
+  },
+  "sentences": [
+    {
+      "en": "a design of great complexity",
+      "cn": "一项非常复杂的设计"
+    },
+    {
+      "en": "a problem of mind-boggling complexity",
+      "cn": "复杂得难以想象的问题"
+    },
+    {
+      "en": "an organization of byzantine complexity",
+      "cn": "拜占庭式复杂诡秘死板的机构"
+    },
+    {
+      "en": "Complexity is related to surface irregularities, surface texture, fuzziness, and weave.",
+      "cn": "至于复杂性与表面的不规则性, 表面结构, 毛羽程度和织造加工有关."
+    },
+    {
+      "en": "Electronic engine control system can range in complexity.",
+      "cn": "发动机电子在控制系统可按其复杂程度分类."
+    },
+    {
+      "en": "He was buffaloed by the complexity of the problem.",
+      "cn": "他被问题的复杂性弄得昏头昏脑."
+    },
+    {
+      "en": "International law is a minefield for anyone not familiar with its complexity.",
+      "cn": "国际法这一领域,不熟悉其复杂性则寸步难行."
+    },
+    {
+      "en": "It is difficult to convey the sheer complexity of the situation.",
+      "cn": "很难说清楚形势究竟有多复杂."
+    },
+    {
+      "en": "Only now did he understand the full complexity of the problem.",
+      "cn": "直到现在他才明白这一问题的全部复杂性."
+    },
+    {
+      "en": "The complexity of the road map puzzled me.",
+      "cn": "错综复杂的公路图把我搞糊涂了."
+    },
+    {
+      "en": "the increasing complexity of modern telecommunication systems",
+      "cn": "日益复杂的现代电信系统"
+    },
+    {
+      "en": "The rate of reannealing is inversely proportion to sequence complexity.",
+      "cn": "再退火速度是和顺序复杂性成反比例."
+    },
+    {
+      "en": "The situation presents great complexity.",
+      "cn": "形势显得极为复杂."
+    },
+    {
+      "en": "This argument, being purely logical, applies to scientific predictors of any complexity.",
+      "cn": "这个纯逻辑的论点适用于各种各样的科学预测者."
+    },
+    {
+      "en": "Within that field we have to face a somewhat bewildering complexity.",
+      "cn": "在这一领域内,我们必须面对一种颇令人困惑的复杂情况."
+    },
+    {
+      "en": "Worsted systems show more complexity and variety than cotton systems.",
+      "cn": "精梳毛纺系统看来比棉纺系统更复杂化,更多样化."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "complex",
+          "tran_cn": " 复杂的；合成的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "complex",
+          "tran_cn": " 复合体；综合设施"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "complicacy",
+            "convolution",
+            "intricacy",
+            "involution",
+            "sinuosity"
+          ],
+          "tran_cn": "复杂性,复合状态"
+        },
+        {
+          "words": [
+            "Gordian",
+            "complication",
+            "entanglement",
+            "imbroglio",
+            "involvement",
+            "jungle",
+            "knot",
+            "labyrinth",
+            "maze",
+            "perplexity"
+          ],
+          "tran_cn": "复杂的事物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "complicity"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "complexity analysis",
+      "tran_cn": "复杂度分析；成分分析"
+    },
+    {
+      "phrase": "complexity theory",
+      "tran_cn": "复杂理论"
+    },
+    {
+      "phrase": "computational complexity",
+      "tran_cn": "计算复杂性"
+    },
+    {
+      "phrase": "time complexity",
+      "tran_cn": "时间复杂度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "复杂性",
+      "tran_en": "the state of being complicated"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "complexities"
+    ]
+  }
+}

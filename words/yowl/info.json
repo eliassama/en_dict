@@ -1,0 +1,103 @@
+{
+  "word": "yowl",
+  "ipa": {
+    "us": "jaʊl",
+    "uk": "jaʊl"
+  },
+  "sentences": [
+    {
+      "en": "A tomcat was yowling out on the lawn.",
+      "cn": "一只公猫在外面草坪上哀叫。"
+    },
+    {
+      "en": "Cats yowl. My dog's hair bristles in response.",
+      "cn": "这些猫的哀叫引得我的狗毛发竖立。"
+    },
+    {
+      "en": "Suddenly, the cat lets out a heart - rending yowl.",
+      "cn": "突然, 那猫发出一声撕心的嚎叫."
+    },
+    {
+      "en": "The cat set up a frightful yowl when the dog appear.",
+      "cn": "猫看到那条狗就都大声叫起."
+    },
+    {
+      "en": "The dog began to yowl.",
+      "cn": "那只狗开始哀嚎。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cry",
+            "howl",
+            "scream",
+            "shriek",
+            "wail",
+            "whoop",
+            "yell"
+          ],
+          "tran_cn": "号叫;叫"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cry",
+            "howl",
+            "scream",
+            "shriek",
+            "wail",
+            "whoop",
+            "yell"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "be down on"
+          ],
+          "tran_cn": "号叫；斥责"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 嚎叫， 恸哭",
+      "tran_en": "if an animal or a person yowls, they make a long loud cry, especially because they are unhappy or in pain"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "号叫，吼，恸哭"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "yowls"
+    ],
+    "past": [
+      "yowled"
+    ],
+    "done": [
+      "yowled"
+    ],
+    "ing": [
+      "yowling"
+    ]
+  }
+}

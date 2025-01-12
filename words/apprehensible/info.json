@@ -1,0 +1,85 @@
+{
+  "word": "apprehensible",
+  "ipa": {
+    "us": "ˌæprɪ'hensəbl",
+    "uk": "ˌæprɪ'hensəbəl"
+  },
+  "sentences": [
+    {
+      "en": "Car, although the black bear still mean not apprehensible, the rabbit still kept getting hold of a motorcycle.",
+      "cn": "车，虽然狗熊仍然表示不可理解，但是兔子还是拿到了摩托车。"
+    },
+    {
+      "en": "Data mining is to extract some people interested, potential and useful knowledge from the data, and to present them in some apprehensible forms.",
+      "cn": "数据挖掘是从数据中提取人们感喜好的、潜伏的、可用的知识，并表示成用户可理解的形式。"
+    },
+    {
+      "en": "Then, it becomes apprehensible that Huang Gang's artworks include the artist's historic memory and personal emotion in deeper level more than a simple social image.",
+      "cn": "那么，也就容易理解，黄钢作品并不简单地是一种社会图像，它在更深的层面上包含了艺术家的历史回忆和个人情感。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "apprehension",
+          "tran_cn": " 理解；恐惧；逮捕；忧惧"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "apprehend",
+          "tran_cn": " 理解；担心"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "apprehend",
+          "tran_cn": " 理解；逮捕；忧虑"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "accessible",
+            "comprehensible"
+          ],
+          "tran_cn": "可理解的，可了解的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comprehensible",
+            "discernible"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可理解的，可了解的",
+      "tran_en": "capable of being comprehended or grasped mentally "
+    }
+  ],
+  "exchange": {}
+}

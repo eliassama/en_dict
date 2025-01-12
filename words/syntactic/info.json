@@ -1,0 +1,116 @@
+{
+  "word": "syntactic",
+  "ipa": {
+    "us": "sɪnˈtæktɪk",
+    "uk": "sɪnˈtæktɪk"
+  },
+  "sentences": [
+    {
+      "en": "Coordination is a common syntactic phenomenon in many languages.",
+      "cn": "并列结构是语言中一种常见的句法现象."
+    },
+    {
+      "en": "For convenience, Annex A repeats all such syntactic specifications.",
+      "cn": "为方便起见, 附录A重复了所有这些语法规范."
+    },
+    {
+      "en": "Garden path sentences are caused either by lexical ambiguity or syntactic ambiguity.",
+      "cn": "花园小径句式的产生或是词汇歧义所致,或是由句法歧义带来."
+    },
+    {
+      "en": "Generative Semantics was developed as a reaction to Chomsky's syntactic - based TG Grammar.",
+      "cn": "生成语义学的形成是对乔姆斯基以句法为基础的转换生成语法的反驳."
+    },
+    {
+      "en": "Parsing is a process to get the syntactic structure of a sentence.",
+      "cn": "句法分析是得到句子的句法结构的过程."
+    },
+    {
+      "en": "Search syntactic photograph to other computer language, learn easily quite simply.",
+      "cn": "搜索语法相对于其他计算机语言来说, 是相当简单易学的."
+    },
+    {
+      "en": "Semantic relations are much more important than syntactic markers or connectors.",
+      "cn": "语义关系的重要性远远胜过句法标记和连接成分."
+    },
+    {
+      "en": "Semantic relevancy computation is used to solve structural disambiguity in parsing syntactic.",
+      "cn": "为解决句法分析中的结构性歧义,引入了语义相关度计算."
+    },
+    {
+      "en": "Shallow syntactic parsing refers to phrase - level syntactic parsing of natural languages.",
+      "cn": "浅层句法分析是指短语级的自然语言句法分析."
+    },
+    {
+      "en": "syntactic structure",
+      "cn": "句法结构"
+    },
+    {
+      "en": "Syntactic stuctures mainly include NP + Aux . V + VP , NP + Neg + Aux. V + VP and NP + Aux.",
+      "cn": "助动词的句法结构主要有NP+助动词+VP 、 NP+Neg+助动词+VP、NP+助动词等几种,每一格式的内部有一些变化."
+    },
+    {
+      "en": "That description includes detailed syntactic specifications in a form described in 1.6.",
+      "cn": "包括以1.6节描述的形式所详细描述的语法规范."
+    },
+    {
+      "en": "They provide different strategies under the same syntactic interface.",
+      "cn": "他们在同样的句法接口的基础上提供不同的策略."
+    },
+    {
+      "en": "This paper discusses the syntactic characteristics of Type - Logical Grammar , the Lambek calculus.",
+      "cn": "论述类型 — 逻辑语法的句法特色———兰贝克演算."
+    },
+    {
+      "en": "This syntactic pattern established itself very rapidly in Britain in the early nineteen - fifties.",
+      "cn": "这一句型在五十年代早期便很快地在英国固定下来."
+    },
+    {
+      "en": "We implemented the model using EST ( Extended Syntactic Tree ).",
+      "cn": "模型的实现使用扩展语法树."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "syntactically",
+          "tran_cn": " 依照句法地；在语句构成上"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "syntax",
+          "tran_cn": " 语法；句法；有秩序的排列"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "syntactic analysis",
+      "tran_cn": "语法分析"
+    },
+    {
+      "phrase": "syntactic construction",
+      "tran_cn": "句法结构"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "句法的",
+      "tran_en": "relating to syntax"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "syntactically"
+    ]
+  }
+}

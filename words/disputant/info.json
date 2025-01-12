@@ -1,0 +1,122 @@
+{
+  "word": "disputant",
+  "ipa": {
+    "us": "'dɪspjʊtənt",
+    "uk": "'dɪspjʊtənt"
+  },
+  "sentences": [
+    {
+      "en": "A mediator should not guarantee results, especially if such guarantee could be perceived as favoring one type of disputant or industry over another.",
+      "cn": "特别是如果这样保证可能被察觉象倾向争论者或产业的一种类型在别的的斡旋人不应该保证结果。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disputable",
+          "tran_cn": " 有讨论余地的；真假可疑的"
+        },
+        {
+          "word": "disputative",
+          "tran_cn": " 好争论的；爱争辩的；有关争论的"
+        },
+        {
+          "word": "disputed",
+          "tran_cn": " 有争议的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disputation",
+          "tran_cn": " 争论；辩论；驳斥"
+        },
+        {
+          "word": "dispute",
+          "tran_cn": " 辩论；争吵"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "disputed",
+          "tran_cn": " 争论；激烈争辩（dispute的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "dispute",
+          "tran_cn": " 争论"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "dispute",
+          "tran_cn": " 辩论；怀疑；阻止；抗拒"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "gladiatorial",
+            "contestable"
+          ],
+          "tran_cn": "争论的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "controversialist",
+            "wrangler"
+          ],
+          "tran_cn": "争论者，辩论者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "antagonist"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "争论的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "辩论者，争议人，争论者",
+      "tran_en": "a person who argues; contestant "
+    }
+  ],
+  "exchange": {}
+}

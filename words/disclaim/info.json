@@ -1,0 +1,127 @@
+{
+  "word": "disclaim",
+  "ipa": {
+    "us": "dɪsˈkleɪm",
+    "uk": "dɪsˈkleɪm"
+  },
+  "sentences": [
+    {
+      "en": "He disclaim the ownership of the dog.",
+      "cn": "他否认这只狗是他的."
+    },
+    {
+      "en": "Lawspirit, its affiliates, subsidiaries and the Licensors expressly disclaim all warranties not stated in this EULA.",
+      "cn": "其联属公司 、 子公司及许可人明确放弃本EULA中未载明的所有保证."
+    },
+    {
+      "en": "Scientists quickly disclaim the possibility.",
+      "cn": "科学家们立刻否认了这种可能性."
+    },
+    {
+      "en": "She disclaims any knowledge of her husband's business.",
+      "cn": "她声称自己对她丈夫的生意一无所知。"
+    },
+    {
+      "en": "The manufacturers disclaim all responsibility for damage caused by mistake.",
+      "cn": "制造商不承认对使用不当而造成的损坏负任何责任."
+    },
+    {
+      "en": "The manufacturers disclaim all responsibility for damage caused by misuse.",
+      "cn": "使用不当而造成的损坏,生产厂家不负任何责任."
+    },
+    {
+      "en": "The manufacturers disclaim all responsibility for the damage caused by misuse.",
+      "cn": "因使用不当造成的损坏,生产厂家不负任何责任."
+    },
+    {
+      "en": "The trustee may intervene and disclaim the contract.",
+      "cn": "管理人有可能出面干涉,并拒绝承认所签订的合同."
+    },
+    {
+      "en": "You must be able to disclaim all of your worldly possessions without becoming disconsolate.",
+      "cn": "你必须做到放弃你财产而无半点悲伤."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disclaimer",
+          "tran_cn": " 不承诺，免责声明；放弃，拒绝"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deny",
+            "rebuff",
+            "refuse",
+            "reject",
+            "renounce",
+            "repudiate",
+            "withhold"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "deny",
+            "fall out of"
+          ],
+          "tran_cn": "否认；放弃；弃权"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "deny",
+            "refuse",
+            "reject",
+            "withhold"
+          ],
+          "tran_cn": "拒绝;否认"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "放弃, 弃权, 拒绝",
+      "tran_en": "to state, especially officially, that you are not responsible for something, that you do not know about it, or that you are not involved with it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "否认"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disclaims"
+    ],
+    "past": [
+      "disclaimed"
+    ],
+    "done": [
+      "disclaimed"
+    ],
+    "ing": [
+      "disclaiming"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "word": "flatcar",
+  "ipa": {
+    "us": "ˈflætkɑ:(r)",
+    "uk": "ˈflætˌkɑr"
+  },
+  "sentences": [
+    {
+      "en": "For this, should develop all sorts of container flatcar and through traffic car.",
+      "cn": "为此, 应发展各种集装箱平车和联运车辆."
+    },
+    {
+      "en": "He curls up in a flatcar and watches the sky.",
+      "cn": "他在一节平板车上蜷作一团、望着夜空."
+    },
+    {
+      "en": "Nowadays, the coal transportation of the railway generally used the flatcar in China.",
+      "cn": "我国现阶段, 煤在铁路运输中一般都采用敞车运输."
+    },
+    {
+      "en": "One more detail: one of the railroad branch lines ran not far from the hospital. There was a heavy gun on a specially equipped open flatcar connected to a locomotive.",
+      "cn": "有一个细节：离医院不远的一条铁路支线上有一列列车，上边有一节开放式的货车连着机车，货车上安放有一门重炮。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "flatbed",
+          "tran_cn": " 平台的，平板的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "flatbed",
+          "tran_cn": " 有平台可装货的卡车"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "gondola car"
+          ],
+          "tran_cn": "无盖货车；平台型铁路货车"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（铁路上的）平板货车，平车，平板车",
+      "tran_en": "a railway carriage without a roof or sides, used for carrying goods"
+    }
+  ],
+  "exchange": {}
+}

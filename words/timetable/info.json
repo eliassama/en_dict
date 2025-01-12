@@ -1,0 +1,183 @@
+{
+  "word": "timetable",
+  "ipa": {
+    "us": "ˈtaɪmteɪbl",
+    "uk": "ˈtaɪmteɪbl"
+  },
+  "sentences": [
+    {
+      "en": "a railway/train/bus timetable",
+      "cn": "火车/公共汽车时刻表"
+    },
+    {
+      "en": "Fog upset the train timetable.",
+      "cn": "这场大雾搅乱了火车的班次."
+    },
+    {
+      "en": "Following general observations on timetable and relative emphasis may assist without fettering you freedom of action.",
+      "cn": "以下关于进度和相关侧重点的总的设想可能对你有所帮助,而不致妨碍你的行动自由."
+    },
+    {
+      "en": "For a local bus timetable, contact Dyfed County Council.",
+      "cn": "若要当地公共汽车时刻表，请与达费德郡政务委员会联系。"
+    },
+    {
+      "en": "Look up the trains to Beijing in the timetable.",
+      "cn": "查火车时刻表上到北京的列车."
+    },
+    {
+      "en": "Planes fly daily over regular routes with timetable precisely.",
+      "cn": "飞机每天精确地按时刻表飞行在各条航线上."
+    },
+    {
+      "en": "Planes fly daily over regular routes with timetable precision.",
+      "cn": "飞机每天精确地按时刻表飞行在各条航线上。"
+    },
+    {
+      "en": "She handed me the timetable.",
+      "cn": "她把时刻表递给了我."
+    },
+    {
+      "en": "The change in the weather has mucked up our sports timetable.",
+      "cn": "天气的变化打乱了我们运动比赛的日程."
+    },
+    {
+      "en": "The heavy fog upset our timetable for the trip.",
+      "cn": "大雾打乱了我们的旅行日程."
+    },
+    {
+      "en": "The timetable is subject to alteration.",
+      "cn": "时刻表有可能更改."
+    },
+    {
+      "en": "The timetable is subject to change without notice.",
+      "cn": "本时刻表随时可能改变,不另行通知."
+    },
+    {
+      "en": "The timetable was hopelessly optimistic.",
+      "cn": "这个时间表过于乐观。"
+    },
+    {
+      "en": "There are ten English classes listed in the timetable.",
+      "cn": "课表上列有10节英语课."
+    },
+    {
+      "en": "We missed the train because we used an out of date timetable.",
+      "cn": "我们没赶上火车,因为我们误用了一张过期的火车时刻表."
+    },
+    {
+      "en": "When does the new timetable come into effect?",
+      "cn": "新的时刻表什么时候实行?"
+    },
+    {
+      "en": "You can find the times of your trains in this timetable.",
+      "cn": "你可在这一时刻表上找到你的火车时刻."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "timeless",
+          "tran_cn": " 永恒的；不受时间影响的；不合时宜的"
+        },
+        {
+          "word": "timesaving",
+          "tran_cn": " 节省时间的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "timekeeping",
+          "tran_cn": " 计时；时间记录"
+        },
+        {
+          "word": "timelessness",
+          "tran_cn": " 永恒，不朽；不受时间影响"
+        },
+        {
+          "word": "timeline",
+          "tran_cn": " 时间轴，时间线；大事年表"
+        },
+        {
+          "word": "timeliness",
+          "tran_cn": " 及时；时间性；好时机"
+        },
+        {
+          "word": "timing",
+          "tran_cn": " 定时；调速；时间选择"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "timing",
+          "tran_cn": " 为…安排时间；测定…的时间（time的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "list",
+            "program",
+            "schedule"
+          ],
+          "tran_cn": "时刻表;时间表"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agenda"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "school timetable",
+      "tran_cn": "课程表；学校作息时间表"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "交通工具的运行时间表，时刻表，计划，课程表，进度",
+      "tran_en": "a list of the times at which buses, trains, planes etc arrive and leave"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "为…安排时间"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "timetables"
+    ],
+    "third": [
+      "timetables"
+    ],
+    "past": [
+      "timetabled"
+    ],
+    "ing": [
+      "timetabling"
+    ]
+  }
+}

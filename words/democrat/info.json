@@ -1,0 +1,107 @@
+{
+  "word": "democrat",
+  "ipa": {
+    "us": "ˈdeməkræt",
+    "uk": "ˈdeməkræt"
+  },
+  "sentences": [
+    {
+      "en": "A Houston Chronicle poll showed him losing to the Democrat in the upcoming election.",
+      "cn": "《休斯顿纪事报》的一项民意调查显示,在即将到来的选举中他输给了民主党人."
+    },
+    {
+      "en": "But senior Democrat Carl Levin wants the Armed Services Committee of which he is also investigate.",
+      "cn": "一名议员的质疑引发了这次争论,那就是(伊拉克)存在的武器被夸大了."
+    },
+    {
+      "en": "Murray has joined other Senate Democrats in blocking the legislation.",
+      "cn": "默里已经加入其他民主党参议员反对这项立法了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "democratic",
+          "tran_cn": " 民主的；民主政治的；大众的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "democratically",
+          "tran_cn": " 民主地；民主主义地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "demo",
+          "tran_cn": " 演示；样本唱片；示威；民主党员"
+        },
+        {
+          "word": "democracy",
+          "tran_cn": " 民主，民主主义；民主政治"
+        },
+        {
+          "word": "democratization",
+          "tran_cn": " 民主化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "democratise",
+          "tran_cn": " 民主化（等于democratize）"
+        },
+        {
+          "word": "democratize",
+          "tran_cn": " 民主化；大众化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "democratise",
+          "tran_cn": " 使大众化（等于democratize）"
+        },
+        {
+          "word": "democratize",
+          "tran_cn": " 使民主化；使大众化"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "liberal democrat",
+      "tran_cn": "自由民主党（成员）；自民党人"
+    },
+    {
+      "phrase": "social democrat",
+      "tran_cn": "社会民主党党员；社会民主主义者"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "民主党党员，民主主义者",
+      "tran_en": "someone who believes in democracy, or works to achieve it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "democrats"
+    ]
+  }
+}

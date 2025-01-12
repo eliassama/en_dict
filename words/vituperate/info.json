@@ -1,0 +1,84 @@
+{
+  "word": "vituperate",
+  "ipa": {
+    "us": "vɪ'tju:pəreɪt",
+    "uk": "vaɪˈtupəˌret, -ˈtju-, vɪ-"
+  },
+  "sentences": [
+    {
+      "en": "Human is not God. God is reasoning, human isn't, human would rather vituperate than reasoning.",
+      "cn": "人不是上帝, 上帝是讲道理的, 人是不讲道理的, 人更中意攻击和谩骂."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vituperative",
+          "tran_cn": " 责骂的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vituperation",
+          "tran_cn": " 谩骂；辱骂；坏话"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "impute"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "rate",
+            "hop on"
+          ],
+          "tran_cn": "谩骂；责骂"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "谩骂, 责骂",
+      "tran_en": "to berate or rail (against) abusively; revile "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "谩骂，辱骂"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "vituperates"
+    ],
+    "past": [
+      "vituperated"
+    ],
+    "done": [
+      "vituperated"
+    ],
+    "ing": [
+      "vituperating"
+    ]
+  }
+}

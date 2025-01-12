@@ -1,0 +1,50 @@
+{
+  "word": "scatterbrain",
+  "ipa": {
+    "us": "ˈskætəbreɪn",
+    "uk": "ˈskætərbreɪn"
+  },
+  "sentences": [
+    {
+      "en": "Aunt Mary is such a scatterbrain that she always forgets something.",
+      "cn": "玛丽阿姨糊里糊涂的,她总是忘东忘西."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "scatterbrained",
+          "tran_cn": " 注意力不集中的；浮躁的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "fool"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "注意力不集中的人",
+      "tran_en": "a person who is incapable of serious thought or concentration "
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "scatterbrained"
+    ]
+  }
+}

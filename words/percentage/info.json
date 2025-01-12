@@ -1,0 +1,205 @@
+{
+  "word": "percentage",
+  "ipa": {
+    "us": "pəˈsentɪdʒ",
+    "uk": "pərˈsentɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "A large percentage of school - books now have pictures.",
+      "cn": "现在大部分教科书有插图."
+    },
+    {
+      "en": "A large percentage of the population is illiterate.",
+      "cn": "文盲人口占有相当高的比例。"
+    },
+    {
+      "en": "A large percentage of these forces had been flattened by the assault.",
+      "cn": "这些部队大部分都已经在这次进攻中被击溃。"
+    },
+    {
+      "en": "Fees are charged at a flat rate, rather than on a percentage basis.",
+      "cn": "费用按固定价格收取，而不是基于百分比收取。"
+    },
+    {
+      "en": "He has a clause in his contract which entitles him to a percentage of the profits.",
+      "cn": "他的合同中有一项条款，使他有权分得一定比例的利润。"
+    },
+    {
+      "en": "Interest rates fell by six percentage points (= 6% ) .",
+      "cn": "利息下降了6个百分点。"
+    },
+    {
+      "en": "It is expressed as a percentage.",
+      "cn": "它是以百分比的形式表示的。"
+    },
+    {
+      "en": "Only a few vegetable-origin foods have such a high percentage of protein.",
+      "cn": "只有几种蔬菜食品有如此高的蛋白质含量。"
+    },
+    {
+      "en": "Red is associated with a higher percentage of winning.",
+      "cn": "“红色与较高的获胜机率有关联. ”"
+    },
+    {
+      "en": "Taken as a percentage of the whole, the mouth has to be a fairly minor body part.",
+      "cn": "和全身比起来，嘴可算是身体中较小的一部分。"
+    },
+    {
+      "en": "Television attracts a large percentage of the people.",
+      "cn": "电视吸引了大部分观众."
+    },
+    {
+      "en": "The numbers are small in percentage terms (= when calculated as a percentage ) .",
+      "cn": "按百分比来看，这些数字很小。"
+    },
+    {
+      "en": "The percentage increase in reported crime in England and Wales this year is the highest since the war.",
+      "cn": "今年英格兰和威尔士报道的犯罪增长率是战后以来最高的。"
+    },
+    {
+      "en": "What is the percentage of nitrogen in air?",
+      "cn": "空气中所含的氮的比例是多少?"
+    },
+    {
+      "en": "What percentage of the students were absent?",
+      "cn": "旷课的学生占百分之几?"
+    },
+    {
+      "en": "While Joe sleeps, a large percentage of his capillaries are inactive.",
+      "cn": "当乔睡觉时, 他的毛细血管大部分是不工作的."
+    },
+    {
+      "en": "Whisky contains a large percentage of alcohol.",
+      "cn": "威士忌含有酒精的百分比很高."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "percent",
+          "tran_cn": " 百分之…的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "percent",
+          "tran_cn": " 以百分之…地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "percent",
+          "tran_cn": " 百分比，百分率；部分；百分数"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "part",
+            "proportion",
+            "quota",
+            "rate",
+            "ratio"
+          ],
+          "tran_cn": "比例;比率"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contingent",
+            "part",
+            "proportion",
+            "quota",
+            "rate",
+            "ratio"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "elongation percentage",
+      "tran_cn": "延伸率；伸长率"
+    },
+    {
+      "phrase": "field goal percentage",
+      "tran_cn": "投篮命中率；投球命中率"
+    },
+    {
+      "phrase": "germination percentage",
+      "tran_cn": "发芽率"
+    },
+    {
+      "phrase": "irrespective of percentage",
+      "tran_cn": "不论损失如何全部赔偿"
+    },
+    {
+      "phrase": "percentage change",
+      "tran_cn": "百分比变动"
+    },
+    {
+      "phrase": "percentage elongation",
+      "tran_cn": "伸长率；延伸率"
+    },
+    {
+      "phrase": "percentage error",
+      "tran_cn": "百分误差；误差百分率"
+    },
+    {
+      "phrase": "percentage increase",
+      "tran_cn": "增长百分率；增长的百分数"
+    },
+    {
+      "phrase": "percentage point",
+      "tran_cn": "百分点"
+    },
+    {
+      "phrase": "play the percentages (或 the percentage game)",
+      "tran_cn": "(非正式)按部就班稳扎稳打地干"
+    },
+    {
+      "phrase": "setting percentage",
+      "tran_cn": "结实率"
+    },
+    {
+      "phrase": "volume percentage",
+      "tran_cn": "体积百分率"
+    },
+    {
+      "phrase": "weight percentage",
+      "tran_cn": "重量百分率"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "百分比，提成",
+      "tran_en": "an amount expressed as if it is part of a total which is 100"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "percentages"
+    ]
+  }
+}

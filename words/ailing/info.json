@@ -1,0 +1,221 @@
+{
+  "word": "ailing",
+  "ipa": {
+    "us": "ˈeɪlɪŋ",
+    "uk": " ˈeɪlɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "And that's not ailing, not by a long shot.",
+      "cn": "还不止这些, 远远不止这些."
+    },
+    {
+      "en": "He desperately needed cash to bail out the ailing restaurant.",
+      "cn": "他急需现金使经营惨淡的餐馆走出困境。"
+    },
+    {
+      "en": "He is said to be ailing at his home in Washington.",
+      "cn": "据说他身体欠佳，正呆在华盛顿的家中。"
+    },
+    {
+      "en": "Huge sums of private capital will be ploughed into the ailing industries of the east.",
+      "cn": "巨额私人资本将投入东部处境困难的一些行业。"
+    },
+    {
+      "en": "I am very feeble and ailing today.",
+      "cn": "我今天身子很弱,不舒服."
+    },
+    {
+      "en": "Now, learning the worst, the ailing old man rallied.",
+      "cn": "这会儿, 得悉了恶耗, 这位害病的老人倒复原了."
+    },
+    {
+      "en": "Physicians have tried for centuries to rejuvenate ailing paints with animal organs.",
+      "cn": "医生已试验了几个世纪用动物器官为病人做器官移植."
+    },
+    {
+      "en": "She had been ailing for some time.",
+      "cn": "她长期以来身体就不太好."
+    },
+    {
+      "en": "She has been ailing for a long time.",
+      "cn": "她已病了好久了."
+    },
+    {
+      "en": "She helps take care of her ailing aunt.",
+      "cn": "她帮助照料体弱的姑妈."
+    },
+    {
+      "en": "the ailing car industry",
+      "cn": "不景气的汽车工业"
+    },
+    {
+      "en": "The ailing man alternated two hours of work with one hour of rest.",
+      "cn": "这个病人每工作两小时休息一小时."
+    },
+    {
+      "en": "The poor is ailing from inflation.",
+      "cn": "由于通货膨胀,穷人们处境艰难."
+    },
+    {
+      "en": "They discussed the problems ailing the steel industry.",
+      "cn": "他们讨论了困扰钢铁工业的问题。"
+    },
+    {
+      "en": "This deal would offer the best possible pick-me-up to the town's ailing economy.",
+      "cn": "这笔交易对该镇每况愈下的经济是一服最好的强心剂。"
+    },
+    {
+      "en": "Weak and ailing people were heartened and healed by his presence.",
+      "cn": "弱者和病人,一见了他就振作起来,并被治愈了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ail",
+          "tran_cn": " 病痛，苦恼"
+        },
+        {
+          "word": "ailment",
+          "tran_cn": " 小病；不安"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "ail",
+          "tran_cn": " 生病"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "ail",
+          "tran_cn": " 使苦恼，使烦恼"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "bedridden",
+            "confined",
+            "disordered",
+            "indisposed",
+            "invalided",
+            "laid",
+            "up"
+          ],
+          "tran_cn": "卧病的,混乱的"
+        },
+        {
+          "words": [
+            "Pathol",
+            "aching",
+            "agonizing",
+            "asthmatic",
+            "away",
+            "complaining",
+            "crippled",
+            "delicate",
+            "diseased",
+            "done",
+            "down",
+            "fading",
+            "faint",
+            "feeble",
+            "firm",
+            "for",
+            "hurt",
+            "ill",
+            "in",
+            "lame",
+            "languishing",
+            "miserable",
+            "morbid",
+            "of",
+            "out",
+            "pained",
+            "palsied",
+            "paralytic",
+            "paralyzed",
+            "pathological",
+            "phthisic",
+            "poisoned",
+            "poorly",
+            "sick",
+            "sickened",
+            "sickly",
+            "smarting",
+            "sore",
+            "sorts",
+            "suffering",
+            "tubercular",
+            "unhealthy",
+            "unsound",
+            "unwell",
+            "wasting",
+            "weak",
+            "weakly",
+            "wounded"
+          ],
+          "tran_cn": "有病的,痛苦的,不适的"
+        },
+        {
+          "words": [
+            "afflicted",
+            "annoyed",
+            "bothered",
+            "distressed",
+            "disturbed",
+            "irritated",
+            "troubled",
+            "upset",
+            "worried"
+          ],
+          "tran_cn": "烦燥的,不安的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "vexing"
+          ],
+          "tran_cn": "生病；苦恼（ail的ing形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ailing economy",
+      "tran_cn": "病态经济；失调的经济"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "生病的，不舒服的",
+      "tran_en": "ill and not likely to get better"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使受病痛，使痛苦(ail的ing形式)"
+    }
+  ],
+  "exchange": {}
+}

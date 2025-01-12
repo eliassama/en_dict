@@ -1,0 +1,139 @@
+{
+  "word": "dependant",
+  "ipa": {
+    "us": "dɪˈpendənt",
+    "uk": "dɪˈpɛndənt"
+  },
+  "sentences": [
+    {
+      "en": "A sick dog is as much a dependant as a sick child.",
+      "cn": "“狗儿生病就像孩子生病一样需要人照顾. ”"
+    },
+    {
+      "en": "ADC results are dependant on the setting of the decimal flag.",
+      "cn": "ADC的结果取决于D标志的设定."
+    },
+    {
+      "en": "Companies with 200 or more workers must offer health benefits to employees and their dependants.",
+      "cn": "员工数为200或更多的公司必须为其员工和员工的受扶养人提供健康福利。"
+    },
+    {
+      "en": "Dependant on their position in the circuit they can meter - in meter - out or bleed - off control.",
+      "cn": "依靠他们在回路中的位置,可提供量入量出和旁伸控制."
+    },
+    {
+      "en": "Dependant on their position in the circuit they can provide meter - in, meter - out or bleed - off control.",
+      "cn": "依赖它们在回路中的位置可作量入, 量出,旁伸控制."
+    },
+    {
+      "en": "I am little better than a dependant.",
+      "cn": "我比寄人篱下的仆从好不了多少."
+    },
+    {
+      "en": "In test instruments, resolution of the system is dependant on spectral purity of the monochrometer.",
+      "cn": "在测试仪器中, 单色器的光谱纯度决定系统的分辨率."
+    },
+    {
+      "en": "In the present study, we tested the dose - dependant enhancement of the anti - tumor effect induced by DCs.",
+      "cn": "在目前的研究中, 我们检测了依赖于树突状细胞所诱导的 抗肿瘤 效果的增强效应."
+    },
+    {
+      "en": "Note that this is higly dependant on playstyle and personal preference.",
+      "cn": "注意,这个评价很大程度上由玩法和个人喜好所决定."
+    },
+    {
+      "en": "The crystallization property of PPS is dependant on relative molecular weight markedly.",
+      "cn": "PPS相对分子质量对结晶性能的影响很敏感."
+    },
+    {
+      "en": "The dependent dependant cannot live independently.",
+      "cn": "依靠别人的被赡养者不能独立生活."
+    },
+    {
+      "en": "The extent of isomerization is related to chain element construction, but not dependant on molecular weight.",
+      "cn": "其异构化程度与聚酯分子链节结构有关, 与分子量大小无关."
+    },
+    {
+      "en": "The performance of your code is directly dependant on the number of instructions in your shader.",
+      "cn": "你的代码的效率直接由你的着色程序里的指令数决定."
+    },
+    {
+      "en": "They were all dependant relatives of the comprador.",
+      "cn": "他们通常是跟买办有关系的人."
+    },
+    {
+      "en": "This build order is timing dependant. Get Tier 2 as quickly as possible.",
+      "cn": "这个建造序列依赖于时机. 尽可能快的造二级单位."
+    },
+    {
+      "en": "This is all dependant on the mother and where the energies cause plate movement.",
+      "cn": "这完全取决你们的母亲地球和引起板块运动的能量的位置."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dependent",
+          "tran_cn": "依靠的；从属的；取决于…的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dependance",
+          "tran_cn": "依赖性（等于dependence）"
+        },
+        {
+          "word": "dependency",
+          "tran_cn": "属国；从属；从属物"
+        },
+        {
+          "word": "dependent",
+          "tran_cn": "依赖他人者；受赡养者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chamberlaine",
+            "parasite"
+          ],
+          "tran_cn": "家眷；侍从；食客（等于dependent）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "satellite"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "家眷，侍从，食客，受赡养者，寄人篱下的仆从",
+      "tran_en": "someone, especially a child, who depends on you for food, clothes, money etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "dependants"
+    ]
+  }
+}

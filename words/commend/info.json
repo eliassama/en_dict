@@ -1,0 +1,190 @@
+{
+  "word": "commend",
+  "ipa": {
+    "us": "kəˈmend",
+    "uk": "kəˈmend"
+  },
+  "sentences": [
+    {
+      "en": "Both readers commend Knutson for his scrupulous attention to detail.",
+      "cn": "两位读者都称赞克努森对细节一丝不苟。"
+    },
+    {
+      "en": "Colleagues, I commend this report to you.",
+      "cn": "各位同事，我向你们推荐这份报告。"
+    },
+    {
+      "en": "From this respect, pipelining has everything to commend it.",
+      "cn": "从这点来说, 管路乐于被人们采用."
+    },
+    {
+      "en": "His ideas do not commend themselves to me.",
+      "cn": "他的看法没给我留下好的印象."
+    },
+    {
+      "en": "His suggestions do not commend themselves to the committee.",
+      "cn": "他的建议不会被委员会接受."
+    },
+    {
+      "en": "I commend all those who are today graduating.",
+      "cn": "我赞扬今天的所有毕业生."
+    },
+    {
+      "en": "I commend her to your notice.",
+      "cn": "请多关照关照她."
+    },
+    {
+      "en": "I should like to commend this method to you.",
+      "cn": "我想向您推荐这一方法."
+    },
+    {
+      "en": "I'd like to commend him to my friends.",
+      "cn": "我愿意把他推荐给我的朋友们."
+    },
+    {
+      "en": "It is very kind of you to commend me to your father.",
+      "cn": "请代我向令尊致意,不胜感激."
+    },
+    {
+      "en": "She is owing to has collectivism spirit to suffer to commend.",
+      "cn": "她由于有集体主义精神而受到表彰."
+    },
+    {
+      "en": "The paper was highly commended in the UK Press Awards.",
+      "cn": "该报获得了“英国新闻奖”的高度褒奖。"
+    },
+    {
+      "en": "The Prime Minister's initiative has much to commend it.",
+      "cn": "首相的新方案有不少令人赞许之处。"
+    },
+    {
+      "en": "The reports commend her bravery.",
+      "cn": "这些报道赞扬了她的勇敢。"
+    },
+    {
+      "en": "This TV play does not seem to commend itself to me.",
+      "cn": "这部电视剧给我的印象似乎不好."
+    },
+    {
+      "en": "We should commend good people and good deeds.",
+      "cn": "我们应当表扬好人好事."
+    },
+    {
+      "en": "You can neither blame nor commend him without some twinge of conscience.",
+      "cn": "你无论是责备他或是称赞他,良心上总不免有点刺痛的意味似的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "commendable",
+          "tran_cn": "值得赞美的；很好的；可推荐的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "commendation",
+          "tran_cn": "推荐；赞扬；奖状"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "approve",
+            "assign",
+            "commit",
+            "compliment",
+            "congratulate",
+            "favor",
+            "laud",
+            "praise",
+            "propose",
+            "salute",
+            "sympathize",
+            "trust"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "speak well of",
+            "pay a tribute to"
+          ],
+          "tran_cn": "称赞；表扬"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "assign",
+            "commit",
+            "trust"
+          ],
+          "tran_cn": "把...委托"
+        },
+        {
+          "words": [
+            "approve",
+            "compliment",
+            "praise"
+          ],
+          "tran_cn": "称赞;赞赏"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "commend me to",
+      "tran_cn": "(古)代我向（某人）问候"
+    },
+    {
+      "phrase": "highly commended",
+      "tran_cn": "(英)没有得奖但值得称赞的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "赞扬，推荐，被接受",
+      "tran_en": "to praise or approve of someone or something publicly"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 称赞， 表扬； 推荐",
+      "tran_en": "to praise or approve of someone or something publicly"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "commends"
+    ],
+    "past": [
+      "commended"
+    ],
+    "done": [
+      "commended"
+    ],
+    "ing": [
+      "commending"
+    ]
+  }
+}

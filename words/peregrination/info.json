@@ -1,0 +1,88 @@
+{
+  "word": "peregrination",
+  "ipa": {
+    "us": "ˌperəgrɪˈneɪʃn",
+    "uk": "ˌpɛrɪɡrɪˈneʃən"
+  },
+  "sentences": [
+    {
+      "en": "His peregrinations took him to India.",
+      "cn": "他游历到了印度。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "peregrine",
+          "tran_cn": " 外来的，移住的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "peregrine",
+          "tran_cn": " 游隼（等于Falco peregrinus）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "peregrinate",
+          "tran_cn": " 徒步旅行"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "peregrinate",
+          "tran_cn": " 游历；漫游；旅行"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "journey",
+            "tour",
+            "travel",
+            "trip"
+          ],
+          "tran_cn": "游历；旅行；旅程"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "airing",
+            "outgoing"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<正>旅行，旅程，游历",
+      "tran_en": "a long journey"
+    }
+  ],
+  "exchange": {}
+}

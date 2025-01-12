@@ -1,0 +1,123 @@
+{
+  "word": "coerce",
+  "ipa": {
+    "us": "kəʊˈɜ:s",
+    "uk": "koʊˈɜrs"
+  },
+  "sentences": [
+    {
+      "en": "Clark had somehow been able to coerce Jenny into doing whatever he told her to do.",
+      "cn": "不知是用什么办法，克拉克总能让珍妮对他言听计从。"
+    },
+    {
+      "en": "Do you think there is any way that we can coerce them otherwise?",
+      "cn": "你认为我们有什么办法强迫他们不那样 吗 ?"
+    },
+    {
+      "en": "I will never coerce you.",
+      "cn": "我永远不会强迫你们."
+    },
+    {
+      "en": "International law possesses the attributes of norm and coerce, which are the common natures of law.",
+      "cn": "国际法具有法的一般性质―规范性和强制性."
+    },
+    {
+      "en": "Obama would deploy soft power the power attract rather than coerce.",
+      "cn": "奥巴马将运用“巧实力外交”的拉拢性力量取代强制性力量."
+    },
+    {
+      "en": "Potter had argued that the government coerced him into pleading guilty.",
+      "cn": "波特曾争辩说是政府胁迫他认罪。"
+    },
+    {
+      "en": "The real magic in MochiKit.DOM is its willingness to flexibly coerce various types of objects into the right types during method calls, including doing so recursively.",
+      "cn": "DOM 真正的魔法在于它在方法调用过程中积极而灵活地把各种对象类型强制转换成正确的类型，包括在递归过程中。"
+    },
+    {
+      "en": "To coerce or inhibit by or as if by threats.",
+      "cn": "威胁通过威胁或近乎威胁强制或禁止."
+    },
+    {
+      "en": "You can't coerce her into obedience.",
+      "cn": "你不能强制她服从."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "coercive",
+          "tran_cn": " 强制的；胁迫的；高压的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "coercion",
+          "tran_cn": " 强制；强迫；高压政治；威压"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "compel",
+            "conscript",
+            "force",
+            "inhibit",
+            "oblige",
+            "oppress",
+            "prey",
+            "shame"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "compel",
+            "force"
+          ],
+          "tran_cn": "强制"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "强制, 强迫",
+      "tran_en": "to force someone to do something they do not want to do by threatening them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "强迫，强制，控制，限制，威胁，逼迫"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "coerces"
+    ],
+    "past": [
+      "coerced"
+    ],
+    "done": [
+      "coerced"
+    ],
+    "ing": [
+      "coercing"
+    ]
+  }
+}

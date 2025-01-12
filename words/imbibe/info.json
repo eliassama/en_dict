@@ -1,0 +1,121 @@
+{
+  "word": "imbibe",
+  "ipa": {
+    "us": "ɪmˈbaɪb",
+    "uk": "ɪmˈbaɪb"
+  },
+  "sentences": [
+    {
+      "en": "A man's shoes get tight by imbibe water, but he do not.",
+      "cn": "人穿的鞋子会因吸饱了水而变紧,惟其本人则不会(醉)."
+    },
+    {
+      "en": "Barley grains imbibe water.",
+      "cn": "大麦粒在水中吸涨."
+    },
+    {
+      "en": "Both men imbibed considerable quantities of gin.",
+      "cn": "这两个男人都喝了大量的杜松子酒。"
+    },
+    {
+      "en": "I always imbibe fresh air in the woods.",
+      "cn": "我经常在树林里呼吸新鲜空气."
+    },
+    {
+      "en": "It was advantageous to animals digest and imbibe soybean's nutrition composition.",
+      "cn": "有利于家畜对其营养成分的消化和吸收."
+    },
+    {
+      "en": "Lounge patrons desperately wanted to imbibe the essence of all this.",
+      "cn": "酒吧的老主顾们极欲将全部精华吸收殆尽."
+    },
+    {
+      "en": "Plants imbibe nourishment usually through their leaves and roots.",
+      "cn": "植物通常经过叶和根吸收养分."
+    },
+    {
+      "en": "She had imbibed the traditions of her family.",
+      "cn": "她受到了自己家庭传统的影响。"
+    },
+    {
+      "en": "These plants imbibe moisture through their roots.",
+      "cn": "这些植物通过根部吸收水分."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "imbibing",
+          "tran_cn": " 吸液"
+        },
+        {
+          "word": "imbibition",
+          "tran_cn": " 吸入；吸取"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "imbibing",
+          "tran_cn": " 吸入；吸取（imbibe的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "mouth",
+            "quaff"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "absorb",
+            "adopt"
+          ],
+          "tran_cn": "吸收，接受；喝；吸入"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "吸收",
+      "tran_en": "to accept and be influenced by qualities, ideas, values etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "吸收，喝，吸取，吸气"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "imbibes"
+    ],
+    "past": [
+      "imbibed"
+    ],
+    "done": [
+      "imbibed"
+    ],
+    "ing": [
+      "imbibing"
+    ]
+  }
+}

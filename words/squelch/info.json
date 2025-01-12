@@ -1,0 +1,133 @@
+{
+  "word": "squelch",
+  "ipa": {
+    "us": "skweltʃ",
+    "uk": "skwɛltʃ"
+  },
+  "sentences": [
+    {
+      "en": "But now was the time to squelch him.",
+      "cn": "不过,现在是压倒他的时候了."
+    },
+    {
+      "en": "Her creativity had been squelched.",
+      "cn": "她的创造力受到了压制。"
+    },
+    {
+      "en": "Non - interrupting level setting over a range of 20 dB for reproducible measurement of squelch hysteresis.",
+      "cn": "非 中断级别设置了一系列的20分贝的重复性测量压制滞后."
+    },
+    {
+      "en": "Specifically, this data may include control information squelch the RF signal and clamp the ramp output.",
+      "cn": "特别地, 这个数据可包括用于抑制射频信号和钳位斜坡输出的控制信息."
+    },
+    {
+      "en": "The President wants to squelch any perception that the meeting is an attempt to negotiate.",
+      "cn": "总统想要消除任何视本次会议为谈判尝试的看法。"
+    },
+    {
+      "en": "Type of squelch : Tone operated by 150 - Hz signal.",
+      "cn": "型静噪: 基调由150赫兹的信号."
+    },
+    {
+      "en": "Types of Transmission and Reception: Transmission - Voice and 150 - Hz squelch tone.",
+      "cn": "类型传送和接收: 在传输声音和150赫兹压服口风."
+    },
+    {
+      "en": "You cannot squelch wanting .",
+      "cn": "你不能压制要求。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "squelcher",
+          "tran_cn": " 辩论；毫不放松的反击；使对手哑口无言的辩论"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "crump"
+          ],
+          "tran_cn": "噪声控制；嘎吱声；压倒对方的反驳；压碎的一堆"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "censor",
+            "flatten",
+            "oppress",
+            "quench",
+            "repress",
+            "silence",
+            "subdue",
+            "suppress"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "eliminate",
+            "avoid",
+            "suppress"
+          ],
+          "tran_cn": "消除；镇压；压碎；使…咯吱咯吱的响"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "噪声控制；嘎吱声；压倒对方的反驳；压碎的一堆"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "压制",
+      "tran_en": "to stop something from continuing to develop or spread"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "发吧唧声，发扑哧声"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<美>制止，压制，遏制，限制"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "squelches"
+    ],
+    "past": [
+      "squelched"
+    ],
+    "done": [
+      "squelched"
+    ],
+    "ing": [
+      "squelching"
+    ],
+    "adj": [
+      "squelchy"
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "word": "cube",
+  "ipa": {
+    "us": "kjuːb",
+    "uk": "kjuːb"
+  },
+  "sentences": [
+    {
+      "en": "A corner cube consists of three mutually perpendicular reflecting planes.",
+      "cn": "角棱镜是由3个互相垂直的反射平面组成."
+    },
+    {
+      "en": "A cube has six sides.",
+      "cn": "立方体有6个面."
+    },
+    {
+      "en": "A cube has six surfaces.",
+      "cn": "立方体有六个面."
+    },
+    {
+      "en": "A dice is a cube.",
+      "cn": "骰子是立方体."
+    },
+    {
+      "en": "A square has four corners; a cube has eight.",
+      "cn": "正方形有四个角儿; 立方体有八个角儿."
+    },
+    {
+      "en": "a sugar cube",
+      "cn": "一块方糖"
+    },
+    {
+      "en": "an ice cube",
+      "cn": "一小方块冰"
+    },
+    {
+      "en": "Cube three and you will get twenty - seven.",
+      "cn": "3自乘三次得27."
+    },
+    {
+      "en": "Cut the meat into small cubes.",
+      "cn": "把肉切成丁。"
+    },
+    {
+      "en": "Each number has three cube roots.",
+      "cn": "每个数都有3个立方根."
+    },
+    {
+      "en": "If you cube 3,the result is 27.",
+      "cn": "如果把3自乘两次，得数为27。"
+    },
+    {
+      "en": "Please get me an ice - cube out of the fridge.",
+      "cn": "请替我从冰箱里拿块冰块来."
+    },
+    {
+      "en": "Remove the seeds and stones and cube the flesh.",
+      "cn": "把籽和果核弄掉，将果肉切成小方块。"
+    },
+    {
+      "en": "She sucked an ice cube into her mouth, and crunched it loudly.",
+      "cn": "她吸了块冰块到嘴里，嘎嘣嘎嘣地大声嚼着。"
+    },
+    {
+      "en": "The box was cube - shaped.",
+      "cn": "这个箱子是立方形的."
+    },
+    {
+      "en": "The cabinet comes with locks and key and is shaped like a cube.",
+      "cn": "储藏柜带有锁和钥匙，形状像个立方体。"
+    },
+    {
+      "en": "The cube of 2 is 8.",
+      "cn": "2的3次幂是8."
+    },
+    {
+      "en": "The cube of 3 is 27.",
+      "cn": "3的立方是27."
+    },
+    {
+      "en": "The cube of 5 (5^3) is 125 (5×5×5).",
+      "cn": "5的立方（5^3）是125。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cubic",
+          "tran_cn": " 立方体的，立方的"
+        },
+        {
+          "word": "cubical",
+          "tran_cn": " [数] 立方的；立方体的；体积的"
+        },
+        {
+          "word": "cubist",
+          "tran_cn": " 立体派的；立体主义的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cubism",
+          "tran_cn": " 立体派；立体主义"
+        },
+        {
+          "word": "cubist",
+          "tran_cn": " 立体派艺术家；立体派画家"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "body",
+            "hexahedron",
+            "six-sided",
+            "solid"
+          ],
+          "tran_cn": "立方体,正六面体"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cake",
+            "dice"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cube root",
+      "tran_cn": "立方根"
+    },
+    {
+      "phrase": "cube sugar",
+      "tran_cn": "方糖"
+    },
+    {
+      "phrase": "ice cube",
+      "tran_cn": "（加入饮料用的）小方冰块"
+    },
+    {
+      "phrase": "magic cube",
+      "tran_cn": "[计]魔方"
+    },
+    {
+      "phrase": "rubik's cube",
+      "tran_cn": "魔术方块"
+    },
+    {
+      "phrase": "water cube",
+      "tran_cn": "水立方（北京奥运会主游泳馆）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": " 清澈透明的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "立方体，立方形的东西，立方，三次幂",
+      "tran_en": "a solid object with six equal square sides"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "求…的立方，把（食物）切成小方块",
+      "tran_en": "to multiply a number by itself twice"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cubes"
+    ],
+    "third": [
+      "cubes"
+    ],
+    "past": [
+      "cubed"
+    ],
+    "done": [
+      "cubed"
+    ],
+    "ing": [
+      "cubing"
+    ]
+  }
+}

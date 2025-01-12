@@ -1,0 +1,146 @@
+{
+  "word": "pane",
+  "ipa": {
+    "us": "peɪn",
+    "uk": "pen"
+  },
+  "sentences": [
+    {
+      "en": "a pane of glass",
+      "cn": "一片窗玻璃"
+    },
+    {
+      "en": "A pane of glass got broken.",
+      "cn": "一块玻璃碎了。"
+    },
+    {
+      "en": "A selection in this pane populates the lower - right pane with detail or document content.",
+      "cn": "选择总览窗格中的对象,右下窗格中出现相应的细节或文件内容."
+    },
+    {
+      "en": "a window pane",
+      "cn": "一块窗玻璃"
+    },
+    {
+      "en": "Chueh - hui tapped lightly on the small pane of glass in the centre of the window.",
+      "cn": "觉慧 忘了自己地把手指放在窗户中间那块小玻璃上轻轻敲了几下."
+    },
+    {
+      "en": "He broke this pane of glass.",
+      "cn": "他打破了这块窗玻璃."
+    },
+    {
+      "en": "His breath steamed up the window pane.",
+      "cn": "他呼出的气使窗玻璃蒙上一层水汽."
+    },
+    {
+      "en": "I hurried on, suppressing a savage urge to push my fist through the pane.",
+      "cn": "我按捺住要伸手砸掉橱窗的强烈的冲动,匆匆往前走去."
+    },
+    {
+      "en": "I saw it through the window pane.",
+      "cn": "透过玻璃窗我看到了它."
+    },
+    {
+      "en": "Note that the terminating controls are correctly placed outside the tabbed pane, in the lower right.",
+      "cn": "我们还可以看到,终止控件的位置也很正确——它在标签窗格外面, 即整个对话框的右下角."
+    },
+    {
+      "en": "Oh! Well , there's a pane of glass out.",
+      "cn": "是吗! 那窗户掉了一块玻璃."
+    },
+    {
+      "en": "Outside , even through the shut window - pane, the world looked cold.",
+      "cn": "玻璃窗关得很严实, 可是朝窗外望一眼, 依然觉出外面冷得紧."
+    },
+    {
+      "en": "Rain tapped on the window - pane.",
+      "cn": "雨水轻轻地敲打在玻璃窗上."
+    },
+    {
+      "en": "Steps for creating a join manually in the Diagram pane.",
+      "cn": "在“关系图”窗格中手动创建联接的步骤."
+    },
+    {
+      "en": "Their breath bloomed the frosty pane.",
+      "cn": "他们呼出的水气,在冰冷的窗玻璃上形成一层雾."
+    },
+    {
+      "en": "Who broke this pane of glass?",
+      "cn": "是谁打破了这块窗玻璃?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "paneling",
+          "tran_cn": " 镶板；嵌板"
+        },
+        {
+          "word": "panelling",
+          "tran_cn": " 镶板"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "panelling",
+          "tran_cn": " 用木或玻璃板等镶嵌或装饰（panel的现在分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "rim",
+            "planum"
+          ],
+          "tran_cn": "窗格；边；面；[建]窗格玻璃；嵌板"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "glass",
+            "layer",
+            "sheet"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "window pane",
+      "tran_cn": "n. 窗玻璃"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "窗玻璃，窗格，嵌板，方框",
+      "tran_en": "a piece of glass used in a window or door"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "装窗玻璃于；镶嵌板于"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "panes"
+    ]
+  }
+}

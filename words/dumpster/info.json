@@ -1,0 +1,64 @@
+{
+  "word": "dumpster",
+  "ipa": {
+    "us": "'dʌmpstə(r)",
+    "uk": "'dʌmpstər"
+  },
+  "sentences": [
+    {
+      "en": "His sensitivity. He's not afraid to hide his true feelings. Remember when he cried by the dumpster? We just wanted to give him a big hug.",
+      "cn": "他的敏感。他不怕掩饰自己的真实感受。还记得他曾靠在垃圾桶边哭泣吗？当时真想上去给他个安慰的拥抱。"
+    },
+    {
+      "en": "Taking both of them into account, I suggest that the abandoned island should be existed, because it can save lives, if they were abandoned in dumpster, they have nothing to do but die.",
+      "cn": "考虑到这两点，我认为弃婴岛还是该存在的，因为这能够救命，如果被父母丢在垃圾桶里，他们就只有死路一条。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dump",
+          "tran_cn": " 垃圾场"
+        },
+        {
+          "word": "dumpcart",
+          "tran_cn": " 倾卸车；垃圾车"
+        },
+        {
+          "word": "dumpsite",
+          "tran_cn": " 垃圾场；废物堆场"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "dump",
+          "tran_cn": " 倒垃圾"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "dump",
+          "tran_cn": " 倾倒；倾卸"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "废料箱",
+      "tran_en": "A Dumpster is a large metal container for holding rubbish"
+    }
+  ],
+  "exchange": {}
+}

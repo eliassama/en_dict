@@ -1,0 +1,50 @@
+{
+  "word": "immolation",
+  "ipa": {
+    "us": "ˌɪmə'leɪʃn",
+    "uk": "ˌɪmə'leɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Dance Dance Immolation: Kill 3 enemies while they're taunting.",
+      "cn": "祭舞: 杀死3个正在做嘲笑动作的敌人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "immolate",
+          "tran_cn": " 献祭；牺牲；为供神而宰杀"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "offering",
+            "sacrifice"
+          ],
+          "tran_cn": "祭物，供奉牲礼；宰杀，祭品"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "供奉牲礼，牺牲，祭品"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "immolate"
+    ]
+  }
+}

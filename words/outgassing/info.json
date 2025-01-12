@@ -1,0 +1,62 @@
+{
+  "word": "outgassing",
+  "ipa": {
+    "us": "'aʊtɡæsɪŋ",
+    "uk": "'aʊtɡæsɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "CASCAD closes over the contaminants, thereby eliminating outgassing and associated downwind hazards.",
+      "cn": "CASCAD会包围污染物质,使污染物质不会泄漏,于是就不至于造成下风处的灾害了."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "degassing"
+          ],
+          "tran_cn": "除气的；释气的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "degasification",
+            "desaeration"
+          ],
+          "tran_cn": "除气；脱气"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "degassing"
+          ],
+          "tran_cn": "除气；释气（outgas的ing形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "除气 v除气 a释气的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "除去…的气( outgas的现在分词 )，去气，放气，除气"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,92 @@
+{
+  "word": "ramify",
+  "ipa": {
+    "us": "'ræmɪfaɪ",
+    "uk": "ˈræməˌfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "These plants ramify early and get to be very large.",
+      "cn": "这些植物很早就分枝,因而可以长得非常大."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "ramose",
+          "tran_cn": " 分枝的；多枝的"
+        },
+        {
+          "word": "ramous",
+          "tran_cn": " [生物] 分枝的；多枝的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ramification",
+          "tran_cn": " 衍生物；分枝，分叉；支流"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "branch off",
+            "tee off"
+          ],
+          "tran_cn": "分枝，分叉；成网状"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "arborize"
+          ],
+          "tran_cn": "使分叉，使分枝；成网状"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "(使)分枝, (使)分叉, (使)成网状",
+      "tran_en": "to divide into branches or branchlike parts "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "成枝杈状"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使分枝，使分叉"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "ramifies"
+    ],
+    "past": [
+      "ramified"
+    ],
+    "done": [
+      "ramified"
+    ],
+    "ing": [
+      "ramifying"
+    ]
+  }
+}

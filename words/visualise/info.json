@@ -1,0 +1,68 @@
+{
+  "word": "visualise",
+  "ipa": {
+    "us": "'vɪzjʊəlaɪz",
+    "uk": "'vɪʒʊrlˌaɪz"
+  },
+  "sentences": [
+    {
+      "en": "\" I can only understand what I can visualise, \" he told Luria.",
+      "cn": "他告诉卢里亚说: “ 我只能理解我能使之形象化的东西. ”"
+    },
+    {
+      "en": "Though he described the place carefully, I couldn't visualise it because it was so different from anything I'd known.",
+      "cn": "虽然他把那个地方说得非常详细, 但我还是想象不出那是什么样子,因为它同我所熟悉的任何地方都完全不同."
+    },
+    {
+      "en": "To help visualise their impact, the application places a virtual garden in the user's profile.",
+      "cn": "帮助想象他们的影响, 申请学位的虚拟花园,在用户的个人资料."
+    },
+    {
+      "en": "We all can visualise a friend's face when he is away.",
+      "cn": "朋友离去后我们都能想起他的面容."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "to fancy",
+            "to imagine"
+          ],
+          "tran_cn": "想象；显现"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "concretise",
+            "hypostatize"
+          ],
+          "tran_cn": "使…可见；使…具体化（等于visualize）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "vi",
+      "tran_cn": "显现"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使显现，使形象化"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "使可见， 使具体化，设想， 想象"
+    }
+  ],
+  "exchange": {}
+}

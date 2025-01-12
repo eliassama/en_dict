@@ -1,0 +1,141 @@
+{
+  "word": "transact",
+  "ipa": {
+    "us": "trænˈzækt",
+    "uk": "trænˈzækt"
+  },
+  "sentences": [
+    {
+      "en": "A : Excuse me , can I transact Bank - Insurance Link business in your bank?",
+      "cn": "请问我在贵行可以办理“银保通”业务 吗 ?"
+    },
+    {
+      "en": "All the traders must transact in the legal extent.",
+      "cn": "所有的商人必须在合法的范围内经营."
+    },
+    {
+      "en": "Assist to negotiate rental and to transact renew procedure if necessary.",
+      "cn": "若客户续租,帮助协商租金和办理续租手续."
+    },
+    {
+      "en": "Do I have to transact some procedures before opening it?",
+      "cn": "开通前我需要办一些手续 吗 ?"
+    },
+    {
+      "en": "He transact business with store all over the country.",
+      "cn": "他和全国各商店交易."
+    },
+    {
+      "en": "I want to transact the call display service.",
+      "cn": "我想办理来电显示业务."
+    },
+    {
+      "en": "I will transact my business by letter.",
+      "cn": "我会写信去洽谈业务."
+    },
+    {
+      "en": "I will transact some business in London.",
+      "cn": "我要在伦敦办些事."
+    },
+    {
+      "en": "Inspecting and checking the delivery cargo before transact with shipment forwarders & express companies.",
+      "cn": "负责货物 与 快递或货运公司交接前的各项检查工作."
+    },
+    {
+      "en": "Most deals are transacted over the phone.",
+      "cn": "大多数生意都是在电话里成交的。"
+    },
+    {
+      "en": "Responsible for HR related affair transact and generate labor report.",
+      "cn": "负责人事相关手续的办理及劳动报表的填写."
+    },
+    {
+      "en": "The railroads have lost a lot of transact business to trucking companies.",
+      "cn": "由于汽车运输公司的竞争,属于铁路运输公司流失掉了很大一部分的货运生意."
+    },
+    {
+      "en": "Transact - SQL reserves both the uppercase and lowercase versions of reserved keywords.",
+      "cn": "Transact-SQL保留大写和小写的保留关键字."
+    },
+    {
+      "en": "Transact pay card and temporary certificates for new employee.",
+      "cn": "新来员工工资卡、暂住证的办理."
+    },
+    {
+      "en": "Under the circumstance is transact a district visit alone.",
+      "cn": "情况下独自在办公区域参观."
+    },
+    {
+      "en": "You confuse me , and how can I transact business if I am confused?",
+      "cn": "你把我的心弄乱了.心弄乱了怎么能搞业务 呢 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "transaction",
+          "tran_cn": " 交易；事务；办理；会报，学报"
+        },
+        {
+          "word": "transactor",
+          "tran_cn": " 办理人；做交易的人；处理者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "trade",
+            "traffic",
+            "exchange"
+          ],
+          "tran_cn": "交易；谈判"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to handle",
+            "cope with"
+          ],
+          "tran_cn": "办理；处理"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "交易，谈判",
+      "tran_en": "to do business with someone"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "办理（业务等）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "transacts"
+    ],
+    "past": [
+      "transacted"
+    ],
+    "done": [
+      "transacted"
+    ],
+    "ing": [
+      "transacting"
+    ]
+  }
+}

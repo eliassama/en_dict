@@ -1,0 +1,174 @@
+{
+  "word": "arithmetic",
+  "ipa": {
+    "us": "əˈrɪθmətɪk",
+    "uk": "əˈrɪθmətɪk"
+  },
+  "sentences": [
+    {
+      "en": "...teaching the basics of reading, writing and arithmetic.",
+      "cn": "…教授读、写、算的基本知识。"
+    },
+    {
+      "en": "4,000 women put in ten rupees each, which if my arithmetic is right adds up to 40,000 rupees.",
+      "cn": "4,000名妇女每人放入10个卢比，如果我算得对的话，总数将达到4万卢比。"
+    },
+    {
+      "en": "a quick bit of mental arithmetic",
+      "cn": "快速心算"
+    },
+    {
+      "en": "Education is not the chips of arithmetic and grammar.",
+      "cn": "教育不是有关算术和语法的零星知识."
+    },
+    {
+      "en": "He got the answer by mental arithmetic.",
+      "cn": "他用心算得出了答案."
+    },
+    {
+      "en": "He has a knack of teaching arithmetic.",
+      "cn": "他教算术有诀窍."
+    },
+    {
+      "en": "He is good at arithmetic.",
+      "cn": "他擅长算术."
+    },
+    {
+      "en": "He's not very good at arithmetic.",
+      "cn": "他不太擅长算术。"
+    },
+    {
+      "en": "John was competing against James for the prize in arithmetic.",
+      "cn": "约翰和詹姆斯比赛争夺算术奖."
+    },
+    {
+      "en": "Most software blindly performs arithmetic on numbers without actually examining them first.",
+      "cn": "多数软件盲目地对数字执行算法,而不首先检查数据."
+    },
+    {
+      "en": "Of his age, the child is above the norm in arithmetic.",
+      "cn": "在他那个年龄, 这个孩子的算术能力是超过标准的."
+    },
+    {
+      "en": "She tries to ground her son in arithmetic.",
+      "cn": "她设法给儿子打好算术基础."
+    },
+    {
+      "en": "That school puts particular emphasis on arithmetic and reading.",
+      "cn": "那所学校侧重算术和阅读."
+    },
+    {
+      "en": "The arithmetic of nuclear running costs has been skewed by the fall in the cost of other fuels.",
+      "cn": "核运营成本的计算由于其他燃料的降价而出现了偏差。"
+    },
+    {
+      "en": "The teacher was determined to drum some elementary arithmetic in.",
+      "cn": "教师决心把一些基本的算术知识装进学生的头脑中去."
+    },
+    {
+      "en": "The waiter got his arithmetic wrong.",
+      "cn": "服务员算错了账."
+    },
+    {
+      "en": "They will concentrate on teaching the basics of reading, writing and arithmetic.",
+      "cn": "他们将集中教授阅读、写作和算术基础知识。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "arithmetical",
+          "tran_cn": " 算术的；算术上的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "arithmetically",
+          "tran_cn": " 算术上；[数] 用算术方法"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "arithmetician",
+          "tran_cn": " 算术家"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "algorithm",
+            "number"
+          ],
+          "tran_cn": "[数]算术，算法"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "arithmetic average",
+      "tran_cn": "算术平均数"
+    },
+    {
+      "phrase": "arithmetic expression",
+      "tran_cn": "算术表达式"
+    },
+    {
+      "phrase": "arithmetic logic unit",
+      "tran_cn": "算术逻辑单元"
+    },
+    {
+      "phrase": "arithmetic mean",
+      "tran_cn": "算术均数；等差中项"
+    },
+    {
+      "phrase": "arithmetic operation",
+      "tran_cn": "算术运算"
+    },
+    {
+      "phrase": "arithmetic progression",
+      "tran_cn": "等差级数，等差数列；算术级数，算术数列"
+    },
+    {
+      "phrase": "arithmetic unit",
+      "tran_cn": "运算器；运算部件"
+    },
+    {
+      "phrase": "mental arithmetic",
+      "tran_cn": "心算"
+    },
+    {
+      "phrase": "theoretical arithmetic",
+      "tran_cn": "理论计算"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "算术的，运算的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "算术，数据统计",
+      "tran_en": "the science of numbers involving adding, multiplying etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "arithmetics"
+    ]
+  }
+}

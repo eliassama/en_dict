@@ -1,0 +1,181 @@
+{
+  "word": "update",
+  "ipa": {
+    "us": "ˌʌpˈdeɪt , ˈʌpdeɪt",
+    "uk": "ˌʌpˈdeɪt , ˈʌpdeɪt"
+  },
+  "sentences": [
+    {
+      "en": "a news update",
+      "cn": "最新新闻报道"
+    },
+    {
+      "en": "Click Update Project to update the project file without sending a reply.",
+      "cn": "单击“更新项目”按钮可更新项目文件但不发送答复."
+    },
+    {
+      "en": "However, with the following, the UPDATE results are final. Only the PROC call is rolled back.",
+      "cn": "但是, 在以下代码中, UPDATE语句的结果将被写入数据库中.只有过程调用将被回滚."
+    },
+    {
+      "en": "I would just update them on any news we might have.",
+      "cn": "我们一有新消息我就会告诉他们。"
+    },
+    {
+      "en": "Implement process changes and update in line process parameters.",
+      "cn": "实施工艺更改和更新在线设备参数."
+    },
+    {
+      "en": "Keep the pre - apparatus's advantage, design new software and update hardware sampling module.",
+      "cn": "在保留已有仪器优点上, 全新设计软件系统,更新硬件采样部分."
+    },
+    {
+      "en": "Maintain and update consignment stock record , monitor consignment shipments with scheduled deliveries.",
+      "cn": "维护和更新库存数据, 跟踪定期交付货物的出货状态."
+    },
+    {
+      "en": "Oh, yeah. of course! I need to update my resume first.",
+      "cn": "喔, 是喔. 当然! 我要先更新我的履历表."
+    },
+    {
+      "en": "plans to update manufacturing procedures",
+      "cn": "例句： 更新生产流程的计划"
+    },
+    {
+      "en": "Sales and purchasing data summarizing, update, analysis and evaluation.",
+      "cn": "销售和采购数据的汇总 、 更新 、 分析与统计."
+    },
+    {
+      "en": "Schema update failed: There are no link identifiers available.",
+      "cn": "架构升级失败: 链接标识符不可用."
+    },
+    {
+      "en": "She had heard the news-flash on a TV channel's news update.",
+      "cn": "她在一家电视台的新闻快讯中听到了这则简明新闻。"
+    },
+    {
+      "en": "The current ACIP revision is intended to replace and update earlier guidelines.",
+      "cn": "现行的ACIP修订本更新和替代了先前的指南."
+    },
+    {
+      "en": "The feedback from the computer enables us to update the program.",
+      "cn": "计算机的反馈能使我们更新程序."
+    },
+    {
+      "en": "The files need updating.",
+      "cn": "这些档案需要更新。"
+    },
+    {
+      "en": "The mobile device tried to update an autoincrement field.",
+      "cn": "移动设备试图更新自动递增字段."
+    },
+    {
+      "en": "They decided to update the computer systems.",
+      "cn": "他们决定更新计算机设备."
+    },
+    {
+      "en": "We'll update you on the day's top news stories.",
+      "cn": "我们将为您提供当天的重要新闻。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "updating",
+          "tran_cn": " 更新"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "updating",
+          "tran_cn": " 更新（update的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "modernization",
+            "renewal"
+          ],
+          "tran_cn": "更新；现代化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "renovate",
+            "refresh"
+          ],
+          "tran_cn": "更新；校正，修正；使现代化"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dynamic update",
+      "tran_cn": "动态更新；动态升级"
+    },
+    {
+      "phrase": "last update",
+      "tran_cn": "最新更新"
+    },
+    {
+      "phrase": "update information",
+      "tran_cn": "更新信息；修正信息"
+    },
+    {
+      "phrase": "update now",
+      "tran_cn": "立即更新"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "现代化；更新的信息；更新的行为或事例",
+      "tran_en": "a change or addition to a computer file so that it has the most recent information"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "更新；校正，修正；使现代化",
+      "tran_en": "to add the most recent information to something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "更新，使现代化，校正，修正",
+      "tran_en": "to add the most recent information to something"
+    },
+    {
+      "pos": "vt&n",
+      "tran_cn": "  现代化； 更新",
+      "tran_en": "to make something more modern in the way it looks or operates"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "updates"
+    ],
+    "past": [
+      "updated"
+    ],
+    "done": [
+      "updated"
+    ],
+    "ing": [
+      "updating"
+    ]
+  }
+}

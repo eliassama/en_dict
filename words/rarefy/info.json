@@ -1,0 +1,147 @@
+{
+  "word": "rarefy",
+  "ipa": {
+    "us": "'reərɪfaɪ",
+    "uk": "ˈrɛrəˌfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "The insertion of an inner rod into the waveguide can rarefy the spectrum of the competing modes in the vicinity of the operating mode and restrict the mode competing effectively.",
+      "cn": "在圆柱腔体内插入一个内导体将会使工作模式附近的模谱变稀，从而有效的抑制模式竞争。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rare",
+          "tran_cn": " 稀有的；半熟的；稀薄的"
+        },
+        {
+          "word": "rarefied",
+          "tran_cn": " 稀薄的；纯化的"
+        },
+        {
+          "word": "rarified",
+          "tran_cn": " 纯净的；稀薄的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "rare",
+          "tran_cn": " 非常；极其"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rarefaction",
+          "tran_cn": " [声] 稀疏；（气体）稀薄"
+        },
+        {
+          "word": "rareness",
+          "tran_cn": " 稀薄；稀罕；珍奇"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "rarified",
+          "tran_cn": " 使变稀薄（rarify的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "rare",
+          "tran_cn": " 用后腿站起；渴望"
+        },
+        {
+          "word": "rarify",
+          "tran_cn": " 变稀薄；纯化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rarify",
+          "tran_cn": " 使成精细；使变稀薄"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "water"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "rarify"
+          ],
+          "tran_cn": "变稀薄；纯化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "pick",
+            "handpick"
+          ],
+          "tran_cn": "使纯化；变稀薄；精选"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使稀少， 使稀薄",
+      "tran_en": "to make or become rarer or less dense; thin out "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使稀薄，（思想等）精炼，使纯化，使变得精妙深奥"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "rarefies"
+    ],
+    "past": [
+      "rarefied"
+    ],
+    "done": [
+      "rarefied"
+    ],
+    "ing": [
+      "rarefying"
+    ]
+  }
+}

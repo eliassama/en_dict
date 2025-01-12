@@ -1,0 +1,72 @@
+{
+  "word": "gloaming",
+  "ipa": {
+    "us": "ˈgləʊmɪŋ",
+    "uk": "ˈgloʊmɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "By the Light of the evening star When the room is growing dusky As the clouds afar, Let the door be on the latch In your home, For it may be through the gloaming I will come.",
+      "cn": "在晚星的光照下，/室内变得愈来愈暗黑的时候，/远方天空有云的时候，/在你家中，/让门只下键，不上锁，/因为可能通过黄昏薄暮，/我将来临。"
+    },
+    {
+      "en": "Dawn comes and you see its path - the glistening leaf, the gloaming stem blackening garden vine.",
+      "cn": "拂晓时分,你随处可见它的踪迹,在闪亮的叶子上,朦胧的茎干上, 盘曲黝黑的藤蔓上."
+    },
+    {
+      "en": "In the gloaming, the crows flew in to gather for the night in a stand of bare oaks.",
+      "cn": "薄暮时分，鸦群飞向光秃秃的橡树枝条上过夜。"
+    },
+    {
+      "en": "Shepherds was pelting through the gloaming their sheep and goats.",
+      "cn": "牧羊人在暮色中驱赶他们的羊群."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gloam",
+          "tran_cn": " 黄昏；薄暮"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "gloam",
+          "tran_cn": " 变朦胧"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dark",
+            "nightfall"
+          ],
+          "tran_cn": "黄昏；夕幕"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "黄昏，薄暮，暮色",
+      "tran_en": "the time in the early evening when it is becoming dark"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "日落；天变黑（gloam的现在分词）"
+    }
+  ],
+  "exchange": {}
+}

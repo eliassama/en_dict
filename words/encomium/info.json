@@ -1,0 +1,65 @@
+{
+  "word": "encomium",
+  "ipa": {
+    "us": "enˈkəʊmiəm",
+    "uk": "enˈkoʊmiəm"
+  },
+  "sentences": [
+    {
+      "en": "He pronounced a splendid encomium upon her in the forum.",
+      "cn": "他在广场上为她作了华丽的赞颂。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "encomiastic",
+          "tran_cn": " 赞颂的；阿谀的；赞美者的；颂词（似）的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "praise",
+            "laudation"
+          ],
+          "tran_cn": "赞美，称赞；赞辞"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "applause",
+            "eulogy",
+            "glory"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "赞美词，颂词，极度颂誉之词",
+      "tran_en": "the expression of a lot of praise"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      " encomiums",
+      "encomia"
+    ]
+  }
+}

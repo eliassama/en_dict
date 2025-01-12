@@ -1,0 +1,88 @@
+{
+  "word": "repossess",
+  "ipa": {
+    "us": "ˌri:pəˈzes",
+    "uk": "ˌripəˈzɛs"
+  },
+  "sentences": [
+    {
+      "en": "Eventually the bailiffs came to repossess the flat.",
+      "cn": "查封官终于来收公寓了。"
+    },
+    {
+      "en": "I've been authorized to repossess this property.",
+      "cn": "我已经被核可重新拥有这笔财产."
+    },
+    {
+      "en": "If you get behind in your car payments, the finance company may repossess it from you.",
+      "cn": "一旦你迟缴汽车贷款, 融资公司可能会把你的车子要回去."
+    },
+    {
+      "en": "The house was in default and the bank will repossess it.",
+      "cn": "房子拖欠贷款,银行会将其回收."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "repossession",
+          "tran_cn": " 恢复；取回"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "retrieve"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "recover",
+            "withdraw",
+            "resume"
+          ],
+          "tran_cn": "收回；取复；重新获得"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "收回, 复得",
+      "tran_en": "to take back cars, furniture, or property from people who had arranged to pay for them over a long time, but cannot now continue to pay for them"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "取回，收回，重新获得，把占有权还给…。"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "repossesses"
+    ],
+    "past": [
+      "repossessed"
+    ],
+    "done": [
+      "repossessed"
+    ],
+    "ing": [
+      "repossessing"
+    ]
+  }
+}

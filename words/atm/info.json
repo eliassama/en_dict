@@ -1,0 +1,97 @@
+{
+  "word": "ATM",
+  "ipa": {
+    "us": "ˌeɪ ti: ˈem",
+    "uk": "ˌeɪti'em"
+  },
+  "sentences": [
+    {
+      "en": "A new multi - plane ATM switching fabric architecture is proposed in this paper.",
+      "cn": "本文提出一种新的多平面ATM交换网络结构."
+    },
+    {
+      "en": "An ATM term. A collection of managed entities grouped for administrative reasons.",
+      "cn": "一种ATM术语. 因管理而组合在一起的管理实体的集合."
+    },
+    {
+      "en": "ATM adaptor is the key of user and network interface.",
+      "cn": "ATM适配器是用户网络接口的关键."
+    },
+    {
+      "en": "ATM is a connection - oriented, packet switching, and statistically multiplexing technology.",
+      "cn": "ATM是一种面向连接的 、 分组交换和统计复用技术."
+    },
+    {
+      "en": "Available Bit Rate ( ABR ) Flow Control in Asynchronous Transfer Mode ( ATM ) Networks.",
+      "cn": "ATM网络中ABR流量控制的研究."
+    },
+    {
+      "en": "Fibre Channel and ATM allow for these different classes of service.",
+      "cn": "FibreChannel和ATM允许有这些不同的服务种类."
+    },
+    {
+      "en": "Keep your ATM card in a safe place.",
+      "cn": "把你的自动取款卡放在一个安全的地方。"
+    },
+    {
+      "en": "Ken: And what if I take out cash from another bank's ATM?",
+      "cn": "那么如果我要从另一家银行的ATM取款 机中取款怎么办 呢 ?"
+    },
+    {
+      "en": "Losing cells is the main defect of image communication under ATM.",
+      "cn": "信元丢失是异步转移模式(ATM)环境下图像通信的主要缺点."
+    },
+    {
+      "en": "Not charge a handling fee ATM withdrawals interbank city.",
+      "cn": "不收取ATM同城跨行取款手续费."
+    },
+    {
+      "en": "Now, the software development platform apply to ATM, POS and so on.",
+      "cn": "目前, 此开发平台已成功地应用于ATM自动 柜员机 、 嵌入式税控收款机等银税类终端产品的开发."
+    },
+    {
+      "en": "On Key Technologies of the On - Board ATM Switching Satellite Communications System.",
+      "cn": "星上ATM交换卫星通信系统的关键技术研究."
+    },
+    {
+      "en": "The bank was criticized when It'surcharges for ATM withdrawals.",
+      "cn": "该银行因为使用ATM提款要加收费用而被批评."
+    },
+    {
+      "en": "The guards were servicing an ATM when the shooting started.",
+      "cn": "案发当时,保安正在维护ATM( 自动存取款)机."
+    },
+    {
+      "en": "This paper proposes a self - routing fault - tolerant switching network for ATM switching systems.",
+      "cn": "本文提出了一种自寻径、容错的ATM交换结构."
+    },
+    {
+      "en": "This recommendation defines the functions of the Asynchronous Transfer Mode ( ATM ) layer.",
+      "cn": "本建议规定了异步转移模式 ( ATM ) 层的功能."
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "atm machine",
+      "tran_cn": "自动提款机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "abbr",
+      "tran_cn": "Automatic Teller Machine 自动取款（出纳）机，Asynchronous Transfer Mode 异步传输模式"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "自动取款机，自动柜员机",
+      "tran_en": "a machine outside a bank that you use to get money from your account"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "ATMs"
+    ]
+  }
+}

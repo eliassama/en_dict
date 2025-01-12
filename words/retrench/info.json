@@ -1,0 +1,122 @@
+{
+  "word": "retrench",
+  "ipa": {
+    "us": "rɪˈtrentʃ",
+    "uk": "rɪˈtrɛntʃ"
+  },
+  "sentences": [
+    {
+      "en": "As business is bad these days, we have to retrench.",
+      "cn": "由于最近生意不景气, 我们不得不紧缩开支."
+    },
+    {
+      "en": "Inflation has forced us to retrench.",
+      "cn": "因通货膨胀我们不得不紧缩开支."
+    },
+    {
+      "en": "Shortly afterwards, cuts in defence spending forced the aerospace industry to retrench.",
+      "cn": "不久之后，国防开支的削减迫使航空航天业紧缩开支。"
+    },
+    {
+      "en": "The company had to retrench.",
+      "cn": "该公司必须节省开支."
+    },
+    {
+      "en": "The mess of Wall Street means the families have to retrench.",
+      "cn": "华尔街的动荡对很多家庭来说意味着新一轮的勒紧腰带过日子."
+    },
+    {
+      "en": "They must retrench their expenditure for the purpose of making up the deficit.",
+      "cn": "为了弥补赤字,他们必须压缩开支."
+    },
+    {
+      "en": "Why don't you retrench then - scrape up, hoard , economise?",
+      "cn": "那么你为什么不节约一下 —— 积累一点, 储蓄一点, 省吃俭用一些 呢 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "retrenchment",
+          "tran_cn": " 节省；删除"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abridge",
+            "economize",
+            "lessen",
+            "shave",
+            "shorten"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "save",
+            "economize on"
+          ],
+          "tran_cn": "节省；紧缩"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "delete from",
+            "expurgate"
+          ],
+          "tran_cn": "删除；减少；紧缩开支"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "删除；减少；紧缩开支",
+      "tran_en": "if a government or organization retrenches, it spends less money"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "紧缩开支"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "削减（费用），节省"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "retrenches"
+    ],
+    "past": [
+      "retrenched"
+    ],
+    "done": [
+      "retrenched"
+    ],
+    "ing": [
+      "retrenching"
+    ],
+    "noun": [
+      "retrenchment"
+    ]
+  }
+}

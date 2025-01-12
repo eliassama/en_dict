@@ -1,0 +1,109 @@
+{
+  "word": "factorization",
+  "ipa": {
+    "us": "ˌfæktəraiˈzeiʃən",
+    "uk": "ˌfæktəraiˈzeiʃən"
+  },
+  "sentences": [
+    {
+      "en": "A novel method based on factorization and bundle adjustment asas its principle and implementation is presented.",
+      "cn": "针对现有算法中精度与计算量的矛盾,提出一种基于因子分解与光束法平差的新算法."
+    },
+    {
+      "en": "A parameterization formula to construct a simultaneously stabilizing controller is obtained based on factorization.",
+      "cn": "Youla参数化方法给出了基于传递函数互质分解的同时镇定控制器的设计方法."
+    },
+    {
+      "en": "At the same ti me , its corresponding QR factorization method was also presented.",
+      "cn": "另外, 还给出了相应的QR分解算法."
+    },
+    {
+      "en": "Features of the index number of odd perfect number are obtained by utilizing number's standard factorization.",
+      "cn": "介绍了与完全数有关的概念和结论,利用数的标准分解式给出了奇完全数的素因子次数的特征."
+    },
+    {
+      "en": "The feasibility to apply the algorithm of non - negative matrix factorization on intrusion detection is demonstrated.",
+      "cn": "论证了 非 负矩阵分解算法在入侵检测中应用的可行性."
+    },
+    {
+      "en": "The safe of RSA algorithm based on difficulty in the factorization.",
+      "cn": "RSA算法的安全性依赖于大数的因数分解的困难性."
+    },
+    {
+      "en": "They could be solved speedily by means of the sparse technique based triangular factorization.",
+      "cn": "应用稀疏矩阵的三角分解技术可实现对它们的快速求解."
+    },
+    {
+      "en": "To ensure the credibility, author also adopts historicism and factorization.",
+      "cn": "为保证真实性, 笔者还采用了历史研究法和因素分析法等."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "factorial",
+          "tran_cn": " 因子的，阶乘的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "factor",
+          "tran_cn": " 因素；要素；[物] 因数；代理人"
+        },
+        {
+          "word": "factorial",
+          "tran_cn": " [数] 阶乘"
+        },
+        {
+          "word": "factoring",
+          "tran_cn": " [数] 因子分解，[数] 因式分解；保付代理"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "factoring",
+          "tran_cn": " 把…因素包括进去（factor的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "factor",
+          "tran_cn": " 做代理商"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "factor",
+          "tran_cn": " 把…作为因素计入；代理经营；把…分解成"
+        },
+        {
+          "word": "factorize",
+          "tran_cn": " 因式分解；把复杂计算分解为基本运算"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "因数分解"
+    }
+  ],
+  "exchange": {}
+}

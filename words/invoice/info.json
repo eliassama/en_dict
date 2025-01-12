@@ -1,0 +1,213 @@
+{
+  "word": "invoice",
+  "ipa": {
+    "us": "ˈɪnvɔɪs",
+    "uk": "ˈɪnvɔɪs"
+  },
+  "sentences": [
+    {
+      "en": "A clerk simply verifies that the payment and invoice amount match.",
+      "cn": "职员只是核实付款和发票上的数额是否一致。"
+    },
+    {
+      "en": "Can a hotel use the VAT invoice to rent guest rooms?",
+      "cn": "酒店客房可以使用增值税发票 吗 ?"
+    },
+    {
+      "en": "Commercial invoice is a document.",
+      "cn": "商业发票是一种单证."
+    },
+    {
+      "en": "His £200 invoice was settled immediately in cash.",
+      "cn": "他立即以现金付清了200英镑的货款。"
+    },
+    {
+      "en": "I want to apply for carving a special invoice stamp.",
+      "cn": "我要申请雕刻发票专用章."
+    },
+    {
+      "en": "I want to purchase five special invoice books of service trades.",
+      "cn": "我要购领五本服务业发票."
+    },
+    {
+      "en": "Please insure the goods for 110 % of the invoice value.",
+      "cn": "请按发票金额110%给这批货物投保."
+    },
+    {
+      "en": "Put these invoice in numerical order.",
+      "cn": "把这些发票按其号码顺序放好."
+    },
+    {
+      "en": "The agency invoices the client who then pays the full amount to the agency.",
+      "cn": "那个代销处给客户开具发票，然后客户向代销处支付全部的款项。"
+    },
+    {
+      "en": "The invoice has the stamp ` received with thanks'on it.",
+      "cn": "收据上盖有\"已收讫,谢谢 \" 字样的章."
+    },
+    {
+      "en": "The seller has to issue a tax invoice.",
+      "cn": "销售者必须开具税务发票."
+    },
+    {
+      "en": "The shipping costs can be as high as 50 % of the invoice value of the goods.",
+      "cn": "货运费用最高可以达到货物发票金额的50%."
+    },
+    {
+      "en": "We overpay the invoice by $ 245.",
+      "cn": "我们向该发票多付了245美元."
+    },
+    {
+      "en": "We will be pleased to delete the charge from the original invoice.",
+      "cn": "我们决定将这笔费用从原始发票上删去。"
+    },
+    {
+      "en": "We will then send you an invoice for the total course fees.",
+      "cn": "然后我们会把全部课程费用的发票寄给你。"
+    },
+    {
+      "en": "You should use the required special nationwide invoice stamp.",
+      "cn": "应使用发票专用章."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "account",
+            "bill",
+            "charge",
+            "check",
+            "statement",
+            "tabulation",
+            "tally"
+          ],
+          "tran_cn": "帐目,计帐"
+        },
+        {
+          "words": [
+            "description",
+            "enumeration",
+            "inventory",
+            "itemization",
+            "list",
+            "numeration",
+            "particularization"
+          ],
+          "tran_cn": "详情,列表"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "commercial invoice",
+      "tran_cn": "商业发票，正式签证的贸易发票"
+    },
+    {
+      "phrase": "consular invoice",
+      "tran_cn": "领事发票；领事签货证书"
+    },
+    {
+      "phrase": "export invoice",
+      "tran_cn": "出口发票；货物装运单；出口单据"
+    },
+    {
+      "phrase": "final invoice",
+      "tran_cn": "[经]终结发票"
+    },
+    {
+      "phrase": "invoice amount",
+      "tran_cn": "发票额"
+    },
+    {
+      "phrase": "invoice date",
+      "tran_cn": "发票日期"
+    },
+    {
+      "phrase": "invoice number",
+      "tran_cn": "发票号码"
+    },
+    {
+      "phrase": "invoice value",
+      "tran_cn": "发票价值"
+    },
+    {
+      "phrase": "make out an invoice",
+      "tran_cn": "开发票"
+    },
+    {
+      "phrase": "original invoice",
+      "tran_cn": "原始发票"
+    },
+    {
+      "phrase": "pro forma invoice",
+      "tran_cn": "形式发票；估价发票"
+    },
+    {
+      "phrase": "proforma invoice",
+      "tran_cn": "形式发票；试算发票；备考货单"
+    },
+    {
+      "phrase": "sales invoice",
+      "tran_cn": "销售发票"
+    },
+    {
+      "phrase": "sample invoice",
+      "tran_cn": "[经]样品发票"
+    },
+    {
+      "phrase": "shipping invoice",
+      "tran_cn": "装货发票"
+    },
+    {
+      "phrase": "signed commercial invoice",
+      "tran_cn": "已签署的商业发票"
+    },
+    {
+      "phrase": "tax invoice",
+      "tran_cn": "税务发票；纳税单据"
+    },
+    {
+      "phrase": "vat invoice",
+      "tran_cn": "abbr. 增值税发票（Value Added Tax Invoice）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "发票，发货单",
+      "tran_en": "a list of goods that have been supplied or work that has been done, showing how much you owe for them"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "开发票，记清单",
+      "tran_en": "If you invoice someone, you send them a bill for goods or services you have provided them with"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "开发票",
+      "tran_en": "to send someone an invoice"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "invoices"
+    ],
+    "third": [
+      "invoices"
+    ],
+    "past": [
+      "invoiced"
+    ],
+    "done": [
+      "invoiced"
+    ],
+    "ing": [
+      "invoicing"
+    ]
+  }
+}

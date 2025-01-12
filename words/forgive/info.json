@@ -1,0 +1,179 @@
+{
+  "word": "forgive",
+  "ipa": {
+    "us": "fəˈɡɪv",
+    "uk": "fərˈɡɪv"
+  },
+  "sentences": [
+    {
+      "en": "\"Forgive me,\" I stammered.",
+      "cn": "“原谅我，”我期期艾艾地说。"
+    },
+    {
+      "en": "\"Forgive my manners,\" she said calmly. \"I neglected to introduce myself.\"",
+      "cn": "“请原谅我礼数不周，”她平静地说。“我忘了自我介绍了。”"
+    },
+    {
+      "en": "All right, I'll forgive you.",
+      "cn": "好吧，我愿意原谅你。"
+    },
+    {
+      "en": "Forgive me, I don't mean to insult you.",
+      "cn": "请原谅，我并非有意侮辱你。"
+    },
+    {
+      "en": "Forgive me. I shouldn't be jumping to conclusions.",
+      "cn": "原谅我，我不该草率地下结论。"
+    },
+    {
+      "en": "Forgive my asking, but you're not very happy, are you?",
+      "cn": "恕我冒昧，你不太高兴，是吗？"
+    },
+    {
+      "en": "He didn’t look the sort of man to forgive and forget (= forgive someone and no longer think about it ) .",
+      "cn": "他看上去不是那种不记仇的人。"
+    },
+    {
+      "en": "I can never, ever forgive him. I despise him.",
+      "cn": "我永远不会原谅他。我鄙视他。"
+    },
+    {
+      "en": "I can never, ever, forgive myself.",
+      "cn": "我永远无法原谅我自己。"
+    },
+    {
+      "en": "I can't forgive Lewis for robbing me of an Olympic gold.",
+      "cn": "我不能原谅刘易斯夺走了我一块奥运会金牌。"
+    },
+    {
+      "en": "I do hope you'll forgive me but I've got to leave.",
+      "cn": "我真的非常抱歉，我得走了。"
+    },
+    {
+      "en": "She was angry at Steve's rudeness, but I could forgive it.",
+      "cn": "她对史蒂夫的无礼非常生气，但是我可以原谅这一点。"
+    },
+    {
+      "en": "She was instantly contrite. \"Oh, I am sorry! You must forgive me.\"",
+      "cn": "她马上就懊悔了。“哦，我很抱歉！你一定要原谅我。”"
+    },
+    {
+      "en": "Those around her would forgive her for weeping.",
+      "cn": "她身边的人会原谅她掉眼泪的。"
+    },
+    {
+      "en": "with the plaster palm trees, you could be forgiven for thinking you were somewhere on Hollywood Boulevard.",
+      "cn": "有那么多石膏棕榈树，即使你误以为你是走在好莱坞大道上也是可以理解的。"
+    },
+    {
+      "en": "Would they forgive and forget — or show him the door?",
+      "cn": "他们会既往不咎吗——还是会对他下逐客令呢？"
+    },
+    {
+      "en": "You're going to have to forgive my pronunciation.",
+      "cn": "你得原谅我的发音。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "forgivable",
+          "tran_cn": " 可宽恕的；可原谅的"
+        },
+        {
+          "word": "forgiving",
+          "tran_cn": " 宽恕的；宽容的；宽大的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "forgiveness",
+          "tran_cn": " 宽恕；宽仁之心"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "forgiving",
+          "tran_cn": " 原谅；豁免（forgive的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "absolve",
+            "acquit",
+            "excuse",
+            "justify",
+            "pardon",
+            "quit",
+            "vindicate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "absolve",
+            "excuse",
+            "pardon",
+            "quit"
+          ],
+          "tran_cn": "原谅,宽恕;豁免"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "one could (或 may) be forgiven for doing something",
+      "tran_cn": "可以理解（某种出错）"
+    },
+    {
+      "phrase": "please forgive me",
+      "tran_cn": "请原谅我；请你谅解我吧"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "原谅，宽恕，免除(债务)",
+      "tran_en": "to stop being angry with someone and stop blaming them, although they have done something wrong"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（forgave,forgiven）宽恕，饶恕",
+      "tran_en": "to stop being angry with someone and stop blaming them, although they have done something wrong"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "forgives"
+    ],
+    "past": [
+      "forgave"
+    ],
+    "done": [
+      "forgiven"
+    ],
+    "ing": [
+      "forgiving"
+    ]
+  }
+}

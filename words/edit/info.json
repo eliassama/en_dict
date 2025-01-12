@@ -1,0 +1,197 @@
+{
+  "word": "edit",
+  "ipa": {
+    "us": "ˈedɪt",
+    "uk": "ˈedɪt"
+  },
+  "sentences": [
+    {
+      "en": "a collection of essays edited by John Gay",
+      "cn": "由约翰·盖伊编辑的论文集"
+    },
+    {
+      "en": "Edit the input text and re-run the software.",
+      "cn": "修改输入的文本，重新运行软件。"
+    },
+    {
+      "en": "He taught me to edit and splice film.",
+      "cn": "他教我电影剪接。"
+    },
+    {
+      "en": "He undertook to edit the text himself.",
+      "cn": "他答应亲自编辑正文的内容。"
+    },
+    {
+      "en": "However, if the desired values are finite, the text edit control should not be used.",
+      "cn": "但是如果所需的值是有限的, 就不应该使用文本编辑控件."
+    },
+    {
+      "en": "I know that this draft text will need to be edited.",
+      "cn": "我知道这篇草稿需要校订。"
+    },
+    {
+      "en": "I used to edit the college paper in the old days.",
+      "cn": "以前我曾经做过大学校报的主编。"
+    },
+    {
+      "en": "In this case, a text edit control is probably unavoidable even though its use is bounded.",
+      "cn": "在这种情况下, 文本编辑控件可能无法避免,即使其用途有限."
+    },
+    {
+      "en": "It is not yet decided who will edit it.",
+      "cn": "由谁校订未决."
+    },
+    {
+      "en": "Special edit modes are almost always examples of excise.",
+      "cn": "它应该位于可编辑字段中,用户单击后可以直接更改它,特殊的编辑模态几乎都是附加工作."
+    },
+    {
+      "en": "The newspaper edits letters before printing them.",
+      "cn": "这家报社刊登读者来信前先作校订。"
+    },
+    {
+      "en": "The purpose of the edit is fairly simple—to chop out the boring bits from the original.",
+      "cn": "编辑的目的非常简单——删掉原稿中那些无用的部分。"
+    },
+    {
+      "en": "Then I'd edit his copy , and we'd go back and forth.",
+      "cn": "然后由我审编他写的稿子, 我们两个人反复推敲."
+    },
+    {
+      "en": "They are going to edit books for use in school.",
+      "cn": "他们准备编辑学校用书."
+    },
+    {
+      "en": "Three CBS cameramen were on site to shoot and edit taped reports.",
+      "cn": "3名哥伦比亚广播公司的摄影记者在现场拍摄并编辑录像报道。"
+    },
+    {
+      "en": "Two girls were chosen to edit the class bulletin.",
+      "cn": "选了两个女孩主编班级小报."
+    },
+    {
+      "en": "You can write and edit an illustrated composition on your personal computer.",
+      "cn": "你可以在你个人用的计算机上写或编一篇带插图的作文."
+    },
+    {
+      "en": "You'll have to edit that tape, it's too long.",
+      "cn": "那盘录音带太长, 你得把它剪辑一下."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "editorial",
+          "tran_cn": " 编辑的；社论的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "editorially",
+          "tran_cn": " 以编辑身份地；以社论形式"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "editor",
+          "tran_cn": " 编者，编辑；社论撰写人；编辑装置"
+        },
+        {
+          "word": "editorial",
+          "tran_cn": " 社论"
+        },
+        {
+          "word": "editorship",
+          "tran_cn": " 编辑；校订；编辑或主笔地位"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "amend",
+            "check",
+            "correct",
+            "emend",
+            "indite",
+            "revise",
+            "rewrite",
+            "shorten"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "amend",
+            "check",
+            "correct",
+            "revise",
+            "rewrite"
+          ],
+          "tran_cn": "修订;校正"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "edit box",
+      "tran_cn": "[计]编辑框"
+    },
+    {
+      "phrase": "edit mode",
+      "tran_cn": "[计]编辑方式"
+    },
+    {
+      "phrase": "edit window",
+      "tran_cn": "编辑窗口"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "编辑工作"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 剪辑，编辑，主编",
+      "tran_en": "to prepare a book, piece of film etc for printing or broadcasting by removing mistakes or parts that are not acceptable"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "编辑， 校订",
+      "tran_en": "to prepare a book, piece of film etc for printing or broadcasting by removing mistakes or parts that are not acceptable"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "edits"
+    ],
+    "past": [
+      "edited"
+    ],
+    "done": [
+      "edited"
+    ],
+    "ing": [
+      "editing"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "word": "invest",
+  "ipa": {
+    "us": "ɪnˈvest",
+    "uk": "ɪnˈvest"
+  },
+  "sentences": [
+    {
+      "en": "Astute salesmen know how to invest emotionally.",
+      "cn": "精明的商人懂得如何感情投资."
+    },
+    {
+      "en": "Business is booming and foreigners are scrambling to invest.",
+      "cn": "商业繁荣，外国人争相投资。"
+    },
+    {
+      "en": "I have decided to invest in a new car.",
+      "cn": "我已经决定买一辆新汽车."
+    },
+    {
+      "en": "I’ve got a few thousand dollars I’m looking to invest.",
+      "cn": "我有几千美元想作投资。"
+    },
+    {
+      "en": "Invest-ment is becoming a chancy business.",
+      "cn": "投资正变成一项风险事业。"
+    },
+    {
+      "en": "It pays to invest in protective clothing.",
+      "cn": "在防护服上投资是值得的。"
+    },
+    {
+      "en": "It was very difficult to leave a home we had invested so much in.",
+      "cn": "那个家我们投入得太多，要离开真的很难。"
+    },
+    {
+      "en": "It would be imprudent to invest all your money in one company.",
+      "cn": "把所有的钱都投资在一家公司是不明智的。"
+    },
+    {
+      "en": "Now is a good time to invest in the property market.",
+      "cn": "现在是对房地产市场投资的好时机。"
+    },
+    {
+      "en": "She wanted to set up her own company to invest in films.",
+      "cn": "她想成立自己的公司投资电影。"
+    },
+    {
+      "en": "The best time to invest is now.",
+      "cn": "现在是投资的最佳时机."
+    },
+    {
+      "en": "They are unwilling to invest any more money in the project.",
+      "cn": "他们不想在这个项目上再增加投资。"
+    },
+    {
+      "en": "They intended to invest hugely in new technology.",
+      "cn": "他们打算在新技术方面投入大量资金。"
+    },
+    {
+      "en": "They offer every inducement to foreign businesses to invest in their states.",
+      "cn": "他们为外国企业提供种种优厚条件，以吸引这些企业到他们所在的州投资。"
+    },
+    {
+      "en": "They would have to offer cast-iron guarantees to invest in long-term projects.",
+      "cn": "他们需提供绝对可靠的担保，才能投资长期项目。"
+    },
+    {
+      "en": "To get the most out of your money, you have to invest.",
+      "cn": "要想把钱的收益最大化，就必须投资。"
+    },
+    {
+      "en": "We can invest your money tax - free abroad.",
+      "cn": "我们可以将你的钱 免税 投资到国外."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "investiture",
+          "tran_cn": " 授职仪式；授权仪式；装饰或覆盖物"
+        },
+        {
+          "word": "investment",
+          "tran_cn": " 投资；投入；封锁"
+        },
+        {
+          "word": "investor",
+          "tran_cn": " 投资者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "commission",
+            "empower",
+            "endow",
+            "place",
+            "provide",
+            "seat",
+            "siege",
+            "stake",
+            "venture",
+            "vest"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "invent money in",
+            "plow into"
+          ],
+          "tran_cn": "投资，入股；花钱买"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "stake",
+            "venture"
+          ],
+          "tran_cn": "投资;冒险"
+        },
+        {
+          "words": [
+            "empower",
+            "endow",
+            "place",
+            "provide"
+          ],
+          "tran_cn": "授权;投资;捐赠"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "invest in",
+      "tran_cn": "v. 投资于；[口]买进；寄希望于"
+    },
+    {
+      "phrase": "invest with",
+      "tran_cn": "授予"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "投资，投入（时间/精力等），授予",
+      "tran_en": "to buy shares, property, or goods because you hope that the value will increase and you can make a profit"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 投资； 投入； 授予， 赋予",
+      "tran_en": "to buy shares, property, or goods because you hope that the value will increase and you can make a profit"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "invests"
+    ],
+    "past": [
+      "invested"
+    ],
+    "done": [
+      "invested"
+    ],
+    "ing": [
+      "investing"
+    ]
+  }
+}

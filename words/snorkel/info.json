@@ -1,0 +1,86 @@
+{
+  "word": "snorkel",
+  "ipa": {
+    "us": "ˈsnɔːkl",
+    "uk": "ˈsnɔːrkl"
+  },
+  "sentences": [
+    {
+      "en": "Dive and snorkel sites are easily accessible by boat from the beach.",
+      "cn": "从海滩坐船就可以直接到达潜水和潜泳的场所,方便极了."
+    },
+    {
+      "en": "Swim off the side of the ship and snorkel in some of the clearest waters imaginable.",
+      "cn": "游离小船边，用呼吸管潜游到可以想像得到的一些最清澈的水域。"
+    },
+    {
+      "en": "This is full stroke swimming with a front - mount snorkel.",
+      "cn": "这是戴呼吸管的完整划臂动作."
+    },
+    {
+      "en": "This is the best snorkel at that price.",
+      "cn": "这是那个价钱的呼吸管中最好的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "snorkeling",
+          "tran_cn": " 潜浮的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "snorkeling",
+          "tran_cn": " 浮潜；潜水；浅滩潜水"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "snorkeling",
+          "tran_cn": " 用水下通气管潜航；用通气管潜泳（snorkel的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "breather pipe",
+            "breather tube"
+          ],
+          "tran_cn": "[军][船]通气管；潜艇换气装置"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（潜水者使用的）通气管，水下呼吸管",
+      "tran_en": "A snorkel is a tube through which a person swimming just under the surface of the sea can breathe."
+    },
+    {
+      "pos": "v",
+      "tran_cn": "用水下通气管潜航",
+      "tran_en": "When someone snorkels, they swim under water using a snorkel."
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "snorkels"
+    ]
+  }
+}

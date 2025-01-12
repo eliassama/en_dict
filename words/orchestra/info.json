@@ -1,0 +1,183 @@
+{
+  "word": "orchestra",
+  "ipa": {
+    "us": "ˈɔːkɪstrə",
+    "uk": "ˈɔːrkɪstrə"
+  },
+  "sentences": [
+    {
+      "en": "He directed an orchestra.",
+      "cn": "他指挥一个管弦乐队。"
+    },
+    {
+      "en": "I'd love to hear it played by a professional orchestra.",
+      "cn": "我很想听听专业管弦乐队演奏它。"
+    },
+    {
+      "en": "Masur led the orchestra with assurance.",
+      "cn": "马苏尔神定气若地指挥乐团。"
+    },
+    {
+      "en": "She conducted an orchestra of forty instruments.",
+      "cn": "她在一个拥有40种乐器的管弦乐队里当指挥。"
+    },
+    {
+      "en": "She could hear the tinny strains of a chamber orchestra.",
+      "cn": "她能听见室内管弦乐队尖细的旋律。"
+    },
+    {
+      "en": "She plays the flute in the school orchestra.",
+      "cn": "她在校管弦乐队里吹长笛。"
+    },
+    {
+      "en": "The BBC Symphony Orchestra played with great panache.",
+      "cn": "英国广播公司交响乐团演奏起来挥洒自如。"
+    },
+    {
+      "en": "the Berlin Symphony Orchestra",
+      "cn": "柏林交响乐团"
+    },
+    {
+      "en": "the Boston Symphony Orchestra",
+      "cn": "波士顿交响乐团"
+    },
+    {
+      "en": "The Lithuanian Philharmonic Orchestra played Beethoven's Ninth Symphony.",
+      "cn": "立陶宛爱乐交响乐团演奏了贝多芬的《第九交响曲》。"
+    },
+    {
+      "en": "The orchestra contrived to produce some of its best playing for years.",
+      "cn": "这支管弦乐队呈现了精彩的演奏，堪称其多年来的巅峰演奏。"
+    },
+    {
+      "en": "The orchestra gave its first performance on Whit Monday.",
+      "cn": "乐团在周一的圣灵降临节举行了首场演出。"
+    },
+    {
+      "en": "The orchestra has more discipline now, but at the expense of spirit.",
+      "cn": "那个管弦乐团现在更有纪律性了，却丧失了灵魂。"
+    },
+    {
+      "en": "The orchestra played superbly.",
+      "cn": "这支管弦乐队演奏得棒极了。"
+    },
+    {
+      "en": "The orchestra plays immaculately.",
+      "cn": "管弦乐队的演奏完美无瑕。"
+    },
+    {
+      "en": "The orchestra's been swotting up their Holst and Stravinsky.",
+      "cn": "该管弦乐队一直在刻苦排练演奏霍尔斯特和斯特拉文斯基的作品。"
+    },
+    {
+      "en": "the school orchestra",
+      "cn": "校管弦乐队"
+    },
+    {
+      "en": "the woodwind section of the orchestra",
+      "cn": "管弦乐队的木管乐器组"
+    },
+    {
+      "en": "Young conductors earn their spurs in a small orchestra or opera house.",
+      "cn": "年轻的指挥家们在小乐队或小歌剧院里崭露头角。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "orchestral",
+          "tran_cn": " 管弦乐的；管弦乐队的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "orchestration",
+          "tran_cn": " 管弦乐编曲；和谐的结合"
+        },
+        {
+          "word": "orchestrator",
+          "tran_cn": " 管弦乐演奏家；管弦乐编曲家"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "orchestrate",
+          "tran_cn": " 编管弦乐曲"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "orchestrate",
+          "tran_cn": " 把…编成管弦乐曲；（美）精心安排；把…协调地结合起来"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "band",
+            "ensemble"
+          ],
+          "tran_cn": "乐队"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "band",
+            "ensemble"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "boston symphony orchestra",
+      "tran_cn": "波士顿交响乐团"
+    },
+    {
+      "phrase": "chamber orchestra",
+      "tran_cn": "室内管弦乐队"
+    },
+    {
+      "phrase": "philharmonic orchestra",
+      "tran_cn": "爱乐乐团，爱乐团；管弦乐团"
+    },
+    {
+      "phrase": "symphony orchestra",
+      "tran_cn": "交响乐团"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "管弦乐队，管弦乐队的全部乐器",
+      "tran_en": "a large group of musicians playing many different kinds of instruments and led by a conductor"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "orchestras"
+    ]
+  }
+}

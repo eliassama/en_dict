@@ -1,0 +1,215 @@
+{
+  "word": "precipitate",
+  "ipa": {
+    "us": "prɪˈsɪpɪteɪt , prɪˈsɪpɪtət",
+    "uk": "prɪˈsɪpɪteɪt , prɪˈsɪpɪtət"
+  },
+  "sentences": [
+    {
+      "en": "A cool breeze caused a precipitate drop in the temperature.",
+      "cn": "冷风使温度急降."
+    },
+    {
+      "en": "A slight mistake could precipitate a disaster.",
+      "cn": "小错误可能会招致大灾难。"
+    },
+    {
+      "en": "Adding sulphate to the solution will give a precipitate.",
+      "cn": "将硫酸盐加入该溶液会产生沉淀."
+    },
+    {
+      "en": "At these levels carbon does not precipitate like oxygen, nor is it electrica lly active.",
+      "cn": "这一浓度下碳既不象氧一样沉淀, 也不呈电治性."
+    },
+    {
+      "en": "Clouds usually precipitate as rain or snow.",
+      "cn": "云常会凝结成雨或雪."
+    },
+    {
+      "en": "Emitters on trickle system can be blocked by precipitate.",
+      "cn": "灌溉系统中的发射器会被沉积物所堵塞."
+    },
+    {
+      "en": "He had been afraid that he was about to precipitate another conversation upon the marriage question.",
+      "cn": "他刚才一直在担心又要谈到婚姻问题上去."
+    },
+    {
+      "en": "He thought Miss Archer sometimes of too precipitate a readiness.",
+      "cn": "他觉得,阿切尔小姐有时太性急,太直接了当."
+    },
+    {
+      "en": "I don't think we should make precipitate decisions.",
+      "cn": "我认为我们不应该贸然作出决定。"
+    },
+    {
+      "en": "Iron and aluminum compounds precipitate as a voluminous sludge.",
+      "cn": "铁和铝的化合物成为一种体积庞大的蓬松的游渣沉淀下来."
+    },
+    {
+      "en": "It would only serve to precipitate his ruin.",
+      "cn": "它只会加速他的毁灭."
+    },
+    {
+      "en": "Jackson's actions helped precipitate the sharp business panics that occurred in 1834 and 1837.",
+      "cn": "杰克逊的做法加速了1834年和1837年发生的经济恐慌."
+    },
+    {
+      "en": "The clouds precipitate / are precipitatedas snow in winter.",
+      "cn": "在冬天云冷凝成为雪."
+    },
+    {
+      "en": "The killings in Vilnius have precipitated the worst crisis yet.",
+      "cn": "维尔纽斯的杀戮事件快速引发了迄今为止最严重的危机。"
+    },
+    {
+      "en": "The king was too precipitate in declaring war.",
+      "cn": "国王在宣战一事上过于轻率."
+    },
+    {
+      "en": "The riot was precipitated when four black men were arrested.",
+      "cn": "这场骚乱是因为四名黑人男子的被捕而突然引发的。"
+    },
+    {
+      "en": "This precipitate dissolves in an excess of aqueous ammonia.",
+      "cn": "这个沉淀能溶解在过量的氨水中."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "precipitant",
+          "tran_cn": " 勇往直前的；急促的；突如其来的"
+        },
+        {
+          "word": "precipitating",
+          "tran_cn": " 起沉淀作用的；急落的；猛冲的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "precipitately",
+          "tran_cn": " 猛进地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "precipitant",
+          "tran_cn": " [化学] 沉淀剂"
+        },
+        {
+          "word": "precipitation",
+          "tran_cn": " [化学] 沉淀，[化学] 沉淀物；冰雹；坠落；鲁莽"
+        },
+        {
+          "word": "precipitator",
+          "tran_cn": " [化学] 沉淀剂，[矿业] 沉淀器；催促的人"
+        },
+        {
+          "word": "precipitin",
+          "tran_cn": " [免疫] 沉淀素"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "rapid"
+          ],
+          "tran_cn": "突如其来的；猛地落下的；急促的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "deposit",
+            "sediment",
+            "sludge"
+          ],
+          "tran_cn": "[化学]沉淀物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "deposit",
+            "settle"
+          ],
+          "tran_cn": "[化学]沉淀；猛地落下；冷凝成为雨或雪等"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "immerse",
+            "catalyse"
+          ],
+          "tran_cn": "[化学]使沉淀；促成；猛抛；使陷入"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "仓促行进的，匆促的，轻率的，鲁莽的，草率的；仓促的冲动行事的，突然发生的，猛地落下的",
+      "tran_en": "happening or done too quickly, and not thought about carefully"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "[化]沉淀物，结果，产物",
+      "tran_en": "a solid substance that has been chemically separated from a liquid"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 使突然发生； 猛然抛下； 使沉淀",
+      "tran_en": "to separate a solid substance from a liquid by chemical action, or to be separated in this way"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "[气象]凝结，[化]沉淀，倒落，一头栽下"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "下掷，由高处抛下，使提前或突然发生，加速（坏事的发生），[气象] 使凝结而下降，冷凝成为雨或雪等，[化]使沉淀"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "precipitates"
+    ],
+    "past": [
+      "precipitated"
+    ],
+    "done": [
+      "precipitated"
+    ],
+    "ing": [
+      "precipitating"
+    ],
+    "adv": [
+      "precipitately"
+    ]
+  }
+}

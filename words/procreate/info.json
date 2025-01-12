@@ -1,0 +1,118 @@
+{
+  "word": "procreate",
+  "ipa": {
+    "us": "ˈprəʊkrieɪt",
+    "uk": "ˈproʊkrieɪt"
+  },
+  "sentences": [
+    {
+      "en": "Did you know that the domestic turkey is unable to procreate naturally?",
+      "cn": "你们知道家养火鸡是不能自然繁殖的 吗 ?"
+    },
+    {
+      "en": "Most young women  feel a biological need to procreate.",
+      "cn": "大多数的年轻妇女都有生儿育女的生理需要。"
+    },
+    {
+      "en": "Most young women feel a biological need to procreate.",
+      "cn": "大多数的年轻妇女都有生儿育女的生理需要。"
+    },
+    {
+      "en": "The bible tells people to procreate.",
+      "cn": "圣经告诉人们生儿育女."
+    },
+    {
+      "en": "Why do we breathe, why do we procreate?",
+      "cn": "我们为什么要呼吸, 为什么要生儿育女?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "procreative",
+          "tran_cn": " 生产的，生殖的；有生殖力的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "procreation",
+          "tran_cn": " 生殖；生产"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "conceive",
+            "propagate",
+            "reproduce",
+            "sire"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "result",
+            "breed"
+          ],
+          "tran_cn": "生育（子女）；产生"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "generate",
+            "reproduce"
+          ],
+          "tran_cn": "生殖"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "生(儿,女), 生殖, 产生",
+      "tran_en": "to produce children or baby animals"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "生（儿、女），生育，生殖"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "procreates"
+    ],
+    "past": [
+      "procreated"
+    ],
+    "done": [
+      "procreated"
+    ],
+    "ing": [
+      "procreating"
+    ],
+    "noun": [
+      "procreation"
+    ]
+  }
+}

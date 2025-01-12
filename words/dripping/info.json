@@ -1,0 +1,223 @@
+{
+  "word": "dripping",
+  "ipa": {
+    "us": "ˈdrɪpɪŋ",
+    "uk": "ˈdrɪpɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Amid the trees the sea mist was dripping.",
+      "cn": "林子里弥漫着湿漉漉的海雾。"
+    },
+    {
+      "en": "Both horse and rider were dripping with sweat within five minutes.",
+      "cn": "没过五分钟，马和骑手都大汗淋漓。"
+    },
+    {
+      "en": "He became aware of the soft, faint sounds of water dripping.",
+      "cn": "他开始注意到轻微的水滴声。"
+    },
+    {
+      "en": "Her face was dripping with sweat.",
+      "cn": "她脸上汗水淋淋。"
+    },
+    {
+      "en": "His forehead was dripping with perspiration.",
+      "cn": "他额上在淌汗."
+    },
+    {
+      "en": "His hand was dripping blood.",
+      "cn": "他的手在滴血."
+    },
+    {
+      "en": "His voice was dripping with sarcasm.",
+      "cn": "他的话里满是讥讽。"
+    },
+    {
+      "en": "Lou was dripping with perspiration.",
+      "cn": "卢浑身淌汗。"
+    },
+    {
+      "en": "Rain pattered gently outside, dripping on to the roof from the pines.",
+      "cn": "外面，松树上的雨水滴落在屋顶上，嗒嗒作响。"
+    },
+    {
+      "en": "Sweat was dripping from her neck.",
+      "cn": "汗水从她脖子上滴下来。"
+    },
+    {
+      "en": "Sweat was dripping from his face.",
+      "cn": "汗水从他脸上滴下来。"
+    },
+    {
+      "en": "The children kept dripping Coke on the carpets.",
+      "cn": "孩子们老往地毯上滴可乐。"
+    },
+    {
+      "en": "The rain was dripping down his neck.",
+      "cn": "雨水沿着他的脖子往下滴。"
+    },
+    {
+      "en": "The tap was dripping.",
+      "cn": "水龙头在滴水."
+    },
+    {
+      "en": "They were dazed by window displays dripping with diamonds and furs.",
+      "cn": "他们被满橱窗陈列的钻石和皮草弄得眼花缭乱。"
+    },
+    {
+      "en": "Water is dripping from that leaky faucet.",
+      "cn": "水正从漏水的笼头滴下来."
+    },
+    {
+      "en": "Water is dripping from the roof.",
+      "cn": "水正从屋顶滴下来."
+    },
+    {
+      "en": "We were dripping wet from the spray.",
+      "cn": "我们被水花打湿了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dripless",
+          "tran_cn": " 不滴水的"
+        },
+        {
+          "word": "drippy",
+          "tran_cn": " 多雨的；潮湿的；滴落的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "drip",
+          "tran_cn": " 水滴，滴水声；静脉滴注；使人厌烦的人"
+        },
+        {
+          "word": "drippage",
+          "tran_cn": " 滴聚之水；滴落"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "drip",
+          "tran_cn": " 滴下；充满；漏下"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "drip",
+          "tran_cn": " 使滴下；溢出，发出"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "wringing-wet"
+          ],
+          "tran_cn": "湿淋淋的；欲滴的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "drop",
+            "gutta"
+          ],
+          "tran_cn": "滴；水滴；滴下物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "damp",
+            "oil",
+            "rainy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "dribbling"
+          ],
+          "tran_cn": "滴下（drip的ing形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "drip coffee",
+      "tran_cn": "滴流咖啡（使沸水慢慢渗过咖啡粉末所泡成的咖啡，等于drip grind）"
+    },
+    {
+      "phrase": "drip from",
+      "tran_cn": "从…上滴下"
+    },
+    {
+      "phrase": "drip irrigation",
+      "tran_cn": "滴灌；滴流灌溉"
+    },
+    {
+      "phrase": "drip with",
+      "tran_cn": "往下滴"
+    },
+    {
+      "phrase": "intravenous drip",
+      "tran_cn": "静脉滴注法"
+    },
+    {
+      "phrase": "water drip",
+      "tran_cn": "滴水槽"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "湿淋淋的",
+      "tran_en": "extremely wet"
+    },
+    {
+      "pos": "adv",
+      "tran_cn": "欲滴地；湿淋淋地"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "滴，滴下，滴下物，油滴",
+      "tran_en": "the oily substance that comes out of meat when you cook it"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（使）滴下( drip的现在分词 )，滴出，含有，充满"
+    }
+  ],
+  "exchange": {}
+}

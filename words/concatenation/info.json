@@ -1,0 +1,130 @@
+{
+  "word": "concatenation",
+  "ipa": {
+    "us": "kənˌkætəˈneɪʃn",
+    "uk": " kənˌkætəˈneɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "a strange concatenation of events",
+      "cn": "一连串奇怪的事"
+    },
+    {
+      "en": "An iterative decoding scheme is proposed for the concatenation a convolutional code and a GMSK modulator.",
+      "cn": "提出了卷积码与GMSK( 高斯最小移频键控)调制器级联系统的一种迭代译码方案."
+    },
+    {
+      "en": "Delegate types also provide a binary + operator, which performs delegate concatenation.",
+      "cn": "委托类型也提供二元+运算符, 该运算符执行委托串联."
+    },
+    {
+      "en": "He had a three-brush motor, with dynamic brake and intermittent on one speed only—his system was a concatenation of a lot of different ideas.",
+      "cn": "迪肯说，“他有一个三刷马达，配有动态制动和以均速间歇——他的系统将不同想法综合串联在了一起。"
+    },
+    {
+      "en": "Illegal concatenation of incompatible requests ( perhaps version mismatch )",
+      "cn": "不兼容请求的串联非法 ( 可能是版本不匹配 )"
+    },
+    {
+      "en": "In addition , concatenation of LM 3914 s could increase number of the circuit effectively.",
+      "cn": "对LM3914采用级联,还可有效地提高细分电路的细分数."
+    },
+    {
+      "en": "It was caused by an improbable concatenation of circumstances.",
+      "cn": "这是由不可思议的巧合所引起的."
+    },
+    {
+      "en": "Listing 2 shows a sample algorithm which creates such a key by string concatenation.",
+      "cn": "清单 2 显示了一个通过字符串串联创建此类键的示例算法。"
+    },
+    {
+      "en": "Memory is nothing else than a certain concatenation of ideas.",
+      "cn": "记忆不是别的,只是一种观念的联系."
+    },
+    {
+      "en": "String concatenation is the primary point of entry for script injection.",
+      "cn": "字符串连接是脚本注入的主要入口点."
+    },
+    {
+      "en": "The Arab revolt of 2011 belongs to a rare class of historical events: a concatenation of political upheavals, one detonating the other, across an entire region of the world.",
+      "cn": "2011年的阿拉伯起义属于一类罕见的历史事件：政治剧变的串联，这些动乱相互引爆，遍及一整个世界性的区域。"
+    },
+    {
+      "en": "The concatenation cost function is a key factor affecting the naturalness of synthesized speech.",
+      "cn": "拼接代价函数是决定合成音自然度的重要因素之一."
+    },
+    {
+      "en": "The following illustration depicts a concatenation operation on two sequences of characters.",
+      "cn": "下图演示对两个字符序列执行的串联运算."
+    },
+    {
+      "en": "The standard query operator Methods: That perform concatenation are listed in the following section.",
+      "cn": "下面一节中列出了执行串联的标准查询运算符方法."
+    },
+    {
+      "en": "Use standard arithmetic operators for numbers and a concatenation operator for combining strings.",
+      "cn": "对于数可使用标准算术运算符,对于组合字符串可使用串联运算符."
+    },
+    {
+      "en": "Which of these approaches is adopted depends on the concatenation of a number of factors.",
+      "cn": "这些方法中究竟采用哪一种,视若干相互联系的因素而定."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "concatenate",
+          "tran_cn": " 连结的；连锁的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "concatenate",
+          "tran_cn": " 连结；使连锁"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "tandem connection",
+            "connection in series"
+          ],
+          "tran_cn": "串联，连结"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "connection",
+            "continuance",
+            "relation",
+            "series"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "一系列互相关联的事物",
+      "tran_en": "a series of events or things joined together one after another"
+    }
+  ],
+  "exchange": {}
+}

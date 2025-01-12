@@ -1,0 +1,259 @@
+{
+  "word": "probability",
+  "ipa": {
+    "us": "ˌprɒbəˈbɪləti",
+    "uk": "ˌprɑːbəˈbɪləti"
+  },
+  "sentences": [
+    {
+      "en": "Formal talks are still said to be a possibility, not a probability.",
+      "cn": "据称正式会谈仍有可能，但可能性不大。"
+    },
+    {
+      "en": "He must calculate the probability of failure.",
+      "cn": "他必须计算一下失败的概率."
+    },
+    {
+      "en": "His story-telling can push the bounds of probability a bit far at times.",
+      "cn": "他讲故事的时候，不时会有些夸大。"
+    },
+    {
+      "en": "If the pool was open, we'd in all probability still be swimming in it.",
+      "cn": "如果游泳池还开着，我们完全可能还在里面游泳。"
+    },
+    {
+      "en": "If you've owned property for several years, the probability is that values have increased.",
+      "cn": "如果一处房产已经拥有多年，有可能它已经增值了。"
+    },
+    {
+      "en": "In all probability, the final upturn in their fortunes is some months away yet.",
+      "cn": "很可能再过数月他们才会转运。"
+    },
+    {
+      "en": "The Prime Minister is now 64 years old and in all probability this will be the last election that he is likely to contest.",
+      "cn": "首相现年64岁，这多半将会是他可能参加的最后一次选举了。"
+    },
+    {
+      "en": "The probability is that prices will rise rapidly.",
+      "cn": "物价有可能会迅速上升。"
+    },
+    {
+      "en": "The probability that it will rain today is high.",
+      "cn": "今天下雨的可能性很大."
+    },
+    {
+      "en": "There is every probability of his coming.",
+      "cn": "他多半会来."
+    },
+    {
+      "en": "There is little probability of his succeeding / that he will succeed.",
+      "cn": "他不大可能成功."
+    },
+    {
+      "en": "There's an excellent probability that unless action is quickly taken, pipes will freeze.",
+      "cn": "除非立即采取行动，否则管道很有可能冻住。"
+    },
+    {
+      "en": "This settled the probability of acquaintanceship.",
+      "cn": "这样就有了相识的可能."
+    },
+    {
+      "en": "What are the probability ties?",
+      "cn": "有几分把握?"
+    },
+    {
+      "en": "Without a transfusion, the victim's probability of dying was 100%.",
+      "cn": "如果不输血，患者必死无疑。"
+    },
+    {
+      "en": "You must decide whether, on the balance of probabilities , he committed the crime.",
+      "cn": "你们一定要权衡正反两方面的可能性，然后再裁定他是否犯罪。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "probabilistic",
+          "tran_cn": " 概率性的；或然说的，盖然论的"
+        },
+        {
+          "word": "probable",
+          "tran_cn": " 很可能的；可信的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "probably",
+          "tran_cn": " 大概；或许；很可能"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "probabilism",
+          "tran_cn": " 盖然论；或然论"
+        },
+        {
+          "word": "probable",
+          "tran_cn": " 很可能的事；大有希望的候选者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "believability",
+            "credibility",
+            "feasibility",
+            "potentiality",
+            "viability"
+          ],
+          "tran_cn": "可信,可能"
+        },
+        {
+          "words": [
+            "chance",
+            "eventuality",
+            "expectation",
+            "good",
+            "likelihood",
+            "likeliness",
+            "odds",
+            "off",
+            "outlook",
+            "outside",
+            "possibility",
+            "prospect",
+            "verisimilitude"
+          ],
+          "tran_cn": "可能性,概率,大概"
+        },
+        {
+          "words": [
+            "best",
+            "bet",
+            "favorite",
+            "son"
+          ],
+          "tran_cn": "最被喜欢的人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contingent"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "conditional probability",
+      "tran_cn": "条件概率；条件几率"
+    },
+    {
+      "phrase": "damage probability",
+      "tran_cn": "损伤概率"
+    },
+    {
+      "phrase": "detection probability",
+      "tran_cn": "探测概率；发现概率"
+    },
+    {
+      "phrase": "error probability",
+      "tran_cn": "错误概率；概率误差"
+    },
+    {
+      "phrase": "failure probability",
+      "tran_cn": "失效概率"
+    },
+    {
+      "phrase": "high probability",
+      "tran_cn": "高可能性"
+    },
+    {
+      "phrase": "in all probability",
+      "tran_cn": "极为可能地；很可能地"
+    },
+    {
+      "phrase": "joint probability",
+      "tran_cn": "联合机率，联合概率"
+    },
+    {
+      "phrase": "posterior probability",
+      "tran_cn": "后验概率；事后概率"
+    },
+    {
+      "phrase": "probability analysis",
+      "tran_cn": "n. 概率分析"
+    },
+    {
+      "phrase": "probability and statistics",
+      "tran_cn": "概率论与数理统计；概率与统计"
+    },
+    {
+      "phrase": "probability density",
+      "tran_cn": "概率密度；几率密度"
+    },
+    {
+      "phrase": "probability density function",
+      "tran_cn": "机率密度函数；概率密度分布函数"
+    },
+    {
+      "phrase": "probability distribution",
+      "tran_cn": "概率分布"
+    },
+    {
+      "phrase": "probability distribution function",
+      "tran_cn": "概率分布函数"
+    },
+    {
+      "phrase": "probability of failure",
+      "tran_cn": "故障几率；失效概率；崩塌概率"
+    },
+    {
+      "phrase": "probability statistics",
+      "tran_cn": "概率统计"
+    },
+    {
+      "phrase": "probability theory",
+      "tran_cn": "概率论"
+    },
+    {
+      "phrase": "theory of probability",
+      "tran_cn": "概率论"
+    },
+    {
+      "phrase": "transition probability",
+      "tran_cn": "转移概率；跃迁概率"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "可能性，几率，概率，或然性",
+      "tran_en": "how likely something is, sometimes calculated in a mathematical way"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "probabilities"
+    ]
+  }
+}

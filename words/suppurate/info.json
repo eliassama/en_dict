@@ -1,0 +1,90 @@
+{
+  "word": "suppurate",
+  "ipa": {
+    "us": "ˈsʌpjureɪt",
+    "uk": "'sʌpjʊreɪt"
+  },
+  "sentences": [
+    {
+      "en": "Left untreated, the abscesses suppurate ; the pus cannot escape from the body, and the malady spreads throughout the organism.",
+      "cn": "将其置之脑后，而脓肿仍在化脓，其浓液不可能不侵入身体，这种疼痛（）布了整个有机体。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "suppurative",
+          "tran_cn": " 化脓的；化脓性的；使化脓的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "suppuration",
+          "tran_cn": " 脓；化脓；生脓"
+        },
+        {
+          "word": "suppurative",
+          "tran_cn": " 吸脓药；化脓促进剂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "gather head",
+            "rankle"
+          ],
+          "tran_cn": "化脓"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "maturate"
+          ],
+          "tran_cn": "使化脓"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "[医]生脓, 化脓, 流脓"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "化脓，溃烂"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "suppurates"
+    ],
+    "past": [
+      "suppurated"
+    ],
+    "done": [
+      "suppurated"
+    ],
+    "ing": [
+      "suppurating"
+    ],
+    "noun": [
+      "suppuration"
+    ]
+  }
+}

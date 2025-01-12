@@ -1,0 +1,91 @@
+{
+  "word": "stenography",
+  "ipa": {
+    "us": "stəˈnɒgrəfi",
+    "uk": "stəˈnɑgrəfi"
+  },
+  "sentences": [
+    {
+      "en": "Coursework included: secretarial principles, office administration, management, business English, English word processing, stenography, bookkeeping.",
+      "cn": "课程包括：秘书原理，办公室行政，管理学，商用英语，英语文字处理，速记学，簿记。"
+    },
+    {
+      "en": "Please give me information on their shorthand , stenography, and typing abilities.",
+      "cn": "请告诉我们有关他们速记和打字的能力."
+    },
+    {
+      "en": "She knew no more shorthand than if she had been a graduate in stenography just let slip upon the world by a business college.",
+      "cn": "她并不太精通速记，就像是刚刚走出商学院速记专业的毕业学生，来闯荡世界。"
+    },
+    {
+      "en": "This job necessitated a knowledge of stenography and typewriting, which she soon acquired.",
+      "cn": "这工作需要会速记和打字, 她不久便学会了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "stenographic",
+          "tran_cn": " 速记的；利用速记的；简洁的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stenograph",
+          "tran_cn": " 速记机；速记文字"
+        },
+        {
+          "word": "stenographer",
+          "tran_cn": " 速记员"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "stenograph",
+          "tran_cn": " 速记"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "shorthand"
+          ],
+          "tran_cn": "[语]速记法，速记"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "shorthand"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "速记，速记法",
+      "tran_en": "a fast way of writing in which you use special signs or short forms of words, used especially to record what someone is saying"
+    }
+  ],
+  "exchange": {}
+}

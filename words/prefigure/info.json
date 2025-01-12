@@ -1,0 +1,75 @@
+{
+  "word": "prefigure",
+  "ipa": {
+    "us": "ˌpri:ˈfɪgə(r)",
+    "uk": "ˌpriˈfɪgjər"
+  },
+  "sentences": [
+    {
+      "en": "The wall through Berlin was finally ruptured, prefiguring the reunification of Germany.",
+      "cn": "柏林墙终于倒塌了，预示着德国的重新统一。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prefigurative",
+          "tran_cn": " 预示的；青年价值取向社会的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "prefiguration",
+          "tran_cn": " 预示；预想；征兆"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "indicate",
+            "forecast",
+            "shadow",
+            "announce"
+          ],
+          "tran_cn": "预示；预想"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预示；预想",
+      "tran_en": "to be a sign that something will happen later"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "预示，预兆"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "prefigures"
+    ],
+    "past": [
+      "prefigured"
+    ],
+    "done": [
+      "prefigured"
+    ],
+    "ing": [
+      "prefiguring"
+    ]
+  }
+}

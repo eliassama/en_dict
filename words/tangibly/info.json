@@ -1,0 +1,71 @@
+{
+  "word": "tangibly",
+  "ipa": {
+    "us": "'tændʒəblɪ",
+    "uk": "'tændʒəblɪ"
+  },
+  "sentences": [
+    {
+      "en": "Suddenly the problem of future loomed tangibly for me.",
+      "cn": "突然,前途的问题明确地出现在我眼前."
+    },
+    {
+      "en": "This tangibly demonstrated that the world situation could be improved.",
+      "cn": "这清楚地表明世界局势是可以改善的。"
+    },
+    {
+      "en": "Virtue is tangibly rewarded.",
+      "cn": "善行得到具体的报答."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tangible",
+          "tran_cn": " 有形的；切实的；可触摸的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tangibility",
+          "tran_cn": " 可触知；有实质；确实性"
+        },
+        {
+          "word": "tangible",
+          "tran_cn": " 有形资产"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "explicitly",
+            "plainly"
+          ],
+          "tran_cn": "可触知地；明白地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "可触摸的，可触知地，明白地"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "tangible"
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "word": "detective",
+  "ipa": {
+    "us": "dɪˈtektɪv",
+    "uk": "dɪˈtektɪv"
+  },
+  "sentences": [
+    {
+      "en": "...Arthur Conan Doyle's classic detective novel.",
+      "cn": "…阿瑟·柯南·道尔的经典侦探小说。"
+    },
+    {
+      "en": "\"Once a detective, always a detective,\" he said lightly.",
+      "cn": "“一日为侦探，终生为侦探，”他满不在意地说。"
+    },
+    {
+      "en": "a detective story/novel",
+      "cn": "侦探故事 / 小说"
+    },
+    {
+      "en": "a pastiche of the classic detective story",
+      "cn": "经典侦探故事的仿作"
+    },
+    {
+      "en": "detectives from the anti-terrorist squad",
+      "cn": "反恐怖主义小组的侦探"
+    },
+    {
+      "en": "He buried himself in his detective story again.",
+      "cn": "他又沉浸在他的侦探故事里了。"
+    },
+    {
+      "en": "I don't have to be a detective to figure that out.",
+      "cn": "我不是侦探也想得出。"
+    },
+    {
+      "en": "I'mno great shakes as a detective.",
+      "cn": "作为一名侦探我并不出色。"
+    },
+    {
+      "en": "It's the detective-sergeant. He wants a word.",
+      "cn": "这位是探长，他想找你聊两句。"
+    },
+    {
+      "en": "Joan Smith's detective stories are a cut above the rest.",
+      "cn": "琼·史密斯的侦探小说比其他侦探小说都要出色。"
+    },
+    {
+      "en": "Journalists informed police who planted an undercover detective to trap Smith.",
+      "cn": "记者通知了警方，后者于是为诱捕史密斯而安插了一名卧底侦探。"
+    },
+    {
+      "en": "Now detectives are appealing for witnesses who may have seen anything suspicious last night.",
+      "cn": "现在侦探们正在呼吁昨晚可能看到任何可疑情况的人出来作证。"
+    },
+    {
+      "en": "She hired a detective to find out if her husband was having an affair.",
+      "cn": "她雇了一个私人侦探调查她丈夫是否有外遇。"
+    },
+    {
+      "en": "The detective discovered no fewer than 35 fingerprints.",
+      "cn": "那位侦探发现了至少35个指纹。"
+    },
+    {
+      "en": "The detective gives a false colour to this whole business.",
+      "cn": "这个侦探彻底地歪曲了整个事件."
+    },
+    {
+      "en": "The detective tried to pin the murder on the accused man.",
+      "cn": "那侦探企图把杀人的罪名加在那个被告的身上."
+    },
+    {
+      "en": "The detective was trying to winkle information out of her.",
+      "cn": "侦探试图从她那儿套取信息。"
+    },
+    {
+      "en": "The detective-constable picked out the words with difficulty.",
+      "cn": "探警费力地辨认出这些文字。"
+    },
+    {
+      "en": "The store detective told the shoplifter that the game was up.",
+      "cn": "该商店侦探告诉冒充顾客进商店行窃的扒手,他已被发现了."
+    },
+    {
+      "en": "The woman detective shifted her stance from one foot to another.",
+      "cn": "女侦探改变了站姿，把重心从一只脚移到另一只脚。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "detection",
+          "tran_cn": " 侦查，探测；发觉，发现；察觉"
+        },
+        {
+          "word": "detector",
+          "tran_cn": " 检测器；发现者；侦察器"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "detect",
+          "tran_cn": " 察觉；发现；探测"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "(P.I.)",
+            "eye",
+            "gumshoe",
+            "investigator",
+            "private",
+            "sleuth",
+            "snoop"
+          ],
+          "tran_cn": "侦探"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "detective film",
+      "tran_cn": "侦探片"
+    },
+    {
+      "phrase": "detective story",
+      "tran_cn": "侦探小说"
+    },
+    {
+      "phrase": "private detective",
+      "tran_cn": "私家侦探"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "侦探的，破案的",
+      "tran_en": "A detective novel or story is one in which a detective tries to solve a crime"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "侦探，警探",
+      "tran_en": "a police officer whose job is to discover information about crimes and catch criminals"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "detectives"
+    ]
+  }
+}

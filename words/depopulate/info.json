@@ -1,0 +1,54 @@
+{
+  "word": "depopulate",
+  "ipa": {
+    "us": "ˌdi:ˈpɒpjuleɪt",
+    "uk": "ˌdiˈpɑpjuleɪt"
+  },
+  "sentences": [
+    {
+      "en": "Disease depopulated the whole region.",
+      "cn": "疾病使整个地区人口大量减少。"
+    },
+    {
+      "en": "The famine threatened to depopulate the continent.",
+      "cn": "饥荒可能会导致该大洲人口剧减。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "depopulation",
+          "tran_cn": " 人口减少；灭绝"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（使）人口减少",
+      "tran_en": "to greatly reduce the number of people living in a particular area"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "depopulates"
+    ],
+    "past": [
+      "depopulated"
+    ],
+    "done": [
+      "depopulated"
+    ],
+    "ing": [
+      "depopulating"
+    ],
+    "noun": [
+      "depopulation"
+    ]
+  }
+}

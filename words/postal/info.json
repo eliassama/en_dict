@@ -1,0 +1,190 @@
+{
+  "word": "postal",
+  "ipa": {
+    "us": "ˈpəʊstl",
+    "uk": "ˈpoʊstl"
+  },
+  "sentences": [
+    {
+      "en": "a good postal service",
+      "cn": "良好的邮政服务"
+    },
+    {
+      "en": "A postal network now covers the whole country.",
+      "cn": "邮路遍及全国."
+    },
+    {
+      "en": "an increase in postal charges",
+      "cn": "邮资的上涨"
+    },
+    {
+      "en": "Britain still boasts the cheapest postal service.",
+      "cn": "英国仍拥有最便宜的邮政服务系统。"
+    },
+    {
+      "en": "Can you cash this postal order for me now?",
+      "cn": "你现在能帮我兑现这张邮政汇票 吗 ?"
+    },
+    {
+      "en": "I have failed to reach them by postal inquiries.",
+      "cn": "我未能通过邮政查询与他们取得联系."
+    },
+    {
+      "en": "Include your full postal address.",
+      "cn": "写上完整的邮政地址。"
+    },
+    {
+      "en": "Postal money orders are available in amounts up to $700.",
+      "cn": "邮政汇票的金额最高可达700美元。"
+    },
+    {
+      "en": "Remember to use postal code.",
+      "cn": "勿忘使用邮政编码."
+    },
+    {
+      "en": "The companies were greatly inconvenienced by the postal delays.",
+      "cn": "邮件延误给这些公司造成极大不便."
+    },
+    {
+      "en": "The postal abbreviation for Kansas is KS.",
+      "cn": "堪萨斯州的邮政缩写是KS。"
+    },
+    {
+      "en": "The postal matter should be put inside the lobby.",
+      "cn": "邮件应当放在门厅里."
+    },
+    {
+      "en": "the U.S. postal service",
+      "cn": "美国邮政"
+    },
+    {
+      "en": "The war stopped postal communication between the two countries.",
+      "cn": "战争中断两国间的邮政通讯."
+    },
+    {
+      "en": "When the postal clerk delivers your order, check the carton before signing for it.",
+      "cn": "你订购的货物由邮政人员送达时，要先检查一下包装盒再签收。"
+    },
+    {
+      "en": "You'll have to pay excess postal charges on this letter.",
+      "cn": "这封信你必须付超重邮资."
+    },
+    {
+      "en": "your full postal address",
+      "cn": "你邮政地址的全写"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "post",
+          "tran_cn": "岗位；邮件；标杆"
+        },
+        {
+          "word": "postage",
+          "tran_cn": "邮资，邮费"
+        },
+        {
+          "word": "postcode",
+          "tran_cn": "（英）邮政编码；邮区号"
+        },
+        {
+          "word": "posting",
+          "tran_cn": "记录；[会计] 过帐；委派"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "posting",
+          "tran_cn": "公布；邮递；布置（post的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "post",
+          "tran_cn": "快速行进"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "post",
+          "tran_cn": "张贴；公布；邮递；布置"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "post card"
+          ],
+          "tran_cn": "明信片"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go postal",
+      "tran_cn": "(美，非正式)（尤指因压力）发疯"
+    },
+    {
+      "phrase": "postal address",
+      "tran_cn": "邮政地址；通讯地址"
+    },
+    {
+      "phrase": "postal clerk",
+      "tran_cn": "邮政人员，邮局工作人员"
+    },
+    {
+      "phrase": "postal code",
+      "tran_cn": "邮政编码，邮递区号"
+    },
+    {
+      "phrase": "postal order",
+      "tran_cn": "n. 邮政汇票"
+    },
+    {
+      "phrase": "postal remittance",
+      "tran_cn": "[经]邮政划拨"
+    },
+    {
+      "phrase": "postal savings",
+      "tran_cn": "邮政储金"
+    },
+    {
+      "phrase": "postal service",
+      "tran_cn": "邮电业"
+    },
+    {
+      "phrase": "universal postal union",
+      "tran_cn": "万国邮政联盟"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "邮政的，邮政局的",
+      "tran_en": "relating to the official system which takes letters from one place to another"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "明信片"
+    }
+  ],
+  "exchange": {}
+}

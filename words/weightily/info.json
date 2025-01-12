@@ -1,0 +1,129 @@
+{
+  "word": "weightily",
+  "ipa": {
+    "us": "'weɪtɪlɪ",
+    "uk": "'weɪtɪlɪ"
+  },
+  "sentences": [
+    {
+      "en": "The speech was weighty and it was weightily delivered.",
+      "cn": "这次讲话内容很沉重,因此发言人很严肃."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "weighted",
+          "tran_cn": " [数] 加权的；加重的；衡量过的"
+        },
+        {
+          "word": "weightless",
+          "tran_cn": " 失重的；无重量的"
+        },
+        {
+          "word": "weighty",
+          "tran_cn": " 重的；重大的；严肃的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "weigh",
+          "tran_cn": " 权衡；称重量"
+        },
+        {
+          "word": "weighing",
+          "tran_cn": " 称重量；考虑权衡；悬浮"
+        },
+        {
+          "word": "weight",
+          "tran_cn": " 重量，重力；负担；砝码；重要性"
+        },
+        {
+          "word": "weightiness",
+          "tran_cn": " 重；重要性"
+        },
+        {
+          "word": "weighting",
+          "tran_cn": " 加重，加权；衡量；（英）生活补贴"
+        },
+        {
+          "word": "weightlessness",
+          "tran_cn": " 失重；无重状态"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "weighing",
+          "tran_cn": " 称量（weigh的现在分词形式）；考虑斟酌"
+        },
+        {
+          "word": "weighted",
+          "tran_cn": " 加重量于…；重压（weight的过去分词）"
+        },
+        {
+          "word": "weighting",
+          "tran_cn": " 加权；称量（weight的现在分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "weigh",
+          "tran_cn": " 重量为…；具有重要性；成为…的重荷；起锚"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "weigh",
+          "tran_cn": " 权衡；考虑；称…重量"
+        },
+        {
+          "word": "weight",
+          "tran_cn": " 加重量于，使变重"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "heavily",
+            "importantly"
+          ],
+          "tran_cn": "重要地；沉重地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "沉重地，重要地"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "weightiness"
+    ],
+    "adj": [
+      "weighty"
+    ]
+  }
+}

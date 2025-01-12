@@ -1,0 +1,81 @@
+{
+  "word": "rainproof",
+  "ipa": {
+    "us": "ˈreɪnpruːf",
+    "uk": " ˈreɪnpruːf"
+  },
+  "sentences": [
+    {
+      "en": "a rainproof jacket",
+      "cn": "防雨短上衣"
+    },
+    {
+      "en": "Reluctantly I gear up in a hooded rainproof coat and heavy black boots.",
+      "cn": "我迟疑地披上带帽兜的雨衣,套上沉重的黑色雨靴."
+    },
+    {
+      "en": "The cart has rainproof function.",
+      "cn": "本收放车具有防雨功能."
+    },
+    {
+      "en": "The roof of our house is no longer rainproof.",
+      "cn": "我们的房顶已经漏雨了."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "splashproof",
+            "showerproof"
+          ],
+          "tran_cn": "防雨的；防水的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "slicker",
+            "poncho cloth"
+          ],
+          "tran_cn": "雨衣；雨披"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "waterproof"
+          ],
+          "tran_cn": "使防水"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "防水的，防雨的",
+      "tran_en": "able to keep rain out"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "雨衣；雨披"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使防水",
+      "tran_en": "to make rainproof "
+    }
+  ],
+  "exchange": {}
+}

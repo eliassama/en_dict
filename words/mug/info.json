@@ -1,0 +1,175 @@
+{
+  "word": "mug",
+  "ipa": {
+    "us": "mʌɡ",
+    "uk": "mʌɡ"
+  },
+  "sentences": [
+    {
+      "en": "a coffee mug",
+      "cn": "一个咖啡杯"
+    },
+    {
+      "en": "a mug of cocoa",
+      "cn": "一大杯热可可饮料"
+    },
+    {
+      "en": "Dieting is a mug's game.",
+      "cn": "傻瓜才节食。"
+    },
+    {
+      "en": "He managed to get his ugly mug on the telly.",
+      "cn": "他设法让自己那张丑陋的脸上了电视。"
+    },
+    {
+      "en": "He picked up his mug and blew off the steam.",
+      "cn": "他端起杯子，吹走了热气。"
+    },
+    {
+      "en": "He's a mug as far as women are concerned.",
+      "cn": "在女性眼里，他是个傻瓜。"
+    },
+    {
+      "en": "I feel such a mug for signing the agreement.",
+      "cn": "我觉得签这个协议真傻。"
+    },
+    {
+      "en": "I used to be a very heavy gambler, but not any more. It's a mug's game.",
+      "cn": "我曾经是个赌棍，但现在再也不赌了，那是傻瓜的游戏。"
+    },
+    {
+      "en": "It is advisable to mug up on your Spanish, too, as few locals speak English.",
+      "cn": "你最好能突击提高一下你的西班牙语，因为当地没多少人讲英语。"
+    },
+    {
+      "en": "playing with drugs is a mug's game.",
+      "cn": "玩毒品是很危险的事情。"
+    },
+    {
+      "en": "She sipped from her coffee mug, watching him over the rim.",
+      "cn": "她端着咖啡杯小口地喝着，目光越过杯沿注视着他。"
+    },
+    {
+      "en": "She's got a handsome mug.",
+      "cn": "她有一张漂亮的脸蛋."
+    },
+    {
+      "en": "Something scared him. Probably your ugly mug !",
+      "cn": "什么东西吓着他了，很可能是你这张丑八怪的脸！"
+    },
+    {
+      "en": "Steam rose from her mug of cocoa.",
+      "cn": "水汽从她那杯可可饮料里升起."
+    },
+    {
+      "en": "The prisoners subsisted on one mug of the worst quality porridge three times a day.",
+      "cn": "犯人们每日三餐靠一碗稀粥度日。"
+    },
+    {
+      "en": "They poured out the rest of the wine and she chinked his mug.",
+      "cn": "他们把剩下的酒全倒出来，她和他碰了一下杯。"
+    },
+    {
+      "en": "This mug has a chip in it.",
+      "cn": "这缸子有个豁口。"
+    },
+    {
+      "en": "What an ugly mug!",
+      "cn": "多难看的一张脸!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mugger",
+          "tran_cn": " 行凶抢劫者，偷袭抢劫者；泽鳄（产于非洲）"
+        },
+        {
+          "word": "mugging",
+          "tran_cn": " 行凶抢劫；（美）哑剧"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "mugging",
+          "tran_cn": " 自背后袭击并抢劫；扮鬼脸（mug的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cup",
+            "face"
+          ],
+          "tran_cn": "杯子；脸；苦读者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "make faces",
+            "pull faces"
+          ],
+          "tran_cn": "扮鬼脸，做怪相；行凶抢劫"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a mug's game",
+      "tran_cn": "(非正式)不可能成功的傻事；危险的事情"
+    },
+    {
+      "phrase": "mug shot",
+      "tran_cn": "面部照片"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "马克杯，杯子，<口>容易受骗的人，<俚>脸，一缸子（的量）",
+      "tran_en": "a tall cup used for drinking tea, coffee etc"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "扮鬼脸，做怪相",
+      "tran_en": "to make silly expressions with your face or behave in a silly way, especially for a photograph or in a play"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "对…行凶抢劫，（尤指在舞台上或摄影机前）扮鬼脸，扮怪相",
+      "tran_en": "to attack someone and rob them in a public place"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "mugs"
+    ],
+    "third": [
+      "mugs"
+    ],
+    "past": [
+      "mugged"
+    ],
+    "done": [
+      "mugged"
+    ],
+    "ing": [
+      "mugging"
+    ]
+  }
+}

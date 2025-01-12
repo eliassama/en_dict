@@ -1,0 +1,214 @@
+{
+  "word": "rebel",
+  "ipa": {
+    "us": "ˈrebl , rɪˈbel",
+    "uk": "ˈrebl , rɪˈbel"
+  },
+  "sentences": [
+    {
+      "en": "Aerial bombing of rebel positions is continuing.",
+      "cn": "对叛军阵地的空中轰炸正在继续。"
+    },
+    {
+      "en": "Anti-government rebels attacked the town.",
+      "cn": "反政府的叛乱分子攻击该镇。"
+    },
+    {
+      "en": "He earned the appellation \"rebel priest.\"",
+      "cn": "他赢得了“反叛牧师”的称号。"
+    },
+    {
+      "en": "I was instantly branded as a rebel.",
+      "cn": "转眼间我被诬蔑为叛徒。"
+    },
+    {
+      "en": "If Douglas came down hard enough on him, Dale would rebel.",
+      "cn": "如果道格拉斯对戴尔太过严厉，他就会反抗。"
+    },
+    {
+      "en": "Rebel artillery units have regularly bombarded the airport.",
+      "cn": "叛军的炮兵部队经常轰炸机场。"
+    },
+    {
+      "en": "Rebel sources have so far reacted cautiously to the threat.",
+      "cn": "到目前为止，反叛分子面对威胁的反应非常谨慎。"
+    },
+    {
+      "en": "Reports from Chad suggest that rebel forces are advancing on the capital.",
+      "cn": "来自乍得的报告显示叛军正向首都推进。"
+    },
+    {
+      "en": "She had been a rebel at school.",
+      "cn": "她在学校时就是个叛逆者。"
+    },
+    {
+      "en": "The capital is still under constant bombardment by the rebel forces.",
+      "cn": "首都仍在遭受叛军的持续轰炸。"
+    },
+    {
+      "en": "The rebel forces simply bypassed Zwedru on their way further south.",
+      "cn": "叛军在向南部挺进时直接绕过了绥德鲁。"
+    },
+    {
+      "en": "the rebel leader",
+      "cn": "叛军首领"
+    },
+    {
+      "en": "The rebel leader was a fugitive from justice.",
+      "cn": "叛军头目是一名在逃的不法之徒。"
+    },
+    {
+      "en": "The rebel soldiers tried repeatedly to storm the building.",
+      "cn": "叛军屡次尝试强攻这座建筑。"
+    },
+    {
+      "en": "The rebel soldiers were forced to surrender.",
+      "cn": "叛军被迫投降。"
+    },
+    {
+      "en": "They are in twice daily radio contact with the rebel leader.",
+      "cn": "他们每天用无线电和叛军首领联系两次。"
+    },
+    {
+      "en": "They were now deep inside rebel territory.",
+      "cn": "他们现在已深入叛军占领区。"
+    },
+    {
+      "en": "Voters rebelled against high property taxes.",
+      "cn": "投票者们反对高额财产税。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rebellious",
+          "tran_cn": " 反抗的；造反的；难控制的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "rebelliously",
+          "tran_cn": " 难以控制地；造反地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rebellion",
+          "tran_cn": " 叛乱；反抗；谋反；不服从"
+        },
+        {
+          "word": "rebelliousness",
+          "tran_cn": " 造反；判逆性；难以控制"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "resistant",
+            "mutinous"
+          ],
+          "tran_cn": "反抗的；造反的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "rat",
+            "putschist"
+          ],
+          "tran_cn": "反叛者；叛徒"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "defy",
+            "disobey",
+            "disregard",
+            "mutiny",
+            "revolt",
+            "riot",
+            "rise",
+            "up"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "strive against",
+            "come out against"
+          ],
+          "tran_cn": "反叛；反抗；造反"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "rebel against",
+      "tran_cn": "v. 反抗"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "反抗的；造反的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "反政府的人，反叛者，造反者，叛逆者",
+      "tran_en": "someone who opposes or fights against people in authority"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "造反；反抗；背叛",
+      "tran_en": "to oppose or fight against someone in authority or against an idea or situation which you do not agree with"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 反叛， 造反； 反对， 不服从",
+      "tran_en": "to oppose or fight against someone in authority or against an idea or situation which you do not agree with"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rebels"
+    ],
+    "third": [
+      "rebels"
+    ],
+    "past": [
+      "rebelled"
+    ],
+    "done": [
+      "rebelled"
+    ],
+    "ing": [
+      "rebelling"
+    ]
+  }
+}

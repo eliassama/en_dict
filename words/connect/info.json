@@ -1,0 +1,238 @@
+{
+  "word": "connect",
+  "ipa": {
+    "us": "kəˈnekt",
+    "uk": "kəˈnekt"
+  },
+  "sentences": [
+    {
+      "en": "Connect me with the Foreign Languages Department, please.",
+      "cn": "请给我接外语系."
+    },
+    {
+      "en": "Connect the gas stove with the gas pipe.",
+      "cn": "将煤气炉和煤气管接起来."
+    },
+    {
+      "en": "I cannot connect the two things in my mind.",
+      "cn": "在我心中,我无法将这两件事情联系在一起."
+    },
+    {
+      "en": "I didn’t connect the two events in my mind.",
+      "cn": "我心里没把这两件事联系起来。"
+    },
+    {
+      "en": "If you stand on stage and share your view of the world, people will connect with you.",
+      "cn": "如果你站在舞台上，分享自己对世界的看法，人们会与你产生共鸣的。"
+    },
+    {
+      "en": "Northbound and eastbound trains connect at New York.",
+      "cn": "北上和东行的列车在纽约衔接."
+    },
+    {
+      "en": "One moment, please. I'll see if I can connect you again.",
+      "cn": "请等一会儿, 看我能不能再给你接通."
+    },
+    {
+      "en": "The fallopian tubes connect the ovaries with the uterus.",
+      "cn": "输卵管连接着卵巢和子宫。"
+    },
+    {
+      "en": "The traditional method is to enter the exchanges at night and connect the wires.",
+      "cn": "传统的办法是晚上进入电话局，把线连上。"
+    },
+    {
+      "en": "The two parts do not connect properly.",
+      "cn": "这两个部件连接不好."
+    },
+    {
+      "en": "The wires connect under the floor.",
+      "cn": "电线是在地板下接通的."
+    },
+    {
+      "en": "This sentence does not seem to connect with the context.",
+      "cn": "这个句子似乎与上下文脱节."
+    },
+    {
+      "en": "Two cables connect to each corner of the plate.",
+      "cn": "两条电缆连到金属板的每个角上。"
+    },
+    {
+      "en": "We’d like two rooms with connecting doors (= doors that join the rooms ) .",
+      "cn": "我们想要两个有门相通的房间。"
+    },
+    {
+      "en": "Where do the two railroads connect [ link up ]?",
+      "cn": "两条铁路在 何处 连接?"
+    },
+    {
+      "en": "You can connect the machine to your hi-fi.",
+      "cn": "你可以把机器连在高保真音响上。"
+    },
+    {
+      "en": "You must connect this wire with that one.",
+      "cn": "你必须把这条电线和那条接起来."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "connected",
+          "tran_cn": " [计] 连接的；有联系的；连贯的"
+        },
+        {
+          "word": "connectible",
+          "tran_cn": " 可联结的"
+        },
+        {
+          "word": "connective",
+          "tran_cn": " 连合的，连接的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "connectedness",
+          "tran_cn": " [数] 连通性"
+        },
+        {
+          "word": "connecter",
+          "tran_cn": " 连接器；联系者"
+        },
+        {
+          "word": "connection",
+          "tran_cn": " 连接；关系；连接件"
+        },
+        {
+          "word": "connectionist",
+          "tran_cn": " 联结主义"
+        },
+        {
+          "word": "connective",
+          "tran_cn": " 连接词；连接物"
+        },
+        {
+          "word": "connectivity",
+          "tran_cn": " [数] 连通性"
+        },
+        {
+          "word": "connector",
+          "tran_cn": " 连接器，连接头"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "connected",
+          "tran_cn": " 连接（connect的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accompany",
+            "adjoin",
+            "ally",
+            "annex",
+            "attach",
+            "border",
+            "combine",
+            "conjoin",
+            "correlate",
+            "fasten",
+            "inhere",
+            "interlock",
+            "intertwine",
+            "join",
+            "knit",
+            "link",
+            "neighbor",
+            "splice",
+            "string",
+            "thread",
+            "unite"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "band",
+            "combine"
+          ],
+          "tran_cn": "连接，连结；联合"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "attach",
+            "combine",
+            "join",
+            "link",
+            "unite"
+          ],
+          "tran_cn": "连接,连结"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "connect up",
+      "tran_cn": "连接，接上"
+    },
+    {
+      "phrase": "connect with",
+      "tran_cn": "连接；与…联系"
+    },
+    {
+      "phrase": "network connect",
+      "tran_cn": "网络连接"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "(使)连接/接通，把…联系起来，联运，(使)换乘，产生共鸣",
+      "tran_en": "to join two or more things together"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 连接， 结合， 联系； 给…接通电话",
+      "tran_en": "to join two or more things together"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "connects"
+    ],
+    "past": [
+      "connected"
+    ],
+    "done": [
+      "connected"
+    ],
+    "ing": [
+      "connecting"
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "word": "interpretation",
+  "ipa": {
+    "us": "ɪnˌtɜːprəˈteɪʃn",
+    "uk": "ɪnˌtɜːrprəˈteɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Although strictly illogical, Martin's interpretation of this paradox seems the best.",
+      "cn": "马丁对于这一悖论的解释尽管严格说来不合乎逻辑, 卻似乎是最好的解释了."
+    },
+    {
+      "en": "Division arose over the interpretation of the idea.",
+      "cn": "对这个观点的解释产生了分歧."
+    },
+    {
+      "en": "Even if her interpretation has not yet gelled into a satisfying whole, she displays real musicianship.",
+      "cn": "虽然她的演绎在整体上还不太令人满意，但她表现出了真正的音乐才华。"
+    },
+    {
+      "en": "He made a literal interpretation.",
+      "cn": "他逐字解释."
+    },
+    {
+      "en": "Her evidence suggests a different interpretation of the events.",
+      "cn": "她的证据显示这些事件可能有另外一种解释。"
+    },
+    {
+      "en": "His interpretation is coherent and intelligible.",
+      "cn": "他的翻译通顺易懂."
+    },
+    {
+      "en": "His statement admits of one interpretation only.",
+      "cn": "他的话只有一种解释."
+    },
+    {
+      "en": "His statement is susceptible of another interpretation.",
+      "cn": "他的陈述可以有另一种解释."
+    },
+    {
+      "en": "History is always a matter of interpretation.",
+      "cn": "历史总是一种阐释角度的问题。"
+    },
+    {
+      "en": "I like your interpretation better than the one I was taught.",
+      "cn": "你的解释比我以前学过的更让我喜欢。"
+    },
+    {
+      "en": "I was frankly astonished at the degree to which different singers can affect the interpretation of a song.",
+      "cn": "说实话，不同歌手对一首歌曲有如此不同的诠释让我感到惊讶。"
+    },
+    {
+      "en": "It’s difficult to put an accurate interpretation on (= explain ) the survey results.",
+      "cn": "对调查结果难以作出确切的解释。"
+    },
+    {
+      "en": "Language interpretation is the whole point of the act of reading.",
+      "cn": "阅读行为中关键在于对语言的理解。"
+    },
+    {
+      "en": "One possible interpretation is that they want you to resign.",
+      "cn": "一种可能的解释是，他们想要你辞职。"
+    },
+    {
+      "en": "The conference hall is provided with facilities for simultaneous interpretation in five languages.",
+      "cn": "这个会议大厅配有五种语言的同声传译设备."
+    },
+    {
+      "en": "Their interpretation was faulty — they had misinterpreted things.",
+      "cn": "他们的理解是错误的——他们将事情曲解了。"
+    },
+    {
+      "en": "This rule does not allow of more than one interpretation.",
+      "cn": "这条规则只能有一种解释."
+    },
+    {
+      "en": "What exactly the author meant by that statement is open to interpretation (= able to be understood or explained in different ways ).",
+      "cn": "作者这句话的确切含义可有各种理解。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "interpretable",
+          "tran_cn": " 可说明的；可判断的；可翻译的"
+        },
+        {
+          "word": "interpretative",
+          "tran_cn": " 解释的；作为说明的"
+        },
+        {
+          "word": "interpretive",
+          "tran_cn": " 解释的；作为说明的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interpreter",
+          "tran_cn": " 解释者；口译者；注释器"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "interpret",
+          "tran_cn": " 解释；翻译"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "interpret",
+          "tran_cn": " 说明；口译"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "explanation",
+            "translation",
+            "construction",
+            "account"
+          ],
+          "tran_cn": "[计]解释；[语]翻译；演出"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "commentary",
+            "construction",
+            "dance",
+            "explication",
+            "exposition",
+            "reading",
+            "study",
+            "translation",
+            "understanding"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "geological interpretation",
+      "tran_cn": "地质判读；地质学解释"
+    },
+    {
+      "phrase": "image interpretation",
+      "tran_cn": "图像判读，影像判读"
+    },
+    {
+      "phrase": "judicial interpretation",
+      "tran_cn": "司法解释"
+    },
+    {
+      "phrase": "oral interpretation",
+      "tran_cn": "口译"
+    },
+    {
+      "phrase": "physical interpretation",
+      "tran_cn": "物理解释"
+    },
+    {
+      "phrase": "simultaneous interpretation",
+      "tran_cn": "同声传译"
+    },
+    {
+      "phrase": "visual interpretation",
+      "tran_cn": "目视判读；目视判释"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "解释，说明，翻译，表演，演绎，理解",
+      "tran_en": "the way in which someone explains or understands an event, information, someone’s actions etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "interpretations"
+    ]
+  }
+}

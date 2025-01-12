@@ -1,0 +1,217 @@
+{
+  "word": "itch",
+  "ipa": {
+    "us": "ɪtʃ",
+    "uk": "ɪtʃ"
+  },
+  "sentences": [
+    {
+      "en": "He had an itch on his back.",
+      "cn": "他背部发痒."
+    },
+    {
+      "en": "He has an itch for writing a book.",
+      "cn": "他渴望着著书立说."
+    },
+    {
+      "en": "His fingers itch at the sight of a game of chess.",
+      "cn": "看见下棋他就馋得慌."
+    },
+    {
+      "en": "I am tormented with an everlasting itch for things remote.",
+      "cn": "凡是天外的东西总是永远引得我心痒难熬,苦念不已."
+    },
+    {
+      "en": "I have an itch on my left hand.",
+      "cn": "我左手很痒."
+    },
+    {
+      "en": "I itch all over.",
+      "cn": "我浑身痒。"
+    },
+    {
+      "en": "I've got an itch on my back.",
+      "cn": "我的背上很痒."
+    },
+    {
+      "en": "My feet were itching terribly.",
+      "cn": "我的脚痒得厉害。"
+    },
+    {
+      "en": "My fingers itch for a fray.",
+      "cn": "我手痒得想打架."
+    },
+    {
+      "en": "My fingers itch to box his ears.",
+      "cn": "我手痒,很想打他的耳光."
+    },
+    {
+      "en": "Scratch my back – I have an itch.",
+      "cn": "给我挠挠背——我觉得痒。"
+    },
+    {
+      "en": "Scratch my back—I've got an itch.",
+      "cn": "帮我挠挠背——有点痒。"
+    },
+    {
+      "en": "Scratch yourself if you itch.",
+      "cn": "如果你感到痒,就搔好了."
+    },
+    {
+      "en": "She cannot resist the / her itch to travel.",
+      "cn": "她巴不得要去旅行."
+    },
+    {
+      "en": "Shylock has an itch for money.",
+      "cn": "夏洛克渴望发财."
+    },
+    {
+      "en": "The label on this shirt itches me.",
+      "cn": "这件衬衫上的标签刺得我痒痒的。"
+    },
+    {
+      "en": "They have an itch to travel abroad.",
+      "cn": "他们渴望去国外旅行."
+    },
+    {
+      "en": "When someone has hayfever, the eyes and nose will stream and itch.",
+      "cn": "花粉热临床表现为流泪、流涕，眼睛、鼻子发痒。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "itching",
+          "tran_cn": " 痒的；渴望的"
+        },
+        {
+          "word": "itchy",
+          "tran_cn": " 发痒的；渴望的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "itching",
+          "tran_cn": " 痒（等于itch）；渴望"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "itching",
+          "tran_cn": " 发痒（itch的ing形式）；渴望"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "craving",
+            "desire",
+            "feeling",
+            "prick"
+          ],
+          "tran_cn": "渴望"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "craving",
+            "desire",
+            "prick",
+            "sensation",
+            "stimulant"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "rare",
+            "aspire"
+          ],
+          "tran_cn": "发痒；渴望"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "spite",
+            "exasperate"
+          ],
+          "tran_cn": "使发痒；使恼怒"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "an itching palm",
+      "tran_cn": "(喻)贪财，贪婪"
+    },
+    {
+      "phrase": "itch for",
+      "tran_cn": "渴望"
+    },
+    {
+      "phrase": "jock itch",
+      "tran_cn": "[病]股癣"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "渴望，热望，痒，疥疮",
+      "tran_en": "an uncomfortable feeling on your skin that makes you want to rub it with your nails"
+    },
+    {
+      "pos": "n&vi",
+      "tran_cn": "发痒；渴望",
+      "tran_en": "if part of your body or your clothes itch, you have an unpleasant feeling on your skin that makes you want to rub it with your nails"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "痒，发痒，渴望，极想",
+      "tran_en": "if part of your body or your clothes itch, you have an unpleasant feeling on your skin that makes you want to rub it with your nails"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "itches"
+    ],
+    "third": [
+      "itches"
+    ],
+    "past": [
+      "itched"
+    ],
+    "done": [
+      "itched"
+    ],
+    "ing": [
+      "itching"
+    ]
+  }
+}

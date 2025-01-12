@@ -1,0 +1,182 @@
+{
+  "word": "gambling",
+  "ipa": {
+    "us": "ˈgæmblɪŋ",
+    "uk": "'ɡæmblɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Are you a gambling man, Mr Graham?",
+      "cn": "格雷厄姆先生,你是好赌的人吗?"
+    },
+    {
+      "en": "Even for gambling , he had prepared mahjong sets, so much more refined than common betting games.",
+      "cn": "连赌钱, 他都预备下麻将牌, 比押宝就透着文雅了许多."
+    },
+    {
+      "en": "gambling debts",
+      "cn": "赌债"
+    },
+    {
+      "en": "Gambling was here in profusion, and dancing in plenty.",
+      "cn": "在这里大家跳舞跳得忙, 赌钱赌得凶."
+    },
+    {
+      "en": "He has a taste for gambling.",
+      "cn": "他爱好冒险."
+    },
+    {
+      "en": "He lost all his money gambling and now he's really in Queer Street.",
+      "cn": "他把钱都输光了,现在可真狼狈了."
+    },
+    {
+      "en": "He needed money to feed his addiction to gambling.",
+      "cn": "他需要钱来满足他的赌瘾。"
+    },
+    {
+      "en": "He went to a psychiatrist about his compulsive gambling.",
+      "cn": "他去看精神科医生治疗不能自拔的赌瘾."
+    },
+    {
+      "en": "I'm gambling that this package won't upset your life in any way.",
+      "cn": "我把宝押在这个包裹不会拢乱你的生活上."
+    },
+    {
+      "en": "Looked from the gambling angle that Shenhua this act is certainly undisputable.",
+      "cn": "从博弈的角度看,申花此举当然无可厚非."
+    },
+    {
+      "en": "Mom, Dad was killed by '' Crazy '', the guy who runs the gambling place.",
+      "cn": "妈妈, 其实爸爸是被那个赌档门口的 大 丧杀死的."
+    },
+    {
+      "en": "Romance is the big event of a lifetime , far more important than gambling.",
+      "cn": "人家终身大事, 比赌钱要紧得多呢."
+    },
+    {
+      "en": "The boss of the gambling house raked off 20 % for himself.",
+      "cn": "赌场老板提取20%作为抽头."
+    },
+    {
+      "en": "The lottery is probably the most popular form of gambling.",
+      "cn": "彩票可能是最普遍的一种赌博形式。"
+    },
+    {
+      "en": "The men have been gambling away all night.",
+      "cn": "那些人赌了整整一夜."
+    },
+    {
+      "en": "The police raided a number of illegal gambling dens (= places for illegal gambling ).",
+      "cn": "警方突击搜查了几个非法赌窟。"
+    },
+    {
+      "en": "Their taste for gambling has endeared them to Las Vegas casino owners.",
+      "cn": "他们因好赌而深受拉斯维加斯赌场老板的欢迎。"
+    },
+    {
+      "en": "Uncle George swore off gambling, drinking and womanizing.",
+      "cn": "乔治叔叔发誓戒赌 、 戒酒、戒女色."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "game",
+          "tran_cn": " 勇敢的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gamble",
+          "tran_cn": " 赌博；冒险；打赌"
+        },
+        {
+          "word": "gambler",
+          "tran_cn": " 赌徒；投机商人"
+        },
+        {
+          "word": "game",
+          "tran_cn": " 游戏；比赛"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "gamble",
+          "tran_cn": " 赌博；孤注一掷；投机；打赌"
+        },
+        {
+          "word": "game",
+          "tran_cn": " 赌博"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "gamble",
+          "tran_cn": " 赌博；孤注一掷；冒险假设"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "speculation",
+            "gaming"
+          ],
+          "tran_cn": "赌博；投机"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "betting"
+          ],
+          "tran_cn": "赌博；打赌（gamble的ing形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "gambling debts",
+      "tran_cn": "赌债"
+    },
+    {
+      "phrase": "gambling den",
+      "tran_cn": "赌场"
+    },
+    {
+      "phrase": "gambling house",
+      "tran_cn": "赌场"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "赌博，赌钱，冒险，投机",
+      "tran_en": "when people risk money or possessions on the result of something which is not certain, such as a card game or a horse race"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "赌博，冒风险(gamble的现在分词)"
+    }
+  ],
+  "exchange": {}
+}

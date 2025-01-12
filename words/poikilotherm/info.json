@@ -1,0 +1,46 @@
+{
+  "word": "poikilotherm",
+  "ipa": {
+    "us": "pɔɪ'kɪləʊθɜ:m",
+    "uk": "pɔɪ'kɪləˌθəm"
+  },
+  "sentences": [
+    {
+      "en": "Fish are poikilotherm whose body temperature changes as the ambient water temperature changes.",
+      "cn": "鱼类是变温动物，其体温随环境的水温变化而变化。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "poikilothermous",
+          "tran_cn": " [动] 变温的；冷血的；冷血动物的（等于poikilothermal）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "ectotherm",
+            "cold blooded animal"
+          ],
+          "tran_cn": "[动]变温动物；冷血动物"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "变温动物，冷血动物"
+    }
+  ],
+  "exchange": {}
+}

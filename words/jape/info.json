@@ -1,0 +1,84 @@
+{
+  "word": "jape",
+  "ipa": {
+    "us": "dʒeɪp",
+    "uk": "dʒep"
+  },
+  "sentences": [
+    {
+      "en": "He became the public jape in school, because he overreached when imitating others.",
+      "cn": "他因画虎类犬在学校成了众人的笑料."
+    },
+    {
+      "en": "Sports competition is competition of science and technology, be afraid is not jape.",
+      "cn": "体育竞争是科技竞争, 恐怕不是戏言."
+    },
+    {
+      "en": "Your experiments are aided by Jape, which can operate as both inquisitor and oracle.",
+      "cn": "你的实验被帮助透过说笑话, 作为能审问官和神谕所."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "joke",
+            "fun",
+            "sport"
+          ],
+          "tran_cn": "嘲弄；玩笑"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "fool",
+            "kid around",
+            "to joke",
+            "to play a joke"
+          ],
+          "tran_cn": "开玩笑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "guy",
+            "monkey"
+          ],
+          "tran_cn": "嘲弄"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "笑话"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "笑料"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 开玩笑， 戏弄",
+      "tran_en": "to joke or jest (about) "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "japes"
+    ]
+  }
+}

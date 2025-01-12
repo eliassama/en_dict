@@ -1,0 +1,59 @@
+{
+  "word": "incommodious",
+  "ipa": {
+    "us": "ˌɪnkə'məʊdɪəs",
+    "uk": "ˌɪnkə'moʊdɪrs"
+  },
+  "sentences": [
+    {
+      "en": "I awoke with stiff and cramped muscles from having slept long on the incommodious seat of a day coach.",
+      "cn": "由于在座席客车不舒服的座位上睡了太久，我肌肉僵硬麻痹的醒来。"
+    },
+    {
+      "en": "Indeed, while the internal structure of the code that comprises the application is incommodious to change and difficult to trace, externally the system may fulfill its functional requirements well.",
+      "cn": "必须承认，当组成程序的代码的内部结构不适应更改，或者很难追踪时，在外部系统可能还会很好的履行它的职责。"
+    },
+    {
+      "en": "It was very small, very dark, very ugly, very incommodious.",
+      "cn": "它很窄小, 很阴暗, 很丑陋, 很不方便."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "incommode",
+          "tran_cn": " 添麻烦；使感不便；妨碍"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "narrow",
+            "confined"
+          ],
+          "tran_cn": "不便的；狭窄的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<正>太小而不舒适的，不方便的",
+      "tran_en": "insufficiently spacious; cramped "
+    },
+    {
+      "pos": "a不便的, 偏促的,",
+      "tran_cn": "狭窄的"
+    }
+  ],
+  "exchange": {}
+}

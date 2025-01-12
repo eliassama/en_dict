@@ -1,0 +1,78 @@
+{
+  "word": "misconstrue",
+  "ipa": {
+    "us": "ˌmɪskənˈstru:",
+    "uk": "ˌmɪskənˈstru"
+  },
+  "sentences": [
+    {
+      "en": "An outsider might misconstrue the nature of the relationship.",
+      "cn": "外人也许会误解这种关系的本质。"
+    },
+    {
+      "en": "Do not misconstrue it as an effort to exert force or pressure.",
+      "cn": "不要把它误解为需要卯尽全力或施加压力的苦差事."
+    },
+    {
+      "en": "His behaviour could easily be misconstrued.",
+      "cn": "他的行为容易被误解。"
+    },
+    {
+      "en": "It is easy to misconstrue confidence as arrogance.",
+      "cn": "很容易将信心误解为傲慢。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "color",
+            "misunderstand"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "misinterpret",
+            "misread"
+          ],
+          "tran_cn": "误解，曲解；误会"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "误解, 曲解",
+      "tran_en": "to  misunderstand  something that someone has said or done"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "误解"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "misconstrues"
+    ],
+    "past": [
+      "misconstrued"
+    ],
+    "done": [
+      "misconstrued"
+    ],
+    "ing": [
+      "misconstruing"
+    ]
+  }
+}

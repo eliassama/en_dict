@@ -1,0 +1,93 @@
+{
+  "word": "foment",
+  "ipa": {
+    "us": "fəʊˈment",
+    "uk": "foʊˈment"
+  },
+  "sentences": [
+    {
+      "en": "That's an attempt to foment discord.",
+      "cn": "这是挑拨."
+    },
+    {
+      "en": "They accused strike leaders of fomenting violence.",
+      "cn": "他们指责罢工领导人煽动暴力事件。"
+    },
+    {
+      "en": "They were accused of fomenting rebellion.",
+      "cn": "他们被指控煽动叛乱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fomentation",
+          "tran_cn": " 热敷；煽动"
+        },
+        {
+          "word": "fomenter",
+          "tran_cn": " 煽动者；挑唆者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aggress",
+            "arouse",
+            "irritate",
+            "pique",
+            "prick",
+            "rouse"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "fan",
+            "egg"
+          ],
+          "tran_cn": "煽动；挑起；热敷"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "[医]热敷, 热罨, 煽动",
+      "tran_en": "If someone or something foments trouble or violent opposition, they cause it to develop"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "激起，煽动（麻烦等）",
+      "tran_en": "to cause trouble and make people start fighting each other or opposing the government"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "foments"
+    ],
+    "past": [
+      "fomented"
+    ],
+    "done": [
+      "fomented"
+    ],
+    "ing": [
+      "fomenting"
+    ]
+  }
+}

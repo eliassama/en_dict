@@ -1,0 +1,64 @@
+{
+  "word": "elide",
+  "ipa": {
+    "us": "iˈlaɪd",
+    "uk": "ɪˈlaɪd"
+  },
+  "sentences": [
+    {
+      "en": "Most English speakers elide the first ‘d’ in ‘Wednesday.’",
+      "cn": "大多数说英语的人会省略Wednesday中第一个d的发音。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "elision",
+          "tran_cn": " 元音省略"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "understand",
+            "recall"
+          ],
+          "tran_cn": "省略；取消；删去；不予考虑删节"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "取消, 省略, 省略发音, 不予考虑删节",
+      "tran_en": "to leave out the sound of a letter or of a part of a word"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（发音中）省略"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "elides"
+    ],
+    "past": [
+      "elided"
+    ],
+    "done": [
+      "elided"
+    ],
+    "ing": [
+      "eliding"
+    ]
+  }
+}

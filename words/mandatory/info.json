@@ -1,0 +1,180 @@
+{
+  "word": "mandatory",
+  "ipa": {
+    "us": "ˈmændətəri",
+    "uk": "ˈmændətɔːri"
+  },
+  "sentences": [
+    {
+      "en": "A reply to this letter is mandatory.",
+      "cn": "这封信非答覆不可."
+    },
+    {
+      "en": "Are California's new mandatory requirements for television sets really necessary?",
+      "cn": "加州针对电视机的新强制性规定是否真的必需 呢 ?"
+    },
+    {
+      "en": "Assiduous respiratory care is mandatory.",
+      "cn": "我们强调精心的呼吸护理."
+    },
+    {
+      "en": "Attendance at the meeting is mandatory.",
+      "cn": "出席会议是必要的"
+    },
+    {
+      "en": "Attendance is mandatory at all meetings.",
+      "cn": "所有会议皆不得缺席."
+    },
+    {
+      "en": "Attendance is mandatory.",
+      "cn": "务必参加。"
+    },
+    {
+      "en": "Can see from this, administration permits itself and do not have mandatory.",
+      "cn": "由此可以看出, 行政许可本身并无强制性."
+    },
+    {
+      "en": "Competent geologic advice is mandatory for any engineering decision.",
+      "cn": "适宜的有关地质方面的建议,对于任何工程方面的决定都是必需的."
+    },
+    {
+      "en": "In a case of premeditated murder a life sentence is mandatory.",
+      "cn": "蓄意杀人依法要判无期徒刑。"
+    },
+    {
+      "en": "In any case, separation of the two viewpoints is mandatory.",
+      "cn": "无论如何, 把这两种观点分开是必不可少的."
+    },
+    {
+      "en": "Is the appointment of worker - directors to be mandatory?",
+      "cn": "工人董事的任命是不是强制性的?"
+    },
+    {
+      "en": "It is mandatory for blood banks to test all donated blood for the virus.",
+      "cn": "血库必须检查所有捐献的血是否含有这种病毒。"
+    },
+    {
+      "en": "It's mandatory to pay taxes.",
+      "cn": "缴税是义务性的."
+    },
+    {
+      "en": "Murder carries a mandatory life sentence .",
+      "cn": "谋杀罪依照法律要判无期徒刑。"
+    },
+    {
+      "en": "The Council has made it mandatory for all nurses to attend a refresher course every three years.",
+      "cn": "理事会规定所有护士必须每三年参加一次进修课程。"
+    },
+    {
+      "en": "The need to mix and match tool components will become mandatory.",
+      "cn": "工具部件的混合和配对之需求将是强制性的."
+    },
+    {
+      "en": "Yet some form of attenuation is mandatory.",
+      "cn": "然而有些衰减形式是必须采用的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mandamus",
+          "tran_cn": " 命令书；书面训令"
+        },
+        {
+          "word": "mandatary",
+          "tran_cn": " 受托者；代理人"
+        },
+        {
+          "word": "mandate",
+          "tran_cn": " 授权；命令，指令；委托管理；受命进行的工作"
+        },
+        {
+          "word": "mandator",
+          "tran_cn": " 命令者；委托人，托管人"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mandamus",
+          "tran_cn": " 发训令（过去式mandamused，过去分词mandamused，现在分词mandamusing，第三人称单数mandamuses）"
+        },
+        {
+          "word": "mandate",
+          "tran_cn": " 授权；托管"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "managed",
+            "compulsive"
+          ],
+          "tran_cn": "强制的；托管的；命令的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bailee",
+            "consignee"
+          ],
+          "tran_cn": "受托者（等于mandatary）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "imperative"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "mandatory measures",
+      "tran_cn": "指令性措施"
+    },
+    {
+      "phrase": "mandatory provident fund",
+      "tran_cn": "强制性公积金"
+    },
+    {
+      "phrase": "mandatory requirement",
+      "tran_cn": "强制性要求；必须遵循的要求"
+    },
+    {
+      "phrase": "mandatory standard",
+      "tran_cn": "n. 强制性标准，法定标准；推荐性标准"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "强制的，命令的，受委托的",
+      "tran_en": "if something is mandatory, the law says it must be done"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "受托者（等于mandatary）"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,210 @@
+{
+  "word": "parcel",
+  "ipa": {
+    "us": "ˈpɑːsl",
+    "uk": "ˈpɑːrsl"
+  },
+  "sentences": [
+    {
+      "en": "Has the parcel been cleared with the border police yet ?",
+      "cn": "那个包裹通过边防警察的检查了 吗 ?"
+    },
+    {
+      "en": "He sends regular food parcels to his family in Libya.",
+      "cn": "他定期给在利比亚的家人邮寄食品包裹。"
+    },
+    {
+      "en": "He tied the parcel with twine.",
+      "cn": "他用细绳捆包裹."
+    },
+    {
+      "en": "He tied the parcel.",
+      "cn": "他捆上包裹."
+    },
+    {
+      "en": "He undid the string round a parcel.",
+      "cn": "他解开了绑包裹的绳子."
+    },
+    {
+      "en": "I reached up and put the parcel on top of the cupboard.",
+      "cn": "我伸手托起包裹将它放到了柜子顶上."
+    },
+    {
+      "en": "I will let the waiter bind up the parcel for you.",
+      "cn": "我让服务生帮你把包裹包起来."
+    },
+    {
+      "en": "It's all part and parcel— just a day's work really you know.",
+      "cn": "这只是一部分——才一天的工作，你要知道。"
+    },
+    {
+      "en": "Norma looked at the parcel and whistled softly through her teeth.",
+      "cn": "诺尔玛看着包裹,轻柔地哼起了口哨."
+    },
+    {
+      "en": "Shall I tie up your things in a parcel?",
+      "cn": "我把您的东西包起来,好 吗 ?"
+    },
+    {
+      "en": "She carried the parcel in the crook of her arm.",
+      "cn": "她把包裹挎在臂弯处."
+    },
+    {
+      "en": "She parcelled up the photos.",
+      "cn": "她把照片包了起来。"
+    },
+    {
+      "en": "The children are dying of curiosity to see what's in the parcel.",
+      "cn": "孩子们出于好奇,迫不及待地想看看包裹中是什么东西."
+    },
+    {
+      "en": "The parcel was delivered last week.",
+      "cn": "那个邮包上周送到了。"
+    },
+    {
+      "en": "The parcel was directed to the wrong address.",
+      "cn": "这邮包被寄错了."
+    },
+    {
+      "en": "The parcel was sent express.",
+      "cn": "这包裹是用快递方式寄出去的."
+    },
+    {
+      "en": "They were expecting a valuable parcel of diamonds from South Africa.",
+      "cn": "他们正在期待一包来自南非的贵重钻石."
+    },
+    {
+      "en": "Would you please parcel these apples into three parts?",
+      "cn": "请把这些苹果分成三份好 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "parceling",
+          "tran_cn": " 缠包帆布条；打包"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "parceling",
+          "tran_cn": " 把…划成部分后分配；把…作成包裹（parcel的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bundle",
+            "pack",
+            "package"
+          ],
+          "tran_cn": "包,包裹"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bundle",
+            "lot",
+            "pack",
+            "package",
+            "packet",
+            "section"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "package",
+            "enlace"
+          ],
+          "tran_cn": "打包；捆扎"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "air parcel",
+      "tran_cn": "n. 空运"
+    },
+    {
+      "phrase": "land parcel",
+      "tran_cn": "地块"
+    },
+    {
+      "phrase": "parcel of land",
+      "tran_cn": "地片"
+    },
+    {
+      "phrase": "parcel out",
+      "tran_cn": "分配，把…分成几份"
+    },
+    {
+      "phrase": "parcel post",
+      "tran_cn": "邮政包裹；包裹邮递"
+    },
+    {
+      "phrase": "part and parcel",
+      "tran_cn": "必要部分；重要的部分"
+    },
+    {
+      "phrase": "part and parcel of",
+      "tran_cn": "不可缺少的一部分"
+    },
+    {
+      "phrase": "pass the parcel",
+      "tran_cn": "传包裹（儿童游戏，听音乐传包裹，音乐停止时拿着包裹的儿童可打开一层包裹皮）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "包袱，包裹，（土地的）一块，一批，一群，（货物的）一宗",
+      "tran_en": "an object that has been wrapped in paper or put in a special envelope, especially so that it can be sent by post"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "打包；捆扎"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "分，区分，把…划成部分后分配，给…打成包裹，把…拼在一起"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "parcels"
+    ],
+    "third": [
+      "parcels"
+    ],
+    "past": [
+      "parcelled"
+    ],
+    "done": [
+      "parcelled"
+    ],
+    "ing": [
+      "parcelling"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "word": "avouch",
+  "ipa": {
+    "us": "ə'vaʊtʃ",
+    "uk": "ə'vaʊtʃ"
+  },
+  "sentences": [
+    {
+      "en": "He offered to avouch his innocence with his sword.",
+      "cn": "他表示愿以剑来保证他是无辜的."
+    },
+    {
+      "en": "I am willing to employ your friend if you will avouch his integrity.",
+      "cn": "如果你能保证你的朋友是个诚实的人,那么我很乐意聘用他."
+    },
+    {
+      "en": "I avouch for that girl; she has promised to be good.",
+      "cn": "我愿为那女孩担保; 她已答应要改好."
+    },
+    {
+      "en": "Let this man in, we'll avouch for him.",
+      "cn": "让这个人进来吧, 我们为他担保."
+    },
+    {
+      "en": "Millions were ready to avouch the exact contrary.",
+      "cn": "亿万人愿意提出反证."
+    },
+    {
+      "en": "This certificate can neither be transferred and nor be used as gist or voucher for avouch , facility and or facility in disguised form.",
+      "cn": "本证明书不得转让，不得作为担保，融资和变相融资的依据或凭证。"
+    },
+    {
+      "en": "This is the avouch of this leader.",
+      "cn": "这就是这位领导人的声言."
+    },
+    {
+      "en": "We can avouch for the quality.",
+      "cn": "我们保证质量."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "avouchment",
+          "tran_cn": " 保证；断言"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "undertake",
+            "assure",
+            "declare"
+          ],
+          "tran_cn": "断言；保证"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "确保",
+      "tran_en": "to vouch for; guarantee "
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "<古，文>保证，断言，承认"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "avouched"
+    ],
+    "past": [
+      "avouched"
+    ],
+    "done": [
+      "avouched"
+    ],
+    "ing": [
+      "avouching"
+    ]
+  }
+}

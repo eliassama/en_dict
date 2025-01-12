@@ -1,0 +1,167 @@
+{
+  "word": "sediment",
+  "ipa": {
+    "us": "ˈsedɪmənt",
+    "uk": "ˈsedɪmənt"
+  },
+  "sentences": [
+    {
+      "en": "a thick layer of sediment",
+      "cn": "一层厚厚的沉积物"
+    },
+    {
+      "en": "All sediment deposition is not injurious.",
+      "cn": "所有的泥沙淤积并不都是有害的."
+    },
+    {
+      "en": "Channels generally contain coarser sediment than do the adjacent flood plains.",
+      "cn": "河床沉积物一般比邻近的泛滥平原沉积物粗些."
+    },
+    {
+      "en": "Deposition is the laying down of sediment that has been transported.",
+      "cn": "沉积是已搬运的物质再沉积下来."
+    },
+    {
+      "en": "For highly cohesive sediment, the critical tractive force becomes less significant.",
+      "cn": "对于高粘性泥沙, 临界推移力就成为不重要的."
+    },
+    {
+      "en": "Natural sediment particles are not spherical.",
+      "cn": "天然泥沙颗粒不是球状的."
+    },
+    {
+      "en": "Pelagic sediment contains tiny grain of material.",
+      "cn": "远洋沉积物包含了微细物质颗粒."
+    },
+    {
+      "en": "Rivers and torrents carried great loads of sediment out to sea.",
+      "cn": "河流挟着大量沉积物奔流入海."
+    },
+    {
+      "en": "Sediment begins to choke the channel's opening.",
+      "cn": "沉积物开始淤塞河道口."
+    },
+    {
+      "en": "The arrow indicates direction of sediment transportation.",
+      "cn": "箭头表示沉积物的搬运方向."
+    },
+    {
+      "en": "The nominal diameter has little significance in sediment transportation.",
+      "cn": "等容粒径在沉沙输移中意义不大."
+    },
+    {
+      "en": "The sediment of coffee will settle.",
+      "cn": "咖啡渣会沉淀下去."
+    },
+    {
+      "en": "The sediment settled and the water was clear.",
+      "cn": "杂质沉淀后,水变清了."
+    },
+    {
+      "en": "They sediment toward the bottom of the centrifuge tube at a velocity.",
+      "cn": "它们以某一速度向管底方向沉降."
+    },
+    {
+      "en": "This is changeable and rapid rate of sediment production.",
+      "cn": "这是种多变而快速的沉积作用."
+    },
+    {
+      "en": "What does the terrigenous sediment consist of?",
+      "cn": "陆源沉积物是由什么组成的?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sedimentary",
+          "tran_cn": " 沉淀的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sedimentation",
+          "tran_cn": " [矿业][物化] 沉降，[化学] 沉淀"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "deposit",
+            "precipitation",
+            "sludge"
+          ],
+          "tran_cn": "[地质]沉积；[化学]沉淀物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "grounds",
+            "remainder",
+            "residue"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bottom sediment",
+      "tran_cn": "脚子；底沉积物"
+    },
+    {
+      "phrase": "sediment concentration",
+      "tran_cn": "含沙量；沉积物浓度"
+    },
+    {
+      "phrase": "sediment deposition",
+      "tran_cn": "沉积物沉降；淤积量"
+    },
+    {
+      "phrase": "sediment discharge",
+      "tran_cn": "输沙量；输沙率；土砂流量；沉积物流量；沉淀物排放"
+    },
+    {
+      "phrase": "sediment load",
+      "tran_cn": "[地]输沙量；推移质"
+    },
+    {
+      "phrase": "sediment supply",
+      "tran_cn": "沉积物补给"
+    },
+    {
+      "phrase": "sediment transport",
+      "tran_cn": "沉积物运移；泥沙流移；土砂流送"
+    },
+    {
+      "phrase": "sediment yield",
+      "tran_cn": "产沙量；泥砂生产量"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[地]沉淀物，沉积物，沉渣",
+      "tran_en": "solid substances that settle at the bottom of a liquid"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sediments"
+    ]
+  }
+}

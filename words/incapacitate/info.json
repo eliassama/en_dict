@@ -1,0 +1,106 @@
+{
+  "word": "incapacitate",
+  "ipa": {
+    "us": "ˌɪnkəˈpæsɪteɪt",
+    "uk": "ˌɪnkəˈpæsɪteɪt"
+  },
+  "sentences": [
+    {
+      "en": "A device or substance gas, used to incapacitate riot control.",
+      "cn": "用化学物质杀死 、 伤害或使敌人无力的战争."
+    },
+    {
+      "en": "an incapacitating injury",
+      "cn": "使人失去活动能力的伤"
+    },
+    {
+      "en": "Her mother has been incapacitated by a fall.",
+      "cn": "她母亲摔了一跤后，失去了正常生活能力。"
+    },
+    {
+      "en": "His poor health incapacitate him for work.",
+      "cn": "他健康不佳使他不能工作."
+    },
+    {
+      "en": "Poor eyesight will incapacitate you for a job in the library.",
+      "cn": "视力差将使你不适合于在图书馆工作."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "incapable",
+          "tran_cn": " 不能的；无能力的；不能胜任的"
+        },
+        {
+          "word": "incapacitated",
+          "tran_cn": " 不能行动的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "incapability",
+          "tran_cn": " 无能力；无资格；不能胜任"
+        },
+        {
+          "word": "incapacity",
+          "tran_cn": " 无能力，无能"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "incapacitated",
+          "tran_cn": " 丧失能力，欠缺行为能力（incapacitate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "disenable"
+          ],
+          "tran_cn": "使无能力；使不能；使不适于"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使无能力， 使不适合",
+      "tran_en": "to make you too ill or weak to live and work normally"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使无能力，使不适合",
+      "tran_en": "to make you too ill or weak to live and work normally"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "incapacitates"
+    ],
+    "past": [
+      "incapacitated"
+    ],
+    "done": [
+      "incapacitated"
+    ],
+    "ing": [
+      "incapacitating"
+    ]
+  }
+}

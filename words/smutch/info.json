@@ -1,0 +1,84 @@
+{
+  "word": "smutch",
+  "ipa": {
+    "us": "smʌtʃ",
+    "uk": "smʌtʃ"
+  },
+  "sentences": [
+    {
+      "en": "It contained macromolecule which can remove the smutch of oil, water or others on the leather, plastic or pottery. At the same time, it can prevent water, mildew and keep bright.",
+      "cn": "本品含有丰富的离分子材料，能迅速去除油迹、铜、铁锈迹、水迹等，并具有同时放水、防霉、保持亮泽等多种作用。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "smutty",
+          "tran_cn": " 猥亵的；弄脏的；害了黑穗病的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "smuttily",
+          "tran_cn": " 淫猥地；（被煤灰、尘埃等）弄脏地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "work-up"
+          ],
+          "tran_cn": "污迹"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cloud"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "soil",
+            "mud",
+            "spot",
+            "dirty"
+          ],
+          "tran_cn": "弄脏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "污迹",
+      "tran_en": "a mark; smudge "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "弄脏"
+    }
+  ],
+  "exchange": {}
+}

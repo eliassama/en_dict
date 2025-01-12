@@ -1,0 +1,142 @@
+{
+  "word": "handwriting",
+  "ipa": {
+    "us": "ˈhændraɪtɪŋ",
+    "uk": "ˈhændraɪtɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Her handwriting was clearly legible.",
+      "cn": "她的字清晰可辨."
+    },
+    {
+      "en": "His handwriting, from earliest young manhood, was flowing and graceful.",
+      "cn": "他的字从小就写得流畅优美。"
+    },
+    {
+      "en": "I can't read his handwriting.",
+      "cn": "我看不懂他写的字。"
+    },
+    {
+      "en": "I have to admit that I have bad handwriting.",
+      "cn": "我不得不承认自己的字写得不好看。"
+    },
+    {
+      "en": "I recognised her handwriting on the envelope.",
+      "cn": "我认出了信封上她的笔迹。"
+    },
+    {
+      "en": "I've never come across hieroglyphics like the handwriting of Peter Smallwood.",
+      "cn": "我从未见过像彼得·斯莫尔伍德那么难辨认的笔迹。"
+    },
+    {
+      "en": "It was difficult to make out the manager's handwriting.",
+      "cn": "经理的字迹很难辨认."
+    },
+    {
+      "en": "My handwriting has never been very neat.",
+      "cn": "我的字从来都写得不够工整。"
+    },
+    {
+      "en": "My handwriting is poorer than hers.",
+      "cn": "我的字还不如她的."
+    },
+    {
+      "en": "Out of question, it is his handwriting.",
+      "cn": "毫无疑问, 这是他的字迹."
+    },
+    {
+      "en": "She recognized her mother's grace handwriting on the envelope.",
+      "cn": "她认出信封上她母亲那娟秀的笔迹."
+    },
+    {
+      "en": "The address was in Anna's handwriting.",
+      "cn": "地址是安娜的笔迹。"
+    },
+    {
+      "en": "The boy's handwriting is difficult to read.",
+      "cn": "这男孩写的字难认."
+    },
+    {
+      "en": "The handwriting belongs to a male.",
+      "cn": "这是男性的笔迹。"
+    },
+    {
+      "en": "The handwriting expert attested to the genuineness of the signature.",
+      "cn": "笔迹专家作证该签名无讹."
+    },
+    {
+      "en": "There's been a noticeable improvement in his handwriting.",
+      "cn": "他的书法有了明显的进步."
+    },
+    {
+      "en": "You can't tell if it's a man or a woman from handwriting.",
+      "cn": "从笔迹上看不出他是男的还是女的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "handwritten",
+          "tran_cn": " 手写的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "handwritten",
+          "tran_cn": " handwrite的过去分词"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "handwrite",
+          "tran_cn": " 亲手写"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "writing",
+            "calligraphy"
+          ],
+          "tran_cn": "[法]笔迹；书法；书写；手稿"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "handwriting recognition",
+      "tran_cn": "手写识别"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "书法，手书，笔迹，字迹",
+      "tran_en": "the style of someone’s writing"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "亲手写(handwrite的ing形式)"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "handwritings"
+    ]
+  }
+}

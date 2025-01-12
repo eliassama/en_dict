@@ -1,0 +1,191 @@
+{
+  "word": "version",
+  "ipa": {
+    "us": "ˈvɜːʃn",
+    "uk": "ˈvɜːrʒn"
+  },
+  "sentences": [
+    {
+      "en": "a Japanese version of an English play",
+      "cn": "一部英国戏剧的日语版"
+    },
+    {
+      "en": "a slightly different version",
+      "cn": "略有不同的说法"
+    },
+    {
+      "en": "A special remastered version of Casablanca is being released.",
+      "cn": "重新录制的特别版《卡萨布兰卡》发行了。"
+    },
+    {
+      "en": "a stripped-down version of the song",
+      "cn": "这首歌的精简版"
+    },
+    {
+      "en": "Could Donna’s version of what happened that night be correct?",
+      "cn": "唐娜对那晚发生的事情的描述是否正确呢？"
+    },
+    {
+      "en": "He asked to see the amended version.",
+      "cn": "他要求看修订本。"
+    },
+    {
+      "en": "His version of what happened is incorrect.",
+      "cn": "他对所发生的事情的说法不准确。"
+    },
+    {
+      "en": "In my version of the story, I added some new material.",
+      "cn": "我在讲述这个故事时加入了新的素材。"
+    },
+    {
+      "en": "Is the coffee break the adult version of recess?",
+      "cn": "工间喝咖啡是成人的休息方式吗？"
+    },
+    {
+      "en": "It was first published in 1914 in a highly expurgated version.",
+      "cn": "它初版于1914年，当时删除了大量内容。"
+    },
+    {
+      "en": "She beguiled them into believing her version of events.",
+      "cn": "她哄骗他们相信了她叙述的事情。"
+    },
+    {
+      "en": "The ancient Egyptians saw paradise as an idealized version of their own lives.",
+      "cn": "古埃及人把天堂视为他们现实生活的理想形式。"
+    },
+    {
+      "en": "The English version of the novel is due for publication next year.",
+      "cn": "这部小说的英文译本预定明年出版发行。"
+    },
+    {
+      "en": "The film is available in a colorized version.",
+      "cn": "这部电影有彩色版。"
+    },
+    {
+      "en": "the human version of mad cow disease",
+      "cn": "疯牛病的人类变体"
+    },
+    {
+      "en": "The plane was a modified version of the C-130.",
+      "cn": "这种飞机是C-130的改进机型。"
+    },
+    {
+      "en": "The review body has produced a truncated version of its annual report.",
+      "cn": "该评论机构出版了其年报的删节版本。"
+    },
+    {
+      "en": "The second-hand version is a poor copy of the original.",
+      "cn": "盗版版本是对原版的低劣复制。"
+    },
+    {
+      "en": "Their versions of how the accident happened conflict.",
+      "cn": "他们对事故发生情况的说法相互矛盾。"
+    },
+    {
+      "en": "There's nothing Mickey Mouse about the 1993 version.",
+      "cn": "1993年的版本一点儿也不简单。"
+    },
+    {
+      "en": "This new piece of evidence invalidates his version of events.",
+      "cn": "这条新证据推翻了他对事件经过的说法。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "verse",
+          "tran_cn": " 诗，诗篇；韵文；诗节"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "account",
+            "rendition",
+            "translation"
+          ],
+          "tran_cn": "说明;翻译;译文"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "account",
+            "edition",
+            "interpretation",
+            "rendition"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "basic version",
+      "tran_cn": "基本版本"
+    },
+    {
+      "phrase": "current version",
+      "tran_cn": "当前版本"
+    },
+    {
+      "phrase": "english version",
+      "tran_cn": "英文版本；英译本"
+    },
+    {
+      "phrase": "latest version",
+      "tran_cn": "最新版本"
+    },
+    {
+      "phrase": "original version",
+      "tran_cn": "原始著作，原始版本"
+    },
+    {
+      "phrase": "release version",
+      "tran_cn": "发布版本；发行版本"
+    },
+    {
+      "phrase": "special version",
+      "tran_cn": "特别说明"
+    },
+    {
+      "phrase": "trial version",
+      "tran_cn": "试用版"
+    },
+    {
+      "phrase": "updated version",
+      "tran_cn": "更新方案，升级版"
+    },
+    {
+      "phrase": "version control",
+      "tran_cn": "版本控制"
+    },
+    {
+      "phrase": "version number",
+      "tran_cn": "版本号"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "变体，版本，（从不同角度的）描述，说法，改编形式",
+      "tran_en": "a copy of something that has been changed so that it is slightly different"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "versions"
+    ]
+  }
+}

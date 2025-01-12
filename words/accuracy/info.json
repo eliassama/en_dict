@@ -1,0 +1,262 @@
+{
+  "word": "accuracy",
+  "ipa": {
+    "us": "ˈækjərəsi",
+    "uk": "ˈækjərəsi"
+  },
+  "sentences": [
+    {
+      "en": "Accuracy is not always compatible with haste.",
+      "cn": "忙中难免出错."
+    },
+    {
+      "en": "Check the accuracy of everything in your CV.",
+      "cn": "请核对简历中的每个细节，务必准确无误。"
+    },
+    {
+      "en": "Check your work to insure its accuracy.",
+      "cn": "检查一下你的工作,以保证它的准确性."
+    },
+    {
+      "en": "Convinced of the accuracy of the data, they stuck to their opinion.",
+      "cn": "由于深信数据准确无误, 他们坚持自己的意见."
+    },
+    {
+      "en": "For the sake of historical accuracy, please permit us to state the true facts.",
+      "cn": "为忠于历史，请允许我们阐述真正的事实。"
+    },
+    {
+      "en": "He aimed at accuracy.",
+      "cn": "他力求准确."
+    },
+    {
+      "en": "He aims at great accuracy.",
+      "cn": "他力求十分准确."
+    },
+    {
+      "en": "He passes the ball with unerring accuracy.",
+      "cn": "他传球准确无误。"
+    },
+    {
+      "en": "I doubt the accuracy of your statement.",
+      "cn": "我怀疑你的话的正确性."
+    },
+    {
+      "en": "I'm a bit of a stickler for accuracy.",
+      "cn": "我总是要求精确。"
+    },
+    {
+      "en": "It will be many years before anyone can predict a hurricane's behavior with much accuracy.",
+      "cn": "要能够相当准确地预测出飓风的特性尚需多年。"
+    },
+    {
+      "en": "She took the gun and blazed away with calm and deadly accuracy.",
+      "cn": "她拿起枪，冷静地连续射击，弹无虚发。"
+    },
+    {
+      "en": "She's marvel to be able to shoot with such accuracy.",
+      "cn": "她的枪法那么好,真不简单."
+    },
+    {
+      "en": "There is need to check the accuracy of these figures.",
+      "cn": "有必要核对一下这些数字的精确性."
+    },
+    {
+      "en": "These missles can be fired with pinpoint accuracy.",
+      "cn": "这些导弹可精确地命中目标."
+    },
+    {
+      "en": "They questioned the accuracy of the information in the file.",
+      "cn": "他们怀疑档案中信息的正确性。"
+    },
+    {
+      "en": "worries about the accuracy of government statistics",
+      "cn": "对政府统计数据准确性的担心"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "accurate",
+          "tran_cn": " 精确的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "accurately",
+          "tran_cn": " 精确地，准确地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "accordance",
+            "accurateness",
+            "agreement",
+            "carefulness",
+            "closeness",
+            "conformity",
+            "detailedness",
+            "exactitude",
+            "exactness",
+            "exhaustiveness",
+            "faithfulness",
+            "fidelity",
+            "methodicalness",
+            "meticulousness",
+            "minuteness",
+            "painstakingness",
+            "preciseness",
+            "precision",
+            "rigorousness",
+            "severeness",
+            "severity",
+            "strictness",
+            "thoroughness"
+          ],
+          "tran_cn": "严格,细致,精确性"
+        },
+        {
+          "words": [
+            "absoluteness",
+            "actuality",
+            "correctness",
+            "definiteness",
+            "fact",
+            "factuality",
+            "factualness",
+            "justness",
+            "literalness",
+            "positiveness",
+            "rectitude",
+            "rightness",
+            "truth",
+            "truthfulness",
+            "unerringness",
+            "veracity",
+            "veritableness",
+            "verity"
+          ],
+          "tran_cn": "正确,真实,绝对性"
+        },
+        {
+          "words": [
+            "authenticity",
+            "faultlessness",
+            "flawlessness",
+            "integrity",
+            "perfection",
+            "soundness",
+            "validity",
+            "validness"
+          ],
+          "tran_cn": "真实性,有效性,准确无误"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "accuracy control",
+      "tran_cn": "精度控制；精确控制，精确度控制"
+    },
+    {
+      "phrase": "accuracy grade",
+      "tran_cn": "精度等级；准确度级别"
+    },
+    {
+      "phrase": "accuracy of measurement",
+      "tran_cn": "测量精度"
+    },
+    {
+      "phrase": "accuracy of measuring",
+      "tran_cn": "计量准确度"
+    },
+    {
+      "phrase": "accuracy test",
+      "tran_cn": "精度检验，精度试验；准确度测试"
+    },
+    {
+      "phrase": "alignment accuracy",
+      "tran_cn": "对准精度；调整精度"
+    },
+    {
+      "phrase": "calculation accuracy",
+      "tran_cn": "计算精度"
+    },
+    {
+      "phrase": "calibration accuracy",
+      "tran_cn": "校准精度；校准精确度"
+    },
+    {
+      "phrase": "control accuracy",
+      "tran_cn": "控制精度"
+    },
+    {
+      "phrase": "degree of accuracy",
+      "tran_cn": "精确度"
+    },
+    {
+      "phrase": "dimensional accuracy",
+      "tran_cn": "尺寸精度"
+    },
+    {
+      "phrase": "dynamic accuracy",
+      "tran_cn": "动态精度；动态正确性；动态准确度"
+    },
+    {
+      "phrase": "high accuracy",
+      "tran_cn": "高准确度"
+    },
+    {
+      "phrase": "location accuracy",
+      "tran_cn": "定位精度；定位准确度"
+    },
+    {
+      "phrase": "machining accuracy",
+      "tran_cn": "加工精度；精加工精确度"
+    },
+    {
+      "phrase": "measurement accuracy",
+      "tran_cn": "量测精度"
+    },
+    {
+      "phrase": "measuring accuracy",
+      "tran_cn": "测量精度；计量精度"
+    },
+    {
+      "phrase": "positioning accuracy",
+      "tran_cn": "定位精度；定位准确度"
+    },
+    {
+      "phrase": "relative accuracy",
+      "tran_cn": "相对精度"
+    },
+    {
+      "phrase": "tracking accuracy",
+      "tran_cn": "跟踪精度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "精确（性），准确（性），准确无误",
+      "tran_en": "the ability to do something in an exact way without making a mistake"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "accuracies"
+    ]
+  }
+}

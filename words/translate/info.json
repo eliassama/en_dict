@@ -1,0 +1,172 @@
+{
+  "word": "translate",
+  "ipa": {
+    "us": "trænzˈleɪt",
+    "uk": "trænzˈleɪt"
+  },
+  "sentences": [
+    {
+      "en": "Can you translate from French into English?",
+      "cn": "你能把法语译成英语 吗 ?"
+    },
+    {
+      "en": "Can you translate this article for me?",
+      "cn": "你能替我翻译这篇文章 吗 ?"
+    },
+    {
+      "en": "I can read Spanish but can't translate into it.",
+      "cn": "我能阅读西班牙语,但不能翻译成西班牙语."
+    },
+    {
+      "en": "I couldn't read or understand a word of Yiddish, so I asked him to translate.",
+      "cn": "我根本不懂意第绪语，所以请他来翻译。"
+    },
+    {
+      "en": "It can translate data from maps or remote sensing instruments into images.",
+      "cn": "它可以把从地图或遥感设备中得到的数据转化成为图像。"
+    },
+    {
+      "en": "It's often difficult to translate poems.",
+      "cn": "翻译诗歌在许多情况下都是困难的."
+    },
+    {
+      "en": "Please translate this article from Chinese into English.",
+      "cn": "请把这篇文章从汉语译成英语."
+    },
+    {
+      "en": "Poetry doesn’t usually translate well.",
+      "cn": "诗歌通常都译不好。"
+    },
+    {
+      "en": "Reforming Warsaw's stagnant economy requires harsh measures that would translate into job losses.",
+      "cn": "重整华沙停滞的经济需要强硬措施，这会造成工作岗位的裁减。"
+    },
+    {
+      "en": "She was skilled enough in French to translate a novel.",
+      "cn": "她法语娴熟,足以翻译小说."
+    },
+    {
+      "en": "The girls waited for Mr Esch to translate.",
+      "cn": "女孩们等待埃施先生作翻译。"
+    },
+    {
+      "en": "These jokes would be far too difficult to translate.",
+      "cn": "这些笑话也许极其难译."
+    },
+    {
+      "en": "Translate the following paragraphs into Chinese.",
+      "cn": "将下面几段译成中文."
+    },
+    {
+      "en": "We must make efforts to translate our ideal into reality.",
+      "cn": "我们必须努力把理想变为现实."
+    },
+    {
+      "en": "We should translate this sentence in passive voice.",
+      "cn": "我们应该用被动语态翻译这个句子."
+    },
+    {
+      "en": "When I adapt something I translate from one meaning to another as faithfully as I can.",
+      "cn": "我改编东西的时候，会尽可能忠实地将意思表达出来。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "translatable",
+          "tran_cn": " 可译的；能译的；可转移的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "translation",
+          "tran_cn": " 翻译；译文；转化；调任"
+        },
+        {
+          "word": "translator",
+          "tran_cn": " 译者；翻译器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "interpret",
+            "simplify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "interpret"
+          ],
+          "tran_cn": "翻译"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "remove",
+            "expound"
+          ],
+          "tran_cn": "翻译；转化；解释；转变为；调动"
+        }
+      ]
+    },
+    {
+      "pos": "vt & vi.",
+      "words": [
+        {
+          "words": [
+            "interpret"
+          ],
+          "tran_cn": "解释;说明"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "translate into",
+      "tran_cn": "翻译成"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（翻）译，(在另一语言中)意思是，(使)转变为，理解为",
+      "tran_en": "to change written or spoken words into another language"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "translates"
+    ],
+    "past": [
+      "translated"
+    ],
+    "done": [
+      "translated"
+    ],
+    "ing": [
+      "translating"
+    ]
+  }
+}

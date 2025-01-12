@@ -1,0 +1,194 @@
+{
+  "word": "foggy",
+  "ipa": {
+    "us": "ˈfɒɡi",
+    "uk": "ˈfɑːɡi"
+  },
+  "sentences": [
+    {
+      "en": "a foggy day in November",
+      "cn": "11月的一个雾天"
+    },
+    {
+      "en": "As often as not the buses are late on foggy days.",
+      "cn": "每遇多雾天气,公共汽车往往脱班."
+    },
+    {
+      "en": "Conditions were damp and foggy after morning sleet.",
+      "cn": "早上的雨夹雪过后天气潮湿多雾。"
+    },
+    {
+      "en": "driving in foggy conditions",
+      "cn": "雾天驾驶"
+    },
+    {
+      "en": "Foggy mountains are mysteriously attractive.",
+      "cn": "烟雾茫茫的群山有着神秘的魅力."
+    },
+    {
+      "en": "In this weather the cliff face was a foggy drop into infinity.",
+      "cn": "在这种天气条件下,雾蒙蒙的悬崖隐入广漠无限之中."
+    },
+    {
+      "en": "It was now the middle of November, cold and often foggy.",
+      "cn": "现在是11月中旬，天气寒冷而且经常有雾。"
+    },
+    {
+      "en": "It was so foggy that the driver could hardly make out the way ahead.",
+      "cn": "浓雾弥漫,司机看不清前面的路."
+    },
+    {
+      "en": "It was so foggy that the steamship almost ran down a small boat leaving the port.",
+      "cn": "雾很大,汽艇差点把一只正在离港的小船撞沉."
+    },
+    {
+      "en": "It's quite foggy now.",
+      "cn": "现在雾很大。"
+    },
+    {
+      "en": "The foggy streets were virtually empty, except for the occasional evening stroller.",
+      "cn": "除了偶尔一两个傍晚出来散步的人，雾蒙蒙的街上空荡荡的。"
+    },
+    {
+      "en": "This is a foggy idea.",
+      "cn": "这是个模糊不清的概念."
+    },
+    {
+      "en": "We can guarantee the punctual arrival of the armored cars in foggy weather.",
+      "cn": "雾天我们能保证装甲车准时到达。"
+    },
+    {
+      "en": "We can guarantee the punctual arrival of the armoured cars in foggy weather.",
+      "cn": "雾天我们能保证装甲车准时到达."
+    },
+    {
+      "en": "We can not guarantee the punctual arrival of trains in foggy weather.",
+      "cn": "雾天我们不能担保火车准时到达."
+    },
+    {
+      "en": "When it's foggy the trains are late more often than not.",
+      "cn": "雾大时火车往往误点."
+    },
+    {
+      "en": "When it's foggy, the trains are late as often as not.",
+      "cn": "雾大时, 火车往往晚点."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fogged",
+          "tran_cn": " 有灰雾的；不清晰的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fog",
+          "tran_cn": " 雾；烟雾，尘雾；迷惑"
+        },
+        {
+          "word": "fogger",
+          "tran_cn": " 雾警信号手；照顾牛马的人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "fogged",
+          "tran_cn": " 使模糊；以雾笼罩；使迷惘（fog的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "fog",
+          "tran_cn": " 被雾笼罩；变模糊"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fog",
+          "tran_cn": " 使模糊；使困惑；以雾笼罩"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "dim",
+            "dusty",
+            "indistinct",
+            "obscure",
+            "shadowy",
+            "unclear",
+            "vague"
+          ],
+          "tran_cn": "模糊的"
+        },
+        {
+          "words": [
+            "brumous",
+            "damp",
+            "hazy",
+            "humid",
+            "misty",
+            "murky",
+            "smoggy",
+            "steamy",
+            "vaporous"
+          ],
+          "tran_cn": "雾深的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "atmospheric",
+            "confused"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "not have the foggiest (idea 或 notion)",
+      "tran_cn": "(非正式，主英)丝毫不知"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有雾的，模糊的",
+      "tran_en": "if the weather is foggy, there is fog"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "foggier"
+    ],
+    "est": [
+      "foggiest"
+    ]
+  }
+}

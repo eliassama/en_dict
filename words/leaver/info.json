@@ -1,0 +1,64 @@
+{
+  "word": "leaver",
+  "ipa": {
+    "us": "ˈli:və(r)",
+    "uk": "'livər"
+  },
+  "sentences": [
+    {
+      "en": "Fixed scoreboard player names when a player switches with a leaver.",
+      "cn": "修正了当玩家与掉线玩家交换(-switch)后比分板上名字的问题."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "leave",
+          "tran_cn": " 许可，同意；休假"
+        },
+        {
+          "word": "leaving",
+          "tran_cn": " 离开；残余；渣滓"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "leaving",
+          "tran_cn": " 离开；留下；舍弃（leave的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "leave",
+          "tran_cn": " 离开，出发；留下"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "leave",
+          "tran_cn": " 离开；留下；遗忘；委托"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "离开者，<英>（即将）离校（就业）者"
+    }
+  ],
+  "exchange": {}
+}

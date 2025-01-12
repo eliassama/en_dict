@@ -1,0 +1,151 @@
+{
+  "word": "enable",
+  "ipa": {
+    "us": "ɪˈneɪbl",
+    "uk": "ɪˈneɪbl"
+  },
+  "sentences": [
+    {
+      "en": "A rabbit's large ears enable it to hear the slightest sound.",
+      "cn": "兔子耳朵大能听到极微小的声音."
+    },
+    {
+      "en": "Biomedical research will enable many individuals infected with HIV to live longer, more comfortable lives.",
+      "cn": "生物医学研究将会使许多艾滋病患者延长生命、提高生命质量。"
+    },
+    {
+      "en": "But scientific method does enable large numbers to walk with surer steps.",
+      "cn": "但是,科学方法的确使许多人前进的步伐更有把握."
+    },
+    {
+      "en": "The function of the stomach is to digest food sufficiently to enable it to pass into the intestine.",
+      "cn": "胃的功能是充分消化食物,以便让其进入肠道."
+    },
+    {
+      "en": "The interests he is most likely to enjoy will be those which enable him to show off himself or his talents.",
+      "cn": "他最有可能感兴趣的就是那些能让他表现自己或炫耀才华的事情。"
+    },
+    {
+      "en": "The King was on a private visit to enable him to pray at the tombs of his ancestors.",
+      "cn": "国王以私人身份出访，以便能够祭拜先祖陵墓。"
+    },
+    {
+      "en": "The measures will enable us to double our output of bicycles.",
+      "cn": "这些措施能使我们的自行车产量加倍."
+    },
+    {
+      "en": "The new test should enable doctors to detect the disease early.",
+      "cn": "新的检测手段应该能够使医生们尽早查出这种疾病。"
+    },
+    {
+      "en": "The sessions will enable you to discuss problems with fellow asthma sufferers.",
+      "cn": "这些环节让你和其他哮喘病患者一起讨论问题."
+    },
+    {
+      "en": "The shell has to be slightly porous to enable oxygen to pass in.",
+      "cn": "外壳不得不有些细小的孔以便能使氧气通过."
+    },
+    {
+      "en": "They transplant tendinous tissue to enable the crippled to walk.",
+      "cn": "他们通过移植腱组织使跛足的人能行走。"
+    },
+    {
+      "en": "This bird's wings enable it to fly very fast.",
+      "cn": "这只鸟强劲的双翼使它能够飞得很快."
+    },
+    {
+      "en": "This dictionary will enable better international understanding.",
+      "cn": "这部辞典将促进国际间更好的理解."
+    },
+    {
+      "en": "This is but a foretaste of what the emerging technologies will enable us to do.",
+      "cn": "新科技将会给我们带来什么，这仅仅是一次初体验。"
+    },
+    {
+      "en": "This will enable the audience to sit in comfort while watching the shows.",
+      "cn": "这样能够让观众舒舒服服地坐着看表演。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "enabling",
+          "tran_cn": " 授权的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "enabling",
+          "tran_cn": " 使能够；授权给（enable的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "authorize",
+            "empower",
+            "entitle",
+            "license",
+            "qualify",
+            "sanction"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "authorize",
+            "empower",
+            "enact",
+            "legislate",
+            "license",
+            "qualify",
+            "sanction"
+          ],
+          "tran_cn": "授权于;批准"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使能够，使可行",
+      "tran_en": "to make it possible for someone to do something, or for something to happen"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 使能够， 使可能， 使可行",
+      "tran_en": "to make it possible for someone to do something, or for something to happen"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "enables"
+    ],
+    "past": [
+      "enabled"
+    ],
+    "done": [
+      "enabled"
+    ],
+    "ing": [
+      "enabling"
+    ]
+  }
+}

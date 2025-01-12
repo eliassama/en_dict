@@ -1,0 +1,159 @@
+{
+  "word": "delete",
+  "ipa": {
+    "us": "dɪˈliːt",
+    "uk": "dɪˈliːt"
+  },
+  "sentences": [
+    {
+      "en": "Can I use NEW and DELETE in my kernel?",
+      "cn": "我可以在内核里面用new和delete 吗 ?"
+    },
+    {
+      "en": "Delete backspace and erase one character or number entry.",
+      "cn": "Delete退后一格并删除一条字符或数字项."
+    },
+    {
+      "en": "Delete what is dispensable and give more prominence to the essentials.",
+      "cn": "可以不说的去掉,该说的就可以更突出."
+    },
+    {
+      "en": "His name was deleted from the list.",
+      "cn": "他的名字从名单上删掉了。"
+    },
+    {
+      "en": "I deleted the file by mistake.",
+      "cn": "我误删了这个文件。"
+    },
+    {
+      "en": "If you delete several words, we can put the whole story on one page.",
+      "cn": "如果你删去几个字, 我们可把整个故事写在一页上."
+    },
+    {
+      "en": "In the user administration module, you can delete users as administration authority.",
+      "cn": "管理员管理用户界面,主要是对用户删除操作."
+    },
+    {
+      "en": "Management Interface part of the existing library management: delete, view.",
+      "cn": "管理界面部分现有图书管理: 删除, 查看."
+    },
+    {
+      "en": "Moderated online amend, delete, change information, such as the response function . 3.",
+      "cn": "版主在线修改, 删除, 更改资料, 回复等功能."
+    },
+    {
+      "en": "Most computer programs introduce or delete the dependent variables in a stepwise manner.",
+      "cn": "大部分计算机程序均以逐级计算方式来输入或删除某些应变量."
+    },
+    {
+      "en": "Select \"Delete all\" from the drop-down list.",
+      "cn": "在下拉列表项中选择“全部删除”。"
+    },
+    {
+      "en": "The shipper always asks the opening bank to delete this stipulation.",
+      "cn": "托运人总是要求开户行删除这一条款."
+    },
+    {
+      "en": "The Windows Calculator allows the Backspace and Delete keys, so you should try them.",
+      "cn": "Windows计算器允许Backspace和Delete键, 所以您应该测试它们."
+    },
+    {
+      "en": "To remove an NI - DAQmx simulated device , right - click the device and click Delete from the pop - up menu.",
+      "cn": "如果要移除 NI -DAQmx模拟设备, 在该设备图标上单击右键,并在弹出菜单中选择Delete即可."
+    },
+    {
+      "en": "We had asked them to delete him from the communique and crop him from the picture.",
+      "cn": "我们要求他们不把他的名字写入公报,并且把他从照片上剪掉."
+    },
+    {
+      "en": "We may use the SQL DELETE command to delete a record in a table a database.",
+      "cn": "我们可以使用DELETE命令来删除数据库表单中的一条记录."
+    },
+    {
+      "en": "We will be pleased to delete the charge from the original invoice.",
+      "cn": "我们决定将这笔费用从原始发票上删去。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deletion",
+          "tran_cn": " 删除；[遗] 缺失；删除部分"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cancel",
+            "censor",
+            "erase",
+            "obliterate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "expurgate",
+            "prune away"
+          ],
+          "tran_cn": "[计]删除"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "delete all",
+      "tran_cn": "全部删除"
+    },
+    {
+      "phrase": "delete from",
+      "tran_cn": "删除；从…上删掉"
+    },
+    {
+      "phrase": "delete key",
+      "tran_cn": "n. [计]删除字符键"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "删除",
+      "tran_en": "to remove something that has been written down or stored in a computer"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 删除",
+      "tran_en": "to remove something that has been written down or stored in a computer"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "deletes"
+    ],
+    "past": [
+      "deleted"
+    ],
+    "done": [
+      "deleted"
+    ],
+    "ing": [
+      "deleting"
+    ],
+    "noun": [
+      "deletion"
+    ]
+  }
+}

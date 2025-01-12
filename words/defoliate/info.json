@@ -1,0 +1,93 @@
+{
+  "word": "defoliate",
+  "ipa": {
+    "us": "ˌdi:ˈfəʊlieɪt",
+    "uk": "ˌdiˈfoʊlieɪt"
+  },
+  "sentences": [
+    {
+      "en": "Dioxin was the ingredient in Agent Orange, used to defoliate Vietnam.",
+      "cn": "越南战场上用于毁灭林区的“橙剂”，其成分是二氧杂芑。"
+    },
+    {
+      "en": "Infestations of these caterpillars may defoliate oaks and other hardwood trees but usually do no permanent damage.",
+      "cn": "这些毛虫的侵扰可能使橡树落叶和其它硬木树，但是通常不会有永久性损伤。"
+    },
+    {
+      "en": "The tree is leafless [ defoliate ] .",
+      "cn": "这棵树 秃 了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "defoliated",
+          "tran_cn": " 落叶的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "defoliant",
+          "tran_cn": " （美）[农药] 落叶剂；[农药] 脱叶剂"
+        },
+        {
+          "word": "defoliation",
+          "tran_cn": " 落叶，去叶；[植] 脱叶"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "defoliated",
+          "tran_cn": " 使…落叶；除掉…的叶子（defoliate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "leaf fall",
+            "shed leaves"
+          ],
+          "tran_cn": "[植]落叶"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（使）落叶",
+      "tran_en": "to use defoliant on a plant or tree"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "defoliates"
+    ],
+    "past": [
+      "defoliated"
+    ],
+    "done": [
+      "defoliated"
+    ],
+    "ing": [
+      "defoliating"
+    ],
+    "noun": [
+      "defoliation"
+    ]
+  }
+}

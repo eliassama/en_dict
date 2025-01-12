@@ -1,0 +1,181 @@
+{
+  "word": "decimal",
+  "ipa": {
+    "us": "ˈdesɪml",
+    "uk": "ˈdesɪml"
+  },
+  "sentences": [
+    {
+      "en": "...simple maths concepts, such as decimals and fractions.",
+      "cn": "…简单的数学概念，如小数和分数。"
+    },
+    {
+      "en": "A pocket calculator only works to eight decimal places.",
+      "cn": "袖珍计算器只能计算到小数点后8位数。"
+    },
+    {
+      "en": "Britain converted to decimal currency on February 15 th, 1971.",
+      "cn": "英国于1971年2月15日改用十进位币制."
+    },
+    {
+      "en": "calculations accurate to three decimal places",
+      "cn": "精确到小数点后三位的计算"
+    },
+    {
+      "en": "changing to a decimal system",
+      "cn": "改为十进制"
+    },
+    {
+      "en": "Correct the result to 5 decimal places.",
+      "cn": "把结果精确到小数点后五位数."
+    },
+    {
+      "en": "Determine the solution of this set and correct to two decimal places.",
+      "cn": "求此方程的解并精确到两位小数."
+    },
+    {
+      "en": "He knows the decimal rules.",
+      "cn": "他懂得十进制的用法."
+    },
+    {
+      "en": "In 1971 Britain changed over from pounds, shillings, and pence to the new decimal money system.",
+      "cn": "一九七一年英国把英镑 、 先令 、 便士改为新的十进位币制."
+    },
+    {
+      "en": "In 1971, the 1p and 2p decimal coins were introduced in Britain.",
+      "cn": "英国于1971年开始使用十进制的1便士和2便士硬币。"
+    },
+    {
+      "en": "Let us look at parallels between arithmetic using binary numbers and arithmetic using decimal numbers.",
+      "cn": "我们采用与十进制运算对比的办法来介绍二进制数的运算方法."
+    },
+    {
+      "en": "The field descriptors allow integers and decimal number to be read and written.",
+      "cn": "字域说明符允许把整数和十进制数读入和打印出来."
+    },
+    {
+      "en": "The figure is accurate to two decimal places .",
+      "cn": "这个数精确到小数点后两位。"
+    },
+    {
+      "en": "The first twofigures after the decimal point indicate tenths and hundredthsrespectively.",
+      "cn": "小数点后的头两位数分别表示十分位和百分位."
+    },
+    {
+      "en": "The mathematics of ancient Egypt were based on a decimal system.",
+      "cn": "古埃及数学以十进制为基础。"
+    },
+    {
+      "en": "The period is also used as a decimal point.",
+      "cn": "句号也可用作十进制的小数点."
+    },
+    {
+      "en": "The relative humidity is expressed as a decimal or a percentage.",
+      "cn": "相对湿度以小数或百分数表示."
+    },
+    {
+      "en": "You could save a lot of memory by packing decimal digits.",
+      "cn": "你可以借助于压缩十进制数字的方法来节省大量的存储单元."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "decimalization",
+          "tran_cn": " 十进制；十进制化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "decimalize",
+          "tran_cn": " 将…改为十进制"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "fractional"
+          ],
+          "tran_cn": "小数的；[数]十进位的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "small number",
+            "haet"
+          ],
+          "tran_cn": "[数]小数"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "binary coded decimal",
+      "tran_cn": "二-十进制数"
+    },
+    {
+      "phrase": "coded decimal",
+      "tran_cn": "二进制编码的十进制"
+    },
+    {
+      "phrase": "decimal digit",
+      "tran_cn": "十进制数字（位）"
+    },
+    {
+      "phrase": "decimal fraction",
+      "tran_cn": "n. 小数；十进制小数"
+    },
+    {
+      "phrase": "decimal number",
+      "tran_cn": "十进制数；小数"
+    },
+    {
+      "phrase": "decimal place",
+      "tran_cn": "小数位"
+    },
+    {
+      "phrase": "decimal point",
+      "tran_cn": "小数点"
+    },
+    {
+      "phrase": "decimal system",
+      "tran_cn": "十进制"
+    },
+    {
+      "phrase": "dewey decimal system",
+      "tran_cn": "杜威十进分类法；杜威十进制系统"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "十进位的，小数的",
+      "tran_en": "a decimal system is based on the number 10"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "小数",
+      "tran_en": "a  fraction (= a number less than 1 )  that is shown as a  full stop  followed by the number of  tenth s  ,  hundredth s  etc. The numbers 0.5, 0.175, and 0.661 are decimals."
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "decimals"
+    ]
+  }
+}

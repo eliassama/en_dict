@@ -1,0 +1,95 @@
+{
+  "word": "tripper",
+  "ipa": {
+    "us": "ˈtrɪpə(r)",
+    "uk": "ˈtrɪpɚ"
+  },
+  "sentences": [
+    {
+      "en": "A new - style audio remote tripper is presented, which adopts DTMF ( Dual Tone Multiple Frequency ) technology.",
+      "cn": "提出了一种新型的 、 用双音频编码实现的音频远方跳闸装置."
+    },
+    {
+      "en": "And the parameters of each component in tripper - circuit the experiment of 350 W xenon lamps.",
+      "cn": "并通过对350W氙灯的实验,得出触发电路中各元件的参数."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tripping",
+          "tran_cn": " 轻快的；流畅的；平稳地进行的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "trip",
+          "tran_cn": " 旅行；绊倒；差错"
+        },
+        {
+          "word": "tripping",
+          "tran_cn": " 绊跌"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "tripping",
+          "tran_cn": " 绊倒（trip的ing形式）；轻快地走"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "trip",
+          "tran_cn": " 绊倒；远足；犯错误；轻快地走"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "trip",
+          "tran_cn": " 绊倒；使犯错"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "tourist",
+            "traveler"
+          ],
+          "tran_cn": "远足者；旅行者；绊跌者"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "绊跌者，<英，贬>（尤指一日游的）旅游者，<机>倾卸装置，<铁>发信号装置",
+      "tran_en": "a person who goes on a trip "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "trippers"
+    ]
+  }
+}

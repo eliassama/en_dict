@@ -1,0 +1,171 @@
+{
+  "word": "membership",
+  "ipa": {
+    "us": "ˈmembəʃɪp",
+    "uk": "ˈmembərʃɪp"
+  },
+  "sentences": [
+    {
+      "en": "Entry to the show is free to members on production of their membership cards.",
+      "cn": "会员只要出示会员卡就可以免费观看演出。"
+    },
+    {
+      "en": "Every club member must pay up his membership money before the end of the season.",
+      "cn": "每一位俱乐部成员必须在赛季结束以前缴清会费."
+    },
+    {
+      "en": "He has brought his membership credentials with him.",
+      "cn": "他的组织关系已经带来了."
+    },
+    {
+      "en": "Individual membership costs £13 (£7 unwaged).",
+      "cn": "个人会员费13英镑（无工作者7英镑）。"
+    },
+    {
+      "en": "Membership fees are being increased this year.",
+      "cn": "会费今年提高了。"
+    },
+    {
+      "en": "Membership has ballooned beyond all expectations.",
+      "cn": "会员的增加比预期的要快."
+    },
+    {
+      "en": "Membership in her church youth group helped develop her political ideas.",
+      "cn": "加入教会青年团契促使她形成了自己的政治观点。"
+    },
+    {
+      "en": "Membership of the ERM is not a panacea for Britain's economic problems.",
+      "cn": "加入欧洲汇率机制并不是解决英国经济问题的万灵丹。"
+    },
+    {
+      "en": "Our membership may refuse to discuss the matter.",
+      "cn": "我们全体成员可能拒绝讨论这件事."
+    },
+    {
+      "en": "She applied for associate membership last year.",
+      "cn": "她去年申请成为准会员。"
+    },
+    {
+      "en": "The European Builders Confederation has a membership of over 350,000 building companies.",
+      "cn": "欧洲建筑商联合会拥有逾35万家建筑公司会员。"
+    },
+    {
+      "en": "The membership application came before the Council of Ministers in September.",
+      "cn": "会员申请书于9月提交部长会议审议。"
+    },
+    {
+      "en": "The membership of the club is now 500.",
+      "cn": "目前俱乐部成员数达500人."
+    },
+    {
+      "en": "The society has a large membership.",
+      "cn": "这个协会有很多会员."
+    },
+    {
+      "en": "Their membership seems to have risen to something over 10,000.",
+      "cn": "他们的会员似乎已经增加到约1万名以上。"
+    },
+    {
+      "en": "There is no percolation of political ideas from the membership to the leadership.",
+      "cn": "政治观念不会从成员那里传到领导层。"
+    },
+    {
+      "en": "We’re trying to increase our membership.",
+      "cn": "我们正在设法增加会员人数。"
+    },
+    {
+      "en": "You should carry your membership card with you at all times.",
+      "cn": "你应该随身携带会员卡。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "member",
+          "tran_cn": " 成员；会员；议员"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "association",
+            "body",
+            "brotherhood",
+            "club",
+            "company",
+            "fellowship",
+            "fraternity",
+            "roster",
+            "sisterhood",
+            "society",
+            "sodality",
+            "sorority"
+          ],
+          "tran_cn": "协会,联谊会,花名册"
+        },
+        {
+          "words": [
+            "admission",
+            "associates",
+            "enrollment",
+            "matriculation",
+            "members"
+          ],
+          "tran_cn": "成员,资格"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "nationality"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "associate membership",
+      "tran_cn": "副会员，准会员资格"
+    },
+    {
+      "phrase": "degree of membership",
+      "tran_cn": "隶属程度"
+    },
+    {
+      "phrase": "membership fee",
+      "tran_cn": "会员费；入会费"
+    },
+    {
+      "phrase": "membership function",
+      "tran_cn": "从属函数；属籍函数"
+    },
+    {
+      "phrase": "membership grade",
+      "tran_cn": "隶属度（归属函数中的专有名词）；归属程度；会员级别"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "会员身份，成员资格/人数",
+      "tran_en": "when someone is a member of a club, group, or organization"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "memberships"
+    ]
+  }
+}

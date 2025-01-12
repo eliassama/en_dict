@@ -1,0 +1,107 @@
+{
+  "word": "litigate",
+  "ipa": {
+    "us": " ˈlɪtɪɡeɪt",
+    "uk": " ˈlɪtɪɡeɪt"
+  },
+  "sentences": [
+    {
+      "en": "...the cost of litigating personal injury claims in the county court.",
+      "cn": "...在县级法院的人身伤害赔偿诉讼费用。"
+    },
+    {
+      "en": "Both parties agreed to settle their out of court rather than litigate.",
+      "cn": "双方均同意庭外和解而不提起诉讼."
+    },
+    {
+      "en": "If we have to litigate, we will.",
+      "cn": "迫不得已的话，我们会提起诉讼。"
+    },
+    {
+      "en": "The new law also grants them the right to litigate.",
+      "cn": "新法还赋予他们诉讼权."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "litigant",
+          "tran_cn": " 诉讼的"
+        },
+        {
+          "word": "litigious",
+          "tran_cn": " 好诉讼的；好争论的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "litigant",
+          "tran_cn": " 诉讼当事人"
+        },
+        {
+          "word": "litigation",
+          "tran_cn": " 诉讼；起诉"
+        },
+        {
+          "word": "litigator",
+          "tran_cn": " 诉讼律师；诉讼人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "sue"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "initiate legal proceeding",
+            "take action"
+          ],
+          "tran_cn": "在法庭相争；提出诉讼"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "提出诉讼",
+      "tran_en": "to take a claim or complaint against someone to a court of law"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "litigates"
+    ],
+    "past": [
+      "litigated"
+    ],
+    "done": [
+      "litigated"
+    ],
+    "ing": [
+      "litigating"
+    ],
+    "noun": [
+      "litigator"
+    ]
+  }
+}

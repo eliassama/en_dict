@@ -1,0 +1,75 @@
+{
+  "word": "rehash",
+  "ipa": {
+    "us": "ˌri:ˈhæʃ",
+    "uk": "riˈhæʃ"
+  },
+  "sentences": [
+    {
+      "en": "He simply rehashed the same story.",
+      "cn": "他只是把同一个故事改头换面了一下。"
+    },
+    {
+      "en": "His answer is just a rehash version of my lecture.",
+      "cn": "他的回答只不过是把我的讲义重复了一遍。"
+    },
+    {
+      "en": "The Observer found the play \"a feeble rehash of familiar Miller themes\"",
+      "cn": "《观察家报》认为这部剧“是大家熟悉的米勒式主题的拙劣翻版”。"
+    },
+    {
+      "en": "Why does Bernard rehash the incidents already discussed in the book?",
+      "cn": "为什么Bernard重讲书中已经讨论过的事件?"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "modification",
+            "changing",
+            "alteration"
+          ],
+          "tran_cn": "改变；略加修改的老作品"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "restate"
+          ],
+          "tran_cn": "重讲；重新处理"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "改头换面地重复",
+      "tran_en": "to use the same ideas again in a new form that is not really different or better - used to show disapproval"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "改头换面"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "rehashes"
+    ],
+    "past": [
+      "rehashed"
+    ],
+    "ing": [
+      "rehashing"
+    ]
+  }
+}

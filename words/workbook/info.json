@@ -1,0 +1,144 @@
+{
+  "word": "workbook",
+  "ipa": {
+    "us": "ˈwɜ:kbʊk",
+    "uk": "ˈwɜrkbʊk"
+  },
+  "sentences": [
+    {
+      "en": "Just do one more exercise in this workbook.",
+      "cn": "就再做一道这本练习册中的练习吧。"
+    },
+    {
+      "en": "No more new fonts may be applied in this workbook.",
+      "cn": "本工作簿不能再使用其他新字体."
+    },
+    {
+      "en": "Permission to the workbook you are referencing is currently restricted.",
+      "cn": "您正在引用的工作簿的权限目前受到限制."
+    },
+    {
+      "en": "Protecting a workbook does not stop users from editing cells.",
+      "cn": "保护工作簿并不会阻止用户编辑单元格."
+    },
+    {
+      "en": "Storage card not found. Insert card or save workbook in main memory.",
+      "cn": "找不到存储卡. 插入卡或将工作簿保存于主内存中."
+    },
+    {
+      "en": "This project mainly to achieve a workbook management system.",
+      "cn": "本工程主要实现工作簿管理系统."
+    },
+    {
+      "en": "This shares your workbook and then prevents change tracking from being removed.",
+      "cn": "用这种方法可以共享工作簿并可以避免丢失修订记录."
+    },
+    {
+      "en": "This workbook contains queries to external data that refresh automatically.",
+      "cn": "该工作簿中含有对自动刷新的外部数据的查询."
+    },
+    {
+      "en": "This workbook is currently referenced by another workbook and cannot be closed.",
+      "cn": "当前工作簿正由其他工作簿引用,不能关闭."
+    },
+    {
+      "en": "To collect the workbook and fill in the workbook statistic weekly.",
+      "cn": "每周收好周报并做好统计工作."
+    },
+    {
+      "en": "To hide a workbook window, click Hide on the Window menu.",
+      "cn": "要隐藏工作簿窗口, 可单击“窗口”菜单中的“隐藏”命令."
+    },
+    {
+      "en": "To share this workbook, it must contain at least one visible worksheet.",
+      "cn": "共享工作簿至少需有一张以上可见工作表."
+    },
+    {
+      "en": "We are excited to begin the materials for this workbook.",
+      "cn": "我们很兴奋开始本工作手册的内容."
+    },
+    {
+      "en": "Workbook must contain at least one visible sheet.",
+      "cn": "工作簿内至少需有一张以上未隐藏的工作表."
+    },
+    {
+      "en": "You can delete any worksheet in a workbook.",
+      "cn": "可以删除工作簿中的任何工作表."
+    },
+    {
+      "en": "You can show or hide any worksheet in a workbook.",
+      "cn": "可以在工作簿中显示或隐藏任何工作表."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "workable",
+          "tran_cn": " 切实可行的；可经营的；能工作的"
+        },
+        {
+          "word": "workaday",
+          "tran_cn": " 工作日的；日常的；普通的，平凡的"
+        },
+        {
+          "word": "workaholic",
+          "tran_cn": " 醉心于工作的"
+        },
+        {
+          "word": "workday",
+          "tran_cn": " 日常的，工作日的；平凡的"
+        },
+        {
+          "word": "working",
+          "tran_cn": " 工作的；操作的；可行的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "workaholic",
+          "tran_cn": " 专心工作的人；醉心于工作的人；为免遭辞退而工作过份卖力的人"
+        },
+        {
+          "word": "workaholism",
+          "tran_cn": " 迷恋工作；醉心工作"
+        },
+        {
+          "word": "workday",
+          "tran_cn": " 工作日"
+        },
+        {
+          "word": "working",
+          "tran_cn": " 工作；活动；制作；操纵"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "working",
+          "tran_cn": " 工作；影响；受雇用（work的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "练习本，作业本",
+      "tran_en": "a school book containing questions and exercises"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "workbooks"
+    ]
+  }
+}

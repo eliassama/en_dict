@@ -1,0 +1,117 @@
+{
+  "word": "stigmatize",
+  "ipa": {
+    "us": "ˈstɪgmətaɪz",
+    "uk": "ˈstɪɡməˌtaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Children in single-parent families must not be stigmatized.",
+      "cn": "单亲家庭的孩子不应该受到侮辱。"
+    },
+    {
+      "en": "Deportation is especially hard on women from societies that stigmatize divorce.",
+      "cn": "对于那些来自视离婚为耻辱的国度的妇女来说,被驱逐出境对她们尤其艰难."
+    },
+    {
+      "en": "Single mothers often feel that they are stigmatized by society.",
+      "cn": "单身母亲常常觉得自己受社会歧视。"
+    },
+    {
+      "en": "They stigmatize these propositions as \" trifling \" or \" merely verbal \".",
+      "cn": "他们把这些命题贬称为 “ 琐碎 ” 或 “ 只是咬文嚼字罢了 ”."
+    },
+    {
+      "en": "They stigmatize these propositions as'stifling '.",
+      "cn": "他们把这些命题贬称 “ 琐碎”."
+    },
+    {
+      "en": "They wanted to stigmatize the adulteress.",
+      "cn": "他们打算羞辱这名奸妇."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "stigmatic",
+          "tran_cn": " 有烙印的；丑恶的；不名誉的；气孔的；小红斑的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stigma",
+          "tran_cn": " [植] 柱头；耻辱；污名；烙印；特征"
+        },
+        {
+          "word": "stigmatic",
+          "tran_cn": " 有圣痕的人"
+        },
+        {
+          "word": "stigmatization",
+          "tran_cn": " 描绘；陈述"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cloud",
+            "impute",
+            "shame"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cloud",
+            "pollute"
+          ],
+          "tran_cn": "诬蔑；玷污；给…打上烙印"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "打烙印, 诬蔑",
+      "tran_en": "If someone or something is stigmatized, they are unfairly regarded by many people as being bad or having something to be ashamed of"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使受耻辱，指责，污辱"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "stigmatizes"
+    ],
+    "past": [
+      "stigmatized"
+    ],
+    "done": [
+      "stigmatized"
+    ],
+    "ing": [
+      "stigmatizing"
+    ],
+    "noun": [
+      "stigmatization"
+    ]
+  }
+}

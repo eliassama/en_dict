@@ -1,0 +1,153 @@
+{
+  "word": "maze",
+  "ipa": {
+    "us": "meɪz",
+    "uk": "meɪz"
+  },
+  "sentences": [
+    {
+      "en": "He found his way through the complex maze of corridors.",
+      "cn": "他穿过了迷宮一样的走廊."
+    },
+    {
+      "en": "He had romped through the maze of questions with unexpected ease.",
+      "cn": "想不到他不费吹灰之力很快就解决了那些错综复杂的问题。"
+    },
+    {
+      "en": "He knows his way around the intricate maze of European law.",
+      "cn": "他通晓错综复杂的欧洲律法。"
+    },
+    {
+      "en": "I followed him through a maze of narrow alleys.",
+      "cn": "我紧随他穿过一条条迂迴曲折的窄巷."
+    },
+    {
+      "en": "I was bewildered by the maze of streets in the city.",
+      "cn": "我被市里错综复杂的街道弄糊涂了."
+    },
+    {
+      "en": "She was lost in the maze for several hours.",
+      "cn": "一连几小时,她的头脑处于一片糊涂状态."
+    },
+    {
+      "en": "Smiling as he remembered, Martin thought of the laboratory maze.",
+      "cn": "回忆到这儿, 马丁笑了,他想起了实验室中的迷津."
+    },
+    {
+      "en": "The 20-minute boat ride through a maze of tidal rivers and marshes is wonderful.",
+      "cn": "在迂回曲折、潮水汹涌的河流和沼泽地中航行20分钟的感觉真是美妙。"
+    },
+    {
+      "en": "The book tries to steer you through the maze of alternative therapies.",
+      "cn": "本书旨在就各种非传统疗法为您指点迷津。"
+    },
+    {
+      "en": "The children lead me through the maze of alleys to the edge of the city.",
+      "cn": "孩子们领我穿过迷宫一般的街巷，来到城边。"
+    },
+    {
+      "en": "the famous Hampton Court maze",
+      "cn": "著名的汉普顿宫迷宫"
+    },
+    {
+      "en": "The guide led us through the maze of caves.",
+      "cn": "那个向导领我们穿过迷宫般的曲折洞穴."
+    },
+    {
+      "en": "The palace has extensive gardens, a maze, and tennis courts.",
+      "cn": "这座宫殿有几座大花园、一处迷宫和几个网球场。"
+    },
+    {
+      "en": "The roads here are quite a maze, criss-crossing one another in a fashion that at times defies logic.",
+      "cn": "这里的道路如迷宫般纵横交错，有时让人摸不着头脑。"
+    },
+    {
+      "en": "The tented ceiling hides a maze of water pipes.",
+      "cn": "形似帐篷的天花板上隐藏着迷宫似的水管。"
+    },
+    {
+      "en": "We got completely lost in the maze.",
+      "cn": "我们在迷宫中彻底迷了路。"
+    },
+    {
+      "en": "We got lost in the maze.",
+      "cn": "我们在迷宫里迷失了方向。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mazy",
+          "tran_cn": " 迷宫般的；迷阵似的；错综的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "complex",
+            "confusion",
+            "labyrinth",
+            "muddle",
+            "tangle"
+          ],
+          "tran_cn": "迷宫;纠结;纷乱"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "complex",
+            "complexity",
+            "confusion",
+            "knot",
+            "labyrinth",
+            "muddle",
+            "network",
+            "paradox",
+            "tangle"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cloud",
+            "confuse"
+          ],
+          "tran_cn": "迷失；使混乱；使困惑"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "迷宫，迷惑，错综复杂，迷宫图",
+      "tran_en": "a specially designed system of paths, often in a park or public garden, which is difficult to find your way through"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "迷失；使混乱；使困惑"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "mazes"
+    ]
+  }
+}

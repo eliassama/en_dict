@@ -1,0 +1,74 @@
+{
+  "word": "oblateness",
+  "ipa": {
+    "us": "'ɒbleɪtnes",
+    "uk": "'ɒbleɪtnes"
+  },
+  "sentences": [
+    {
+      "en": "Accuracy of the measurements of the geocentric vector is affected by earth oblateness.",
+      "cn": "圆锥扫描式红外地球敏感器常用于测算地心矢量,而地球扁率影响地心矢量精度."
+    },
+    {
+      "en": "Determining the oblateness is extremely difficult.",
+      "cn": "测量扁率是极为困难的."
+    },
+    {
+      "en": "In this paper, we discuss the effect of the Earth's oblateness and ionosphere on the retrieval, and analyze the result of the local curvature correction and the ionosphere calibration.",
+      "cn": "本文采用模拟的方法，分析其中地球扁率及电离层对反演结果的影响，并讨论局部圆弧修正及电离层修正的效果。"
+    },
+    {
+      "en": "The changes of optimal trajectory caused by Earth's oblateness are computed.",
+      "cn": "详细计算分析了地球扁率对最优轨道的影响."
+    },
+    {
+      "en": "The oblateness tends to decrease since the formation of the earth.",
+      "cn": "地球的扁率自形成以来总体趋势在减小。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "oblate",
+          "tran_cn": " 扁圆的；扁平的；奉为神圣的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "oblate",
+          "tran_cn": " 献身于修道院生活的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "flattening"
+          ],
+          "tran_cn": "扁圆形；[天]扁率"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "扁圆形；[天] 扁率"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "扁率，扁球形，扁圆形"
+    }
+  ],
+  "exchange": {}
+}

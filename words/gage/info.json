@@ -1,0 +1,125 @@
+{
+  "word": "gage",
+  "ipa": {
+    "us": "gedʒ",
+    "uk": "geɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "A unique example of the slack disaphragm is the draft gage.",
+      "cn": "弱膜片的典型例子是风压计."
+    },
+    {
+      "en": "Bell gages may be used to measure gage pressure or differential pressure.",
+      "cn": "浮钟式压力计可以用来测量计示压力或差压力."
+    },
+    {
+      "en": "Can you gage what her reaction is likely to be?",
+      "cn": "你能揣测她的反应可能是什么吗？"
+    },
+    {
+      "en": "Clip - gage excitation was supplied by a commercially available power supply ( signal conditioner ).",
+      "cn": "回形引伸计的激励电压由商售的通用电源装置 ( 信号调制器 ) 来提供."
+    },
+    {
+      "en": "Duplicate 12 - in . long specimens were calibrated with an 8 - in . gage length.",
+      "cn": "两个完全相同的12英寸试样用8英寸标距来标定."
+    },
+    {
+      "en": "Gage pressure is a special case of differential pressure.",
+      "cn": "计示压力是差压力的一种特殊情况."
+    },
+    {
+      "en": "The above circuIt'serves to illustrate the principle of the gage.",
+      "cn": "上述线路图是用来说明应变计的作用原理的."
+    },
+    {
+      "en": "The bonded - foil gage monitored with a wheatstone bridge has become a highly perfected measuring system.",
+      "cn": "用惠斯登电桥监测的粘贴 ― 箔式应变片已成为高度完善的测量系统."
+    },
+    {
+      "en": "The classical examples are strain gage devices.",
+      "cn": "传统的例子是应变仪装置."
+    },
+    {
+      "en": "The gage deflection is due to the momentum transfer.",
+      "cn": "压力计的偏转是由于动量交换的原因."
+    },
+    {
+      "en": "The interferometric strain gage offers a method for measuring strain without actual use of a gage.",
+      "cn": "干涉应变计提供了一种实际上不用仪器测量应变的方法."
+    },
+    {
+      "en": "The simplest version of the thermocouple gage consists of a resistance wire.",
+      "cn": "最简单的热电偶真空计是由电阻丝组成."
+    },
+    {
+      "en": "The stability of the gage will be seriously impaired.",
+      "cn": "应变片的稳定性将被严重削弱."
+    },
+    {
+      "en": "The strain gage based on mechanical principles is the scratch gage.",
+      "cn": "以机械原理为基础的应变计是刻痕应变计."
+    },
+    {
+      "en": "Two basic forms of the resistance strain gage are the bounded and the unbounded types.",
+      "cn": "电阻应变片有粘贴式和非粘贴式两种基本形式."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gaging",
+          "tran_cn": " 测量；规测；放射性计测"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "challenge",
+            "dare",
+            "guarantee",
+            "gauge"
+          ],
+          "tran_cn": "计量器；挑战；[经]抵押品"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pressure gage",
+      "tran_cn": "压力计；压力表"
+    },
+    {
+      "phrase": "resistance strain gage",
+      "tran_cn": "电阻应变计"
+    },
+    {
+      "phrase": "strain gage",
+      "tran_cn": "应变计；电阻丝应变仪"
+    },
+    {
+      "phrase": "thickness gage",
+      "tran_cn": "厚度规；测厚计"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "厚度，直径，测量仪表，规格"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "计量，度量，估计，判断"
+    }
+  ],
+  "exchange": {}
+}

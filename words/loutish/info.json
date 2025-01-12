@@ -1,0 +1,80 @@
+{
+  "word": "loutish",
+  "ipa": {
+    "us": "'laʊtɪʃ",
+    "uk": "ˈlaʊtɪʃ"
+  },
+  "sentences": [
+    {
+      "en": "He was a London boy, with a loutish air.",
+      "cn": "他是个伦敦学生, 举止粗俗."
+    },
+    {
+      "en": "He was not as loutish as his manner suggested.",
+      "cn": "他举止粗野,但人不是那样的."
+    },
+    {
+      "en": "I was appalled by the loutish behaviour.",
+      "cn": "这种粗野行为令我大为震惊。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "lout",
+          "tran_cn": " 笨拙的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "lout",
+          "tran_cn": " 鞠躬；屈服"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "lout",
+          "tran_cn": " 愚弄"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "robust",
+            "gross",
+            "rough",
+            "country",
+            "bush"
+          ],
+          "tran_cn": "粗野的；笨拙的；无礼的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "笨拙的，粗野的",
+      "tran_en": "If you describe a man or a boy as loutish, you are critical of them because their behaviour is impolite and aggressive"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "lout"
+    ]
+  }
+}

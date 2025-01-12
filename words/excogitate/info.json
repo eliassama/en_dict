@@ -1,0 +1,79 @@
+{
+  "word": "excogitate",
+  "ipa": {
+    "us": "eks'kɒdʒɪteɪt",
+    "uk": "ɪkˈskɑdʒɪˌtet"
+  },
+  "sentences": [
+    {
+      "en": "The scientist must stop to observe and start to excogitate.",
+      "cn": "科学家必须停下来观察,然后开始思考."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "excogitation",
+          "tran_cn": " 设计；发明；方案；计划"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "conceive",
+            "study"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "design",
+            "father",
+            "engineer",
+            "style",
+            "project"
+          ],
+          "tran_cn": "想出；发明；设计"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "想出, 研究出, 设计, 发明",
+      "tran_en": "to devise, invent, or contrive "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "想出，设计出，图谋，算计"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "excogitates"
+    ],
+    "past": [
+      "excogitated"
+    ],
+    "done": [
+      "excogitated"
+    ],
+    "ing": [
+      "excogitating"
+    ]
+  }
+}

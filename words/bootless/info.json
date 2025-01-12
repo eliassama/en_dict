@@ -1,0 +1,97 @@
+{
+  "word": "bootless",
+  "ipa": {
+    "us": "'bu:tlɪs",
+    "uk": "ˈbutlɪs"
+  },
+  "sentences": [
+    {
+      "en": "a bootless search",
+      "cn": ""
+    },
+    {
+      "en": "I \" trouble deaf heaven with my bootless cries. \"",
+      "cn": "我 “ 哭天天不应 ”."
+    },
+    {
+      "en": "That effort will be bootless.",
+      "cn": "那种努力将是无益的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "booted",
+          "tran_cn": " 穿靴的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "boot",
+          "tran_cn": " 靴子；踢；汽车行李箱"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "booted",
+          "tran_cn": " 踢（boot的过去式和过去分词）；使穿靴"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "boot",
+          "tran_cn": " 引导；踢；解雇；使穿靴"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "purposeless",
+            "useless"
+          ],
+          "tran_cn": "无益"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abortive",
+            "fruitless",
+            "futile",
+            "purposeless",
+            "useless"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "无用的，无益的",
+      "tran_en": "of little or no use; vain; fruitless "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,200 @@
+{
+  "word": "geology",
+  "ipa": {
+    "us": "dʒiˈɒlədʒi",
+    "uk": "dʒiˈɑːlədʒi"
+  },
+  "sentences": [
+    {
+      "en": "At first he studied architecture, but later he switched to geology.",
+      "cn": "他原是学建筑的, 中途改行搞地质了."
+    },
+    {
+      "en": "Concentrators in geological sciences elect either geology or geography.",
+      "cn": "主修地质学的学生要选修地质学或地理课程."
+    },
+    {
+      "en": "He majors in geology.",
+      "cn": "他主修地质学."
+    },
+    {
+      "en": "He was visiting professor of geology at the University of Georgia.",
+      "cn": "他曾是佐治亚大学的地质学客座教授。"
+    },
+    {
+      "en": "He was visiting professor of geology at the University of Jordan.",
+      "cn": "他是约旦大学的地质学客座教授。"
+    },
+    {
+      "en": "His son specializes in geology.",
+      "cn": "他的儿子攻读地质学."
+    },
+    {
+      "en": "I know only a few streaks about geology.",
+      "cn": "我对地质学只是略知一二."
+    },
+    {
+      "en": "In his lecture on geology, he touched on the subject of climate.",
+      "cn": "他在关于地质学的报告中, 也涉及气候问题."
+    },
+    {
+      "en": "the geology of the British Isles",
+      "cn": "不列颠群岛的地质"
+    },
+    {
+      "en": "the keeper of geology at the museum",
+      "cn": "博物馆地质资料的保管人"
+    },
+    {
+      "en": "The noble science of Geology loses glory from the extreme imperfection of the record.",
+      "cn": "地质学这门高尚的科学,由于地质记录极端不全而损失了光彩."
+    },
+    {
+      "en": "The remaining minerals are of lesser significance in engineerng geology.",
+      "cn": "其余的矿物在工程地质中意义不大."
+    },
+    {
+      "en": "The sciences of planetary geology have benefited tremendously from these new finds.",
+      "cn": "行星地质科学从这些新发现中受益匪浅."
+    },
+    {
+      "en": "The students went to study the geology of that region.",
+      "cn": "学生们去研究那个地区的地质情况."
+    },
+    {
+      "en": "We have touched upon subjects from a variety of fields of geology.",
+      "cn": "我们已经论及了地质学领域中提出的各种问题."
+    },
+    {
+      "en": "Well logging transcends the boundaries ordinarily established between geology, geophysics, and petroleum engineering.",
+      "cn": "测井超越了通常在地质 、 地球物理和石油工程中划定的界线."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "geologic",
+          "tran_cn": " 地质的；地质学上的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "geologically",
+          "tran_cn": " 从地质学角度"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "geologist",
+          "tran_cn": " 地质学家，地质学者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "geologic map",
+            "geognosy"
+          ],
+          "tran_cn": "[地质]地质学；地质情况"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "science"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "agricultural geology",
+      "tran_cn": "农业地质学"
+    },
+    {
+      "phrase": "areal geology",
+      "tran_cn": "区域地质"
+    },
+    {
+      "phrase": "department of geology",
+      "tran_cn": "地质系"
+    },
+    {
+      "phrase": "economic geology",
+      "tran_cn": "经济地质"
+    },
+    {
+      "phrase": "engineering geology",
+      "tran_cn": "工程地质学"
+    },
+    {
+      "phrase": "environmental geology",
+      "tran_cn": "环境地质，环境地质学"
+    },
+    {
+      "phrase": "field geology",
+      "tran_cn": "野外地质学"
+    },
+    {
+      "phrase": "marine geology",
+      "tran_cn": "海洋地质学"
+    },
+    {
+      "phrase": "mining geology",
+      "tran_cn": "采矿地质学"
+    },
+    {
+      "phrase": "oil geology",
+      "tran_cn": "石油地质（学）"
+    },
+    {
+      "phrase": "petroleum geology",
+      "tran_cn": "石油地质学"
+    },
+    {
+      "phrase": "quaternary geology",
+      "tran_cn": "第四纪地质学"
+    },
+    {
+      "phrase": "regional geology",
+      "tran_cn": "区域地质学"
+    },
+    {
+      "phrase": "structural geology",
+      "tran_cn": "构造地质学"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "地质学，（某地区的）地质情况，地质学的著作",
+      "tran_en": "the study of the rocks, soil etc that make up the Earth, and of the way they have changed since the Earth was formed"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "geologically"
+    ],
+    "adj": [
+      "geological"
+    ]
+  }
+}

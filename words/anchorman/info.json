@@ -1,0 +1,100 @@
+{
+  "word": "anchorman",
+  "ipa": {
+    "us": "ˈæŋkəmæn",
+    "uk": "ˈæŋkərmæn"
+  },
+  "sentences": [
+    {
+      "en": "Anchorman: What do TV reporters wear under their pants?",
+      "cn": "新闻节目主持人: 电视裤子里面穿 什么 ?"
+    },
+    {
+      "en": "I can't host the program as a replacement of the anchorman, I can't do his job.",
+      "cn": "我不能替主持人主持节目,这种庖代的事情我干不了."
+    },
+    {
+      "en": "I heard that the anchorman of the CBC TV network's evening news got fired.",
+      "cn": "我听说CBC电视网的晚间新闻主播被炒鱿鱼."
+    },
+    {
+      "en": "I'll never be an anchorman. The job's there, but I can't reach it.",
+      "cn": "但 这样 我永远不能成为电视台的主持. 就像这样,这位置伸手可触, 但我就是得不到."
+    },
+    {
+      "en": "The anchorman flung his whole weight back, tightening the rope.",
+      "cn": "那个压阵队员使尽了全身力气往后拽，把绳子拉得紧紧的。"
+    },
+    {
+      "en": "The anchorman of the BBC network's evening news got fired.",
+      "cn": "听说BBC电视网的晚间新闻主播被炒了鱿?"
+    },
+    {
+      "en": "The television anchorman was reporting evening news.",
+      "cn": "这位男电视主持人正在报道晚间新闻."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "anchor",
+          "tran_cn": " 末捧的；最后一棒的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "anchor",
+          "tran_cn": " 锚；抛锚停泊；靠山；新闻节目主播"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "anchor",
+          "tran_cn": " 抛锚"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "anchor",
+          "tran_cn": " 抛锚；使固定；主持节目"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "announcer"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（电视或广播电台新闻节目的）男主持人"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "anchormen"
+    ]
+  }
+}

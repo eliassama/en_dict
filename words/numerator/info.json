@@ -1,0 +1,93 @@
+{
+  "word": "numerator",
+  "ipa": {
+    "us": "ˈnju:məreɪtə(r)",
+    "uk": "ˈnuməreɪtə(r)"
+  },
+  "sentences": [
+    {
+      "en": "In this exercise you have to convert a given number into a fraction by entering a numerator and denominator. Do not forget to reduce the result.",
+      "cn": "在此练习中您要将一个给定的数字转换成一个分数，输入转化结果的分子和分母。不要忘了将结果约分至最简分数。"
+    },
+    {
+      "en": "In this exercise you have to convert a given number into a fraction by entering numerator and denominator. Do not forget to reduce the result!",
+      "cn": "在此练习中您要将一个给定的数字转换成一个分数，输入转化结果的分子和分母。不要忘了将结果约分至最简分数！"
+    },
+    {
+      "en": "The fractions selected for comParison must require pupils to consider both numerator and denominator.",
+      "cn": "所选的用于比较的分数必须要求学生同时考虑分子和分母."
+    },
+    {
+      "en": "The numerator of the fraction is an integer.",
+      "cn": "这个分数的分母是个整数."
+    },
+    {
+      "en": "You have to enter numerator and denominator.",
+      "cn": "您需要输入结果的分子和分母."
+    },
+    {
+      "en": "Yttrium oxide Numerator formula: Y 2 O 3 Description: white powder.",
+      "cn": "氧化钇化学式: Y2O3说明: 白色粉末."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "numerable",
+          "tran_cn": " 可计数的；可计算的"
+        },
+        {
+          "word": "numerate",
+          "tran_cn": " 识数的，会计算的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "numeracy",
+          "tran_cn": " 计算能力，识数"
+        },
+        {
+          "word": "numeration",
+          "tran_cn": " 计算；数字的读法；[数] 命数法；编号"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "numerate",
+          "tran_cn": " 数，列举；读（数）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "counter",
+            "molecule"
+          ],
+          "tran_cn": "分子；计算者；计算器"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（分数的）分子",
+      "tran_en": "the number above the line in a fraction, for example 5 is the numerator in 5/6"
+    }
+  ],
+  "exchange": {}
+}

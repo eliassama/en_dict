@@ -1,0 +1,58 @@
+{
+  "word": "climatically",
+  "ipa": {
+    "us": "klaɪ'mætɪklɪ",
+    "uk": "klaɪ'mætɪklɪ"
+  },
+  "sentences": [
+    {
+      "en": "The city of Madrid soon plans to add a striking new structure that will “climatically transform” its urban architecture.",
+      "cn": "马德里市区计划修建一座醒目的建筑，此建筑还将在气候上改变城市的建筑格局。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "climatic",
+          "tran_cn": " 气候的；气候上的；由气候引起的；受气候影响的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "climate",
+          "tran_cn": " 气候；风气；思潮；风土"
+        },
+        {
+          "word": "climatologist",
+          "tran_cn": " 气候学家"
+        },
+        {
+          "word": "climatology",
+          "tran_cn": " [气候] 气候学；风土学"
+        },
+        {
+          "word": "clime",
+          "tran_cn": " 气候；地方"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "气候上，风土上"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "climatic"
+    ]
+  }
+}

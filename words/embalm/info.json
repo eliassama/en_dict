@@ -1,0 +1,103 @@
+{
+  "word": "embalm",
+  "ipa": {
+    "us": "ɪmˈbɑːm",
+    "uk": "ɪmˈbɑːm"
+  },
+  "sentences": [
+    {
+      "en": "His body was embalmed.",
+      "cn": "他的尸体进行了防腐处理。"
+    },
+    {
+      "en": "The Egyptians used to embalm the bodies of their dead kings.",
+      "cn": "埃及人以前用药物保存国王的尸体."
+    },
+    {
+      "en": "The Egyptians used to embalm the bodies of their deadkings and queens.",
+      "cn": "埃及人以前用药物保存国王和王后的尸体."
+    },
+    {
+      "en": "Thousands of years ago in Egypt, salt was used to embalm the dead.",
+      "cn": "千万年前埃及人曾利用盐涂尸防腐."
+    },
+    {
+      "en": "We must embalm the master's wise opinions.",
+      "cn": "这位大师的崇论闳议,我们一定要铭记于心."
+    },
+    {
+      "en": "We will embalm him forever.",
+      "cn": "我们永远怀念他."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "embalmer",
+          "tran_cn": " （用于防止尸体腐化的）香料或化学物质"
+        },
+        {
+          "word": "embalmment",
+          "tran_cn": " 薰香；尸体的防腐处理"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "keep",
+            "preserve"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "keep",
+            "preserve"
+          ],
+          "tran_cn": "防腐;保存"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "铭记于心；使不朽；防腐；使充满香气",
+      "tran_en": "to treat a dead body with chemicals, oils etc to prevent it from decaying"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "保存（尸体）不腐，使不被遗忘，使充满香气"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "embalms"
+    ],
+    "past": [
+      "embalmed"
+    ],
+    "done": [
+      "embalmed"
+    ],
+    "ing": [
+      "embalming"
+    ],
+    "noun": [
+      "embalmer"
+    ]
+  }
+}

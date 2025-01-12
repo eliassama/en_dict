@@ -1,0 +1,92 @@
+{
+  "word": "nullity",
+  "ipa": {
+    "us": "ˈnʌləti",
+    "uk": "'nʌlətɪ"
+  },
+  "sentences": [
+    {
+      "en": "a decree of nullity",
+      "cn": "无效判决"
+    },
+    {
+      "en": "In literature, vulgarity is preferable to nullity, just as grocer's port is preferable to distilled water.",
+      "cn": "在文学方面, 哪怕粗鄙也胜似平庸,一如杂货店的葡萄酒总比蒸馏水好."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "null",
+          "tran_cn": " 无效的，无价值的；等于零的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "null",
+          "tran_cn": " 零，[数] 空"
+        },
+        {
+          "word": "nullification",
+          "tran_cn": " 无效；废弃；取消；（美）州对联邦法令的拒绝执行或承认"
+        },
+        {
+          "word": "nullifier",
+          "tran_cn": " 废弃者；使无效者；取消者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "nullify",
+          "tran_cn": " 使无效，作废；取消"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "invalidity",
+            "ineffectiveness"
+          ],
+          "tran_cn": "无效；无价值的事物或人；[数]零度；退化阶数"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "naught",
+            "nothing"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<正，律>（尤指婚姻）法律上无效，不存在，<罕>无足轻重的人"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "nullities"
+    ]
+  }
+}

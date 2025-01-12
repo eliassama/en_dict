@@ -1,0 +1,70 @@
+{
+  "word": "abscissa",
+  "ipa": {
+    "us": "æbˈsɪsə",
+    "uk": "æbˈsɪsə"
+  },
+  "sentences": [
+    {
+      "en": "Of course, this setting only takes effect if the abscissa is displaying a Zero - line .",
+      "cn": "当然, 此配置仅在图表被配置为显示 零线 时生效."
+    },
+    {
+      "en": "Phosphorus content in accordance with the abscissa, the ordinate physiological parameters for growth curve for result analysis.",
+      "cn": "按照以磷含量为横坐标，各项生理参数为纵坐标绘制生长曲线，进行结果分析。"
+    },
+    {
+      "en": "Position in the development of display images, but also can change the location to display the location, can customize the abscissa and ordinate values.",
+      "cn": "在制定的位置显示图像，还可以改变位置来显示位置，可以自定义横坐标和纵坐标的值。"
+    },
+    {
+      "en": "The experimental curve runs nearly parallel to the abscissa.",
+      "cn": "实验曲线几乎与模座标平行."
+    },
+    {
+      "en": "Therefore, on the complex plane, robust stability can be formulated by minimization of pseudospectra abscissa.",
+      "cn": "于是在复平面上, 鲁棒稳定性问题就转化为伪谱横坐标(伪谱最右端的横坐标值)最小的优化问题."
+    },
+    {
+      "en": "This paper presents a method to calculate the short circuit current of an abscissa compensation circuit.",
+      "cn": "以电力系统中常见的串联补偿电路为研究对象,提出了一种新的分析方法——级数分析法."
+    },
+    {
+      "en": "This paper presents a method to short circuit current of an abscissa compensation circuit.",
+      "cn": "以电力系统中常见的串联补偿电路为研究对象,提出了一种新的分析方法——级数分析法."
+    },
+    {
+      "en": "Use a minimum of ordinate and abscissa values so they do not run together.",
+      "cn": "使用最低限度的协调与横坐标值使他们不跑在一起."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "x axis",
+            "horizontal line"
+          ],
+          "tran_cn": "[数][天]横坐标；[昆]横线"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<数>横坐标，横轴线",
+      "tran_en": "the horizontal or x-coordinate of a point in a two-dimensional system of Cartesian coordinates"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      " abscissae",
+      "abscissas"
+    ]
+  }
+}

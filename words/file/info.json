@@ -1,0 +1,325 @@
+{
+  "word": "file",
+  "ipa": {
+    "us": "faɪl",
+    "uk": "faɪl"
+  },
+  "sentences": [
+    {
+      "en": "a list of all the files and folders on your hard disk",
+      "cn": "你硬盘上全部文件及文件夹的列表"
+    },
+    {
+      "en": "Do you have an application on file with us?",
+      "cn": "你向我们提出的申请书有案可查 吗 ?"
+    },
+    {
+      "en": "He turned the pages of a file in front of him.",
+      "cn": "他翻阅面前的文件。"
+    },
+    {
+      "en": "His fingerprints were on file in Washington.",
+      "cn": "他的指纹已在华盛顿记录在档。"
+    },
+    {
+      "en": "I looked your address up in the personnel file.",
+      "cn": "我在人事档案里找到了你的地址。"
+    },
+    {
+      "en": "I made a bit of a boob throwing that file away.",
+      "cn": "我犯了个愚蠢的错误，把那份文件扔掉了。"
+    },
+    {
+      "en": "I'll ask the secretary to file these letters away.",
+      "cn": "我让秘书把这些信件归档."
+    },
+    {
+      "en": "She pulled a blue file from the shelf.",
+      "cn": "她从架子上拉出一个蓝色文件夹。"
+    },
+    {
+      "en": "Substantial numbers of rank and file members ignored their union's advice.",
+      "cn": "有相当一部分普通员工不理睬工会的建议。"
+    },
+    {
+      "en": "The contracts are filed alphabetically .",
+      "cn": "这些合同是按字母顺序归档的。"
+    },
+    {
+      "en": "The contracts are filed alphabetically.",
+      "cn": "这些合同是按字母顺序归档的。"
+    },
+    {
+      "en": "The door won't fit ; you'll have to file it down.",
+      "cn": "这门关不上, 你得把它锉一锉."
+    },
+    {
+      "en": "the engine numbers were filed away.",
+      "cn": "发动机号码被锉掉了。"
+    },
+    {
+      "en": "The FBI kept a voluminous file on Pablo Picasso.",
+      "cn": "联邦调查局保存了有关巴勃罗·毕加索的大量档案。"
+    },
+    {
+      "en": "The file on this man has been telexed to Paris.",
+      "cn": "这个人的档案已被电传到巴黎."
+    },
+    {
+      "en": "The officer left the scene without filing a report.",
+      "cn": "警察没有提交报告就离开了现场。"
+    },
+    {
+      "en": "The payment offered to the rank and file is extremely poor.",
+      "cn": "列兵的待遇极低."
+    },
+    {
+      "en": "the rank and file of the workforce",
+      "cn": "普通劳动者"
+    },
+    {
+      "en": "They questioned the accuracy of the information in the file.",
+      "cn": "他们怀疑档案中信息的正确性。"
+    },
+    {
+      "en": "Today is the deadline for Americans to file their tax returns .",
+      "cn": "今天是美国人递交纳税申报单的截止日。"
+    },
+    {
+      "en": "We were walking in single file to the lake.",
+      "cn": "我们正排成一列朝湖边走去。"
+    },
+    {
+      "en": "We will keep your details on file (= store them for later use ) .",
+      "cn": "我们将把你的详细资料存档。"
+    },
+    {
+      "en": "We will keep your résumé on file.",
+      "cn": "我们将把你的简历存入档案"
+    },
+    {
+      "en": "We'll keep your details on file.",
+      "cn": "我们会把有关你的详细信息记录在档。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "filer",
+          "tran_cn": " 锉磨工人；文件编档员；文件装钉员"
+        },
+        {
+          "word": "filing",
+          "tran_cn": " 文件归档；锉；锉屑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "filing",
+          "tran_cn": " 锉（file的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "document",
+            "portfolio",
+            "paper",
+            "record",
+            "folder"
+          ],
+          "tran_cn": "[计]文件；档案；文件夹；[机]锉刀"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "catalog",
+            "categorize",
+            "classify",
+            "edge",
+            "grind",
+            "group",
+            "march",
+            "parade",
+            "sand",
+            "sharpen",
+            "smooth",
+            "sort",
+            "store"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "procession"
+          ],
+          "tran_cn": "列队行进；用锉刀锉"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "introduce",
+            "present",
+            "prefer",
+            "advance",
+            "put in"
+          ],
+          "tran_cn": "提出；锉；琢磨；把…归档"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data file",
+      "tran_cn": "数据文件"
+    },
+    {
+      "phrase": "executable file",
+      "tran_cn": "可执行文件"
+    },
+    {
+      "phrase": "file format",
+      "tran_cn": "[计]文件格式"
+    },
+    {
+      "phrase": "file in",
+      "tran_cn": "陆续编入；编入档内"
+    },
+    {
+      "phrase": "file into",
+      "tran_cn": "鱼贯而入，排队进去"
+    },
+    {
+      "phrase": "file management",
+      "tran_cn": "[计]文件管理"
+    },
+    {
+      "phrase": "file name",
+      "tran_cn": "文件名；档案名"
+    },
+    {
+      "phrase": "file sharing",
+      "tran_cn": "[计]文件共享"
+    },
+    {
+      "phrase": "file size",
+      "tran_cn": "文件大小；档案大小"
+    },
+    {
+      "phrase": "file something away/off",
+      "tran_cn": "把…锉掉"
+    },
+    {
+      "phrase": "file system",
+      "tran_cn": "[计]文件系统"
+    },
+    {
+      "phrase": "file transfer",
+      "tran_cn": "文件传输；经由网路将档案由一电脑复制至另一台电脑"
+    },
+    {
+      "phrase": "image file",
+      "tran_cn": "影像档案，图象档案"
+    },
+    {
+      "phrase": "in file",
+      "tran_cn": "依次；鱼贯；成二列纵队"
+    },
+    {
+      "phrase": "log file",
+      "tran_cn": "日志文件"
+    },
+    {
+      "phrase": "on file",
+      "tran_cn": "存档：为了便于查考在或好象是在档案中"
+    },
+    {
+      "phrase": "open file",
+      "tran_cn": "打开文件；开启档案；非机密档案"
+    },
+    {
+      "phrase": "output file",
+      "tran_cn": "输出文件"
+    },
+    {
+      "phrase": "single file",
+      "tran_cn": "n. 单行；一列纵队"
+    },
+    {
+      "phrase": "source file",
+      "tran_cn": "[计]源文件"
+    },
+    {
+      "phrase": "text file",
+      "tran_cn": "[计]文本文件"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "文件（夹），档案，锉刀",
+      "tran_en": "a set of papers, records etc that contain information about a particular person or subject"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": "锉，锉刀；文件夹；归档；纵列",
+      "tran_en": "a box or piece of folded card in which you store loose papers"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "把......归档，，（尤指在法庭）提起（诉讼），发送（报道），排成纵队行进，锉平；锉光滑；锉去",
+      "tran_en": "to keep papers, documents etc in a particular place so that you can find them easily"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 提出申请； 排成纵队行进",
+      "tran_en": "to give a document to a court or other organization so that it can be officially recorded and dealt with"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把归档；把…登记备案；提出",
+      "tran_en": "to keep papers, documents etc in a particular place so that you can find them easily"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "files"
+    ],
+    "third": [
+      "files"
+    ],
+    "past": [
+      "filed"
+    ],
+    "done": [
+      "filed"
+    ],
+    "ing": [
+      "filing"
+    ]
+  }
+}

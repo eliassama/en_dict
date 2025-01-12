@@ -1,0 +1,90 @@
+{
+  "word": "unquote",
+  "ipa": {
+    "us": "ˌʌnˈkwəʊt",
+    "uk": "ˌʌnˈkwoʊt"
+  },
+  "sentences": [
+    {
+      "en": "And even among those that quote , unquote may be hungry or poor.",
+      "cn": "即使一些人承认有人可能挨饿或贫困."
+    },
+    {
+      "en": "He drowned in a boating quote \"accident\" unquote.",
+      "cn": "他在一次所谓的翻船“事故”中溺亡。"
+    },
+    {
+      "en": "Mr. Smith said quote I will not run for governor unquote.",
+      "cn": "史密斯先生说,引文开始,我将不竞选州长,引文结束."
+    },
+    {
+      "en": "This quote startling original novel unquote is both boring and badly write.",
+      "cn": "这部所谓的‘不同凡响的小说’云云,内容既枯燥、文笔又拙劣."
+    },
+    {
+      "en": "This quote startlingly original novel unquote is both boring and badly written.",
+      "cn": "这部所谓的‘不同凡响的小说’云云,内容既枯燥、文笔又拙劣."
+    },
+    {
+      "en": "We've only had an \"average\", quote, unquote, kind of recession.",
+      "cn": "我们只有过一次被称作“一般性的”经济衰退。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "draw to an end",
+            "bring to a close",
+            "put an end to something",
+            "be over"
+          ],
+          "tran_cn": "（句、文等）结束（引文）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "conclude",
+            "draw to an end",
+            "bring to a close",
+            "put an end to something",
+            "be over"
+          ],
+          "tran_cn": "（句、文等）结束（引文）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 结束引语"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（电报。听写等中用语）结束引语"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "unquotes"
+    ],
+    "past": [
+      "unquoted"
+    ],
+    "done": [
+      "unquoted"
+    ],
+    "ing": [
+      "unquoting"
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "word": "entity",
+  "ipa": {
+    "us": "ˈentəti",
+    "uk": "ˈentəti"
+  },
+  "sentences": [
+    {
+      "en": "A corporation is separate legal entity Chartered by the state.",
+      "cn": "股份有限公司是州政特许的独立的法律主体."
+    },
+    {
+      "en": "A vector quantity is an entity with a magnitude and a direction in space.",
+      "cn": "矢量是空间中既具有大小又具有方向的量."
+    },
+    {
+      "en": "An application - entity which executes application - management functions.",
+      "cn": "执行应用管理操作程序的应用实体."
+    },
+    {
+      "en": "But how can we make a reality of the European entity if we don't speak together?",
+      "cn": "我们如果不共同发言,怎么能体现欧洲统一 呢 ?"
+    },
+    {
+      "en": "Good design brings a house and garden together as a single entity.",
+      "cn": "优秀的设计能把一所房子和花园合为一体。"
+    },
+    {
+      "en": "In a hierarchial structure; an entity on the same level as another entity.",
+      "cn": "在层次型结构中, 与另一实体处于同一层次的一种实体."
+    },
+    {
+      "en": "In database, a field that contain information about an entity.",
+      "cn": "数据库中包含有某个实体信息的字段."
+    },
+    {
+      "en": "Let's now examine the convolution a bit more as a mathematical entity.",
+      "cn": "现在我们进一步考察卷积的数学问题."
+    },
+    {
+      "en": "Man's brain has given him enormous power in becoming a significant environmental entity.",
+      "cn": "智能给予人类以巨大的力量,使他成为重要的环境实体."
+    },
+    {
+      "en": "Mendelian gene is not a real physical entity but an abstraction or symbol.",
+      "cn": "孟德尔式的基因并不是真正的实体,而是抽象概念或者是说明性的符号."
+    },
+    {
+      "en": "One notable entity in the earth's environment is man.",
+      "cn": "在地球环境中,一种杰出的实体就是人类."
+    },
+    {
+      "en": "Product properties refer to an entity.",
+      "cn": "产品性质则是物体的属性."
+    },
+    {
+      "en": "The accurate positioning of an entity relative to a reference.",
+      "cn": "相对于参考基准把某个实体精确定位."
+    },
+    {
+      "en": "The chair form was a rigid, stable entity incapable of interconverting to other form.",
+      "cn": "椅子结构是一种刚性的, 不能转变为其他形式的稳定实体."
+    },
+    {
+      "en": "The mind exists as a separate entity.",
+      "cn": "思想作为一个独立的实体存在。"
+    },
+    {
+      "en": "The physical entity which these components represent is not as easily visualized as a vector.",
+      "cn": "这些分析量所表示的物理实质,不容易象矢量那样形象化表现出来."
+    },
+    {
+      "en": "The total surroundings constitute the environment of any given entity.",
+      "cn": "整个周围事物构成任何特定实体的环境."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "presence",
+            "existence",
+            "essence",
+            "principle",
+            "texture"
+          ],
+          "tran_cn": "实体；存在；本质"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "being",
+            "creature",
+            "existence",
+            "organism",
+            "package",
+            "self",
+            "soul",
+            "thing"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "accounting entity",
+      "tran_cn": "会计主体；会计单位"
+    },
+    {
+      "phrase": "business entity",
+      "tran_cn": "营业单位；企业单位"
+    },
+    {
+      "phrase": "economic entity",
+      "tran_cn": "经济实体；经济单位"
+    },
+    {
+      "phrase": "entity type",
+      "tran_cn": "实体类型"
+    },
+    {
+      "phrase": "legal entity",
+      "tran_cn": "法人实体"
+    },
+    {
+      "phrase": "separate entity",
+      "tran_cn": "单独实体；独立单位"
+    },
+    {
+      "phrase": "separate legal entity",
+      "tran_cn": "独立法人；独立法定单位实体"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "实体，独立存在体",
+      "tran_en": "something that exists as a single and complete unit"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "entities"
+    ]
+  }
+}

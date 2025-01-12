@@ -1,0 +1,88 @@
+{
+  "word": "commingle",
+  "ipa": {
+    "us": "kə'mɪŋɡl",
+    "uk": "kəˈmɪŋɡəl"
+  },
+  "sentences": [
+    {
+      "en": "Ground waters originating in different beds commingle.",
+      "cn": "来源于不同层位的地下水相互混合."
+    },
+    {
+      "en": "I think I'll commingle some of these blue flowers with the pink ones.",
+      "cn": "我想把一些蓝花和粉红花搀在一起."
+    },
+    {
+      "en": "Many towns allow recyclable items to be commingled for collection in a single container.",
+      "cn": "在许多城镇，可回收物品可以混放在一个容器里统一收走。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "amalgamate",
+            "unite"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "mix together",
+            "intermingle with",
+            "to blend",
+            "to mix"
+          ],
+          "tran_cn": "混合"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "composite",
+            "babelize"
+          ],
+          "tran_cn": "使混合；掺和"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 掺和， 混合",
+      "tran_en": "to mix together, or to make different things do this"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "<文>混合，掺和，合并"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "commingles"
+    ],
+    "past": [
+      "commingled"
+    ],
+    "done": [
+      "commingled"
+    ],
+    "ing": [
+      "commingling"
+    ]
+  }
+}

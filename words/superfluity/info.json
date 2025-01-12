@@ -1,0 +1,95 @@
+{
+  "word": "superfluity",
+  "ipa": {
+    "us": "ˌsju:pə'flu:ətɪ",
+    "uk": "ˌsjupɚˈfluɪti"
+  },
+  "sentences": [
+    {
+      "en": "The city has a superfluity of five-star hotels.",
+      "cn": "这个城市的五星级宾馆太多了。"
+    },
+    {
+      "en": "There is also a superfluity of stop signals.",
+      "cn": "此外,停止符的数量也有冗余."
+    },
+    {
+      "en": "This book has a superfluity of introductions and summaries.",
+      "cn": "此本书中有多余的介绍和摘要."
+    },
+    {
+      "en": "Wealth is simply a superfluity of what we don't need.",
+      "cn": "财富只是我们并不需要的多余之物."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "supererogatory",
+          "tran_cn": " 额外的，多余的；职责以外的"
+        },
+        {
+          "word": "superfluous",
+          "tran_cn": " 多余的；不必要的；奢侈的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "superfluously",
+          "tran_cn": " 过分地；过剩地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "surplus",
+            "articles of luxury"
+          ],
+          "tran_cn": "奢侈品；额外；过剩"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "embarrassment",
+            "plenty",
+            "shower"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "过多， 过剩，多余物， 过剩品",
+      "tran_en": "a larger amount of something than is necessary"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "superfluities"
+    ],
+    "adv": [
+      "superfluously"
+    ],
+    "adj": [
+      "superfluous"
+    ]
+  }
+}

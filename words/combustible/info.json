@@ -1,0 +1,181 @@
+{
+  "word": "combustible",
+  "ipa": {
+    "us": "kəmˈbʌstəbl",
+    "uk": "kəmˈbʌstəbəl"
+  },
+  "sentences": [
+    {
+      "en": "Carburetion is the mixing of the fuel ( usually gasoline ) with air to get a combustible mixture.",
+      "cn": "燃料汽化是指燃料 ( 通常是汽油 ) 与空气的混合,以得到一种可燃混合物."
+    },
+    {
+      "en": "Do not place combustible material within fire spark range.",
+      "cn": "在火花能喷射到的地方禁止放置易燃物品."
+    },
+    {
+      "en": "Don't smoke near combustible materials.",
+      "cn": "别在易燃的材料附近吸烟."
+    },
+    {
+      "en": "During Spring Festivals, taking combustible and explosive goods abroad is strictly prohibited!",
+      "cn": "春节期间, 禁止携带易燃易爆物品上火车."
+    },
+    {
+      "en": "Hazardous Decomposition Products: Formation of combustible and noxious fumes during thermal decomposition.",
+      "cn": "危害分解物: 热分解时会产生可燃有毒气体."
+    },
+    {
+      "en": "I was desperate to change the subject, and we moved to less combustible talk about her future plans.",
+      "cn": "我急切地想换个话题，于是我们就开始谈论起她对将来的打算，这样气氛能缓和一点。"
+    },
+    {
+      "en": "It was surrounded with heaps of combustible materials.",
+      "cn": "它周围是一堆易燃物质."
+    },
+    {
+      "en": "The ability of coal to release a combustible gas has long been known.",
+      "cn": "煤能够释放易燃气体这一点早已为人所知。"
+    },
+    {
+      "en": "The construction site may not accumulate a large number of combustible materials.",
+      "cn": "施工现场不得大量积存可燃材料."
+    },
+    {
+      "en": "The ensuing drop in oxygen and combustible gas levels should be noted.",
+      "cn": "在随后的氧气和可燃气体浓度下降,应引起注意."
+    },
+    {
+      "en": "The mine produces classic power coal and rich ore combustible shale.",
+      "cn": "该矿的产品为优质动力煤和油母页岩富矿."
+    },
+    {
+      "en": "The noncombustible debris produced by the blast frequently covered and prevented the burning of combustible material.",
+      "cn": "由于爆震波所造成的非燃性瓦砾常常把易燃材料复盖因而可防止其燃烧."
+    },
+    {
+      "en": "We must not take combustible goods aboard.",
+      "cn": "我们不可带易燃品上船[车]."
+    },
+    {
+      "en": "We mustn't take combustible goods aboard.",
+      "cn": "我们不可带易燃品上车."
+    },
+    {
+      "en": "Woodmeal is of particular importance among combustible ingredients.",
+      "cn": "在可燃成份中,木粉是特别重要的."
+    },
+    {
+      "en": "You cannot carry this tank of petrol on board, for it's combustible.",
+      "cn": "汽油是易燃品,你不可携带汽油上船."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "combustive",
+          "tran_cn": " 可燃烧的；能燃烧的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "combust",
+          "tran_cn": " 燃料"
+        },
+        {
+          "word": "combustibility",
+          "tran_cn": " 燃烧性；[热] 可燃性"
+        },
+        {
+          "word": "combustibleness",
+          "tran_cn": " 可燃性；易怒"
+        },
+        {
+          "word": "combustion",
+          "tran_cn": " 燃烧，氧化；骚动"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "combust",
+          "tran_cn": " 燃烧；消耗"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "burnable",
+            "fiery",
+            "flammable"
+          ],
+          "tran_cn": "燃烧性的;易激动的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "tinderbox",
+            "burnable"
+          ],
+          "tran_cn": "[化工]可燃物；易燃物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "burnable",
+            "fiery",
+            "flammable",
+            "fuel"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "combustible dust",
+      "tran_cn": "可燃粉尘；易燃粉尘"
+    },
+    {
+      "phrase": "combustible gas",
+      "tran_cn": "可燃气体"
+    },
+    {
+      "phrase": "combustible material",
+      "tran_cn": "可燃物；易燃材料"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "易燃的，可燃的",
+      "tran_en": "able to burn easily"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "易燃物，可燃物"
+    }
+  ],
+  "exchange": {}
+}

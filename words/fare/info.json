@@ -1,0 +1,209 @@
+{
+  "word": "fare",
+  "ipa": {
+    "us": "feə(r)",
+    "uk": "fer"
+  },
+  "sentences": [
+    {
+      "en": "a crackdown on fare dodgers on trains",
+      "cn": "对火车逃票者的严厉打击"
+    },
+    {
+      "en": "A single fare is 170 dollars.",
+      "cn": "单程票价为170美元."
+    },
+    {
+      "en": "Air fares have shot up by 20%.",
+      "cn": "飞机票价已猛涨20%。"
+    },
+    {
+      "en": "All we can offer you is humble fare.",
+      "cn": "就请你粗茶淡饭凑合一顿."
+    },
+    {
+      "en": "He could barely afford the fare.",
+      "cn": "他几乎付不起车费。"
+    },
+    {
+      "en": "He could barely afford the railway fare.",
+      "cn": "他几乎买不起火车票。"
+    },
+    {
+      "en": "He couldn't afford the fare to Australia, so he worked his passage.",
+      "cn": "他负担不起去澳大利亚的船费, 因此,他在船上做工以抵偿船费."
+    },
+    {
+      "en": "How did you fare in London?",
+      "cn": "你在伦敦过得怎样?"
+    },
+    {
+      "en": "In second class the fare is £85 one-way.",
+      "cn": "二等车厢单程票价是85英镑。"
+    },
+    {
+      "en": "It is unlikely that the marine industry will fare any better in September.",
+      "cn": "海运业不大可能在9月份有所好转。"
+    },
+    {
+      "en": "She rowed the driver about the fare.",
+      "cn": "她为车费跟司机吵闹."
+    },
+    {
+      "en": "The Apex fare is £195 return.",
+      "cn": "优惠往返机票价格为195英镑。"
+    },
+    {
+      "en": "The fare here is simple but good.",
+      "cn": "这里的伙食简单而可口."
+    },
+    {
+      "en": "The fare is twopence.",
+      "cn": "车费是两便士."
+    },
+    {
+      "en": "The round-trip fare to Havana is 550 Irish punts ($673).",
+      "cn": "去哈瓦那的往返票价是550爱尔兰镑（673美元）。"
+    },
+    {
+      "en": "There was enough put by for her fare.",
+      "cn": "存的钱足够付她的机票钱。"
+    },
+    {
+      "en": "They quoted 756 dollars for the single New York — London fare.",
+      "cn": "他们对纽约到伦敦的单程机票开价是756美元."
+    },
+    {
+      "en": "Yesterday he changed his tune, saying the fare increase was experimental.",
+      "cn": "昨天他变卦了，说提价只是试行。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "passenger"
+          ],
+          "tran_cn": "乘客"
+        },
+        {
+          "words": [
+            "charge",
+            "fee",
+            "toll"
+          ],
+          "tran_cn": "票价,车"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "charge",
+            "eat",
+            "expense",
+            "fee",
+            "get",
+            "nourishment",
+            "on",
+            "passenger",
+            "progress",
+            "prosper",
+            "thrive",
+            "toll"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "be",
+            "eat",
+            "fed"
+          ],
+          "tran_cn": "吃,进食"
+        },
+        {
+          "words": [
+            "get",
+            "on",
+            "progress",
+            "prosper",
+            "thrive"
+          ],
+          "tran_cn": "进展"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "air fare",
+      "tran_cn": "飞机票价；航空费用；航空票价"
+    },
+    {
+      "phrase": "bill of fare",
+      "tran_cn": "菜谱，菜单；节目单"
+    },
+    {
+      "phrase": "bus fare",
+      "tran_cn": "公共汽车票钱；公车票；公车费率"
+    },
+    {
+      "phrase": "car fare",
+      "tran_cn": "交通费"
+    },
+    {
+      "phrase": "full fare",
+      "tran_cn": "全程票价；全价票"
+    },
+    {
+      "phrase": "taxi fare",
+      "tran_cn": "的士收费；出租汽车费"
+    },
+    {
+      "phrase": "ticket fare",
+      "tran_cn": "票价"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "车费，票价，餐点，出租车乘客",
+      "tran_en": "the price you pay to travel somewhere by bus, train, plane etc"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "进展，成功",
+      "tran_en": "If you say that someone or something fares well or badly, you are referring to the degree of success they achieve in a particular situation or activity"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 进展",
+      "tran_en": "If you say that someone or something fares well or badly, you are referring to the degree of success they achieve in a particular situation or activity"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "fares"
+    ],
+    "third": [
+      "fares"
+    ],
+    "past": [
+      "fared"
+    ],
+    "ing": [
+      "faring"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "word": "emulation",
+  "ipa": {
+    "us": "ˌemjʊ'leɪʃn",
+    "uk": "ˌɛmjəˈleʃən"
+  },
+  "sentences": [
+    {
+      "en": "And the emulation experiments show that this method is valid and practicable.",
+      "cn": "计算机仿真试验的结果验证了该方法的有效性和实用性."
+    },
+    {
+      "en": "By emulation debugging, the system design all right and economical.",
+      "cn": "通过仿真调试, 验证了系统设计合理、经济、适用."
+    },
+    {
+      "en": "By emulation debugging, the system design is all right and economical.",
+      "cn": "通过仿真调试, 验证了系统设计合理、济、用."
+    },
+    {
+      "en": "Chaos circuit and emulation of numerical value prove it valid.",
+      "cn": "通过对计算机数值仿真,验证了其有效性."
+    },
+    {
+      "en": "Emulation result shows expectant optimization efficiency is obtained with genetic algorithm.",
+      "cn": "仿真结果表明用遗传算法取得了预期的优化效果."
+    },
+    {
+      "en": "Finally, has provided the method of emulation and debugging of the circuit.",
+      "cn": "最后, 给出了电路仿真和调试的方法."
+    },
+    {
+      "en": "His spirit of assiduous study is worthy of emulation.",
+      "cn": "他刻苦钻研的精神,值得效法."
+    },
+    {
+      "en": "ISD voice chips use direct emulation storage technology, its application is very wide.",
+      "cn": "ISD语音芯片采用直接模拟存储技术, 应用前景广泛."
+    },
+    {
+      "en": "It is possible to run any emulation on any port.",
+      "cn": "这是有可能运行任何仿真任何港口."
+    },
+    {
+      "en": "Put forward the design requirement of emulation system environment.",
+      "cn": "并提出了仿真系统环境的设计要求."
+    },
+    {
+      "en": "The result of the emulation verifies practicability of this method.",
+      "cn": "仿真研究表明,该方法具有一定的实用性."
+    },
+    {
+      "en": "The results of a computer emulation of the technique are also presented.",
+      "cn": "最后,给出了这种方法的计算机模拟仿真的一些结果."
+    },
+    {
+      "en": "Then the emulation experiments show that this method is efective and practicable.",
+      "cn": "计算机仿真实验的结果验证了该方法的有效性和实用性."
+    },
+    {
+      "en": "This paper introduces the enterprisemodeling and emulation analysis tool set in ARIS.",
+      "cn": "介绍了基于过程的ARIS企业建模、仿真分析工具集."
+    },
+    {
+      "en": "This paper studies the constitute measure, the emulation and amelioration of system.",
+      "cn": "研究了系统的建立方法及软件的仿真与改进."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "emulous",
+          "tran_cn": " 好胜的，竞争心强的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "emulously",
+          "tran_cn": " 竞赛性地；好竞争地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "emulate",
+          "tran_cn": " 仿真；仿效"
+        },
+        {
+          "word": "emulator",
+          "tran_cn": " 仿真器，模拟器；竞争者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "emulate",
+          "tran_cn": " 仿真；模仿；尽力赶上；同…竞争"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "simulation",
+            "competition",
+            "war",
+            "struggle"
+          ],
+          "tran_cn": "[计]仿真；竞争；效法"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "competition"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "仿效，仿真，竞争",
+      "tran_en": "the act of emulating or imitating "
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "emulate"
+    ]
+  }
+}

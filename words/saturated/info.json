@@ -1,0 +1,185 @@
+{
+  "word": "saturated",
+  "ipa": {
+    "us": "ˈsætʃəreɪtɪd",
+    "uk": "ˈsætʃəˌretɪd"
+  },
+  "sentences": [
+    {
+      "en": "...foods rich in cholesterol and saturated fats.",
+      "cn": "...富含胆固醇和饱和脂肪的食物。"
+    },
+    {
+      "en": "a saturated solution of sodium chloride",
+      "cn": "氯化钠饱和溶液"
+    },
+    {
+      "en": "As the domestic market becomes saturated, firms begin to export the product.",
+      "cn": "由于国内市场饱和，各公司开始外销。"
+    },
+    {
+      "en": "As the market was saturated with goods and the economy became more balanced, inflation went down.",
+      "cn": "随着市场上商品饱和，经济趋于平衡，通货膨胀就减弱了。"
+    },
+    {
+      "en": "Cashews rich in saturated fat, should be avoided.",
+      "cn": "腰杲饱和脂肪太多, 应当避免食用."
+    },
+    {
+      "en": "He is saturated with knowledge.",
+      "cn": "他知识渊博."
+    },
+    {
+      "en": "His work clothes, having become saturated with oil, had to be cleaned.",
+      "cn": "他的工作服已经被油浸透，该洗洗了。"
+    },
+    {
+      "en": "It is important to state whether the liquid is air - free or air - saturated.",
+      "cn": "指出液体是不含空气的,还是被空气饱和了的,这一点很重要."
+    },
+    {
+      "en": "Items meant to stand out are best rendered in saturated colors.",
+      "cn": "需要突出的元素最好用饱和颜色来渲染,次重要的元素用欠饱和颜色渲染."
+    },
+    {
+      "en": "Rapid melting of the snow saturated debris in a large landslide.",
+      "cn": "积雪的急剧融化使大滑坡中的岩屑饱和."
+    },
+    {
+      "en": "The air was saturated with the perfume of the flowers.",
+      "cn": "空气中充满着花的芬芳."
+    },
+    {
+      "en": "The continuous rain had saturated the soil.",
+      "cn": "连绵不断的雨把土地淋了个透。"
+    },
+    {
+      "en": "The market for the used car is saturated.",
+      "cn": "旧汽车市场已经饱和."
+    },
+    {
+      "en": "The market has been saturated with paintings like that.",
+      "cn": "那种画充斥了市场."
+    },
+    {
+      "en": "The room was saturated with the aroma of coffee.",
+      "cn": "那房间弥漫着咖啡的芳香."
+    },
+    {
+      "en": "We were caught in the rain and came home saturated.",
+      "cn": "我们挨了雨淋,回家时已浑身湿透."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "saturate",
+          "tran_cn": " 浸透的，饱和的；深颜色的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "saturation",
+          "tran_cn": " 饱和；色饱和度；浸透；磁化饱和"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "saturate",
+          "tran_cn": " 浸透，使湿透；使饱和，使充满"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "satd",
+            "penetrating"
+          ],
+          "tran_cn": "饱和的；渗透的；深颜色的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "soggy"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be saturated with",
+      "tran_cn": "被…所饱和；充满着"
+    },
+    {
+      "phrase": "saturated fat",
+      "tran_cn": "饱和脂肪"
+    },
+    {
+      "phrase": "saturated fatty acid",
+      "tran_cn": "饱和脂肪酸，去油"
+    },
+    {
+      "phrase": "saturated hydrocarbon",
+      "tran_cn": "n. [化]饱和烃"
+    },
+    {
+      "phrase": "saturated soil",
+      "tran_cn": "饱和土壤"
+    },
+    {
+      "phrase": "saturated solution",
+      "tran_cn": "饱和溶液"
+    },
+    {
+      "phrase": "saturated steam",
+      "tran_cn": "饱和水蒸气"
+    },
+    {
+      "phrase": "saturated vapor",
+      "tran_cn": "饱和蒸汽"
+    },
+    {
+      "phrase": "saturated vapor pressure",
+      "tran_cn": "n. 饱和蒸汽压"
+    },
+    {
+      "phrase": "saturated vapour",
+      "tran_cn": "饱和蒸气"
+    },
+    {
+      "phrase": "saturated zone",
+      "tran_cn": "饱和区；饱和带；饱和层"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "饱和的，浸透的，（颜色）未被白色弄淡的",
+      "tran_en": "extremely wet"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "浸透( saturate的过去式和过去分词)，使饱和，使充满"
+    }
+  ],
+  "exchange": {}
+}

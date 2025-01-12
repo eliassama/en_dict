@@ -1,0 +1,123 @@
+{
+  "word": "luxuriate",
+  "ipa": {
+    "us": "lʌgˈʒʊərieɪt",
+    "uk": "lʌgˈʒʊrieɪt"
+  },
+  "sentences": [
+    {
+      "en": "Children luxuriate in the warm spring sunshine.",
+      "cn": "孩子们尽情享受奏的温暖阳光."
+    },
+    {
+      "en": "Lie back and luxuriate in the scented oil.",
+      "cn": "躺下来尽情享受精油的滋润。"
+    },
+    {
+      "en": "Tourists luxuriate in the hot baths in a hot spring resort.",
+      "cn": "观光者们在温泉胜地尽情享受温泉浴."
+    },
+    {
+      "en": "We can luxuriate for a change.",
+      "cn": "我们可以换个方式奢侈一下."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "luxuriant",
+          "tran_cn": " 繁茂的；丰富的；奢华的；肥沃的"
+        },
+        {
+          "word": "luxurious",
+          "tran_cn": " 奢侈的；丰富的；放纵的；特级的"
+        },
+        {
+          "word": "luxury",
+          "tran_cn": " 奢侈的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "luxuriantly",
+          "tran_cn": " 丰富地；繁茂地"
+        },
+        {
+          "word": "luxuriously",
+          "tran_cn": " 豪华地；奢侈地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "luxe",
+          "tran_cn": " （法）奢侈"
+        },
+        {
+          "word": "luxuriance",
+          "tran_cn": " 繁茂；丰富；肥沃；华美"
+        },
+        {
+          "word": "luxury",
+          "tran_cn": " 奢侈，奢华；奢侈品；享受"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "glory",
+            "mushroom"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "exuberate",
+            "piss on ice"
+          ],
+          "tran_cn": "沉溺；繁茂；生活奢侈"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "纵情享乐，放纵自己",
+      "tran_en": "to relax and enjoy something"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "茂盛的生长，生活奢侈，沉溺"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "luxuriates"
+    ],
+    "past": [
+      "luxuriated"
+    ],
+    "ing": [
+      "luxuriating"
+    ]
+  }
+}

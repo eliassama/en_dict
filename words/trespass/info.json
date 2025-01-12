@@ -1,0 +1,182 @@
+{
+  "word": "trespass",
+  "ipa": {
+    "us": "ˈtrespəs",
+    "uk": "ˈtrespəs"
+  },
+  "sentences": [
+    {
+      "en": "He can trespass, he can burgle.",
+      "cn": "他可以到处乱闯, 他可以偷."
+    },
+    {
+      "en": "He sued them for trespass.",
+      "cn": "他对他们提起侵害诉讼."
+    },
+    {
+      "en": "He will be prosecuted for trespass.",
+      "cn": "他将因擅闯私地而被起诉。"
+    },
+    {
+      "en": "I don't want to trespass on your hospitality.",
+      "cn": "我不想叨扰你."
+    },
+    {
+      "en": "I shall trespass on your hospitality.",
+      "cn": "我要来叨扰你了."
+    },
+    {
+      "en": "I won't trespass upon your time any longer.",
+      "cn": "我不再打扰你了."
+    },
+    {
+      "en": "If those youths trespass on my land again, I shall be ready for them.",
+      "cn": "要是那些年轻人再来侵犯我的土地, 我就准备收拾他们."
+    },
+    {
+      "en": "John proceeded against the man for trespass.",
+      "cn": "约翰控告那个人非法侵入."
+    },
+    {
+      "en": "May I trespass on you for that book?",
+      "cn": "请你借那本书给我好 吗 ?"
+    },
+    {
+      "en": "One trespass more I must make on your patience.",
+      "cn": "还有一件事要叨扰."
+    },
+    {
+      "en": "Stephen Leckar has 30 minutes to represent Jones, and he tries to advance a second argument in this case: The very act of installing the GPS device on a private vehicle constitutes a trespass.",
+      "cn": "琼斯的律师斯蒂文·莱卡有30分钟时间替琼斯辩护，他又提出了一个新论点：警方在琼斯私人汽车上装跟踪器的做法本身构成“非法入侵”。"
+    },
+    {
+      "en": "Such causes of action include nuisance , negligence , trespass, causation of mental distress, and strict liability.",
+      "cn": "那些诉讼原因包括公害 、 玩忽职守 、 侵权 、 精神苦恼以及地区责任."
+    },
+    {
+      "en": "The fellow has brought action against me for trespass.",
+      "cn": "那家伙控告我侵占土地."
+    },
+    {
+      "en": "The fishing boat was seized for its trespass into restricted waters.",
+      "cn": "渔船因非法侵入受限制水域而被扣押."
+    },
+    {
+      "en": "They began to organize a mass trespass.",
+      "cn": "他们开始组织大规模的侵犯."
+    },
+    {
+      "en": "This area is only for patients, visitors cannot trespass.",
+      "cn": "这是病患区, 来访者止步."
+    },
+    {
+      "en": "You could be prosecuted for trespass.",
+      "cn": "你可能会因为擅自闯入而受到起诉。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "trespasser",
+          "tran_cn": " 侵害者；侵入者；违反者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "debt",
+            "error",
+            "mistake",
+            "sin",
+            "blame"
+          ],
+          "tran_cn": "罪过；非法侵入；过失；擅自进入"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "encroach",
+            "entrenchment",
+            "error",
+            "infringe",
+            "intrude",
+            "invade",
+            "invasion",
+            "meddle",
+            "offense",
+            "overstep",
+            "transgress",
+            "violate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "encroach",
+            "infringe",
+            "intrude",
+            "overstep",
+            "transgress"
+          ],
+          "tran_cn": "侵害;犯罪"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "trespass on",
+      "tran_cn": "侵犯；非法侵入；妨碍；打扰"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "罪过，打扰，非法进入，擅自进入，冒犯",
+      "tran_en": "something you have done that is morally wrong"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "侵犯，擅自进入",
+      "tran_en": "to go onto some-one’s private land without their permission"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 侵犯， 闯入私人领地"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "<律>侵占，侵入，侵犯，侵害（权利等），打扰，冒犯"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "trespasses"
+    ],
+    "past": [
+      "trespassed"
+    ],
+    "done": [
+      "trespassed"
+    ],
+    "ing": [
+      "trespassing"
+    ]
+  }
+}

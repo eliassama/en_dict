@@ -1,0 +1,166 @@
+{
+  "word": "waiter",
+  "ipa": {
+    "us": "ˈweɪtə(r)",
+    "uk": "ˈweɪtər"
+  },
+  "sentences": [
+    {
+      "en": "\"I'll take the grilled tuna,\" Mary Ann told the waiter.",
+      "cn": "“给我来份烤金枪鱼吧，”玛丽·安告诉侍者。"
+    },
+    {
+      "en": "A waiter entered with a tray.",
+      "cn": "侍者端着托盘进来了。"
+    },
+    {
+      "en": "A waiter mopped up the mess as best he could.",
+      "cn": "一名侍者尽力抹掉溅出的食物。"
+    },
+    {
+      "en": "Grab that waiter, Mary Ann.",
+      "cn": "玛丽·安，叫那位侍者过来。"
+    },
+    {
+      "en": "He beckoned to the waiter to bring the bill.",
+      "cn": "他招手示意服务生把账单送过来。"
+    },
+    {
+      "en": "He beckoned to the waiter.",
+      "cn": "他招呼服务员过来。"
+    },
+    {
+      "en": "He finished his aperitif and tasted the wine the waiter had produced.",
+      "cn": "他喝完开胃酒，又尝了点侍者端来的葡萄酒。"
+    },
+    {
+      "en": "He picked a fight with a waiter and landed in jail.",
+      "cn": "他找碴儿跟服务生打了一架，最后进了监狱。"
+    },
+    {
+      "en": "He waved at the waiter, who rushed to the table.",
+      "cn": "他冲服务员招了招手，服务员就急忙跑到桌边。"
+    },
+    {
+      "en": "In his wake came a waiter wheeling a trolley.",
+      "cn": "一位推着手推车的侍者紧随着他过来。"
+    },
+    {
+      "en": "The bar waiter was already overloaded with orders.",
+      "cn": "这位酒吧侍者已经应付不过来客人的点单。"
+    },
+    {
+      "en": "The waiter crumbed the table.",
+      "cn": "服务员清除桌上的面包屑。"
+    },
+    {
+      "en": "The waiter offered him red wine or white wine with his meal.",
+      "cn": "侍者为他端上佐餐的红葡萄酒或者白葡萄酒。"
+    },
+    {
+      "en": "The waiter returned with their order and Graham signed the bill.",
+      "cn": "侍者把他们点的餐端了过来，格雷厄姆签了单。"
+    },
+    {
+      "en": "Waiter, I specifically asked for this steak rare.",
+      "cn": "服务员，我特别强调了这块牛排要做得嫩些。"
+    },
+    {
+      "en": "We had an argument with the waiter about the bill.",
+      "cn": "我们和服务员就账单发生了争吵。"
+    },
+    {
+      "en": "We have a job for you as a waiter.",
+      "cn": "我们可以为你提供一份服务员的工作。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "waitress",
+          "tran_cn": " 女服务员；女侍者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "waitress",
+          "tran_cn": " 做女服务生"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "attendant",
+            "boy",
+            "butler",
+            "cashier",
+            "checker",
+            "servant",
+            "server",
+            "servitor",
+            "steward"
+          ],
+          "tran_cn": "服务员,侍者,管事"
+        },
+        {
+          "words": [
+            "platter",
+            "salver",
+            "tray"
+          ],
+          "tran_cn": "盘子,托盘"
+        },
+        {
+          "words": [
+            "carhop",
+            "cook",
+            "cupbearer",
+            "garcon",
+            "headwaiter",
+            "host",
+            "hostess",
+            "maid",
+            "maitre",
+            "sommelier",
+            "steward",
+            "waitress",
+            "wine"
+          ],
+          "tran_cn": "领班,炊事员"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dumb waiter",
+      "tran_cn": "n. 小型送货升降机；送菜升降机，餐用升降机"
+    },
+    {
+      "phrase": "head waiter",
+      "tran_cn": "饭店领班"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": " 服务员，侍者（泛指男性）",
+      "tran_en": "a man who serves food and drink at the tables in a restaurant"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "waiters"
+    ]
+  }
+}

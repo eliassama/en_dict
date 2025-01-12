@@ -1,0 +1,116 @@
+{
+  "word": "invocation",
+  "ipa": {
+    "us": "ˌɪnvəˈkeɪʃn",
+    "uk": "ˌɪnvəˈkeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "...an invocation for divine guidance.",
+      "cn": "...求神引导的一个祷告。"
+    },
+    {
+      "en": "Closures provide named ( lazy ) variables associated with each parse rule invocation.",
+      "cn": "闭包提供了与每次规则调用相关联的命名 ( 惰性 ) 变量."
+    },
+    {
+      "en": "Could not resolve the invocation to the correct constructor.",
+      "cn": "未能解析对正确构造函数的调用."
+    },
+    {
+      "en": "Do not use late - binding invocation when early - binding is possible.",
+      "cn": "只要可以用 前期 绑定就不要用后期绑定."
+    },
+    {
+      "en": "Drag onto the page and glue between functions to add an invocation.",
+      "cn": "拖到绘图页上并在函数间粘附,可以添加调用."
+    },
+    {
+      "en": "Each method in the event invocation list must be called.",
+      "cn": "在事件调用列表中的每个方法都必须被调用."
+    },
+    {
+      "en": "Every question I ask an invocation of power.",
+      "cn": "每个我问的问句,都能启动力量."
+    },
+    {
+      "en": "Glue between functions to add an invocation to a diagram.",
+      "cn": "在函数间粘附,将调用添加到图表中."
+    },
+    {
+      "en": "If so, it must iterate the entire invocation list.",
+      "cn": "如果是, 它必须迭代整个调用列表."
+    },
+    {
+      "en": "Inside a multicast delegate invocation, each target is called in succession.",
+      "cn": "在多播委托的内部, 每个对象会被连续的调用."
+    },
+    {
+      "en": "Neither invocation of the format - Undo would affect the content.",
+      "cn": "第2次按下格式撤销键会恢复斜体操作,但格式撤销不会影响内容."
+    },
+    {
+      "en": "Not every invocation of the doctrine of pre - emption will be justified.",
+      "cn": "不是任何情况下对预防性原则的引用都是正当的."
+    },
+    {
+      "en": "Please stand and pledge the flag, after which Dr. Jerome Taylor will give the invocation.",
+      "cn": "请起立对旗宣誓，之后杰尔姆·泰勒博士将做祈祷。"
+    },
+    {
+      "en": "The APIs use remote method invocation as their remote communication mechanism.",
+      "cn": "这些API采用远程方法调用作为远程通信机理."
+    },
+    {
+      "en": "The representation of a procedure created by the invocation of that procedure.",
+      "cn": "由过程调用产生的该过程的表示."
+    },
+    {
+      "en": "Therefore, any exception that the target throws ends the delegate invocation chain.",
+      "cn": "果彼,纲本抛进的免何同常都会末行拜托链的调用."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "prayer",
+            "spell"
+          ],
+          "tran_cn": "祈祷；符咒"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blessing",
+            "charm",
+            "conjuration",
+            "entreaty",
+            "invitation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "祈祷，乞求，乞灵，乞求神助",
+      "tran_en": "An invocation is a request for help or forgiveness made to a god"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "invocations"
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "word": "tart",
+  "ipa": {
+    "us": "tɑ:t",
+    "uk": "tɑrt"
+  },
+  "sentences": [
+    {
+      "en": "a tart apple",
+      "cn": "酸苹果"
+    },
+    {
+      "en": "A tart temper never mellows with age.",
+      "cn": "凶悍的性情,绝不会因为年龄增长而变得温和."
+    },
+    {
+      "en": "He gave a tart reply.",
+      "cn": "他作了尖刻的回答."
+    },
+    {
+      "en": "He was nasty about my appearance. If I dressed up he'd say I looked like a tart.",
+      "cn": "他对我的外表要求很苛刻，我要是打扮打扮，他就会说我像荡妇。"
+    },
+    {
+      "en": "I don't like a tart apple.",
+      "cn": "我不喜欢吃酸苹果."
+    },
+    {
+      "en": "I had rhubarb tart with a lot of cream.",
+      "cn": "我吃了添加了许多奶油的大黄小馅饼."
+    },
+    {
+      "en": "If any cracks have appeared in the tart case, fill these in with raw pastry.",
+      "cn": "如果饼皮开裂，就用生的油酥面团填平。"
+    },
+    {
+      "en": "She's a fine decent tart, he said with appreciation.",
+      "cn": "“她是个规矩的好妞儿, ”他赞赏地说."
+    },
+    {
+      "en": "That was a tart answer.",
+      "cn": "那是个尖刻的回答."
+    },
+    {
+      "en": "The blackberries were a bit too tart on their own, so we stewed them gently with some apples.",
+      "cn": "光黑莓味道有点儿冲，所以我们将它和几个苹果一起用小火炖了炖。"
+    },
+    {
+      "en": "The fruit has a tart and astringent flavour.",
+      "cn": "这种水果又酸又涩。"
+    },
+    {
+      "en": "The tart flavour of the cranberries adds piquancy.",
+      "cn": "越橘的酸味很可口。"
+    },
+    {
+      "en": "The tea goes with this tangy lemon tart perfectly.",
+      "cn": "这种茶配上这种香味扑鼻的柠檬塔非常完美。"
+    },
+    {
+      "en": "The words were more tart than she had intended.",
+      "cn": "话听起来太刻薄，她本没想这么刻薄的。"
+    },
+    {
+      "en": "These apples are a bit tart.",
+      "cn": "这些苹果有点酸."
+    },
+    {
+      "en": "This tree runs to quite tart fruit.",
+      "cn": "这棵树结的果子都很酸."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "tartly",
+          "tran_cn": " 辛辣地；锋利地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tartness",
+          "tran_cn": " 尖酸；锋利；辛辣；讥讽"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "acid",
+            "sharp",
+            "cutting",
+            "bitter"
+          ],
+          "tran_cn": "酸的；锋利的；尖刻的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sporting woman",
+            "hetaerae"
+          ],
+          "tran_cn": "果馅饼；妓女"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bitter",
+            "pungent",
+            "sharp",
+            "sour"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "dress oneself",
+            "array"
+          ],
+          "tran_cn": "打扮"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "egg tart",
+      "tran_cn": "蛋挞，蛋塔"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "酸的，辛辣的，尖刻的，严厉的",
+      "tran_en": "food that is tart has a sharp sour taste"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "果馅饼，轻佻的女人，妓女，小妞",
+      "tran_en": "a  pie  without a top on it, containing something sweet"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "打扮"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "tarts"
+    ],
+    "er": [
+      "tarter"
+    ],
+    "est": [
+      "tartest"
+    ],
+    "adv": [
+      "tartly"
+    ]
+  }
+}

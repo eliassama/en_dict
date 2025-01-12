@@ -1,0 +1,72 @@
+{
+  "word": "peccadillo",
+  "ipa": {
+    "us": "ˌpekəˈdɪləʊ",
+    "uk": "ˌpekəˈdɪloʊ"
+  },
+  "sentences": [
+    {
+      "en": "For this peccadillo he was demoted and sent back to pound the beat.",
+      "cn": "由于这次过失,他被降了级,又被打发去干徒步巡警了."
+    },
+    {
+      "en": "The public is willing to forgive him for his peccadillos.",
+      "cn": "公众愿意原谅他的小过失。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "peccable",
+          "tran_cn": " 易犯过失的；易犯罪的"
+        },
+        {
+          "word": "peccant",
+          "tran_cn": " 犯罪的；有过失的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "misdemeanor",
+            "venial sin"
+          ],
+          "tran_cn": "轻罪；小过失；小瑕疵"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "error",
+            "offense"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "轻罪，小过失",
+      "tran_en": "something bad which someone does, especially involving sex, which is not regarded as very serious or important"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "peccadilloes",
+      "peccadillos"
+    ]
+  }
+}

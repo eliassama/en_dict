@@ -1,0 +1,120 @@
+{
+  "word": "snapshot",
+  "ipa": {
+    "us": "ˈsnæpʃɒt",
+    "uk": "ˈsnæpʃɑːt"
+  },
+  "sentences": [
+    {
+      "en": "Change all existing Snapshot Agents to use the selected profile.",
+      "cn": "用选定的配置文件来修改已有的全部快照代理程序."
+    },
+    {
+      "en": "During a call, press the Snapshot button to send a snapshot.",
+      "cn": "在呼叫过程中, 按snapshot键发送一幅快照."
+    },
+    {
+      "en": "Each spin network resembles a snapshot, a frozen moment in the universe.",
+      "cn": "每个自旋网络就像一张快照, 即宇宙中某个冻结的瞬间."
+    },
+    {
+      "en": "Enable databases for transactional ( includes snapshot ) or merge replication.",
+      "cn": "使数据库能够用于事务复制 ( 包含快照 ) 或合并复制."
+    },
+    {
+      "en": "He had a snapshot of his girl friend.",
+      "cn": "他有一张他女朋友的快照."
+    },
+    {
+      "en": "I told her about the snapshot, how I'd carried it all through the war.",
+      "cn": "我告诉她关于那张照片的事, 战争中我是如何设法一直带在身边的."
+    },
+    {
+      "en": "Let me take a snapshot of you guys, so friends back home can see you.",
+      "cn": "让我给你们大家拍张快照，这样家里的朋友们可以看到你们。"
+    },
+    {
+      "en": "Only the last snapshot send or receive is hold in memory.",
+      "cn": "只有最后一次发送或接收的快照保存在内存中."
+    },
+    {
+      "en": "Send or receiving a new snapshot overwrite the previous image.",
+      "cn": "发送或接收一幅新的快照会覆盖前面的图象."
+    },
+    {
+      "en": "Some systems may be able to do atomic snapshot of many volumes.",
+      "cn": "不过有些系统可能能自动做到多卷快照."
+    },
+    {
+      "en": "The book has to be a snapshot of the situation at the time of writing.",
+      "cn": "本书在编写时只能是对这种情况的简要反应."
+    },
+    {
+      "en": "The interviews present a remarkable snapshot of Britain in these dark days of recession.",
+      "cn": "这些访谈生动地展现了英国在黑暗的萧条时期的概貌。"
+    },
+    {
+      "en": "The letters give us a snapshot of his life abroad.",
+      "cn": "这些信件使我们对他在海外的生活约略有所了解."
+    },
+    {
+      "en": "The view here pop up menu appear with snapshot already highlight.",
+      "cn": "出现Viewhere弹出菜单,同时Snapshot已变亮."
+    },
+    {
+      "en": "This snapshot function is usually represented by the pair - distribution function g ( r ) when suitably normalized.",
+      "cn": "这个瞬时函数经过适当的归一通常可以表示为偶分布函数g ( r )."
+    },
+    {
+      "en": "This snapshot hasn't printed very well.",
+      "cn": "这张快照印出来不太清楚."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "instantane",
+            "rapid fire"
+          ],
+          "tran_cn": "[摄]快照，快相；急射，速射；简单印象"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "portrait"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（快照）照片，独立的印象，简单印象，简介，急射，速射",
+      "tran_en": "a photograph taken quickly and often not very skilfully"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "拍快照"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "给…拍快照"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "snapshots"
+    ]
+  }
+}

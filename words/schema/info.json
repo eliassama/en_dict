@@ -1,0 +1,172 @@
+{
+  "word": "schema",
+  "ipa": {
+    "us": "ˈski:mə",
+    "uk": "ˈskimə"
+  },
+  "sentences": [
+    {
+      "en": "...a definite position in the schema of the economic process.",
+      "cn": "...在经济进程概要中的明确位置。"
+    },
+    {
+      "en": "An attempt is made to modify the base schema.",
+      "cn": "试图修改基础架构."
+    },
+    {
+      "en": "An XML - Based Schema Translation Method for Relational Data Sharing and Exchanging.",
+      "cn": "关系数据共享与交换过程中一种基于XMLSchema的模式转化方法."
+    },
+    {
+      "en": "Cannot read the governs class identifier for the schema record.",
+      "cn": "不能读取架构记录管理类别识别符."
+    },
+    {
+      "en": "First, DTD and XML Schema are introduced, and these two patterns are compared.",
+      "cn": "首先, 论文介绍了XML的两种模式DTD和Schema,比较了两种模式的优缺点."
+    },
+    {
+      "en": "Qualifier of a namespace must be unique in a schema file.",
+      "cn": "命名空间的限定符在架构文件中必须是唯一的."
+    },
+    {
+      "en": "RTL 8019 AS source code with ATMEGA 8515 ( schema ) complete source code, has been tested.",
+      "cn": "RTL8019AS源代码ATMEGA8515 ( 架构 ) 完整的源代码, 已经过测试."
+    },
+    {
+      "en": "Schema deletion failed: class is used as poss superior.",
+      "cn": "架构更新失败: 类别作为posssuperior使用."
+    },
+    {
+      "en": "Schema information could not be included in the replication request.",
+      "cn": "在复制请求中不能包括架构信息."
+    },
+    {
+      "en": "Schema theory plays an important role in English reading comprehension.",
+      "cn": "摘要图式理论在英语阅读理解中具有十分重要的作用."
+    },
+    {
+      "en": "Schema update failed: attribute in may - contain does not exist.",
+      "cn": "架构更新失败: 可能包含中的属性不存在."
+    },
+    {
+      "en": "Schema update failed: There are no link identifiers available.",
+      "cn": "架构升级失败: 链接标识符不可用."
+    },
+    {
+      "en": "Schema: the unmapped element'% 1'cannot have mapped child'% 2 '.",
+      "cn": "架构: 未映射的元素'%1'不能有映射的子级'%2 '."
+    },
+    {
+      "en": "Tai Ji schema is also widely adopted in modern design.",
+      "cn": "“太极图式”在现代设计中也被广泛应用."
+    },
+    {
+      "en": "XML uses DTD or Schema to define grammar.",
+      "cn": "XML通过DTD或Schema定义文法."
+    },
+    {
+      "en": "Yes, initialize the schema and data at the Subscriber.",
+      "cn": "是, 在订阅服务器上初始化方案和数据."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "schematic",
+          "tran_cn": " 图解的；概要的"
+        },
+        {
+          "word": "scheming",
+          "tran_cn": " 惯耍阴谋的，诡计多端的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "schematically",
+          "tran_cn": " 计划性地；按照图式"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "schematic",
+          "tran_cn": " 原理图；图解视图"
+        },
+        {
+          "word": "schemer",
+          "tran_cn": " 阴谋家；谋士；计划者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "scheming",
+          "tran_cn": " 策划（scheme的ing形式）；制定计划"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "schematize",
+          "tran_cn": " 系统化；计划；扼要表示"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mode",
+            "pattern",
+            "plan",
+            "programme",
+            "brief"
+          ],
+          "tran_cn": "[计][心理]模式；计划；图解；概要"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "conceptual schema",
+      "tran_cn": "概率模式；概念框图"
+    },
+    {
+      "phrase": "database schema",
+      "tran_cn": "数据库模式；数据库架构"
+    },
+    {
+      "phrase": "schema theory",
+      "tran_cn": "图式理论"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "概要，计划，图表",
+      "tran_en": "a drawing or description of the main parts of something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "schemas",
+      "schemata"
+    ]
+  }
+}

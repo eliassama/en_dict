@@ -1,0 +1,120 @@
+{
+  "word": "checkpoint",
+  "ipa": {
+    "us": "ˈtʃekpɔɪnt",
+    "uk": "ˈtʃɛkˌpɔɪnt"
+  },
+  "sentences": [
+    {
+      "en": "A checkpoint file either could not be found or is damaged.",
+      "cn": "检查点文件可能找不到或被损坏."
+    },
+    {
+      "en": "After the checkpoint the highway begins to climb and the landscape transforms.",
+      "cn": "过了检查站公路开始向上爬升,景色也不一样了."
+    },
+    {
+      "en": "At the checkpoint a US soldier examines the car.",
+      "cn": "士兵在检查站检查那辆车."
+    },
+    {
+      "en": "Checkpoint process is terminating due to a fatal exception.",
+      "cn": "由于严重异常错误,检查点进程将终止."
+    },
+    {
+      "en": "Checkpoint records show the bus was carrying 27 people.",
+      "cn": "道路检查站的记录显示,客车上载有27名乘客."
+    },
+    {
+      "en": "Drag onto the page to add a checkpoint or milestone.",
+      "cn": "拖到绘图页后,可以添加检查点或里程碑."
+    },
+    {
+      "en": "For this final checkpoint, your due diligence is the only software required.",
+      "cn": "这个最后关卡, 你是唯一尽职所需软件."
+    },
+    {
+      "en": "For twenty-nine years, Checkpoint Charlie embodied the Cold War.",
+      "cn": "29年来，查理检查站一直是冷战的象征。"
+    },
+    {
+      "en": "Previous attempts at booting this system have failed at checkpoint [ mice ].",
+      "cn": "先前引导本系统的尝试已在检验点 [ mice ] 处失败."
+    },
+    {
+      "en": "Previous attempts at booting this system have failed at checkpoint [ nnnn ].",
+      "cn": "先前尝试引导此系统在检验点 [ nnnn ] 处失败."
+    },
+    {
+      "en": "The executable and checkpoint files are transfered automatically, when needed.",
+      "cn": "执行程序和检查点文件都只在需要的时候被自动传送."
+    },
+    {
+      "en": "The outbound tourists carrying cultural relics must pass through that checkpoint.",
+      "cn": "携带文物的出境旅客必须通过那个检查站."
+    },
+    {
+      "en": "They had to cross five military checkpoints.",
+      "cn": "他们得通过五个军事检查站。"
+    },
+    {
+      "en": "This is only a routine checkpoint, please do not be alarmed.",
+      "cn": "这只是例行路检, 请不要担心."
+    },
+    {
+      "en": "We emphasize on the HA technique of Checkpoint Process Migration.",
+      "cn": "着重讨论了检查点和进程迁移两大高可用技术."
+    },
+    {
+      "en": "You should pass through the red checkpoint.",
+      "cn": "你应该通过那个红色检查站."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "checked",
+          "tran_cn": " 选中的；格子花纹的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "checked",
+          "tran_cn": " 检查（check的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "inspection station",
+            "toll-gate"
+          ],
+          "tran_cn": "[计]检查站，关卡"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "检查站，车站的行李房",
+      "tran_en": "a place, especially on a border, where an official person examines vehicles or people"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "checkpoints"
+    ]
+  }
+}

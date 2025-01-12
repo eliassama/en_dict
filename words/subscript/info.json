@@ -1,0 +1,127 @@
+{
+  "word": "subscript",
+  "ipa": {
+    "us": "'sʌbskrɪpt",
+    "uk": "ˈsʌbˌskrɪpt"
+  },
+  "sentences": [
+    {
+      "en": "A double - subscript scheme will be used to identify the stresses.",
+      "cn": "为了区别各种应力还将采用双下标格式."
+    },
+    {
+      "en": "An array subscript is not valid because it falls outside the allowable range.",
+      "cn": "数组下标无效,因为它不在允许的范围内."
+    },
+    {
+      "en": "Discuss the pros and cons of implementing this operation using the subscript operator.",
+      "cn": "讨论用下标操作符实现这个操作的优缺点."
+    },
+    {
+      "en": "Each subscript can vary from zero through its bound value.",
+      "cn": "每个上标都可能在零到其上限值之间变动."
+    },
+    {
+      "en": "In a single - species fluid, the subscript may be dropped.",
+      "cn": "对于 单组分 流体, 这个下标可以省略."
+    },
+    {
+      "en": "Next, the subscript expression is evaluated.",
+      "cn": "接着, 下标表达式被求值."
+    },
+    {
+      "en": "Octal numbers are identified by a trailing 8 subscript.",
+      "cn": "八进制数由一个附加的下标8来识别。"
+    },
+    {
+      "en": "Subscript: Small character printed below the base part of mathematic equation Inferior character.",
+      "cn": "下标字符: 在数学公式内,放在基线下的细字."
+    },
+    {
+      "en": "The array subscript is a non integer expression.",
+      "cn": "该数组下标是非整型表达式."
+    },
+    {
+      "en": "The atomic number appears as a subscript.",
+      "cn": "把原子系数标在左下角."
+    },
+    {
+      "en": "The mean score - obtaining rates of K and W ( subscript k ) were 62 % and 70 % , respectively.",
+      "cn": "其爱滋病知识主要来 、 源为一般或医学报章杂志."
+    },
+    {
+      "en": "The subscript O and W identify the unweathered and weathered states.",
+      "cn": "下标O和W分别表示属于未风化和已风化的状态."
+    },
+    {
+      "en": "The subscript operator must be defined as a class member function.",
+      "cn": "下标操作符必须定义为类成员函数."
+    },
+    {
+      "en": "The subscript was used on a variable that was not an array.",
+      "cn": "该下标用在了不是数组的变量上."
+    },
+    {
+      "en": "To create superscript or a subscript do the following.",
+      "cn": "按下列步骤创建上标或下标."
+    },
+    {
+      "en": "You can use subscript and superscript, too.",
+      "cn": "你也能使用下标文字和上标文字."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "footnote"
+          ],
+          "tran_cn": "[数]下标；脚注"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "remainder"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "remainder"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "下标的，写在下方的，脚注的",
+      "tran_en": "(of a character) written or printed below the line"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "下标，脚注，下角数码",
+      "tran_en": "a subscript character (Also called subindex)"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "subscripts"
+    ]
+  }
+}

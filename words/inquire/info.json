@@ -1,0 +1,213 @@
+{
+  "word": "inquire",
+  "ipa": {
+    "us": "ɪn'kwaɪə(r)",
+    "uk": "ɪn'kwaɪr"
+  },
+  "sentences": [
+    {
+      "en": "'sally Foster, don't you know you would have to inquire around? \"",
+      "cn": "“ 萨利-福斯特, 你难道不知道你得四处打探 吗 ? ”"
+    },
+    {
+      "en": "‘Why are you doing that?’ the boy inquired.",
+      "cn": "“你为什么这么做？”男孩问道。"
+    },
+    {
+      "en": "Elsie called to inquire after my health.",
+      "cn": "埃尔茜打电话来问候我。"
+    },
+    {
+      "en": "He went to the hospital to inquire about her.",
+      "cn": "他到医院去打听她的情况."
+    },
+    {
+      "en": "I must inquire after my sick friend.",
+      "cn": "我得去问候我那得了病的朋友."
+    },
+    {
+      "en": "I rang up to inquire about train times.",
+      "cn": "我打了电话查询列车时刻。"
+    },
+    {
+      "en": "I will inquire when to begin our lessons.",
+      "cn": "我要去问一下我们什么时候开始上课."
+    },
+    {
+      "en": "Inspectors were appointed to inquire into the affairs of the company.",
+      "cn": "督查员受委派调查该公司的事务。"
+    },
+    {
+      "en": "It would be well to inquire.",
+      "cn": "该查问一下."
+    },
+    {
+      "en": "Methinks, gentlemen, we need inquire no further. \"",
+      "cn": "依我看, 诸位先生, 我们无需再问了. ”"
+    },
+    {
+      "en": "Physics does not inquire into the essence of atoms or of light.",
+      "cn": "物理学并不探求原子或光的本质."
+    },
+    {
+      "en": "She did manage to inquire at the box - office, however.",
+      "cn": "但是她最后还是走到售票处去打听."
+    },
+    {
+      "en": "The investigation will inquire into the company’s financial dealings.",
+      "cn": "此次调查将会涉及公司的财务往来。"
+    },
+    {
+      "en": "They determined to inquire thoroughly into the matter.",
+      "cn": "他们决定彻底调查这件事."
+    },
+    {
+      "en": "Toby would have liked to inquire further (= ask more questions ).",
+      "cn": "托比本想问更多的问题。"
+    },
+    {
+      "en": "We must inquire into the matter.",
+      "cn": "我们必须调查此事."
+    },
+    {
+      "en": "Why don't you inquire by telephone?",
+      "cn": "你何不打电话去问一问?"
+    },
+    {
+      "en": "You can inquire of your new neighbors where the post office is.",
+      "cn": "你可以问问你的新邻居邮局在哪儿."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inquiring",
+          "tran_cn": " 询问的；打听的；爱追究的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inquirer",
+          "tran_cn": " 调查者；询问者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "inquiring",
+          "tran_cn": " 调查（inquire的ing形式）；打听"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ask",
+            "demand",
+            "interrogate",
+            "query",
+            "question",
+            "research"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "question",
+            "query"
+          ],
+          "tran_cn": "询问；查究；询价"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "about",
+            "ask",
+            "investigate",
+            "question"
+          ],
+          "tran_cn": "讯问;调查"
+        },
+        {
+          "words": [
+            "ask",
+            "question"
+          ],
+          "tran_cn": "询问"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inquire about",
+      "tran_cn": "询问，查问；打听"
+    },
+    {
+      "phrase": "inquire after",
+      "tran_cn": "问候：询问健康或状况"
+    },
+    {
+      "phrase": "inquire for",
+      "tran_cn": "求见；要找"
+    },
+    {
+      "phrase": "inquire into",
+      "tran_cn": "调查，探究"
+    },
+    {
+      "phrase": "inquire of",
+      "tran_cn": "询问；打听"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "询问；查究；问明",
+      "tran_en": "to ask someone for information"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 打听， 询问； 调查， 查问",
+      "tran_en": "to ask someone for information"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "打听，询问，查究"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inquires"
+    ],
+    "past": [
+      "inquired"
+    ],
+    "done": [
+      "inquired"
+    ],
+    "ing": [
+      "inquiring"
+    ]
+  }
+}

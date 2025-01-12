@@ -1,0 +1,68 @@
+{
+  "word": "parenthetical",
+  "ipa": {
+    "us": "ˌpærənˈθetɪkl",
+    "uk": "ˌpærənˈθɛtɪkəl"
+  },
+  "sentences": [
+    {
+      "en": "Fox was making a long parenthetical remark about his travels on the border of the country.",
+      "cn": "福克斯正在插入一大段题外话，讲他在该国边境游历的故事。"
+    },
+    {
+      "en": "parenthetical references to his childhood",
+      "cn": "关于他童年时期的补充说明"
+    },
+    {
+      "en": "Yes, I had a parenthetical aside about Clinton - era growth being faster than most people realize. So?",
+      "cn": "是的, 中间我插了一句道克林顿时期的增长率比许多人想象得要快. 怎么了?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "parenthetically",
+          "tran_cn": " 附带说明地；作为插入成分地；顺便说一句"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "parenthesis",
+          "tran_cn": " 插入语；圆括号；附带"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accidental",
+            "side"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "插句的，附加说明的",
+      "tran_en": "said or written while you are talking or writing about something else in order to explain something or add information"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "parenthetically"
+    ]
+  }
+}

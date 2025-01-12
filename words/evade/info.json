@@ -1,0 +1,198 @@
+{
+  "word": "evade",
+  "ipa": {
+    "us": "ɪˈveɪd",
+    "uk": "ɪˈveɪd"
+  },
+  "sentences": [
+    {
+      "en": "He managed to evade capture because of the breakdown of a police computer.",
+      "cn": "因为警方一台电脑瘫痪，他成功地躲避了抓捕。"
+    },
+    {
+      "en": "He tried once again to evade the peace terms.",
+      "cn": "他再一次努力回避和约条款."
+    },
+    {
+      "en": "He tried to evade the embarrassing question.",
+      "cn": "他企图回避这令人难堪的问题."
+    },
+    {
+      "en": "I always found something or other to say to evade the thing.",
+      "cn": "我老是找各种的话来作借口,想躲避这件事."
+    },
+    {
+      "en": "I could tell that he was trying to evade the issue.",
+      "cn": "我看得出他在极力回避这个问题。"
+    },
+    {
+      "en": "If you try to evade paying your taxes you risk going to prison.",
+      "cn": "如果你试图逃税,你就有坐牢的危险了."
+    },
+    {
+      "en": "It is appalling that so many people evade paying taxes.",
+      "cn": "那么多人逃税,真是惊人."
+    },
+    {
+      "en": "It is useless your trying to evade the question.",
+      "cn": "你用不着环顾左右而言他."
+    },
+    {
+      "en": "It's terrible the way the men who are in authority seek to evade their responsibility.",
+      "cn": "有权的人总想逃避责任,这种情况真可怕."
+    },
+    {
+      "en": "Nonetheless, this creates incentives for designing deals to evade regulation.",
+      "cn": "然而, 这造成了为逃避监管而设计交易的动机."
+    },
+    {
+      "en": "One cannot evade responsibility for guilt.",
+      "cn": "罪无可免."
+    },
+    {
+      "en": "The minister evaded the question.",
+      "cn": "部长回避了那个问题。"
+    },
+    {
+      "en": "The shooting happened while the man was trying to evade capture by the security forces.",
+      "cn": "那个男子试图逃脱安全部队的抓捕时,有人开了枪."
+    },
+    {
+      "en": "Their schemes to evade taxes were very crafty.",
+      "cn": "他们逃税的计谋非常狡猾."
+    },
+    {
+      "en": "They left their villages to evade being press-ganged into the army.",
+      "cn": "为了不被抓去当兵，他们逃离了自己的村庄。"
+    },
+    {
+      "en": "You are in charge of the job . How could you evade the issue?",
+      "cn": "你是负责人, 你怎么能对这个问题不置可否?"
+    },
+    {
+      "en": "You can’t go on evading your responsibilities in this way.",
+      "cn": "你不能这样继续逃避责任。"
+    },
+    {
+      "en": "You needn't evade the question.",
+      "cn": "你不必回避这个问题."
+    },
+    {
+      "en": "You’re simply trying to evade the problem.",
+      "cn": "你根本是在设法逃避问题。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "evasive",
+          "tran_cn": " 逃避的；托辞的；推托的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "evasively",
+          "tran_cn": " 逃避地；推诿地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "evasion",
+          "tran_cn": " 逃避；回避；借口"
+        },
+        {
+          "word": "evasiveness",
+          "tran_cn": " 逃避，推诿；模棱两可"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "avoid",
+            "blink",
+            "bypass",
+            "dodge",
+            "escape",
+            "miss",
+            "parry"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "escape",
+            "get out of"
+          ],
+          "tran_cn": "逃避；规避；逃脱"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "avoid",
+            "by-pass",
+            "elude",
+            "escape",
+            "eschew",
+            "miss",
+            "shun"
+          ],
+          "tran_cn": "躲避;避免;迂回"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "evade tax",
+      "tran_cn": "逃税"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "逃避，回避，躲避，想不出，与…无缘",
+      "tran_en": "to not do or deal with something that you should do"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "逃避， 躲避， 躲开；回避",
+      "tran_en": "to avoid talking about something, especially because you are trying to hide something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "evades"
+    ],
+    "past": [
+      "evaded"
+    ],
+    "done": [
+      "evaded"
+    ],
+    "ing": [
+      "evading"
+    ]
+  }
+}

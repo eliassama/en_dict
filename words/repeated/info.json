@@ -1,0 +1,198 @@
+{
+  "word": "repeated",
+  "ipa": {
+    "us": "rɪˈpiːtɪd",
+    "uk": "rɪˈpiːtɪd"
+  },
+  "sentences": [
+    {
+      "en": "\"Go easy on him,\" Sam repeated, opening the door.",
+      "cn": "“对他宽容点，”萨姆开门的时候重复道。"
+    },
+    {
+      "en": "After repeated education they still refused to correct their errors.",
+      "cn": "经过反复教育,他们仍拒不改正错误."
+    },
+    {
+      "en": "Captain Cornish repeated his order to heave to.",
+      "cn": "科尼什船长再次下达了停航的命令。"
+    },
+    {
+      "en": "During that time there have been repeated attempts to reintroduce capital punishment.",
+      "cn": "在那段时期不断有人试图恢复死刑。"
+    },
+    {
+      "en": "He looked back at the abject, silent girl and repeated his question.",
+      "cn": "他转过头看着这个噤若寒蝉的女孩，又重复了一遍他的问题。"
+    },
+    {
+      "en": "I repeated my question for good measure.",
+      "cn": "另外，我重复了我的问题。"
+    },
+    {
+      "en": "Jones was ordered off in the second half after repeated fouls.",
+      "cn": "由于屡次犯规,琼斯在下半场中被责令退出比赛."
+    },
+    {
+      "en": "repeated absences from school",
+      "cn": "一再缺课"
+    },
+    {
+      "en": "repeated absences from work",
+      "cn": "一再旷工"
+    },
+    {
+      "en": "repeated attempts to kill him",
+      "cn": "再三企图杀害他"
+    },
+    {
+      "en": "repeated calls for change",
+      "cn": "再三呼吁变革"
+    },
+    {
+      "en": "She repeated her protestation of innocence.",
+      "cn": "她再度强调自己是清白的。"
+    },
+    {
+      "en": "Skill is acquired through repeated practice, and practice makes perfect.",
+      "cn": "久练为熟, 熟能生巧."
+    },
+    {
+      "en": "The children repeated the words after her in chorus.",
+      "cn": "孩子们跟她齐声朗读单词."
+    },
+    {
+      "en": "The Foreign Secretary's views on the treaty are well-documented and oft-repeated.",
+      "cn": "外交大臣就该条约发表的观点有大量记述并被屡屡提及。"
+    },
+    {
+      "en": "the prisoner's repeated denials of the charges against him",
+      "cn": "囚犯再三否认对他的指控"
+    },
+    {
+      "en": "With repeated applications of weedkiller, the weeds were overcome.",
+      "cn": "经过反复施用除草剂，杂草得以彻底根除。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "repeatable",
+          "tran_cn": " 可重复的；可复验的"
+        },
+        {
+          "word": "repetitive",
+          "tran_cn": " 重复的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "repeatedly",
+          "tran_cn": " 反复地；再三地；屡次地"
+        },
+        {
+          "word": "repetitively",
+          "tran_cn": " 重复地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "repeat",
+          "tran_cn": " 重复；副本"
+        },
+        {
+          "word": "repeater",
+          "tran_cn": " [通信] 中继器；[通信] 转发器；重复者"
+        },
+        {
+          "word": "repetition",
+          "tran_cn": " 重复；背诵；副本"
+        },
+        {
+          "word": "repetitiveness",
+          "tran_cn": " 重复"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "repeat",
+          "tran_cn": " 重做；重复发生"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "repeat",
+          "tran_cn": " 重复；复制；背诵"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "reiterant",
+            "iterative"
+          ],
+          "tran_cn": "再三的，反复的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "continual"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "reduplicated"
+          ],
+          "tran_cn": "重复；复述（repeat的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "repeated load",
+      "tran_cn": "交变载荷；重复载荷"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "反复的，再三的，重复的，累，频仍",
+      "tran_en": "done or happening again and again"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "repeatedly"
+    ]
+  }
+}

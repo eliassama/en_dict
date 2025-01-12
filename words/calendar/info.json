@@ -1,0 +1,206 @@
+{
+  "word": "calendar",
+  "ipa": {
+    "us": "ˈkælɪndə(r)",
+    "uk": "ˈkælɪndər"
+  },
+  "sentences": [
+    {
+      "en": "a calendar for 2006",
+      "cn": "2006年日历"
+    },
+    {
+      "en": "According to the calendar my birthday falls on a Sunday this year.",
+      "cn": "按照今年的日历,我的生日恰好是个星期日."
+    },
+    {
+      "en": "Franklin joined her and the children whenever his crowded calendar allowed.",
+      "cn": "只要能从百忙之中抽出空，富兰克林就会陪在妻儿身边。"
+    },
+    {
+      "en": "He fastened the calendar to a wall.",
+      "cn": "他把日历挂在墙上."
+    },
+    {
+      "en": "He marked off the days on a calendar.",
+      "cn": "他划去日历上的日期。"
+    },
+    {
+      "en": "In the Chinese calendar, the Spring Equinox always occurs in the second month.",
+      "cn": "在中国历法中，春分总是出现在2月。"
+    },
+    {
+      "en": "In the lunar calendar, the years are designated by the Heavenly Stems and Earthly Branches.",
+      "cn": "阴历用干支纪年."
+    },
+    {
+      "en": "It is one of the British sporting calendar's most prestigious events.",
+      "cn": "这是英国体坛大事表上最负盛名的赛事之一。"
+    },
+    {
+      "en": "It is one of the classic events of the sporting calendar.",
+      "cn": "这是体育运动日程表中传统比赛项目之一."
+    },
+    {
+      "en": "It is, in fact, a primitive type of calendar.",
+      "cn": "事实上是一种最原始的日历."
+    },
+    {
+      "en": "The Christian calendar was originally based on the Julian calendar of the Romans.",
+      "cn": "公历最初是以罗马人的儒略历为基础制定的。"
+    },
+    {
+      "en": "The presidential elections are the highlight of next year's political calendar.",
+      "cn": "总统选举是明年政治日程表上的大事."
+    },
+    {
+      "en": "There was a calendar on the wall above, with large squares around the dates.",
+      "cn": "墙的上方曾有一本日历，日期框在大方格里。"
+    },
+    {
+      "en": "There was a calendar on the wall, with large squares around the dates.",
+      "cn": "墙上有一幅日历，每个日期都用大方框框着。"
+    },
+    {
+      "en": "This field determines where to display the event on the calendar.",
+      "cn": "该字段决定了在日程表的什么地方显示事件。"
+    },
+    {
+      "en": "This is a solar calendar.",
+      "cn": "这是阳历."
+    },
+    {
+      "en": "Winners will be selected at the end of each calendar month.",
+      "cn": "每个月末都会选出优胜者。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "calendric",
+          "tran_cn": " 日历的；按日历的；历法的（等于calendrical）"
+        },
+        {
+          "word": "calendrical",
+          "tran_cn": " 日历的；历法的（calendar的形容词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "almanac",
+            "annals",
+            "chronicle",
+            "chronogram",
+            "chronology",
+            "daybook",
+            "log",
+            "record",
+            "register"
+          ],
+          "tran_cn": "历法"
+        },
+        {
+          "words": [
+            "agenda",
+            "docket",
+            "list",
+            "programme",
+            "schedule",
+            "slate"
+          ],
+          "tran_cn": "日程表;程序表"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "catalogue",
+            "program"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "academic calendar",
+      "tran_cn": "校历"
+    },
+    {
+      "phrase": "calendar date",
+      "tran_cn": "历日期"
+    },
+    {
+      "phrase": "calendar day",
+      "tran_cn": "历日；日历日"
+    },
+    {
+      "phrase": "calendar month",
+      "tran_cn": "历月"
+    },
+    {
+      "phrase": "calendar year",
+      "tran_cn": "历年"
+    },
+    {
+      "phrase": "chinese calendar",
+      "tran_cn": "农历；阴历"
+    },
+    {
+      "phrase": "desk calendar",
+      "tran_cn": "台历；台历芯"
+    },
+    {
+      "phrase": "desktop calendar",
+      "tran_cn": "桌上日历"
+    },
+    {
+      "phrase": "gregorian calendar",
+      "tran_cn": "公历；格里高里历"
+    },
+    {
+      "phrase": "julian calendar",
+      "tran_cn": "公历；罗马儒略历"
+    },
+    {
+      "phrase": "lunar calendar",
+      "tran_cn": "n. 阴历"
+    },
+    {
+      "phrase": "perpetual calendar",
+      "tran_cn": "万年历"
+    },
+    {
+      "phrase": "solar calendar",
+      "tran_cn": "阳历"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "日历，历法，日程表，（一年之中的）重大事件（或重要日期）一览表",
+      "tran_en": "a set of pages that show the days, weeks, and months of a particular year, that you usually hang on a wall"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "将…列入表中；将…排入日程表"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "calendars"
+    ]
+  }
+}

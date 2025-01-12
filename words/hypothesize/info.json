@@ -1,0 +1,135 @@
+{
+  "word": "hypothesize",
+  "ipa": {
+    "us": "haɪˈpɒθəsaɪz",
+    "uk": "haɪˈpɑθəsaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Planetary scientists hypothesize that the storm runs deep into Saturn's cloud tops.",
+      "cn": "行星科学家们推测这个风暴在土星云层的深处."
+    },
+    {
+      "en": "To explain this, they hypothesize that galaxies must contain a great deal of missing matter which cannot be detected.",
+      "cn": "为了解释这一点，他们假定银河系一定包含了大量无法探测到的不明物质。"
+    },
+    {
+      "en": "Together they try to hypothesize what could have happened.",
+      "cn": "他们一起猜测有什么可能发生."
+    },
+    {
+      "en": "We hypothesize that estrogen prevents cardiomyocyte apoptosis and the deelopment of CHF.",
+      "cn": "我们假设雌激素能够防止心肌细胞凋亡和CHF的进展."
+    },
+    {
+      "en": "With only a few facts, Holmes could hypothesize the explanation.",
+      "cn": "仅凭少许的事实, 福尔摩斯就能推理该事件了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hypothetical",
+          "tran_cn": " 假设的；爱猜想的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "hypothetically",
+          "tran_cn": " 假设地；假想地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hypothesis",
+          "tran_cn": " 假设"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "hypothesise",
+          "tran_cn": " （英）假定；设定；假设（等于hypothesize）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "hypothesise",
+          "tran_cn": " （英）假定；设定；假设（等于hypothesize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "generalize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "assume that",
+            "to suppose"
+          ],
+          "tran_cn": "假设，假定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "assume that",
+            "to suppose"
+          ],
+          "tran_cn": "假设，假定"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "假设，假定，猜测",
+      "tran_en": "to suggest a possible explanation that has not yet been proved to be true"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "hypothesizes"
+    ],
+    "past": [
+      "hypothesized"
+    ],
+    "done": [
+      "hypothesized"
+    ],
+    "ing": [
+      "hypothesizing"
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "word": "clot",
+  "ipa": {
+    "us": "klɒt",
+    "uk": "klɑːt"
+  },
+  "sentences": [
+    {
+      "en": "A blood clot occluded an artery to the heart.",
+      "cn": "血块阻塞动脉的核心."
+    },
+    {
+      "en": "a blood clot on the brain",
+      "cn": "大脑中的血块"
+    },
+    {
+      "en": "A haemophiliac's blood will not clot properly.",
+      "cn": "血友病患者的血液凝固不良."
+    },
+    {
+      "en": "A year ago he had a blood clot removed from his brain.",
+      "cn": "他脑内的血块一年前被取出了."
+    },
+    {
+      "en": "Atherosclerosis also makes it easier a clot to form.",
+      "cn": "同时,动脉粥样硬化,也导致血栓的形成而加容易."
+    },
+    {
+      "en": "Blood congeals to form a clot.",
+      "cn": "血凝结成块."
+    },
+    {
+      "en": "He developed a blood clot on his brain and died.",
+      "cn": "他脑部出现血凝块，之后死亡。"
+    },
+    {
+      "en": "How could he clot on his own two out of three times?",
+      "cn": "怎么可能在三次检查里有两次自然止血了 呢 ?"
+    },
+    {
+      "en": "If the plaque breaks open, a clot forms, choking off the supply of blood.",
+      "cn": "如果这种斑块破裂, 栓塞便形成了, 于是阻抑血液供应."
+    },
+    {
+      "en": "Is the vitamin with necessary place of normal blood clot?",
+      "cn": "正常血凝块所必要的维生素是?"
+    },
+    {
+      "en": "Objective : To evaluate the sentinel clot sign in blunt upper abdominal trauma.",
+      "cn": "目的: 探讨急性上腹部钝挫伤哨兵血块征的价值."
+    },
+    {
+      "en": "Platelets are one of the components required to make blood clot.",
+      "cn": "血小板是血液凝固的必须成分之一."
+    },
+    {
+      "en": "The drug is a recombinant protein, called Factor VIII , which is necessary to help blood clot.",
+      "cn": "该药是一种重组蛋白质, 叫第8因子, 能有效地帮助血液凝固."
+    },
+    {
+      "en": "The patient's blood refused to clot.",
+      "cn": "病人的血液无法凝结。"
+    },
+    {
+      "en": "They removed a clot from his brain.",
+      "cn": "他们从他的大脑里取出了血块。"
+    },
+    {
+      "en": "Use a clot cloth with a little warm water, do.",
+      "cn": "用一块布沾一点温水."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "clotted",
+          "tran_cn": " 凝结的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "clotting",
+          "tran_cn": " 凝血；结块"
+        },
+        {
+          "word": "cloture",
+          "tran_cn": " 讨论终结"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "clotting",
+          "tran_cn": " 结快（clot的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "clotted",
+          "tran_cn": " 使凝结（clott的过去分词形式）"
+        },
+        {
+          "word": "cloture",
+          "tran_cn": " 结束辩论"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "gob",
+            "grume"
+          ],
+          "tran_cn": "[生理]凝块"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coagulate",
+            "cohere",
+            "compression",
+            "condensation",
+            "congeal",
+            "thicken"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "concrete",
+            "to freeze"
+          ],
+          "tran_cn": "凝结"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "clump"
+          ],
+          "tran_cn": "使凝结成块"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "blood clot",
+      "tran_cn": "血凝块，血块"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "凝块，（人，动物等的）聚集",
+      "tran_en": "a thick almost solid mass formed when blood or milk dries"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "凝结",
+      "tran_en": "if a liquid such as blood or milk clots, or if something clots it, it becomes thicker and more solid"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "凝结，拥塞"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "clots"
+    ],
+    "third": [
+      "clots"
+    ],
+    "past": [
+      "clotted"
+    ],
+    "done": [
+      "clotted"
+    ],
+    "ing": [
+      "clotting"
+    ]
+  }
+}

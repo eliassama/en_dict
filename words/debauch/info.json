@@ -1,0 +1,113 @@
+{
+  "word": "debauch",
+  "ipa": {
+    "us": "dɪ'bɔ:tʃ",
+    "uk": "dɪ'bɔtʃ"
+  },
+  "sentences": [
+    {
+      "en": "Printing money would worsen inflation, debauch the currency and bring a balance - of - payments crisis.",
+      "cn": "启用印刷钞只能造成通货膨胀恶化, 货币脱缰,收支平衡将堕入困局."
+    },
+    {
+      "en": "You can hardly expect unquestioning obedience from last night's partner in a debauch.",
+      "cn": "从昨晚有位搭档的放荡之后,你将不再期待任何坚定不移的听从."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "debauched",
+          "tran_cn": " 堕落的；放荡的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "debauchery",
+          "tran_cn": " 放荡；纵情酒色；堕落"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "debauched",
+          "tran_cn": " 使堕落；放荡（debauch的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "licentiousness",
+            "dolce vita"
+          ],
+          "tran_cn": "放荡"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "demoralize",
+            "deteriorate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "sow one's wild oats",
+            "easy virtue"
+          ],
+          "tran_cn": "放荡；诱使做不道德的事"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "deprave",
+            "demoralize"
+          ],
+          "tran_cn": "使堕落；使颓废"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": " 堕落"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使堕落",
+      "tran_en": "to lead into a life of depraved self-indulgence "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使堕落，败坏"
+    }
+  ],
+  "exchange": {}
+}

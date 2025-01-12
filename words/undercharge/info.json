@@ -1,0 +1,50 @@
+{
+  "word": "undercharge",
+  "ipa": {
+    "us": "ˌʌndəˈtʃɑ:dʒ",
+    "uk": "ˌʌndərˈtʃɑrdʒ"
+  },
+  "sentences": [
+    {
+      "en": "The city is grossly undercharging (= charging far too little ) companies to use the land.",
+      "cn": "那座城市对公司用地收取很少的费用。"
+    },
+    {
+      "en": "We undercharge Mr. Smith and have to send him a debit note for the extra amount.",
+      "cn": "我们少收了史密斯先生的钱,只得给他寄去一张借条所要欠款."
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "充电不足；低的索价；填不够量的火药",
+      "tran_en": "an insufficient charge "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "充电不足；索价低于常价；弹药装填不足",
+      "tran_en": "to charge too little (for) "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "少收钱，未给（枪等）装足火药，对…充电不足"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "undercharges"
+    ],
+    "past": [
+      "undercharged"
+    ],
+    "done": [
+      "undercharged"
+    ],
+    "ing": [
+      "undercharging"
+    ]
+  }
+}

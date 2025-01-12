@@ -1,0 +1,141 @@
+{
+  "word": "slaver",
+  "ipa": {
+    "us": "ˈsleɪvə(r)",
+    "uk": "ˈsleɪvə(r)"
+  },
+  "sentences": [
+    {
+      "en": "I found myself skipping these passages, though no doubt many readers will slaver over them.",
+      "cn": "我发现自己跳过了这些章节，尽管有许多读者无疑会为这些描写兴奋不已。"
+    },
+    {
+      "en": "Today's slaver drain into tomorrow's tear.",
+      "cn": "现在淌的哈喇子,无可厚非,将成为明天的眼泪."
+    },
+    {
+      "en": "Today's slaver willdrain into tomorrow's tear.",
+      "cn": "今天哈喇子将成为明天的眼泪."
+    },
+    {
+      "en": "You'd better shut up and save your slaver.",
+      "cn": "你最好少说点话,节约一下你的口水."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "slaveholding",
+          "tran_cn": " 蓄奴的；拥有奴隶的"
+        },
+        {
+          "word": "slavish",
+          "tran_cn": " 奴隶的；奴性的；卑屈的；盲从的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "slavishly",
+          "tran_cn": " 奴隶般地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "slave",
+          "tran_cn": " 奴隶；从动装置"
+        },
+        {
+          "word": "slaveholder",
+          "tran_cn": " 奴隶所有者"
+        },
+        {
+          "word": "slaveholding",
+          "tran_cn": " 拥有奴隶"
+        },
+        {
+          "word": "slavery",
+          "tran_cn": " 奴役；奴隶制度；奴隶身分"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "slave",
+          "tran_cn": " 苦干；拼命工作"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "flattery",
+            "obsequiousness"
+          ],
+          "tran_cn": "口水；奴隶贩卖船；奴隶商人；谄媚；诱骗女子为娼者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "water"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "drivel"
+          ],
+          "tran_cn": "淌口水"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "奴隶贩子, 奴隶贩卖船, 诱骗女子为娼者, 唾液",
+      "tran_en": "someone who sells slaves"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "流口水，垂涎，极想得到"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "slavers"
+    ],
+    "past": [
+      "slavered"
+    ],
+    "done": [
+      "slavered"
+    ],
+    "ing": [
+      "slavering"
+    ]
+  }
+}

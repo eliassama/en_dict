@@ -1,0 +1,85 @@
+{
+  "word": "illiberal",
+  "ipa": {
+    "us": "ɪˈlɪbərəl",
+    "uk": "ɪˈlɪbərəl"
+  },
+  "sentences": [
+    {
+      "en": "Expressing illiberal views may bring some politicians into temporary prominence.",
+      "cn": "发表偏狭之见也许能使某些政治家名噪一时."
+    },
+    {
+      "en": "His views are markedly illiberal.",
+      "cn": "他的观点非常狭隘。"
+    },
+    {
+      "en": "illiberal and undemocratic policies",
+      "cn": "专制、不民主的政策"
+    },
+    {
+      "en": "Their tendency is gross and illiberal.",
+      "cn": "说这种话显得粗野,缺乏教养."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "illiberally",
+          "tran_cn": " 吝啬地；小气地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "illiberalism",
+          "tran_cn": " 反自由主义；非自由主义"
+        },
+        {
+          "word": "illiberality",
+          "tran_cn": " 吝啬；狭隘；不自由；严格"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "tight",
+            "stingy"
+          ],
+          "tran_cn": "偏执的；吝啬的；粗鄙的；狭碍的；缺乏文化素养的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contracted",
+            "provincial",
+            "subjective"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "小心眼的，气量小的，吝啬的，小气的",
+      "tran_en": "not generous"
+    }
+  ],
+  "exchange": {}
+}

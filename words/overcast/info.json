@@ -1,0 +1,179 @@
+{
+  "word": "overcast",
+  "ipa": {
+    "us": "ˌəʊvəˈkɑ:st",
+    "uk": "ˌoʊvərˈkæst"
+  },
+  "sentences": [
+    {
+      "en": "a chilly overcast day",
+      "cn": "一个寒冷的阴天"
+    },
+    {
+      "en": "During the daytime, it will be overcast, turning clear later.",
+      "cn": "今天白天，阴转晴。"
+    },
+    {
+      "en": "For three days it was overcast.",
+      "cn": "连续3天都是阴天。"
+    },
+    {
+      "en": "Her face was overcast with sadness.",
+      "cn": "她脸色阴沉."
+    },
+    {
+      "en": "In no time the sky became overcast.",
+      "cn": "天一下子就变色了."
+    },
+    {
+      "en": "It became overcast all of a sudden.",
+      "cn": "天一下阴了下来."
+    },
+    {
+      "en": "It was muggy and overcast.",
+      "cn": "天气闷热潮湿，而且天色阴沉。"
+    },
+    {
+      "en": "The overcast and rainy weather found out his arthritis.",
+      "cn": "阴雨天使他的关节炎发作了."
+    },
+    {
+      "en": "The rain stopped and the sky was completely overcast.",
+      "cn": "雨点停了,黑云铺匀了满天."
+    },
+    {
+      "en": "The sky is overcast now, but I think it will clear up soon.",
+      "cn": "现在天色阴沉, 不过我想马上就会转晴的."
+    },
+    {
+      "en": "The sky is overcast with dark clouds.",
+      "cn": "乌云满天."
+    },
+    {
+      "en": "The sky is overcast.",
+      "cn": "天阴了."
+    },
+    {
+      "en": "The sky was overcast and a light rain began to fall.",
+      "cn": "天空阴云密布，并下起了小雨。"
+    },
+    {
+      "en": "The sky was overcast, the ligtning leaped from cloud to cloud.",
+      "cn": "天空乌云密布, 电光在云块间闪动."
+    },
+    {
+      "en": "The sky was overcast.",
+      "cn": "天色灰蒙蒙的."
+    },
+    {
+      "en": "The weather for tomorrow: Clear in the morning, changing to light overcast in the afternoon.",
+      "cn": "明天的天气: 上午晴, 下午转多云."
+    },
+    {
+      "en": "The weather forecast is for showers and overcast skies.",
+      "cn": "天气预报上说多云并伴有阵雨。"
+    },
+    {
+      "en": "Tomorrow will be overcast.",
+      "cn": "明天是阴天."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "overcasting",
+          "tran_cn": " 溢流浇注"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "overcasting",
+          "tran_cn": " 使沮丧；遮盖（overcast的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "bleak",
+            "cloudy",
+            "dark",
+            "dismal",
+            "gloomy",
+            "hazy",
+            "misty",
+            "somber"
+          ],
+          "tran_cn": "阴的;沮丧的;忧郁的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "black",
+            "bleak",
+            "cloud",
+            "cloudy",
+            "dark",
+            "dismal",
+            "eclipse",
+            "gloom",
+            "gloomy",
+            "grey",
+            "hazy",
+            "misty",
+            "somber",
+            "stormy"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "shadow",
+            "shield"
+          ],
+          "tran_cn": "使沮丧；包缝；遮蔽"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "overcast sky",
+      "tran_cn": "阴天"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "天阴的，多云的",
+      "tran_en": "dark with clouds"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "覆盖, 阴天"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使沮丧；包缝；遮蔽"
+    }
+  ],
+  "exchange": {}
+}

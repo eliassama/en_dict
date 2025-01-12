@@ -1,0 +1,175 @@
+{
+  "word": "folder",
+  "ipa": {
+    "us": "ˈfəʊldə(r)",
+    "uk": "ˈfoʊldə(r)"
+  },
+  "sentences": [
+    {
+      "en": "All you have to do is right-click on the desktop and select New Folder.",
+      "cn": "你只要在桌面上点击鼠标右键，选择“新建文件夹”就行了。"
+    },
+    {
+      "en": "Can't create the default folder shortcuts for the Navigation Pane.",
+      "cn": "无法为“导航窗格”创建默认文件夹快捷方式."
+    },
+    {
+      "en": "Conscious of the bulging red folder, Nim told her, \" Ask if it's important. \"",
+      "cn": "尼姆想到那个鼓鼓囊囊的红色文件夹便告诉她: “ 问问是不是重要的事. ”"
+    },
+    {
+      "en": "Even the dissimilar nesting of folder - inside - drawer - inside - cabinet rarely exceeds two levels of nesting.",
+      "cn": "即使是抽屉内的文件夹 —— 这种不同的嵌套也很少超过两个嵌套层次."
+    },
+    {
+      "en": "Folder Id Determines which folder a message is filed to.",
+      "cn": "文件夹编号确定哪个文件夹中的邮件存档."
+    },
+    {
+      "en": "He returned the identical stamped folder to Clyde.",
+      "cn": "他把打过印的那一份又递给克莱德."
+    },
+    {
+      "en": "He shuffled the advertising proofs together and returned them to the folder they had arrived in.",
+      "cn": "他把那几则广告样张叠好,塞回到文件袋里."
+    },
+    {
+      "en": "He touched the manila folder which Wainwright had put down.",
+      "cn": "他按了按温赖特放下的马尼拉纸文件袋."
+    },
+    {
+      "en": "I rummaged through the drawers and came up with Amanda's folder. \"Here we are.\"",
+      "cn": "我翻遍了抽屉，找出了阿曼达的文件夹。“找到了。”"
+    },
+    {
+      "en": "Right - click the ServicePackFiles folder and select the Properties command.",
+      "cn": "右击ServicePackFiles文件夹,选择属性命令."
+    },
+    {
+      "en": "The folder was sandwiched in between the two bulging files in the drawer.",
+      "cn": "这硬纸卡被挤在抽屉里的两个鼓鼓的档案夹里了."
+    },
+    {
+      "en": "The folder was two inches thick.",
+      "cn": "那个文件夹有两英寸厚。"
+    },
+    {
+      "en": "There are stationery folder and Hotel Directory in the drawer.",
+      "cn": "抽屉里有文件夹和酒店指南."
+    },
+    {
+      "en": "You must specify a folder with full pathname or choose Cancel.",
+      "cn": "必须指定文件夹的全名或选择“取消”."
+    },
+    {
+      "en": "You should see the OpenOffice. org icon in the Applications folder.",
+      "cn": "您应该在应用程序文件夹里看到OpenOffice. org图标."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "foldaway",
+          "tran_cn": " 折叠式的"
+        },
+        {
+          "word": "folding",
+          "tran_cn": " 可折叠的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fold",
+          "tran_cn": " 折痕；信徒；羊栏"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "fold",
+          "tran_cn": " 折叠起来；彻底失败"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fold",
+          "tran_cn": " 折叠；合拢；抱住；笼罩"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "portfolio",
+            "paper file"
+          ],
+          "tran_cn": "[轻]文件夹；折叠机；折叠式印刷品"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "album",
+            "brochure",
+            "catalogue",
+            "handbill",
+            "leaflet",
+            "pamphlet"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "destination folder",
+      "tran_cn": "目标文件夹"
+    },
+    {
+      "phrase": "file folder",
+      "tran_cn": "卷宗夹，文件夹"
+    },
+    {
+      "phrase": "folder name",
+      "tran_cn": "文件夹名"
+    },
+    {
+      "phrase": "folder options",
+      "tran_cn": "文件夹选项"
+    },
+    {
+      "phrase": "new folder",
+      "tran_cn": "新建文件夹"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "文件夹，折叠机，折叠式印刷品",
+      "tran_en": "a container for keeping loose papers in, made of folded card or plastic"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "folders"
+    ]
+  }
+}

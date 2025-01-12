@@ -1,0 +1,66 @@
+{
+  "word": "pestilent",
+  "ipa": {
+    "us": "'pestɪlənt",
+    "uk": "ˈpɛstələnt"
+  },
+  "sentences": [
+    {
+      "en": "I destroy all noisome and rank weeds , I keep down all pestilent vapours.",
+      "cn": "我摧毁了一切丛生的毒草,控制一切有害的烟雾."
+    },
+    {
+      "en": "Smallpox is a pestilent disease.",
+      "cn": "天花是一种致命的疾病."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pestiferous",
+          "tran_cn": " 传播疾病的；有害的，毒害的；邪恶的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pest",
+          "tran_cn": " 害虫；有害之物；讨厌的人"
+        },
+        {
+          "word": "pestilence",
+          "tran_cn": " 瘟疫（尤指鼠疫）；有害的事物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "harmful",
+            "evil",
+            "kill",
+            "fatal",
+            "deadly"
+          ],
+          "tran_cn": "致命的；有害的；恼人的；危害社会的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "致命的，致死的，有害的，危害社会的"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,90 @@
+{
+  "word": "typist",
+  "ipa": {
+    "us": "ˈtaɪpɪst",
+    "uk": "ˈtaɪpɪst"
+  },
+  "sentences": [
+    {
+      "en": "I thought I am quite fit for a typist's job.",
+      "cn": "我觉得我很适合做打字中的工作."
+    },
+    {
+      "en": "I'm quite a fast typist.",
+      "cn": "我打字相当快。"
+    },
+    {
+      "en": "I’m a slow typist.",
+      "cn": "我打字很慢。"
+    },
+    {
+      "en": "She is a very fast typist.",
+      "cn": "她打字速度很快."
+    },
+    {
+      "en": "The publishing firm was advertising for a typist.",
+      "cn": "这家出版公司正在登广告招聘一名打字员。"
+    },
+    {
+      "en": "What are your qualifications for being a typist ? I can type 60 words per minute.",
+      "cn": "你打字水平 如何 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "typing",
+          "tran_cn": " 打字；键入"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "typing",
+          "tran_cn": " 打字；按类型把…归类（type的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "typer"
+          ],
+          "tran_cn": "[印刷]打字员，打字者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "secretary"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "打字员",
+      "tran_en": "a secretary whose main job is to  type  letters"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "typists"
+    ]
+  }
+}

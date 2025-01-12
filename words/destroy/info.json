@@ -1,0 +1,185 @@
+{
+  "word": "destroy",
+  "ipa": {
+    "us": "dɪˈstrɔɪ",
+    "uk": "dɪˈstrɔɪ"
+  },
+  "sentences": [
+    {
+      "en": "Acids in the stomach destroy the virus.",
+      "cn": "胃酸能杀死病毒。"
+    },
+    {
+      "en": "After the killing, he calmly lit a fire to destroy evidence.",
+      "cn": "杀人后，他镇定地点起火销毁罪证。"
+    },
+    {
+      "en": "An atom bomb would destroy a city.",
+      "cn": "一颗原子弹能摧毁一座城市。"
+    },
+    {
+      "en": "companies that are polluting and destroying the environment",
+      "cn": "污染和破坏环境的公司"
+    },
+    {
+      "en": "Criticizing will only destroy a relationship and create feelings of failure.",
+      "cn": "批评责备只能破坏关系，让人产生失败感。"
+    },
+    {
+      "en": "Einstein lived not to conquer or destroy, but to understand.",
+      "cn": "爱因斯坦活在世上不是为了征服或破坏什么, 而是为了理解这个世界."
+    },
+    {
+      "en": "Find and destroy, repeat destroy, these units.",
+      "cn": "找到并且销毁，重复一下，销毁这些部件。"
+    },
+    {
+      "en": "Frogs eat pests which destroy crops and carry diseases.",
+      "cn": "青蛙吃破坏庄稼、传播疾病的害虫。"
+    },
+    {
+      "en": "In 1346 a hurricane whipped up the sea to destroy the town.",
+      "cn": "1346年的飓风引起海啸并摧毁了城镇。"
+    },
+    {
+      "en": "It is proverbially easier to destroy than to construct.",
+      "cn": "谁都知道破坏容易建设难."
+    },
+    {
+      "en": "Richard could easily destroy her personal property to punish her for walking out on him.",
+      "cn": "理查德能轻易毁掉她的私人财产来惩罚她对他的背叛。"
+    },
+    {
+      "en": "The dispute could destroy Australia's hard-won reputation for industrial stability.",
+      "cn": "这场纠纷可能会让澳大利亚劳资关系稳定这一来之不易的名声毁于一旦。"
+    },
+    {
+      "en": "The school was completely destroyed by fire.",
+      "cn": "学校被大火彻底烧毁了。"
+    },
+    {
+      "en": "The virus can actually destroy those white blood cells, leaving the body wide open to attack from other infections.",
+      "cn": "该病毒实际上会破坏那些白血球，使身体极易受到其他传染病感染。"
+    },
+    {
+      "en": "They can't destroy truth without destroying each and every one of us.",
+      "cn": "除非他们将我们赶尽杀绝，否则真理不灭。"
+    },
+    {
+      "en": "They have the capability to destroy the enemy in days rather than weeks.",
+      "cn": "他们有能力在几天内，而不是几个星期内消灭敌人。"
+    },
+    {
+      "en": "To hedge around a partnership of love with control by law would be to destroy its base of trust in one another.",
+      "cn": "以法律限制来束缚爱情的结合将毁掉彼此信任的基础."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "destroyable",
+          "tran_cn": " 可毁灭的；可粉碎的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "destroyer",
+          "tran_cn": " 驱逐舰；破坏者；起破坏作用的事物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abolish",
+            "annihilate",
+            "blight",
+            "break",
+            "butcher",
+            "consume",
+            "demolish",
+            "devastate",
+            "devour",
+            "efface",
+            "exterminate",
+            "fall",
+            "finish",
+            "flatten",
+            "kill",
+            "obliterate",
+            "ravage",
+            "raze",
+            "ruin",
+            "shatter",
+            "slay",
+            "smash",
+            "spoil",
+            "undermine",
+            "wipe",
+            "wreck"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "exterminate",
+            "finish",
+            "kill",
+            "slay"
+          ],
+          "tran_cn": "杀死,消灭"
+        },
+        {
+          "words": [
+            "devastate",
+            "ruin",
+            "spoil",
+            "wreck"
+          ],
+          "tran_cn": "毁坏,破坏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "毁坏，毁掉某人，杀死",
+      "tran_en": "to damage something so badly that it no longer exists or cannot be used or repaired"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 毁坏， 毁灭； 消灭",
+      "tran_en": "to damage something so badly that it no longer exists or cannot be used or repaired"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "destroys"
+    ],
+    "past": [
+      "destroyed"
+    ],
+    "done": [
+      "destroyed"
+    ],
+    "ing": [
+      "destroying"
+    ]
+  }
+}

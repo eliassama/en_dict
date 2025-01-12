@@ -1,0 +1,139 @@
+{
+  "word": "hibernate",
+  "ipa": {
+    "us": "ˈhaɪbəneɪt",
+    "uk": "ˈhaɪbərneɪt"
+  },
+  "sentences": [
+    {
+      "en": "According to such layered structure three open source frameworks , Tapestry , Spring and Hibernate, are briefly introduced in this paper.",
+      "cn": "按照这种分层结构, 分别介绍了Tapestry, Spring和Hibernate三种开源框架."
+    },
+    {
+      "en": "Bears often hibernate in caves.",
+      "cn": "熊常在山洞里冬眠."
+    },
+    {
+      "en": "Data base operation having applied Hibernate simplification.",
+      "cn": "应用Hibernate简化了数据库操作."
+    },
+    {
+      "en": "Don't hibernate in your office no matter how busy you are.",
+      "cn": "不管有多忙也不要在办公室睡觉."
+    },
+    {
+      "en": "Dormice hibernate from October to May.",
+      "cn": "榛睡鼠从10月冬眠到5月。"
+    },
+    {
+      "en": "He's trying to fatten Dan up so they can hibernate together.",
+      "cn": "它想把丹喂得胖胖的,陪它一起冬眠!"
+    },
+    {
+      "en": "In cool weather, serpents do not tempt; they grow diffident, recede and hibernate.",
+      "cn": "在凉爽的天气里, 蛇是不会出来引诱人的, 它会胆怯 、 退避,还要冬眠."
+    },
+    {
+      "en": "In the cold weather some of them hibernate.",
+      "cn": "它们有的在严寒的天气冬眠了."
+    },
+    {
+      "en": "In the Hibernate mapping file, by Configure the lazy attribute to determine the search strategy.",
+      "cn": "在Hibernate映射文件中, 通过在上配置lazy属性来确定检索策略."
+    },
+    {
+      "en": "In winter bears usually hibernate in their dens.",
+      "cn": "冬天熊通常在穴里冬眠."
+    },
+    {
+      "en": "Some animals, including some bears, only half hibernate.",
+      "cn": "有些动物, 包括有些熊只是半冬眠."
+    },
+    {
+      "en": "Some endotherms do not need to hibernate.",
+      "cn": "一些温血动物不需要冬眠。"
+    },
+    {
+      "en": "Some warm - blooded animals do not need to hibernate.",
+      "cn": "一些温血动物不需要冬眠."
+    },
+    {
+      "en": "Struts and Hibernate are open source frameworks and commonly used.",
+      "cn": "其中比较流行的就有开放源码的Struts框架和Hibernate框架."
+    },
+    {
+      "en": "The documents include, HIBERNATE configuration, the one - to - many. many - to - many . another is usually more of its own operations.",
+      "cn": "更不用说了,我培训期间的资料,包括每天老师的例子.文件主要包括, HIBERNATE的 配置, 一对多, 多对多. 别的就是些平时的自己作业."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "hibernation",
+          "tran_cn": " 冬眠；过冬；避寒"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "hole",
+            "sleep",
+            "slumber",
+            "up"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "hole",
+            "sleep",
+            "slumber",
+            "up"
+          ],
+          "tran_cn": "冬眠;睡觉"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "冬眠",
+      "tran_en": "if an animal hibernates, it sleeps for the whole winter"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（某些动物）冬眠，蛰伏"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "hibernates"
+    ],
+    "past": [
+      "hibernated"
+    ],
+    "done": [
+      "hibernated"
+    ],
+    "ing": [
+      "hibernating"
+    ],
+    "noun": [
+      "hibernation"
+    ]
+  }
+}

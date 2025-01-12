@@ -1,0 +1,174 @@
+{
+  "word": "caller",
+  "ipa": {
+    "us": "ˈkɔ:lə(r)",
+    "uk": "ˈkɔlɚ"
+  },
+  "sentences": [
+    {
+      "en": "‘Could you hold for one moment?’ he asked the caller.",
+      "cn": "“请稍等片刻好吗？”他对打电话来的人说。"
+    },
+    {
+      "en": "\"The President cannot be disturbed,\" his son is supposed to have told an early morning caller.",
+      "cn": "“校长不能见客，”他的儿子应该已经这样告知了一位一大清早就来了的拜访者。"
+    },
+    {
+      "en": "An anonymous caller told police what had happened.",
+      "cn": "有人打匿名电话向警方报告了所发生的事。"
+    },
+    {
+      "en": "Can you tell me the name of the caller again?",
+      "cn": "请你再次告诉我对方姓名好 吗 ?"
+    },
+    {
+      "en": "Don't be an Irate caller yourself.",
+      "cn": "你自己也不要做发怒的打电话者."
+    },
+    {
+      "en": "I'd like to order a new phone - one with caller ID.",
+      "cn": "我想订一支新的电话机,可以显示来电的."
+    },
+    {
+      "en": "I'm sorry, caller, the number is engaged.",
+      "cn": "对不起, 打电话的先生, 您叫的号码现在占线."
+    },
+    {
+      "en": "Mr Li has just installed a caller ID telephone at home.",
+      "cn": "李先生家里刚刚装了一台来电显示电话机."
+    },
+    {
+      "en": "The caller activates the system software through touch tone telephone.",
+      "cn": "呼叫者通过按键话机触发系统软件."
+    },
+    {
+      "en": "The caller hung up.",
+      "cn": "打电话的人挂断了电话。"
+    },
+    {
+      "en": "The caller is on hold.",
+      "cn": "那个打电话的人正等着通话."
+    },
+    {
+      "en": "The operator told the caller that the line is busy.",
+      "cn": "接线员告诉打电话的人对方电话占线."
+    },
+    {
+      "en": "The value returned by a command to its caller.",
+      "cn": "命令返回给其调用者的值."
+    },
+    {
+      "en": "The voice of the caller alerted her.",
+      "cn": "呼唤者的声音使她警觉起来."
+    },
+    {
+      "en": "Then Dr Millington asked the caller if he was a relative of the patient.",
+      "cn": "后来米灵顿医生问那位打电话的人他是否是病人的亲属."
+    },
+    {
+      "en": "They need to get hold of that mystery caller.",
+      "cn": "他们需要调查这一神秘来电."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "call",
+          "tran_cn": " 电话；呼叫；要求；访问"
+        },
+        {
+          "word": "calling",
+          "tran_cn": " 职业；欲望；点名；召集；邀请"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "calling",
+          "tran_cn": " 召；呼唤（call的现在分词）；称之为"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "call",
+          "tran_cn": " 呼叫；拜访；叫牌"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "call",
+          "tran_cn": " 呼叫；称呼；召集"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "fresh",
+            "new"
+          ],
+          "tran_cn": "新鲜的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "visitant"
+          ],
+          "tran_cn": "访客；[通信]呼叫者；打电话者；召集员"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "guest",
+            "visitor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "caller id",
+      "tran_cn": "来电显示"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "新鲜的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "呼叫者，召集者，访问者，打电话者",
+      "tran_en": "someone making a telephone call"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "callers"
+    ]
+  }
+}

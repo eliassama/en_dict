@@ -1,0 +1,128 @@
+{
+  "word": "gateway",
+  "ipa": {
+    "us": "ˈgeɪtweɪ",
+    "uk": "ˈɡetˌwe"
+  },
+  "sentences": [
+    {
+      "en": "But the gateway was jammed tight with spectators, presenting a solid screen of nothing but heads.",
+      "cn": "但是二门口堆满了人,密密麻麻, 好像是一扇屏风,只看见无数的头."
+    },
+    {
+      "en": "Denver is the gateway to some of the best skiing in the world.",
+      "cn": "丹佛是通往世界上一些最好的滑雪场的门户。"
+    },
+    {
+      "en": "Don't stand there blocking the gateway!",
+      "cn": "不要站在那儿挡住门口!"
+    },
+    {
+      "en": "From the gateway two paths led obliquely across the court.",
+      "cn": "从门口那儿,有两条小路斜越过院子."
+    },
+    {
+      "en": "Hard work is the gateway to success.",
+      "cn": "努力工作是通往成功之路."
+    },
+    {
+      "en": "He walked across the park and through a gateway.",
+      "cn": "他穿过公园，走过一道大门。"
+    },
+    {
+      "en": "If the IP address is assigned statically, a gateway must be present.",
+      "cn": "如果IP地址是静态分配的, 则网关一定会显示."
+    },
+    {
+      "en": "In general, the term gateway refers to a link between two different systems.",
+      "cn": "一般讲, 网间连接装置(gateway)指的是两个不同的系统间的一种链接(link)."
+    },
+    {
+      "en": "In SNA network, an NCP that provides gateway functions for a 9370 distributed network.",
+      "cn": "在系统网络体系结构(SNA)中存在的一种网络控制程序, 它可以为诸如9370这样的分布型网络提供网关功能."
+    },
+    {
+      "en": "Lyons is the gateway to the Alps for motorists driving out from Britain.",
+      "cn": "里昂是从英国驱车前往阿尔卑斯山的门户。"
+    },
+    {
+      "en": "The car is parked at the gateway.",
+      "cn": "车停在大门口."
+    },
+    {
+      "en": "The car parked at the gateway.",
+      "cn": "车停在大门口。"
+    },
+    {
+      "en": "The guests had all arrived, and the gateway was crowded with coaches.",
+      "cn": "宾客们都到了, 门口车水马龙."
+    },
+    {
+      "en": "The port of Dover is England's gateway to Europe.",
+      "cn": "多佛港是英国进入欧洲的大门."
+    },
+    {
+      "en": "They turned through the gateway on the left.",
+      "cn": "他们穿过出入口向左转去。"
+    },
+    {
+      "en": "To the intellectually adventurous and the ambitious it was the gateway to a wider world.",
+      "cn": "对于求知欲和抱负大的人来说,它乃是通向广阔天地的途径."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "door",
+            "enteral",
+            "opening",
+            "portal"
+          ],
+          "tran_cn": "门;出入口"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "mouth",
+            "threshold"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "border gateway",
+      "tran_cn": "边界网关（位于自治域之间的路由器）"
+    },
+    {
+      "phrase": "border gateway protocol",
+      "tran_cn": "边界网关协议"
+    },
+    {
+      "phrase": "default gateway",
+      "tran_cn": "默认网关；缺省网关"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "门，入口，途径",
+      "tran_en": "the opening in a fence, wall etc that can be closed by a gate"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "gateways"
+    ]
+  }
+}

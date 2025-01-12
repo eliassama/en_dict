@@ -1,0 +1,126 @@
+{
+  "word": "gyrate",
+  "ipa": {
+    "us": "dʒaɪˈreɪt",
+    "uk": "ˈdʒaɪreɪt"
+  },
+  "sentences": [
+    {
+      "en": "Gyrate The dancers gyrated wildly to the strong beat of the music.",
+      "cn": "跳舞者随着音乐的强烈节奏而猛烈地旋转着."
+    },
+    {
+      "en": "Interest rates began to gyrate up towards 20 per cent in 1980 and then down and up again.",
+      "cn": "1980年利率开始攀升至20%，随后又起伏不定。"
+    },
+    {
+      "en": "The dancers gyrated wildly to the beat of the music.",
+      "cn": "舞蹈员随着音乐的节奏疯狂地旋转起舞。"
+    },
+    {
+      "en": "The woman began to gyrate to the music.",
+      "cn": "这位女子开始随着音乐旋转。"
+    },
+    {
+      "en": "You can't gyrate your hips, bend over backwards, dip your partner, or do any other fancy (and calorie burning) dance moves if you can't control your core muscles.",
+      "cn": "如果你不能控制好你的核心肌肉，你就不能扭动臀部、向后弯曲、转动你的搭档，或者做其他一些有奇特的花样（燃烧卡路里）。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "gyral",
+          "tran_cn": " 旋转的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gyration",
+          "tran_cn": " 旋转，[力] 回转；螺层"
+        },
+        {
+          "word": "gyre",
+          "tran_cn": " 回转；旋回；旋转"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "gyre",
+          "tran_cn": " 旋回"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "eddy",
+            "purl",
+            "revolve",
+            "swirl",
+            "whirlpool"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "wheel",
+            "circle",
+            "spin",
+            "go round and round"
+          ],
+          "tran_cn": "[机]旋转"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "旋转的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "旋转, 不停地转动",
+      "tran_en": "to turn around fast in circles"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "旋转，回旋"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "gyrates"
+    ],
+    "past": [
+      "gyrated"
+    ],
+    "done": [
+      "gyrated"
+    ],
+    "ing": [
+      "gyrating"
+    ],
+    "noun": [
+      "gyration"
+    ]
+  }
+}

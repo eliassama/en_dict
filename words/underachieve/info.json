@@ -1,0 +1,54 @@
+{
+  "word": "underachieve",
+  "ipa": {
+    "us": "ˌʌndərəˈtʃi:v",
+    "uk": "ˌʌndərə'tʃiv"
+  },
+  "sentences": [
+    {
+      "en": "Some people might think I've underachieved in my job.",
+      "cn": "有些人可能觉得我工作表现不佳。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "underachievement",
+          "tran_cn": " 低成就；学习成绩不良"
+        },
+        {
+          "word": "underachiever",
+          "tran_cn": " 后进生；学校学习成绩低于智商的学生"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "学习成绩不良，未能发挥学习潜能"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "underachieves"
+    ],
+    "past": [
+      "underachieved"
+    ],
+    "done": [
+      "underachieved"
+    ],
+    "ing": [
+      "underachieving"
+    ],
+    "noun": [
+      " underachiever",
+      "underachievement"
+    ]
+  }
+}

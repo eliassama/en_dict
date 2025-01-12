@@ -1,0 +1,134 @@
+{
+  "word": "settler",
+  "ipa": {
+    "us": "ˈsetlə(r)",
+    "uk": "ˈsetlər"
+  },
+  "sentences": [
+    {
+      "en": "A young settler on the beach said he understood what drove the militants.",
+      "cn": "沙滩上的一名年轻的定居者称他理解驱使武装分子的行为."
+    },
+    {
+      "en": "early settlers in Australia",
+      "cn": "澳大利亚的早期移民"
+    },
+    {
+      "en": "That shot was a settler; It'struck poor Sage right between wind and water.",
+      "cn": "那一枪是致命的, 它恰恰击中了可怜的塞奇的要害部位."
+    },
+    {
+      "en": "The results showed that the inclined plate settler was better than the gravity settler.",
+      "cn": "结果表明斜板沉降器对含有表面活性剂存在的物系,具有较好的分离特性."
+    },
+    {
+      "en": "The settler got the house at a nominal price.",
+      "cn": "移居者象征性地花点钱买下了这栋房子."
+    },
+    {
+      "en": "The settler may be a beneficiary and may also be the only under the same trust.",
+      "cn": "委托人可以是受益人,也可以是同一信托的唯一受益人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "settled",
+          "tran_cn": " 稳定的；固定的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "settle",
+          "tran_cn": " 有背长椅"
+        },
+        {
+          "word": "settlement",
+          "tran_cn": " 解决，处理；[会计] 结算；沉降；殖民"
+        },
+        {
+          "word": "settling",
+          "tran_cn": " 安置；固定；沉淀物；移居"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "settled",
+          "tran_cn": " 解决；定居（settle的过去分词）"
+        },
+        {
+          "word": "settling",
+          "tran_cn": " 解决；安居（settle的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "settle",
+          "tran_cn": " 解决；定居；沉淀；下陷"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "settle",
+          "tran_cn": " 解决；安排；使…定居"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "migrant",
+            "emigre"
+          ],
+          "tran_cn": "移居者；殖民者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "colonial",
+            "colonist",
+            "pilgrim",
+            "pioneer",
+            "resident"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "移民，侨民，殖民者，决定者，定居者",
+      "tran_en": "someone who goes to live in a country or area where not many people like them have lived before, and that is a long way from any towns or cities"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "settlers"
+    ]
+  }
+}

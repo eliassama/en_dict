@@ -1,0 +1,120 @@
+{
+  "word": "corrugate",
+  "ipa": {
+    "us": "'kɒrʊgeɪt",
+    "uk": "ˈkɔrəˌɡet, ˈkɑr-"
+  },
+  "sentences": [
+    {
+      "en": "Good stiffness, outer cover of corrugate or smooth surface finished is weather proof.",
+      "cn": "胶管具有较好的挺性, 外胶层耐老化,表面有波纹型和平面型两种."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "corrugated",
+          "tran_cn": " 波纹的；缩成皱纹的；有瓦楞的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "corrugation",
+          "tran_cn": " 起皱；皱状；灌水沟；波纹成形"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "corrugated",
+          "tran_cn": " （使）起皱纹（corrugate的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "crinkly",
+            "ruffly"
+          ],
+          "tran_cn": "起皱的；波状的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "purse"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "wrinkle",
+            "crease"
+          ],
+          "tran_cn": "起皱；缩成皱状"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "pucker"
+          ],
+          "tran_cn": "使起皱；成波状"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "皱，车辙，畦，沟"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "弄皱, 起皱, (使)成波状",
+      "tran_en": "to fold or be folded into alternate furrows and ridges "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（使某物）起皱褶，起皱纹，起波纹"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "corrugates"
+    ],
+    "past": [
+      "corrugated"
+    ],
+    "done": [
+      "corrugated"
+    ],
+    "ing": [
+      "corrugating"
+    ]
+  }
+}

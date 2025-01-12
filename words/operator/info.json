@@ -1,0 +1,265 @@
+{
+  "word": "operator",
+  "ipa": {
+    "us": "ˈɒpəreɪtə(r)",
+    "uk": "ˈɑːpəreɪtər"
+  },
+  "sentences": [
+    {
+      "en": "A blade guard is fitted to protect the operator.",
+      "cn": "为保证操作人员的人身安全安装了桨叶保护罩。"
+    },
+    {
+      "en": "a semi-skilled machine operator",
+      "cn": "半熟练机器操作员"
+    },
+    {
+      "en": "A telephone operator asked him to hold.",
+      "cn": "电话接线员让他不要挂断。"
+    },
+    {
+      "en": "An operator wearing earphone was sitting in the telephone exchange.",
+      "cn": "戴耳机的接线员正坐在总机室里."
+    },
+    {
+      "en": "Check the operator'sproductivity against agreed targets.",
+      "cn": "根据既定目标检验操作员的效率。"
+    },
+    {
+      "en": "computers which can be used by untrained operators",
+      "cn": "未经训练的操作者也可使用的电脑"
+    },
+    {
+      "en": "He is a computer operator.",
+      "cn": "他是个电脑操作员."
+    },
+    {
+      "en": "He was a smart operator. Don't underestimate him.",
+      "cn": "他这个人精明圆滑，可别小瞧了他。"
+    },
+    {
+      "en": "Hello, operator? Could you put me through to Room 31?",
+      "cn": "喂，接线员吗？请帮我接31号房间。"
+    },
+    {
+      "en": "I became a ham radio operator at the age of eleven.",
+      "cn": "我在11岁时成了一名业余无线电操作员。"
+    },
+    {
+      "en": "Operator, I want to make a long distance call.",
+      "cn": "话务员, 我要打长途电话."
+    },
+    {
+      "en": "Operator, you've connected me to the wrong person again!",
+      "cn": "接线员, 你又把我的电话接错啦!"
+    },
+    {
+      "en": "She had worked as a call centre operator making cold calls for time-share holidays.",
+      "cn": "她曾经在话务中心当过话务员，负责打电话推销分时度假。"
+    },
+    {
+      "en": "The operator expects the ship to be out of commission until the end of September.",
+      "cn": "技工预计这艘船到9月底才能修好。"
+    },
+    {
+      "en": "The operator told the caller that the line is busy.",
+      "cn": "接线员告诉打电话的人对方电话占线."
+    },
+    {
+      "en": "The operator will put you through.",
+      "cn": "接线员会为你接通电话。"
+    },
+    {
+      "en": "The telephone operator connected us.",
+      "cn": "话务员给我们接通了电话."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "operant",
+          "tran_cn": " 操作的；有效的"
+        },
+        {
+          "word": "operating",
+          "tran_cn": " 操作的；[外科] 外科手术的"
+        },
+        {
+          "word": "operational",
+          "tran_cn": " 操作的；运作的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "operand",
+          "tran_cn": " [计] 操作数；[计] 运算对象"
+        },
+        {
+          "word": "operant",
+          "tran_cn": " 自发反应；操作性制约；发生作用之人或物"
+        },
+        {
+          "word": "operation",
+          "tran_cn": " 操作；经营；[外科] 手术；[数][计] 运算"
+        },
+        {
+          "word": "operationalism",
+          "tran_cn": " 操作主义（等于operationism）"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "operating",
+          "tran_cn": " 操作（operate的ing形式）；动手术"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "operate",
+          "tran_cn": " 运转；动手术；起作用"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "operate",
+          "tran_cn": " 操作；经营；引起；对…开刀"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "expert",
+            "proprietor"
+          ],
+          "tran_cn": "[经管]经营者；[计]操作员；[通信]话务员；行家"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agent",
+            "pilot",
+            "worker"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "assignment operator",
+      "tran_cn": "赋值运算符"
+    },
+    {
+      "phrase": "boolean operator",
+      "tran_cn": "逻辑算子；布尔操作符"
+    },
+    {
+      "phrase": "computer operator",
+      "tran_cn": "n. 电脑操作人员"
+    },
+    {
+      "phrase": "differential operator",
+      "tran_cn": "微分算子；微分算符"
+    },
+    {
+      "phrase": "human operator",
+      "tran_cn": "人操作者， 操妆"
+    },
+    {
+      "phrase": "integral operator",
+      "tran_cn": "积分算子"
+    },
+    {
+      "phrase": "linear operator",
+      "tran_cn": "线性算符；线性算子；线性操作数（等于linear transformation）"
+    },
+    {
+      "phrase": "logical operator",
+      "tran_cn": "逻辑算子，逻辑算符"
+    },
+    {
+      "phrase": "machine operator",
+      "tran_cn": "机器操作员"
+    },
+    {
+      "phrase": "network operator",
+      "tran_cn": "网络运营者；网路操作者；网络算子"
+    },
+    {
+      "phrase": "operator overloading",
+      "tran_cn": "操作符重载；运算元多载"
+    },
+    {
+      "phrase": "operator precedence",
+      "tran_cn": "算符优先；[计]操作优先"
+    },
+    {
+      "phrase": "operator site",
+      "tran_cn": "操作入口站点"
+    },
+    {
+      "phrase": "operator station",
+      "tran_cn": "[计]操作员站；操作员控制台"
+    },
+    {
+      "phrase": "projection operator",
+      "tran_cn": "投影算符；射影算子"
+    },
+    {
+      "phrase": "switchboard operator",
+      "tran_cn": "接线员"
+    },
+    {
+      "phrase": "telephone operator",
+      "tran_cn": "话务员"
+    },
+    {
+      "phrase": "terminal operator",
+      "tran_cn": "终端操妆"
+    },
+    {
+      "phrase": "tour operator",
+      "tran_cn": "旅行社；包价旅游承办商"
+    },
+    {
+      "phrase": "train operator",
+      "tran_cn": "培训生产员工；火车司机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "经营者，操作员，电话接线员，运算符",
+      "tran_en": "someone who operates a machine or piece of equipment"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "operators"
+    ]
+  }
+}

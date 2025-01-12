@@ -1,0 +1,99 @@
+{
+  "word": "impound",
+  "ipa": {
+    "us": "ɪmˈpaʊnd",
+    "uk": "ɪmˈpaʊnd"
+  },
+  "sentences": [
+    {
+      "en": "He sued the police after they impounded his car.",
+      "cn": "警察扣押他的车后他提起诉讼。"
+    },
+    {
+      "en": "I'll need to write you a ticket and impound your vehicle.",
+      "cn": "我必须开罚单给你,并且扣留你的车子."
+    },
+    {
+      "en": "If you leave your car beside the town hall, the police will impound it.",
+      "cn": "如果你把汽车停放在市政大厅旁边, 警察就会把它扣押."
+    },
+    {
+      "en": "If you leave your car there, the police will impound it.",
+      "cn": "如果你把汽车停放在那儿, 警察就会把它扣押."
+    },
+    {
+      "en": "Impound the taxpayer's taxable commodities, goods the value of to the amount of tax payable.",
+      "cn": "不缴纳的,税务机关可以扣押其价值相当于应纳税款的商品 、 货物."
+    },
+    {
+      "en": "The custom impound the whole cargo.",
+      "cn": "海关扣押了全部的船货."
+    },
+    {
+      "en": "We'll need to impound your car.",
+      "cn": "我们要扣留你的车辆."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "impoundment",
+          "tran_cn": " 蓄水；扣留"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cage"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "hold",
+            "sequestrate"
+          ],
+          "tran_cn": "没收；拘留；将…关在圈中"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "关在栏中, 拘留, 扣押, 没收",
+      "tran_en": "if the police or law courts impound something you have or own, they keep it until it has been decided that you can have it back"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "将…关起来，扣押，监禁，搁置，保留，蓄水"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "impounds"
+    ],
+    "past": [
+      "impounded"
+    ],
+    "done": [
+      "impounded"
+    ],
+    "ing": [
+      "impounding"
+    ]
+  }
+}

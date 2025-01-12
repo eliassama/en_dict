@@ -1,0 +1,87 @@
+{
+  "word": "resettle",
+  "ipa": {
+    "us": "ˌriːˈsetl",
+    "uk": " ˌriːˈsetl"
+  },
+  "sentences": [
+    {
+      "en": "Finally, the Jews were allowed to resettle in England legally by an accidental affair.",
+      "cn": "最后因为一次偶然事件, 犹太人获准重新回到英国."
+    },
+    {
+      "en": "He got congress to appropriate $ 25 million to resettle destitute families on farms.",
+      "cn": "他叫国会拨款二千五百万美元在农村安置贫困的家庭."
+    },
+    {
+      "en": "Hundreds of Hmong have managed to escape Laos and resettle in foreign countries as refugees.",
+      "cn": "数百赫蒙族人设法逃离老挝定居国外,这些人成为了难民."
+    },
+    {
+      "en": "The area was resettled in the latter half of the century.",
+      "cn": "在该世纪下半叶这个地区重新有人定居。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "resettlement",
+          "tran_cn": " 重新安置"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "migrate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "resettle oneself",
+      "tran_cn": "再坐下来"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "(使)重新定居,再坐下来",
+      "tran_en": "to start using an area again as a place to live"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（土地、地区等）重新成为定居点"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "帮助（尤指难民）定居他国"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "resettles"
+    ],
+    "past": [
+      "resettled"
+    ],
+    "done": [
+      "resettled"
+    ],
+    "ing": [
+      "resettling"
+    ],
+    "noun": [
+      "resettlement"
+    ]
+  }
+}

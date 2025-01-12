@@ -1,0 +1,110 @@
+{
+  "word": "egress",
+  "ipa": {
+    "us": "ˈi:gres",
+    "uk": "ˈiˌɡrɛs"
+  },
+  "sentences": [
+    {
+      "en": "A high seating position makes ingress and egress easy.",
+      "cn": "较高的座椅位置使入口和出口容易."
+    },
+    {
+      "en": "Fire escape Means of rapid egress from a Building, primarily intended for use in of fire.",
+      "cn": "太平梯:主要用于大楼发生火灾时将人员迅速撤离险境的安全出口设施."
+    },
+    {
+      "en": "I guessed, by his preparations, that egress was allowed, and, leaving my hard couch , made a movement to follow him.",
+      "cn": "看他作的准备, 我猜他允许我走了, 我离开我的硬座, 打算跟他走."
+    },
+    {
+      "en": "LSR and egress LER receive and transmit labeled packets, executing ILM ( incoming Label Map ) forwarder.",
+      "cn": "标记交换路由器(LSR ) 和出口LER接收 、传送标记包, 执行ILM ( 入口标记映射)转发."
+    },
+    {
+      "en": "Means of rapid egress from a Building, primarily intended for use in case of fire.",
+      "cn": "主要用于大楼发生火灾时将人员迅速撤离险境的安全出口设施."
+    },
+    {
+      "en": "Prevents egress of the latter through the unsealed portion.",
+      "cn": "阻止后者通过未接合部分出来."
+    },
+    {
+      "en": "Safe access and egress can be achieved by various methods.",
+      "cn": "可以采用各种方法安全的进入或离开。"
+    },
+    {
+      "en": "So assuming he's anticipated the fastest egress, it's the east terrace.",
+      "cn": "所以假设他预计的是最快出口那么他在东部平台."
+    },
+    {
+      "en": "The secured area should meet all life safety code egress requirements.",
+      "cn": "受保护区域要满足所有的生命安全法规对出口的要求."
+    },
+    {
+      "en": "These frequently egress the work professional public figure's best choice.",
+      "cn": "那些经常外出办公的职业人士的最佳选择."
+    },
+    {
+      "en": "Traditionally, the physical infrastructure providers control the underlying hardware; they provide the cloud tenant with egress and ingress at the most fundamental level. ",
+      "cn": "传统上，物理设备供应商控制底层硬件； 它们提供给租户基础层上的出口和入口；"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "egression",
+          "tran_cn": " 外出"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "exit",
+            "going out"
+          ],
+          "tran_cn": "外出；出口"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "outlet"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "stay away",
+            "go outside"
+          ],
+          "tran_cn": "外出"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "外出，出路，出口，运出",
+      "tran_en": "the act of leaving a building or place, or the right to do this"
+    }
+  ],
+  "exchange": {}
+}

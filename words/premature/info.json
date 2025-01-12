@@ -1,0 +1,198 @@
+{
+  "word": "premature",
+  "ipa": {
+    "us": "ˈpremətʃə(r)",
+    "uk": "ˌpriːməˈtʃʊr , ˌpriːməˈtʊr"
+  },
+  "sentences": [
+    {
+      "en": "A fire caused the premature closing of the exhibition.",
+      "cn": "火灾迫使展览会提前结束."
+    },
+    {
+      "en": "Even very young premature babies respond to their mother's presence.",
+      "cn": "即使是很小的早产儿也会对母亲的出现做出反应。"
+    },
+    {
+      "en": "His career was brought to a premature end by a succession of knee injuries.",
+      "cn": "因为膝盖接二连三地受伤，他的职业生涯提前结束了。"
+    },
+    {
+      "en": "his premature death at the age of 37",
+      "cn": "他37岁时早逝"
+    },
+    {
+      "en": "his premature death due to cancer",
+      "cn": "他因癌症而早逝"
+    },
+    {
+      "en": "I had been a little too premature in coming to this conclusion.",
+      "cn": "作出这样的结论,我有点太草率."
+    },
+    {
+      "en": "I think it's premature for restaurants to come out with that advice.",
+      "cn": "我认为餐馆提出那样的建议太草率了。"
+    },
+    {
+      "en": "It is premature to speculate about the resumption of negotiations.",
+      "cn": "现在猜测谈判是否会重新开始还为时过早。"
+    },
+    {
+      "en": "It is yet premature to predict the possible outcome of the dialogue.",
+      "cn": "预言这次对话可能有什么结果为时尚早."
+    },
+    {
+      "en": "It now seems their optimism was premature.",
+      "cn": "现在看来他们高兴得太早了。"
+    },
+    {
+      "en": "It would be premature to forecast the outcome.",
+      "cn": "预言结果还为时过早."
+    },
+    {
+      "en": "Others consider the move premature and have sounded a note of caution.",
+      "cn": "其他人认为采取这个行动为时尚早，对此提出了警告。"
+    },
+    {
+      "en": "premature ageing of the skin",
+      "cn": "皮肤的早衰"
+    },
+    {
+      "en": "Premature babies have to be fed intravenously.",
+      "cn": "早产婴儿必须靠静脉输入喂养。"
+    },
+    {
+      "en": "Premature birth is three times more likely for twins, and delivery at 36 to 38 weeks is normal.",
+      "cn": "双胞胎的早产率要比一般的高出两倍，在36到38周之间分娩很正常。"
+    },
+    {
+      "en": "She was a bit too premature in giving up this job.",
+      "cn": "她放弃这份工作似嫌太草率."
+    },
+    {
+      "en": "The premature baby is doing well.",
+      "cn": "那个早产的婴儿很健康."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "prematurely",
+          "tran_cn": " 过早地；早熟地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "advanced",
+            "early",
+            "forward",
+            "soon",
+            "too"
+          ],
+          "tran_cn": "早的;先进的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "pronatis"
+          ],
+          "tran_cn": "早产儿；过早发生的事物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abortive",
+            "advanced",
+            "early",
+            "forward",
+            "forwards",
+            "hasty",
+            "headlong",
+            "late",
+            "or",
+            "precocious"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "premature babies",
+      "tran_cn": "早产儿室；早产的婴儿"
+    },
+    {
+      "phrase": "premature beat",
+      "tran_cn": "[医]过早搏动"
+    },
+    {
+      "phrase": "premature birth",
+      "tran_cn": "早产"
+    },
+    {
+      "phrase": "premature death",
+      "tran_cn": "过早死亡；早逝"
+    },
+    {
+      "phrase": "premature delivery",
+      "tran_cn": "n. 早产"
+    },
+    {
+      "phrase": "premature ejaculation",
+      "tran_cn": "早泄，射精过早"
+    },
+    {
+      "phrase": "premature failure",
+      "tran_cn": "过早失效；过早破坏"
+    },
+    {
+      "phrase": "premature infant",
+      "tran_cn": "早产儿"
+    },
+    {
+      "phrase": "premature labor",
+      "tran_cn": "早产"
+    },
+    {
+      "phrase": "premature ovarian failure",
+      "tran_cn": "卵巢功能早衰"
+    },
+    {
+      "phrase": "premature rupture of membrane",
+      "tran_cn": "胎膜早破"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "过早的，提前的，早产的，草率的",
+      "tran_en": "happening before the natural or proper time"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "早产儿"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "prematurely"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "word": "hyperbola",
+  "ipa": {
+    "us": "haɪˈpɜ:bələ",
+    "uk": "haɪˈpɜrbələ"
+  },
+  "sentences": [
+    {
+      "en": "A hyperbola approaches but does not meet its asymptote.",
+      "cn": "双曲线逐渐接近它的渐近线但不相交."
+    },
+    {
+      "en": "According to the relationship between hyperbola and its normal, the analytic equation is discussed.",
+      "cn": "根据双曲线与其法线的几何特征关系建立了求解法线的解析方程,分析了法线问题解析求解的繁杂性."
+    },
+    {
+      "en": "Another is to intenerate the input vectors by hyperbola tangent function.",
+      "cn": "二是采用双曲线正切函数柔化输入矢量."
+    },
+    {
+      "en": "Construct hyperbola and the ellipse by taking the inversion.",
+      "cn": "[利用反逆法作双曲线及椭圆]."
+    },
+    {
+      "en": "I should be looking only on the hyperbola.",
+      "cn": "我应该只看双曲线上的点就足够了。"
+    },
+    {
+      "en": "If you look at this point where the hyperbola and the circle touch each other, first of all, I don't know which circle I am going to look at.",
+      "cn": "来看一下这一点,这里双曲线和圆刚好接触的地方，首先，我不知道我要看的是圆上面的哪一点。"
+    },
+    {
+      "en": "The demand curve is thus an equilateral hyperbola.",
+      "cn": "因此需求曲线是等轴双曲线."
+    },
+    {
+      "en": "The departure leg would be the mirror image of the inbound path ( a hyperbola or parabola ).",
+      "cn": "离开的路径会是进来路径的镜像,呈现双曲线或是 抛物线 的图形."
+    },
+    {
+      "en": "The duncan - Zhang E - B hyperbola model includes seven parameters.",
+      "cn": "Duncan-Zhang的E -B 双曲线模型共有7个参数,依据试验数据并按比例分别增减每个参数."
+    },
+    {
+      "en": "The method uses small random samples and the limits of a hyperbola.",
+      "cn": "帕克斯顿的方法采用了小范围随机抽样和双曲线的极限."
+    },
+    {
+      "en": "The relation between the chlorinity and porosity may be approximated by a hyperbola.",
+      "cn": "含氯量和孔隙度之间的关系图式也许近似于一条双曲线."
+    },
+    {
+      "en": "Yes, we can still find points on the hyperbola and so on.",
+      "cn": "我们仍然可以在双曲线上找到解。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "hyperbolic",
+          "tran_cn": " 双曲线的；夸张的"
+        },
+        {
+          "word": "hyperboloidal",
+          "tran_cn": " 双曲面的；北极的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "hyperbolic curve"
+          ],
+          "tran_cn": "[数]双曲线"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "双曲线",
+      "tran_en": "a conic section formed by a plane that cuts both bases of a cone; it consists of two branches asymptotic to two intersecting fixed lines and has two foci"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      " hyperbolae",
+      "hyperbolas"
+    ]
+  }
+}

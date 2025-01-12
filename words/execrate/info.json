@@ -1,0 +1,94 @@
+{
+  "word": "execrate",
+  "ipa": {
+    "us": "'eksɪkreɪt",
+    "uk": "ˈɛksɪˌkret"
+  },
+  "sentences": [
+    {
+      "en": "Shall execrate you with the ungodly.",
+      "cn": "咒骂你的不敬."
+    },
+    {
+      "en": "Those that bless you I will bless, those that curse you, I will execrate.",
+      "cn": "我将祝福那些祝福你的人, 我也将诅咒那些诅咒你的人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "execration",
+          "tran_cn": " 诅咒，憎恶；被诅咒之人或物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abominate",
+            "dislike",
+            "impute",
+            "thunder"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "make the air blue",
+            "Curse of Lola"
+          ],
+          "tran_cn": "诅咒"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "make the air blue",
+            "Curse of Lola"
+          ],
+          "tran_cn": "诅咒；憎恶；痛骂"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "痛骂, 憎恨, 憎恶, 诅咒",
+      "tran_en": "to express strong disapproval or hatred for someone or something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "憎恶，厌恶，诅咒，咒骂"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "execrates"
+    ],
+    "past": [
+      "execrated"
+    ],
+    "done": [
+      "execrated"
+    ],
+    "ing": [
+      "execrating"
+    ]
+  }
+}

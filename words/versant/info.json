@@ -1,0 +1,66 @@
+{
+  "word": "versant",
+  "ipa": {
+    "us": "'vɜ:sənt",
+    "uk": "'vɜsənt"
+  },
+  "sentences": [
+    {
+      "en": "Conifer forests cover the eastern versant.",
+      "cn": "东部山区被针叶树林覆盖."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "versed",
+          "tran_cn": " 精通的；熟练的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "experienced",
+            "skilled",
+            "familiar",
+            "accomplished",
+            "perfect"
+          ],
+          "tran_cn": "熟练的；熟悉的；通晓的；精通的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "hillside",
+            "mountainside"
+          ],
+          "tran_cn": "倾斜地带；山坡"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "熟悉的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "斜度，坡度，山坡地区，（指一地区的）坡度",
+      "tran_en": "rare the side or slope of a mountain or mountain range "
+    }
+  ],
+  "exchange": {}
+}

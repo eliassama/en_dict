@@ -1,0 +1,60 @@
+{
+  "word": "diaphoresis",
+  "ipa": {
+    "us": "ˌdaɪəfə'ri:sɪs",
+    "uk": "ˌdaɪəfə'risɪs"
+  },
+  "sentences": [
+    {
+      "en": "I was overwhelmed with excitement, and became acutely aware of my own tachycardia and diaphoresis.",
+      "cn": "我当时兴奋极了，并且敏锐地发现自己出现了心动过速与发汗。"
+    },
+    {
+      "en": "Pheochromocytomas usually present with hypertension and the symptom triad of headaches, diaphoresis and palpitations.",
+      "cn": "典型的嗜铬细胞瘤个案之临床表现通常是血压升高、头痛、冒汗及心跳过速。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "diaphoretic",
+          "tran_cn": " 发汗的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "diaphoretic",
+          "tran_cn": " 发汗剂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sudation",
+            "sweating"
+          ],
+          "tran_cn": "[医]发汗"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "发汗",
+      "tran_en": "a technical name for sweating "
+    }
+  ],
+  "exchange": {}
+}

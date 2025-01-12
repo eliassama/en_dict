@@ -1,0 +1,160 @@
+{
+  "word": "investor",
+  "ipa": {
+    "us": "ɪnˈvestə(r)",
+    "uk": "ɪnˈvɛstɚ"
+  },
+  "sentences": [
+    {
+      "en": "A canny investor would need to predict when the dollar will once more start tumbling.",
+      "cn": "精明的投资者需要预计到美元何时会再次大跌。"
+    },
+    {
+      "en": "A very good investor will outguess the market.",
+      "cn": "精明的投资者能准确预测市场。"
+    },
+    {
+      "en": "An unfavorable depreciation allowance may keep the foreign investor out.",
+      "cn": "不利的折旧率也会将外国投资者拒之门外."
+    },
+    {
+      "en": "Ask the investor to check the correctness of what he has written.",
+      "cn": "让投资人检查一下他所写的是否正确。"
+    },
+    {
+      "en": "If the owner cannot produce cash, some of the stock is sold at the investor's loss.",
+      "cn": "如果他拿不出现金, 就得卖掉部分股票,损失由投资者承担."
+    },
+    {
+      "en": "My nephew is a cautious investor.",
+      "cn": "我侄子是个小心谨慎的投资者."
+    },
+    {
+      "en": "On option market the gain of butterfly spread investor is random.",
+      "cn": "期权市场蝶状价差的投资者获益具有随机性."
+    },
+    {
+      "en": "Somebody who is a foreign investor and more sensitive about the public profile will be more impacted by that pressure.",
+      "cn": "对公众形象较注意的外国投资者会更多地受到那种压力的影响。"
+    },
+    {
+      "en": "That means an investor rush to redeem the bonds could delay payment.",
+      "cn": "这意味着一位投资者急于兑现可能会导致付款推迟."
+    },
+    {
+      "en": "The aim of the service was to offer everything the independent investor wanted, bar advice.",
+      "cn": "该项服务的目的就是向独立投资者提供除建议外他们想要的一切。"
+    },
+    {
+      "en": "The investment banker is the middleman between company and investor.",
+      "cn": "投资银行的主要功能就是为公司销售长期证券."
+    },
+    {
+      "en": "The investor believes that his investment will pay off handsomely soon.",
+      "cn": "这个投资者相信他的投资不久会有相当大的收益."
+    },
+    {
+      "en": "The investor can consider the broker's or experts'advice and recommendations.",
+      "cn": "投资者可以考虑一下股票经纪人或专家们的建议和推介."
+    },
+    {
+      "en": "The investor has substantial control over the foreign subsidiary enterprise.",
+      "cn": "投资者对于国外子公司具有实际的控制权."
+    },
+    {
+      "en": "The main investor in the project is the French bank Credit National.",
+      "cn": "该项目的主要投资商是法国的国民信贷银行。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "investment",
+          "tran_cn": " 投资；投入；封锁"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "invest",
+          "tran_cn": " 投资，入股；花钱买"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "invest",
+          "tran_cn": " 投资；覆盖；耗费；授予；包围"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "moneyman"
+          ],
+          "tran_cn": "[经]投资者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "capitalist"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "angel investor",
+      "tran_cn": "n. 天使投资者（用自己的资金投资一家初创公司的富人）"
+    },
+    {
+      "phrase": "foreign investor",
+      "tran_cn": "外国投资者"
+    },
+    {
+      "phrase": "individual investor",
+      "tran_cn": "个人投资者；散户"
+    },
+    {
+      "phrase": "institutional investor",
+      "tran_cn": "有组织的集体投资者；金融机构投资者"
+    },
+    {
+      "phrase": "investor confidence",
+      "tran_cn": "投资信心；投资者信任"
+    },
+    {
+      "phrase": "investor relations",
+      "tran_cn": "投资者关系；投资者关系部；股东关系"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "投资者，出资者，包围者，围攻者",
+      "tran_en": "someone who gives money to a company, business, or bank in order to get a profit"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "investors"
+    ]
+  }
+}

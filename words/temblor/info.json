@@ -1,0 +1,53 @@
+{
+  "word": "temblor",
+  "ipa": {
+    "us": "'temblə(r)",
+    "uk": "'temblər"
+  },
+  "sentences": [
+    {
+      "en": "...the 1906 temblor that struck San Francisco.",
+      "cn": "...1906年旧金山发生的大地震。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "earthquake",
+            "seismic event",
+            "seismos"
+          ],
+          "tran_cn": "（美）地震"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "eruption"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<美>地震",
+      "tran_en": "an  earthquake "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "temblors"
+    ]
+  }
+}

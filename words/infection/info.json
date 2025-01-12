@@ -1,0 +1,229 @@
+{
+  "word": "infection",
+  "ipa": {
+    "us": "ɪnˈfekʃn",
+    "uk": "ɪnˈfekʃn"
+  },
+  "sentences": [
+    {
+      "en": "A cold is an infection of the upper respiratory tract.",
+      "cn": "感冒是上呼吸道的感染。"
+    },
+    {
+      "en": "Always sterilize the needle to prevent infection.",
+      "cn": "注射针头每次都要消毒，以防感染。"
+    },
+    {
+      "en": "Antibiotics should be used to clear up the infection.",
+      "cn": "应该用抗生素消除感染。"
+    },
+    {
+      "en": "Athlete's foot is a fungal infection.",
+      "cn": "足癣是一种真菌感染。"
+    },
+    {
+      "en": "Cholera is a bacterial infection.",
+      "cn": "霍乱是一种细菌感染。"
+    },
+    {
+      "en": "Infection with head lice is no reflection on personal hygiene.",
+      "cn": "头上生虱子并不说明不讲个人卫生。"
+    },
+    {
+      "en": "Lili had a nasty chest infection.",
+      "cn": "莉莉胸部感染很严重。"
+    },
+    {
+      "en": "Our doctor diagnosed a throat infection and prescribed antibiotic and junior aspirin.",
+      "cn": "我们的医生诊断是喉部感染，并且开了一些抗生素和小剂量阿司匹林。"
+    },
+    {
+      "en": "She was on antibiotics for an eye infection that wouldn't go away.",
+      "cn": "由于眼睛感染一直不见好，她在服用抗生素。"
+    },
+    {
+      "en": "Taking long-term courses of certain medicines may increase vulnerability to infection.",
+      "cn": "长期服用某类药品可能会增加感染的可能性。"
+    },
+    {
+      "en": "The baby had an ear infection.",
+      "cn": "宝宝耳朵感染了。"
+    },
+    {
+      "en": "The likelihood of infection is minimal.",
+      "cn": "感染的可能性极小。"
+    },
+    {
+      "en": "There is lowered pain tolerance, lowered resistance to infection.",
+      "cn": "对疼痛的忍耐力降低了，对感染的抵抗力也减弱了。"
+    },
+    {
+      "en": "There was no danger of transmitting the infection through operations.",
+      "cn": "不存在通过手术传播这种传染病的风险。"
+    },
+    {
+      "en": "There's a time lag between infection with HIV and developing AIDS.",
+      "cn": "从感染艾滋病病毒到病发有一段滞后期。"
+    },
+    {
+      "en": "They've picked up a really nasty infection from something they've eaten.",
+      "cn": "他们因吃错东西而得了很严重的感染症。"
+    },
+    {
+      "en": "to be exposed to infection",
+      "cn": "暴露于易受感染的环境"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "infected",
+          "tran_cn": " 被感染的"
+        },
+        {
+          "word": "infectious",
+          "tran_cn": " 传染的；传染性的；易传染的"
+        },
+        {
+          "word": "infective",
+          "tran_cn": " 有传染性的，感染别人的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "infected",
+          "tran_cn": " 传染（infect的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "infect",
+          "tran_cn": " 感染，传染"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "impression",
+            "affection",
+            "effect",
+            "influence",
+            "incidence"
+          ],
+          "tran_cn": "[医]感染；[内科]传染；影响；传染病"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ailment",
+            "complaint"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acute infection",
+      "tran_cn": "急性感染；急性传染"
+    },
+    {
+      "phrase": "bacterial infection",
+      "tran_cn": "细菌感染"
+    },
+    {
+      "phrase": "chronic infection",
+      "tran_cn": "慢性感染；慢性传染"
+    },
+    {
+      "phrase": "cross infection",
+      "tran_cn": "交叉传染"
+    },
+    {
+      "phrase": "fungal infection",
+      "tran_cn": "真菌感染；霉菌感染"
+    },
+    {
+      "phrase": "infection rate",
+      "tran_cn": "感染率"
+    },
+    {
+      "phrase": "latent infection",
+      "tran_cn": "潜伏性感染"
+    },
+    {
+      "phrase": "local infection",
+      "tran_cn": "[医]局部感染；局部传染"
+    },
+    {
+      "phrase": "nosocomial infection",
+      "tran_cn": "院内感染，医院感染"
+    },
+    {
+      "phrase": "opportunistic infection",
+      "tran_cn": "机会性感染"
+    },
+    {
+      "phrase": "persistent infection",
+      "tran_cn": "持续感染；持续性感染"
+    },
+    {
+      "phrase": "secondary infection",
+      "tran_cn": "继发感染"
+    },
+    {
+      "phrase": "systemic infection",
+      "tran_cn": "系统感染；全身感染"
+    },
+    {
+      "phrase": "upper respiratory tract infection",
+      "tran_cn": "上呼吸道感染"
+    },
+    {
+      "phrase": "urinary infection",
+      "tran_cn": "泌尿系感染；尿道感染"
+    },
+    {
+      "phrase": "urinary tract infection",
+      "tran_cn": "尿路感染；尿道发炎"
+    },
+    {
+      "phrase": "viral infection",
+      "tran_cn": "病毒性感染"
+    },
+    {
+      "phrase": "virus infection",
+      "tran_cn": "病毒感染"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<医>传染，感染，传染病，染毒物，影响",
+      "tran_en": "a disease that affects a particular part of your body and is caused by bacteria or a virus"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "infections"
+    ]
+  }
+}

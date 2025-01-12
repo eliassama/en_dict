@@ -1,0 +1,105 @@
+{
+  "word": "scintillate",
+  "ipa": {
+    "us": "'sɪntɪleɪt",
+    "uk": "ˈsɪntlˌet"
+  },
+  "sentences": [
+    {
+      "en": "Her eyes scintillate anger.",
+      "cn": "她的眼睛闪烁着愤怒的光芒."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "scintillant",
+          "tran_cn": " 闪烁的；产生火花的"
+        },
+        {
+          "word": "scintillating",
+          "tran_cn": " 闪烁的；才气横溢的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "scintilla",
+          "tran_cn": " 火花；闪烁；微量"
+        },
+        {
+          "word": "scintillation",
+          "tran_cn": " 闪烁；发出火花；才华横溢"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "scintillating",
+          "tran_cn": " 闪耀（scintillate的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blink"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "coruscate",
+            "spark"
+          ],
+          "tran_cn": "发出火花；闪烁"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "发出火花, 闪耀光芒",
+      "tran_en": "to give off (sparks); sparkle; twinkle "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（言谈举止中）焕发才智，谈笑洒脱，闪耀，闪烁"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "发（出）（火花等）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "scintillates"
+    ],
+    "past": [
+      "scintillated"
+    ],
+    "done": [
+      "scintillated"
+    ],
+    "ing": [
+      "scintillating"
+    ]
+  }
+}

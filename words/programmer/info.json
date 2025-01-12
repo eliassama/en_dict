@@ -1,0 +1,153 @@
+{
+  "word": "programmer",
+  "ipa": {
+    "us": "ˈprəʊɡræmə(r)",
+    "uk": "ˈproʊɡræmər"
+  },
+  "sentences": [
+    {
+      "en": "A block with a length that can be established by a programmer.",
+      "cn": "其长度可由程序员指定的一种数据块."
+    },
+    {
+      "en": "An identifier created by the programmer to denote a program, constant, type, variable, procedure, or function.",
+      "cn": "一种由程序员建立的标识符,用以指明程序 、 常数 、 类型 、 变量 、 过程或操作功能."
+    },
+    {
+      "en": "Assisting the NC programmer to build modelling and prepare NC program.",
+      "cn": "协助数控编程工程师建模和准备程序."
+    },
+    {
+      "en": "But a programmer worked out how to do this for Microsoft a year ago.",
+      "cn": "不过一名程序员一年前就知道怎么为微软做到这点。"
+    },
+    {
+      "en": "His supervisor recommended that he be promoted to junior programmer.",
+      "cn": "他的上司推荐他晋升为初级程序员."
+    },
+    {
+      "en": "Mike found a challenging job as a computer programmer.",
+      "cn": "迈克找到一份做计算机程序员的富有挑战性的工作。"
+    },
+    {
+      "en": "Naturally, the contents of these registers have been specified by the programmer for each device.",
+      "cn": "当然, 这些寄存器的内容已由程序员针对每个设备加以规定了."
+    },
+    {
+      "en": "Right now , serious programmer - type readers are beginning to squirm in their seats.",
+      "cn": "说到这里, 严肃的程序员立即开始局促不安."
+    },
+    {
+      "en": "The computer programmer botched (up) the job and had to start over.",
+      "cn": "计算机程序设计员把文件弄坏了，只好重做。"
+    },
+    {
+      "en": "The programmer contains only the primary function controls.",
+      "cn": "该种程序器只具有基本功能的控制件."
+    },
+    {
+      "en": "The programmer forms the heart of the process chromatograph.",
+      "cn": "程序控制器是色谱仪的关键部件."
+    },
+    {
+      "en": "This element allows the programmer to take a set of nodes, group it by some criteria, and then process each group formed by that selection process.",
+      "cn": "这个元素允许程序员获取一组节点，按某些标准来进行分组，然后处理由那一选择过程组成的每一个组。"
+    },
+    {
+      "en": "This has served me well in my analyst/programmer jobs over the years.",
+      "cn": "这一点对我这些年的分析师/程序员工作很有帮助。"
+    },
+    {
+      "en": "This preserves the logical groupings established by the programmer.",
+      "cn": "这保存了程序员建立的合理分组."
+    },
+    {
+      "en": "This programmer is designed on a modular basis.",
+      "cn": "这程序器是在标准组件的基础上设计的."
+    },
+    {
+      "en": "Thus the customer tests and programmer tests are a critical enabling factor.",
+      "cn": "因此客户测试和程序员测试都是有效的评价因素."
+    },
+    {
+      "en": "To make the computer work at full capacity, the programmer has to think like the machine.",
+      "cn": "为了让计算机充分发挥作用，程序员就得像计算机一样思考。"
+    },
+    {
+      "en": "Trying to do this will help clarify the problem and test the programmer's understanding of it.",
+      "cn": "尽力这样做能够帮助阐明问题且有助于检验程序员对该问题的理解."
+    },
+    {
+      "en": "Type M programmer is available in four models.",
+      "cn": "M型程序单元有四种系列."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "program",
+          "tran_cn": " 程序；计划；大纲"
+        },
+        {
+          "word": "programme",
+          "tran_cn": " 计划，规划；节目；程序"
+        },
+        {
+          "word": "programming",
+          "tran_cn": " 设计，规划；编制程序，[计] 程序编制"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "program",
+          "tran_cn": " 编程序；安排节目；设计电脑程式"
+        },
+        {
+          "word": "programme",
+          "tran_cn": " 编程序；制作节目"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "program",
+          "tran_cn": " 用程序指令；为…制订计划；为…安排节目"
+        },
+        {
+          "word": "programme",
+          "tran_cn": " 规划；拟…计划"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "application programmer",
+      "tran_cn": "n. 应用程序员"
+    },
+    {
+      "phrase": "computer programmer",
+      "tran_cn": "n. 计算机程序设计员"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[计] 程序设计者，程序设计器，节目编排者，订计划者",
+      "tran_en": "someone whose job is to write computer programs"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "programmers"
+    ]
+  }
+}

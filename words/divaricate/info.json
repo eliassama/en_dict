@@ -1,0 +1,125 @@
+{
+  "word": "divaricate",
+  "ipa": {
+    "us": "daɪ'værɪkeɪt",
+    "uk": "daɪ'værəˌkeɪt"
+  },
+  "sentences": [
+    {
+      "en": "At this location the two roads divaricate.",
+      "cn": "两路在此地点分开."
+    },
+    {
+      "en": "Fruiting pedicels slender or thickened and nearly as wide as fruit, erect, ascending, divaricate , or reflexed.",
+      "cn": "纤细的或加厚和差不多作为宽作为果，直立，上升，极叉开，或反折的果梗。"
+    },
+    {
+      "en": "The two roads divaricate here.",
+      "cn": "两条道路在此分叉."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "divergent",
+          "tran_cn": " 相异的，分歧的；散开的"
+        },
+        {
+          "word": "diverging",
+          "tran_cn": " 发散的；分歧的；岔开的（等于divergent）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "divarication",
+          "tran_cn": " 分歧；分叉；意见不同；分支"
+        },
+        {
+          "word": "divergence",
+          "tran_cn": " 分歧"
+        },
+        {
+          "word": "divergency",
+          "tran_cn": " 分离；分歧"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "diverging",
+          "tran_cn": " 分叉；背离（diverge的现在分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "diverge",
+          "tran_cn": " 分歧；偏离；分叉；离题"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "diverge",
+          "tran_cn": " 使偏离；使分叉"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "biforked",
+            "forficate"
+          ],
+          "tran_cn": "[生物]分叉的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "forked"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "diverge"
+          ],
+          "tran_cn": "[生物]叉开；分歧"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "分为两叉",
+      "tran_en": "(esp of branches) to diverge at a wide angle "
+    }
+  ],
+  "exchange": {}
+}

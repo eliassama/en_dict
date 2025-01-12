@@ -1,0 +1,69 @@
+{
+  "word": "repine",
+  "ipa": {
+    "us": "rɪ'paɪn",
+    "uk": "rɪˈpaɪn"
+  },
+  "sentences": [
+    {
+      "en": "It does no good for you to repine at your unhappy lot.",
+      "cn": "你埋怨自己命苦是没有用的。"
+    },
+    {
+      "en": "This is the common fate of mortal men, useless it is to repine .",
+      "cn": "这是凡人的共同命运，抱怨也没有用。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "languish"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "beef about",
+            "rail against"
+          ],
+          "tran_cn": "抱怨；不满"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "抱怨",
+      "tran_en": "to be fretful or low-spirited through discontent "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "苦恼，埋怨"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "repines"
+    ],
+    "past": [
+      "repined"
+    ],
+    "done": [
+      "repined"
+    ],
+    "ing": [
+      "repining"
+    ]
+  }
+}

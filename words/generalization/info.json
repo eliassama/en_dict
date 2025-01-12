@@ -1,0 +1,180 @@
+{
+  "word": "generalization",
+  "ipa": {
+    "us": "ˌdʒenrəlaɪˈzeɪʃn",
+    "uk": "ˌdʒenrələˈzeɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Academic purpose will be served by building models that improve our conceptualisation or generalization.",
+      "cn": "理论上的目的是通过建立模型以改进我们的观念和一般概念而达到的."
+    },
+    {
+      "en": "Don't be hasty in generalization.",
+      "cn": "不要急于笼统地下结论."
+    },
+    {
+      "en": "It is unwise to be hasty in generalization.",
+      "cn": "急于下结论是不明智的。"
+    },
+    {
+      "en": "Professor Owen has subsequently extended the same generalization to the mammals of the Old World.",
+      "cn": "以后欧文教授把这一法则引伸到“旧世界”的哺乳动物."
+    },
+    {
+      "en": "Specialization and generalization are important sources of useful auxiliary problems.",
+      "cn": "特殊化与一般化是有用的辅助问题的重要源泉."
+    },
+    {
+      "en": "The discovery of strange particles lead to a generalization of the law of nucleon conservation.",
+      "cn": "奇异粒子的发现导致了核子守恒定理的推广."
+    },
+    {
+      "en": "The evaluation of conduct involves some amount of generalization.",
+      "cn": "对操行的评价会含有一些泛泛之论。"
+    },
+    {
+      "en": "The generalization is quite similar to the corresponding one in the theory of differential equations.",
+      "cn": "这一推广和对应的微分方程中理论的推广相当类似."
+    },
+    {
+      "en": "The model is a generalization of conventional binary tree algorithm.",
+      "cn": "模型是传统的二元树形算法的推广."
+    },
+    {
+      "en": "The process described in this section is a generalization of Newton's method for a single equation.",
+      "cn": "本节所叙述的是对单个方程的牛顿方法的一般化."
+    },
+    {
+      "en": "This separation allows the generalization of test results and meaningful stability data.",
+      "cn": "这种区别有助于归纳试验结果和积累有用的稳定性数据."
+    },
+    {
+      "en": "This sweeping generalization is the law of conservation of energy.",
+      "cn": "这一透彻的概括就是能量守恒定律."
+    },
+    {
+      "en": "This unexciting generalization from experience is the zeroth law of thermodynamics.",
+      "cn": "这个由经验产生的一般规则即热力学第零定律."
+    },
+    {
+      "en": "Two generalization models are created , the names are called \" CDTNGM \" and \" CGM \"",
+      "cn": "实现了两类综合模型,即 “ 约束Delaunay三 角网综合模型 ” 和 “ Circle综合模型 ”"
+    },
+    {
+      "en": "We now state the generalization of the two previous problems.",
+      "cn": "我们叙述前面两个问题的一般情形."
+    },
+    {
+      "en": "You can’t make generalizations about what men and women are like.",
+      "cn": "男人什么样，女人什么样，不能一概而论。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "general",
+          "tran_cn": " 一般的，普通的；综合的；大体的"
+        },
+        {
+          "word": "generalized",
+          "tran_cn": " 广义的，普遍的；无显著特点的"
+        },
+        {
+          "word": "generic",
+          "tran_cn": " 类的；一般的；属的；非商标的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "generally",
+          "tran_cn": " 通常；普遍地，一般地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "general",
+          "tran_cn": " 一般；将军，上将；常规"
+        },
+        {
+          "word": "generalisation",
+          "tran_cn": " （英）一般化；归纳；普遍原理（等于generalization）"
+        },
+        {
+          "word": "generality",
+          "tran_cn": " 概论；普遍性；大部分"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "generalized",
+          "tran_cn": " 推广（generalize的过去分词）；对…进行概括；使…一般化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "generalise",
+          "tran_cn": " 推广；笼统地讲；概括（等于generalize）"
+        },
+        {
+          "word": "generalize",
+          "tran_cn": " 形成概念"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "generalise",
+          "tran_cn": " 概括；归纳；普及"
+        },
+        {
+          "word": "generalize",
+          "tran_cn": " 概括；推广；使...一般化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "recapitulation",
+            "universalization"
+          ],
+          "tran_cn": "概括；普遍化；一般化"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "一般化，普通化，归纳，概论",
+      "tran_en": "a statement about all the members of a group that may be true in some or many situations but is not true in every case"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "generalizations"
+    ]
+  }
+}

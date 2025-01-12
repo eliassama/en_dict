@@ -1,0 +1,203 @@
+{
+  "word": "limitation",
+  "ipa": {
+    "us": "ˌlɪmɪˈteɪʃn",
+    "uk": "ˌlɪmɪˈteɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "a nuclear limitation treaty",
+      "cn": "核限制条约"
+    },
+    {
+      "en": "Another limitation is the lack of availability of accurate equilibrium constants.",
+      "cn": "平衡计算的另一局限性是缺乏准确的可利用的平衡常数."
+    },
+    {
+      "en": "Damage limitation measures have been introduced.",
+      "cn": "已经推出了损害控制措施。"
+    },
+    {
+      "en": "I am willing to accept certain limitation on my freedom.",
+      "cn": "我愿意接受对我自由的某些限制."
+    },
+    {
+      "en": "It is both her incomparable strength and her ultimate limitation.",
+      "cn": "这既是她的无比的力量,又是她的最终局限性."
+    },
+    {
+      "en": "It is likewise a severe limitation.",
+      "cn": "它同样存在严格的局限性."
+    },
+    {
+      "en": "On migrated sections migration noise can become the equivalent limitation.",
+      "cn": "在偏移剖面上,偏移噪声成为等效的界限."
+    },
+    {
+      "en": "Owing to the limitation of our knowledge, there must be mistakes and errors in the book.",
+      "cn": "由于我们水平有限, 本书少不了会有缺点和错误."
+    },
+    {
+      "en": "The chief limitation of the harvester is its inability to separate seed from debris.",
+      "cn": "这种收割机的主要缺点是不能把种子和夹杂物分开来."
+    },
+    {
+      "en": "The first electronic calculations were plagued by storage limitation.",
+      "cn": "最初的电子计算技术由于存贮技术的落后而不能顺利发展."
+    },
+    {
+      "en": "The meeting was merely an exercise in damage limitation.",
+      "cn": "这次会议只是控制损失的一项举措。"
+    },
+    {
+      "en": "Their main limitation is that they are incapable of rising to the ionosphere.",
+      "cn": "他们主要局限性是不能上升到电离层."
+    },
+    {
+      "en": "They maintain that rules about dress are an unacceptable limitation of personal freedom.",
+      "cn": "他们认定有关穿衣的规则是对个人自由的限制,是无法接受的."
+    },
+    {
+      "en": "This technique is useful but it has its limitations .",
+      "cn": "这种技术实用，但也有局限性。"
+    },
+    {
+      "en": "We shall continue to work for the limitation of nuclear arms.",
+      "cn": "我们将继续为限制核子武器而努力."
+    },
+    {
+      "en": "Within the limitation of quantity you are free to do as you choose.",
+      "cn": "在这个限量内你可以任便."
+    },
+    {
+      "en": "Within the limitation you are free to do as you choose.",
+      "cn": "在这个界限内可任便."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "limited",
+          "tran_cn": " 有限的"
+        },
+        {
+          "word": "limiting",
+          "tran_cn": " 限制的；限制性的"
+        },
+        {
+          "word": "limitless",
+          "tran_cn": " 无限制的；无界限的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "limit",
+          "tran_cn": " 限制；限度；界线"
+        },
+        {
+          "word": "limited",
+          "tran_cn": " 高级快车"
+        },
+        {
+          "word": "limiter",
+          "tran_cn": " [机][电] 限制器，[电子] 限幅器；限制者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "limiting",
+          "tran_cn": " 限制；限定（limit的现在分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "limit",
+          "tran_cn": " 限制；限定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "restriction",
+            "threshold",
+            "qualification",
+            "terminal"
+          ],
+          "tran_cn": "限制；限度；极限；追诉时效；有效期限"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adaptation",
+            "ceiling",
+            "constraint",
+            "contraction",
+            "obstruction",
+            "provision",
+            "qualification",
+            "reservation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "limitation fund",
+      "tran_cn": "限制基金；处理船主责任范围以外的索赔的基金"
+    },
+    {
+      "phrase": "limitation of actions",
+      "tran_cn": "诉讼时效"
+    },
+    {
+      "phrase": "limitation of liability",
+      "tran_cn": "责任范围"
+    },
+    {
+      "phrase": "limitation period",
+      "tran_cn": "时效期"
+    },
+    {
+      "phrase": "space limitation",
+      "tran_cn": "空间限制"
+    },
+    {
+      "phrase": "time limitation",
+      "tran_cn": "时间限制"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "限制，局限，极限，起限制作用的规则（或事实、条件）",
+      "tran_en": "the act or process of controlling or reducing something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "limitations"
+    ]
+  }
+}

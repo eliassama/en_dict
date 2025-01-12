@@ -1,0 +1,88 @@
+{
+  "word": "equivocate",
+  "ipa": {
+    "us": "ɪˈkwɪvəkeɪt",
+    "uk": "ɪˈkwɪvəkeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Don't equivocate with me I want a straight answer to a straight question!",
+      "cn": "别跟我绕弯子--我问的问题直截了当,回答也要直截了当!"
+    },
+    {
+      "en": "He is equivocating a lot about what is going to happen if and when there are elections.",
+      "cn": "他含含糊糊地说着很多如果进行选举会发生的状况。"
+    },
+    {
+      "en": "They waver while the latter stand firm, they equivocate while the latter are forthright.",
+      "cn": "前者动摇,后者坚定, 前者暧昧,后者明朗."
+    },
+    {
+      "en": "You can tell when they're stressed out, they'll equivocate and vacillate.",
+      "cn": "当他们压力过大时,你是可以辨别出来的, 因为他们会支支吾吾、犹豫不决."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "equivocal",
+          "tran_cn": " 模棱两可的；可疑的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "equivocation",
+          "tran_cn": " 含糊话；模棱两可的话"
+        },
+        {
+          "word": "equivocator",
+          "tran_cn": " 说模棱话的人；说话支吾者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "quibble"
+          ],
+          "tran_cn": "说模棱两可的话"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "说模棱两可的话, 支吾",
+      "tran_en": "to avoid giving a clear or direct answer to a question"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "使用模棱两可的话隐瞒真相，躲闪；推诿；含糊其词；说话支吾，态度暧昧"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "equivocates"
+    ],
+    "past": [
+      "equivocated"
+    ],
+    "done": [
+      "equivocated"
+    ],
+    "ing": [
+      "equivocating"
+    ]
+  }
+}

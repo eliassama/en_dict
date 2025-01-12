@@ -1,0 +1,84 @@
+{
+  "word": "perfidy",
+  "ipa": {
+    "us": "ˈpɜ:fədi",
+    "uk": "ˈpɜrfədi"
+  },
+  "sentences": [
+    {
+      "en": "He was quite certain now that she knew he was married and angered at his perfidy.",
+      "cn": "他现在已可以断定,她已经得知他是有妇之夫,对于他的欺瞒行为非常生气."
+    },
+    {
+      "en": "Never mind now about Hurstwood's perfidy -- why had he done this?",
+      "cn": "现在先别管赫斯渥的背理悖行 -- 他为什么要这样做?"
+    },
+    {
+      "en": "Oh, the perfidy of men!",
+      "cn": "啊, 男人的奸诈!"
+    },
+    {
+      "en": "Willful betrayal of fidelity, confidence, or trust; perfidy.",
+      "cn": "背叛对忠诚、信任或信赖的有意背叛；"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "perfidious",
+          "tran_cn": " 背信弃义的；不忠的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "perfidiously",
+          "tran_cn": " 不忠实地；背信地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "dishonesty",
+            "deceitfulness"
+          ],
+          "tran_cn": "不诚实；背信弃义"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "defection",
+            "dishonesty"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "背信弃义，背叛，出卖",
+      "tran_en": "when someone is not loyal to another person who trusts them"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "perfidies"
+    ]
+  }
+}

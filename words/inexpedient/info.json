@@ -1,0 +1,82 @@
+{
+  "word": "inexpedient",
+  "ipa": {
+    "us": "ˌɪnɪkˈspi:diənt",
+    "uk": "ˌɪnɪkˈspidiənt"
+  },
+  "sentences": [
+    {
+      "en": "It would be inexpedient to inform them at this stage.",
+      "cn": "在目前阶段就通知他们很不妥当."
+    },
+    {
+      "en": "It would be inexpedient to raise taxes further.",
+      "cn": "进一步加税就是不合理。"
+    },
+    {
+      "en": "The way to change the phases of slacken production, inexpedient circulation is to realize the limited austerity.",
+      "cn": "要改变生产呆滞、流通不畅的局面，办法就是实现有限度的侈糜消费。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "inexpediently",
+          "tran_cn": " 不便地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inexpedience",
+          "tran_cn": " 不适当；失策"
+        },
+        {
+          "word": "inexpediency",
+          "tran_cn": " 不适当；失策"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "inadequate",
+            "unhappy",
+            "wrong",
+            "inappropriate",
+            "improper"
+          ],
+          "tran_cn": "不明智的；不适当的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "disadvantageous"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<正>不妥当的，不适当的，不明智的",
+      "tran_en": "not suitable, advisable, or judicious "
+    }
+  ],
+  "exchange": {}
+}

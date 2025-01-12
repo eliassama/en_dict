@@ -1,0 +1,81 @@
+{
+  "word": "puffery",
+  "ipa": {
+    "us": "'pʌfərɪ",
+    "uk": "ˈpʌfəri"
+  },
+  "sentences": [
+    {
+      "en": "Using puffery to raise awareness of products is illegal.",
+      "cn": "使用鼓吹性广告来提升产品的知名度是不合法的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "puffy",
+          "tran_cn": " 一阵阵吹的；胀大的；喘气的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "puff",
+          "tran_cn": " 粉扑；泡芙；蓬松；一阵喷烟；肿块；吹嘘，宣传广告"
+        },
+        {
+          "word": "puffer",
+          "tran_cn": " 河豚；吹捧者；喷气的人；抬价者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "puff",
+          "tran_cn": " 膨胀；张开；鼓吹；夸张"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "puff",
+          "tran_cn": " 喷出，张开；使膨胀；夸张；使骄傲自满"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "advertisement",
+            "exaggeration"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "吹捧，鼓吹，吹捧的广告"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "pufferies"
+    ]
+  }
+}

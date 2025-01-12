@@ -1,0 +1,153 @@
+{
+  "word": "lave",
+  "ipa": {
+    "us": "leɪv",
+    "uk": "lev"
+  },
+  "sentences": [
+    {
+      "en": "Carnegie Mellon University Economics Professor Lester Lave says the economic crisis made the change urgent.",
+      "cn": "卡耐基-梅隆大学经济学教授莱斯特莱夫称经济危机迫使了这种改变的迅速发生."
+    },
+    {
+      "en": "I lave a lot of interesting storybooks.",
+      "cn": "我有许多有趣的故事书."
+    },
+    {
+      "en": "I lave done my duty.",
+      "cn": "我已尽了我的责任."
+    },
+    {
+      "en": "Lave ejected from the volcano. Luckily, it did not hurt people.",
+      "cn": "熔岩从火山喷出, 幸好没伤着人."
+    },
+    {
+      "en": "She will never lave home; she is too tied to her mother's apron strings.",
+      "cn": "她永远也离不开家; 她太依赖她的母亲了."
+    },
+    {
+      "en": "Some say lave, it is hunger, an endless aching need.",
+      "cn": "有人说, 爱是饥饿, 痛苦的渴求是永不停歇."
+    },
+    {
+      "en": "The volcano spurts smoke and lave after 3 years of silence.",
+      "cn": "平静了三年的火山突然喷出浓烟和熔岩."
+    },
+    {
+      "en": "We've instructions to lave them be.'",
+      "cn": "我们上峰有指示,让他们闹去吧. ”"
+    },
+    {
+      "en": "When a volcano erupts, It'spouts flame and lave.",
+      "cn": "火山喷发时会喷出火焰和熔岩."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "lav",
+          "tran_cn": " 洗手间；厕所；盥洗室（等于lavatory）"
+        },
+        {
+          "word": "lavage",
+          "tran_cn": " [临床] 灌洗；洗胃"
+        },
+        {
+          "word": "lavation",
+          "tran_cn": " 洗涤；洗涤用的水（等于lavage）"
+        },
+        {
+          "word": "laver",
+          "tran_cn": " 紫菜；洗涤盆，水盆"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "lavage",
+          "tran_cn": " [临床] 灌洗；清洗"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "remain",
+            "surplusage"
+          ],
+          "tran_cn": "剩余物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bathe"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "bathe"
+          ],
+          "tran_cn": "沐浴"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "obliterate"
+          ],
+          "tran_cn": "洗；沐浴；冲刷"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "剩余物"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "为沐浴, 洗"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<文> 洗涤，给…沐浴，（水）冲刷，沿…流淌"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "laves"
+    ],
+    "past": [
+      "laved"
+    ],
+    "done": [
+      "laved"
+    ],
+    "ing": [
+      "laving"
+    ]
+  }
+}

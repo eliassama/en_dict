@@ -1,0 +1,127 @@
+{
+  "word": "electromagnet",
+  "ipa": {
+    "us": "ɪˈlektrəʊmæɡnət",
+    "uk": "ɪˈlektroʊmæɡnət"
+  },
+  "sentences": [
+    {
+      "en": "Close - brake have two kinds of close brake electromagnet and manual button.",
+      "cn": "合闸操作有合闸电铁及手动按钮操作两种."
+    },
+    {
+      "en": "Do you know the tools in the pictures below work with an electromagnet?",
+      "cn": "你知道下面图画中的工具都用电磁铁工作的 吗 ?"
+    },
+    {
+      "en": "Electrical and mechanical design of the electromagnet is accomplished in the AMB system.",
+      "cn": "电磁铁部分,主要开展了电磁铁的机械设计和电气设计."
+    },
+    {
+      "en": "In the dynamo, mechanical energy is used for rotating armature between the poles of an electromagnet.",
+      "cn": "在直流发电机中, 机械能用来转动电磁铁两极之间的电枢."
+    },
+    {
+      "en": "Is the key to control the hydraulic part, this system is through PLC control electromagnet of solenoid valve, to achieve control of the manipulator's action.",
+      "cn": "液压部分是控制的关键所在，本系统是通过PLC控制电磁阀的电磁铁，从而实现对机械手各动作的控制。"
+    },
+    {
+      "en": "Lifting electromagnet is a kind of lifting gear.",
+      "cn": "起重电磁铁是起重工具的一种."
+    },
+    {
+      "en": "Lifting Electromagnet is a lifting tool.",
+      "cn": "起重电磁铁是一种起重工具."
+    },
+    {
+      "en": "Magnetic field is supplied by an electromagnet . Reciprocating movement and Brayton magnetic refrigeration cycle are adopted.",
+      "cn": "此系统利用电磁体提供磁场,采用往复运动方式,实现布雷顿循环."
+    },
+    {
+      "en": "Metallurgical hoist, electric hoist, chain hoist, chain hoists, trolleys, grab, electric flat car, lifting electromagnet, hand hoist, sling, Jack, hoist, bearing.",
+      "cn": "电动葫芦，冶金葫芦，环链葫芦，手拉葫芦，单轨小车，抓斗，电动平车，起重电磁铁，手扳葫芦，吊索具，千斤顶，卷扬机，轴承。"
+    },
+    {
+      "en": "My electromagnet doesn ＇ t work!",
+      "cn": "我的电磁铁不起作用怎么办!"
+    },
+    {
+      "en": "Reset pneumatic spring, mechanical spring reset, reset electromagnet operation.",
+      "cn": "气动弹簧复位 、 机械弹簧复位 、 电磁铁操作复位."
+    },
+    {
+      "en": "The hybrid magnet was made by combining electromagnet with permanent magnet ( PM ).",
+      "cn": "通过比较永久磁铁的不同安装位置的影响,给出混合磁铁的结构方案."
+    },
+    {
+      "en": "The principle of electromagnet induction had thus been discovered.",
+      "cn": "电磁感应定律就是这样发现的."
+    },
+    {
+      "en": "The static characteristics analysis is the base of the optimization design of AC contactor operation electromagnet.",
+      "cn": "交流接触器操作电磁铁的静态特性分析常常是电磁铁优化设计的基础."
+    },
+    {
+      "en": "This current by controlling the electromagnet to control the mechanical movement.",
+      "cn": "这样通过控制电磁铁的电流就控制了机械运动."
+    },
+    {
+      "en": "To make an electromagnet you need to send a current through the wire.",
+      "cn": "为了做成电磁体你需要对金属线送电."
+    },
+    {
+      "en": "When the electromagnet works , its front pole fixes the other side of the fixed bearing.",
+      "cn": "电磁铁动作, 电磁铁前杆一固定轴承的另一面."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "electromagnetic",
+          "tran_cn": " 电磁的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "electromagnetics",
+          "tran_cn": " [电磁] 电磁学"
+        },
+        {
+          "word": "electromagnetism",
+          "tran_cn": " 电磁；电磁学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "magnetic plug"
+          ],
+          "tran_cn": "[电]电磁体，电磁铁；电磁石"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<物>电磁体，电磁铁",
+      "tran_en": "a piece of metal that becomes magnetic(= able to attract metal objects ) when an electric current is turned on"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "electromagnets"
+    ]
+  }
+}

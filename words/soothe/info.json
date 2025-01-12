@@ -1,0 +1,195 @@
+{
+  "word": "soothe",
+  "ipa": {
+    "us": "suːð",
+    "uk": "suːð"
+  },
+  "sentences": [
+    {
+      "en": "A bit of embrocation will soothe your bruised knee.",
+      "cn": "用一点搽剂可使你那青肿的膝部消肿."
+    },
+    {
+      "en": "A hot cloth pressed against your jaw will usually soothe a toothache.",
+      "cn": "把热毛巾放在下巴上一般能缓解牙痛."
+    },
+    {
+      "en": "An unusual rhythm will soothe the ear.",
+      "cn": "会有一非同凡响的节奏悦人之耳."
+    },
+    {
+      "en": "He would take her in his arms and soothe her.",
+      "cn": "他会把她揽在怀中抚慰她。"
+    },
+    {
+      "en": "Her comfortable voice seemed to soothe James for once.",
+      "cn": "她安慰的声音好像总算使詹姆士平静下来."
+    },
+    {
+      "en": "I tried my best to soothe his anger.",
+      "cn": "我尽力劝慰他不要生气."
+    },
+    {
+      "en": "I've managed to soothe him down a bit.",
+      "cn": "我想方设法使他平静了一点."
+    },
+    {
+      "en": "Inhalations can soothe and control the cough.",
+      "cn": "吸入药剂可以缓解并抑制咳嗽。"
+    },
+    {
+      "en": "Lucy soothed the baby by rocking it in her arms.",
+      "cn": "露西把宝宝抱在怀里摇晃着，让他安静下来。"
+    },
+    {
+      "en": "She made a cup of tea to soothe her nerves.",
+      "cn": "她泡了杯茶让自己平静下来。"
+    },
+    {
+      "en": "Socrates tried to soothe us, true enough.",
+      "cn": "诚然,苏格拉底想安慰我们."
+    },
+    {
+      "en": "Stupidly, he reached out a hand to soothe her.",
+      "cn": "他笨拙地伸出一只手去,想抚慰抚慰她."
+    },
+    {
+      "en": "The music seemed to soothe a poison out of them.",
+      "cn": "音乐之声似乎缓解着他们所中的毒."
+    },
+    {
+      "en": "This cream contains a mild analgesic to soothe stings and bites.",
+      "cn": "这种乳膏含有一种性能平和的止痛剂,能缓解被螫咬后的疼痛."
+    },
+    {
+      "en": "This medicine should soothe your sore throat.",
+      "cn": "这种药会减轻你的喉痛."
+    },
+    {
+      "en": "Trying to soothe her only made matters worse.",
+      "cn": "安慰她只能使事情变得更糟."
+    },
+    {
+      "en": "We did not know how to soothe the bereaved mother.",
+      "cn": "我们不知如何安慰那位丧子的母亲."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "soothing",
+          "tran_cn": " 抚慰的；使人宽心的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "soothingly",
+          "tran_cn": " 安慰地"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "soothing",
+          "tran_cn": " 安慰；减轻痛苦（soothe的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "alleviate",
+            "befriend",
+            "calm",
+            "comfort",
+            "compose",
+            "conciliate",
+            "ease",
+            "lessen",
+            "pacify",
+            "quiet",
+            "relieve",
+            "silence",
+            "soften"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "calm",
+            "comfort",
+            "ease",
+            "pacify",
+            "quiet",
+            "relieve"
+          ],
+          "tran_cn": "抚慰;镇定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "comfort",
+            "calm",
+            "quiet",
+            "relax",
+            "compose"
+          ],
+          "tran_cn": "安慰；使平静；缓和"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "安慰，减轻",
+      "tran_en": "to make someone feel calmer and less anxious, upset, or angry"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "安慰，缓和，使平静，减轻痛苦",
+      "tran_en": "to make someone feel calmer and less anxious, upset, or angry"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "soothes"
+    ],
+    "past": [
+      "soothed"
+    ],
+    "done": [
+      "soothed"
+    ],
+    "ing": [
+      "soothing"
+    ],
+    "adv": [
+      "soothingly"
+    ],
+    "adj": [
+      "soothing"
+    ]
+  }
+}

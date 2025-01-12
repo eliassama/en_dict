@@ -1,0 +1,83 @@
+{
+  "word": "traduce",
+  "ipa": {
+    "us": "trəˈdju:s",
+    "uk": "trəˈdus"
+  },
+  "sentences": [
+    {
+      "en": "It is not easy to traduce his character.",
+      "cn": "要中伤他的人格并非易事."
+    },
+    {
+      "en": "We have been traduced in the press as xenophobic bigots.",
+      "cn": "我们已经被媒体诽谤为排外的顽固分子。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "traducement",
+          "tran_cn": " 诽谤；中伤；诋毁"
+        },
+        {
+          "word": "traducer",
+          "tran_cn": " 诽谤者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "impute"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "wrong",
+            "asperse"
+          ],
+          "tran_cn": "中伤；诽谤；背叛"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "中伤",
+      "tran_en": "to deliberately say things that are untrue or unpleasant"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "诋毁，诽谤，违反，背叛"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "traduces"
+    ],
+    "past": [
+      "traduced"
+    ],
+    "done": [
+      "traduced"
+    ],
+    "ing": [
+      "traducing"
+    ]
+  }
+}

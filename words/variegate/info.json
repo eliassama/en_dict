@@ -1,0 +1,113 @@
+{
+  "word": "variegate",
+  "ipa": {
+    "us": "'veərɪgeɪt",
+    "uk": "ˈvɛriɪˌɡet, ˈvɛrɪˌɡet, ˈvær-"
+  },
+  "sentences": [
+    {
+      "en": "To diversify(something)in color, shading, or character; variegate.",
+      "cn": "用不同的颜色阴影或图案使多样化。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "varicoloured",
+          "tran_cn": " 各种各样颜色的；杂色的，五颜六色的"
+        },
+        {
+          "word": "varied",
+          "tran_cn": " 多变的；各式各样的；杂色的"
+        },
+        {
+          "word": "variegated",
+          "tran_cn": " 杂色的；斑驳的；富于变化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "variedness",
+          "tran_cn": " 变化；杂色"
+        },
+        {
+          "word": "variegation",
+          "tran_cn": " 彩色；上色；斑"
+        },
+        {
+          "word": "variety",
+          "tran_cn": " 多样；种类；杂耍"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "varied",
+          "tran_cn": " 改变；使多样化（vary的过去式和过去分词形式）"
+        },
+        {
+          "word": "variegated",
+          "tran_cn": " 成为杂色（variegate的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "marble",
+            "mottle"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "vary",
+            "diversify"
+          ],
+          "tran_cn": "使多样化，使丰富多彩；使成杂色"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使多样化， 使色彩斑澜"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使成斑驳，使多样化"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "variegates"
+    ],
+    "past": [
+      "variegated"
+    ],
+    "done": [
+      "variegated"
+    ],
+    "ing": [
+      "variegating"
+    ]
+  }
+}

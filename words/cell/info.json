@@ -1,0 +1,235 @@
+{
+  "word": "cell",
+  "ipa": {
+    "us": "sel",
+    "uk": "sel"
+  },
+  "sentences": [
+    {
+      "en": "attempts to prevent cancer cell proliferation",
+      "cn": "防止癌细胞扩散的努力"
+    },
+    {
+      "en": "cancer cells",
+      "cn": "癌细胞"
+    },
+    {
+      "en": "Embryos grow by cell division (= the splitting of cells ) .",
+      "cn": "胚胎通过细胞分裂而成长。"
+    },
+    {
+      "en": "Guards rushed into his cell and strung him up.",
+      "cn": "狱吏冲进牢房把他吊死了。"
+    },
+    {
+      "en": "He is cooped up in a cramped cell with 10 other inmates.",
+      "cn": "他和其他10名犯人被囚禁在一间狭窄的牢房里。"
+    },
+    {
+      "en": "He was left to sober up in a police cell.",
+      "cn": "他被留在一间拘留室里醒酒。"
+    },
+    {
+      "en": "One prisoner claimed he'd been dragged to a cell, stripped and beaten.",
+      "cn": "一名犯人声称他曾被拖进一间牢房，全身被脱光并遭到毒打。"
+    },
+    {
+      "en": "Smoking triggers off cell proliferation.",
+      "cn": "吸烟会引起细胞增生。"
+    },
+    {
+      "en": "That's better. I was suffocating in that cell of a room.",
+      "cn": "这样好些了，我刚才在那个小房间里快闷死了。"
+    },
+    {
+      "en": "the cells of a honeycomb",
+      "cn": "蜂巢的蜂房"
+    },
+    {
+      "en": "the nucleus of a cell",
+      "cn": "细胞核"
+    },
+    {
+      "en": "The prisoner started to wash down the walls of his cell.",
+      "cn": "囚犯开始冲洗各自囚室的墙壁。"
+    },
+    {
+      "en": "The prisoners overpowered their guards and locked them in a cell.",
+      "cn": "囚犯们制服了监狱看守，并将他们锁进了牢房。"
+    },
+    {
+      "en": "The smell in the cell was revolting.",
+      "cn": "牢房的气味令人作呕。"
+    },
+    {
+      "en": "They beat them up and locked them in a cell.",
+      "cn": "他们殴打了他们，并把他们锁在一间囚室里。"
+    },
+    {
+      "en": "They threw him in a cell and roughed him up a bit.",
+      "cn": "他们把他扔进牢房，揍了他几下。"
+    },
+    {
+      "en": "Vitamin B assists in red-blood-cell regeneration.",
+      "cn": "维生素B可以促进红细胞再生。"
+    },
+    {
+      "en": "We were sitting together in our cell, chained to the wall.",
+      "cn": "我们一起坐在牢里，手被铐在墙上。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cellularity",
+          "tran_cn": " 细胞性；多孔性；细胞结构"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "asylum",
+            "booth",
+            "cabin",
+            "cage",
+            "chamber",
+            "cloister",
+            "closet",
+            "compartment",
+            "coop",
+            "cubbyhole",
+            "cubicle",
+            "hermitage",
+            "keep",
+            "lockup",
+            "nook",
+            "retreat",
+            "room",
+            "snuggery",
+            "stall",
+            "vault"
+          ],
+          "tran_cn": "小室,囚房,窝"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "den",
+            "dungeon",
+            "organism"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "blood cell",
+      "tran_cn": "血细胞，血球"
+    },
+    {
+      "phrase": "cancer cell",
+      "tran_cn": "癌细胞"
+    },
+    {
+      "phrase": "cell biology",
+      "tran_cn": "细胞学，细胞生物学"
+    },
+    {
+      "phrase": "cell culture",
+      "tran_cn": "细胞培养"
+    },
+    {
+      "phrase": "cell cycle",
+      "tran_cn": "细胞周期"
+    },
+    {
+      "phrase": "cell division",
+      "tran_cn": "细胞分裂"
+    },
+    {
+      "phrase": "cell line",
+      "tran_cn": "细胞系，细胞株"
+    },
+    {
+      "phrase": "cell membrane",
+      "tran_cn": "细胞膜"
+    },
+    {
+      "phrase": "cell phone",
+      "tran_cn": "手机（等于cellular phone）"
+    },
+    {
+      "phrase": "cell proliferation",
+      "tran_cn": "细胞增殖，细胞增生"
+    },
+    {
+      "phrase": "cell wall",
+      "tran_cn": "细胞壁，胞壁；格式壁"
+    },
+    {
+      "phrase": "endothelial cell",
+      "tran_cn": "[组织]内皮细胞"
+    },
+    {
+      "phrase": "fuel cell",
+      "tran_cn": "燃料电池"
+    },
+    {
+      "phrase": "red blood cell",
+      "tran_cn": "红血球（等于erythrocyte，red blood corpuscle或red cell，略作RBC）"
+    },
+    {
+      "phrase": "single cell",
+      "tran_cn": "单细胞"
+    },
+    {
+      "phrase": "solar cell",
+      "tran_cn": "太阳能电池"
+    },
+    {
+      "phrase": "squamous cell carcinoma",
+      "tran_cn": "鳞状细胞癌，扁平上皮癌"
+    },
+    {
+      "phrase": "stem cell",
+      "tran_cn": "干细胞，骨髓干细胞"
+    },
+    {
+      "phrase": "t cell",
+      "tran_cn": "[医]淋巴细胞（胸腺依赖性细胞）"
+    },
+    {
+      "phrase": "tumor cell",
+      "tran_cn": "肿瘤细胞"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "细胞，牢房，基层组织，小隔室，电池",
+      "tran_en": "the smallest part of a living thing that can exist independently"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "住在牢房或小室中"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "cells"
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "word": "metabolism",
+  "ipa": {
+    "us": "məˈtæbəlɪzəm",
+    "uk": "məˈtæbəlɪzəm"
+  },
+  "sentences": [
+    {
+      "en": "A large number of inborn errors of metabolism are known in man.",
+      "cn": "人们了解到在人类中存在大量的先天性代谢缺陷."
+    },
+    {
+      "en": "After years of dieting, Carol's metabolism was completely out of whack.",
+      "cn": "经过数年的节食, 卡罗尔的新陈代谢完全紊乱了."
+    },
+    {
+      "en": "All living matter undergoes a process of metabolism.",
+      "cn": "生物都有新陈代谢."
+    },
+    {
+      "en": "Antibiotics can cause disorders of water and salt metabolism.",
+      "cn": "抗菌素能引起水、盐代谢的紊乱."
+    },
+    {
+      "en": "Basal metabolism is much lower for creatures in cold water.",
+      "cn": "冷水中生物的基础代谢速度要低很多。"
+    },
+    {
+      "en": "Certain other elements are needed in trace amounts for cell metabolism.",
+      "cn": "细胞的新陈代谢还需某些其它的微量元素."
+    },
+    {
+      "en": "Metabolism is a complexity of chemical reaction.",
+      "cn": "代谢是各种化学反应的综合."
+    },
+    {
+      "en": "Persons with diabetes suffer from improper metabolism of sugar.",
+      "cn": "糖尿病人的糖代谢受到阻碍."
+    },
+    {
+      "en": "Quantitative information on these aspects of protein metabolism is scarce.",
+      "cn": "有关这方面的蛋白质代谢的定量知识是贫乏的."
+    },
+    {
+      "en": "The body's metabolism is slowed down by extreme cold.",
+      "cn": "严寒可以使身体新陈代谢的速度下降。"
+    },
+    {
+      "en": "The liver is the centre of metabolism in the body.",
+      "cn": "肝脏是全身代谢的中心."
+    },
+    {
+      "en": "The water - soluble vitamins, embracing the B complex and vitamin C, are important for animal metabolism.",
+      "cn": "包括维生素B族和维生素C在内的 水溶性 维生素对动物代谢是重要的."
+    },
+    {
+      "en": "Their drug , Famoxin , speeds up the metabolism to make patients burn off the fat.",
+      "cn": "他们的药物Famoxin,能加速新陈代谢,使病人的脂肪燃烧."
+    },
+    {
+      "en": "Their rate of metabolism may slow down.",
+      "cn": "他们的新陈代谢率可能会降低."
+    },
+    {
+      "en": "This drug speeds up your metabolism.",
+      "cn": "这种药物会加快你的新陈代谢。"
+    },
+    {
+      "en": "This rapid turnover of material in living things is part of their metabolism.",
+      "cn": "这些生物体内物质的迅速循环,是它们新陈代谢的一部分."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "metabolic",
+          "tran_cn": " 变化的；新陈代谢的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "metabolite",
+          "tran_cn": " [生化] 代谢物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "metabolise",
+          "tran_cn": " 新陈代谢"
+        },
+        {
+          "word": "metabolize",
+          "tran_cn": " 新陈代谢"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "metabolise",
+          "tran_cn": " 使新陈代谢（等于metabolize）"
+        },
+        {
+          "word": "metabolize",
+          "tran_cn": " 使新陈代谢；使变形"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [
+    {
+      "phrase": "aerobic metabolism",
+      "tran_cn": "需氧代谢；有氧新陈代谢"
+    },
+    {
+      "phrase": "anaerobic metabolism",
+      "tran_cn": "[生物化学]厌氧代谢"
+    },
+    {
+      "phrase": "carbohydrate metabolism",
+      "tran_cn": "[医]碳水化合物代谢"
+    },
+    {
+      "phrase": "drug metabolism",
+      "tran_cn": "药物代谢，药物代谢酌"
+    },
+    {
+      "phrase": "electrolyte metabolism",
+      "tran_cn": "电解质代谢"
+    },
+    {
+      "phrase": "energy metabolism",
+      "tran_cn": "能量代谢"
+    },
+    {
+      "phrase": "fat metabolism",
+      "tran_cn": "脂肪代谢"
+    },
+    {
+      "phrase": "lipid metabolism",
+      "tran_cn": "类脂物代谢作用；类脂化合物代谢作用"
+    },
+    {
+      "phrase": "nitrogen metabolism",
+      "tran_cn": "氮代谢"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "新陈代谢，代谢作用",
+      "tran_en": "the chemical processes by which food is changed into energy in your body"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "metabolisms"
+    ],
+    "adj": [
+      "metabolic"
+    ]
+  }
+}

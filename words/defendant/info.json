@@ -1,0 +1,154 @@
+{
+  "word": "defendant",
+  "ipa": {
+    "us": "dɪˈfendənt",
+    "uk": "dɪˈfendənt"
+  },
+  "sentences": [
+    {
+      "en": "Are you ready to plead against the case offered by the defendant?",
+      "cn": "你准备好反驳辩护人提出的问题了 吗 ?"
+    },
+    {
+      "en": "He overturned the conviction, saying the defendant was entrapped.",
+      "cn": "他声称被告是被诱骗的，从而推翻了有罪的判决。"
+    },
+    {
+      "en": "The court surprised a confession out of the defendant.",
+      "cn": "法庭冷不防使被告招了供."
+    },
+    {
+      "en": "The defendant asked for 21 similar offences to be taken into account.",
+      "cn": "被告要求考虑到类似的21起违法行为的情况。"
+    },
+    {
+      "en": "The defendant broke down under cross - examination .",
+      "cn": "被告在 盘问 下哭了起来."
+    },
+    {
+      "en": "The defendant made default yesterday.",
+      "cn": "被告昨天未到庭."
+    },
+    {
+      "en": "The defendant pleaded not guilty.",
+      "cn": "被告自称无罪."
+    },
+    {
+      "en": "The defendant remained impassive as the judge sentenced him to death.",
+      "cn": "当法官宣布被告死刑时他始终毫无表情."
+    },
+    {
+      "en": "The defendant was borne down by the weight of evidence.",
+      "cn": "有力的证据使被告认输了."
+    },
+    {
+      "en": "The judge rejected a bribe from the defendant's family.",
+      "cn": "法官拒收被告家属的贿赂."
+    },
+    {
+      "en": "The jury found the defendant innocent.",
+      "cn": "陪审团判定被告是无辜的."
+    },
+    {
+      "en": "The news - report was prejudicial to the defendant's case.",
+      "cn": "新闻报道不利于被告的辩护."
+    },
+    {
+      "en": "The prosecutor accused the defendant of fraud.",
+      "cn": "原告控告被告犯有欺诈罪."
+    },
+    {
+      "en": "There were extenuating circumstances and the defendant did not receive a prison sentence.",
+      "cn": "因有可减轻罪行的情节被告未被判刑。"
+    },
+    {
+      "en": "This defendant is charged with murder.",
+      "cn": "这名被告被控犯有谋杀罪."
+    },
+    {
+      "en": "We find the defendant not guilty.",
+      "cn": "我们裁定被告无罪。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "defensible",
+          "tran_cn": " 可防御的；可辩护的；可拥护的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "defender",
+          "tran_cn": " 防卫者，守卫者；辩护者；拥护者；卫冕者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "defend",
+          "tran_cn": " 保卫；防守"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "defend",
+          "tran_cn": " 辩护；防护"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "justificatory",
+            "vindicative"
+          ],
+          "tran_cn": "辩护的；为自己辩护的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "accused person",
+            "indictee"
+          ],
+          "tran_cn": "[法]被告"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "辩护的；为自己辩护的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "被告",
+      "tran_en": "the person in a court of law who has been  accused  of doing something illegal"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "defendants"
+    ]
+  }
+}

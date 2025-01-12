@@ -1,0 +1,56 @@
+{
+  "word": "peccant",
+  "ipa": {
+    "us": "'pekənt",
+    "uk": "'pekənt"
+  },
+  "sentences": [
+    {
+      "en": "Abide operation regulation, forbid peccant operation.",
+      "cn": "遵守操作规程, 严禁违章操作."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "peccable",
+          "tran_cn": " 易犯过失的；易犯罪的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "peccadillo",
+          "tran_cn": " 轻罪；小过失；小瑕疵"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "criminal",
+            "blameable"
+          ],
+          "tran_cn": "犯罪的；有过失的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "犯罪的，堕落的",
+      "tran_en": "guilty of an offence; corrupt "
+    }
+  ],
+  "exchange": {}
+}

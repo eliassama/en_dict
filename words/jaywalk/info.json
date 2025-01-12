@@ -1,0 +1,63 @@
+{
+  "word": "jaywalk",
+  "ipa": {
+    "us": "ˈdʒeɪwɔ:k",
+    "uk": "'dʒeɪwɔk"
+  },
+  "sentences": [
+    {
+      "en": "Drivers routinely  overtake on the right, taxis breeze through red lights, cyclists ride against the traffic and pedestrians jaywalk.",
+      "cn": "开车人常常从右侧超车，出租车闯红灯，骑自行车逆行，行人乱穿马路。"
+    },
+    {
+      "en": "It is not uncommon for people to jaywalk.",
+      "cn": "人们任意穿越马路并非不常见."
+    },
+    {
+      "en": "Pedestrians have to travel farther to cross the street legally unless they want to jaywalk.",
+      "cn": "行人需要走远一点从斑马线上横过马路,除非他们想要乱穿马路."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "jaywalker",
+          "tran_cn": " 不守交通规则；乱穿马路的人"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "乱穿马路（不遵守交通规则）",
+      "tran_en": "to cross or walk in a street recklessly or illegally "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "擅自穿越马路"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "jaywalks"
+    ],
+    "past": [
+      "jaywalked"
+    ],
+    "done": [
+      "jaywalked"
+    ],
+    "ing": [
+      "jaywalking"
+    ],
+    "noun": [
+      " jaywalking",
+      "jaywalker"
+    ]
+  }
+}

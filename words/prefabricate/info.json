@@ -1,0 +1,99 @@
+{
+  "word": "prefabricate",
+  "ipa": {
+    "us": "'pri:'fæbrɪkeɪt",
+    "uk": "priˈfæbrɪˌket"
+  },
+  "sentences": [
+    {
+      "en": "Easily installed, no need basis etc. prefabricate assembly.",
+      "cn": "压缩机的安装简便, 无需基础等预制装配."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prefab",
+          "tran_cn": " 预制的；组合式的"
+        },
+        {
+          "word": "prefabricated",
+          "tran_cn": " 预制构件的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "prefab",
+          "tran_cn": " 预制件；组合式预制房"
+        },
+        {
+          "word": "prefabrication",
+          "tran_cn": " 预加工；预先制造；组合房屋配件制造"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "prefabricated",
+          "tran_cn": " 预先建造组合（prefabricate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "prefab",
+          "tran_cn": " 预先制造；预先构想"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "precast element"
+          ],
+          "tran_cn": "预先制造；预先构思；预制构件"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预先制造；预先构思；预制构件",
+      "tran_en": "to manufacture sections of (a building), esp in a factory, so that they can be easily transported to and rapidly assembled on a building site "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "预制",
+      "tran_en": "to manufacture sections of (a building), esp in a factory, so that they can be easily transported to and rapidly assembled on a building site "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "prefabricates"
+    ],
+    "past": [
+      "prefabricated"
+    ],
+    "done": [
+      "prefabricated"
+    ],
+    "ing": [
+      "prefabricating"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "word": "sepulcher",
+  "ipa": {
+    "us": "'sepəlkə",
+    "uk": "'sepəlkə"
+  },
+  "sentences": [
+    {
+      "en": "All the creatures in Blackscale Sepulcher can now be effected by spells that target undead.",
+      "cn": "BlackscaleSepulcher内的所有生物将会受到对不死生物法术的相关影响."
+    },
+    {
+      "en": "Around the sepulcher of love.",
+      "cn": "把它环绕在那爱的墓地."
+    },
+    {
+      "en": "He said softly, as if his voice were coming from a sepulcher.",
+      "cn": "他幽幽说道, 象是从坟墓里传来的声音."
+    },
+    {
+      "en": "Let us bend before the venerated sepulcher.",
+      "cn": "让我们在他神圣的墓前鞠躬致敬."
+    },
+    {
+      "en": "The scene shifted to a sepulcher.",
+      "cn": "镜头转换到一座坟墓."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sepulchral",
+          "tran_cn": " 阴森森的；坟墓的，丧葬的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sepulchre",
+          "tran_cn": " 坟墓；圣体安置所（等于Easter sepulchre）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sepulchre",
+          "tran_cn": " 埋葬；以…为坟墓"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "tomb",
+            "lasthome"
+          ],
+          "tran_cn": "坟墓；圣物置放处"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bury",
+            "tomb"
+          ],
+          "tran_cn": "埋葬"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "坟墓，墓穴，圣物置放处"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "埋葬"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sepulchers"
+    ],
+    "third": [
+      "sepulchers"
+    ],
+    "past": [
+      "sepulchered"
+    ],
+    "done": [
+      "sepulchered"
+    ],
+    "ing": [
+      "sepulchering"
+    ]
+  }
+}

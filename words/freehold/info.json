@@ -1,0 +1,121 @@
+{
+  "word": "freehold",
+  "ipa": {
+    "us": "ˈfri:həʊld",
+    "uk": "ˈfrihoʊld"
+  },
+  "sentences": [
+    {
+      "en": "A freehold estate is an interest in land that is of uncertain duration.",
+      "cn": "完全保有地产权是一种不定期的土地权益."
+    },
+    {
+      "en": "A freehold property situates in the borough of Richmond.",
+      "cn": "位于里士满行政区的完全保有房产."
+    },
+    {
+      "en": "Freehold land given in a will is a devise.",
+      "cn": "若在遗嘱中将完全保有的地产赠给某人,就是不动产遗赠."
+    },
+    {
+      "en": "No depreciation is provided on freehold land.",
+      "cn": "并无就永久土地作出折旧拨备."
+    },
+    {
+      "en": "The property register will also say whether the property is freehold or leasehold.",
+      "cn": "房产注册簿上也会说明房产是终身保有的还是租借的。"
+    },
+    {
+      "en": "The property will be freehold.",
+      "cn": "这处地产将以终身保有的形式购得."
+    },
+    {
+      "en": "There are two main types of freehold estates: estates on fee simple and life estates.",
+      "cn": "它有两种主要类型: 无条件继承的地产和终身地产."
+    },
+    {
+      "en": "They bought it freehold.",
+      "cn": "他们买下了所有权."
+    },
+    {
+      "en": "They bought the freehold of their house.",
+      "cn": "他们买下了房子的自由保有权。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "freed",
+          "tran_cn": " 释放的"
+        },
+        {
+          "word": "freelance",
+          "tran_cn": " 自由投稿的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "freely",
+          "tran_cn": " 自由地；免费地；大量地；慷慨地；直率地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "freedom",
+          "tran_cn": " 自由，自主；直率"
+        },
+        {
+          "word": "freeholder",
+          "tran_cn": " 世袭地产保有人；保有不动产权者"
+        },
+        {
+          "word": "freelance",
+          "tran_cn": " 自由作家；自由记者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "freed",
+          "tran_cn": " 使自由；解放（free的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "possession"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "自由保有，不动产",
+      "tran_en": "when you completely own a building or piece of land for an unlimited time"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "freeholds"
+    ]
+  }
+}

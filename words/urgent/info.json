@@ -1,0 +1,197 @@
+{
+  "word": "urgent",
+  "ipa": {
+    "us": "ˈɜːdʒənt",
+    "uk": "ˈɜːrdʒənt"
+  },
+  "sentences": [
+    {
+      "en": "\"It is most urgent, sahib,\" he said.",
+      "cn": "“事情非常紧急，大人，”他说。"
+    },
+    {
+      "en": "an urgent appeal for information",
+      "cn": "紧急呼吁提供信息"
+    },
+    {
+      "en": "an urgent message",
+      "cn": "一封急报"
+    },
+    {
+      "en": "Churchill telegraphed an urgent message to Wavell.",
+      "cn": "丘吉尔给韦维尔发了封紧急电报。"
+    },
+    {
+      "en": "He asked to see the manager for something urgent.",
+      "cn": "他有急事求见经理."
+    },
+    {
+      "en": "He rushed in with an urgent telex from Hong Kong.",
+      "cn": "他手里拿着一份香港发来的紧急电传冲了进来."
+    },
+    {
+      "en": "He says the matter is urgent.",
+      "cn": "他说这事很紧急."
+    },
+    {
+      "en": "He was in urgent need of medical attention.",
+      "cn": "他急需治疗。"
+    },
+    {
+      "en": "His mother leaned forward and spoke to him in urgent undertones.",
+      "cn": "他母亲身子前倾，小声而急切地跟他说话。"
+    },
+    {
+      "en": "His voice was low and urgent.",
+      "cn": "他的嗓音低沉而急切。"
+    },
+    {
+      "en": "It is most urgent that the patient should get to hospital.",
+      "cn": "那病人应该马上送医院."
+    },
+    {
+      "en": "It would be an exaggeration to call the danger urgent.",
+      "cn": "称那种危险为紧急事件有点夸张。"
+    },
+    {
+      "en": "It'supplies an urgent need.",
+      "cn": "这满足了急需."
+    },
+    {
+      "en": "She was urgent for the doctor to come.",
+      "cn": "她催促医生快点来."
+    },
+    {
+      "en": "The report called for urgent action to reduce lead in petrol.",
+      "cn": "报告呼吁迅速采取行动，减少汽油中的铅含量。"
+    },
+    {
+      "en": "There is an urgent need for food and water.",
+      "cn": "现在亟需食物和水。"
+    },
+    {
+      "en": "Urgent business kept me from attending the meeting.",
+      "cn": "因有急事我不能去参加会议."
+    },
+    {
+      "en": "We have an urgent thing.",
+      "cn": "我们有一件紧要的事情."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "urgently",
+          "tran_cn": " 迫切地；紧急地；急切地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "urgency",
+          "tran_cn": " 紧急；催促；紧急的事"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "compelling",
+            "crucial",
+            "driving",
+            "essential",
+            "imperative",
+            "important",
+            "motivating",
+            "moving",
+            "necessary",
+            "pressing",
+            "vital"
+          ],
+          "tran_cn": "紧急的,急迫的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "burning",
+            "compelling",
+            "critical",
+            "crucial",
+            "driving",
+            "essential",
+            "exigent",
+            "forcible",
+            "imperative",
+            "imperious",
+            "important",
+            "insistent",
+            "instant",
+            "moving",
+            "necessary",
+            "pressing",
+            "significant",
+            "vital"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "an urgent message",
+      "tran_cn": "紧急消息（情况）"
+    },
+    {
+      "phrase": "extremely urgent",
+      "tran_cn": "迫在眉睫"
+    },
+    {
+      "phrase": "top urgent",
+      "tran_cn": "紧迫的问题"
+    },
+    {
+      "phrase": "urgent call",
+      "tran_cn": "加急电活，紧急呼叫"
+    },
+    {
+      "phrase": "urgent message",
+      "tran_cn": "加急电报，紧急通知"
+    },
+    {
+      "phrase": "urgent need",
+      "tran_cn": "迫切需要"
+    },
+    {
+      "phrase": "urgent telegram",
+      "tran_cn": "急电"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "紧急的，催促的，急切的",
+      "tran_en": "very important and needing to be dealt with immediately"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "urgently"
+    ],
+    "noun": [
+      "urgency"
+    ]
+  }
+}

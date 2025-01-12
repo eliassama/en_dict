@@ -1,0 +1,83 @@
+{
+  "word": "exceptionable",
+  "ipa": {
+    "us": "ɪk'sepʃənəbl",
+    "uk": "ɪk'sepʃənəbəl"
+  },
+  "sentences": [
+    {
+      "en": "A thoroughly unpleasant highly exceptionable piece of writing.",
+      "cn": "一部彻头彻尾低俗的、极其无法容忍的作品."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "conj",
+      "words": [
+        {
+          "word": "except",
+          "tran_cn": " 除了；要不是"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "exception",
+          "tran_cn": " 例外；异议"
+        }
+      ]
+    },
+    {
+      "pos": "prep",
+      "words": [
+        {
+          "word": "except",
+          "tran_cn": " 除…之外"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "except",
+          "tran_cn": " 反对"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "except",
+          "tran_cn": " 不计；把…除外"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "opposable",
+            "antipathetic"
+          ],
+          "tran_cn": "可反对的；可抗议的；引起反感的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<正>会引起反感的，可提出异议的",
+      "tran_en": "open to or subject to objection; objectionable "
+    }
+  ],
+  "exchange": {}
+}

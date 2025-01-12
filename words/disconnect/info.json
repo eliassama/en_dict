@@ -1,0 +1,171 @@
+{
+  "word": "disconnect",
+  "ipa": {
+    "us": "ˌdɪskəˈnekt",
+    "uk": "ˌdɪskəˈnekt"
+  },
+  "sentences": [
+    {
+      "en": "An alternative approach to alcohols having two identical R groups ( q ) is to disconnect both at once.",
+      "cn": "另一可供选用的,通向具有两个等同R基 的醇 ( q ) 的办法是,将这两个R基一举全都切开."
+    },
+    {
+      "en": "Close test cock No.4. Disconnect bypass hose ( yellow ) at test cock No.4.",
+      "cn": "关闭测试旋塞4号. 断开测试旋塞4号上的旁路软管 ( 黄 )."
+    },
+    {
+      "en": "Disconnect both ends of the circuit or component to be measured.",
+      "cn": "断开待测电路或部件的两端."
+    },
+    {
+      "en": "Disconnect power cord for another 10 secs and then reconnect.",
+      "cn": "断开电源线10秒钟后再次接上电源线."
+    },
+    {
+      "en": "Disconnect the gauge glasses or fit a blind flange between them.",
+      "cn": "拆开水位玻璃管或者在两者之间装上盖板."
+    },
+    {
+      "en": "Disconnect the power mirror wire harness retainers from the inner door panel.",
+      "cn": "从内侧车门饰板断开电动视镜电线束扣件."
+    },
+    {
+      "en": "DO NOT DISCONNECT THE SPARK PLUG WIRES WHILE THE ENGINE IS OPERATING.",
+      "cn": "切勿在引擎工作时断开火星塞电线."
+    },
+    {
+      "en": "Extra settings for configuring BAD modems that cannot identify proper disconnect tone.",
+      "cn": "额外的设置,配置不好的调制解调器不能确定适当的断开的语调."
+    },
+    {
+      "en": "First, disconnect the boiler from the water mains.",
+      "cn": "先将锅炉与供水总管断开。"
+    },
+    {
+      "en": "GAIN ACCESS TO THE BCM BODY 20 - WAY CONNECTOR BUT DO NOT DISCONNECT.",
+      "cn": "找出BCM车体20路接头,但不要将之断开."
+    },
+    {
+      "en": "If you don't pay your bills they'll disconnect your electricity / gas.",
+      "cn": "若不付费用,就要停止供应电力[煤气]."
+    },
+    {
+      "en": "Remove the latch clip and disconnect the fuel supply hose.",
+      "cn": "拆卸锁闩扣夹并断开燃油供给软管."
+    },
+    {
+      "en": "The family agreed to disconnect her life support system.",
+      "cn": "家人同意切断她的生命维持系统。"
+    },
+    {
+      "en": "We can therefore disconnect this bond ( 5 a ).",
+      "cn": "我们于是可以把这个键 ( 5a ) 切断."
+    },
+    {
+      "en": "When not using a battery, disconnect it from the device.",
+      "cn": "26当电池不使用时, 请把它从装置上取下."
+    },
+    {
+      "en": "You should disconnect the wireless set before you make adjustments inside it.",
+      "cn": "你应先拔掉无线电插头,再做内部调整."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disconnected",
+          "tran_cn": " 分离的；不连贯的；无系统的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "disconnected",
+          "tran_cn": " 分离（disconnect的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "detach",
+            "disjoin",
+            "dislocate",
+            "divorce",
+            "liberate",
+            "loosen",
+            "unlock"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "trip out",
+            "key out"
+          ],
+          "tran_cn": "断开"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "separate",
+            "split",
+            "divorce"
+          ],
+          "tran_cn": "拆开，使分离"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "disconnect from",
+      "tran_cn": "从…分离"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使不连接；切断",
+      "tran_en": "to remove the supply of power, gas, water etc from a machine or piece of equipment"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "切断，断开，拆开，使（电话线路）中断"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "disconnects"
+    ],
+    "past": [
+      "disconnected"
+    ],
+    "done": [
+      "disconnected"
+    ],
+    "ing": [
+      "disconnecting"
+    ],
+    "noun": [
+      "disconnection"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "word": "manumission",
+  "ipa": {
+    "us": "ˌmænjʊ'mɪʃən",
+    "uk": "ˌmænjə'mɪʃən"
+  },
+  "sentences": [
+    {
+      "en": "He believed in the manumission of the slaves.",
+      "cn": "他相信奴隶解放事业的价值。"
+    },
+    {
+      "en": "To a soundtrack created by the whales themselves—via Roger Payne's groundbreaking and album-charting recording of the plaintive song of the humpback whale—we moved slowly towards cetacean manumission.",
+      "cn": "透过鲸鱼们自己演唱，由Roger Payne's 灌录的座头鲸忧伤的歌，我们慢慢倾向了解放鲸鱼。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "manumit",
+          "tran_cn": " 解放；释放"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "liberation",
+            "emancipation"
+          ],
+          "tran_cn": "（农奴，奴隶的）解放"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deliverance",
+            "freedom"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "解放",
+      "tran_en": "the act of freeing or the state of being freed from slavery, servitude, etc "
+    }
+  ],
+  "exchange": {}
+}

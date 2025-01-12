@@ -1,0 +1,229 @@
+{
+  "word": "quote",
+  "ipa": {
+    "us": "kwəʊt",
+    "uk": "kwoʊt"
+  },
+  "sentences": [
+    {
+      "en": "A military spokesman was quoted as saying that the border area is now safe.",
+      "cn": "报道引述军方一位发言人的话，说边境地区现在很安全。"
+    },
+    {
+      "en": "Arthur C Clarke likes to quote his friend and fellow SF writer Ray Bradbury.",
+      "cn": "阿瑟·C.克拉克喜欢引用他的朋友兼同事——科幻作家雷·布拉德伯里的话。"
+    },
+    {
+      "en": "Can you quote me an example of what you mean?",
+      "cn": "你能否给我举个例子来说明你的意思?"
+    },
+    {
+      "en": "He drowned in a boating quote \"accident\" unquote.",
+      "cn": "他在一次所谓的翻船“事故”中溺亡。"
+    },
+    {
+      "en": "He quoted a short passage from the Bible.",
+      "cn": "他引用了《圣经》里的一小段。"
+    },
+    {
+      "en": "I can quote what he said.",
+      "cn": "我可以引用他的话."
+    },
+    {
+      "en": "I got a number of suppliers to quote me their best prices.",
+      "cn": "我有一些供应商给我开出最优惠价."
+    },
+    {
+      "en": "Joe was always good for a colorful quote.",
+      "cn": "乔总能绘声绘色地旁征博引。"
+    },
+    {
+      "en": "Please quote this reference number when reordering stock.",
+      "cn": "再次订货时请提供这个编号。"
+    },
+    {
+      "en": "The actor, striking an attitude, began to quote Shakespeare.",
+      "cn": "这位演员装腔作势地开始引用莎士比亚的原文."
+    },
+    {
+      "en": "The article starts with a quote from an unnamed member of the Cabinet.",
+      "cn": "文章的开头引用了一位未透露姓名的内阁成员说过的话。"
+    },
+    {
+      "en": "The paper starts its editorial comment with a quote from an unnamed member of the House.",
+      "cn": "该报社论以一位匿名议员的引语展开。"
+    },
+    {
+      "en": "The poem is too long to quote in its entirety.",
+      "cn": "这首诗太长,没法全文引用."
+    },
+    {
+      "en": "There's a precedent to quote.",
+      "cn": "有例可援."
+    },
+    {
+      "en": "They quoted a price of £15,000.",
+      "cn": "他们报价1.5万英镑。"
+    },
+    {
+      "en": "This is the best price I can quote you.",
+      "cn": "这是我给你开出的最有利的价钱了."
+    },
+    {
+      "en": "We'll send you a quote without delay.",
+      "cn": "我们会立刻送一份报价给你。"
+    },
+    {
+      "en": "We've only had an \"average\", quote, unquote, kind of recession.",
+      "cn": "我们只有过一次被称作“一般性的”经济衰退。"
+    },
+    {
+      "en": "What was that marvellous quote that she came out with?",
+      "cn": "她引用的那句妙语是什么来着？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "quotable",
+          "tran_cn": " 可引用的；适于引用的；有引用价值的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "quotability",
+          "tran_cn": " 引用价值"
+        },
+        {
+          "word": "quotation",
+          "tran_cn": " [贸易] 报价单；引用语；引证"
+        },
+        {
+          "word": "quoter",
+          "tran_cn": " 引用者；估价者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "citing",
+            "citation"
+          ],
+          "tran_cn": "引用"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cite",
+            "echo",
+            "illustrate",
+            "quotation",
+            "refer",
+            "repeat",
+            "selection",
+            "to"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "reference",
+            "make offers"
+          ],
+          "tran_cn": "报价；引用；引证"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cite",
+            "echo",
+            "illustrate",
+            "refer",
+            "repeat",
+            "to"
+          ],
+          "tran_cn": "引用;引述;重复"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "quote —— unquote",
+      "tran_cn": "(非正式)引文起——引文止（尤用以强调说话者对所引述文字的不同看法）"
+    },
+    {
+      "phrase": "quote from",
+      "tran_cn": "引用自"
+    },
+    {
+      "phrase": "stock quote",
+      "tran_cn": "股票报价"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "引用，报价，引号",
+      "tran_en": "a sentence or phrase from a book, speech etc which you repeat in a speech or piece of writing because it is interesting or amusing"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "报价；引述；举证",
+      "tran_en": "to repeat exactly what someone else has said or written"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "引用"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "报价，引述",
+      "tran_en": "to repeat exactly what someone else has said or written"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "引述，引用"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "quotes"
+    ],
+    "third": [
+      "quotes"
+    ],
+    "past": [
+      "quoted"
+    ],
+    "done": [
+      "quoted"
+    ],
+    "ing": [
+      "quoting"
+    ]
+  }
+}

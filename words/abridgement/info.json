@@ -1,0 +1,116 @@
+{
+  "word": "abridgement",
+  "ipa": {
+    "us": "ə'brɪdʒmənt",
+    "uk": "ə'brɪdʒmənt"
+  },
+  "sentences": [
+    {
+      "en": "An abridgement of the book has been published for young readers.",
+      "cn": "他们为年轻读者出版了这本书的节本."
+    },
+    {
+      "en": "Beginners are encouraged to read abridgement of David Copperfield because the original is too difficult.",
+      "cn": "要鼓励初学者去读《大卫·科波菲尔》的缩写本,因为原著太难了."
+    },
+    {
+      "en": "He read abridgement of the long novel.",
+      "cn": "他读了那部长“篇”小说的节本."
+    },
+    {
+      "en": "He read an abridgement of the long novel.",
+      "cn": "他读了那部长篇小说的节本."
+    },
+    {
+      "en": "In conclusion, the author puts forward three translation strategies, namely, abridgement, adaptation and interpretation.",
+      "cn": "在结论部分作者提出了三种翻译策略, 即删减法、改译法和解释法."
+    },
+    {
+      "en": "The town council voted for an abridgement of the mayor's power.",
+      "cn": "市议会投票赞成限制市长的权力."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "abridged",
+          "tran_cn": " 删节的；削减的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "abridgment",
+          "tran_cn": " 删节；删节本；[图情] 文摘；缩短；限制"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "abridged",
+          "tran_cn": " 缩短；减少；删去（abridge的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "abridge",
+          "tran_cn": " 删节；缩短；节略"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "reduction",
+            "loss",
+            "decrease"
+          ],
+          "tran_cn": "[图情]节略，缩写；减少"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abbreviation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "节本，缩减，节略，（权利、特权、自由等的）剥夺",
+      "tran_en": "a shortened version of a written work "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "abridgements"
+    ],
+    "verb": [
+      "abridge"
+    ],
+    "adj": [
+      "abridged"
+    ]
+  }
+}

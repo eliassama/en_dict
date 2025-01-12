@@ -1,0 +1,188 @@
+{
+  "word": "recur",
+  "ipa": {
+    "us": "rɪˈkɜː(r)",
+    "uk": "rɪˈkɜːr"
+  },
+  "sentences": [
+    {
+      "en": "...a theme that was to recur frequently in his work.",
+      "cn": "…一个将在他的作品中多次出现的主题。"
+    },
+    {
+      "en": "Crowd mentality changes slowly, and price patterns recur, albeit with variations.",
+      "cn": "大众的智力变化慢, 价格的模式会反复出现, 但有所不同."
+    },
+    {
+      "en": "Does history / the past repeat itself? ie Do similar events or situations recur?",
+      "cn": "历史[过去的事件]还会重演 吗 ?(类似的事情或情况还会发生 吗 ?)"
+    },
+    {
+      "en": "Economic crises recur periodically.",
+      "cn": "经济危机周期性地发生."
+    },
+    {
+      "en": "He did not recur in thought to New York or the flat.",
+      "cn": "他再也没去想纽约或者他的公寓."
+    },
+    {
+      "en": "I shall recur to the subject later on.",
+      "cn": "我稍后再回头谈这个问题."
+    },
+    {
+      "en": "I will recur to the history of this bridge later.",
+      "cn": "我待会将会提到这座桥的历史."
+    },
+    {
+      "en": "Let us recur to the principles which we have worked out.",
+      "cn": "让我们重提之前提出的原则."
+    },
+    {
+      "en": "Love is a recurring theme in the book.",
+      "cn": "爱情是这本书中反复出现的主题。"
+    },
+    {
+      "en": "Of course, many problems recur at various periods.",
+      "cn": "当然, 有许多问题会在不同的时期反复提出."
+    },
+    {
+      "en": "The army will recur to the use of force.",
+      "cn": "军队将会借助于武力."
+    },
+    {
+      "en": "The path of a planet appears to consist of loops that recur regularly.",
+      "cn": "行星的轨迹呈现出规律重复的环形."
+    },
+    {
+      "en": "The same old favorites recur year in year out with monotonous regularity.",
+      "cn": "相同的决心以单调的规律年复一年地出现."
+    },
+    {
+      "en": "The same old favourites recur year in year out with monotonous regularity.",
+      "cn": "一些相同的老嗜好年复一年地以单调的规律重现."
+    },
+    {
+      "en": "The symptoms tend to recur.",
+      "cn": "这种症状有可能复发."
+    },
+    {
+      "en": "There is a danger that the disease may recur.",
+      "cn": "这种病有复发的危险。"
+    },
+    {
+      "en": "They usually disappear over several weeks and do not recur.",
+      "cn": "结节常在数周后自然消退,复发不常见."
+    },
+    {
+      "en": "This source of doubt would not so perpetually recur.",
+      "cn": "此种疑团,当不会如此长久存在."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "recurrent",
+          "tran_cn": " 复发的；周期性的，经常发生的"
+        },
+        {
+          "word": "recurring",
+          "tran_cn": " 循环的；再发的"
+        },
+        {
+          "word": "recursive",
+          "tran_cn": " [数] 递归的；循环的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "recurrently",
+          "tran_cn": " 循环地（周而复始地）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "recurrence",
+          "tran_cn": " 再发生；循环；重现；重新提起"
+        },
+        {
+          "word": "recursion",
+          "tran_cn": " [数] 递归，循环；递归式"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "recurring",
+          "tran_cn": " 返回（recur的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "again",
+            "come",
+            "repeat",
+            "return"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "again",
+            "come",
+            "repeat",
+            "return"
+          ],
+          "tran_cn": "返回"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "复发；重现；采用；再来；循环；递归",
+      "tran_en": "if a number or numbers after a  decimal point  recur, they are repeated for ever in the same order"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "再发生，复发，重现，回想",
+      "tran_en": "if something, especially something bad or unpleasant, recurs, it happens again"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "recurs"
+    ],
+    "past": [
+      "recurred"
+    ],
+    "done": [
+      "recurred"
+    ],
+    "ing": [
+      "recurring"
+    ]
+  }
+}

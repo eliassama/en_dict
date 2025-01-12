@@ -1,0 +1,180 @@
+{
+  "word": "minus",
+  "ipa": {
+    "us": "ˈmaɪnəs",
+    "uk": "ˈmaɪnəs"
+  },
+  "sentences": [
+    {
+      "en": "‘Any minus points ?’ ‘Well, the engine is rather noisy.’",
+      "cn": "“有什么毛病吗？”“嗯，发动机噪音很大。”"
+    },
+    {
+      "en": "17 minus 5 is 12 (17–5=12).",
+      "cn": "17减5等于12。"
+    },
+    {
+      "en": "Fifteen minus five -- there are only ten days to go now.",
+      "cn": "15天刨去5天, 只剩下10天了."
+    },
+    {
+      "en": "Five minus three is two.",
+      "cn": "五减三等于二."
+    },
+    {
+      "en": "He seems to have mistaken a minus for a plus.",
+      "cn": "他似乎把负号误作正号了."
+    },
+    {
+      "en": "He was minus fifty dollars.",
+      "cn": "他花了五十块钱."
+    },
+    {
+      "en": "He's keen, but his youth is a minus factor.",
+      "cn": "他非常精明, 但他的年轻却是个不利的因素."
+    },
+    {
+      "en": "None of these minus points will have been mentioned.",
+      "cn": "这些不利因素都不会被提及。"
+    },
+    {
+      "en": "On the minus side, there is no free back-up service if things go wrong.",
+      "cn": "不足之处是出了问题没有免费的技术支持服务。"
+    },
+    {
+      "en": "One minus one is zero.",
+      "cn": "1减1等于0。"
+    },
+    {
+      "en": "One minus one leaves nought [ zero ].",
+      "cn": "一减一 等于 零."
+    },
+    {
+      "en": "The aircraft was subjected to temperatures of minus 65 degrees and plus 120 degrees.",
+      "cn": "该飞机经受了零下65 度和零上120度的温度。"
+    },
+    {
+      "en": "The film company collapsed, leaving Chris jobless and minus his life savings.",
+      "cn": "电影公司垮了，克里斯没了工作，也失去了他一生的积蓄。"
+    },
+    {
+      "en": "The payment will be refunded to you minus a small service charge.",
+      "cn": "这笔款项扣除一小笔服务费后将退还给你。"
+    },
+    {
+      "en": "The star's surface temperature is reckoned to be minus 75 degrees Celsius.",
+      "cn": "这颗恒星的表面温度估计在零下75摄氏度左右。"
+    },
+    {
+      "en": "The statue survived through minus a leg.",
+      "cn": "雕像幸存了下来,缺了一条腿."
+    },
+    {
+      "en": "The temperature dropped to minus ten degrees centigrade.",
+      "cn": "温度降到摄氏零下十度."
+    },
+    {
+      "en": "The temperature was minus 30 degrees.",
+      "cn": "气温为零下30度."
+    },
+    {
+      "en": "Twelve from ten equals minus two.",
+      "cn": "10减去12等于负2."
+    },
+    {
+      "en": "With the chill factor, it's nearly minus forty here.",
+      "cn": "加上风寒指数, 气温接近零下40度."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "negative",
+            "nonpositive"
+          ],
+          "tran_cn": "减的；负的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "shortage",
+            "short of",
+            "lack",
+            "insufficient"
+          ],
+          "tran_cn": "[数]负号，减号；不足；负数"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "absent",
+            "excepting",
+            "lacking",
+            "less",
+            "missing",
+            "without"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "prep",
+      "words": [
+        {
+          "words": [
+            "excepting",
+            "less",
+            "without"
+          ],
+          "tran_cn": "少,差,没有"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "minus one",
+      "tran_cn": "关闭一声部模式；零下一度"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "a&n&prep",
+      "tran_cn": "负的，负号；减",
+      "tran_en": "used to show that one number or quantity is being  subtract ed  from another"
+    },
+    {
+      "pos": "adj",
+      "tran_cn": "负的，不利的，略低于某标准的",
+      "tran_en": "used to talk about a disadvantage of a thing or situation"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "减号，负号，不利，不足",
+      "tran_en": "a  minus sign "
+    },
+    {
+      "pos": "prep",
+      "tran_cn": "（表示否定）没有，缺少，（表示运算）减去，（表示数目）在零度以下",
+      "tran_en": "used to show that one number or quantity is being  subtract ed  from another"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "minuses"
+    ]
+  }
+}

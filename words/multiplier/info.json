@@ -1,0 +1,168 @@
+{
+  "word": "multiplier",
+  "ipa": {
+    "us": "ˈmʌltɪplaɪə(r)",
+    "uk": "ˈmʌltəˌplaɪɚ"
+  },
+  "sentences": [
+    {
+      "en": "A design of multiplier wrench in digital - indicate is introduced.",
+      "cn": "介绍数显式行星力矩放大扳手的设计方法."
+    },
+    {
+      "en": "And so on. This positive feedback loop is called the multiplier effect.",
+      "cn": "这种正面的回馈循环正是我们通常说的“乘数效果”."
+    },
+    {
+      "en": "And then it compares the LUT method with the multiplier method.",
+      "cn": "比较了查找表和乘法器两种实现方案."
+    },
+    {
+      "en": "For the geometry depicted in Figure 2 - 2 , the lagrange multiplier is positive.",
+      "cn": "对于图 2-2 中所画的几何图形来说, 拉格朗日乘子是正的."
+    },
+    {
+      "en": "I gave yellow color and big multiplier to main direct light.",
+      "cn": "主要的直射灯光使用黄色和较大的倍增."
+    },
+    {
+      "en": "In 8 X 2 , the multiplier is 8.",
+      "cn": "在乘式8X2中, 乘数是8."
+    },
+    {
+      "en": "Optional effect pitch multiplier. Default is 1.0 , meaning default pitch.",
+      "cn": "任意效果的音调增效器. 音调的默认值是1.0."
+    },
+    {
+      "en": "Reduced damage multiplier for act - end boss attacks vs. minions.",
+      "cn": "为行动末端领头的攻击对宠儿减少损坏乘数."
+    },
+    {
+      "en": "The Color, Multiplier and Attenuation parameters can all be animated over time.",
+      "cn": "颜色, 放大器和减弱器都可以超时绘制."
+    },
+    {
+      "en": "The described multiplier is basedon the variable transconductance principle.",
+      "cn": "本文叙述一种可变跨导脉冲乘法器."
+    },
+    {
+      "en": "The register used to contain a multiplier in multiplication and the quotient in division.",
+      "cn": "在乘法运算中存放乘数,在除法运算中存放商的一种寄存器."
+    },
+    {
+      "en": "The topology of multiplier, which related with physical implementation closely, also advancedrapidly.",
+      "cn": "与此同时, 与物理实现紧密相关的乘法器拓扑结构的研究也硕果累累."
+    },
+    {
+      "en": "This economic concept also considers the income multiplier of these tourist expenditures.",
+      "cn": "这种经济观念也关系到旅游消费收入的增加."
+    },
+    {
+      "en": "This multiplier used modified Booth Algorithm, Wallace tree and 4 - 2 compressor.",
+      "cn": "乘法器采用改进的Booth算法,简化了部分积符号扩展, 使用Wallace树结构和 4-2 压缩器对部分积归约."
+    },
+    {
+      "en": "Were the government to use a multiplier of five instead of three, the proportion of Americans below the poverty line would rise to more than 24 percent.",
+      "cn": "如果政府用5而不是3做乘数，那美国的贫困人口比例将会上升到24%以上。"
+    },
+    {
+      "en": "Why to say telecommunication is the multiplier of productivity?",
+      "cn": "为何说电信是生产力的倍增器?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "multiplicative",
+          "tran_cn": " [数] 乘法的；增加的"
+        },
+        {
+          "word": "multiply",
+          "tran_cn": " 多层的；多样的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "multiply",
+          "tran_cn": " 多样地；复合地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "multiplicand",
+          "tran_cn": " [数] 被乘数"
+        },
+        {
+          "word": "multiplication",
+          "tran_cn": " [数] 乘法；增加"
+        },
+        {
+          "word": "multiplicative",
+          "tran_cn": " 乘法；倍数词"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "multiply",
+          "tran_cn": " 乘；繁殖；增加"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "multiply",
+          "tran_cn": " 乘；使增加；使繁殖；使相乘"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "facient",
+            "multiplying factor"
+          ],
+          "tran_cn": "[数]乘数；[电子]倍增器；增加者；繁殖者"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "frequency multiplier",
+      "tran_cn": "[电子]倍频器"
+    },
+    {
+      "phrase": "lagrange multiplier",
+      "tran_cn": "n. 拉格朗日乘子"
+    },
+    {
+      "phrase": "multiplier effect",
+      "tran_cn": "乘数效应"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "乘数，乘子",
+      "tran_en": "When you multiply a number by another number, the second number is the multiplier"
+    }
+  ],
+  "exchange": {}
+}

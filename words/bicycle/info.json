@@ -1,0 +1,214 @@
+{
+  "word": "bicycle",
+  "ipa": {
+    "us": "ˈbaɪsɪkl",
+    "uk": "ˈbaɪsɪkl"
+  },
+  "sentences": [
+    {
+      "en": "Can James ride a bicycle yet?",
+      "cn": "詹姆斯会骑自行车了吗？"
+    },
+    {
+      "en": "Each year they compete in a prominent statewide bicycle race.",
+      "cn": "每年他们都要参加著名的全州自行车大赛。"
+    },
+    {
+      "en": "Have you seen my bicycle?",
+      "cn": "你有看见过我的自行车吗？"
+    },
+    {
+      "en": "He got off his bicycle and left the room.",
+      "cn": "他生气地离开了屋子."
+    },
+    {
+      "en": "He got on his bicycle and rode off.",
+      "cn": "他骑上自行车走了。"
+    },
+    {
+      "en": "He lent his bicycle to me.",
+      "cn": "他把自行车借给我用了。"
+    },
+    {
+      "en": "He rode to work on a bicycle.",
+      "cn": "他骑自行车上班。"
+    },
+    {
+      "en": "He was covered with bruises after falling off his bicycle.",
+      "cn": "他从自行车上摔了下来,摔得浑身伤痕."
+    },
+    {
+      "en": "I am not keen for her to have a bicycle.",
+      "cn": "我不太放心她有辆自行车。"
+    },
+    {
+      "en": "Oscar had a new bicycle.",
+      "cn": "奥斯卡有一辆新自行车。"
+    },
+    {
+      "en": "Our son has just graduated from a tricycle to a proper bicycle.",
+      "cn": "我们的儿子刚刚从骑三轮车过渡到骑普通自行车."
+    },
+    {
+      "en": "The bicycle lay upended in a ditch.",
+      "cn": "自行车翻倒在一条小水沟里。"
+    },
+    {
+      "en": "The bicycle reigned supreme as Britain's most popular mode of transport.",
+      "cn": "当时自行车是英国最流行的交通工具。"
+    },
+    {
+      "en": "The bicycle saddle is too high for this child.",
+      "cn": "这辆自行车车座对这孩子来说太高了."
+    },
+    {
+      "en": "The height of the bicycle seat is adjustable.",
+      "cn": "这辆自行车车座的高度可以调节。"
+    },
+    {
+      "en": "the prototype of the modern bicycle",
+      "cn": "现代自行车的雏形"
+    },
+    {
+      "en": "toe clips on a bicycle",
+      "cn": "自行车上的踏脚夹套"
+    },
+    {
+      "en": "We went on long bicycle rides together.",
+      "cn": "我们一起骑自行车长途旅行。"
+    },
+    {
+      "en": "Well what about your bicycle?",
+      "cn": "那么你的自行车呢？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bicycler",
+          "tran_cn": " 骑单车的人"
+        },
+        {
+          "word": "bicycling",
+          "tran_cn": " 骑车"
+        },
+        {
+          "word": "bicyclist",
+          "tran_cn": " 骑脚踏车者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bicycling",
+          "tran_cn": " 骑自行车（bicycling的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bicycle",
+            "bike",
+            "boneshaker",
+            "built",
+            "cycle",
+            "for",
+            "highwheeler",
+            "ordinary",
+            "penny-farthing",
+            "push-bike",
+            "racer",
+            "tandem",
+            "tenspeed",
+            "tricycle",
+            "trike",
+            "two",
+            "two-wheeler",
+            "unicycle",
+            "velocipede"
+          ],
+          "tran_cn": "自行车,脚踏车"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "wheel"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bicycle frame",
+      "tran_cn": "车架，自行车架"
+    },
+    {
+      "phrase": "bicycle pump",
+      "tran_cn": "n. 气汞；自行车打气筒"
+    },
+    {
+      "phrase": "bicycle race",
+      "tran_cn": "自行车竞赛"
+    },
+    {
+      "phrase": "bicycle tire",
+      "tran_cn": "自行车轮胎"
+    },
+    {
+      "phrase": "by bicycle",
+      "tran_cn": "骑脚踏车"
+    },
+    {
+      "phrase": "electric bicycle",
+      "tran_cn": "电动自行车"
+    },
+    {
+      "phrase": "racing bicycle",
+      "tran_cn": "赛车；竞赛用自行车"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "自行车",
+      "tran_en": "a vehicle with two wheels that you ride by pushing its  pedal s  with your feet"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "骑自行车",
+      "tran_en": "to go somewhere by bicycle"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bicycles"
+    ],
+    "third": [
+      "bicycles"
+    ],
+    "past": [
+      "bicycled"
+    ],
+    "done": [
+      "bicycled"
+    ],
+    "ing": [
+      "bicycling"
+    ]
+  }
+}

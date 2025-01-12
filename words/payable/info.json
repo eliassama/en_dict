@@ -1,0 +1,192 @@
+{
+  "word": "payable",
+  "ipa": {
+    "us": "ˈpeɪəbl",
+    "uk": "ˈpeɪəbl"
+  },
+  "sentences": [
+    {
+      "en": "A 10% deposit is payable in advance.",
+      "cn": "须预付10&percnt;的押金。"
+    },
+    {
+      "en": "A refundable deposit is payable on arrival.",
+      "cn": "可退还订金到店即可退还。"
+    },
+    {
+      "en": "A returnable deposit is payable on arrival.",
+      "cn": "抵达时应支付可退还押金。"
+    },
+    {
+      "en": "An initial fee is payable to the franchiser.",
+      "cn": "应该付给经销商一笔先期费用."
+    },
+    {
+      "en": "Cheques should be made payable to Country Living and your address written on the reverse.",
+      "cn": "支票抬头必须写“《乡村生活》杂志”，你的地址应写在背面。"
+    },
+    {
+      "en": "Interest is payable on credit balances.",
+      "cn": "利息按照贷方余额支付。"
+    },
+    {
+      "en": "It is a bill payable upon sight.",
+      "cn": "那是一张见票即付的汇票."
+    },
+    {
+      "en": "No tax is payable on these earnings.",
+      "cn": "这些收入不须交税."
+    },
+    {
+      "en": "Please enclose your remittance, making cheques payable to Thames Valley Technology.",
+      "cn": "请附上汇款，支票收款人为泰晤士河谷科技公司。"
+    },
+    {
+      "en": "Purchase tax was not payable on goods for export.",
+      "cn": "出口商品不需要交购买税。"
+    },
+    {
+      "en": "The full fee is payable on enrollment.",
+      "cn": "所有费用在注冊时缴付."
+    },
+    {
+      "en": "The money was payable by a draft drawn by the home.",
+      "cn": "这笔钱可凭国内承兑的汇票支付。"
+    },
+    {
+      "en": "The rent is payable in advance .",
+      "cn": "租金须预付。"
+    },
+    {
+      "en": "This amount is payable immediately.",
+      "cn": "这笔钱应即时支付."
+    },
+    {
+      "en": "This check is payable on demand.",
+      "cn": "这是一张见票即付的支票."
+    },
+    {
+      "en": "Write, enclosing a cheque made payable to Cobuild Limited.",
+      "cn": "写封信，附上一张支付给Cobuild有限公司的支票。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "paying",
+          "tran_cn": " 支付的；赢利的；合算的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pay",
+          "tran_cn": " 工资，薪水；付款"
+        },
+        {
+          "word": "payer",
+          "tran_cn": " 付款人；支付者"
+        },
+        {
+          "word": "paying",
+          "tran_cn": " 支付；填缝；放送绳链"
+        },
+        {
+          "word": "payment",
+          "tran_cn": " 付款，支付；报酬，报答；偿还；惩罚，报应"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "paying",
+          "tran_cn": " 支付；报答（pay的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "pay",
+          "tran_cn": " 付款；偿还"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "pay",
+          "tran_cn": " 支付，付；偿还，补偿"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "due",
+            "mature"
+          ],
+          "tran_cn": "[会计]应付的；到期的；可付的；可获利的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "account payable",
+      "tran_cn": "应付帐款"
+    },
+    {
+      "phrase": "accounts payable",
+      "tran_cn": "应付帐款"
+    },
+    {
+      "phrase": "amount payable",
+      "tran_cn": "应付金额"
+    },
+    {
+      "phrase": "bonds payable",
+      "tran_cn": "应付公司债券"
+    },
+    {
+      "phrase": "dividends payable",
+      "tran_cn": "应付股利"
+    },
+    {
+      "phrase": "notes payable",
+      "tran_cn": "应付票据"
+    },
+    {
+      "phrase": "payable at sight",
+      "tran_cn": "见票即付"
+    },
+    {
+      "phrase": "tax payable",
+      "tran_cn": "应交税金；应缴税款"
+    },
+    {
+      "phrase": "taxes payable",
+      "tran_cn": "应付税款；应付税金"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "应付的，可付的，可获利的",
+      "tran_en": "a bill, debt etc that is payable must be paid"
+    }
+  ],
+  "exchange": {}
+}

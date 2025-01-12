@@ -1,0 +1,376 @@
+{
+  "word": "bag",
+  "ipa": {
+    "us": "bæɡ",
+    "uk": "bæɡ"
+  },
+  "sentences": [
+    {
+      "en": "...a bag of sweets.",
+      "cn": "…一袋糖果。"
+    },
+    {
+      "en": "A computer controls the activation of an air bag.",
+      "cn": "电脑控制着气囊的启动。"
+    },
+    {
+      "en": "a paper bag",
+      "cn": "…一袋糖果。"
+    },
+    {
+      "en": "bags I his jacket.",
+      "cn": "我要他的外套。"
+    },
+    {
+      "en": "Finally in disgust I told my debating opponent to bag it.",
+      "cn": "最后我厌恶地告诉我的争论对手停止讨论"
+    },
+    {
+      "en": "He got a job bagging groceries.",
+      "cn": "他找到一份工作，负责把杂货装袋。"
+    },
+    {
+      "en": "He realized he'd left his overnight bag at Mary's house.",
+      "cn": "他意识到自己把过夜包落在玛丽家了。"
+    },
+    {
+      "en": "He stooped to pick up the carrier bag of groceries.",
+      "cn": "他俯下身去提装着食品杂货的购物袋。"
+    },
+    {
+      "en": "He tied the ends of the plastic bag together.",
+      "cn": "他把塑料袋的两头系在了一起。"
+    },
+    {
+      "en": "He tied up the bag and took it outside.",
+      "cn": "他把口袋扎紧，拿到外边。"
+    },
+    {
+      "en": "His strong hand eased the bag from her grip.",
+      "cn": "他强有力的手迫使她松开了握紧袋子的双手。"
+    },
+    {
+      "en": "I should not leave my briefcase and camera bag unguarded.",
+      "cn": "我不该把我的公文包和相机包留在那儿无人看管。"
+    },
+    {
+      "en": "I took the gift out of my bag.",
+      "cn": "我把礼物从我的包里拿出来。"
+    },
+    {
+      "en": "Now, let's see. Where did I leave my bag?",
+      "cn": "嗯，我想想。我把包放哪儿了？"
+    },
+    {
+      "en": "Salter held the bag by the corners and shook it upside down.",
+      "cn": "索尔特捏住包的外角，把它倒过来晃了晃。"
+    },
+    {
+      "en": "She bought a travel-bag large enough to contain the film canisters.",
+      "cn": "她买了一只能装得下那些胶卷筒的旅行包。"
+    },
+    {
+      "en": "She came in and raised hell. Her son'ssports bag was missing.",
+      "cn": "她进来大吵大闹。她儿子的运动包丢了。"
+    },
+    {
+      "en": "She left the hotel carrying a shopping bag.",
+      "cn": "她拎着一个购物袋离开了宾馆。"
+    },
+    {
+      "en": "She picked up her bag, and went on her way.",
+      "cn": "她提起包继续赶路。"
+    },
+    {
+      "en": "She picked up the bag of salad and gave it a shake.",
+      "cn": "她拿起色拉袋晃了晃。"
+    },
+    {
+      "en": "She put the receipt into the innermost pocket of her bag.",
+      "cn": "她把收据放在提包最里面的口袋里。"
+    },
+    {
+      "en": "Stein rolled up the paper bag with the money inside.",
+      "cn": "斯坦把装了钱的纸袋卷了起来。"
+    },
+    {
+      "en": "the election is in the bag.",
+      "cn": "大选十拿九稳。"
+    },
+    {
+      "en": "threw her out bag and baggage.",
+      "cn": "把她彻底甩了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "baggy",
+          "tran_cn": " 袋状的，膨胀的；宽松而下垂的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bagger",
+          "tran_cn": " 装袋工；装袋机；垒打"
+        },
+        {
+          "word": "bagging",
+          "tran_cn": " 装袋；[纺] 制袋材料"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bagging",
+          "tran_cn": " 把…装入袋中（bag的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "attache",
+            "brief",
+            "carpetbag",
+            "case",
+            "dispatch",
+            "portmanteau",
+            "suitcase",
+            "valise"
+          ],
+          "tran_cn": "公文箱"
+        },
+        {
+          "words": [
+            "hag"
+          ],
+          "tran_cn": "女巫"
+        },
+        {
+          "words": [
+            "avocation",
+            "hobby",
+            "obsession",
+            "partiality",
+            "predilection",
+            "preference"
+          ],
+          "tran_cn": "癖好,嗜好"
+        },
+        {
+          "words": [
+            "backpack",
+            "haversack",
+            "kitbag",
+            "knapsack",
+            "rucksack"
+          ],
+          "tran_cn": "背包"
+        },
+        {
+          "words": [
+            "bag",
+            "duffel",
+            "gunny-sack",
+            "pocket",
+            "poke",
+            "pouch",
+            "sack",
+            "satchel",
+            "tote",
+            "valise"
+          ],
+          "tran_cn": "袋子"
+        },
+        {
+          "words": [
+            "bag",
+            "money",
+            "purse"
+          ],
+          "tran_cn": "钱夹"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "into",
+            "pocket",
+            "put"
+          ],
+          "tran_cn": "装袋"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "occupy"
+          ],
+          "tran_cn": "占据，私吞；猎获；把…装入袋中；使膨大"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a bag (或 bundle) of nerves",
+      "tran_cn": "(非正式)极胆小（或紧张）的人"
+    },
+    {
+      "phrase": "a bag (或 whole bag) of tricks",
+      "tran_cn": "(非正式)一整套巧妙的计划（技巧或资源）"
+    },
+    {
+      "phrase": "a bag of bones",
+      "tran_cn": "(非正式)骨瘦如柴的人（或动物）"
+    },
+    {
+      "phrase": "a bag of nails",
+      "tran_cn": "颠三倒四；混乱"
+    },
+    {
+      "phrase": "air bag",
+      "tran_cn": "[机]气囊"
+    },
+    {
+      "phrase": "bag and baggage",
+      "tran_cn": "连同全部财物；完全彻底地"
+    },
+    {
+      "phrase": "bag filter",
+      "tran_cn": "袋式过滤器；袋滤器"
+    },
+    {
+      "phrase": "bag it&I{【俚语】}",
+      "tran_cn": "放弃；停止：停止问题的讨论"
+    },
+    {
+      "phrase": "bags (或 bags I)",
+      "tran_cn": "(英， 非正式)（儿童用语）要，要求得到"
+    },
+    {
+      "phrase": "bags of",
+      "tran_cn": "[俚语]许多的，充足的"
+    },
+    {
+      "phrase": "bags under the eyes",
+      "tran_cn": "[口语]眼睛下面的鼓胀，肿眼泡"
+    },
+    {
+      "phrase": "cloth bag",
+      "tran_cn": "布袋"
+    },
+    {
+      "phrase": "cosmetic bag",
+      "tran_cn": "化妆包；化妆袋"
+    },
+    {
+      "phrase": "filter bag",
+      "tran_cn": "过滤袋"
+    },
+    {
+      "phrase": "hand bag",
+      "tran_cn": "手提袋，手提包"
+    },
+    {
+      "phrase": "ice bag",
+      "tran_cn": "冰袋（用于身体消肿，镇痛）"
+    },
+    {
+      "phrase": "in the bag",
+      "tran_cn": "稳操胜券的：确信有成功的结果；实际上已完成或已赢得"
+    },
+    {
+      "phrase": "in the bag informal 非正式",
+      "tran_cn": "(美)喝醉的"
+    },
+    {
+      "phrase": "laundry bag",
+      "tran_cn": "洗衣袋"
+    },
+    {
+      "phrase": "paper bag",
+      "tran_cn": "纸袋子"
+    },
+    {
+      "phrase": "plastic bag",
+      "tran_cn": "塑料袋；塑胶袋"
+    },
+    {
+      "phrase": "shopping bag",
+      "tran_cn": "n. 购物袋"
+    },
+    {
+      "phrase": "sleeping bag",
+      "tran_cn": "睡袋"
+    },
+    {
+      "phrase": "tea bag",
+      "tran_cn": "n. 茶叶袋"
+    },
+    {
+      "phrase": "travel bag",
+      "tran_cn": "旅行袋"
+    },
+    {
+      "phrase": "vacuum bag",
+      "tran_cn": "真空袋；真空加压袋"
+    },
+    {
+      "phrase": "woven bag",
+      "tran_cn": "编织袋；布袋；聚丙烯编织带"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "包，袋，眼袋，泼妇",
+      "tran_en": "the amount that a bag will hold"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "包",
+      "tran_en": "a flexible container with a single opening"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "把…装进袋子，抢占",
+      "tran_en": "to put things into bags"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bags"
+    ],
+    "third": [
+      "bags"
+    ],
+    "past": [
+      "bagged"
+    ],
+    "done": [
+      "bagged"
+    ],
+    "ing": [
+      "bagging"
+    ]
+  }
+}

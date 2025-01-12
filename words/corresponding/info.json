@@ -1,0 +1,201 @@
+{
+  "word": "corresponding",
+  "ipa": {
+    "us": "ˌkɒrəˈspɒndɪŋ",
+    "uk": "ˌkɔːrəˈspɑːndɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A change in the money supply brings a corresponding change in expenditure.",
+      "cn": "货币供应量的改变随即引起支出的相应改变。"
+    },
+    {
+      "en": "Each half reaction responds to the interfacial potential at the corresponding electrode.",
+      "cn": "每个半反应都与相应电极上的界面电势差相呼应."
+    },
+    {
+      "en": "For intermediate doses, the corresponding slant distances can be estimated by interpolation.",
+      "cn": "对于中间的剂量, 可以用内插法把相应的斜距估计出来."
+    },
+    {
+      "en": "I've been corresponding with a young scientist at Cambridge University.",
+      "cn": "我一直在同剑桥大学的一位年轻科学家通信."
+    },
+    {
+      "en": "If the note of D is sounded on a harp, all the corresponding D strings of other octaves will likewise resonate.",
+      "cn": "如果用竖琴演奏D音符，其他八度音阶所有相应的D弦都将发出共鸣。"
+    },
+    {
+      "en": "It has name corresponding to the facts.",
+      "cn": "它有着与事实相符的名称."
+    },
+    {
+      "en": "It is the distance between atoms corresponding to zero potential energy.",
+      "cn": "这就是相应于势能为零时的原子间距."
+    },
+    {
+      "en": "March and April sales this year were up 8 per cent on the corresponding period in 1992.",
+      "cn": "与1992年同期相比，今年3月和4月的销售额增长了8%。"
+    },
+    {
+      "en": "Sales are up 10% on the corresponding period last year.",
+      "cn": "销售额和去年同时期相比增加了10%。"
+    },
+    {
+      "en": "The corresponding reaction of acetaldehyde is subject to general base catalysis.",
+      "cn": "乙醛相应的反应服从广义的碱催化."
+    },
+    {
+      "en": "The hall was reserved exclusively for resident or corresponding members.",
+      "cn": "大厅是专门为本地会员或着通讯会员准备的."
+    },
+    {
+      "en": "The principal directions corresponding to two distinct principal strains are orthogonal.",
+      "cn": "和两个不同的主胁变相对应的主方向是互相正交的."
+    },
+    {
+      "en": "The war and the corresponding fall in trade have had a devastating effect on the country.",
+      "cn": "战争以及由此所导致的贸易量下降对这个国家产生了致命的影响。"
+    },
+    {
+      "en": "There is an increase in production of 20 % above that of the corresponding period of last year.",
+      "cn": "产量比去年同期增加20%."
+    },
+    {
+      "en": "This observation is called the law of corresponding states.",
+      "cn": "此观测结果就叫做对比状态定律."
+    },
+    {
+      "en": "What we required you to do is corresponding to the contract.",
+      "cn": "我们要你做的事情符合合同规定."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "correspondingly",
+          "tran_cn": " 相应地，相对地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "correspondence",
+          "tran_cn": " 通信；一致；相当"
+        },
+        {
+          "word": "correspondent",
+          "tran_cn": " 通讯记者；客户；通信者；代理商行"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "correspond",
+          "tran_cn": " 符合，一致；相应；通信"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "united",
+            "consistent",
+            "comparative",
+            "solid",
+            "matching"
+          ],
+          "tran_cn": "相当的，相应的；一致的；通信的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "alike",
+            "analogous",
+            "coincident",
+            "commensurate",
+            "comparable",
+            "complementary",
+            "conformable",
+            "consistent",
+            "consonant",
+            "correspondence",
+            "correspondent",
+            "parallel",
+            "proportional",
+            "such",
+            "twin"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "suiting"
+          ],
+          "tran_cn": "类似（correspond的ing形式）；相配"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "corresponding author",
+      "tran_cn": "n. 通讯作者；联系人"
+    },
+    {
+      "phrase": "corresponding bank",
+      "tran_cn": "代理行；往来银行；业务联系银行"
+    },
+    {
+      "phrase": "corresponding content",
+      "tran_cn": "对应内容"
+    },
+    {
+      "phrase": "corresponding element",
+      "tran_cn": "对应边；对应元"
+    },
+    {
+      "phrase": "corresponding period",
+      "tran_cn": "同期"
+    },
+    {
+      "phrase": "corresponding point",
+      "tran_cn": "对应点"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "相应的，相关的",
+      "tran_en": "caused by or connected with something you have already mentioned"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "符合，相当于，通信（ correspond的现在分词）"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "correspondingly"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "word": "collation",
+  "ipa": {
+    "us": "kə'leɪʃn",
+    "uk": "kə'leɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "Also, the default setting for Unicode Collation is case - insensitive.",
+      "cn": "并且, unicode排列的默认设置为不区分大小写."
+    },
+    {
+      "en": "Attempting to change default collation to % 1.",
+      "cn": "试图将默认的排序规则更改为%1."
+    },
+    {
+      "en": "But the ruling collation in Parliament said the President's order was illegal.",
+      "cn": "但是国会宪法修订者说总统的命令是违法的."
+    },
+    {
+      "en": "Cannot resolve collation conflict for % ls operation.",
+      "cn": "无法解决%1!操作的排序规则冲突."
+    },
+    {
+      "en": "Cannot resolve collation conflict for column % d in % ls statement.",
+      "cn": "无法解决列%1!(在%2!语句中)的排序规则冲突."
+    },
+    {
+      "en": "CHAR Stores single-byte or multibyte text strings of fixed length (up to 32,767 bytes); supports code-set order in collation of text data.",
+      "cn": "CHAR 存储固定长度的单字节或多字节的文本字符串（最高可达 32,767 个字节）；在整理文本数据时支持使用代码集顺序。"
+    },
+    {
+      "en": "Drag onto the page to add a collation of data.",
+      "cn": "拖到绘图页后,可以添加数据整理."
+    },
+    {
+      "en": "During the re - collation of the dictionary, 72 misuses of words were found.",
+      "cn": "重新勘定的辞典共校正出字词错误72处."
+    },
+    {
+      "en": "However, the collation would be wrong when the number of digits changed, so leading zeroes are provided.",
+      "cn": "不过，如果数字的位数发生了变化，整理就会发生错误， 所以要给出前导的零。"
+    },
+    {
+      "en": "I was quite taken with your line of photocopiers with collation and stapling capability.",
+      "cn": "我被贵公司能够自动整理和装订的系列复印机吸引住了."
+    },
+    {
+      "en": "It was in this choice retreat that Mr. Quilp ordered a cold collation to be prepared.",
+      "cn": "奎尔普先生就是在这个精美的别墅里预定冷点的."
+    },
+    {
+      "en": "Objective : To evaluate the efficacy of collation tissue volume reduction of tonsils.",
+      "cn": "目的: 观察低温等离子扁桃体减容术的疗效."
+    },
+    {
+      "en": "The collation that you entered is incomplete or invalid.",
+      "cn": "您输入的排序规则不完整或无效."
+    },
+    {
+      "en": "The specified database collation name is not valid.",
+      "cn": "指定的数据库排序规则名称无效."
+    },
+    {
+      "en": "Under strong pressure breakthrough after collation, short - term uptrend is expected to renew.",
+      "cn": "突破下压后强势整理, 短期 有望延续升势."
+    },
+    {
+      "en": "Unrecognized unicode collation values, using default values.",
+      "cn": "不能识别的编码序列值, 请使用默认值."
+    },
+    {
+      "en": "We should affirm Wang Jipei's achievements on collation.",
+      "cn": "应该全面肯定汪继培对《潜夫论》整理工作的贡献."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "collate",
+          "tran_cn": " 核对，校对；校勘"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "lookthrough",
+            "proofreading"
+          ],
+          "tran_cn": "校对；斋日的点心；牧师职务"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comparison",
+            "lunch",
+            "supper"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "核对，小吃",
+      "tran_en": "the act or process of collating "
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "collate"
+    ]
+  }
+}

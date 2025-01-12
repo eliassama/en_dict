@@ -1,0 +1,91 @@
+{
+  "word": "subdivide",
+  "ipa": {
+    "us": "ˈsʌbdɪvaɪd",
+    "uk": "ˌsʌbdɪˈvaɪd, ˈsʌbdɪˌvaɪd"
+  },
+  "sentences": [
+    {
+      "en": "After making a simple relief base, the mesh was subdivided to receive the Noise modifier.",
+      "cn": "在制作了简单的雕塑基础之后, 网格被子细分(subdivide)后用来接受Noise修改器."
+    },
+    {
+      "en": "Over time, developers subdivided the land.",
+      "cn": "开发商们渐渐地把这块土地进行了再分割。"
+    },
+    {
+      "en": "Subdivide Multi Fractal - As above, but new vertices are randomly displaced within a user - defined range.",
+      "cn": "不规则多次细分 - 与上一样, 但它是在用户定制的范围内随机置换细分."
+    },
+    {
+      "en": "Subdivide the diagonal section at the back - left side of the triangle with one diagonal - back parting.",
+      "cn": "在和对角线的 - 背面的三角形的背面留下的边细分对角线的区段离别的."
+    },
+    {
+      "en": "Subdivide the fringe section with a diagonal - left parting.",
+      "cn": "以对角线 - 左边分别细分边缘区段."
+    },
+    {
+      "en": "Subdivide the section with a diagonal - back parting.",
+      "cn": "以对角线 - 背面分别细分区段."
+    },
+    {
+      "en": "Subdivide with a horizontal parting below the occipital.",
+      "cn": "在后头骨下面以水平线分别细分."
+    },
+    {
+      "en": "The actual practice is divide accounting unIt'stepstep until individual wells and then to subdivide them.",
+      "cn": "研究了油田生产中成本控制问题,将成本的核算单位详细划分到单井,并将其细化分解."
+    },
+    {
+      "en": "The house was subdivided into apartments.",
+      "cn": "房子又被分割成几个套间。"
+    },
+    {
+      "en": "You can use sales organizations to subdivide markets into regions.",
+      "cn": "用销售组织将市场细分为区域."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "subdivision",
+          "tran_cn": "细分；分部；供出卖而分成的小块土地"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "把…再分",
+      "tran_en": "to divide into smaller parts something that is already divided"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "细分，再分"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "再分，细分"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "subdivides"
+    ],
+    "past": [
+      "subdivided"
+    ],
+    "done": [
+      "subdivided"
+    ],
+    "ing": [
+      "subdividing"
+    ]
+  }
+}

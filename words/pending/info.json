@@ -1,0 +1,150 @@
+{
+  "word": "pending",
+  "ipa": {
+    "us": "ˈpendɪŋ",
+    "uk": "ˈpendɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A decision on this matter is pending.",
+      "cn": "此事即将作出决定."
+    },
+    {
+      "en": "A growing number of customers have been inquiring about the pending price rises.",
+      "cn": "越来越多的顾客在询问即将出现的涨价问题。"
+    },
+    {
+      "en": "All charges against her are dropped pending the verification of her story.",
+      "cn": "在她的事情核实之前，所有针对她的指控都已撤回。"
+    },
+    {
+      "en": "Diagnosis was deferred pending further assessment.",
+      "cn": "等候进一步的评估再诊断."
+    },
+    {
+      "en": "He was freed on bail pending an appeal.",
+      "cn": "他被取保候审。"
+    },
+    {
+      "en": "He was released on bail pending committal proceedings.",
+      "cn": "他交保获释正在候审。"
+    },
+    {
+      "en": "He was released on bail pending further inquiries.",
+      "cn": "他获得保释，等候进一步调查。"
+    },
+    {
+      "en": "Many trade disputes are pending, awaiting the outcome of the talks.",
+      "cn": "许多贸易争端悬而未决，等待会谈结果。"
+    },
+    {
+      "en": "Mendoza is here pending his request for political asylum.",
+      "cn": "门多萨在要求获得政治庇护之前一直呆在这里。"
+    },
+    {
+      "en": "Names of the dead and injured are being withheld pending notification of relatives.",
+      "cn": "在正式通知亲属前，伤亡人员名单暂时保密。"
+    },
+    {
+      "en": "None of the four people killed was identified pending ( the ) notification of relatives.",
+      "cn": "四个 被害者 身份尚未确定,正待亲人前来辨认."
+    },
+    {
+      "en": "Pending his return let us get everything ready.",
+      "cn": "他回来之前,我们把一切准备好."
+    },
+    {
+      "en": "She had a libel action against the magazine pending.",
+      "cn": "她对该杂志提起的诽谤诉讼尚未判决。"
+    },
+    {
+      "en": "The lawsuit is still pending in the state court.",
+      "cn": "这案子仍在州法庭等待定夺."
+    },
+    {
+      "en": "The lawsuit was then pending.",
+      "cn": "那件讼案因而尚未解决."
+    },
+    {
+      "en": "The matter is still pending in court.",
+      "cn": "这案子还在法院中悬而未决."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "pendent",
+          "tran_cn": " 悬而未决的；下垂的；未定的；向外伸出的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "waiting"
+          ],
+          "tran_cn": "未定的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "during",
+            "undecided",
+            "until",
+            "waiting"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "prep",
+      "words": [
+        {
+          "words": [
+            "during",
+            "until"
+          ],
+          "tran_cn": "在...之间"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "patent pending",
+      "tran_cn": "专利申请中；专利未决"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "未决的，未定的，待定的，即将发生的",
+      "tran_en": "not yet decided or settled"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "(Pending)人名；(瑞典)彭丁"
+    },
+    {
+      "pos": "prep",
+      "tran_cn": "直到，在等待…期间",
+      "tran_en": "while waiting for something, or until something happens"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "待定；悬而不决（pend的ing形式）"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,201 @@
+{
+  "word": "mathematics",
+  "ipa": {
+    "us": "ˌmæθəˈmætɪks",
+    "uk": "ˌmæθəˈmætɪks"
+  },
+  "sentences": [
+    {
+      "en": "...a professor of mathematics at Boston College.",
+      "cn": "…一位波士顿大学的数学教授。"
+    },
+    {
+      "en": "a dictionary of mathematics",
+      "cn": "数学词典"
+    },
+    {
+      "en": "He did well in mathematics, but barely scraped through in chemistry.",
+      "cn": "他数学考得不错, 但化学只是勉强及格."
+    },
+    {
+      "en": "He has come out in front in the study of mathematics.",
+      "cn": "他在数学方面已名列前茅."
+    },
+    {
+      "en": "I'll help you with your mathematics if you're stuck.",
+      "cn": "你要是在数学方面遇到困难,我会来帮助你的."
+    },
+    {
+      "en": "Ingrid is currently teaching Mathematics at Shimla Public School.",
+      "cn": "英格丽德目前在希姆拉公立学校教数学。"
+    },
+    {
+      "en": "It's ironical that the weakest student in mathematics was elected class treasurer.",
+      "cn": "数学最差的学生竟被选为班级财务干事,这真是具有讽刺意味."
+    },
+    {
+      "en": "Mathematics was once dubbed the handmaiden of the sciences.",
+      "cn": "数学曾一度被视为各门科学的基础。"
+    },
+    {
+      "en": "Most of the students in this class are good at mathematics.",
+      "cn": "这个班的学生多半数学很好."
+    },
+    {
+      "en": "One in five young adults was struggling with everyday mathematics.",
+      "cn": "1/5的年轻人做日常的数学计算都费劲。"
+    },
+    {
+      "en": "Professor White is looked upon as an authority on mathematics.",
+      "cn": "怀特教授被看成数学权威."
+    },
+    {
+      "en": "She is working at a difficult problem in mathematics.",
+      "cn": "她在做一道数学难题."
+    },
+    {
+      "en": "Surprisingly, mathematics was voted their favourite subject.",
+      "cn": "令人惊讶的是，数学课被选为他们最喜欢的科目。"
+    },
+    {
+      "en": "The core subjects are English, mathematics and science.",
+      "cn": "基础课是英文、数学和科学。"
+    },
+    {
+      "en": "The degree provides a thorough grounding in both mathematics and statistics.",
+      "cn": "该学位课程将为数学和统计学打下扎实的基础。"
+    },
+    {
+      "en": "We had a very good mathematics mistress who pulled me up.",
+      "cn": "我们有个很出色的女数学老师，她帮我提高了水平。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mathematical",
+          "tran_cn": " 数学的，数学上的；精确的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "mathematically",
+          "tran_cn": " 算术地，数学上地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "math",
+          "tran_cn": " 数学（等于mathematics）"
+        },
+        {
+          "word": "mathematician",
+          "tran_cn": " 数学家"
+        },
+        {
+          "word": "maths",
+          "tran_cn": " 数学（等于mathematics）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "calculation",
+            "computation",
+            "figures",
+            "measurements",
+            "numbers"
+          ],
+          "tran_cn": "数学"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "calculation",
+            "computation",
+            "numbers"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "advanced mathematics",
+      "tran_cn": "高等数学"
+    },
+    {
+      "phrase": "applied mathematics",
+      "tran_cn": "应用数学"
+    },
+    {
+      "phrase": "combinatorial mathematics",
+      "tran_cn": "组合数学"
+    },
+    {
+      "phrase": "computational mathematics",
+      "tran_cn": "计算数学"
+    },
+    {
+      "phrase": "department of mathematics",
+      "tran_cn": "数学系"
+    },
+    {
+      "phrase": "discrete mathematics",
+      "tran_cn": "离散数学"
+    },
+    {
+      "phrase": "economic mathematics",
+      "tran_cn": "经济数学"
+    },
+    {
+      "phrase": "engineering mathematics",
+      "tran_cn": "[计]工程数学"
+    },
+    {
+      "phrase": "fuzzy mathematics",
+      "tran_cn": "模糊数学"
+    },
+    {
+      "phrase": "higher mathematics",
+      "tran_cn": "高等数学"
+    },
+    {
+      "phrase": "pure mathematics",
+      "tran_cn": "n. 纯数学"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": " 数学，运算",
+      "tran_en": "the science of numbers and of shapes, including  algebra  ,  geometry  , and  arithmetic "
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "mathematically"
+    ],
+    "adj": [
+      "mathematical"
+    ]
+  }
+}

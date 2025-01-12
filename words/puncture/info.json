@@ -1,0 +1,181 @@
+{
+  "word": "puncture",
+  "ipa": {
+    "us": "ˈpʌŋktʃə(r)",
+    "uk": "ˈpʌŋktʃər"
+  },
+  "sentences": [
+    {
+      "en": "A piece of glass punctured the back tyre.",
+      "cn": "一块玻璃把后轮胎戳破了。"
+    },
+    {
+      "en": "Dash it! I've got a puncture in my bicycle tyre.",
+      "cn": "糟糕! 我的自行车轮胎扎破了."
+    },
+    {
+      "en": "He demonstrated how to mend a puncture.",
+      "cn": "他示范如何修补车胎刺孔."
+    },
+    {
+      "en": "I got a puncture on the way and arrived late.",
+      "cn": "我在路上扎破了轮胎,所以迟到了."
+    },
+    {
+      "en": "I had a puncture on the way and arrived late.",
+      "cn": "我在路上扎破了轮胎，所以迟到了。"
+    },
+    {
+      "en": "I have to see to a puncture in my bicycle tyre.",
+      "cn": "我的自行车内胎破了,必须得修理一下."
+    },
+    {
+      "en": "I'm sorry I'm late: My car had a puncture.",
+      "cn": "很抱歉我来迟了,我的汽车车胎被扎破了."
+    },
+    {
+      "en": "My bicycle had a puncture and needed patching up.",
+      "cn": "我的自行车胎扎了个洞,需要修补."
+    },
+    {
+      "en": "Obviously the puncture threw me a little, but I'm reasonably happy.",
+      "cn": "显然，轮胎扎破让我感到有些意外，不过我还是挺开心的。"
+    },
+    {
+      "en": "She was cycling home when she had a puncture .",
+      "cn": "她骑车回家途中轮胎被扎破了。"
+    },
+    {
+      "en": "Some cyclists carry repair outfits because they may have a puncture.",
+      "cn": "有些骑自行车的人带修理工具,因为他们车胎可能小孔."
+    },
+    {
+      "en": "Somebody helped me mend the puncture.",
+      "cn": "有个人帮我修补扎破的轮胎。"
+    },
+    {
+      "en": "Somebody helped me to mend the puncture.",
+      "cn": "有人帮我补了车胎上的洞。"
+    },
+    {
+      "en": "The front tyre has got a puncture.",
+      "cn": "前带撒气了."
+    },
+    {
+      "en": "The tyre is guaranteed never to puncture or go flat.",
+      "cn": "这种轮胎保证永远不会被扎破或撒气。"
+    },
+    {
+      "en": "This was sod's law: when the spare tyre is in use, you will have a puncture.",
+      "cn": "这真是墨菲法则：一用备用轮胎，保准扎孔。"
+    },
+    {
+      "en": "We had a slight mishap with the car, eg a puncture.",
+      "cn": "我们的汽车出了点小事儿(如轮胎扎破)."
+    },
+    {
+      "en": "You puncture me when I become a great Italian thinker.",
+      "cn": "等我当了意大利伟人的思想家,你再来拆穿我吧."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "punctured",
+          "tran_cn": " 具刻点的；被剌破的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bore",
+            "deflate",
+            "impale",
+            "lance",
+            "penetrate",
+            "perforate",
+            "pierce",
+            "prick",
+            "stab",
+            "stick"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bore",
+            "impale",
+            "penetrate",
+            "perforate",
+            "pierce",
+            "stab"
+          ],
+          "tran_cn": "刺;开孔"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lumbar puncture",
+      "tran_cn": "[医]腰椎穿刺（等于spinal tap）"
+    },
+    {
+      "phrase": "puncture needle",
+      "tran_cn": "穿刺针"
+    },
+    {
+      "phrase": "puncture wound",
+      "tran_cn": "刺伤，穿刺伤"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "刺痕，（车胎等的）刺孔",
+      "tran_en": "a small hole made accidentally in a tyre"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "刺穿，戳破",
+      "tran_en": "if a tyre punctures, or if you puncture it, a small hole appears in it"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（指轮胎等）被刺穿"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "刺，戳，贬低，削弱，揭穿"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "punctures"
+    ],
+    "third": [
+      "punctures"
+    ],
+    "past": [
+      "punctured"
+    ],
+    "done": [
+      "punctured"
+    ],
+    "ing": [
+      "puncturing"
+    ]
+  }
+}

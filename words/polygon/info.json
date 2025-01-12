@@ -1,0 +1,136 @@
+{
+  "word": "polygon",
+  "ipa": {
+    "us": "ˈpɒlɪɡən",
+    "uk": "ˈpɑːliɡɑːn"
+  },
+  "sentences": [
+    {
+      "en": "A constrained growth algorithm of simple polygon triangulation is proposed.",
+      "cn": "提出了一种简单多边形三角剖分的约束生长算法."
+    },
+    {
+      "en": "A polygon with ten sides is a decagon.",
+      "cn": "十条边的形状叫十边形。"
+    },
+    {
+      "en": "Add the unit UPhysics 2 DPolygonTool , the segmentation of an arbitrary polygon ( triangulation ).",
+      "cn": "添加了单元UPhysics2DPolygonTool,实现任意多边形的细分化 ( 三角化 )."
+    },
+    {
+      "en": "Although the bounding box is a polygon defining the area represented for the user, I simplify and use one point of this data.",
+      "cn": "尽管这个边界框是一个用于定义表示用户的区域的多边形，但我简化并使用这些数据的一个点。"
+    },
+    {
+      "en": "Basic graphics algorithms, including linear, round, oval, rectangle, polygon.",
+      "cn": "基本绘图算法, 包括直线, 圆, 椭圆, 长方形, 多边形."
+    },
+    {
+      "en": "Best way to \"match\" an array of polygon vertices to another?",
+      "cn": "最佳方法“匹配”多边形顶点到另一个数组?。"
+    },
+    {
+      "en": "Boundaries of the polygon may extend to infinity.",
+      "cn": "多角形的边界可以延伸到无穷远处."
+    },
+    {
+      "en": "However, in other games I want to hide the polygon structure.",
+      "cn": "但是，在其他游戏里我想要隐藏多边形结构。"
+    },
+    {
+      "en": "If the horizontal line drawn is aligned with a polygon vertex, then only the segments that are below the line are counted.",
+      "cn": "如果所绘制的水平线与一个多边形顶点对齐，那么只会计算位于该线下方的部分。"
+    },
+    {
+      "en": "Look at the curvature plot of the polygon data.",
+      "cn": "看看曲率的图谋,多边形的数据."
+    },
+    {
+      "en": "MFC coding method used to achieve the cutting of arbitrary polygon.",
+      "cn": "MFC的编码方法用于实现切割任意多边形."
+    },
+    {
+      "en": "No point cloud offsetdata could auto - generated the STL polygon surface.",
+      "cn": "点云无分层自动生成三维实体图形(三角网格面)."
+    },
+    {
+      "en": "Polygon Button 015015 Displays a cross - hair pointer that you use to draw a polygon.",
+      "cn": "显示一细十字指针,来绘制多边形."
+    },
+    {
+      "en": "The circle has greater area than a regular polygon of the same perimeter.",
+      "cn": "正的面积比同样周长的正多边形的面积大."
+    },
+    {
+      "en": "The color is used for the area covered by a (multi-)polygon or the line of a (multi-)linestring.",
+      "cn": "颜色用于显示一个（多）多边形所覆盖的区域或一个（多）行字符串的行。"
+    },
+    {
+      "en": "The frequency polygon is simpler than its histogram counterpart.",
+      "cn": "频率多边形比直方图更简单."
+    },
+    {
+      "en": "This can obviously reduce your polygon counts quite a lot.",
+      "cn": "它显然能减少你庞大的多边形数量."
+    },
+    {
+      "en": "This is a polygon cutting procedure is a classic computer graphics algorithms.",
+      "cn": "这是多边形裁剪的程序,是计算机图形学的经典算法."
+    },
+    {
+      "en": "To achieve the Circle, line, rectangle, polygon, color images, delete, zooming.",
+      "cn": "实现了画圆, 线, 矩形, 多边形, 颜色,镜像, 删除, 缩放."
+    },
+    {
+      "en": "What is the perimeter of this polygon?",
+      "cn": "这个多边形的周长是多少?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "polygonal",
+          "tran_cn": " [数] 多边形的；[数] 多角形的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "NGon",
+            "stereogram"
+          ],
+          "tran_cn": "[数]多边形；多角形物体"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "convex polygon",
+      "tran_cn": "凸多边形；凸面多角形"
+    },
+    {
+      "phrase": "regular polygon",
+      "tran_cn": "正多边形；正多角形"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "多边形，多角形，龟裂状",
+      "tran_en": "a flat shape with three or more sides"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "polygonal"
+    ]
+  }
+}

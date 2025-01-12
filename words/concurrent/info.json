@@ -1,0 +1,213 @@
+{
+  "word": "concurrent",
+  "ipa": {
+    "us": "kənˈkʌrənt",
+    "uk": "kənˈkɜːrənt"
+  },
+  "sentences": [
+    {
+      "en": "Antibiotic ointments are useful for concurrent bacterial infections.",
+      "cn": "抗菌素软膏对伴发的细菌感染是有用的."
+    },
+    {
+      "en": "Concurrent evolution may be difficult to understand from the limited human thought - form.",
+      "cn": "在人类有限的思想形态中,同步进化可能很难理解."
+    },
+    {
+      "en": "Concurrent with her acting career, Bron has managed to write two books of her own.",
+      "cn": "在其演艺生涯中，布龙还设法写了两本自己的书。"
+    },
+    {
+      "en": "Concurrent with the evolution of environmental engineering practice, analytical methods have been developed.",
+      "cn": "与环境工程进展相一致, 已发展了某些分析方法."
+    },
+    {
+      "en": "Concurrent with the rise in body temperature is the development of leucopenia.",
+      "cn": "与体温升高相一致,发生白细胞减少症."
+    },
+    {
+      "en": "Galerie St. Etienne is holding three concurrent exhibitions.",
+      "cn": "圣艾蒂安美术馆同时举办3场展览。"
+    },
+    {
+      "en": "He was imprisoned for two concurrent terms of 30 months and 18 months.",
+      "cn": "他被判处30个月和18个月的监禁，合并执行。"
+    },
+    {
+      "en": "He will actually be serving three concurrent five-year sentences.",
+      "cn": "实际上，他将服3个5年徒刑，合并执行。"
+    },
+    {
+      "en": "Involuntary terminations must be reported concurrent with the termination.",
+      "cn": "偶然终止必须告知发生终止的事件."
+    },
+    {
+      "en": "National elections were concurrent with the out break of war.",
+      "cn": "在全国举行大选的同时,战争爆发了."
+    },
+    {
+      "en": "Team - Based Concurrent Engineering Unifies your design team and aids complex debug efforts.",
+      "cn": "以团队为基础的并行工程使你的设计团队融为一体并协助复杂的调试."
+    },
+    {
+      "en": "The 3 altitudes of a triangle are concurrent.",
+      "cn": "三角形的三个高共点."
+    },
+    {
+      "en": "The Concurrency Runtime is a concurrent programming framework for C ++.",
+      "cn": "并发运行时是C++并发编程框架."
+    },
+    {
+      "en": "The exhibition reflected concurrent developments abroad.",
+      "cn": "该展览反映了国外的同期发展情况。"
+    },
+    {
+      "en": "The proposed method is adaptive to other concurrent engineering fields.",
+      "cn": "该方法对于其他并行工程应用领域同样适用."
+    },
+    {
+      "en": "The twins had concurrent birthday.",
+      "cn": "双胞胎生日在同一天."
+    },
+    {
+      "en": "When you mount the file system with this command, all its files use concurrent I/O.",
+      "cn": "当您使用这个命令装入文件系统时，其中所有的文件都使用并发 I/O。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "concurring",
+          "tran_cn": " 同时发生的；一致的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "concurrently",
+          "tran_cn": " 兼；同时发生地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "concurrence",
+          "tran_cn": " 同时发生；赞同；合作"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "concurring",
+          "tran_cn": " 一致；合作；同时发生（concur的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "concur",
+          "tran_cn": " 同意；一致；互助"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "united",
+            "consistent",
+            "corresponding",
+            "matching",
+            "uniform"
+          ],
+          "tran_cn": "[计]并发的；一致的；[统计]同时发生的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "common point"
+          ],
+          "tran_cn": "[数]共点；[统计]同时发生的事件"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accompaniment",
+            "accompanying",
+            "coexistent",
+            "coherent",
+            "coincident",
+            "concerted",
+            "connected",
+            "consonant",
+            "contemporary",
+            "joint",
+            "parallel",
+            "simultaneous",
+            "unanimous"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "concurrent engineering",
+      "tran_cn": "并行工程；同步工程"
+    },
+    {
+      "phrase": "concurrent flow",
+      "tran_cn": "并流；平行流"
+    },
+    {
+      "phrase": "concurrent post",
+      "tran_cn": "n. 兼职"
+    },
+    {
+      "phrase": "concurrent process",
+      "tran_cn": "并发进程"
+    },
+    {
+      "phrase": "concurrent processing",
+      "tran_cn": "同作处理；并行处理"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "同时发生的",
+      "tran_en": "existing or happening at the same time"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "[数] 共点；同时发生的事件"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "concurrently"
+    ]
+  }
+}

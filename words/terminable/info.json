@@ -1,0 +1,110 @@
+{
+  "word": "terminable",
+  "ipa": {
+    "us": "'tɜ:mɪnəbl",
+    "uk": "'tɜmɪnəbəl"
+  },
+  "sentences": [
+    {
+      "en": "Love is only a terminable commodity, it must be expired one day.",
+      "cn": "爱情只是一件有限期的商品, 一定会有结束的那一天."
+    },
+    {
+      "en": "Separate land use right from collective land ownership right, realize repayable and terminable transferring of collective construction land use right.",
+      "cn": "将集体土地使用权和所有权分离，使集体建设用地使用权也能够实现有偿、有期限的流转。"
+    },
+    {
+      "en": "The contract was terminable by either party.",
+      "cn": "任何一方都可以终止合同."
+    },
+    {
+      "en": "The terminable company: We have different partners in different periods of life.",
+      "cn": "阶段的作伴: 人生的每个阶段都会有不同的伙伴在左右."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "terminate",
+          "tran_cn": " 结束的"
+        },
+        {
+          "word": "terminated",
+          "tran_cn": " 终止的；有限的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "term",
+          "tran_cn": " 术语；学期；期限；条款"
+        },
+        {
+          "word": "termination",
+          "tran_cn": " 结束，终止"
+        },
+        {
+          "word": "terminator",
+          "tran_cn": " 终结者；终止子；明暗界限"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "terminated",
+          "tran_cn": " 终止；结束；终结（terminate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "terminate",
+          "tran_cn": " 结束，终止；结果"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "term",
+          "tran_cn": " 把…叫做"
+        },
+        {
+          "word": "terminate",
+          "tran_cn": " 使终止；使结束；解雇"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "finite"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有期限的，可终止的",
+      "tran_en": "able to be terminated "
+    }
+  ],
+  "exchange": {}
+}

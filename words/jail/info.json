@@ -1,0 +1,190 @@
+{
+  "word": "jail",
+  "ipa": {
+    "us": "dʒeɪl",
+    "uk": "dʒeɪl"
+  },
+  "sentences": [
+    {
+      "en": "A dozen inmates have absconded from Forest Jail in the past year.",
+      "cn": "去年共有12名犯人从福雷斯特监狱逃脱。"
+    },
+    {
+      "en": "Before sentence was passed, Mr Mills escaped from jail.",
+      "cn": "在宣判前，米尔斯先生越狱了。"
+    },
+    {
+      "en": "Even in jail, my fellow inmates treated me with kindness.",
+      "cn": "就算在监狱里，狱友们对我也很友善。"
+    },
+    {
+      "en": "He picked a fight with a waiter and landed in jail.",
+      "cn": "他找碴儿跟服务生打了一架，最后进了监狱。"
+    },
+    {
+      "en": "He was to remain in jail in the interim.",
+      "cn": "他在此期间将会继续被关押。"
+    },
+    {
+      "en": "He's probably going to finish up in jail for business fraud.",
+      "cn": "他最后很可能会因为商业诈骗而入狱。"
+    },
+    {
+      "en": "He’s been in jail for three months already.",
+      "cn": "他已经入狱三个月。"
+    },
+    {
+      "en": "In the end the \"bad guys\" are caught and sent to jail.",
+      "cn": "最后，“坏人”都被抓住送进了监狱。"
+    },
+    {
+      "en": "Last night he was being held in solitary confinement in Douglas jail.",
+      "cn": "昨晚他被单独监禁在道格拉斯的监狱里。"
+    },
+    {
+      "en": "Martinez was taken off to jail.",
+      "cn": "马丁内斯被抓进了大牢。"
+    },
+    {
+      "en": "Mr Garcia said his conscience was clear over the jail incidents.",
+      "cn": "加西亚先生说他对监狱中发生的事件问心无愧。"
+    },
+    {
+      "en": "One prisoner was still holding out on the roof of the jail.",
+      "cn": "一名犯人仍在监狱的房顶上顽抗。"
+    },
+    {
+      "en": "Reports are now coming in of trouble at yet another jail.",
+      "cn": "另一所监狱也发生了骚乱的消息正在不断传来。"
+    },
+    {
+      "en": "Strenuous efforts had been made to improve conditions in the jail.",
+      "cn": "已经做了大量的努力来改善监狱的条件。"
+    },
+    {
+      "en": "Those two should have been thrown in jail.",
+      "cn": "那两个人早就应该抓去坐牢。"
+    },
+    {
+      "en": "Under Greece's stiff anti-drugs laws they could face twenty years in jail.",
+      "cn": "根据希腊严厉的反毒品法律，他们将面临20年监禁。"
+    },
+    {
+      "en": "Watson was jailed for tax evasion.",
+      "cn": "沃森因逃税入狱。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "jailer",
+          "tran_cn": " 狱卒，看守监狱的人"
+        },
+        {
+          "word": "jailor",
+          "tran_cn": " 狱卒；看守监狱的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "prison",
+            "big house"
+          ],
+          "tran_cn": "[法]监狱；监牢；拘留所"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cage",
+            "captive",
+            "hold",
+            "imprison",
+            "incarcerate",
+            "jug",
+            "lock",
+            "prison",
+            "up"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "captive",
+            "hold",
+            "imprison",
+            "incarcerate",
+            "lock",
+            "up"
+          ],
+          "tran_cn": "监禁"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go to jail",
+      "tran_cn": "入狱"
+    },
+    {
+      "phrase": "in jail",
+      "tran_cn": "在监狱；在狱中服刑；被封锁了"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "监狱，看守所",
+      "tran_en": "a place where criminals are kept as part of their punishment, or where people who have been charged with a crime are kept before they are judged in a law court"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "监狱; 监禁",
+      "tran_en": "a place where criminals are kept as part of their punishment, or where people who have been charged with a crime are kept before they are judged in a law court"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "监禁，拘留",
+      "tran_en": "to put someone in jail"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 监禁， 拘留； 塞满； 卡住； 干扰",
+      "tran_en": "to put someone in jail"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "jails"
+    ],
+    "third": [
+      "jails"
+    ],
+    "past": [
+      "jailed"
+    ],
+    "done": [
+      "jailed"
+    ],
+    "ing": [
+      "jailing"
+    ]
+  }
+}

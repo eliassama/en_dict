@@ -1,0 +1,119 @@
+{
+  "word": "vilify",
+  "ipa": {
+    "us": "ˈvɪlɪfaɪ",
+    "uk": "ˈvɪləˌfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "He was vilified, hounded, and forced into exile by the FBI.",
+      "cn": "他遭到了联邦调查局的诽谤和追捕，被迫流亡国外。"
+    },
+    {
+      "en": "Men flatter her and then betray her. Her people embrace her and then vilify hr.",
+      "cn": "阿谀奉承的人背叛她, 拥护她的国民唾弃她."
+    },
+    {
+      "en": "The agency has been vilified by some doctors for being unnecessarily slow to approve life-saving drugs.",
+      "cn": "该机构因对救生药物的审批速度过慢而备受一些医生的诽谤。"
+    },
+    {
+      "en": "Two chose not to vilify Skilling, however.",
+      "cn": "然而,也有两个人并不愿诋毁思斯奇林."
+    },
+    {
+      "en": "Why is he always trying to vilify my reputation?",
+      "cn": "为什么他总是想方设法毁坏我的名誉?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vile",
+          "tran_cn": " 卑鄙的；邪恶的；低廉的；肮脏的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vilification",
+          "tran_cn": " 诽谤；中伤；污蔑"
+        },
+        {
+          "word": "vilifier",
+          "tran_cn": " 诽谤者"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vilipend",
+          "tran_cn": " 诋毁；轻视"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cloud",
+            "dishonor",
+            "impute",
+            "shame"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "lower",
+            "wrong"
+          ],
+          "tran_cn": "诽谤；中伤；轻视；贬低"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "诽谤, 辱骂, 贬低, 轻视",
+      "tran_en": "to say or write bad things about someone or something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "中伤，诽谤"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "vilifies"
+    ],
+    "past": [
+      "vilified"
+    ],
+    "done": [
+      "vilified"
+    ],
+    "ing": [
+      "vilifying"
+    ],
+    "noun": [
+      "vilification"
+    ]
+  }
+}

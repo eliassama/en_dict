@@ -1,0 +1,58 @@
+{
+  "word": "defalcate",
+  "ipa": {
+    "us": "di:'fælˌkeɪt",
+    "uk": "dɪˈfælˌket, -ˈfɔl-, ˈdɛfəl-"
+  },
+  "sentences": [
+    {
+      "en": "He has defalcate with $50000 of the firm's money.",
+      "cn": "他盗用了公司5万美金的公款。"
+    },
+    {
+      "en": "Lately, some large brand real estate agency corporations defalcate clients funds and break out fund sandal.",
+      "cn": "近来, 大型品牌房地产中介公司频频挪用客户资金,爆发“资金门”丑闻,引发了房地产中介行业的信任危机."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "defalcation",
+          "tran_cn": " 挪用公款；亏空"
+        },
+        {
+          "word": "defalcator",
+          "tran_cn": " [法] 盗用公款者；委托金亏空者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "graft"
+          ],
+          "tran_cn": "盗用公款，挪用公款；贪污"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "盗用公款, 挪用公款, 贪污",
+      "tran_en": "to misuse or misappropriate property or funds entrusted to one "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "盗用公款，挪用公款，贪污"
+    }
+  ],
+  "exchange": {}
+}

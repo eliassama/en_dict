@@ -1,0 +1,77 @@
+{
+  "word": "abnegate",
+  "ipa": {
+    "us": "'æbnɪɡeɪt",
+    "uk": "ˈæbnɪˌɡet"
+  },
+  "sentences": [
+    {
+      "en": "If love and friendship can't be together, I will abnegate the resultless love.",
+      "cn": "如果爱与友情不能并存，那我定会放弃一份无结果的爱。"
+    },
+    {
+      "en": "It can abnegate useless samples and make the knowledge of study objects accumulate.",
+      "cn": "该算法舍弃对最终结论无用的样本，使得学习对象的知识得到了积累。"
+    },
+    {
+      "en": "What a real growth is need courage and faith to try new thing and abnegate old things.",
+      "cn": "真正的成长是要有勇气和信心去尝试新的事物，同时放弃旧有的事物。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "abnegation",
+          "tran_cn": " 拒绝；放弃；克制"
+        },
+        {
+          "word": "abnegator",
+          "tran_cn": " 放弃者；克制者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "desert",
+            "yield",
+            "fail",
+            "quit"
+          ],
+          "tran_cn": "放弃；舍弃；禁忌"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "放弃",
+      "tran_en": "to deny to oneself; renounce (privileges, pleasure, etc) "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "abnegates"
+    ],
+    "past": [
+      "abnegated"
+    ],
+    "done": [
+      "abnegated"
+    ],
+    "ing": [
+      "abnegating"
+    ],
+    "noun": [
+      "abnegation"
+    ]
+  }
+}

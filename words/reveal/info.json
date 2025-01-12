@@ -1,0 +1,186 @@
+{
+  "word": "reveal",
+  "ipa": {
+    "us": "rɪˈviːl",
+    "uk": "rɪˈviːl"
+  },
+  "sentences": [
+    {
+      "en": "A grey carpet was removed to reveal the original pine floor.",
+      "cn": "一块灰色的地毯被揭开，露出了原来的松木地板。"
+    },
+    {
+      "en": "a test that can reveal a teacher’s hidden skills",
+      "cn": "能够展现老师潜在技能的测试"
+    },
+    {
+      "en": "A wander around any market will reveal stalls piled high with vegetables.",
+      "cn": "随便到哪个市场逛逛，都能看见蔬菜堆得老高的菜摊。"
+    },
+    {
+      "en": "Any trawl through the band's interviews will reveal statements that are challenging and incisive.",
+      "cn": "随便选取一段对该乐队的访谈都能发现令人深思、犀利精辟的言论."
+    },
+    {
+      "en": "Companies should be made to reveal more about their financial position.",
+      "cn": "应该要求公司使其财务状况更为透明化。"
+    },
+    {
+      "en": "Experts reveal only as much as they care to.",
+      "cn": "专家们只透露了他们想透露的那些。"
+    },
+    {
+      "en": "He may be prosecuted for revealing secrets about the security agency.",
+      "cn": "他可能因泄露安全部门的机密而被起诉。"
+    },
+    {
+      "en": "He took off his shirt to reveal his tanned torso.",
+      "cn": "他脱下了衬衫展现出晒得黝黑的身体."
+    },
+    {
+      "en": "It is normal practice not to reveal details of a patient's condition.",
+      "cn": "不透露患者病情的细节是惯常的做法。"
+    },
+    {
+      "en": "Microscopic examination of a cell's chromo-somes can reveal the sex of the fetus.",
+      "cn": "利用显微镜检查细胞染色体可以发现胎儿的性别。"
+    },
+    {
+      "en": "She believed that she had been selected by the Master to reveal forgotten wisdom.",
+      "cn": "她认为自己是被长老选中来揭示被人们遗忘的智慧的。"
+    },
+    {
+      "en": "She doesn't reveal much of her inner self.",
+      "cn": "她不大流露她的内心自我。"
+    },
+    {
+      "en": "She was hauled before magistrates for refusing to reveal her age to a policeman.",
+      "cn": "她因拒绝告诉警察自己的年龄而被地方法院传讯。"
+    },
+    {
+      "en": "The flower opens to reveal a Queen Bee.",
+      "cn": "花瓣展开，一只蜂王露了出来。"
+    },
+    {
+      "en": "The journalist did not want to reveal the identity of his informant.",
+      "cn": "那个新闻工作者不想透露消息提供人的身份."
+    },
+    {
+      "en": "The wall caved in to reveal a blocked-up Victorian fireplace.",
+      "cn": "墙坍塌了，露出砌在里面的维多利亚时代的壁炉。"
+    },
+    {
+      "en": "to reveal a secret",
+      "cn": "泄露一条秘密"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "revealing",
+          "tran_cn": " 透露真情的；有启迪作用的；袒胸露肩的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "revealing",
+          "tran_cn": " 揭示；展现（reveal的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "uncovery",
+            "exposure to sth"
+          ],
+          "tran_cn": "揭露；暴露；门侧，[建]窗侧"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bare",
+            "demonstrate",
+            "disclose",
+            "display",
+            "divulge",
+            "exhibit",
+            "expose",
+            "manifest",
+            "open",
+            "present",
+            "show"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "make clear",
+            "prove",
+            "disclose",
+            "expose"
+          ],
+          "tran_cn": "显示；透露；揭露；泄露"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "reveal all",
+      "tran_cn": "显示全部（计算机操作命令）"
+    },
+    {
+      "phrase": "reveal itself",
+      "tran_cn": "v. 呈现，出现；被认知"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "揭露；暴露；门侧，窗侧"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "揭示，展示",
+      "tran_en": "to make known something that was previously secret or unknown"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 揭露， 泄露； 展现， 显示",
+      "tran_en": "to make known something that was previously secret or unknown"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "reveals"
+    ],
+    "past": [
+      "revealed"
+    ],
+    "done": [
+      "revealed"
+    ],
+    "ing": [
+      "revealing"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "word": "byre",
+  "ipa": {
+    "us": "ˈbaɪə(r)",
+    "uk": "baɪr"
+  },
+  "sentences": [
+    {
+      "en": "He fished and nailed up his catch to dry on the wall of the byre.",
+      "cn": "他去钓了鱼，并把钓来的鱼钉在牛棚的墙上晒干。"
+    },
+    {
+      "en": "We discovered the floor of the byre when we excavated so effectively we had put back what was originally there.",
+      "cn": "原来别墅边上有一个牛棚，我们挖掘的时候发现了牛棚的地板，所以我们恢复了别墅原来的模样。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "stable",
+            "cowshed"
+          ],
+          "tran_cn": "牛棚，牛栏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "牛棚，牛栏",
+      "tran_en": "a farm building in which cattle are kept"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "byres"
+    ]
+  }
+}

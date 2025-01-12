@@ -1,0 +1,187 @@
+{
+  "word": "compress",
+  "ipa": {
+    "us": "kəmˈpres , ˈkɒmpres",
+    "uk": "kəmˈpres , ˈkɑːmpres"
+  },
+  "sentences": [
+    {
+      "en": "A cold compress often alleviates pain.",
+      "cn": "冷敷常会减轻疼痛."
+    },
+    {
+      "en": "A hot compress with this ointment can reduce swelling and alleviate pain.",
+      "cn": "热敷这种膏药,消肿止痛."
+    },
+    {
+      "en": "Air will compress but the brake fluid won't.",
+      "cn": "空气会压缩，但是刹车油不会。"
+    },
+    {
+      "en": "Can you compress your speech into five minutes?",
+      "cn": "你能不能把讲话压缩至5分钟?"
+    },
+    {
+      "en": "Digital date can expand TV choices because computer can compress digital signals.",
+      "cn": "数字日期可以扩大电视的选择范围是因为计算机可以压缩数字信号."
+    },
+    {
+      "en": "How far can you compress a meadow into seeds?",
+      "cn": "你能把一块草地浓缩到何种程度,使它缩身为种子?"
+    },
+    {
+      "en": "I shall apply a cold compress to his sprained ankle.",
+      "cn": "我要给扭伤的脚脖子冷敷."
+    },
+    {
+      "en": "Isobel nodded, her lips compressed.",
+      "cn": "伊索贝尔紧闭着双唇点了点头。"
+    },
+    {
+      "en": "It's impossible to compress this mass of material into a few pages.",
+      "cn": "这一大堆材料是不可能压缩成只有几页的内容的东西的."
+    },
+    {
+      "en": "Light silk is best for parachutes, as it compresses well and then expands rapidly.",
+      "cn": "轻质丝绸最适合制作降落伞，因为这种面料便于压缩，而且展开迅速。"
+    },
+    {
+      "en": "One way we can compress data is to use a frequency table or a frequency distribution.",
+      "cn": "压缩资料的一种有效方法是编制频率表或频率分布."
+    },
+    {
+      "en": "The miners used rock drills and compressed air to drive through hard rock.",
+      "cn": "矿工使用钻岩机和压缩空气来凿穿坚硬的岩石。"
+    },
+    {
+      "en": "They may grow so large as to compress adjacent viscera.",
+      "cn": "它们可能长得很大而压迫临近脏器."
+    },
+    {
+      "en": "They used an air compressor to take in atmospheric air , compress it, and force it into the cabin.",
+      "cn": "他们用一台空气压缩机把大气中的空气吸进来, 加以压缩, 然后送入船舱."
+    },
+    {
+      "en": "This article presents a class for using PPM to compress a file.",
+      "cn": "本文介绍了使用PPM的压缩文件一类."
+    },
+    {
+      "en": "Where two continental plates collide the plates either buckle and compress.",
+      "cn": "当两块大陆板块碰撞到一起,任何一块地壳板块都会产生变形和压缩."
+    },
+    {
+      "en": "Wood blocks may compress a great deal under pressure.",
+      "cn": "木块受压时可缩小很多."
+    },
+    {
+      "en": "You can compress huge amounts of data on to a CD-ROM.",
+      "cn": "可以把大量的数据压缩到一张CD-ROM上。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "compressed",
+          "tran_cn": " 被压缩的；扁平的"
+        },
+        {
+          "word": "compressible",
+          "tran_cn": " 可压缩的；可压榨的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "compressibility",
+          "tran_cn": " 压缩性；压缩系数；压缩率"
+        },
+        {
+          "word": "compression",
+          "tran_cn": " 压缩，浓缩；压榨，压迫"
+        },
+        {
+          "word": "compressor",
+          "tran_cn": " 压缩机；压缩物；收缩肌；[医] 压迫器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "concentrate",
+            "condense",
+            "crush",
+            "press",
+            "reduce",
+            "squeeze"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "impact",
+            "pack"
+          ],
+          "tran_cn": "压缩，压紧；精简"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cold compress",
+      "tran_cn": "冷敷法；冷敷布"
+    },
+    {
+      "phrase": "hot compress",
+      "tran_cn": "热敷法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "敷布，压布",
+      "tran_en": "a small thick piece of material that you put on part of someone’s body to stop blood flowing out or to make it less painful"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（使）压缩，精简",
+      "tran_en": "to press something or make it smaller so that it takes up less space, or to become smaller"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 压紧， 压缩",
+      "tran_en": "to press something or make it smaller so that it takes up less space, or to become smaller"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "compresses"
+    ],
+    "past": [
+      "compressed"
+    ],
+    "done": [
+      "compressed"
+    ],
+    "ing": [
+      "compressing"
+    ],
+    "noun": [
+      "compression"
+    ]
+  }
+}

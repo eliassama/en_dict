@@ -1,0 +1,106 @@
+{
+  "word": "overcrowd",
+  "ipa": {
+    "us": "ˌəʊvə'kraʊd",
+    "uk": "ˌoʊvə'kraʊd"
+  },
+  "sentences": [
+    {
+      "en": "Do not overcrowd the fish.",
+      "cn": "不要过度拥挤的鱼。"
+    },
+    {
+      "en": "The manager of that theatre created a dangerous situation by allowing people to overcrowd the balcony.",
+      "cn": "那家剧场的经理让过多的人拥挤在楼厅里,造成了一种危险的情形."
+    },
+    {
+      "en": "There are too many of them flying right now, they overcrowd the scene so proceed to erase some of them in order to maintain balance.",
+      "cn": "现在，图上的飞行物太多了，它们让场景过渡拥挤。 所以，为了保持画面平衡，要删除一些。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "overcritical",
+          "tran_cn": " 过度指摘的；吹毛求疵的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "overcompensation",
+          "tran_cn": " 过度补偿"
+        },
+        {
+          "word": "overdress",
+          "tran_cn": " [服装] 外衣"
+        },
+        {
+          "word": "overdrive",
+          "tran_cn": " 超速档；[机] 超速传动"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "overcompensate",
+          "tran_cn": " 过度补偿"
+        },
+        {
+          "word": "overdress",
+          "tran_cn": " 穿得过分讲究；穿得过多"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "overcompensate",
+          "tran_cn": " 给与…过分的补偿"
+        },
+        {
+          "word": "overdress",
+          "tran_cn": " 过度装饰；使穿著过分讲究"
+        },
+        {
+          "word": "overdrive",
+          "tran_cn": " 驱使过度；虐待；工作过度"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 过度拥挤",
+      "tran_en": "to fill (a room, vehicle, city, etc) with more people or things than is desirable "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使过度拥挤，把…塞得太满"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "overcrowds"
+    ],
+    "past": [
+      "overcrowded"
+    ],
+    "done": [
+      "overcrowded"
+    ],
+    "ing": [
+      "overcrowding"
+    ]
+  }
+}

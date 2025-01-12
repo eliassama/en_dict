@@ -1,0 +1,118 @@
+{
+  "word": "denude",
+  "ipa": {
+    "us": "dɪˈnjuːd",
+    "uk": "dɪˈnuːd"
+  },
+  "sentences": [
+    {
+      "en": "a hillside denuded in a fire",
+      "cn": "被一场火烧得光秃秃的山坡"
+    },
+    {
+      "en": "Mining would pollute the lake and denude the forest.",
+      "cn": "采矿会污染湖水，毁掉森林。"
+    },
+    {
+      "en": "The dominance expression of poor dissimilation is sluggish degrades, recessive expression is to denude change.",
+      "cn": "差异化的显性表现是滞退化, 隐性表现是剥蚀化."
+    },
+    {
+      "en": "The embassy is now denuded of all foreign and local staff.",
+      "cn": "这个使馆现在所有的外籍和本地员工都被解散了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "denudate",
+          "tran_cn": " 裸体的；赤裸的"
+        },
+        {
+          "word": "denuded",
+          "tran_cn": " 剥蚀的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "denudation",
+          "tran_cn": " 剥蚀；滥伐；剥夺，裸露"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "denuded",
+          "tran_cn": " 使裸露；剥夺（denude的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "denudate",
+          "tran_cn": " 使裸露（等于denude）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "skin"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "shear",
+            "strip of"
+          ],
+          "tran_cn": "剥夺；使裸露"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使裸露, 剥下, 剥夺, 脱毛",
+      "tran_en": "to remove the plants and trees that cover an area of land"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使赤裸，剥光覆盖物"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "denudes"
+    ],
+    "past": [
+      "denuded"
+    ],
+    "done": [
+      "denuded"
+    ],
+    "ing": [
+      "denuding"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "word": "urbanize",
+  "ipa": {
+    "us": "'ɜ:bənaɪz",
+    "uk": "ˈɚbəˌnaɪz"
+  },
+  "sentences": [
+    {
+      "en": "For China to modernize its economy, it must further industrialize, and urbanize.",
+      "cn": "为了使经济现代化, 中国必须扩大工业化和城市化."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "urban",
+          "tran_cn": " 城市的；住在都市的"
+        },
+        {
+          "word": "urbane",
+          "tran_cn": " 彬彬有礼的，温文尔雅的；都市化的"
+        },
+        {
+          "word": "urbanized",
+          "tran_cn": " 城市化的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "urbanity",
+          "tran_cn": " 都市风格；雅致；有礼貌"
+        },
+        {
+          "word": "urbanization",
+          "tran_cn": " 都市化；文雅化"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "urbanized",
+          "tran_cn": " 使城市化（urbanize的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "citify"
+          ],
+          "tran_cn": "使都市化；使文雅"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使都市化；使文雅",
+      "tran_en": "to make (esp a predominantly rural area or country) more industrialized and urban "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使都市化，使文雅"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "urbanizes"
+    ],
+    "past": [
+      "urbanized"
+    ],
+    "done": [
+      "urbanized"
+    ],
+    "ing": [
+      "urbanizing"
+    ]
+  }
+}

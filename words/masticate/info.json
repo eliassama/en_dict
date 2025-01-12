@@ -1,0 +1,89 @@
+{
+  "word": "masticate",
+  "ipa": {
+    "us": "ˈmæstɪkeɪt",
+    "uk": "ˈmæstɪˌket"
+  },
+  "sentences": [
+    {
+      "en": "Hines slowly masticated a shrimp.",
+      "cn": "海恩斯慢慢地咀嚼着一只虾。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mastication",
+          "tran_cn": " 咀嚼；粉碎"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "mouth"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "size reduction"
+          ],
+          "tran_cn": "咀嚼；粉碎；撕捏"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "comminute",
+            "pulverize"
+          ],
+          "tran_cn": "咀嚼；粉碎；撕捏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "咀嚼",
+      "tran_en": "to chew food"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "咀嚼，粉碎，磨烂"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "masticates"
+    ],
+    "past": [
+      "masticated"
+    ],
+    "done": [
+      "masticated"
+    ],
+    "ing": [
+      "masticating"
+    ],
+    "noun": [
+      "mastication"
+    ]
+  }
+}

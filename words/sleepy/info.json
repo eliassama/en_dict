@@ -1,0 +1,223 @@
+{
+  "word": "sleepy",
+  "ipa": {
+    "us": "ˈsliːpi",
+    "uk": "ˈsliːpi"
+  },
+  "sentences": [
+    {
+      "en": "All of a sudden she didn't look sleepy any more.",
+      "cn": "她突然看起来一点都不困了。"
+    },
+    {
+      "en": "Go to bed if you feel sleepy.",
+      "cn": "你困了就睡吧."
+    },
+    {
+      "en": "He had begun to feel sleepy.",
+      "cn": "他已觉得困了。"
+    },
+    {
+      "en": "He insisted that he wasn't sleepy.",
+      "cn": "他硬说他不困."
+    },
+    {
+      "en": "Her yawn suggests that she is sleepy.",
+      "cn": "她打哈欠表示她很困了."
+    },
+    {
+      "en": "I feel terribly sleepy all at once.",
+      "cn": "我突然觉得特别困。"
+    },
+    {
+      "en": "I was beginning to feel amazingly sleepy.",
+      "cn": "我开始感到异常困倦。"
+    },
+    {
+      "en": "She always has a sleepy expression.",
+      "cn": "她总是一副懒洋洋的表情."
+    },
+    {
+      "en": "She finds that the sleepy town she moves to isn'tthe rural idyll she imagined.",
+      "cn": "她发现她搬进的这个寂静小镇并非她想象中的乡间田园。"
+    },
+    {
+      "en": "She was so sleepy that she ran into a lamppost.",
+      "cn": "她如此困倦,以致撞到路灯杆上."
+    },
+    {
+      "en": "She was still tired and sleepy when he woke her.",
+      "cn": "他叫醒她的时候，她仍然又累又困。"
+    },
+    {
+      "en": "Sleepy-eyed commuters were wending their way to work.",
+      "cn": "睡眼惺忪的通勤族拖着沉重的步子上班去。"
+    },
+    {
+      "en": "The body's natural rhythms mean we all feel dull and sleepy between 1 and 3pm.",
+      "cn": "人体生物钟会让我们在下午1点到3点之间感觉没精打采、昏昏欲睡。"
+    },
+    {
+      "en": "The cat lay stretched out beside the fire in sleepy content.",
+      "cn": "那只猫伸展四肢躺在炉边睡得很满足."
+    },
+    {
+      "en": "The party was tame because all the people were sleepy.",
+      "cn": "聚会很沉闷,因为大家昏昏欲睡."
+    },
+    {
+      "en": "The warmth from the fire made her feel sleepy.",
+      "cn": "暖洋洋的炉火使她昏昏欲睡。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sleeping",
+          "tran_cn": " 睡着的"
+        },
+        {
+          "word": "sleepless",
+          "tran_cn": " 失眠的；不休息的；警觉的；永不停息的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sleepily",
+          "tran_cn": " 困倦地，疲倦地；懒散地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sleep",
+          "tran_cn": " 睡眠"
+        },
+        {
+          "word": "sleeper",
+          "tran_cn": " 卧车；卧铺；枕木；睡眠者"
+        },
+        {
+          "word": "sleepiness",
+          "tran_cn": " 睡意，瞌睡；想睡"
+        },
+        {
+          "word": "sleeping",
+          "tran_cn": " 睡眠"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sleep",
+          "tran_cn": " 睡，睡觉"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "asleep",
+            "dormant",
+            "dull",
+            "hibernating",
+            "idle",
+            "inactive",
+            "latent",
+            "passive",
+            "quiet",
+            "sleeping",
+            "still"
+          ],
+          "tran_cn": "不活动,懒惰的,闲散的,睡着的"
+        },
+        {
+          "words": [
+            "hypnotic",
+            "mesmeric",
+            "narcotic",
+            "opiate",
+            "sedative",
+            "sleep-inducing",
+            "somnifacient",
+            "somniferous",
+            "somnific",
+            "soporific"
+          ],
+          "tran_cn": "催眠的,麻醉的"
+        },
+        {
+          "words": [
+            "asleep",
+            "beat",
+            "dead-tired",
+            "dozy",
+            "drowsy",
+            "exhausted",
+            "faint",
+            "fatigued",
+            "nodding",
+            "off",
+            "slumberous",
+            "slumbery",
+            "somnolent",
+            "tired",
+            "weary"
+          ],
+          "tran_cn": "想睡的,困倦的,疲劳的"
+        },
+        {
+          "words": [
+            "languid",
+            "languorous",
+            "lazy",
+            "lethargic",
+            "sluggish",
+            "torpid"
+          ],
+          "tran_cn": "昏沉的,昏睡的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "feel sleepy",
+      "tran_cn": "困倦；昏昏欲睡"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "困倦的，冷清的",
+      "tran_en": "tired and ready to sleep"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "sleepier"
+    ],
+    "est": [
+      "sleepiest"
+    ],
+    "adv": [
+      "sleepily"
+    ],
+    "noun": [
+      "sleepiness"
+    ]
+  }
+}

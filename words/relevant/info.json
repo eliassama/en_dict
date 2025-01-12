@@ -1,0 +1,180 @@
+{
+  "word": "relevant",
+  "ipa": {
+    "us": "ˈreləvənt",
+    "uk": "ˈreləvənt"
+  },
+  "sentences": [
+    {
+      "en": "Copies of the relevant documents must be filed at court.",
+      "cn": "有关文件副本必须送交法院备案。"
+    },
+    {
+      "en": "For ease of reference, only the relevant extracts of the regulations are included.",
+      "cn": "为了便于参照，仅摘录相关规则。"
+    },
+    {
+      "en": "He consulted a number of relevant books and periodicals.",
+      "cn": "他参看了不少有关书刊."
+    },
+    {
+      "en": "He has decided to prosecute her after careful consideration of all the relevant facts.",
+      "cn": "在认真考虑了所有相关事实后，他决定起诉她。"
+    },
+    {
+      "en": "Her appearance is not relevant to whether she can be a good teacher.",
+      "cn": "她的长相跟她能否当个好老师无关."
+    },
+    {
+      "en": "I don't think his remarks are relevant to our discussion.",
+      "cn": "我认为他的话不切我们的议题."
+    },
+    {
+      "en": "I think there was deliberate concealment of relevant documents.",
+      "cn": "我认为有人故意隐瞒相关文件。"
+    },
+    {
+      "en": "I tried googling but couldn't find anything relevant.",
+      "cn": "我试着用搜索引擎检索，但找不到任何相关信息。"
+    },
+    {
+      "en": "Make sure you enclose all the relevant certificates.",
+      "cn": "要保证把所有相关证书都放在里面。"
+    },
+    {
+      "en": "On presentation of the relevant identity documents you may collect your property.",
+      "cn": "你只要出示有关的身份证件就可以领取你的财产."
+    },
+    {
+      "en": "Relevant documents were presented in court.",
+      "cn": "法庭上出示了相关的文件。"
+    },
+    {
+      "en": "Relevant work experience is required for overseas postings.",
+      "cn": "派驻海外要求有相关的工作经验。"
+    },
+    {
+      "en": "The MOD gave an undertaking to Saville that it had provided him with all relevant material.",
+      "cn": "国防部向萨维尔保证已向他提供了所有相关的资料。"
+    },
+    {
+      "en": "The relevant inspecting organs shall give assistance thereto.",
+      "cn": "有关检查机关应当予以协助."
+    },
+    {
+      "en": "These materials are relevant to the case.",
+      "cn": "这些材料与这案件有关."
+    },
+    {
+      "en": "This point is really relevant and we had better move on.",
+      "cn": "这一点至关重要,我们还是接着谈吧."
+    },
+    {
+      "en": "We received all the relevant information.",
+      "cn": "我们收到了所有相关信息。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "relevantly",
+          "tran_cn": " 贴切地；得要领地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "applicable",
+            "apropos",
+            "connected",
+            "fitting",
+            "pertinent",
+            "suitable"
+          ],
+          "tran_cn": "合适的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "applicable",
+            "apropos",
+            "connected",
+            "fitting",
+            "pertinent",
+            "relative",
+            "suitable"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "relevant authority",
+      "tran_cn": "有关当局；监管当局"
+    },
+    {
+      "phrase": "relevant character",
+      "tran_cn": "相关字符；关联字符"
+    },
+    {
+      "phrase": "relevant cost",
+      "tran_cn": "相关成本"
+    },
+    {
+      "phrase": "relevant data",
+      "tran_cn": "有关数据"
+    },
+    {
+      "phrase": "relevant document",
+      "tran_cn": "相关文件；关联文件"
+    },
+    {
+      "phrase": "relevant experience",
+      "tran_cn": "相关工作经验"
+    },
+    {
+      "phrase": "relevant information",
+      "tran_cn": "相关信息"
+    },
+    {
+      "phrase": "relevant issues",
+      "tran_cn": "相关问题"
+    },
+    {
+      "phrase": "relevant parameter",
+      "tran_cn": "相应参数；关联参数"
+    },
+    {
+      "phrase": "relevant works",
+      "tran_cn": "有关工程"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "相关的，合适的，有意义的",
+      "tran_en": "directly relating to the subject or problem being discussed or considered"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "relevantly"
+    ],
+    "noun": [
+      "relevance"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "word": "comminute",
+  "ipa": {
+    "us": "'kɒmɪnju:t",
+    "uk": "'kɒməˌnjut"
+  },
+  "sentences": [
+    {
+      "en": "Earthworms comminute the mineral fraction of soils.",
+      "cn": "蚯蚓粉碎土壤中的无机物碎片."
+    },
+    {
+      "en": "Your leave thumb suffer a comminute fracture.",
+      "cn": "你左手的拇指是粉碎性骨折."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "segment",
+            "pulverize"
+          ],
+          "tran_cn": "粉碎；分割"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使成粉末，粉碎，分割"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "comminutes"
+    ],
+    "past": [
+      "comminuted"
+    ],
+    "done": [
+      "comminuted"
+    ],
+    "ing": [
+      "comminuting"
+    ]
+  }
+}

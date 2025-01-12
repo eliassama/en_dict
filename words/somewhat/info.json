@@ -1,0 +1,204 @@
+{
+  "word": "somewhat",
+  "ipa": {
+    "us": "ˈsʌmwɒt",
+    "uk": "ˈsʌmwʌt"
+  },
+  "sentences": [
+    {
+      "en": "Bronka is somewhat infamous for his screeching electric guitar work.",
+      "cn": "布朗卡因为弹出刺耳的电吉他声而有些让人讨厌。"
+    },
+    {
+      "en": "Charles's letter was indeed published, albeit in a somewhat abbre-viated form.",
+      "cn": "尽管有所删节，查尔斯的信确实被刊登出来了。"
+    },
+    {
+      "en": "Courtship is somewhat vocal with a lot of displaying by the male.",
+      "cn": "雄性动物在求偶时会尽量展示自己，并发出一些声响。"
+    },
+    {
+      "en": "He concluded that Oswald was somewhat abnormal.",
+      "cn": "他断定奥斯瓦德有点不正常。"
+    },
+    {
+      "en": "He explained somewhat unconvincingly that the company was paying for everything.",
+      "cn": "他解释说公司会支付一切费用，这个说法有点令人不能信服。"
+    },
+    {
+      "en": "He faced the press, initially, in a somewhat subdued mood.",
+      "cn": "他最初面对媒体时情绪有点忧郁。"
+    },
+    {
+      "en": "He seemed somewhat depressed.",
+      "cn": "他似乎有些抑郁。"
+    },
+    {
+      "en": "Her manner offstage, like her manner on, is somewhat surly.",
+      "cn": "她台下和台上的举止如出一辙，都有些粗暴无礼。"
+    },
+    {
+      "en": "Her sandals were old and somewhat beaten-up, but very comfortable.",
+      "cn": "她的凉鞋旧了，多少还有点破，但是穿起来很舒服。"
+    },
+    {
+      "en": "I found her a rather austere, distant, somewhat cold person.",
+      "cn": "我发现她相当严厉，拒人于千里之外，近乎冷漠。"
+    },
+    {
+      "en": "I'm somewhat suspicious of his intentions.",
+      "cn": "对他的意图我有几分怀疑。"
+    },
+    {
+      "en": "it was &B{somewhat of a} disappointment.",
+      "cn": "这有点令人失望。"
+    },
+    {
+      "en": "It's a satire somewhat in the manner of Dickens.",
+      "cn": "这部讽刺作品有点狄更斯的风格。"
+    },
+    {
+      "en": "Perhaps we did acquire a somewhat fuddy-duddy image in the later years.",
+      "cn": "可能在后来的几年里我们真的让人感到有些古板。"
+    },
+    {
+      "en": "She was somewhat unapproachable but I'm sure she wanted to be friendly.",
+      "cn": "她有些不好接近，但我确信她想表现得友好一些。"
+    },
+    {
+      "en": "Somewhat ingenuously, he explains how the crime may be accomplished.",
+      "cn": "他有点天真地解释了这一罪行可能是如何实施的。"
+    },
+    {
+      "en": "The somewhat acid flavour is caused by the presence of lactic acid.",
+      "cn": "这种微酸的味道是因为含有乳酸造成的。"
+    },
+    {
+      "en": "Things have changed somewhat since then.",
+      "cn": "从那时候起，情况就有些不一样了。"
+    },
+    {
+      "en": "This decision puts the President in a somewhat tenuous position.",
+      "cn": "这个决定使得总统的位置有些岌岌可危。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "something",
+          "tran_cn": " 大约；有点象"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "something",
+          "tran_cn": " 非常；有点；大约"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "something",
+          "tran_cn": " 重要的人；值得重视的事"
+        }
+      ]
+    },
+    {
+      "pos": "pron",
+      "words": [
+        {
+          "word": "something",
+          "tran_cn": " 某事；某物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "how",
+            "any"
+          ],
+          "tran_cn": "有点；多少；几分；稍微"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "a",
+            "bit",
+            "certain",
+            "degree",
+            "extent",
+            "fairly",
+            "in",
+            "kind",
+            "less",
+            "little",
+            "measure",
+            "moderately",
+            "more",
+            "of",
+            "or",
+            "part",
+            "partially",
+            "partly",
+            "passably",
+            "pretty",
+            "quite",
+            "rather",
+            "reasonably",
+            "relatively",
+            "slightly",
+            "some",
+            "sort",
+            "to",
+            "tolerably"
+          ],
+          "tran_cn": ""
+        },
+        {
+          "words": [
+            "any"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "somewhat of",
+      "tran_cn": "有点"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "稍微",
+      "tran_en": "more than a little but not very"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "几分；某物"
+    },
+    {
+      "pos": "pron",
+      "tran_cn": "一点儿"
+    }
+  ],
+  "exchange": {}
+}

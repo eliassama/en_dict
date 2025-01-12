@@ -1,0 +1,134 @@
+{
+  "word": "impoverish",
+  "ipa": {
+    "us": "ɪmˈpɒvərɪʃ",
+    "uk": "ɪmˈpɑvərɪʃ"
+  },
+  "sentences": [
+    {
+      "en": "Falling coffee prices have impoverished many developing economies.",
+      "cn": "咖啡价格下跌使很多发展中的经济面临困境。"
+    },
+    {
+      "en": "families impoverished by debt",
+      "cn": "因负债而贫穷的家庭"
+    },
+    {
+      "en": "Impoverish the soil by overuse.",
+      "cn": "过度耕作而使土壤变得贫瘠."
+    },
+    {
+      "en": "Impoverish the soil overuse . See Synonyms at deplete.",
+      "cn": "过度耕作而使土壤变得贫瘠参见."
+    },
+    {
+      "en": "Reducing the income will further impoverish these families and could tempt an offender into further crime.",
+      "cn": "降低收入只会使这些家庭更加贫穷，而且可能诱使不法分子进一步犯罪。"
+    },
+    {
+      "en": "These changes are likely to impoverish single-parent families even further.",
+      "cn": "这些变革很可能使单亲家庭更加贫困。"
+    },
+    {
+      "en": "Thy worship does not impoverish the world.",
+      "cn": "对你供献不会使世界困穷."
+    },
+    {
+      "en": "We need to reduce the burden of taxes that impoverish the economy.",
+      "cn": "我们需要减轻导致经济困顿的税收负荷。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "impoverished",
+          "tran_cn": " 穷困的；用尽了的，无创造性的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "impoverishment",
+          "tran_cn": " 贫穷；致使贫乏或贫瘠之事物"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "impoverished",
+          "tran_cn": " 使贫困（impoverish的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bankrupt",
+            "beggar",
+            "break",
+            "deplete",
+            "exhaust",
+            "ruin"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bankrupt",
+            "deplete",
+            "exhaust",
+            "make",
+            "poor",
+            "ruin"
+          ],
+          "tran_cn": "使贫困"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使贫穷, 使枯竭",
+      "tran_en": "to make someone very poor"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使贫穷，使贫瘠或恶化，耗尽…的力气",
+      "tran_en": "to make someone very poor"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "impoverishes"
+    ],
+    "past": [
+      "impoverished"
+    ],
+    "done": [
+      "impoverished"
+    ],
+    "ing": [
+      "impoverishing"
+    ],
+    "noun": [
+      "impoverishment"
+    ]
+  }
+}

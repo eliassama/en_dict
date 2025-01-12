@@ -1,0 +1,192 @@
+{
+  "word": "relational",
+  "ipa": {
+    "us": "rɪˈleɪʃənl",
+    "uk": "rɪ'leɪʃənl"
+  },
+  "sentences": [
+    {
+      "en": "A next - generation object - relational database management system designed for enterprise use.",
+      "cn": "下一代用语,企业应用的对象 - 关系型数据库管理系统."
+    },
+    {
+      "en": "A relational database comprises a set of well structured flat file.",
+      "cn": "关系数据库便由结构式平面文件组成."
+    },
+    {
+      "en": "An XML - Based Schema Translation Method for Relational Data Sharing and Exchanging.",
+      "cn": "关系数据共享与交换过程中一种基于XMLSchema的模式转化方法."
+    },
+    {
+      "en": "Are the retailers in stable relationships also faced with some relational risks?",
+      "cn": "处于稳定关系中的零售商是否也会面临某种关系风险?"
+    },
+    {
+      "en": "Cartographer is a simple, efficient object relational mapper engine.",
+      "cn": "这是个简单 、 效的对象-关系映射工具."
+    },
+    {
+      "en": "DB 2 is a relational database management system that developed by IBM.",
+      "cn": "DB2通用数据库是IBM公司 开发推广的关系数据库管理系统产品."
+    },
+    {
+      "en": "It provides an easy - to - use, high - level interface to relational data.",
+      "cn": "它提供易使用的高级关系数据库接口."
+    },
+    {
+      "en": "One of these tables contains only traditional relational columns, while the second contains relational columns and one XML column.",
+      "cn": "这两个表的其中之一仅包含传统的关系列，而另一个包含关系列和一个 XML 列。"
+    },
+    {
+      "en": "Operator method has practical value for research on relational database.",
+      "cn": "算子化方法对于关系数据库理论的研究也有一定的实用价值."
+    },
+    {
+      "en": "Our results are good agreement with existing experimental data in relational reference.",
+      "cn": "我们的计算结果和相关文献上的实验数据符合得很好."
+    },
+    {
+      "en": "Ron's example illuminates an everyday occurrence: job rotation tears apart relational ties.",
+      "cn": "罗恩的例子解释了一件每天都发生的事情: 工作变动撕破了关系的纽带."
+    },
+    {
+      "en": "The circuIt'schematics and the relational diagram of software modules are given.",
+      "cn": "给出了硬件电路原理图及软件流程图."
+    },
+    {
+      "en": "The new algorithm is also applicable to general relational database.",
+      "cn": "该算法同样适用于普通的关系数据库."
+    },
+    {
+      "en": "The relational database is the most mature and popular database technology nowadays.",
+      "cn": "关系数据库是当前最成熟、最流行的数据库技术."
+    },
+    {
+      "en": "The table is the standard unit of information in a relational database.",
+      "cn": "数据表是相关数据库中基本的信息单元."
+    },
+    {
+      "en": "These operations include: construction, copy - construction, assignment, swap and relational operations.",
+      "cn": "这样的操作包括有: 构造, 复制构造, 赋值, 交换和比较操作."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "related",
+          "tran_cn": " 有关系的，有关联的；讲述的，叙述的"
+        },
+        {
+          "word": "relative",
+          "tran_cn": " 相对的；有关系的；成比例的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "relatively",
+          "tran_cn": " 相当地；相对地，比较地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "relatedness",
+          "tran_cn": " 关联性；关系；亲缘"
+        },
+        {
+          "word": "relation",
+          "tran_cn": " 关系；叙述；故事；亲属关系"
+        },
+        {
+          "word": "relationship",
+          "tran_cn": " 关系；关联"
+        },
+        {
+          "word": "relative",
+          "tran_cn": " 亲戚；相关物；[语] 关系词；亲缘植物"
+        },
+        {
+          "word": "relativism",
+          "tran_cn": " 相对主义；相对论"
+        },
+        {
+          "word": "relativity",
+          "tran_cn": " 相对论；相关性；相对性"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "related",
+          "tran_cn": " 叙述（relate过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "relativise",
+          "tran_cn": "   相对化（等于relativize）"
+        },
+        {
+          "word": "relativize",
+          "tran_cn": " 用相对论处理…"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "correlative",
+            "pertinent"
+          ],
+          "tran_cn": "相关的；亲属的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "relational algebra",
+      "tran_cn": "[数]关系代数"
+    },
+    {
+      "phrase": "relational database",
+      "tran_cn": "关系数据库"
+    },
+    {
+      "phrase": "relational expression",
+      "tran_cn": "[计]关系表达式"
+    },
+    {
+      "phrase": "relational graph",
+      "tran_cn": "相关图形；关系图"
+    },
+    {
+      "phrase": "relational model",
+      "tran_cn": "关系模型"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "亲属的，相关的，有关的",
+      "tran_en": "indicating or expressing syntactic relation, as for example the case endings in Latin "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,167 @@
+{
+  "word": "rectification",
+  "ipa": {
+    "us": "ˌrektɪfɪ'keɪʃn",
+    "uk": "ˌrɛktəfəˈkeʃən"
+  },
+  "sentences": [
+    {
+      "en": "...the rectification of an injustice.",
+      "cn": "...一种不公正的矫正。"
+    },
+    {
+      "en": "Aim To study the dispersion of individual CCD pixels and its rectification.",
+      "cn": "目的研究CCD各 像元之间的暗电流和响应不一致性的矫正方法."
+    },
+    {
+      "en": "Anyway , there must be another rectification the year after next.",
+      "cn": "后年是要搞一次的."
+    },
+    {
+      "en": "At last the thesis describes the installment and rectification of the system.",
+      "cn": "论文最后简述了系统的安装和调试情况."
+    },
+    {
+      "en": "Dumping is an unjust trade practice, of which antidumping constitutes rectification.",
+      "cn": "倾销是不公平的贸易做法, 而反倾销则是对这种不公平做法的矫正."
+    },
+    {
+      "en": "Methods A random sampling inspection could be combined with special - purpose rectification.",
+      "cn": "方法突击抽样检查和专项整顿相结合,抽样比对."
+    },
+    {
+      "en": "One should understand that rectification requires one's own painstaking effort.",
+      "cn": "要知道整风主要靠自己下苦功夫."
+    },
+    {
+      "en": "Rectification means correcting one's way of thinking and style of work.",
+      "cn": "整风就是整顿思想作风和工作作风."
+    },
+    {
+      "en": "The current rectification is like a dose of alum.",
+      "cn": "这次整风,就是放一把明矾."
+    },
+    {
+      "en": "The phase debugging method of the thyristor rectification circuit is introduced.",
+      "cn": "给出晶闸管整流电路的相位调试方法."
+    },
+    {
+      "en": "The process of producing a shift of the average value is called rectification.",
+      "cn": "产生平均值移动的过程叫做整流."
+    },
+    {
+      "en": "The rectification has to be conducted in every factory and agricultural co - operative .",
+      "cn": "这个整风,每个工厂,每个 合作社 都要搞."
+    },
+    {
+      "en": "The Yenan rectification and the sinicization of Marxism have close relationship.",
+      "cn": "延安整风与马克思主义中国化有着密切的关系."
+    },
+    {
+      "en": "This effect, in analogy to its radiofrequency counterpart, is known as optical rectification.",
+      "cn": "同它的射频对应物相仿, 这种现象称为光学整流."
+    },
+    {
+      "en": "This provides a favourable conditions for rectification of tall oil.",
+      "cn": "为塔尔油的精馏创造了有利条件."
+    },
+    {
+      "en": "To be responsible for the rectification and closure of coal mines.",
+      "cn": "负责指导煤矿整顿关闭工作."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rectifiable",
+          "tran_cn": " [化工] 可精馏的；可矫正的；可改正的"
+        },
+        {
+          "word": "rectified",
+          "tran_cn": " 改正的，整流的；精馏过的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rectifier",
+          "tran_cn": " [电] 整流器；改正者，矫正者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "rectified",
+          "tran_cn": " 调整；矫正；精馏（rectify的过去分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "rectify",
+          "tran_cn": " 改正；精馏；整流"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "correction",
+            "reform",
+            "switching",
+            "amendment"
+          ],
+          "tran_cn": "改正，矫正；[化工]精馏；[电]整流；[数]求长"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "correction"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "rectification circuit",
+      "tran_cn": "整流电路"
+    },
+    {
+      "phrase": "rectification column",
+      "tran_cn": "[化]精馏塔"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "矫正，<电>整流，<化>精馏，<数>求长",
+      "tran_en": "The rectification of something that is wrong is the act of changing it to make it correct or satisfactory"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "rectify"
+    ],
+    "adj": [
+      "rectifiable"
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "word": "vintage",
+  "ipa": {
+    "us": "ˈvɪntɪdʒ",
+    "uk": "ˈvɪntɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "2003 was a particularly fine vintage.",
+      "cn": "2003年是特别好的酿酒年份。"
+    },
+    {
+      "en": "a vintage performance from Bruce Springsteen",
+      "cn": "一场最具布鲁斯·斯普林斯汀风格的演出"
+    },
+    {
+      "en": "At the press conference, James is on vintage form.",
+      "cn": "在这次记者招待会上，詹姆斯的表现最出色。"
+    },
+    {
+      "en": "He is of the Yale vintage.",
+      "cn": "他是耶鲁大学毕业生."
+    },
+    {
+      "en": "If you can buy only one case at auction, it should be vintage port.",
+      "cn": "如果你在拍卖会上只能买一样东西，那就应该是上等的波尔图葡萄酒。"
+    },
+    {
+      "en": "Many predict 1991 will rival the great vintage of 1965.",
+      "cn": "许多人预测1991年酿制的葡萄酒可以与1965年生产的佳酿相媲美。"
+    },
+    {
+      "en": "She loaded up his collection of vintage wines into crates.",
+      "cn": "她把他收藏的陈年佳酿装进板条箱里。"
+    },
+    {
+      "en": "The 1983 vintage was one of the best.",
+      "cn": "1983年酿制的酒是最好的一种."
+    },
+    {
+      "en": "The 1985 vintage has a stronger bouquet and slight caramelly flavour.",
+      "cn": "这种1985年酿制的陈年佳酿味道更醇厚，带有一种淡淡的焦糖甜味。"
+    },
+    {
+      "en": "The museum will have a permanent exhibition of 60 vintage cars.",
+      "cn": "这个博物馆将长期展出60辆老爷车。"
+    },
+    {
+      "en": "The train that now hove into view was clearly of a much older vintage.",
+      "cn": "现在进入视野的火车显然是一种古老得多的车型。"
+    },
+    {
+      "en": "The wine is of 1909 vintage.",
+      "cn": "这葡萄酒酿造于1909年."
+    },
+    {
+      "en": "This is a very good vintage.",
+      "cn": "这是一瓶上等佳酿酒."
+    },
+    {
+      "en": "This is a vintage car made in 1917.",
+      "cn": "这是一辆造于一九一七年的古老而名贵的车."
+    },
+    {
+      "en": "This is vintage port, and it is distinguishable by its deep red colour.",
+      "cn": "这是佳酿葡萄酒，它有特别的深红色。"
+    },
+    {
+      "en": "This wine is from one of the two best vintages of the decade in this region.",
+      "cn": "这种葡萄酒是这一地区近十年来葡萄产量最好的两个年份之一生产的佳酿。"
+    },
+    {
+      "en": "vintage cars",
+      "cn": "老爷车"
+    },
+    {
+      "en": "Vintage ports must be decanted to remove natural sediments.",
+      "cn": "上等的波尔图葡萄酒必须倒入其他容器中以滤除自然沉淀物。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vinous",
+          "tran_cn": " 葡萄酒的；嗜酒的；有葡萄酒性质的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vinery",
+          "tran_cn": " 葡萄园，葡萄温室"
+        },
+        {
+          "word": "viniculture",
+          "tran_cn": " 葡萄酒酿造学；[园艺] 葡萄栽培法"
+        },
+        {
+          "word": "vinification",
+          "tran_cn": " [食品] 葡萄酒酿造法"
+        },
+        {
+          "word": "vintager",
+          "tran_cn": " 采葡萄的人"
+        },
+        {
+          "word": "vintner",
+          "tran_cn": " 葡萄酒商；酿造葡萄酒的人"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vinify",
+          "tran_cn": " 用……酿酒；酿，酿造"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "optimal",
+            "ancient",
+            "old"
+          ],
+          "tran_cn": "古老的；最佳的；过时的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "classic",
+            "elderly"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "vintage car",
+      "tran_cn": "老式汽车"
+    },
+    {
+      "phrase": "vintage wine",
+      "tran_cn": "佳酿；精制葡萄酒"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "酿酒的，老式的，过时的，最好的，最有特色的，古老而享有声誉的",
+      "tran_en": "old, but high quality"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "美酒，葡萄产量，酒产年，酒产地，制造年份",
+      "tran_en": "The vintage of a good quality wine is the year and place that it was made before being stored to improve it. You can also use vintage to refer to the wine that was made in a certain year. "
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "采葡萄"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "采葡萄；用葡萄酿酒"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "vintages"
+    ]
+  }
+}

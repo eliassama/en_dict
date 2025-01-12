@@ -1,0 +1,170 @@
+{
+  "word": "soluble",
+  "ipa": {
+    "us": "ˈsɒljəbl",
+    "uk": "ˈsɑːljəbl"
+  },
+  "sentences": [
+    {
+      "en": "Camphor is soluble in alcohol.",
+      "cn": "樟脑在酒精中可以溶化."
+    },
+    {
+      "en": "Carotenes are insoluble in water and soluble in oils and fats.",
+      "cn": "胡萝卜素不溶于水，但可溶于油类和脂肪。"
+    },
+    {
+      "en": "Double cream contains approximately twice the quantity of fat-soluble vitamins as single cream.",
+      "cn": "高脂厚奶油中脂溶性维生素的含量大约是稀奶油的两倍。"
+    },
+    {
+      "en": "Glucose is soluble in water.",
+      "cn": "葡萄糖可溶于水。"
+    },
+    {
+      "en": "Liquid water can leach soluble materials from the interface.",
+      "cn": "液态水能够从界面溶解出可溶性物质."
+    },
+    {
+      "en": "soluble aspirin",
+      "cn": "可溶性阿司匹林"
+    },
+    {
+      "en": "The disulphate was easily soluble in water.",
+      "cn": "焦硫酸盐易溶于水."
+    },
+    {
+      "en": "The immunogenic potency of soluble antigens may be considerably increased.",
+      "cn": "它们的免疫原效能可以提高很多."
+    },
+    {
+      "en": "The organic acids produced in the upper horizons are soluble and mobile.",
+      "cn": "在土壤上层所产生的有机酸是水溶性的、流动性的."
+    },
+    {
+      "en": "The overwhelming majority of nonlinear differential equations are not soluble analytically.",
+      "cn": "绝大多数非线性微分方程是不能用解析方法求解的."
+    },
+    {
+      "en": "The red dye on the leather is water-soluble.",
+      "cn": "皮革上的这种红色染料可溶于水。"
+    },
+    {
+      "en": "The schroedinger equation for the one - electron atom is exactly soluble.",
+      "cn": "单电子原子的薛定谔方程是可精确求解的."
+    },
+    {
+      "en": "Their amino acid composition resembles that of all the other'soluble \" proteins.",
+      "cn": "它们的氨基酸组成与所有其它 可溶性 蛋白质相似."
+    },
+    {
+      "en": "These tablets are soluble in water.",
+      "cn": "这些药片可在水中溶解."
+    },
+    {
+      "en": "Uranium is soluble in sea water.",
+      "cn": "铀可溶解于海水。"
+    },
+    {
+      "en": "Vitamin C is water soluble.",
+      "cn": "维生素C可溶于水。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "solvable",
+          "tran_cn": " 可以解决的；可以解的；可溶的"
+        },
+        {
+          "word": "solved",
+          "tran_cn": " 解决了的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "solubility",
+          "tran_cn": " 溶解度；可解决性"
+        },
+        {
+          "word": "solubleness",
+          "tran_cn": " 溶解度，可溶性"
+        },
+        {
+          "word": "solution",
+          "tran_cn": " 解决方案；溶液；溶解；解答"
+        },
+        {
+          "word": "solvability",
+          "tran_cn": " [数] 可解性；解决之可能性；溶解度"
+        },
+        {
+          "word": "solvation",
+          "tran_cn": " [化学] 溶解；[化学] 溶剂化作用；溶化"
+        },
+        {
+          "word": "solvency",
+          "tran_cn": " 偿付能力；溶解力"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "solved",
+          "tran_cn": " 解决（solve的过去式）；解答"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "dissolvable",
+            "solvable"
+          ],
+          "tran_cn": "[化学]可溶的，可溶解的；可解决的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acid soluble",
+      "tran_cn": "adj. 酸溶性"
+    },
+    {
+      "phrase": "soluble glass",
+      "tran_cn": "n. [材料学]溶性玻璃（等于sodium silicate）"
+    },
+    {
+      "phrase": "soluble starch",
+      "tran_cn": "可溶性淀粉"
+    },
+    {
+      "phrase": "water soluble",
+      "tran_cn": "水溶性的；溶于水的"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "[化] 可溶的，可以解决的，可以解释的，[数]可解的",
+      "tran_en": "a soluble substance can be  dissolved  in a liquid"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "solubility"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "word": "sturdiness",
+  "ipa": {
+    "us": "'stɜ:dɪnəs",
+    "uk": "'stɜdɪnəs"
+  },
+  "sentences": [
+    {
+      "en": "STURDINESS . 14 - G diamond plate steel body, high strength tubular frame.",
+      "cn": "坚固性:14G菱形钢车身, 高强度管状结构."
+    },
+    {
+      "en": "STURDINESS . 14 - G diamond plate steel, tubular frame.",
+      "cn": "坚固性:14G菱形钢, 管状结构."
+    },
+    {
+      "en": "STURDINESS. 6 mm diamond - plate steel, 25 mm rear - end plate.",
+      "cn": "坚固性: 6毫米菱形钢车身, 车体后部25毫米钢板."
+    },
+    {
+      "en": "The Cattle have the characteristic of sturdiness, anti - anoxia and anti - fatigue.",
+      "cn": "牛具有雄壮性猛耐寒冷, 抗 缺氧, 抗 疲劳等生理特性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sturdy",
+          "tran_cn": " 坚定的；强健的；健全的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "sturdily",
+          "tran_cn": " 坚毅地，坚强地；强壮地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sturdy",
+          "tran_cn": " 羊晕倒病"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "steel",
+            "durability",
+            "toughness"
+          ],
+          "tran_cn": "坚固；强健，雄壮"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "proof",
+            "stability",
+            "vigor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "强健，雄壮，坚固，坚固性"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "sturdily"
+    ],
+    "adj": [
+      "sturdy"
+    ]
+  }
+}

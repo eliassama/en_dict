@@ -1,0 +1,119 @@
+{
+  "word": "abominate",
+  "ipa": {
+    "us": "əˈbɒmɪneɪt",
+    "uk": "əˈbɑmɪneɪt"
+  },
+  "sentences": [
+    {
+      "en": "All the teachers abominate cheating in examinations.",
+      "cn": "所有教师都憎恶考试作弊。"
+    },
+    {
+      "en": "For my part, I abominate all honorable respectable toils , trials, and tribulations of every kind whatsoever.",
+      "cn": "拿我来说, 一切尊贵的, 叫人敬重的劳动 、 考验和折磨都使我乏味."
+    },
+    {
+      "en": "I abominate dancing.",
+      "cn": "我痛恨跳舞。"
+    },
+    {
+      "en": "It has been my tragedy that I abominate the English countryside.",
+      "cn": "我不喜欢英格兰农村,这一直是我的不幸."
+    },
+    {
+      "en": "To regard with horror or loathing; abominate.",
+      "cn": "憎恶，厌恶恐惧或憎恨；痛恨。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "abominable",
+          "tran_cn": " 讨厌的；令人憎恶的；糟透的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "abomination",
+          "tran_cn": " 厌恶；憎恨；令人厌恶的事物"
+        },
+        {
+          "word": "abominator",
+          "tran_cn": " 嫌恶者；憎恶者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "abhor",
+            "at",
+            "blench",
+            "despise",
+            "detest",
+            "disfavour",
+            "dislike",
+            "disrelish",
+            "execrate",
+            "from",
+            "hate",
+            "loathe",
+            "recoil",
+            "shrink",
+            "shudder"
+          ],
+          "tran_cn": "讨厌,憎恶"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abhor",
+            "revolt at"
+          ],
+          "tran_cn": "痛恨；憎恶"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "痛恨, 憎恶",
+      "tran_en": "to hate something very much"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "憎恶，厌恶，不喜欢",
+      "tran_en": "to hate something very much"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "abominates"
+    ],
+    "past": [
+      "abominated"
+    ],
+    "done": [
+      "abominated"
+    ],
+    "ing": [
+      "abominating"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "word": "unconcern",
+  "ipa": {
+    "us": "ˌʌnkənˈsɜ:n",
+    "uk": "ˌʌnkənˈsɜrn"
+  },
+  "sentences": [
+    {
+      "en": "He regards such matter with complete unconcern.",
+      "cn": "他对这种事情毫不关心."
+    },
+    {
+      "en": "She heard the news of his death with apparent unconcern.",
+      "cn": "她听到他的死讯无动于衷."
+    },
+    {
+      "en": "She received the news with apparent unconcern.",
+      "cn": "她接到这消息时显然无动于衷。"
+    },
+    {
+      "en": "She went her own way with unconcern for consequences.",
+      "cn": "她不顾后果,一味我行我素."
+    },
+    {
+      "en": "She'd mentioned it casually once, surprising him by her unconcern.",
+      "cn": "她曾随口提到过，当时她的冷漠很让他吃惊。"
+    },
+    {
+      "en": "Suzanne's feelings about food and eating had gone from blithe unconcern to anxiety.",
+      "cn": "苏珊娜对饮食的态度已经从无所谓变成了焦虑不安。"
+    },
+    {
+      "en": "The opposite of love is not hate, but indifference and unconcern.",
+      "cn": "爱的反面不是仇恨, 而是漠视且不关心."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "unconcerned",
+          "tran_cn": " 不关心的；无关的；无忧虑的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "unconcernedly",
+          "tran_cn": " 不在乎地；漠不关心地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "insensibility",
+            "indifference"
+          ],
+          "tran_cn": "不关心；不感兴趣；冷淡"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "apathy",
+            "boredom",
+            "nonchalance"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "不关心，不感兴趣，冷漠",
+      "tran_en": "when you do not care about something that other people worry about"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,105 @@
+{
+  "word": "liquidator",
+  "ipa": {
+    "us": "ˈlɪkwɪdeɪtə(r)",
+    "uk": "ˈlɪkwɪdeɪtər"
+  },
+  "sentences": [
+    {
+      "en": "...the failed company's liquidators.",
+      "cn": "…破产公司的清算人。"
+    },
+    {
+      "en": "Article 61 The duties of a liquidator are as follows.",
+      "cn": "第61条(清算人之职务)清算人之职务如左."
+    },
+    {
+      "en": "One of the company directors was appointed liquidator.",
+      "cn": "其中一名董事被指定为公司清算人."
+    },
+    {
+      "en": "The court may dismiss a liquidator whenever it deems necessary.",
+      "cn": "法院认为必要时,得将清算人解任之."
+    },
+    {
+      "en": "The creditors are notified of the progress of the liquidation by progress reports the liquidator.",
+      "cn": "清盘人将会以提交报告的形式向债权人汇报清盘的进度."
+    },
+    {
+      "en": "Upon being inquired, the liquidator shall provide answers about the liquidation immediately.",
+      "cn": "清算人遇有询问时, 应将清算情形,随时答覆."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "liquid",
+          "tran_cn": " 液体的；清澈的；明亮的；易变的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "liquid",
+          "tran_cn": " 液体，流体；流音"
+        },
+        {
+          "word": "liquidation",
+          "tran_cn": " 清算；偿还；液化；清除"
+        },
+        {
+          "word": "liquidity",
+          "tran_cn": " 流动性；流动资产；[金融] 偿债能力"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "liquidate",
+          "tran_cn": " 清算；清理债务"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "liquidate",
+          "tran_cn": " 清算；偿付；消除"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "reckoner"
+          ],
+          "tran_cn": "[法]清算人；公司资产清理人"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（公司债务）清算人",
+      "tran_en": "an official whose job is to close a company and use any money obtained to pay its debts"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "liquidators"
+    ]
+  }
+}

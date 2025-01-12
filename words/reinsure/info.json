@@ -1,0 +1,68 @@
+{
+  "word": "reinsure",
+  "ipa": {
+    "us": "ˌri:ɪn'ʃʊə",
+    "uk": "ˌriɪn'ʃʊr"
+  },
+  "sentences": [
+    {
+      "en": "The insurer may reinsure the insurance of the subject matter enumerated in the preceding paragraph.",
+      "cn": "保险人可以将对前款保险标的的保险进行再保险。"
+    },
+    {
+      "en": "The Obama tax proposals don't include a plan to limit foreign insurers' ability to reinsure their own policies -- a practice some congressional Democrats allege is done to avoid U.S. taxes.",
+      "cn": "奥巴马的税收改革方案中没有限制外国保险商对自身保单进行再保险能力的计划，一些国会民主党议员宣称这种做法是为了在美国避税。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "reinsurance",
+          "tran_cn": " 再保险；再保险金额"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cede insurance"
+          ],
+          "tran_cn": "再保险；分保"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "再保险；分保",
+      "tran_en": "to share the insurance of something between two or more companies, so that there is less risk for each"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "再保险，分保",
+      "tran_en": "to share the insurance of something between two or more companies, so that there is less risk for each"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "reinsures"
+    ],
+    "past": [
+      "reinsured"
+    ],
+    "done": [
+      "reinsured"
+    ],
+    "ing": [
+      "reinsuring"
+    ]
+  }
+}

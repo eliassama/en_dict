@@ -1,0 +1,247 @@
+{
+  "word": "warning",
+  "ipa": {
+    "us": "ˈwɔːnɪŋ",
+    "uk": "ˈwɔːrnɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A warning light blinked on.",
+      "cn": "警报灯闪亮了。"
+    },
+    {
+      "en": "a warning that grey squirrels are threatening the existence of red squirrels",
+      "cn": "关于灰松鼠正威胁到红松鼠生存的警告"
+    },
+    {
+      "en": "an early warning of heart disease",
+      "cn": "心脏病的早期症状"
+    },
+    {
+      "en": "At intervals there were red warning lights.",
+      "cn": "红色警示灯一明一灭地闪着。"
+    },
+    {
+      "en": "Doctors issued a warning against eating any fish caught in the river.",
+      "cn": "医生发出警告不要吃在那条河里捕的鱼。"
+    },
+    {
+      "en": "Garin shot him a dark glance, as if in warning.",
+      "cn": "加林恶狠狠地瞪了他一眼，似乎是在警告。"
+    },
+    {
+      "en": "His soft words contained an undertone of warning.",
+      "cn": "他温和的话中蕴涵着警告之意。"
+    },
+    {
+      "en": "I had this uncanny feeling that Alice was warning me.",
+      "cn": "我有一种奇怪的感觉：艾丽斯是在警告我。"
+    },
+    {
+      "en": "I'm warning you; stop it right now!",
+      "cn": "我警告你，马上住手！"
+    },
+    {
+      "en": "Officials began posting warning notices.",
+      "cn": "官员们开始张贴警告。"
+    },
+    {
+      "en": "She ignored the warning signals.",
+      "cn": "她忽视了一些预警信号。"
+    },
+    {
+      "en": "Some fog warning signs had been put up with flashing yellow lights.",
+      "cn": "一些配有黄色闪光灯的大雾警示标志立了起来。"
+    },
+    {
+      "en": "Surgeon General's warning: cigarette smoking causes cancer",
+      "cn": "卫生局长提醒大家：吸烟致癌"
+    },
+    {
+      "en": "The driver managed to escape from the vehicle and shout a warning.",
+      "cn": "那名司机设法从车里逃了出来并大声警告别人。"
+    },
+    {
+      "en": "Then without warning, the troops opened fire on the crowd.",
+      "cn": "接着军队未作警示便向人群开了火。"
+    },
+    {
+      "en": "These figures should come with a government health warning.",
+      "cn": "这些数字须附以谨慎对待的警告。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "warner",
+          "tran_cn": "警告者；报警器"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "warn",
+          "tran_cn": "发出警告，发出预告"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "warn",
+          "tran_cn": "警告，提醒；通知"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "cautionary",
+            "admonitory"
+          ],
+          "tran_cn": "警告的；引以为戒的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "admonition",
+            "advice",
+            "alarm",
+            "foreboding",
+            "forewarning",
+            "hunch",
+            "sign",
+            "signal",
+            "symptom"
+          ],
+          "tran_cn": "警告;征候;预告"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "advisory",
+            "omen",
+            "threat"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "advance warning",
+      "tran_cn": "事前警告（警报）"
+    },
+    {
+      "phrase": "early warning",
+      "tran_cn": "预先警报"
+    },
+    {
+      "phrase": "early warning system",
+      "tran_cn": "预警系统；预先警报系统"
+    },
+    {
+      "phrase": "flood warning",
+      "tran_cn": "洪水警报"
+    },
+    {
+      "phrase": "give someone warning",
+      "tran_cn": "预先通知某人(尤指辞职、解雇、退租等)"
+    },
+    {
+      "phrase": "miranda warning",
+      "tran_cn": "米兰达警告；米兰达规则"
+    },
+    {
+      "phrase": "storm warning",
+      "tran_cn": "风暴警报，暴风警报"
+    },
+    {
+      "phrase": "take warning",
+      "tran_cn": "有所警惕；引以为戒；有所警戒"
+    },
+    {
+      "phrase": "tsunami warning system",
+      "tran_cn": "地震海啸警报系统"
+    },
+    {
+      "phrase": "warning device",
+      "tran_cn": "报警装置"
+    },
+    {
+      "phrase": "warning label",
+      "tran_cn": "警告标记，警示标示"
+    },
+    {
+      "phrase": "warning level",
+      "tran_cn": "警告等级；警戒水位；报警水平"
+    },
+    {
+      "phrase": "warning light",
+      "tran_cn": "报警信号灯，警示灯"
+    },
+    {
+      "phrase": "warning line",
+      "tran_cn": "警戒线；警戒水位"
+    },
+    {
+      "phrase": "warning message",
+      "tran_cn": "报警报文；报警信息；警告消息"
+    },
+    {
+      "phrase": "warning notice",
+      "tran_cn": "警告通知，预告"
+    },
+    {
+      "phrase": "warning sign",
+      "tran_cn": "警告标志；警报信号"
+    },
+    {
+      "phrase": "warning signal",
+      "tran_cn": "警报信号"
+    },
+    {
+      "phrase": "warning system",
+      "tran_cn": "报警系统"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "警告的;告诫的;引以为戒的",
+      "tran_en": "a warning action or thing tells you that something bad or dangerous might happen"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "警示，预先通知",
+      "tran_en": "something, especially a statement, that tells you that something bad, dangerous, or annoying might happen so that you can be ready or avoid it"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "警告（warn的ing形式）"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "warnings"
+    ]
+  }
+}

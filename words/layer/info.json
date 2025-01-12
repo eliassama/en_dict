@@ -1,0 +1,331 @@
+{
+  "word": "layer",
+  "ipa": {
+    "us": "ˈleɪə(r)",
+    "uk": "ler"
+  },
+  "sentences": [
+    {
+      "en": "A fresh layer of snow covered the street.",
+      "cn": "街上覆盖了一层新雪。"
+    },
+    {
+      "en": "a layer of gritty dust",
+      "cn": "一层沙尘"
+    },
+    {
+      "en": "A plastic surgeon can remove the top layer of skin.",
+      "cn": "整形外科医生可以除去最表层的皮肤。"
+    },
+    {
+      "en": "A thick layer of wax was spread over the surface.",
+      "cn": "表面涂上了厚厚的一层蜡。"
+    },
+    {
+      "en": "A thin layer of dust covered everything.",
+      "cn": "所有的物品上都积了薄薄的一层灰尘。"
+    },
+    {
+      "en": "A thin layer of topsoil was swept away.",
+      "cn": "薄薄的一层表土被冲走了。"
+    },
+    {
+      "en": "Cover the base with a single layer of sponge fingers.",
+      "cn": "底部垫上一层海棉条。"
+    },
+    {
+      "en": "He pulled off layer upon layer of clothing (= many layers of clothing ).",
+      "cn": "他把衣服一件件地脱掉。"
+    },
+    {
+      "en": "It was hard to see the colours under the layer of dust.",
+      "cn": "蒙了一层灰尘后颜色就很难看清了。"
+    },
+    {
+      "en": "Sensitive Cream will not strip away the skin's protective layer.",
+      "cn": "敏感肌肤专用面霜不会破坏皮肤表面的保护层。"
+    },
+    {
+      "en": "Slowly a thick layer of fat builds up on the pan's surface.",
+      "cn": "慢慢地，平底锅表面积起了一层厚厚的油脂。"
+    },
+    {
+      "en": "the layers of meaning in the poem",
+      "cn": "这首诗不同层次的含义"
+    },
+    {
+      "en": "the multi-layered nature of organizations (= they have many layers )",
+      "cn": "机构的多层次性"
+    },
+    {
+      "en": "The paintings were concealed beneath a thick layer of plaster.",
+      "cn": "那些画被隐藏在厚厚的灰泥层下面。"
+    },
+    {
+      "en": "The pond was covered in a brittle layer of ice.",
+      "cn": "池塘覆盖了一层易碎的冰."
+    },
+    {
+      "en": "The top layer of skin has to be grafted onto the burns.",
+      "cn": "必须将表层皮肤移植到烫伤处。"
+    },
+    {
+      "en": "The upper layer of felt should overlap the lower.",
+      "cn": "毛毡的上层应与下层重叠。"
+    },
+    {
+      "en": "These seeds must be covered with a layer of earth.",
+      "cn": "这些种子必须盖上一层泥土."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "layered",
+          "tran_cn": " 分层的；层状的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "layered",
+          "tran_cn": " 分层堆积；用压条法培植（layer的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "branch",
+            "runner",
+            "shoot",
+            "spray",
+            "sprout",
+            "switch",
+            "tendril"
+          ],
+          "tran_cn": "压条,杖条,鞭子"
+        },
+        {
+          "words": [
+            "cortex",
+            "flake",
+            "integument",
+            "lamina",
+            "laminate",
+            "lamination",
+            "membrane",
+            "peel",
+            "pellicle",
+            "rind",
+            "shell",
+            "skin",
+            "tegmen",
+            "tegument"
+          ],
+          "tran_cn": "壳,皮"
+        },
+        {
+          "words": [
+            "blanket",
+            "carpet",
+            "casing",
+            "cloak",
+            "coating",
+            "coping",
+            "cover",
+            "covering",
+            "envelope",
+            "film",
+            "fold",
+            "lining",
+            "mantle",
+            "mask",
+            "overcoating",
+            "overlap",
+            "overlay",
+            "sheet",
+            "veneer",
+            "wrapping"
+          ],
+          "tran_cn": "外罩,覆盖物"
+        },
+        {
+          "words": [
+            "bed",
+            "belt",
+            "course",
+            "floor",
+            "level",
+            "ply",
+            "story",
+            "stratification",
+            "stratum",
+            "substratum",
+            "thickness",
+            "tier"
+          ],
+          "tran_cn": "层,地层,带"
+        },
+        {
+          "words": [
+            "pane",
+            "panel",
+            "piece",
+            "plank",
+            "plate",
+            "rasher",
+            "shaving",
+            "shive",
+            "slice",
+            "sliver",
+            "splinter",
+            "wafer"
+          ],
+          "tran_cn": "碎片,薄片"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "crust",
+            "leaf",
+            "stage",
+            "vein"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "application layer",
+      "tran_cn": "[计]应用层"
+    },
+    {
+      "phrase": "bottom layer",
+      "tran_cn": "底层"
+    },
+    {
+      "phrase": "boundary layer",
+      "tran_cn": "边界层"
+    },
+    {
+      "phrase": "double layer",
+      "tran_cn": "双层"
+    },
+    {
+      "phrase": "inner layer",
+      "tran_cn": "内层"
+    },
+    {
+      "phrase": "layer structure",
+      "tran_cn": "[化]层型结构"
+    },
+    {
+      "phrase": "layer thickness",
+      "tran_cn": "层厚度"
+    },
+    {
+      "phrase": "network layer",
+      "tran_cn": "[计]网路层，网路阶层"
+    },
+    {
+      "phrase": "oil layer",
+      "tran_cn": "油层；含油地层；含油层；油膜"
+    },
+    {
+      "phrase": "outer layer",
+      "tran_cn": "外层"
+    },
+    {
+      "phrase": "ozone layer",
+      "tran_cn": "【气】臭氧层"
+    },
+    {
+      "phrase": "physical layer",
+      "tran_cn": "物理层"
+    },
+    {
+      "phrase": "protective layer",
+      "tran_cn": "保护层"
+    },
+    {
+      "phrase": "single layer",
+      "tran_cn": "单层"
+    },
+    {
+      "phrase": "soil layer",
+      "tran_cn": "土层；土壤层次"
+    },
+    {
+      "phrase": "surface layer",
+      "tran_cn": "表层"
+    },
+    {
+      "phrase": "thin layer",
+      "tran_cn": "薄层；薄膜层"
+    },
+    {
+      "phrase": "thin layer chromatography",
+      "tran_cn": "薄层色谱；薄层色谱法；薄层层析法"
+    },
+    {
+      "phrase": "top layer",
+      "tran_cn": "顶层；上层"
+    },
+    {
+      "phrase": "upper layer",
+      "tran_cn": "上层"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "层，层次，膜，[植]压条，放置者，计划者",
+      "tran_en": "an amount or piece of a material or substance that covers a surface or that is between two other things"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "把…分层堆放；借助压条法；生根繁殖；将（头发）剪成不同层次",
+      "tran_en": "to make a layer of something or put something down in layers"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "形成或分成层次，[植]通过压条法而生根"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把…分层堆放，借助压条法，生根繁殖，将（头发）剪成不同层次"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "layers"
+    ],
+    "third": [
+      "layers"
+    ],
+    "past": [
+      "layered"
+    ],
+    "done": [
+      "layered"
+    ],
+    "ing": [
+      "layering"
+    ]
+  }
+}

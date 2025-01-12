@@ -1,0 +1,76 @@
+{
+  "word": "overpay",
+  "ipa": {
+    "us": "ˌəʊvəˈpeɪ",
+    "uk": "ˌoʊvərˈpeɪ"
+  },
+  "sentences": [
+    {
+      "en": "Absurdly, it makes shoppers overpay farmers to grow too much food.",
+      "cn": "荒谬的是，这样会使得购物者支付过多的钱让农民去种太多的粮食。"
+    },
+    {
+      "en": "I want to apply for the return of the money I overpay for my fine.",
+      "cn": "我想申请拿回多缴的罚款."
+    },
+    {
+      "en": "If I overpay I won'tto make a profit in the future.",
+      "cn": "如果我超付了,那么我就不能得到利益了."
+    },
+    {
+      "en": "Most big companies continue to overpay their top executives.",
+      "cn": "多数大公司继续给高管支付过高的薪水。"
+    },
+    {
+      "en": "We overpay the invoice by $ 245.",
+      "cn": "我们向该发票多付了245美元."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "overpayment",
+          "tran_cn": " 多付的款项"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "多付；多给报酬",
+      "tran_en": "to pay someone more money than they deserve"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 付得过多",
+      "tran_en": "to pay someone more money than they deserve"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "多付给（某人）钱，给（某人）过高报酬",
+      "tran_en": "to pay someone more money than they deserve"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "overpays"
+    ],
+    "past": [
+      "overpaid"
+    ],
+    "done": [
+      "overpaid"
+    ],
+    "ing": [
+      "overpaying"
+    ],
+    "noun": [
+      "overpayment"
+    ]
+  }
+}

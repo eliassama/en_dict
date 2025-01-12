@@ -1,0 +1,80 @@
+{
+  "word": "itinerate",
+  "ipa": {
+    "us": "ɪ'tɪnəreɪt",
+    "uk": "ɪ'tɪnəˌreɪt"
+  },
+  "sentences": [
+    {
+      "en": "That Professor is engaged himself in giving itinerate speech.",
+      "cn": "那位教授在全国作巡回讲座."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "itinerant",
+          "tran_cn": " 巡回的；流动的"
+        },
+        {
+          "word": "itinerary",
+          "tran_cn": " 旅程的；巡回的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "itinerant",
+          "tran_cn": " 巡回者；行商"
+        },
+        {
+          "word": "itinerary",
+          "tran_cn": " 路线，旅程；旅行指南"
+        },
+        {
+          "word": "itineration",
+          "tran_cn": " 巡回；巡回传教"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "go the rounds",
+            "go on a tour"
+          ],
+          "tran_cn": "巡回；巡回传教"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "巡回"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "itinerates"
+    ],
+    "past": [
+      "itinerated"
+    ],
+    "done": [
+      "itinerated"
+    ],
+    "ing": [
+      "itinerating"
+    ]
+  }
+}

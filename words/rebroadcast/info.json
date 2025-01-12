@@ -1,0 +1,106 @@
+{
+  "word": "rebroadcast",
+  "ipa": {
+    "us": "ri:'brɔ:dˌkɑ:st",
+    "uk": "riˈbrɔdˌkæst"
+  },
+  "sentences": [
+    {
+      "en": "Accurate progressive scanning technology, high definition image rebroadcast, reproducing ultimate beautiful pictures.",
+      "cn": "精确逐行扫描技术，高清晰影像重播，再现至美画面。"
+    },
+    {
+      "en": "May 15 th will be the rebroadcast of the show from the very beginning.",
+      "cn": "5月15日我们从头开始重播现有的一套节目."
+    },
+    {
+      "en": "The messages of the second day transmission were a rebroadcast.",
+      "cn": "这些电文通常在播出后的次日有一次重播。"
+    },
+    {
+      "en": "The station will rebroadcast the exhibition match this afternoon.",
+      "cn": "今天下午电视台会重播这场表演比赛。"
+    },
+    {
+      "en": "The system the RTSP feedback mechanism ensure qos and employed multi - cast to rebroadcast programs to clients.",
+      "cn": "该系统基于RTSP等流媒体协议,采用组播等通信方式实现 多用户 电视转播."
+    },
+    {
+      "en": "The TV station will rebroadcast the exhibition match this afternoon.",
+      "cn": "今天下午电视台会转播这场表演赛."
+    },
+    {
+      "en": "There's no rebroadcast of the soccer game tonight.",
+      "cn": "今晚没有足球赛的转播了。"
+    },
+    {
+      "en": "This program is a rebroadcast.",
+      "cn": "这节目重播."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "retransmission",
+            "rediffusion"
+          ],
+          "tran_cn": "[广播]重播；转播；重播（或转播）的节目"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "relay broadcasting"
+          ],
+          "tran_cn": "[广播]重播；转播"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "relay broadcasting",
+            "retransmit"
+          ],
+          "tran_cn": "[广播]重播；转播"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 重播"
+    },
+    {
+      "pos": "v& n.",
+      "tran_cn": "转播，重播"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "rebroadcasts"
+    ],
+    "past": [
+      " rebroadcasted",
+      "rebroadcast"
+    ],
+    "done": [
+      " rebroadcasted",
+      "rebroadcast"
+    ],
+    "ing": [
+      "rebroadcasting"
+    ]
+  }
+}

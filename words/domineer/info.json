@@ -1,0 +1,78 @@
+{
+  "word": "domineer",
+  "ipa": {
+    "us": "ˌdɒmɪ'nɪə",
+    "uk": "ˌdɒmə'nɪr"
+  },
+  "sentences": [
+    {
+      "en": "Big boys sometimes domineer over the younger pupils.",
+      "cn": "大男孩有时会蛮横地对待较年幼的小学生."
+    },
+    {
+      "en": "He tried to domineer over everyone.",
+      "cn": "他想对任何人都专横跋扈."
+    },
+    {
+      "en": "I wouldn't work for someone who tries to domineer over everyone as Mr , Smith does.",
+      "cn": "像史密斯那种总想支配别人的人,我不愿为他作事."
+    },
+    {
+      "en": "It pleased me to domineer over her, and she generally submitted to my tyranny rather than risk a hand-to-hand encounter.",
+      "cn": "我喜欢对她作威作福，而她通常宁可屈从我的专横，不愿冒著和我直接冲突的危险。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "domineering",
+          "tran_cn": " 跋扈的；专横的；盛气凌人的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "domineering",
+          "tran_cn": " 实行暴政；高耸；流行（domineer的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "trample"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "lord"
+          ],
+          "tran_cn": "跋扈；作威作福"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "压制",
+      "tran_en": "to act with arrogance or tyranny; behave imperiously "
+    }
+  ],
+  "exchange": {}
+}

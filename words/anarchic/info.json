@@ -1,0 +1,86 @@
+{
+  "word": "anarchic",
+  "ipa": {
+    "us": "ə'nɑ:kɪk",
+    "uk": "ænˈɑrkɪk"
+  },
+  "sentences": [
+    {
+      "en": "a lawless, anarchic city",
+      "cn": "一个没有法纪的混乱城市"
+    },
+    {
+      "en": "an anarchic sense of humour",
+      "cn": "肆无忌惮的幽默感"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "anarchical",
+          "tran_cn": " 无政府主义的"
+        },
+        {
+          "word": "anarchistic",
+          "tran_cn": " 无政府主义的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "anarchism",
+          "tran_cn": " 无政府主义"
+        },
+        {
+          "word": "anarchist",
+          "tran_cn": " 无政府主义者"
+        },
+        {
+          "word": "anarchy",
+          "tran_cn": " 无政府状态；混乱；无秩序"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "chaotic",
+            "confused",
+            "deranged",
+            "disorderly",
+            "disorganized"
+          ],
+          "tran_cn": "无序的,混乱的"
+        },
+        {
+          "words": [
+            "lawless",
+            "ungoverned"
+          ],
+          "tran_cn": "无法的,无政府的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "无政府（主义）的，无秩序的，混乱的，无法无天的",
+      "tran_en": "lacking any rules or order, or not following the moral rules of society"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "anarchy"
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "word": "retrieval",
+  "ipa": {
+    "us": "rɪˈtri:vl",
+    "uk": "rɪˈtrivəl"
+  },
+  "sentences": [
+    {
+      "en": "...electronic storage and retrieval systems.",
+      "cn": "…电子存储和读取系统。"
+    },
+    {
+      "en": "A general schematic view of a data storage and retrieval system is given in Fig 1 - 1 .",
+      "cn": "数据存储和检索系统的总框图见图 1-1."
+    },
+    {
+      "en": "a new system that should speed up information retrieval",
+      "cn": "能加速信息检索的新系统"
+    },
+    {
+      "en": "A special retrieval team arrived from Washington and located the crashed craft.",
+      "cn": "华盛顿的一支修复队驻扎在闪电地点."
+    },
+    {
+      "en": "In addition to calculations, the most frequent use for a compute is probably \" information retrieval \".",
+      "cn": "除了 计算工作 以外, 计算机最的用途大概是资料检索."
+    },
+    {
+      "en": "In addition to calculations, the most frequent use for a computer is probably \" information retrieval \".",
+      "cn": "除了计算工作以外, 计算机最常的用途大概是资料检索."
+    },
+    {
+      "en": "In the physical world, both the retrieval system and the storage system may be very labor - intensive.",
+      "cn": "在物理世界中, 检索系统和存储系统都是劳动密集的系统."
+    },
+    {
+      "en": "Instead, we hand the user the storage system and call it a retrieval system.",
+      "cn": "取而代之, 我们把这个存储系统直接交给了使用者,并把它称为“检索系统”."
+    },
+    {
+      "en": "Its real purpose is the launching and retrieval of small aeroplanes in flight.",
+      "cn": "它真正的用途是发射和收回飞行中的小型飞机。"
+    },
+    {
+      "en": "Not collected, even the most clever retrieval techniques cannot recover them for use in the present.",
+      "cn": "如不加以收集, 就是最先进的补救技术也不能使它恢复以供当前使用."
+    },
+    {
+      "en": "Once again , the key is separating the storage and retrieval systems.",
+      "cn": "关键是分离存储系统和检索系统."
+    },
+    {
+      "en": "The following listing summarizes the more common retrieval programs.",
+      "cn": "下表概述了较常用的检索程序."
+    },
+    {
+      "en": "The shelves and numbers are the storage system. The card indices are the retrieval system.",
+      "cn": "书架和书号是存储系统, 卡片索引是检索系统."
+    },
+    {
+      "en": "The ship was buried, beyond retrieval, at the bottom of the sea.",
+      "cn": "船已葬身海底，无法打捞。"
+    },
+    {
+      "en": "When you have to check the records, the computer provides instant retrieval.",
+      "cn": "要想查看记录, 电脑能立即提供检索."
+    },
+    {
+      "en": "With this information, we can structure storage and retrieval systems that accommodate specific purposes.",
+      "cn": "有了这些信息, 我们就可以构建存储和检索系统来达到这个特定的目的."
+    },
+    {
+      "en": "Yet, we still use the same old metaphors and retrieval models to manage our data.",
+      "cn": "但是, 我们仍然使用相同的隐喻和检索模型管理我们的数据."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "retrievable",
+          "tran_cn": " 可取回的；可补偿的；可检索的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "retrieve",
+          "tran_cn": " [计] 检索；恢复，取回"
+        },
+        {
+          "word": "retriever",
+          "tran_cn": " （训练成能寻回猎物的）猎犬；取回的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "retrieve",
+          "tran_cn": " 找回猎物"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "retrieve",
+          "tran_cn": " [计] 检索；恢复；重新得到"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "recovery",
+            "restoration",
+            "renewal",
+            "salvation"
+          ],
+          "tran_cn": "检索；恢复；取回；拯救"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "recovery"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "data retrieval",
+      "tran_cn": "数据检索；资料检索；资料信息"
+    },
+    {
+      "phrase": "document retrieval",
+      "tran_cn": "[计]文档检索"
+    },
+    {
+      "phrase": "information retrieval",
+      "tran_cn": "信息检索；情报检索"
+    },
+    {
+      "phrase": "retrieval system",
+      "tran_cn": "检索系统；挽回系统"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "收回，挽回，检索",
+      "tran_en": "the act of getting back something you have lost or left somewhere"
+    }
+  ],
+  "exchange": {}
+}

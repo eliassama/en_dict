@@ -1,0 +1,76 @@
+{
+  "word": "eviscerate",
+  "ipa": {
+    "us": "ɪˈvɪsəreɪt",
+    "uk": "ɪ'vɪsəreɪt"
+  },
+  "sentences": [
+    {
+      "en": "...strangling and eviscerating rabbits for the pot.",
+      "cn": "...勒死并取出兔子的内脏以便下锅。"
+    },
+    {
+      "en": "Garrote, Rupture, and Eviscerate are being increased in damage . More details to come.",
+      "cn": "绞喉, 割裂和剔骨伤害增加, 我们会逐步放出更详细的资料."
+    },
+    {
+      "en": "Save your cold blood eviscerate as a finisher.",
+      "cn": "留着你的冷血剔骨做为最后一击."
+    },
+    {
+      "en": "We agreed to eviscerate the proposed bill.",
+      "cn": "我们同意去除所提议案的本质部分。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "evisceration",
+          "tran_cn": " 取出内脏"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "gut"
+          ],
+          "tran_cn": "取出内脏；除去精华"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "取出内脏, 除去精华, 除去主要部分",
+      "tran_en": "to cut the organs out of a person’s or animal’s body"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "切除…的内脏",
+      "tran_en": "to cut the organs out of a person’s or animal’s body"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "eviscerates"
+    ],
+    "past": [
+      "eviscerated"
+    ],
+    "done": [
+      "eviscerated"
+    ],
+    "ing": [
+      "eviscerating"
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "word": "insufficient",
+  "ipa": {
+    "us": "ˌɪnsəˈfɪʃnt",
+    "uk": "ˌɪnsəˈfɪʃnt"
+  },
+  "sentences": [
+    {
+      "en": "British industry suffers through insufficient investment in research.",
+      "cn": "研究投入不足让英国工业深受其害。"
+    },
+    {
+      "en": "Distance alone is insufficient to specify all properties at space.",
+      "cn": "单靠距离还不足以把空间的所有性质说清楚."
+    },
+    {
+      "en": "Frequently insufficient feathers are available for the development of the framework branches.",
+      "cn": "常常有这样的情况,即用来培养骨干枝的分枝数量不够."
+    },
+    {
+      "en": "He decided there was insufficient evidence to justify criminal proceedings.",
+      "cn": "他认定证据不充分无法提起刑事诉讼。"
+    },
+    {
+      "en": "He was reprimanded for insufficient control.",
+      "cn": "他因管理不善受到了责备."
+    },
+    {
+      "en": "He was tired because he had had insufficient sleep.",
+      "cn": "他很疲倦,因为他未睡足."
+    },
+    {
+      "en": "His children were dwarfed by insufficient food.",
+      "cn": "他的儿女因营养不良而发育不全."
+    },
+    {
+      "en": "His salary is insufficient to meet his needs.",
+      "cn": "他的薪水不够应付需要。"
+    },
+    {
+      "en": "In diabetes the body produces insufficient insulin.",
+      "cn": "糖尿病患者体内不能分泌足够的胰岛素。"
+    },
+    {
+      "en": "Insufficient resources have been devoted to the health service.",
+      "cn": "用于医疗保健服务的资源不足。"
+    },
+    {
+      "en": "Our school has been reprieved from insufficient financial resources.",
+      "cn": "我们学校财力不足的困境现已暂时得到缓解。"
+    },
+    {
+      "en": "So, initially as you looked at it it was associated with insufficient coolant.",
+      "cn": "所以，最初你们观察它时，它是与,不足的冷却剂有关。"
+    },
+    {
+      "en": "Some people like to track everything, and we do imagine that it could be helpful to see longer periods of poor or insufficient sleep than we realized we were experiencing.",
+      "cn": "有些人喜欢追踪记录所有的事情，我们可以想象，了解我们睡眠不足或睡眠质量差的时间比我们意识到的长，会对我们有帮助。"
+    },
+    {
+      "en": "The case was thrown out of court because of insufficient evidence.",
+      "cn": "由于证据不足,法庭对此案不予受理."
+    },
+    {
+      "en": "The evidence against him was weak and insufficient.",
+      "cn": "指控他的证据不足且无说服力。"
+    },
+    {
+      "en": "The food was both bad and insufficient.",
+      "cn": "食物既糟又匮乏."
+    },
+    {
+      "en": "The unit has insufficient armament with which to do battle.",
+      "cn": "这个分队缺少作战的武器装备."
+    },
+    {
+      "en": "The worshiper thinks that the worst is the insufficient horsepower.",
+      "cn": "崇拜者认为最坏的事是马力不足."
+    },
+    {
+      "en": "These efforts were insufficient to contain the burgeoning crisis.",
+      "cn": "这些努力不足以抑制迅速扩散的危机。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "insufficiently",
+          "tran_cn": " 不够地；不能胜任地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "insufficiency",
+          "tran_cn": " 不足，不充分；机能不全；不适当"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "",
+            "deficient",
+            "inadequate",
+            "not enough",
+            "unsatisfactory"
+          ],
+          "tran_cn": "不足的;不充分的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "shortage",
+            "short of",
+            "lack",
+            "scarcity"
+          ],
+          "tran_cn": "不足"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deficient",
+            "inadequate",
+            "meager",
+            "unsatisfactory"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "insufficient funds",
+      "tran_cn": "存款不足"
+    },
+    {
+      "phrase": "insufficient memory",
+      "tran_cn": "内存空间不足"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不足的，不够的，绌，亏短，支绌",
+      "tran_en": "not enough, or not great enough"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "不足；缺乏"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "insufficiently"
+    ],
+    "noun": [
+      "insufficiency"
+    ]
+  }
+}

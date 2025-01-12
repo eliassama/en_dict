@@ -1,0 +1,80 @@
+{
+  "word": "sibilant",
+  "ipa": {
+    "us": "ˈsɪbɪlənt",
+    "uk": "ˈsɪbələnt"
+  },
+  "sentences": [
+    {
+      "en": "a sibilant whisper",
+      "cn": "嘁嘁喳喳的耳语"
+    },
+    {
+      "en": "the sibilant sound of whispering",
+      "cn": "窃窃私语声"
+    },
+    {
+      "en": "To pronounce with a hissing sound ; make sibilant.",
+      "cn": "用初始的齿擦音发出."
+    },
+    {
+      "en": "With a sibilant hiss, the Things began to move.",
+      "cn": "藉由一声丝丝作声的嘘声, 事物开始移动."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sibilation",
+          "tran_cn": " 齿擦音发音；咝咝作响"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sibilate",
+          "tran_cn": " 发咝音；咝咝作响"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sibilate",
+          "tran_cn": " 用咝咝声说；用咝音发"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "consonant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（像）发咝咝声的",
+      "tran_en": "making or being an ‘s’ or ‘sh’ sound"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "发咝音的语音或字母"
+    }
+  ],
+  "exchange": {}
+}

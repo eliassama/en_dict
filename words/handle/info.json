@@ -1,0 +1,330 @@
+{
+  "word": "handle",
+  "ipa": {
+    "us": "ˈhændl",
+    "uk": "ˈhændl"
+  },
+  "sentences": [
+    {
+      "en": "Computers can handle huge amounts of data.",
+      "cn": "计算机能处理大量数据。"
+    },
+    {
+      "en": "Don't take on more responsibilities than you can handle.",
+      "cn": "不要承担过多的责任。"
+    },
+    {
+      "en": "He began informally to handle Ted's tax affairs for him.",
+      "cn": "他开始非正式地为特德打理税务。"
+    },
+    {
+      "en": "He flew off the handle at the slightest thing.",
+      "cn": "他为一点小事就大发脾气。"
+    },
+    {
+      "en": "He had never handled a weapon before.",
+      "cn": "他以前从未碰过武器。"
+    },
+    {
+      "en": "I handled most of the paperwork.",
+      "cn": "大部分文书工作是我做的。"
+    },
+    {
+      "en": "I knew how to load and handle a gun.",
+      "cn": "我知道怎么上子弹，也知道枪怎么用。"
+    },
+    {
+      "en": "I think I would handle a meeting with Mr. Siegel very badly.",
+      "cn": "我觉得和西格尔先生会谈我可能会搞得一团糟。"
+    },
+    {
+      "en": "I turned the handle and found the door was open.",
+      "cn": "我转了一下门把手，发现门开着。"
+    },
+    {
+      "en": "I was finally able to get a handle on the true nature of the problem.",
+      "cn": "最终我能够理解这个问题的实质"
+    },
+    {
+      "en": "She cannot handle pressure.",
+      "cn": "她承受不了压力。"
+    },
+    {
+      "en": "She had to cling onto the door handle until the pain passed.",
+      "cn": "她只好紧紧握住门把手，直到不疼了才松开。"
+    },
+    {
+      "en": "Some preteens are able to handle a good deal of responsibility.",
+      "cn": "有些青春期前的儿童能够承担很多责任。"
+    },
+    {
+      "en": "Some students have emotional problems that teachers feel ill equipped to handle.",
+      "cn": "一些学生的情感问题令老师们束手无策。"
+    },
+    {
+      "en": "Tents have been set up next to hospitals to handle the overflow.",
+      "cn": "医院旁搭起了帐篷以安置容纳不下的人员。"
+    },
+    {
+      "en": "The case is being handled by a top lawyer.",
+      "cn": "此案正由一位顶尖律师负责处理。"
+    },
+    {
+      "en": "The device is manually operated, using a simple handle.",
+      "cn": "一只普通的手柄就可以手动操作这个装置。"
+    },
+    {
+      "en": "The finance department handles all the accounts.",
+      "cn": "财务部处理所有账目。"
+    },
+    {
+      "en": "The more powerful the car the more difficult it is to handle.",
+      "cn": "汽车的功率越大，就越难驾驭。"
+    },
+    {
+      "en": "The public never had faith in his ability to handle the job.",
+      "cn": "公众从来不相信他有能力胜任这一职位。"
+    },
+    {
+      "en": "Then he turned the handle and went in.",
+      "cn": "然后他转动把手走了进去。"
+    },
+    {
+      "en": "Using a fabric conditioner will make clothes easier to handle and iron.",
+      "cn": "使用织物柔顺剂会使衣服打理、熨烫起来更为容易。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "handled",
+          "tran_cn": " 有把手的；有把柄的"
+        },
+        {
+          "word": "handling",
+          "tran_cn": " 操作的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "handler",
+          "tran_cn": " 处理者；管理者；拳击教练；（犬马等的）训练者"
+        },
+        {
+          "word": "handling",
+          "tran_cn": " 处理"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "handled",
+          "tran_cn": " 使用；负责；触摸；指挥（handle的过去分词）"
+        },
+        {
+          "word": "handling",
+          "tran_cn": " 负责；对待（handle的ing形式）；触摸"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "shank",
+            "grip"
+          ],
+          "tran_cn": "[建]把手；柄；手感；口实"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "carry",
+            "deal",
+            "direct",
+            "drive",
+            "feel",
+            "finger",
+            "govern",
+            "grip",
+            "in",
+            "knob",
+            "lever",
+            "manage",
+            "maneuver",
+            "manipulate",
+            "nickname",
+            "on",
+            "operate",
+            "paw",
+            "play",
+            "regulate",
+            "run",
+            "signature",
+            "touch",
+            "trade",
+            "treat",
+            "understanding",
+            "use",
+            "wield",
+            "work"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "carry",
+            "direct",
+            "govern",
+            "manage",
+            "on",
+            "regulate",
+            "run"
+          ],
+          "tran_cn": "操纵;指挥;管理"
+        },
+        {
+          "words": [
+            "feel",
+            "finger",
+            "manipulate",
+            "touch",
+            "use"
+          ],
+          "tran_cn": "用手触摸"
+        },
+        {
+          "words": [
+            "deal",
+            "in",
+            "trade"
+          ],
+          "tran_cn": "经营,经销"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "brake handle",
+      "tran_cn": "闸把，闸柄；制动手把"
+    },
+    {
+      "phrase": "control handle",
+      "tran_cn": "控制柄；操纵手柄"
+    },
+    {
+      "phrase": "door handle",
+      "tran_cn": "门把手"
+    },
+    {
+      "phrase": "get a handle on",
+      "tran_cn": "[口语]控制，掌握，驾驭，左右"
+    },
+    {
+      "phrase": "get a handle on 或 have a handle on 【非正式用语】",
+      "tran_cn": "理解，明白"
+    },
+    {
+      "phrase": "grab handle",
+      "tran_cn": "扶手；握柄；车顶安全把手"
+    },
+    {
+      "phrase": "handle a case",
+      "tran_cn": "办案"
+    },
+    {
+      "phrase": "handle bar",
+      "tran_cn": "把手；车把"
+    },
+    {
+      "phrase": "handle with",
+      "tran_cn": "处理"
+    },
+    {
+      "phrase": "handle with care",
+      "tran_cn": "小心轻放；小心装卸"
+    },
+    {
+      "phrase": "lever handle",
+      "tran_cn": "手柄；杠杆手柄；杆式手柄；手柄操纵杆"
+    },
+    {
+      "phrase": "lock handle",
+      "tran_cn": "n. 门把；带锁门把"
+    },
+    {
+      "phrase": "long handle",
+      "tran_cn": "长手柄；[板球]全力击球"
+    },
+    {
+      "phrase": "metal handle",
+      "tran_cn": "金属拉手"
+    },
+    {
+      "phrase": "operating handle",
+      "tran_cn": "操作手柄；操纵杆"
+    },
+    {
+      "phrase": "selection handle",
+      "tran_cn": "选择控点"
+    },
+    {
+      "phrase": "up to the handle",
+      "tran_cn": "[美国口语]彻底地，极度地"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "拉手，把手，有柄的，方法",
+      "tran_en": "the part of a door that you use for opening it"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "应付，处理，使用，驾驶，拿，买，卖",
+      "tran_en": "to do the things that are necessary to complete a job"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "对付；处理",
+      "tran_en": "to do the things that are necessary to complete a job"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "handles"
+    ],
+    "third": [
+      "handles"
+    ],
+    "past": [
+      "handled"
+    ],
+    "done": [
+      "handled"
+    ],
+    "ing": [
+      "handling"
+    ]
+  }
+}

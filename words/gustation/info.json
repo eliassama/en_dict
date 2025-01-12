@@ -1,0 +1,81 @@
+{
+  "word": "gustation",
+  "ipa": {
+    "us": "gʌs'teɪʃən",
+    "uk": "ɡʌˈsteʃən"
+  },
+  "sentences": [
+    {
+      "en": "I have a sensitive gustation.",
+      "cn": "我有灵敏的味觉。"
+    },
+    {
+      "en": "Through Jia Bao-Yu's olfaction and gustation , his spiritual love and facultative desire was emphasized.",
+      "cn": "通过宝玉的嗅觉与味觉，进入他的深层意与美感触觉，突显他的精神爱与官能欲望。"
+    },
+    {
+      "en": "Through Jia Bao-Yu's olfaction and gustation, his spiritual love and facultative desire was emphasized.",
+      "cn": "通过賈宝玉的嗅觉与味觉，进入他的深层意識与美感触觉，突显他的精神戀爱与官能欲望。"
+    },
+    {
+      "en": "Umami enhancer improves feed intake of piglets mainly by stimulating their gustation, then promotes oral cavity and secretes hormones in the gastrointestinal tract to increase their feed intake.",
+      "cn": "鲜味剂提高仔猪采食量的主要途径是通过刺激其味觉，从而促进口腔和胃肠道中的激素等分泌，以增加其对饲料的采食。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "gustative",
+          "tran_cn": " 味觉的；尝味的"
+        },
+        {
+          "word": "gustatory",
+          "tran_cn": " 味的，味觉的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gust",
+          "tran_cn": " 风味；一阵狂风；趣味"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "gust",
+          "tran_cn": " 一阵阵地劲吹"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "palate",
+            "degustation"
+          ],
+          "tran_cn": "[生理]味觉；品尝"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "尝味，味觉",
+      "tran_en": "the act of tasting or the faculty of taste "
+    }
+  ],
+  "exchange": {}
+}

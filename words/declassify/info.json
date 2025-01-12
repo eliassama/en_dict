@@ -1,0 +1,54 @@
+{
+  "word": "declassify",
+  "ipa": {
+    "us": "ˌdi:ˈklæsɪfaɪ",
+    "uk": "diˈklæsəˌfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "These reports were only declassified last year.",
+      "cn": "这些报告去年才被消密。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "declassification",
+          "tran_cn": " 解密；从机密表删除；不再当机密文件处理"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "不再当机密文件处理, 从机密表删除",
+      "tran_en": "If secret documents or records are declassified, it is officially stated that they are no longer secret"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "对（机密文件等）销密"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "declassifies"
+    ],
+    "past": [
+      "declassified"
+    ],
+    "done": [
+      "declassified"
+    ],
+    "ing": [
+      "declassifying"
+    ],
+    "noun": [
+      "declassification"
+    ]
+  }
+}

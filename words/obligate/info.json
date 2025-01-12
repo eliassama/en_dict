@@ -1,0 +1,197 @@
+{
+  "word": "obligate",
+  "ipa": {
+    "us": "'ɒblɪgeɪt",
+    "uk": "ˈɑblɪˌɡet"
+  },
+  "sentences": [
+    {
+      "en": "All the photosynthetic bacteria possess the capability in addition to various facultative aerobes and obligate anaerobes.",
+      "cn": "所有光合细菌加上各种兼性的好氧生物和绝对的厌氧生物具有这种能力."
+    },
+    {
+      "en": "An obligate anaerobe can survive only in the absence of oxygen.",
+      "cn": "专性厌氧生物只能在无氧条件下生存."
+    },
+    {
+      "en": "Anaplasma ovis is an arthropod - borne rickettsial obligate parasite of sheep and goat.",
+      "cn": "绵羊无浆体病是绵羊和山羊红细胞内专性寄生的由节肢动物传播的立克氏体疾病."
+    },
+    {
+      "en": "As a leading global company in electronic manufacturing, Motorola Inc obligate for providing environmental preferred products.",
+      "cn": "作为世界最大的电子制造商之一, 摩托罗拉公司一直致力于环境友好型电子产品的研发."
+    },
+    {
+      "en": "Excuse me, raise appoint conference vote can is obligate vacancy elected again in the future?",
+      "cn": "请问, 支委会选举能预留空额日后再补选 吗 ?沈阳陈东不可以."
+    },
+    {
+      "en": "Paul Ehrlich sees coevolution pushing two competitors into \" obligate cooperation. \"",
+      "cn": "保罗?埃尔利希认为共同进化推动两个竞争对手进入 “ 强制合作. ”"
+    },
+    {
+      "en": "Rural obligate education drop behind, and becomes the bottleneck of Chinese compulsory universal education's goal.",
+      "cn": "农村义务教育的落后, 成了中国普及义务教育的瓶颈."
+    },
+    {
+      "en": "The nature of the nutritional requirements for obligate parasites in nature is unknown.",
+      "cn": "人们还不知道自然界中专性寄生菌的营养要求的本质."
+    },
+    {
+      "en": "The ruling obligates airlines to release information about their flight delays.",
+      "cn": "这一裁决迫使航空公司公布航班晚点信息。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "obligated",
+          "tran_cn": " 有义务的；责无旁贷的"
+        },
+        {
+          "word": "obligatory",
+          "tran_cn": " 义务的；必须的；义不容辞的"
+        },
+        {
+          "word": "obliged",
+          "tran_cn": " 必须的；感激的；有责任的"
+        },
+        {
+          "word": "obliging",
+          "tran_cn": " 乐于助人的；有礼貌的；体贴的；亲切的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "obligated",
+          "tran_cn": " 使负义务（obligate的过去式）"
+        },
+        {
+          "word": "obligation",
+          "tran_cn": " 义务；职责；债务"
+        },
+        {
+          "word": "obliger",
+          "tran_cn": " 施惠与人者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "obliged",
+          "tran_cn": " 要求；约束；施恩惠（oblige的过去分词）"
+        },
+        {
+          "word": "obliging",
+          "tran_cn": " 迫使；约束（oblige的现在分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "oblige",
+          "tran_cn": " 帮忙；施恩惠"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "oblige",
+          "tran_cn": " 迫使；强制；赐，施恩惠；责成"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "responsible",
+            "required",
+            "bound",
+            "necessary",
+            "liable"
+          ],
+          "tran_cn": "有责任的，有义务的；必需的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bind",
+            "compel",
+            "force",
+            "mortgage",
+            "oblige",
+            "pledge",
+            "require"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bind",
+            "compel",
+            "force",
+            "oblige",
+            "pledge",
+            "require"
+          ],
+          "tran_cn": "强迫;约束;命令"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有义务的，必要的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使负义务；强使，强迫；对…施以恩惠",
+      "tran_en": "to make someone have to do something, because it is the law, their duty, or the right thing to do"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（在法律或道义上）负有责任或义务，对…施以恩惠",
+      "tran_en": "to make someone have to do something, because it is the law, their duty, or the right thing to do"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "obligates"
+    ],
+    "past": [
+      "obligated"
+    ],
+    "done": [
+      "obligated"
+    ],
+    "ing": [
+      "obligating"
+    ]
+  }
+}

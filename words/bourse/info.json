@@ -1,0 +1,65 @@
+{
+  "word": "bourse",
+  "ipa": {
+    "us": "bʊəs",
+    "uk": "bʊrs"
+  },
+  "sentences": [
+    {
+      "en": "So should a respectable bourse be offering the stock?",
+      "cn": "那么,一家可敬的交易所应该发行这只股票 吗 ?"
+    },
+    {
+      "en": "The paris of the restoration at the bourse: a very white colonnade supporting a very smooth frieze ; the whole is square and cost twenty millions.",
+      "cn": "在交易所广场，是复辟时期的巴黎，雪白的列柱支撑着柱顶盘的光滑中楣，整体呈正方形，造价两千万。"
+    },
+    {
+      "en": "The top 40 companies on the Paris bourse have been pulling in record profits.",
+      "cn": "前40强的公司在法国的证券交易所取得了前所未有的利润."
+    },
+    {
+      "en": "They stormed into the Bourse and set its main hall on fire.",
+      "cn": "他们冲进证券交易所,放火把大厅烧着了."
+    },
+    {
+      "en": "Until then, Shanghai's bubbly bourse will likely remain what it is today: an internal affair.",
+      "cn": "在这之前, 上海充满泡沫的股票交易所将保持今天的样子: 国内事件."
+    },
+    {
+      "en": "You can open countless capital account in different bourse.",
+      "cn": "你可以在不同的交易所开设无数个资金账户."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "exchange"
+          ],
+          "tran_cn": "交易所"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "paris bourse",
+      "tran_cn": "巴黎证券交易所"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（非英语国家，尤指法国的）股票交易所",
+      "tran_en": "The bourse of a European city or region is its stock exchange"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bourses"
+    ]
+  }
+}

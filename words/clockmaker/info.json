@@ -1,0 +1,38 @@
+{
+  "word": "clockmaker",
+  "ipa": {
+    "us": "'klɒkˌmeɪkə",
+    "uk": "'klɒkˌmeɪkə"
+  },
+  "sentences": [
+    {
+      "en": "Clark, the clockmaker, cooked the lark's clock.",
+      "cn": "钟表匠克拉克烹煮云雀的斗篷."
+    },
+    {
+      "en": "The idea for a facsimile transmission was first proposed by Scottish clockmaker Alexander Bain in 1843.",
+      "cn": "传真传输的设想是由爱尔兰钟表匠亚历山大.贝恩于1843年首次提出."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "clockwork",
+          "tran_cn": " 发条装置；钟表装置"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "制造或修理钟表者",
+      "tran_en": "a person who makes or mends clocks, watches, etc "
+    }
+  ],
+  "exchange": {}
+}

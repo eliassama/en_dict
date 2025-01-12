@@ -1,0 +1,132 @@
+{
+  "word": "revivify",
+  "ipa": {
+    "us": "ri:ˈvɪvɪfaɪ",
+    "uk": "riˈvɪvəˌfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "The aim was to strengthen and revivify the Labour Party.",
+      "cn": "目的是要让工党强盛起来，恢复活力。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "revived",
+          "tran_cn": " 复活的，再生的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "revival",
+          "tran_cn": " 复兴；复活；苏醒；恢复精神；再生效"
+        },
+        {
+          "word": "revivalism",
+          "tran_cn": " 信仰复兴运动；复兴倾向"
+        },
+        {
+          "word": "revivalist",
+          "tran_cn": " 领导宗教复兴运动的人；复旧者"
+        },
+        {
+          "word": "revivification",
+          "tran_cn": " 恢复，还原；复活"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "revived",
+          "tran_cn": " 使复活，使恢复（revive的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "revive",
+          "tran_cn": " 复兴；复活；苏醒；恢复精神"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "revive",
+          "tran_cn": " 使复兴；使苏醒；回想起；重演，重播"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "air",
+            "revive"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "come back to life again",
+            "resurge"
+          ],
+          "tran_cn": "复活，再生；振奋精神"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "raise to life",
+            "regenerate"
+          ],
+          "tran_cn": "使再生，使复活；使振奋精神"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（使）再生，（使）复活，（使）振奋精神",
+      "tran_en": "to give new life and health to someone or something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "revivifies"
+    ],
+    "past": [
+      "revivified"
+    ],
+    "done": [
+      "revivified"
+    ],
+    "ing": [
+      "revivifying"
+    ]
+  }
+}

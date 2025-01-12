@@ -1,0 +1,259 @@
+{
+  "word": "mechanics",
+  "ipa": {
+    "us": "məˈkænɪks",
+    "uk": "məˈkænɪks"
+  },
+  "sentences": [
+    {
+      "en": "\" I know nothing whatever about mechanics, \" he said decisively.",
+      "cn": "“ 我对机械一窍不通. ” 他肯定地说."
+    },
+    {
+      "en": "According to quantum mechanics, empty space is anything but empty.",
+      "cn": "根据量子力学理论，真空区并非空无一物。"
+    },
+    {
+      "en": "Both quantum mechanics and chaos theory suggest a world constantly in flux.",
+      "cn": "量子力学和混沌理论都表明世界永远处于不断变化中。"
+    },
+    {
+      "en": "Can the mechanics repair Mr. Wood's car?",
+      "cn": "修理工能否修复伍德先生的汽车?"
+    },
+    {
+      "en": "Can your mechanics repair it?",
+      "cn": "你们的机械师能修好 吗 ?"
+    },
+    {
+      "en": "He has not studied mechanics or engineering.",
+      "cn": "他没有学习过力学或者工程学。"
+    },
+    {
+      "en": "He specialises in the mechanics of locomotion.",
+      "cn": "他专攻运动力学。"
+    },
+    {
+      "en": "Mechanics discovered problems with the plane's navigation system.",
+      "cn": "机械工发现飞机的导航系统存在问题。"
+    },
+    {
+      "en": "Mechanics is out of my territory.",
+      "cn": "我不懂力学."
+    },
+    {
+      "en": "Physics studies mechanics , heat, light, sound and electricity.",
+      "cn": "物理学研究力学、热学 、 光学 、 声学和电学."
+    },
+    {
+      "en": "The mechanics of fixing a car are very long.",
+      "cn": "修理一部汽车的过程很长."
+    },
+    {
+      "en": "The mechanics of the machine are very old.",
+      "cn": "这台机器的机件非常老."
+    },
+    {
+      "en": "The mechanics work hard to keep the he-licopters airworthy.",
+      "cn": "机修工努力维持直升机的飞行性能。"
+    },
+    {
+      "en": "They all thought some mechanics.",
+      "cn": "他们都想到了一些方法."
+    },
+    {
+      "en": "This is a course in mechanics.",
+      "cn": "这是一门力学课程."
+    },
+    {
+      "en": "What are the mechanics of this new process?",
+      "cn": "这一新工序如何操作？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "mechanical",
+          "tran_cn": " 机械的；力学的；呆板的；无意识的；手工操作的"
+        },
+        {
+          "word": "mechanistic",
+          "tran_cn": " 机械论的；机械学的"
+        },
+        {
+          "word": "mechanized",
+          "tran_cn": " 机械化的；呆板的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "mechanically",
+          "tran_cn": " 机械地；呆板地；物理上地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mechanisation",
+          "tran_cn": " 机械化"
+        },
+        {
+          "word": "mechanism",
+          "tran_cn": " 机制；原理，途径；进程；机械装置；技巧"
+        },
+        {
+          "word": "mechanist",
+          "tran_cn": " 机械论者；机械技师"
+        },
+        {
+          "word": "mechanization",
+          "tran_cn": " 机械化；机动化"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "mechanized",
+          "tran_cn": " 使机械化；用机械操作（mechanize的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "mechanise",
+          "tran_cn": " 使……用机械装置；使……机械化"
+        },
+        {
+          "word": "mechanize",
+          "tran_cn": " 使机械化；机动化；用机械装置"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "details",
+            "methods",
+            "nitty-gritty",
+            "procedures",
+            "techniques"
+          ],
+          "tran_cn": "主体,结构,技巧"
+        },
+        {
+          "words": [
+            "kinematics",
+            "kinetics",
+            "statics"
+          ],
+          "tran_cn": "力学,机械学"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "applied mechanics",
+      "tran_cn": "应用力学"
+    },
+    {
+      "phrase": "classical mechanics",
+      "tran_cn": "经典力学"
+    },
+    {
+      "phrase": "computational mechanics",
+      "tran_cn": "计算力学"
+    },
+    {
+      "phrase": "continuum mechanics",
+      "tran_cn": "连续介质力学"
+    },
+    {
+      "phrase": "damage mechanics",
+      "tran_cn": "损伤力学"
+    },
+    {
+      "phrase": "elastic mechanics",
+      "tran_cn": "弹性力学"
+    },
+    {
+      "phrase": "engineering mechanics",
+      "tran_cn": "工程力学；机械工程"
+    },
+    {
+      "phrase": "experimental mechanics",
+      "tran_cn": "实验力学"
+    },
+    {
+      "phrase": "fluid mechanics",
+      "tran_cn": "流体力学，液体力学"
+    },
+    {
+      "phrase": "fracture mechanics",
+      "tran_cn": "断裂力学"
+    },
+    {
+      "phrase": "mechanics of materials",
+      "tran_cn": "材料力学"
+    },
+    {
+      "phrase": "newtonian mechanics",
+      "tran_cn": "牛顿力学"
+    },
+    {
+      "phrase": "quantum mechanics",
+      "tran_cn": "量子力学（解释次原子粒子运动和质量）"
+    },
+    {
+      "phrase": "rock mechanics",
+      "tran_cn": "岩石力学；岩土力学"
+    },
+    {
+      "phrase": "soil mechanics",
+      "tran_cn": "土壤力学，土质力学"
+    },
+    {
+      "phrase": "solid mechanics",
+      "tran_cn": "固体力学"
+    },
+    {
+      "phrase": "statistical mechanics",
+      "tran_cn": "统计力学"
+    },
+    {
+      "phrase": "structural mechanics",
+      "tran_cn": "结构力学"
+    },
+    {
+      "phrase": "theoretical mechanics",
+      "tran_cn": "理论力学"
+    },
+    {
+      "phrase": "wave mechanics",
+      "tran_cn": "波动力学"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "力学，机械学，构成法，技术",
+      "tran_en": "Mechanics is the part of physics that deals with the natural forces that act on moving or stationary objects"
+    }
+  ],
+  "exchange": {}
+}

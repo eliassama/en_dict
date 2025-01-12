@@ -1,0 +1,121 @@
+{
+  "word": "inactivate",
+  "ipa": {
+    "us": "ɪn'æktɪveɪt",
+    "uk": "ɪnˈæktəˌvet"
+  },
+  "sentences": [
+    {
+      "en": "GI microflora may inactivate certain drugs, reducing their absorption.",
+      "cn": "胃肠道内的菌丛可使某些药物失活, 降低药物的吸收."
+    },
+    {
+      "en": "It has been shown that ethylene oxide cannot inactivate spores entrapped in water - insoluble crystals.",
+      "cn": "已经表明环氧乙烷不能灭活封闭在不溶于水的晶体中的孢子."
+    },
+    {
+      "en": "Moistened flakes are heated to inactivate the antinutritional factors.",
+      "cn": "湿润的薄片需加热,以钝化抗营养的因素."
+    },
+    {
+      "en": "Spores occluded in water - soluble crystals are also difficult to inactivate with ethylene oxide.",
+      "cn": "封闭在 水溶性 晶体中的孢子很难被环氧乙烷灭活."
+    },
+    {
+      "en": "Temporarily inactivate the selected connection so that it cannot be used.",
+      "cn": "暂时停用所选网络因此无法使用."
+    },
+    {
+      "en": "The gases inactivate the enzyme cholinesterase, which normally controls the transmission of nerve impulses.",
+      "cn": "毒气可以减除胆碱酯酶的活性, 而这种酶在正常情况下控制着各种神经冲动的传导."
+    },
+    {
+      "en": "They also bind tightly to some of the TB P 450 enzymes and inactivate them.",
+      "cn": "氮杂茂可与结核菌内的一些P450酶类紧密结合使其失活."
+    },
+    {
+      "en": "They discovered how to inactivate knock out, single genes in laboratory animals.",
+      "cn": "他们发现如何使实验用动物体内个体特定基因不活跃、失去作用."
+    },
+    {
+      "en": "They discovered how to inactivate or knock out single genes in libratory animals.",
+      "cn": "他们发现如何在实验动物体内阻止单个基因的活性或敲除单个基因."
+    },
+    {
+      "en": "They quickly inactivate vegetative forms, but their sporicidal action is slow.",
+      "cn": "它能迅速灭活繁殖体, 但其杀孢子能力低."
+    },
+    {
+      "en": "To inactivate hormone, to make it lose its bioactivity.",
+      "cn": "使某些激素灭活, 使其失去生物学活性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inactive",
+          "tran_cn": " 不活跃的；不活动的；怠惰的；闲置的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inaction",
+          "tran_cn": " 不活动；迟钝"
+        },
+        {
+          "word": "inactivation",
+          "tran_cn": " [生物] 失活；[化学] 钝化（作用）"
+        },
+        {
+          "word": "inactivity",
+          "tran_cn": " 静止；不活泼；休止状态；不放射性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "deactivate"
+          ],
+          "tran_cn": "使不活动；使不活泼；阻止活动"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使不活泼，阻止活动",
+      "tran_en": "to render inactive "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 使不活动， 使不活跃",
+      "tran_en": "to render inactive "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inactivates"
+    ],
+    "past": [
+      "inactivated"
+    ],
+    "done": [
+      "inactivated"
+    ],
+    "ing": [
+      "inactivating"
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "word": "impersonate",
+  "ipa": {
+    "us": "ɪmˈpɜ:səneɪt",
+    "uk": "ɪmˈpɜrsəneɪt"
+  },
+  "sentences": [
+    {
+      "en": "Biometrics promises identities that are virtually impossible to steal, impersonate or misplace.",
+      "cn": "这种生物科技测量标准的特徵是近几乎不可能被偷取, 假扮,或误置."
+    },
+    {
+      "en": "Can you think of any reason why someone would want to impersonate him?",
+      "cn": "对于为什么有人想要扮成他,你能想出什么原因 吗 ?"
+    },
+    {
+      "en": "Do not impersonate the user when using the queue.",
+      "cn": "不要在使用队列时模拟用户."
+    },
+    {
+      "en": "He can impersonate many well - known politicians.",
+      "cn": "他能饰演许多著名政治家的角色."
+    },
+    {
+      "en": "He gained entrance to the house by impersonate a local authority inspector.",
+      "cn": "他假冒地方当局检查员进入住宅."
+    },
+    {
+      "en": "He is an outstanding imitator and can impersonate all the well - known politicians.",
+      "cn": "他是个出色的模仿者,他能扮演所有著名的政治家."
+    },
+    {
+      "en": "He was caught trying to impersonate a military officer.",
+      "cn": "他企图冒充军官,但当场被抓获."
+    },
+    {
+      "en": "He was caught trying to impersonate a security guard.",
+      "cn": "他假扮警卫被抓获。"
+    },
+    {
+      "en": "I tried to impersonate a sleepy voice, and, again, failed miserably.",
+      "cn": "我试着假装刚睡醒时的声音, 而有一次悲惨地失败了."
+    },
+    {
+      "en": "In the film he amusingly impersonates a woman.",
+      "cn": "影片中他模仿一个女人，非常好笑。"
+    },
+    {
+      "en": "It is illegal to impersonate a person of the clergy.",
+      "cn": "假扮或冒充神职人员是违法的."
+    },
+    {
+      "en": "Jo : It's a comedy programme where impersonate famous people.",
+      "cn": "学人家,模仿别人. 那参与这些节目的人都长得特像名人吗?"
+    },
+    {
+      "en": "On the web, anyone can impersonate an expert. Anyone can blog.",
+      "cn": "而在网上, 任何人都可以把自己装扮成专家, 任何人都可以开博客."
+    },
+    {
+      "en": "They are left - wing activists, but they impersonate spokesmen of large companies.",
+      "cn": "他们是 左翼 积极分子, 但他们时常冒充大公司发言人发表言论."
+    },
+    {
+      "en": "Tom was a brilliant mimic who could impersonate most of the college staff.",
+      "cn": "汤姆的模仿能力是超一流的，他能惟妙惟肖地模仿学院里的大多数老师。"
+    },
+    {
+      "en": "You should not attempt to impersonate Jagex staff in any way.",
+      "cn": "你不应该尝试以任何方式模仿Jagex职员."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "impersonal",
+          "tran_cn": " 客观的；非个人的；没有人情味的；非人称的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "impersonal",
+          "tran_cn": " 非人称动词；不具人格的事物"
+        },
+        {
+          "word": "impersonation",
+          "tran_cn": " 扮演；模仿；装扮"
+        },
+        {
+          "word": "impersonator",
+          "tran_cn": " 演员；模拟艺人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "imitate",
+            "masquerade",
+            "monkey",
+            "play",
+            "portray",
+            "reproduce"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "play",
+            "simulate",
+            "pattern",
+            "imitate"
+          ],
+          "tran_cn": "扮演；模仿；拟人，人格化"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "模仿, 扮演, 人格化, 拟人",
+      "tran_en": "to copy someone’s voice and behaviour, especially in order to make people laugh"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "扮演，模仿，拟人，人格化"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "impersonates"
+    ],
+    "past": [
+      "impersonated"
+    ],
+    "done": [
+      "impersonated"
+    ],
+    "ing": [
+      "impersonating"
+    ],
+    "noun": [
+      "impersonation"
+    ]
+  }
+}

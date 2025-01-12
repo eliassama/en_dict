@@ -1,0 +1,104 @@
+{
+  "word": "vociferate",
+  "ipa": {
+    "us": "vəʊ'sɪfəreɪt",
+    "uk": "voʊ'sɪfəˌreɪt"
+  },
+  "sentences": [
+    {
+      "en": "He then began to vociferate pretty loudly.",
+      "cn": "然后他开始大声叫骂。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vociferous",
+          "tran_cn": " 大声叫的；喊叫的，喧嚷的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "vociferously",
+          "tran_cn": " 喊叫地；吵闹地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vociferation",
+          "tran_cn": " 喧嚷；吼叫；大声叫嚷"
+        },
+        {
+          "word": "vociferator",
+          "tran_cn": " 喊叫者；大声叫的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "vocalize",
+          "tran_cn": " 发声；喊叫"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "vocalize",
+          "tran_cn": " 使发成元音；使发声"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "scream out",
+            "shout out"
+          ],
+          "tran_cn": "喊叫；大叫"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "大声叫, 大叫, 喊叫",
+      "tran_en": "to shout loudly, especially when you are complaining"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "大声地说，叫喊"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "vociferates"
+    ],
+    "past": [
+      "vociferated"
+    ],
+    "done": [
+      "vociferated"
+    ],
+    "ing": [
+      "vociferating"
+    ]
+  }
+}

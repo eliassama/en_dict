@@ -1,0 +1,84 @@
+{
+  "word": "quorum",
+  "ipa": {
+    "us": "ˈkwɔ:rəm",
+    "uk": "ˈkwɔrəm, ˈkwor-"
+  },
+  "sentences": [
+    {
+      "en": "A problem occurred when the wizard attempted to create the quorum directory.",
+      "cn": "向导试图创建仲裁目录时发生错误."
+    },
+    {
+      "en": "A quorum for any meeting shall be two members.",
+      "cn": "每次会议之法定人数为两位成员."
+    },
+    {
+      "en": "Checking that all nodes have access to the quorum resource.",
+      "cn": "正在检查所有节点是否可以访问仲裁资源."
+    },
+    {
+      "en": "Failed the load string for locating existing quorum resource.",
+      "cn": "未能查找已有的仲裁资源时加载字符串."
+    },
+    {
+      "en": "Five members of the Executive Council shall constitute a quorum.",
+      "cn": "执行委员会法定成员为五人."
+    },
+    {
+      "en": "Objective : To understand the effects of quorum sensing system on P.",
+      "cn": "目的: 研究群体感应系统对铜绿假单胞菌生物膜形成的影响."
+    },
+    {
+      "en": "One - half of the countries members of the Assembly shall constitute a quorum.",
+      "cn": "(b)大会成员国的半数构成开会的法定人数."
+    },
+    {
+      "en": "One - half of the members of the Executive Committee shall constitute a quorum.",
+      "cn": "(b)执行委员会委员的半数构成开会的法定人数."
+    },
+    {
+      "en": "Quorum resource is not joinable. A multi - node cluster can not be created.",
+      "cn": "无法加入仲裁资源. 无法创建多节点群集."
+    },
+    {
+      "en": "Restore the Cluster Registry to the quorum disk and all other nodes.",
+      "cn": "将群集注册表还原到仲裁磁盘和所有其他节点."
+    },
+    {
+      "en": "Since a a quorum is not present, no votes may be taken.",
+      "cn": "既然不足法定人数, 可以不予表决."
+    },
+    {
+      "en": "The cluster quorum resource is not allowed to have any dependencies.",
+      "cn": "该群集仲裁资源不允许有任何依存关系."
+    },
+    {
+      "en": "The quorum disk could not be located by the cluster service.",
+      "cn": "群集服务找不到仲裁磁盘."
+    },
+    {
+      "en": "The quorum log could not be created or mounted successfully.",
+      "cn": "无法成功创建或装入仲裁日志."
+    },
+    {
+      "en": "We need a quorum of seven.",
+      "cn": "我们需要有七人的法定人数。"
+    },
+    {
+      "en": "When restoring the Cluster Quorum, mark the restored data as Authoritative.",
+      "cn": "还原群集仲裁时, 将还原的数据标为“权威”."
+    }
+  ],
+  "rel_words": [],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "法定人数",
+      "tran_en": "the smallest number of people who must be present at a meeting so that official decisions can be made"
+    }
+  ],
+  "exchange": {}
+}

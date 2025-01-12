@@ -1,0 +1,109 @@
+{
+  "word": "misplace",
+  "ipa": {
+    "us": "ˌmɪsˈpleɪs",
+    "uk": "ˌmɪs'pleɪs"
+  },
+  "sentences": [
+    {
+      "en": "Biometrics promises identities that are virtually impossible to steal, impersonate or misplace.",
+      "cn": "这种生物科技测量标准的特徵是近几乎不可能被偷取, 假扮,或误置."
+    },
+    {
+      "en": "Guests frequently misplace or leave behind their personal possessions in hotel rooms.",
+      "cn": "客人经常误放东西或把他们的个人物品落在房间里."
+    },
+    {
+      "en": "I often misplace something that she should have put away.",
+      "cn": "我经常把她本该放起来的东西放错了地方."
+    },
+    {
+      "en": "Oh dear, I seem to have misplaced the letter.",
+      "cn": "哎呀，我好像忘了把信放在什么地方。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "misplaced",
+          "tran_cn": " 错位的；寄托错的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "misplacement",
+          "tran_cn": " 遗忘；误放"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "misplaced",
+          "tran_cn": " 错放（misplace的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "disorder",
+            "lose",
+            "mislay",
+            "miss"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "lose",
+            "mislay",
+            "miss"
+          ],
+          "tran_cn": "丢失;遗忘"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "放错地方；忘记把…放在什么地方；错误地信任某人",
+      "tran_en": "to lose something for a short time by putting it in the wrong place"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把（感情等）寄托于不值得寄托的对象，忘记把…放在什么地方，把…放错位置"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "misplaces"
+    ],
+    "past": [
+      "misplaced"
+    ],
+    "done": [
+      "misplaced"
+    ],
+    "ing": [
+      "misplacing"
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "word": "bomb",
+  "ipa": {
+    "us": "bɒm",
+    "uk": "bɑːm"
+  },
+  "sentences": [
+    {
+      "en": "A rocket bomb must have dropped quite near at hand.",
+      "cn": "准是附近掉了个火箭弹."
+    },
+    {
+      "en": "An atom bomb would destroy a city.",
+      "cn": "一颗原子弹能摧毁一座城市。"
+    },
+    {
+      "en": "Enemy planes dropped over 200 bombs during the raid.",
+      "cn": "袭击中敌机投下了两百多枚炸弹。"
+    },
+    {
+      "en": "Government aircraft have been bombing civilian areas.",
+      "cn": "政府军飞机一直在轰炸平民区。"
+    },
+    {
+      "en": "He mobilized public opinion all over the world against hydrogen-bomb tests.",
+      "cn": "他动员全世界的舆论反对氢弹试验。"
+    },
+    {
+      "en": "He was killed in a bomb explosion.",
+      "cn": "他在一次炸弹爆炸中身亡。"
+    },
+    {
+      "en": "In London, where I grew up, we were surrounded by bomb sites.",
+      "cn": "在我生长的伦敦，四周全是轰炸后的断壁残垣。"
+    },
+    {
+      "en": "In Tobruk, leading a patrol in no-man's land, he was blown up by a mortar bomb.",
+      "cn": "他带领巡逻队在图卜鲁格无人区巡逻时遭迫击炮弹击中身亡."
+    },
+    {
+      "en": "My car goes like a bomb since I put that new engine in it.",
+      "cn": "自从装上了新的引擎后,我的车跑得快极了."
+    },
+    {
+      "en": "Only the President could authorize the use of the atomic bomb.",
+      "cn": "只有总统才能授权使用原子弹。"
+    },
+    {
+      "en": "The bomb went off at 9.30 in the morning.",
+      "cn": "炸弹在早上9点半爆炸。"
+    },
+    {
+      "en": "The city's bomb shelters were being prepared for possible air raids.",
+      "cn": "为防御可能发生的空袭，该城市正在建防空洞。"
+    },
+    {
+      "en": "the party went like a bomb.",
+      "cn": "这次聚会很成功。"
+    },
+    {
+      "en": "The party went like a bomb.",
+      "cn": "那个聚会极为成功."
+    },
+    {
+      "en": "The police cleared all the people out of the hotel after the bomb threat.",
+      "cn": "在有人威胁要炸旅馆之后,警察让所有人离开了旅馆."
+    },
+    {
+      "en": "The Russians had to dive-bomb the cities to regain control.",
+      "cn": "俄国人必须俯冲轰炸那些城市才能重新获得控制权。"
+    },
+    {
+      "en": "The town was heavily bombed in World War II.",
+      "cn": "这座城镇在第二次世界大战中遭到猛烈轰炸。"
+    },
+    {
+      "en": "The V2 was not an ordinary weapon: it could only be used against cities. Likewise the atom bomb.",
+      "cn": "V2火箭并非普通武器：它只能用于对付城市。原子弹也是这样。"
+    },
+    {
+      "en": "These surgeons have blazed the trail in the treatment of bomb victims.",
+      "cn": "这些外科医生在治疗炸伤方面开辟了新的道路。"
+    },
+    {
+      "en": "They are generally thought to have the bomb.",
+      "cn": "人们普遍认为他们拥有核武器。"
+    },
+    {
+      "en": "They took refuge in a bomb shelter.",
+      "cn": "他们在防空洞中避难。"
+    },
+    {
+      "en": "those gigs we did went down a bomb.",
+      "cn": "我们的演出备受欢迎。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bombardier",
+          "tran_cn": " 投弹手；炮兵下士"
+        },
+        {
+          "word": "bombardment",
+          "tran_cn": " 轰炸；炮击"
+        },
+        {
+          "word": "bomber",
+          "tran_cn": " 轰炸机；投弹手"
+        },
+        {
+          "word": "bombing",
+          "tran_cn": " [军] 轰炸，[军] 投弹"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bombing",
+          "tran_cn": " 轰击；引爆炸弹（bomb的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "atom",
+            "blockbuster",
+            "bomb",
+            "charge",
+            "depth",
+            "device",
+            "explosive",
+            "fireball",
+            "grenade",
+            "hydrogen",
+            "incendiary",
+            "land",
+            "mine",
+            "missile",
+            "projectile",
+            "shell",
+            "torpedo",
+            "warhead"
+          ],
+          "tran_cn": "炸弹"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "threat"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "fail",
+            "fizzle",
+            "flop",
+            "out",
+            "wash"
+          ],
+          "tran_cn": "惨败"
+        },
+        {
+          "words": [
+            "assault",
+            "barrage",
+            "blitz",
+            "blitzkrieg",
+            "bombard",
+            "cannonade",
+            "fire",
+            "fusillade",
+            "on",
+            "pepper",
+            "shell",
+            "shoot",
+            "strafe",
+            "torpedo"
+          ],
+          "tran_cn": "炮击"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "founder",
+            "fail in"
+          ],
+          "tran_cn": "轰炸，投弹；失败"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "atom bomb",
+      "tran_cn": "原子弹"
+    },
+    {
+      "phrase": "atomic bomb",
+      "tran_cn": "原子弹"
+    },
+    {
+      "phrase": "bomb calorimeter",
+      "tran_cn": "弹式量热器；弹式热量计"
+    },
+    {
+      "phrase": "bomb disposal",
+      "tran_cn": "未爆弹处理"
+    },
+    {
+      "phrase": "bomb shelter",
+      "tran_cn": "防空洞；避难室"
+    },
+    {
+      "phrase": "bomb squad",
+      "tran_cn": "防爆小组"
+    },
+    {
+      "phrase": "car bomb",
+      "tran_cn": "汽车炸弹"
+    },
+    {
+      "phrase": "cluster bomb",
+      "tran_cn": "子母弹；集束炸弹"
+    },
+    {
+      "phrase": "drop bombs",
+      "tran_cn": "以鼓点即兴敲击出强节奏"
+    },
+    {
+      "phrase": "go down a bomb",
+      "tran_cn": "(英，非正式)备受欢迎"
+    },
+    {
+      "phrase": "go like a bomb Brit. informal",
+      "tran_cn": "（车辆、人）迅速移动"
+    },
+    {
+      "phrase": "guided bomb",
+      "tran_cn": "制导炸弹；导向炸弹"
+    },
+    {
+      "phrase": "hydrogen bomb",
+      "tran_cn": "氢弹"
+    },
+    {
+      "phrase": "letter bomb",
+      "tran_cn": "书信炸弹"
+    },
+    {
+      "phrase": "logic bomb",
+      "tran_cn": "逻辑炸弹"
+    },
+    {
+      "phrase": "look like a bomb's hit it",
+      "tran_cn": "(非正式)（地方）脏乱不堪"
+    },
+    {
+      "phrase": "neutron bomb",
+      "tran_cn": "中子弹；中子辐射武器（等于neutron radiation weapon，N-bomb）"
+    },
+    {
+      "phrase": "nuclear bomb",
+      "tran_cn": "n. 核弹"
+    },
+    {
+      "phrase": "oxygen bomb",
+      "tran_cn": "氧气瓶"
+    },
+    {
+      "phrase": "oxygen bomb calorimeter",
+      "tran_cn": "氧弹量热器"
+    },
+    {
+      "phrase": "smoke bomb",
+      "tran_cn": "烟雾弹"
+    },
+    {
+      "phrase": "time bomb",
+      "tran_cn": "定时炸弹"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "炸弹，核武器",
+      "tran_en": "a weapon made of material that will explode"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "轰炸，疾行，惨败",
+      "tran_en": "to attack a place by leaving a bomb there, or by dropping bombs on it from a plane"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 投弹， 轰炸",
+      "tran_en": "to attack a place by leaving a bomb there, or by dropping bombs on it from a plane"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bombs"
+    ],
+    "third": [
+      "bombs"
+    ],
+    "past": [
+      "bombed"
+    ],
+    "done": [
+      "bombed"
+    ],
+    "ing": [
+      "bombing"
+    ]
+  }
+}

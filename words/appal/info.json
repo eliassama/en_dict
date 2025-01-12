@@ -1,0 +1,131 @@
+{
+  "word": "appal",
+  "ipa": {
+    "us": "əˈpɔːl",
+    "uk": "əˈpɔːl"
+  },
+  "sentences": [
+    {
+      "en": "I was appal ( l ) ed at the news.",
+      "cn": "我被这消息吓坏了."
+    },
+    {
+      "en": "The decision to execute the two men has appalled many politicians.",
+      "cn": "处死那两名男子的判决令许多从政者震惊。"
+    },
+    {
+      "en": "The way we kill animals appals a lot of people.",
+      "cn": "我们屠杀动物的方式令许多人震惊。"
+    },
+    {
+      "en": "This \" Hamlet \" will appal some for being so resolutely unclassical.",
+      "cn": "新版《哈姆雷特 》 如此违背经典,确实惊世骇俗."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "appalled",
+          "tran_cn": " 惊骇的；丧胆的"
+        },
+        {
+          "word": "appalling",
+          "tran_cn": " 可怕的；令人震惊的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "appallingly",
+          "tran_cn": " 令人毛骨悚然地；骇人听闻地"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "appalling",
+          "tran_cn": " 使惊愕；惊吓（appal的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "appall",
+          "tran_cn": " 使胆寒；使惊骇"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "revolt"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "fall",
+            "lower"
+          ],
+          "tran_cn": "减弱；变得苍白；令人发腻"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "astound",
+            "take aback"
+          ],
+          "tran_cn": "使惊骇；惊吓"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使厌恶，使惊骇",
+      "tran_en": "to make someone feel very shocked and upset"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使惊骇， 使恐怖",
+      "tran_en": "to make someone feel very shocked and upset"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "appals"
+    ],
+    "past": [
+      "appalled"
+    ],
+    "done": [
+      "appalled"
+    ],
+    "ing": [
+      "appalling"
+    ]
+  }
+}

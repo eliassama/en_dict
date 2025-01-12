@@ -1,0 +1,160 @@
+{
+  "word": "unlikely",
+  "ipa": {
+    "us": "ʌnˈlaɪkli",
+    "uk": "ʌnˈlaɪkli"
+  },
+  "sentences": [
+    {
+      "en": "An override of the veto appears unlikely.",
+      "cn": "看来推翻这项否决的可能性很小。"
+    },
+    {
+      "en": "Donna might be able to come tomorrow, but it’s very unlikely.",
+      "cn": "唐娜明天也许能来，不过这可能性很小。"
+    },
+    {
+      "en": "He and Paula made an unlikely pair.",
+      "cn": "他和葆拉不太可能成为一对儿。"
+    },
+    {
+      "en": "He is unlikely to send in the army to quell nationalist aspirations.",
+      "cn": "他不可能派兵去扼杀民族主义理想。"
+    },
+    {
+      "en": "His chosen field was unlikely to be a meal ticket for life.",
+      "cn": "他选的这一行是不可能赖以为生的。"
+    },
+    {
+      "en": "It is unlikely he would have mistaken hocus-pocus for genuine knowledge.",
+      "cn": "他不可能把骗人的把戏错当成真正的知识。"
+    },
+    {
+      "en": "It is unlikely that the Duke was convinced by such specious arguments.",
+      "cn": "公爵不太可能相信这种似是而非的论点。"
+    },
+    {
+      "en": "It is unlikely that the rebels will agree to demobilise.",
+      "cn": "叛军不太可能会同意解散武装。"
+    },
+    {
+      "en": "It seems highly unlikely that she ever existed.",
+      "cn": "她好像压根就没存在过。"
+    },
+    {
+      "en": "It was highly unlikely that their paths would cross again.",
+      "cn": "他们再次偶遇的可能性非常小。"
+    },
+    {
+      "en": "It's now unlikely that future parliaments will bring back the death penalty.",
+      "cn": "现在看来，将来议会不太可能恢复死刑。"
+    },
+    {
+      "en": "It's unlikely that you'll be asked to do anything too taxing.",
+      "cn": "不大可能叫你做什么太费劲的事儿。"
+    },
+    {
+      "en": "Offers 15% below the asking price are unlikely to be accepted.",
+      "cn": "低于要价15％的报价不大可能被接受。"
+    },
+    {
+      "en": "The controversy is unlikely to die down.",
+      "cn": "争议不大可能平息。"
+    },
+    {
+      "en": "The man has become an unlikely figure of fun.",
+      "cn": "令人想象不到的是，这个男人已经成为了笑谈。"
+    },
+    {
+      "en": "The new media are unlikely to prove qualitatively different from the old.",
+      "cn": "新媒体不可能与旧媒体有质的差别。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "unlike",
+          "tran_cn": " 不同的，不相似的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "unlikelihood",
+          "tran_cn": " 不可信；未必有；不大可能的事"
+        },
+        {
+          "word": "unlikeliness",
+          "tran_cn": " 不大可能；不一样"
+        },
+        {
+          "word": "unlikeness",
+          "tran_cn": " 不同；不相等；不像"
+        }
+      ]
+    },
+    {
+      "pos": "prep",
+      "words": [
+        {
+          "word": "unlike",
+          "tran_cn": " 和…不同，不像"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "not necessarily"
+          ],
+          "tran_cn": "未必"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "fishy",
+            "improbable",
+            "marvelous",
+            "questionable"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不大可能的，非想象的，难以置信的",
+      "tran_en": "not likely to happen"
+    },
+    {
+      "pos": "adv",
+      "tran_cn": "未必"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "unlikelier"
+    ],
+    "est": [
+      "unlikeliest"
+    ],
+    "noun": [
+      "unlikelihood"
+    ]
+  }
+}

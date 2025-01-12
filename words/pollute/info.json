@@ -1,0 +1,181 @@
+{
+  "word": "pollute",
+  "ipa": {
+    "us": "pəˈluːt",
+    "uk": "pəˈluːt"
+  },
+  "sentences": [
+    {
+      "en": "A single tin of paint can pollute of litres of water.",
+      "cn": "一罐涂料可以污染数百万公升的水."
+    },
+    {
+      "en": "B: Are you crazy? That would pollute the water!",
+      "cn": "你疯了 吗 ?那会污染水源!"
+    },
+    {
+      "en": "beaches polluted by raw sewage",
+      "cn": "受未经处理的污水污染的海滩"
+    },
+    {
+      "en": "Bicycling is a good exercise; moreover, it doesn't pollute the air.",
+      "cn": "骑自行车是很好的运动; 而且还不污染环境."
+    },
+    {
+      "en": "Bicycling is good exercise; moreover, it doesn't pollute the air.",
+      "cn": "骑自行车是一种很好的运动, 此外, 还不污染空气."
+    },
+    {
+      "en": "Cars pollute the air in the form of waste gas.",
+      "cn": "汽车以废气的形式污染空气."
+    },
+    {
+      "en": "Factories are no longer allowed to pollute the air with black smoke.",
+      "cn": "不再允许工厂的黑烟污染空气了."
+    },
+    {
+      "en": "I'm sorry, smoking will pollute air in a taxi.",
+      "cn": "对不起, 抽烟会污染车内的空气."
+    },
+    {
+      "en": "Mining would pollute the lake and denude the forest.",
+      "cn": "采矿会污染湖水，毁掉森林。"
+    },
+    {
+      "en": "Our store never sells books which pollute the mind.",
+      "cn": "我们书店从不出售污染心灵的书籍."
+    },
+    {
+      "en": "Seepage from land fills can pollute ground water or surface.",
+      "cn": "填土的渗漏可能污染地下水和地面水."
+    },
+    {
+      "en": "She thinks these books pollute the minds of children.",
+      "cn": "她认为这些书腐蚀儿童的心灵."
+    },
+    {
+      "en": "The factory pollutes the air and water.",
+      "cn": "那家工厂污染了空气和水。"
+    },
+    {
+      "en": "These gases pollute the atmosphere of towns and cities.",
+      "cn": "这些气体污染了城镇的空气。"
+    },
+    {
+      "en": "They not only pollute the air in cities, but make them crowded.",
+      "cn": "汽车不仅污染城市空气, 而且使城市拥挤不堪."
+    },
+    {
+      "en": "Time and time again there are serious accidents that pollute the air.",
+      "cn": "空气被污染的严重事故不时地在发生."
+    },
+    {
+      "en": "Which do not pollute the air, so Earth's temperature will not increase.",
+      "cn": "哪一不污染空气, 因此地球的温度将不增加."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "polluted",
+          "tran_cn": " 受污染的；被玷污的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "pollutant",
+          "tran_cn": " 污染物"
+        },
+        {
+          "word": "polluter",
+          "tran_cn": " 污染者；污染源；污染物质"
+        },
+        {
+          "word": "pollution",
+          "tran_cn": " 污染"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "polluted",
+          "tran_cn": " 污染（pollute的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "contaminate",
+            "defile",
+            "demoralize",
+            "deteriorate",
+            "foul",
+            "infect",
+            "mess",
+            "poison",
+            "smoke",
+            "taint",
+            "tarnish"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "contaminate",
+            "defile",
+            "foul",
+            "infect",
+            "poison",
+            "taint",
+            "tarnish"
+          ],
+          "tran_cn": "污染,弄脏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "污染，弄脏",
+      "tran_en": "to make air, water, soil etc dangerously dirty and not suitable for people to use"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 弄脏， 污染； 玷污， 败坏",
+      "tran_en": "to make air, water, soil etc dangerously dirty and not suitable for people to use"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "pollutes"
+    ],
+    "past": [
+      "polluted"
+    ],
+    "done": [
+      "polluted"
+    ],
+    "ing": [
+      "polluting"
+    ]
+  }
+}

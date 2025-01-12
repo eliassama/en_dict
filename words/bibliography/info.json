@@ -1,0 +1,137 @@
+{
+  "word": "bibliography",
+  "ipa": {
+    "us": "ˌbɪbliˈɒɡrəfi",
+    "uk": "ˌbɪbliˈɑːɡrəfi"
+  },
+  "sentences": [
+    {
+      "en": "A bibliography is a list of books and / or other materials.",
+      "cn": "书目是书和(或)其他资料的目次表."
+    },
+    {
+      "en": "A bibliography of recommended reference texts are listed below the table.",
+      "cn": "在表下还列出推荐参考书目."
+    },
+    {
+      "en": "A complete bibliography has run to several thousand entries.",
+      "cn": "完整文献达数千条目."
+    },
+    {
+      "en": "A scholastic work is to have a useful bibliography at the end of each chapter or the whole book.",
+      "cn": "学术著作应该在每一章或全书之后附有一份参考书目."
+    },
+    {
+      "en": "At the end of this chapter there is a select bibliography of useful books.",
+      "cn": "本章末尾列有一份有用的精选书目。"
+    },
+    {
+      "en": "It'should be formatted as a regular article with title, abstract, and bibliography.",
+      "cn": "文章应像正规论文一样包括题目 、 摘要和参考书目."
+    },
+    {
+      "en": "The article is consist of preface, straight matter text, conclusion, Bibliography.",
+      "cn": "全文由前言 、 正文 、 结论和后记组成."
+    },
+    {
+      "en": "The book ought to include a bibliography of the subject.",
+      "cn": "这本书应包括一份关于这一学科的参考书目."
+    },
+    {
+      "en": "The production of this bibliography is totally automated.",
+      "cn": "这个目录的编制过程全是自动化的."
+    },
+    {
+      "en": "The scholar compiled a bibliography of the unpublished writings of Emerson.",
+      "cn": "这位学者编制了一部爱默生未发表的作品的目录."
+    },
+    {
+      "en": "The study of printing and the physical evidence of the books themselves is called analytical bibliography.",
+      "cn": "对于印刷和书籍的物理数据本身的研究称为分析目录学."
+    },
+    {
+      "en": "The subject of the bibliography was due to arrive in fifteen minutes.",
+      "cn": "这份目录的主人再有十五分钟就该到了."
+    },
+    {
+      "en": "There is a useful bibliography at the end of each chapter.",
+      "cn": "在每一章后附有一份有用的参考书目."
+    },
+    {
+      "en": "This course features an extensive annotated bibliography in the study materials section.",
+      "cn": "这门课的特色在它的研究资料有许多广泛注释的参考书目."
+    },
+    {
+      "en": "We have quoted in the bibliography a large number of items.",
+      "cn": "文献目录中列举了大量文献."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bibliographic",
+          "tran_cn": " 书目的；书籍解题的；著书目录的"
+        },
+        {
+          "word": "bibliographical",
+          "tran_cn": " 书目的；书籍解题的；著书目录的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bibliographer",
+          "tran_cn": " 书志学家；书目编制人"
+        },
+        {
+          "word": "bibliotheca",
+          "tran_cn": " 书目；藏书；图书馆"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "book",
+            "catalogue",
+            "compendium",
+            "compilation",
+            "list",
+            "record",
+            "reference"
+          ],
+          "tran_cn": "书目提要"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "annotated bibliography",
+      "tran_cn": "附说明的资料目录"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（参考）书目，索引，文献学",
+      "tran_en": "a list of all the books and articles used in preparing a piece of writing"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bibliographies"
+    ],
+    "adj": [
+      "bibliographical"
+    ]
+  }
+}

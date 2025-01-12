@@ -1,0 +1,112 @@
+{
+  "word": "wangle",
+  "ipa": {
+    "us": "ˈwæŋgl",
+    "uk": "ˈwæŋɡəl"
+  },
+  "sentences": [
+    {
+      "en": "Alice was trying to wangle her way onto the committee.",
+      "cn": "爱丽丝千方百计想往委员会里钻."
+    },
+    {
+      "en": "He is trying to wangle his way onto the committee.",
+      "cn": "他千方百计想钻入委员会中."
+    },
+    {
+      "en": "I asked the Captain to wangle us three tickets to Athens.",
+      "cn": "我让机长设法给我们弄3张去雅典的票。"
+    },
+    {
+      "en": "I'd love to go to the match tomorrow do you think you can wangle it?",
+      "cn": "我很想去看明天的比赛--你能找个词儿安排一下 吗 ?"
+    },
+    {
+      "en": "I'll try to wangle a contribution out of him.",
+      "cn": "我要设法让他出把力."
+    },
+    {
+      "en": "I'm sure you can wangle the information out of him.",
+      "cn": "我完全相信你能设法从他口中套出这项情报来."
+    },
+    {
+      "en": "It's bound to be a boring party let's try to wangle out of it / going.",
+      "cn": "这次聚会一定没意思--咱们想个法子别去了."
+    },
+    {
+      "en": "She managed to wangle an invitation to the reception.",
+      "cn": "她设法弄到了招待会的请帖."
+    },
+    {
+      "en": "The family depended on his ability to wangle a few dollars occasionally . With this money, they would eat well and dress well for a while , making a pretence of affluence.",
+      "cn": "一家人全靠他在外面讹个钱,诈个财, 吃点好的,穿点好的, 装门面."
+    },
+    {
+      "en": "We managed to wangle a few days' leave.",
+      "cn": "我们设法骗到了几天的假。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "wangler",
+          "tran_cn": " 骗取者；蒙混者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "forging",
+            "falsification"
+          ],
+          "tran_cn": "欺诈行为；哄骗；伪造"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cheat",
+            "blag"
+          ],
+          "tran_cn": "扭身挤出；使用诡计；骗取"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "骗取",
+      "tran_en": "to get something, or arrange for something to happen, by cleverly persuading or tricking someone"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<口>用计谋得到（好处等），伪造，粉饰，欺瞒"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "wangles"
+    ],
+    "past": [
+      "wangled"
+    ],
+    "done": [
+      "wangled"
+    ],
+    "ing": [
+      "wangling"
+    ]
+  }
+}

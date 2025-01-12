@@ -1,0 +1,90 @@
+{
+  "word": "pummel",
+  "ipa": {
+    "us": "ˈpʌml",
+    "uk": "ˈpʌməl"
+  },
+  "sentences": [
+    {
+      "en": "Diane leaned over and pummeled the pillows.",
+      "cn": "黛安娜俯下身不断捶打枕头。"
+    },
+    {
+      "en": "On Jan. 10, blizzards started to pummel a huge swath of central and southern China.",
+      "cn": "到了1月10日, 暴风雪开始席卷华中和华南地区."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "saddlebow",
+            "rounded end"
+          ],
+          "tran_cn": "（马鞍的）前鞍桥；球壮末端；（刀把或剑柄的）圆头（等于pommel）"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "switch",
+            "whip"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "batter",
+            "beat",
+            "flog",
+            "hammer",
+            "pound",
+            "punch",
+            "rap",
+            "strike",
+            "thrash",
+            "wallop"
+          ],
+          "tran_cn": "打,击"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "击, 打, 用拳头连续揍",
+      "tran_en": "to hit someone or something many times quickly, especially using your  fist s (= closed hands ) "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（尤指用拳头）连续打"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "pummels"
+    ],
+    "past": [
+      "pummelled"
+    ],
+    "done": [
+      "pummelled"
+    ],
+    "ing": [
+      "pummelling"
+    ]
+  }
+}

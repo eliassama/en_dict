@@ -1,0 +1,139 @@
+{
+  "word": "incriminate",
+  "ipa": {
+    "us": "ɪnˈkrɪmɪneɪt",
+    "uk": "ɪnˈkrɪmɪneɪt"
+  },
+  "sentences": [
+    {
+      "en": "Do not say anything that may incriminate your friend.",
+      "cn": "不要说任何可能牵连你朋友入罪的话."
+    },
+    {
+      "en": "Don't say anything that may incriminate your friends.",
+      "cn": "不要说任何可能连累你朋友的话."
+    },
+    {
+      "en": "He claimed that the drugs had been planted to incriminate him.",
+      "cn": "他声称毒品是别人为了陷害他而故意放在那里的。"
+    },
+    {
+      "en": "He had been forced to incriminate himself in cross - examinations .",
+      "cn": "他在 盘问 中被迫受到牵连."
+    },
+    {
+      "en": "He is accused of perjury with the intention of incriminate his employer.",
+      "cn": "他被控告犯有意图加罪于其雇主的伪证罪."
+    },
+    {
+      "en": "He refused to answer questions incriminate himself.",
+      "cn": "他拒绝回答问题,以免显示自己有最."
+    },
+    {
+      "en": "I'd incriminate myself as well as you.",
+      "cn": "我就会把自己和你都牵连进去."
+    },
+    {
+      "en": "If you want us to incriminate ourselves in any other way, we are ready.",
+      "cn": "如果你还要我们用其他方式表明我们自己, 我们也愿意."
+    },
+    {
+      "en": "No one can be forced to incriminate himself.",
+      "cn": "任何人不得被强制自证其罪."
+    },
+    {
+      "en": "The evidence seemed to incriminate him.",
+      "cn": "证据似乎显示他有罪."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "incriminating",
+          "tran_cn": " 归罪的"
+        },
+        {
+          "word": "incriminatory",
+          "tran_cn": " 成为有罪的；负罪的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "incrimination",
+          "tran_cn": " 控告；连累"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "incriminating",
+          "tran_cn": " 牵连（incriminate的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "impute"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "law",
+            "sue for"
+          ],
+          "tran_cn": "控告；暗示...有罪"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 连累， 牵连",
+      "tran_en": "to make someone seem guilty of a crime"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（某人）显得有罪， 牵连， 归罪于，控告，归咎于"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "incriminates"
+    ],
+    "past": [
+      "incriminated"
+    ],
+    "done": [
+      "incriminated"
+    ],
+    "ing": [
+      "incriminating"
+    ],
+    "noun": [
+      "incrimination"
+    ],
+    "adj": [
+      "incriminating"
+    ]
+  }
+}

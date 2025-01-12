@@ -1,0 +1,200 @@
+{
+  "word": "waken",
+  "ipa": {
+    "us": "ˈweɪkən",
+    "uk": "ˈweɪkən"
+  },
+  "sentences": [
+    {
+      "en": "\" I do not like for him to waken me.",
+      "cn": "“ 我不愿让船主人来叫醒我."
+    },
+    {
+      "en": "\"Drink this coffee — it will waken you up.\"",
+      "cn": "“把这杯咖啡喝了——它会让你清醒过来。”"
+    },
+    {
+      "en": "Chinese manufacturers have waken up to the strength of media promotion.",
+      "cn": "中国制造商已经认识到媒介促销的力量."
+    },
+    {
+      "en": "I feel as if I had waken from a nightmare.",
+      "cn": "我觉得好像刚从噩梦中醒来."
+    },
+    {
+      "en": "I'll waken you in time.",
+      "cn": "到时候我去喊醒你得啦."
+    },
+    {
+      "en": "If you do waken up during the night, start the exercises again.",
+      "cn": "如果你夜里真的醒了，就再从头开始做这套动作。"
+    },
+    {
+      "en": "It looks as if he have just waken up.",
+      "cn": "好像他刚睡醒似的."
+    },
+    {
+      "en": "Naomi would waken to the twitter of birds.",
+      "cn": "娜奥米会被鸟儿吱吱喳喳的叫声唤醒。"
+    },
+    {
+      "en": "Please waken me at seven.",
+      "cn": "请于七点叫醒我."
+    },
+    {
+      "en": "Raises and sits on the bed, Cindy is waken up too.",
+      "cn": "迈克尔被吓醒了,在床上坐了起来."
+    },
+    {
+      "en": "Responsibility can inspire a person's potential and waken conscience as well.",
+      "cn": "责任能激发人的潜能,也能唤醒人的良知."
+    },
+    {
+      "en": "She gently wakened the sleeping child.",
+      "cn": "她轻轻地唤醒睡梦中的孩子。"
+    },
+    {
+      "en": "The cat has been waken up with a start.",
+      "cn": "猫惊醒了."
+    },
+    {
+      "en": "The wind lulled as if it feared to waken them.",
+      "cn": "风势渐渐平息下去,仿佛唯恐吵醒她们似的."
+    },
+    {
+      "en": "When would you like to be waken up, sir?",
+      "cn": "先生, 您想要在什么时候被叫醒?"
+    },
+    {
+      "en": "Women are much more likely than men to waken because of noise.",
+      "cn": "较之男性,女性更可能被噪音吵醒."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "wakeful",
+          "tran_cn": " 醒着的；失眠的；警觉的"
+        },
+        {
+          "word": "waking",
+          "tran_cn": " 醒着的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "wake",
+          "tran_cn": " 尾迹；守夜；守丧"
+        },
+        {
+          "word": "wakefulness",
+          "tran_cn": " [生理] 觉醒；不眠"
+        },
+        {
+          "word": "wakening",
+          "tran_cn": " 唤醒"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "wakening",
+          "tran_cn": " 唤醒；醒来（waken的ing形式）"
+        },
+        {
+          "word": "waking",
+          "tran_cn": " 醒来，唤醒；唤起（记忆）（wake的现在分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "wake",
+          "tran_cn": " 醒来；唤醒；警觉"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "wake",
+          "tran_cn": " 叫醒；激发"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "awaken"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "wake up",
+            "awake"
+          ],
+          "tran_cn": "醒来；觉醒"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "arouse",
+            "wake sb. up"
+          ],
+          "tran_cn": "唤醒；使觉醒"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "waken up",
+      "tran_cn": "醒来"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "醒来，唤醒",
+      "tran_en": "to wake up, or to wake someone up"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "wakens"
+    ],
+    "past": [
+      "wakened"
+    ],
+    "done": [
+      "wakened"
+    ],
+    "ing": [
+      "wakening"
+    ]
+  }
+}

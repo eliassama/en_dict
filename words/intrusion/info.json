@@ -1,0 +1,160 @@
+{
+  "word": "intrusion",
+  "ipa": {
+    "us": "ɪnˈtru:ʒn",
+    "uk": "ɪnˈtruʒən"
+  },
+  "sentences": [
+    {
+      "en": "\" And to what do I owe this intrusion? \"",
+      "cn": "\" 我有什么事需要你们闯到我家里来 吗 ?"
+    },
+    {
+      "en": "He felt resentment at the intrusion.",
+      "cn": "他因受到干扰而十分恼火."
+    },
+    {
+      "en": "I demand an explanation for your rude intrusion upon my privacy.",
+      "cn": "我要求你对于无礼地侵扰我的私人生活的行为做出解释."
+    },
+    {
+      "en": "I felt it was a grotesque intrusion into our lives.",
+      "cn": "我感觉那是对我们生活的一种干扰，让人感到荒唐可气。"
+    },
+    {
+      "en": "I must make it up to him for the awful intrusion of last night.",
+      "cn": "因为昨晚过分的打扰，我必须对他有所补偿。"
+    },
+    {
+      "en": "Jim Skardon exploded at this apparent intrusion into his empire.",
+      "cn": "吉姆·斯卡登对于这些明显地侵犯其主管领域的行为暴跳如雷."
+    },
+    {
+      "en": "Many an evening was spoilt by their intrusion.",
+      "cn": "好多夜晚都被那些人的闯入破坏了."
+    },
+    {
+      "en": "Paul's mother was very angry at the intrusion.",
+      "cn": "保罗妈妈对这种干扰恼怒异常."
+    },
+    {
+      "en": "She simply laughed off her resentment at the intrusion.",
+      "cn": "她只是用笑声来掩饰她对别人打搅的不满."
+    },
+    {
+      "en": "Shopping - bag ladies are not very communicative and take general conversation as an intrusion.",
+      "cn": "携购物袋的女士们不大爱说话,她们把一般的交谈视为打扰."
+    },
+    {
+      "en": "Such intrusion has occurred at many locations in Florida and California.",
+      "cn": "这种侵入已经在佛罗里达和加利福尼亚的许多地方出现."
+    },
+    {
+      "en": "the unwelcome intrusion of the press",
+      "cn": "不受欢迎的新闻界的侵扰"
+    },
+    {
+      "en": "Their intrusion into our private lives is unwarrantable.",
+      "cn": "他们侵扰我们的私生活是毫无道理的."
+    },
+    {
+      "en": "Their intrusion, though baffling and terrible , is not a random mischance.",
+      "cn": "他们的闯入, 虽然使人惊疑不定,却并不是飞来横祸."
+    },
+    {
+      "en": "They claim the noise from the new airport is an intrusion on their lives.",
+      "cn": "他们声称新机场的噪音侵扰了他们的生活。"
+    },
+    {
+      "en": "With an apology for my intrusion, I was about to withdraw.",
+      "cn": "我为自己的唐突表示歉意, 我想退出."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "intrusive",
+          "tran_cn": " 侵入的；打扰的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "intruder",
+          "tran_cn": " 侵入者；干扰者；妨碍者"
+        },
+        {
+          "word": "intrusiveness",
+          "tran_cn": " 干涉性；侵扰性；侵入性"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "intrude",
+          "tran_cn": " 闯入；侵入；侵扰"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "intrude",
+          "tran_cn": " 把…强加；把…硬挤"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "penetration",
+            "effraction"
+          ],
+          "tran_cn": "[地质]侵入；闯入"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "entrenchment",
+            "intervention",
+            "invasion"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "intrusion detection system",
+      "tran_cn": "入侵侦测系统"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "闯入，打扰，（对某事的）干扰，干涉",
+      "tran_en": "when someone does something, or something happens, that affects your private life or activities in an unwanted way"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "intrusions"
+    ]
+  }
+}

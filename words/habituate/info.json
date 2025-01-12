@@ -1,0 +1,102 @@
+{
+  "word": "habituate",
+  "ipa": {
+    "us": "hə'bɪtjʊeɪt",
+    "uk": "həˈbɪtʃuˌet"
+  },
+  "sentences": [
+    {
+      "en": "Over the centuries, these animals have become habituated to living in a dry environment.",
+      "cn": "几百年下来，这些动物已经习惯于生活在干燥的环境里。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "habitual",
+          "tran_cn": " 习惯的；惯常的；习以为常的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "habitually",
+          "tran_cn": " 习惯地；日常地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "habit",
+          "tran_cn": " 习惯，习性；嗜好"
+        },
+        {
+          "word": "habituation",
+          "tran_cn": " 习惯，熟习；[生理] 习惯化"
+        },
+        {
+          "word": "habitude",
+          "tran_cn": " 习俗；习惯"
+        },
+        {
+          "word": "habitus",
+          "tran_cn": " 习惯；体质；状态"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "habit",
+          "tran_cn": " 使穿衣"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "accustom to"
+          ],
+          "tran_cn": "使习惯于，使熟习于"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使习惯于, 使熟习于",
+      "tran_en": "to be used to something or gradually become used to it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使习惯于"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "habituates"
+    ],
+    "past": [
+      "habituated"
+    ],
+    "done": [
+      "habituated"
+    ],
+    "ing": [
+      "habituating"
+    ]
+  }
+}

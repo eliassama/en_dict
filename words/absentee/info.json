@@ -1,0 +1,99 @@
+{
+  "word": "absentee",
+  "ipa": {
+    "us": "ˌæbsənˈti:",
+    "uk": "ˌæbsənˈti"
+  },
+  "sentences": [
+    {
+      "en": "At least two of the three other absentees also had justifiable reasons for being away.",
+      "cn": "其他三个缺席者中至少两个人也有合理的缺席理由。"
+    },
+    {
+      "en": "Even the absentee members would endeavour to return home in time for it.",
+      "cn": "所有大家庭的成员都会聚集一堂,远在他乡的也会尽量赶回来."
+    },
+    {
+      "en": "He was charged with being an absentee.",
+      "cn": "他被指控是个逃兵."
+    },
+    {
+      "en": "The deadline for absentee voting in was Saturday.",
+      "cn": "缺席投票的最后期限是星期六。"
+    },
+    {
+      "en": "The house has an absentee landlord , who visits the property once a year.",
+      "cn": "这栋房子的房主不在这儿住, 一年过来一次."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "absent",
+          "tran_cn": " 缺席的；缺少的；心不在焉的；茫然的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "absence",
+          "tran_cn": " 没有；缺乏；缺席；不注意"
+        },
+        {
+          "word": "absenteeism",
+          "tran_cn": " 旷工；旷课；有计划的怠工；经常无故缺席"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "absent",
+          "tran_cn": " 使缺席"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "defaulter"
+          ],
+          "tran_cn": "[劳经]缺席者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "truant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "缺席者，缺勤者，在外地主，在外地主，[信]空号",
+      "tran_en": "someone who should be in a place or at an event but is not there"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "absentees"
+    ]
+  }
+}

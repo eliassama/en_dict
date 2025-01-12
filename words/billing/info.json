@@ -1,0 +1,150 @@
+{
+  "word": "billing",
+  "ipa": {
+    "us": "ˈbɪlɪŋ",
+    "uk": "ˈbɪlɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A billing address is according to your registered home address.",
+      "cn": "邮寄地址与你注册的家庭住址一致."
+    },
+    {
+      "en": "A catfight has erupted over who will get top billing.",
+      "cn": "为了谁做主角的问题爆发了一场吵闹。"
+    },
+    {
+      "en": "Are you going to bill me for this?",
+      "cn": "你会为这开帐单给我吗？"
+    },
+    {
+      "en": "At the same time, universal insurance billing rate continued to drop.",
+      "cn": "与此同时, 万能险的结算利率持续下降."
+    },
+    {
+      "en": "Billing Service will take effect in approximately 6 weeks.",
+      "cn": "综合帐单服务大约在六星期内生效."
+    },
+    {
+      "en": "Fast developing telecommunication industry requires excellent management and billing system , country.",
+      "cn": "快速发展的电信事业要求高水平的管理和计费系统."
+    },
+    {
+      "en": "Follow up network query to ensure the billing issues are solved quickly.",
+      "cn": "跟进网络查询,确保帐单问题得到快速解决."
+    },
+    {
+      "en": "He paid his bill for the newspapers promptly.",
+      "cn": "他立刻付了报纸的帐单。"
+    },
+    {
+      "en": "Maintained and updated database to ensure accuracy of billing for equipment.",
+      "cn": "维持及补充资料库最新资料,以确保有关设备的帐单正确."
+    },
+    {
+      "en": "Make sure all the checkouts with balance have supporting document for billing.",
+      "cn": "确保结帐票据的金额与发票金额一致."
+    },
+    {
+      "en": "My several letters to your billing department havehad no results.",
+      "cn": "我写了几封信给你们的清帐部门,毫无结果."
+    },
+    {
+      "en": "Please keep all of your billing information up to date.",
+      "cn": "请保存好您的账单,以便在获得我们的帮助时提供."
+    },
+    {
+      "en": "Reception staff to provide 24 - hour reception, information, billing and messaging services.",
+      "cn": "接待人员24小时提供接待 、 问询 、 结帐和留言服务."
+    },
+    {
+      "en": "They couldn't afford to pay the bills.",
+      "cn": "他们付不起账。"
+    },
+    {
+      "en": "They sat there billing and cooing till after midnight.",
+      "cn": "他们坐在那里窃窃私语直到后半夜."
+    },
+    {
+      "en": "This level also responsible for ensuring the appropriate billing of users.",
+      "cn": "这一级也有责任确保适当的计费用户."
+    },
+    {
+      "en": "With JAVA development, billing inquiries server actual prototype development, a good code.",
+      "cn": "用JAVA开发, 计费查询服务器原型开发实战, 不错的代码."
+    },
+    {
+      "en": "You know you might lose your billing in the blue book?",
+      "cn": "是的,要知道也许你们会漏了名人录上的演员表?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bill",
+          "tran_cn": " [法] 法案；广告；[会计] 帐单；[金融] 票据；钞票；清单"
+        },
+        {
+          "word": "billboard",
+          "tran_cn": " 广告牌；布告板"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bill",
+          "tran_cn": " 宣布；开帐单；用海报宣传"
+        },
+        {
+          "word": "billboard",
+          "tran_cn": " 宣传；介绍"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "advertisement",
+            "publicity"
+          ],
+          "tran_cn": "广告；记帐；开发票；演员表；总账款"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "billing address",
+      "tran_cn": "账单地址；寄付帐单地址；送订单的地址"
+    },
+    {
+      "phrase": "billing system",
+      "tran_cn": "计费系统"
+    },
+    {
+      "phrase": "top billing",
+      "tran_cn": "[美国英语]"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（节目单或戏院大门上的）演员表，（演员表上的）演员次序，开具账单，营业额",
+      "tran_en": "A bill is a written statement of money that you owe for goods or services"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "开帐单（bill的ing形式）",
+      "tran_en": "If you bill someone for goods or services you have provided them with, you give or send them a bill stating how much money they owe you for these goods or services"
+    }
+  ],
+  "exchange": {}
+}

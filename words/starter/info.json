@@ -1,0 +1,174 @@
+{
+  "word": "starter",
+  "ipa": {
+    "us": "ˈstɑːtə(r)",
+    "uk": "ˈstɑːrtər"
+  },
+  "sentences": [
+    {
+      "en": "“Deborah believes him, indicating, for starters, that she isn't the brightest”(&b{Judith Crist})",
+      "cn": "“德博拉丰信任他，这说明起初她不是最聪明的”(&b{朱迪思·克里斯特})"
+    },
+    {
+      "en": "A car's starter is basically an electric motor.",
+      "cn": "汽车的启动装置基本上是个电动机。"
+    },
+    {
+      "en": "Ability: Self starter and ability to work with limited amount of supervision.",
+      "cn": "能力: 主动性并能在较少指导下工作."
+    },
+    {
+      "en": "As a business proposition, it's a non-starter.",
+      "cn": "作为一份商业建议，它不可能取得成功。"
+    },
+    {
+      "en": "As the starter's gun booms, the boats spring into action.",
+      "cn": "信号弹划过上空, 龙舟夺标开始了."
+    },
+    {
+      "en": "Col trane was something of a late and hesitant starter.",
+      "cn": "柯川有点大器晚成,起步晚且犹豫不决."
+    },
+    {
+      "en": "Dinner consisted of a starter a main course and a dessert.",
+      "cn": "正餐由开胃菜、主菜和甜食组成."
+    },
+    {
+      "en": "He gave a hard pull on the starter rope.",
+      "cn": "他用力拉了一下起动器的带子."
+    },
+    {
+      "en": "His speech was the party starter.",
+      "cn": "他的演说是宴会的开端."
+    },
+    {
+      "en": "I've taken out the wire to the starter.",
+      "cn": "我把起动器的电线拔出来了."
+    },
+    {
+      "en": "Number 18 in the 2.30 at Lingfield is a non - starter .",
+      "cn": "在灵 菲尔德2时30分一场赛马中,第18号马不出赛."
+    },
+    {
+      "en": "Soft starter reduce the electric shock to the electrical net.",
+      "cn": "降低起动过程中对电网的电气冲击."
+    },
+    {
+      "en": "The starter fired his starting gun.",
+      "cn": "发令员鸣响起跑枪."
+    },
+    {
+      "en": "This paper introduces performance and application effect of motor soft - starter.",
+      "cn": "本文介绍了电动机软起动器的性能以及在电动机上的应用效果."
+    },
+    {
+      "en": "This starter kit also contains placeholder classes for customizing other functionality.",
+      "cn": "此初学者工具包还包含用于自定义其他功能的占位符类."
+    },
+    {
+      "en": "We had soup as a starter , followed by steak.",
+      "cn": "我们的第一道菜是汤，接下来是牛排。"
+    },
+    {
+      "en": "We've seen your works: tell us, how starter your artistical research?",
+      "cn": "我们看到了您的作品: 请告诉我们, 您是怎么开始您的艺术研究的?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "start",
+          "tran_cn": " 开始；起点"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "start",
+          "tran_cn": " 出发"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "start",
+          "tran_cn": " 开始；启动"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "first course",
+            "starting motor"
+          ],
+          "tran_cn": "起动机；发令员；第一道菜；发射装置；发起者"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "electromagnetic starter",
+      "tran_cn": "电磁起动器"
+    },
+    {
+      "phrase": "for starters",
+      "tran_cn": "(非正式)首先；一开始，开始时"
+    },
+    {
+      "phrase": "for starters【非正式用语】",
+      "tran_cn": "首先；起初"
+    },
+    {
+      "phrase": "magnetic starter",
+      "tran_cn": "磁力启动器"
+    },
+    {
+      "phrase": "motor starter",
+      "tran_cn": "马达起动器；电动机起动器"
+    },
+    {
+      "phrase": "self starter",
+      "tran_cn": "自动起动器"
+    },
+    {
+      "phrase": "starter culture",
+      "tran_cn": "起子培养"
+    },
+    {
+      "phrase": "starter home",
+      "tran_cn": "简易房；起步房"
+    },
+    {
+      "phrase": "starter motor",
+      "tran_cn": "起动装置；起动电动机"
+    },
+    {
+      "phrase": "under starter's orders",
+      "tran_cn": "（马、赛跑运动员等竞赛者）等候号令准备起跑"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（发动机的）启动装置，参赛人，（主菜之前的）开胃小吃，（赛跑等的）发令员",
+      "tran_en": "a small amount of food eaten at the start of a meal before the main part"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "starters"
+    ]
+  }
+}

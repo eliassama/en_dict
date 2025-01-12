@@ -1,0 +1,111 @@
+{
+  "word": "concoct",
+  "ipa": {
+    "us": "kənˈkɒkt",
+    "uk": "kənˈkɑkt"
+  },
+  "sentences": [
+    {
+      "en": "He concoct an excuse for be late.",
+      "cn": "他为迟到编造理由."
+    },
+    {
+      "en": "How did the inventive chef ever concoct such strange dish?",
+      "cn": "怎么发明的厨师都编造这种奇怪的菜?"
+    },
+    {
+      "en": "I began to concoct explanations of my own.",
+      "cn": "我开始思考自己的解释."
+    },
+    {
+      "en": "I gave her a tip on how to concoct a new kind of soup.",
+      "cn": "我教她配制一种新汤的诀窍."
+    },
+    {
+      "en": "John concocted an elaborate excuse for being late.",
+      "cn": "约翰为迟到编了一个巧妙的借口。"
+    },
+    {
+      "en": "Mr. Ferguson said the prisoner concocted the story to get a lighter sentence.",
+      "cn": "费格森先生说该囚犯为了获轻罚编造了这个故事。"
+    },
+    {
+      "en": "The fundamental principle of the technology and the development of concoct food are introduced.",
+      "cn": "介绍了栅栏技术的基本原理和调理食品的发展."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "concoction",
+          "tran_cn": " 混合；调合；调合物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "conceive",
+            "create",
+            "devise",
+            "fabricate",
+            "invent",
+            "make",
+            "manufacture",
+            "originate",
+            "prepare"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "create",
+            "devise",
+            "invent",
+            "make",
+            "manufacture",
+            "prepare"
+          ],
+          "tran_cn": "调合;捏造;策划"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "调制, 调合, 编造",
+      "tran_en": "If you concoct an excuse or explanation, you invent one that is not true"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "调制，捏造，图谋，策划"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "concocts"
+    ],
+    "past": [
+      "concocted"
+    ],
+    "done": [
+      "concocted"
+    ],
+    "ing": [
+      "concocting"
+    ]
+  }
+}

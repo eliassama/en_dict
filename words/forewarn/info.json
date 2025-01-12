@@ -1,0 +1,73 @@
+{
+  "word": "forewarn",
+  "ipa": {
+    "us": "fɔ:ˈwɔ:n",
+    "uk": "fɔrˈwɔrn"
+  },
+  "sentences": [
+    {
+      "en": "The travel guide had forewarned me of what to expect.",
+      "cn": "该导游已经把将要发生的事情提前告知了我。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "forecast"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "previse",
+            "premonish"
+          ],
+          "tran_cn": "预先警告"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "forewarned is forearmed",
+      "tran_cn": "(谚)凡事预则立；情报有如武装"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "预先警告",
+      "tran_en": "to warn someone about something dangerous, unpleasant, or unexpected before it happens"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "预先警告，事先告知"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "forewarns"
+    ],
+    "past": [
+      "forewarned"
+    ],
+    "done": [
+      "forewarned"
+    ],
+    "ing": [
+      "forewarning"
+    ],
+    "noun": [
+      "forewarning"
+    ]
+  }
+}

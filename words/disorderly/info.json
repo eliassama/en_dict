@@ -1,0 +1,205 @@
+{
+  "word": "disorderly",
+  "ipa": {
+    "us": "dɪsˈɔ:dəli",
+    "uk": "dɪsˈɔrdərli"
+  },
+  "sentences": [
+    {
+      "en": "A few green branches reached down a little disorderly at the side.",
+      "cn": "几棵翠绿的枝条无规律地长在周围."
+    },
+    {
+      "en": "clothes left in a disorderly heap",
+      "cn": "乱七八糟堆在一起的衣服"
+    },
+    {
+      "en": "Everybody started shouting and the meeting became very disorderly.",
+      "cn": "人人开始大声喊叫,会议变得秩序大乱."
+    },
+    {
+      "en": "Football matches are disorderly events.",
+      "cn": "足球比赛是一项粗野的运动。"
+    },
+    {
+      "en": "He pleaded guilty to being disorderly on licensed premises.",
+      "cn": "他承认在有售酒许可的经营场所寻衅滋事。"
+    },
+    {
+      "en": "He was degraded for being drunk and disorderly.",
+      "cn": "他因酗酒及不守纪律而受降级处分."
+    },
+    {
+      "en": "In most of the residence halls we visited, rules prohibit disorderly conduct.",
+      "cn": "在我们走访的学生宿舍里，大多明令禁止胡作非为。"
+    },
+    {
+      "en": "Listlessly she went about the disorderly hotel.",
+      "cn": "她恹恹地在陈旧杂乱的旅馆来回走动."
+    },
+    {
+      "en": "Listlessly she went about the disorderly old hotel.",
+      "cn": "她没精打彩地在乱七八糟的陈旧的旅馆中走来走去."
+    },
+    {
+      "en": "Most consulting engineers would consider the work organization disorderly.",
+      "cn": "大多数咨询工程师可能会认为工作组织得漫无次序."
+    },
+    {
+      "en": "Mr Ling was acquitted of disorderly behaviour by magistrates.",
+      "cn": "地方法官宣判林先生扰乱治安罪名不成立。"
+    },
+    {
+      "en": "The police scattered the disorderly crowd.",
+      "cn": "警察驱散了骚乱的人群."
+    },
+    {
+      "en": "The whole body made a disorderly irruption into Mr. Bounderby's dining - room.",
+      "cn": "这一大堆人莽莽撞撞地拥进了庞得贝先生的餐厅."
+    },
+    {
+      "en": "They were arrested for being drunk and disorderly .",
+      "cn": "他们因酗酒滋事而被捕。"
+    },
+    {
+      "en": "They were arrested for being drunk and disorderly.",
+      "cn": "他们因酗酒和妨碍治安而被捕."
+    },
+    {
+      "en": "Virgil Gunch finds occasion to speak to him about his disorderly life.",
+      "cn": "维杰尔·冈奇也找机会就他的放荡生活提出劝告."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "disordered",
+          "tran_cn": " 混乱的；害了病的；发狂的；失调的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disorder",
+          "tran_cn": " 混乱；骚乱"
+        },
+        {
+          "word": "disorderliness",
+          "tran_cn": " 骚动；无秩序；混乱"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "disorder",
+          "tran_cn": " 使失调；扰乱"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "disorganized",
+            "helter-skelter",
+            "indiscriminate",
+            "pell-mell",
+            "unmethodical"
+          ],
+          "tran_cn": "无秩序的,杂乱的"
+        },
+        {
+          "words": [
+            "disobedient",
+            "disruptive",
+            "mutinous",
+            "obstreperous",
+            "out-of-line",
+            "rebellious",
+            "riotous",
+            "rowdy",
+            "rowdyish",
+            "turbulent",
+            "unmanageable",
+            "unruly",
+            "uproarious",
+            "violent",
+            "wayward",
+            "wild"
+          ],
+          "tran_cn": "暴乱的,骚动的"
+        },
+        {
+          "words": [
+            "chaotic",
+            "cluttered",
+            "confused",
+            "deranged",
+            "disarranged",
+            "disorganized",
+            "hugger-mugger",
+            "irregular",
+            "jumbled",
+            "messy",
+            "mixed",
+            "muddled",
+            "tangled",
+            "untidy",
+            "up"
+          ],
+          "tran_cn": "零乱的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "intricately",
+            "mussily"
+          ],
+          "tran_cn": "杂乱地，无秩序地"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "anarchic",
+            "askew",
+            "awry",
+            "desultory",
+            "naughty"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "disorderly conduct",
+      "tran_cn": "扰乱社会治安的行为，妨碍治安行为"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "杂乱的，凌乱的，妨碍治安的，无法无天的",
+      "tran_en": "untidy or without any order"
+    }
+  ],
+  "exchange": {}
+}

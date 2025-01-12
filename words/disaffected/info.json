@@ -1,0 +1,90 @@
+{
+  "word": "disaffected",
+  "ipa": {
+    "us": "ˌdɪsəˈfektɪd",
+    "uk": "ˌdɪsəˈfɛktɪd"
+  },
+  "sentences": [
+    {
+      "en": "He attracts disaffected voters.",
+      "cn": "他吸引了心怀不满的选民们。"
+    },
+    {
+      "en": "the disaffected youth from poor neighborhoods",
+      "cn": "贫民区那些心存不满的年轻人"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "disaffection",
+          "tran_cn": " 不满；背叛"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "disaffect",
+          "tran_cn": " 使疏远；使不满意；使成为敌人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "disgruntled",
+            "malcontented"
+          ],
+          "tran_cn": "不满的；有叛意的；愤愤不平的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dissatisfied"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "estranged"
+          ],
+          "tran_cn": "使疏远；使不友爱（disaffect的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不满的，愤愤不平的",
+      "tran_en": "not satisfied with your government, leader etc, and therefore no longer loyal to them or no longer believing they can help you"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使不满(disaffect的过去分词)"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "disaffection"
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "word": "verify",
+  "ipa": {
+    "us": "ˈverɪfaɪ",
+    "uk": "ˈverɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "AIM : To verify the role of a synthetic peptide in neutralizing endotoxins.",
+      "cn": "目的: 检验一条合成肽在中和内毒素活性方面的作用."
+    },
+    {
+      "en": "American forces will remain to verify compliance with the treaty.",
+      "cn": "美军将继续驻留，核查条约是否得到遵守。"
+    },
+    {
+      "en": "CNN could not independently verify whether Lee worked with Jackson.",
+      "cn": "CNN不能独自证实李是否为杰克工作过."
+    },
+    {
+      "en": "Do you know what I'm talking about when I say Operation Verify?",
+      "cn": "我说行动确认,你懂我在说什么 吗 ?"
+    },
+    {
+      "en": "His statement was verified by several witnesses.",
+      "cn": "他的说法得到了几位证人的证实。"
+    },
+    {
+      "en": "I had my nose out the window to verify a sneeze hypothesis!",
+      "cn": "我到窗外去闻一下是不是有打喷嚏的可能!"
+    },
+    {
+      "en": "I have been hunting through all sorts of books to verify this.",
+      "cn": "我查了好多书来核实这一点."
+    },
+    {
+      "en": "I verified the source from which I had that information.",
+      "cn": "我核实了我获知那条信息的来源。"
+    },
+    {
+      "en": "In this simple example we may verify the result readily by analyzing the network.",
+      "cn": "对于这个简单的例子,我们通过分析网络可以很容易验证其结果的正确性."
+    },
+    {
+      "en": "Men were sent out to verify whether it was true.",
+      "cn": "几个人被派去查清事实."
+    },
+    {
+      "en": "Pay by Wire Transfer and verify your company bank information.",
+      "cn": "用银行电汇方式支付,并确认贵公司的银行资料."
+    },
+    {
+      "en": "People began verify their scientific hypotheses by stringent tests.",
+      "cn": "人们开始用精确的试验证实自己的科学假说."
+    },
+    {
+      "en": "Select 3 machines and verify records for parameter setup and monitoring.",
+      "cn": "选择3台和验证的参数设置和监测记录."
+    },
+    {
+      "en": "The bank's responsibility is to verify that the explorer's documents conform to the letter of credit.",
+      "cn": "银行的责任在于查核出口商的单据必须与信用证的一致."
+    },
+    {
+      "en": "They now take extra steps to verify the creditworthiness of customers.",
+      "cn": "他们现在又采取额外措施来核实客户的信用度。"
+    },
+    {
+      "en": "To verify Restaurant Cashier's receipts against machine tape readings.",
+      "cn": "核对餐厅收银发票和收银机上显示的金额是否一致."
+    },
+    {
+      "en": "Verification was cancelled. Rerun Data collection and then click Verify again.",
+      "cn": "验证已被取消.请重新运行数据收集,然后再次单击“验证”."
+    },
+    {
+      "en": "You can easily verify these conclusions if you happen to have a piece of polaroid.",
+      "cn": "如果你手头有一片偏振片,就容易证实上面这些结论."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "verifiable",
+          "tran_cn": " 可证实的；能作证的；可检验的"
+        },
+        {
+          "word": "verified",
+          "tran_cn": " 已查清的，已证实的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "verification",
+          "tran_cn": " 确认，查证；核实"
+        },
+        {
+          "word": "verifier",
+          "tran_cn": " 检验者；核实者；校对机"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "authenticate",
+            "certify",
+            "check",
+            "confirm",
+            "corroborate",
+            "determine",
+            "document",
+            "experiment",
+            "prove",
+            "substantiate",
+            "support",
+            "test",
+            "try",
+            "validate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "authenticate",
+            "certify",
+            "confirm",
+            "corroborate",
+            "document",
+            "prove",
+            "substantiate",
+            "support",
+            "testify",
+            "validate"
+          ],
+          "tran_cn": "证明,证实"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "examine and verify",
+      "tran_cn": "审核；审计"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "核实；查证",
+      "tran_en": "to discover whether something is correct or true"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "核实，证明，判定",
+      "tran_en": "to discover whether something is correct or true"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "verifies"
+    ],
+    "past": [
+      "verified"
+    ],
+    "done": [
+      "verified"
+    ],
+    "ing": [
+      "verifying"
+    ],
+    "noun": [
+      "verification"
+    ],
+    "adj": [
+      "verifiable"
+    ]
+  }
+}

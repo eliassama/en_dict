@@ -1,0 +1,234 @@
+{
+  "word": "computation",
+  "ipa": {
+    "us": "ˌkɒmpjuˈteɪʃn",
+    "uk": "ˌkɑmpjuˈteɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "A single base might in principle suffice for computation.",
+      "cn": "在原理上用一条基线就能满足计算的要求."
+    },
+    {
+      "en": "Addition and division are forms of computation.",
+      "cn": "加法和除法都是计算方法."
+    },
+    {
+      "en": "Division is a form of computation.",
+      "cn": "除法是一种运算方法."
+    },
+    {
+      "en": "Exact computation of the burning surface area is lengthy.",
+      "cn": "燃烧面积的精确计算是非常繁难的."
+    },
+    {
+      "en": "His extortions from the industrious poor have been beyond computation.",
+      "cn": "他对劳苦人民的横征暴敛无法计算."
+    },
+    {
+      "en": "It is not entirely suited to automatic computation.",
+      "cn": "它不完全适合自动化计算."
+    },
+    {
+      "en": "It will cost 5000 at the lowest computation.",
+      "cn": "估计最少也值5000英镑."
+    },
+    {
+      "en": "Logarithms were invented to shorten the work of extended numerical computation.",
+      "cn": "人们发明对数来缩短运算冗长的数值计算工作."
+    },
+    {
+      "en": "The computation of approximate solutions was an extremely laborious task.",
+      "cn": "近似解的计算是极其繁重的工作."
+    },
+    {
+      "en": "the computation of the monthly statistics",
+      "cn": "每月统计数字的计算"
+    },
+    {
+      "en": "The discrepancies resulted from different methods of computation.",
+      "cn": "这些差异是由不同的计算方法造成的。"
+    },
+    {
+      "en": "The finite - difference computation must be convergent and stable.",
+      "cn": "有限差分计算必须收敛和稳定."
+    },
+    {
+      "en": "The manner of this computation is consigned to Appendix 1 . 3.",
+      "cn": "这种计算方法放在附录1.3中."
+    },
+    {
+      "en": "The preliminary computation is the same as that for ordinary levelling.",
+      "cn": "概算与普遍水准测量相同."
+    },
+    {
+      "en": "The wide application of electronic computers in science and technology will free man from the labour of complicated measurement and computation.",
+      "cn": "电子计算机在科学技术方面广泛的应用将使人们从复杂的计量和计算中摆脱出来."
+    },
+    {
+      "en": "Their output of data does not slow computation.",
+      "cn": "它的数据输出不会延缓计算."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "computable",
+          "tran_cn": " 可计算的"
+        },
+        {
+          "word": "computational",
+          "tran_cn": " 计算的"
+        },
+        {
+          "word": "computerised",
+          "tran_cn": " 电脑化的；计算化的"
+        },
+        {
+          "word": "computerized",
+          "tran_cn": " 电脑的；电脑化的；用电脑处理的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "compute",
+          "tran_cn": " 计算；估计；推断"
+        },
+        {
+          "word": "computer",
+          "tran_cn": " 计算机；电脑；电子计算机"
+        },
+        {
+          "word": "computerization",
+          "tran_cn": " 电脑化；电子计算机化工作"
+        },
+        {
+          "word": "computing",
+          "tran_cn": " 计算；处理；从事电脑工作"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "computerised",
+          "tran_cn": " 使电脑化（computerise的过去分词形式）；用电脑处理"
+        },
+        {
+          "word": "computerized",
+          "tran_cn": " 用电子计算机控制（computerize的过去分词）"
+        },
+        {
+          "word": "computing",
+          "tran_cn": " 计算（compute的现在分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "compute",
+          "tran_cn": " 计算；估算；推断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "compute",
+          "tran_cn": " 计算；估算；用计算机计算"
+        },
+        {
+          "word": "computerise",
+          "tran_cn": " （英）用计算机处理；给…装备计算机（等于computerize）"
+        },
+        {
+          "word": "computerize",
+          "tran_cn": " 使电脑化；使计算机化；用电脑处理"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "estimation",
+            "calculation",
+            "appraisal",
+            "valuation",
+            "count"
+          ],
+          "tran_cn": "估计，[数]计算"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addition",
+            "appraisal",
+            "enumeration",
+            "mathematics",
+            "measurement"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "analog computation",
+      "tran_cn": "模拟计算"
+    },
+    {
+      "phrase": "area computation",
+      "tran_cn": "面积计算"
+    },
+    {
+      "phrase": "check computation",
+      "tran_cn": "核算；校验计算"
+    },
+    {
+      "phrase": "computation module",
+      "tran_cn": "计算模型；计算组件"
+    },
+    {
+      "phrase": "manual computation",
+      "tran_cn": "笔算"
+    },
+    {
+      "phrase": "parallel computation",
+      "tran_cn": "平行计算；并行运算"
+    },
+    {
+      "phrase": "performance computation",
+      "tran_cn": "性能（特性）计算"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "计算",
+      "tran_en": "the process of calculating or the result of calculating"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "computations"
+    ]
+  }
+}

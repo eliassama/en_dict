@@ -1,0 +1,204 @@
+{
+  "word": "convertible",
+  "ipa": {
+    "us": "kənˈvɜ:təbl",
+    "uk": "kənˈvɜrtəbl"
+  },
+  "sentences": [
+    {
+      "en": "a convertible sofa",
+      "cn": "两用沙发"
+    },
+    {
+      "en": "Convertible top opens and closes very slowly. Hydraulic unit makes noises.",
+      "cn": "顶蓬开关很慢, 液压单元有噪音."
+    },
+    {
+      "en": "Falsehood is false, and truth is true, although they are convertible.",
+      "cn": "虚假是假的, 真相是真的, 尽管能改变."
+    },
+    {
+      "en": "Her own car is a convertible Golf.",
+      "cn": "她自己有一辆敞篷高尔夫。"
+    },
+    {
+      "en": "Only the United States dollar was convertible into gold, at the price of $ 35 an ounce.",
+      "cn": "只有美元可以按35美元换一盎司黄金的价格来兑换成黄金."
+    },
+    {
+      "en": "POD is a flexible structure made of convertible elements.",
+      "cn": "酶是一种灵活的结构转换的内容."
+    },
+    {
+      "en": "Potential energy is convertible to kinetic energy.",
+      "cn": "势能可转化为动能."
+    },
+    {
+      "en": "Professionals always focus on the way of pricing of convertible bonds.",
+      "cn": "可转债的定价方法一直是国内外业内人士关注的重点."
+    },
+    {
+      "en": "Stock is convertible into cash or other negotiable securities.",
+      "cn": "股票可换成现金或其他有价证券."
+    },
+    {
+      "en": "That new white convertible is totally awesome.",
+      "cn": "那辆新的白色折篷汽车简直棒极了."
+    },
+    {
+      "en": "The convertible sofa means that the apartment can sleep four.",
+      "cn": "有了这张折叠沙发,公寓里可以睡下4个人."
+    },
+    {
+      "en": "The transferable preference shares refer to those convertible into ordinary shares.",
+      "cn": "可调换优先股指可换成普通股的优先股."
+    },
+    {
+      "en": "They don't have access to a convertible currency.",
+      "cn": "他们无法得到可兑换货币."
+    },
+    {
+      "en": "What really killed the convertible was air conditioning and stereo.",
+      "cn": "真正把敞篷汽车赶上绝路的是空气调节器和立体声收音机."
+    },
+    {
+      "en": "Yano's whole money supply is convertible into gold.",
+      "cn": "雅努国的所有纸币都是可以换成黄金的."
+    },
+    {
+      "en": "You can hire a small convertible for $ 100 a day.",
+      "cn": "你可以以100美元一天的价格租一辆敞篷车."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "converted",
+          "tran_cn": " 修改的；改变信仰的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "conversion",
+          "tran_cn": " 转换；变换；[金融] 兑换；改变信仰"
+        },
+        {
+          "word": "convert",
+          "tran_cn": " 皈依者；改变宗教信仰者"
+        },
+        {
+          "word": "converter",
+          "tran_cn": " [电] 变流器，整流器；转化器"
+        },
+        {
+          "word": "convertibility",
+          "tran_cn": " 可变换，可兑换；可改变性"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "converted",
+          "tran_cn": " 转变；改变信仰（convert的过去式和过去分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "convert",
+          "tran_cn": " 转变，变换；皈依；改变信仰"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "convert",
+          "tran_cn": " 使转变；转换…；使…改变信仰"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "adaptable",
+            "adjustable",
+            "alterable",
+            "changeable",
+            "interchangeable",
+            "modifiable",
+            "permutable",
+            "reversible",
+            "transformable",
+            "transmutable"
+          ],
+          "tran_cn": "可转变的,可改装的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "exchangeable",
+            "sofa"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "convertible bond",
+      "tran_cn": "可换公司债；可转换证券"
+    },
+    {
+      "phrase": "convertible currency",
+      "tran_cn": "自由兑换货币；可兑换货币；可兑换通货"
+    },
+    {
+      "phrase": "convertible preferred stock",
+      "tran_cn": "可转换优先股"
+    },
+    {
+      "phrase": "convertible securities",
+      "tran_cn": "可转换证券；可兑换证券"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可转换的，可兑换的",
+      "tran_en": "an object that is convertible can be folded or arranged in a different way so that it can be used as something else"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "敞篷车",
+      "tran_en": "a car with a soft roof that you can fold back or remove"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "convertibles"
+    ],
+    "noun": [
+      "convertibility"
+    ]
+  }
+}

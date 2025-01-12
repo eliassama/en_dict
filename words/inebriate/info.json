@@ -1,0 +1,132 @@
+{
+  "word": "inebriate",
+  "ipa": {
+    "us": "ɪn'i:brɪeɪt",
+    "uk": " ɪˈnibrɪət"
+  },
+  "sentences": [
+    {
+      "en": "Drinking tea can inebriate people in summer.",
+      "cn": "夏季饮茶不当也会让人有醉的感觉。"
+    },
+    {
+      "en": "Hypocrite and toady and inebriate!",
+      "cn": "伪君子谄媚者和醉鬼。"
+    },
+    {
+      "en": "Some tiny inebriate, he like a baby last smiled and rattled on about the past, also stand up by waving his hands.",
+      "cn": "有些微醉的时候，他像个孩子一样地笑着，喋喋不休地说起过去，还站起来挥舞双手。"
+    },
+    {
+      "en": "That evening, The boy drank much wine but he didn't inebriate, therefore didn't become careless.",
+      "cn": "那天晚上，男孩饮了许多酒但他没有醉，并没有因此而变得糊涂。"
+    },
+    {
+      "en": "To rise thither with my inebriate Soul!",
+      "cn": "带着我的酒醉的灵魂向那里飞腾！"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inebriated",
+          "tran_cn": " 酒醉的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inebriation",
+          "tran_cn": " 酒醉；陶醉"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "inebriated",
+          "tran_cn": " 使醉（inebriate的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "groggy",
+            "drunken"
+          ],
+          "tran_cn": "酒醉的；醉醺醺的；陶醉的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "drunkard",
+            "lusher"
+          ],
+          "tran_cn": "酒鬼；醉汉"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "charm",
+            "suscitate"
+          ],
+          "tran_cn": "灌醉；使陶醉；使兴奋"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "酒醉的",
+      "tran_en": "drunk, esp habitually "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "酒鬼，酗酒者",
+      "tran_en": "a person who is drunk, esp habitually "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "灌醉",
+      "tran_en": "to make drunk; intoxicate "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使酒醉，灌醉，使兴奋"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inebriates"
+    ],
+    "past": [
+      "inebriated"
+    ],
+    "done": [
+      "inebriated"
+    ],
+    "ing": [
+      "inebriating"
+    ]
+  }
+}

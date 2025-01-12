@@ -1,0 +1,117 @@
+{
+  "word": "conjectural",
+  "ipa": {
+    "us": "kən'dʒektʃərəl",
+    "uk": "kənˈdʒɛktʃərəl"
+  },
+  "sentences": [
+    {
+      "en": "As regarded its origin there were various explanations, all of which must necessarily have been conjectural.",
+      "cn": "至于其来源,则有着种种解释, 当然都是些臆测."
+    },
+    {
+      "en": "Theories about the extinction of dinosaurs are still highly conjectural.",
+      "cn": "关于恐龙灭绝的理论仍然是带有很强的猜测性的."
+    },
+    {
+      "en": "There is something undeniably conjectural about such claims.",
+      "cn": "此类声明中绝对有推测的成分。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "conjecture",
+          "tran_cn": " 推测；猜想"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "conjecture",
+          "tran_cn": " 推测；揣摩"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "conjecture",
+          "tran_cn": " 推测"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "assumed",
+            "believe",
+            "doubtful",
+            "guessed",
+            "hard",
+            "imagined",
+            "problematic",
+            "putative",
+            "questionable",
+            "reputed",
+            "supposed",
+            "surmised",
+            "suspected",
+            "to",
+            "uncertain",
+            "undetermined"
+          ],
+          "tran_cn": "想像的,怀疑的,无法肯定的"
+        },
+        {
+          "words": [
+            "academic",
+            "hypothetical",
+            "presumptive",
+            "speculative",
+            "speculatory",
+            "suppositional",
+            "supposititious",
+            "suppositive",
+            "theoretical"
+          ],
+          "tran_cn": "推测的,猜想的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "circumstantial",
+            "pure"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "推测的，好推测的",
+      "tran_en": "A statement that is conjectural is based on information that is not certain or complete"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "conjecture"
+    ]
+  }
+}

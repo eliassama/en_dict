@@ -1,0 +1,51 @@
+{
+  "word": "diminuendo",
+  "ipa": {
+    "us": "dɪˌmɪnjuˈendəʊ",
+    "uk": "dɪˌmɪnjuˈendoʊ"
+  },
+  "sentences": [
+    {
+      "en": "The song of the oyster, though not silenced , was diminuendo amore.",
+      "cn": "牡蛎之歌, 虽然还未沉寂,已渐唱渐弱."
+    },
+    {
+      "en": "The song of the oyster, though not silenced , was diminuendo con amore.",
+      "cn": "牡蛎之歌虽未沉寂, 但已渐唱渐弱."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "decrescendo"
+          ],
+          "tran_cn": "渐弱的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "decrescendo"
+          ],
+          "tran_cn": "渐弱；渐弱演奏"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "<音>渐弱",
+      "tran_en": "a part in a piece of music where it becomes gradually quieter"
+    }
+  ],
+  "exchange": {}
+}

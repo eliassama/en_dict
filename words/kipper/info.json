@@ -1,0 +1,75 @@
+{
+  "word": "kipper",
+  "ipa": {
+    "us": "ˈkɪpə(r)",
+    "uk": "ˈkɪpɚ"
+  },
+  "sentences": [
+    {
+      "en": "I like to eat kipper.",
+      "cn": "我喜欢吃熏鱼."
+    },
+    {
+      "en": "Sonar, Kipper and Bottlenose were waiting for Seaweed.",
+      "cn": "声纳 、 吧嗒、槌等候海藻."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "apple",
+            "customer",
+            "fellow",
+            "egg",
+            "guy"
+          ],
+          "tran_cn": "腌鱼；家伙"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "salt"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "corn",
+            "preserve"
+          ],
+          "tran_cn": "腌"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "腌鱼"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 腌制， 熏制 by salting and smoking)",
+      "tran_en": "to cure (a fish, esp a herring) by salting and smoking "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "kippers"
+    ]
+  }
+}

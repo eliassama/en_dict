@@ -1,0 +1,221 @@
+{
+  "word": "cart",
+  "ipa": {
+    "us": "kɑːt",
+    "uk": "kɑːrt"
+  },
+  "sentences": [
+    {
+      "en": "...a country where horse-drawn carts far outnumber cars.",
+      "cn": "…一个马拉车远多于汽车的国家。"
+    },
+    {
+      "en": "A cart full of milk - bottles rattled past.",
+      "cn": "一辆载满牛奶瓶的车子嘎嘎作响地驶过."
+    },
+    {
+      "en": "a horse and cart",
+      "cn": "一套马车"
+    },
+    {
+      "en": "A mantis cannot stop the wheel of a cart.",
+      "cn": "螳臂岂能挡车."
+    },
+    {
+      "en": "Cars are prohibited, so transportation is by electric cart or by horse and buggy.",
+      "cn": "由于汽车被禁止使用，交通依赖于电车或轻便马车。"
+    },
+    {
+      "en": "Don't put any more on the cart, or it'll break.",
+      "cn": "别再装了,大车快散架了."
+    },
+    {
+      "en": "Help me to load the sacks onto the cart.",
+      "cn": "帮我把货装到这辆车上."
+    },
+    {
+      "en": "How many round trips can your cart make in a day?",
+      "cn": "你这辆大车一天能跑几个来回?"
+    },
+    {
+      "en": "I harness the horse to the cart.",
+      "cn": "我把马套在车上."
+    },
+    {
+      "en": "Last night we hitched the horse to the cart and moved here.",
+      "cn": "昨晚我们套上马车，拉着东西搬到了这里。"
+    },
+    {
+      "en": "Let's go over and help them pull the cart.",
+      "cn": "咱们过去帮他们拉车."
+    },
+    {
+      "en": "That horse has never been harnessed to a cart.",
+      "cn": "那匹马没驾过车."
+    },
+    {
+      "en": "The cart creaked along.",
+      "cn": "送货车吱吱嘎嘎地前进着."
+    },
+    {
+      "en": "The cart groaned under the weight of the piano.",
+      "cn": "大车在钢琴的重压下嘎吱作响."
+    },
+    {
+      "en": "The cart is piled high with straw.",
+      "cn": "大车上的稻草装得冒尖儿了。"
+    },
+    {
+      "en": "The cart was piled high with fruit and vegetables.",
+      "cn": "大车上高高地堆满了水果和蔬菜."
+    },
+    {
+      "en": "The farmer piles a cart with straw.",
+      "cn": "农民在火车上装满稻草。"
+    },
+    {
+      "en": "The fruIt'seller trundled his cart along the street.",
+      "cn": "卖水果的小贩推着他的车子在街上艰难地走着."
+    },
+    {
+      "en": "We carted all the furniture upstairs.",
+      "cn": "我们把所有的家具都搬上楼去。"
+    },
+    {
+      "en": "We use this to cart the goods.",
+      "cn": "我们用这个来拉运货物."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "carrier",
+          "tran_cn": " [化学] 载体；运送者；带菌者；货架"
+        },
+        {
+          "word": "cartage",
+          "tran_cn": " 货车运输；运费"
+        },
+        {
+          "word": "carter",
+          "tran_cn": " 运货马车夫，驾驶货车的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "barrow",
+            "buggy",
+            "carriage",
+            "curricle",
+            "dogcart",
+            "dray",
+            "dumper",
+            "gig",
+            "handbarrow",
+            "handcart",
+            "pushcart",
+            "tilbury",
+            "tipper",
+            "truck",
+            "wagon",
+            "wheelbarrow"
+          ],
+          "tran_cn": "马车"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ferry"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "bear",
+            "carry",
+            "convey",
+            "haul",
+            "lug",
+            "tote",
+            "transport",
+            "truck"
+          ],
+          "tran_cn": "装运"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "golf cart",
+      "tran_cn": "高尔夫球车；球具手推车"
+    },
+    {
+      "phrase": "in the cart",
+      "tran_cn": "(英 非正式)在困境中"
+    },
+    {
+      "phrase": "put the cart before the horse",
+      "tran_cn": "本末倒置"
+    },
+    {
+      "phrase": "shopping cart",
+      "tran_cn": "购物手推车"
+    },
+    {
+      "phrase": "upset the apple cart",
+      "tran_cn": "美梦破灭"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "马车，手推车，小型机动车",
+      "tran_en": "a vehicle with no roof that is pulled by a horse and used for carrying heavy things"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "（常指费力地）运送，拉，抓走",
+      "tran_en": "to take something somewhere in a cart, truck etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 用车装运",
+      "tran_en": "to take something somewhere in a cart, truck etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "carts"
+    ],
+    "third": [
+      "carts"
+    ],
+    "past": [
+      "carted"
+    ],
+    "done": [
+      "carted"
+    ],
+    "ing": [
+      "carting"
+    ]
+  }
+}

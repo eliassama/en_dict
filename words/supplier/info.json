@@ -1,0 +1,170 @@
+{
+  "word": "supplier",
+  "ipa": {
+    "us": "səˈplaɪə(r)",
+    "uk": "səˈplaɪər"
+  },
+  "sentences": [
+    {
+      "en": "...one of the country's biggest food suppliers.",
+      "cn": "…该国最大的食品供应商之一。"
+    },
+    {
+      "en": "a leading supplier of computers in the UK",
+      "cn": "英国一家主要电脑供应商"
+    },
+    {
+      "en": "Alcatel Shanghai Bell also grew rapidly as the equipment supplier.",
+      "cn": "作为通信设备供应商,上海贝尔阿尔卡特也得到了长足的发展."
+    },
+    {
+      "en": "Application for inclusion as an OSHC supplier is free of charge.",
+      "cn": "申请成为本局供应商费用全免."
+    },
+    {
+      "en": "By changing its supplier, the company saved thousands of pounds in import duty.",
+      "cn": "更换供货商之后, 这个公司省下了数千英镑的进口税."
+    },
+    {
+      "en": "Frankie's old supplier is a used car dealer?",
+      "cn": "弗兰克的供货商是个二手车经销商?"
+    },
+    {
+      "en": "If the problem is in the goods itself, you may make a claim on the supplier.",
+      "cn": "如果问题在货物本身, 你可以向供货方提出索赔."
+    },
+    {
+      "en": "In communications, the use of domestic terminal , e . g . , viewdata, to order goodsfrom a supplier.",
+      "cn": "在通信技术中, 利用 家用终端, 如可视数据检索系统等, 向供应者订货."
+    },
+    {
+      "en": "Purchasing order issue and release, confirm the delivery schedule with supplier.",
+      "cn": "采购订单的下达与跟踪, 与供应商确认交期."
+    },
+    {
+      "en": "Response for major supplier 039 ; s quality performance review and record control.",
+      "cn": "负责主要供应商质量考评和记录控制."
+    },
+    {
+      "en": "Start with the destination SUPPLIER.",
+      "cn": "从数据的目的地SUPPLIER开始."
+    },
+    {
+      "en": "Supplier's liability shall be fault if the usage exceeds usual degree.",
+      "cn": "但对产品的超常使用供应商不付任何负责."
+    },
+    {
+      "en": "The rest of existing spa customers of SUPPLIER in Europe can deal with as usual.",
+      "cn": "其它SUPPLIER现有的欧洲大缸客户可如常操作."
+    },
+    {
+      "en": "They struck a deal with their paper supplier, getting two years of newsprint on credit.",
+      "cn": "他们同纸张供应商达成协议，可赊购两年的新闻用纸。"
+    },
+    {
+      "en": "We are its exclusive military supplier.",
+      "cn": "我们是它的独一无二的武器供应者."
+    },
+    {
+      "en": "We will need to call on our supplier to get more inventory.",
+      "cn": "我们必须请供应商送来更多存货."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "supplying",
+          "tran_cn": " 供应的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "supply",
+          "tran_cn": " 供给，补给；供应品"
+        },
+        {
+          "word": "supplying",
+          "tran_cn": " 供应；补给"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "supplying",
+          "tran_cn": " 供应；补充；代理（supply的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "supply",
+          "tran_cn": " 供给；替代"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "supply",
+          "tran_cn": " 供给，提供；补充"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "provider"
+          ],
+          "tran_cn": "供应厂商，[贸易]供应国；供应者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "service"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "power supplier",
+      "tran_cn": "电源供应器"
+    },
+    {
+      "phrase": "supplier quality engineer",
+      "tran_cn": "供应商质量工程师"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "供应商，供应国，供应者，供给者，补充者",
+      "tran_en": "a company or person that provides a particular product"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "suppliers"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "word": "levitate",
+  "ipa": {
+    "us": "ˈlevɪteɪt",
+    "uk": "ˈlɛvɪˌtet"
+  },
+  "sentences": [
+    {
+      "en": "He has claimed he can levitate.",
+      "cn": "他声称自己可以悬浮在空中。"
+    },
+    {
+      "en": "I often dream that I can levitate.",
+      "cn": "我经常梦想我能够飞起来在空中飘浮."
+    },
+    {
+      "en": "Levitate now costs 3 % of base mana.",
+      "cn": "漂浮术将消耗3%的基础法力."
+    },
+    {
+      "en": "The guru claimed that he could levitate.",
+      "cn": "这位灵性导师声称他能够浮在空中."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "levitation",
+          "tran_cn": " 升空；飘浮"
+        },
+        {
+          "word": "levity",
+          "tran_cn": " 多变；轻浮；轻率；不稳定"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "(使)轻轻浮起, (使)飘浮空中",
+      "tran_en": "to rise and float in the air by magic, or to make someone or something do this"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）轻轻浮起，（使）飘浮空中"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "levitates"
+    ],
+    "past": [
+      "levitated"
+    ],
+    "done": [
+      "levitated"
+    ],
+    "ing": [
+      "levitating"
+    ],
+    "noun": [
+      "levitation"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "word": "cadge",
+  "ipa": {
+    "us": "kædʒ",
+    "uk": "kædʒ"
+  },
+  "sentences": [
+    {
+      "en": "Can I cadge a cigarette?",
+      "cn": "能不能给我支烟？"
+    },
+    {
+      "en": "Could I cadge a lift with you?",
+      "cn": "我能顺便坐你的汽车 吗 ?"
+    },
+    {
+      "en": "He could cadge a ride from somebody.",
+      "cn": "他可以请求别人搭他一程。"
+    },
+    {
+      "en": "Homeless people forced to cadge in subway stations.",
+      "cn": "无家可归的人们被迫在地铁站里乞讨。"
+    },
+    {
+      "en": "Just cupboard love ; they were always cadge from her money, food furniture, anything and everything.",
+      "cn": "他们是有所图的. 他们老是来向他要东西,要钱, 要吃的东西,要家具, 什么东西都要."
+    },
+    {
+      "en": "May I cadge a cigarette from you?",
+      "cn": "我可以向你要支香烟 吗 ?"
+    },
+    {
+      "en": "Poor old uncle Tompson used to cadge some money for cigarettes from me.",
+      "cn": "可怜的汤普森大叔从前常常从我这里讨些钱买香烟抽."
+    },
+    {
+      "en": "The police arrest 8 person who forge and cadge the fake advice note of matriculate.",
+      "cn": "警察在本月初逮捕了8名伪造和贩卖假录取通知书的人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cadger",
+          "tran_cn": " 小型注油器；行骗者；乞讨者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "go begging",
+            "do business in"
+          ],
+          "tran_cn": "乞讨；骗得白食；行乞；贩卖"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "beg",
+            "do business in"
+          ],
+          "tran_cn": "乞讨；行乞；贩卖"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "on the cadge",
+      "tran_cn": "(非正式)寻找免费获得某物的机会"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "行乞, 乞讨, 贩卖",
+      "tran_en": "If someone cadges food, money, or help from you, they ask you for it and succeed in getting it"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "<英非正>乞讨，乞得，索取"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "cadges"
+    ],
+    "past": [
+      "cadged"
+    ],
+    "done": [
+      "cadged"
+    ],
+    "ing": [
+      "cadging"
+    ],
+    "noun": [
+      "cadger"
+    ]
+  }
+}

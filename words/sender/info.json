@@ -1,0 +1,146 @@
+{
+  "word": "sender",
+  "ipa": {
+    "us": "ˈsendə(r)",
+    "uk": "'sendər"
+  },
+  "sentences": [
+    {
+      "en": "a package marked ‘ return to sender ’",
+      "cn": "标有“退回寄件人”字样的包裹"
+    },
+    {
+      "en": "A typical PDA can function as a mobile phone, fax sender, and personal organizer.",
+      "cn": "典型的掌上电脑具有移动电话、传真发送机和个人文件夹的功能。"
+    },
+    {
+      "en": "If undelivered, please return to sender.",
+      "cn": "若无法投递，请退还寄信人。"
+    },
+    {
+      "en": "If undelivered, return to sender, eg on a letter.",
+      "cn": "若无法投递, 请退还寄件人(如信件上的字样)."
+    },
+    {
+      "en": "In case of non - delivery, return to ( the ) sender.",
+      "cn": "( 邮件用语 ) 无法投递时, 退回原处."
+    },
+    {
+      "en": "Non repudiation consists of the sender's non repudiation and receipt's non repudiation.",
+      "cn": "不可抵赖分为发送方的不可抵赖和接收方的不可抵赖."
+    },
+    {
+      "en": "On the customs declaration, the sender labeled the freight as agricultural machinery.",
+      "cn": "在报关单上，寄货人将货物列为农用机械。"
+    },
+    {
+      "en": "Photographs For Exhibition Only . To be returned to sender, No Commercial Value.",
+      "cn": "国际摄影展览之照片,展毕退还原作者, 无商业价值."
+    },
+    {
+      "en": "The arrow at the sender and ends at the receiver.",
+      "cn": "箭头始于发送者,终于接收者."
+    },
+    {
+      "en": "The message appears to have been altered after the sender signed it.",
+      "cn": "此消息在发送者签名之后被修改了."
+    },
+    {
+      "en": "The parcel was returned to the sender because the directions were incorrect.",
+      "cn": "包裹因姓名地址有误而退给了寄件人."
+    },
+    {
+      "en": "The sender of the best letter every week will win a cheque for £20.",
+      "cn": "每周寄来的作品中，最优秀者将赢得20英镑的支票。"
+    },
+    {
+      "en": "The sender of the message requested a receipt to be returned.",
+      "cn": "消息的发件人要求您返回收据."
+    },
+    {
+      "en": "The sender uses a drum that can produce a high or low tone.",
+      "cn": "传递者用一种可以发出或高或低声调的鼓."
+    },
+    {
+      "en": "Typical application: Antenna Air Pump , Popcom Maker , Ball Sender.",
+      "cn": "典型应用: 柔巾机、天线, 气泵,爆谷机, 发球器."
+    },
+    {
+      "en": "Undeliverable, returned to sender.",
+      "cn": "无法投递, 退回原处."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "send",
+          "tran_cn": " 上升运动"
+        },
+        {
+          "word": "sendee",
+          "tran_cn": " 收件人，接收人"
+        },
+        {
+          "word": "sending",
+          "tran_cn": " 发送；[通信] 发射；信件"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "sending",
+          "tran_cn": " 发送；派遣（send的ing形式）；打发"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "send",
+          "tran_cn": " 派人；寄信"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "send",
+          "tran_cn": " 发送，寄；派遣；使进入；发射"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "transmitter",
+            "communicator"
+          ],
+          "tran_cn": "[邮]寄件人；[贸易][通信]发送人；[电讯]发报机"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "寄件人，[信]发报机，发射机，发送机，送话器，发送人，（天线）引向器",
+      "tran_en": "the person who sent a particular letter, package, message etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "senders"
+    ]
+  }
+}

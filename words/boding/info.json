@@ -1,0 +1,104 @@
+{
+  "word": "boding",
+  "ipa": {
+    "us": "'bəʊdɪŋ",
+    "uk": "ˈbodɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "The lady shook upon her companion's knees as she heard that boding sound.",
+      "cn": "女士听到那不详的声音,开始在她同伴的膝上颤抖."
+    },
+    {
+      "en": "Whispers passed along , and a boding uneasiness took possession of every countenance.",
+      "cn": "到处窃窃私语,人人脸上露出不祥的焦虑."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bode",
+          "tran_cn": " 停留；继续；遭到（bide的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "bode",
+          "tran_cn": " 预示"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "bode",
+          "tran_cn": " 预示；为…的兆头"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "threatening",
+            "sinister"
+          ],
+          "tran_cn": "凶兆的，预兆的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "threat",
+            "anticipation"
+          ],
+          "tran_cn": "预感；凶兆；前兆"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "significant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bode well",
+      "tran_cn": "主吉"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "凶兆的，先兆的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "凶兆，前兆，预感"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "预示，预告，预言( bode的现在分词 )，等待，停留( bide的过去分词 )，居住，（过去式用bided）等待"
+    }
+  ],
+  "exchange": {}
+}

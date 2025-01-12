@@ -1,0 +1,296 @@
+{
+  "word": "memory",
+  "ipa": {
+    "us": "ˈmeməri",
+    "uk": "ˈmeməri"
+  },
+  "sentences": [
+    {
+      "en": "\"His memory must be completely back, then?\" — \"Just about.\"",
+      "cn": "“这么说，他的记忆一定是完全恢复了？”——“差不多。”"
+    },
+    {
+      "en": "Bulman was cursed with a poor memory for names.",
+      "cn": "布尔曼总是记不住人名。"
+    },
+    {
+      "en": "each child was required to recite a verse from memory.",
+      "cn": "每个小孩要背诵一节诗。"
+    },
+    {
+      "en": "He had written the note from memory, word perfect, and spelled atrociously.",
+      "cn": "他凭着记忆作了记录，用词恰当但拼写错误百出。"
+    },
+    {
+      "en": "He has lots of happy memories of his stay in Japan.",
+      "cn": "他对在日本逗留的那段时光有许多美好的回忆。"
+    },
+    {
+      "en": "I shut out the memory which was too painful to dwell on.",
+      "cn": "我不再去回忆那些痛苦不堪的往事了。"
+    },
+    {
+      "en": "I'll repeat that so you can commit it to memory.",
+      "cn": "我会重复一下，好让你们记住。"
+    },
+    {
+      "en": "Intoxication interferes with memory and thinking, speech and coordination.",
+      "cn": "醉酒影响记忆、思考、语言与协调性。"
+    },
+    {
+      "en": "My memory isn't as good as it once was.",
+      "cn": "我的记性赶不上从前了。"
+    },
+    {
+      "en": "She has a terrible memory for names.",
+      "cn": "她记名字很不行。"
+    },
+    {
+      "en": "The data is stored in the computer’s memory.",
+      "cn": "数据储存在电脑的存储器里"
+    },
+    {
+      "en": "The experience was something he had tried to expunge from his memory.",
+      "cn": "他曾努力将那段经历从记忆中抹去。"
+    },
+    {
+      "en": "The fragments of memory she dredges up do not fit together.",
+      "cn": "她想起的那些支离破碎的片段连不上。"
+    },
+    {
+      "en": "The intervening years had dimmed his memory.",
+      "cn": "经过了其间那么多年他的记忆已经不大清楚了。"
+    },
+    {
+      "en": "The memory of it all was locked deep in my subconscious.",
+      "cn": "关于它的一切记忆都深植于我的潜意识里。"
+    },
+    {
+      "en": "The president will cherish the memory of this visit to Ohio.",
+      "cn": "总统将铭记这次俄亥俄之行。"
+    },
+    {
+      "en": "The skyline of domes and minarets was imprinted on my memory.",
+      "cn": "天空中穹顶与尖塔的轮廓深深刻在了我的记忆中。"
+    },
+    {
+      "en": "Then a memory stirs in you and you start feeling anxious.",
+      "cn": "接着一段回忆涌上心头，你开始感到焦虑不安。"
+    },
+    {
+      "en": "This book is dedicated to the memory of my mother.",
+      "cn": "谨以此书献给我已故的母亲。"
+    },
+    {
+      "en": "When I saw the pictures, the memories came flooding back",
+      "cn": "我见到那些照片时，记忆如潮水般涌来。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "memorial",
+          "tran_cn": " 记忆的；纪念的，追悼的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "memorial",
+          "tran_cn": " 纪念碑，纪念馆；纪念仪式；纪念物"
+        },
+        {
+          "word": "memoriser",
+          "tran_cn": " 存储器"
+        },
+        {
+          "word": "memorizer",
+          "tran_cn": " [计] 存储器"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "memorise",
+          "tran_cn": " （英）记忆；存储（等于memorize）"
+        },
+        {
+          "word": "memorize",
+          "tran_cn": " 记住，背熟；记忆"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "image",
+            "picture",
+            "recollection",
+            "remembrance",
+            "reminder",
+            "reminiscence",
+            "retrospect",
+            "thought",
+            "vision"
+          ],
+          "tran_cn": "回顾,回忆"
+        },
+        {
+          "words": [
+            "fame",
+            "honour",
+            "renown",
+            "reputation",
+            "repute"
+          ],
+          "tran_cn": "死后的名声"
+        },
+        {
+          "words": [
+            "commemoration",
+            "keepsake",
+            "memento",
+            "memorial",
+            "souvenir",
+            "token"
+          ],
+          "tran_cn": "纪念,纪念品"
+        },
+        {
+          "words": [
+            "memory",
+            "mind",
+            "photographic",
+            "recall",
+            "recollection",
+            "remembrance",
+            "retention",
+            "retrospection",
+            "total"
+          ],
+          "tran_cn": "记忆,记忆力"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "knowledge",
+            "recognition"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cherish the memory of",
+      "tran_cn": "怀念（某人）"
+    },
+    {
+      "phrase": "computer memory",
+      "tran_cn": "计算机内存；计算机存储器"
+    },
+    {
+      "phrase": "flash memory",
+      "tran_cn": "闪速存储器"
+    },
+    {
+      "phrase": "from memory",
+      "tran_cn": "凭记忆"
+    },
+    {
+      "phrase": "in memory of",
+      "tran_cn": "纪念（尤指死者）"
+    },
+    {
+      "phrase": "main memory",
+      "tran_cn": "[电脑]主存储器"
+    },
+    {
+      "phrase": "memory allocation",
+      "tran_cn": "内存分配；存储器分配"
+    },
+    {
+      "phrase": "memory capacity",
+      "tran_cn": "[计]记忆容量；[计]存储器容量"
+    },
+    {
+      "phrase": "memory card",
+      "tran_cn": "记忆卡，存储插件"
+    },
+    {
+      "phrase": "memory effect",
+      "tran_cn": "记忆效应；存储存应"
+    },
+    {
+      "phrase": "memory function",
+      "tran_cn": "记忆功能；记忆函数"
+    },
+    {
+      "phrase": "memory management",
+      "tran_cn": "[计]内存管理"
+    },
+    {
+      "phrase": "memory space",
+      "tran_cn": "存储空间；存储量"
+    },
+    {
+      "phrase": "memory stick",
+      "tran_cn": "记忆棒"
+    },
+    {
+      "phrase": "shape memory",
+      "tran_cn": "形状记忆；外形记忆"
+    },
+    {
+      "phrase": "shape memory alloy",
+      "tran_cn": "形状记忆合金"
+    },
+    {
+      "phrase": "shared memory",
+      "tran_cn": "共享内存；共享存储器"
+    },
+    {
+      "phrase": "short-term memory",
+      "tran_cn": "短期记忆，短时记忆"
+    },
+    {
+      "phrase": "take a trip (或 walk) down memory lane",
+      "tran_cn": "追忆"
+    },
+    {
+      "phrase": "virtual memory",
+      "tran_cn": "虚拟内存"
+    },
+    {
+      "phrase": "working memory",
+      "tran_cn": "内存储器；工作存储器"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "记忆力，回忆，存储器，怀念",
+      "tran_en": "someone’s ability to remember things, places, experiences etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "memories"
+    ]
+  }
+}

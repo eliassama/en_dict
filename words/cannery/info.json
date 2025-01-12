@@ -1,0 +1,75 @@
+{
+  "word": "cannery",
+  "ipa": {
+    "us": "ˈkænəri",
+    "uk": "'kænərɪ"
+  },
+  "sentences": [
+    {
+      "en": "Can you can a can as a cannery cans can?",
+      "cn": "这句绕口令的意思是:你能向罐头厂那样装罐头 吗 ?"
+    },
+    {
+      "en": "Just in the last few years, the last sardine cannery, in Maine, closed its doors.",
+      "cn": "就在近几年，最后的沙丁鱼罐头工厂，在缅因州关门了。"
+    },
+    {
+      "en": "Just in the last few years, the last sardine cannery, in Maine, closed its doors.",
+      "cn": "仅仅在过去的几年里，缅因州的最后几家沙丁鱼罐头厂也倒闭了。"
+    },
+    {
+      "en": "The cannery was abandoned almost as soon as it was built.",
+      "cn": "罐头厂几乎刚成立就废弃了."
+    },
+    {
+      "en": "Tongue Twister : Can you can a can as a cannery cans can?",
+      "cn": "你能像罐头厂那样装罐头 吗 ?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "canned",
+          "tran_cn": " 罐装的；录音的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "canned",
+          "tran_cn": " 装于罐头（can的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "packing house"
+          ],
+          "tran_cn": "[食品]罐头工厂"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "罐头食品厂",
+      "tran_en": "a factory where food is put into cans"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "canneries"
+    ]
+  }
+}

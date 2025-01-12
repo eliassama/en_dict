@@ -1,0 +1,146 @@
+{
+  "word": "inter",
+  "ipa": {
+    "us": "ɪnˈtɜ:(r)",
+    "uk": "ɪnˈtə"
+  },
+  "sentences": [
+    {
+      "en": "A novel compact inter - embedded artificial magnetic conductor ( IE - AMC ) is introduced in this paper.",
+      "cn": "提出了一种新型的紧凑型交互嵌入式人工磁导体 ( IE -AMC:inter-embedded artificialmagnetic conductor ) 结构."
+    },
+    {
+      "en": "Fraser did not perform until after inter-mission.",
+      "cn": "弗雷泽直到中场休息之后才上场。"
+    },
+    {
+      "en": "His musings were inter-rupted by Montagu who came and sat down next to him.",
+      "cn": "他的沉思被走过来挨着他坐下的蒙塔古打断了。"
+    },
+    {
+      "en": "His rapidity in establishing inter - personal relations tends to be matched by the superficiality of such relations.",
+      "cn": "他建立个人之间关系的迅速,往往同这种关系的肤浅相一致."
+    },
+    {
+      "en": "Hopefully an inter - laboratory standards program will be established prior to further studies.",
+      "cn": "在进一步研究之前,可望建立起实验室之间的标准规划."
+    },
+    {
+      "en": "I don't believe in Tom's sincerity ; but this is inter nos.",
+      "cn": "我不相信汤姆是有诚意的; 不过这是不能对外人讲的."
+    },
+    {
+      "en": "Major inter - agency disagreements are to be referred to CEQ for its recommendation.",
+      "cn": "机构之间的主要异议可以提交环境质量委员会做出建议."
+    },
+    {
+      "en": "Other examples are the floppy - disk, magnetic - stripe cardreader , and inter - machine communications links.",
+      "cn": "其它的例子是软磁盘 、 磁条 、磁卡读出机和机内通信链."
+    },
+    {
+      "en": "The algorithm optimizes the flow of inter mode of macro - block decision algorithm.",
+      "cn": "算法优化了宏块帧间模式选择算法的流程."
+    },
+    {
+      "en": "The court's opinion was that the case should be heard inter parties as soon as possible.",
+      "cn": "法院的意见是该案应在双方当事人在场的情况下尽快审理."
+    },
+    {
+      "en": "The objective vertigo is a disorder characterized by the inter vestibular nerve.",
+      "cn": "真性眩晕与末梢或中枢前庭系统障碍有关."
+    },
+    {
+      "en": "The preceding paragraphs were concerned with inter - source offsets.",
+      "cn": "前文牵涉到污染源之间的补偿."
+    },
+    {
+      "en": "The team of archaeologists found the spot where his bones were originally interred.",
+      "cn": "这队考古学家发现了起初埋葬他骸骨的地方。"
+    },
+    {
+      "en": "This important carbide precipitates both inter and intragranularly.",
+      "cn": "这种重要的碳化物向晶体内和晶体间沉淀."
+    },
+    {
+      "en": "Tradition is far from being inter or burdensome for the writer.",
+      "cn": "对作家来说,传统决不是毫不生气的和累赘的."
+    },
+    {
+      "en": "Why must she inter-rupt?",
+      "cn": "她为什么非要插嘴？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "interment",
+          "tran_cn": " 葬礼；埋葬"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bury",
+            "enshrine",
+            "entomb"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bury",
+            "entomb"
+          ],
+          "tran_cn": "埋葬"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inter alia",
+      "tran_cn": "adv. 尤其；在其他事物之外"
+    },
+    {
+      "phrase": "inter milan",
+      "tran_cn": "国际米兰（意大利球队名称）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "埋葬, 葬, 埋",
+      "tran_en": "to bury a dead person"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "埋，葬"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inters"
+    ],
+    "past": [
+      "interred"
+    ],
+    "done": [
+      "interred"
+    ],
+    "ing": [
+      "interring"
+    ]
+  }
+}

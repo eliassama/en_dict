@@ -1,0 +1,173 @@
+{
+  "word": "clinic",
+  "ipa": {
+    "us": "ˈklɪnɪk",
+    "uk": "ˈklɪnɪk"
+  },
+  "sentences": [
+    {
+      "en": "A mobile clinic visits this village every week.",
+      "cn": "巡回医疗队每周来这个村一次."
+    },
+    {
+      "en": "an appointment at an outpatient clinic",
+      "cn": "门诊预约"
+    },
+    {
+      "en": "He went to a clinic to cure his drinking and overeating.",
+      "cn": "他去诊所戒酒并控制饮食。"
+    },
+    {
+      "en": "He's booked himself into a rehabilitation clinic.",
+      "cn": "他自己联系了一家康复诊所."
+    },
+    {
+      "en": "His clinic is near the newly - built railway station.",
+      "cn": "他的诊所在新建的火车站附近."
+    },
+    {
+      "en": "She had an abortion at the women's health clinic.",
+      "cn": "她在妇女保健医院做了流产手术."
+    },
+    {
+      "en": "She had an operation on her knee at the clinic.",
+      "cn": "她在诊所做了个膝盖手术。"
+    },
+    {
+      "en": "She told me on which days I should leave my clinic closed.",
+      "cn": "她告诉我哪些天须让诊所停业."
+    },
+    {
+      "en": "The baby clinic is held on Monday afternoons.",
+      "cn": "婴儿门诊时间为每周一下午。"
+    },
+    {
+      "en": "The centre is unattached to any hospital or clinic.",
+      "cn": "这个中心不附属于任何医院或诊所."
+    },
+    {
+      "en": "The clinic doctor will then write to your GP to get his agreement.",
+      "cn": "然后门诊医生将会写信给你的全科医生以取得他的同意。"
+    },
+    {
+      "en": "The clinic felt like Alcatraz. There was no escape.",
+      "cn": "那家诊所令人感觉像四面环水的监牢，无路可逃。"
+    },
+    {
+      "en": "The clinic is open to outsiders as well as employees and their families.",
+      "cn": "本诊所除给职工及其家属就诊外,还对外开放."
+    },
+    {
+      "en": "The clinic opened for business last October and since then has treated more than 200 people.",
+      "cn": "该诊所去年10月开业，从那以后已经接诊200多人。"
+    },
+    {
+      "en": "The clinic tailors its treatment to individual needs.",
+      "cn": "这家诊所根据患者不同的病情采取相应的治疗方法."
+    },
+    {
+      "en": "The clinic was set afire.",
+      "cn": "诊所被人放火了."
+    },
+    {
+      "en": "The hospital has a diabetic clinic.",
+      "cn": "这所医院里有糖尿病科."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "clinical",
+          "tran_cn": " 临床的；诊所的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "clinically",
+          "tran_cn": " 临床地；门诊部地；不偏不倚；通过临床诊断"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "clinician",
+          "tran_cn": " 临床医生"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "center",
+            "dispensary",
+            "hospital",
+            "infirmary",
+            "medical",
+            "outpatient",
+            "polyclinic",
+            "sickbay",
+            "ward"
+          ],
+          "tran_cn": "诊所,门诊部"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "institution",
+            "sanitarium"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dental clinic",
+      "tran_cn": "牙科诊所，牙科诊室；牙科门诊部"
+    },
+    {
+      "phrase": "fever clinic",
+      "tran_cn": "发烧筛检站；发烧门诊"
+    },
+    {
+      "phrase": "health clinic",
+      "tran_cn": "卫生所；健康中心；保健室"
+    },
+    {
+      "phrase": "mayo clinic",
+      "tran_cn": "梅约诊所（美国一家医院）"
+    },
+    {
+      "phrase": "outpatient clinic",
+      "tran_cn": "门诊诊所"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "诊所，门诊时间，培训班",
+      "tran_en": "a place, often in a hospital, where medical treatment is given to people who do not need to stay in the hospital"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "clinics"
+    ]
+  }
+}

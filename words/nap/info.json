@@ -1,0 +1,228 @@
+{
+  "word": "nap",
+  "ipa": {
+    "us": "næp",
+    "uk": "næp"
+  },
+  "sentences": [
+    {
+      "en": "A nap is a tempting idea.",
+      "cn": "睡一会午觉这主意很不错."
+    },
+    {
+      "en": "an afternoon nap",
+      "cn": "午睡"
+    },
+    {
+      "en": "An elderly person may nap during the day and then sleep only five hours a night.",
+      "cn": "老年人白天会小睡一会儿，然后晚上只睡5个小时。"
+    },
+    {
+      "en": "An occasional nap would help.",
+      "cn": "偶尔打个盹是有好处的."
+    },
+    {
+      "en": "Don't bother me while I am taking my nap.",
+      "cn": "我小睡的时候不要打扰我."
+    },
+    {
+      "en": "He takes a nap after dinner.",
+      "cn": "他饭后小睡一会儿."
+    },
+    {
+      "en": "I might take a little nap.",
+      "cn": "我可能会打个盹。"
+    },
+    {
+      "en": "I took a nap after lunch on a hot day.",
+      "cn": "热天午饭后我小睡片刻."
+    },
+    {
+      "en": "It would be better to read after nap when you are sleepy in reading.",
+      "cn": "困时看书不如睡醒后再看."
+    },
+    {
+      "en": "It's a nap . Tomorrow morning at ten o'clock.",
+      "cn": "简单得很. 明早十点."
+    },
+    {
+      "en": "She aroused the children from their nap.",
+      "cn": "她把午睡的孩子们唤醒."
+    },
+    {
+      "en": "She took a nap every afternoon.",
+      "cn": "她每天下午小睡一会儿."
+    },
+    {
+      "en": "She tucked the baby in his crib for a nap.",
+      "cn": "她把婴儿裹好放在童床里小睡一会儿."
+    },
+    {
+      "en": "the goalkeeper was caught napping by a shot from Carpenter.",
+      "cn": "卡彭特的射门让守门员措手不及。"
+    },
+    {
+      "en": "The jungle spread beneath him in a green velvet nap.",
+      "cn": "丛林铺展在他的脚下,象一片绿丝绒那么毛茸茸的."
+    },
+    {
+      "en": "The nap of the coat has been worn off.",
+      "cn": "外衣上的绒毛已经磨掉了."
+    },
+    {
+      "en": "Why don't you take a nap?",
+      "cn": "你干吗不打个盹儿?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "napless",
+          "tran_cn": " （指呢绒）没有绒毛的；（衣服等）磨破了的"
+        },
+        {
+          "word": "napped",
+          "tran_cn": " 有绒毛的"
+        },
+        {
+          "word": "napping",
+          "tran_cn": " 起绒的"
+        },
+        {
+          "word": "nappy",
+          "tran_cn": " 起毛的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "napping",
+          "tran_cn": " 刷布；起毛；拉绒"
+        },
+        {
+          "word": "nappy",
+          "tran_cn": " 尿布"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "napped",
+          "tran_cn": " 打盹；预测…可能获胜（nap的过去分词）"
+        },
+        {
+          "word": "napping",
+          "tran_cn": " 小睡；疏忽；使起绒（nap的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "beauty sleep",
+            "lie-down"
+          ],
+          "tran_cn": "小睡，打盹儿；细毛；孤注一掷"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "doze",
+            "drowse",
+            "siesta",
+            "sleep"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "caulk off",
+            "neglect of"
+          ],
+          "tran_cn": "小睡；疏忽"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cat nap",
+      "tran_cn": "n. 打瞌睡"
+    },
+    {
+      "phrase": "catch someone napping",
+      "tran_cn": "(非正式)（动作，事件）发生在某人无备之时，发生在某人疏忽大意时"
+    },
+    {
+      "phrase": "go nap",
+      "tran_cn": "（纳普牌戏）冒险自报满贯，要全拿五墩"
+    },
+    {
+      "phrase": "have a nap",
+      "tran_cn": "打个盹"
+    },
+    {
+      "phrase": "not go nap on",
+      "tran_cn": "(澳，非正式)不太热衷于"
+    },
+    {
+      "phrase": "take a nap",
+      "tran_cn": "睡午觉；小睡一下"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "小睡，打盹，一种牌戏，绒毛，孤注一掷",
+      "tran_en": "a short sleep, especially during the day"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使拉毛"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "打瞌睡，疏忽"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使起毛"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "naps"
+    ],
+    "third": [
+      "naps"
+    ],
+    "past": [
+      "napped"
+    ],
+    "done": [
+      "napped"
+    ],
+    "ing": [
+      "napping"
+    ]
+  }
+}

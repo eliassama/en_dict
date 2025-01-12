@@ -1,0 +1,193 @@
+{
+  "word": "epidemic",
+  "ipa": {
+    "us": "ˌepɪˈdemɪk",
+    "uk": "ˌepɪˈdemɪk"
+  },
+  "sentences": [
+    {
+      "en": "A typhus epidemic struck in the winter of 1919–20.",
+      "cn": "1919至1920年的冬天斑疹伤寒症流行."
+    },
+    {
+      "en": "Drug experts say it could spell the end of the crack epidemic.",
+      "cn": "禁毒专家说它可能会结束强效可卡因吸食泛滥的局面。"
+    },
+    {
+      "en": "He explained the yellow fever epidemic as a providential act to discourage urban growth.",
+      "cn": "他解释说黄热病的流行恰好减缓了城市的扩张。"
+    },
+    {
+      "en": "Health officials have successfully confined the epidemic to the Tabatinga area.",
+      "cn": "卫生官员成功地将疫情控制在塔巴廷加地区。"
+    },
+    {
+      "en": "In a worst - case scenario, the disease will reach epidemic proportions.",
+      "cn": "最坏的情况是这种病流行开来."
+    },
+    {
+      "en": "It is feared that a similar epidemic will soon reach the shores of Europe.",
+      "cn": "人们担心类似的流行病很快会传到欧洲。"
+    },
+    {
+      "en": "Over 500 people died during last year’s flu epidemic.",
+      "cn": "去年流感大暴发期间有五百多人死亡。"
+    },
+    {
+      "en": "That kind of epidemic disease has long been stamped out.",
+      "cn": "那种传染病早已绝迹."
+    },
+    {
+      "en": "The authorities tried to localise the epidemic.",
+      "cn": "当局试图把流行病限制在局部范围."
+    },
+    {
+      "en": "the containment of the epidemic",
+      "cn": "对流行病的控制"
+    },
+    {
+      "en": "The epidemic swept off most of the villagers.",
+      "cn": "那场传染病夺去了大部分村民的生命."
+    },
+    {
+      "en": "The major impact of this epidemic worldwide is yet to come.",
+      "cn": "这种传染病在世界范围内的重大影响还未完全显现。"
+    },
+    {
+      "en": "the outbreak of a flu epidemic",
+      "cn": "流感的爆发"
+    },
+    {
+      "en": "The Sanitary Board tries to stamp out the epidemic.",
+      "cn": "卫生局试图消灭这种流行病."
+    },
+    {
+      "en": "This was a light epidemic of flu and there was no danger if you avoided pneumonia.",
+      "cn": "这是轻度流感,只要当心不引起肺炎,就无危险."
+    },
+    {
+      "en": "Today, doctors are fearing a worldwide epidemic.",
+      "cn": "现今，医生们担心会爆发世界性的流行病。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "epidemiologic",
+          "tran_cn": " 流行病学的；传染病学的"
+        },
+        {
+          "word": "epidemiological",
+          "tran_cn": " 流行病学的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "epidemiologist",
+          "tran_cn": " 流行病学家"
+        },
+        {
+          "word": "epidemiology",
+          "tran_cn": " 流行病学；传染病学"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "catching",
+            "contagious",
+            "infectious",
+            "prevalent",
+            "widespread"
+          ],
+          "tran_cn": "传染性的;流行的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "infection",
+            "infectious disease"
+          ],
+          "tran_cn": "传染病；流行病；风尚等的流行"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "catching",
+            "contagious",
+            "infectious",
+            "pestilence",
+            "plague",
+            "prevalent",
+            "widespread"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cholera epidemic",
+      "tran_cn": "霍乱蔓延"
+    },
+    {
+      "phrase": "epidemic cerebrospinal meningitis",
+      "tran_cn": "流行性脑脊膜炎"
+    },
+    {
+      "phrase": "epidemic disease",
+      "tran_cn": "流行病"
+    },
+    {
+      "phrase": "epidemic encephalitis b",
+      "tran_cn": "流行性乙型脑炎"
+    },
+    {
+      "phrase": "epidemic hemorrhagic fever",
+      "tran_cn": "流行性出血热"
+    },
+    {
+      "phrase": "epidemic prevention",
+      "tran_cn": "防疫；疫病防治；流行病预防"
+    },
+    {
+      "phrase": "epidemic situation",
+      "tran_cn": "疫情"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "流行的；传染性的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "流行病，泛滥，猖獗",
+      "tran_en": "a large number of cases of a disease that happen at the same time"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "epidemics"
+    ]
+  }
+}

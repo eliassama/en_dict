@@ -1,0 +1,187 @@
+{
+  "word": "oscillation",
+  "ipa": {
+    "us": "ˌɒsɪˈleɪʃn",
+    "uk": "ˌɑːsɪˈleɪʃn"
+  },
+  "sentences": [
+    {
+      "en": "A minor oscillation of the surface is experienced and a ground shock is produced.",
+      "cn": "地面受到轻度振动,并产生地下冲击波."
+    },
+    {
+      "en": "It follows that with the voltage on, the losses are high, so oscillation is prevented.",
+      "cn": "由此可见,加上电压后, 损耗增大, 因此振荡受到阻止."
+    },
+    {
+      "en": "It is possible to follow the complete buildup of oscillation.",
+      "cn": "了解振荡建立的整个过程是可能的."
+    },
+    {
+      "en": "Its oscillation depends on the strength of the gravitational field.",
+      "cn": "它的振动幅度取决于引力场的强度。"
+    },
+    {
+      "en": "Non - sinusoidal oscillation device of mold is explored and applied.",
+      "cn": "开发并应用了椭圆齿轮驱动结晶器非正弦振动装置."
+    },
+    {
+      "en": "One of the features of a forced oscillation is the energy in the oscillation.",
+      "cn": "受迫振动的特点之一是振动的能量."
+    },
+    {
+      "en": "Power System Stabilizers ( PSS ) are effective in damping the low frequency oscillation.",
+      "cn": "电力系统稳定器 ( PSS ) 的应用,在抑制低频振荡方面取得了明显的效果."
+    },
+    {
+      "en": "Rate of signal oscillation in hertz.",
+      "cn": "信号振荡的速率,以赫兹(Hz) 为单位."
+    },
+    {
+      "en": "Several problems are solved in order to demonstrate various cases of oscillation.",
+      "cn": "几个问题得到解决,以表明振荡各种案件."
+    },
+    {
+      "en": "Some oscillation of the fuselage had been noticed on early flights.",
+      "cn": "在之前的几次飞行中，就已经察觉到机身有些摇晃。"
+    },
+    {
+      "en": "Standard & Poor 500 index Friday's oscillation amplitude also achieves about 7 %.",
+      "cn": "标准 普尔 500指数周五的振幅也达到7%左右."
+    },
+    {
+      "en": "The combustion process cannot couple to the feed system unless a flow oscillation exists.",
+      "cn": "不存在流动振荡,燃烧过程就不可能与供应系统耦合."
+    },
+    {
+      "en": "the oscillation of the compass needle",
+      "cn": "罗盘指针的摆动"
+    },
+    {
+      "en": "the oscillations of a pendulum",
+      "cn": "钟摆的摆动"
+    },
+    {
+      "en": "Used in TV gathering focus, oscillation frequency and timer circuits.",
+      "cn": "适用于电视聚焦, 振荡,定时回路."
+    },
+    {
+      "en": "With porous wick in the condenser, the system pressure oscillation was reduced.",
+      "cn": "冷凝器中多孔芯很好地抑制了系统中的温度压力波动现象."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "oscillating",
+          "tran_cn": " [物] 振荡的"
+        },
+        {
+          "word": "oscillatory",
+          "tran_cn": " 振荡的；振动的；动摇的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "oscillator",
+          "tran_cn": " [电子] 振荡器；摆动物；动摇的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "oscillate",
+          "tran_cn": " 振荡；摆动；犹豫"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "oscillate",
+          "tran_cn": " 使振荡；使振动；使动摇"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "vibration",
+            "oscillating movement"
+          ],
+          "tran_cn": "[物]振荡；[力]振动；摆动"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "damped oscillation",
+      "tran_cn": "阻尼振荡；阻尼振动；减幅振荡"
+    },
+    {
+      "phrase": "forced oscillation",
+      "tran_cn": "强制振荡；受迫振动"
+    },
+    {
+      "phrase": "free oscillation",
+      "tran_cn": "自由振荡"
+    },
+    {
+      "phrase": "oscillation amplitude",
+      "tran_cn": "振荡幅度"
+    },
+    {
+      "phrase": "oscillation circuit",
+      "tran_cn": "振荡电路；振荡回路"
+    },
+    {
+      "phrase": "oscillation frequency",
+      "tran_cn": "振荡频率"
+    },
+    {
+      "phrase": "oscillation mode",
+      "tran_cn": "振荡模式；振动方式"
+    },
+    {
+      "phrase": "oscillation period",
+      "tran_cn": "振荡周期"
+    },
+    {
+      "phrase": "oscillation theory",
+      "tran_cn": "振动理论"
+    },
+    {
+      "phrase": "parasitic oscillation",
+      "tran_cn": "[电]寄生振荡"
+    },
+    {
+      "phrase": "torsional oscillation",
+      "tran_cn": "扭转振荡"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "振动，动摇，波动，<物>振荡",
+      "tran_en": "oscillations are frequent changes between two extreme amounts or limits"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "oscillations"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "word": "proxy",
+  "ipa": {
+    "us": "ˈprɒksi",
+    "uk": "ˈprɑːksi"
+  },
+  "sentences": [
+    {
+      "en": "A new designated verifier proxy signature scheme with message recovery was proposed.",
+      "cn": "提出了一种具有消息恢复的指定验证者的代理签名方案."
+    },
+    {
+      "en": "A normal proxy can tunnel encrypted data, but it cannot cache it.",
+      "cn": "正常可以.加密数据, 但不能缓存它."
+    },
+    {
+      "en": "Does the proxy service allow connections from this network?",
+      "cn": "Proxy代理伺服器允许连接这个网路 吗 ?"
+    },
+    {
+      "en": "Freezing enemy maneuver gave the proxy ground troops the ability to mass.",
+      "cn": "冻结敌行动,使代理人部队能够集结."
+    },
+    {
+      "en": "In Class View, examine the proxy classes created for each connection point.",
+      "cn": "在类视图中, 检查为每个连接点创建的代理类."
+    },
+    {
+      "en": "Price differences are used as a proxy for differences in quality.",
+      "cn": "一分钱一分货。"
+    },
+    {
+      "en": "Prof Kramer named Condoleezza Rice as George W. Bush's proxy bully.",
+      "cn": "克雷默教授点名指出,康多莉扎? 赖斯(CondoleezzaRice)就是布什总统的霸王代理人."
+    },
+    {
+      "en": "Proxy server is unavailable. Try connecting to proxy XX again?",
+      "cn": "Proxy服务器无效. 尝试重新连接到代理XX 吗 ?"
+    },
+    {
+      "en": "The browser is configured to use a proxy server, but the proxy refused a connection.",
+      "cn": "浏览器设定使用Proxy代理伺服器, 但Proxy代理伺服器拒绝了连线."
+    },
+    {
+      "en": "The proxy server received an invalid response from an upstream server.",
+      "cn": "代理服务器接收到了来自逆行服务器(总服务器)的无效回答."
+    },
+    {
+      "en": "Those not attending the meeting may vote by proxy.",
+      "cn": "那些未出席会议的可以请他人代为投票。"
+    },
+    {
+      "en": "We have established PROXY server also , connected with JH 163 phone line and accomplished connecting with Internet.",
+      "cn": "我们还建立了PROXY服务器, 通过电话线与JH163相连,实现了与Internet的连接."
+    },
+    {
+      "en": "You are online ( proxy: manual ). Click the icon to go offline.",
+      "cn": "您现在联机 ( 代理: 手动 ). 点击此图标即可脱机."
+    },
+    {
+      "en": "You can vote by proxy.",
+      "cn": "你可以请人代你投票。"
+    },
+    {
+      "en": "You can vote either in person or by proxy .",
+      "cn": "你可以亲自投票或请人代理。"
+    },
+    {
+      "en": "You may appoint a proxy to vote for you.",
+      "cn": "你可以委托他人代你投票."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agent",
+            "alternate",
+            "deputy",
+            "replacement",
+            "representative",
+            "substitute",
+            "surrogate"
+          ],
+          "tran_cn": "代理人;取代物"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agent",
+            "alternate",
+            "attorney",
+            "deputy",
+            "lawyer",
+            "replacement",
+            "representative",
+            "spokesman",
+            "substitute",
+            "surrogate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "proxy server",
+      "tran_cn": "代理服务系统"
+    },
+    {
+      "phrase": "proxy service",
+      "tran_cn": "代理服务"
+    },
+    {
+      "phrase": "proxy voting",
+      "tran_cn": "代理投票"
+    },
+    {
+      "phrase": "proxy war",
+      "tran_cn": "代理战争；代理人战争"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "代表权，代理人，代替物，委托书，代理服务器",
+      "tran_en": "if you do something by proxy, you arrange for someone else to do it for you"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "proxies"
+    ]
+  }
+}

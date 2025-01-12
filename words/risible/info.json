@@ -1,0 +1,71 @@
+{
+  "word": "risible",
+  "ipa": {
+    "us": "ˈrɪzəbl",
+    "uk": "ˈrɪzəbəl"
+  },
+  "sentences": [
+    {
+      "en": "a risible suggestion",
+      "cn": "可笑的建议"
+    },
+    {
+      "en": "Man is the only risible animal.",
+      "cn": "人类是唯一“能笑的”动物."
+    },
+    {
+      "en": "The entire proposal is risible: it will never is accepted.",
+      "cn": "这个建议完全是荒唐可笑的,根本不可能采纳."
+    },
+    {
+      "en": "The entire proposal is risible.",
+      "cn": "这个建议完全是荒唐可笑的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "risibility",
+          "tran_cn": " 爱笑；幽默感"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "ridiculous",
+            "laughing"
+          ],
+          "tran_cn": "可笑的；爱笑的；引人笑的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comic",
+            "entertaining"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可笑的，滑稽的",
+      "tran_en": "something that is risible is so stupid that it deserves to be laughed at"
+    }
+  ],
+  "exchange": {}
+}

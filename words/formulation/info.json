@@ -1,0 +1,171 @@
+{
+  "word": "formulation",
+  "ipa": {
+    "us": "ˌfɔ:mjʊ'leɪʃn",
+    "uk": "ˌfɔrmjəˈleʃən"
+  },
+  "sentences": [
+    {
+      "en": "A brief review of factors leading to the formulation of this concept follows.",
+      "cn": "下面我们将提出导致形成这种概念的一些因素,并加以简短评述."
+    },
+    {
+      "en": "His formulation is gravely lacking in mathematical rigour.",
+      "cn": "他的公式严重缺乏数学上的严密性."
+    },
+    {
+      "en": "In order to optimize the process, formulation of objective function is necessary.",
+      "cn": "为了使过程最优化, 目标函数的公式是必不可少的."
+    },
+    {
+      "en": "In the next section we present another formulation ( simpler ) in terms of stresses.",
+      "cn": "在下一节中,我们给出另一种 ( 较简单的 ) 利用胁强的表述."
+    },
+    {
+      "en": "It's a vague formulation that leaves much to the discretion of local authorities.",
+      "cn": "这只是个模糊的构想，许多方面还要由地方当局来定夺。"
+    },
+    {
+      "en": "Persistence of the herbicide in the mud was irrespective of formulation.",
+      "cn": "除草剂在底泥中的持久性与剂型无关."
+    },
+    {
+      "en": "The formulation is complete in the sense that there are a sufficient number of equations.",
+      "cn": "方程的个数是足够的. 在这个意义下,问题的提法是完整的."
+    },
+    {
+      "en": "The mathematical formulation of this hypothesis is a persuasive one.",
+      "cn": "这一假设的数学形式是诱人的."
+    },
+    {
+      "en": "The most common formulation of the message content in banking is rational appeal.",
+      "cn": "银行广告内容的最一般规律是要有理性的说服力."
+    },
+    {
+      "en": "There have been problems with the formulation of the vaccine.",
+      "cn": "疫苗的配方有些问题。"
+    },
+    {
+      "en": "These concepts were firmly entrenched in the mathematical formulation of classical mechanics.",
+      "cn": "这些概念在经典力学的数学表述中根深蒂固."
+    },
+    {
+      "en": "This formulation is not proper.",
+      "cn": "这种提法不妥."
+    },
+    {
+      "en": "This formulation is perfectly correct.",
+      "cn": "这是完全正确的规定."
+    },
+    {
+      "en": "This is a far weaker formulation than is in the draft resolution which is being proposed.",
+      "cn": "这种表述比所提决议草案中的说法要弱很多。"
+    },
+    {
+      "en": "You can buy a formulation containing royal jelly, pollen and vitamin C.",
+      "cn": "可以买一种含蜂王浆、花粉和维生素C的配方产品。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "formulaic",
+          "tran_cn": "公式化的；刻板的；套话堆砌的"
+        },
+        {
+          "word": "formulary",
+          "tran_cn": "规定的；公式的；药方的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "formula",
+          "tran_cn": "[数] 公式，准则；配方；婴儿食品"
+        },
+        {
+          "word": "formulary",
+          "tran_cn": "公式集；处方一览表；套话"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "formularize",
+          "tran_cn": "使公式化；以形式表示"
+        },
+        {
+          "word": "formulate",
+          "tran_cn": "规划；用公式表示；明确地表达"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "planning",
+            "construct",
+            "programme",
+            "projection"
+          ],
+          "tran_cn": "构想，规划；[数]公式化；简洁陈述"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "expression",
+            "network"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "explicit formulation",
+      "tran_cn": "显式"
+    },
+    {
+      "phrase": "problem formulation",
+      "tran_cn": "问题公式化"
+    },
+    {
+      "phrase": "strategy formulation",
+      "tran_cn": "战略制定；策略形成；战略形成"
+    },
+    {
+      "phrase": "variational formulation",
+      "tran_cn": "变分公式化"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "配方，构想，规划，公式化",
+      "tran_en": "the way in which you express your thoughts and ideas"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "formulations"
+    ],
+    "verb": [
+      "formulate"
+    ]
+  }
+}

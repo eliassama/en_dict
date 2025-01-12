@@ -1,0 +1,195 @@
+{
+  "word": "abnormal",
+  "ipa": {
+    "us": "æbˈnɔːml",
+    "uk": "æbˈnɔːrml"
+  },
+  "sentences": [
+    {
+      "en": "abnormal behaviour",
+      "cn": "反常行为"
+    },
+    {
+      "en": "abnormal levels of sugar in the blood",
+      "cn": "血糖值不正常"
+    },
+    {
+      "en": "An abnormal amount of snow fell here last week.",
+      "cn": "上周这里下了异常大的雪."
+    },
+    {
+      "en": "an abnormal level of cholesterol",
+      "cn": "胆固醇水平异常"
+    },
+    {
+      "en": "He concluded that Oswald was somewhat abnormal.",
+      "cn": "他断定奥斯瓦尔德有点不正常。"
+    },
+    {
+      "en": "Her behavior is abnormal for a girl of three years old.",
+      "cn": "以三岁女孩而言,她的行为太反常了."
+    },
+    {
+      "en": "Is the child abnormal in any way?",
+      "cn": "这孩子是否在哪方面有点不正常?"
+    },
+    {
+      "en": "It is abnormal for a man to walk in his sleep.",
+      "cn": "梦游是不正常的."
+    },
+    {
+      "en": "It's abnormal for the boy to eat so much.",
+      "cn": "这个孩子吃这么多是不正常的。"
+    },
+    {
+      "en": "My parents thought it was abnormal for a boy to be interested in ballet.",
+      "cn": "我父母认为一个男孩子对芭蕾舞感兴趣并不正常。"
+    },
+    {
+      "en": "Normally, enormous deformation is abnormal.",
+      "cn": "通常，巨大的变形是不正常的。"
+    },
+    {
+      "en": "That is simply abnormal.",
+      "cn": "那简直是反常的."
+    },
+    {
+      "en": "The abnormal bleeding is your body's own red flag of danger.",
+      "cn": "非正常的出血是你的身体发出的危险信号。"
+    },
+    {
+      "en": "The productive cough of chronic bronchitis is often not regarded as abnormal.",
+      "cn": "慢性支气管炎的咳痰往往不被认为异常."
+    },
+    {
+      "en": "This warm weather is abnormal for February.",
+      "cn": "二月里这种温暖的天气不太正常."
+    },
+    {
+      "en": "Traumatising a child with an abnormal fear of strangers probably won't do much good.",
+      "cn": "给小孩造成心理阴影，让他对陌生人产生异常的恐惧，这可能不会有什么好处。"
+    },
+    {
+      "en": "We can bring about abnormal distribution of energy states.",
+      "cn": "我们能使能态形成异常分布."
+    },
+    {
+      "en": "We do not think such an abnormal phenomenon will last long.",
+      "cn": "我们认为这样的反常现象不会持续很久."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "abnormally",
+          "tran_cn": " 反常地；变态地；不规则地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "abnormalcy",
+          "tran_cn": " 反常；变态；畸形（等于abnormality）"
+        },
+        {
+          "word": "abnormality",
+          "tran_cn": " 异常；畸形，变态"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "eccentric",
+            "insane",
+            "irregular",
+            "monstrous",
+            "odd",
+            "unnatural"
+          ],
+          "tran_cn": "反常的;不规则的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aberrant",
+            "diseased",
+            "eccentric",
+            "erratic",
+            "insane",
+            "irregular",
+            "mental",
+            "monstrous",
+            "odd",
+            "off",
+            "unnatural",
+            "violent"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "abnormal behavior",
+      "tran_cn": "异常行为；变态行为"
+    },
+    {
+      "phrase": "abnormal condition",
+      "tran_cn": "异常情况"
+    },
+    {
+      "phrase": "abnormal distribution",
+      "tran_cn": "[化]非正态分布"
+    },
+    {
+      "phrase": "abnormal menstruation",
+      "tran_cn": "月经失调"
+    },
+    {
+      "phrase": "abnormal phenomena",
+      "tran_cn": "异常现象"
+    },
+    {
+      "phrase": "abnormal psychology",
+      "tran_cn": "变态心理学"
+    },
+    {
+      "phrase": "abnormal return",
+      "tran_cn": "异常返回"
+    },
+    {
+      "phrase": "abnormal situation",
+      "tran_cn": "异常情况"
+    },
+    {
+      "phrase": "abnormal sound",
+      "tran_cn": "不正常声音；杂音"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不正常的，异常的，畸形的",
+      "tran_en": "very different from usual in a way that seems strange, worrying, wrong, or dangerous"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "abnormally"
+    ]
+  }
+}

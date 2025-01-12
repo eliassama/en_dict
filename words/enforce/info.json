@@ -1,0 +1,186 @@
+{
+  "word": "enforce",
+  "ipa": {
+    "us": "ɪnˈfɔːs",
+    "uk": "ɪnˈfɔːrs"
+  },
+  "sentences": [
+    {
+      "en": "Clearly, the police cannot break the law in order to enforce it.",
+      "cn": "显然，警方不能为了执法而犯法。"
+    },
+    {
+      "en": "Desegregation may be harder to enforce in rural areas.",
+      "cn": "要废除农村地区的种族隔离可能会更困难一些。"
+    },
+    {
+      "en": "Enforce all rules and procedures for manufacturing quality, safety, environmental working conditions.",
+      "cn": "执行所有的质量 、 安全 、 工作环境条件方面的规则和程式."
+    },
+    {
+      "en": "He'd been mandated by the West African Economic Community to go in and to enforce a ceasefire.",
+      "cn": "他受西非经济共同体的委托介入并执行停火协定。"
+    },
+    {
+      "en": "Is there any need to enforce that commandment by violence?",
+      "cn": "难道实行这条诫命还需要使用暴力 吗 ?"
+    },
+    {
+      "en": "It is unlikely that a record company would enforce its views on an established artist.",
+      "cn": "唱片公司未必能强迫一位已出名的艺人接受他们的意见。"
+    },
+    {
+      "en": "It's the job of the police to enforce the law.",
+      "cn": "警察的工作就是执法。"
+    },
+    {
+      "en": "Match officials should not tolerate such behaviour but instead enforce the laws of the game.",
+      "cn": "赛事官员不应纵容这种行为，而应严格执行比赛规则。"
+    },
+    {
+      "en": "Parking restrictions will be strictly enforced.",
+      "cn": "停车限制将会严格执行。"
+    },
+    {
+      "en": "Policetmen and judges enforce the laws.",
+      "cn": "警察和法官执行法律."
+    },
+    {
+      "en": "That rules look fine on paper but are difficult to enforce.",
+      "cn": "这一规定表面看来很合理但付诸实施仍有困难."
+    },
+    {
+      "en": "The new sheriff decided to enforce the law with rigour.",
+      "cn": "新警长决定严厉执法."
+    },
+    {
+      "en": "The police don't make the laws, they merely enforce them.",
+      "cn": "警察并不制定法律，只是负责执行。"
+    },
+    {
+      "en": "The police enforce the law.",
+      "cn": "警察执法."
+    },
+    {
+      "en": "The teacher will enforce the rules of the school.",
+      "cn": "教师要厉行学校的规则."
+    },
+    {
+      "en": "They have no means, short of civil war, to enforce their will upon the minorities.",
+      "cn": "他们只有通过内战才能将意志强加给少数派。"
+    },
+    {
+      "en": "You have no right to enforce your own views on me.",
+      "cn": "你无权把你自己的观点强加给我."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "enforceable",
+          "tran_cn": " 可实施的；可强行的；可强迫的"
+        },
+        {
+          "word": "enforced",
+          "tran_cn": " 实施的；强制执行的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "enforcement",
+          "tran_cn": " 执行，实施；强制"
+        },
+        {
+          "word": "enforcer",
+          "tran_cn": " 实施者；强制执行者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "enforced",
+          "tran_cn": " 执行（enforce的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "compel",
+            "drive",
+            "execute",
+            "force",
+            "make",
+            "oblige"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "compel",
+            "drive",
+            "execute",
+            "force",
+            "make",
+            "oblige"
+          ],
+          "tran_cn": "强迫"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "enforce the law",
+      "tran_cn": "执法；执行法律"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "强制执行，强迫",
+      "tran_en": "to make people obey a rule or law"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 实施， 生效， 执行； 强迫， 迫使",
+      "tran_en": "to make people obey a rule or law"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "enforces"
+    ],
+    "past": [
+      "enforced"
+    ],
+    "done": [
+      "enforced"
+    ],
+    "ing": [
+      "enforcing"
+    ],
+    "noun": [
+      "enforcement"
+    ],
+    "adj": [
+      "enforceable"
+    ]
+  }
+}

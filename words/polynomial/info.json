@@ -1,0 +1,142 @@
+{
+  "word": "polynomial",
+  "ipa": {
+    "us": "ˌpɒlɪ'nəʊmɪəl",
+    "uk": "ˌpɒlɪ'noʊmɪrl"
+  },
+  "sentences": [
+    {
+      "en": "B - splines are piecewise polynomial curves that have a parametric representation.",
+      "cn": "最后,B样条,之前曾经提到过,是由分段(很多基础曲线片断组成)参数化表示的多项式曲线组成."
+    },
+    {
+      "en": "Eigenvalue method is one of the fundamental Methods: That solve polynomial system.",
+      "cn": "特征值方法是求解多项式方程组的基本方法之一."
+    },
+    {
+      "en": "Every polynomial is differentiable, and so is every rational.",
+      "cn": "每个多项式都是可微的, 而每个有理函数也是如此."
+    },
+    {
+      "en": "I have no idea about factorable polynomial.",
+      "cn": "我对可因子分解多项式一无所知。"
+    },
+    {
+      "en": "It give the solution for polynomial equations using simplex method.",
+      "cn": "它提供的解决方案多项式方程组采用单纯形法."
+    },
+    {
+      "en": "Its form up to a tenth degree polynomial is shown below.",
+      "cn": "下面写出一直到十次多项式的帕斯卡三角形."
+    },
+    {
+      "en": "polynomial equations",
+      "cn": "多项式方程"
+    },
+    {
+      "en": "Regression analysis includes linear, polynomial and exponential curve fitting, plotting, and interpolation.",
+      "cn": "回归分析包括线, 适合的多项式和指数的曲线, 绘制, 以及篡改."
+    },
+    {
+      "en": "Some applications of the fast Fourier transform to the polynomial calculation.",
+      "cn": "多项式计算当中快速傅立叶变换的应用."
+    },
+    {
+      "en": "The absolute values of the coefficients of any chromatic polynomial form a unimodal sequence.",
+      "cn": "任何多项式系数的绝对值都构成单峰序列."
+    },
+    {
+      "en": "The algebra AQ is called a quantum polynomial algebra.",
+      "cn": "代数AQ叫做量子多项式代数."
+    },
+    {
+      "en": "The bit - operation complexity of the fast exponential algorithm is polynomial.",
+      "cn": "快速指数算法的比特运算复杂度是多项式的."
+    },
+    {
+      "en": "The curve mesh body created is a polynomial bicubic.",
+      "cn": "生成的曲线网格体是双三次多项式的."
+    },
+    {
+      "en": "The number a is called a double root of the polynomial function f.",
+      "cn": "数a称为多项式丞数f的二重根."
+    },
+    {
+      "en": "The polynomial factors in the harmonic - oscillator wave functions are called Hermite polynomials after a French mathematician.",
+      "cn": "谐振子波函数的多项式因子随一法国数学家之名而叫做厄米多项式."
+    },
+    {
+      "en": "This algorithm can simplify the data association and has polynomial complexity.",
+      "cn": "该算法采用观测-航迹关联,具有相对简单的多项式复杂度."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "multinomial"
+          ],
+          "tran_cn": "[数]多项式；由 2 字以上组成的学名"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "characteristic polynomial",
+      "tran_cn": "特征多项式"
+    },
+    {
+      "phrase": "chebyshev polynomial",
+      "tran_cn": "切比雪夫多项式"
+    },
+    {
+      "phrase": "cubic polynomial",
+      "tran_cn": "三次多项式；立方次多项式"
+    },
+    {
+      "phrase": "interpolation polynomial",
+      "tran_cn": "插值多项式"
+    },
+    {
+      "phrase": "orthogonal polynomial",
+      "tran_cn": "正交多项式"
+    },
+    {
+      "phrase": "polynomial equation",
+      "tran_cn": "多项式方程"
+    },
+    {
+      "phrase": "polynomial function",
+      "tran_cn": "n. 多项式函数"
+    },
+    {
+      "phrase": "polynomial regression",
+      "tran_cn": "[计]多项式回归"
+    },
+    {
+      "phrase": "polynomial time",
+      "tran_cn": "多项式时间"
+    },
+    {
+      "phrase": "quadratic polynomial",
+      "tran_cn": "二次多项式"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "多项式的，多词学名（指由两个以上的词构成的学名）的",
+      "tran_en": "of, consisting of, or referring to two or more names or terms "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "多项式，由2字以上组成的学名",
+      "tran_en": "a statement in  algebra  that contains several different numbers and signs which are equal to a specific amount"
+    }
+  ],
+  "exchange": {}
+}

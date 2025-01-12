@@ -1,0 +1,103 @@
+{
+  "word": "relegate",
+  "ipa": {
+    "us": "ˈrelɪgeɪt",
+    "uk": "ˈrɛlɪˌɡet"
+  },
+  "sentences": [
+    {
+      "en": "Denis Law DID NOT relegate Manchester United. Birmingham City did.",
+      "cn": "让曼联降级的不是丹尼斯·劳,是伯明翰城队."
+    },
+    {
+      "en": "Might it not be better to relegate the king to a purely ceremonial function?",
+      "cn": "使该国王降级到一种纯粹礼仪性的职能难道不更好吗？"
+    },
+    {
+      "en": "Might it not be better to relegate the King to a purely ceremonial function?",
+      "cn": "让国王变成纯粹发挥典礼仪式上象征作用的元首会不会更好？"
+    },
+    {
+      "en": "People argue about how to relegate certain mushrooms.",
+      "cn": "人们讨论如何将这些蘑菇归类."
+    },
+    {
+      "en": "Relegate agency system solving fairness and efficiency problem to go up to still have drawback.",
+      "cn": "委托代理制在解决公平和效率问题上仍然有缺陷."
+    },
+    {
+      "en": "She likes to relegate difficult questions to her colleagues.",
+      "cn": "她总是把困难的问题推给她同事."
+    },
+    {
+      "en": "Some scientists relegate parapsychology to the sphere of quackery.",
+      "cn": "一些科学家把灵学归类到骗术范围."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "relegation",
+          "tran_cn": " 贬谪；驱逐；移交；归属"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "commission"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "put in",
+            "hand in"
+          ],
+          "tran_cn": "把降低到；归入；提交"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "转移, 归入, 提交",
+      "tran_en": "if a sports team is relegated, it is moved into a lower  division "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使降级，使降职，转移，把…归类",
+      "tran_en": "if a sports team is relegated, it is moved into a lower  division "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "relegates"
+    ],
+    "past": [
+      "relegated"
+    ],
+    "done": [
+      "relegated"
+    ],
+    "ing": [
+      "relegating"
+    ],
+    "noun": [
+      "relegation"
+    ]
+  }
+}

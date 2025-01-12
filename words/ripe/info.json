@@ -1,0 +1,204 @@
+{
+  "word": "ripe",
+  "ipa": {
+    "us": "raɪp",
+    "uk": "raɪp"
+  },
+  "sentences": [
+    {
+      "en": "A ripe lemon is yellow.",
+      "cn": "熟了的柠檬是黄色的."
+    },
+    {
+      "en": "Always choose firm, but ripe fruit.",
+      "cn": "一定要挑选硬实但已成熟的水果。"
+    },
+    {
+      "en": "Conditions were ripe for an outbreak of cholera.",
+      "cn": "霍乱即将暴发。"
+    },
+    {
+      "en": "Haig's message was that victory was ripe for picking.",
+      "cn": "黑格传达的意思是说胜利唾手可得。"
+    },
+    {
+      "en": "He lived to the ripe old age of 95.",
+      "cn": "他活到了95岁高龄。"
+    },
+    {
+      "en": "Ripe apples pick easily.",
+      "cn": "熟了的苹果容易摘."
+    },
+    {
+      "en": "The conditions are ripe for the spread of disease.",
+      "cn": "这种疾病传播的条件已经成熟。"
+    },
+    {
+      "en": "The conditions were ripe for social change.",
+      "cn": "社会变革的时机已经成熟。"
+    },
+    {
+      "en": "The farmers are getting the crops in now that they are ripe.",
+      "cn": "庄稼熟了,农民正在收割."
+    },
+    {
+      "en": "The problem is ripe for settlement.",
+      "cn": "解决这个问题的时机已经成熟."
+    },
+    {
+      "en": "The rice is ripe for harvest.",
+      "cn": "稻子熟了,可以收割了."
+    },
+    {
+      "en": "the time was ripe to talk about peace.",
+      "cn": "和谈的时机已经成熟。"
+    },
+    {
+      "en": "These apples are ripe.",
+      "cn": "这些苹果熟了."
+    },
+    {
+      "en": "These grapes are ripe.",
+      "cn": "这些葡萄熟了."
+    },
+    {
+      "en": "This land is ripe for development.",
+      "cn": "这片土地适宜开发。"
+    },
+    {
+      "en": "This time is ripe for action.",
+      "cn": "采取行动的时机已经成熟."
+    },
+    {
+      "en": "Those tomatoes aren’t ripe yet.",
+      "cn": "那些番茄还没熟。"
+    },
+    {
+      "en": "When the fruits are ripe, they fall from the trees.",
+      "cn": "当果实成熟时, 它们从树上落下."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "ripely",
+          "tran_cn": " 圆通地；成熟地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ripeness",
+          "tran_cn": " 成熟；老练；完成；圆通"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "ripen",
+          "tran_cn": " 成熟"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "ripen",
+          "tran_cn": " 使成熟"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "developed",
+            "full-grown",
+            "mature",
+            "ready"
+          ],
+          "tran_cn": "成熟的;准备妥当的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accomplished",
+            "full-grown",
+            "mature",
+            "mellow",
+            "ready",
+            "ripen",
+            "timely"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "examine",
+            "survey"
+          ],
+          "tran_cn": "搜查；调查"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ripe for",
+      "tran_cn": "时机成熟；为……做好准备"
+    },
+    {
+      "phrase": "the time is ripe",
+      "tran_cn": "时机已经成熟，时机已到"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "成熟的，口味浓郁的，难闻的，时机成熟的",
+      "tran_en": "ripe fruit or crops are fully grown and ready to eat"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "(Ripe)人名；(意、瑞典)里佩"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "进行搜查"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "搜查；调查"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "riper"
+    ],
+    "est": [
+      "ripest"
+    ],
+    "noun": [
+      "ripeness"
+    ]
+  }
+}

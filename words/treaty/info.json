@@ -1,0 +1,200 @@
+{
+  "word": "treaty",
+  "ipa": {
+    "us": "ˈtriːti",
+    "uk": "ˈtriːti"
+  },
+  "sentences": [
+    {
+      "en": "A \"no\" vote would have left the treaty dead in the water.",
+      "cn": "一张否决票可能就会使这个条约胎死腹中。"
+    },
+    {
+      "en": "Both sides have agreed to sign the treaty .",
+      "cn": "双方都同意签署该条约。"
+    },
+    {
+      "en": "Environmentalists say the treaty is fundamentally flawed.",
+      "cn": "环保主义者称这个条约存在根本性的缺陷。"
+    },
+    {
+      "en": "For all practical purposes the treaty has already ceased to exist.",
+      "cn": "实际上协议已经不复存在。"
+    },
+    {
+      "en": "France originally refused to sign the treaty.",
+      "cn": "最初法国拒绝签署该条约。"
+    },
+    {
+      "en": "His new relationship with Germany is enshrined in a new non-aggression treaty.",
+      "cn": "他与德国的新关系受新的互不侵犯条约的保护。"
+    },
+    {
+      "en": "In the treaty both sides pledge to respect human rights.",
+      "cn": "双方在条约中都承诺将尊重人权。"
+    },
+    {
+      "en": "Spain's top priority is the signing of an EMU treaty.",
+      "cn": "西班牙的当务之急是签署《欧洲经济和货币联盟条约》。"
+    },
+    {
+      "en": "The aims of the treaty are stated in its preamble.",
+      "cn": "条约的宗旨已在序言中说明。"
+    },
+    {
+      "en": "The Foreign Secretary's views on the treaty are well-documented and oft-repeated.",
+      "cn": "外交大臣就该条约发表的观点有大量记述并被屡屡提及。"
+    },
+    {
+      "en": "The next prime minister could abrogate the treaty.",
+      "cn": "下一任首相可能会废除这个条约。"
+    },
+    {
+      "en": "The peace treaty ends nearly four years of violence.",
+      "cn": "该和平条约结束了将近四年的暴力。"
+    },
+    {
+      "en": "The requirement for work permits violates the spirit of the 1950 treaty.",
+      "cn": "对工作许可证的要求违反了1950年条约的精神。"
+    },
+    {
+      "en": "The treaty binds them to respect their neighbour's independence.",
+      "cn": "条约规定他们必须尊重其邻国的独立。"
+    },
+    {
+      "en": "The treaty is now void of absolute commitments.",
+      "cn": "条约现在失去了绝对的约束力。"
+    },
+    {
+      "en": "The Treaty of Union should be redrawn.",
+      "cn": "应该重新制定《联盟条约》。"
+    },
+    {
+      "en": "They will sign the union treaty only on their terms.",
+      "cn": "只有同意他们的条件，他们才会在联盟条约上签字。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "treat",
+          "tran_cn": " 请客；款待"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "treat",
+          "tran_cn": " 探讨；请客；协商"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "treat",
+          "tran_cn": " 治疗；对待；探讨；视为"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agreement",
+            "alliance",
+            "arrangement",
+            "cartel",
+            "compact",
+            "concordat",
+            "contract",
+            "convention",
+            "pact",
+            "settlement"
+          ],
+          "tran_cn": "协定;契约"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agreement",
+            "alliance",
+            "armistice",
+            "arrangement",
+            "charter",
+            "compact",
+            "covenant",
+            "obligation",
+            "peace",
+            "settlement",
+            "truce",
+            "understanding"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "antarctic treaty",
+      "tran_cn": "南极条约"
+    },
+    {
+      "phrase": "international treaty",
+      "tran_cn": "国际条约"
+    },
+    {
+      "phrase": "maastricht treaty",
+      "tran_cn": "马斯特里赫特条约"
+    },
+    {
+      "phrase": "north atlantic treaty",
+      "tran_cn": "北大西洋公约"
+    },
+    {
+      "phrase": "north atlantic treaty organization",
+      "tran_cn": "北大西洋公约组织（等于NATO）"
+    },
+    {
+      "phrase": "patent cooperation treaty",
+      "tran_cn": "专利合作条约"
+    },
+    {
+      "phrase": "peace treaty",
+      "tran_cn": "和平条约"
+    },
+    {
+      "phrase": "private treaty",
+      "tran_cn": "财产转让契约"
+    },
+    {
+      "phrase": "treaty port",
+      "tran_cn": "通商口岸；根据条约开放的口岸"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "条约，协议，协商，谈判",
+      "tran_en": "a formal written agreement between two or more countries or governments"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "treaties"
+    ]
+  }
+}

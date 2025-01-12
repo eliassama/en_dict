@@ -1,0 +1,201 @@
+{
+  "word": "restrict",
+  "ipa": {
+    "us": "rɪˈstrɪkt",
+    "uk": "rɪˈstrɪkt"
+  },
+  "sentences": [
+    {
+      "en": "A lower missile speed at greater range will probably not restrict the coverage.",
+      "cn": "在较远的距离处较低的导弹速度也许将不会限制导弹的作用范围."
+    },
+    {
+      "en": "Accessibility and general weather prospects further restrict the choice.",
+      "cn": "可达到的条件和一般的气象资料进一步限制了选择."
+    },
+    {
+      "en": "And why should I restrict myself, segregate myself?",
+      "cn": "况且我何必限制自己, 孤立自己 呢 ?"
+    },
+    {
+      "en": "Attempts to restrict parking in the city centre have further aggravated the problem of traffic congestion.",
+      "cn": "在城市中心限制停车的尝试使阻塞的问题更加严重."
+    },
+    {
+      "en": "He feels this new law will restrict his freedom.",
+      "cn": "他觉得这一新法律会限制他的自由."
+    },
+    {
+      "en": "I did not want to wound him, but to restrict myself to defence, to parry his attacks.",
+      "cn": "我不想伤害他，只是想自我防卫，挡开他的攻击。"
+    },
+    {
+      "en": "Nations can restrict their foreign trade by erecting barriers to exports as well as imports.",
+      "cn": "象设置进口壁垒那样,各国可以通过设置出口壁垒来限制对外贸易."
+    },
+    {
+      "en": "Production quotas, budget constraints, etc. might restrict the variation of the variables.",
+      "cn": "生产定额, 预算约束等等可以限制变量的变化范围."
+    },
+    {
+      "en": "Recent laws have tended to restrict the freedom of the press.",
+      "cn": "新法例有限制新闻自由的趋势."
+    },
+    {
+      "en": "The agreement will restrict competition.",
+      "cn": "这个协议将限制竞争。"
+    },
+    {
+      "en": "The cramped living conditions severely restricted the children’s freedom to play.",
+      "cn": "拥挤的居住条件严重限制了孩子们玩耍的自由。"
+    },
+    {
+      "en": "The hospital may restrict bookings to people living locally.",
+      "cn": "这家医院可能会限定只有当地居民才能预约。"
+    },
+    {
+      "en": "The new law restricts the sale of hand guns.",
+      "cn": "新法规限制手枪的销售。"
+    },
+    {
+      "en": "The trees restrict our view.",
+      "cn": "这些树局限了我们的视野."
+    },
+    {
+      "en": "There is talk of raising the admission requirements to restrict the number of students on campus.",
+      "cn": "有传闻称将通过提高录取条件来限制在校学生的数目。"
+    },
+    {
+      "en": "These clothes restrict your freedom of movement and stiffen up the whole body.",
+      "cn": "这些衣服使你行动不便，让全身都变得不灵活。"
+    },
+    {
+      "en": "They know how to control, restrict and, if need be, throttle access, important to newspapers and absolutely vital to radio and television. And if you don't play the game, you're toast.",
+      "cn": "他们知道怎样控制、限制信息获取途径，而且如果需要，还会将其完全阻断，而这些途径对报纸来说很重要，对广播、电视更是极其关键。如果你不遵守游戏规则，你就完蛋了。"
+    },
+    {
+      "en": "Villagers say the fence would restrict public access to the hills.",
+      "cn": "村民们说这个围栏将限制公众进入山区。"
+    },
+    {
+      "en": "You may need to restrict access to certain files (= limit the number of people who can read them ) .",
+      "cn": "某些档案可能需要限制查阅。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "restricted",
+          "tran_cn": " 受限制的；保密的"
+        },
+        {
+          "word": "restrictive",
+          "tran_cn": " 限制的；限制性的；约束的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "restrictively",
+          "tran_cn": " 限制性地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "restriction",
+          "tran_cn": " 限制；约束；束缚"
+        },
+        {
+          "word": "restrictive",
+          "tran_cn": " 限制词"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "restricted",
+          "tran_cn": " 限制（restrict的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bound",
+            "censor",
+            "circumscribe",
+            "confine",
+            "cramp",
+            "hamper",
+            "impede",
+            "inhibit",
+            "limit",
+            "localize",
+            "prohibit",
+            "qualify",
+            "restrain",
+            "specify",
+            "suppress"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bound",
+            "confine",
+            "hamper",
+            "impede",
+            "limit",
+            "restrain"
+          ],
+          "tran_cn": "限制"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "限制，限定",
+      "tran_en": "to limit or control the size, amount, or range of something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "限制，限定，约束，束缚",
+      "tran_en": "to limit or control the size, amount, or range of something"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "restricts"
+    ],
+    "past": [
+      "restricted"
+    ],
+    "done": [
+      "restricted"
+    ],
+    "ing": [
+      "restricting"
+    ]
+  }
+}

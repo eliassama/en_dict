@@ -1,0 +1,77 @@
+{
+  "word": "Islam",
+  "ipa": {
+    "us": "ˈɪzlɑ:m",
+    "uk": "ɪsˈlɑm,ɪz- "
+  },
+  "sentences": [
+    {
+      "en": "But other schools train leaders in Judaism , Islam, Buddhism and other faith traditions.",
+      "cn": "但还有一些学校教授教会管理者关于犹太教 、 伊斯里兰教 、 佛教以及其它信仰传统的课程."
+    },
+    {
+      "en": "He believes in Islam, and is very pious.",
+      "cn": "他在教, 而且非常虔诚."
+    },
+    {
+      "en": "He converted to Islam at the age of 16.",
+      "cn": "他在16岁时皈依了伊斯兰教。"
+    },
+    {
+      "en": "Its distinctive characteristics , which differ from Sunni Islam today, are mostly originated from this period.",
+      "cn": "什叶派今日种种不同于逊尼派的特征, 大多肇源于此."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "islamic",
+          "tran_cn": "伊斯兰教的；穆斯林的"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "islamize",
+          "tran_cn": "使伊斯兰化，使皈依伊斯兰教"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "Moslemism",
+            "Mohammedanism"
+          ],
+          "tran_cn": "回教徒；回教；伊斯兰教"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "nation of islam",
+      "tran_cn": "伊斯兰民族组织"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "伊斯兰教，伊斯兰教徒，伊斯兰教义，伊斯兰教国家",
+      "tran_en": "the Muslim religion, which was started by Muhammad and whose holy book is the Quran (Koran)"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "Islamic"
+    ]
+  }
+}

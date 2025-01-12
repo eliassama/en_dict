@@ -1,0 +1,200 @@
+{
+  "word": "assured",
+  "ipa": {
+    "us": "əˈʃʊəd",
+    "uk": "əˈʃʊrd"
+  },
+  "sentences": [
+    {
+      "en": "\"You can depend on me,\" Cross assured him.",
+      "cn": "“你可以信赖我，”克罗斯向他保证。"
+    },
+    {
+      "en": "Edwards is already crowing about his assured victory.",
+      "cn": "爱德华兹已经在为自己确定无疑的胜利自鸣得意了。"
+    },
+    {
+      "en": "He assured us of his ability to solve the problem.",
+      "cn": "他向我们保证他有能力解决这个问题."
+    },
+    {
+      "en": "He spoke in a calm, assured voice.",
+      "cn": "他冷静自信地说。"
+    },
+    {
+      "en": "He was infinitely more assured than in his more recent parliamentary appearances.",
+      "cn": "比起最近几次在国会中的露面，他表现得自信多了。"
+    },
+    {
+      "en": "Her political future looks assured.",
+      "cn": "她的政治前途一片光明。"
+    },
+    {
+      "en": "Her reelection seemed assured.",
+      "cn": "她重新当选似乎是十拿九稳."
+    },
+    {
+      "en": "His manner was self-assured and brusque.",
+      "cn": "他态度傲慢无礼。"
+    },
+    {
+      "en": "I've assured him I have no plans to let him go.",
+      "cn": "我向他保证，我绝对没打算让他走人。"
+    },
+    {
+      "en": "Laura Davies is assured of a place in Europe's team.",
+      "cn": "劳拉·戴维斯确信能在欧洲队中占据一席之地。"
+    },
+    {
+      "en": "Rest assured, he probably has rather more common sense than you realize.",
+      "cn": "放心吧，他知道的常识很可能比你以为的要多得多。"
+    },
+    {
+      "en": "Rest assured, if you owe taxes, we will collect them.",
+      "cn": "不用多想，如果你欠税，我们会去收的。"
+    },
+    {
+      "en": "She assured us not to worry.",
+      "cn": "她使我们相信不用担心."
+    },
+    {
+      "en": "She did her best to appear more self-assured than she felt.",
+      "cn": "她竭力让自己表现得比实际更自信。"
+    },
+    {
+      "en": "She was self-assured, poised, almost self-satisfied.",
+      "cn": "她自信、沉着，几乎有些洋洋自得。"
+    },
+    {
+      "en": "You can rest assured that we will do our best.",
+      "cn": "你放心吧,我们会尽力而为的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "assuring",
+          "tran_cn": " 保证的；确信的；使人有信心的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "assuredly",
+          "tran_cn": " 确实地；确信地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "assurance",
+          "tran_cn": " 保证；保险；确信；断言"
+        },
+        {
+          "word": "assuredness",
+          "tran_cn": " 确实；自信；确信；厚颜"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "assuring",
+          "tran_cn": " 确信（assure的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "assure",
+          "tran_cn": " 保证；担保；使确信；弄清楚"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "established",
+            "confident",
+            "fixed",
+            "defined",
+            "positive"
+          ],
+          "tran_cn": "确定的；自信的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "insured"
+          ],
+          "tran_cn": "[保险]被保险人"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "courageous",
+            "insistent",
+            "poised",
+            "positive"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "engaged",
+            "stipulated"
+          ],
+          "tran_cn": "保证；确实（assure的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "assured destruction",
+      "tran_cn": "保证毁灭；确保摧毁"
+    },
+    {
+      "phrase": "rest assured",
+      "tran_cn": "放心；确信无疑"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "确定的，自信的，自大的，狂妄的，胆大妄为的，<英>被保了险的",
+      "tran_en": "certain to happen or to be achieved"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使相信，使确信(assure的过去式)，保险，使相信，使确信(assure的过去式和过去分词)，保险"
+    }
+  ],
+  "exchange": {}
+}

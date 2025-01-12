@@ -1,0 +1,72 @@
+{
+  "word": "duplicitous",
+  "ipa": {
+    "us": "dju:'plɪsɪtəs",
+    "uk": "dju'plɪsɪtəs"
+  },
+  "sentences": [
+    {
+      "en": "But the phone and cable companies are themselves being duplicitous.",
+      "cn": "但电话和有线电视公司本身就是个滑头."
+    },
+    {
+      "en": "He is a possessive, duplicitous, and unreasonable man.",
+      "cn": "他是一个占有欲强，奸诈而又不讲理的男人。"
+    },
+    {
+      "en": "In the presidential campaign, his opponents attacked him duplicitous and engage in intrigue.",
+      "cn": "在竞选总统时, 他的对手攻击他两面三刀,搞阴谋诡计."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "duple",
+          "tran_cn": " 双重的；二倍的；双拍子的"
+        },
+        {
+          "word": "duplex",
+          "tran_cn": " 二倍的，双重的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "duplex",
+          "tran_cn": " 双工；占两层楼的公寓套房"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "dual",
+            "double"
+          ],
+          "tran_cn": "奸诈的；双重的；搞两面派的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "搞两面派的",
+      "tran_en": "Someone who is duplicitous is deceitful"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "duplicity"
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "word": "induction",
+  "ipa": {
+    "us": "ɪnˈdʌkʃn",
+    "uk": "ɪnˈdʌkʃn"
+  },
+  "sentences": [
+    {
+      "en": "Both induction and deduction are essential characteristics of rational thinking.",
+      "cn": "归纳与推论都是理性思维的重要特征."
+    },
+    {
+      "en": "Every induction is a speculation.",
+      "cn": "所有归纳推理都是一种猜测."
+    },
+    {
+      "en": "His induction as a teacher was a turning point in his life.",
+      "cn": "他就任教师工作是他一生的转折点."
+    },
+    {
+      "en": "Induction is often used for any inference whose premises do not entail its c onclusions.",
+      "cn": "归纳这个词常被用来指任何前提并不导出其结论的推理."
+    },
+    {
+      "en": "Mrs Simpson is responsible for the induction of new library staff.",
+      "cn": "辛普森太太负责图书馆新职员的入职培训。"
+    },
+    {
+      "en": "She was told to present herself at the Town Hall at 11.30 for the induction ceremony.",
+      "cn": "她被告知于11点30分在市政厅参加就职仪式。"
+    },
+    {
+      "en": "The induction of a tumor by a virus in vivo can be reproduced in tissue cultures.",
+      "cn": "病毒在体内诱发肿瘤可以在组织培养中再现."
+    },
+    {
+      "en": "The magnetic signals are sensed by induction coils.",
+      "cn": "磁信号由感应线圈所检测."
+    },
+    {
+      "en": "The principle of electromagnet induction had thus been discovered.",
+      "cn": "电磁感应定律就是这样发现的."
+    },
+    {
+      "en": "The wires and detectors are liable to induction from the power lines.",
+      "cn": "导线和检波器易受高压线感应."
+    },
+    {
+      "en": "They can continue by transfinite induction.",
+      "cn": "利用超限归纳法,他们可继续下去."
+    },
+    {
+      "en": "This induction process begins a few weeks before fruit bud initiation.",
+      "cn": "这个孕育花芽的过程是在花芽分化前的几个星期开始的."
+    },
+    {
+      "en": "This is a double induction coil.",
+      "cn": "这是一对感应线圈."
+    },
+    {
+      "en": "This is an induction motor.",
+      "cn": "这是台感应电动机."
+    },
+    {
+      "en": "To melt the charge, radio frequency ( induction heating ) or resistance heating have been used.",
+      "cn": "为了熔化进料, 可用射频 ( 感应加热 ) 或电阻加热法."
+    },
+    {
+      "en": "We pass to the induction step.",
+      "cn": "我们转向归纳步骤."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "induced",
+          "tran_cn": "感应的；诱发型"
+        },
+        {
+          "word": "inductive",
+          "tran_cn": "[数] 归纳的；[电] 感应的；诱导的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inductance",
+          "tran_cn": "电感；感应系数；自感应"
+        },
+        {
+          "word": "inductee",
+          "tran_cn": "应召入伍的士兵；就任者"
+        },
+        {
+          "word": "inductor",
+          "tran_cn": "感应器；授职者；圣职授予的人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "induced",
+          "tran_cn": "引诱；说服（induce的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "induce",
+          "tran_cn": "诱导；引起；引诱；感应"
+        },
+        {
+          "word": "induct",
+          "tran_cn": "引导；感应；使…就职；征召入伍"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "reaction",
+            "inductive method"
+          ],
+          "tran_cn": "[电磁]感应；[数]归纳法；感应现象"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accession",
+            "admission",
+            "draft",
+            "logic"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "electromagnetic induction",
+      "tran_cn": "电磁感应，电磁效应；感应电流；电磁离合器"
+    },
+    {
+      "phrase": "induction brazing",
+      "tran_cn": "感应钎焊，高频钎焊"
+    },
+    {
+      "phrase": "induction coil",
+      "tran_cn": "感应线圈；电感器"
+    },
+    {
+      "phrase": "induction cooker",
+      "tran_cn": "n. 电磁炉"
+    },
+    {
+      "phrase": "induction furnace",
+      "tran_cn": "感应炉"
+    },
+    {
+      "phrase": "induction generator",
+      "tran_cn": "感应发电机；异步发电机"
+    },
+    {
+      "phrase": "induction hardening",
+      "tran_cn": "感应硬化，感应淬火"
+    },
+    {
+      "phrase": "induction heater",
+      "tran_cn": "电感应加热器"
+    },
+    {
+      "phrase": "induction heating",
+      "tran_cn": "感应加热"
+    },
+    {
+      "phrase": "induction machine",
+      "tran_cn": "感应式电机"
+    },
+    {
+      "phrase": "induction melting",
+      "tran_cn": "感应熔化，感应电熔"
+    },
+    {
+      "phrase": "induction method",
+      "tran_cn": "归纳法"
+    },
+    {
+      "phrase": "induction motor",
+      "tran_cn": "感应电动机；异步电动机"
+    },
+    {
+      "phrase": "induction period",
+      "tran_cn": "[化]诱导期"
+    },
+    {
+      "phrase": "induction time",
+      "tran_cn": "诱导时间，诱发时间"
+    },
+    {
+      "phrase": "induction training",
+      "tran_cn": "入职培训；就职培训"
+    },
+    {
+      "phrase": "linear induction motor",
+      "tran_cn": "直线感应电动机；线性感应电动机"
+    },
+    {
+      "phrase": "magnetic induction",
+      "tran_cn": "磁感应，磁感应强度"
+    },
+    {
+      "phrase": "mathematical induction",
+      "tran_cn": "数学归纳法"
+    },
+    {
+      "phrase": "vacuum induction furnace",
+      "tran_cn": "真空感应炉；真空感应电炉"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "归纳（法），（电或磁的）感应，诱发，就职，就职典礼",
+      "tran_en": "the introduction of someone into a new job, company, official position etc, or the ceremony at which this is done"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "inductions"
+    ]
+  }
+}

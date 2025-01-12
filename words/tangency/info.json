@@ -1,0 +1,64 @@
+{
+  "word": "tangency",
+  "ipa": {
+    "us": "'tændʒənsɪ",
+    "uk": "'tændʒənsɪ"
+  },
+  "sentences": [
+    {
+      "en": "Based on the analysis, determine the unicity of point of tangency and point of intersection.",
+      "cn": "基于在解析几何的基础上确定了切线和交点的唯一性."
+    },
+    {
+      "en": "G 1 means they are smoothly connected up to one differentiation , or are tangency continuous.",
+      "cn": "G1意味着两个对象光顺连接,一阶微分连续, 或者是相切连续的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tangent",
+          "tran_cn": " 切线的，相切的；接触的；离题的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "tangent",
+          "tran_cn": " [数] 切线，[数] 正切"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contact",
+            "touch"
+          ],
+          "tran_cn": "相切，接触"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "point of tangency",
+      "tran_cn": "切点"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "接触，相切"
+    }
+  ],
+  "exchange": {}
+}

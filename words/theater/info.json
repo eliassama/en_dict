@@ -1,0 +1,227 @@
+{
+  "word": "theater",
+  "ipa": {
+    "us": "ˈθɪətə(r)",
+    "uk": "ˈθiːətər"
+  },
+  "sentences": [
+    {
+      "en": "A great throng packed out the theater and overflowed into the corridors.",
+      "cn": "一大群人坐满剧院并且还有人涌到了走廊上."
+    },
+    {
+      "en": "a restaurant catty-corner from the theater",
+      "cn": "斜对着剧院的餐馆"
+    },
+    {
+      "en": "All these books should be grouped under theater.",
+      "cn": "所有这些书应归入戏剧类."
+    },
+    {
+      "en": "Crowds flocked after the popular singer as he left the theater.",
+      "cn": "这位红歌星走出剧场时,成群的人尾随着他."
+    },
+    {
+      "en": "Excuse me, where is the entrance to the theater?",
+      "cn": "请问剧院的入口在哪里?"
+    },
+    {
+      "en": "He became known as the enfant terrible of British theater.",
+      "cn": "他成为英国戏剧界让人头痛的天才。"
+    },
+    {
+      "en": "He could amuse us for hours with his stories of the theater.",
+      "cn": "他能接连几小时地为我们讲戏剧故事逗我们发笑."
+    },
+    {
+      "en": "I am confident you would succeed in the theater.",
+      "cn": "我相信你在戏剧界会成功的."
+    },
+    {
+      "en": "It ushered in the new theater season.",
+      "cn": "它预示了新的戏剧旺季的来临。"
+    },
+    {
+      "en": "The famous actor is now appearing at the Grand Theater.",
+      "cn": "那位著名演员目前正在格兰德剧院演出."
+    },
+    {
+      "en": "The new couple walked arm in arm into the theater.",
+      "cn": "那对新婚夫妇手挽手走进剧院."
+    },
+    {
+      "en": "The patient was sent to the theater.",
+      "cn": "病人被送到了手术室."
+    },
+    {
+      "en": "The theater emptied when the movie ended.",
+      "cn": "电影结束了， 剧院里的人就走空了。"
+    },
+    {
+      "en": "The theater is full to roof.",
+      "cn": "剧场里的人满得快到房顶了."
+    },
+    {
+      "en": "Theater owners lease films from film distributors.",
+      "cn": "剧院老板从电影发行商处租电影放映。"
+    },
+    {
+      "en": "We will have class in the theater this afternoon.",
+      "cn": "今天下午我们将在阶梯教室上课."
+    },
+    {
+      "en": "What time does the theater go in?",
+      "cn": "电影院几点开演?"
+    },
+    {
+      "en": "You know, like fencing, or theater or something.",
+      "cn": "你知道，像是击剑，戏剧表演或什么的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "theatrical",
+          "tran_cn": " 戏剧性的；剧场的，戏剧的；夸张的；做作的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "theatrically",
+          "tran_cn": " 戏剧化地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "theatre",
+          "tran_cn": " 电影院，戏院；戏剧；阶梯式讲堂"
+        },
+        {
+          "word": "theatricality",
+          "tran_cn": " 戏剧风格；不自然；夸张"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "hall",
+            "playhouse",
+            "stadium"
+          ],
+          "tran_cn": "剧场"
+        },
+        {
+          "words": [
+            "arena",
+            "battlefield"
+          ],
+          "tran_cn": "竞技场"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "acting",
+            "action",
+            "amphitheater",
+            "arena",
+            "arts",
+            "audience",
+            "auditorium",
+            "auditory",
+            "boards",
+            "business",
+            "cabaret",
+            "cinema",
+            "club",
+            "company",
+            "concert",
+            "congregation",
+            "dinner",
+            "drama",
+            "dramatic",
+            "dramaturgy",
+            "drive-in",
+            "field",
+            "first-run",
+            "gallery",
+            "gods",
+            "hall",
+            "hat",
+            "histrionic",
+            "house",
+            "in",
+            "lyceum",
+            "movie",
+            "music",
+            "night",
+            "odeum",
+            "of",
+            "opera",
+            "operation",
+            "palace",
+            "performance",
+            "playhouse",
+            "regional",
+            "repertory",
+            "round",
+            "scene",
+            "seat",
+            "show",
+            "stage",
+            "stock",
+            "straw",
+            "summer",
+            "the",
+            "theater",
+            "theatre",
+            "troupe",
+            "war"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "art theater",
+      "tran_cn": "艺术电影院"
+    },
+    {
+      "phrase": "home theater",
+      "tran_cn": "家庭影院；家庭剧院"
+    },
+    {
+      "phrase": "movie theater",
+      "tran_cn": "n. 电影院"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "剧场，戏剧界，戏剧效果，[军]战区"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "theaters"
+    ]
+  }
+}

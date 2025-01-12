@@ -1,0 +1,83 @@
+{
+  "word": "deviance",
+  "ipa": {
+    "us": "ˈdiːvɪəns",
+    "uk": "ˈdiviəns"
+  },
+  "sentences": [
+    {
+      "en": "But also because his deviance is psychologically subversive to the others'spontaneous virility.",
+      "cn": "同时也因为他的偏差,对于他人潜意识中的男性气质有著心理学上的破坏性."
+    },
+    {
+      "en": "By continuously measuring it, network administrators can detect the decrease and deviance of the network quality.",
+      "cn": "藉由持续衡量之, 网路管理者得以察觉网路品质的降低与异常."
+    },
+    {
+      "en": "His mother noticed his deviance , however.",
+      "cn": "但他母亲注意到了他的不正常。"
+    },
+    {
+      "en": "The concern with stigma fits well into broader and older concern with deviance and its labelling.",
+      "cn": "关于烙印的观点与关于异常行为及其标记的更广泛、更古老的思想是完全一致的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "deviant",
+          "tran_cn": " 不正常的；离经叛道的"
+        },
+        {
+          "word": "deviationist",
+          "tran_cn": " 路线偏差分子的；右倾分子的；左倾分子的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "deviant",
+          "tran_cn": " 不正常者；偏移值；变异物"
+        },
+        {
+          "word": "deviationism",
+          "tran_cn": " 异端"
+        },
+        {
+          "word": "deviationist",
+          "tran_cn": " （政党内）路线偏差分子；异端分子"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "anomaly",
+            "abnormality"
+          ],
+          "tran_cn": "异常；异常行为"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "偏常，异常，异常行为"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "deviant"
+    ]
+  }
+}

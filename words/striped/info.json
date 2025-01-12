@@ -1,0 +1,184 @@
+{
+  "word": "striped",
+  "ipa": {
+    "us": "straɪpt",
+    "uk": "straɪpt"
+  },
+  "sentences": [
+    {
+      "en": "a blue and white striped jacket",
+      "cn": "蓝白条上衣"
+    },
+    {
+      "en": "a blue and white striped shirt",
+      "cn": "蓝白条纹的衬衫"
+    },
+    {
+      "en": "A tiger has a striped coat.",
+      "cn": "老虎有着条纹皮毛."
+    },
+    {
+      "en": "He was faultlessly attired in black coat and striped trousers.",
+      "cn": "他穿着黑色上衣和条纹裤子，简直无可挑剔。"
+    },
+    {
+      "en": "He was wearing striped pajamas.",
+      "cn": "他穿着带条纹的睡衣裤."
+    },
+    {
+      "en": "His striped tie showed up well against his dark red shirt.",
+      "cn": "他那条纹领带在深红色的衬衫下十分醒目."
+    },
+    {
+      "en": "His striped tie was loosened at his throat.",
+      "cn": "他的条纹领带松松地挂在脖子上。"
+    },
+    {
+      "en": "I identify them by their red and white striped collar mark.",
+      "cn": "这是我从他们领章上的红白条纹看出来的."
+    },
+    {
+      "en": "Jack's plaid shirt didn't mix well with his striped trousers.",
+      "cn": "杰克的方格衬衫与条纹长裤不相配."
+    },
+    {
+      "en": "She sat under a striped umbrella.",
+      "cn": "她坐在一把条纹伞下."
+    },
+    {
+      "en": "Striped awnings had been stretched across the courtyard.",
+      "cn": "一些条纹雨篷撑开架在院子上方."
+    },
+    {
+      "en": "The stick of candy was striped with red.",
+      "cn": "这根棒糖上有红色条纹."
+    },
+    {
+      "en": "The striped band round a policeman's sleeve is to signify that he is on duty.",
+      "cn": "警察袖子上的袖标标明他正在执勤."
+    },
+    {
+      "en": "There is a striped sofa along the wall.",
+      "cn": "有一张靠墙放着的有条纹的沙发."
+    },
+    {
+      "en": "They had the hall done out in striped wallpaper.",
+      "cn": "他们在大厅贴了有条纹的墙纸."
+    },
+    {
+      "en": "Young men paraded up and down the street in striped blazers.",
+      "cn": "小伙子们穿着鲜艳的条纹运动衫在街上招摇地走来走去."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "stripped",
+          "tran_cn": " 剥去的"
+        },
+        {
+          "word": "stripy",
+          "tran_cn": " 有条纹的；条纹状的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "strip",
+          "tran_cn": " 带；条状；脱衣舞"
+        },
+        {
+          "word": "stripe",
+          "tran_cn": " 条纹，斑纹；种类"
+        },
+        {
+          "word": "striping",
+          "tran_cn": " 拆开；去膜；加条纹；条纹图案"
+        },
+        {
+          "word": "stripper",
+          "tran_cn": " 脱衣舞女；剥离器；脱模机"
+        },
+        {
+          "word": "stripping",
+          "tran_cn": " 剥离；剥脱；拆封"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "striping",
+          "tran_cn": " 给…加条纹（strip的ing形式）"
+        },
+        {
+          "word": "stripped",
+          "tran_cn": " 剥夺（strip的过去分词形式）；脱衣；把…剪成条状"
+        },
+        {
+          "word": "stripping",
+          "tran_cn": " 剥去；脱掉；拆除（strip的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "strip",
+          "tran_cn": " 脱去衣服"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "strip",
+          "tran_cn": " 剥夺；剥去；脱去衣服"
+        },
+        {
+          "word": "stripe",
+          "tran_cn": " 加条纹于…"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "streaky",
+            "brinded"
+          ],
+          "tran_cn": "有条纹的；有斑纹的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "magnetic stripe",
+      "tran_cn": "磁条，磁片"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有条纹的，有斑纹的，喝醉了的",
+      "tran_en": "having lines or bands of colour"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "被剥去（strip的过去分词）"
+    }
+  ],
+  "exchange": {}
+}

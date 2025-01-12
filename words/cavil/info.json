@@ -1,0 +1,113 @@
+{
+  "word": "cavil",
+  "ipa": {
+    "us": "ˈkævl",
+    "uk": "ˈkævəl"
+  },
+  "sentences": [
+    {
+      "en": "A carper will cavil at anything.",
+      "cn": "爱挑剔的人对什么都挑剔."
+    },
+    {
+      "en": "Cavil will enter in at any hole, and if it finds none if will make one.",
+      "cn": "苛责简直无孔不入,没孔也能挖个洞;欲加之罪,何患无辞."
+    },
+    {
+      "en": "Even he could find nothing to cavil about.",
+      "cn": "连他都挑不出什么毛病来."
+    },
+    {
+      "en": "I don't think this is the time to cavil at the wording of the report.",
+      "cn": "我觉得现在还不是对报告的措辞较真的时候。"
+    },
+    {
+      "en": "Let us not cavil too much.",
+      "cn": "我们就别太挑剔了。"
+    },
+    {
+      "en": "These cavils aside, most of the essays are very good indeed.",
+      "cn": "撇开这些吹毛求疵的意见，大多数论文确实非常好。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "caviler",
+          "tran_cn": " 苛责者；吹毛求疵者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "fault-finding",
+            "hypercriticism"
+          ],
+          "tran_cn": "吹毛求疵；苛责；无端的指责"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "nit-pick",
+            "find quarrel in a straw"
+          ],
+          "tran_cn": "吹毛求疵；挑剔"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "find quarrel in a straw",
+            "nibble at"
+          ],
+          "tran_cn": "吹毛求疵；无端指摘"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "吹毛求疵；苛责；无端的指责",
+      "tran_en": "Cavil is also a noun"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "挑剔, 找错",
+      "tran_en": "to make unnecessary complaints about someone or something"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "挑剔，吹毛求疵"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "cavils"
+    ],
+    "past": [
+      "cavilled"
+    ],
+    "done": [
+      "cavilled"
+    ],
+    "ing": [
+      "cavilling"
+    ]
+  }
+}

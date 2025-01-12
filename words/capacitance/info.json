@@ -1,0 +1,161 @@
+{
+  "word": "capacitance",
+  "ipa": {
+    "us": "kəˈpæsɪtəns",
+    "uk": "kəˈpæsɪtəns"
+  },
+  "sentences": [
+    {
+      "en": "Can measure frequency and cycle. 8846 A still can measure capacitance and temperature.",
+      "cn": "能够测量频率和周期. 8846A还能够测量电容和温度."
+    },
+    {
+      "en": "Can you ship Trimmer Capacitors with the angle and capacitance value preset?",
+      "cn": "你们可以提供带预设角和电容值的微调电容器 吗 ?"
+    },
+    {
+      "en": "Capacitance from the switch contacts to the coil is typically 0.2 –15 pF.",
+      "cn": "开关触点与线圈之间的电容通常在0.2～15pF之间."
+    },
+    {
+      "en": "Features: Excellent self - healing, high capacitance rate, low, high reliability.",
+      "cn": "特点: 具有良好自愈性 、 比率容量大 、 损耗低 、 可靠性高."
+    },
+    {
+      "en": "Features: High gain bandwidth product, small output capacitance, low noise figure.",
+      "cn": "特点: 产品增益带宽高, 输出电容小, 噪声系数低."
+    },
+    {
+      "en": "Have excellent frequency characteristic and small deviation of Capacitance.",
+      "cn": "具容量误差小,频率响应高之特质."
+    },
+    {
+      "en": "HBTs : Concept: emitter efficiency, base transport, base resistance, junction capacitance.",
+      "cn": "概念: 射极效率, 基极传输, 基极阻抗, 接面电容."
+    },
+    {
+      "en": "Inductance - capacitance circuit having infinite reactance, zero susceptance at resonance.",
+      "cn": "谐振时阻抗无穷大, 电纳为零的电感-电容电路."
+    },
+    {
+      "en": "Sampling of propellants under typical operating conditions may be necessary to obtain valid capacitance information.",
+      "cn": "为了获得有效的容量资料,在典型的工作条件下对推进剂取样是很必要的."
+    },
+    {
+      "en": "The ability of a capacitor to store electrical energy is termed capacitance.",
+      "cn": "电容器存储电能的能力叫电容."
+    },
+    {
+      "en": "The effect of the diffusion capacitance can be troublesome.",
+      "cn": "扩散电容会引起麻烦."
+    },
+    {
+      "en": "The effects of inductance and capacitance make it necessary to carefully design all AC transmission systems.",
+      "cn": "电感和电容的影响,使人们必须精心地设计所有的交流输电系统."
+    },
+    {
+      "en": "The unknown capacitance should be in a shielded test fixture.",
+      "cn": "应当将未知电容放在屏蔽的测试夹具中."
+    },
+    {
+      "en": "This change of capacitance value can be detected by TS.",
+      "cn": "TS可以探测到电容量的这种变化."
+    },
+    {
+      "en": "With sufficient forward bias, the diffusion capacitance can easily exceed the space charge region capacitance.",
+      "cn": "当正向偏压足够高时, 扩散电容很容易超过空间电荷压电容."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "capacitive",
+          "tran_cn": "电容性的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "capability",
+          "tran_cn": "才能，能力；性能，容量"
+        },
+        {
+          "word": "capaciousness",
+          "tran_cn": "宽敞；容量大"
+        },
+        {
+          "word": "capacitor",
+          "tran_cn": "[电] 电容器"
+        },
+        {
+          "word": "capacity",
+          "tran_cn": "能力；容量；资格，地位；生产力"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "electric capacity",
+            "permittance"
+          ],
+          "tran_cn": "[电]电容；电流容量"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "capacitance coupling",
+      "tran_cn": "电容耦合"
+    },
+    {
+      "phrase": "capacitance measurement",
+      "tran_cn": "电容测量"
+    },
+    {
+      "phrase": "coupling capacitance",
+      "tran_cn": "耦合电容"
+    },
+    {
+      "phrase": "distributed capacitance",
+      "tran_cn": "[电]分布电容；[电]分散式电容"
+    },
+    {
+      "phrase": "equivalent capacitance",
+      "tran_cn": "等效电容"
+    },
+    {
+      "phrase": "parasitic capacitance",
+      "tran_cn": "[计]寄生电容"
+    },
+    {
+      "phrase": "specific capacitance",
+      "tran_cn": "单位电容，比电容"
+    },
+    {
+      "phrase": "stray capacitance",
+      "tran_cn": "杂散电容；寄生电容"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "电容，电流容量，电容器",
+      "tran_en": "the property of a system that enables it to store electric charge"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "capacitances"
+    ]
+  }
+}

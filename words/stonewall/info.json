@@ -1,0 +1,107 @@
+{
+  "word": "stonewall",
+  "ipa": {
+    "us": "ˌstəʊnˈwɔ:l",
+    "uk": "ˈstoʊnˈwɔl"
+  },
+  "sentences": [
+    {
+      "en": "He did his best this week to stonewall questions and to block even the most modest proposals.",
+      "cn": "他这周竭力避免作出明确答复，甚至连一些最温和的建议都企图阻拦。"
+    },
+    {
+      "en": "The administration is just stonewalling in an attempt to hide their political embarrassment.",
+      "cn": "政府只是在故意拖延，企图掩盖其政治窘态。"
+    },
+    {
+      "en": "The defense claims that the prosecution and the labs they employ stonewall'discovery requests.",
+      "cn": "辩方主张控方和他们雇用的实验室都妨碍了辩方的发现请求."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stonewalling",
+          "tran_cn": " 石墙；阻碍议程"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "stonewalling",
+          "tran_cn": " 妨碍（stonewall的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "block",
+            "forbid",
+            "impede",
+            "thwart"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "stand in the way of",
+            "hinder from"
+          ],
+          "tran_cn": "妨碍；阻碍；小心翼翼地打球"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "let",
+            "slow"
+          ],
+          "tran_cn": "妨碍；阻碍；小心翼翼地打球"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "慎重的打球, 妨碍, 阻碍",
+      "tran_en": "to delay a discussion, decision etc by talking a lot and refusing to answer questions"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（用冗长发言或拒绝回答问题等）拖延[阻碍]议事，设置障碍，拒绝执行命令，拒绝服从命令，（板球中）打守势球，小心地打慢球"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "stonewalls"
+    ],
+    "past": [
+      "stonewalled"
+    ],
+    "done": [
+      "stonewalled"
+    ],
+    "ing": [
+      "stonewalling"
+    ]
+  }
+}

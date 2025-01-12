@@ -1,0 +1,216 @@
+{
+  "word": "exist",
+  "ipa": {
+    "us": "ɪɡˈzɪst",
+    "uk": "ɪɡˈzɪst"
+  },
+  "sentences": [
+    {
+      "en": "Carbon steels exist in three stable crystalline phases.",
+      "cn": "碳素钢含有3种稳定的结晶状态."
+    },
+    {
+      "en": "Does life exist on Mars?",
+      "cn": "火星上有生命吗?"
+    },
+    {
+      "en": "Does life exist on other planets?",
+      "cn": "其他行星上有生命吗？"
+    },
+    {
+      "en": "For all practical purposes the treaty has already ceased to exist.",
+      "cn": "实际上协议已经不复存在。"
+    },
+    {
+      "en": "Good and evil may co-exist within one family.",
+      "cn": "善与恶可能并存于一体。"
+    },
+    {
+      "en": "He is always imagining dangers that don't exist.",
+      "cn": "他总是想着那些其实并不存在的危险."
+    },
+    {
+      "en": "He thought that if he couldn't see something, it didn't exist.",
+      "cn": "他认为自己看不见的东西就不存在。"
+    },
+    {
+      "en": "I would have to learn, little by little, to exist alone.",
+      "cn": "我得慢慢学会独自生活。"
+    },
+    {
+      "en": "It is possible that such cases exist.",
+      "cn": "盖有之矣."
+    },
+    {
+      "en": "Machines now exist to pack olives in jars.",
+      "cn": "现在可用机器将橄榄装进罐子里。"
+    },
+    {
+      "en": "Many of the groups exist in name only.",
+      "cn": "许多团体实际上是有名无实。"
+    },
+    {
+      "en": "Many possible orderings may exist.",
+      "cn": "组合方式可能有许多种。"
+    },
+    {
+      "en": "Opportunities exist for students to gain sponsorship.",
+      "cn": "学生有机会获得资助。"
+    },
+    {
+      "en": "Problems also exist in agriculture.",
+      "cn": "农业也存在着一些问题."
+    },
+    {
+      "en": "Stop pretending that the problem doesn’t exist.",
+      "cn": "别再假装这个问题不存在了。"
+    },
+    {
+      "en": "Such people do not exist.",
+      "cn": "这样的人是不存在的."
+    },
+    {
+      "en": "The club will cease to exist if financial help is not found.",
+      "cn": "该俱乐部要是得不到资助将不复存在。"
+    },
+    {
+      "en": "The custom of arranged marriages still exists in many countries.",
+      "cn": "许多国家仍存在包办婚姻的习俗。"
+    },
+    {
+      "en": "The hostages existed on bread and water.",
+      "cn": "人质靠面包和水生存。"
+    },
+    {
+      "en": "There exist many sources of energy both potential and kinetic.",
+      "cn": "存在着许多势能和动能的能源."
+    },
+    {
+      "en": "We existed on a diet of rice.",
+      "cn": "我们靠吃大米过活。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "existent",
+          "tran_cn": " 存在的；生存的"
+        },
+        {
+          "word": "existential",
+          "tran_cn": " 存在主义的；有关存在的；存在判断的"
+        },
+        {
+          "word": "existing",
+          "tran_cn": " 目前的；现存的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "existence",
+          "tran_cn": " 存在，实在；生存，生活；存在物，实在物"
+        },
+        {
+          "word": "existent",
+          "tran_cn": " 生存者；存在的事物"
+        },
+        {
+          "word": "existentialism",
+          "tran_cn": " 存在主义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "existing",
+          "tran_cn": " 存在（exist的现在分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "be",
+            "live",
+            "occur",
+            "prevail",
+            "stand"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "be",
+            "live",
+            "subsist"
+          ],
+          "tran_cn": "存在;生存"
+        },
+        {
+          "words": [
+            "occur",
+            "prevail",
+            "stand"
+          ],
+          "tran_cn": "存在;站立"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "exist as",
+      "tran_cn": "以…形式(或形态)存在，作为…而存在，"
+    },
+    {
+      "phrase": "exist in",
+      "tran_cn": "vt. 存在于"
+    },
+    {
+      "phrase": "exist on",
+      "tran_cn": "靠…生存；靠…生活"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "存在，生存",
+      "tran_en": "to happen or be present in a particular situation or place"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 存在； 生存",
+      "tran_en": "to happen or be present in a particular situation or place"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "exists"
+    ],
+    "past": [
+      "existed"
+    ],
+    "done": [
+      "existed"
+    ],
+    "ing": [
+      "existing"
+    ]
+  }
+}

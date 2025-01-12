@@ -1,0 +1,95 @@
+{
+  "word": "homonym",
+  "ipa": {
+    "us": "ˈhɒmənɪm",
+    "uk": "ˈhɑmənɪm"
+  },
+  "sentences": [
+    {
+      "en": "A solution to homonym correction based on Chinese phrase structure grammar is presented in this paper.",
+      "cn": "本文在讨论了汉语短语结构语法的基础上,提出了一种基于汉语短语结构语法的语音消歧方案."
+    },
+    {
+      "en": "Confusion of homonym is a long - term disturbing problem in current Chinese Braille.",
+      "cn": "同音词混淆是 长期 困扰现行盲文的问题."
+    },
+    {
+      "en": "Homonym is a word that is pronounced like another but which has a different meaning.",
+      "cn": "同音异义词指的是读音相同而词义却相异的单词."
+    },
+    {
+      "en": "The nickname comes from the Chinese word for returnees, haiguipai, a homonym for sea turtles.",
+      "cn": "在中文里, 这类人被称为“海归派”.海龟即海归的谐音."
+    },
+    {
+      "en": "The word - building ways mainly consist of homonym, overlap, metaphor, metonymy, abbreviation, loanword or explaining a word in another way.",
+      "cn": "其构词方式主要有谐音 、 重叠 、 比喻 、 借代 、 字母缩写 、 音译借词和别解构词等."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "homonymic",
+          "tran_cn": " 同名的；同音异义字的"
+        },
+        {
+          "word": "homonymous",
+          "tran_cn": " 同名的；双关的；同音异义的"
+        },
+        {
+          "word": "homophonic",
+          "tran_cn": " 齐唱的；同音异义的"
+        },
+        {
+          "word": "homophonous",
+          "tran_cn": " 同音的（等于homophonic）；齐唱的；同音异义的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "homology",
+          "tran_cn": " 同源；相同；异体同形；同族关系"
+        },
+        {
+          "word": "homomorphism",
+          "tran_cn": " [数] 同态，同形；异质同形"
+        },
+        {
+          "word": "homonymy",
+          "tran_cn": " 同音异义"
+        },
+        {
+          "word": "homophony",
+          "tran_cn": " 同音异义；齐唱"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "parallel"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "同形同音异义词，同名",
+      "tran_en": "a word that is spelled the same and sounds the same as another, but is different in meaning or origin. For example, the noun ‘bear’ and the verb ‘bear’ are homonyms."
+    }
+  ],
+  "exchange": {}
+}

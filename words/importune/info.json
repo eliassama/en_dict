@@ -1,0 +1,84 @@
+{
+  "word": "importune",
+  "ipa": {
+    "us": "ˌɪmpɔ:ˈtju:n",
+    "uk": "ˌɪmpɔrˈtun"
+  },
+  "sentences": [
+    {
+      "en": "Don't importune me with your complaints.",
+      "cn": "不要老是向我发牢骚."
+    },
+    {
+      "en": "I importune you to help them.",
+      "cn": "我恳求你去帮助他们."
+    },
+    {
+      "en": "One can no longer walk the streets without seeing beggars importuning passersby.",
+      "cn": "走在这些街道上总能看到乞丐纠缠行人乞讨。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "importunity",
+          "tran_cn": " 强求；硬要"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "entreat",
+            "plead"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "exact",
+            "extort"
+          ],
+          "tran_cn": "强求；一再向某人要求"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "强求",
+      "tran_en": "to ask someone for something continuously in an annoying or unreasonable way"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "纠缠，向（某人）不断要求，（妓女）拉（客）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "importunes"
+    ],
+    "past": [
+      "importuned"
+    ],
+    "done": [
+      "importuned"
+    ],
+    "ing": [
+      "importuning"
+    ]
+  }
+}

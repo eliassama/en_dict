@@ -1,0 +1,201 @@
+{
+  "word": "intend",
+  "ipa": {
+    "us": "ɪnˈtend",
+    "uk": "ɪnˈtend"
+  },
+  "sentences": [
+    {
+      "en": "England intend fielding their strongest team in next month's World Youth Championship.",
+      "cn": "英格兰意欲在下月的世界青年锦标赛中推出他们的最强阵容。"
+    },
+    {
+      "en": "He seems to intend mischief.",
+      "cn": "看来他想捣蛋."
+    },
+    {
+      "en": "How long do you intend to stay with the firm?",
+      "cn": "你准备在公司干多久?"
+    },
+    {
+      "en": "I didn't intend to denigrate her achievements.",
+      "cn": "我不是想贬低她的成绩。"
+    },
+    {
+      "en": "I fully intended (= definitely intended) to pay for the damage.",
+      "cn": "我确实诚心想赔偿损失。"
+    },
+    {
+      "en": "I intend to rewrite the story for younger children.",
+      "cn": "我想为年纪更小的孩子改写这篇故事。"
+    },
+    {
+      "en": "I intend to right that wrong.",
+      "cn": "我打算纠正那个错误。"
+    },
+    {
+      "en": "I intend to transfer the property to my son.",
+      "cn": "我想把这笔财产转给我儿子."
+    },
+    {
+      "en": "I understand by your remark that you intend to leave the firm.",
+      "cn": "从你的言谈话语中,我看出你打算离开那个公司."
+    },
+    {
+      "en": "In this and all of our efforts, we intend to work smarter, not lower our standards or quality of service.",
+      "cn": "通过我们这些努力，我们想要更聪明地开展工作，而并不降低我们的标准或服务的质量。"
+    },
+    {
+      "en": "It's only fair to let her know that you intend to apply.",
+      "cn": "告诉她你打算申请，这才算公平嘛。"
+    },
+    {
+      "en": "Maybe he intends to leave her.",
+      "cn": "也许他打算离开她。"
+    },
+    {
+      "en": "Oddly enough, that is precisely what I intend.",
+      "cn": "说也奇怪， 那正是我的打算。"
+    },
+    {
+      "en": "She doesn't intend to be repaid to her kindness.",
+      "cn": "她不图回报她的好心."
+    },
+    {
+      "en": "They intend to allocate more places to mature students this year.",
+      "cn": "今年他们打算给成人学生提供更多的名额。"
+    },
+    {
+      "en": "They intend to be an army of light against the onslaught of darkness.",
+      "cn": "他们打算成为一支光明之师对抗黑暗军团的猛烈进攻。"
+    },
+    {
+      "en": "They intend to claim for damages against the three doctors.",
+      "cn": "他们打算向那3位医生索要损害赔偿。"
+    },
+    {
+      "en": "They intend to get their way, by hook or by crook.",
+      "cn": "为达到目的，他们不择手段。"
+    },
+    {
+      "en": "We do not intend to be drawn into the internal strife.",
+      "cn": "我们不想卷入内乱之中."
+    },
+    {
+      "en": "We have the initiative; we intend to keep it.",
+      "cn": "我们拥有主动权；我们不打算放弃它。"
+    },
+    {
+      "en": "What do you intend doing when you get to this place?",
+      "cn": "你打算到这里干什么？"
+    },
+    {
+      "en": "What exactly did you intend by that remark?",
+      "cn": "你那句话到底想说什么？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "intended",
+          "tran_cn": " 故意的，有意的；打算中的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "intended",
+          "tran_cn": " 已订婚者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "intended",
+          "tran_cn": " 打算；准备（intend的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aim",
+            "contemplate",
+            "design",
+            "have",
+            "in",
+            "mean",
+            "mind",
+            "plan",
+            "propose"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "aim",
+            "contemplate",
+            "have",
+            "in",
+            "mean",
+            "mind",
+            "plan",
+            "propose"
+          ],
+          "tran_cn": "想要;打算;提议"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "intend for",
+      "tran_cn": "希望有或接到；打算成为……"
+    },
+    {
+      "phrase": "intend to do",
+      "tran_cn": "想要做；想要做某事"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "打算，计划，想要，意指",
+      "tran_en": "If you intend to do something, you have decided or planned to do it."
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 想要， 打算， 计划； 打算使…， 想让…做",
+      "tran_en": "If you intend to do something, you have decided or planned to do it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "intends"
+    ],
+    "past": [
+      "intended"
+    ],
+    "done": [
+      "intended"
+    ],
+    "ing": [
+      "intending"
+    ]
+  }
+}

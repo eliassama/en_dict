@@ -1,0 +1,174 @@
+{
+  "word": "diagnostic",
+  "ipa": {
+    "us": "ˌdaɪəgˈnɒstɪk",
+    "uk": "ˌdaɪəgˈnɑstɪk"
+  },
+  "sentences": [
+    {
+      "en": "...X-rays and other diagnostic tools.",
+      "cn": "…X光和其他诊断工具。"
+    },
+    {
+      "en": "A third group of species with diagnostic value are the constant companions.",
+      "cn": "具有鉴别价值的第三组植物是恒有伴生种."
+    },
+    {
+      "en": "An intelligent computer will be an indispensable diagnostic tool for doctors.",
+      "cn": "智能计算机将成为医生不可或缺的诊断工具。"
+    },
+    {
+      "en": "Both electrocardiograms and electroencephalograms are invaluable diagnostic tools in modern medicine.",
+      "cn": "心电图和脑电图在现代医学中是非常珍贵的诊断工具."
+    },
+    {
+      "en": "His diagnostic skills were regarded as remarkable.",
+      "cn": "人们认为,他的诊断能力卓尔不群."
+    },
+    {
+      "en": "Objective : To improve CT diagnostic value of extrusion disc in intervertebral foramen.",
+      "cn": "目的: 提高对椎间孔内腰椎间盘突出的CT诊断及临床意义的认识."
+    },
+    {
+      "en": "Objective : To study the diagnostic methods of mammary duct ectasia after operation.",
+      "cn": "目的: 探讨乳腺导管扩张症的术前诊断方法."
+    },
+    {
+      "en": "Objective To investigate the diagnostic value of ultrasound in acute appendicitis.",
+      "cn": "目的探讨超声检查在急性阑尾炎诊断中的应用价值."
+    },
+    {
+      "en": "One of the most important functions of the diagnostic microbiology laboratory.",
+      "cn": "微生物实验室诊断是最重要的手段之一."
+    },
+    {
+      "en": "The enzyme immunoassay diagnostic procedure was first described in 1971.",
+      "cn": "酶免疫试验的诊断操作方法是于1971年首次描述的."
+    },
+    {
+      "en": "The feature is not yet diagnostic.",
+      "cn": "特征尚未判定."
+    },
+    {
+      "en": "The lack of good diagnostic test isn't fortunate.",
+      "cn": "缺乏好的诊断性测试是不利的."
+    },
+    {
+      "en": "The resistivity contours appear much less diagnostic of anomalous bodies below the surface.",
+      "cn": "地面下方的异常体,在视电阻率等值线上并无明显的反映."
+    },
+    {
+      "en": "The wireless set resumes its original state ( LSM ) after diagnostic communication.",
+      "cn": "诊断通讯结束后,无线电收音机重新回到诊断前状态 ( LSM )."
+    },
+    {
+      "en": "These features serve to decrease the level of diagnostic suspicion.",
+      "cn": "这些情况都降低了诊断的警惕性."
+    },
+    {
+      "en": "This failure mode would have been extremely difficult to detect with any other diagnostic technique.",
+      "cn": "这种失效模式用其他任何诊断技术来检测都将是极其困难的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "diagnosing",
+          "tran_cn": " 诊断"
+        },
+        {
+          "word": "diagnosis",
+          "tran_cn": " 诊断"
+        },
+        {
+          "word": "diagnostician",
+          "tran_cn": " 诊断专家；诊断医生"
+        },
+        {
+          "word": "diagnostics",
+          "tran_cn": " 诊断学（用作单数）"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "diagnosing",
+          "tran_cn": " 诊断（diagnose的现在分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "diagnose",
+          "tran_cn": " 诊断；判断"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "diagnose",
+          "tran_cn": " 诊断；断定"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "clinical method"
+          ],
+          "tran_cn": "[临床][计]诊断法；诊断结论"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "characteristic",
+            "significant"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "diagnostic system",
+      "tran_cn": "诊断系统"
+    },
+    {
+      "phrase": "diagnostic test",
+      "tran_cn": "诊断试验"
+    },
+    {
+      "phrase": "diagnostic tool",
+      "tran_cn": "诊断工具"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "诊断的，判断的，特征的",
+      "tran_en": "relating to or used for discovering what is wrong with someone or something"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "诊断法，诊断程式，诊断结论"
+    }
+  ],
+  "exchange": {}
+}

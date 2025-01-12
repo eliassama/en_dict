@@ -1,0 +1,170 @@
+{
+  "word": "viscous",
+  "ipa": {
+    "us": "ˈvɪskəs",
+    "uk": "ˈvɪskəs"
+  },
+  "sentences": [
+    {
+      "en": "A high purity, high viscous organic anti - sediment agent was developed.",
+      "cn": "研制了一种高纯度 、 高粘度有机防沉剂."
+    },
+    {
+      "en": "Another algorithm was developed by the idea of viscous fluid model.",
+      "cn": "因此,采用一种基于黏滞流体模型的变形方法作为预测矫正系统."
+    },
+    {
+      "en": "As the liquid cools, it becomes viscous.",
+      "cn": "这液体冷却后会变黏稠。"
+    },
+    {
+      "en": "Flow of gas or liquid due to a pressure difference is called viscous flow.",
+      "cn": "由于压力差引起的气体或液体流称为滞流."
+    },
+    {
+      "en": "Furnace operation was satisfactory, although the slag was viscous and difficult to tap from the furnace.",
+      "cn": "炉子的操作情况是令人满意的, 但炉渣很粘,出料比较困难."
+    },
+    {
+      "en": "Generally, sand magnifies vibration, while viscous powder soil damps vibration.",
+      "cn": "砂土层一般起放大作用, 粘质粉土层一般起减震作用."
+    },
+    {
+      "en": "Liquids may not be too viscous or be susceptible to crystallization.",
+      "cn": "液体不能太粘稠，也不能易结晶。"
+    },
+    {
+      "en": "PZT - based piezoelectric fibers were fabricated by viscous polymer processing ( VPP ).",
+      "cn": "采用塑性聚合物方法制备了不同成分的PZT基压电纤维."
+    },
+    {
+      "en": "Some investigators maintain that large boulders must be supported by turbulence within a viscous debris flow.",
+      "cn": "有些调查者认为大漂砾是通过粘性泥石流中的涡流搬运的."
+    },
+    {
+      "en": "Suitable for viscous, strong corrosive of or easy to be crystallized media.",
+      "cn": "适于测量腐蚀性较强,且黏稠或易结晶的介质的压力."
+    },
+    {
+      "en": "The monomer, or base epoxy, is a light amber fluid which is usually quite viscous.",
+      "cn": "单体或碱性环氧树脂, 是一种淡琥珀色的液体,通常都是很粘的."
+    },
+    {
+      "en": "The mud is too viscous, you must have all the agitators run.",
+      "cn": "泥浆太稠，你们得让所有的搅拌机都开着。"
+    },
+    {
+      "en": "The viscous drags is equal to the resultant force.",
+      "cn": "粘阻力等于合力."
+    },
+    {
+      "en": "The viscous force constantly drains eddy energy and limits the population of eddies.",
+      "cn": "粘性力不断消耗旋涡的能量,从而抑制着旋涡的繁殖."
+    },
+    {
+      "en": "Viscous Tasting term used to indicate a heavy, dense wine.",
+      "cn": "粘性的:品尝术语,用来指深重的 、 浓厚的葡萄酒."
+    },
+    {
+      "en": "When viscous forces predominate the flow is proportional to the pressure drop across the element.",
+      "cn": "当粘滞力起主导作用时,流量当通过主要部分的压力降或正好."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "viscosity",
+          "tran_cn": "[物] 粘性，[物] 粘度"
+        },
+        {
+          "word": "viscousness",
+          "tran_cn": "黏质；有黏性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "sticky",
+            "gummy"
+          ],
+          "tran_cn": "[物]粘性的；黏的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adherent",
+            "adhesive",
+            "coherent",
+            "sticky"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "viscous damper",
+      "tran_cn": "黏性减振器，黏性阻尼器；粘性阻尼器"
+    },
+    {
+      "phrase": "viscous damping",
+      "tran_cn": "粘滞阻尼"
+    },
+    {
+      "phrase": "viscous dissipation",
+      "tran_cn": "粘性耗散；粘滞耗散；粘滞扩散"
+    },
+    {
+      "phrase": "viscous flow",
+      "tran_cn": "粘性流；滞流"
+    },
+    {
+      "phrase": "viscous fluid",
+      "tran_cn": "粘性流体"
+    },
+    {
+      "phrase": "viscous force",
+      "tran_cn": "粘性力；粘力"
+    },
+    {
+      "phrase": "viscous friction",
+      "tran_cn": "粘性摩擦；粘滞摩擦"
+    },
+    {
+      "phrase": "viscous liquid",
+      "tran_cn": "粘性液体，粘滞流体；黏滞液体，黏性液"
+    },
+    {
+      "phrase": "viscous oil",
+      "tran_cn": "粘性油；稠油区"
+    },
+    {
+      "phrase": "viscous resistance",
+      "tran_cn": "粘性阻力；粘滞阻力"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "黏的，黏性的，半流体的，黏滞的",
+      "tran_en": "(of a liquid 液体) thick and sticky; not flowing freely"
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "viscosity"
+    ]
+  }
+}

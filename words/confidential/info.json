@@ -1,0 +1,196 @@
+{
+  "word": "confidential",
+  "ipa": {
+    "us": "ˌkɒnfɪˈdenʃl",
+    "uk": "ˌkɑːnfɪˈdenʃl"
+  },
+  "sentences": [
+    {
+      "en": "a confidential government report",
+      "cn": "一份机密的政府报告"
+    },
+    {
+      "en": "a confidential secretary",
+      "cn": "机要秘书"
+    },
+    {
+      "en": "Before too long he started involving me in the more confidential aspects of the job.",
+      "cn": "不久，他便开始让我介入工作中更机密的方面。"
+    },
+    {
+      "en": "Doctors are required to keep patients’ records completely confidential .",
+      "cn": "医生必须对病人的病历完全保密。"
+    },
+    {
+      "en": "Don't become too confidential with strangers.",
+      "cn": "不要太信任陌生人."
+    },
+    {
+      "en": "From time to time he passed on confidential information to him.",
+      "cn": "他时不时告诉他一些机密信息。"
+    },
+    {
+      "en": "His face suddenly turned solemn, his voice confidential.",
+      "cn": "他脸上的神情突然严肃起来，声音也压低了。"
+    },
+    {
+      "en": "Please lock up these confidential reports.",
+      "cn": "请把这些机密报告锁起来."
+    },
+    {
+      "en": "Police are investigating the disappearance from council offices of confidential files.",
+      "cn": "警察正在调查市政办公室机密档案被盗一案。"
+    },
+    {
+      "en": "She accused them of leaking confidential information about her private life.",
+      "cn": "她指责他们泄露其私生活的秘密。"
+    },
+    {
+      "en": "She became my confidential secretary.",
+      "cn": "她当了我的机要秘书."
+    },
+    {
+      "en": "The charity says the journalists appear to have obtained confidential documents in an unorthodox manner.",
+      "cn": "慈善机构称那些记者似乎以非正常手段取得了秘密文件。"
+    },
+    {
+      "en": "The information in my possession is strictly confidential.",
+      "cn": "我掌握的情报是绝对机密的."
+    },
+    {
+      "en": "The information will be regarded as strictly confidential (= completely confidential ) .",
+      "cn": "这一信息将被视为绝对机密。"
+    },
+    {
+      "en": "The results of conference are still confidential.",
+      "cn": "会议决议仍保密."
+    },
+    {
+      "en": "The two parties encode confidential data in a form that is not directly readable by the other party.",
+      "cn": "双方将机密资料加密，这样对方就无法直接读取资料。"
+    },
+    {
+      "en": "This communication is confidential.",
+      "cn": "这消息是机密的."
+    },
+    {
+      "en": "We have a confidential exchange of views.",
+      "cn": "我们推心置腹地交换意见."
+    },
+    {
+      "en": "We'll take good care and keep what you've told us strictly confidential, Mr. Lane.",
+      "cn": "莱恩先生，我们会非常小心，对您告诉我们的事严格保密。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "confidence",
+          "tran_cn": " （美）诈骗的；骗得信任的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "confidentially",
+          "tran_cn": " 秘密地；作为心腹话地"
+        },
+        {
+          "word": "confidingly",
+          "tran_cn": " 信任地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "confidence",
+          "tran_cn": " 信心；信任；秘密"
+        },
+        {
+          "word": "confidentiality",
+          "tran_cn": " 机密，[计] 机密性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "off",
+            "record",
+            "secret",
+            "the",
+            "unpublishable"
+          ],
+          "tran_cn": "机密的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "familiar",
+            "inner",
+            "inward,",
+            "inwards",
+            "off",
+            "private",
+            "record",
+            "secret",
+            "the"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "confidential agreement",
+      "tran_cn": "秘密协议；保密契约"
+    },
+    {
+      "phrase": "confidential data",
+      "tran_cn": "机密数据；保密资料；机密资料"
+    },
+    {
+      "phrase": "confidential information",
+      "tran_cn": "机密信息；机密情报"
+    },
+    {
+      "phrase": "keep confidential",
+      "tran_cn": "保密，保守秘密"
+    },
+    {
+      "phrase": "private and confidential",
+      "tran_cn": "机密；保密"
+    },
+    {
+      "phrase": "strictly confidential",
+      "tran_cn": "绝密；极机密"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "机密的，保密的，悄悄的",
+      "tran_en": "spoken or written in secret and intended to be kept secret"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "confidentially"
+    ]
+  }
+}

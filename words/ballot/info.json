@@ -1,0 +1,193 @@
+{
+  "word": "ballot",
+  "ipa": {
+    "us": "ˈbælət",
+    "uk": "ˈbælət"
+  },
+  "sentences": [
+    {
+      "en": "Chairman of the committee was elected by ballot.",
+      "cn": "该委员会主任是投票选举的."
+    },
+    {
+      "en": "He publicly attacked the people who've been calling for secret ballot nominations.",
+      "cn": "他公开抨击了那些主张用不记名投票方式确定任命人选的人。"
+    },
+    {
+      "en": "Her name has been put on the ballot.",
+      "cn": "她已被列为候选人."
+    },
+    {
+      "en": "His nominee for vice president was elected only after a second ballot.",
+      "cn": "他提名的副总统在两轮投票后才当选。"
+    },
+    {
+      "en": "Martinez expressed confidence of victory at the ballot box.",
+      "cn": "马丁内斯表示了对选举获胜的信心。"
+    },
+    {
+      "en": "The ballot boxes have been switched.",
+      "cn": "投票箱被人调换了。"
+    },
+    {
+      "en": "The members have demanded a ballot.",
+      "cn": "会员们要求投票表决."
+    },
+    {
+      "en": "The party leader is elected by secret ballot .",
+      "cn": "政党领袖是通过无记名投票选举产生的。"
+    },
+    {
+      "en": "The people make their wishes known through the ballot box.",
+      "cn": "人们以投票方式表达他们的愿望。"
+    },
+    {
+      "en": "The poll was widely discredited after allegations of ballot rigging.",
+      "cn": "选举舞弊的指控出现后，这次投票测验受到了广泛质疑。"
+    },
+    {
+      "en": "The procedure he created was a two - tier ballot.",
+      "cn": "他倡议的新办法,是两次投票法."
+    },
+    {
+      "en": "The result showed he had polled enough votes to force a second ballot.",
+      "cn": "结果显示，他已获得了足够把对手拖入二次投票的票数。"
+    },
+    {
+      "en": "The state election due in November will be the last such ballot before next year's presidential contest.",
+      "cn": "定于11月举行的州选举将是明年总统竞选前最后一次此类投票选举。"
+    },
+    {
+      "en": "The total ballot was 4500.",
+      "cn": "投票总数为四千五百."
+    },
+    {
+      "en": "The union said they will ballot members on whether to strike.",
+      "cn": "工会称他们将组织会员们秘密投票表决是否罢工。"
+    },
+    {
+      "en": "There was a large ballot.",
+      "cn": "票数很多."
+    },
+    {
+      "en": "They succeeded in putting Perot's name on the ballot in Florida.",
+      "cn": "他们成功地让佩罗在佛罗里达州成为了候选人之一。"
+    },
+    {
+      "en": "Workers at the plant held a ballot and rejected strike action.",
+      "cn": "工厂工人举行投票，否决了罢工行动。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "choice",
+            "poll",
+            "vote"
+          ],
+          "tran_cn": "选票"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abstain",
+            "abstention",
+            "choice",
+            "poll",
+            "suffrage",
+            "ticket",
+            "vote"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "cast one's vote",
+            "poll"
+          ],
+          "tran_cn": "投票；抽签决定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "seek a vote"
+          ],
+          "tran_cn": "使投票表决；拉选票"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ballot box",
+      "tran_cn": "投票箱"
+    },
+    {
+      "phrase": "ballot for",
+      "tran_cn": "抽签；为…投票"
+    },
+    {
+      "phrase": "ballot paper",
+      "tran_cn": "选票；投票用纸"
+    },
+    {
+      "phrase": "by ballot",
+      "tran_cn": "投票选举（或表决）；按抽签决定"
+    },
+    {
+      "phrase": "secret ballot",
+      "tran_cn": "无记名投票"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "无记名投票，选票",
+      "tran_en": "a system of voting, usually in secret, or an occasion when you vote in this way"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": " 投票",
+      "tran_en": "a system of voting, usually in secret, or an occasion when you vote in this way"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "无记名投票",
+      "tran_en": "to ask someone to vote for something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "ballots"
+    ],
+    "third": [
+      "ballots"
+    ],
+    "past": [
+      "balloted"
+    ],
+    "done": [
+      "balloted"
+    ],
+    "ing": [
+      "balloting"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "word": "vivify",
+  "ipa": {
+    "us": "'vɪvəˌfaɪ",
+    "uk": "'vɪvəˌfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "A smile may vivify a face.",
+      "cn": "笑容使面部表情生动起来."
+    },
+    {
+      "en": "Frank's remarks always vivify an otherwise dull story.",
+      "cn": "弗兰克的评语总能让乏味的故事生动起来."
+    },
+    {
+      "en": "His remarks always vivify an otherwise dull story.",
+      "cn": "他的讲话总能让原本平淡无奇的故事变得栩栩如生."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vivacious",
+          "tran_cn": " 活泼的；快活的；有生气的"
+        },
+        {
+          "word": "vivid",
+          "tran_cn": " 生动的；鲜明的；鲜艳的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "vividly",
+          "tran_cn": " 生动地；强烈地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vividness",
+          "tran_cn": " 生动；活泼；明亮"
+        },
+        {
+          "word": "vivification",
+          "tran_cn": " 给与生气；赋予生命；苏醒"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "hasten",
+            "inspire",
+            "refresh"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "enliven",
+            "inform with"
+          ],
+          "tran_cn": "使生动；使活跃；给与生气"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使生动；使活跃；给与生气",
+      "tran_en": "to bring to life; animate "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使具有生气，使生动",
+      "tran_en": "to bring to life; animate "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "vivifies"
+    ],
+    "past": [
+      "vivified"
+    ],
+    "done": [
+      "vivified"
+    ],
+    "ing": [
+      "vivifying"
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "word": "raid",
+  "ipa": {
+    "us": "reɪd",
+    "uk": "reɪd"
+  },
+  "sentences": [
+    {
+      "en": "a bombing raid",
+      "cn": "轰炸"
+    },
+    {
+      "en": "an air raid warning siren",
+      "cn": "空袭警报"
+    },
+    {
+      "en": "In an air raid last night the enemy aircraft bombed the city.",
+      "cn": "在昨晚的空袭中敌机轰炸了该城."
+    },
+    {
+      "en": "It sounds like an air raid siren.",
+      "cn": "那听起来像是空袭警报。"
+    },
+    {
+      "en": "On 2 April 1916 air - raid warnings sounded throughout Edinburgh.",
+      "cn": "1916年4月2日空袭警报响彻了整个爱丁堡."
+    },
+    {
+      "en": "Our house was blown up in an air raid.",
+      "cn": "在一次空袭中我们的房子被炸掉了."
+    },
+    {
+      "en": "People were making for the air-raid shelters below ground.",
+      "cn": "人们正奔向地下防空洞。"
+    },
+    {
+      "en": "She made her way to the kitchen to raid the fridge.",
+      "cn": "她走向厨房去扫荡冰箱。"
+    },
+    {
+      "en": "The army should have operated in conjunction with the fleet to raid the enemy's coast.",
+      "cn": "陆军本应与舰队共同行动，突袭敌方海岸。"
+    },
+    {
+      "en": "The family was killed in an air raid.",
+      "cn": "这家人在一次空袭中遇难。"
+    },
+    {
+      "en": "The hostages were freed in the commando raid.",
+      "cn": "在突击队的突袭行动中，人质获释。"
+    },
+    {
+      "en": "The president was absolutely right in ordering the bombing raid.",
+      "cn": "总统下令发动空袭是绝对合乎道义的。"
+    },
+    {
+      "en": "The raid was a brilliant success.",
+      "cn": "这次偷袭非常成功。"
+    },
+    {
+      "en": "The raid was an unjustifiable act of aggression.",
+      "cn": "那次偷袭是一种不正当的侵略行径。"
+    },
+    {
+      "en": "The rebels attempted a surprise raid on a military camp.",
+      "cn": "叛军试图突袭一处军营。"
+    },
+    {
+      "en": "The village was obliterated in the bombing raid.",
+      "cn": "这个村庄在轰炸袭击中被完全毁灭了."
+    },
+    {
+      "en": "There was a raid on a bank by armed mobs yesterday.",
+      "cn": "昨天发生了一起武装暴徒抢劫银行的事件."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "raider",
+          "tran_cn": " 袭击者；侵入者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "robbery",
+            "assault"
+          ],
+          "tran_cn": "[军]袭击；突袭；搜捕；抢劫"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "aggression",
+            "besiege",
+            "descent",
+            "foray",
+            "harry",
+            "inroad",
+            "invasion",
+            "offense",
+            "offensive",
+            "pirate",
+            "prey",
+            "ransack",
+            "robbery",
+            "storm"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "assault",
+            "attack",
+            "invade",
+            "loot",
+            "pillage",
+            "plunder",
+            "seize"
+          ],
+          "tran_cn": "袭击;侵略;掠夺"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "air raid",
+      "tran_cn": "空袭"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（骑兵队等的）急袭，突然袭击，突击，（军舰等的）游击，劫掠，劫夺，（盗贼，狐等的）侵入，突然查抄[搜捕]，围捕",
+      "tran_en": "a short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": " 劫掠； 突袭",
+      "tran_en": "a short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control"
+    },
+    {
+      "pos": "n&vt",
+      "tran_cn": " 袭击； 突入查抄， 突入搜捕； 劫掠",
+      "tran_en": "a short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "对…进行突然袭击",
+      "tran_en": "if police raid a place, they make a surprise visit to search for something illegal"
+    },
+    {
+      "pos": "v&n",
+      "tran_cn": "袭击",
+      "tran_en": "a short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "对…进行突然袭击，进行奇袭"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "突然袭击[抢劫]，突然搜查，劫掠，打劫"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "raids"
+    ],
+    "third": [
+      "raids"
+    ],
+    "past": [
+      "raided"
+    ],
+    "done": [
+      "raided"
+    ],
+    "ing": [
+      "raiding"
+    ]
+  }
+}

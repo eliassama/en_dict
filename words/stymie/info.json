@@ -1,0 +1,96 @@
+{
+  "word": "stymie",
+  "ipa": {
+    "us": "ˈstaɪmi",
+    "uk": "ˈstaɪmi"
+  },
+  "sentences": [
+    {
+      "en": "Companies have been stymied by the length of time it takes to reach an agreement.",
+      "cn": "数个公司因耗费很长时间以达成协议而受到阻碍。"
+    },
+    {
+      "en": "Investigators have been stymied by uncooperative witnesses.",
+      "cn": "由于目击者不合作，调查人员的工作受阻。"
+    },
+    {
+      "en": "The problem is that companies file patents defensively, to stymie competition.",
+      "cn": "问题是企业,防御性地抢注专利, 这阻碍了竞争."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stymy",
+          "tran_cn": " 妨碍球；困难的境地（等于stymie）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "stymy",
+          "tran_cn": " 完全妨碍；从中作乱"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "stimy"
+          ],
+          "tran_cn": "妨碍球"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "let",
+            "violate"
+          ],
+          "tran_cn": "从中作梗，阻挠；妨碍"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "[高尔夫]妨碍球"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 妨碍， 阻挠",
+      "tran_en": "to prevent someone from doing what they have planned or want to do"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "妨碍，阻挠"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "stymies"
+    ],
+    "past": [
+      "stymied"
+    ],
+    "done": [
+      "stymied"
+    ],
+    "ing": [
+      "stymieing"
+    ]
+  }
+}

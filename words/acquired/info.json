@@ -1,0 +1,161 @@
+{
+  "word": "acquired",
+  "ipa": {
+    "us": "əˈkwaɪəd",
+    "uk": "əˈkwaɪərd"
+  },
+  "sentences": [
+    {
+      "en": "AIDS stands for Acquired Immune Deficiency Syndrome.",
+      "cn": "AIDS是获得性免疫缺损综合征的缩写。"
+    },
+    {
+      "en": "Broad beans are very much an acquired taste.",
+      "cn": "要慢慢适应才能吃得惯蚕豆。"
+    },
+    {
+      "en": "Everton paraded their recently acquired silverware.",
+      "cn": "埃弗顿展示了他们最近获得的银杯。"
+    },
+    {
+      "en": "General Motors acquired a 50% stake in Saab for about $400m.",
+      "cn": "通用汽车公司以大约4亿美元的价格购得了萨博汽车公司50%的股份。"
+    },
+    {
+      "en": "Had he succeeded, he would have acquired a monopoly.",
+      "cn": "要是他当时成功了，他就会取得垄断地位。"
+    },
+    {
+      "en": "He acquired the craft of wood carving in his native town.",
+      "cn": "他在老家学会了木雕手艺."
+    },
+    {
+      "en": "He has acquired a reputation as this country's premier solo violinist.",
+      "cn": "他已经赢得了该国首席小提琴独奏家的名誉。"
+    },
+    {
+      "en": "I acquired lasting respect for tradition and veneration for the past.",
+      "cn": "我开始对传统和历史产生了持久的敬慕."
+    },
+    {
+      "en": "I must have acquired ambivalent attitude towards women from her.",
+      "cn": "我对妇女的矛盾态度一定是从她那里学来的."
+    },
+    {
+      "en": "Living alone is an acquired taste.",
+      "cn": "独处是一种修得的境界。"
+    },
+    {
+      "en": "She has acquired a good knowledge of English.",
+      "cn": "她英语已经学得很好。"
+    },
+    {
+      "en": "She was sitting in her newly-acquired wheelchair.",
+      "cn": "她正坐在新买的轮椅上。"
+    },
+    {
+      "en": "The company has recently acquired new offices in central London.",
+      "cn": "公司最近在伦敦市中心弄到了新的办公室."
+    },
+    {
+      "en": "Use the transferable skills acquired from your previous working background.",
+      "cn": "先前工作中学到的技能能为现在所用的就多加利用。"
+    },
+    {
+      "en": "William has acquired an unshakeable belief in himself.",
+      "cn": "威廉对自己有绝对的信心。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "acquirement",
+          "tran_cn": " 取得；学得；才能；成就"
+        },
+        {
+          "word": "acquiring",
+          "tran_cn": " 捕获，探测；习得；瞄准"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "acquiring",
+          "tran_cn": " 获得（acquire的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "acquire",
+          "tran_cn": " 获得；取得；学到；捕获"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "aposteriori"
+          ],
+          "tran_cn": "[生物][医]后天的；[遗]已获得的；已成习惯的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "captured",
+            "grabbed"
+          ],
+          "tran_cn": "取得；捕获（acquire的过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "acquired immune deficiency syndrome",
+      "tran_cn": "艾滋病；获得性免疫缺陷综合症"
+    },
+    {
+      "phrase": "acquired immunity",
+      "tran_cn": "[医]后天免疫；获得免疫性"
+    },
+    {
+      "phrase": "acquired immunodeficiency syndrome",
+      "tran_cn": "获得性免疫缺陷综合症；爱滋病"
+    },
+    {
+      "phrase": "acquired resistance",
+      "tran_cn": "获得性耐药；获得抗病性"
+    },
+    {
+      "phrase": "acquired taste",
+      "tran_cn": "嗜好；爱好"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（尤指靠自己的努力或行动）获得的，习得的，<医>后天的，起初不喜欢但后来逐渐培养的爱好"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "获得( acquire的过去式和过去分词 )，（使用探测器）捕获（目标），取得，（计算机、机器人等）捕捉",
+      "tran_en": "If you acquire something, you buy or obtain it for yourself, or someone gives it to you"
+    }
+  ],
+  "exchange": {}
+}

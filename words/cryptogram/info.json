@@ -1,0 +1,100 @@
+{
+  "word": "cryptogram",
+  "ipa": {
+    "us": "'krɪptəʊgræm",
+    "uk": "'krɪptəˌgræm"
+  },
+  "sentences": [
+    {
+      "en": "A government uses a cryptogram or secret code.",
+      "cn": "她成功地破译了密码."
+    },
+    {
+      "en": "Cipher Card can offer cryptogram service to PC system and network security device to realize safe storage for files and secure communication for information on network.",
+      "cn": "加密卡可以为个人计算机系统、网络安全设备提供密码服务，以实现数据的安全存储和网络信息的保密通信。"
+    },
+    {
+      "en": "He regarded the universe as a cryptogram set by the Almighty—just as he himself wrapt the discovery of the calculus in cryptogram when he communicated with Leibnitz.",
+      "cn": "他将宇宙视为上帝用密文书写的文件——恰如他与莱布尼兹通信时，把自己关于微积分的发现用一种加密的方式书写一样。"
+    },
+    {
+      "en": "In this thesis, the basic concepts of cryptogram including number theory and modular arithmetic are introduced.",
+      "cn": "本文介绍了密码学的基本概念,包括数论的基础知识和模运算的概念."
+    },
+    {
+      "en": "Lastly, the mixed cryptogram arithmetic was implemented and applied into the application of email encryption.",
+      "cn": "最后, 实现了混合加密算法,并将其应用于加密发送电子邮件中."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "cryptographic",
+          "tran_cn": " 关于暗号的，用密码写的"
+        },
+        {
+          "word": "cryptological",
+          "tran_cn": " 暗号的；密码术的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "cryptographically",
+          "tran_cn": " 密码地；用暗号地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cryptanalysis",
+          "tran_cn": " 密码分析"
+        },
+        {
+          "word": "cryptographer",
+          "tran_cn": " 译解密码者；担任密码者"
+        },
+        {
+          "word": "cryptography",
+          "tran_cn": " 密码学；密码使用法"
+        },
+        {
+          "word": "cryptologic",
+          "tran_cn": " [通信] 密码逻辑"
+        },
+        {
+          "word": "cryptology",
+          "tran_cn": " [军][通信] 密码学；密码术；隐语"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "password",
+            "secret code"
+          ],
+          "tran_cn": "[计][通信]密码"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "密码电文"
+    }
+  ],
+  "exchange": {}
+}

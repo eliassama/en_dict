@@ -1,0 +1,97 @@
+{
+  "word": "deprave",
+  "ipa": {
+    "us": "dɪˈpreɪv",
+    "uk": "dɪˈprev"
+  },
+  "sentences": [
+    {
+      "en": "...material likely to deprave or corrupt those who see it.",
+      "cn": "...可能会使那些看到的人堕落或腐败的东西。"
+    },
+    {
+      "en": "In my view this book would deprave young children.",
+      "cn": "我认为这本书会腐蚀儿童。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "depraved",
+          "tran_cn": " 堕落的；腐化的；卑鄙的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "depravation",
+          "tran_cn": " 恶化；堕落"
+        },
+        {
+          "word": "depravity",
+          "tran_cn": " 堕落；邪恶"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "depraved",
+          "tran_cn": " 使腐化（deprave的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "demoralize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "demoralize",
+            "septicize"
+          ],
+          "tran_cn": "使堕落；使腐败"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "堕落",
+      "tran_en": "to be an evil influence on someone, especially someone who is young or not very experienced"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "depraves"
+    ],
+    "past": [
+      "depraved"
+    ],
+    "done": [
+      "depraved"
+    ],
+    "ing": [
+      "depraving"
+    ]
+  }
+}

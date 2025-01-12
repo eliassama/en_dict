@@ -1,0 +1,97 @@
+{
+  "word": "enforcer",
+  "ipa": {
+    "us": "ɪnˈfɔ:sə(r)",
+    "uk": "ɪnˈfɔrsə(r)"
+  },
+  "sentences": [
+    {
+      "en": "A faceless enforcer, Boba Fett's distinctive armor strikes fear in the hearts of fugitives.",
+      "cn": "追捕者波巴·费特的脸藏在头盔里,他那身独特的盔甲会使逃亡者心中产生巨大恐慌."
+    },
+    {
+      "en": "a law enforcer",
+      "cn": "执法人员"
+    },
+    {
+      "en": "an enforcer for a drugs gang",
+      "cn": "贩毒集团的打手"
+    },
+    {
+      "en": "In trading, you have to set up your own rules and be your own enforcer.",
+      "cn": "在交易中, 你必须建立自己的原则,自己帮助自己."
+    },
+    {
+      "en": "The chief of staff acts as the president's gate - keeper and principal enforcer.",
+      "cn": "陆空军司令就是总统的守门员和主要执行者."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "enforceable",
+          "tran_cn": " 可实施的；可强行的；可强迫的"
+        },
+        {
+          "word": "enforced",
+          "tran_cn": " 实施的；强制执行的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "enforcement",
+          "tran_cn": " 执行，实施；强制"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "enforced",
+          "tran_cn": " 执行（enforce的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "enforce",
+          "tran_cn": " 实施，执行；强迫，强制"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "implementer"
+          ],
+          "tran_cn": "实施者；强制执行者"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "实施者,强制执行者",
+      "tran_en": "someone whose job is to make sure people do the things they should"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "实施[强制]者"
+    }
+  ],
+  "exchange": {}
+}

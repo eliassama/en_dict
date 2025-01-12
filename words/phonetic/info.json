@@ -1,0 +1,161 @@
+{
+  "word": "phonetic",
+  "ipa": {
+    "us": "fəˈnetɪk",
+    "uk": "fəˈnɛtɪk"
+  },
+  "sentences": [
+    {
+      "en": "A list of phonetic symbols is given in the front of the dictionary.",
+      "cn": "在词典前面给出了音标表."
+    },
+    {
+      "en": "a phonetic alphabet",
+      "cn": "音标"
+    },
+    {
+      "en": "English phonetic teaching is an important teaching step in elementary stages.",
+      "cn": "语音教学是英语基础阶段重要的教学环节."
+    },
+    {
+      "en": "I thought a phonetic spelling might aid in pronunciation.",
+      "cn": "我想语音拼写可能有助于发音。"
+    },
+    {
+      "en": "Including all Phonetic in GBK, Recognizing polyphonic words and creating new phrases.",
+      "cn": "包括GBK所有 汉字的拼音,可区分多音字, 可添加自定义词组."
+    },
+    {
+      "en": "Is the text marked with phonetic symbols?",
+      "cn": "课文有注音 吗 ?"
+    },
+    {
+      "en": "Our department has engaged a foreign teacher as phonetic adviser.",
+      "cn": "我们系已经聘请了一位外籍老师作为语音顾问."
+    },
+    {
+      "en": "Russian spelling is phonetic.",
+      "cn": "俄语的拼法是音形一致的."
+    },
+    {
+      "en": "Spelling is usually correct or reasonably phonetic of common words.",
+      "cn": "拼写大致上正确,或合理地使用语音共通字词."
+    },
+    {
+      "en": "The book with phonetic symbols, and other voice symbol table.",
+      "cn": "书后附有音标及其他语音符号表."
+    },
+    {
+      "en": "the International Phonetic Alphabet",
+      "cn": "国际音标"
+    },
+    {
+      "en": "The transcription of words into phonetic symbols requires special training.",
+      "cn": "给单词注音标需要特殊的训练."
+    },
+    {
+      "en": "There are two kinds of puns, phonetic pun and semantic pun.",
+      "cn": "双关语分为谐音双关和语义双关两类."
+    },
+    {
+      "en": "These phonetic symbols represent sounds of the human voice.",
+      "cn": "这些音标表示人发出的声音."
+    },
+    {
+      "en": "Today, I learned a phonetic transcription 48, and a few words.",
+      "cn": "今天我学了48个音标, 和几个单词."
+    },
+    {
+      "en": "Tone sandhi as a common phonetic phenomena in Chinese dialect.",
+      "cn": "连读变调是汉语方言中一种普遍的语音现象."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "phonic",
+          "tran_cn": " 有声的，浊音的；声音的，语音的；声学的"
+        },
+        {
+          "word": "phonologic",
+          "tran_cn": " 音韵学的；语音体系的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "phonetically",
+          "tran_cn": " 语音学上；按照发音地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "phonetics",
+          "tran_cn": " 发音学，语音学"
+        },
+        {
+          "word": "phonogram",
+          "tran_cn": " 音标符号；录音片；语音图；形声字"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "etic"
+          ],
+          "tran_cn": "语音的，语音学的；音形一致的；发音有细微区别的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "international phonetic alphabet",
+      "tran_cn": "国际音标；国际语音字母"
+    },
+    {
+      "phrase": "phonetic alphabet",
+      "tran_cn": "n. [语]音标字母"
+    },
+    {
+      "phrase": "phonetic notation",
+      "tran_cn": "注音"
+    },
+    {
+      "phrase": "phonetic symbol",
+      "tran_cn": "音符，音标；语音符号"
+    },
+    {
+      "phrase": "phonetic system",
+      "tran_cn": "语音系统"
+    },
+    {
+      "phrase": "phonetic transcription",
+      "tran_cn": "标音法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "语音的，语音学的，音形一致的，表示语音的",
+      "tran_en": "relating to the sounds of human speech"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "phonetically"
+    ]
+  }
+}

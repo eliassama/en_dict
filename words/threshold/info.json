@@ -1,0 +1,191 @@
+{
+  "word": "threshold",
+  "ipa": {
+    "us": "ˈθreʃhəʊld",
+    "uk": "ˈθreʃhoʊld"
+  },
+  "sentences": [
+    {
+      "en": "Fewer than forty per cent voted— the threshold for results to be valid.",
+      "cn": "投票的人不到40%——投票结果无效。"
+    },
+    {
+      "en": "He stopped at the threshold of the bedroom.",
+      "cn": "他在卧室门口停住了。"
+    },
+    {
+      "en": "Here she is on the threshold of womanhood.",
+      "cn": "现在她将迈入成年期。"
+    },
+    {
+      "en": "I'll never cross the threshold of your house again.",
+      "cn": "我再也不进你的家门了."
+    },
+    {
+      "en": "Nothing happens until the excitatory stimulus exceeds a certain'threshold'value.",
+      "cn": "兴奋性刺激超过某一临界值以前毫无反应."
+    },
+    {
+      "en": "She opened the door and stepped across the threshold.",
+      "cn": "她打开门，跨过门槛。"
+    },
+    {
+      "en": "She stood hesitating on the threshold.",
+      "cn": "她站在门口，犹豫不决。"
+    },
+    {
+      "en": "Short of that threshold, Egypt was free to consult its own interests.",
+      "cn": "只要不迈这一步, 埃及可以自由地考虑自己的利益."
+    },
+    {
+      "en": "Sorting mail is not a job for people with a low boredom threshold.",
+      "cn": "分拣邮件不适合那些不太能忍受乏味工作的人."
+    },
+    {
+      "en": "The body of a neuron. Acts approximately as a linear threshold element.",
+      "cn": "神经元的本体, 其作用近似于一种线性阀值器件."
+    },
+    {
+      "en": "The bride was carried over the threshold.",
+      "cn": "新娘被抱进了家门。"
+    },
+    {
+      "en": "The creature is on the threshold of extinction.",
+      "cn": "这种生物已濒临灭绝。"
+    },
+    {
+      "en": "The lower curve marks the exclusion threshold for data pairs.",
+      "cn": "下部曲线标志出对数据对的排除域."
+    },
+    {
+      "en": "The sound was so loud it was on the threshold of pain.",
+      "cn": "声音大得开始使人无法忍受."
+    },
+    {
+      "en": "To check this, we turn down the threshold level.",
+      "cn": "为了检验这一点, 我们把阀值调低."
+    },
+    {
+      "en": "To cross the threshold is not difficult, but mastery is another question.",
+      "cn": "入门不难, 深造不易."
+    },
+    {
+      "en": "We are on the threshold of a new era in astronomy.",
+      "cn": "我们很快就将迎来天文学的新纪元。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "doorway",
+            "gateway",
+            "portal"
+          ],
+          "tran_cn": "门槛;入口"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "brink",
+            "doorway",
+            "eve",
+            "gateway",
+            "opening",
+            "portal"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "alarm threshold",
+      "tran_cn": "报警阈值；警戒点"
+    },
+    {
+      "phrase": "damage threshold",
+      "tran_cn": "损伤阈值，损坏阈"
+    },
+    {
+      "phrase": "detection threshold",
+      "tran_cn": "探测限界，检测阈"
+    },
+    {
+      "phrase": "excitation threshold",
+      "tran_cn": "兴奋阈；激励阈值"
+    },
+    {
+      "phrase": "hearing threshold",
+      "tran_cn": "听阈"
+    },
+    {
+      "phrase": "lower threshold",
+      "tran_cn": "n. 下辨别阈"
+    },
+    {
+      "phrase": "on the threshold of",
+      "tran_cn": "在...的开端"
+    },
+    {
+      "phrase": "pain threshold",
+      "tran_cn": "[生理]痛阈"
+    },
+    {
+      "phrase": "tax threshold",
+      "tran_cn": "所得税起征点"
+    },
+    {
+      "phrase": "threshold current",
+      "tran_cn": "[电]阈值电流"
+    },
+    {
+      "phrase": "threshold dose",
+      "tran_cn": "[放射]阈剂量"
+    },
+    {
+      "phrase": "threshold effect",
+      "tran_cn": "门槛效应；识阈效应"
+    },
+    {
+      "phrase": "threshold energy",
+      "tran_cn": "能限；阈能"
+    },
+    {
+      "phrase": "threshold level",
+      "tran_cn": "阈电平"
+    },
+    {
+      "phrase": "threshold value",
+      "tran_cn": "[计]阈值；门限值；界限值"
+    },
+    {
+      "phrase": "threshold voltage",
+      "tran_cn": "阈值电压；[物]阈电压"
+    },
+    {
+      "phrase": "visual threshold",
+      "tran_cn": "视觉阈"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "门槛，入口，开始，阈，[物理学]阈值；阀值；临界值，<英>级限协定，[航空学]跑道入口",
+      "tran_en": "the entrance to a room or building, or the area of floor or ground at the entrance"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "thresholds"
+    ]
+  }
+}

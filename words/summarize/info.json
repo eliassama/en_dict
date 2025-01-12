@@ -1,0 +1,185 @@
+{
+  "word": "summarize",
+  "ipa": {
+    "us": "ˈsʌməraɪz",
+    "uk": "ˈsʌməraɪz"
+  },
+  "sentences": [
+    {
+      "en": "Aggregate functions are used to summarize all the data in a table.",
+      "cn": "聚合函数用于汇总表中的所有数据."
+    },
+    {
+      "en": "Could you summaRize youRviews foRouRaudience?",
+      "cn": "你能为我们的观众简要介绍下你的观点 吗 ?"
+    },
+    {
+      "en": "Finally we summarize our work and then pointthe improvement of our work.",
+      "cn": "文章的最后作者总结了在本项目实践中的工作心得体会,提出了一些以后工作的改进方向."
+    },
+    {
+      "en": "I will summarize what I have done.",
+      "cn": "我将概述我所做的事情。"
+    },
+    {
+      "en": "It will be useful to summarize the relevant Gaussian formulae.",
+      "cn": "有必要概括地讲一下有关的高斯公式."
+    },
+    {
+      "en": "Let us summarize the governing equations for a fluid, previously deduced.",
+      "cn": "现在让我们将上面推导出来的流体运动基本方程组归并在一起."
+    },
+    {
+      "en": "Objective : To summarize the clinical experiences of double - valve replacement in 76 cases.",
+      "cn": "目的: 总结76例双瓣膜替换术的经验."
+    },
+    {
+      "en": "OBJECTIVE To summarize ingredient and pharmacological action of Oviductus Ranae.",
+      "cn": "对林蛙油的成分、药理作用和展望作了综述."
+    },
+    {
+      "en": "ObjectiveTo summarize the experience of diagnosis and treatment of true hermaphroditism.",
+      "cn": "目的总结对真两性畸形的诊断和治疗经验."
+    },
+    {
+      "en": "ObjectiveTo summarize the experiences on and treatment for traumatic liver rupture.",
+      "cn": "目的总结外伤性肝破裂的诊治经验."
+    },
+    {
+      "en": "The authors summarize their views in the introduction.",
+      "cn": "作者在序言里概述了他们的观点。"
+    },
+    {
+      "en": "Theories in cognitive psychology are attempts to summarize large sets of data.",
+      "cn": "认知心理学的各种理论都是试图概括大套的资料."
+    },
+    {
+      "en": "They need to find information quickly and be able to summarize it in clear language.",
+      "cn": "他们需要快速找到信息并能用清晰的语言概述."
+    },
+    {
+      "en": "To summarize 46 cases of severe neonatal asphyxia recovery and nursing.",
+      "cn": "总结46例新生儿重度窒息的复苏与护理."
+    },
+    {
+      "en": "We mag summarize our arguments as follows.",
+      "cn": "我们可以把上述讨论小结如下."
+    },
+    {
+      "en": "We may summarize the situation then as follows.",
+      "cn": "于是我们可将上述情况归结如下."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "summative",
+          "tran_cn": " 总结性；总结的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sum",
+          "tran_cn": " 金额；总数"
+        },
+        {
+          "word": "summarisation",
+          "tran_cn": " 综述；概括"
+        },
+        {
+          "word": "summarization",
+          "tran_cn": " [图情] 摘要；概要"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sum",
+          "tran_cn": " 概括"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sum",
+          "tran_cn": " 总结；合计"
+        },
+        {
+          "word": "summarise",
+          "tran_cn": " 概括（等于summarize）；相加"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abridge",
+            "brief",
+            "capsule",
+            "itemize",
+            "outline",
+            "shorten",
+            "simplify",
+            "sketch",
+            "telescope"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "abridge",
+            "brief",
+            "capsule",
+            "outline"
+          ],
+          "tran_cn": "概述"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "总结；概述",
+      "tran_en": "to make a short statement giving only the main information and not the details of a plan, event, report etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "总结，概述",
+      "tran_en": "to make a short statement giving only the main information and not the details of a plan, event, report etc"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "summarizes"
+    ],
+    "past": [
+      "summarized"
+    ],
+    "done": [
+      "summarized"
+    ],
+    "ing": [
+      "summarizing"
+    ]
+  }
+}

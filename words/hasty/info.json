@@ -1,0 +1,216 @@
+{
+  "word": "hasty",
+  "ipa": {
+    "us": "ˈheɪsti",
+    "uk": "ˈheɪsti"
+  },
+  "sentences": [
+    {
+      "en": "a hasty breakfast",
+      "cn": "匆忙吃下的一顿早餐"
+    },
+    {
+      "en": "A hasty deal was patched together.",
+      "cn": "一份协议被仓促拼凑了出来。"
+    },
+    {
+      "en": "Cockburn decided it was time to beat a hasty retreat.",
+      "cn": "科伯恩认为到了该紧急撤退的时候了。"
+    },
+    {
+      "en": "Donald had overturned a chair in his hasty departure.",
+      "cn": "唐纳德仓促离开时撞翻了一把椅子。"
+    },
+    {
+      "en": "He soon regretted his hasty decision.",
+      "cn": "他很快就对自己仓促作出的决定感到后悔了。"
+    },
+    {
+      "en": "He was sorry for his hasty words.",
+      "cn": "他对他在生气时说的话表示后悔."
+    },
+    {
+      "en": "It is unwise to be hasty in generalisation.",
+      "cn": "急于下结论是不明智的."
+    },
+    {
+      "en": "Let's not make any hasty decisions.",
+      "cn": "我们不要匆忙作决定。"
+    },
+    {
+      "en": "No ( such ) hasty decision should be made by us.",
+      "cn": "我们不可这样匆促作出决定."
+    },
+    {
+      "en": "She refused to be panicked into a hasty marriage.",
+      "cn": "她不愿因恐慌而仓促结婚。"
+    },
+    {
+      "en": "She's too hasty; she should learn to think before speaking.",
+      "cn": "她太轻率了, 她应该学会话出口前想一想."
+    },
+    {
+      "en": "So let's not be hasty. After all, he can't run away.",
+      "cn": "所以我们不要鲁莽行事。毕竟他是跑不掉的。"
+    },
+    {
+      "en": "Some people are prone to jump to hasty conclusions.",
+      "cn": "有些人往往作出轻率的结论."
+    },
+    {
+      "en": "The cat beat a hasty retreat when he saw the dog coming.",
+      "cn": "猫看到狗来时,就很快溜之大吉了."
+    },
+    {
+      "en": "The letter was handwritten, in a hasty, barely decipherable scrawl.",
+      "cn": "这封信是仓促手写而成，潦草得几乎无法辨认。"
+    },
+    {
+      "en": "The two parties patched up a hasty peace.",
+      "cn": "双方仓促地达成停火协议."
+    },
+    {
+      "en": "We are not hasty in drawing conclusions.",
+      "cn": "我们不急于做出结论."
+    },
+    {
+      "en": "We judged it better not to make a hasty decision.",
+      "cn": "我们认为最好不要匆忙作出决定."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "hastily",
+          "tran_cn": " 匆忙地；急速地；慌忙地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "haste",
+          "tran_cn": " 匆忙；急忙；轻率"
+        },
+        {
+          "word": "hastiness",
+          "tran_cn": " 轻率；性急；仓促"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "haste",
+          "tran_cn": " 匆忙；赶紧"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "haste",
+          "tran_cn": " 赶快"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "fast",
+            "fleet",
+            "hurried",
+            "quick",
+            "rapid",
+            "speedy",
+            "swift"
+          ],
+          "tran_cn": "急忙的;迅速的"
+        },
+        {
+          "words": [
+            "hotheaded",
+            "quick-tempered"
+          ],
+          "tran_cn": "急躁的"
+        },
+        {
+          "words": [
+            "headlong",
+            "impetuous",
+            "impulsive",
+            "premature",
+            "rash",
+            "reckless",
+            "unprepared"
+          ],
+          "tran_cn": "轻率的;冲动的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abrupt",
+            "adventurous",
+            "excitable",
+            "fast",
+            "fleet",
+            "flying",
+            "hotheaded",
+            "hurried",
+            "impetuous",
+            "impulsive",
+            "premature",
+            "quick",
+            "quick-tempered",
+            "rapid",
+            "rash",
+            "reckless",
+            "speedy",
+            "sudden",
+            "summary",
+            "swift",
+            "unprepared",
+            "wanton"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "仓促完成的，急忙的，草率的，轻率的",
+      "tran_en": "done in a hurry, especially with bad results"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "(Hasty)人名；(英)黑斯蒂"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "hastier"
+    ],
+    "est": [
+      "hastiest"
+    ],
+    "adv": [
+      "hastily"
+    ]
+  }
+}

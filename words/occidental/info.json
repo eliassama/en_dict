@@ -1,0 +1,91 @@
+{
+  "word": "occidental",
+  "ipa": {
+    "us": "ˌɒksɪ'dentl",
+    "uk": "ˌɑksɪˈdɛntl"
+  },
+  "sentences": [
+    {
+      "en": "A sort of halo, an occidental glow, came over life then.",
+      "cn": "那时候,就有一种祥光, 一片晚霞, 在生活上,笼罩缭绕."
+    },
+    {
+      "en": "As a matter of fact, Eton has been promoting the marriage of the Oriental and Occidental.",
+      "cn": "事实上, 裕景大饭店一贯坚持中西结合,对艺术有自己独到的见解和品味."
+    },
+    {
+      "en": "This paper is a part of the research on Sino - occidental religious thoughts.",
+      "cn": "摘要本文是中西宗教思想比较研究中的一部分."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "occident",
+          "tran_cn": " 西方；欧美国家"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "occidentalise",
+          "tran_cn": " 西洋化；欧美化（等于occidentalize）"
+        },
+        {
+          "word": "occidentalize",
+          "tran_cn": " 使…西方化；欧美化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "western",
+            "hesperian"
+          ],
+          "tran_cn": "西方的；西洋的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "western"
+          ],
+          "tran_cn": "西方人；欧美人"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "西方的，西洋的，西方人（文化）的，[天]西天的",
+      "tran_en": "Occidental means relating to the countries of Europe and North and South America"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "西方人，欧美人",
+      "tran_en": "someone from the western part of the world"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "occidentals"
+    ],
+    "noun": [
+      "occident"
+    ]
+  }
+}

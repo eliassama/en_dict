@@ -1,0 +1,209 @@
+{
+  "word": "dynamics",
+  "ipa": {
+    "us": "daɪˈnæmɪks",
+    "uk": "daɪˈnæmɪks"
+  },
+  "sentences": [
+    {
+      "en": "And our goal is to find out the time, the dynamics of this problem.",
+      "cn": "我们的目的是找出时间，找出这个问题的动力学。"
+    },
+    {
+      "en": "Both are believed to have important roles in sea ice dynamics, but how important they are remains unclear.",
+      "cn": "认为这两者在海冰动力学方面都有重要的作用，但是他们尚不清楚是多么重要。"
+    },
+    {
+      "en": "He made a contribution of inestimable importance in the field of dynamics.",
+      "cn": "他在力学领域作出了一项无可估量的贡献."
+    },
+    {
+      "en": "His idea was to apply geometry to dynamics.",
+      "cn": "他的想法就是将几何学应用在力学上。"
+    },
+    {
+      "en": "In its broadest sense, dynamics includes nearly the whole of mechanics.",
+      "cn": "广义地说来, 动力学几乎包括了整个力学."
+    },
+    {
+      "en": "In order to succeed, you must master complicated knowledge of dynamics.",
+      "cn": "要取得胜利，你必须掌握很复杂的动力学知识。"
+    },
+    {
+      "en": "Insect population dynamics has always received much attention.",
+      "cn": "昆虫种群动态的研究一直受到重视."
+    },
+    {
+      "en": "Marshall even suggested a biological analogy might be more appropriate for dynamics.",
+      "cn": "马歇尔甚至认为生物学中的某些近似概念或许更适宜于用来表示动态理论."
+    },
+    {
+      "en": "Scientists observe the same dynamics in fluids.",
+      "cn": "科学家们在液体中观察到了同样的驱动力。"
+    },
+    {
+      "en": "Statics, the physicist knows, is only an abstraction from dynamics.",
+      "cn": "物理学家知道, 静力学只是动力学的一种抽象."
+    },
+    {
+      "en": "The accelerator has been fruitfully combined to explicate economic dynamics.",
+      "cn": "在用来阐述经济动态学的模型中,加速数一直同乘数卓有成效地结合在一起."
+    },
+    {
+      "en": "the dynamics of political change",
+      "cn": "政治变化动态"
+    },
+    {
+      "en": "The game is exciting, and the dynamics of the ball's motion are complicated.",
+      "cn": "这个游戏十分激烈, 球的运动力学也非常复杂."
+    },
+    {
+      "en": "The interchange of ideas aids an understanding of family dynamics.",
+      "cn": "思想的交流有助于理解家庭动态。"
+    },
+    {
+      "en": "These studies, in fact, have motivated parallel investigations in nonlinear elasto - dynamics.",
+      "cn": "事实上, 这些研究曾经启发了非线性弹性动力学中的平行研讨."
+    },
+    {
+      "en": "Third, the dynamics of setting deadlines for eliminating pollution have been reinforced.",
+      "cn": "三是加大了污染限期治理的力度."
+    },
+    {
+      "en": "Today, China's economy crackles with the dynamics of change.",
+      "cn": "今天, 中国经济欣欣向荣,日新月异."
+    },
+    {
+      "en": "We know the dynamics of outsourcing.",
+      "cn": "我们了解外包的动力。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "dynamic",
+          "tran_cn": " 动态的；动力的；动力学的；有活力的"
+        },
+        {
+          "word": "dynamical",
+          "tran_cn": " 动力学的（等于dynamic）；有生气的；有力的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "dynamic",
+          "tran_cn": " 动态；动力"
+        },
+        {
+          "word": "dynamism",
+          "tran_cn": " 活力；动态；物力论；推动力；精神动力作用"
+        },
+        {
+          "word": "dynamometer",
+          "tran_cn": " 测力计；功率计；动力计"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "mechanics",
+            "kinetics"
+          ],
+          "tran_cn": "[力]动力学，力学"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "chaotic dynamics",
+      "tran_cn": "混沌动力学"
+    },
+    {
+      "phrase": "crustal dynamics",
+      "tran_cn": "地壳动力学，星壳动力学；地壳动态"
+    },
+    {
+      "phrase": "economic dynamics",
+      "tran_cn": "动态经济学"
+    },
+    {
+      "phrase": "gas dynamics",
+      "tran_cn": "气体动力学"
+    },
+    {
+      "phrase": "group dynamics",
+      "tran_cn": "团体动态，集体动态"
+    },
+    {
+      "phrase": "industry dynamics",
+      "tran_cn": "行业动向；产业动态"
+    },
+    {
+      "phrase": "lattice dynamics",
+      "tran_cn": "[物]点阵动力学"
+    },
+    {
+      "phrase": "molecular dynamics",
+      "tran_cn": "分子动力学"
+    },
+    {
+      "phrase": "nonlinear dynamics",
+      "tran_cn": "非线性动力学"
+    },
+    {
+      "phrase": "particle dynamics",
+      "tran_cn": "质点动力学"
+    },
+    {
+      "phrase": "population dynamics",
+      "tran_cn": "种群动态；人口动态"
+    },
+    {
+      "phrase": "process dynamics",
+      "tran_cn": "工艺动态"
+    },
+    {
+      "phrase": "robot dynamics",
+      "tran_cn": "机器人动力学；机扑动力学"
+    },
+    {
+      "phrase": "rotor dynamics",
+      "tran_cn": "转子动力学"
+    },
+    {
+      "phrase": "social dynamics",
+      "tran_cn": "社会动力学；社会动态；社会动学"
+    },
+    {
+      "phrase": "soil dynamics",
+      "tran_cn": "土动力学，土壤动力学；综合类土动力学"
+    },
+    {
+      "phrase": "structural dynamics",
+      "tran_cn": "结构动力学"
+    },
+    {
+      "phrase": "system dynamics",
+      "tran_cn": "系统动力学"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "相互作用，动态，驱动力，（动）力学",
+      "tran_en": "the branch of mechanics concerned with the forces that change or produce the motions of bodies "
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,124 @@
+{
+  "word": "preoccupy",
+  "ipa": {
+    "us": "priˈɒkjupaɪ",
+    "uk": "priˈɑːkjupaɪ"
+  },
+  "sentences": [
+    {
+      "en": "But at the moment he had other things to preoccupy him.",
+      "cn": "不过当时有另外的事情分了他的心."
+    },
+    {
+      "en": "But it is not hearts and minds in Kabul and Kandahar that most preoccupy the PM now, but hearts and minds much closer to home.",
+      "cn": "但如今在首相的心中，最值得全神贯注的地方显然不在喀什穆和坎大哈，而是在国内。"
+    },
+    {
+      "en": "Crime and the fear of crime preoccupy the community.",
+      "cn": "犯罪和对犯罪的恐惧一直困扰着这个社区。"
+    },
+    {
+      "en": "Otherwise, thoughts of attack and counter - attack will preoccupy him and people his entire world.",
+      "cn": "否则, 攻击与 反 攻击的念头便会盘踞他及他整个周遭世界."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "preoccupied",
+          "tran_cn": " 全神贯注的；心事重重的；被先占的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "preoccupancy",
+          "tran_cn": " 先入为主；全神贯注；极为忙碌（等于preoccupation）"
+        },
+        {
+          "word": "preoccupation",
+          "tran_cn": " 全神贯注，入神；当务之急；关注的事物；抢先占据；成见"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "preoccupied",
+          "tran_cn": " 抢先占有；使…全神贯注（preoccupy的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "absorb",
+            "arrest",
+            "attract",
+            "devour",
+            "engage",
+            "engross",
+            "fix",
+            "fixate",
+            "hold",
+            "immerse",
+            "involve",
+            "keep",
+            "occupy",
+            "oneself",
+            "rivet",
+            "to"
+          ],
+          "tran_cn": "使全神贯注,迷住"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "possess",
+            "spell"
+          ],
+          "tran_cn": "迷住；使全神贯注"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "迷住；使全神贯注",
+      "tran_en": "if something preoccupies someone, they think or worry about it a lot"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "占据（某人）思想，使对…全神贯注，使专心于"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "preoccupies"
+    ],
+    "past": [
+      "preoccupied"
+    ],
+    "done": [
+      "preoccupied"
+    ],
+    "ing": [
+      "preoccupying"
+    ]
+  }
+}

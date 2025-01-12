@@ -1,0 +1,196 @@
+{
+  "word": "hazy",
+  "ipa": {
+    "us": "ˈheɪzi",
+    "uk": "ˈhezi"
+  },
+  "sentences": [
+    {
+      "en": "Generally, it will be rather hazy today, with some hill fog.",
+      "cn": "总体说来, 因为有山雾,今天的天气会比较阴沉."
+    },
+    {
+      "en": "hazy sunshine",
+      "cn": "曚昽的阳光"
+    },
+    {
+      "en": "He could see only the hazy outline of the goalposts.",
+      "cn": "他只能看见球门柱模糊的轮廓。"
+    },
+    {
+      "en": "I am rather hazy as to what your purpose is.",
+      "cn": "我摸不清你的用意何在."
+    },
+    {
+      "en": "I was so tired that my eyesight grew dim [ hazy ] .",
+      "cn": "我太累了,眼睛有点 发花."
+    },
+    {
+      "en": "I'm a bit hazy about that.",
+      "cn": "那件事我不太清楚。"
+    },
+    {
+      "en": "It's as if I'm living in a hazy dream world.",
+      "cn": "我好像生活在缥缈的梦境里。"
+    },
+    {
+      "en": "It's vast and hazy in the distance.",
+      "cn": "远处一片迷茫"
+    },
+    {
+      "en": "Many details remain hazy.",
+      "cn": "很多细节仍不清楚。"
+    },
+    {
+      "en": "My memories of childhood are hazy and episodic.",
+      "cn": "我儿时的回忆是一些朦朦胧胧的松散片段。"
+    },
+    {
+      "en": "My vision has grown so hazy.",
+      "cn": "我的视力已经变得非常模糊。"
+    },
+    {
+      "en": "She had only a hazy idea of Britain's prison problems.",
+      "cn": "她对英国的监狱问题只有些许模糊的认识。"
+    },
+    {
+      "en": "She sipped the wine. Everything was hazy now, except for Nick's face.",
+      "cn": "她小口地抿着酒。现在一切都变得模糊起来，除了尼克的脸。"
+    },
+    {
+      "en": "The air was thin and crisp, filled with hazy sunshine and frost.",
+      "cn": "空气稀薄清新，其间日光蒙眬，寒气逼人。"
+    },
+    {
+      "en": "The floodlights were hazy behind the slanting rain.",
+      "cn": "泛光灯在斜斜的雨丝中显得很蒙眬。"
+    },
+    {
+      "en": "Their glossy barks are a faint light green with hazy silver spots.",
+      "cn": "它的皮,光滑而有银色的晕圈,微微泛出淡青色."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "hazily",
+          "tran_cn": " 模糊地；朦胧地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "haze",
+          "tran_cn": " 阴霾；薄雾；疑惑"
+        },
+        {
+          "word": "haziness",
+          "tran_cn": " 模糊，朦胧；混浊性，混浊度"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "haze",
+          "tran_cn": " 变朦胧；变糊涂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "haze",
+          "tran_cn": " 使变朦胧；使变糊涂"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "blurred",
+            "confused",
+            "faint",
+            "fuzzy",
+            "indefinite",
+            "indistinct",
+            "muddled",
+            "obscure",
+            "uncertain",
+            "unclear",
+            "vague"
+          ],
+          "tran_cn": "不明了的;朦胧的"
+        },
+        {
+          "words": [
+            "cloudy",
+            "dim",
+            "foggy",
+            "misty",
+            "overcast",
+            "smoky"
+          ],
+          "tran_cn": "有雾的;模糊的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "atmospheric",
+            "cloudy",
+            "confused",
+            "dim",
+            "equivocal",
+            "faint",
+            "foggy",
+            "fuzzy",
+            "indefinite",
+            "indistinct",
+            "loose",
+            "misty",
+            "obscure",
+            "overcast",
+            "smoky",
+            "uncertain",
+            "unclear",
+            "vague"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有薄雾的，模糊的，朦胧的，不清楚的，糊涂的",
+      "tran_en": "air that is hazy is not clear because there is a lot of smoke, dust, or mist in it"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "hazier"
+    ],
+    "est": [
+      "haziest"
+    ],
+    "adv": [
+      "hazily"
+    ]
+  }
+}

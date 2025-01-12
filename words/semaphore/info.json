@@ -1,0 +1,135 @@
+{
+  "word": "semaphore",
+  "ipa": {
+    "us": "ˈseməfɔ:(r)",
+    "uk": "ˈsɛməˌfɔr, -ˌfor"
+  },
+  "sentences": [
+    {
+      "en": "A data structure for mutual exclusion, also known as a binary semaphore.",
+      "cn": "表现互斥现象的数值结构, 也被当作二元信号灯."
+    },
+    {
+      "en": "A type of semaphore that is used to track multiple resources of the same type.",
+      "cn": "一种用来跟踪多个相同类型资源的信号灯."
+    },
+    {
+      "en": "A type of semaphore with just two states. Also called a mutex.",
+      "cn": "一种只有两种状态的信号. 也叫互斥信号."
+    },
+    {
+      "en": "Congress was asked to provide funding for a semaphore system running from NYC to New Orleans.",
+      "cn": "议会被要求为工作于纽约和新奥尔良之间的旗语系统提供基金."
+    },
+    {
+      "en": "For example , the count of a semaphore object is decreased by one.",
+      "cn": "这样,所有等待这些内核对象的线程都会被唤醒."
+    },
+    {
+      "en": "It is like a semaphore signal waving before the eyes of the particle physicists.",
+      "cn": "它好象是在粒子物理学家眼前挥动的旗语信号."
+    },
+    {
+      "en": "Me ( Beautifully pronouced, with choice semaphore ): \" I want a divorce. \"",
+      "cn": "我 ( 用选好的语句, 优雅地大声说 ): “ 我要离婚. ”"
+    },
+    {
+      "en": "The number of specified semaphore events for DosMuxSemWait is not correct.",
+      "cn": "为DosMuxSemWait指定的信号灯事件数量不正确."
+    },
+    {
+      "en": "The semaphore cannot be set again.",
+      "cn": "无法再设置信号灯."
+    },
+    {
+      "en": "The semaphore is set and cannot be closed.",
+      "cn": "已设置信号灯,无法关闭."
+    },
+    {
+      "en": "The specified system semaphore name was not found.",
+      "cn": "找不到指定的系统信号灯名称."
+    },
+    {
+      "en": "The value of the variable is the semaphore name.",
+      "cn": "该变量的值为信号灯名."
+    },
+    {
+      "en": "These last two items actually block a semaphore embedded in the timer or message data structure.",
+      "cn": "后两种方式实际上被定时器结构或者消息结构内置的信号量给阻塞了."
+    },
+    {
+      "en": "Too many posts were made to a semaphore.",
+      "cn": "发向信号灯的请求过多."
+    },
+    {
+      "en": "You're going into the room, if there's some activity, semaphore!",
+      "cn": "你进去, 如果屋里有情况, 就发信号!"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "signal"
+          ],
+          "tran_cn": "[计]信号；旗语；臂板信号机"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "signal",
+            "signify"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "signal"
+          ],
+          "tran_cn": "打旗语；[计]发信号"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "臂板信号系统，（铁道）臂板信号装置",
+      "tran_en": "a system of sending messages using two flags, which you hold in different positions to represent letters and numbers"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "发出信号，打旗语"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "semaphores"
+    ],
+    "third": [
+      "semaphores"
+    ],
+    "past": [
+      "semaphored"
+    ],
+    "done": [
+      "semaphored"
+    ],
+    "ing": [
+      "semaphoring"
+    ]
+  }
+}

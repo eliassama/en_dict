@@ -1,0 +1,271 @@
+{
+  "word": "synchronous",
+  "ipa": {
+    "us": "ˈsɪŋkrənəs",
+    "uk": "ˈsɪŋkrənəs"
+  },
+  "sentences": [
+    {
+      "en": "A full - duplex, synchronous communications protocol used in airline reservations systems.",
+      "cn": "一种全双工同步通信协议,用于航空公司定票系统."
+    },
+    {
+      "en": "A synchronous motor drives the measuring bob at a constant rotational speed.",
+      "cn": "同步马达驱动测锤以恒速旋转."
+    },
+    {
+      "en": "And the synchronous clock is a key of the synchronization network.",
+      "cn": "而其中同步时钟是同步网的关键."
+    },
+    {
+      "en": "Comparing with - synchronous motor, the generator has a lot of advantages.",
+      "cn": "与直接驱动的多极数同步电机相比, 这种发电机有很多优点."
+    },
+    {
+      "en": "Counters can be generally classified as either serial or synchronous.",
+      "cn": "计算器通常可分为串行和同步两类."
+    },
+    {
+      "en": "For example, you might have a synchronous replica on another machine in the same data center, and an asynchronous replica on a machine in another data center.",
+      "cn": "例如，您可以在同一个数据中心的另一台机器上选择同步复制，而在另一个数据中心的机器上选择异步复制。"
+    },
+    {
+      "en": "In a synchronous procedure, all events take place within a specified period of time.",
+      "cn": "在同步方式中, 所有动作都在特定的期间内产生."
+    },
+    {
+      "en": "In binary synchronous communication, the use of clock pulses to control synchronization of data and control characters.",
+      "cn": "在二进制位同步通信中，使用时钟脉冲来控制数据和控制字符的同步。"
+    },
+    {
+      "en": "Line - start permanent magnet synchronous machine has high efficiency and power factor.",
+      "cn": "异步起动永磁同步电动机具有较高的功率因数和效率,同时具有异步起动能力."
+    },
+    {
+      "en": "Polling is a synchronous mechanism, where devices are serviced in sequence.",
+      "cn": "查询是一种同步机构, 其中的各个设备是依次接受服务的."
+    },
+    {
+      "en": "Since the above inequality is not satisfied a serial - carry synchronous counter can not be used.",
+      "cn": "因上述不等式不能成立,所以不能采用串行进位同步计数器."
+    },
+    {
+      "en": "Synchronous machines do not easily fall out of step under normal conditions.",
+      "cn": "在正常情况下,同步电机不易失去同步."
+    },
+    {
+      "en": "The message can be used only with synchronous operations .",
+      "cn": "消息只能与同步操作一起使用。"
+    },
+    {
+      "en": "The pump and drive system with a synchronous AC motors.",
+      "cn": "泵及其驱动编制的安排拔取了同步互换电机."
+    },
+    {
+      "en": "This type of counter is called a parallel - carry synchronous counter.",
+      "cn": "这种计数器称为并行进位同步计数器."
+    },
+    {
+      "en": "Traction motor in elevator actually was an AC non - synchronous motor.",
+      "cn": "电梯中的曳引电动机实际上就是一台 交流异步 电动机."
+    },
+    {
+      "en": "Transitions within states should normally be synchronous, since there is no change of owner.",
+      "cn": "状态间的转换通常应该是同步的，因为所有者没有改变。"
+    },
+    {
+      "en": "Wrinkle conveyor belt speed and main machine speed are Synchronous.",
+      "cn": "皱纹输送皮带、和主机速度同部连线."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "synchronised",
+          "tran_cn": " 同步的"
+        },
+        {
+          "word": "synchronized",
+          "tran_cn": " 同步的；同步化的"
+        },
+        {
+          "word": "synchronizing",
+          "tran_cn": " 同步的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "synchronously",
+          "tran_cn": " 同步地；同时地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "synchroniser",
+          "tran_cn": " 同合器；同步器"
+        },
+        {
+          "word": "synchronism",
+          "tran_cn": " 同时发生，同步性；对照性历史年谱"
+        },
+        {
+          "word": "synchronization",
+          "tran_cn": " [物] 同步；同时性"
+        },
+        {
+          "word": "synchronizer",
+          "tran_cn": " [电] 同步装置；同步闪光装置"
+        },
+        {
+          "word": "synchronoscope",
+          "tran_cn": " 同步指示器；同步示波器；同期表；同步表"
+        },
+        {
+          "word": "synchrony",
+          "tran_cn": " 同步"
+        },
+        {
+          "word": "synchroscope",
+          "tran_cn": " 同步检定器；[电子] 同步示波器"
+        },
+        {
+          "word": "synchrotron",
+          "tran_cn": " [核] 同步加速器；同步回旋加速器"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "synchronised",
+          "tran_cn": " 使同时（synchronise的过去式和过去分词）"
+        },
+        {
+          "word": "synchronized",
+          "tran_cn": " 使协调（synchronize的过去分词）；同时发生；校准"
+        },
+        {
+          "word": "synchronizing",
+          "tran_cn": " 同步，整步（synchronize的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "synchronise",
+          "tran_cn": " 同步；同时发生"
+        },
+        {
+          "word": "synchronize",
+          "tran_cn": " 同步；同时发生"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "synchronise",
+          "tran_cn": " 使同步；使同时发生（等于synchronize）"
+        },
+        {
+          "word": "synchronize",
+          "tran_cn": " 使……合拍；使……同步"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "simultaneous",
+            "coinstantaneous"
+          ],
+          "tran_cn": "[物]同步的；同时的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "coexistent",
+            "coincident",
+            "contemporary",
+            "simultaneous"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "synchronous belt",
+      "tran_cn": "同步带；同步驱动皮带"
+    },
+    {
+      "phrase": "synchronous code",
+      "tran_cn": "同步码"
+    },
+    {
+      "phrase": "synchronous communication",
+      "tran_cn": "同步通信；同步传输"
+    },
+    {
+      "phrase": "synchronous generator",
+      "tran_cn": "同步发电机"
+    },
+    {
+      "phrase": "synchronous machine",
+      "tran_cn": "同步机"
+    },
+    {
+      "phrase": "synchronous motor",
+      "tran_cn": "[化]同步电动机"
+    },
+    {
+      "phrase": "synchronous operation",
+      "tran_cn": "同步运行；同步操作；同步作业"
+    },
+    {
+      "phrase": "synchronous reactance",
+      "tran_cn": "同步电抗"
+    },
+    {
+      "phrase": "synchronous rectifier",
+      "tran_cn": "同步整流器"
+    },
+    {
+      "phrase": "synchronous speed",
+      "tran_cn": "同步转速；同步速度"
+    },
+    {
+      "phrase": "synchronous transmission",
+      "tran_cn": "同步传输"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "同时存在[发生]的，同步的",
+      "tran_en": "if two or more things are synchronous, they happen at the same time or work at the same speed"
+    }
+  ],
+  "exchange": {}
+}

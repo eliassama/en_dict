@@ -1,0 +1,168 @@
+{
+  "word": "sleepless",
+  "ipa": {
+    "us": "ˈsli:pləs",
+    "uk": "ˈsliplɪs"
+  },
+  "sentences": [
+    {
+      "en": "Adrian spent a sleepless night wondering what to do.",
+      "cn": "阿德里安一夜未眠，在想该怎么办。"
+    },
+    {
+      "en": "After several sleepless nights, I took some pills and slept round the clock.",
+      "cn": "由于几个晚上都失眠, 我服了些药丸,睡了一整天."
+    },
+    {
+      "en": "Amidst these thoughts, poor Jones passed a long sleepless night.",
+      "cn": "可怜的琼斯就这样百感交集, 辗转难眠."
+    },
+    {
+      "en": "Andrew , who was short - tempered from a sleepless night, was ready to explode.",
+      "cn": "安德鲁因彻夜难眠而变得暴躁, 快要发作了."
+    },
+    {
+      "en": "His identification with the hero of the book made him sleepless.",
+      "cn": "对书中主人公的同情使他睡不着."
+    },
+    {
+      "en": "I have sleepless nights worrying about her.",
+      "cn": "我好几个晚上都睡不着，一直担心她。"
+    },
+    {
+      "en": "I've had a few sleepless nights recently.",
+      "cn": "最近我有好几个晚上没睡觉。"
+    },
+    {
+      "en": "I've spent many sleepless nights worrying about it.",
+      "cn": "我已度过了许多不眠之夜,为此事担心."
+    },
+    {
+      "en": "It must be awful to be sleepless.",
+      "cn": "不能入睡真叫人受不了."
+    },
+    {
+      "en": "Reading how our symphony caused you sleepless nights, I felt my heart constricted.",
+      "cn": "你信中说,我们的交响曲使你连夜不能入眠, 我听了不由心痛如绞."
+    },
+    {
+      "en": "She lay sleepless for hours, worrying.",
+      "cn": "她忧心忡忡地躺了几个小时都无法入睡。"
+    },
+    {
+      "en": "She looked pale and drawn after weeks of sleepless nights.",
+      "cn": "她经历了数周不眠之夜,看上去脸色苍白,形容憔悴."
+    },
+    {
+      "en": "The boy's misconduct cost his mother many sleepless nights.",
+      "cn": "这男孩的不轨行为,使他的母亲许多夜不得安眠."
+    },
+    {
+      "en": "The patient's dangerous condition cost the doctors and nurses many a sleepless night.",
+      "cn": "病人的危险状况,使医生和护士们好几夜不曾合眼."
+    },
+    {
+      "en": "The situation gave her many sleepless nights.",
+      "cn": "这种情况害她一连好多天睡不好觉."
+    },
+    {
+      "en": "The strain of sleepless nights made her ill.",
+      "cn": "连夜失眠的辛劳使她病倒了."
+    },
+    {
+      "en": "The train stopped frequently at lonely little stations, which resulted in a sleepless night.",
+      "cn": "火车不时在孤寂的小站停下来, 这使我一夜难眠."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sleeping",
+          "tran_cn": " 睡着的"
+        },
+        {
+          "word": "sleepy",
+          "tran_cn": " 欲睡的；困乏的；不活跃的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sleep",
+          "tran_cn": " 睡眠"
+        },
+        {
+          "word": "sleeper",
+          "tran_cn": " 卧车；卧铺；枕木；睡眠者"
+        },
+        {
+          "word": "sleeping",
+          "tran_cn": " 睡眠"
+        },
+        {
+          "word": "sleeplessness",
+          "tran_cn": " 失眠"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sleep",
+          "tran_cn": " 睡，睡觉"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "insomnic",
+            "wakeful"
+          ],
+          "tran_cn": "失眠的；不休息的；警觉的；永不停息的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cautious"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sleepless night",
+      "tran_cn": "不眠之夜"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "失眠的，睡不着的，不眠的，醒着的，无休止的，警觉的",
+      "tran_en": "unable to sleep"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "sleeplessly"
+    ],
+    "noun": [
+      "sleeplessness"
+    ]
+  }
+}

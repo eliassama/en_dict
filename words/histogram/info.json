@@ -1,0 +1,121 @@
+{
+  "word": "histogram",
+  "ipa": {
+    "us": "ˈhɪstəgræm",
+    "uk": "ˈhɪstəˌɡræm"
+  },
+  "sentences": [
+    {
+      "en": "A histogram at the bottom a reminder of what has come before.",
+      "cn": "底部的柱状图表示发生的事情."
+    },
+    {
+      "en": "And also by creating a histogram of the data.",
+      "cn": "而且也创造了直方图的数据."
+    },
+    {
+      "en": "At this stage I will also check the histogram for clipped shadows and blown highlights and if necessary add some Fill Light and/or Recovery.",
+      "cn": "在这个阶段为了检查省略的阴影和过亮的部分，我还会检查直方图，如有必要增加一些填充的光线或做一些补救。"
+    },
+    {
+      "en": "Digital image classification and description of methods images histogram.",
+      "cn": "数字图像的分类与描述方法;图象灰度直方图."
+    },
+    {
+      "en": "Draw the corresponding frequency polygon over the histogram.",
+      "cn": "于直方图上绘出相应的频数多边形."
+    },
+    {
+      "en": "Experiment with several different parameters of the EMA and MACD Histogram.",
+      "cn": "用不同的参数测试均线和MACD柱."
+    },
+    {
+      "en": "Firstly, an introduction to the segmentation - counting registration algorithm is presented, which is based on the histogram.",
+      "cn": "本文首先介绍了作者提出的用于自动图像配准的分割 - 计数法."
+    },
+    {
+      "en": "Histogram can also be used in spatiotemporal query optimization after some improvements.",
+      "cn": "通过特定的改进,直方图也可应用到时空查询优化中."
+    },
+    {
+      "en": "If a significant data value skew exists for a column referenced in a query predicate, make sure that DB2 knows this, preferably by generating column-value histogram statistics using RUNSTATS.",
+      "cn": "如果查询谓词中引用的列存在显著的数据值倾斜，那么要确保 DB2 了解这一情况，最好是使用 RUNSTATS 生成列值柱状图统计数据。"
+    },
+    {
+      "en": "In this paper , our image is successfully segmentedbased on a local histogram.",
+      "cn": "实验发现采用一种基于局部区域直方图的阈值方法分割图像,分割效果较好."
+    },
+    {
+      "en": "One way to quickly check out if there's any area in your shot that is overexposed to this degree is to view the histogram on your shot.",
+      "cn": "一个方法来快速检查在你的拍摄中是否有过度曝光到这种程度的情况发生可用拍摄中的直方图。"
+    },
+    {
+      "en": "Second, we get the two dimension color histogram from the vehicle image.",
+      "cn": "最后, 根据车牌的彩色特征和外形特征将车牌从整个汽车图象上分割出来."
+    },
+    {
+      "en": "The frequency polygon is simpler than its histogram counterpart.",
+      "cn": "频率多边形比直方图更简单."
+    },
+    {
+      "en": "The stress range histogram was used to estimate the effective root - mean - square stress range.",
+      "cn": "应力范围直方图可用作估算等效 均方根 应用力范围."
+    },
+    {
+      "en": "Then picture hook up all the respective local histogram adjustments.",
+      "cn": "再把图片各个地方分别钩出来调整色阶."
+    },
+    {
+      "en": "This example demonstrated a line chart , histogram and pie mapping methods.",
+      "cn": "这个例子演示了折线图 、 柱状图和饼状图的绘制方法."
+    },
+    {
+      "en": "This paper introduces the histogram approximation method Criterion ( BIC ) into unsupervised change detection.",
+      "cn": "本文引入图像直方图拟合方法来确定变化阈值."
+    },
+    {
+      "en": "VC 6.0 + OPENCV, to achieve the picture of the color histogram calculated.",
+      "cn": "0+OPENCV, 用以实现图片的颜色直方图计算."
+    },
+    {
+      "en": "Write a computer program for computing the histogram of an image.",
+      "cn": "编写一个能计算一张图像直方图的程序。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "column diagram"
+          ],
+          "tran_cn": "[统计]直方图；柱状图"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "frequency histogram",
+      "tran_cn": "频率直方图；柱形统计图"
+    },
+    {
+      "phrase": "histogram equalization",
+      "tran_cn": "直方图均衡化"
+    },
+    {
+      "phrase": "histogram specification",
+      "tran_cn": "[计]直方图规定化"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "直方图",
+      "tran_en": "a  bar chart "
+    }
+  ],
+  "exchange": {}
+}

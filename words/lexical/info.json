@@ -1,0 +1,178 @@
+{
+  "word": "lexical",
+  "ipa": {
+    "us": "ˈleksɪkl",
+    "uk": "ˈleksɪkl"
+  },
+  "sentences": [
+    {
+      "en": "About 14 % of those receiving thee - mail removed information on lexical sexual behavior.",
+      "cn": "大约有14%的人收到了 电子邮件,他们替换了关于性行为的信息."
+    },
+    {
+      "en": "Compiler Construction Principles, based on the JAVA realize, lexical analysis.",
+      "cn": "编译原理, 基于JAVA实现, 词法分析."
+    },
+    {
+      "en": "Deviat ion in lexical meaning is a common phenomenon int ranslat ion.",
+      "cn": "词义偏离是翻译中常见的一种现象."
+    },
+    {
+      "en": "For example, are overlaps in word meaning, or lexical gaps, being explored?",
+      "cn": "例如, 是词汇意义交叉, 还是词汇之间具有差距?"
+    },
+    {
+      "en": "Garden path sentences are caused either by lexical ambiguity or syntactic ambiguity.",
+      "cn": "花园小径句式的产生或是词汇歧义所致,或是由句法歧义带来."
+    },
+    {
+      "en": "In this homework, you will explore corpus - based approaches to lexical semantics.",
+      "cn": "在此家庭作业中, 同学需要探讨基于语料的方法在辞汇语义上的应用."
+    },
+    {
+      "en": "Lexical analyzer function is an input source, output word symbols.",
+      "cn": "词法分析器的功能是输入源程序, 输出单词符号."
+    },
+    {
+      "en": "Perspective taking is closely related to the process of lexical choice.",
+      "cn": "视角的选取与词汇选择过程密切相关."
+    },
+    {
+      "en": "Semantics is generally divided into lexical semantics and sentence semantics.",
+      "cn": "语义学一般分为词汇语义学和句子语义学."
+    },
+    {
+      "en": "Some acronyms as scientific terminology are used as a lexical item.",
+      "cn": "一些科学术语缩写用作词汇项目."
+    },
+    {
+      "en": "The lexical meaning is the content of the vocabulary.",
+      "cn": "词义是词汇的内容."
+    },
+    {
+      "en": "The scanner is sometimes called a lexical analyzer.",
+      "cn": "扫描程序有时又把它称为词法分析程序."
+    },
+    {
+      "en": "The theory of lexical cohesion is obviously quite useful to English teaching.",
+      "cn": "词汇衔接模式理论对英语教学具有明显的指导作用."
+    },
+    {
+      "en": "This is the lexical analysis of the design stage.",
+      "cn": "本设计即为词法分析阶段."
+    },
+    {
+      "en": "We chose a few of the commonest lexical items in the languages.",
+      "cn": "我们选取了各语言中最常见的几个词汇。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "lexicographical",
+          "tran_cn": " 辞典编纂的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "lexically",
+          "tran_cn": " 词汇方面；字典地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "lexicalization",
+          "tran_cn": " 词汇化"
+        },
+        {
+          "word": "lexicographer",
+          "tran_cn": " 词典编纂者"
+        },
+        {
+          "word": "lexicography",
+          "tran_cn": " 词典编纂"
+        },
+        {
+          "word": "lexicologist",
+          "tran_cn": " 词汇学家"
+        },
+        {
+          "word": "lexicology",
+          "tran_cn": " 词汇学；词典学"
+        },
+        {
+          "word": "lexicon",
+          "tran_cn": " 词典，辞典"
+        },
+        {
+          "word": "lexicostatistics",
+          "tran_cn": " [统计][语] 词汇统计学"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "lexicalize",
+          "tran_cn": " 编入词汇；使词汇化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "vocabular"
+          ],
+          "tran_cn": "[语]词汇的；词典的；词典编纂的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lexical ambiguity",
+      "tran_cn": "词法多义性；词法的歧义性"
+    },
+    {
+      "phrase": "lexical analysis",
+      "tran_cn": "词法分析"
+    },
+    {
+      "phrase": "lexical analyzer",
+      "tran_cn": "词法分析程序"
+    },
+    {
+      "phrase": "lexical item",
+      "tran_cn": "词项；词条"
+    },
+    {
+      "phrase": "lexical meaning",
+      "tran_cn": "n. 词汇意义"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "词汇的，具词典性质的，词典的",
+      "tran_en": "dealing with words, or related to words"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "lexically"
+    ]
+  }
+}

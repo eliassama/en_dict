@@ -1,0 +1,212 @@
+{
+  "word": "conspiracy",
+  "ipa": {
+    "us": "kənˈspɪrəsi",
+    "uk": "kənˈspɪrəsi"
+  },
+  "sentences": [
+    {
+      "en": "At first, he was blissfully unaware of the conspiracy against him.",
+      "cn": "起初，他幸好不知道那些针对他的阴谋。"
+    },
+    {
+      "en": "Detectives have run into a conspiracy of silence in the tight-knit communities of the peninsula.",
+      "cn": "侦探们犯了难，半岛上各个群体抱成一团，达成了保持缄默的密约。"
+    },
+    {
+      "en": "He claimed that it was all a conspiracy against him.",
+      "cn": "他声称这一切都是一场针对他的阴谋。"
+    },
+    {
+      "en": "He is a party to the conspiracy.",
+      "cn": "他参与了那次阴谋。"
+    },
+    {
+      "en": "He suspects there's a conspiracy to cover up the crime.",
+      "cn": "他怀疑有人密谋掩盖犯罪事实。"
+    },
+    {
+      "en": "He was charged with conspiracy to suborn witnesses.",
+      "cn": "他被指控阴谋收买证人作伪证."
+    },
+    {
+      "en": "He was mixed up in the conspiracy.",
+      "cn": "他参与了那次阴谋."
+    },
+    {
+      "en": "He's charged with conspiracy, misapplication of funds and other crimes.",
+      "cn": "他被控涉嫌阴谋破坏、滥用资金以及其他几项罪行。"
+    },
+    {
+      "en": "It's all part of a conspiracy to dispense with the town centre all together and move everything out to Meadowhall.",
+      "cn": "彻底抛开市中心而把所有东西都搬到梅多霍尔购物中心,这完全是一场阴谋的一部分."
+    },
+    {
+      "en": "Many people were involved in this conspiracy, but three stand out.",
+      "cn": "很多人参与了这场阴谋，但有3个人是主谋。"
+    },
+    {
+      "en": "Seven men, all from Bristol, admitted conspiracy to commit arson.",
+      "cn": "7个人都来自布里斯托尔，他们承认了合谋纵火。"
+    },
+    {
+      "en": "She was convicted on an indictment for conspiracy.",
+      "cn": "她被控以共谋罪,罪名成立."
+    },
+    {
+      "en": "The men were found guilty of conspiracy to murder.",
+      "cn": "这些人被裁决犯有阴谋杀人罪."
+    },
+    {
+      "en": "There were many conspiracy theories (= beliefs that something is the result of a conspiracy ) surrounding Princess Diana’s death.",
+      "cn": "围绕戴安娜王妃之死有许多阴谋论。"
+    },
+    {
+      "en": "They were brought to trial for treasonable conspiracy.",
+      "cn": "他们因密谋叛国被送上法庭。"
+    },
+    {
+      "en": "Those who go in for intrigues and conspiracy are doomed to failure.",
+      "cn": "搞阴谋诡计的人注定要失败."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "conspiratorial",
+          "tran_cn": " 阴谋的；阴谋者的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "conspirator",
+          "tran_cn": " 阴谋者；反叛者；同谋者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "conspire",
+          "tran_cn": " 共谋；协力"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "conspire",
+          "tran_cn": " [法] 密谋策划"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "collusion",
+            "machination",
+            "wire-pulling"
+          ],
+          "tran_cn": "共谋"
+        },
+        {
+          "words": [
+            "accord",
+            "affiliation",
+            "agreement",
+            "coaction",
+            "collaboration",
+            "combination",
+            "concurrence",
+            "cooperation"
+          ],
+          "tran_cn": "协力,共同协作"
+        },
+        {
+          "words": [
+            "alliance",
+            "cabal",
+            "camarilla",
+            "clique",
+            "coalition",
+            "confederacy",
+            "junta",
+            "secret",
+            "society"
+          ],
+          "tran_cn": "秘密组织,策划"
+        },
+        {
+          "words": [
+            "complot",
+            "connivance",
+            "contrivance",
+            "design",
+            "foul",
+            "intrigue",
+            "play",
+            "plot",
+            "plotting",
+            "scheme",
+            "stratagem",
+            "treachery",
+            "web"
+          ],
+          "tran_cn": "阴谋,密谋"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "complicity",
+            "conjunction",
+            "connection",
+            "faction",
+            "union"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a conspiracy of silence",
+      "tran_cn": "保持缄默协定；攻守同盟"
+    },
+    {
+      "phrase": "conspiracy of silence",
+      "tran_cn": "保持缄默的密约"
+    },
+    {
+      "phrase": "conspiracy theory",
+      "tran_cn": "阴谋论"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "阴谋，密谋",
+      "tran_en": "a secret plan made by two or more people to do something that is harmful or illegal"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "conspiracies"
+    ]
+  }
+}

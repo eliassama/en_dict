@@ -1,0 +1,187 @@
+{
+  "word": "inherit",
+  "ipa": {
+    "us": "ɪnˈherɪt",
+    "uk": "ɪnˈherɪt"
+  },
+  "sentences": [
+    {
+      "en": "Because it is carried by a dominant gene, an affected individual can expect about half of his or her children to inherit the illness.",
+      "cn": "因为它是由显性基因携带，所以感染者的孩子会有约50％的可能性遗传该疾病。"
+    },
+    {
+      "en": "Children who are illegitimate can nevertheless inherit from their parents.",
+      "cn": "然而私生子能从他们父母那里继承遗产."
+    },
+    {
+      "en": "Even dear Mr. Godfrey partakes of the fallen nature which we all inherit from Adam.",
+      "cn": "就连可敬的高孚利先生,也有我们从亚当身上继承来的那种堕落本性."
+    },
+    {
+      "en": "Good as it is to inherit a library, it is better to collect one.",
+      "cn": "继承藏书虽好, 收集藏书更有意义."
+    },
+    {
+      "en": "He intended that his son should inherit his business.",
+      "cn": "他打算让他的儿子继承他的生意."
+    },
+    {
+      "en": "Her favorite Beatitude is \" Blessed are the meek for they shall inherit the earth \".",
+      "cn": "她最喜欢的至福是 “ 保佑温顺的人,他们将继承土地 ”."
+    },
+    {
+      "en": "I inherited my mother’s curly hair.",
+      "cn": "我遗传了母亲的鬈发。"
+    },
+    {
+      "en": "In the event of his death Sheila will inherit the money.",
+      "cn": "一旦他故去,希拉就会继承这笔钱."
+    },
+    {
+      "en": "inherited wealth",
+      "cn": "继承的财富"
+    },
+    {
+      "en": "The eldest son will inherit the title.",
+      "cn": "长子将继承爵位."
+    },
+    {
+      "en": "The meek shall inherit the earth.",
+      "cn": "谦卑的人必承受地土。"
+    },
+    {
+      "en": "The newly - formed variety would probably inherit from its progenitor some characteristic.",
+      "cn": "新形成的变种或许会从它的祖先遗传来某些特性的差异."
+    },
+    {
+      "en": "The strong, the strong they tell us will inherit the land.",
+      "cn": "强者, 他们所谓的强者将继承这块土地."
+    },
+    {
+      "en": "They are to inherit 100,000 US dollars.",
+      "cn": "他们将会继承10万美元。"
+    },
+    {
+      "en": "We inherit from our parents many of our physical characteristics.",
+      "cn": "我们的许多身体特征都是从父母那里遗传而来的。"
+    },
+    {
+      "en": "We must inherit in a critical way.",
+      "cn": "我们要以批判的方式继承."
+    },
+    {
+      "en": "Widows have the right to dispose of property they inherit, without interference from anyone.",
+      "cn": "丧偶妇女有权处分继承的财产, 任何人不得不干涉."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inherent",
+          "tran_cn": " 固有的；内在的；与生俱来的，遗传的"
+        },
+        {
+          "word": "inheritable",
+          "tran_cn": " 可继承的；会遗传的"
+        },
+        {
+          "word": "inherited",
+          "tran_cn": " 遗传的；继承权的；通过继承得到的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inheritance",
+          "tran_cn": " 继承；遗传；遗产"
+        },
+        {
+          "word": "inheritor",
+          "tran_cn": " 继承人；后继者"
+        },
+        {
+          "word": "inheritress",
+          "tran_cn": " 女继承人"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "inherited",
+          "tran_cn": " 继承；经遗传而得（inherit的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "come",
+            "into",
+            "obtain",
+            "receive"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "come",
+            "into",
+            "receive"
+          ],
+          "tran_cn": "继承;得到"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "继承",
+      "tran_en": "to receive money, property etc from someone after they have died"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 成为继承人",
+      "tran_en": "to receive money, property etc from someone after they have died"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "经遗传获得（品质、身体特征等），继任",
+      "tran_en": "to receive money, property etc from someone after they have died"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "继承"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inherits"
+    ],
+    "past": [
+      "inherited"
+    ],
+    "done": [
+      "inherited"
+    ],
+    "ing": [
+      "inheriting"
+    ]
+  }
+}

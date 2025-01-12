@@ -1,0 +1,99 @@
+{
+  "word": "enthrone",
+  "ipa": {
+    "us": "ɪnˈθrəʊn",
+    "uk": "ɪnˈθroʊn"
+  },
+  "sentences": [
+    {
+      "en": "Emperor Akihito of Japan has been enthroned in Tokyo.",
+      "cn": "日皇明仁已在东京登基。"
+    },
+    {
+      "en": "He is expected to be enthroned early next year as the spiritual leader.",
+      "cn": "人们预计他将于明年初作为精神领袖登位。"
+    },
+    {
+      "en": "King of kings salvation brings Let loving hearts enthrone Him.",
+      "cn": "万王之王赐下救赎,心灵当尊他为王."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "enthronement",
+          "tran_cn": " 即位；登基典礼，就任主教的仪式"
+        },
+        {
+          "word": "enthronization",
+          "tran_cn": " 授予主教职位；登基典礼（等于enthronement）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "crown",
+            "exalt",
+            "glorify",
+            "inaugurate",
+            "install",
+            "instate"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "crown",
+            "exalt",
+            "glorify",
+            "inaugurate",
+            "install",
+            "instate"
+          ],
+          "tran_cn": "使即位;就职,担任"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使登基；立…为王；任为主教；崇拜",
+      "tran_en": "if a king or queen is enthroned, there is a ceremony to show that they are starting to rule"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（国王、女王或主教）登基，即位"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "enthrones"
+    ],
+    "past": [
+      "enthroned"
+    ],
+    "done": [
+      "enthroned"
+    ],
+    "ing": [
+      "enthroning"
+    ],
+    "noun": [
+      "enthronement"
+    ]
+  }
+}

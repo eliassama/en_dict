@@ -1,0 +1,101 @@
+{
+  "word": "perturb",
+  "ipa": {
+    "us": "pəˈtɜ:b",
+    "uk": "pərˈtɜrb"
+  },
+  "sentences": [
+    {
+      "en": "Stellar passings can perturb the orbits of comets.",
+      "cn": "行星的运行会使彗星的轨道发生扰动."
+    },
+    {
+      "en": "Venus, Earth, and other planets also perturb Mercury's motion.",
+      "cn": "金星, 地球和其他行星也使水星的运动受到摄动."
+    },
+    {
+      "en": "What perturbs me is that magazine articles are so much shorter nowadays.",
+      "cn": "让我不安的是现在杂志文章都短多了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "perturbation",
+          "tran_cn": " [数][天] 摄动；不安；扰乱"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "afflict",
+            "agitate",
+            "ail",
+            "bother",
+            "demoralize",
+            "discomfort",
+            "disorder",
+            "distress",
+            "disturb",
+            "flurry",
+            "trouble",
+            "upset"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "agitate",
+            "bother",
+            "distress",
+            "disturb",
+            "trouble",
+            "upset"
+          ],
+          "tran_cn": "扰乱;使...不安"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "扰乱；使…混乱；使…心绪不宁",
+      "tran_en": "If something perturbs you, it worries you quite a lot"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使（某人）烦恼，不安"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "perturbs"
+    ],
+    "past": [
+      "perturbed"
+    ],
+    "done": [
+      "perturbed"
+    ],
+    "ing": [
+      "perturbing"
+    ],
+    "adj": [
+      "perturbed"
+    ]
+  }
+}

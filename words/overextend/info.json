@@ -1,0 +1,109 @@
+{
+  "word": "overextend",
+  "ipa": {
+    "us": "ˌəʊvərɪk'stend",
+    "uk": "ˌoʊvərɪk'stend"
+  },
+  "sentences": [
+    {
+      "en": "Any users of credit may overextend themselves.",
+      "cn": "每个贷款使用者都有可能作出不自量力的事."
+    },
+    {
+      "en": "Jackson’s company became overextended financially.",
+      "cn": "杰克逊的公司财务上开支过大了。"
+    },
+    {
+      "en": "This way you don't overextend your economy and then fizzle out with nothing left.",
+      "cn": "最好用在敌人的矿区或者你不常去的中立矿区上."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "overexcited",
+          "tran_cn": " 过励磁的；过于激动的"
+        },
+        {
+          "word": "overfeeding",
+          "tran_cn": " 喂食过多的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "overemphasis",
+          "tran_cn": " 过分强调"
+        },
+        {
+          "word": "overfeeding",
+          "tran_cn": " 过量食物；吃得过多"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "overexcited",
+          "tran_cn": " 使过分激动或兴奋（overexcite的过去式）"
+        },
+        {
+          "word": "overfeeding",
+          "tran_cn": " 喂食过多；过食（overfeed的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "overemphasize",
+          "tran_cn": " 过分强调"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "overemphasize",
+          "tran_cn": " 过分强调"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "过分扩展；过分延长；使…承担过多的义务"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "过分张开，过分扩展，使（自己或别人）承担过多的工作"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "overextends"
+    ],
+    "past": [
+      "overextended"
+    ],
+    "done": [
+      "overextended"
+    ],
+    "ing": [
+      "overextending"
+    ],
+    "adj": [
+      "overextended"
+    ]
+  }
+}

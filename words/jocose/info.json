@@ -1,0 +1,75 @@
+{
+  "word": "jocose",
+  "ipa": {
+    "us": "dʒəˈkəʊs",
+    "uk": "dʒəˈkoʊs"
+  },
+  "sentences": [
+    {
+      "en": "Dr. Daniel was a gleg man of a jocose nature.",
+      "cn": "丹尼尔大夫是一位天生诙谐而反应机敏的人."
+    },
+    {
+      "en": "Telling a lie as a joke or to fool someone is a harmless type of lie, also known as a jocose lie.",
+      "cn": "开玩笑或捉弄人般地说谎是无害的谎言，也称为戏虐性的谎言。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "jocosely",
+          "tran_cn": " 诙谐地；开玩笑地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "jocosity",
+          "tran_cn": " 诙谐，戏谑；开玩笑"
+        },
+        {
+          "word": "jocularity",
+          "tran_cn": " 滑稽；幽默；诙谐的言行"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "humorous",
+            "witty"
+          ],
+          "tran_cn": "诙谐的；开玩笑的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comic",
+            "humorous"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "闹着玩的，爱开玩笑的，滑稽的"
+    }
+  ],
+  "exchange": {}
+}

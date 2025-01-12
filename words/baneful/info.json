@@ -1,0 +1,86 @@
+{
+  "word": "baneful",
+  "ipa": {
+    "us": "ˈbeɪnfl",
+    "uk": "ˈbenfəl"
+  },
+  "sentences": [
+    {
+      "en": "His baneful influence was feared by all.",
+      "cn": "人们都担心他所造成的有害影响."
+    },
+    {
+      "en": "Lower share prices have baneful effect for companies too.",
+      "cn": "更低的股价同样会有损各企业."
+    },
+    {
+      "en": "Objective : To investigate drinking condition and baneful degree of Mang people.",
+      "cn": "目的: 了解莽人的饮酒情况及危害程度."
+    },
+    {
+      "en": "Waste gas emitted by cars has exerted a baneful influence on natural environment.",
+      "cn": "汽车排出的废气对自然环境有极坏的影响."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "banefully",
+          "tran_cn": " 有毒地；致害地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bane",
+          "tran_cn": " 毒药；祸害；灭亡的原因"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "harmful",
+            "toxic",
+            "evil",
+            "poisonous",
+            "destructive"
+          ],
+          "tran_cn": "有害的；有毒的；使人苦恼的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "deadly",
+            "destructive",
+            "detrimental",
+            "disadvantageous",
+            "violent"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "有害的，有毒的",
+      "tran_en": "evil or bad"
+    }
+  ],
+  "exchange": {}
+}

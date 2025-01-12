@@ -1,0 +1,208 @@
+{
+  "word": "peril",
+  "ipa": {
+    "us": "ˈperəl",
+    "uk": "ˈperəl"
+  },
+  "sentences": [
+    {
+      "en": "a voyage that was fraught with peril",
+      "cn": "历尽艰险的旅程"
+    },
+    {
+      "en": "Anyone who breaks the law does so at their peril.",
+      "cn": "违法者要自担后果。"
+    },
+    {
+      "en": "But the town was all asleep . There was no peril of discovery.",
+      "cn": "不过,整个城镇都在睡梦之中,不会有被人发观的危险."
+    },
+    {
+      "en": "He believed his immortal soul was in peril.",
+      "cn": "他认为他不死的灵魂有堕入地狱的危险。"
+    },
+    {
+      "en": "He is in peril of his life.",
+      "cn": "他命在旦夕."
+    },
+    {
+      "en": "Ignore it at your peril.",
+      "cn": "无视该问题要自担风险。"
+    },
+    {
+      "en": "In spite of great peril, I have survived.",
+      "cn": "虽然处境非常危险，我还是挺过来了。"
+    },
+    {
+      "en": "Is the arms race the greatest peril now?",
+      "cn": "军备竞赛是当今的最大危险 吗 ?"
+    },
+    {
+      "en": "It was not the peril but the poverty that her family disliked.",
+      "cn": "她家所鄙夷的并非是险境,而是贫困."
+    },
+    {
+      "en": "Keep off at your peril!",
+      "cn": "走开,否则发生危险自己负责!"
+    },
+    {
+      "en": "Many species are in peril of extinction because of our destruction of their natural habitat.",
+      "cn": "许多物种由于我们破坏了它们的自然环境,现在正面临灭绝的危险."
+    },
+    {
+      "en": "neglect our advice at your peril.",
+      "cn": "你忽视我们的忠告就要自己负责。"
+    },
+    {
+      "en": "Shall I go even further, and say in inextricable peril?",
+      "cn": "我能不能说得更严重一点儿, 是处于难以脱身的险境之中 呢 ?"
+    },
+    {
+      "en": "The British never awaken to peril until it is almost too late.",
+      "cn": "英国人从来不懂得防患于未然。"
+    },
+    {
+      "en": "The embankment is in great peril.",
+      "cn": "河堤岌岌可危."
+    },
+    {
+      "en": "the movement is in peril of dying.",
+      "cn": "该运动有夭折的危险。"
+    },
+    {
+      "en": "The pernicious effect of this advertising on children is a problem that we ignore at our peril.",
+      "cn": "这则广告将对孩子有潜移默化的坏影响,我们置之不理,风险将由我们自己来承担."
+    },
+    {
+      "en": "We are in the gravest peril.",
+      "cn": "我们身处非常严重的危机之中。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "perilous",
+          "tran_cn": "危险的，冒险的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "perilously",
+          "tran_cn": "危机四伏地；充满危险地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "danger",
+            "endangerment",
+            "harm",
+            "hazard",
+            "jeopardy",
+            "risk"
+          ],
+          "tran_cn": "危险;冒险"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "danger",
+            "harm",
+            "hazard",
+            "jeopardy",
+            "risk",
+            "threat"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "endanger",
+            "jeopard"
+          ],
+          "tran_cn": "危及；置…于险境"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at one's peril",
+      "tran_cn": "（尤指用于告诫别人）自担风险"
+    },
+    {
+      "phrase": "at the peril of",
+      "tran_cn": "冒…的危险"
+    },
+    {
+      "phrase": "in (或 at) peril of",
+      "tran_cn": "有…的危险"
+    },
+    {
+      "phrase": "in peril",
+      "tran_cn": "危亡；处于危险之中；冒着危险"
+    },
+    {
+      "phrase": "in peril of",
+      "tran_cn": "冒着…的危险；使发生危险；有…的危险；在危险中；在危急中"
+    },
+    {
+      "phrase": "yellow peril",
+      "tran_cn": "黄祸"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "危险，冒险",
+      "tran_en": "great danger, especially of being harmed or killed"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "危及；置…于险境"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "置…于危险中，危及"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "perils"
+    ],
+    "third": [
+      "perils"
+    ],
+    "past": [
+      "periled",
+      "perilled"
+    ],
+    "done": [
+      "periled",
+      "perilled"
+    ],
+    "ing": [
+      "periling",
+      "perilling"
+    ]
+  }
+}

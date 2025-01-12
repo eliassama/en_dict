@@ -1,0 +1,86 @@
+{
+  "word": "auspice",
+  "ipa": {
+    "us": "'ɔ:spɪs",
+    "uk": "ˈɔspɪs"
+  },
+  "sentences": [
+    {
+      "en": "He took her gentle words as an auspice of happiness.",
+      "cn": "他把她话当作是幸福的吉兆."
+    },
+    {
+      "en": "He took that as an auspice of happiness.",
+      "cn": "他把那看作是幸福的征兆."
+    },
+    {
+      "en": "It is the symbol of dignitary , reverence, and auspice.",
+      "cn": "是权贵, 尊严和吉祥的象征."
+    },
+    {
+      "en": "the delegation's visit was arranged under UN auspices.",
+      "cn": "代表团的访问是在联合国的支持下安排的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "auspicious",
+          "tran_cn": " 吉兆的，吉利的；幸运的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "auspiciously",
+          "tran_cn": " 吉祥地；吉兆地；繁荣昌盛地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "auspiciousness",
+          "tran_cn": " 吉兆；兴盛；幸运"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "sponsorship",
+            "patronage"
+          ],
+          "tran_cn": "赞助，主办；吉兆"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "under the auspices of",
+      "tran_cn": "在…的帮助（或支持、保护）下"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "预兆，前兆，吉兆，（以飞鸟行动为根据的）占卜",
+      "tran_en": "a sign or omen, esp one that is favourable "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "auspices"
+    ]
+  }
+}

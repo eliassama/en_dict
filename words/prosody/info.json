@@ -1,0 +1,86 @@
+{
+  "word": "prosody",
+  "ipa": {
+    "us": "ˈprɒsədi",
+    "uk": "ˈprɑsədi"
+  },
+  "sentences": [
+    {
+      "en": "Both developed doctrine of prosody.",
+      "cn": "他们作诗都有自己的理论."
+    },
+    {
+      "en": "First, it described three models related to prosody generation.",
+      "cn": "首先描述了韵律生成的相关模型."
+    },
+    {
+      "en": "I used also to recite to her the scraps of poetry used as illustrations in the chapter on prosody or rhetoric of our Bengali grammar.",
+      "cn": "我也常常把孟加拉语法书上，在讲到作诗法或是修辞学时所用作例子的诗句背给她听。"
+    },
+    {
+      "en": "Speech synthesis module generates speech signals based on the results of PinYin annotation and prosody prediction.",
+      "cn": "语音合成将字音标注和韵律预测的结果合成出语音信号."
+    },
+    {
+      "en": "Stressed or accented. Used of a syllable in accentual prosody.",
+      "cn": "用于元音或音节;弱重音或无重音的."
+    },
+    {
+      "en": "The prosody is erratic.",
+      "cn": "就诗体而论,有点古怪."
+    },
+    {
+      "en": "The prosody of Beowulf is based on alliteration, not end rhymes.",
+      "cn": "《贝奥武甫》的诗体采用头韵而不用尾韵."
+    },
+    {
+      "en": "The prosody prediction is to estimate the intonation, rhythm, stress placement and timing.",
+      "cn": "韵律预测可准确估计合成语音的语调 、 节奏 、 重音的位置和时长信息等."
+    },
+    {
+      "en": "Yet you also stress the importance of forms and prosody in polishing and revising poetry.",
+      "cn": "可你又强调形式与诗体论对润饰修改诗的重要性."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "prosodic",
+          "tran_cn": " 诗体学的；作诗法的；韵律学的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "metrics",
+            "poesy"
+          ],
+          "tran_cn": "韵律学；作诗法；诗体学"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "韵文学，诗体学，（某语言的）韵律（学），诗体学者",
+      "tran_en": "the patterns of sound and  rhythm  in poetry and spoken language, or the rules for arranging these patterns"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "prosodies"
+    ],
+    "adj": [
+      "prosodic"
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "word": "costing",
+  "ipa": {
+    "us": "ˈkɒstɪŋ",
+    "uk": "ˈkɔstɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "A company sold 15 computers costing US $ 800 each for total US $ 15000.",
+      "cn": "某公司销售出电脑15台,每台成本为800美元,共收入15000美元."
+    },
+    {
+      "en": "Cooperate with Costing Specialist to implement AR & AP reconciliation with customers and suppliers.",
+      "cn": "配合成本 会计 做好与客户和供应商的往来对帐工作."
+    },
+    {
+      "en": "He paid his three guineas a week regularly for board and lodging, baths costing extra.",
+      "cn": "他每星期按时缴付三畿尼的膳宿费, 外加洗澡费."
+    },
+    {
+      "en": "Here is a detailed costing of our proposals.",
+      "cn": "这是我们的方案的详细成本计算。"
+    },
+    {
+      "en": "Job order and process costing system are similar in many ways.",
+      "cn": "分批法和分步法在很多地方是相似的."
+    },
+    {
+      "en": "Provide current item usage in front end, and revenue & costing analysis.",
+      "cn": "提供当前货品的使用量, 收入 和 成本分析."
+    },
+    {
+      "en": "Sales mix provide revenue & costing analysis by each day.",
+      "cn": "提供每日的收入 和 成本分析."
+    },
+    {
+      "en": "Such complacency is costing the company dear.",
+      "cn": "这种自满情绪正使公司付出沉重代价。"
+    },
+    {
+      "en": "Take a at what your pride is costing you.",
+      "cn": "看一看你的骄傲给你造成的损失."
+    },
+    {
+      "en": "The building work has not been fully costed but runs into millions of dollars.",
+      "cn": "建筑工作的费用还未完全估算出来，但要高达几百万美元。"
+    },
+    {
+      "en": "The film bears favourable technical comparison with Hollywood productions costing 10 times as much.",
+      "cn": "该片与耗资为其10倍的好莱坞制作相比在技术上毫不逊色。"
+    },
+    {
+      "en": "the planning and costing of staffing levels",
+      "cn": "人员配备的计划与成本估算"
+    },
+    {
+      "en": "This broader view of project cost management is often called life - cycle costing.",
+      "cn": "这种广义的观点常称为全寿命期费用计算."
+    },
+    {
+      "en": "This downturn is costing thousands of workers their jobs.",
+      "cn": "这次的经济衰退造成数千人失业."
+    },
+    {
+      "en": "To work with Chain and IT department to optimize the costing procedure.",
+      "cn": "与供应链部及IT部门合作,共同优化成本计算流程."
+    },
+    {
+      "en": "We had to eat out all the time. It ended up costing a fortune.",
+      "cn": "我们不得不总在外面吃饭，结果花了很多钱。"
+    },
+    {
+      "en": "We were asked to prepare detailed costings for the scheme.",
+      "cn": "我们被要求给这个方案作出详细的成本核算。"
+    },
+    {
+      "en": "With the job order costing system , costs are gathered by job order.",
+      "cn": "在分批法中, 成本要按批次归集."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "costless",
+          "tran_cn": " 不花钱的；无须付出代价的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cost",
+          "tran_cn": " 费用，代价，成本；损失"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "cost",
+          "tran_cn": " 花费"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "cost",
+          "tran_cn": " 花费；使付出；使花许多钱"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "operating costs",
+            "manufacturing expenses"
+          ],
+          "tran_cn": "[会计]成本计算；生产费用"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "spending"
+          ],
+          "tran_cn": "花费（cost的ing形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "product costing",
+      "tran_cn": "产品成本计算"
+    },
+    {
+      "phrase": "standard costing",
+      "tran_cn": "标准成本计算；标准成本核算"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "成本计算，成本核算",
+      "tran_en": "the process of calculating the cost of a future business activity, product etc, or the calculation itself"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "价钱为，花费(cost的现在分词)",
+      "tran_en": "When something that you plan to do or make is costed, the amount of money you need is calculated in advance"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "costings"
+    ]
+  }
+}

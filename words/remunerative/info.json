@@ -1,0 +1,105 @@
+{
+  "word": "remunerative",
+  "ipa": {
+    "us": "rɪˈmju:nərətɪv",
+    "uk": "rɪˈmjunərətɪv, -nəˌretɪv"
+  },
+  "sentences": [
+    {
+      "en": "A doctor advised her to seek remunerative employment.",
+      "cn": "一个医生建议她去找有酬劳的工作。"
+    },
+    {
+      "en": "He is in a very remunerative job.",
+      "cn": "他有个报酬高的工作."
+    },
+    {
+      "en": "He is prepared to make a living by accepting any remunerative chore.",
+      "cn": "为了生计,他准备接受任何有酬报的杂活."
+    },
+    {
+      "en": "The most remunerative choice, you fear, may not be the most meaningful and the most satisfying.",
+      "cn": "你们担心, 最有回报的选择并不是最有意义以及最令人舒心的选择."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "remunerated",
+          "tran_cn": " 获得酬金的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "remuneration",
+          "tran_cn": " 报酬；酬劳，赔偿"
+        },
+        {
+          "word": "remunerator",
+          "tran_cn": " 酬劳者"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "remunerated",
+          "tran_cn": " 付给…报酬（remunerate的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "remunerate",
+          "tran_cn": " 酬劳；给与报酬；赔偿"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "economical",
+            "profitable",
+            "paying",
+            "lucrative"
+          ],
+          "tran_cn": "有利可图的；有报酬的；合算的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "advantageous",
+            "fruitful",
+            "profitable"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "酬报的，报偿性的，付酬的，有利可图的",
+      "tran_en": "making a lot of money"
+    }
+  ],
+  "exchange": {}
+}

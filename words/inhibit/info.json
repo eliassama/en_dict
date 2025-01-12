@@ -1,0 +1,207 @@
+{
+  "word": "inhibit",
+  "ipa": {
+    "us": "ɪnˈhɪbɪt",
+    "uk": "ɪnˈhɪbɪt"
+  },
+  "sentences": [
+    {
+      "en": "A lack of oxygen may inhibit brain development in the unborn child.",
+      "cn": "缺氧可能阻碍胎儿的大脑发育。"
+    },
+    {
+      "en": "An unhappy family life may inhibit children’s learning.",
+      "cn": "不幸福的家庭生活可能会阻碍儿童的学习。"
+    },
+    {
+      "en": "Aryl disulfides, for example, inhibit polyolefin oxidation.",
+      "cn": "例如芳基二硫化物可抑制聚烯烃的氧化."
+    },
+    {
+      "en": "Conclusion The Burn - scald tincture of herb can inhibit the acute inflammation.",
+      "cn": "结论消炎烧烫酊对急性炎症有抑制作用."
+    },
+    {
+      "en": "Conclusion The exogenous CGRP can inhibit pulmonary hemorrhage induced by ET - 1 .",
+      "cn": "结论外源性CGRP有拮抗ET -1 致肺出血的作用."
+    },
+    {
+      "en": "Conclusion Δ Np 63 - shRNA can effectively inhibit the expres - sion of Δ Np 63 mRNA in 5637 cell line.",
+      "cn": "结论Np63特异性shRNA在5637细胞中对Np63mRNA表达显示出很好的抑制作用."
+    },
+    {
+      "en": "Curcumin can inhibit the proliferation of hfRPE cells by cells cycle arrest.",
+      "cn": "结论:在一定浓度范围内,姜黄素通过改变hfRPE细胞的周期分布来抑制其增殖."
+    },
+    {
+      "en": "Higher salt concentrations alone may inhibit ion uptake.",
+      "cn": "单单只是盐浓度高就会阻碍离子吸收."
+    },
+    {
+      "en": "It could inhibit the poor from getting the medical care they need.",
+      "cn": "那会使穷人得不到他们所需要的医疗保健。"
+    },
+    {
+      "en": "Many surgical complications and disease processes inhibit normal nitrogen anabolism.",
+      "cn": "许多外科并发症和疾病抑制正常的氮合成代谢."
+    },
+    {
+      "en": "Swishing green tea around the mouth may inhibit cavity - causing bacteria.",
+      "cn": "以绿茶漱口可能抑制导致牙齿空洞的细菌."
+    },
+    {
+      "en": "The ability of humoral antibodies to inhibit tumor growth varies with different cell types.",
+      "cn": "体液抗体抑制肿瘤生长的能力因细胞类型不同而异."
+    },
+    {
+      "en": "The high cost of borrowing is inhibiting investment by industry in new equipment.",
+      "cn": "高昂的借贷成本正抑制行业对新设备的投资。"
+    },
+    {
+      "en": "The interplay between the new politics and the modern media will unbalance the political process and inhibit its workings.",
+      "cn": "新政治和现代媒体之间的相互作用将会扰乱政治进程，妨碍其正常运作。"
+    },
+    {
+      "en": "The use of wax to inhibit ozone deterioration probably goes back to 1881.",
+      "cn": "使用蜡来抑制臭氧劣化可追溯到1881年."
+    },
+    {
+      "en": "Waterproof layer to prevent moisture, inhibit the growth of mold.",
+      "cn": "防水层能防止潮气, 抑制霉菌的生长."
+    },
+    {
+      "en": "Wine or sugary drinks inhibit digestion.",
+      "cn": "葡萄酒或含糖饮料抑制消化。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "inhibitory",
+          "tran_cn": " 禁止的，抑制的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inhibition",
+          "tran_cn": " 抑制；压抑；禁止"
+        },
+        {
+          "word": "inhibitor",
+          "tran_cn": " [助剂] 抑制剂，抗化剂；抑制者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "retard",
+            "scotch",
+            "silence",
+            "thwart"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "ban",
+            "bar",
+            "disallow",
+            "forbid",
+            "interdict",
+            "obstruct",
+            "prevent",
+            "prohibit",
+            "proscribe",
+            "taboo",
+            "veto"
+          ],
+          "tran_cn": "禁止,阻止,不允许"
+        },
+        {
+          "words": [
+            "abort",
+            "arrest",
+            "check",
+            "coerce",
+            "compel",
+            "constrain",
+            "constrict",
+            "control",
+            "cramp",
+            "curb",
+            "gag",
+            "govern",
+            "hinder",
+            "holdback",
+            "impede",
+            "interfere",
+            "obstruct",
+            "repress",
+            "restrain",
+            "restrict",
+            "smother",
+            "stop",
+            "suppress"
+          ],
+          "tran_cn": "约束,抑制,妨碍"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "bar",
+            "restrain",
+            "control",
+            "stay"
+          ],
+          "tran_cn": "抑制；禁止"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "抑制，禁止",
+      "tran_en": "to prevent something from growing or developing well"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 阻止， 妨碍， 抑制",
+      "tran_en": "to prevent something from growing or developing well"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inhibits"
+    ],
+    "past": [
+      "inhibited"
+    ],
+    "done": [
+      "inhibited"
+    ],
+    "ing": [
+      "inhibiting"
+    ]
+  }
+}

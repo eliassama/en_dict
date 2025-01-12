@@ -1,0 +1,98 @@
+{
+  "word": "quantifier",
+  "ipa": {
+    "us": "ˈkwɒntɪfaɪə(r)",
+    "uk": "ˈkwɑntɪfaɪə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Expatiate the effect of noun being used as quantifier from two aspect: meaning and aesthetic feeling.",
+      "cn": "从意蕴和美感两方面阐述了名词临时借用为量词的效果."
+    },
+    {
+      "en": "Quantifier is a kind of unit word that expresses person, thing or movement.",
+      "cn": "量词是表示人 、 事物或动作、行为的单位的词,其作用主要在于计量."
+    },
+    {
+      "en": "Question : When speaking of umbrella and fan, which quantifier do we use?",
+      "cn": "说到伞和扇子的时候, 我们会用到哪个量词 呢 ?"
+    },
+    {
+      "en": "The quantifier in Chinese is one part of speech to express the quantity unit.",
+      "cn": "现代汉语量词是用来表示数量单位的一种词类."
+    },
+    {
+      "en": "The research on ambiguous numeral - quantifier compounds is another important part of the paper.",
+      "cn": "对数量短语歧义格式的研究,是本文的另一重要内容."
+    },
+    {
+      "en": "This paper focuses on the resolution of quantifier - induced scope ambiguity by Prolog implementation.",
+      "cn": "本文的重点是讨论在Prolog语言中如何实现对含有量化词辖域歧义的语句的消歧问题."
+    },
+    {
+      "en": "You cannot use a quantifier with an anchor.",
+      "cn": "不能将限定符与定位点一起使用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "quantitative",
+          "tran_cn": " 定量的；量的，数量的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "quantitatively",
+          "tran_cn": " 数量上；分量上"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "quantity",
+          "tran_cn": " 量，数量；大量；总量"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "quantify",
+          "tran_cn": " 量化；定量"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "quantify",
+          "tran_cn": " 量化；为…定量；确定数量"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "数量词，量词",
+      "tran_en": "a word or phrase such as ‘much’, ‘few’, or ‘a lot of’ that is used with a noun to show quantity"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "quantifiers"
+    ]
+  }
+}

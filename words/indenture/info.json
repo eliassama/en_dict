@@ -1,0 +1,127 @@
+{
+  "word": "indenture",
+  "ipa": {
+    "us": "ɪnˈdentʃə(r)",
+    "uk": "ɪnˈdɛntʃɚ"
+  },
+  "sentences": [
+    {
+      "en": "He is indenture to a builder.",
+      "cn": "他与一建筑工人订了师徒合同."
+    },
+    {
+      "en": "Soon thereafter, private agents scoured the ports taverns, and countryside to sign on workers for indenture.",
+      "cn": "此后不久，私人机构迅速搜查港口的小客栈和乡下地区，来招募契约仆役。"
+    },
+    {
+      "en": "The contract represents an entrance into a state of mutual indenture of the twoparticipants.",
+      "cn": "合同标志着两个参与者共有契约状态的进入。"
+    },
+    {
+      "en": "Thirdly, the paper illustrates the life cycle of agriculture VR&DO and discusses the operating mode of it on the basis of dynamic network indenture.",
+      "cn": "再次，论文阐述了农业虚拟研发组织的生命周期，并论述了基于动态网契约的农业虚拟研发组织的运行模式。"
+    },
+    {
+      "en": "To bind into the service of another by indenture.",
+      "cn": "以契约约束按契约的规定为另一方服务."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "indented",
+          "tran_cn": " 犬牙交错的；受契约约束的；缩进排印的"
+        },
+        {
+          "word": "indentured",
+          "tran_cn": " 受契约束缚的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "indent",
+          "tran_cn": " 缩进；订货单；凹痕；契约"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "indented",
+          "tran_cn": " 缩进；切割成锯齿状（indent的过去分词）"
+        },
+        {
+          "word": "indentured",
+          "tran_cn": " 以契约约束；签订契约（indenture的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "indent",
+          "tran_cn": " 切割成锯齿状"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "indent",
+          "tran_cn": " 定货；缩排；印凹痕"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "compact",
+            "covenant"
+          ],
+          "tran_cn": "[法]契约；合同"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "obligation"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "契约，合同，正式凭单，文据",
+      "tran_en": "a formal contract, especially in the past, between an apprentice and his master(= employer ), or the act of arranging this"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "以契约约束",
+      "tran_en": "to enter into an agreement by indenture "
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "indentured"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "word": "podiatrist",
+  "ipa": {
+    "us": "pəˈdaɪətrɪst",
+    "uk": "pəˈdaɪətrɪst"
+  },
+  "sentences": [
+    {
+      "en": "He goes to the podiatrist to have his bunions treated.",
+      "cn": "他到足病医生那里去治他的拇囊肿。"
+    },
+    {
+      "en": "There are records of the King of France employing a podiatrist, as did Napoleon.",
+      "cn": "有记载称,法国皇帝们曾经雇用足科医师, 例如拿破仑."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "podiatry",
+          "tran_cn": " 足部医疗；[外科] 脚病学"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "足病医生",
+      "tran_en": "a doctor who takes care of people’s feet and treats foot diseases"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "podiatrists"
+    ]
+  }
+}

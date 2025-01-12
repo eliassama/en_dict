@@ -1,0 +1,88 @@
+{
+  "word": "flummox",
+  "ipa": {
+    "us": "ˈflʌməks",
+    "uk": "ˈflʌməks"
+  },
+  "sentences": [
+    {
+      "en": "She can flummox anybody by the lip.",
+      "cn": "她能把任何人数落得狼狈不堪."
+    },
+    {
+      "en": "The two leaders were flummoxed by the suggestion.",
+      "cn": "这两位领导被这项提议搞得慌乱失措。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "failure",
+            "loss",
+            "defeat",
+            "losing",
+            "reverse"
+          ],
+          "tran_cn": "失败"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "founder",
+            "bomb"
+          ],
+          "tran_cn": "出现错误；失败"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cloud",
+            "confuse"
+          ],
+          "tran_cn": "使狼狈；使混乱；使惶惑"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使惶惑, 打乱, 使狼狈, 使混乱",
+      "tran_en": "If someone is flummoxed by something, they are confused by it and do not know what to do or say"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "<口>使困惑，使慌乱"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "flummoxes"
+    ],
+    "past": [
+      "flummoxed"
+    ],
+    "done": [
+      "flummoxed"
+    ],
+    "ing": [
+      "flummoxing"
+    ],
+    "adj": [
+      "flummoxed"
+    ]
+  }
+}

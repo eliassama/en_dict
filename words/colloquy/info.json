@@ -1,0 +1,111 @@
+{
+  "word": "colloquy",
+  "ipa": {
+    "us": "ˈkɒləkwi",
+    "uk": "ˈkɑləkwi"
+  },
+  "sentences": [
+    {
+      "en": "Miss Ophelia rose from this encouraging colloquy.",
+      "cn": "奥菲丽亚小姐觉得这段对话还比较满意,问完之后就站起身来."
+    },
+    {
+      "en": "Powell did not know why it was he had resolved to keep his own counsel as to his colloquy with Mr Smith.",
+      "cn": "鲍威尔不知道为什么决定要把他跟史密斯先生的谈话保守秘密。"
+    },
+    {
+      "en": "The colloquy between them was brief.",
+      "cn": "他们之间的对话很简洁。"
+    },
+    {
+      "en": "The colloquy which followed was brief and to the point.",
+      "cn": "两人的对话既简短,又直截了当."
+    },
+    {
+      "en": "They entered into eager colloquy with each other.",
+      "cn": "他们展开热切的相互交谈."
+    },
+    {
+      "en": "They stopped, and engaged in a whispered colloquy.",
+      "cn": "他们停下来, 小声地交换了一下意见."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "colloquial",
+          "tran_cn": " 白话的；通俗的；口语体的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "colloquialism",
+          "tran_cn": " 白话，口语；口语体；方言用语"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "causerie",
+            "chat",
+            "chitchat",
+            "confabulation",
+            "conference",
+            "conversation",
+            "council",
+            "dialogue",
+            "discourse",
+            "discussion",
+            "interlocution",
+            "palaver",
+            "talk"
+          ],
+          "tran_cn": "会话,对谈"
+        },
+        {
+          "words": [
+            "conference",
+            "discussion",
+            "parley",
+            "powwow"
+          ],
+          "tran_cn": "正式会谈,讨论"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "parliament"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "谈话，对话",
+      "tran_en": "a conversation"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "colloquies"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "word": "gestate",
+  "ipa": {
+    "us": "dʒesˈteɪt",
+    "uk": "ˈdʒesteɪt"
+  },
+  "sentences": [
+    {
+      "en": "It is certain that the natural rutile can gestate good photocatalysis activity.",
+      "cn": "研究结果表明，该天然含钒金红石孕育有良好的光催化活性。"
+    },
+    {
+      "en": "It was in ancient times that the thought of pedagogical pragmatics began to gestate and form.",
+      "cn": "教学语用学思想是从古代开始孕育和形成的。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "gestational",
+          "tran_cn": " 妊娠期的；受孕的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gestation",
+          "tran_cn": " 酝酿；怀孕；妊娠期"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "impregnate"
+          ],
+          "tran_cn": "使怀孕"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "孕育，创案",
+      "tran_en": "to carry (developing young) in the uterus during pregnancy "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "gestates"
+    ],
+    "past": [
+      "gestated"
+    ],
+    "done": [
+      "gestated"
+    ],
+    "ing": [
+      "gestating"
+    ]
+  }
+}

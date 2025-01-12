@@ -1,0 +1,197 @@
+{
+  "word": "gulp",
+  "ipa": {
+    "us": "gʌlp",
+    "uk": "ɡʌlp"
+  },
+  "sentences": [
+    {
+      "en": "Don't gulp everything down without masticating.",
+      "cn": "不要不加咀嚼就把什么都给一股脑地吞下去。"
+    },
+    {
+      "en": "Don't gulp your food, chew it before you swallow it.",
+      "cn": "吃东西不要狼吞虎咽, 要嚼碎了再咽下去."
+    },
+    {
+      "en": "having emptied his glass at a gulp, Roger pulled out a cigar.",
+      "cn": "将杯中的酒一饮而尽后，罗杰抽出一支雪茄。"
+    },
+    {
+      "en": "He swallowed a glass of beer at one gulp.",
+      "cn": "他一囗气喝下一杯啤酒."
+    },
+    {
+      "en": "He took a big gulp and almost chocked.",
+      "cn": "他喝得太猛,呛着了."
+    },
+    {
+      "en": "I cannot toss off the glass of soda water in one gulp.",
+      "cn": "我不能一口气喝完那杯汽水."
+    },
+    {
+      "en": "I gulped when I saw the bill.",
+      "cn": "看到账单时我倒吸了一口气。"
+    },
+    {
+      "en": "I took in a large gulp of air.",
+      "cn": "我深吸了一大口气。"
+    },
+    {
+      "en": "Ray took a gulp of coffee and rushed out of the room.",
+      "cn": "雷喝了一大口咖啡,接着便冲出了房间."
+    },
+    {
+      "en": "She gave a little gulp.",
+      "cn": "她微微咽了一口气."
+    },
+    {
+      "en": "She gulped down her breakfast and ran for the bus.",
+      "cn": "她狼吞虎咽地吃完早饭，跑去赶公交车了。"
+    },
+    {
+      "en": "She quickly gulped her soda.",
+      "cn": "她很快地把汽水一饮而尽。"
+    },
+    {
+      "en": "She took down the tablets in one gulp.",
+      "cn": "她把那些药片一口吞了下去."
+    },
+    {
+      "en": "She watched Bertha gulp down six cups of tea.",
+      "cn": "她注意到伯莎狼吞虎咽地喝下了六杯茶."
+    },
+    {
+      "en": "The engineer tossed off the glass of beer almost in one gulp.",
+      "cn": "这位工程师几乎一口气喝完了那杯啤酒."
+    },
+    {
+      "en": "The old man drained his teacup in one gulp and rubbed his bald head.",
+      "cn": "老头子一口吞了一杯茶,摸了摸秃脑袋."
+    },
+    {
+      "en": "They gulp down knowledge with unmatched enthusiasm.",
+      "cn": "他们如饥似渴地吸收知识."
+    },
+    {
+      "en": "We swallowed the chocolates in one gulp, licking our lips.",
+      "cn": "我们一口吞下了巧克力，满意地咂着嘴。"
+    },
+    {
+      "en": "When his whisky came he drank half of it in one gulp.",
+      "cn": "威士忌端上来后，他一口气就喝掉了一半。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "gulper",
+          "tran_cn": " 囊咽鱼"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "deglutition",
+            "swallowing"
+          ],
+          "tran_cn": "一大口（尤指液体）；吞咽"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "breath",
+            "breathe",
+            "choke",
+            "devour",
+            "eat",
+            "gasp",
+            "gorge",
+            "repress",
+            "swallow"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "lose one's breath"
+          ],
+          "tran_cn": "哽住；喘不过气"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "devour",
+            "swallow"
+          ],
+          "tran_cn": "大口吞咽"
+        },
+        {
+          "words": [
+            "gasp"
+          ],
+          "tran_cn": "大口喘气"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at a gulp",
+      "tran_cn": "一饮（而尽）"
+    },
+    {
+      "phrase": "gulp down",
+      "tran_cn": "狼吞虎咽地吃；忍住"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "吞咽（的量），一大口",
+      "tran_en": "a large amount of something that you swallow quickly, or the action of swallowing"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "狼吞虎咽，（因害怕或惊讶而）倒吸气， 大口大口地吸（气）",
+      "tran_en": "to swallow large quantities of food or drink quickly"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "gulps"
+    ],
+    "third": [
+      "gulps"
+    ],
+    "past": [
+      "gulped"
+    ],
+    "done": [
+      "gulped"
+    ],
+    "ing": [
+      "gulping"
+    ]
+  }
+}

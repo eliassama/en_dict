@@ -1,0 +1,100 @@
+{
+  "word": "connote",
+  "ipa": {
+    "us": " kəˈnəʊt",
+    "uk": " kəˈnoʊt"
+  },
+  "sentences": [
+    {
+      "en": "Some English sentences are superficially negative but they actually connote affirmative, which often confuses translators.",
+      "cn": "英语里有些否定句表达的却是肯定之意, 从而造成了汉译中的“是非”误区."
+    },
+    {
+      "en": "Some grammatical rules of English connote much pragmatic information.",
+      "cn": "摘要英语语法规则中蕴含丰富的语用信息."
+    },
+    {
+      "en": "The term \" program \" is not intended to connote complete rigidity.",
+      "cn": "“ 程序 ” 这个词不含有完全定型的意思."
+    },
+    {
+      "en": "The term \"organization\" often connotes a sense of neatness.",
+      "cn": "“组织”这个词常常给人一种整洁的感觉。"
+    },
+    {
+      "en": "The word \" food \" may connote \" greed \".",
+      "cn": "“ food ” 这个词可以含有 “ 贪婪 ” 的意思."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "connotative",
+          "tran_cn": " 内涵的；隐含的；含蓄的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "connotation",
+          "tran_cn": " 内涵；含蓄；暗示，隐含意义；储蓄的东西（词、语等）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "signify"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "spell",
+            "portend"
+          ],
+          "tran_cn": "意味着；含言外之意"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "意味着；含言外之意",
+      "tran_en": "If a word or name connotes something, it makes you think of a particular idea or quality"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "隐含，暗示，意味着"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "connotes"
+    ],
+    "past": [
+      "connoted"
+    ],
+    "done": [
+      "connoted"
+    ],
+    "ing": [
+      "connoting"
+    ]
+  }
+}

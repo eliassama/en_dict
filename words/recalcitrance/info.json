@@ -1,0 +1,76 @@
+{
+  "word": "recalcitrance",
+  "ipa": {
+    "us": "rɪ'kælsɪtrəns",
+    "uk": "rɪˈkælsɪtrəns"
+  },
+  "sentences": [
+    {
+      "en": "They chastise Mr Netanyahu for his recalcitrance.",
+      "cn": "他们谴责内塔尼亚胡的顽抗。"
+    },
+    {
+      "en": "Your recalcitrance obliges firmness on me.",
+      "cn": "你们不听话,那我就得采用果断措施."
+    },
+    {
+      "en": "Your recalcitrance obliges firmness on my part.",
+      "cn": "你不服从,迫使我这方面更坚定了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "recalcitrant",
+          "tran_cn": " 反抗的；反对的；顽强的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "recalcitrant",
+          "tran_cn": " 顽抗者；不服从的人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "recalcitrate",
+          "tran_cn": " 不服从；顽抗；踢回去"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "resistance",
+            "rebellion"
+          ],
+          "tran_cn": "反抗，顽抗；固执，不听话"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "反抗，顽强，不听话"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "recalcitrant"
+    ]
+  }
+}

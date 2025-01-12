@@ -1,0 +1,197 @@
+{
+  "word": "allocate",
+  "ipa": {
+    "us": "ˈæləkeɪt",
+    "uk": "ˈæləkeɪt"
+  },
+  "sentences": [
+    {
+      "en": "Allocate - How you designate number of credits to your site.",
+      "cn": "分配 – 你为你的网页分配积分的方式."
+    },
+    {
+      "en": "Allocate the analysis of the price to the multinational inner part.",
+      "cn": "对跨国内部调拨价格的分析."
+    },
+    {
+      "en": "Cannot allocate database object - database would exceed its disk quota.",
+      "cn": "不能分配数据库对象 —— 数据库将超过它的磁盘限额."
+    },
+    {
+      "en": "Financial Planners can allocate budgets by organisation element or internal budget codes.",
+      "cn": "财务规划可以拨出预算由组织元素或内部预算代码."
+    },
+    {
+      "en": "I feel that we should allocate some money to improve the company's recreational facilities.",
+      "cn": "我感到我们应该分配一些钱用于改进公司的娱乐设施."
+    },
+    {
+      "en": "I will do my own evaluation and allocate the bonuses to each person.",
+      "cn": "我有我自己给每人评价和分配红利的办法."
+    },
+    {
+      "en": "Marxism economics has two kinds of different income to allocate theory.",
+      "cn": "马克思主义经济学有两种不同的收入分配理论."
+    },
+    {
+      "en": "The district allocate pipeline pure water, can look at system of talkbacking.",
+      "cn": "小区配备管道纯净水, 可视对讲系统."
+    },
+    {
+      "en": "They intend to allocate more places to mature students this year.",
+      "cn": "今年他们打算给成人学生提供更多的名额。"
+    },
+    {
+      "en": "They will allocate fund for housing.",
+      "cn": "他们将拨出经费建房."
+    },
+    {
+      "en": "They will allocate funds to you if you requisition it.",
+      "cn": "如果你提出书面申请,他们就会拨给你资金."
+    },
+    {
+      "en": "This agency agreement cover only the territory allocate to you.",
+      "cn": "该代理协议只适用于指定给你们的地区."
+    },
+    {
+      "en": "Tickets are limited and will be allocated to those who apply first.",
+      "cn": "票数有限，将分配给那些先申请的人。"
+    },
+    {
+      "en": "We allocate 10 % of revenue to publicity.",
+      "cn": "我们拨出10%的收入做广告."
+    },
+    {
+      "en": "We'll have to allocate plenty of space for that.",
+      "cn": "这个产品应该多占些位置."
+    },
+    {
+      "en": "You must allocate the money carefully.",
+      "cn": "你们必须谨慎地分配钱."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "allocable",
+          "tran_cn": " 可拨出的；可分配的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "allocation",
+          "tran_cn": " 分配，配置；安置"
+        },
+        {
+          "word": "allocator",
+          "tran_cn": " 分配算符"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dispense"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "allot",
+            "apart",
+            "apportion",
+            "appropriate",
+            "aside",
+            "assign",
+            "designate",
+            "distribute",
+            "divide",
+            "dole",
+            "earmark",
+            "mete",
+            "out",
+            "ration",
+            "set",
+            "up"
+          ],
+          "tran_cn": "分配"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "parcel out",
+            "to assign"
+          ],
+          "tran_cn": "分配；指定"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "portion",
+            "part",
+            "appropriate"
+          ],
+          "tran_cn": "分配；拨出；使坐落于"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "allocate for",
+      "tran_cn": "为…而分配；把…拨给"
+    },
+    {
+      "phrase": "allocate funds",
+      "tran_cn": "拨款；分配资金"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "分配，分派，划拨",
+      "tran_en": "to use something for a particular purpose, give something to a particular person etc, especially after an official decision has been made"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 分配， 分派， 把…拨给",
+      "tran_en": "to use something for a particular purpose, give something to a particular person etc, especially after an official decision has been made"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "allocates"
+    ],
+    "past": [
+      "allocated"
+    ],
+    "done": [
+      "allocated"
+    ],
+    "ing": [
+      "allocating"
+    ]
+  }
+}

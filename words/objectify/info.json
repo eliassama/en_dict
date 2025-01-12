@@ -1,0 +1,136 @@
+{
+  "word": "objectify",
+  "ipa": {
+    "us": "əbˈdʒektɪfaɪ",
+    "uk": "əb'dʒektɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "a culture that objectifies women",
+      "cn": "将女性物化的一种文化"
+    },
+    {
+      "en": "Many bosses objectify their employees, forgetting they are important to the company.",
+      "cn": "很多老板把他们的员工当作物品, 忘记了他们对公司来说是很重要的."
+    },
+    {
+      "en": "You should objectify your work so that the staff would know what they should do.",
+      "cn": "你应该使工作具体化,以便员工们能明白他们应该做什么."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "objective",
+          "tran_cn": " 客观的；目标的；宾格的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "objectively",
+          "tran_cn": " 客观地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "object",
+          "tran_cn": " 目标；物体；客体；宾语"
+        },
+        {
+          "word": "objectification",
+          "tran_cn": " 客观化；对象化"
+        },
+        {
+          "word": "objective",
+          "tran_cn": " 目的；目标；[光] 物镜；宾格"
+        },
+        {
+          "word": "objectiveness",
+          "tran_cn": " 客观性"
+        },
+        {
+          "word": "objectivity",
+          "tran_cn": " 客观；客观性"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "object",
+          "tran_cn": " 反对；拒绝"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "object",
+          "tran_cn": " 提出…作为反对的理由"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "actualize"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "embody",
+            "reify"
+          ],
+          "tran_cn": "使具体化，使客观化；体现"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使客观化,具体化",
+      "tran_en": "to treat a person or idea as a physical object"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使客体化，使客观化，使具体化",
+      "tran_en": "to treat a person or idea as a physical object"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "objectifies"
+    ],
+    "past": [
+      "objectified"
+    ],
+    "done": [
+      "objectified"
+    ],
+    "ing": [
+      "objectifying"
+    ]
+  }
+}

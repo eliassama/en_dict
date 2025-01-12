@@ -1,0 +1,89 @@
+{
+  "word": "phonic",
+  "ipa": {
+    "us": "ˈfɒnɪk",
+    "uk": "ˈfɑnɪk"
+  },
+  "sentences": [
+    {
+      "en": "...the phonic system underlying a particular language.",
+      "cn": "...某种特定语言的发音体系。"
+    },
+    {
+      "en": "Her name is pluvial alizarin red ( phonic ).",
+      "cn": "她的名字是雨茜 ( 音 )."
+    },
+    {
+      "en": "Phonic knowledge operates quite similarly.",
+      "cn": "语音知识的功能相当类似."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "phonetic",
+          "tran_cn": " 语音的，语音学的；音形一致的；发音有细微区别的"
+        },
+        {
+          "word": "phonologic",
+          "tran_cn": " 音韵学的；语音体系的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "phonetically",
+          "tran_cn": " 语音学上；按照发音地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "phonetics",
+          "tran_cn": " 发音学，语音学"
+        },
+        {
+          "word": "phonics",
+          "tran_cn": " 声学；声音基础教学法"
+        },
+        {
+          "word": "phonogram",
+          "tran_cn": " 音标符号；录音片；语音图；形声字"
+        },
+        {
+          "word": "phonology",
+          "tran_cn": " 音系学；音韵学；语音体系"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "audio",
+            "acoustic"
+          ],
+          "tran_cn": "有声的，浊音的；声音的，语音的；声学的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "声音的，有声的，声学的",
+      "tran_en": "relating to sound"
+    }
+  ],
+  "exchange": {}
+}

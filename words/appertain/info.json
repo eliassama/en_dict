@@ -1,0 +1,65 @@
+{
+  "word": "appertain",
+  "ipa": {
+    "us": "ˌæpəˈteɪn",
+    "uk": "ˌæpərˈteɪn"
+  },
+  "sentences": [
+    {
+      "en": "The responsibilities that appertain to parenthood were discussed at the meeting.",
+      "cn": "会上讨论了父母应尽的职责."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "belong"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "matter",
+            "belong to"
+          ],
+          "tran_cn": "属于；和……有关，有关系"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "属于；和……有关，有关系",
+      "tran_en": "to belong (to) as a part, function, right, etc; relate (to) or be connected (with) "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "属，有关联"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "appertains"
+    ],
+    "past": [
+      "appertained"
+    ],
+    "done": [
+      "appertained"
+    ],
+    "ing": [
+      "appertaining"
+    ]
+  }
+}

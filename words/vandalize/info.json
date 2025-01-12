@@ -1,0 +1,64 @@
+{
+  "word": "vandalize",
+  "ipa": {
+    "us": "ˈvændəlaɪz",
+    "uk": "ˈvændlˌaɪz"
+  },
+  "sentences": [
+    {
+      "en": "The cemetery was vandalized during the night.",
+      "cn": "公墓在夜间遭到了破坏。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "vandal",
+          "tran_cn": " 破坏文化艺术的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "vandal",
+          "tran_cn": " 文化艺术的破坏者；蓄意破坏者"
+        },
+        {
+          "word": "vandalism",
+          "tran_cn": " 汪达尔人作风；故意毁坏文物的行为；破坏他人财产的行为"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "摧残, 破坏",
+      "tran_en": "to damage or destroy things deliberately, especially public property"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "肆意破坏（尤指公共财产）"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "vandalizes"
+    ],
+    "past": [
+      "vandalized"
+    ],
+    "done": [
+      "vandalized"
+    ],
+    "ing": [
+      "vandalizing"
+    ]
+  }
+}

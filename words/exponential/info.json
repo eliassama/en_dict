@@ -1,0 +1,174 @@
+{
+  "word": "exponential",
+  "ipa": {
+    "us": "ˌekspəˈnenʃl",
+    "uk": "ˌekspəˈnenʃl"
+  },
+  "sentences": [
+    {
+      "en": "An exponential function is one in which the variable appears in an exponent.",
+      "cn": "指数函数是指数中出现变量的函数."
+    },
+    {
+      "en": "Concepts of impulsive exponential stabilization for general differential systems are proposed.",
+      "cn": "摘要针对一般形式的常微分系统提出了脉冲指数镇定的概念."
+    },
+    {
+      "en": "Exponential shape transducer horn is adopted to linear speed.",
+      "cn": "采用了指数形变幅杆放大纵振振幅以提高电机速度."
+    },
+    {
+      "en": "I’m writing a book about trigonometric and exponential functions.",
+      "cn": "我在写一本关于三角和指数功能的书。"
+    },
+    {
+      "en": "Im writing a book about trigonometric and exponential functions.",
+      "cn": "我在写一本关于三角和指数功能的书."
+    },
+    {
+      "en": "It is well known that experimental � � - ray absorption curves are roughly exponential.",
+      "cn": "众所周知,实验上测得的β射线吸收曲线大致是指数型的."
+    },
+    {
+      "en": "Populations tend to grow at an exponential rate.",
+      "cn": "人口趋向于以指数比率增长."
+    },
+    {
+      "en": "The confidence level and uncertainty limit of even exponential of uniform R.",
+      "cn": "均匀随机变数偶指数函数之均值不确定范围之信心准位."
+    },
+    {
+      "en": "The first exponential has been introduced to allow for variation of amplitude with attitude.",
+      "cn": "前面的指数是为了考虑波动振幅随高度变化而引入的."
+    },
+    {
+      "en": "The Fisher - type statistic is very effective for testing outlier in exponential sample.",
+      "cn": "在指数样本异常值的检验中,Fisher型统计量是十分有效的."
+    },
+    {
+      "en": "The frictional dissipation will introduce an exponential decay.",
+      "cn": "摩擦耗散可导致指数式的衰减."
+    },
+    {
+      "en": "The hydrolysis rate constant increases at a exponential function with temperature increase.",
+      "cn": "温度升高,水解速率常数呈指数函数关系递增."
+    },
+    {
+      "en": "The logarithmic function is defined as the inverse of the exponential function.",
+      "cn": "对数函数是作为指数函数的反函数来定义的."
+    },
+    {
+      "en": "The reason of bias for using the exponential deliverability equation is analyzed.",
+      "cn": "理论上分析了指数式产能方程产生偏差的原因."
+    },
+    {
+      "en": "These exponential or logarithmic relationship, that characterize harmonious growth with changing proportions, are termed \" allometric \".",
+      "cn": "作为比例有变化的协调增长这些指数或对数关系被标为 “ 开度量 ” 关系."
+    },
+    {
+      "en": "These measurements showed that the electronic heat well below Tc was dominated by an exponential dependence.",
+      "cn": "这些测量结果表明,在远低于Tc的温度下,电子比热是按指数规律变化的."
+    },
+    {
+      "en": "This is an exponential function.",
+      "cn": "因为这里是指数函数。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "exponent",
+          "tran_cn": " 说明的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "exponentially",
+          "tran_cn": " 以指数方式"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "exponent",
+          "tran_cn": " [数] 指数；典型；说明者，说明物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "index",
+            "indice"
+          ],
+          "tran_cn": "[数]指数"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "exponential curve",
+      "tran_cn": "指数曲线；幂数曲线"
+    },
+    {
+      "phrase": "exponential decay",
+      "tran_cn": "指数式衰减"
+    },
+    {
+      "phrase": "exponential distribution",
+      "tran_cn": "指数分布"
+    },
+    {
+      "phrase": "exponential equation",
+      "tran_cn": "指数方程"
+    },
+    {
+      "phrase": "exponential function",
+      "tran_cn": "指数函数"
+    },
+    {
+      "phrase": "exponential growth",
+      "tran_cn": "指数增长"
+    },
+    {
+      "phrase": "exponential law",
+      "tran_cn": "指数律，指数定律"
+    },
+    {
+      "phrase": "exponential phase",
+      "tran_cn": "指数期；对数生长期；对数期"
+    },
+    {
+      "phrase": "exponential smoothing",
+      "tran_cn": "指数平滑法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "指数的，幂数的，越来越快的",
+      "tran_en": "exponential growth, increase etc becomes faster as the amount of the thing that is growing increases"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "指数"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "exponentially"
+    ]
+  }
+}

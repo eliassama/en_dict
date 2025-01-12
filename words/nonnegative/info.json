@@ -1,0 +1,76 @@
+{
+  "word": "nonnegative",
+  "ipa": {
+    "us": "'nɒn'negətɪv",
+    "uk": "nɒn'negətɪv"
+  },
+  "sentences": [
+    {
+      "en": "All nonnegative energies are allowed.",
+      "cn": "所有非负能量都是允许的."
+    },
+    {
+      "en": "Because of the phenomenon that the negative self-scattering cross sections cause the negative probability sample, a nonnegative corrected method is put forward and validated by the benchmark problems.",
+      "cn": "针对输运修正引起的自散射截面导致的负概率抽样现象，提出了一种非负修正方法，并用基准计算验证了该方法的正确性。"
+    },
+    {
+      "en": "Each argument must be an expression that evaluates to a nonnegative integer.",
+      "cn": "每个参数必须是计算结果为非负整数的表达式."
+    },
+    {
+      "en": "Every nonnegative real number has a square root in R, and no negative number does.",
+      "cn": "所有非负实数的平方根属于R, 但这对负数不成立."
+    },
+    {
+      "en": "Finally, a new partial ordering in the subset of universal nonnegative definite matrices is defined and.",
+      "cn": "最后讨论了泛非负定子集类上的一种新的矩阵偏序的性质与充要条件."
+    },
+    {
+      "en": "In this paper , we study nonnegative generalized idempotent matrices in detail.",
+      "cn": "本文给出了一般非负广义幂等矩阵的充要条件."
+    },
+    {
+      "en": "Its optimal solution is obtained by finding a nonnegative solution of compatible equations.",
+      "cn": "其最优解是通过求一个相容方程组的非负解而得到。"
+    },
+    {
+      "en": "Remember, the number from any category can be any nonnegative integer ( 0, one, or many ).",
+      "cn": "来自任意的“种类”的题目数目可能任何非负数 ( 0或更多 )."
+    },
+    {
+      "en": "The potential idempotence of nonnegative sign pattern matrix is described.",
+      "cn": "刻划了非负符号模式矩阵的强迫(蕴含)幂等性."
+    },
+    {
+      "en": "The special matrices included inverse M - matrices, inverse Z - matrices, tridiagonal matrices and nonnegative irreducible matrices.",
+      "cn": "其中重要的有特殊矩阵Z - 矩阵 、 逆M - 矩阵 、 三对角矩阵、非负不可约矩阵等."
+    },
+    {
+      "en": "We discuss the problem of portfolio investment with risk minimization subject to nonnegative investment proportional coefficient.",
+      "cn": "研究非负投资比例系数约束条件下,实现风险最小化的组合证券投资问题."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "positive",
+            "plus"
+          ],
+          "tran_cn": "正的，[数]非负的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "非负的，正的，零的"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,179 @@
+{
+  "word": "checked",
+  "ipa": {
+    "us": "tʃekt",
+    "uk": "tʃɛkt"
+  },
+  "sentences": [
+    {
+      "en": "Each dress is hemmed and scrupulously checked for imperfections.",
+      "cn": "每条连衣裙都缝上了褶边，并经过严格的检查，不允许有任何瑕疵。"
+    },
+    {
+      "en": "Every so often the horse's heart and lungs are checked.",
+      "cn": "不时检查那匹马的心脏和肺。"
+    },
+    {
+      "en": "He checked the details given and found them substantially correct.",
+      "cn": "他核实了一下给出的细节，发现它们基本正确。"
+    },
+    {
+      "en": "He checked the register. There was money in the till.",
+      "cn": "他查看了一下收银机的抽屉，里面有钱。"
+    },
+    {
+      "en": "He was about to lose his temper but checked himself in time.",
+      "cn": "他刚要发火，不过又及时克制住了。"
+    },
+    {
+      "en": "He was wearing blue jeans and a checked shirt.",
+      "cn": "他穿着蓝色牛仔裤和一件格子衬衫。"
+    },
+    {
+      "en": "He was wearing blue jeans and checked shirt.",
+      "cn": "他穿着蓝色牛仔裤和格子衬衫。"
+    },
+    {
+      "en": "She checked her fall with her free arm.",
+      "cn": "多亏了她还有一只手空着才没让自己倒下去。"
+    },
+    {
+      "en": "She checked the hall, then gave the others a thumbs-up sign.",
+      "cn": "她查看了一下大厅，然后冲其他人竖了一下大拇指。"
+    },
+    {
+      "en": "She checked the seating arrangements before the guests filed into the dining-room.",
+      "cn": "在客人们鱼贯进入餐厅之前，她核实了一遍座位安排。"
+    },
+    {
+      "en": "She wore a checked shirt tied in a knot above the navel.",
+      "cn": "她身穿一件格子衬衫，衣角在肚脐上方打了个结。"
+    },
+    {
+      "en": "Stephen checked on her several times during the night.",
+      "cn": "斯蒂芬夜里起来看了她好几遍。"
+    },
+    {
+      "en": "The athlete is checked by their physio or doctor.",
+      "cn": "由专用理疗师或医生为运动员做检查。"
+    },
+    {
+      "en": "They checked in their luggage and found seats in the departure lounge.",
+      "cn": "他们办完行李托运，到候机室找了座位坐下。"
+    },
+    {
+      "en": "Uselessly, he checked the same pockets he'd checked before.",
+      "cn": "他把先前检查过的那些口袋又查了一遍，毫无收获。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "checkered",
+          "tran_cn": " 多变的；有方格的；多波折的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "check",
+          "tran_cn": " 支票；阻止；阻止物"
+        },
+        {
+          "word": "checker",
+          "tran_cn": " 检验员；收银员；棋子；方格图案；制止者"
+        },
+        {
+          "word": "checklist",
+          "tran_cn": " 清单；检查表；备忘录；目录册"
+        },
+        {
+          "word": "checkpoint",
+          "tran_cn": " 检查站，关卡"
+        },
+        {
+          "word": "checksum",
+          "tran_cn": " [计] 校验和；[计] 检查和"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "checkered",
+          "tran_cn": " 使交错；使交替变化（checker的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "check",
+          "tran_cn": " 核对无误；将军（象棋）；证明无误"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "check",
+          "tran_cn": " 检查；制止；寄存"
+        },
+        {
+          "word": "checker",
+          "tran_cn": " 把…画成棋盘形方格图案；使多样化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "frustrated"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "examined",
+            "inspected"
+          ],
+          "tran_cn": "检查（check的过去式和过去分词）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "checked by",
+      "tran_cn": "[经]核对；复核"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "方格图案的，受阻的，封闭的",
+      "tran_en": "Something that is checked has a pattern of small squares, usually of two colours"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "检查，核对(check的过去式和过去分词)"
+    }
+  ],
+  "exchange": {}
+}

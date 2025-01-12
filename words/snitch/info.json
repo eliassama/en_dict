@@ -1,0 +1,119 @@
+{
+  "word": "snitch",
+  "ipa": {
+    "us": "snɪtʃ",
+    "uk": "snɪtʃ"
+  },
+  "sentences": [
+    {
+      "en": "At the last moment, Harry caught the Snitch for 150 points.",
+      "cn": "在最后的时刻, 哈里抓到了金色飞贼得到150分."
+    },
+    {
+      "en": "He has taken care of the girl who wanted to snitch.",
+      "cn": "他已经干掉要告密的女孩了。"
+    },
+    {
+      "en": "I know you don't wanna a snitch.",
+      "cn": "我知道你不想成为告密者."
+    },
+    {
+      "en": "I managed to snitch abdul abdullah's breakfast.",
+      "cn": "我想办法把阿布·阿度拉偷到手."
+    },
+    {
+      "en": "Michael: Never snitch on a friend, KITT. Besides, he's right. It is my responsibility.",
+      "cn": "迈克: 永远别打朋友的小报告, 凯特. 再说他 说 得对, 那是我的责任."
+    },
+    {
+      "en": "Promise you won't snitch?",
+      "cn": "答应我,一定不告发我行 吗 ?"
+    },
+    {
+      "en": "They considered it a crime to snitch on one of their own group to the teacher.",
+      "cn": "他们认为向老师告自己的同伴的状是有罪的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "snitcher",
+          "tran_cn": " 管道涂层裂缝检测仪；告密者；小偷"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "informer",
+            "confidential informant"
+          ],
+          "tran_cn": "告密者；告发者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "inform"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "inform",
+            "rat"
+          ],
+          "tran_cn": "告密；进行小偷小摸"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to pick up",
+            "glom"
+          ],
+          "tran_cn": "偷；顺手牵羊"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "告发",
+      "tran_en": "to tell someone in authority about something that another person has done wrong, because you want to cause trouble for that person"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "snitches"
+    ],
+    "past": [
+      "snitched"
+    ],
+    "done": [
+      "snitched"
+    ],
+    "ing": [
+      "snitching"
+    ]
+  }
+}

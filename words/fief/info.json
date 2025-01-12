@@ -1,0 +1,70 @@
+{
+  "word": "fief",
+  "ipa": {
+    "us": "fi:f",
+    "uk": "fif"
+  },
+  "sentences": [
+    {
+      "en": "For five years she was marooned in the Tigers'northern fief.",
+      "cn": "在猛虎组织的北部据点,她被拘禁了长达五年之久."
+    },
+    {
+      "en": "New Orleans now has one elected tax assessor - instead of seven, each overseeing his own fief.",
+      "cn": "新奥尔良现在有一位民选的税务稽核员, 而非再是七位各管一摊."
+    },
+    {
+      "en": "The heir on taking up his ancestors fief had to pay a relief.",
+      "cn": "继承其前辈封地的人须交纳一笔“接替费”."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fiefdom",
+          "tran_cn": " 封地，采邑（等于fief）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "feod",
+            "appanage"
+          ],
+          "tran_cn": "封地，采邑"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dependency"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "封地，采邑",
+      "tran_en": "In former times, a fief was a piece of land given to someone by their lord, to whom they had a duty to provide particular services in return"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "fiefs"
+    ]
+  }
+}

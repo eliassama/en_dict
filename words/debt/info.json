@@ -1,0 +1,214 @@
+{
+  "word": "debt",
+  "ipa": {
+    "us": "det",
+    "uk": "det"
+  },
+  "sentences": [
+    {
+      "en": "By October 1990, when arrested, he was hopelessly in debt.",
+      "cn": "到1990年10月被捕时，他已经负债累累。"
+    },
+    {
+      "en": "He had enough money to pay off his outstanding debts.",
+      "cn": "他有足够的钱偿还亏欠的债务。"
+    },
+    {
+      "en": "He limited payments on the country's foreign debt.",
+      "cn": "他对该国外债的偿还作出了限制。"
+    },
+    {
+      "en": "He was a compulsive gambler and often heavily in debt.",
+      "cn": "他嗜赌成癖，常常债台高筑。"
+    },
+    {
+      "en": "He was desperate. He was in debt up to his ears.",
+      "cn": "他负债累累，走投无路。"
+    },
+    {
+      "en": "I know I shall feel for ever in her debt.",
+      "cn": "我知道我将会永远感激她。"
+    },
+    {
+      "en": "I owe a big debt of gratitude to her.",
+      "cn": "我对她万分感激。"
+    },
+    {
+      "en": "I owe them a debt that cannot easily be repaid.",
+      "cn": "我欠他们一笔钱，不容易偿还。"
+    },
+    {
+      "en": "It might go part way to repaying the debt.",
+      "cn": "债可能会还掉一部分。"
+    },
+    {
+      "en": "Many of their heavy industries are laden with debt.",
+      "cn": "他们的重工业很多负债累累。"
+    },
+    {
+      "en": "Nicaragua was burdened with a foreign debt of $11 billion.",
+      "cn": "尼加拉瓜背负着110亿美元的沉重外债。"
+    },
+    {
+      "en": "People used to recoil from the idea of getting into debt.",
+      "cn": "过去人们不能接受欠债这种事情。"
+    },
+    {
+      "en": "Poverty begets debt.",
+      "cn": "穷则债聚。"
+    },
+    {
+      "en": "students who run up huge debts",
+      "cn": "欠下巨额债务的学生"
+    },
+    {
+      "en": "The bank advanced $1.2 billion to help the country with debt repayments.",
+      "cn": "银行预支12亿美元帮助该国偿还债务。"
+    },
+    {
+      "en": "The survey claims loan companies prey on weak families already in debt.",
+      "cn": "这项调查声称信贷公司专对那些已经负债的弱势家庭下手。"
+    },
+    {
+      "en": "The total debt outstanding is $70 billion.",
+      "cn": "未偿债务总额达700亿美元。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "debtor",
+          "tran_cn": " 债务人；[会计] 借方"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "amount",
+            "due",
+            "obligation"
+          ],
+          "tran_cn": "债,借款"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "judgment",
+            "loss",
+            "obligation"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bad debt",
+      "tran_cn": "坏帐；呆帐"
+    },
+    {
+      "phrase": "bank debt",
+      "tran_cn": "银行债务；银行借款"
+    },
+    {
+      "phrase": "be in someone's debt",
+      "tran_cn": "欠某人人情债；受某人的恩惠"
+    },
+    {
+      "phrase": "debt capital",
+      "tran_cn": "借入资本"
+    },
+    {
+      "phrase": "debt crisis",
+      "tran_cn": "债务危机；倒债危机"
+    },
+    {
+      "phrase": "debt financing",
+      "tran_cn": "[经]债务资金筹措；举债筹资"
+    },
+    {
+      "phrase": "debt management",
+      "tran_cn": "债务管理"
+    },
+    {
+      "phrase": "debt maturity",
+      "tran_cn": "债务的给付日期"
+    },
+    {
+      "phrase": "debt ratio",
+      "tran_cn": "[经]负债比率"
+    },
+    {
+      "phrase": "debt restructuring",
+      "tran_cn": "债务重订，债务调整"
+    },
+    {
+      "phrase": "debt service",
+      "tran_cn": "债务还本付息；借款服务处"
+    },
+    {
+      "phrase": "external debt",
+      "tran_cn": "外债"
+    },
+    {
+      "phrase": "foreign debt",
+      "tran_cn": "[经]外债"
+    },
+    {
+      "phrase": "get into debt",
+      "tran_cn": "负债，欠债"
+    },
+    {
+      "phrase": "heavy debt",
+      "tran_cn": "n. 一大笔债务"
+    },
+    {
+      "phrase": "in debt",
+      "tran_cn": "负债；欠情"
+    },
+    {
+      "phrase": "national debt",
+      "tran_cn": "国债"
+    },
+    {
+      "phrase": "out of debt",
+      "tran_cn": "不欠债；还清债务"
+    },
+    {
+      "phrase": "public debt",
+      "tran_cn": "[主美]公债，国债"
+    },
+    {
+      "phrase": "sovereign debt",
+      "tran_cn": "外债；国债"
+    },
+    {
+      "phrase": "subordinated debt",
+      "tran_cn": "次级债务"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "债务，负债，恩情，人情债",
+      "tran_en": "a sum of money that a person or organization owes"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "debts"
+    ]
+  }
+}

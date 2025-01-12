@@ -1,0 +1,119 @@
+{
+  "word": "braggart",
+  "ipa": {
+    "us": "ˈbrægət",
+    "uk": "ˈbrægərt"
+  },
+  "sentences": [
+    {
+      "en": "But, if you speak too loudly, you may be perceived as overbearing, bossy aa braggart.",
+      "cn": "但是, 如果你说话的声音太大, 人们就会觉得你傲慢专横, 目空一切."
+    },
+    {
+      "en": "Don't play the braggart.",
+      "cn": "不要逞英雄."
+    },
+    {
+      "en": "Her father was an old unmarried professor of mathematics, a brutal man and a braggart, who went out to give lessons in spite of his age.",
+      "cn": "她的父亲是个性情粗暴、爱吹牛的老数学教师，从没正式结过婚，虽然上了年纪，却还靠替人补课度日。"
+    },
+    {
+      "en": "Sir, I don't seek a quarrel , not being a braggart.",
+      "cn": "先生, 我并不想寻衅挑斗, 也不是爱吹牛的人."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bragger",
+          "tran_cn": " 自夸的（brag的比较级形式）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bragger",
+          "tran_cn": " 吹牛者"
+        },
+        {
+          "word": "bragging",
+          "tran_cn": " 吹牛"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bragging",
+          "tran_cn": " 夸耀（brag的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "bragging",
+          "tran_cn": " 夸口"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "boastful",
+            "windy"
+          ],
+          "tran_cn": "吹牛的；自夸的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "gassing",
+            "boasting"
+          ],
+          "tran_cn": "吹嘘；好自夸者；大言者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "boastful",
+            "peacock"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "吹牛的；自夸的",
+      "tran_en": "boastful "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "吹嘘",
+      "tran_en": "someone who is always talking too proudly about what they own or have done"
+    }
+  ],
+  "exchange": {}
+}

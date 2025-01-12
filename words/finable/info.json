@@ -1,0 +1,82 @@
+{
+  "word": "finable",
+  "ipa": {
+    "us": "'faɪnəbl",
+    "uk": "ˈfaɪnəbl"
+  },
+  "sentences": [
+    {
+      "en": "It is a finable offence.",
+      "cn": "这是个应罚款的过失。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "fine",
+          "tran_cn": " 好的；优良的；细小的，精美的；健康的；晴朗的"
+        },
+        {
+          "word": "fineable",
+          "tran_cn": " 可罚款的（等于finable）"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "fine",
+          "tran_cn": " 很好地；精巧地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fine",
+          "tran_cn": " 罚款"
+        },
+        {
+          "word": "fineable",
+          "tran_cn": " 终曲"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fine",
+          "tran_cn": " 罚款；澄清"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "amerciable",
+            "pecuniary"
+          ],
+          "tran_cn": "应罚款的；可提炼的；可精制的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可罚款的，该罚款的",
+      "tran_en": "liable to a fine "
+    }
+  ],
+  "exchange": {}
+}

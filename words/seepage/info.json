@@ -1,0 +1,144 @@
+{
+  "word": "seepage",
+  "ipa": {
+    "us": "ˈsi:pɪdʒ",
+    "uk": "ˈsipɪdʒ"
+  },
+  "sentences": [
+    {
+      "en": "Acid and Basic Resistance, porosity permeability of the pot without water seepage.",
+      "cn": "耐酸碱, 锅体气孔透气且不渗水."
+    },
+    {
+      "en": "Chemical seepage has caused untold damage.",
+      "cn": "化学品泄漏已造成不可估量的损失。"
+    },
+    {
+      "en": "Crystalline dolostone is formed by seepage - reflux dolomitization and burial dolomitization.",
+      "cn": "晶粒白云岩有两种成因:一为回流渗透白云石化;二为深埋藏白云石化."
+    },
+    {
+      "en": "Darcy's law can be applied to unsaturated flow subject to certain restrictions on seepage velocity.",
+      "cn": "达西定律也适用于渗透速度有一定限制的非饱和水流."
+    },
+    {
+      "en": "Engineering geophysics is economic, and efficient for seepage detection in dam body.",
+      "cn": "由此证实工程物探方法是一种经济 、 效的坝体渗漏检测手段."
+    },
+    {
+      "en": "I intend to dig a seepage pit in the courtyard.",
+      "cn": "我打算在院子里挖一口渗井."
+    },
+    {
+      "en": "Scientific researchers are analyzing the main components of the seepage.",
+      "cn": "科研人员正在分析渗液的主要成分."
+    },
+    {
+      "en": "Seepage analysis is an important item for hydropower engineering.",
+      "cn": "渗流分析是水电工程中一项重要的研究内容."
+    },
+    {
+      "en": "Seepage from land fills can pollute ground water or surface.",
+      "cn": "填土的渗漏可能污染地下水和地面水."
+    },
+    {
+      "en": "Seepage is one of the ubiquitous problems in substructure work.",
+      "cn": "地下工程结构渗漏是地下建筑物中普遍存在的问题."
+    },
+    {
+      "en": "Such infiltration, which includes seepage from streams and lakes, contributes to the ground water supply.",
+      "cn": "从河流和湖泊中渗出的这种渗透水供给地下水源."
+    },
+    {
+      "en": "The anti - seepage system is one of the important components of sanitary landfills.",
+      "cn": "防渗系统是填埋场建设的关键问题之一."
+    },
+    {
+      "en": "The irreversibility is the essential characteristic of porous media seepage problems.",
+      "cn": "不可逆特性是多孔介质渗流问题的本质特征."
+    },
+    {
+      "en": "The results indicated coupling between the seepage permeability in low permeability rock.",
+      "cn": "实验结果表明:低渗透岩石渗流过程中存在明显的流固耦合效应."
+    },
+    {
+      "en": "Water gradually escapes by seepage through the ground.",
+      "cn": "水逐渐从地上渗走了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "seep",
+          "tran_cn": " 小泉；水陆两用的吉普车"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "seep",
+          "tran_cn": " 漏；渗出"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "leaking"
+          ],
+          "tran_cn": "[流]渗流；渗漏；渗液"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "oil seepage",
+      "tran_cn": "油漏，油渗漏"
+    },
+    {
+      "phrase": "seepage discharge",
+      "tran_cn": "渗透流量"
+    },
+    {
+      "phrase": "seepage flow",
+      "tran_cn": "渗流量；渗透水流"
+    },
+    {
+      "phrase": "seepage force",
+      "tran_cn": "渗透力；渗流压力"
+    },
+    {
+      "phrase": "seepage line",
+      "tran_cn": "浸润线；渗漏线；渗流线"
+    },
+    {
+      "phrase": "seepage pressure",
+      "tran_cn": "渗透压力；渗流压力；流力"
+    },
+    {
+      "phrase": "seepage water",
+      "tran_cn": "渗透水；渗流水"
+    },
+    {
+      "phrase": "water seepage",
+      "tran_cn": "渗水，漏水"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "漏，渗，渗漏，渗液，渗溢",
+      "tran_en": "a gradual flow of liquid or gas through small spaces or holes"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,167 @@
+{
+  "word": "subway",
+  "ipa": {
+    "us": "ˈsʌbweɪ",
+    "uk": "ˈsʌbweɪ"
+  },
+  "sentences": [
+    {
+      "en": "\"I could take the subway and have David pick me up at the station.\" — \"Nothing doing.\"",
+      "cn": "“我可以坐地铁，然后让戴维到车站接我。”——“不行。”"
+    },
+    {
+      "en": "A 15-year-old girl was attacked at knifepoint in a subway.",
+      "cn": "一名15岁的女孩在地铁里遭持刀袭击。"
+    },
+    {
+      "en": "a crowded subway station",
+      "cn": "拥挤的地铁站"
+    },
+    {
+      "en": "Boston has the oldest subway system in the US.",
+      "cn": "波士顿拥有美国最老的地铁运输系统。"
+    },
+    {
+      "en": "Cross by the subway please.",
+      "cn": "请走地下人行通道."
+    },
+    {
+      "en": "Diego noticed Pamela when she got on the subway train.",
+      "cn": "在帕梅拉走进地铁的时候,蒂亚哥看到了她."
+    },
+    {
+      "en": "He goes to work on the subway.",
+      "cn": "他坐地铁上班."
+    },
+    {
+      "en": "Homeless people forced to cadge in subway stations.",
+      "cn": "无家可归的人们被迫在地铁站里乞讨。"
+    },
+    {
+      "en": "I don't ride the subway late at night.",
+      "cn": "我深夜不坐地铁。"
+    },
+    {
+      "en": "Many of the city's populace travel to work by subway or bus.",
+      "cn": "许多城市的平民都是坐地铁或公共汽车上下班."
+    },
+    {
+      "en": "Ray used to sing and play the guitar in the subway.",
+      "cn": "雷经常在地铁里边唱边弹吉他."
+    },
+    {
+      "en": "Steps lead down to the subway from the upstream side.",
+      "cn": "上游那边有台阶通向地铁。"
+    },
+    {
+      "en": "The majority of us feel worried if we walk through a subway.",
+      "cn": "大多数人在走地下通道时都感到害怕。"
+    },
+    {
+      "en": "The new subway is now being laid.",
+      "cn": "新的地铁正在铺设中."
+    },
+    {
+      "en": "the New York City subway",
+      "cn": "纽约市的地铁"
+    },
+    {
+      "en": "the New York subway",
+      "cn": "纽约地铁"
+    },
+    {
+      "en": "The subway was covered in graffiti.",
+      "cn": "过街地道里涂满了乱七八糟的图画和文字。"
+    },
+    {
+      "en": "Trains are thundering in and out all the time at a subway station.",
+      "cn": "地铁车站上列车进进出出,整天轰隆轰隆地响个不停."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "metro把ǎ:",
+            "railway",
+            "rapid",
+            "system",
+            "transit",
+            "tube",
+            "tunnel",
+            "underground"
+          ],
+          "tran_cn": "地铁"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "railway"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "tube"
+          ],
+          "tran_cn": "[铁路]乘地铁"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by subway",
+      "tran_cn": "乘坐地铁"
+    },
+    {
+      "phrase": "pedestrian subway",
+      "tran_cn": "地下人行道"
+    },
+    {
+      "phrase": "subway station",
+      "tran_cn": "n. 地铁车站"
+    },
+    {
+      "phrase": "subway system",
+      "tran_cn": "地铁网"
+    },
+    {
+      "phrase": "take the subway",
+      "tran_cn": "乘地铁"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "地铁，地下人行道",
+      "tran_en": "a railway system that runs under the ground below a big city"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "地铁",
+      "tran_en": "a railway system that runs under the ground below a big city"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "乘地铁"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "subways"
+    ]
+  }
+}

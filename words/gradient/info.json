@@ -1,0 +1,230 @@
+{
+  "word": "gradient",
+  "ipa": {
+    "us": "ˈgreɪdiənt",
+    "uk": "ˈɡrediənt"
+  },
+  "sentences": [
+    {
+      "en": "4 gradient arrays marked A, B, C and D were set up.",
+      "cn": "布置了编号为A, B, C,D的四个梯度排列."
+    },
+    {
+      "en": "a steep gradient",
+      "cn": "陡坡"
+    },
+    {
+      "en": "Adjust the gradient so the dark side is on the bottom left.",
+      "cn": "调整梯度,使黑暗的一面是对左下角."
+    },
+    {
+      "en": "Conclusion: High purity of MSC can be obtained by density gradient centrifugation.",
+      "cn": "结论: 密度梯度离心法分离获得的人胚胎骨髓间充质干细胞纯度高."
+    },
+    {
+      "en": "Examples of interactions are mass transfer caused by temperature gradient.",
+      "cn": "温度梯度所引起的质量转移是交叉作用的例子."
+    },
+    {
+      "en": "Standard Test Method for Density of Plastics by the Density - Gradient Technique.",
+      "cn": "用密度梯度法测定塑料密度的试验方法.(英文版)."
+    },
+    {
+      "en": "The car slid down the steep gradient into the river.",
+      "cn": "汽车滑下陡峭的斜坡掉入河中."
+    },
+    {
+      "en": "The intent here is to identify the basic ingredients of gradient methods.",
+      "cn": "本节的目的就是了解一下梯度法的基本内容."
+    },
+    {
+      "en": "The mountain rises to the height of 1,600 feet by an easy gradient.",
+      "cn": "这座山高1,600英尺,坡度平缓."
+    },
+    {
+      "en": "The reaction rate is limited by the concentration gradient of oxygen in the sample.",
+      "cn": "反应速率受试样中氧浓度梯度的限制."
+    },
+    {
+      "en": "The residence gradient for lung cancer was strongest among nonsmokers.",
+      "cn": "肺癌的居住区梯度在不吸烟者当中最大."
+    },
+    {
+      "en": "The resulting solution is known as the gradient.",
+      "cn": "合成解就是通常的梯度风."
+    },
+    {
+      "en": "There is no pressure gradient through the thickness of the film.",
+      "cn": "贯穿流体膜厚度无压力梯度."
+    },
+    {
+      "en": "This indicates a hydrodynamic condition with a very marked potentiometric gradient.",
+      "cn": "这说明水动力条件具有很明显的位能梯度."
+    },
+    {
+      "en": "Two main types can be distinguished: ecoclines ( clines along an ecological gradient ).",
+      "cn": "有两个主要类型可以区分,即生态梯度变异 ( 即沿着生态梯度出现的梯度变异 )."
+    },
+    {
+      "en": "Unconstrained optimization methods include gradient, conjugate direction, Newton, and quasi - Newton methods.",
+      "cn": "无约束最优化方法包括梯度法 、 共轭方向法 、 牛顿法和拟牛顿法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "grading",
+          "tran_cn": "分阶段；定等级；坡度缓和"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "grading",
+          "tran_cn": "定等级；减缓坡度（grade的现在分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "walking",
+            "raked"
+          ],
+          "tran_cn": "[建]倾斜的；步行的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "obliquity",
+            "lean"
+          ],
+          "tran_cn": "[数][物]梯度；坡度；[建]倾斜度"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ascent",
+            "descent",
+            "grade"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "concentration gradient",
+      "tran_cn": "[化]浓度梯度"
+    },
+    {
+      "phrase": "conjugate gradient",
+      "tran_cn": "共轭梯度"
+    },
+    {
+      "phrase": "density gradient",
+      "tran_cn": "密度梯度，密度陡度；密度涨落"
+    },
+    {
+      "phrase": "density gradient centrifugation",
+      "tran_cn": "密度梯度离心法；密度梯度离心分离法"
+    },
+    {
+      "phrase": "geothermal gradient",
+      "tran_cn": "地温梯度；地热增温率"
+    },
+    {
+      "phrase": "gradient centrifugation",
+      "tran_cn": "梯度离心"
+    },
+    {
+      "phrase": "gradient descent",
+      "tran_cn": "梯度下降"
+    },
+    {
+      "phrase": "gradient elution",
+      "tran_cn": "梯度洗脱"
+    },
+    {
+      "phrase": "gradient method",
+      "tran_cn": "梯度法"
+    },
+    {
+      "phrase": "gradient overlay",
+      "tran_cn": "渐变叠加"
+    },
+    {
+      "phrase": "gradient vector",
+      "tran_cn": "梯度向量"
+    },
+    {
+      "phrase": "linear gradient",
+      "tran_cn": "线性梯度；线性渐变，线性渐变填充"
+    },
+    {
+      "phrase": "potential gradient",
+      "tran_cn": "电位梯度；势梯度；位能坡度"
+    },
+    {
+      "phrase": "pressure gradient",
+      "tran_cn": "气压梯度"
+    },
+    {
+      "phrase": "strain gradient",
+      "tran_cn": "应变梯度"
+    },
+    {
+      "phrase": "temperature gradient",
+      "tran_cn": "温度梯度"
+    },
+    {
+      "phrase": "thermal gradient",
+      "tran_cn": "[地质]热梯度"
+    },
+    {
+      "phrase": "velocity gradient",
+      "tran_cn": "速度梯度；速率坡"
+    },
+    {
+      "phrase": "vertical gradient",
+      "tran_cn": "垂直梯度；垂直方向梯度"
+    },
+    {
+      "phrase": "voltage gradient",
+      "tran_cn": "电压梯度；电压坡；比电压"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "倾斜的；步行的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "[物]梯度，陡度，（温度、气压等）变化率，梯度变化曲线，<英>（道路的）倾斜度，坡度",
+      "tran_en": "a slope or a degree of slope, especially in a road or railway"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "gradients"
+    ]
+  }
+}

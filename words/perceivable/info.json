@@ -1,0 +1,125 @@
+{
+  "word": "perceivable",
+  "ipa": {
+    "us": "pə'si:vəbl",
+    "uk": "pə'sivəbəl"
+  },
+  "sentences": [
+    {
+      "en": "Continuous availability demands that the database engine be available for processing with no perceivable downtime.",
+      "cn": "持续可用性要求数据库引擎随时可用，没有可觉察的停机时间。"
+    },
+    {
+      "en": "Instead of that, the destination is a situation that is perceivable, and declared desirable.",
+      "cn": "与之相反，目的地是一种可感知、值得期待 的位置。"
+    },
+    {
+      "en": "Some things are not perceivable by sense, but only cogitable by reason.",
+      "cn": "有些事物不能以感官觉察, 只能由推理而得知."
+    },
+    {
+      "en": "The principle of the method is simple, more perceivable and of high accuracy.",
+      "cn": "此种方法原理简单, 直观性强,精确度较高."
+    },
+    {
+      "en": "There will not be any perceivable effect on the animal during communication awake or asleep.",
+      "cn": "于沟通时动物并不会有任何可感知的效果,无论是清醒还是睡著."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "perceived",
+          "tran_cn": " 感知到的；感观的"
+        },
+        {
+          "word": "perceptible",
+          "tran_cn": " 可察觉的；可感知的；看得见的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "perceptibly",
+          "tran_cn": " 显然地；可感觉得出地；看得出地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "perception",
+          "tran_cn": " 知觉；[生理] 感觉；看法；洞察力；获取"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "perceived",
+          "tran_cn": " 感知；认为（perceive的过去分词）；领会"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "perceive",
+          "tran_cn": " 感到，感知；认识到"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "perceive",
+          "tran_cn": " 察觉，感觉；理解；认知"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "appreciable",
+            "palpable"
+          ],
+          "tran_cn": "可知觉的，可感知的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "comprehensible",
+            "discernible",
+            "perceptible",
+            "visual"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "可知觉的"
+    }
+  ],
+  "exchange": {}
+}

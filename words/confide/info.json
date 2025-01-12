@@ -1,0 +1,184 @@
+{
+  "word": "confide",
+  "ipa": {
+    "us": "kənˈfaɪd",
+    "uk": "kənˈfaɪd"
+  },
+  "sentences": [
+    {
+      "en": "Because she is understanding, people around her confide in her.",
+      "cn": "因为她通情达理, 周围的人都相信她."
+    },
+    {
+      "en": "Can I confide in his honesty?",
+      "cn": "我能相信他是诚实可靠的 吗 ?"
+    },
+    {
+      "en": "Confide and talk to someone whom you trust about your problem.",
+      "cn": "不开心的时候,把内心的感受表达出来,例如找人倾诉、哭泣,都有帮助."
+    },
+    {
+      "en": "Do you confide in his ability to do the job?",
+      "cn": "你相信他有能力做这工作 吗 ?"
+    },
+    {
+      "en": "Do you confide in our ability to do this work?",
+      "cn": "你相信我们干得了这件工作 吗 ?"
+    },
+    {
+      "en": "Don't always confide your trouble to your friends and show your frailty.",
+      "cn": "不要总是倾诉你的麻烦你的朋友,展示您的脆弱性."
+    },
+    {
+      "en": "He is going to confide the secrets of his heart to us.",
+      "cn": "他将向我们吐露他心里的秘密."
+    },
+    {
+      "en": "He still couldn't understand the impulse that had made him confide in Cassandra.",
+      "cn": "他仍然难以理解是什么样的冲动使他向卡桑德拉吐露了秘密。"
+    },
+    {
+      "en": "I don't think you should confide everything to John's care.",
+      "cn": "我觉得你不应该把所有的事情都交给约翰管."
+    },
+    {
+      "en": "I knew she had some fundamental problems in her marriage because she had confided in me a year earlier.",
+      "cn": "我知道她的婚姻存在一些根本问题，因为她一年前曾向我吐露过。"
+    },
+    {
+      "en": "She could confide to him her alarm and uneasiness for her brother.",
+      "cn": "她可以向他吐露她为自己的哥哥感到的惊恐不安."
+    },
+    {
+      "en": "She did bring herself , finally, to confess, and to confide in me.",
+      "cn": "最后她自己招认了, 而且向我吐露了 衷曲."
+    },
+    {
+      "en": "The deed was not then accomplished, neither did he confide in me.",
+      "cn": "那时人还没杀, 他又没叮嘱过我."
+    },
+    {
+      "en": "The difficulty is that your mother has chosen to confide in you.",
+      "cn": "麻烦在于,你的妈妈选择向你吐露真情."
+    },
+    {
+      "en": "We can confide in Barbara's sincerity and honesty.",
+      "cn": "我们可以信赖芭芭拉的诚意与诚实."
+    },
+    {
+      "en": "We confide in his abilities.",
+      "cn": "我们相信他是有能力的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "confidence",
+          "tran_cn": " （美）诈骗的；骗得信任的"
+        },
+        {
+          "word": "confiding",
+          "tran_cn": " 深信不疑的；易于相信别人的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "confidentially",
+          "tran_cn": " 秘密地；作为心腹话地"
+        },
+        {
+          "word": "confidingly",
+          "tran_cn": " 信任地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "confidence",
+          "tran_cn": " 信心；信任；秘密"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "depend",
+            "disclose",
+            "in",
+            "rely",
+            "trust"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "a",
+            "depend",
+            "disclose",
+            "in",
+            "rely",
+            "secret",
+            "tell",
+            "trust"
+          ],
+          "tran_cn": "信任,信赖;透露"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "voice",
+            "refer"
+          ],
+          "tran_cn": "吐露；委托"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "confide in",
+      "tran_cn": "信任，信赖；向…吐露秘密"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "吐露（秘密）",
+      "tran_en": "to tell someone you trust about personal things that you do not want other people to know"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "confides"
+    ],
+    "past": [
+      "confided"
+    ],
+    "done": [
+      "confided"
+    ],
+    "ing": [
+      "confiding"
+    ]
+  }
+}

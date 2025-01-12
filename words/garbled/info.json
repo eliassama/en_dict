@@ -1,0 +1,124 @@
+{
+  "word": "garbled",
+  "ipa": {
+    "us": "ˈgɑ:bld",
+    "uk": "ˈgɑrbld"
+  },
+  "sentences": [
+    {
+      "en": "A computer description of a garbled or otherwise unintelligible sequence of signals or other data.",
+      "cn": "描述被歪曲或不能理解的信号或其它数据序列的计算机用语."
+    },
+    {
+      "en": "DSP timing solution for the problem showed garbled.",
+      "cn": "针对DSP时序解决显示乱码问题."
+    },
+    {
+      "en": "Foreign newspapers gave a garbled account of the President's speech.",
+      "cn": "外国报纸对于总统之演说作歪曲的报导."
+    },
+    {
+      "en": "He gave a garbled account of the meeting.",
+      "cn": "他对会议作了失实的报道."
+    },
+    {
+      "en": "He gave a garbled account of what had happened.",
+      "cn": "他对所发生事情的叙述含混不清。"
+    },
+    {
+      "en": "I understand this communication, half garbled as it is.",
+      "cn": "我明白这种交流, 虽然有一半是猜出来的."
+    },
+    {
+      "en": "Make a slight modification to solve the reception problem of garbled data.",
+      "cn": "做了小幅修改,解决了接收数据显示乱码的问题.-AssistantV2."
+    },
+    {
+      "en": "Multiple network transmissions overlapping in the physical channel, resulting in garbled data and necessitating retransmission.",
+      "cn": "多个网络传输重迭发生在同一物理信道上, 它导致数据被破坏,因而必须重传."
+    },
+    {
+      "en": "Play online games frequently out garbled Korea, himself wrote a months use.",
+      "cn": "玩韩国网游经常出乱码, 自己写了个翻译工具用."
+    },
+    {
+      "en": "The Coastguard needs to decipher garbled messages in a few minutes.",
+      "cn": "海岸警卫队需要在几分钟内解读这些含混不清的信息。"
+    },
+    {
+      "en": "The garbled words can be deciphered.",
+      "cn": "误收的字能够被辨认出来."
+    },
+    {
+      "en": "The injured man was still groggy and could only give a garbled account of the accident.",
+      "cn": "受伤的男子仍不很清醒,只能含糊地说出事故的情形."
+    },
+    {
+      "en": "The nervous man gave a garbled account of the accident.",
+      "cn": "这个紧张不安的人对事故的陈述混淆不清."
+    },
+    {
+      "en": "The papers had some garbled version of the story.",
+      "cn": "报纸上对这件事的报道有些混乱。"
+    },
+    {
+      "en": "Thus, plaintext is now garbled ciphertext.",
+      "cn": "这样, 普通文本就捣弄成了密码文本."
+    },
+    {
+      "en": "Web site to remove some anti - reprint articles garbled interference.",
+      "cn": "去掉部分网站文章 防 转载的干扰乱码."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "garble",
+          "tran_cn": " 断章取义；混淆；篡改"
+        },
+        {
+          "word": "garboil",
+          "tran_cn": " 混乱；骚动"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "garble",
+          "tran_cn": " 断章取义；歪曲；混淆"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "chaotic",
+            "troubled",
+            "confused"
+          ],
+          "tran_cn": "篡改的；混乱的；引起误解的"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（指信息）混乱的，引起误解的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "对（事实）歪曲，对（文章等）断章取义，窜改( garble的过去式和过去分词 )"
+    }
+  ],
+  "exchange": {}
+}

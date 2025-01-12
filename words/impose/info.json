@@ -1,0 +1,221 @@
+{
+  "word": "impose",
+  "ipa": {
+    "us": "ɪmˈpəʊz",
+    "uk": "ɪmˈpoʊz"
+  },
+  "sentences": [
+    {
+      "en": "A new tax was imposed on fuel.",
+      "cn": "当局开始对燃油征收一项新税。"
+    },
+    {
+      "en": "Don't impose yourself on people who don't like you.",
+      "cn": "不要硬缠着不喜欢你的人."
+    },
+    {
+      "en": "Fractures often impose a greater need for strict immobilization.",
+      "cn": "骨折迫使病人需要有严格的固定."
+    },
+    {
+      "en": "He has tried to impose solutions to the country's problems by fiat.",
+      "cn": "他试图下令强行解决该国的问题。"
+    },
+    {
+      "en": "I didn't want to impose myself on my married friends.",
+      "cn": "我不想打扰自己已婚的朋友。"
+    },
+    {
+      "en": "I don't want to impose on you by staying too long.",
+      "cn": "我不想打扰你,不多耽搁了."
+    },
+    {
+      "en": "I don't want to impose on you.",
+      "cn": "我并不想打扰你."
+    },
+    {
+      "en": "Parents should beware of imposing their own tastes on their children.",
+      "cn": "父母应该提防把自己的兴趣强加给孩子。"
+    },
+    {
+      "en": "Parents should beware of imposing their own tastes on their children.",
+      "cn": "父母应该提防把自己的兴趣强加给孩子。"
+    },
+    {
+      "en": "parents who impose their own moral values on their children",
+      "cn": "把自己的道德观强加给孩子的父母"
+    },
+    {
+      "en": "Several federal laws impose liability for oil spills.",
+      "cn": "好几部联邦法律部对石油泄漏的责任做了规定."
+    },
+    {
+      "en": "The court can impose a fine.",
+      "cn": "法庭可以强制执行罚款。"
+    },
+    {
+      "en": "The courts were empowered to impose the death sentence for certain crimes.",
+      "cn": "法院有权因某些罪行判处罪犯死刑。"
+    },
+    {
+      "en": "The House voted to impose a one-year moratorium on nuclear testing.",
+      "cn": "众议院投票表决将核试验暂停一年。"
+    },
+    {
+      "en": "The law should impose penalties on companies that use energy wastefully.",
+      "cn": "法律应当严惩浪费能源的公司。"
+    },
+    {
+      "en": "The wish to impose order upon confusion is a kind of intellectual instinct.",
+      "cn": "想在混乱中理出头绪是一种知性本能。"
+    },
+    {
+      "en": "They can impose tariffs and quotes on imported items.",
+      "cn": "他们可以对进口商品征税,实行配额."
+    },
+    {
+      "en": "to impose a penalty",
+      "cn": "予以惩罚"
+    },
+    {
+      "en": "We cannot impose our will upon the other 94 percent of mankind.",
+      "cn": "我们不能把我们的意志强加于其他百分之九十四的人类."
+    },
+    {
+      "en": "You shouldn't impose on his good nature.",
+      "cn": "你们不应该欺负他老实."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "imposed",
+          "tran_cn": " 强加的；施加的；应用的"
+        },
+        {
+          "word": "imposing",
+          "tran_cn": " （建筑物等）壮观的；威风的；（仪表）堂堂的；给人深刻印象的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "imposition",
+          "tran_cn": " 征收；强加；欺骗；不公平的负担"
+        },
+        {
+          "word": "imposture",
+          "tran_cn": " 欺诈，欺骗；冒牌"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "imposed",
+          "tran_cn": " 欺骗（impose的过去分词）；把…强加于"
+        },
+        {
+          "word": "imposing",
+          "tran_cn": " impose的ing形式"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "charge",
+            "force",
+            "inflict",
+            "levy",
+            "place",
+            "put",
+            "set",
+            "tax"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "do with",
+            "trade on"
+          ],
+          "tran_cn": "利用；欺骗；施加影响"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "burden",
+            "charge",
+            "force",
+            "levy",
+            "place",
+            "put",
+            "set",
+            "tax",
+            "with"
+          ],
+          "tran_cn": "施加;强加"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "impose a fine",
+      "tran_cn": "处以罚款"
+    },
+    {
+      "phrase": "impose on",
+      "tran_cn": "利用；欺骗；施加影响于"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "推行，强制实行，把…强加于，使遭受，使承受(压力、痛苦等) ，勉强（某人做某事）",
+      "tran_en": "if someone in authority imposes a rule, punishment, tax etc, they force people to accept it"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 利用， 占便宜； 欺骗"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "把…强加于；征；处以",
+      "tran_en": "If you impose your opinions or beliefs on other people, you try and make people accept them as a rule or as a model to copy"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "imposes"
+    ],
+    "past": [
+      "imposed"
+    ],
+    "done": [
+      "imposed"
+    ],
+    "ing": [
+      "imposing"
+    ]
+  }
+}

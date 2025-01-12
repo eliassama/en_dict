@@ -1,0 +1,109 @@
+{
+  "word": "demonstrably",
+  "ipa": {
+    "us": "'demənstrəblɪ",
+    "uk": "'demənstrəblɪ"
+  },
+  "sentences": [
+    {
+      "en": "His documentary sources are demonstrably wrong.",
+      "cn": "他的文献材料的来源确实是错误的."
+    },
+    {
+      "en": "In fact, it is \" demonstrably not a true stealth aircraft . \"",
+      "cn": "事实上他基本上不是一种真正的隐形 战机."
+    },
+    {
+      "en": "It is demonstrably an unfair comparison.",
+      "cn": "这样打比方显然不公平。"
+    },
+    {
+      "en": "It'should do work that is clearly and demonstrably better than the tool it replaces.",
+      "cn": "它所做的工作应该清楚而明显地比它所取代的那种工具做得更好."
+    },
+    {
+      "en": "Skirt demonstrably neither sick nor absent.",
+      "cn": "裙子没生病,也没缺席."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "demonstrable",
+          "tran_cn": " 可论证的；显而易见的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "demonstratively",
+          "tran_cn": " 论证地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "demonstrability",
+          "tran_cn": " 论证可能性"
+        },
+        {
+          "word": "demonstrator",
+          "tran_cn": " 示威者；论证者；指示者；证明者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "demonstrate",
+          "tran_cn": " 示威"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "demonstrate",
+          "tran_cn": " 证明；展示；论证"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "specifically",
+            "definitely",
+            "particularly",
+            "positively",
+            "explicitly"
+          ],
+          "tran_cn": "可论证地；明确地"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "确然"
+    }
+  ],
+  "exchange": {
+    "adj": [
+      "demonstrable"
+    ]
+  }
+}

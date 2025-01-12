@@ -1,0 +1,113 @@
+{
+  "word": "flagellate",
+  "ipa": {
+    "us": "ˈflædʒəleɪt",
+    "uk": "ˈflædʒəˌlet"
+  },
+  "sentences": [
+    {
+      "en": "A single - celled microorganism, especially a flagellate protozoan of the genus Monas.",
+      "cn": "单胞体 单细胞 的微生物, 尤指单''.'胞'. ''虫类的有鞭毛的原生动物."
+    },
+    {
+      "en": "From that day on, the farmer would not flagellate his ox anymore.",
+      "cn": "从那天起，农夫再也不鞭打牛了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "flagellant",
+          "tran_cn": " 伤人的；鞭打的"
+        },
+        {
+          "word": "flagellated",
+          "tran_cn": " 生有鞭毛的；生有匍匐茎的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "flagellant",
+          "tran_cn": " 苦修者；执鞭抽打者"
+        },
+        {
+          "word": "flagellation",
+          "tran_cn": " 鞭打；鞭毛形成"
+        },
+        {
+          "word": "flagellum",
+          "tran_cn": " [昆] 鞭毛；鞭子；鞭状匍匐枝"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "flagellated",
+          "tran_cn": " 鞭打；鞭笞（flagellate的过去式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "cane",
+            "leather"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "hide",
+            "scourge"
+          ],
+          "tran_cn": "鞭打"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "鞭打, 鞭挞",
+      "tran_en": "to whip yourself or someone else, especially as a religious punishment"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "鞭打，鞭挞"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "flagellates"
+    ],
+    "past": [
+      "flagellated"
+    ],
+    "done": [
+      "flagellated"
+    ],
+    "ing": [
+      "flagellating"
+    ],
+    "noun": [
+      "flagellation"
+    ]
+  }
+}

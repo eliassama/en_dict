@@ -1,0 +1,110 @@
+{
+  "word": "braggadocio",
+  "ipa": {
+    "us": "ˌbrægəˈdəʊtʃiəʊ",
+    "uk": "ˌbrægəˈdoʊtʃioʊ"
+  },
+  "sentences": [
+    {
+      "en": "He was disliked because his manner was always full of braggadocio.",
+      "cn": "人们讨厌他,因为他老是吹牛."
+    },
+    {
+      "en": "In the end, there might be some signs that boorish boys know they're overreaching — and that may be expressed in the level of their braggadocio.",
+      "cn": "最后，也许有一些粗俗的男人发现自己过了头的迹象——这表现在他们吹牛的程度中。 。"
+    },
+    {
+      "en": "Underneath his goofball braggadocio lies a kind of purity ( David Ansen )",
+      "cn": "在他笨拙的自夸里蕴含着一丝纯洁 ( 戴维安森 )"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bragger",
+          "tran_cn": " 自夸的（brag的比较级形式）"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bragger",
+          "tran_cn": " 吹牛者"
+        },
+        {
+          "word": "bragging",
+          "tran_cn": " 吹牛"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bragging",
+          "tran_cn": " 夸耀（brag的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "bragging",
+          "tran_cn": " 夸口"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "self-praise",
+            "fanfaronade"
+          ],
+          "tran_cn": "自夸，吹牛；吹牛大王"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "conceit",
+            "exaggeration",
+            "mouth",
+            "peacock",
+            "pretense",
+            "vanity"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "自夸，吹牛大王",
+      "tran_en": "proud talk about something that you claim to own, to have done etc"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 自夸"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "braggadocios"
+    ]
+  }
+}

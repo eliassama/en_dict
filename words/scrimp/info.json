@@ -1,0 +1,132 @@
+{
+  "word": "scrimp",
+  "ipa": {
+    "us": "skrɪmp",
+    "uk": "skrɪmp"
+  },
+  "sentences": [
+    {
+      "en": "John was making more money, but I continued to scrimp and save.",
+      "cn": "约翰挣钱比以前多了, 可是我继续节省开支攒钱."
+    },
+    {
+      "en": "Scrimping on safety measures can be a false economy.",
+      "cn": "在安全措施方面节省开支可能会得不偿失。"
+    },
+    {
+      "en": "She had to scrimp and save to pay for her holiday.",
+      "cn": "她必须节省开支以支付度假的费用."
+    },
+    {
+      "en": "They had to scrimp and save to send their son to college.",
+      "cn": "为了送儿子上大学,他们不得不省吃俭用,拼命攒钱."
+    },
+    {
+      "en": "We had to scrimp and save to pay the bills.",
+      "cn": "我们得省吃俭用来付帐."
+    },
+    {
+      "en": "We shall scrimp and save , grandchildren on your knee, Vera Chuck & amp; Dave.",
+      "cn": "我们过着简朴的生活, 孙子们在你的膝盖上,分别叫做维拉 、 恰克 和 大卫."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "scrimpy",
+          "tran_cn": " 缩减的；吝啬的；不足的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "short",
+            "tight",
+            "insufficient",
+            "deficient",
+            "lacking"
+          ],
+          "tran_cn": "吝啬的；不足的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "economize",
+            "husband"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "pinch pennies",
+            "scrape and screw"
+          ],
+          "tran_cn": "精打细算；吝啬"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "economize on",
+            "save on"
+          ],
+          "tran_cn": "节省；过度缩减；克扣"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "scrimp and save",
+      "tran_cn": "节俭"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "过度缩减, 克扣",
+      "tran_en": "If you scrimp on things, you live cheaply and spend as little money as possible"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "（较平时）节省着过日子，一点一滴地省钱，吝啬，克扣"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "节省，节缩，过度减少"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "scrimps"
+    ],
+    "past": [
+      "scrimped"
+    ],
+    "done": [
+      "scrimped"
+    ],
+    "ing": [
+      "scrimping"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "word": "stepsister",
+  "ipa": {
+    "us": "ˈstepsɪstə(r)",
+    "uk": "ˈstepsɪstər"
+  },
+  "sentences": [
+    {
+      "en": "If you want I'll invite my stepsister and her to have dinner with us.",
+      "cn": "如果你愿意的话，我会请我那个姐姐，还有她和我们一起吃晚饭。"
+    },
+    {
+      "en": "She was also going to have a new stepsister.",
+      "cn": "她也将有个新姐姐."
+    },
+    {
+      "en": "Yes. She is a friend of my stepsister. I know where she lives.",
+      "cn": "真的。她是我同母异父（同父异母）姐姐的朋友。我还知道她住在哪里呢。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stepbrother",
+          "tran_cn": "同父异母的兄弟；同母异父的兄弟"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "relative"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（继父与其前妻或继母与其前夫所生的）姐姐，妹妹",
+      "tran_en": "the daughter of your stepmother or stepfather"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "stepsisters"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "word": "calcify",
+  "ipa": {
+    "us": "ˈkælsɪfaɪ",
+    "uk": "'kælsɪfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "An aortic valve need not be bicuspid to calcify.",
+      "cn": "主动脉瓣并非是两个瓣叶的才钙化."
+    },
+    {
+      "en": "Old folks can calcify.",
+      "cn": "老年人可能出现钙化现象."
+    },
+    {
+      "en": "Rickets is a disease of children characterized a failure of the growing bones to calcify normally.",
+      "cn": "佝偻病是一种儿童疾病,它的特征是生长中的骨骼不能正常钙化."
+    },
+    {
+      "en": "TB can also lead to a granulomatous pericarditis that may calcify and produce constrictive pericarditis.",
+      "cn": "TB还可以导致肉芽肿性心包炎,进而可能钙化和产生缩窄性心包炎."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "calcareous",
+          "tran_cn": " 钙质的，石灰质的"
+        },
+        {
+          "word": "calcific",
+          "tran_cn": " 钙化的；石灰质的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "calcareous",
+          "tran_cn": " 钙化软骨"
+        },
+        {
+          "word": "calciferol",
+          "tran_cn": " [生化] 钙化醇；维生素D2"
+        },
+        {
+          "word": "calcification",
+          "tran_cn": " 钙化；石灰化"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "calcine",
+          "tran_cn": " 煅烧"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "calcine",
+          "tran_cn": " [化工] 烧成石灰；锻烧"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "变成石灰质, 钙化",
+      "tran_en": "to become hard, or make something hard, by adding  lime "
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）钙化，（使）硬化"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "calcifies"
+    ],
+    "past": [
+      "calcified"
+    ],
+    "done": [
+      "calcified"
+    ],
+    "ing": [
+      "calcifying"
+    ],
+    "noun": [
+      "calcification"
+    ]
+  }
+}

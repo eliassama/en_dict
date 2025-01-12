@@ -1,0 +1,67 @@
+{
+  "word": "decapitate",
+  "ipa": {
+    "us": "dɪˈkæpɪteɪt",
+    "uk": "dɪˈkæpɪˌtet"
+  },
+  "sentences": [
+    {
+      "en": "a decapitated body",
+      "cn": "一具无头尸体"
+    },
+    {
+      "en": "To strangle or decapitate ( a fowl ).",
+      "cn": "勒死或斩首 ( 家禽 )"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "decapitation",
+          "tran_cn": " 斩首；解雇；撤职"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "decollate",
+            "get the boot"
+          ],
+          "tran_cn": "斩首；解雇；使无效"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "vt",
+      "tran_cn": "杀头",
+      "tran_en": "to cut off someone’s head"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "decapitates"
+    ],
+    "past": [
+      "decapitated"
+    ],
+    "done": [
+      "decapitated"
+    ],
+    "ing": [
+      "decapitating"
+    ],
+    "noun": [
+      "decapitation"
+    ]
+  }
+}

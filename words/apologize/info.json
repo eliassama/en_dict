@@ -1,0 +1,180 @@
+{
+  "word": "apologize",
+  "ipa": {
+    "us": "əˈpɒlədʒaɪz",
+    "uk": "əˈpɑːlədʒaɪz"
+  },
+  "sentences": [
+    {
+      "en": "Apologize to her for your rude behavior!",
+      "cn": "你的行为太粗鲁了,向她表示歉意吧!"
+    },
+    {
+      "en": "Had he not apologize to her , she would not have forgiven him.",
+      "cn": "她(那时)不会原谅他, 若非他道了歉."
+    },
+    {
+      "en": "He had the grace to apologize to me for the insulting remark.",
+      "cn": "由于说话失礼,他通情达理地向我道了歉."
+    },
+    {
+      "en": "I must apologize for calling so late.",
+      "cn": "我真是抱歉这么晚了才打电话给你."
+    },
+    {
+      "en": "I must apologize for calling you so late.",
+      "cn": "实在抱歉,这么晚给您打电话."
+    },
+    {
+      "en": "I must apologize for the dreadful mistake I made.",
+      "cn": "我为我所犯的严重错误深表歉意."
+    },
+    {
+      "en": "I must apologize for the untidy state of the room.",
+      "cn": "屋子这么不整洁,实在抱歉."
+    },
+    {
+      "en": "I shall have to apologize to him, I suppose.",
+      "cn": "看来还得向他赔个不是才行."
+    },
+    {
+      "en": "I’m so sorry, I do apologize.",
+      "cn": "非常对不起，我真心道歉。"
+    },
+    {
+      "en": "My conscience constrained me to apologize to him.",
+      "cn": "我的良心迫使我向他赔罪."
+    },
+    {
+      "en": "Others hastened to apologize in public for past errors in their thinking.",
+      "cn": "有人争先恐后公开宣布他们过去思想上犯了错误."
+    },
+    {
+      "en": "To apologize for leaving so early, I brought you a little gift.",
+      "cn": "为了表示我对提早走掉的歉意, 我给你带了一件小礼物."
+    },
+    {
+      "en": "Tonight I'll treat everyone to a round of drinks to apologize. \"",
+      "cn": "晚上水酒一杯谢罪. ”"
+    },
+    {
+      "en": "We apologize unreservedly for any offence we have caused.",
+      "cn": "若有得罪，我们深表歉意。"
+    },
+    {
+      "en": "You might at least apologize.",
+      "cn": "你至少应该道个歉吧."
+    },
+    {
+      "en": "You must apologize to her for having kept her waiting.",
+      "cn": "让她等了这么久,你应该为此向她表示歉意."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "apologetic",
+          "tran_cn": " 道歉的；赔罪的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "apologetically",
+          "tran_cn": " 道歉地，认错地；辩解地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "apologia",
+          "tran_cn": " 辩解书；辩解文；辩解"
+        },
+        {
+          "word": "apology",
+          "tran_cn": " 道歉；谢罪；辩护；勉强的替代物"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "apologise",
+          "tran_cn": " 道歉（等于apologize）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "an",
+            "ask",
+            "beg",
+            "excuse",
+            "express",
+            "forgiveness",
+            "offer",
+            "pardon",
+            "regret"
+          ],
+          "tran_cn": "道歉;认错"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "square oneself",
+            "make an apology"
+          ],
+          "tran_cn": "道歉；谢罪；辩白"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "apologize for",
+      "tran_cn": "道歉"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "道歉，认错",
+      "tran_en": "to tell someone that you are sorry that you have done something wrong"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 道歉， 认错； 辩护， 辩解",
+      "tran_en": "to tell someone that you are sorry that you have done something wrong"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "apologizes"
+    ],
+    "past": [
+      "apologized"
+    ],
+    "done": [
+      "apologized"
+    ],
+    "ing": [
+      "apologizing"
+    ]
+  }
+}

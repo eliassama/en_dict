@@ -1,0 +1,124 @@
+{
+  "word": "blather",
+  "ipa": {
+    "us": "ˈblæðə(r)",
+    "uk": "ˈblæðɚ"
+  },
+  "sentences": [
+    {
+      "en": "Anyone knows that all this is blather.",
+      "cn": "谁都知道这完全是废话连篇。"
+    },
+    {
+      "en": "Don't mention horse racing. He'll just blather about the subject for hours once he gets started.",
+      "cn": "可别提赛马. 他一旦讲起这个话题来就喋喋不休说个不完."
+    },
+    {
+      "en": "He kept on blathering about police incompetence.",
+      "cn": "他喋喋不休地说起警察的无能来。"
+    },
+    {
+      "en": "He'll just blather about the subject for hours once he gets started.",
+      "cn": "他一旦讲起这个话题来就喋喋不休说个不完."
+    },
+    {
+      "en": "It's believed that people primarily blather to themselves when alone so as not to appear nuts.",
+      "cn": "据信,人们大多是在独处时才会随口自言自语,因为当着人这样自己会觉得很傻."
+    },
+    {
+      "en": "Stop blathering.",
+      "cn": "别絮叨了。"
+    },
+    {
+      "en": "The old men blather on and on.",
+      "cn": "这几个老头喋喋不休。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "blatherskite",
+          "tran_cn": " 爱说废话的人；听无聊话的人"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bullshit",
+            "kibosh"
+          ],
+          "tran_cn": "胡说；废话"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "footle",
+            "stupidity",
+            "vapor"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "rattle on",
+            "rattle away"
+          ],
+          "tran_cn": "说废话；喋喋不休地说"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "spout"
+          ],
+          "tran_cn": "滔滔不绝地讲"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 喋喋不休地胡说， 唠叨",
+      "tran_en": "If someone is blathering on about something, they are talking for a long time about something that you consider boring or unimportant"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "说蠢话，胡说"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "blathers"
+    ],
+    "past": [
+      "blathered"
+    ],
+    "done": [
+      "blathered"
+    ],
+    "ing": [
+      "blathering"
+    ]
+  }
+}

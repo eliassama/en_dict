@@ -1,0 +1,84 @@
+{
+  "word": "miscount",
+  "ipa": {
+    "us": "ˌmɪsˈkaʊnt",
+    "uk": "ˌmɪs'kaʊnt"
+  },
+  "sentences": [
+    {
+      "en": "Sorry, I miscounted – we need ten copies, not nine.",
+      "cn": "对不起，我数错了——我们需要十份复印件，不是九份。"
+    },
+    {
+      "en": "The shopkeeper miscount, so we get twenty five bar of chocolate instead of two dozen.",
+      "cn": "店主算错了数, 我们得到了25块巧克力而不是24块."
+    },
+    {
+      "en": "The votes were deliberately miscounted.",
+      "cn": "选票被故意数错了。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "misunderstand"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "get it wrong"
+          ],
+          "tran_cn": "数错；算错"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "get it wrong"
+          ],
+          "tran_cn": "数错；算错"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "数错；误算",
+      "tran_en": "a false count or calculation "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "数错",
+      "tran_en": "to count wrongly"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "miscounts"
+    ],
+    "past": [
+      "miscounted"
+    ],
+    "done": [
+      "miscounted"
+    ],
+    "ing": [
+      "miscounting"
+    ]
+  }
+}

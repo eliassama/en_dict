@@ -1,0 +1,189 @@
+{
+  "word": "stationary",
+  "ipa": {
+    "us": "ˈsteɪʃənri",
+    "uk": "ˈsteɪʃəneri"
+  },
+  "sentences": [
+    {
+      "en": "Electrostatics refers to stationary arrangements of electrical charge.",
+      "cn": "静电指的是电荷的静止分布."
+    },
+    {
+      "en": "He crashed into a stationary bus.",
+      "cn": "他撞了一辆停着不动的公共汽车."
+    },
+    {
+      "en": "How did you manage to drive into a stationary vehicle?",
+      "cn": "你是怎么开车的，竟会撞上一辆停着的车子？"
+    },
+    {
+      "en": "Manned'stationary'satellites are used to relay and broadcast electromagnetic communication signals.",
+      "cn": "“固定不动的”人造卫星被用来转播及广播电磁通讯信号."
+    },
+    {
+      "en": "Most of these stationary states are not stable.",
+      "cn": "大多数的驻值态不是稳定的."
+    },
+    {
+      "en": "Stationary cars in traffic jams cause a great deal of pollution.",
+      "cn": "交通堵塞中静止不动的汽车产生了大量污染。"
+    },
+    {
+      "en": "Stationary waves are also produced in vibrating columns of air.",
+      "cn": "空气柱振动时也能产生驻波."
+    },
+    {
+      "en": "The 1970 Act also addressed new stationary sources.",
+      "cn": "1970年的法案也涉及到了新固定污染源的问题."
+    },
+    {
+      "en": "The car collided with a stationary vehicle.",
+      "cn": "小汽车撞到一辆停着的车上。"
+    },
+    {
+      "en": "The electrons themselves are not stationary in a stationary state.",
+      "cn": "在某个定态中,电子本身并不是不动的."
+    },
+    {
+      "en": "The gathering shoe can be stationary.",
+      "cn": "集束器可以是固定的."
+    },
+    {
+      "en": "The principal sources are stationary combustion plants and transportation vehicles.",
+      "cn": "主要来源是工厂的固定燃烧和运输车辆."
+    },
+    {
+      "en": "The substrates can be relatively close and stationary.",
+      "cn": "衬底可能是相当致密的和稳定的."
+    },
+    {
+      "en": "The train was stationary for 90 minutes.",
+      "cn": "火车停了90分钟。"
+    },
+    {
+      "en": "These fixed lines have been called stationary lines.",
+      "cn": "这两条固定不动的谱线叫做无位移谱线."
+    },
+    {
+      "en": "Wait until the bus is stationary before you get off.",
+      "cn": "你要等公共汽车停稳了再下车."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "statically",
+          "tran_cn": " 静态地；静止地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "stator",
+          "tran_cn": " 固定片，定子"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "firm",
+            "fixed",
+            "immobile",
+            "immovable",
+            "inflexible",
+            "motionless",
+            "steady"
+          ],
+          "tran_cn": "不动的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "firm",
+            "fixed",
+            "immobile",
+            "immovable",
+            "inflexible",
+            "motionless",
+            "pacific",
+            "steady",
+            "vegetable"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stationary distribution",
+      "tran_cn": "平稳分布；定常分布"
+    },
+    {
+      "phrase": "stationary flow",
+      "tran_cn": "稳定流；定常流动"
+    },
+    {
+      "phrase": "stationary liquid",
+      "tran_cn": "固定液"
+    },
+    {
+      "phrase": "stationary part",
+      "tran_cn": "静止部件"
+    },
+    {
+      "phrase": "stationary phase",
+      "tran_cn": "[化]固定相；稳定期"
+    },
+    {
+      "phrase": "stationary process",
+      "tran_cn": "平稳过程；恒定程序；定常过程"
+    },
+    {
+      "phrase": "stationary source",
+      "tran_cn": "固定污染源；固定来源"
+    },
+    {
+      "phrase": "stationary state",
+      "tran_cn": "（能量上的）定态；静止状态"
+    },
+    {
+      "phrase": "stationary stochastic process",
+      "tran_cn": "平稳随机过程"
+    },
+    {
+      "phrase": "stationary value",
+      "tran_cn": "平稳值"
+    },
+    {
+      "phrase": "stationary wave",
+      "tran_cn": "n. [物]驻波"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "不动的，固定的，静止的，不变的，常备军的，定居的",
+      "tran_en": "standing still instead of moving"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "不动的人；驻军"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,207 @@
+{
+  "word": "strict",
+  "ipa": {
+    "us": "strɪkt",
+    "uk": "strɪkt"
+  },
+  "sentences": [
+    {
+      "en": "A strict diet is appropriate for only a few.",
+      "cn": "严格的食谱仅对少数人适用."
+    },
+    {
+      "en": "a strict teacher",
+      "cn": "严格的老师"
+    },
+    {
+      "en": "All members of the association adhere to a strict code of practice.",
+      "cn": "协会的所有成员都遵守一套严格的行为规范。"
+    },
+    {
+      "en": "Four million Britons are now strict vegetarians.",
+      "cn": "目前有400万英国人是严格的素食者。"
+    },
+    {
+      "en": "French privacy laws are very strict.",
+      "cn": "法国的隐私法非常严苛。"
+    },
+    {
+      "en": "He has a reputation for being a strict disciplinarian.",
+      "cn": "他因是个严格纪律执行者而闻名遐迩。"
+    },
+    {
+      "en": "He is a strict teetotaller.",
+      "cn": "他绝对滴酒不沾。"
+    },
+    {
+      "en": "He was a strict, old-school Freudian.",
+      "cn": "他是个不折不扣、传统守旧的弗洛伊德学说信奉者。"
+    },
+    {
+      "en": "My parents were very strict.",
+      "cn": "父母对我要求非常严格。"
+    },
+    {
+      "en": "She admits to being strict with her children.",
+      "cn": "她承认对自己的孩子很严厉。"
+    },
+    {
+      "en": "She has some old-fashioned values and can be a strict disciplinarian.",
+      "cn": "她的观念比较保守，有时过于严格地奉行纪律。"
+    },
+    {
+      "en": "She was a very strict Christian who was married to her job.",
+      "cn": "她是个虔诚的基督徒，对工作全身心投入。"
+    },
+    {
+      "en": "She's a very strict disciplinarian.",
+      "cn": "她执行纪律非常严格。"
+    },
+    {
+      "en": "There is a strict dress code: no trainers or jeans.",
+      "cn": "有严格的着装规定：不许穿运动鞋和牛仔裤。"
+    },
+    {
+      "en": "They must each compose a poem in strict alliterative metre.",
+      "cn": "他们必须每人作一首严格押头韵的诗。"
+    },
+    {
+      "en": "Yasmin sticks to a strict vegetarian diet.",
+      "cn": "亚斯明坚持不沾一点儿荤腥。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "strictly",
+          "tran_cn": " 严格地；完全地；确实地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "strictness",
+          "tran_cn": " 严格；严密；严重"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "austere",
+            "exact",
+            "exacting",
+            "harsh",
+            "precise",
+            "rigorous",
+            "severe",
+            "stern",
+            "stringent"
+          ],
+          "tran_cn": "严厉的;刻板的"
+        },
+        {
+          "words": [
+            "absolute",
+            "complete",
+            "exact",
+            "literal",
+            "perfect",
+            "real",
+            "true"
+          ],
+          "tran_cn": "完全的;精确的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "absolute",
+            "austere",
+            "blue",
+            "complete",
+            "definite",
+            "exact",
+            "exacting",
+            "fussy",
+            "grim",
+            "hard",
+            "harsh",
+            "inexpiable",
+            "literal",
+            "mathematical",
+            "perfect",
+            "precise",
+            "real",
+            "relentless",
+            "rigid",
+            "rigorous",
+            "severe",
+            "stern",
+            "stringent",
+            "technical",
+            "true",
+            "uncompromising"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be strict in",
+      "tran_cn": "对…要求严格"
+    },
+    {
+      "phrase": "in the strict sense",
+      "tran_cn": "严格说来"
+    },
+    {
+      "phrase": "strict control",
+      "tran_cn": "严格控制"
+    },
+    {
+      "phrase": "strict liability",
+      "tran_cn": "严格责任；严格赔偿责任"
+    },
+    {
+      "phrase": "strict with",
+      "tran_cn": "对…要求严格"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "严格的，严密的",
+      "tran_en": "expecting people to obey rules or to do what you say"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "严厉的",
+      "tran_en": "expecting people to obey rules or to do what you say"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "stricter"
+    ],
+    "est": [
+      "strictest"
+    ],
+    "noun": [
+      "strictness"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "word": "retool",
+  "ipa": {
+    "us": "ˌri:ˈtu:l",
+    "uk": "riˈtul"
+  },
+  "sentences": [
+    {
+      "en": "In the computer industry, engineers have to retool frequently.",
+      "cn": "在电脑业中, 工程师必须经常以新知识充实装备自己."
+    },
+    {
+      "en": "The College Board has retooled the admission exams.",
+      "cn": "大学委员会重新调整入学考试。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "recombine",
+            "reequip"
+          ],
+          "tran_cn": "重组；重新装备"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "将机械重新整备, 重组",
+      "tran_en": "to organize something in a new way"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "改组，革新"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（给…）更换工具， （给…）更换机械设备"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "retools"
+    ],
+    "past": [
+      "retooled"
+    ],
+    "done": [
+      "retooled"
+    ],
+    "ing": [
+      "retooling"
+    ]
+  }
+}

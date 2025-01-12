@@ -1,0 +1,70 @@
+{
+  "word": "magistracy",
+  "ipa": {
+    "us": "ˈmædʒɪstrəsi",
+    "uk": "'mædʒɪstrəsɪ"
+  },
+  "sentences": [
+    {
+      "en": "He's been elected to the magistracy.",
+      "cn": "他已选进地方法官团."
+    },
+    {
+      "en": "The magistracy was usually considered a necessary precondition for entry into the Roman Senate.",
+      "cn": "行政官职通常被认为是进入元老院的必要先决条件."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "magistrate",
+          "tran_cn": " 地方法官；文职官员；治安推事"
+        },
+        {
+          "word": "magistrature",
+          "tran_cn": " 长官的职位；地方行政长官"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "prefect",
+            "intendant"
+          ],
+          "tran_cn": "地方行政官的职位；地方行政长官"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "government"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "地方行政官，执法官，地方行政官员的职位",
+      "tran_en": "the official position of a magistrate, or the time during which someone has this position"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "magistracies"
+    ]
+  }
+}

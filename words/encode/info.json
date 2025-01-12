@@ -1,0 +1,154 @@
+{
+  "word": "encode",
+  "ipa": {
+    "us": "ɪnˈkəʊd",
+    "uk": "ɪnˈkoʊd"
+  },
+  "sentences": [
+    {
+      "en": "As previously mentioned, the main thing this renderer does is decode input and encode output.",
+      "cn": "正如前面提到的，渲染器做的主要工作就是解码输入和编码输出。"
+    },
+    {
+      "en": "Both the cDNAs encode proteins of 505 acid residues, showing 91.3 % sequence identity with each other.",
+      "cn": "它们各编码505个氨基酸残基, 彼此之间的氨基酸序列同源性为91.3%."
+    },
+    {
+      "en": "Current, the homepage of Yahoo uses 33 kinds of different encode cardinal number to generate.",
+      "cn": "目前, 雅虎的主页采用33种不同的编码基数生成."
+    },
+    {
+      "en": "Decoder - This feature can be used to decode data to get back the original form, or to encode and encrypt data.",
+      "cn": "这个特性用来解码数据，从而得到数据的原始形式。或者用来编码和加密数据。"
+    },
+    {
+      "en": "Encode is sometimes loosely used when complete reconversion is not possible.",
+      "cn": "当不可能完全恢复时,有时也不严格地使用“译码”这样的术语."
+    },
+    {
+      "en": "Encode messages in symbols the receiver understands.",
+      "cn": "编码使用接收者可理解的信号."
+    },
+    {
+      "en": "Extended Huffman compression can encode groups of symbols rather than single symbols.",
+      "cn": "扩展哈夫曼编码压缩可以群体的象徵,而不是单一的符号."
+    },
+    {
+      "en": "For more involved projects you still have to encode at least some of your functions by hand for SWIG to know what to do.",
+      "cn": "对于更复杂的项目来说，您必须手工编码至少一部分函数，以便让 SWIG 知道该做什么。"
+    },
+    {
+      "en": "Genes are segments of the DNA double helix that encode the information for making proteins.",
+      "cn": "基因是一段DNA双股螺旋,其中携带了制造蛋白质的编码资讯."
+    },
+    {
+      "en": "Genes are specific sequences of bases that encode instructions on how to make proteins.",
+      "cn": "基因是一种含编译蛋白质制造命令的特殊碱基序列."
+    },
+    {
+      "en": "It is widely believed that these spiked patterns that encode different types of cognitive information.",
+      "cn": "大家普遍相信这些电信号以脉冲信号的模式为不同类型的认知信息编码."
+    },
+    {
+      "en": "Obviously, if you wanted to encode and decode in some other format, I would suggest extending the input and output stream.",
+      "cn": "如果您希望以其他格式进行编码和解码，我建议您继承输入和输出流，这是很自然的事情。"
+    },
+    {
+      "en": "Sets or retrieves the character set used to encode the object.",
+      "cn": "设置或获取当前使用的字符集编码的对象."
+    },
+    {
+      "en": "The methods of encode , the design of software and the configuration of hardware also introduced.",
+      "cn": "给出了用单片机产生编码信号的实现方法及软件设计、硬件配置."
+    },
+    {
+      "en": "The two parties encode confidential data in a form that is not directly readable by the other party.",
+      "cn": "双方将机密资料加密，这样对方就无法直接读取资料。"
+    },
+    {
+      "en": "These changes basically take a section of the description and encode it into RDF serialization.",
+      "cn": "这些更改基本上是抽取描述的一部分并将其编码为 RDF 序列化。"
+    },
+    {
+      "en": "These genes encode sarcomere proteins that, when mutated, cause adult - onset cardiomyopathies.",
+      "cn": "这些基因编码的肌节蛋白质, 当其突变时会导致成人心肌疾病."
+    },
+    {
+      "en": "They encode proteins that regulate the expression of other genes by binding to DNA.",
+      "cn": "它们编码那些与DNA结合的蛋白质以调控其它基因的表达."
+    },
+    {
+      "en": "To avoid the overhead associated with using a table, the application could encode the list of items in some string format and have the procedure decode the string to extract the items.",
+      "cn": "要避免使用表的相关开销，应用程序可以一些字符串格式对项目列表进行编码，并使存储过程对该字符串进行解码以便提取项目。"
+    },
+    {
+      "en": "Various tokens encode references to the contents of the string table.",
+      "cn": "不同编码的地址从字符串表的目录中引用."
+    },
+    {
+      "en": "You must have an audio device installed in order to encode from device.",
+      "cn": "要从设备编码,必须已安装音频设备."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "encoding",
+          "tran_cn": " [计] 编码"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "encoding",
+          "tran_cn": " [计] 编码（encode的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to code",
+            "to decode"
+          ],
+          "tran_cn": "[计]编码，译码"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（将文字材料）译成密码；编码，编制成计算机语言",
+      "tran_en": "to put a message or other information into code"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "（将文字材料）译成密码，编码，编制成计算机语言",
+      "tran_en": "to put a message or other information into code"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "encodes"
+    ],
+    "past": [
+      "encoded"
+    ],
+    "done": [
+      "encoded"
+    ],
+    "ing": [
+      "encoding"
+    ]
+  }
+}

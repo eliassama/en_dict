@@ -1,0 +1,80 @@
+{
+  "word": "expropriate",
+  "ipa": {
+    "us": "eksˈprəʊprieɪt",
+    "uk": "eksˈproʊprieɪt"
+  },
+  "sentences": [
+    {
+      "en": "The Bolsheviks expropriated the property of the landowners.",
+      "cn": "布尔什维克征收了地主的土地。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "expropriation",
+          "tran_cn": " 征收，征用；没收"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "dispossess",
+            "pirate"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "shear",
+            "sequestrate"
+          ],
+          "tran_cn": "没收，征用；剥夺"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "没收, 征用, 剥夺",
+      "tran_en": "if a government or someone in authority expropriates your private property, they take it away for public use"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "没收（财产），征用，剥夺…的所有权",
+      "tran_en": "if a government or someone in authority expropriates your private property, they take it away for public use"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "expropriates"
+    ],
+    "past": [
+      "expropriated"
+    ],
+    "done": [
+      "expropriated"
+    ],
+    "ing": [
+      "expropriating"
+    ],
+    "noun": [
+      "expropriation"
+    ]
+  }
+}

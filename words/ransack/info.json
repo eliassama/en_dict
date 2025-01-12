@@ -1,0 +1,87 @@
+{
+  "word": "ransack",
+  "ipa": {
+    "us": "ˈrænsæk",
+    "uk": "ˈrænˌsæk"
+  },
+  "sentences": [
+    {
+      "en": "He began to ransack his mother's workbox for a piece of thread.",
+      "cn": "他要找一根线,开始翻腾妈妈的针线盒."
+    },
+    {
+      "en": "My girlfriend is angry mad, ransack boxes and chests finds out a dish mosquito - repellent incense comes.",
+      "cn": "我女朋友气疯了, 翻箱倒柜找出一盘儿 蚊香 来."
+    },
+    {
+      "en": "The whole flat had been ransacked.",
+      "cn": "整间公寓都遭到洗劫。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "forage",
+            "loot",
+            "pillage",
+            "pirate",
+            "plunder",
+            "prey",
+            "raid",
+            "rifle",
+            "rummage",
+            "search"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "forage",
+            "loot",
+            "pillage",
+            "plunder",
+            "raid",
+            "rummage",
+            "search"
+          ],
+          "tran_cn": "遍寻;掠夺"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "到处搜索, 掠夺, 洗劫",
+      "tran_en": "to go through a place, stealing things and causing damage"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "彻底搜查，抢劫，掠夺，仔细思索"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "ransacks"
+    ],
+    "past": [
+      "ransacked"
+    ],
+    "done": [
+      "ransacked"
+    ],
+    "ing": [
+      "ransacking"
+    ]
+  }
+}

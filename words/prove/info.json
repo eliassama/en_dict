@@ -1,0 +1,227 @@
+{
+  "word": "prove",
+  "ipa": {
+    "us": "pruːv",
+    "uk": "pruːv"
+  },
+  "sentences": [
+    {
+      "en": "Buying new furniture may prove too costly.",
+      "cn": "购买新家具可能会花钱太多。"
+    },
+    {
+      "en": "Can you prove that to the court?",
+      "cn": "你能向法庭证实这一点 吗 ?"
+    },
+    {
+      "en": "His lack of experience may prove to be his undoing.",
+      "cn": "他缺乏经验可能会最终导致他的失败。"
+    },
+    {
+      "en": "It should prove a shrewd investment.",
+      "cn": "这将是一项精明的投资。"
+    },
+    {
+      "en": "It would not prove worthwhile to instigate a nuclear attack.",
+      "cn": "挑起核攻击最终是不值得的."
+    },
+    {
+      "en": "Opponents of the measure say it's political grandstanding that could prove devastating to the economy.",
+      "cn": "反对该措施的人士认为这是一场政治作秀，会对经济发展带来严重的打击。"
+    },
+    {
+      "en": "Relegation to the Third Division would prove catastrophic.",
+      "cn": "降到丙级将是灾难性的。"
+    },
+    {
+      "en": "The design proved to be a success.",
+      "cn": "那个设计后来证明很成功。"
+    },
+    {
+      "en": "The issue is likely to prove a prickly one.",
+      "cn": "这个问题有可能很棘手。"
+    },
+    {
+      "en": "The new media are unlikely to prove qualitatively different from the old.",
+      "cn": "新媒体不可能与旧媒体有质的差别。"
+    },
+    {
+      "en": "The research should prove invaluable in the study of linguistics.",
+      "cn": "该调查研究在语言学研究领域的重要性应该会得到证实。"
+    },
+    {
+      "en": "The students are asked to prove the purity of copper.",
+      "cn": "要求学生们检验铜的纯度."
+    },
+    {
+      "en": "There is the strong possibility that such cooperation will prove unworkable.",
+      "cn": "这种合作很有可能会行不通。"
+    },
+    {
+      "en": "They were not able to prove these suspicions.",
+      "cn": "这些怀疑他们无法证实."
+    },
+    {
+      "en": "This is the time for stout fellows to prove their worth!",
+      "cn": "这正是男子汉发奋有为之时!"
+    },
+    {
+      "en": "To prove his point (= show that he was right ) , he mentioned several other experiments which had produced similar results.",
+      "cn": "为了证明自己的观点，他提到了另外几个结果相似的实验。"
+    },
+    {
+      "en": "You brought this charge. You prove it!",
+      "cn": "你提出了这项控告。你拿出证据来！"
+    },
+    {
+      "en": "You’re wrong, and I can prove it.",
+      "cn": "你错了，我可以证明。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "provable",
+          "tran_cn": " 可证明的；可以查清的"
+        },
+        {
+          "word": "proved",
+          "tran_cn": " 证实的；被证明的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "provably",
+          "tran_cn": " 证明地；可查验地；试验得出地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "provability",
+          "tran_cn": " 可证迷"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "proved",
+          "tran_cn": " 证明；检验；表现出；钻探（prove的过去分词）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "certify",
+            "check",
+            "confirm",
+            "corroborate",
+            "demonstrate",
+            "document",
+            "establish",
+            "experiment",
+            "justify",
+            "show",
+            "substantiate",
+            "test",
+            "testify",
+            "try",
+            "verify"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "certify",
+            "check",
+            "confirm",
+            "demonstrate",
+            "document",
+            "establish",
+            "justify",
+            "show",
+            "substantiate",
+            "verify"
+          ],
+          "tran_cn": "证明;证实;显示"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go to prove",
+      "tran_cn": "足以证明；证实[常用在it之后]"
+    },
+    {
+      "phrase": "not proven",
+      "tran_cn": "(苏格兰律)证据不足"
+    },
+    {
+      "phrase": "prove out",
+      "tran_cn": "成功：结果很好；成功"
+    },
+    {
+      "phrase": "prove to be",
+      "tran_cn": "结果是，证明为"
+    },
+    {
+      "phrase": "prove up",
+      "tran_cn": "v. 勘探；证明符合…的条件；试验"
+    },
+    {
+      "phrase": "prove yourself",
+      "tran_cn": "证明你自己"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "原来是，证实，证明",
+      "tran_en": "to show that something is true by providing facts, information etc"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 证明是， 结果是， 原来是",
+      "tran_en": "to show that something is true by providing facts, information etc"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "证明，证实",
+      "tran_en": "to show that something is true by providing facts, information etc"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "proves"
+    ],
+    "past": [
+      "proved"
+    ],
+    "done": [
+      "proven"
+    ],
+    "ing": [
+      "proving"
+    ]
+  }
+}

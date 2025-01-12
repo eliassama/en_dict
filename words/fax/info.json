@@ -1,0 +1,158 @@
+{
+  "word": "fax",
+  "ipa": {
+    "us": "fæks",
+    "uk": "fæks"
+  },
+  "sentences": [
+    {
+      "en": "A special express service is available by fax.",
+      "cn": "提供传真特快专递服务。"
+    },
+    {
+      "en": "A typical PDA can function as a mobile phone, fax sender, and personal organizer.",
+      "cn": "典型的掌上电脑具有移动电话、传真发送机和个人文件夹的功能。"
+    },
+    {
+      "en": "A week later, the editor at last received a fax from the journalist.",
+      "cn": "一周之后, 编辑终于接到记者的传真."
+    },
+    {
+      "en": "Did you fax him a reply?",
+      "cn": "你发传真回复他了吗？"
+    },
+    {
+      "en": "Did you get my fax?",
+      "cn": "你收到我的传真了吗？"
+    },
+    {
+      "en": "Do you have a fax?",
+      "cn": "你有传真机吗？"
+    },
+    {
+      "en": "Fax machines were a wonderful invention at the time.",
+      "cn": "传真机在当时是一项了不起的发明。"
+    },
+    {
+      "en": "I am calling because we have not received a response to our fax.",
+      "cn": "我打电话,是因为我们还没收到回复的传真."
+    },
+    {
+      "en": "I faxed a copy of the agreement to each of the investors.",
+      "cn": "我给每位投资者都传真了一份协议副本。"
+    },
+    {
+      "en": "I sent him a long fax, saying I didn't need a maid.",
+      "cn": "我给他发了一份很长的传真，说我不需要女仆。"
+    },
+    {
+      "en": "Our fax machine differentiates between an incoming fax signal and a voice call.",
+      "cn": "我们的传真机能区分接收传真信号和语音信号."
+    },
+    {
+      "en": "Please fax us the file.",
+      "cn": "请把这些文件传真给我们."
+    },
+    {
+      "en": "Pop it in the post, or get your secretary to fax it.",
+      "cn": "把它扔进邮筒，要不然就让你的秘书发份传真。"
+    },
+    {
+      "en": "PS Could you send me your fax number again?",
+      "cn": "又及：请再把您的传真号码发给我好吗？"
+    },
+    {
+      "en": "She asked me to fax her the details.",
+      "cn": "她要我把详细情况传真给她。"
+    },
+    {
+      "en": "The machine automatically downloads the required information to his or her fax.",
+      "cn": "机器能自动将需要的信息下载到传真机上。"
+    },
+    {
+      "en": "The number of fax machines operating around the world has now reached ten million.",
+      "cn": "现在全球使用的传真机数量已达到了1,000万台。"
+    },
+    {
+      "en": "These days, cartoonists send in their work by fax.",
+      "cn": "现在卡通画家用传真机发送作品。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "electrical transmission",
+            "telecopying"
+          ],
+          "tran_cn": "[通信]传真"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "facsimile"
+          ],
+          "tran_cn": "[通信]传真"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fax machine",
+      "tran_cn": "传真机"
+    },
+    {
+      "phrase": "fax number",
+      "tran_cn": "传真号码；传真机号"
+    },
+    {
+      "phrase": "fax server",
+      "tran_cn": "传真服务器"
+    },
+    {
+      "phrase": "fax service",
+      "tran_cn": "传真电话业务"
+    },
+    {
+      "phrase": "send a fax",
+      "tran_cn": "发传真"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "传真机，传真件",
+      "tran_en": "a letter or message that is sent in electronic form down a telephone line and then printed using a special machine"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "用传真机发送",
+      "tran_en": "to send someone a letter or message using a fax machine"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "faxes"
+    ],
+    "third": [
+      "faxes"
+    ],
+    "past": [
+      "faxed"
+    ],
+    "done": [
+      "faxed"
+    ],
+    "ing": [
+      "faxing"
+    ]
+  }
+}

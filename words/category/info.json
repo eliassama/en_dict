@@ -1,0 +1,233 @@
+{
+  "word": "category",
+  "ipa": {
+    "us": "ˈkætəɡəri",
+    "uk": "ˈkætəɡɔːri"
+  },
+  "sentences": [
+    {
+      "en": "Class the books in this category.",
+      "cn": "按目录把书分类."
+    },
+    {
+      "en": "Intravenous drug users are in a high - risk category for hepatitis C.",
+      "cn": "静脉注射毒品的人是患丙型肝炎的高危人."
+    },
+    {
+      "en": "Isabel inclined to range herself in the last category.",
+      "cn": "伊莎贝尔则倾向最后一类人."
+    },
+    {
+      "en": "Music shops should arrange their recordings in simple alphabetical order, rather than by category.",
+      "cn": "音像店应当按照简单的字母顺序而不是依类别来摆放唱片。"
+    },
+    {
+      "en": "Over the decade, women in this category went up by 120%.",
+      "cn": "过去10年，这类女性多了120％。"
+    },
+    {
+      "en": "people in the over-45 age category",
+      "cn": "属45岁以上年龄组的人"
+    },
+    {
+      "en": "Seats are available in eight of the ten price categories .",
+      "cn": "座位共有10种票价，现有8种可售。"
+    },
+    {
+      "en": "Students over 25 fall into a different category .",
+      "cn": "25岁以上的学生属另一类。"
+    },
+    {
+      "en": "Such an atmosphere could hardly come under the category of home life.",
+      "cn": "这种气氛很难称为家庭气氛."
+    },
+    {
+      "en": "The judges could not decide which category it belonged in.",
+      "cn": "评委们无法判定它属于哪一类。"
+    },
+    {
+      "en": "There are the people who speak after they think and the people who think while they're speaking. Mike definitely belongs in the latter category.",
+      "cn": "有些人开口之前会三思,而有些人想到什么就说什么.迈克绝对属于后者."
+    },
+    {
+      "en": "These questions may be included in the same category.",
+      "cn": "这些问题可以归入一类."
+    },
+    {
+      "en": "This book clearly falls into the category of fictionalised autobiography.",
+      "cn": "这本书很显然属于自传体小说。"
+    },
+    {
+      "en": "This play comes under the category of critical realism.",
+      "cn": "这个剧本属于批判现实主义."
+    },
+    {
+      "en": "This system puts the top hotels in a special deluxe category.",
+      "cn": "这种分类法把最高级的旅馆列为特殊豪华级."
+    },
+    {
+      "en": "What are the implications of category - specific Undo in a nontext program?",
+      "cn": "分类撤销对于非文本程序来说意味着 什么 ?"
+    },
+    {
+      "en": "Which category does this item fall under?",
+      "cn": "这一项目应归入哪一类?"
+    },
+    {
+      "en": "Williams’ style does not fit easily into the category of jazz.",
+      "cn": "威廉斯的风格不能轻易归入爵士乐的范畴。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "categorial",
+          "tran_cn": " 范畴的；范围的（等于categoreal）"
+        },
+        {
+          "word": "categorical",
+          "tran_cn": " 绝对的（名词categoricalness，副词categorically，异体字categoric）；直接了当的；无条件的；属于某一范畴的"
+        },
+        {
+          "word": "categorized",
+          "tran_cn": " 分类的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "categorization",
+          "tran_cn": " 分类；分门别类；编目方法"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "categorized",
+          "tran_cn": " 分类（categorize的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "categorise",
+          "tran_cn": " 分类；加以类别"
+        },
+        {
+          "word": "categorize",
+          "tran_cn": " 分类"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "class",
+            "classification",
+            "denomination",
+            "department",
+            "division",
+            "genre",
+            "genus",
+            "kind",
+            "province",
+            "section",
+            "sort",
+            "species",
+            "subdivision",
+            "type",
+            "variety"
+          ],
+          "tran_cn": "种类,部门,级别"
+        },
+        {
+          "words": [
+            "arrangement",
+            "assortment",
+            "grade",
+            "grouping",
+            "order"
+          ],
+          "tran_cn": "范畴,分配"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "compartment",
+            "description",
+            "group",
+            "kingdom",
+            "nature"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "category management",
+      "tran_cn": "品类管理；类别管理"
+    },
+    {
+      "phrase": "category theory",
+      "tran_cn": "范畴论"
+    },
+    {
+      "phrase": "first category",
+      "tran_cn": "第一纲"
+    },
+    {
+      "phrase": "job category",
+      "tran_cn": "工作类型；工作性质"
+    },
+    {
+      "phrase": "product category",
+      "tran_cn": "产品类别；产品目录；积范畴"
+    },
+    {
+      "phrase": "semantic category",
+      "tran_cn": "语义范畴；语义类别"
+    },
+    {
+      "phrase": "social category",
+      "tran_cn": "社会类属；社会范畴"
+    },
+    {
+      "phrase": "subject category",
+      "tran_cn": "学科分类；主题范畴"
+    },
+    {
+      "phrase": "taxonomic category",
+      "tran_cn": "同类范畴；分类范畴；分类项目"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "种类，类别",
+      "tran_en": "a group of people or things that are all of the same type"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "categories"
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "word": "registry",
+  "ipa": {
+    "us": "ˈredʒɪstri",
+    "uk": "ˈrɛdʒɪstri"
+  },
+  "sentences": [
+    {
+      "en": "A problem occurred when the wizard attempted to rename a registry key.",
+      "cn": "向导试图重命名注册表项时发生错误."
+    },
+    {
+      "en": "Describes how to specify values for registry keys on a target computer.",
+      "cn": "描述如何为目标计算机上的注册表项指定值."
+    },
+    {
+      "en": "For more information, see Registry Entries for Application - Level Add - Ins.",
+      "cn": "有关更多信息, 请参见应用程序级外接程序的注册表项."
+    },
+    {
+      "en": "I m pulse marriage at the Chelsea registry office.",
+      "cn": "我们冲动地在切尔西婚姻登记所结婚."
+    },
+    {
+      "en": "If you decide to install it, backup your Registry first.",
+      "cn": "如果您决定安装, 备份注册表一次."
+    },
+    {
+      "en": "Modify ( Full Access to All Files, Directories, and Registry )",
+      "cn": "修改 ( 对所有文件, 目录以及注册表的完全访问权限 )"
+    },
+    {
+      "en": "Registry offices and churches have been booked up for months.",
+      "cn": "婚姻登记所和教堂在几个月前就已经被预订满了."
+    },
+    {
+      "en": "Registry will provide 30 days grace period for domain name renewal.",
+      "cn": "域名期满后,提供30天作为域名续约(费)宽限期."
+    },
+    {
+      "en": "Select one of the following backup copies of the registry to restore.",
+      "cn": "选择以下注册表的备份副本以将其还原."
+    },
+    {
+      "en": "The certificate will have to be lodged at the registry.",
+      "cn": "证书必须存放在登记处."
+    },
+    {
+      "en": "The land registry management in this village is very confusing.",
+      "cn": "这个村子的地籍管理得很混乱."
+    },
+    {
+      "en": "The map is kept at the local land registry.",
+      "cn": "地图存放在当地的土地登记处."
+    },
+    {
+      "en": "The public registry in Panama City keeps computerized records of all companies.",
+      "cn": "巴拿马城的公共注册处把所有公司的登记信息都存入了电脑。"
+    },
+    {
+      "en": "The registry holds records of all major operations.",
+      "cn": "登记处有所有重大手术的记录."
+    },
+    {
+      "en": "the registry of the vessel",
+      "cn": "船舶登记"
+    },
+    {
+      "en": "They'd pulled the registry office down which then left an open space.",
+      "cn": "他们拆掉户籍登记处后，那里留下了一片空地。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "registered",
+          "tran_cn": " 注册的；记名的；登记过的；（家畜等）附有血统证明的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "register",
+          "tran_cn": " 登记；注册；记录；寄存器；登记簿"
+        },
+        {
+          "word": "registrant",
+          "tran_cn": " 登记者"
+        },
+        {
+          "word": "registrar",
+          "tran_cn": " 登记员；注册主任；专科住院医师"
+        },
+        {
+          "word": "registration",
+          "tran_cn": " 登记；注册；挂号"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "register",
+          "tran_cn": " 登记；注册；挂号"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "register",
+          "tran_cn": " 登记；注册；记录；挂号邮寄；把…挂号；正式提出"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "logon",
+            "sign-up"
+          ],
+          "tran_cn": "注册；登记处；挂号处；船舶的国籍"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "album",
+            "archives"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "companies registry",
+      "tran_cn": "公司注册处；公司登记"
+    },
+    {
+      "phrase": "land registry",
+      "tran_cn": "地政局"
+    },
+    {
+      "phrase": "registry key",
+      "tran_cn": "登录机码；注册码；注册键"
+    },
+    {
+      "phrase": "registry office",
+      "tran_cn": "登记处（等于register office）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "记录，登记，登记处，挂号处，记录簿，船舶的国籍",
+      "tran_en": "a place where information used by an organization is kept, especially official records or lists"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "registries"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "word": "transistor",
+  "ipa": {
+    "us": "trænˈzɪstə(r)",
+    "uk": "trænˈzɪstər"
+  },
+  "sentences": [
+    {
+      "en": "A transistor memory cell can be made with any number of terminals.",
+      "cn": "晶体管存贮单元端点的数量是不受限制的."
+    },
+    {
+      "en": "A tube or a transistor can amplify an incoming signal.",
+      "cn": "电子管和晶体管能放大输入的信号."
+    },
+    {
+      "en": "Every transistor has at least three electrodes.",
+      "cn": "每个晶体管至少有三个电极."
+    },
+    {
+      "en": "Have you a transistor radio in your home?",
+      "cn": "你家有晶体管收音机 吗 ?"
+    },
+    {
+      "en": "He devised a new type of transistor.",
+      "cn": "他发明了一种新的晶体管。"
+    },
+    {
+      "en": "He works in the transistor factory near our school.",
+      "cn": "他在我们学校附近的晶体管收音机厂工作."
+    },
+    {
+      "en": "Hundreds of people huddled around a single transistor radio listening to the announcement.",
+      "cn": "数百人挤在一台晶体管收音机周围收听公告。"
+    },
+    {
+      "en": "I have traded my old radio in for a transistor.",
+      "cn": "我把那台旧收音机折价换了一台半导体收音机."
+    },
+    {
+      "en": "She took her transistor everywhere with her.",
+      "cn": "她去哪里都带着晶体管收音机."
+    },
+    {
+      "en": "The concepts described above are embodied in the junction transistor.",
+      "cn": "上述各种概念都反映在结型晶体管中."
+    },
+    {
+      "en": "The modern successor to the transistor is the integrated circuit.",
+      "cn": "晶体管的现代后继者是集成电路."
+    },
+    {
+      "en": "The old man always carries about a transistor.",
+      "cn": "这位老人总是随身携带一台晶体管收音机。"
+    },
+    {
+      "en": "The positive - going signal subtracts from the forward bias of the lower transistor.",
+      "cn": "正向信号则使它的正向偏压减弱."
+    },
+    {
+      "en": "The transistor became the basis of a new invention called the \"computer\" which I suspect those of you reading this may be familiar with.",
+      "cn": "晶体管后来成为了一项叫做“计算机”的新发明的基础，我想正在阅读本文的你对于这个应该比较熟悉吧。"
+    },
+    {
+      "en": "This is done in the analog realm by wiring a transistor in a certain way.",
+      "cn": "在模拟世界里，这是通过以某种方式连接的晶体管来做到的。"
+    },
+    {
+      "en": "This make of transistor radio is small and beautifully designed.",
+      "cn": "这半导体收音机小巧玲珑."
+    },
+    {
+      "en": "This transistor radio has four small cells.",
+      "cn": "这台半导体收音机用4节小电池."
+    },
+    {
+      "en": "We are using this transistor to amplify a telephone signal.",
+      "cn": "我们正在使用这种晶体管来放大电话信号."
+    },
+    {
+      "en": "When you got a transistor radio, you could walk around with it, and today you can put your whole record collection in your pocket.",
+      "cn": "而当你使用晶体管收音机时，你可以带着它到处走动，时至今日你可以把你收集的唱片装进口袋里。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "transistorized",
+          "tran_cn": " 晶体管化的；装有晶体管的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "transistorized",
+          "tran_cn": " 装上晶体管（transistorize的过去式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "transistorize",
+          "tran_cn": " 装上晶体管"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "tansistor"
+          ],
+          "tran_cn": "[电子]晶体管（收音机）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bipolar transistor",
+      "tran_cn": "双极型晶体管"
+    },
+    {
+      "phrase": "field effect transistor",
+      "tran_cn": "[计]场效应晶体管"
+    },
+    {
+      "phrase": "field-effect transistor",
+      "tran_cn": "场效晶体管"
+    },
+    {
+      "phrase": "insulated gate bipolar transistor",
+      "tran_cn": "绝缘栅双极型晶体管"
+    },
+    {
+      "phrase": "junction transistor",
+      "tran_cn": "面结型晶体管；结式晶体管"
+    },
+    {
+      "phrase": "power transistor",
+      "tran_cn": "功率晶体管"
+    },
+    {
+      "phrase": "thin film transistor",
+      "tran_cn": "薄膜晶体管"
+    },
+    {
+      "phrase": "transistor amplifier",
+      "tran_cn": "晶体管放大器"
+    },
+    {
+      "phrase": "transistor radio",
+      "tran_cn": "n. 晶体管收音机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "晶体管，晶体管收音机，半导体收音机",
+      "tran_en": "a small piece of electronic equipment in radios, televisions etc that controls the flow of electricity"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "transistors"
+    ]
+  }
+}

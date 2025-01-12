@@ -1,0 +1,179 @@
+{
+  "word": "propeller",
+  "ipa": {
+    "us": "prəˈpelə(r)",
+    "uk": "prəˈpelər"
+  },
+  "sentences": [
+    {
+      "en": "...a fixed three-bladed propeller.",
+      "cn": "…一个固定的三叶螺旋桨。"
+    },
+    {
+      "en": "A piece of string has twisted round the propeller.",
+      "cn": "一根绳子缠在螺旋桨上了."
+    },
+    {
+      "en": "A rope jammed the boat's propeller.",
+      "cn": "一根绳子卡住了船的螺旋桨。"
+    },
+    {
+      "en": "Can you free the propeller from the weeds?",
+      "cn": "你能把螺旋桨上的草除掉 吗 ?"
+    },
+    {
+      "en": "Propeller fans exhaust air through holes in the wall.",
+      "cn": "螺旋式通风机从壁孔中排出空气."
+    },
+    {
+      "en": "the blades of a propeller",
+      "cn": "螺旋桨叶"
+    },
+    {
+      "en": "The engine turned a propeller.",
+      "cn": "发动机使螺旋桨旋转起来。"
+    },
+    {
+      "en": "The freighter fouled its propeller in fishing nets.",
+      "cn": "货船的螺旋桨被渔网缠住了。"
+    },
+    {
+      "en": "The propeller blade has been mounted.",
+      "cn": "推进器的叶片已经安装好了."
+    },
+    {
+      "en": "The propeller can follow the wind velocity closely during hingspeed gusts.",
+      "cn": "螺旋桨在有高速狂风时能紧紧地追随风速."
+    },
+    {
+      "en": "The propeller of the steamboat churned ( up ) the waves.",
+      "cn": "汽船的 推进器 卷起 浪花."
+    },
+    {
+      "en": "The propeller started to spin around.",
+      "cn": "螺旋桨开始飞快地旋转起来."
+    },
+    {
+      "en": "The propeller will windmill and crank the engine.",
+      "cn": "螺旋浆将旋转并转动引擎的曲柄."
+    },
+    {
+      "en": "The timing of the gun was precisely synchronised with the turning of the plane's propeller.",
+      "cn": "风门的调速与飞机螺旋桨的转动精确同步."
+    },
+    {
+      "en": "The timing of the gun was precisely synchronized with the turning of the plane's propeller.",
+      "cn": "风门的调速与飞机螺旋桨的转动精确同步。"
+    },
+    {
+      "en": "With a low-pitched rumbling noise, the propeller began to rotate.",
+      "cn": "伴随着隆隆的低沉噪声，螺旋桨开始旋转起来。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "propellant",
+          "tran_cn": "推进的"
+        },
+        {
+          "word": "propellent",
+          "tran_cn": "推进的；有推动力的"
+        },
+        {
+          "word": "propelling",
+          "tran_cn": "推进的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "propellant",
+          "tran_cn": "推进物；推进燃料；发射火药"
+        },
+        {
+          "word": "propellent",
+          "tran_cn": "推动者；推进物；推进燃料"
+        },
+        {
+          "word": "propelling",
+          "tran_cn": "推进"
+        },
+        {
+          "word": "propellor",
+          "tran_cn": "[航][船] 螺旋桨；推进者；[航][船] 推进器"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "propelling",
+          "tran_cn": "推动（propel的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "propel",
+          "tran_cn": "推进；驱使；激励；驱策"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "airscrew",
+            "airfoil"
+          ],
+          "tran_cn": "[印刷][航][船]螺旋桨；推进器"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "controllable pitch propeller",
+      "tran_cn": "可调螺距螺旋桨；可变螺距螺旋桨；调距螺旋桨；可掂螺旋桨"
+    },
+    {
+      "phrase": "marine propeller",
+      "tran_cn": "船用螺旋桨"
+    },
+    {
+      "phrase": "propeller blade",
+      "tran_cn": "螺旋桨叶片"
+    },
+    {
+      "phrase": "propeller shaft",
+      "tran_cn": "n. 传动轴；螺旋轴"
+    },
+    {
+      "phrase": "screw propeller",
+      "tran_cn": "n. 螺旋桨"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "螺旋桨，推进器，=propellor",
+      "tran_en": "a piece of equipment consisting of two or more blades that spin around, which makes an aircraft or ship move"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "propellers"
+    ]
+  }
+}

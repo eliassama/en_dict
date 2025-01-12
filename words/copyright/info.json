@@ -1,0 +1,188 @@
+{
+  "word": "copyright",
+  "ipa": {
+    "us": "ˈkɒpiraɪt",
+    "uk": "ˈkɑːpiraɪt"
+  },
+  "sentences": [
+    {
+      "en": "Copyright expires 50 years after the death of the author.",
+      "cn": "版权在作者死后50年即行终止."
+    },
+    {
+      "en": "Copyright was a by - product of the Renaissance.",
+      "cn": "版权是文艺复兴的副产物."
+    },
+    {
+      "en": "He retained the copyright of his book.",
+      "cn": "他保留此书的著作权."
+    },
+    {
+      "en": "It is illegal to take copies of a copyright work.",
+      "cn": "复制受版权法保护的作品是违法的."
+    },
+    {
+      "en": "The book is protected by copyright.",
+      "cn": "该书受版权保护."
+    },
+    {
+      "en": "The classic remedy for copyright infringement is equitable relief.",
+      "cn": "传统的侵犯版权的救济是衡平法上的救济."
+    },
+    {
+      "en": "The court granted the plaintiff an injunction restraining the defendant from breaching copyright.",
+      "cn": "法院应原告申请签发禁令,制止被告侵犯版权."
+    },
+    {
+      "en": "The database will be protected by copyright .",
+      "cn": "这个数据库将受到版权保护。"
+    },
+    {
+      "en": "The film exploited his image and infringed his copyright.",
+      "cn": "这部电影使用了他的形象，侵犯了他的肖像权。"
+    },
+    {
+      "en": "The material can be copied without infringing copyright.",
+      "cn": "这份材料可以复制，不会侵犯版权。"
+    },
+    {
+      "en": "The newspaper put a copyright slug over her story.",
+      "cn": "报纸在她的报道上方标上版权所有的星号."
+    },
+    {
+      "en": "The publisher sold the copyright on the novel to a movie producer.",
+      "cn": "出版商将这本小说的版权卖给了电影制造商."
+    },
+    {
+      "en": "The publishing house infringed his copyright.",
+      "cn": "出版社侵犯了他的版权。"
+    },
+    {
+      "en": "The reproduction of copyright material without the permission of the copyright holder is banned by law.",
+      "cn": "未经版权所有人的许可复制受版权法律保护的资料是违法的."
+    },
+    {
+      "en": "This company has a proprietorship of the copyright.",
+      "cn": "这家公司拥有版权所有权。"
+    },
+    {
+      "en": "To order a book one first had to get permission from the monastery that held the copyright.",
+      "cn": "要想订购书，必须先得到持有该书版权的修道院的许可。"
+    },
+    {
+      "en": "Who owns the copyright of this book?",
+      "cn": "谁拥有这本书的版权？"
+    },
+    {
+      "en": "Who owns the copyright on this song?",
+      "cn": "谁拥有这首歌曲的版权？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "copyrighted",
+          "tran_cn": " 有版权的；受版权保护的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "literary property",
+            "intellectual property"
+          ],
+          "tran_cn": "[法]版权，著作权"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "license",
+            "patent"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "copyright act",
+      "tran_cn": "版权法；版权法案"
+    },
+    {
+      "phrase": "copyright infringement",
+      "tran_cn": "版权侵犯"
+    },
+    {
+      "phrase": "copyright law",
+      "tran_cn": "著作权法；版权法"
+    },
+    {
+      "phrase": "copyright notice",
+      "tran_cn": "版权记录；著作权通知"
+    },
+    {
+      "phrase": "copyright owner",
+      "tran_cn": "版权拥有人"
+    },
+    {
+      "phrase": "copyright page",
+      "tran_cn": "版权页"
+    },
+    {
+      "phrase": "copyright reserved",
+      "tran_cn": "[法]著作权所有"
+    },
+    {
+      "phrase": "universal copyright convention",
+      "tran_cn": "国际版权公约"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "受版权保护的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "版权，著作权",
+      "tran_en": "the legal right to be the only producer or seller of a book, play, film, or record for a specific length of time"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "获得…的版权"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "获得…的版权"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "copyrights"
+    ],
+    "third": [
+      "copyrights"
+    ],
+    "past": [
+      "copyrighted"
+    ],
+    "done": [
+      "copyrighted"
+    ],
+    "ing": [
+      "copyrighting"
+    ]
+  }
+}

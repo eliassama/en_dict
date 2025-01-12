@@ -1,0 +1,214 @@
+{
+  "word": "selective",
+  "ipa": {
+    "us": "sɪˈlektɪv",
+    "uk": "sɪˈlektɪv"
+  },
+  "sentences": [
+    {
+      "en": "All descriptions are necessarily selective.",
+      "cn": "一切描述必定都是选择的."
+    },
+    {
+      "en": "Antibiotics produce a selective change in flora.",
+      "cn": "抗菌素引起菌丛的选择性变化."
+    },
+    {
+      "en": "Antibotics are somewhat selective in their antibacterial actions.",
+      "cn": "抗菌素的抗菌谱略有选择性."
+    },
+    {
+      "en": "He has a very selective memory (= he chooses what he wants to remember and what to forget ) .",
+      "cn": "他的记忆选择性很强。"
+    },
+    {
+      "en": "He seemed to have a very selective recall of past events.",
+      "cn": "他好像对过去的事情有选择地回忆."
+    },
+    {
+      "en": "If public figures seek publicity to further their careers, they can't be selective about it.",
+      "cn": "如果公众人物想通过吸引公众的关注来推进事业，他们可能会不加选择。"
+    },
+    {
+      "en": "Memory is selective and fallible.",
+      "cn": "记忆有选择性而且会出错。"
+    },
+    {
+      "en": "Mr Robins, suffering from selective amnesia about his role in the affair, was contradicted in nearly every instance by other witnesses.",
+      "cn": "对于自己在该事件中所扮演的角色，罗宾斯先生患上了选择性失忆症，因此几乎在每次庭审中都会受到其他证人的反驳。"
+    },
+    {
+      "en": "Partial radiation pyrometers are sensitive to narrow selective wavebands.",
+      "cn": "部分辐射高温计在窄的选择波段上是灵敏的."
+    },
+    {
+      "en": "Sales still happen, but buyers are more selective.",
+      "cn": "销量仍在，但购买者更加挑剔。"
+    },
+    {
+      "en": "Selective aversion to certain risks may entail acceptance of other greater risks.",
+      "cn": "有选择地回避某些风险可能招致更大的风险."
+    },
+    {
+      "en": "selective schools",
+      "cn": "择优录取学生的学校"
+    },
+    {
+      "en": "She is selective about the clothes she buys.",
+      "cn": "她买衣服很注意挑选."
+    },
+    {
+      "en": "The brain is selective about which nutrients it removes from the blood.",
+      "cn": "脑对于从血液中取走哪些营养物是有选择的."
+    },
+    {
+      "en": "the selective breeding of cattle",
+      "cn": "牛的选择性培育"
+    },
+    {
+      "en": "The superficial layers are often frequency selective to transmission.",
+      "cn": "表层传播一般都有频率选择性."
+    },
+    {
+      "en": "There is potential for selective breeding for better yields.",
+      "cn": "选种培育以提高产量会大有可为。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "select",
+          "tran_cn": " 精选的；挑选出来的；极好的"
+        },
+        {
+          "word": "selected",
+          "tran_cn": " 挑选出来的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "selectively",
+          "tran_cn": " 有选择地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "select",
+          "tran_cn": " 被挑选者；精萃"
+        },
+        {
+          "word": "selection",
+          "tran_cn": " 选择，挑选；选集；精选品"
+        },
+        {
+          "word": "selectivity",
+          "tran_cn": " 选择性；分离性；选择度"
+        },
+        {
+          "word": "selector",
+          "tran_cn": " 选择器；挑选者"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "select",
+          "tran_cn": " 挑选"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "select",
+          "tran_cn": " 挑选；选拔"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "alternative"
+          ],
+          "tran_cn": "选择性的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "elective",
+            "exclusive"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "selective absorption",
+      "tran_cn": "选择吸收"
+    },
+    {
+      "phrase": "selective analysis",
+      "tran_cn": "重点分析"
+    },
+    {
+      "phrase": "selective attention",
+      "tran_cn": "选择性注意"
+    },
+    {
+      "phrase": "selective breeding",
+      "tran_cn": "选择育种；选择性繁殖"
+    },
+    {
+      "phrase": "selective dissemination of information",
+      "tran_cn": "信息的选择性传播；资讯的选择性传播"
+    },
+    {
+      "phrase": "selective hydrogenation",
+      "tran_cn": "选择性加氢"
+    },
+    {
+      "phrase": "selective medium",
+      "tran_cn": "选择性培养基"
+    },
+    {
+      "phrase": "selective pressure",
+      "tran_cn": "择压力，选择压力"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "精心选择的，选择的，不普遍的，淘汰的",
+      "tran_en": "careful about what you choose to do, buy, allow etc"
+    }
+  ],
+  "exchange": {
+    "adv": [
+      "selectively"
+    ],
+    "noun": [
+      "selectivity"
+    ]
+  }
+}

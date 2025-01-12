@@ -1,0 +1,135 @@
+{
+  "word": "logarithm",
+  "ipa": {
+    "us": "ˈlɒgərɪðəm",
+    "uk": "ˈlɔgərɪðəm"
+  },
+  "sentences": [
+    {
+      "en": "A logarithm tells you what power a base number must be raised to in order to produce a given value.",
+      "cn": "对数说明一个底数的几次幂等于一个给定的值。"
+    },
+    {
+      "en": "Based on the discrete logarithm, this paper proposes a group signature schemes.",
+      "cn": "基于离散对数给出了一种组签字方案."
+    },
+    {
+      "en": "Here , another scheme based on elliptic curve discrete logarithm problem ( ECDLP ) was proposed.",
+      "cn": "传统的代理签名方案都是基于 离散对数问题 的."
+    },
+    {
+      "en": "His first designs were for a machine to calculate such things as logarithm tables.",
+      "cn": "他的最初设计是为机器计算诸如对数表之类的事情."
+    },
+    {
+      "en": "In cryptography, we also need to discuss modular logarithm.",
+      "cn": "在密码学中, 我们也需要讨论模对数."
+    },
+    {
+      "en": "It is firstly def ined as minus logarithm PH indicator.",
+      "cn": "首先定义为氢离子浓度负对数."
+    },
+    {
+      "en": "It is repressed as the logarithm of the opacity of the material.",
+      "cn": "在印刷方面,‘学密度’通常简称为‘度’."
+    },
+    {
+      "en": "Now the commonly used seal groove is a logarithm spiral groove.",
+      "cn": "现在的密封槽型比较常用的是对数螺线槽."
+    },
+    {
+      "en": "PH value: Self defines the negative logarithm being hydrogen ion concentration.",
+      "cn": "PH值: 本身定义是氢离子浓度的负对数."
+    },
+    {
+      "en": "Returns the logarithm of a specified number in a specified base.",
+      "cn": "返回指定数字在使用指定底时的对数."
+    },
+    {
+      "en": "The characteristic of the logarithm 6.3214 is 6.",
+      "cn": "对数6.3214的首数是6."
+    },
+    {
+      "en": "The decimal part of a logarithm. In logarithm 2.95424, the mantissa is 0.95424.",
+      "cn": "尾数对数的小数部分.如在对数2. 95424中, 尾数是0.95424."
+    },
+    {
+      "en": "The decimal part of a logarithm. In the logarithm 2.95424, the mantissa is 0.95424.",
+      "cn": "尾数对数的小数部分. 如在对数2.95424中, 尾数是0."
+    },
+    {
+      "en": "The fifth day is the logarithm stage for the mycelium growth.",
+      "cn": "菌丝体生长的第五天为菌丝对数生长阶段."
+    },
+    {
+      "en": "The natural logarithm of this ratio is called the logarithmic decrement.",
+      "cn": "此比率自然对数称为对数的减量."
+    },
+    {
+      "en": "The whole - number part of a logarithm is called the characteristic.",
+      "cn": "对数的整数部分叫做“首数”."
+    },
+    {
+      "en": "This led him to calculate that the information content of any event was proportional to the logarithm of its inverse probability of occurrence.",
+      "cn": "这使他提出了这样的推论：事件的信息容量与事件发生逆概率的对数成正比。"
+    },
+    {
+      "en": "This plots the logarithm to base 10 of the values on the axis.",
+      "cn": "此命令在轴上绘制以 10 为底的值的对数。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "logarithmic",
+          "tran_cn": " 对数的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "logarithmically",
+          "tran_cn": " 用对数"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "log-log"
+          ],
+          "tran_cn": "[数]对数"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "natural logarithm",
+      "tran_cn": "自然对数"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "对数",
+      "tran_en": "a number representing another number in a mathematical system so that complicated calculations can be done as simple addition"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "logarithms"
+    ],
+    "adj": [
+      "logarithmic"
+    ]
+  }
+}

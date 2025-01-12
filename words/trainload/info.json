@@ -1,0 +1,44 @@
+{
+  "word": "trainload",
+  "ipa": {
+    "us": "'treɪnləʊd",
+    "uk": "ˈtrenˌlod"
+  },
+  "sentences": [
+    {
+      "en": "A trainload more may soon be on the way.",
+      "cn": "承载更多运输量的列车即将出现。"
+    },
+    {
+      "en": "Recently, with the improvement of train speed and trainload, traffic safety on railway becomes more and more important. Accordingly, the demand of Non-Destructive Testing (NDT) is growing higher.",
+      "cn": "近年来，随着列车速度的不断提升和列车运载重量的不断增加，铁路的运营安全越来越重要，相应地对无损检测（NDT）的要求也越来越高。"
+    },
+    {
+      "en": "The trainload means the quantity that can be carried by a train",
+      "cn": "装载量是指列车所能装载的数量。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "load",
+            "deep draft"
+          ],
+          "tran_cn": "列车载重；装载量"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "列车载重，列车载客[载货]量"
+    }
+  ],
+  "exchange": {}
+}

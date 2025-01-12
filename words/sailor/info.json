@@ -1,0 +1,213 @@
+{
+  "word": "sailor",
+  "ipa": {
+    "us": "ˈseɪlə(r)",
+    "uk": "ˈseɪlər"
+  },
+  "sentences": [
+    {
+      "en": "a lone sailor crossing the Atlantic",
+      "cn": "独自横渡大西洋的人"
+    },
+    {
+      "en": "A sailor uses the rudder to make the ship go in the correct direction.",
+      "cn": "水手用舵导航."
+    },
+    {
+      "en": "He is a. on becoming a sailor.",
+      "cn": "他一心想当海员."
+    },
+    {
+      "en": "He went about in the disguise of a sailor.",
+      "cn": "他伪装成海员到处流窜."
+    },
+    {
+      "en": "In the after years the sailor did not get home often.",
+      "cn": "在往后的几年里这个水手经常不回家."
+    },
+    {
+      "en": "My sister gave her hand to a good - looking young sailor.",
+      "cn": "我姐姐同意嫁给一位年轻、英俊的水手."
+    },
+    {
+      "en": "She was already a keen and experienced sailor, having crewed in both Merlin and Grayling.",
+      "cn": "在“默林”号和“格雷林”号上工作过以后，她已经是一名头脑敏捷、经验丰富的水手了。"
+    },
+    {
+      "en": "Six British sailors drowned.",
+      "cn": "六名英国海员溺水身亡。"
+    },
+    {
+      "en": "The cruel captain used a scourge on his disobedient sailor.",
+      "cn": "那残忍的船长鞭打不服从命令的水手."
+    },
+    {
+      "en": "The sailor climbed aloft to look for land.",
+      "cn": "那个水手爬上桅顶寻找陆地."
+    },
+    {
+      "en": "The sailor coiled the rope around the anchor.",
+      "cn": "水手把绳子盘缠在锚上."
+    },
+    {
+      "en": "The sailor dipped the ship's flag as a salute.",
+      "cn": "水手将船上的旗降下来再上去以示致敬."
+    },
+    {
+      "en": "The sailor had a heart tattooed on his arm.",
+      "cn": "那水兵在手臂上刺上一颗心."
+    },
+    {
+      "en": "The sailor went through all the motions smartly.",
+      "cn": "这个水手机灵地走了走过场。"
+    },
+    {
+      "en": "The shipwrecked sailor scanned the horizon anxiously every morning.",
+      "cn": "这位遭船难的水手每天早晨焦虑地注视着海天相接之处."
+    },
+    {
+      "en": "We were both experienced sailors.",
+      "cn": "我们两个都是经验丰富的水手。"
+    },
+    {
+      "en": "What shall we do with the drunken sailor?",
+      "cn": "我们怎么处置这个喝醉的水手?"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "sailing",
+          "tran_cn": " 航行的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "sail",
+          "tran_cn": " 帆，篷；航行"
+        },
+        {
+          "word": "sailing",
+          "tran_cn": " 航行，航海；启航；航海术"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "sailing",
+          "tran_cn": " 航行，起航（sail的现在分词形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "sail",
+          "tran_cn": " 航行；启航，开船"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "sail",
+          "tran_cn": " 航行"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bluejacket",
+            "dog",
+            "jack-tar",
+            "marine",
+            "mariner",
+            "mavyman",
+            "salt",
+            "sea",
+            "seafarer",
+            "seaman"
+          ],
+          "tran_cn": "水手,水兵,海军官兵,老练的水手"
+        },
+        {
+          "words": [
+            "boatswain",
+            "bosun",
+            "coxswain",
+            "crewman",
+            "midshipman",
+            "officer",
+            "petty"
+          ],
+          "tran_cn": "海军军官"
+        },
+        {
+          "words": [
+            "captain",
+            "chief",
+            "first",
+            "hand",
+            "helmsman",
+            "man",
+            "master",
+            "mate",
+            "navigator",
+            "old",
+            "pilot",
+            "quartermaster",
+            "shipmaster",
+            "skipper",
+            "steersman"
+          ],
+          "tran_cn": "船长,大副,水手,舵手,领航员"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "passenger",
+            "soldier",
+            "traveler"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "good sailor",
+      "tran_cn": "不晕船的人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "水手，海员，驾船人",
+      "tran_en": "someone who works on a ship"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "sailors"
+    ]
+  }
+}

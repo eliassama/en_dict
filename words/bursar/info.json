@@ -1,0 +1,88 @@
+{
+  "word": "bursar",
+  "ipa": {
+    "us": "ˈbɜ:sə(r)",
+    "uk": "ˈbɜrsə(r)"
+  },
+  "sentences": [
+    {
+      "en": "Did you manage to speak to the bursar about my salary?",
+      "cn": "关于我的薪金问题,你是否已经向会计疏通过?"
+    },
+    {
+      "en": "I work in bursar's office at Columbia.",
+      "cn": "我在哥伦比亚大学的财务处工作."
+    },
+    {
+      "en": "I work in the bursar's office at Columbia.",
+      "cn": "我在哥伦比亚大学财务处上班. ”"
+    },
+    {
+      "en": "Inquiries about grants or scholarships should be to the College Bursar.",
+      "cn": "申请补助金和奖学金者请把信寄给大学会计员."
+    },
+    {
+      "en": "Non - resident students who wish to lunch in should inform the Bursar before ten o'clock.",
+      "cn": "走读生凡拟在校用午餐者希于10时前通知总务管理员,今天你在家吃午饭还是出去吃饭?"
+    },
+    {
+      "en": "Non - resident students who wish to lunch in should inform the Domestic Bursar before nine o'clock.",
+      "cn": "走读生凡拟在校用午餐者希于9时前通知校内总务管理员."
+    },
+    {
+      "en": "We have three children. I work in bursar's office at Columbia.",
+      "cn": "我们有三个孩子. 我在哥伦比亚大学的财务处工作."
+    },
+    {
+      "en": "We have three children. I work in the bursar's office at Columbia.",
+      "cn": "我们有三个孩子, 我在哥伦比亚的会计员办公室工作."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "bursarial",
+          "tran_cn": " 会计员的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bursary",
+          "tran_cn": " 财务办公室；大学奖学金"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "financial executive",
+            "financial director"
+          ],
+          "tran_cn": "财务主管；会计员；领取奖学金的学生"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（大学等的）财务主管，奖学金获得者",
+      "tran_en": "someone at a school or college who deals with the accounts and office work"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bursars"
+    ]
+  }
+}

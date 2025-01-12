@@ -1,0 +1,96 @@
+{
+  "word": "adulate",
+  "ipa": {
+    "us": "'ædʒʊleɪt",
+    "uk": "ˈædʒəˌlet"
+  },
+  "sentences": [
+    {
+      "en": "They are fools who adulate every decision of their leaders.",
+      "cn": "对领导的每个决定一味奉承的人是蠢材."
+    },
+    {
+      "en": "What is there to adulate in her!",
+      "cn": "她有什么值得奉承的!"
+    },
+    {
+      "en": "What is there to adulate in her.",
+      "cn": "她有什么值得吹捧的!"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "adulatory",
+          "tran_cn": " 阿谀的，奉承的；谄媚的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "adulation",
+          "tran_cn": " 奉承；谄媚"
+        },
+        {
+          "word": "adulator",
+          "tran_cn": " 好奉迎者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "flatter"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "flatter",
+            "beslaver"
+          ],
+          "tran_cn": "过分称赞；谄媚；奉承"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "奉承, 谄媚, 奉承",
+      "tran_en": "to flatter or praise obsequiously "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "谄媚，奉承"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "adulates"
+    ],
+    "past": [
+      "adulated"
+    ],
+    "done": [
+      "adulated"
+    ],
+    "ing": [
+      "adulating"
+    ]
+  }
+}

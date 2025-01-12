@@ -1,0 +1,66 @@
+{
+  "word": "periphrastic",
+  "ipa": {
+    "us": "ˌperɪ'fræstɪk",
+    "uk": "ˌpɛrəˈfræstɪk"
+  },
+  "sentences": [
+    {
+      "en": "John is making a periphrastic study in a worn-out poetical fashion.",
+      "cn": "约翰正在对陈腐的诗风做迂回冗长的研究。"
+    },
+    {
+      "en": "Most finite verbal forms diachronically derive from nominalizations and periphrastic constructions with auxiliary verbs.",
+      "cn": "副词,后置词几乎完全都有名词性的,形容词性的或动词性的起源."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "periphrasis",
+          "tran_cn": " 迂回说法；折绕"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "indirect",
+            "derious"
+          ],
+          "tran_cn": "迂回的；冗长的；委婉的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "roundabout"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "委婉的，迂回的，冗长的",
+      "tran_en": "employing or involving periphrasis "
+    }
+  ],
+  "exchange": {
+    "noun": [
+      "periphrasis"
+    ]
+  }
+}

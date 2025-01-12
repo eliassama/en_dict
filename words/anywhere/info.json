@@ -1,0 +1,189 @@
+{
+  "word": "anywhere",
+  "ipa": {
+    "us": "ˈeniweə(r)",
+    "uk": "ˈeniwer"
+  },
+  "sentences": [
+    {
+      "en": "Allen, don't you dare go anywhere else, you hear?",
+      "cn": "艾伦，其他地方哪儿都不准去，听到了吗？"
+    },
+    {
+      "en": "Andrew went rigid when he saw a dog, any dog, anywhere.",
+      "cn": "安德鲁过去只要看见狗，无论在哪里，无论什么狗，都会吓得一动不动。"
+    },
+    {
+      "en": "Did you try to get help from anywhere?",
+      "cn": "你尝试过从哪里寻求帮助吗？"
+    },
+    {
+      "en": "Have you any valuables anywhere else in the house?",
+      "cn": "你房子里其他地方还有贵重物品吗？"
+    },
+    {
+      "en": "He'll meet you anywhere you want.",
+      "cn": "他随你在哪儿见面都行。"
+    },
+    {
+      "en": "His shoes cost anywhere from $200 up.",
+      "cn": "他买的鞋子总在200美元以上。"
+    },
+    {
+      "en": "I don’t want to live in London, but I’d be happy living anywhere else .",
+      "cn": "我不想住在伦敦，但是住在其他什么地方我都很乐意。"
+    },
+    {
+      "en": "I haven't got anywhere to live.",
+      "cn": "我还没找到住的地方。"
+    },
+    {
+      "en": "I was miles and miles from anywhere.",
+      "cn": "我离任何地方都非常远。"
+    },
+    {
+      "en": "I wonder if Tom ever had his teeth fixed anywhere else.",
+      "cn": "我在想汤姆是不是在别的地方整过牙。"
+    },
+    {
+      "en": "I wouldn't dream of letting a surgeon anywhere near my eyes.",
+      "cn": "我决不会让外科大夫靠近我的眼睛的。"
+    },
+    {
+      "en": "Is there anywhere tolerable to eat in town?",
+      "cn": "城里有什么过得去的地方可以吃饭吗？"
+    },
+    {
+      "en": "Rachel would have known Julia Stone anywhere.",
+      "cn": "甭管到哪儿，雷切尔都会认出朱莉娅·斯通。"
+    },
+    {
+      "en": "She made a mental note not to sit anywhere near him.",
+      "cn": "她心里牢牢记着不坐在他的附近。"
+    },
+    {
+      "en": "Sit anywhere you like.",
+      "cn": "你随便坐吧。"
+    },
+    {
+      "en": "The only one who's anywhere close to the truth is my mother.",
+      "cn": "唯一算得上了解真相的人是我的母亲。"
+    },
+    {
+      "en": "There weren't anywhere near enough empty boxes.",
+      "cn": "空箱子数量远远不够。"
+    },
+    {
+      "en": "You can buy clothes like these anywhere.",
+      "cn": "这样的衣服到处都可以买到。"
+    },
+    {
+      "en": "You can go anywhere and still the compass points north or south.",
+      "cn": "无论走到哪里，罗盘仍然指向北或南。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "any",
+          "tran_cn": " 任何的；所有的；丝毫"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "any",
+          "tran_cn": " 稍微；少许"
+        },
+        {
+          "word": "anyway",
+          "tran_cn": " 无论如何，不管怎样；总之"
+        }
+      ]
+    },
+    {
+      "pos": "pron",
+      "words": [
+        {
+          "word": "any",
+          "tran_cn": " 任何；任何一个；若干"
+        },
+        {
+          "word": "anything",
+          "tran_cn": " 任何事"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "words": [
+            "whithersoever"
+          ],
+          "tran_cn": "在任何地方；无论何处"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "nowhere"
+          ],
+          "tran_cn": "任何地方"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "anywhere is",
+      "tran_cn": "无处不在；任何地方都是如此"
+    },
+    {
+      "phrase": "anywhere near",
+      "tran_cn": "全然，压根儿（用于强调）"
+    },
+    {
+      "phrase": "anywhere you go",
+      "tran_cn": "到处"
+    },
+    {
+      "phrase": "get anywhere",
+      "tran_cn": "有点成就"
+    },
+    {
+      "phrase": "if anywhere",
+      "tran_cn": "如果有什么地方的话，如果在哪儿能…的话"
+    },
+    {
+      "phrase": "or anywhere",
+      "tran_cn": "或是什么别的地方，或其他某地"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adv",
+      "tran_cn": "任何地方，（用于强调）根本，一点儿，（用于疑问句和条件从句）哪里，（用于否定句）哪儿，到处",
+      "tran_en": "You use anywhere in statements with negative meaning to indicate that a place does not exist"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "任何地方"
+    },
+    {
+      "pos": "pron",
+      "tran_cn": "任何(一个)地方",
+      "tran_en": "any place"
+    }
+  ],
+  "exchange": {}
+}

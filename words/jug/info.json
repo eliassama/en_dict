@@ -1,0 +1,150 @@
+{
+  "word": "jug",
+  "ipa": {
+    "us": "dʒʌg",
+    "uk": "dʒʌɡ"
+  },
+  "sentences": [
+    {
+      "en": "a five-gallon jug of beer",
+      "cn": "五加仑装的啤酒罐"
+    },
+    {
+      "en": "a milk jug",
+      "cn": "牛奶罐"
+    },
+    {
+      "en": "All he wanted was a jug of beer.",
+      "cn": "他所要的只是一罐啤酒."
+    },
+    {
+      "en": "Give me a jug, please.",
+      "cn": "请给我一把壶."
+    },
+    {
+      "en": "Give this jug a wipe.",
+      "cn": "把这罐子擦一擦."
+    },
+    {
+      "en": "He poured the coffee out of the saucepan into the jug.",
+      "cn": "他把咖啡从深平底锅倒入壶中."
+    },
+    {
+      "en": "I managed to grab hold of the jug before it fell.",
+      "cn": "我设法抓住了那个罐子才未跌落."
+    },
+    {
+      "en": "I was holding a jug while Annie pumped.",
+      "cn": "我提着一把水壶,安妮在抽水."
+    },
+    {
+      "en": "I was holding a jug.",
+      "cn": "我提着一把水壶."
+    },
+    {
+      "en": "It is something between a jug and a vase.",
+      "cn": "这东西既象瓦罐又象花瓶."
+    },
+    {
+      "en": "Jim sucked and sucked at the jug.",
+      "cn": "吉姆对着酒瓶子呷了又呷."
+    },
+    {
+      "en": "Pour the milk into a jug.",
+      "cn": "把牛奶灌进壶里."
+    },
+    {
+      "en": "She filled the jug with fresh water.",
+      "cn": "她将水壶注满了清水."
+    },
+    {
+      "en": "The hoodlum is still in jug.",
+      "cn": "那个恶棍仍在坐牢."
+    },
+    {
+      "en": "The jug slipped to the ground.",
+      "cn": "水壶滑掉到了地上."
+    },
+    {
+      "en": "Though he sampled the jug you could see he couldn't taste it.",
+      "cn": "尽管他勉强尝了尝瓶里的酒,你可以看出,他尝不出是什么滋味."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "bowl",
+            "crock",
+            "pot",
+            "urn",
+            "vase"
+          ],
+          "tran_cn": "壶,罐,盂"
+        },
+        {
+          "words": [
+            "bottle",
+            "carafe",
+            "container",
+            "decanter",
+            "flask",
+            "jar",
+            "pitcher",
+            "receptacle",
+            "vase",
+            "vessel"
+          ],
+          "tran_cn": "容器,贮藏器,瓶子"
+        },
+        {
+          "words": [
+            "jail"
+          ],
+          "tran_cn": "监狱"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "prison",
+            "imprison"
+          ],
+          "tran_cn": "关押；放入壶中"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "milk jug",
+      "tran_cn": "牛奶壶"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "n.大罐，壶，一大罐（壶）的容量",
+      "tran_en": "a deep round container with a very narrow opening at the top and a handle, used for holding liquids"
+    },
+    {
+      "pos": "v",
+      "tran_cn": " 用陶罐等炖 in an earthenware vessel)； 关押(to jail; imprison)"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "关押"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "jugs"
+    ]
+  }
+}

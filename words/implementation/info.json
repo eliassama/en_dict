@@ -1,0 +1,177 @@
+{
+  "word": "implementation",
+  "ipa": {
+    "us": "ˌɪmplɪmen'teɪʃn",
+    "uk": "ˌɪmplɪmənˈteʃən"
+  },
+  "sentences": [
+    {
+      "en": "A programmed or designed hardware implementation of priority interrupt functions.",
+      "cn": "一种程控的或设计的硬件优先级中断功能的实现."
+    },
+    {
+      "en": "EPA's approach to settlement changed radically during the early implementation of Superfund.",
+      "cn": "在实施\"特级储备\"的初级阶段,环境保护署对和解的态度发生了根本的改变."
+    },
+    {
+      "en": "For this reason, many programmers present hierarchies ( the implementation model ) in user interfaces.",
+      "cn": "基于这个原因, 很多程序员喜欢在界面中展现层次关系 ( 实现模型 )."
+    },
+    {
+      "en": "I have given you the idea; its technical implementation is up to you.",
+      "cn": "我已经给你们出了主意, 至于技术上的事儿该看你们的了."
+    },
+    {
+      "en": "If I now scroll down to the actual implementation, now does this work or not work?",
+      "cn": "如果现在我向下滚动到实际的执行中，这个是可用的还是不可用的呢？"
+    },
+    {
+      "en": "Implementation of the program is now well underway.",
+      "cn": "这一项目的实施现在行情看好."
+    },
+    {
+      "en": "Interaction designers must shield users from implementation models.",
+      "cn": "交互设计者必须要将实现模型隐藏起来,不能让用户看到."
+    },
+    {
+      "en": "It allows us to separate the specification of the object (how you interact with it) from the implementation.",
+      "cn": "它允许我们从实现中剥离对象的规范（如何与它交互）。"
+    },
+    {
+      "en": "Mathematical thinking is an implementation model trap that is particularly easy for programmers to fall into.",
+      "cn": "数学式的思维方式是实现模型的陷阱,尤其是程序员特别容易掉进去."
+    },
+    {
+      "en": "Notation for PL changes from one implementation to the next.",
+      "cn": "PL的表示方法将随实现方法的不同而有所改变."
+    },
+    {
+      "en": "One file describes the interface to your service, while the other file describes your implementation of it.",
+      "cn": "一个文件描述到您的服务的接口，而另一个文件描述这个接口的实现。"
+    },
+    {
+      "en": "Similarly, programmers apply self - referential design when they create implementation - model products.",
+      "cn": "同样, 当程序员创建基于实现模型的产品时,应用的是自参考设计."
+    },
+    {
+      "en": "The advantage of this implementation is speed.",
+      "cn": "这种计数器的优点是速度快."
+    },
+    {
+      "en": "The details of the implementation depend on how we represent time.",
+      "cn": "这些实现的细节依赖于我们如何去表示时间。"
+    },
+    {
+      "en": "The implementation of digital equipments would have been otherwise impractical due to size and cost.",
+      "cn": "受体积和成本的限制,制造这些数字设备是不现实的."
+    },
+    {
+      "en": "There are several different implementation of this method.",
+      "cn": "对该方法还有一些补充."
+    },
+    {
+      "en": "These considerations are valid for any implementation or organization.",
+      "cn": "这些考虑对任何一种方法或结构都是有效的."
+    },
+    {
+      "en": "They do, however, greatly affect the implementation of those patterns.",
+      "cn": "然而，它们的确对那些模式的 实现影响很大。"
+    },
+    {
+      "en": "They do, however, greatly affect the implementation of those patterns. ",
+      "cn": "然而，它们的确对那些模式的 实现影响很大。"
+    },
+    {
+      "en": "They may vary from implementation to implementation.",
+      "cn": "在不同的工序中它们是各不相同的."
+    },
+    {
+      "en": "User interfaces should be based on user mental models rather than implementation models.",
+      "cn": "用户界面应该基于用户的心理模型,而不能基于实现模型."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "implement",
+          "tran_cn": " 工具，器具；手段"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "implement",
+          "tran_cn": " 实施，执行；实现，使生效"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "realization",
+            "completion",
+            "fulfillment"
+          ],
+          "tran_cn": "[计]实现；履行；安装启用"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "execution",
+            "fulfilment"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "implementation procedure",
+      "tran_cn": "执行程序；实施程序"
+    },
+    {
+      "phrase": "measures for the implementation",
+      "tran_cn": "实施办法"
+    },
+    {
+      "phrase": "project implementation",
+      "tran_cn": "项目执行；项目实现"
+    },
+    {
+      "phrase": "strategy implementation",
+      "tran_cn": "策略实施；战略执行"
+    },
+    {
+      "phrase": "system implementation",
+      "tran_cn": "系统实现"
+    },
+    {
+      "phrase": "trial implementation",
+      "tran_cn": "试行"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "（新政策的）实施"
+    }
+  ],
+  "exchange": {
+    "verb": [
+      "implement"
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "word": "initiate",
+  "ipa": {
+    "us": "ɪˈnɪʃieɪt , ɪˈnɪʃiət",
+    "uk": "ɪˈnɪʃieɪt , ɪˈnɪʃiət"
+  },
+  "sentences": [
+    {
+      "en": "A language teacher should initiate pupils into the elements of grammar.",
+      "cn": "语言老师应该把基本语法教给学生."
+    },
+    {
+      "en": "Chen was an initiate of a Chinese spiritual discipline.",
+      "cn": "陈是某个中国神学领域的新入门者。"
+    },
+    {
+      "en": "Cracks may initiate in compression, and certainly in tension.",
+      "cn": "裂缝可能在压缩载荷下形成, 当然也可能在拉伸载荷下形成."
+    },
+    {
+      "en": "Intellectuals have initiated a debate on terrorism.",
+      "cn": "知识分子就恐怖主义发起了辩论。"
+    },
+    {
+      "en": "Neither side would rationally initiate an attack which only result in its own destruction.",
+      "cn": "任何一方只要稍有理性,都不会发动一次结果只能使本身遭到毁灭的袭击."
+    },
+    {
+      "en": "Respiratory infections may also initiate excerbations.",
+      "cn": "呼吸道感染也可能使病情加重."
+    },
+    {
+      "en": "Small changes in the gene pool of a population may actually initiate a flush.",
+      "cn": "在种群的基因库中,微小的改变均可实际地诱发一次种群暴长."
+    },
+    {
+      "en": "Some shooting chains initiate other branching chains.",
+      "cn": "有些枪击链是初始的其它的是分支."
+    },
+    {
+      "en": "Spontaneous photons initiate stimulated emission and the chain reaction begins.",
+      "cn": "自发发射的光子引起受激发射,开始了链式反应."
+    },
+    {
+      "en": "The creditors decided ot initiate a bankruptcy proceeding.",
+      "cn": "债权人决定提起破产之诉."
+    },
+    {
+      "en": "The ensuing drop body temperature will naturally initiate drowsiness and sleep.",
+      "cn": "随之而来的是体内温度下降,自然会导致困倦和睡眠."
+    },
+    {
+      "en": "The surface has been heated sufficiently to initiate vertical motion.",
+      "cn": "地表加热到足以引起垂直运动."
+    },
+    {
+      "en": "They have decided to initiate legal proceedings against the newspaper.",
+      "cn": "他们决定向该报提起法律诉讼。"
+    },
+    {
+      "en": "They need to be open to new ideas and willing to initiate within their organization.",
+      "cn": "他们需要对新思想敞开大门,并愿意将其引进他们组织."
+    },
+    {
+      "en": "They wanted to initiate a discussion on economics.",
+      "cn": "他们想启动一次经济学讨论。"
+    },
+    {
+      "en": "Those kids were initiated into heroin use at a young age.",
+      "cn": "那些孩子很小就被教会如何吸食海洛因。"
+    },
+    {
+      "en": "to initiate legal proceedings against sb",
+      "cn": "对某人提起诉讼"
+    },
+    {
+      "en": "Transmission where the transmission medium does not recognize control characters or initiate any control activity.",
+      "cn": "传输媒介不需要了解控制字符或启动任何控制动作的一种传输方法."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "initiation",
+          "tran_cn": " 启蒙，传授；开始；入会"
+        },
+        {
+          "word": "initiator",
+          "tran_cn": " 发起人，创始者；教导者；[计] 启动程序；引爆器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "beginning",
+            "threshold",
+            "opening",
+            "conception",
+            "fresh"
+          ],
+          "tran_cn": "开始；新加入者，接受初步知识者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "admit",
+            "begin",
+            "break",
+            "educate",
+            "head",
+            "ice",
+            "in",
+            "install",
+            "institute",
+            "instruct",
+            "introduce",
+            "launch",
+            "lead",
+            "let",
+            "originate",
+            "pioneer",
+            "receive",
+            "start",
+            "take",
+            "the"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "institute",
+            "start in"
+          ],
+          "tran_cn": "开始，创始；发起；使初步了解"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "新加入的；接受初步知识的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "新加入某组织（或机构、宗教）的人，新入会的人，被传授初步知识的人",
+      "tran_en": "someone who has been allowed to join a particular organization, club, or group and has been taught its secrets"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "开始，创始；发起；使初步了解",
+      "tran_en": "to arrange for something important to start, such as an official process or a new plan"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "开始，发起，传授，创始，开辟，接纳新成员",
+      "tran_en": "to arrange for something important to start, such as an official process or a new plan"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "initiates"
+    ],
+    "past": [
+      "initiated"
+    ],
+    "done": [
+      "initiated"
+    ],
+    "ing": [
+      "initiating"
+    ]
+  }
+}

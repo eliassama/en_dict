@@ -1,0 +1,170 @@
+{
+  "word": "refrigerate",
+  "ipa": {
+    "us": "rɪˈfrɪdʒəreɪt",
+    "uk": "rɪˈfrɪdʒəˌret"
+  },
+  "sentences": [
+    {
+      "en": "Bring ingredients to a boil in a large saucepan. Let cool . Refrigerate.",
+      "cn": "在汁锅中放入以上配料,加热至煮沸. 冷却,入冰箱冷藏."
+    },
+    {
+      "en": "Cover and refrigerate overnight or at least for several hours.",
+      "cn": "用东西盖住碗,然后把它放在冰箱里整晚或至少几个小时."
+    },
+    {
+      "en": "Cover with plastic film and refrigerate for 24 hours.",
+      "cn": "覆上保鲜膜，冷藏24小时。"
+    },
+    {
+      "en": "Place on a cookie tray and refrigerate until firm.",
+      "cn": "最后把所有的巧克力糖一层层垒到蜡纸上,密封放进冰箱里."
+    },
+    {
+      "en": "Please refrigerate for a few hours before serving.",
+      "cn": "请将成品放到冰箱冷藏几个小时再食用."
+    },
+    {
+      "en": "Refrigerate after opening . Use within 2 - 3 days after opening.",
+      "cn": "开瓶后冰箱冷藏,并于2-3天内吃完."
+    },
+    {
+      "en": "Refrigerate any leftovers.",
+      "cn": "把剩菜放进冰箱里。"
+    },
+    {
+      "en": "Refrigerate beef fillings for about 20 min.",
+      "cn": "拌好的牛肉馅料置入冰箱冷藏约20分钟."
+    },
+    {
+      "en": "Refrigerate the dough overnight.",
+      "cn": "将面团冷藏过夜。"
+    },
+    {
+      "en": "Refrigerate the mixture overnight.",
+      "cn": "把混合物冷藏过夜。"
+    },
+    {
+      "en": "Storage a cool , dry, dark place. Do not refrigerate.",
+      "cn": "储藏:阴凉干燥处, 不能冷藏."
+    },
+    {
+      "en": "The freezing machine cannot refrigerate any more. it needs to be repaired.",
+      "cn": "这台冷冻机已经不制冷了,需要拿去修理."
+    },
+    {
+      "en": "They are trying to repair a breakdown in the refrigerate system.",
+      "cn": "他们正在全力抢修发生故障的冷却系统."
+    },
+    {
+      "en": "We jelly the pudding by putting it into refrigerate.",
+      "cn": "我们放布丁在冰箱里使其结冻."
+    },
+    {
+      "en": "Wrap plastic wrap and refrigerate for at least 2 hours.",
+      "cn": "用保鲜膜包好,放冰箱至少冷藏2小时."
+    },
+    {
+      "en": "You had better refrigerate the beer before drinking it.",
+      "cn": "喝啤酒前你最好先把它冷冻一下."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "refrigerant",
+          "tran_cn": " 制冷的；冷却的"
+        },
+        {
+          "word": "refrigerated",
+          "tran_cn": " 冷冻的，冷却的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "refrigerant",
+          "tran_cn": " 制冷剂"
+        },
+        {
+          "word": "refrigeration",
+          "tran_cn": " 制冷；冷藏；[热] 冷却"
+        },
+        {
+          "word": "refrigerator",
+          "tran_cn": " 冰箱，冷藏库"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "refrigerated",
+          "tran_cn": " 冷藏（refrigerate的过去分词）；使冷却"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "chill",
+            "cool",
+            "freeze"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "chill"
+          ],
+          "tran_cn": "冷藏，冷冻；使冷却；使清凉"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 使冷却， 冷藏",
+      "tran_en": "to make something such as food or liquid cold in a refrigerator in order to preserve it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "冷藏，冷冻",
+      "tran_en": "to make something such as food or liquid cold in a refrigerator in order to preserve it"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "refrigerates"
+    ],
+    "past": [
+      "refrigerated"
+    ],
+    "done": [
+      "refrigerated"
+    ],
+    "ing": [
+      "refrigerating"
+    ],
+    "noun": [
+      "refrigeration"
+    ]
+  }
+}

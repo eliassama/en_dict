@@ -1,0 +1,161 @@
+{
+  "word": "thermometer",
+  "ipa": {
+    "us": "θəˈmɒmɪtə(r)",
+    "uk": "θərˈmɑːmɪtər"
+  },
+  "sentences": [
+    {
+      "en": "A thermometer gauges the temperature.",
+      "cn": "温度计可测量温度."
+    },
+    {
+      "en": "Do you know who broke the thermometer?",
+      "cn": "你知道那温度计是哪个打破的 吗 ?"
+    },
+    {
+      "en": "Either measure the temperature with a bath thermometer or test the water with your wrist.",
+      "cn": "要么用浴用温度计测量水温，要么用手腕试一下。"
+    },
+    {
+      "en": "It is essential that you are able to read a thermometer.",
+      "cn": "最基本的是要能看懂温度计。"
+    },
+    {
+      "en": "She put the thermometer in his mouth.",
+      "cn": "她把体温表放入他口中."
+    },
+    {
+      "en": "the gradations on a thermometer",
+      "cn": "温度计上的刻度"
+    },
+    {
+      "en": "The mercury in thermometer mounted up [ rose ] to 35℃.",
+      "cn": "温度计的 水银柱 升到摄氏35度."
+    },
+    {
+      "en": "The nurse shook the thermometer and put it under my armpit.",
+      "cn": "护士把体温计甩了甩，然后放到了我的腋下。"
+    },
+    {
+      "en": "The thermometer fell to zero last night.",
+      "cn": "寒暑表昨夜降至零度."
+    },
+    {
+      "en": "The thermometer nudged three figures yesterday in Rome.",
+      "cn": "罗马昨天气温接近（华氏）三位数。"
+    },
+    {
+      "en": "The thermometer reached the minimum for the year.",
+      "cn": "寒暑表已降到当年的最低记录."
+    },
+    {
+      "en": "The thermometer read 105 degrees Fahrenheit.",
+      "cn": "温度计显示华氏105度。"
+    },
+    {
+      "en": "The thermometer registered over 100˚C.",
+      "cn": "温度计显示高于100摄氏度。"
+    },
+    {
+      "en": "The thermometer registers 50 degrees.",
+      "cn": "温度计上是五十度."
+    },
+    {
+      "en": "The thermometer shows the temperature in Celsius and Fahrenheit.",
+      "cn": "这支温度计标有摄氏和华氏两种温度。"
+    },
+    {
+      "en": "This thermometer is inaccurate.",
+      "cn": "这个温度计不准确."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "thermometric",
+          "tran_cn": " 寒暑表的；温度计的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "thermogram",
+          "tran_cn": " 温度自记曲线"
+        },
+        {
+          "word": "thermograph",
+          "tran_cn": " 温度记录器；[仪] 热录像仪"
+        },
+        {
+          "word": "thermography",
+          "tran_cn": " [仪] 温度记录；[印刷] 热熔印刷"
+        },
+        {
+          "word": "thermometry",
+          "tran_cn": " 温度测量；温度测定法；[物] 计温学"
+        },
+        {
+          "word": "thermoreceptor",
+          "tran_cn": " [解剖] 温度感受器；热感受器"
+        },
+        {
+          "word": "thermoregulator",
+          "tran_cn": " [自] 温度调节器；[仪] 调温器"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "temperature gauge",
+            "temperature meter"
+          ],
+          "tran_cn": "[仪]温度计；[医]体温计"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bimetallic thermometer",
+      "tran_cn": "双金属温度计"
+    },
+    {
+      "phrase": "clinical thermometer",
+      "tran_cn": "体温计，体温表"
+    },
+    {
+      "phrase": "digital thermometer",
+      "tran_cn": "数字（式）温度计"
+    },
+    {
+      "phrase": "infrared thermometer",
+      "tran_cn": "红外测温仪；红外线温度计"
+    },
+    {
+      "phrase": "resistance thermometer",
+      "tran_cn": "电阻温度计"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "温度计，体温表",
+      "tran_en": "a piece of equipment that measures the temperature of the air, of your body etc"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "thermometers"
+    ]
+  }
+}

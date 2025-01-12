@@ -1,0 +1,102 @@
+{
+  "word": "rambler",
+  "ipa": {
+    "us": "ˈræmblə(r)",
+    "uk": "ˈræmblɚ"
+  },
+  "sentences": [
+    {
+      "en": "Mick Jagger of the Rolling Stones was singing Midnight Rambler.",
+      "cn": "滚石摇滚乐队的迈克?贾格尔正在台上演唱“午夜漫步人”."
+    },
+    {
+      "en": "The north end of the channel is Ting Kau where it joins the Rambler Channel.",
+      "cn": "其北面是汀九,是龙鼓水道与蓝巴勒海峡交接之处."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rambling",
+          "tran_cn": " 漫步的；闲聊的；蔓生的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "ramble",
+          "tran_cn": " 漫步；漫游；随笔"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "rambling",
+          "tran_cn": " 漫步（ramble的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "ramble",
+          "tran_cn": " 漫步；漫游；闲逛；漫谈；蔓延"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "ramble",
+          "tran_cn": " 漫步于…"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "saunterer",
+            "Mobile Mapper"
+          ],
+          "tran_cn": "漫步者，漫谈者；攀缘蔷薇"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "traveler"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "漫步者，漫谈者，攀缘蔷薇，《漫步者》（双周刊）",
+      "tran_en": "someone who goes for walks in the countryside for pleasure"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "ramblers"
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "word": "taint",
+  "ipa": {
+    "us": "teɪnt",
+    "uk": "tent"
+  },
+  "sentences": [
+    {
+      "en": "And these must be addressed if they are not to taint the wider market.",
+      "cn": "这些必须解决,否则可能扩散到更广泛的市场."
+    },
+    {
+      "en": "Bad books will taint the young mind.",
+      "cn": "坏书会毒害年青人的思想."
+    },
+    {
+      "en": "Baker argues that his trial was tainted by negative publicity.",
+      "cn": "贝克抗辩说他的审判受到了负面宣传的影响。"
+    },
+    {
+      "en": "Everything possible should be done to free them from the economic taint.",
+      "cn": "应尽可能把他们从经济的腐蚀中解脱出来."
+    },
+    {
+      "en": "Hitherto Barchester had escaped the taint of any extreme rigour of church doctrine.",
+      "cn": "顶到这时候为止,巴彻斯特一直逃脱了任何极端严厉的教条的污染."
+    },
+    {
+      "en": "Moral taint has spread among young people.",
+      "cn": "道德的败坏在年轻人之间蔓延."
+    },
+    {
+      "en": "No taint of dishonor ever touched him.",
+      "cn": "他从未蒙受不名誉的污点."
+    },
+    {
+      "en": "Rancid oil will taint the flavour.",
+      "cn": "变质的油会破坏味道。"
+    },
+    {
+      "en": "She could smell the taint of sin in the most innocent of passions.",
+      "cn": "哪怕是再纯真的恋情她也能从中嗅出罪恶的味道。"
+    },
+    {
+      "en": "Such is the taint in us.",
+      "cn": "这就是我们的缺点."
+    },
+    {
+      "en": "The taint within it resonates with the corruption in my bones.",
+      "cn": "它其中的污秽之力与我骨髓里的堕落共鸣着."
+    },
+    {
+      "en": "The warm weather will taint the food.",
+      "cn": "炎热的天气会使食品腐烂."
+    },
+    {
+      "en": "Then, slowly, he began to take a terrible joy in his taint.",
+      "cn": "后来, 慢慢地, 他开始对自己身上的污点怀着一种可怕的喜悦."
+    },
+    {
+      "en": "There are two common wine faults with Wine, cork taint and oxidation.",
+      "cn": "葡萄酒有两个常见的故障, 瓶塞污染或发生氧化."
+    },
+    {
+      "en": "There seems to be a taint of drunkenness in his family.",
+      "cn": "他的家族中似乎有酗酒的遗风."
+    },
+    {
+      "en": "What we smell with cork taint is mould , smelly socks cabbage or a wet hessian bag - phew!",
+      "cn": "我们闻到的是污染瓶塞的发霉味道, 卷心菜的味道,或湿麻袋的味道烦人!"
+    },
+    {
+      "en": "When performing taint flow analysis, the scanner models the flow of data within the system.",
+      "cn": "当执行污染流分析时，检测器会在这个系统中为数据流建立模型。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "tainted",
+          "tran_cn": " 污染的；感染的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "infection",
+            "affection"
+          ],
+          "tran_cn": "污点；感染"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addle",
+            "cloud",
+            "deteriorate",
+            "discolor",
+            "dishonor",
+            "mark",
+            "pollute",
+            "shame",
+            "soil",
+            "spoil",
+            "spot",
+            "stain",
+            "tarnish"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "discolor",
+            "mark",
+            "soil",
+            "spoil",
+            "spot",
+            "stain",
+            "tarnish"
+          ],
+          "tran_cn": "污染;玷污"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "污点，污名，<废〉气味，传染，腐败",
+      "tran_en": "the appearance of being related to something bad or morally wrong"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "感染",
+      "tran_en": "to damage something by adding an unwanted substance to it"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "被污染，败坏，腐坏"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使变质，使污染，败坏，玷污"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "taints"
+    ],
+    "third": [
+      "taints"
+    ],
+    "past": [
+      "tainted"
+    ],
+    "done": [
+      "tainted"
+    ],
+    "ing": [
+      "tainting"
+    ],
+    "adj": [
+      "tainted"
+    ]
+  }
+}

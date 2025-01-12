@@ -1,0 +1,218 @@
+{
+  "word": "query",
+  "ipa": {
+    "us": "ˈkwɪəri",
+    "uk": "ˈkwɪri"
+  },
+  "sentences": [
+    {
+      "en": "Both players queried the umpire’s decision.",
+      "cn": "两名球员都质疑裁判员的判罚。"
+    },
+    {
+      "en": "But Hester could not resolve the query , using herself in a dismal labyrinth of doubt.",
+      "cn": "对这一逼问,海丝特可没法作答了, 因为连她自己也尚在阴暗的迷宫中徘徊呢."
+    },
+    {
+      "en": "Experiments on flight data similarity query show the validity of the method.",
+      "cn": "对飞行数据的相似性查询实验验证了该方法的有效性."
+    },
+    {
+      "en": "He put a query against [ by , next to ] the word \" mild . \".",
+      "cn": "他在 [ 温厚 ] 这个字尾加上问号."
+    },
+    {
+      "en": "I cannot split hairs on that burning query.",
+      "cn": "我不能对那个严重的问题说长道短."
+    },
+    {
+      "en": "I query very much whether it is wise to act so hastily.",
+      "cn": "我真怀疑如此操之过急地行动是否明智."
+    },
+    {
+      "en": "Query [ Qu . ], had you known of the fact?",
+      "cn": "请问 你知道这事实 吗 ?"
+    },
+    {
+      "en": "Recursive TimeOuts is the total number of recursive query sending timeouts.",
+      "cn": "递归超时是指递归查询发送超时总数."
+    },
+    {
+      "en": "She went on with her preparations for supper and paid no heed to his query.",
+      "cn": "她继续准备晚饭,没理会他的问题."
+    },
+    {
+      "en": "Staff are always available to answer your queries.",
+      "cn": "员工随时为您解答疑问。"
+    },
+    {
+      "en": "Structure query , name query and CAS number query are provided.",
+      "cn": "有约800个农用化学品的记录."
+    },
+    {
+      "en": "The letter was referred back ( to us ) with a query.",
+      "cn": "该函已退给 ( 我方 ) 要求对某问题加以解释."
+    },
+    {
+      "en": "There is something a trifle pathetic about his final query.",
+      "cn": "最后一问,其情可悯."
+    },
+    {
+      "en": "They raised a query on his sincerity.",
+      "cn": "他们对他是否真诚提出质疑."
+    },
+    {
+      "en": "This framework provided object query manner based on SQL and object - oriented condition.",
+      "cn": "该框架提供了基于SQL和基于对象化条件的对象查询方式."
+    },
+    {
+      "en": "This sudden query startled Wu Sun - fu out of his reverie. He looked round and frowned.",
+      "cn": "这一问太突然了,半沉思中的吴荪甫转过脸来皱了一下眉头."
+    },
+    {
+      "en": "You have forgotten to put a query at the end of the sentence.",
+      "cn": "你忘了在句尾加个问号."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "ask",
+            "demand",
+            "inquire",
+            "interrogate",
+            "question",
+            "quiz"
+          ],
+          "tran_cn": "询问;请求;追求"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ask",
+            "demand",
+            "inquire",
+            "inquiry",
+            "interrogate",
+            "learning",
+            "question",
+            "quiz",
+            "test"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ask",
+            "demand",
+            "inquire",
+            "inquiry",
+            "interrogate",
+            "learning",
+            "question",
+            "quiz",
+            "test"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "question",
+            "inquire about"
+          ],
+          "tran_cn": "[计]询问；表示怀疑"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "question",
+            "inquire about"
+          ],
+          "tran_cn": "[计]询问；对……表示疑问"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "query builder",
+      "tran_cn": "查询生成器"
+    },
+    {
+      "phrase": "query language",
+      "tran_cn": "查询语言"
+    },
+    {
+      "phrase": "query the database",
+      "tran_cn": "查询数据库"
+    },
+    {
+      "phrase": "structured query language",
+      "tran_cn": "结构化查询语言"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "问题，疑问，询问，问号",
+      "tran_en": "a question that you ask to get information, or to check that something is true or correct"
+    },
+    {
+      "pos": "n&v",
+      "tran_cn": "质问,疑问",
+      "tran_en": "a question that you ask to get information, or to check that something is true or correct"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "质疑，疑问，询问",
+      "tran_en": "to express doubt about whether something is true or correct"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "询问，表示怀疑"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "质疑，对…表示疑问"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "queries"
+    ],
+    "third": [
+      "queries"
+    ],
+    "past": [
+      "queried"
+    ],
+    "done": [
+      "queried"
+    ],
+    "ing": [
+      "querying"
+    ]
+  }
+}

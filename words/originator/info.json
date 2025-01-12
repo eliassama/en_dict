@@ -1,0 +1,173 @@
+{
+  "word": "originator",
+  "ipa": {
+    "us": "ə'rɪdʒɪneɪtə(r)",
+    "uk": "əˈrɪdʒəˌnetɚ"
+  },
+  "sentences": [
+    {
+      "en": "...the originator of the theory of relativity.",
+      "cn": "...相对论的提出者。"
+    },
+    {
+      "en": "A generic medicine is an equivalent of an originator pharmaceutical product.",
+      "cn": "另外文中也提到了关于一些药品的专利权问题."
+    },
+    {
+      "en": "An originator of a line of descent ; a precursor.",
+      "cn": "他把一段文字缩成一行."
+    },
+    {
+      "en": "Document and report all observations and results to originator of lab request.",
+      "cn": "反馈并报告所有的观察和试验结果给申请人."
+    },
+    {
+      "en": "Dow theory is the originator of the technical analysis school.",
+      "cn": "道氏理论是技术分析流派的鼻祖."
+    },
+    {
+      "en": "He was noted as the originator of the'short attack \".",
+      "cn": "他以 “ 短促突击战 ” 创始者著称."
+    },
+    {
+      "en": "Li Shizhen was the originator of the Chinese pharmacology.",
+      "cn": "李时珍是我国医药界的鼻祖."
+    },
+    {
+      "en": "Lu Ban was the originator of architecture.",
+      "cn": "鲁班是建筑工匠的祖师."
+    },
+    {
+      "en": "N - succinimidyl - 5 - iodo - 3 - pyridinecarboxylate ( SIPC ) is also synthesized as a stan - ( dard ) reference material.",
+      "cn": "在此基础上,合成了 5- 碘 -3- 吡啶甲酸 -N- 琥珀酰亚胺酯 ( SIPC ) ."
+    },
+    {
+      "en": "Noah is also said to have been the originator of vineyard cultivation.",
+      "cn": "诺亚也被传说为是葡萄园耕种的创始者."
+    },
+    {
+      "en": "The earliest originator was Dr. Giterman who worked at the British Rehabilitation Center for the Disabled.",
+      "cn": "最早的发起人是在英国残疾康复中心工作的吉特曼博士."
+    },
+    {
+      "en": "The home server attribute cannot be determined for the message originator selected.",
+      "cn": "无法确定选择的邮件原始发件人的主服务器属性."
+    },
+    {
+      "en": "The Originator or someone else decided to cancel an a roved change.",
+      "cn": "发起人或其他相关人员决定取消已批准的变更."
+    },
+    {
+      "en": "The source from which something arises; an originator.",
+      "cn": "起因其它事物发生的起源; 起因."
+    },
+    {
+      "en": "Tool sends e - mail to the assigned Modifier and the Originator.",
+      "cn": "变更控制工具 发电子邮件 给已指定的修改人和发起人."
+    },
+    {
+      "en": "Written work orders are returned to the originator for appropriate follow up.",
+      "cn": "工作单需交还发单人做适当记录."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "originative",
+          "tran_cn": " 有创作力的；有发明之才能的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "originally",
+          "tran_cn": " 最初，起初；本来"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "origin",
+          "tran_cn": " 起源；原点；出身；开端"
+        },
+        {
+          "word": "origination",
+          "tran_cn": " 起源；开始；起始"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "originate",
+          "tran_cn": " 发源；发生；起航"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "originate",
+          "tran_cn": " 引起；创作"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "birth",
+            "initiator",
+            "promoter"
+          ],
+          "tran_cn": "发起人；起源；起因"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "ancestor",
+            "architect",
+            "author",
+            "beginner",
+            "designer",
+            "inventor",
+            "original",
+            "parent"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "创作者，发起人，开山祖，起因",
+      "tran_en": "the person who first has the idea for something and starts it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "originators"
+    ],
+    "verb": [
+      "originate"
+    ]
+  }
+}

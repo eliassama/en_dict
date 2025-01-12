@@ -1,0 +1,226 @@
+{
+  "word": "bake",
+  "ipa": {
+    "us": "beɪk",
+    "uk": "beɪk"
+  },
+  "sentences": [
+    {
+      "en": "Bake at 250 degrees for 20 minutes.",
+      "cn": "用250度的温度烤20分钟。"
+    },
+    {
+      "en": "Bake for 15-20 minutes, basting occasionally.",
+      "cn": "烘烤15至20分钟，不时地浇点汁。"
+    },
+    {
+      "en": "Bake in a moderately hot oven.",
+      "cn": "放进烤箱里用中等温度烘烤."
+    },
+    {
+      "en": "Bake in the preheated oven for 25 minutes or until golden brown.",
+      "cn": "在预热过的烤箱里烤25分钟，或烤成金黄色。"
+    },
+    {
+      "en": "Bake some big red peppers and hollow them out.",
+      "cn": "将几个大红甜椒烤一烤，再把它们掏空。"
+    },
+    {
+      "en": "Bake the biscuits for 20-25 minutes, until the tops are lightly browned.",
+      "cn": "把饼干烤20到25分钟，直到表面略呈棕色。"
+    },
+    {
+      "en": "Bake the cake for 35 to 50 minutes.",
+      "cn": "将蛋糕烘35到50分钟。"
+    },
+    {
+      "en": "Bake until the pastry is golden and crisp.",
+      "cn": "把油酥糕点烤至金黄酥脆。"
+    },
+    {
+      "en": "baked potatoes",
+      "cn": "烤马铃薯"
+    },
+    {
+      "en": "Carol, did you bake the cake for Jim's party?",
+      "cn": "卡罗尔, 你为吉姆办的聚会烤饼了 吗 ?"
+    },
+    {
+      "en": "He knows how to bake bricks.",
+      "cn": "他会烧砖."
+    },
+    {
+      "en": "How did you learn to bake cakes?",
+      "cn": "你怎么学会烘蛋糕的？"
+    },
+    {
+      "en": "I love to bake.",
+      "cn": "我喜欢烘烤糕点。"
+    },
+    {
+      "en": "I’m baking some bread.",
+      "cn": "我在烤一些面包。"
+    },
+    {
+      "en": "I've put some sesame crackers in the oven to bake.",
+      "cn": "我已经把几片芝麻脆饼放进烤箱里烤了。"
+    },
+    {
+      "en": "Pour the mixture into the cake tin and bake for 45 minutes.",
+      "cn": "把混合物倒进烤模烤制45分钟。"
+    },
+    {
+      "en": "Spread the mixture in the cake tin and bake for 30 minutes.",
+      "cn": "将混合物抹在蛋糕烤盘里，烘烤30分钟。"
+    },
+    {
+      "en": "The bread will not bake if the fire is too small.",
+      "cn": "如果火太小,面包就烤不成."
+    },
+    {
+      "en": "The bricks were baked in the sun.",
+      "cn": "砖块放在太阳光下晒硬。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "baked",
+          "tran_cn": " 烤的；烘焙的"
+        },
+        {
+          "word": "baking",
+          "tran_cn": " 烘烤的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "baker",
+          "tran_cn": " 面包师；面包工人；（便携式）烘炉"
+        },
+        {
+          "word": "bakery",
+          "tran_cn": " 面包店"
+        },
+        {
+          "word": "baking",
+          "tran_cn": " 烘焙，烘烤；一次烘焙的量"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "baked",
+          "tran_cn": " 烘培；烧制（bake的过去分词）"
+        },
+        {
+          "word": "baking",
+          "tran_cn": " 烤，烘焙；烧硬，烘干（bake的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "spitchcock"
+          ],
+          "tran_cn": "烤；烘烤食品"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "barbecue",
+            "broil",
+            "cook",
+            "grill",
+            "heat",
+            "roast",
+            "toast"
+          ],
+          "tran_cn": "烘,烤"
+        },
+        {
+          "words": [
+            "burn",
+            "char",
+            "scorch",
+            "sear",
+            "singe"
+          ],
+          "tran_cn": "烧焦"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "to roast",
+            "torrefy"
+          ],
+          "tran_cn": "烤，烘焙"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bake a cake",
+      "tran_cn": "烘蛋糕"
+    },
+    {
+      "phrase": "bake blind",
+      "tran_cn": "见 blind"
+    },
+    {
+      "phrase": "bake bread",
+      "tran_cn": "烤面包"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "烤菜"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "烤，烘，焙，受晒",
+      "tran_en": "to cook something using dry heat, in an  oven "
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 烤， 烘， 焙",
+      "tran_en": "to cook something using dry heat, in an  oven "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "bakes"
+    ],
+    "past": [
+      "baked"
+    ],
+    "done": [
+      "baked"
+    ],
+    "ing": [
+      "baking"
+    ]
+  }
+}

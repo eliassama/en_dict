@@ -1,0 +1,171 @@
+{
+  "word": "insured",
+  "ipa": {
+    "us": "ɪnˈʃʊəd",
+    "uk": "ɪnˈʃʊrd"
+  },
+  "sentences": [
+    {
+      "en": "Have you insured your life?",
+      "cn": "你办理了人寿保险 吗 ?"
+    },
+    {
+      "en": "He had insured himself for $ 3000.",
+      "cn": "他为自己投保3000美元的保险."
+    },
+    {
+      "en": "He insured himself against death for ten million yuan.",
+      "cn": "他投了1000万元的人寿保险."
+    },
+    {
+      "en": "He insured himself against failure by treating only people he was sure he could cure.",
+      "cn": "他仅仅治疗有把握治愈的病人，以使自己免于失败。"
+    },
+    {
+      "en": "He insured his house against fire.",
+      "cn": "他给房屋投了火险."
+    },
+    {
+      "en": "I have insured myself against accidents.",
+      "cn": "我已经给我自已保了人寿险以防事故."
+    },
+    {
+      "en": "I insured my life for ￡5000.",
+      "cn": "我投保5000英镑的人寿保险."
+    },
+    {
+      "en": "I was properly insured so I'm sitting pretty.",
+      "cn": "我已经有了一定的保险,因而有备无患了."
+    },
+    {
+      "en": "Now, indeed, the happiness of Troy is insured.",
+      "cn": "现在特洛伊的幸福已经真正得到保证."
+    },
+    {
+      "en": "Once the insured has sold his policy, he naturally loses all rights to it.",
+      "cn": "一旦受保人卖掉保险单，他自然就丧失了一切相关权利。"
+    },
+    {
+      "en": "Put them in a nice, insured, air - conditioned storage warehouse.",
+      "cn": "把它们存进一座条件好的, 上了保险的, 又有 空调设备 的仓库."
+    },
+    {
+      "en": "Read the small print in your contract to find out exactly what you are insured for.",
+      "cn": "请阅读合同中的附属细则，以便弄清您究竟参保的是哪一种。"
+    },
+    {
+      "en": "The company insured his property.",
+      "cn": "这家公司给他的财产保了险."
+    },
+    {
+      "en": "The insured value of the airplane was greater than its book value.",
+      "cn": "该飞机的投保价值高于它的实际账面价值。"
+    },
+    {
+      "en": "The only stipulation the building society makes is that house must be insured.",
+      "cn": "建屋互助会作出的唯一规定是房屋必须保险."
+    },
+    {
+      "en": "Was the vehicle insured?",
+      "cn": "那辆车上保险了吗？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "insurable",
+          "tran_cn": " 可保险的，适合保险的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "insurability",
+          "tran_cn": " [保险] 可保险性"
+        },
+        {
+          "word": "insurance",
+          "tran_cn": " 保险；保险费；保险契约；赔偿金"
+        },
+        {
+          "word": "insurer",
+          "tran_cn": " 保险公司；承保人"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "insure",
+          "tran_cn": " 确保；投保"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "insure",
+          "tran_cn": " 确保，保证；给…保险"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "assured"
+          ],
+          "tran_cn": "被保险人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "amount insured",
+      "tran_cn": "保险金额；承保金额；投保金额"
+    },
+    {
+      "phrase": "insured amount",
+      "tran_cn": "保险金险"
+    },
+    {
+      "phrase": "insured value",
+      "tran_cn": "保险价值"
+    },
+    {
+      "phrase": "subject matter insured",
+      "tran_cn": "n. 保品，保险标的物"
+    },
+    {
+      "phrase": "sum insured",
+      "tran_cn": "保险金额；投保金额"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "加入保险的",
+      "tran_en": "if someone or something is insured, there is insurance relating to them"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "被保险人",
+      "tran_en": "The insured is the person who is insured by a particular policy"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "保证（ insure的过去式和过去分词 ），确保，为…保险，投保"
+    }
+  ],
+  "exchange": {}
+}

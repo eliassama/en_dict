@@ -1,0 +1,199 @@
+{
+  "word": "lighter",
+  "ipa": {
+    "us": "ˈlaɪtə(r)",
+    "uk": "ˈlaɪtɚ"
+  },
+  "sentences": [
+    {
+      "en": "a cigarette lighter",
+      "cn": "香烟打火机"
+    },
+    {
+      "en": "Giving an arsonist a lighter is beyond a joke.",
+      "cn": "把打火机交给纵火犯简直是不可理喻。"
+    },
+    {
+      "en": "He immediately snapped his lighter to light her cigarette.",
+      "cn": "他啪的一声急忙打着他的打火机，给她的香烟点着了。"
+    },
+    {
+      "en": "He offered his lighter at full stretch.",
+      "cn": "他伸长胳膊把打火机递了过去。"
+    },
+    {
+      "en": "His head felt lighter in some indefinable way.",
+      "cn": "他的头不知为何有点晕眩。"
+    },
+    {
+      "en": "It is one of his finest works in a lighter vein.",
+      "cn": "这是他行文风格轻松活泼的作品中最出色的作品之一。"
+    },
+    {
+      "en": "Modern tennis rackets are now apparently 20 per cent lighter.",
+      "cn": "现代的网球拍据说比以前的轻20%。"
+    },
+    {
+      "en": "Oil is lighter than water.",
+      "cn": "油比水轻."
+    },
+    {
+      "en": "Refill packs are cheaper and lighter.",
+      "cn": "补充包更便宜，也更轻。"
+    },
+    {
+      "en": "The box is lighter than that one.",
+      "cn": "这只箱子较那只箱子轻."
+    },
+    {
+      "en": "The colour is lighter, and the old paint shows through.",
+      "cn": "新漆的颜色较淡, 原来的漆的颜色都看得见."
+    },
+    {
+      "en": "The heavy dark table is inlaid with lighter wood.",
+      "cn": "笨重的深色桌子上嵌有颜色较浅的木头。"
+    },
+    {
+      "en": "The lighter works off the car battery.",
+      "cn": "引燃器利用汽车蓄电池打火."
+    },
+    {
+      "en": "The new color is lighter, and the old paint shows through.",
+      "cn": "新刷的漆颜色较浅, 使原来的漆显露出来."
+    },
+    {
+      "en": "The paint can be diluted with water to make a lighter shade.",
+      "cn": "这颜料可用水稀释以使色度淡一些。"
+    },
+    {
+      "en": "The portrait was touched up so as to make it lighter.",
+      "cn": "这张画经过润色,色调明朗了一些."
+    },
+    {
+      "en": "They jettisoned big boxes to make the bus lighter.",
+      "cn": "他们抛弃公共汽车上的货物,使车减轻重量."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "light",
+          "tran_cn": "轻的；光亮的；容易的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "light",
+          "tran_cn": "轻地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "light",
+          "tran_cn": "光，光亮；灯"
+        },
+        {
+          "word": "lighterage",
+          "tran_cn": "驳运费；驳运"
+        },
+        {
+          "word": "lighterman",
+          "tran_cn": "驳船夫"
+        },
+        {
+          "word": "lighting",
+          "tran_cn": "照明设备，舞台灯光"
+        },
+        {
+          "word": "lightship",
+          "tran_cn": "灯塔船；航路标志灯船"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "lighting",
+          "tran_cn": "照明；点燃（light的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "light",
+          "tran_cn": "点着；变亮；著火"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "light",
+          "tran_cn": "照亮；点燃；着火"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "pontoon"
+          ],
+          "tran_cn": "打火机；[船]驳船；点火者"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "firebrand"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cigarette lighter",
+      "tran_cn": "香烟打火机"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "明亮的；光明的；照明好的；光线充足的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "打火机，点火器，点火者，驳船",
+      "tran_en": "a small object that produces a flame for lighting cigarettes etc"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "驳运"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "lighters"
+    ]
+  }
+}

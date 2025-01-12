@@ -1,0 +1,111 @@
+{
+  "word": "demote",
+  "ipa": {
+    "us": "ˌdi:ˈməʊt",
+    "uk": "ˌdiˈmoʊt"
+  },
+  "sentences": [
+    {
+      "en": "A: Why did the mayor demote the official?",
+      "cn": "为什麽市长要把这名官员降职?"
+    },
+    {
+      "en": "An employer who has lost confidence in the ability of an employee may demote him.",
+      "cn": "雇佣人对被雇佣人之能力失去信心时得予以降职."
+    },
+    {
+      "en": "Demote - Players can demote other players in the guild.",
+      "cn": "降级–该成员能够降低其他成员的工会等级."
+    },
+    {
+      "en": "Demote: This allows the guild leader to demote members within the guild to lower ranks.",
+      "cn": "降级: 这个功能允许会长将会员降级到低级阶层."
+    },
+    {
+      "en": "I should demote you from senior minister to elder.",
+      "cn": "我要把你从高级牧师降级为长老."
+    },
+    {
+      "en": "The sergeant was demoted to private.",
+      "cn": "这名中士被降为列兵。"
+    },
+    {
+      "en": "To demote a field, select the field and then click Demote on the toolbar.",
+      "cn": "若要降级字段, 请选择字段,再单击工具栏上的“降级”."
+    },
+    {
+      "en": "We will endanger our country if we demote our most noble and talented citizens.",
+      "cn": "黜退忠良,社稷危矣."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "demotion",
+          "tran_cn": " 降级；降职；降等"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abase",
+            "debase",
+            "degrade",
+            "lower",
+            "reduce"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "degrade",
+            "lower",
+            "reduce"
+          ],
+          "tran_cn": "降级"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使降级, 使降职",
+      "tran_en": "to make someone’s rank or position lower or less important"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使降级，使降职"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "demotes"
+    ],
+    "past": [
+      "demoted"
+    ],
+    "done": [
+      "demoted"
+    ],
+    "ing": [
+      "demoting"
+    ],
+    "noun": [
+      "demotion"
+    ]
+  }
+}

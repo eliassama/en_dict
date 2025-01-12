@@ -1,0 +1,45 @@
+{
+  "word": "dustbin",
+  "ipa": {
+    "us": "ˈdʌstbɪn",
+    "uk": "ˈdʌstbɪn"
+  },
+  "sentences": [
+    {
+      "en": "A bomb planted in a dustbin exploded early today.",
+      "cn": "一枚安置在一个垃圾桶内的炸弹今天清早爆炸了。"
+    },
+    {
+      "en": "On January 2 nd it was consigned to the dustbin.",
+      "cn": "1月2日,这份协议正式终止."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "garbage container",
+            "garbage can"
+          ],
+          "tran_cn": "垃圾箱"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "垃圾箱，灰箱，尘箱",
+      "tran_en": "a large container outside your house, used for holding waste until it is taken away"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "dustbins"
+    ]
+  }
+}

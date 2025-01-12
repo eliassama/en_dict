@@ -1,0 +1,153 @@
+{
+  "word": "alphabetic",
+  "ipa": {
+    "us": "ˌælfəˈbetɪk",
+    "uk": " ˌælfəˈbetɪk"
+  },
+  "sentences": [
+    {
+      "en": "A coded character set whose character set is an alphabetic character set.",
+      "cn": "一种编码字符集,它的字符集是一种字母字符集."
+    },
+    {
+      "en": "All street names will consist of lowercase alphabetic characters.",
+      "cn": "所有街道的名称都由小写字母构成."
+    },
+    {
+      "en": "Attribute names can include the same characters as element names, with similar rules for omitting spaces and starting names with alphabetic characters.",
+      "cn": "属性名可以包含在元素名中使用的字符，规则也是类似的，即字符之间不能带有空格，名称只能以字母开始。"
+    },
+    {
+      "en": "Chinese characters are not alphabetic writing but meaning - phonetic writing.",
+      "cn": "他拥有中国和英国的双重国籍."
+    },
+    {
+      "en": "Display an alphabetic list of user names from the global address book.",
+      "cn": "按字母顺序显示全局通讯簿中的用户名."
+    },
+    {
+      "en": "It provides an alphabetic listing with controls to jump to a specific letter page in the contact list as shown in figure 13.",
+      "cn": "它提供了一个带有控件的字母清单，可以跳到联系人页面中特定字母的页面，如图 13 所示。"
+    },
+    {
+      "en": "Next Steps to 1,500 word level - alphabetic listing.",
+      "cn": "下一步到1500字的水平 - 字母上市."
+    },
+    {
+      "en": "String: Any combination of alphabetic or numeric codes in a computer program.",
+      "cn": "字符串: 电脑程式里,字母或数字代码的任何组合."
+    },
+    {
+      "en": "The character class name for alphabetic characters.",
+      "cn": "表示字母字符的字符分类名称."
+    },
+    {
+      "en": "The check of effective alphabetic to ensure the correctness of input alphabetic.",
+      "cn": "字母有效性检查,以保证输入字母的正确."
+    },
+    {
+      "en": "The guests'names were listed in alphabetic order.",
+      "cn": "客人的姓名是依照字母顺序排列的."
+    },
+    {
+      "en": "The reference book is indexed in alphabetic order.",
+      "cn": "这部工具书是按照音序编制索引的."
+    },
+    {
+      "en": "The use of digits to represent alphabetic data.",
+      "cn": "用数字来表示字母数据的方法."
+    },
+    {
+      "en": "Use only alphabetic and numeric characters for these properties.",
+      "cn": "对这些属性仅使用字母和数字字符."
+    },
+    {
+      "en": "We were first taught to recite the words in alphabetic order.",
+      "cn": "首先我们学会按字母顺序背诵单词."
+    },
+    {
+      "en": "WEP keys can be numeric, alphabetic, or a combination of both.",
+      "cn": "WEP密钥可以是数字, 字母, 或两者兼而有之."
+    },
+    {
+      "en": "You can consult the files according to the alphabetic order.",
+      "cn": "你可以根据字母顺序查找这些文件."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "alphabetical",
+          "tran_cn": " 字母的；[计] 依字母顺序的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "alphabetically",
+          "tran_cn": " 照字母顺序排列地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "alpha",
+          "tran_cn": " 希腊字母的第一个字母；开端；最初"
+        },
+        {
+          "word": "alphabet",
+          "tran_cn": " 字母表，字母系统；入门，初步"
+        },
+        {
+          "word": "alphabetization",
+          "tran_cn": " 按照字母顺序排列；拼音化"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "alphabetize",
+          "tran_cn": " 依字母顺序排列；用字母表示；拼音化"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "abecedarian"
+          ],
+          "tran_cn": "字母的；[计]照字母次序的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "alphabetic character",
+      "tran_cn": "字母符号，字母字符；文字字符"
+    },
+    {
+      "phrase": "alphabetic writing",
+      "tran_cn": "拼音文字；字母文字"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "（属于）字母的"
+    }
+  ],
+  "exchange": {}
+}

@@ -1,0 +1,196 @@
+{
+  "word": "accurate",
+  "ipa": {
+    "us": "ˈækjərət",
+    "uk": "ˈækjərət"
+  },
+  "sentences": [
+    {
+      "en": "Accurate records must be kept.",
+      "cn": "必须保存准确的记录。"
+    },
+    {
+      "en": "Broadcast news was accurate and reliable but deadly dull.",
+      "cn": "新闻广播准确可靠但却非常枯燥。"
+    },
+    {
+      "en": "Doctors can get the wrong impression from even an accurate description.",
+      "cn": "即便很精确的病历也可能让医生产生错误的印象。"
+    },
+    {
+      "en": "He was once described as a fussily accurate test pilot.",
+      "cn": "他一度被称为过分讲究精准的试飞员。"
+    },
+    {
+      "en": "Her description of the nature and action of poisons is amazingly accurate.",
+      "cn": "他对一些毒药的性质和作用的描述惊人地准确。"
+    },
+    {
+      "en": "I work very efficiently and am decisive, and accurate in my judgement.",
+      "cn": "我工作非常有效率，处事果断，而且判断准确。"
+    },
+    {
+      "en": "It is difficult to get accurate figures on population numbers.",
+      "cn": "很难取得精确的人口统计数字。"
+    },
+    {
+      "en": "Le Tissier hit an accurate cross to Groves.",
+      "cn": "勒蒂西耶将球准确地横传给了格罗夫斯。"
+    },
+    {
+      "en": "Marks were given for accurate spelling and punctuation.",
+      "cn": "因拼写及标点正确而得分。"
+    },
+    {
+      "en": "Some pulsars keep time better than the earth's most accurate clocks.",
+      "cn": "某些脉冲星发送脉冲比地球上最精确的时钟都准时。"
+    },
+    {
+      "en": "The book is remarkably accurate and transparently fair-minded.",
+      "cn": "这本书记述确凿，言辞明晰，见解公正。"
+    },
+    {
+      "en": "The book, so far as I can judge, is remarkably accurate.",
+      "cn": "就我看来，这本书内容相当准确。"
+    },
+    {
+      "en": "The brochure tries to give a fair and accurate description of each hotel.",
+      "cn": "该手册尽量公正、准确地介绍每一家酒店。"
+    },
+    {
+      "en": "The figure is accurate to two decimal places .",
+      "cn": "这个数精确到小数点后两位。"
+    },
+    {
+      "en": "The pilots, however, were not as accurate as they should be.",
+      "cn": "然而飞行员并不像他们该达到的水平那样精准。"
+    },
+    {
+      "en": "The rifle was extremely accurate.",
+      "cn": "这把步枪准头极高。"
+    },
+    {
+      "en": "To remove any ambiguity we have to acquire more accurate information.",
+      "cn": "为了消除含糊不清,我们必须取得更加精确的情报."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "accurately",
+          "tran_cn": " 精确地，准确地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "accuracy",
+          "tran_cn": " [数] 精确度，准确性"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "O.K.",
+            "all",
+            "correct",
+            "exactly",
+            "perfect",
+            "right"
+          ],
+          "tran_cn": "准确的;精确的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "O.K.",
+            "all",
+            "circumstantial",
+            "confirmed",
+            "correct",
+            "desired",
+            "exact",
+            "faithful",
+            "literal",
+            "painstaking",
+            "perfect",
+            "precise",
+            "proper",
+            "right",
+            "true"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "accurate adjustment",
+      "tran_cn": "精调；精密调整"
+    },
+    {
+      "phrase": "accurate at",
+      "tran_cn": "对…很正确"
+    },
+    {
+      "phrase": "accurate calibration",
+      "tran_cn": "精确校准"
+    },
+    {
+      "phrase": "accurate grinding",
+      "tran_cn": "精磨；精密磨削"
+    },
+    {
+      "phrase": "accurate measurement",
+      "tran_cn": "精确测量"
+    },
+    {
+      "phrase": "accurate model",
+      "tran_cn": "准确模型"
+    },
+    {
+      "phrase": "accurate positioning",
+      "tran_cn": "精确定位"
+    },
+    {
+      "phrase": "accurate record",
+      "tran_cn": "精确记录"
+    },
+    {
+      "phrase": "accurate simulation",
+      "tran_cn": "准确模拟"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "正确的，精确的，精准的",
+      "tran_en": "correct and true in every detail"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "more accurate"
+    ],
+    "est": [
+      "most accurate"
+    ],
+    "adv": [
+      "accurately"
+    ]
+  }
+}

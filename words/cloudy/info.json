@@ -1,0 +1,208 @@
+{
+  "word": "cloudy",
+  "ipa": {
+    "us": "ˈklaʊdi",
+    "uk": "ˈklaʊdi"
+  },
+  "sentences": [
+    {
+      "en": "...an absurdly cloudy political debate...",
+      "cn": "极为含糊不清的政治辩论"
+    },
+    {
+      "en": "a cloudy night with some light rain",
+      "cn": "伴有些许小雨的多云的夜晚"
+    },
+    {
+      "en": "a grey, cloudy day",
+      "cn": "灰暗多云的天空"
+    },
+    {
+      "en": "a rather cloudy wine",
+      "cn": "相当浑浊的葡萄酒"
+    },
+    {
+      "en": "Bob always enjoys sailing, even though the weather is cloudy.",
+      "cn": "鲍勃总是很喜欢航行, 即使空中乌云密布."
+    },
+    {
+      "en": "Cloudy skies grounded planes to Washington.",
+      "cn": "天空多云使飞往华盛顿的飞机停飞."
+    },
+    {
+      "en": "Cloudy sky drove the bathers off the beach.",
+      "cn": "阴霾的天空把海滩上的游客都赶跑了."
+    },
+    {
+      "en": "It was cloudy yesterday.",
+      "cn": "昨天是阴天."
+    },
+    {
+      "en": "It's so cloudy and cold that it's likely to snow.",
+      "cn": "天气又阴又冷,大半要下雪."
+    },
+    {
+      "en": "Men are subject to sudden changes of fortune as the moon is subject to the changes of being full and crescent, cloudy and clear.",
+      "cn": "人有旦夕祸福, 月有阴晴圆缺."
+    },
+    {
+      "en": "Only a tiny patch of blue was visible in the cloudy sky.",
+      "cn": "多云的天空中只见到一小块儿湛蓝."
+    },
+    {
+      "en": "Outside, it was cloudy and blowing a few flakes of snow.",
+      "cn": "外面是满天阴云,飘着几片雪花."
+    },
+    {
+      "en": "The legal position is very cloudy.",
+      "cn": "法律对此的态度十分模糊。"
+    },
+    {
+      "en": "The lime water has turned cloudy, therefore carbon dioxide has been produced during the experiment.",
+      "cn": "石灰水变得混浊了, 可见在实验中有二氧化碳生成了."
+    },
+    {
+      "en": "The prospect for passage of the bill was somewhat cloudy, in view of its evident unconstitutionality.",
+      "cn": "由于这个议案明显地违反了宪法, 它能否得到通过的前景就有点不明显了."
+    },
+    {
+      "en": "This afternoon will be cloudy, turning clear.",
+      "cn": "今天下午阴转晴."
+    },
+    {
+      "en": "Tomorrow, it will be cloudy and cool.",
+      "cn": "明天多云，天气凉爽。"
+    },
+    {
+      "en": "We observed that it had turned cloudy.",
+      "cn": "我们注意到天已经变阴了."
+    },
+    {
+      "en": "White always mates, he thought with a sort of cloudy mysticism.",
+      "cn": "白子总将死对方, 他带着一种模模糊糊的神秘感觉这么想."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "clouded",
+          "tran_cn": " 乌云密布的；有暗影的，阴的"
+        },
+        {
+          "word": "cloudless",
+          "tran_cn": " 无云的；晴朗的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "cloud",
+          "tran_cn": " 云；阴云；云状物；一大群；黑斑"
+        },
+        {
+          "word": "cloudiness",
+          "tran_cn": " 阴沉；暗晦；朦胧"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "cloud",
+          "tran_cn": " 阴沉；乌云密布"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "cloud",
+          "tran_cn": " 使混乱；以云遮敝；使忧郁；玷污"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "dark",
+            "dismal",
+            "gloomy",
+            "overcast",
+            "unclear"
+          ],
+          "tran_cn": "阴沉的;忧郁的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "atmospheric",
+            "black",
+            "dark",
+            "dismal",
+            "dusky",
+            "gloomy",
+            "grey",
+            "hazy",
+            "indistinct",
+            "milky",
+            "opaque",
+            "overcast",
+            "unclear"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cloudy day",
+      "tran_cn": "阴天"
+    },
+    {
+      "phrase": "cloudy sky",
+      "tran_cn": "多云天空，阴天"
+    },
+    {
+      "phrase": "partly cloudy",
+      "tran_cn": "局部多云；少云"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "多云的，含糊的，浑浊的",
+      "tran_en": "a cloudy sky, day etc is dark because there are a lot of clouds"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "多云的",
+      "tran_en": "a cloudy sky, day etc is dark because there are a lot of clouds"
+    }
+  ],
+  "exchange": {
+    "er": [
+      "cloudier"
+    ],
+    "est": [
+      "cloudiest"
+    ],
+    "noun": [
+      "cloudiness"
+    ]
+  }
+}

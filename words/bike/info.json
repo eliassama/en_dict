@@ -1,0 +1,199 @@
+{
+  "word": "bike",
+  "ipa": {
+    "us": "baɪk",
+    "uk": "baɪk"
+  },
+  "sentences": [
+    {
+      "en": "Cars can be stolen almost as easily as knocking off a bike.",
+      "cn": "偷汽车几乎能和偷自行车一样容易。"
+    },
+    {
+      "en": "Do you want to leave your bike here?",
+      "cn": "你想把自行车停在这里吗？"
+    },
+    {
+      "en": "He lifted the bike off its stand and kick-started it.",
+      "cn": "他将摩托车撑脚架往上一提，开始蹬车启动。"
+    },
+    {
+      "en": "He shouldered his bike and walked across the finish line.",
+      "cn": "他扛着自行车走过了终点线。"
+    },
+    {
+      "en": "He struggled to hold the bike down on the banked corners.",
+      "cn": "拐过斜弯时他竭力将自行车把稳。"
+    },
+    {
+      "en": "I locked the bike in the forecourt of the Kirey Hotel.",
+      "cn": "我把自行车锁在了吉日旅馆的前院。"
+    },
+    {
+      "en": "I'm getting a bike for my birthday.",
+      "cn": "我过生日时会得到一辆自行车。"
+    },
+    {
+      "en": "Let’s go for a bike ride .",
+      "cn": "我们去骑会儿自行车吧。"
+    },
+    {
+      "en": "Let’s go for a bike ride.",
+      "cn": "我们去骑会儿自行车吧。"
+    },
+    {
+      "en": "Lizzie bought herself a mountain bike.",
+      "cn": "莉齐给自己买了辆山地自行车。"
+    },
+    {
+      "en": "Mind that bike!",
+      "cn": "小心那辆自行车！"
+    },
+    {
+      "en": "She bikes to work every day.",
+      "cn": "她每天骑自行车上班。"
+    },
+    {
+      "en": "She chained her bike to the railings.",
+      "cn": "她把自行车锁在栏杆上。"
+    },
+    {
+      "en": "She rode pillion on her son's motor bike.",
+      "cn": "她坐在儿子摩托车的后座上。"
+    },
+    {
+      "en": "The bike has style, it has looks, it has its little idiosyncrasies.",
+      "cn": "这辆自行车品质一流，外观漂亮，有一些细节之处与众不同。"
+    },
+    {
+      "en": "The catalog includes helpful information on the different bike models available.",
+      "cn": "目录中包括了在售的各种型号自行车的有用信息。"
+    },
+    {
+      "en": "The lead biker broke his bike chain.",
+      "cn": "那位领先的自行车手车链子断了。"
+    },
+    {
+      "en": "They went for a quick snog behind the bike sheds.",
+      "cn": "他们去了自行车棚的后面，短暂地拥吻了一下。"
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cycle",
+            "bicycle"
+          ],
+          "tran_cn": "自行车；脚踏车"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bicycle",
+            "wheel"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "cycle"
+          ],
+          "tran_cn": "骑自行车（或摩托车）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bike riding",
+      "tran_cn": "骑单车"
+    },
+    {
+      "phrase": "by bike",
+      "tran_cn": "骑自行车；骑单车"
+    },
+    {
+      "phrase": "dirt bike",
+      "tran_cn": "轻型摩托车"
+    },
+    {
+      "phrase": "exercise bike",
+      "tran_cn": "固定式健身脚踏车"
+    },
+    {
+      "phrase": "get off one's bike",
+      "tran_cn": "(澳／新西兰，非正式)恼怒，发火"
+    },
+    {
+      "phrase": "mountain bike",
+      "tran_cn": "n. 山地车；山地自行车"
+    },
+    {
+      "phrase": "on your bike!",
+      "tran_cn": "(英，非正式)滚开（表示生气）"
+    },
+    {
+      "phrase": "pocket bike",
+      "tran_cn": "折叠自行车"
+    },
+    {
+      "phrase": "racing bike",
+      "tran_cn": "赛车；竞赛自行车"
+    },
+    {
+      "phrase": "ride a bike",
+      "tran_cn": "骑自行车"
+    },
+    {
+      "phrase": "ride bike",
+      "tran_cn": "骑车，骑自行车"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "自行车，摩托车",
+      "tran_en": "a bicycle"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "自行车",
+      "tran_en": "a bicycle"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "骑自行车/摩托车",
+      "tran_en": "to ride a bicycle"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bikes"
+    ],
+    "third": [
+      "bikes"
+    ],
+    "past": [
+      "biked"
+    ],
+    "done": [
+      "biked"
+    ],
+    "ing": [
+      "biking"
+    ]
+  }
+}

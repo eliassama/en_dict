@@ -1,0 +1,79 @@
+{
+  "word": "disavowal",
+  "ipa": {
+    "us": "ˌdɪsə'vaʊəl",
+    "uk": "ˌdɪsə'vaʊəl"
+  },
+  "sentences": [
+    {
+      "en": "...a public disavowal of his beliefs.",
+      "cn": "...一个对他信仰的公开否认。"
+    },
+    {
+      "en": "Agreement may be achievable only by formulas so vague as to invite later disavowal or disagreement.",
+      "cn": "只有采用非常含糊的提法,才有可能达成协议,而这些提法往往因其含糊而引起后来的否认或分歧."
+    },
+    {
+      "en": "Disavowal of pain is valid.",
+      "cn": "否认疼痛是有确实根据的."
+    },
+    {
+      "en": "Utopia is the thorough animadversion and disavowal against political reality latterend of the former.",
+      "cn": "乌托邦的政治意义在于以普遍、绝对之正义,观照和批判非正义之政治现实."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "disavow",
+          "tran_cn": " 否认，否定；抵赖；拒绝对…的责任"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "contradiction",
+            "negative",
+            "rejection"
+          ],
+          "tran_cn": "否定，否认；拒绝；不承认"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "denial",
+            "rejection"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "不承认，否认，否定，拒绝",
+      "tran_en": "A disavowal of something is a statement that you are not connected with it or responsible for it, or that you no longer agree with or believe in it"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "disavowals"
+    ],
+    "verb": [
+      "disavow"
+    ]
+  }
+}

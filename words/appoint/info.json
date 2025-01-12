@@ -1,0 +1,189 @@
+{
+  "word": "appoint",
+  "ipa": {
+    "us": "əˈpɔɪnt",
+    "uk": "əˈpɔɪnt"
+  },
+  "sentences": [
+    {
+      "en": "\"Why didn't you appoint Ron twelve months ago?\"—\"Good question.\"",
+      "cn": "“你为什么12个月前不任命罗恩呢？”——“问得好。”"
+    },
+    {
+      "en": "He could not force the bishop to appoint him.",
+      "cn": "他无法强迫主教委派他."
+    },
+    {
+      "en": "He promised to appoint an AIDS czar to deal with the disease.",
+      "cn": "他许诺任命一位艾滋病大使来应对这种疾病。"
+    },
+    {
+      "en": "He proposes electing Franc to appoint a director.",
+      "cn": "他提议推选法朗西斯爵士任董事."
+    },
+    {
+      "en": "His appoint-ment is a complete surprise — he has never been mentioned as a front runner.",
+      "cn": "他的任命完全出人意料——他从来都不是呼声最高的候选人。"
+    },
+    {
+      "en": "It made sense to appoint a banker to this job.",
+      "cn": "指派一位银行家做这份工作是明智之举。"
+    },
+    {
+      "en": "Mel paused, to let his appoint sink home, before continuing.",
+      "cn": "梅尔稍停了一下, 好让大家都吃透他的论点后, 再继续说下去."
+    },
+    {
+      "en": "officials appointed by the government",
+      "cn": "政府任命的官员"
+    },
+    {
+      "en": "The committee appointed a day in June for celebrations.",
+      "cn": "委员会把庆典定在6月的一天举行。"
+    },
+    {
+      "en": "The company decided to appoint a Japanese manager as president of the company. The decision came as a bolt from the blue.",
+      "cn": "公司决定任命一位日籍经理担任总裁。这个决定太出乎意料了。"
+    },
+    {
+      "en": "The king would appoint one of his creatures to the post.",
+      "cn": "国王要派他的一名奴仆去任这差事."
+    },
+    {
+      "en": "The Prime Minister has the power to dismiss and appoint senior ministers.",
+      "cn": "首相有权任免高级部长。"
+    },
+    {
+      "en": "They appoint precinct election judges and other election - day officials.",
+      "cn": "他们委任选举区的评判员及在大选日工作的官员."
+    },
+    {
+      "en": "We must appoint a day to meet again.",
+      "cn": "我们要约定好下次会面的日期."
+    },
+    {
+      "en": "We must soon appoint a new teacher to the class.",
+      "cn": "我们必须尽快指派新老师到班里去."
+    },
+    {
+      "en": "We shall appoint eight o'clock as the time to begin.",
+      "cn": "我们确定8点钟开始."
+    },
+    {
+      "en": "You may appoint a proxy to vote for you.",
+      "cn": "你可以委托他人代你投票."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "appointed",
+          "tran_cn": " 约定的，指定的"
+        },
+        {
+          "word": "appointive",
+          "tran_cn": " 任命的；委派的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "appointment",
+          "tran_cn": " 任命；约定；任命的职位"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "appointed",
+          "tran_cn": " 任命；指定；约定时间，地点（appoint 的过去分词形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "assign",
+            "choose",
+            "commission",
+            "destine",
+            "elect",
+            "for",
+            "name",
+            "nominate",
+            "specify",
+            "vote"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "nominate sb to",
+            "institute to"
+          ],
+          "tran_cn": "任命；委派"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "assign",
+            "choose",
+            "designate",
+            "elect",
+            "for",
+            "name",
+            "nominate",
+            "vote"
+          ],
+          "tran_cn": "任命,指派,指定"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "任命，委派，安排",
+      "tran_en": "to choose someone for a position or a job"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 任命， 委派； 委任； 约定， 确定， 指定",
+      "tran_en": "to choose someone for a position or a job"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "appoints"
+    ],
+    "past": [
+      "appointed"
+    ],
+    "done": [
+      "appointed"
+    ],
+    "ing": [
+      "appointing"
+    ]
+  }
+}

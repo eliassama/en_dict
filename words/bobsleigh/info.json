@@ -1,0 +1,81 @@
+{
+  "word": "bobsleigh",
+  "ipa": {
+    "us": "ˈbɒbsleɪ",
+    "uk": "ˈbɑbsleɪ"
+  },
+  "sentences": [
+    {
+      "en": "It has two types: luge and bobsleigh.",
+      "cn": "分为有舵和无舵两种."
+    },
+    {
+      "en": "Sixteen teams took part in the 400 m bobsleigh.",
+      "cn": "有16支队伍参加了400米雪橇比赛。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "bobsled",
+          "tran_cn": " 大雪橇；连橇"
+        },
+        {
+          "word": "bobsledding",
+          "tran_cn": " 滑大雪橇运动；乘大雪橇"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "bobsledding",
+          "tran_cn": " 乘大雪橇（bobsled的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "bobsled",
+          "tran_cn": " 滑大雪橇；乘大雪橇（等于bobsleigh）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "cariole",
+            "coaster"
+          ],
+          "tran_cn": "长橇，雪橇"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "长橇，雪车",
+      "tran_en": "a small vehicle with two long thin metal blades instead of wheels, that is used for racing down a special ice track"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "乘大雪橇；滑大雪橇比赛"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "bobsleighs"
+    ]
+  }
+}

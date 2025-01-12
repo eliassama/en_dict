@@ -1,0 +1,230 @@
+{
+  "word": "spy",
+  "ipa": {
+    "us": "spaɪ",
+    "uk": "spaɪ"
+  },
+  "sentences": [
+    {
+      "en": "\"She thinks you're a spy,\" Scott said matter-of-factly.",
+      "cn": "“她认为你是间谍，”斯科特面不改色地说。"
+    },
+    {
+      "en": "A spy used cunning means to find out secrets.",
+      "cn": "间谍使用狡猾的手段获取机密."
+    },
+    {
+      "en": "Ellen suddenly spied her friend in the crowd.",
+      "cn": "埃伦突然在人群中找到了她的朋友。"
+    },
+    {
+      "en": "He was denounced as a foreign spy.",
+      "cn": "有人告发他是外国间谍。"
+    },
+    {
+      "en": "He was jailed for five years as an alleged British spy.",
+      "cn": "他被指控为英国间谍，入狱关押了5年。"
+    },
+    {
+      "en": "He was the first to spy the horseman in the distance.",
+      "cn": "他最先看到出现在远处的骑者."
+    },
+    {
+      "en": "His assignment was to follow the spy.",
+      "cn": "分配给他的工作是跟踪这个间谍."
+    },
+    {
+      "en": "I'm sure my neighbours spy on me.",
+      "cn": "我肯定邻居暗中监视我."
+    },
+    {
+      "en": "She worked as a spy for the American government.",
+      "cn": "她为美国政府收集情报。"
+    },
+    {
+      "en": "That day he spied on her while pretending to work on the shrubs.",
+      "cn": "那天他假装修剪灌木，却秘密地监视着她。"
+    },
+    {
+      "en": "The man was accused of being a spy.",
+      "cn": "那人被指控是个间谍."
+    },
+    {
+      "en": "The spy attempted to escape to a neighbouring country.",
+      "cn": "那个间谍企图出逃到邻国去."
+    },
+    {
+      "en": "The spy ring passed secrets to the enemy.",
+      "cn": "该间谍团伙向敌方传送秘密情报。"
+    },
+    {
+      "en": "The spy was caught in the act.",
+      "cn": "那间谍当场被抓获."
+    },
+    {
+      "en": "The spy's cover was that she was a consultant engineer.",
+      "cn": "那女间谍伪装成顾问工程师."
+    },
+    {
+      "en": "The spy's disguise was soon penetrated.",
+      "cn": "间谍的伪装不久便被识破了."
+    },
+    {
+      "en": "to unmask a spy",
+      "cn": "揭发间谍"
+    },
+    {
+      "en": "When they discovered he was a spy, he became a marked man.",
+      "cn": "一旦他们识破他的间谍身分, 他的处境就变得十分危险."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "spying",
+          "tran_cn": " 间谍活动；侦探"
+        },
+        {
+          "word": "spymaster",
+          "tran_cn": " 间谍组织的首脑"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "spying",
+          "tran_cn": " 从事间谍活动；发现；仔细察看；暗中监视（spy的ing形式）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "illegal",
+            "espionage"
+          ],
+          "tran_cn": "[军]间谍；密探"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "blink",
+            "detect",
+            "discern",
+            "emissary",
+            "observe",
+            "see",
+            "sight",
+            "spot",
+            "traitor",
+            "view",
+            "witness"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "scout around",
+            "keek"
+          ],
+          "tran_cn": "侦察；[军]当间谍"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "detect",
+            "discern",
+            "observe",
+            "see",
+            "sight",
+            "spot",
+            "view"
+          ],
+          "tran_cn": "察觉,发现"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "spy on",
+      "tran_cn": "暗中监视；侦查"
+    },
+    {
+      "phrase": "spy out",
+      "tran_cn": "秘密监视"
+    },
+    {
+      "phrase": "spy out the land",
+      "tran_cn": "侦察地形；查看情况"
+    },
+    {
+      "phrase": "spy plane",
+      "tran_cn": "间谍飞机"
+    },
+    {
+      "phrase": "spy satellite",
+      "tran_cn": "间谍卫星"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "间谍，密探",
+      "tran_en": "someone whose job is to find out secret information about another country, organization, or group"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "侦察；发现；暗中监视",
+      "tran_en": "to suddenly see someone or something, especially after searching for them"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "当间谍，从事间谍活动，暗中监视，详察",
+      "tran_en": "If you spy on someone, you watch them secretly"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "看见，秘密监视，精心调查",
+      "tran_en": "to suddenly see someone or something, especially after searching for them"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "spies"
+    ],
+    "third": [
+      "spies"
+    ],
+    "past": [
+      "spied"
+    ],
+    "done": [
+      "spied"
+    ],
+    "ing": [
+      "spying"
+    ]
+  }
+}

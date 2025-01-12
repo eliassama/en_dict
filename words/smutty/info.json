@@ -1,0 +1,111 @@
+{
+  "word": "smutty",
+  "ipa": {
+    "us": "ˈsmʌti",
+    "uk": "ˈsmʌti"
+  },
+  "sentences": [
+    {
+      "en": "Yellow refers to the smutty type, and grey or black to spam messages, many of which offer products or services of various shades of legality.",
+      "cn": "黄段子是指那些含有内容淫秽的短信，灰段子和黑段子是指那些提供法律灰色地带产品和服务的垃圾信息。"
+    },
+    {
+      "en": "Yellow refers to the smutty type, and grey or black to spam messages, many of which offer products or services of various shades of legality.",
+      "cn": "黄色指涉及淫秽内容的短信，而灰色或黑色则是指涉及提供非法服务或产品的垃圾短信。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "smuttily",
+          "tran_cn": " 淫猥地；（被煤灰、尘埃等）弄脏地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "smut",
+          "tran_cn": " [植保] 黑穗病；煤尘；污迹"
+        },
+        {
+          "word": "smutch",
+          "tran_cn": " 污迹"
+        },
+        {
+          "word": "smuttiness",
+          "tran_cn": " 猥亵；淫秽"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "smut",
+          "tran_cn": " 弄脏；患黑穗病"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "smut",
+          "tran_cn": " 弄脏；使害上黑穗病"
+        },
+        {
+          "word": "smutch",
+          "tran_cn": " 弄脏"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "salt",
+            "bawdy"
+          ],
+          "tran_cn": "猥亵的；弄脏的；害了黑穗病的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abusive",
+            "filthy",
+            "obscene",
+            "unclean"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "猥亵的，淫秽的，下流的",
+      "tran_en": "marked with small pieces of dirt or  soot "
+    }
+  ],
+  "exchange": {
+    "er": [
+      "smuttier"
+    ],
+    "est": [
+      "smuttiest"
+    ]
+  }
+}

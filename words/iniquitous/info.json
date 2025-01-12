@@ -1,0 +1,85 @@
+{
+  "word": "iniquitous",
+  "ipa": {
+    "us": "ɪˈnɪkwɪtəs",
+    "uk": "ɪˈnɪkwɪtəs"
+  },
+  "sentences": [
+    {
+      "en": "an iniquitous system of taxation",
+      "cn": "一种极不公正的税收制度"
+    },
+    {
+      "en": "Have you seen this bill? It's iniquitous!",
+      "cn": "你看见这份帐单了 吗 ?简直是漫天要价!"
+    },
+    {
+      "en": "Many historians, of course, regard this as iniquitous.",
+      "cn": "当然，许多历史学家认为这是极不公正的。"
+    },
+    {
+      "en": "Men of feeling may at any moment be killed outright by the iniquitous and the callous.",
+      "cn": "多愁善感的人会立即被罪恶的人和无情的人彻底消灭."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "iniquitously",
+          "tran_cn": " 非法地；极不公正地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "iniquity",
+          "tran_cn": " 邪恶；不公正"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "evil",
+            "ill",
+            "black",
+            "ugly",
+            "wicked"
+          ],
+          "tran_cn": "邪恶的；不公正的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "accursed",
+            "black",
+            "criminal",
+            "cursed"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "<正>极邪恶的，极不公正的，（指价格、费用等）不公道的，高得出奇的",
+      "tran_en": "very unfair and morally wrong"
+    }
+  ],
+  "exchange": {}
+}

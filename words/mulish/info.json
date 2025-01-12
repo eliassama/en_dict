@@ -1,0 +1,79 @@
+{
+  "word": "mulish",
+  "ipa": {
+    "us": "ˈmju:lɪʃ",
+    "uk": "ˈmjulɪʃ"
+  },
+  "sentences": [
+    {
+      "en": "a mulish look",
+      "cn": "执拗的神情"
+    },
+    {
+      "en": "He was so mulish that my admonitions just flowed over him.",
+      "cn": "他很顽固,我的告诫对他只不过是耳边风."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "mule",
+          "tran_cn": " 骡；倔强之人，顽固的人；杂交种动物"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "adamant",
+            "headstrong",
+            "inflexible",
+            "obstinate",
+            "rigid",
+            "stubborn",
+            "tenacious",
+            "unyielding",
+            "willful"
+          ],
+          "tran_cn": "顽固的"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "adamant",
+            "backward",
+            "dogged",
+            "headstrong",
+            "inflexible",
+            "obstinate",
+            "rigid",
+            "stubborn",
+            "tenacious",
+            "unyielding",
+            "willful"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "固执的，执拗的",
+      "tran_en": "refusing to do something or agree to something, in an unreasonable way"
+    }
+  ],
+  "exchange": {}
+}

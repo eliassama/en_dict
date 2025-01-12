@@ -1,0 +1,84 @@
+{
+  "word": "loyalist",
+  "ipa": {
+    "us": "ˈlɔɪəlɪst",
+    "uk": "ˈlɔɪəlɪst"
+  },
+  "sentences": [
+    {
+      "en": "His report was scathing about Loyalist and Republican terror groups.",
+      "cn": "他的报告猛烈抨击了忠英派和共和军的恐怖组织。"
+    },
+    {
+      "en": "Party loyalists responded as they always do, waving flags and carrying placards.",
+      "cn": "党的忠诚支持者们一如既往地以挥舞旗帜和高举海报作为回应。"
+    },
+    {
+      "en": "She was one of the greatest Loyalist proponents outside of Coruscant.",
+      "cn": "她是科洛桑之外最伟大的忠诚者之一."
+    },
+    {
+      "en": "The attack was in revenge for the deaths of two loyalist prisoners.",
+      "cn": "这次袭击是对处死两个被囚禁的忠诚分子的报复."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "loyal",
+          "tran_cn": " 忠诚的，忠心的；忠贞的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "loyally",
+          "tran_cn": " 忠诚地；诚实地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "loyal",
+          "tran_cn": " 效忠的臣民；忠实信徒"
+        },
+        {
+          "word": "loyalty",
+          "tran_cn": " 忠诚；忠心；忠实"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "patriot"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "持现政权忠诚的人，（对统治者）效忠者，反对独立者，“loyal”的派生",
+      "tran_en": "someone who continues to support a government or country, especially during a period of change"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "loyalists"
+    ]
+  }
+}

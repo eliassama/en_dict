@@ -1,0 +1,213 @@
+{
+  "word": "reject",
+  "ipa": {
+    "us": "rɪˈdʒekt , ˈriːdʒekt",
+    "uk": "rɪˈdʒekt , ˈriːdʒekt"
+  },
+  "sentences": [
+    {
+      "en": "Animals reject the runt of the litter.",
+      "cn": "动物会丢弃最弱小的幼仔。"
+    },
+    {
+      "en": "Choose the good apples and reject the bad ones.",
+      "cn": "把好的苹果挑出来,把坏的剔出去."
+    },
+    {
+      "en": "Dexter flatly rejected (= completely rejected ) calls for his resignation.",
+      "cn": "德克斯特断然拒绝让他辞职的要求。"
+    },
+    {
+      "en": "He was afraid she would reject him because he was a foreigner.",
+      "cn": "他担心她会因他不是本国人而拒绝他."
+    },
+    {
+      "en": "His proposal was rejected outright (= completely rejected ) .",
+      "cn": "他的建议被彻底否决了。"
+    },
+    {
+      "en": "I think the president was correct to reject the offer.",
+      "cn": "我认为总统拒绝这一提议是正确的。"
+    },
+    {
+      "en": "I'm shocked that you should reject her like that.",
+      "cn": "你那样不接受她令我震惊."
+    },
+    {
+      "en": "If inspectors find a defective can, the batch is rejected.",
+      "cn": "如果质检员发现一个罐头有瑕疵，那么这一批货就会被废弃。"
+    },
+    {
+      "en": "It is hard for me to reject religious beliefs.",
+      "cn": "要我抛弃自己的宗教信仰是困难的."
+    },
+    {
+      "en": "It was feared his body was rejecting a kidney he received in a transplant four years ago.",
+      "cn": "令人担心的是，他的身体可能对4年前移植的肾产生了排斥反应。"
+    },
+    {
+      "en": "It’s obvious why his application was rejected.",
+      "cn": "他申请被拒的原因很明显。"
+    },
+    {
+      "en": "Sarah rejected her brother’s offer of help.",
+      "cn": "萨拉拒绝了她弟弟的帮助。"
+    },
+    {
+      "en": "She was told to reject applicants with limp handshakes.",
+      "cn": "她被告知要回绝掉那些握手软弱无力的申请者。"
+    },
+    {
+      "en": "The danger is that recalcitrant local authorities will reject their responsibilities.",
+      "cn": "危险在于抗命不遵的地方当局将拒绝履行他们的职责。"
+    },
+    {
+      "en": "The patient'simmune system would reject the transplanted organ as a foreign object.",
+      "cn": "病人的免疫系统会对移植器官产生异质排斥反应。"
+    },
+    {
+      "en": "They accept the Prophet's precepts but reject some of his strictures.",
+      "cn": "他们接受先知的教训,但拒绝他的种种约束."
+    },
+    {
+      "en": "They felt that they were society’s rejects.",
+      "cn": "他们感到自己是社会的弃儿。"
+    },
+    {
+      "en": "They know scholars reject their legend, but they still cling to their belief.",
+      "cn": "尽管知道学者们不相信他们的传说，他们还是坚持自己的信仰。"
+    },
+    {
+      "en": "This is the reject.",
+      "cn": "这是次品."
+    },
+    {
+      "en": "Today its executive committee voted unanimously to reject the proposals.",
+      "cn": "今天执行委员会投票一致否决了这些提案。"
+    },
+    {
+      "en": "We categorically reject this groundless charge.",
+      "cn": "我们断然否认这种无理指责."
+    },
+    {
+      "en": "We reject any suggestion that the law needs amending.",
+      "cn": "对于任何暗示该法律需要修改的观点我们都拒绝接受。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "rejective",
+          "tran_cn": " 拒绝的；排斥的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "rejection",
+          "tran_cn": " 抛弃；拒绝；被抛弃的东西；盖帽"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "inferior",
+            "degraded product"
+          ],
+          "tran_cn": "被弃之物或人；次品"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "away",
+            "bar",
+            "cast",
+            "decline",
+            "discard",
+            "dispose",
+            "eliminate",
+            "exclude",
+            "expel",
+            "of",
+            "off",
+            "refuse",
+            "throw"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "refuse",
+            "negative"
+          ],
+          "tran_cn": "拒绝；排斥；抵制；丢弃"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "reject rate",
+      "tran_cn": "废品率；拒绝率"
+    },
+    {
+      "phrase": "reject ratio",
+      "tran_cn": "废品率；退件率"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "残次品，不合格者",
+      "tran_en": "a product that has been rejected because there is something wrong with it"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "拒绝考虑，摈弃，不录用，不出版，冷漠对待，对…产生排斥反应",
+      "tran_en": "to refuse to accept, believe in, or agree with something"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 拒绝， 驳回； 摒弃； 拒纳， 退回",
+      "tran_en": "to refuse to accept, believe in, or agree with something"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "rejects"
+    ],
+    "third": [
+      "rejects"
+    ],
+    "past": [
+      "rejected"
+    ],
+    "done": [
+      "rejected"
+    ],
+    "ing": [
+      "rejecting"
+    ],
+    "noun": [
+      "rejection"
+    ]
+  }
+}

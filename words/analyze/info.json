@@ -1,0 +1,202 @@
+{
+  "word": "analyze",
+  "ipa": {
+    "us": "'ænəlaɪz",
+    "uk": "ˈænəˌlaɪz"
+  },
+  "sentences": [
+    {
+      "en": "A chemist can analyze water into two colorless gases, hydrogen and oxygen.",
+      "cn": "化学家能将水分解成无色气体氢和氧."
+    },
+    {
+      "en": "A good accountant can analyze an unprofitable operation quickly.",
+      "cn": "一名优秀的会计师能迅速分析出亏损的环节."
+    },
+    {
+      "en": "Again carefully analyze one time, we can make out that this is completely incorrect.",
+      "cn": "再仔细分析一下, 我们可以看出这是完全错误的."
+    },
+    {
+      "en": "Analyze business transactions and relate them to changes in the balance sheet.",
+      "cn": "分析经济业务并把它们与引起的资产负债表的变化联系起来."
+    },
+    {
+      "en": "As they remove each segment, they analyze its molecular sequence.",
+      "cn": "在除去每一片段时, 他们分析了片段的分子顺序."
+    },
+    {
+      "en": "How do you analyze this change?",
+      "cn": "你该如何分析这种变化？"
+    },
+    {
+      "en": "Let's analyze the problem and see what went wrong.",
+      "cn": "让我们分析一下这道题，看什么地方出错了。"
+    },
+    {
+      "en": "Problems arise because we often do not know what data to capture and, after you capture it, how to analyze it.",
+      "cn": "问题又出现了，因为我们经常不知道去捕捉什么数据，在捕捉数据以后，怎样来分析它。"
+    },
+    {
+      "en": "The leader tried to analyze the causes of our failure.",
+      "cn": "这位领导试图分析研究我们失败的原因."
+    },
+    {
+      "en": "The linguists'main interest has been to analyze and describe languages.",
+      "cn": "语言学家的主要兴趣一直在于分析并描述语言."
+    },
+    {
+      "en": "The teacher tried to analyze the cause of our failure.",
+      "cn": "老师设法分析我们失败的原因。"
+    },
+    {
+      "en": "They will take that problem apart and analyze it in great detail.",
+      "cn": "他们会认真分析那个问题，指出其症结所在。"
+    },
+    {
+      "en": "Though caught unawares, the blockader made a graceful bow -- too graceful, thought Scarlett, trying to analyze it.",
+      "cn": "虽然出其不意, 那位跑封锁的人物还是很有礼貌地鞠了一躬 ---- 太彬彬有礼了, 思嘉想, 并开始琢磨其中的原因."
+    },
+    {
+      "en": "We are to properly analyze the ageing characteristics as well.",
+      "cn": "我们也需要正确地分析老化特征."
+    },
+    {
+      "en": "We can analyze by statistical mechanics the behavior of the stellar substance.",
+      "cn": "我们能用统计力学方法来分析星体物质的性能."
+    },
+    {
+      "en": "We can't analyze it with the dated ideas, and must lucubrate it with the newly ideas.",
+      "cn": "我们不能用一些过时的理论来分析这个问题，而是应该从一些新的观点来分析。"
+    },
+    {
+      "en": "We have to analyze and solve problems.",
+      "cn": "我们要分析问题，解决问题。"
+    },
+    {
+      "en": "We should analyze the cause and effect of this event.",
+      "cn": "我们应该分析这场事变的因果."
+    },
+    {
+      "en": "We should analyze the causes of failure.",
+      "cn": "我们应该分析一下失败的缘由。"
+    },
+    {
+      "en": "We should learn to discern and analyze the essentials of complicated questions.",
+      "cn": "我们应该学会认识和分析复杂问题的本质。"
+    },
+    {
+      "en": "You have to hoover anything before you can analyze it.",
+      "cn": "在你不具备分析能力之前，你只得胡乱吸收你所能学到的东西。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "analytic",
+          "tran_cn": " 分析的；解析的；善于分析的"
+        },
+        {
+          "word": "analytical",
+          "tran_cn": " 分析的；解析的；善于分析的"
+        },
+        {
+          "word": "analyzable",
+          "tran_cn": " 可分析的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "analytically",
+          "tran_cn": " 分析地；解析地"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "analyser",
+          "tran_cn": " 分析器，分析仪；分析者"
+        },
+        {
+          "word": "analysis",
+          "tran_cn": " 分析；分解；验定"
+        },
+        {
+          "word": "analyticity",
+          "tran_cn": " 分析性，[数] 解析性"
+        },
+        {
+          "word": "analyzer",
+          "tran_cn": " [计] 分析器；分析者；检偏镜"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "criticize",
+            "diagnose",
+            "dissect",
+            "examine",
+            "interpret",
+            "screen"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "break down"
+          ],
+          "tran_cn": "对…进行分析，分解（等于analyse）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "analyze data",
+      "tran_cn": "分析数据；分析资料"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": " 分析，分解，化验",
+      "tran_en": "to examine or think about something carefully, in order to understand it"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 分析； 分解"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "analyzes"
+    ],
+    "past": [
+      "analyzed"
+    ],
+    "done": [
+      "analyzed"
+    ],
+    "ing": [
+      "analyzing"
+    ]
+  }
+}

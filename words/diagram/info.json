@@ -1,0 +1,286 @@
+{
+  "word": "diagram",
+  "ipa": {
+    "us": "ˈdaɪəɡræm",
+    "uk": "ˈdaɪəɡræm"
+  },
+  "sentences": [
+    {
+      "en": "...a circuit diagram.",
+      "cn": "…电路图。"
+    },
+    {
+      "en": "A DAU hardware block diagram is shown in Fig.",
+      "cn": "3.数据彩集器DAU硬件 的方框图如图3所示."
+    },
+    {
+      "en": "a diagram of the heating system",
+      "cn": "供热系统示意图"
+    },
+    {
+      "en": "A diagram of the new road layout was superimposed on a map of the city.",
+      "cn": "新公路的规划示意图被叠映在该城市的地图上。"
+    },
+    {
+      "en": "a diagram of the wiring system",
+      "cn": "线路系统图"
+    },
+    {
+      "en": "a diagram representing a cross section of the human eye",
+      "cn": "表现人眼的剖面图"
+    },
+    {
+      "en": "A family tree is a diagram with branches, showing how the members of a family are descended and related.",
+      "cn": "家谱是说明家族成员血缘承袭关系的明细分支图."
+    },
+    {
+      "en": "A table or diagram containing the name and address range of each peripheral addressable by the processor within the memory space.",
+      "cn": "一个在内存空间中的，包含每个外设的名字和可由处理器设置的地址范围的表格或图表。"
+    },
+    {
+      "en": "As you see in the diagram below, the first one usually starts from the left.",
+      "cn": "正如您在下面的图表中看到，第一个事务处理通常是从左边开始。"
+    },
+    {
+      "en": "Compare this diagram with the one you used in the previous article.",
+      "cn": "将这个图表与前一篇文章中所使用的图表进行比较。"
+    },
+    {
+      "en": "He drew a diagram to show us how to get to his house.",
+      "cn": "他画了一张草图,告诉我们到他家该怎么走."
+    },
+    {
+      "en": "Like any such diagram, it is a simplification.",
+      "cn": "像其他这种表格一样，这是简化了的。"
+    },
+    {
+      "en": "On our project, we gradually decomposed each of the areas within the context diagram.",
+      "cn": "在我们的项目中，我们逐渐地分解环境图中的每个区域。"
+    },
+    {
+      "en": "On the back of the letter was a diagram.",
+      "cn": "信的背面是张图表."
+    },
+    {
+      "en": "The data can be represented graphically in a line diagram.",
+      "cn": "这些数据可以用单线图表现出来."
+    },
+    {
+      "en": "The diagram schematizes the creation and consumption of wealth.",
+      "cn": "图表概述了财富的创造和消费。"
+    },
+    {
+      "en": "The engineer drew a diagram of the bridge.",
+      "cn": "工程师绘制了一幅这座桥的示意图."
+    },
+    {
+      "en": "This diagram fits well into the article.",
+      "cn": "这张图表放在这篇文章中非常合适."
+    },
+    {
+      "en": "This diagram will illustrate what I mean.",
+      "cn": "这个图表可说明我的意思."
+    },
+    {
+      "en": "This is a simpler diagram than the one I just showed you but the principles are the same.",
+      "cn": "这是一个比我刚展示的还要更简单的图解，但是原理是一样的。"
+    },
+    {
+      "en": "This is represented in the schematic diagram below.",
+      "cn": "这正如下面的这幅简略图所示。"
+    },
+    {
+      "en": "We reproduced a same working schematic diagram.",
+      "cn": "我们复制了一份同样的施工简图."
+    },
+    {
+      "en": "You can use this diagram.",
+      "cn": "你可以用这张图表。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "diagrammatic",
+          "tran_cn": " 图解的；概略的；图表的"
+        },
+        {
+          "word": "diagrammatical",
+          "tran_cn": " 图解的；概略的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "diagrammatically",
+          "tran_cn": " 图表似地；概略地"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "chart",
+            "graph"
+          ],
+          "tran_cn": "图表；[数]图解"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "chart",
+            "depict",
+            "design",
+            "draw",
+            "drawing",
+            "figure",
+            "graph",
+            "outline",
+            "plan",
+            "plot",
+            "portray",
+            "sketch"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "depict",
+            "design",
+            "draw",
+            "portray",
+            "sketch"
+          ],
+          "tran_cn": "用图表示"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "activity diagram",
+      "tran_cn": "活动图；行为图"
+    },
+    {
+      "phrase": "block diagram",
+      "tran_cn": "框图；方块图"
+    },
+    {
+      "phrase": "circuit diagram",
+      "tran_cn": "电路图；线路图"
+    },
+    {
+      "phrase": "control diagram",
+      "tran_cn": "控制图， 流程图"
+    },
+    {
+      "phrase": "data flow diagram",
+      "tran_cn": "数据流程图"
+    },
+    {
+      "phrase": "diagram paper",
+      "tran_cn": "图表纸；绘图纸；电报纸"
+    },
+    {
+      "phrase": "flow diagram",
+      "tran_cn": "流程图；作业图"
+    },
+    {
+      "phrase": "force diagram",
+      "tran_cn": "力图；力线图"
+    },
+    {
+      "phrase": "forming limit diagram",
+      "tran_cn": "成形极限图"
+    },
+    {
+      "phrase": "frame diagram",
+      "tran_cn": "框架图；构架图解"
+    },
+    {
+      "phrase": "indicator diagram",
+      "tran_cn": "示功图；指示图"
+    },
+    {
+      "phrase": "ladder diagram",
+      "tran_cn": "梯形图"
+    },
+    {
+      "phrase": "network diagram",
+      "tran_cn": "网络图"
+    },
+    {
+      "phrase": "phase diagram",
+      "tran_cn": "[物理]（表示物质的各种相态平衡关系的）相图"
+    },
+    {
+      "phrase": "schematic diagram",
+      "tran_cn": "原理图，示意图"
+    },
+    {
+      "phrase": "sequence diagram",
+      "tran_cn": "顺序图，循序图；程序表"
+    },
+    {
+      "phrase": "state diagram",
+      "tran_cn": "状态图，平衡图"
+    },
+    {
+      "phrase": "structure diagram",
+      "tran_cn": "结构图"
+    },
+    {
+      "phrase": "system diagram",
+      "tran_cn": "系统图"
+    },
+    {
+      "phrase": "wiring diagram",
+      "tran_cn": "[电]接线图；布线图"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "图表，示意图",
+      "tran_en": "a simple drawing or plan that shows exactly where something is, what something looks like, or how something works"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "用图表表示",
+      "tran_en": "to show or represent something in a diagram"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "图解",
+      "tran_en": "to show or represent something in a diagram"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "diagrams"
+    ],
+    "adv": [
+      "diagrammatically"
+    ],
+    "adj": [
+      "diagrammatic"
+    ]
+  }
+}

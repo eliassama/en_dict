@@ -1,0 +1,175 @@
+{
+  "word": "illuminating",
+  "ipa": {
+    "us": "ɪˈlu:mɪneɪtɪŋ",
+    "uk": "ɪˈlumɪˌnetɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "a very illuminating book",
+      "cn": "一本极具启发性的书"
+    },
+    {
+      "en": "An error dialog should always be polite, illuminating, and helpful.",
+      "cn": "错误消息框应该始终有礼貌 、 具有启发性, 还要助人为乐."
+    },
+    {
+      "en": "As the rider rattled down the hill again and through the street, the village was illuminating.",
+      "cn": "骑马的人嗒嗒嗒跑下山穿过街道时, 村子照了个通亮."
+    },
+    {
+      "en": "He was much travelled; his comments on trends and personalities were invariably illuminating.",
+      "cn": "他游历很广, 对人对事有极精辟的见解."
+    },
+    {
+      "en": "His autobiography provides an illuminating insight into his mind.",
+      "cn": "他的自传可以让读者深入洞察他的精神世界。"
+    },
+    {
+      "en": "I found his talk most illuminating.",
+      "cn": "我觉得他的话很有启发性."
+    },
+    {
+      "en": "I have never listened to a more illuminating exposition of the subject.",
+      "cn": "我从未听过有关这个问题的详细讲解."
+    },
+    {
+      "en": "Illuminance of illuminating radiation is always measured in photometric units.",
+      "cn": "照明辐射的照度通常是以光度为单位."
+    },
+    {
+      "en": "Its small wick flickered weakly, illuminating only a small part of the room.",
+      "cn": "一点豆大的暗淡的灯光无力地摇晃着, 只照亮了这个房间的小部分."
+    },
+    {
+      "en": "No streetlights illuminated the street.",
+      "cn": "一盏照亮街道的路灯也没有。"
+    },
+    {
+      "en": "That biography is an illuminating footnote to our times.",
+      "cn": "那篇传记对我们这个时代是个很有启发性的补充说明."
+    },
+    {
+      "en": "The only light which is illuminating the scene is the sphere.",
+      "cn": "惟一的照亮场景的光源那个球."
+    },
+    {
+      "en": "The period in the F ü hrer's bunker is very illuminating.",
+      "cn": "在富勒尔的地堡里的日子能够说明很多."
+    },
+    {
+      "en": "The teacher gave us an illuminating lecture.",
+      "cn": "老师给我们上了一堂有启发性的一课."
+    },
+    {
+      "en": "The utility model discloses an LED mainly used in illuminating.",
+      "cn": "本实用新型公开了一种发光二极管,其主要用途为照明."
+    },
+    {
+      "en": "These clouds show spectra remarkably similar to those of the illuminating star.",
+      "cn": "这些云的光谱与照射它的亮星的光谱极其相似."
+    },
+    {
+      "en": "We didn't find the examples he used particularly illuminating.",
+      "cn": "我们觉得他采用的那些例证启发性不是特别大。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "illuminated",
+          "tran_cn": " 被照明的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "illuminance",
+          "tran_cn": " [光] 照度；照明度（等于illumination）"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "illuminated",
+          "tran_cn": " 照明；启发；兴奋（illuminate的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "illuminate",
+          "tran_cn": " 照亮"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "illume",
+          "tran_cn": " 照明；点亮；启发"
+        },
+        {
+          "word": "illuminate",
+          "tran_cn": " 阐明，说明；照亮；使灿烂；用灯装饰"
+        },
+        {
+          "word": "illumine",
+          "tran_cn": " 照明，点亮；启发"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "lit",
+            "floodlit"
+          ],
+          "tran_cn": "照亮的，照明的；启蒙的，有启发性的"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "words": [
+            "lighting"
+          ],
+          "tran_cn": "照明，阐释（illuminate的现在分词形式）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "illuminating lamp",
+      "tran_cn": "照明灯泡"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "富于启发的"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "使明亮( illuminate的现在分词 )，照亮，装饰，说明",
+      "tran_en": "To illuminate something means to shine light on it and to make it brighter and more visible"
+    }
+  ],
+  "exchange": {}
+}

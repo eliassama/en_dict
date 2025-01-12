@@ -1,0 +1,81 @@
+{
+  "word": "confabulate",
+  "ipa": {
+    "us": "kən'fæbjʊleɪt",
+    "uk": "kən'fæbjəˌleɪt"
+  },
+  "sentences": [
+    {
+      "en": "I know, teacher with her confabulate.",
+      "cn": "我知道, 老师又与她谈心了."
+    },
+    {
+      "en": "I'd like to confabulate with my friends at weekends.",
+      "cn": "我喜欢和我的朋友在周末时闲谈."
+    },
+    {
+      "en": "The sofa of ancient formula, can sit to also can lie, still perhaps can put down small tea table, drink confabulate .",
+      "cn": "古式的沙发，可坐也可躺，说不定还能放下小茶几，对饮谈心呢。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "confab",
+          "tran_cn": " 交谈；会议"
+        },
+        {
+          "word": "confabulation",
+          "tran_cn": " 交谈；闲谈"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "confab",
+          "tran_cn": " 谈话；闲谈"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "visit",
+            "dish"
+          ],
+          "tran_cn": "交谈，闲谈；虚构"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "交谈",
+      "tran_en": "to talk together; converse; chat "
+    }
+  ],
+  "exchange": {
+    "third": [
+      "confabulates"
+    ],
+    "past": [
+      "confabulted"
+    ],
+    "done": [
+      "confabulted"
+    ],
+    "ing": [
+      "confabulating"
+    ]
+  }
+}

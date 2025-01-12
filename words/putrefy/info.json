@@ -1,0 +1,124 @@
+{
+  "word": "putrefy",
+  "ipa": {
+    "us": "ˈpju:trɪfaɪ",
+    "uk": "ˈpjutrəˌfaɪ"
+  },
+  "sentences": [
+    {
+      "en": "The meat in all of the open flasks putrefied.",
+      "cn": "所有开口瓶中的肉都腐烂了。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "putrefactive",
+          "tran_cn": " [生化] 腐败的；腐烂的；易腐败的"
+        },
+        {
+          "word": "putrescent",
+          "tran_cn": " 腐败的；正在腐烂的"
+        },
+        {
+          "word": "putrescible",
+          "tran_cn": " 会腐败的"
+        },
+        {
+          "word": "putrid",
+          "tran_cn": " 腐败的；腐烂的；令人厌恶的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "putrescence",
+          "tran_cn": " 腐败；腐烂"
+        },
+        {
+          "word": "putrescible",
+          "tran_cn": " 会腐烂的物质"
+        },
+        {
+          "word": "putridity",
+          "tran_cn": " 腐败；堕落"
+        },
+        {
+          "word": "putridness",
+          "tran_cn": " 腐化；腐烂；堕落"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "addle"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "gather head",
+            "suppurate"
+          ],
+          "tran_cn": "化脓，腐烂；堕落"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "rot away",
+            "fall into decay"
+          ],
+          "tran_cn": "腐烂，化脓；堕落"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "(使)化脓, (使)腐烂, (使)堕落",
+      "tran_en": "if a dead animal or plant putrefies, it decays and smells very bad"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": "腐化，堕落"
+    },
+    {
+      "pos": "vt& vi.",
+      "tran_cn": "（使）腐烂，（使）腐败，（使）化脓"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "putrefies"
+    ],
+    "past": [
+      "putrefied"
+    ],
+    "done": [
+      "putrefied"
+    ],
+    "ing": [
+      "putrefying"
+    ]
+  }
+}

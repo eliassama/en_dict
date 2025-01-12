@@ -1,0 +1,60 @@
+{
+  "word": "aliquot",
+  "ipa": {
+    "us": "ˈælɪkwɒt",
+    "uk": "ˈælɪkwɑt"
+  },
+  "sentences": [
+    {
+      "en": "3 is an aliquot part of 12",
+      "cn": ""
+    },
+    {
+      "en": "Aliquot 10μ l of the master mix for each DNA to be analyzed into a reaction tube.",
+      "cn": "将酵素反应混合液取10μl分装 至每管要被分析DNA至反应管."
+    },
+    {
+      "en": "For the request to aliquot a unit of blood for small volume transfusion.",
+      "cn": "申请将一单位血液分成小单位时使用."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "aliquant",
+          "tran_cn": " 不能整除的；除不尽的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "aliquant",
+          "tran_cn": " 不能整除；[数] 除不尽的数"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "能整除的",
+      "tran_en": "of, signifying, or relating to an exact divisor of a quantity or number "
+    },
+    {
+      "pos": "n",
+      "tran_cn": "（尤指化学实验的）试样，整除数",
+      "tran_en": "an aliquot part "
+    },
+    {
+      "pos": "v",
+      "tran_cn": "把…等分"
+    }
+  ],
+  "exchange": {}
+}

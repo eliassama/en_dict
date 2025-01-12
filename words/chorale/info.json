@@ -1,0 +1,83 @@
+{
+  "word": "chorale",
+  "ipa": {
+    "us": "kɒˈrɑ:l",
+    "uk": "kəˈræl"
+  },
+  "sentences": [
+    {
+      "en": "...a Bach chorale.",
+      "cn": "...一首巴赫的赞美诗。"
+    },
+    {
+      "en": "The crickets were well into the evening's chorale.",
+      "cn": "蟋蟀们唱着夜晚的赞美诗."
+    },
+    {
+      "en": "The music becomes four - part , when the pedal adds the chorale melody.",
+      "cn": "当低音部加入合唱曲目的时候,音乐变成了四个声部."
+    },
+    {
+      "en": "Variations on a Theme by Haydn,'st Antoni Chorale \"",
+      "cn": "海顿主题变奏曲,“圣·安东尼圣咏 ”"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "choral",
+          "tran_cn": " 合唱的；合唱队的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "choral",
+          "tran_cn": " 赞美诗；唱诗班"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "psalmody",
+            "hymnody"
+          ],
+          "tran_cn": "赞美诗"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "music"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "赞美诗",
+      "tran_en": "a piece of music praising God, usually sung in a church by a large group of people"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "chorales"
+    ]
+  }
+}

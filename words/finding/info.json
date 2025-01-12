@@ -1,0 +1,194 @@
+{
+  "word": "finding",
+  "ipa": {
+    "us": "ˈfaɪndɪŋ",
+    "uk": "ˈfaɪndɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Bosses have a way of always finding out about such things.",
+      "cn": "老板总喜欢把这类事情搞清楚。"
+    },
+    {
+      "en": "Employees are being offered assistance in finding new jobs.",
+      "cn": "正在帮助雇员另觅新职。"
+    },
+    {
+      "en": "Finding a second wind, he rode away from his pursuers.",
+      "cn": "他缓过劲儿来，骑马逃离了追赶他的人。"
+    },
+    {
+      "en": "Finding a volunteer to write the computer program isn't a problem.",
+      "cn": "找个志愿者编这个计算机程序不成问题。"
+    },
+    {
+      "en": "He kept waffling and finding excuses not to close the deal.",
+      "cn": "他一直举棋不定，找出种种理由不予成交。"
+    },
+    {
+      "en": "He was an expert at finding his way, even in strange surroundings.",
+      "cn": "他是认路的行家，即使在陌生的环境中也是如此。"
+    },
+    {
+      "en": "He was finding the river lonesome.",
+      "cn": "他发现这条河很偏僻。"
+    },
+    {
+      "en": "He was plainly very put out at finding her there.",
+      "cn": "发现她在那里他明显很不安。"
+    },
+    {
+      "en": "Integrating the kids with the community, finding them a role, is essential.",
+      "cn": "使孩子融入社区并为他们找到某个角色非常必要。"
+    },
+    {
+      "en": "Jack believed in finding happiness wherever possible.",
+      "cn": "杰克认为应该及时行乐。"
+    },
+    {
+      "en": "Life isn't about finding yourself. Life is about creating yourself.--George Bernard Shaw",
+      "cn": "生活不是发现你自己，而是创造你自己！"
+    },
+    {
+      "en": "She was finding it increasingly difficult to get about.",
+      "cn": "她发现出去走动越来越困难了。"
+    },
+    {
+      "en": "Surveys conducted in other countries reported similar findings.",
+      "cn": "在其他国家进行的调查也报告说有类似的结果。"
+    },
+    {
+      "en": "The finding ran counter to all expectations.",
+      "cn": "该发现出乎所有人的预料。"
+    },
+    {
+      "en": "The man responsible for finding the volunteers is Dr. Charles Weber.",
+      "cn": "负责寻找志愿者的人是查尔斯·韦伯博士。"
+    },
+    {
+      "en": "The tourist office operates a useful room-finding service.",
+      "cn": "这家旅游办事处提供十分实用的住宿查询服务。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "find",
+          "tran_cn": " 发现"
+        },
+        {
+          "word": "finder",
+          "tran_cn": " 发现者；探测器；（照相机的）[摄] 取景器；（大望远镜上的）[天] 寻星镜"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "found",
+          "tran_cn": " 找到（find的过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "find",
+          "tran_cn": " 裁决"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "find",
+          "tran_cn": " 发现；认为；感到；获得"
+        },
+        {
+          "word": "found",
+          "tran_cn": " 创立，建立；创办"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "award",
+            "conclusion",
+            "decision",
+            "decree",
+            "judgment",
+            "pronouncement",
+            "sentence",
+            "verdict"
+          ],
+          "tran_cn": "判定"
+        },
+        {
+          "words": [
+            "discovery",
+            "find"
+          ],
+          "tran_cn": "发现"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "detection",
+            "determination",
+            "resolution",
+            "solution"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "direction finding",
+      "tran_cn": "测向；定向"
+    },
+    {
+      "phrase": "fact finding",
+      "tran_cn": "查明事实；实况调查"
+    },
+    {
+      "phrase": "fault finding",
+      "tran_cn": "故障探测，故障寻找；诊断工具"
+    },
+    {
+      "phrase": "finding nemo",
+      "tran_cn": "海底总动员（动画片）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "调查发现/结果，裁决",
+      "tran_en": "the information that someone has discovered as a result of their study, work etc"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "找到；感到（find的ing形式）；遇到"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "findings"
+    ]
+  }
+}

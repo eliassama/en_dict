@@ -1,0 +1,79 @@
+{
+  "word": "debrief",
+  "ipa": {
+    "us": "ˌdi:ˈbri:f",
+    "uk": "ˌdi'brif"
+  },
+  "sentences": [
+    {
+      "en": "As you listen, consider the following questions. Then we’ll examine the answers in the debrief.",
+      "cn": "听录音时，考虑以下的问题，我们在听取汇报时会检查答案。"
+    },
+    {
+      "en": "JB : My debrief room, after qualifying, I think.",
+      "cn": "简森 -巴顿 :我认为会是在排位赛之后的汇报室里."
+    },
+    {
+      "en": "Join Charles Cooper and Stephen Shankland on the CNET News Daily Debrief.",
+      "cn": "加入了CNET新闻每天的总结查尔斯库珀和斯蒂芬的专访."
+    },
+    {
+      "en": "The returning bomber crews were debriefed.",
+      "cn": "询问了返回的轰炸机机组人员以了解情况。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "debriefing",
+          "tran_cn": " 任务报告；任务报告中提出的情报"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "cross examination",
+            "catechize"
+          ],
+          "tran_cn": "盘问；听取报告"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "听取报告, 听取汇报",
+      "tran_en": "to ask someone questions about a job they have just done or an experience they have just had, in order to gather information"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "向（外交人员等）询问执行任务的情况"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "debriefs"
+    ],
+    "past": [
+      "debriefed"
+    ],
+    "done": [
+      "debriefed"
+    ],
+    "ing": [
+      "debriefing"
+    ],
+    "noun": [
+      "debriefing"
+    ]
+  }
+}

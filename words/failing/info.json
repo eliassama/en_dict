@@ -1,0 +1,200 @@
+{
+  "word": "failing",
+  "ipa": {
+    "us": "ˈfeɪlɪŋ",
+    "uk": "ˈfelɪŋ"
+  },
+  "sentences": [
+    {
+      "en": "Failing good weather, the match will be held indoors.",
+      "cn": "如果天气不好, 比赛将在室内举行."
+    },
+    {
+      "en": "Failing Smith, try Tom.",
+      "cn": "要是史密斯不在, 就找汤姆."
+    },
+    {
+      "en": "For failing to report the accident, his licence was endorsed.",
+      "cn": "由于发生事故未能报告，他的驾驶执照被注明违章。"
+    },
+    {
+      "en": "He had siphoned thousands of pounds a week from the failing business.",
+      "cn": "他一周之内从这家濒临破产的企业里抽走了数千英镑的资金。"
+    },
+    {
+      "en": "He was 58, and his health was failing rapidly.",
+      "cn": "他58岁，身体正在迅速衰老。"
+    },
+    {
+      "en": "He was convicted of failing to muzzle a pit bull.",
+      "cn": "他因没能给比特犬戴嘴套而被判有罪。"
+    },
+    {
+      "en": "He was declared bankrupt after failing to pay a £114m loan guarantee.",
+      "cn": "由于无力偿还1.14亿英镑的贷款担保，他被宣布破产。"
+    },
+    {
+      "en": "Her ambition to become an artist was thwarted by failing eyesight.",
+      "cn": "她想成为艺术家的梦想由于视力衰减而破灭了。"
+    },
+    {
+      "en": "I love him, despite his failings.",
+      "cn": "尽管他有种种缺点，我还是爱他。"
+    },
+    {
+      "en": "In a way, I suppose I'm frightened of failing.",
+      "cn": "我想我有点惧怕失败。"
+    },
+    {
+      "en": "My sight is failing, and I can't see to read any more.",
+      "cn": "我的视力在下降，看不了书了。"
+    },
+    {
+      "en": "One's failing years are numbered.",
+      "cn": "余年可数."
+    },
+    {
+      "en": "She was reprimanded for failing to do her duty.",
+      "cn": "她因失职而遭到了训斥."
+    },
+    {
+      "en": "They were charged with failing to have professional indemnity cover.",
+      "cn": "他们被指控未能提供职业保险保障。"
+    },
+    {
+      "en": "Water industry chiefs were rapped yesterday for failing their customers.",
+      "cn": "昨天，水利行业的头头们因为怠慢客户而受到批评。"
+    },
+    {
+      "en": "Who wants to buy a computer from a failing company?",
+      "cn": "谁愿意从一家要倒闭的公司买计算机呢？"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "failed",
+          "tran_cn": " 已失败的，不成功的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "fail",
+          "tran_cn": " 不及格"
+        },
+        {
+          "word": "failure",
+          "tran_cn": " 失败；故障；失败者；破产"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "failed",
+          "tran_cn": " 失败，不成功（fail的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "fail",
+          "tran_cn": " 失败，不及格；破产；缺乏；衰退"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "fail",
+          "tran_cn": " 不及格；使失望；忘记；舍弃"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "losing",
+            "abortive"
+          ],
+          "tran_cn": "失败的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "loss",
+            "error",
+            "weakness",
+            "defect",
+            "deficiency"
+          ],
+          "tran_cn": "失败；缺点，过失；弱点"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "abortive",
+            "defect",
+            "drawback",
+            "shortcoming",
+            "unsuccessful",
+            "weakness"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "failing grade",
+      "tran_cn": "失败；不及格分"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "失败的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "（性格中的）弱点，缺陷，短处",
+      "tran_en": "a fault or weakness"
+    },
+    {
+      "pos": "prep",
+      "tran_cn": "如果（某事）不发生，如果没有（某事物），如果（某人不在），如果没有（某人）",
+      "tran_en": "used to say that if your first suggestion is not successful or possible, there is another possibility that you could try"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "在…中失败( fail的现在分词)，衰退，不及格(fail的ing形式)，破产"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "failings"
+    ]
+  }
+}

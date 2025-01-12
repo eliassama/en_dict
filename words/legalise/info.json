@@ -1,0 +1,89 @@
+{
+  "word": "legalise",
+  "ipa": {
+    "us": "'li:gəlaɪz",
+    "uk": "ˈliɡlˌaɪz"
+  },
+  "sentences": [
+    {
+      "en": "They won't ever legalise the drugs trade.",
+      "cn": "他们永远不会把毒品的行业合法化的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "legal",
+          "tran_cn": " 法律的；合法的；法定的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "legally",
+          "tran_cn": " 合法地；法律上"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "legalisation",
+          "tran_cn": " 合法化；正当化"
+        },
+        {
+          "word": "legalism",
+          "tran_cn": " 拘泥于法律或规定的人；律法尊重主义者；守法主义；法律术语"
+        },
+        {
+          "word": "legality",
+          "tran_cn": " 合法；合法性；墨守法规"
+        },
+        {
+          "word": "legalization",
+          "tran_cn": " [法] 合法化；法律认可"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "legalize",
+          "tran_cn": " 使合法化；公认；法律上认为…正当"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "legitimise",
+            "regularise"
+          ],
+          "tran_cn": "使合法化（等于legalize）"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "使合法化（等于legalize）"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": "使合法化"
+    }
+  ],
+  "exchange": {}
+}

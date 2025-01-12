@@ -1,0 +1,77 @@
+{
+  "word": "slangy",
+  "ipa": {
+    "us": "ˈslæŋi",
+    "uk": "ˈslæŋi"
+  },
+  "sentences": [
+    {
+      "en": "Don't use such slangy expressions in your essays.",
+      "cn": "别在你们的文章里用这样的俚语措辞."
+    },
+    {
+      "en": "The play was full of slangy dialogue.",
+      "cn": "剧中充斥了大量俚语对话。"
+    },
+    {
+      "en": "These slangy words have long fallen out of English.",
+      "cn": "这些俚语在英语中早就不用了."
+    },
+    {
+      "en": "This slangy word is falling off from English.",
+      "cn": "这个俚语在英语中使用得越来越少."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "slang",
+          "tran_cn": " 俚语的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "slang",
+          "tran_cn": " 俚语；行话"
+        },
+        {
+          "word": "slanguage",
+          "tran_cn": " 使用俚语的表现法；多俚语的作品"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "slang",
+          "tran_cn": " 用粗话骂"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "slang",
+          "tran_cn": " 用俚语说"
+        }
+      ]
+    }
+  ],
+  "synos": [],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "俚语的，好用俚语的",
+      "tran_en": "Slangy speech or writing has a lot of slang in it"
+    }
+  ],
+  "exchange": {}
+}

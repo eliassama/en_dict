@@ -1,0 +1,300 @@
+{
+  "word": "directory",
+  "ipa": {
+    "us": "dəˈrektəri",
+    "uk": "dəˈrektəri"
+  },
+  "sentences": [
+    {
+      "en": "a new business directory",
+      "cn": "新的商业名录"
+    },
+    {
+      "en": "Directory enquiries will give you the number if you cannot find it in the telephone book.",
+      "cn": "电话簿里要是找不到，查号台能告诉你号码。"
+    },
+    {
+      "en": "He dialled directory enquiries.",
+      "cn": "他拨打了查号台的电话。"
+    },
+    {
+      "en": "He thumbed through the directory to look for her number.",
+      "cn": "他翻阅电话号码簿找寻她的号码."
+    },
+    {
+      "en": "Her name is listed in the telephone directory.",
+      "cn": "她的名字被列在了电话号码簿上."
+    },
+    {
+      "en": "I can find his telephone number in the telephone directory.",
+      "cn": "我可以从电话号码簿里找到他的电话号码."
+    },
+    {
+      "en": "I couldn’t find your number in the telephone directory.",
+      "cn": "我在电话簿上找不到你的电话号码。"
+    },
+    {
+      "en": "If you are unable to obtain the information you require, consult your telephone directory.",
+      "cn": "如果你无法获得所需信息，请查询电话号码簿。"
+    },
+    {
+      "en": "In this case, you either have to remove the slash or specify the directory with +D.",
+      "cn": "在这种情况下，您可以删除这个斜杠或者使用 +D 指定目录。"
+    },
+    {
+      "en": "Kelly's directory of merchants, manufactures and shippers is a general trades directory in two volumes.",
+      "cn": "《凯利商人 、 制造商和货运行名录》是一种两卷本的一般贸易指南."
+    },
+    {
+      "en": "The character position of the start of earth field is specified by a directory.",
+      "cn": "每个字段起始的字符位置由该目录规定."
+    },
+    {
+      "en": "The directory is available on microfiche .",
+      "cn": "使用说明在缩微胶片上。"
+    },
+    {
+      "en": "The term \" meta directory \" came into industry parlance two years ago.",
+      "cn": "两年前,商业界开始用 “ 元目录 ” 这个术语."
+    },
+    {
+      "en": "to look up a number in the telephone directory",
+      "cn": "在电话簿里查电话号码"
+    },
+    {
+      "en": "We looked out his address in the telephone directory.",
+      "cn": "我们在电话里查出了他的地址."
+    },
+    {
+      "en": "We scoured the telephone directory for clues.",
+      "cn": "我们仔细查阅电话簿以寻找线索。"
+    },
+    {
+      "en": "Yahoo is the oldest and best-known Web directory service.",
+      "cn": "雅虎是最早且最知名的因特网目录服务网站。"
+    },
+    {
+      "en": "You can use a directory service to search for people on the Internet.",
+      "cn": "你可以利用因特网的目录服务搜索人名。"
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "direct",
+          "tran_cn": " 直接的；直系的；亲身的；恰好的"
+        },
+        {
+          "word": "directed",
+          "tran_cn": " 定向的；经指导的；被控制的"
+        },
+        {
+          "word": "directionless",
+          "tran_cn": " 没有方向的；没有目标的"
+        },
+        {
+          "word": "directive",
+          "tran_cn": " 指导的；管理的"
+        }
+      ]
+    },
+    {
+      "pos": "adv",
+      "words": [
+        {
+          "word": "direct",
+          "tran_cn": " 直接地；正好；按直系关系"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "direction",
+          "tran_cn": " 方向；指导；趋势；用法说明"
+        },
+        {
+          "word": "directive",
+          "tran_cn": " 指示；指令"
+        },
+        {
+          "word": "directiveness",
+          "tran_cn": " 定向性；指令性；趋向或趋势的确定性"
+        },
+        {
+          "word": "director",
+          "tran_cn": " 主任，主管；导演；人事助理"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "directed",
+          "tran_cn": " 指导；管理（direct的过去式和过去分词）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "direct",
+          "tran_cn": " 指导；指挥"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "direct",
+          "tran_cn": " 管理；指挥；导演；指向"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "words": [
+            "consulting",
+            "advisory"
+          ],
+          "tran_cn": "指导的；咨询的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "content",
+            "list",
+            "catalogue"
+          ],
+          "tran_cn": "[计]目录；工商名录；姓名地址录"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "agenda",
+            "catalogue",
+            "handbook",
+            "manual"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "active directory",
+      "tran_cn": "活动目录；动态目录"
+    },
+    {
+      "phrase": "business directory",
+      "tran_cn": "厂商指南；企业行名录"
+    },
+    {
+      "phrase": "current directory",
+      "tran_cn": "n. [计]当前目录"
+    },
+    {
+      "phrase": "data directory",
+      "tran_cn": "数据目录，资料目录"
+    },
+    {
+      "phrase": "default directory",
+      "tran_cn": "缺省目录"
+    },
+    {
+      "phrase": "destination directory",
+      "tran_cn": "[计]目标目录，目的目录"
+    },
+    {
+      "phrase": "directory listing",
+      "tran_cn": "[计]目录列表"
+    },
+    {
+      "phrase": "directory name",
+      "tran_cn": "目录名称"
+    },
+    {
+      "phrase": "directory path",
+      "tran_cn": "[计]目录路径"
+    },
+    {
+      "phrase": "directory service",
+      "tran_cn": "目录服务；查号服务"
+    },
+    {
+      "phrase": "directory structure",
+      "tran_cn": "目录结构"
+    },
+    {
+      "phrase": "directory tree",
+      "tran_cn": "[计]目录树"
+    },
+    {
+      "phrase": "file directory",
+      "tran_cn": "文件目录"
+    },
+    {
+      "phrase": "home directory",
+      "tran_cn": "主目录；根目录"
+    },
+    {
+      "phrase": "parent directory",
+      "tran_cn": "[计]父目录"
+    },
+    {
+      "phrase": "root directory",
+      "tran_cn": "根目录"
+    },
+    {
+      "phrase": "source directory",
+      "tran_cn": "源目录"
+    },
+    {
+      "phrase": "telephone directory",
+      "tran_cn": "电话簿"
+    },
+    {
+      "phrase": "virtual directory",
+      "tran_cn": "虚拟目录；虚目录"
+    },
+    {
+      "phrase": "working directory",
+      "tran_cn": "n. 工作目录"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "adj",
+      "tran_cn": "指导的；咨询的"
+    },
+    {
+      "pos": "n",
+      "tran_cn": "通讯录，名录，目录",
+      "tran_en": "a book or list of names, facts etc, usually arranged in alphabetical order"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "directories"
+    ]
+  }
+}

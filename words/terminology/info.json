@@ -1,0 +1,134 @@
+{
+  "word": "terminology",
+  "ipa": {
+    "us": "ˌtɜːmɪˈnɒlədʒi",
+    "uk": "ˌtɜːrmɪˈnɑːlədʒi"
+  },
+  "sentences": [
+    {
+      "en": "computer terminology",
+      "cn": "计算机术语"
+    },
+    {
+      "en": "He particularly criticized the terminology in the document.",
+      "cn": "他特别批评了文件中使用的术语."
+    },
+    {
+      "en": "I don't understand scientific terminology.",
+      "cn": "我不懂科学术语."
+    },
+    {
+      "en": "In biological terminology life is divided into two groups: plants and animals.",
+      "cn": "在生物学术语中,生物分为两大类: 植物和动物."
+    },
+    {
+      "en": "It's couched in such very user-unfriendly terminology.",
+      "cn": "文中使用了令用户敬而远之的术语。"
+    },
+    {
+      "en": "Its refined terminology and class distinctions are frequently meaningful for engineering work.",
+      "cn": "其精练的名词术语与分类特征常常对工程是有意义的."
+    },
+    {
+      "en": "Loose terminology must be avoided.",
+      "cn": "应避免使用意义含糊的术语."
+    },
+    {
+      "en": "Most readers are likely to lose interest when he descends into the realms of rhetorical terminology.",
+      "cn": "他开始讨论修辞术语,大多数读者很可能会失去兴趣."
+    },
+    {
+      "en": "Terminology can be very confusing because numerous terms have arisen in various disciplines.",
+      "cn": "多数术语起源于不同的学科,故容易混淆."
+    },
+    {
+      "en": "The article uses rather specialized musical terminology.",
+      "cn": "这篇文章用了相当专业的音乐术语."
+    },
+    {
+      "en": "The disagreement arose over a different use of terminology.",
+      "cn": "分歧的缘起在于专门用语使用的不同。"
+    },
+    {
+      "en": "The particularly loose terminology of folk art studies further confuses the matter of definitions.",
+      "cn": "民间艺术研究中不精确的专有名词使定义更加混乱."
+    },
+    {
+      "en": "The reason for the terminology will become clear shortly.",
+      "cn": "命名理由稍后就会清楚."
+    },
+    {
+      "en": "The terminology of early forms is badly confused.",
+      "cn": "早期一些舞蹈形式的称呼已经模糊不清."
+    },
+    {
+      "en": "The word'shell \" is used extensively in the terminology of atomic physics.",
+      "cn": "在原子物理学的术语中, “ 壳层 ” 一词是经常使用的."
+    },
+    {
+      "en": "We will use their own terminology even though it belongs to the \" genetic \" category.",
+      "cn": "我们将采用它们自己的术语,即使它们是属于 “ 遗传学 ” 范畴的."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "terminological",
+          "tran_cn": " 术语的；术语学的；专门名词的"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "technology",
+            "onym"
+          ],
+          "tran_cn": "[语]术语，术语学；用辞"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "vocabulary"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "scientific terminology",
+      "tran_cn": "科学术语"
+    },
+    {
+      "phrase": "technical terminology",
+      "tran_cn": "专门词汇；技术名词命名法"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "专门名词，术语，术语学，用辞",
+      "tran_en": "the technical words or expressions that are used in a particular subject"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "terminologies"
+    ],
+    "adj": [
+      "terminological"
+    ]
+  }
+}

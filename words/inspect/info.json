@@ -1,0 +1,177 @@
+{
+  "word": "inspect",
+  "ipa": {
+    "us": "ɪnˈspekt",
+    "uk": "ɪnˈspekt"
+  },
+  "sentences": [
+    {
+      "en": "Cut the fruit in half and inspect the pips: if they are turning slightly brown it is ready for harvesting.",
+      "cn": "把果实切成两半，检查一下其中的籽：如果有点成棕色，那就该收获了。"
+    },
+    {
+      "en": "Elaine went outside to inspect the playing field.",
+      "cn": "伊莱恩走到外面查看操场。"
+    },
+    {
+      "en": "General Allenby arrived to inspect the troops.",
+      "cn": "艾伦比将军前来检阅部队。"
+    },
+    {
+      "en": "He gave us permission to enter his premises to inspect the meters.",
+      "cn": "他允许我们进入他的房屋检查仪表."
+    },
+    {
+      "en": "He was instructed to inspect the cargo on the ship and detain such cargo if necessary.",
+      "cn": "他奉命去检查船上所载货物并于必要时扣留该项货物."
+    },
+    {
+      "en": "Health Department officials came to inspect the factory.",
+      "cn": "卫生部的官员来视察这个工厂."
+    },
+    {
+      "en": "However, when the judges came to inspect the new machine, they were amazed.",
+      "cn": "然而, 当评判员们来检验这一新机器时, 他们惊呆了."
+    },
+    {
+      "en": "I got out of the car to inspect the damage.",
+      "cn": "我下车查看损坏情况。"
+    },
+    {
+      "en": "Police inspected the scene and interviewed all the staff.",
+      "cn": "警察仔细检查了现场并询问了所有员工。"
+    },
+    {
+      "en": "Several years later, they heard that Napoleon himself was coming to inspect them.",
+      "cn": "几年以后, 听说拿破仑本人要来视察他们."
+    },
+    {
+      "en": "The building is regularly inspected by the fire-safety officer.",
+      "cn": "消防安全官定期巡视这座大楼。"
+    },
+    {
+      "en": "The buyer must inspect the goods supplied for defects.",
+      "cn": "买方必须检查--所供应的商品有无瑕疵."
+    },
+    {
+      "en": "The captain wants to inspect your kit.",
+      "cn": "船长想检查你的行装."
+    },
+    {
+      "en": "The Director leaves tomorrow for a tour of overseas branches , ie to inspect them.",
+      "cn": "董事长明天动身去视察海外分支机构."
+    },
+    {
+      "en": "The mayor will inspect our school tomorrow.",
+      "cn": "市长明天要来视察我们学校."
+    },
+    {
+      "en": "The stewards will inspect the course to see if racing is possible.",
+      "cn": "那些干事将检视赛马场看是否适宜比赛."
+    },
+    {
+      "en": "They don't normally give any advance notice about which building they're going to inspect.",
+      "cn": "他们一般不会预先通知检查哪座大楼。"
+    },
+    {
+      "en": "They have the right to come in and inspect the meter.",
+      "cn": "他们有权进来查表。"
+    },
+    {
+      "en": "Two policemen held up a truck so as to inspect the driver's license.",
+      "cn": "两个警察让一辆卡车停住以便检查司机的驾驶证."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "inspection",
+          "tran_cn": " 视察，检查"
+        },
+        {
+          "word": "inspector",
+          "tran_cn": " 检查员；巡视员"
+        },
+        {
+          "word": "inspectorate",
+          "tran_cn": " 检查员；视察团；检查员的辖区"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "audit",
+            "canvass",
+            "censor",
+            "contemplate",
+            "examine",
+            "eye",
+            "investigate",
+            "observe",
+            "prospect",
+            "review",
+            "scan",
+            "screen",
+            "scrutinize",
+            "study",
+            "survey"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "contemplate",
+            "examine",
+            "observe",
+            "study"
+          ],
+          "tran_cn": "检查;思考"
+        }
+      ]
+    }
+  ],
+  "phrases": [],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "检查，视察",
+      "tran_en": "to examine something carefully in order to find out more about it or to find out what is wrong with it"
+    },
+    {
+      "pos": "vi",
+      "tran_cn": " 进行检查； 进行视察",
+      "tran_en": "to make an official visit to a building, organization etc to check that everything is satisfactory and that rules are being obeyed"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 检查， 审视， 视察",
+      "tran_en": "to make an official visit to a building, organization etc to check that everything is satisfactory and that rules are being obeyed"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "inspects"
+    ],
+    "past": [
+      "inspected"
+    ],
+    "done": [
+      "inspected"
+    ],
+    "ing": [
+      "inspecting"
+    ]
+  }
+}

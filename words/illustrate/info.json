@@ -1,0 +1,200 @@
+{
+  "word": "illustrate",
+  "ipa": {
+    "us": "ˈɪləstreɪt",
+    "uk": "ˈɪləstreɪt"
+  },
+  "sentences": [
+    {
+      "en": "A few statistics will illustrate the general trend.",
+      "cn": "少数统计资料就能说明这种总趋势."
+    },
+    {
+      "en": "A set of synthetic data is used to illustrate these methods.",
+      "cn": "一组模拟数据被用来说明这些方法."
+    },
+    {
+      "en": "He quoted some old Chinese sayings to illustrate his points.",
+      "cn": "他援用了一些中国话来解释他的论点."
+    },
+    {
+      "en": "Here are few examples to illustrate this principle.",
+      "cn": "略举数例,用以说明这一原理."
+    },
+    {
+      "en": "I can cite quite a few instances to illustrate.",
+      "cn": "我可以举出好几件事来说明."
+    },
+    {
+      "en": "Let me give an example to illustrate the point.",
+      "cn": "让我举个例子来说明这一点。"
+    },
+    {
+      "en": "Over a hundred diagrams, tables and pictures illustrate the book.",
+      "cn": "这本书有一百多幅图解、表格和图片。"
+    },
+    {
+      "en": "She illustrated her discussion with diagrams.",
+      "cn": "她用图表来说明她的论述。"
+    },
+    {
+      "en": "The above circuIt'serves to illustrate the principle of the gage.",
+      "cn": "上述线路图是用来说明应变计的作用原理的."
+    },
+    {
+      "en": "The company's bank statements illustrate its success.",
+      "cn": "这家公司的银行报表说明了它的成功."
+    },
+    {
+      "en": "The following brief descriptions illustrate significant examples of their work.",
+      "cn": "以下扼要介绍一下他们工作中的一些重要实例."
+    },
+    {
+      "en": "The following tale will clearly illustrate this point.",
+      "cn": "接下来的故事将清楚地阐明这一点。"
+    },
+    {
+      "en": "This diagram will illustrate what I mean.",
+      "cn": "这个图表可说明我的意思."
+    },
+    {
+      "en": "Those are expressly designed to illustrate the vagaries of Leibnizian notation.",
+      "cn": "那些是用来说明莱布尼兹记号的巧妙想法."
+    },
+    {
+      "en": "To illustrate my point I have done a comparative analysis.",
+      "cn": "为说明我的观点,我做了对比分析."
+    },
+    {
+      "en": "To illustrate the foregoing analysis, consider a linear elestic solid.",
+      "cn": "为了举例阐明以上的分析, 我们考虑一种线性的弹性固体."
+    },
+    {
+      "en": "Two cases involving SEC \" no - action letters \" illustrate these difficulties.",
+      "cn": "两个涉及证券交易委员会的 \" 不行动书 \" 的案例说明了这些困难."
+    },
+    {
+      "en": "With some simple properties, particles can usefully illustrate many laws of physics.",
+      "cn": "粒子具有简单的性质, 可用来阐明物理学的许多定律."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "adj",
+      "words": [
+        {
+          "word": "illustrative",
+          "tran_cn": " 说明的；作例证的；解说的"
+        }
+      ]
+    },
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "illustration",
+          "tran_cn": " 说明；插图；例证；图解"
+        },
+        {
+          "word": "illustrator",
+          "tran_cn": " 插图画家；说明者；图解者"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "amplify",
+            "annotate",
+            "cite",
+            "clarify",
+            "demonstrate",
+            "depict",
+            "display",
+            "exemplify",
+            "explain",
+            "illuminate",
+            "picture",
+            "portray",
+            "quote",
+            "represent",
+            "show",
+            "specify",
+            "symbolize"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "words": [
+            "give an example",
+            "cite an example"
+          ],
+          "tran_cn": "举例"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "words": [
+            "picture",
+            "portray",
+            "represent"
+          ],
+          "tran_cn": "用图说明,图解"
+        },
+        {
+          "words": [
+            "clarify",
+            "demonstrate",
+            "explain",
+            "show"
+          ],
+          "tran_cn": "说明,阐明"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "illustrate with",
+      "tran_cn": "用…来说明；给…加（插图）"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "v",
+      "tran_cn": "（用示例/图画等）说明，插图于…",
+      "tran_en": "to make the meaning of something clearer by giving examples"
+    },
+    {
+      "pos": "vt",
+      "tran_cn": " 说明， 阐明； 给…作插图说明",
+      "tran_en": "to make the meaning of something clearer by giving examples"
+    }
+  ],
+  "exchange": {
+    "third": [
+      "illustrates"
+    ],
+    "past": [
+      "illustrated"
+    ],
+    "done": [
+      "illustrated"
+    ],
+    "ing": [
+      "illustrating"
+    ]
+  }
+}

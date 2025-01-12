@@ -1,0 +1,195 @@
+{
+  "word": "farmer",
+  "ipa": {
+    "us": "ˈfɑːmə(r)",
+    "uk": "ˈfɑːrmər"
+  },
+  "sentences": [
+    {
+      "en": "A farmer is entitled to a certain particularized tax treatment.",
+      "cn": "农民能够得到某种具体的税收待遇。"
+    },
+    {
+      "en": "A succession of bad harvest had reduced the small farmer to penury.",
+      "cn": "连续歉收使得这个小农场主陷入了贫困境地."
+    },
+    {
+      "en": "As a farmer, you should learn how to yoke the oxen together.",
+      "cn": "作为农民，你应该学会怎样把一对牛用轭连起来。"
+    },
+    {
+      "en": "At first glance, organic farming looks much more expensive for the farmer.",
+      "cn": "乍一看，有机耕作对农民而言似乎花费大多了。"
+    },
+    {
+      "en": "Every farmer knows how to yoke the oxen together.",
+      "cn": "每个家民都知道怎样把牛拴在一起."
+    },
+    {
+      "en": "He has been a farmer for 40 years , man and boy.",
+      "cn": "他从小到大当了40年的农民."
+    },
+    {
+      "en": "I have subleased a plot from the farmer.",
+      "cn": "我从农民那里租下了一小块地。"
+    },
+    {
+      "en": "Lambing is the climax of the sheep farmer's year.",
+      "cn": "一年之中，产羔期最令羊农高兴。"
+    },
+    {
+      "en": "She bought a bushel of apples from the farmer.",
+      "cn": "她从农民那里买来一蒲式耳的苹果."
+    },
+    {
+      "en": "She dickered with the farmer for the best fruit.",
+      "cn": "她要买最好的水果而跟农民讨价还价。"
+    },
+    {
+      "en": "The cagey fox could not be easily trapped by the farmer.",
+      "cn": "那只狡猾的狐狸不会轻易落入农夫的陷阱."
+    },
+    {
+      "en": "The farmer cut at the snake with a stick.",
+      "cn": "这个农夫用棍子使劲打蛇."
+    },
+    {
+      "en": "The farmer felt the cow, went away, returned, sorely perplexed, always afraid of being cheated.",
+      "cn": "那农民摸摸那头牛, 走了又回来, 犹豫不决, 总怕上当受骗."
+    },
+    {
+      "en": "The farmer has grown the seed a big tree.",
+      "cn": "这个农民种下的种子长成了大树."
+    },
+    {
+      "en": "The farmer has just bought a new piece of land.",
+      "cn": "这位农民刚刚又买了一块地."
+    },
+    {
+      "en": "The farmer peddled his fruit from house to house.",
+      "cn": "那个农民挨家挨户兜售他的水果。"
+    },
+    {
+      "en": "The farmer saw the boys off with a heavy stick.",
+      "cn": "农夫用一根粗棒赶走了那些男孩."
+    },
+    {
+      "en": "The farmer shot two crows and strung them on the fence.",
+      "cn": "这位农夫打死了两只乌鸦,挂在篱笆上."
+    },
+    {
+      "en": "Thieves carried off the farmer's sheep during the night.",
+      "cn": "晚上,小偷把农民的羊掠走了."
+    }
+  ],
+  "rel_words": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "word": "farm",
+          "tran_cn": " 农场；农家；畜牧场"
+        },
+        {
+          "word": "farming",
+          "tran_cn": " 农业，耕作"
+        }
+      ]
+    },
+    {
+      "pos": "v",
+      "words": [
+        {
+          "word": "farming",
+          "tran_cn": " 耕种；出租（farm的ing形式）"
+        }
+      ]
+    },
+    {
+      "pos": "vi",
+      "words": [
+        {
+          "word": "farm",
+          "tran_cn": " 种田，务农；经营农场"
+        }
+      ]
+    },
+    {
+      "pos": "vt",
+      "words": [
+        {
+          "word": "farm",
+          "tran_cn": " 养殖；耕种；佃出（土地）"
+        }
+      ]
+    }
+  ],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "agriculturalist",
+            "agronomist",
+            "cultivator",
+            "granger",
+            "husbandman",
+            "landsman",
+            "planter",
+            "ploughboy",
+            "ploughman",
+            "sodbuster",
+            "yeoman"
+          ],
+          "tran_cn": "农夫"
+        },
+        {
+          "words": [
+            "collector",
+            "publican",
+            "revenuer",
+            "tax"
+          ],
+          "tran_cn": "收税人员"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "countryman",
+            "peasant",
+            "provincial"
+          ],
+          "tran_cn": "其他释义"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dairy farmer",
+      "tran_cn": "奶农；畜牧工人"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "农民，农场主",
+      "tran_en": "someone who owns or manages a farm"
+    },
+    {
+      "pos": "other",
+      "tran_cn": "农民",
+      "tran_en": "someone who owns or manages a farm"
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "farmers"
+    ]
+  }
+}

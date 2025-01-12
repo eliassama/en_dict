@@ -1,0 +1,205 @@
+{
+  "word": "batch",
+  "ipa": {
+    "us": "bætʃ",
+    "uk": "bætʃ"
+  },
+  "sentences": [
+    {
+      "en": "A batch of rolled steel was allocated to us.",
+      "cn": "调来一批钢材."
+    },
+    {
+      "en": "A series of batch biological reactors are used.",
+      "cn": "可用一组间歇式生物反应器."
+    },
+    {
+      "en": "an overnight batch file",
+      "cn": "夜间批处理文件"
+    },
+    {
+      "en": "Batch is the mixture of weighed materials carefully blended.",
+      "cn": "配合料是一种将已称量原料仔细混合而成的混合物."
+    },
+    {
+      "en": "Every day another batch of papers reaches the manager, demanding his attention.",
+      "cn": "每天都有一批新的文件交到经理手里，要他处理。"
+    },
+    {
+      "en": "He drops an impressive - looking batch of cards down on the desk.",
+      "cn": "他把一叠厚厚的卡片扔在书桌上."
+    },
+    {
+      "en": "He has written a batch of very samey tunes.",
+      "cn": "他写了一组非常单调枯燥的曲子。"
+    },
+    {
+      "en": "He received a batch of telegrams.",
+      "cn": "他收到一批电报."
+    },
+    {
+      "en": "Here comes a fresh batch of visitors.",
+      "cn": "新到了一批来访者."
+    },
+    {
+      "en": "I have a batch of letters to answer.",
+      "cn": "我有一批信要回复."
+    },
+    {
+      "en": "She brought a large batch of newspaper cuttings.",
+      "cn": "她带来了一大堆剪报。"
+    },
+    {
+      "en": "She made a batch of her special oatmeal cookies.",
+      "cn": "她烤制了一炉拿手的燕麦甜饼."
+    },
+    {
+      "en": "Single - wafer processes use higher pressures than the batch processes.",
+      "cn": "单片工艺比多片工艺要用较高的压力."
+    },
+    {
+      "en": "The cost is not sensitive to the batch size.",
+      "cn": "价格不因整批尺寸的变化而发生波动."
+    },
+    {
+      "en": "The factory has already phased out a batch of production equipment.",
+      "cn": "这家工厂已经淘汰了一批生产设备."
+    },
+    {
+      "en": "This batch of products is well made.",
+      "cn": "这批活儿做得好."
+    },
+    {
+      "en": "We baked a batch of rolls.",
+      "cn": "我们烘了一炉面包卷."
+    }
+  ],
+  "rel_words": [],
+  "synos": [
+    {
+      "pos": "n",
+      "words": [
+        {
+          "words": [
+            "passel"
+          ],
+          "tran_cn": "一批；一炉；一次所制之量"
+        }
+      ]
+    },
+    {
+      "pos": "other",
+      "words": [
+        {
+          "words": [
+            "bunch",
+            "cluster",
+            "mass",
+            "nest",
+            "selection"
+          ],
+          "tran_cn": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a batch of",
+      "tran_cn": "一批"
+    },
+    {
+      "phrase": "batch annealing",
+      "tran_cn": "分批退火，箱式炉退火"
+    },
+    {
+      "phrase": "batch control",
+      "tran_cn": "批量控制，成批控制"
+    },
+    {
+      "phrase": "batch culture",
+      "tran_cn": "分批培养物"
+    },
+    {
+      "phrase": "batch distillation",
+      "tran_cn": "分批蒸馏；间歇式蒸馏"
+    },
+    {
+      "phrase": "batch file",
+      "tran_cn": "[计]批处理文件"
+    },
+    {
+      "phrase": "batch job",
+      "tran_cn": "[计]成批作业"
+    },
+    {
+      "phrase": "batch manufacturing",
+      "tran_cn": "批量生产"
+    },
+    {
+      "phrase": "batch mode",
+      "tran_cn": "批处理模式；成批处理方式"
+    },
+    {
+      "phrase": "batch number",
+      "tran_cn": "批号；批数"
+    },
+    {
+      "phrase": "batch operation",
+      "tran_cn": "分批操作；成批操作"
+    },
+    {
+      "phrase": "batch process",
+      "tran_cn": "分批工艺，分批法；批流程"
+    },
+    {
+      "phrase": "batch processing",
+      "tran_cn": "成批处理；整批处理；分批加工"
+    },
+    {
+      "phrase": "batch production",
+      "tran_cn": "批量生产；成批生产；间歇生产"
+    },
+    {
+      "phrase": "batch quantity",
+      "tran_cn": "批量；批次数量"
+    },
+    {
+      "phrase": "batch size",
+      "tran_cn": "批量大小"
+    },
+    {
+      "phrase": "batch test",
+      "tran_cn": "批量试验"
+    },
+    {
+      "phrase": "first batch",
+      "tran_cn": "首批"
+    },
+    {
+      "phrase": "master batch",
+      "tran_cn": "母料"
+    },
+    {
+      "phrase": "production batch",
+      "tran_cn": "生产批次"
+    }
+  ],
+  "trans": [
+    {
+      "pos": "n",
+      "tran_cn": "一批",
+      "tran_en": "a group of people or things that arrive or are dealt with together"
+    },
+    {
+      "pos": "v",
+      "tran_cn": "分批处理",
+      "tran_en": "to group (items) for efficient processing "
+    }
+  ],
+  "exchange": {
+    "pl": [
+      "batches"
+    ]
+  }
+}
